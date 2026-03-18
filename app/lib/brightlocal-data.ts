@@ -2,6 +2,20 @@ import { readFileSync, existsSync } from "fs";
 import { join } from "path";
 import projects from "../data/projects.json";
 
+export interface CitationReport {
+  reportId: number;
+  reportName: string;
+  locationId: number;
+  city: string;
+  address: string;
+  postcode: string;
+  liveCitations: number;
+  citationsChange: number;
+  totalSources: number;
+  lastRun: string;
+  schedule: string;
+}
+
 export interface BrightLocalLocation {
   locationId: number;
   locationName: string;
@@ -128,6 +142,9 @@ export function getBrightLocalSummary(projectId: string) {
 
   const totalReviews = locations.reduce((s, l) => s + (l.rmTotal || 0), 0);
 
+  // Load citation reports matched by locationId
+  const citations = getCitationsForLocations(locations.map((l) => l.locationId));
+
   return {
     locationCount: locations.length,
     locations,
@@ -140,5 +157,22 @@ export function getBrightLocalSummary(projectId: string) {
     avgLsgRank: Math.round(avgLsgRank * 10) / 10,
     reviewRating: Math.round(reviewRating * 10) / 10,
     totalReviews,
+    citations,
   };
+}
+
+let cachedCitations: CitationReport[] | null = null;
+
+function loadAllCitations(): CitationReport[] {
+  if (cachedCitations) return cachedCitations;
+  const filePath = join(process.cwd(), "app", "data", "brightlocal-citations.json");
+  if (!existsSync(filePath)) return [];
+  cachedCitations = JSON.parse(readFileSync(filePath, "utf-8"));
+  return cachedCitations!;
+}
+
+function getCitationsForLocations(locationIds: number[]): CitationReport[] {
+  const allCitations = loadAllCitations();
+  const idSet = new Set(locationIds);
+  return allCitations.filter((c) => idSet.has(c.locationId));
 }

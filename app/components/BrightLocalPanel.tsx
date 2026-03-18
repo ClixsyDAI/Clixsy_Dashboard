@@ -22,6 +22,18 @@ interface BrightLocalLocation {
   gmbTotal: number;
 }
 
+interface CitationReport {
+  reportId: number;
+  reportName: string;
+  locationId: number;
+  city: string;
+  address: string;
+  liveCitations: number;
+  citationsChange: number;
+  totalSources: number;
+  lastRun: string;
+}
+
 interface BrightLocalPanelProps {
   locationCount: number;
   locations: BrightLocalLocation[];
@@ -34,6 +46,7 @@ interface BrightLocalPanelProps {
   avgLsgRank: number;
   reviewRating: number;
   totalReviews: number;
+  citations: CitationReport[];
 }
 
 function ChangeIndicator({ value, inverse = false }: { value: number; inverse?: boolean }) {
@@ -60,6 +73,7 @@ export default function BrightLocalPanel({
   avgLsgRank,
   reviewRating,
   totalReviews,
+  citations,
 }: BrightLocalPanelProps) {
   return (
     <div>
@@ -167,6 +181,63 @@ export default function BrightLocalPanel({
           </table>
         </div>
       </div>
+
+      {/* Citation Reports Table */}
+      {citations.length > 0 && (
+        <div className="mt-8">
+          <h3 className="text-sm font-semibold tracking-wide" style={{ color: "#f0ede8" }}>
+            CITATION TRACKER
+          </h3>
+          <div className="mt-1 h-[1px] w-full" style={{ backgroundColor: "#333" }} />
+          <div className="mt-2 overflow-x-auto">
+            <table className="w-full text-left text-sm">
+              <thead>
+                <tr style={{ backgroundColor: "#1a1a1a" }}>
+                  <Th>Report</Th>
+                  <Th>City</Th>
+                  <Th>Address</Th>
+                  <Th className="text-center">Live Citations</Th>
+                  <Th className="text-center">Change</Th>
+                  <Th className="text-center">Total Sources</Th>
+                  <Th>Last Run</Th>
+                </tr>
+              </thead>
+              <tbody>
+                {citations.map((c, i) => (
+                  <tr
+                    key={c.reportId}
+                    style={{ backgroundColor: i % 2 === 0 ? "#111111" : "#1a1a1a" }}
+                  >
+                    <td className="px-3 py-2 font-medium" style={{ color: "#f0ede8", maxWidth: 250 }}>
+                      <div className="truncate" title={c.reportName}>{c.reportName}</div>
+                    </td>
+                    <td className="px-3 py-2 text-xs" style={{ color: "#888" }}>{c.city}</td>
+                    <td className="px-3 py-2 text-xs" style={{ color: "#666", maxWidth: 200 }}>
+                      <div className="truncate">{c.address}</div>
+                    </td>
+                    <td className="px-3 py-2 text-center font-bold" style={{ color: "#C8A882" }}>
+                      {c.liveCitations}
+                    </td>
+                    <td className="px-3 py-2 text-center">
+                      {c.citationsChange > 0 ? (
+                        <span style={{ color: "#2d6a4f" }}>+{c.citationsChange}</span>
+                      ) : c.citationsChange < 0 ? (
+                        <span style={{ color: "#e74c3c" }}>{c.citationsChange}</span>
+                      ) : (
+                        <span style={{ color: "#666" }}>-</span>
+                      )}
+                    </td>
+                    <td className="px-3 py-2 text-center" style={{ color: "#888" }}>{c.totalSources}</td>
+                    <td className="px-3 py-2 text-xs" style={{ color: "#666" }}>
+                      {c.lastRun ? new Date(c.lastRun).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" }) : "-"}
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      )}
     </div>
   );
 }
