@@ -358,7 +358,7 @@ export default function AISummaryTab(props: AISummaryTabProps) {
   return (
     <div className="space-y-5">
       {/* Client Context Bar */}
-      <div className="flex flex-wrap items-center gap-4 text-sm" style={{ color: "#888" }}>
+      <div className="flex flex-wrap items-center gap-4 text-base" style={{ color: "#888" }}>
         <span>Total tasks: <strong style={{ color: "#f0ede8" }}>{props.todos.length}</strong></span>
         {props.blLocations && props.blLocations > 0 && (
           <span>Locations: <strong style={{ color: "#f0ede8" }}>{props.blLocations}</strong></span>
@@ -407,7 +407,7 @@ export default function AISummaryTab(props: AISummaryTabProps) {
             <span className="text-3xl font-bold" style={{ color: healthScore.color }}>{healthScore.overall}</span>
           </div>
         </div>
-        <span className="mt-2 text-sm font-semibold" style={{ color: healthScore.color }}>
+        <span className="mt-2 text-base font-semibold" style={{ color: healthScore.color }}>
           Account Health: {healthScore.label}
         </span>
         <div className="mt-3 flex flex-wrap justify-center gap-2">
@@ -449,7 +449,7 @@ export default function AISummaryTab(props: AISummaryTabProps) {
       <div className="grid grid-cols-1 gap-4 md:grid-cols-2">
         {/* Wins */}
         <div className="rounded-sm p-4" style={{ backgroundColor: "#111" }}>
-          <h3 className="text-sm font-semibold tracking-widest uppercase mb-3" style={{ color: "#2d6a4f" }}>
+          <h3 className="text-base font-semibold tracking-widest uppercase mb-3" style={{ color: "#2d6a4f" }}>
             Top Wins This Period
           </h3>
           {wins.length > 0 ? wins.map((w, i) => (
@@ -460,7 +460,7 @@ export default function AISummaryTab(props: AISummaryTabProps) {
         </div>
         {/* Flags */}
         <div className="rounded-sm p-4" style={{ backgroundColor: "#111" }}>
-          <h3 className="text-sm font-semibold tracking-widest uppercase mb-3" style={{ color: "#e74c3c" }}>
+          <h3 className="text-base font-semibold tracking-widest uppercase mb-3" style={{ color: "#e74c3c" }}>
             Flags &amp; Watch Items
           </h3>
           {flags.length > 0 ? flags.map((f, i) => (
@@ -473,11 +473,11 @@ export default function AISummaryTab(props: AISummaryTabProps) {
 
       {/* Section 5: Work Summary */}
       <div className="rounded-sm p-4" style={{ backgroundColor: "#111" }}>
-        <h3 className="text-sm font-semibold tracking-widest uppercase mb-3" style={{ color: "#f0ede8" }}>
+        <h3 className="text-base font-semibold tracking-widest uppercase mb-3" style={{ color: "#f0ede8" }}>
           Work Completed This Period
         </h3>
         <div className="flex flex-wrap items-center gap-4 mb-3">
-          <span className="text-sm" style={{ color: "#f0ede8" }}>
+          <span className="text-base" style={{ color: "#f0ede8" }}>
             <strong>{completedInPeriod.length}</strong> tasks completed across <strong>{categories.length}</strong> work categories
           </span>
         </div>
@@ -488,7 +488,7 @@ export default function AISummaryTab(props: AISummaryTabProps) {
               const pct = completedInPeriod.length > 0 ? (c.count / completedInPeriod.length) * 100 : 0;
               return (
                 <div key={c.name} className="flex items-center gap-2">
-                  <span className="text-sm w-40 truncate" style={{ color: "#888" }}>{c.name}</span>
+                  <span className="text-sm w-44 truncate" style={{ color: "#888" }}>{c.name}</span>
                   <div className="flex-1 h-3 rounded-sm overflow-hidden" style={{ backgroundColor: "#1a1a1a" }}>
                     <div className="h-full rounded-sm" style={{ width: `${pct}%`, backgroundColor: "#C8A882", transition: "width 0.3s" }} />
                   </div>
@@ -552,7 +552,7 @@ export default function AISummaryTab(props: AISummaryTabProps) {
 
       {/* Section 6: Coming Up Next */}
       <div className="rounded-sm p-4" style={{ backgroundColor: "#111" }}>
-        <h3 className="text-sm font-semibold tracking-widest uppercase mb-3" style={{ color: "#f0ede8" }}>
+        <h3 className="text-base font-semibold tracking-widest uppercase mb-3" style={{ color: "#f0ede8" }}>
           Coming Up Next
         </h3>
         {computed.upcoming.length > 0 ? (
@@ -562,7 +562,7 @@ export default function AISummaryTab(props: AISummaryTabProps) {
               return (
                 <div key={t.id} className="flex items-center gap-3 py-1.5 px-2 rounded-sm" style={{ backgroundColor: "#1a1a1a" }}>
                   <span className="inline-block h-2 w-2 rounded-full" style={{ backgroundColor: isOverdue ? "#e74c3c" : "#C8A882" }} />
-                  <span className="flex-1 text-sm truncate" style={{ color: "#f0ede8" }}>{stripHtml(t.title)}</span>
+                  <span className="flex-1 text-base truncate" style={{ color: "#f0ede8" }}>{stripHtml(t.title)}</span>
                   <span className="text-sm" style={{ color: "#888" }}>{t.assignees?.split(",")[0]}</span>
                   <span className="text-sm whitespace-nowrap" style={{ color: isOverdue ? "#e74c3c" : "#888" }}>
                     {t.due_on ? new Date(t.due_on).toLocaleDateString("en-US", { month: "short", day: "numeric" }) : "No date"}
@@ -614,7 +614,7 @@ export default function AISummaryTab(props: AISummaryTabProps) {
           </button>
           {showFullReport && (
             <div className="px-4 pb-4">
-              <div className="text-sm leading-relaxed" style={{ color: "#ccc" }}
+              <div className="text-base leading-relaxed" style={{ color: "#ccc" }}
                 dangerouslySetInnerHTML={{ __html: renderMarkdown(aiData.aiSummary) }} />
             </div>
           )}
@@ -633,7 +633,7 @@ function MetricCard({ label, value, change, sparkData, accent, valueColor, prefi
   return (
     <div className="rounded-sm p-3 flex flex-col items-center" style={{ backgroundColor: "#111" }}>
       <div className="flex items-baseline gap-1.5">
-        <span className="text-xl font-bold" style={{ color: valueColor || (accent ? "#C8A882" : "#fff") }}>
+        <span className="text-2xl font-bold" style={{ color: valueColor || (accent ? "#C8A882" : "#fff") }}>
           {prefix}{value.toLocaleString()}
         </span>
         {change !== null && change !== undefined && (
@@ -647,7 +647,7 @@ function MetricCard({ label, value, change, sparkData, accent, valueColor, prefi
           <Sparkline data={sparkData} color={accent ? "#C8A882" : "#555"} width={60} height={16} />
         </div>
       )}
-      <span className="mt-1 text-sm tracking-widest uppercase" style={{ color: "#666" }}>{label}</span>
+      <span className="mt-1.5 text-xs tracking-widest uppercase" style={{ color: "#666" }}>{label}</span>
     </div>
   );
 }
@@ -656,15 +656,15 @@ function ItemCard({ item, type }: { item: DetectedItem; type: "win" | "flag" }) 
   const color = type === "win" ? "#2d6a4f" : item.severity === "high" ? "#e74c3c" : "#C8A882";
   const badges: Record<string, string> = { Basecamp: "#444", GSC: "#1a73e8", GA4: "#e37400", BrightLocal: "#34a853" };
   return (
-    <div className="mb-2 rounded-sm p-2.5" style={{ backgroundColor: "#1a1a1a", borderLeft: `3px solid ${color}` }}>
+    <div className="mb-2.5 rounded-sm p-3" style={{ backgroundColor: "#1a1a1a", borderLeft: `3px solid ${color}` }}>
       <div className="flex items-start justify-between gap-2">
-        <span className="text-sm font-medium" style={{ color: "#f0ede8" }}>{item.title}</span>
-        <span className="text-sm px-1.5 py-0.5 rounded-sm whitespace-nowrap"
+        <span className="text-base font-medium" style={{ color: "#f0ede8" }}>{item.title}</span>
+        <span className="text-xs px-1.5 py-0.5 rounded-sm whitespace-nowrap"
           style={{ backgroundColor: badges[item.source] || "#333", color: "#fff" }}>
           {item.source}
         </span>
       </div>
-      <p className="mt-0.5 text-sm" style={{ color: "#888" }}>{item.detail}</p>
+      <p className="mt-1 text-sm" style={{ color: "#999" }}>{item.detail}</p>
     </div>
   );
 }
@@ -680,11 +680,11 @@ function extractRecommendations(md: string): string {
 function renderMarkdown(md: string): string {
   if (!md) return "";
   return md
-    .replace(/^## (.*$)/gm, '<h2 style="color:#f0ede8;font-size:16px;font-weight:700;margin-top:16px;margin-bottom:6px">$1</h2>')
-    .replace(/^### (.*$)/gm, '<h3 style="color:#C8A882;font-size:14px;font-weight:600;margin-top:12px;margin-bottom:4px">$1</h3>')
+    .replace(/^## (.*$)/gm, '<h2 style="color:#f0ede8;font-size:18px;font-weight:700;margin-top:20px;margin-bottom:8px">$1</h2>')
+    .replace(/^### (.*$)/gm, '<h3 style="color:#C8A882;font-size:16px;font-weight:600;margin-top:14px;margin-bottom:6px">$1</h3>')
     .replace(/\*\*(.*?)\*\*/g, '<strong style="color:#f0ede8">$1</strong>')
-    .replace(/^- (.*$)/gm, '<li style="margin-left:16px;margin-bottom:3px;list-style-type:disc;color:#ccc;font-size:14px">$1</li>')
-    .replace(/^\d+\. (.*$)/gm, '<li style="margin-left:16px;margin-bottom:3px;list-style-type:decimal;color:#ccc;font-size:14px">$1</li>')
+    .replace(/^- (.*$)/gm, '<li style="margin-left:16px;margin-bottom:4px;list-style-type:disc;color:#ccc;font-size:15px">$1</li>')
+    .replace(/^\d+\. (.*$)/gm, '<li style="margin-left:16px;margin-bottom:4px;list-style-type:decimal;color:#ccc;font-size:15px">$1</li>')
     .replace(/\n\n/g, '<br/><br/>')
     .replace(/\n/g, '<br/>');
 }
