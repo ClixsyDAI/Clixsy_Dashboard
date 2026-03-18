@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Overview Dashboard | J153 Sunset Heating",
-  description: "Client workbook overview dashboard for J153 Sunset Heating — task status, impact analysis, and activity tracking.",
+  title: "Client Workbook Dashboard | CLIXSY",
+  description: "Multi-client workbook dashboard — task status, impact analysis, and activity tracking across all projects.",
 };
 
 export default function RootLayout({

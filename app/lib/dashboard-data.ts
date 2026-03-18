@@ -1,4 +1,5 @@
-import rawTodos from "../data/bc_raw_todos.json";
+import { existsSync, readFileSync } from "fs";
+import { join } from "path";
 
 export interface Todo {
   id: number;
@@ -21,40 +22,37 @@ export interface ScoredTodo extends Todo {
   impact_rationale: string;
 }
 
+export interface CategoryData {
+  name: string;
+  completed: number;
+  outstanding: number;
+}
+
+export interface CommentData {
+  name: string;
+  comments: number;
+}
+
+export interface TimelineData {
+  month: string;
+  completed: number;
+}
+
 const HIGH_IMPACT_KEYWORDS = [
-  "homepage",
-  "sitewide",
-  "site-wide",
-  "all pages",
-  "all forms",
-  "tracking",
-  "conversion",
-  "lead",
-  "form",
-  "booking",
-  "schedule",
-  "phone number",
-  "call tracking",
-  "chatbot",
-  "review",
-  "gbp",
-  "google business",
-  "schema",
-  "restructur",
-  "pruning",
-  "redirect",
-  "301",
-  "meta title",
-  "meta description",
-  "h1",
-  "url restructure",
-  "compliance",
-  "tcr",
+  "homepage", "sitewide", "site-wide", "all pages", "all forms",
+  "tracking", "conversion", "lead", "form", "booking", "schedule",
+  "phone number", "call tracking", "chatbot", "review", "gbp",
+  "google business", "schema", "restructur", "pruning", "redirect",
+  "301", "meta title", "meta description", "h1", "url restructure",
+  "compliance", "tcr",
 ];
 
 function stripHtml(text: string): string {
   if (!text) return "";
-  let cleaned = text.replace(new RegExp("<bc-attachment[^>]*>.*?</bc-attachment>", "gs"), "");
+  let cleaned = text.replace(
+    new RegExp("<bc-attachment[^>]*>.*?</bc-attachment>", "gs"),
+    ""
+  );
   cleaned = cleaned.replace(/<[^>]+>/g, " ");
   cleaned = cleaned
     .replace(/&amp;/g, "&")
@@ -70,7 +68,9 @@ function stripHtml(text: string): string {
 function computeImpactScore(todo: Todo): { score: number; rationale: string } {
   let score = 0;
   const reasons: string[] = [];
-  const combined = `${(todo.title || "").toLowerCase()} ${stripHtml(todo.description || "").toLowerCase()} ${(todo.list_title || "").toLowerCase()}`;
+  const combined = `${(todo.title || "").toLowerCase()} ${stripHtml(
+    todo.description || ""
+  ).toLowerCase()} ${(todo.list_title || "").toLowerCase()}`;
 
   const highMatches = HIGH_IMPACT_KEYWORDS.filter((kw) =>
     combined.includes(kw)
@@ -175,8 +175,28 @@ function truncate(text: string, maxLen: number = 80): string {
   return text.substring(0, maxLen - 3) + "...";
 }
 
-export function getDashboardData() {
-  const todos = rawTodos as Todo[];
+export function loadClientTodos(projectId: string): Todo[] | null {
+  const filePath = join(
+    process.cwd(),
+    "app",
+    "data",
+    "clients",
+    `${projectId}.json`
+  );
+  if (!existsSync(filePath)) {
+    return null;
+  }
+  const raw = readFileSync(filePath, "utf-8");
+  return JSON.parse(raw) as Todo[];
+}
+
+export function getDashboardData(projectId: string, clientName: string) {
+  const todos = loadClientTodos(projectId);
+
+  if (!todos || todos.length === 0) {
+    return null;
+  }
+
   const now = new Date();
   const cutoff = new Date(now.getTime() - 30 * 24 * 60 * 60 * 1000);
 
@@ -217,6 +237,70 @@ export function getDashboardData() {
       impact_rationale: truncate(t.impact_rationale, 80),
     }));
 
+  // Category data for bar chart
+  const categoryMap = new Map<
+    string,
+    { completed: number; outstanding: number }
+  >();
+  todos.forEach((t) => {
+    const cat = cleanListTitle(t.list_title);
+    if (!categoryMap.has(cat)) {
+      categoryMap.set(cat, { completed: 0, outstanding: 0 });
+    }
+    const entry = categoryMap.get(cat)!;
+    if (t.completed) {
+      entry.completed++;
+    } else {
+      entry.outstanding++;
+    }
+  });
+  const categoryData: CategoryData[] = Array.from(categoryMap.entries())
+    .map(([name, counts]) => ({
+      name: truncate(name, 30),
+      completed: counts.completed,
+      outstanding: counts.outstanding,
+    }))
+    .sort(
+      (a, b) =>
+        b.completed + b.outstanding - (a.completed + a.outstanding)
+    );
+
+  // Comment activity data for horizontal bar chart
+  const commentData: CommentData[] = [...todos]
+    .sort((a, b) => (b.comments_count || 0) - (a.comments_count || 0))
+    .slice(0, 10)
+    .filter((t) => t.comments_count > 0)
+    .map((t) => ({
+      name: truncate(stripHtml(t.title), 40),
+      comments: t.comments_count,
+    }));
+
+  // Timeline data
+  const monthMap = new Map<string, number>();
+  allCompleted.forEach((t) => {
+    if (t.completed_on) {
+      const d = new Date(t.completed_on);
+      const key = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(
+        2,
+        "0"
+      )}`;
+      monthMap.set(key, (monthMap.get(key) || 0) + 1);
+    }
+  });
+  const timelineData: TimelineData[] = Array.from(monthMap.entries())
+    .sort(([a], [b]) => a.localeCompare(b))
+    .map(([month, completed]) => {
+      const [y, m] = month.split("-");
+      const date = new Date(parseInt(y), parseInt(m) - 1);
+      return {
+        month: date.toLocaleDateString("en-US", {
+          month: "short",
+          year: "2-digit",
+        }),
+        completed,
+      };
+    });
+
   const periodStart = cutoff.toLocaleDateString("en-US", {
     month: "short",
     day: "numeric",
@@ -239,8 +323,7 @@ export function getDashboardData() {
   const uniqueLists = new Set(todos.map((t) => t.list_title)).size;
 
   return {
-    clientName: "J153 Sunset Heating",
-    clientDomain: "sunsethc.com",
+    clientName,
     periodStart,
     periodEnd,
     lastRefreshed,
@@ -252,5 +335,8 @@ export function getDashboardData() {
     topCommented,
     topImpact,
     uniqueLists,
+    categoryData,
+    commentData,
+    timelineData,
   };
 }
