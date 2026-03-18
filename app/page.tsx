@@ -2,6 +2,8 @@ import { existsSync } from "fs";
 import { join } from "path";
 import projects from "./data/projects.json";
 import ClientGrid from "./components/ClientGrid";
+import SyncControls from "./components/SyncControls";
+import AuthCallbackBanner from "./components/AuthCallbackBanner";
 
 interface ProjectMeta {
   id: number;
@@ -25,6 +27,9 @@ export default function Home() {
   return (
     <div className="min-h-screen" style={{ backgroundColor: "#0a0a0a" }}>
       <div className="mx-auto max-w-[1400px] px-6 py-8">
+        {/* Auth callback banner */}
+        <AuthCallbackBanner />
+
         {/* Header */}
         <header className="mb-2">
           <div className="flex items-center gap-4">
@@ -47,6 +52,10 @@ export default function Home() {
               </p>
             </div>
           </div>
+
+          {/* Basecamp sync controls */}
+          <SyncControls />
+
           <div
             className="mt-4 h-[2px] w-full"
             style={{ backgroundColor: "#c8a882" }}
