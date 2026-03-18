@@ -6,6 +6,7 @@ import { loadGscData, loadGa4Data } from "../../lib/google-data";
 import ClientDashboardCharts from "../../components/ClientDashboardCharts";
 import GoogleSearchCharts from "../../components/GoogleSearchCharts";
 import DashboardTabs from "../../components/DashboardTabs";
+import AISummaryTab from "../../components/AISummaryTab";
 import ProjectLogTable from "../../components/ProjectLogTable";
 import BrightLocalPanel from "../../components/BrightLocalPanel";
 import { getBrightLocalSummary } from "../../lib/brightlocal-data";
@@ -29,6 +30,7 @@ export default async function ClientDashboard({ params }: PageProps) {
   const blData = getBrightLocalSummary(id);
 
   const tabs = [
+    { id: "ai-report", label: "AI Report" },
     { id: "overview", label: "Overview" },
     { id: "project-log", label: "Project Log" },
     ...(gscData || ga4Data ? [{ id: "search", label: "Search Performance" }] : []),
@@ -111,6 +113,11 @@ export default async function ClientDashboard({ params }: PageProps) {
           </div>
         ) : (
           <DashboardTabs tabs={tabs}>
+            {/* ── TAB 0: AI REPORT ──────────────────────────── */}
+            <div>
+              <AISummaryTab projectId={id} projectName={project.name} />
+            </div>
+
             {/* ── TAB 1: OVERVIEW ────────────────────────────── */}
             <div>
               {/* KPI Cards */}
