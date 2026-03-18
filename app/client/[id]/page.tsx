@@ -38,10 +38,14 @@ export default async function ClientDashboard({ params }: PageProps) {
         <header className="mb-2">
           <Link
             href="/"
-            className="mb-4 inline-flex items-center gap-2 text-sm transition-colors hover:text-[#C8A882]"
-            style={{ color: "#888888" }}
+            className="mb-4 inline-flex items-center gap-2 text-sm transition-colors hover:opacity-80"
           >
-            &larr; All Clients
+            <img
+              src="https://res.cloudinary.com/dovgh19xr/image/upload/v1766427227/new_logo_nvrux0.svg"
+              alt="CLIXSY"
+              className="h-7 w-auto"
+            />
+            <span style={{ color: "#888888" }}>&larr; All Clients</span>
           </Link>
           <h1
             className="text-3xl font-bold tracking-wide uppercase"

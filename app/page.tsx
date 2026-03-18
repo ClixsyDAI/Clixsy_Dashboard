@@ -33,12 +33,11 @@ export default function Home() {
         {/* Header */}
         <header className="mb-2">
           <div className="flex items-center gap-4">
-            <div
-              className="flex h-10 w-10 items-center justify-center rounded-sm text-sm font-bold"
-              style={{ backgroundColor: "#C8A882", color: "#0a0a0a" }}
-            >
-              CX
-            </div>
+            <img
+              src="https://res.cloudinary.com/dovgh19xr/image/upload/v1766427227/new_logo_nvrux0.svg"
+              alt="CLIXSY"
+              className="h-10 w-auto"
+            />
             <div>
               <h1
                 className="text-3xl font-bold tracking-wide uppercase"
