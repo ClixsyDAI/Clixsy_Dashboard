@@ -1,0 +1,1350 @@
+{
+  "property": "https://www.fieldinglaw.com/",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 2866,
+    "impressions": 1977803,
+    "ctr": 0.0014490826437213414,
+    "position": 33.69599031708912
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 71,
+      "impressions": 30935,
+      "ctr": 0.0022951349604008403,
+      "position": 24.454404396314853
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 59,
+      "impressions": 31427,
+      "ctr": 0.0018773665956025073,
+      "position": 27.76991122283387
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 76,
+      "impressions": 25899,
+      "ctr": 0.0029344762346036526,
+      "position": 26.2579250164099
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 60,
+      "impressions": 31033,
+      "ctr": 0.0019334257081171655,
+      "position": 28.480585183514325
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 67,
+      "impressions": 31701,
+      "ctr": 0.002113497996908615,
+      "position": 29.920980410712595
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 37,
+      "impressions": 26293,
+      "ctr": 0.0014072186513520708,
+      "position": 27.748602289582777
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 35,
+      "impressions": 27612,
+      "ctr": 0.0012675648268868607,
+      "position": 28.68575257134579
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 53,
+      "impressions": 37790,
+      "ctr": 0.001402487430537179,
+      "position": 19.954591161682984
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 62,
+      "impressions": 30218,
+      "ctr": 0.0020517572307895957,
+      "position": 27.70663180885565
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 42,
+      "impressions": 30950,
+      "ctr": 0.00135702746365105,
+      "position": 31.957382875605816
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 30,
+      "impressions": 22909,
+      "ctr": 0.0013095290060674844,
+      "position": 28.62268104238509
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 45,
+      "impressions": 25173,
+      "ctr": 0.001787629603146228,
+      "position": 27.025582965876136
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 31,
+      "impressions": 24316,
+      "ctr": 0.0012748807369633163,
+      "position": 26.291371936173714
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 31,
+      "impressions": 25724,
+      "ctr": 0.0012051002954439434,
+      "position": 30.62136526201213
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 51,
+      "impressions": 24983,
+      "ctr": 0.0020413881439378776,
+      "position": 26.933674898931272
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 59,
+      "impressions": 31108,
+      "ctr": 0.0018966182332518966,
+      "position": 32.69178346406069
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 42,
+      "impressions": 30307,
+      "ctr": 0.0013858184577820306,
+      "position": 32.99861418154222
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 27,
+      "impressions": 33281,
+      "ctr": 0.0008112736997085425,
+      "position": 33.56049998497641
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 61,
+      "impressions": 28036,
+      "ctr": 0.002175774004850906,
+      "position": 29.52618062491083
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 36,
+      "impressions": 25512,
+      "ctr": 0.0014111006585136407,
+      "position": 30.554444967074318
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 45,
+      "impressions": 29280,
+      "ctr": 0.0015368852459016393,
+      "position": 30.787636612021856
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 67,
+      "impressions": 38163,
+      "ctr": 0.0017556271781568535,
+      "position": 26.13471163168514
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 53,
+      "impressions": 26649,
+      "ctr": 0.001988817591654471,
+      "position": 29.493827160493826
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 69,
+      "impressions": 42891,
+      "ctr": 0.0016087291040078337,
+      "position": 37.221864726865775
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 57,
+      "impressions": 44479,
+      "ctr": 0.0012815036309269544,
+      "position": 37.682119651970595
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 46,
+      "impressions": 48626,
+      "ctr": 0.0009459959692345659,
+      "position": 39.67344630444618
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 37,
+      "impressions": 37213,
+      "ctr": 0.0009942761938032407,
+      "position": 38.78652621395749
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 33,
+      "impressions": 39473,
+      "ctr": 0.0008360144909178426,
+      "position": 38.23851746763611
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 52,
+      "impressions": 30044,
+      "ctr": 0.00173079483424311,
+      "position": 31.41618958860338
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 64,
+      "impressions": 28768,
+      "ctr": 0.002224694104560623,
+      "position": 32.35525583982202
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 47,
+      "impressions": 31722,
+      "ctr": 0.0014816215875417692,
+      "position": 34.270159510749636
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 48,
+      "impressions": 23495,
+      "ctr": 0.002042987869759523,
+      "position": 29.983060225579912
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 42,
+      "impressions": 27590,
+      "ctr": 0.0015222906850308083,
+      "position": 35.65469372961218
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 40,
+      "impressions": 24302,
+      "ctr": 0.001645955065426714,
+      "position": 34.878693111678054
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 23,
+      "impressions": 28940,
+      "ctr": 0.0007947477539737387,
+      "position": 33.206738078783694
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 41,
+      "impressions": 25373,
+      "ctr": 0.0016158909076577465,
+      "position": 34.775588223702364
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 57,
+      "impressions": 24281,
+      "ctr": 0.00234751451752399,
+      "position": 35.18788353033236
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 37,
+      "impressions": 22756,
+      "ctr": 0.0016259448057655123,
+      "position": 37.21897521532782
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 28,
+      "impressions": 21847,
+      "ctr": 0.001281640499839795,
+      "position": 41.04233990936971
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 19,
+      "impressions": 17746,
+      "ctr": 0.0010706638115631692,
+      "position": 38.969852361095455
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 14,
+      "impressions": 17515,
+      "ctr": 0.0007993148729660291,
+      "position": 39.26691407365116
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 11,
+      "impressions": 29081,
+      "ctr": 0.0003782538427151749,
+      "position": 27.88697087445411
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 32,
+      "impressions": 20278,
+      "ctr": 0.0015780648979189268,
+      "position": 40.57416905020219
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 33,
+      "impressions": 23335,
+      "ctr": 0.001414184701092779,
+      "position": 35.97690164988215
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 27,
+      "impressions": 16649,
+      "ctr": 0.0016217190221634932,
+      "position": 43.436302480629465
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 29,
+      "impressions": 16667,
+      "ctr": 0.001739965200695986,
+      "position": 40.548989020219594
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 23,
+      "impressions": 18681,
+      "ctr": 0.0012311974733686633,
+      "position": 44.834644826294095
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 15,
+      "impressions": 18852,
+      "ctr": 0.000795671546785487,
+      "position": 41.45767027371101
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 10,
+      "impressions": 20035,
+      "ctr": 0.0004991265285749938,
+      "position": 41.20698777140005
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 25,
+      "impressions": 21725,
+      "ctr": 0.0011507479861910242,
+      "position": 40.145316455696204
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 31,
+      "impressions": 16832,
+      "ctr": 0.0018417300380228136,
+      "position": 41.82800617870723
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 27,
+      "impressions": 18659,
+      "ctr": 0.0014470228843989495,
+      "position": 41.60662414920414
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 25,
+      "impressions": 18950,
+      "ctr": 0.0013192612137203166,
+      "position": 40.18242744063325
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 26,
+      "impressions": 17157,
+      "ctr": 0.0015154164480969867,
+      "position": 41.753103689456196
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 13,
+      "impressions": 15430,
+      "ctr": 0.0008425145819831498,
+      "position": 35.7901490602722
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 19,
+      "impressions": 24863,
+      "ctr": 0.0007641877488637734,
+      "position": 31.280698226280016
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 31,
+      "impressions": 28206,
+      "ctr": 0.0010990569382400908,
+      "position": 33.58558462738424
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 26,
+      "impressions": 24396,
+      "ctr": 0.0010657484833579275,
+      "position": 34.92584849975406
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 24,
+      "impressions": 20926,
+      "ctr": 0.001146898595049221,
+      "position": 33.672990538086594
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 32,
+      "impressions": 20777,
+      "ctr": 0.0015401646050921692,
+      "position": 33.63940896183279
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 21,
+      "impressions": 14239,
+      "ctr": 0.0014748226701313295,
+      "position": 35.04824777020858
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 13,
+      "impressions": 14202,
+      "ctr": 0.0009153640332347557,
+      "position": 38.17187720039431
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 13,
+      "impressions": 15146,
+      "ctr": 0.0008583124257229631,
+      "position": 36.54430212597386
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 21,
+      "impressions": 17989,
+      "ctr": 0.0011673800655956417,
+      "position": 32.965756851409196
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 23,
+      "impressions": 15657,
+      "ctr": 0.001468991505396947,
+      "position": 37.182218815865106
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 20,
+      "impressions": 11055,
+      "ctr": 0.0018091361374943465,
+      "position": 36.466847580280415
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 25,
+      "impressions": 11282,
+      "ctr": 0.0022159191632689238,
+      "position": 34.091650416592806
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 29,
+      "impressions": 10981,
+      "ctr": 0.0026409252344959475,
+      "position": 36.823513341225755
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 5,
+      "impressions": 12124,
+      "ctr": 0.00041240514681623226,
+      "position": 35.667518970636756
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 11,
+      "impressions": 16342,
+      "ctr": 0.000673112226165708,
+      "position": 24.207808101823524
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 17,
+      "impressions": 11861,
+      "ctr": 0.001433268695725487,
+      "position": 34.60753730714105
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 26,
+      "impressions": 9918,
+      "ctr": 0.002621496269409155,
+      "position": 34.75499092558984
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 17,
+      "impressions": 9724,
+      "ctr": 0.0017482517482517483,
+      "position": 35.21955985191279
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 13,
+      "impressions": 11201,
+      "ctr": 0.0011606106597625212,
+      "position": 30.59762521203464
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 21,
+      "impressions": 10736,
+      "ctr": 0.0019560357675111775,
+      "position": 35.463301043219076
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 4,
+      "impressions": 10045,
+      "ctr": 0.00039820806371329017,
+      "position": 34.944549527127926
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 7,
+      "impressions": 12881,
+      "ctr": 0.0005434360686282121,
+      "position": 32.93750485210776
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 15,
+      "impressions": 15263,
+      "ctr": 0.0009827687872633166,
+      "position": 26.68118980541178
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 22,
+      "impressions": 11334,
+      "ctr": 0.0019410622904535027,
+      "position": 31.220928180695253
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 16,
+      "impressions": 12811,
+      "ctr": 0.0012489267036140817,
+      "position": 29.03637499024276
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 24,
+      "impressions": 11789,
+      "ctr": 0.002035796081092544,
+      "position": 32.42751717702943
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 22,
+      "impressions": 10909,
+      "ctr": 0.0020166834723622695,
+      "position": 35.23091025758548
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 13,
+      "impressions": 10295,
+      "ctr": 0.0012627489072365226,
+      "position": 32.459252064108796
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 10,
+      "impressions": 9419,
+      "ctr": 0.0010616838305552607,
+      "position": 31.108291750716635
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 26,
+      "impressions": 12885,
+      "ctr": 0.0020178502134264647,
+      "position": 34.5581684128832
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 17,
+      "impressions": 12117,
+      "ctr": 0.0014029875381695138,
+      "position": 35.66641908063052
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 20,
+      "impressions": 18965,
+      "ctr": 0.0010545742156604272,
+      "position": 23.45515423147904
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 13,
+      "impressions": 15955,
+      "ctr": 0.000814791601378878,
+      "position": 32.77768724537762
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 23,
+      "impressions": 12026,
+      "ctr": 0.0019125228671212373,
+      "position": 36.608930650257776
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 6,
+      "impressions": 10793,
+      "ctr": 0.0005559158713981284,
+      "position": 33.372741591772446
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "fielding law",
+      "clicks": 159,
+      "impressions": 1108,
+      "ctr": 0.14350180505415164,
+      "position": 3.1732851985559565
+    },
+    {
+      "query": "fielding law firm",
+      "clicks": 33,
+      "impressions": 387,
+      "ctr": 0.08527131782945736,
+      "position": 4.408268733850129
+    },
+    {
+      "query": "fielding law richardson",
+      "clicks": 24,
+      "impressions": 143,
+      "ctr": 0.16783216783216784,
+      "position": 6.146853146853147
+    },
+    {
+      "query": "auto accident litigation",
+      "clicks": 18,
+      "impressions": 575,
+      "ctr": 0.03130434782608696,
+      "position": 35.67304347826087
+    },
+    {
+      "query": "fielding law mesquite",
+      "clicks": 17,
+      "impressions": 62,
+      "ctr": 0.27419354838709675,
+      "position": 5.419354838709677
+    },
+    {
+      "query": "sigorta şirketi bana dava açtı",
+      "clicks": 17,
+      "impressions": 256,
+      "ctr": 0.06640625,
+      "position": 7.40625
+    },
+    {
+      "query": "fielding law auto accident attorneys",
+      "clicks": 15,
+      "impressions": 267,
+      "ctr": 0.056179775280898875,
+      "position": 6.97378277153558
+    },
+    {
+      "query": "fielding law texas",
+      "clicks": 14,
+      "impressions": 201,
+      "ctr": 0.06965174129353234,
+      "position": 16
+    },
+    {
+      "query": "fielding law group",
+      "clicks": 12,
+      "impressions": 599,
+      "ctr": 0.02003338898163606,
+      "position": 7.961602671118531
+    },
+    {
+      "query": "fielding law pllc",
+      "clicks": 10,
+      "impressions": 62,
+      "ctr": 0.16129032258064516,
+      "position": 1.3387096774193548
+    },
+    {
+      "query": "what happens if you hit a car and leave",
+      "clicks": 8,
+      "impressions": 278,
+      "ctr": 0.02877697841726619,
+      "position": 6.35251798561151
+    },
+    {
+      "query": "motorcycle accident attorney",
+      "clicks": 7,
+      "impressions": 90844,
+      "ctr": 0.000077055171502796,
+      "position": 45.55915635595086
+    },
+    {
+      "query": "2 cars back into each other in parking lot who is liable",
+      "clicks": 6,
+      "impressions": 208,
+      "ctr": 0.028846153846153848,
+      "position": 5.778846153846154
+    },
+    {
+      "query": "motorcycle accident lawyer",
+      "clicks": 6,
+      "impressions": 170051,
+      "ctr": 0.00003528353258728264,
+      "position": 45.31792227037771
+    },
+    {
+      "query": "my car was hit during a police chase uk",
+      "clicks": 6,
+      "impressions": 54,
+      "ctr": 0.1111111111111111,
+      "position": 3.388888888888889
+    },
+    {
+      "query": "what happens if a cop hits your car",
+      "clicks": 6,
+      "impressions": 341,
+      "ctr": 0.017595307917888565,
+      "position": 3.7155425219941347
+    },
+    {
+      "query": "best motorcycle accident lawyer",
+      "clicks": 5,
+      "impressions": 18006,
+      "ctr": 0.0002776852160390981,
+      "position": 33.36848828168388
+    },
+    {
+      "query": "fielding law richardson tx",
+      "clicks": 5,
+      "impressions": 14,
+      "ctr": 0.35714285714285715,
+      "position": 1
+    },
+    {
+      "query": "how long does an insurance company have to investigate a claim in texas",
+      "clicks": 5,
+      "impressions": 193,
+      "ctr": 0.025906735751295335,
+      "position": 4.424870466321243
+    },
+    {
+      "query": "paul green attorney",
+      "clicks": 5,
+      "impressions": 52,
+      "ctr": 0.09615384615384616,
+      "position": 4.5576923076923075
+    },
+    {
+      "query": "if you get hit by a stolen car in police chase who pays for all the damages",
+      "clicks": 4,
+      "impressions": 187,
+      "ctr": 0.0213903743315508,
+      "position": 3.283422459893048
+    },
+    {
+      "query": "is utah a stand your ground state",
+      "clicks": 4,
+      "impressions": 1110,
+      "ctr": 0.0036036036036036037,
+      "position": 3.517117117117117
+    },
+    {
+      "query": "personal injury lawyer near me",
+      "clicks": 4,
+      "impressions": 5646,
+      "ctr": 0.0007084661707403471,
+      "position": 40.664541268154444
+    },
+    {
+      "query": "polis aracı kaza yaparsa kim öder",
+      "clicks": 4,
+      "impressions": 204,
+      "ctr": 0.0196078431372549,
+      "position": 6.4754901960784315
+    },
+    {
+      "query": "what happens if a police officer hits your car",
+      "clicks": 4,
+      "impressions": 115,
+      "ctr": 0.034782608695652174,
+      "position": 3.973913043478261
+    },
+    {
+      "query": "what happens if you hit a car in a parking lot and leave",
+      "clicks": 4,
+      "impressions": 750,
+      "ctr": 0.005333333333333333,
+      "position": 16.310666666666666
+    },
+    {
+      "query": "what happens to hit and run drivers who are later found by their license plate",
+      "clicks": 4,
+      "impressions": 631,
+      "ctr": 0.006339144215530904,
+      "position": 10.177496038034866
+    },
+    {
+      "query": "what happens when your car is totaled but still drivable",
+      "clicks": 4,
+      "impressions": 2352,
+      "ctr": 0.0017006802721088435,
+      "position": 13.391581632653061
+    },
+    {
+      "query": "accident attorney",
+      "clicks": 3,
+      "impressions": 2921,
+      "ctr": 0.0010270455323519343,
+      "position": 15.32351934269086
+    },
+    {
+      "query": "can someone sue you after insurance pays",
+      "clicks": 3,
+      "impressions": 103,
+      "ctr": 0.02912621359223301,
+      "position": 6.252427184466019
+    },
+    {
+      "query": "hit parked car and drove off",
+      "clicks": 3,
+      "impressions": 26,
+      "ctr": 0.11538461538461539,
+      "position": 8
+    },
+    {
+      "query": "texas windshield crack law",
+      "clicks": 3,
+      "impressions": 35,
+      "ctr": 0.08571428571428572,
+      "position": 7.228571428571429
+    },
+    {
+      "query": "two cars reversing into each other",
+      "clicks": 3,
+      "impressions": 125,
+      "ctr": 0.024,
+      "position": 5.408
+    },
+    {
+      "query": "utah stand your ground law",
+      "clicks": 3,
+      "impressions": 421,
+      "ctr": 0.007125890736342043,
+      "position": 9.007125890736342
+    },
+    {
+      "query": "what to do if you hit someone's car in a parking lot",
+      "clicks": 3,
+      "impressions": 365,
+      "ctr": 0.00821917808219178,
+      "position": 10.301369863013699
+    },
+    {
+      "query": "auto accident lawyer mesquite",
+      "clicks": 2,
+      "impressions": 301,
+      "ctr": 0.006644518272425249,
+      "position": 6.98671096345515
+    },
+    {
+      "query": "can a person sue you for a car accident",
+      "clicks": 2,
+      "impressions": 5,
+      "ctr": 0.4,
+      "position": 3.4
+    },
+    {
+      "query": "can insurance company sue you",
+      "clicks": 2,
+      "impressions": 79,
+      "ctr": 0.02531645569620253,
+      "position": 5.481012658227848
+    },
+    {
+      "query": "car accident lawyer",
+      "clicks": 2,
+      "impressions": 16404,
+      "ctr": 0.000121921482565228,
+      "position": 15.44172153133382
+    },
+    {
+      "query": "does car insurance cover snow accidents",
+      "clicks": 2,
+      "impressions": 562,
+      "ctr": 0.0035587188612099642,
+      "position": 25.387900355871885
+    },
+    {
+      "query": "feilding law",
+      "clicks": 2,
+      "impressions": 4,
+      "ctr": 0.5,
+      "position": 3
+    },
+    {
+      "query": "hit a car and drove off",
+      "clicks": 2,
+      "impressions": 118,
+      "ctr": 0.01694915254237288,
+      "position": 6.779661016949152
+    },
+    {
+      "query": "hit by police car compensation",
+      "clicks": 2,
+      "impressions": 164,
+      "ctr": 0.012195121951219513,
+      "position": 14.25
+    },
+    {
+      "query": "how long can an insurance company delay a claim",
+      "clicks": 2,
+      "impressions": 16,
+      "ctr": 0.125,
+      "position": 43.625
+    },
+    {
+      "query": "how long does an insurance company have to investigate a claim",
+      "clicks": 2,
+      "impressions": 247,
+      "ctr": 0.008097165991902834,
+      "position": 47.04858299595141
+    },
+    {
+      "query": "if a cop hits your car what happens",
+      "clicks": 2,
+      "impressions": 107,
+      "ctr": 0.018691588785046728,
+      "position": 4.5140186915887845
+    },
+    {
+      "query": "if you hit a car and leave what happens",
+      "clicks": 2,
+      "impressions": 153,
+      "ctr": 0.013071895424836602,
+      "position": 7.5359477124183005
+    },
+    {
+      "query": "insurance company suing me for damages",
+      "clicks": 2,
+      "impressions": 139,
+      "ctr": 0.014388489208633094,
+      "position": 4.748201438848921
+    },
+    {
+      "query": "kaza yerinden kaçmak",
+      "clicks": 2,
+      "impressions": 40,
+      "ctr": 0.05,
+      "position": 1.4
+    },
+    {
+      "query": "law firms",
+      "clicks": 2,
+      "impressions": 26,
+      "ctr": 0.07692307692307693,
+      "position": 2.4230769230769234
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://www.fieldinglaw.com/personal-injury/mesquite/",
+      "clicks": 269,
+      "impressions": 415531,
+      "ctr": 0.0006473644565628076,
+      "position": 30.175057937915582
+    },
+    {
+      "page": "https://www.fieldinglaw.com/mesquite-car-accident-lawyer/who-pays-for-damages-if-a-police-car-hits-my-car/",
+      "clicks": 165,
+      "impressions": 17931,
+      "ctr": 0.009201940772963026,
+      "position": 7.389994980759578
+    },
+    {
+      "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/can-someone-sue-you-after-insurance-pays/",
+      "clicks": 159,
+      "impressions": 12103,
+      "ctr": 0.013137238701148475,
+      "position": 11.66338924233661
+    },
+    {
+      "page": "https://www.fieldinglaw.com/personal-injury/richardson/",
+      "clicks": 155,
+      "impressions": 61156,
+      "ctr": 0.0025345019294917915,
+      "position": 6.862090391784943
+    },
+    {
+      "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/what-happens-if-you-leave-the-scene-of-an-accident-and-its-not-your-fault/",
+      "clicks": 153,
+      "impressions": 24652,
+      "ctr": 0.00620639299042674,
+      "position": 11.579709557033912
+    },
+    {
+      "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/how-long-does-an-insurance-company-have-to-settle-a-claim-in-texas/",
+      "clicks": 151,
+      "impressions": 30188,
+      "ctr": 0.0050019875447197566,
+      "position": 21.10345170266331
+    },
+    {
+      "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/who-is-at-fault-when-two-cars-are-reversing/",
+      "clicks": 139,
+      "impressions": 18681,
+      "ctr": 0.007440715165141052,
+      "position": 5.685455810716771
+    },
+    {
+      "page": "https://www.fieldinglaw.com/2024/05/06/can-the-insurance-company-sue-me-for-damages/",
+      "clicks": 128,
+      "impressions": 13515,
+      "ctr": 0.009470958194598594,
+      "position": 16.679097299297077
+    },
+    {
+      "page": "https://www.fieldinglaw.com/",
+      "clicks": 127,
+      "impressions": 18506,
+      "ctr": 0.0068626391440613855,
+      "position": 29.891278504268886
+    },
+    {
+      "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/what-happens-if-you-hit-a-car-and-drove-off/",
+      "clicks": 117,
+      "impressions": 21931,
+      "ctr": 0.005334914048606995,
+      "position": 13.71004514158041
+    },
+    {
+      "page": "https://www.fieldinglaw.com/what-happens-if-your-car-gets-damaged-in-a-police-chase/",
+      "clicks": 115,
+      "impressions": 18724,
+      "ctr": 0.006141850032044435,
+      "position": 8.961439863277079
+    },
+    {
+      "page": "https://www.fieldinglaw.com/personal-injury/taylorsville/",
+      "clicks": 92,
+      "impressions": 99275,
+      "ctr": 0.0009267187106522287,
+      "position": 28.36005036514732
+    },
+    {
+      "page": "https://www.fieldinglaw.com/2025/01/28/what-if-someone-falls-off-an-oil-rig/",
+      "clicks": 79,
+      "impressions": 9264,
+      "ctr": 0.008527633851468049,
+      "position": 6.442357512953368
+    },
+    {
+      "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/who-pays-for-damages-if-car-slips/",
+      "clicks": 69,
+      "impressions": 13080,
+      "ctr": 0.005275229357798165,
+      "position": 12.16368501529052
+    },
+    {
+      "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/can-someone-sue-you-for-a-car-accident-in-texas/",
+      "clicks": 58,
+      "impressions": 7959,
+      "ctr": 0.007287347656740797,
+      "position": 31.048749842945092
+    },
+    {
+      "page": "https://www.fieldinglaw.com/what-happens-if-the-police-damages-my-car-during-a-search/",
+      "clicks": 50,
+      "impressions": 8172,
+      "ctr": 0.006118453255017132,
+      "position": 8.493392070484582
+    },
+    {
+      "page": "https://www.fieldinglaw.com/meet-the-team/paul-green/",
+      "clicks": 48,
+      "impressions": 746,
+      "ctr": 0.064343163538874,
+      "position": 13.45710455764075
+    },
+    {
+      "page": "https://www.fieldinglaw.com/if-you-get-hit-by-a-stolen-car-in-a-police-chase-who-pays-for-the-damage/",
+      "clicks": 40,
+      "impressions": 5294,
+      "ctr": 0.007555723460521345,
+      "position": 12.187193048734416
+    },
+    {
+      "page": "https://www.fieldinglaw.com/2018/12/18/prescription-drugs-that-impair-driving/",
+      "clicks": 33,
+      "impressions": 4735,
+      "ctr": 0.006969376979936642,
+      "position": 4.7389651531151005
+    },
+    {
+      "page": "https://www.fieldinglaw.com/practice-areas/motorcycle-accidents/",
+      "clicks": 29,
+      "impressions": 543739,
+      "ctr": 0.000053334412282363415,
+      "position": 43.354883501091514
+    },
+    {
+      "page": "https://www.fieldinglaw.com/are-you-liable-if-you-hit-a-car-in-a-private-car-park/",
+      "clicks": 28,
+      "impressions": 7711,
+      "ctr": 0.00363117624173259,
+      "position": 9.781999740630269
+    },
+    {
+      "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/is-it-illegal-to-drive-with-a-cracked-windshield-in-texas/",
+      "clicks": 28,
+      "impressions": 10301,
+      "ctr": 0.002718182700708669,
+      "position": 17.924279196194544
+    },
+    {
+      "page": "https://www.fieldinglaw.com/who-yields-in-a-parking-lot/",
+      "clicks": 27,
+      "impressions": 9122,
+      "ctr": 0.002959877219907915,
+      "position": 9.098552948914712
+    },
+    {
+      "page": "https://www.fieldinglaw.com/meet-the-team/allison-capaul/",
+      "clicks": 25,
+      "impressions": 292,
+      "ctr": 0.08561643835616438,
+      "position": 11.32876712328767
+    },
+    {
+      "page": "https://www.fieldinglaw.com/practice-areas/motorcycle-accidents/at-what-speed-do-most-motorcycle-accidents-happen/",
+      "clicks": 23,
+      "impressions": 10828,
+      "ctr": 0.002124122644994459,
+      "position": 4.526413003324714
+    },
+    {
+      "page": "https://www.fieldinglaw.com/meet-the-team/mitchell-fielding/",
+      "clicks": 22,
+      "impressions": 456,
+      "ctr": 0.04824561403508772,
+      "position": 11.368421052631579
+    },
+    {
+      "page": "https://www.fieldinglaw.com/2018/09/18/stray-bullet-injuries-do-i-need-an-attorney/",
+      "clicks": 21,
+      "impressions": 2291,
+      "ctr": 0.009166302924487123,
+      "position": 5.355303360977739
+    },
+    {
+      "page": "https://www.fieldinglaw.com/meet-the-team/michael-fielding/",
+      "clicks": 21,
+      "impressions": 578,
+      "ctr": 0.03633217993079585,
+      "position": 10.13840830449827
+    },
+    {
+      "page": "https://www.fieldinglaw.com/2024/09/03/what-if-your-car-is-totaled-but-drivable/",
+      "clicks": 19,
+      "impressions": 8684,
+      "ctr": 0.0021879318286503915,
+      "position": 9.961883924458775
+    },
+    {
+      "page": "https://www.fieldinglaw.com/personal-injury/heath/",
+      "clicks": 19,
+      "impressions": 47646,
+      "ctr": 0.00039877429374973766,
+      "position": 6.747848717625824
+    },
+    {
+      "page": "https://www.fieldinglaw.com/2024/06/21/what-to-know-about-auto-accident-litigation/",
+      "clicks": 18,
+      "impressions": 749,
+      "ctr": 0.02403204272363151,
+      "position": 33.488651535380505
+    },
+    {
+      "page": "https://www.fieldinglaw.com/meet-the-team/derek-freeman/",
+      "clicks": 18,
+      "impressions": 558,
+      "ctr": 0.03225806451612903,
+      "position": 11.86021505376344
+    },
+    {
+      "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/snow-storm-damages/",
+      "clicks": 18,
+      "impressions": 4628,
+      "ctr": 0.0038893690579083835,
+      "position": 20.31590319792567
+    },
+    {
+      "page": "https://www.fieldinglaw.com/meet-the-team/nijyar-tovi/",
+      "clicks": 15,
+      "impressions": 178,
+      "ctr": 0.08426966292134831,
+      "position": 6.910112359550562
+    },
+    {
+      "page": "https://www.fieldinglaw.com/2025/09/16/voluntary-vs-mandatory-recalls-whats-the-difference/",
+      "clicks": 13,
+      "impressions": 4771,
+      "ctr": 0.0027247956403269754,
+      "position": 6.243974009641585
+    },
+    {
+      "page": "https://www.fieldinglaw.com/2018/02/20/know-utahs-stand-ground-law/",
+      "clicks": 12,
+      "impressions": 3840,
+      "ctr": 0.003125,
+      "position": 6.224739583333333
+    },
+    {
+      "page": "https://www.fieldinglaw.com/2024/05/22/car-crashes-into-a-house-who-pays-for-damages/",
+      "clicks": 12,
+      "impressions": 1564,
+      "ctr": 0.0076726342710997444,
+      "position": 18.771099744245525
+    },
+    {
+      "page": "https://www.fieldinglaw.com/contact-us/",
+      "clicks": 12,
+      "impressions": 4864,
+      "ctr": 0.0024671052631578946,
+      "position": 12.129728618421053
+    },
+    {
+      "page": "https://www.fieldinglaw.com/practice-areas/defective-products-and-recalls/compensation-amount/",
+      "clicks": 12,
+      "impressions": 1140,
+      "ctr": 0.010526315789473684,
+      "position": 12.464035087719298
+    },
+    {
+      "page": "https://www.fieldinglaw.com/meet-the-team/brent-s-freefield/",
+      "clicks": 11,
+      "impressions": 309,
+      "ctr": 0.03559870550161812,
+      "position": 16.524271844660195
+    },
+    {
+      "page": "https://www.fieldinglaw.com/2018/03/21/red-light-running-bill/",
+      "clicks": 10,
+      "impressions": 1080,
+      "ctr": 0.009259259259259259,
+      "position": 9.873148148148148
+    },
+    {
+      "page": "https://www.fieldinglaw.com/2024/08/27/the-trouble-with-self-driving-cars/",
+      "clicks": 9,
+      "impressions": 874,
+      "ctr": 0.010297482837528604,
+      "position": 29.013729977116704
+    },
+    {
+      "page": "https://www.fieldinglaw.com/mesquite-car-accident-lawyer/is-the-owner-or-driver-liable-in-a-crash/",
+      "clicks": 9,
+      "impressions": 2013,
+      "ctr": 0.004470938897168405,
+      "position": 9.087431693989071
+    },
+    {
+      "page": "https://www.fieldinglaw.com/2020/06/17/car-totaled-and-still-owe-money-in-utah-what-can-you-do/",
+      "clicks": 8,
+      "impressions": 2826,
+      "ctr": 0.0028308563340410475,
+      "position": 21.93842887473461
+    },
+    {
+      "page": "https://www.fieldinglaw.com/2023/01/24/can-i-modify-my-car-and-not-be-at-fault-for-accidents-in-utah/",
+      "clicks": 8,
+      "impressions": 1527,
+      "ctr": 0.005239030779305829,
+      "position": 9.421741977734118
+    },
+    {
+      "page": "https://www.fieldinglaw.com/2024/01/26/who-gets-the-insurance-check-when-a-car-is-totaled/",
+      "clicks": 8,
+      "impressions": 2910,
+      "ctr": 0.0027491408934707906,
+      "position": 27.31615120274914
+    },
+    {
+      "page": "https://www.fieldinglaw.com/how-is-fault-determined-in-a-parking-lot-accident/",
+      "clicks": 8,
+      "impressions": 2470,
+      "ctr": 0.0032388663967611335,
+      "position": 18.924696356275305
+    },
+    {
+      "page": "https://www.fieldinglaw.com/meet-the-team/",
+      "clicks": 8,
+      "impressions": 3849,
+      "ctr": 0.0020784619381657575,
+      "position": 28.662249935048063
+    },
+    {
+      "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/car-accidents-caused-by-aftermarket-vehicle-modifications/",
+      "clicks": 8,
+      "impressions": 1828,
+      "ctr": 0.00437636761487965,
+      "position": 12.231947483588621
+    },
+    {
+      "page": "https://www.fieldinglaw.com/what-do-i-do-if-someone-backs-into-my-car-in-a-parking-lot/",
+      "clicks": 8,
+      "impressions": 5121,
+      "ctr": 0.0015621948838117556,
+      "position": 7.390743995313415
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:06:15.381Z"
+}

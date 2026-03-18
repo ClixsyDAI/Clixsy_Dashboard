@@ -1,0 +1,1350 @@
+{
+  "property": "sc-domain:collinslaw.com",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 6423,
+    "impressions": 3152313,
+    "ctr": 0.0020375514741080595,
+    "position": 28.272871009937774
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 71,
+      "impressions": 29364,
+      "ctr": 0.0024179267129818827,
+      "position": 30.25091949325705
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 72,
+      "impressions": 30412,
+      "ctr": 0.0023674865184795477,
+      "position": 32.71244903327634
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 71,
+      "impressions": 24170,
+      "ctr": 0.0029375258585022756,
+      "position": 30.2755068266446
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 46,
+      "impressions": 26656,
+      "ctr": 0.0017256902761104442,
+      "position": 32.362732593037215
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 58,
+      "impressions": 28213,
+      "ctr": 0.002055789884095984,
+      "position": 34.69223407648956
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 28,
+      "impressions": 23778,
+      "ctr": 0.0011775590882328203,
+      "position": 33.302758852721006
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 30,
+      "impressions": 27496,
+      "ctr": 0.0010910677916787896,
+      "position": 33.24479924352633
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 46,
+      "impressions": 29336,
+      "ctr": 0.0015680392691573494,
+      "position": 27.254533678756477
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 64,
+      "impressions": 28673,
+      "ctr": 0.002232065008893384,
+      "position": 35.24127227705507
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 33,
+      "impressions": 25826,
+      "ctr": 0.0012777820800743437,
+      "position": 34.51703709440099
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 46,
+      "impressions": 21590,
+      "ctr": 0.002130616025937934,
+      "position": 31.271514590088003
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 44,
+      "impressions": 22314,
+      "ctr": 0.0019718562337545935,
+      "position": 27.919153894416063
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 40,
+      "impressions": 21041,
+      "ctr": 0.001901050330307495,
+      "position": 27.1496126609952
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 37,
+      "impressions": 25507,
+      "ctr": 0.0014505821931234562,
+      "position": 31.3217156074803
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 61,
+      "impressions": 27225,
+      "ctr": 0.00224058769513315,
+      "position": 27.81245179063361
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 54,
+      "impressions": 27752,
+      "ctr": 0.0019458057076967427,
+      "position": 33.78942058230037
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 36,
+      "impressions": 28952,
+      "ctr": 0.0012434374136501797,
+      "position": 33.91838214976513
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 33,
+      "impressions": 27962,
+      "ctr": 0.0011801730920535012,
+      "position": 34.445640512123596
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 49,
+      "impressions": 24027,
+      "ctr": 0.002039372372747326,
+      "position": 29.42406459399842
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 38,
+      "impressions": 21480,
+      "ctr": 0.0017690875232774675,
+      "position": 30.198603351955306
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 39,
+      "impressions": 23652,
+      "ctr": 0.0016489091831557584,
+      "position": 28.472898697784544
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 74,
+      "impressions": 27299,
+      "ctr": 0.002710722004469028,
+      "position": 24.591853181435216
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 68,
+      "impressions": 21117,
+      "ctr": 0.0032201543779892977,
+      "position": 23.970355637637923
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 81,
+      "impressions": 31279,
+      "ctr": 0.0025895968541193772,
+      "position": 32.01272419194987
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 72,
+      "impressions": 38561,
+      "ctr": 0.0018671714945151837,
+      "position": 32.98594434791629
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 78,
+      "impressions": 36710,
+      "ctr": 0.0021247616453282485,
+      "position": 40.26840098065922
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 48,
+      "impressions": 31158,
+      "ctr": 0.0015405353360292702,
+      "position": 36.606200654727516
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 44,
+      "impressions": 34233,
+      "ctr": 0.0012853094966844857,
+      "position": 33.007507375923815
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 89,
+      "impressions": 31888,
+      "ctr": 0.002791018564977421,
+      "position": 24.86245609633718
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 92,
+      "impressions": 31287,
+      "ctr": 0.002940518426183399,
+      "position": 28.0877041582766
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 96,
+      "impressions": 32073,
+      "ctr": 0.0029931718267701807,
+      "position": 28.957472016961308
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 78,
+      "impressions": 27314,
+      "ctr": 0.002855678406677894,
+      "position": 21.715530497180932
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 69,
+      "impressions": 30760,
+      "ctr": 0.0022431729518855655,
+      "position": 27.16514954486346
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 50,
+      "impressions": 27057,
+      "ctr": 0.0018479506227593598,
+      "position": 29.31086225376058
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 38,
+      "impressions": 31714,
+      "ctr": 0.0011982089928738097,
+      "position": 29.040991360282526
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 58,
+      "impressions": 34422,
+      "ctr": 0.001684968915228633,
+      "position": 29.139678112834815
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 100,
+      "impressions": 33818,
+      "ctr": 0.002957005145188953,
+      "position": 26.807380684842393
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 109,
+      "impressions": 40268,
+      "ctr": 0.0027068640111254593,
+      "position": 30.14321545644184
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 98,
+      "impressions": 39756,
+      "ctr": 0.0024650367240165007,
+      "position": 32.56947379011973
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 50,
+      "impressions": 35017,
+      "ctr": 0.0014278778878830283,
+      "position": 33.248336522260615
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 54,
+      "impressions": 35882,
+      "ctr": 0.0015049328354049384,
+      "position": 35.728331754082824
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 66,
+      "impressions": 40469,
+      "ctr": 0.0016308779559662953,
+      "position": 29.32629914255356
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 111,
+      "impressions": 39676,
+      "ctr": 0.0027976610545417885,
+      "position": 28.874357294082063
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 88,
+      "impressions": 38911,
+      "ctr": 0.002261571278044769,
+      "position": 29.274780910282438
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 105,
+      "impressions": 35800,
+      "ctr": 0.0029329608938547485,
+      "position": 28.1131843575419
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 96,
+      "impressions": 32808,
+      "ctr": 0.002926115581565472,
+      "position": 27.310991221653254
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 70,
+      "impressions": 38253,
+      "ctr": 0.0018299218361958539,
+      "position": 31.8275429378088
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 66,
+      "impressions": 35692,
+      "ctr": 0.001849153872016138,
+      "position": 33.07584332623557
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 50,
+      "impressions": 46126,
+      "ctr": 0.0010839873390278802,
+      "position": 29.05953258465941
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 92,
+      "impressions": 47696,
+      "ctr": 0.0019288829251928883,
+      "position": 31.23178044280443
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 117,
+      "impressions": 41635,
+      "ctr": 0.002810135703134382,
+      "position": 30.98948000480365
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 116,
+      "impressions": 55274,
+      "ctr": 0.002098635886673662,
+      "position": 27.668343163150848
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 92,
+      "impressions": 55775,
+      "ctr": 0.0016494845360824743,
+      "position": 26.91361721201255
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 83,
+      "impressions": 44221,
+      "ctr": 0.0018769362972343457,
+      "position": 26.748874968906176
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 43,
+      "impressions": 34673,
+      "ctr": 0.0012401580480489141,
+      "position": 26.79240331093358
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 50,
+      "impressions": 39053,
+      "ctr": 0.0012803113717256038,
+      "position": 28.282590325967274
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 78,
+      "impressions": 50309,
+      "ctr": 0.0015504184142002425,
+      "position": 27.070027231708043
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 105,
+      "impressions": 45328,
+      "ctr": 0.002316448993999294,
+      "position": 29.505096187786798
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 75,
+      "impressions": 44704,
+      "ctr": 0.0016777022190408017,
+      "position": 31.30719846098783
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 101,
+      "impressions": 44674,
+      "ctr": 0.002260822849979854,
+      "position": 29.23461073555088
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 77,
+      "impressions": 39864,
+      "ctr": 0.0019315673289183224,
+      "position": 26.833082480433475
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 46,
+      "impressions": 36092,
+      "ctr": 0.001274520669400421,
+      "position": 27.273772581181426
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 55,
+      "impressions": 37162,
+      "ctr": 0.0014800064582099995,
+      "position": 23.503094558958075
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 87,
+      "impressions": 36555,
+      "ctr": 0.002379975379565039,
+      "position": 23.63184242921625
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 93,
+      "impressions": 37039,
+      "ctr": 0.002510866924053025,
+      "position": 24.578066362482787
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 119,
+      "impressions": 32068,
+      "ctr": 0.0037108644131221154,
+      "position": 24.257827117375577
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 88,
+      "impressions": 30939,
+      "ctr": 0.0028443065386728724,
+      "position": 18.172048223924495
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 101,
+      "impressions": 34780,
+      "ctr": 0.002903967797584819,
+      "position": 22.59370327774583
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 42,
+      "impressions": 35621,
+      "ctr": 0.001179079756323517,
+      "position": 26.211476376294883
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 56,
+      "impressions": 37246,
+      "ctr": 0.001503517156204693,
+      "position": 24.30969768565752
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 102,
+      "impressions": 43199,
+      "ctr": 0.0023611657677261046,
+      "position": 22.910183106090418
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 110,
+      "impressions": 38982,
+      "ctr": 0.002821815196757478,
+      "position": 22.725539992817197
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 100,
+      "impressions": 39998,
+      "ctr": 0.0025001250062503125,
+      "position": 24.142982149107457
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 101,
+      "impressions": 39882,
+      "ctr": 0.00253247078882704,
+      "position": 20.623163331828895
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 73,
+      "impressions": 35518,
+      "ctr": 0.0020552959063010303,
+      "position": 20.45514950166113
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 38,
+      "impressions": 26776,
+      "ctr": 0.0014191813564386018,
+      "position": 23.58642067523155
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 47,
+      "impressions": 40357,
+      "ctr": 0.0011646058924102386,
+      "position": 23.33111975617613
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 94,
+      "impressions": 53206,
+      "ctr": 0.001766718039318874,
+      "position": 21.72142239597038
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 80,
+      "impressions": 43000,
+      "ctr": 0.0018604651162790699,
+      "position": 20.146232558139534
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 101,
+      "impressions": 40900,
+      "ctr": 0.0024694376528117358,
+      "position": 24.032689486552567
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 92,
+      "impressions": 41161,
+      "ctr": 0.0022351254828599887,
+      "position": 23.399795923325478
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 66,
+      "impressions": 39792,
+      "ctr": 0.0016586248492159229,
+      "position": 25.08815842380378
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 64,
+      "impressions": 32369,
+      "ctr": 0.001977200407797584,
+      "position": 28.70607680187834
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 51,
+      "impressions": 26829,
+      "ctr": 0.0019009281001900928,
+      "position": 23.270453613627044
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 91,
+      "impressions": 37144,
+      "ctr": 0.0024499246177040706,
+      "position": 22.030745207839757
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 85,
+      "impressions": 44529,
+      "ctr": 0.0019088683779110243,
+      "position": 26.022771676884727
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 111,
+      "impressions": 38719,
+      "ctr": 0.002866809576693613,
+      "position": 26.20560964900953
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 86,
+      "impressions": 36275,
+      "ctr": 0.002370778773259821,
+      "position": 27.78423156443832
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 76,
+      "impressions": 41452,
+      "ctr": 0.0018334459133455563,
+      "position": 30.677530637846182
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 45,
+      "impressions": 46743,
+      "ctr": 0.0009627109941595533,
+      "position": 33.929679310271055
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "collins law firm",
+      "clicks": 124,
+      "impressions": 1500,
+      "ctr": 0.08266666666666667,
+      "position": 6.518666666666666
+    },
+    {
+      "query": "the collins law firm",
+      "clicks": 105,
+      "impressions": 540,
+      "ctr": 0.19444444444444445,
+      "position": 3.9611111111111112
+    },
+    {
+      "query": "collins law firm naperville",
+      "clicks": 101,
+      "impressions": 234,
+      "ctr": 0.43162393162393164,
+      "position": 1.841880341880342
+    },
+    {
+      "query": "pfoa vs pfas",
+      "clicks": 37,
+      "impressions": 4722,
+      "ctr": 0.007835662854722576,
+      "position": 3.0146124523506987
+    },
+    {
+      "query": "john risvold attorney",
+      "clicks": 34,
+      "impressions": 57,
+      "ctr": 0.5964912280701754,
+      "position": 1
+    },
+    {
+      "query": "john risvold",
+      "clicks": 33,
+      "impressions": 72,
+      "ctr": 0.4583333333333333,
+      "position": 7.652777777777778
+    },
+    {
+      "query": "collins law",
+      "clicks": 30,
+      "impressions": 908,
+      "ctr": 0.03303964757709251,
+      "position": 7.167400881057269
+    },
+    {
+      "query": "the collins law firm, p.c.",
+      "clicks": 30,
+      "impressions": 165,
+      "ctr": 0.18181818181818182,
+      "position": 2.624242424242424
+    },
+    {
+      "query": "class action lawsuit illinois",
+      "clicks": 19,
+      "impressions": 631,
+      "ctr": 0.030110935023771792,
+      "position": 3.746434231378764
+    },
+    {
+      "query": "shawn collins attorney",
+      "clicks": 18,
+      "impressions": 85,
+      "ctr": 0.21176470588235294,
+      "position": 5.023529411764706
+    },
+    {
+      "query": "trichloroethylene",
+      "clicks": 17,
+      "impressions": 8719,
+      "ctr": 0.0019497648812937262,
+      "position": 9.547998623695378
+    },
+    {
+      "query": "jeremy hylka",
+      "clicks": 15,
+      "impressions": 399,
+      "ctr": 0.03759398496240601,
+      "position": 3.0952380952380953
+    },
+    {
+      "query": "distracted driving statistics 2025",
+      "clicks": 12,
+      "impressions": 542,
+      "ctr": 0.02214022140221402,
+      "position": 5.084870848708487
+    },
+    {
+      "query": "mtbe",
+      "clicks": 12,
+      "impressions": 6844,
+      "ctr": 0.0017533606078316774,
+      "position": 9.517241379310345
+    },
+    {
+      "query": "the collins law firm pc",
+      "clicks": 11,
+      "impressions": 127,
+      "ctr": 0.08661417322834646,
+      "position": 1.8661417322834646
+    },
+    {
+      "query": "collins law group",
+      "clicks": 10,
+      "impressions": 115,
+      "ctr": 0.08695652173913043,
+      "position": 6.139130434782609
+    },
+    {
+      "query": "new illinois dui laws",
+      "clicks": 10,
+      "impressions": 467,
+      "ctr": 0.021413276231263382,
+      "position": 6.845824411134903
+    },
+    {
+      "query": "what is talc",
+      "clicks": 9,
+      "impressions": 4380,
+      "ctr": 0.002054794520547945,
+      "position": 7.677397260273972
+    },
+    {
+      "query": "naperville law firms",
+      "clicks": 8,
+      "impressions": 155,
+      "ctr": 0.05161290322580645,
+      "position": 2.961290322580645
+    },
+    {
+      "query": "what is xylene",
+      "clicks": 8,
+      "impressions": 2876,
+      "ctr": 0.0027816411682892906,
+      "position": 5.825452016689847
+    },
+    {
+      "query": "civil rights violations by police",
+      "clicks": 7,
+      "impressions": 376,
+      "ctr": 0.018617021276595744,
+      "position": 3.154255319148936
+    },
+    {
+      "query": "new dui laws 2026 illinois",
+      "clicks": 7,
+      "impressions": 469,
+      "ctr": 0.014925373134328358,
+      "position": 4.400852878464819
+    },
+    {
+      "query": "car accident lawyer",
+      "clicks": 6,
+      "impressions": 81401,
+      "ctr": 0.00007370916819203695,
+      "position": 43.478544489625435
+    },
+    {
+      "query": "does san pellegrino have pfas",
+      "clicks": 6,
+      "impressions": 327,
+      "ctr": 0.01834862385321101,
+      "position": 1.9785932721712538
+    },
+    {
+      "query": "environmental lawyer",
+      "clicks": 6,
+      "impressions": 616,
+      "ctr": 0.00974025974025974,
+      "position": 31.20616883116883
+    },
+    {
+      "query": "illinois new dui laws 2026",
+      "clicks": 6,
+      "impressions": 148,
+      "ctr": 0.04054054054054054,
+      "position": 4.945945945945946
+    },
+    {
+      "query": "john sopuch",
+      "clicks": 6,
+      "impressions": 36,
+      "ctr": 0.16666666666666666,
+      "position": 1.1111111111111112
+    },
+    {
+      "query": "law firms in naperville",
+      "clicks": 6,
+      "impressions": 92,
+      "ctr": 0.06521739130434782,
+      "position": 3.9239130434782608
+    },
+    {
+      "query": "the collins law firm naperville",
+      "clicks": 6,
+      "impressions": 12,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "truck accident lawyer",
+      "clicks": 6,
+      "impressions": 105370,
+      "ctr": 0.00005694220366328177,
+      "position": 38.917690044604726
+    },
+    {
+      "query": "dog bite symptoms",
+      "clicks": 5,
+      "impressions": 435,
+      "ctr": 0.011494252873563218,
+      "position": 5.611494252873563
+    },
+    {
+      "query": "how to prepare for a car accident",
+      "clicks": 5,
+      "impressions": 501,
+      "ctr": 0.00998003992015968,
+      "position": 8.730538922155688
+    },
+    {
+      "query": "illinois medical malpractice attorney",
+      "clicks": 5,
+      "impressions": 368,
+      "ctr": 0.01358695652173913,
+      "position": 9.929347826086957
+    },
+    {
+      "query": "illinois snow and ice removal act",
+      "clicks": 5,
+      "impressions": 126,
+      "ctr": 0.03968253968253968,
+      "position": 5.904761904761905
+    },
+    {
+      "query": "law firms in naperville il",
+      "clicks": 5,
+      "impressions": 47,
+      "ctr": 0.10638297872340426,
+      "position": 3.4468085106382977
+    },
+    {
+      "query": "leonard hudson",
+      "clicks": 5,
+      "impressions": 164,
+      "ctr": 0.03048780487804878,
+      "position": 4.579268292682927
+    },
+    {
+      "query": "new illinois dui laws 2026",
+      "clicks": 5,
+      "impressions": 190,
+      "ctr": 0.02631578947368421,
+      "position": 2.7473684210526317
+    },
+    {
+      "query": "pfas in sparkling water",
+      "clicks": 5,
+      "impressions": 375,
+      "ctr": 0.013333333333333334,
+      "position": 3.8026666666666666
+    },
+    {
+      "query": "pfas vs pfos vs pfoa",
+      "clicks": 5,
+      "impressions": 275,
+      "ctr": 0.01818181818181818,
+      "position": 2.6145454545454543
+    },
+    {
+      "query": "texting and driving statistics 2025",
+      "clicks": 5,
+      "impressions": 154,
+      "ctr": 0.032467532467532464,
+      "position": 5.35064935064935
+    },
+    {
+      "query": "what happens when a dog bites you",
+      "clicks": 5,
+      "impressions": 452,
+      "ctr": 0.011061946902654867,
+      "position": 4.190265486725664
+    },
+    {
+      "query": "what is talc made of",
+      "clicks": 5,
+      "impressions": 930,
+      "ctr": 0.005376344086021506,
+      "position": 6.8043010752688176
+    },
+    {
+      "query": "business attorney",
+      "clicks": 4,
+      "impressions": 4451,
+      "ctr": 0.0008986744551786115,
+      "position": 34.130757133228485
+    },
+    {
+      "query": "chemical leaching from plastic bottles",
+      "clicks": 4,
+      "impressions": 68,
+      "ctr": 0.058823529411764705,
+      "position": 8.058823529411764
+    },
+    {
+      "query": "does bubly have pfas",
+      "clicks": 4,
+      "impressions": 201,
+      "ctr": 0.01990049751243781,
+      "position": 1.3184079601990049
+    },
+    {
+      "query": "dog bites",
+      "clicks": 4,
+      "impressions": 283,
+      "ctr": 0.014134275618374558,
+      "position": 35.62544169611307
+    },
+    {
+      "query": "evidence deposition",
+      "clicks": 4,
+      "impressions": 67,
+      "ctr": 0.05970149253731343,
+      "position": 3.1194029850746268
+    },
+    {
+      "query": "evidence deposition illinois",
+      "clicks": 4,
+      "impressions": 53,
+      "ctr": 0.07547169811320754,
+      "position": 1.4339622641509435
+    },
+    {
+      "query": "illinois class action lawsuit",
+      "clicks": 4,
+      "impressions": 192,
+      "ctr": 0.020833333333333332,
+      "position": 5.963541666666667
+    },
+    {
+      "query": "new dui laws",
+      "clicks": 4,
+      "impressions": 863,
+      "ctr": 0.004634994206257242,
+      "position": 4.706836616454229
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://collinslaw.com/",
+      "clicks": 491,
+      "impressions": 127314,
+      "ctr": 0.003856606500463421,
+      "position": 3.5327301003817335
+    },
+    {
+      "page": "https://www.collinslaw.com/",
+      "clicks": 467,
+      "impressions": 259216,
+      "ctr": 0.0018015863218319857,
+      "position": 38.54366242824517
+    },
+    {
+      "page": "https://www.collinslaw.com/blog/have-you-been-bitten-by-a-dog-heres-what-you-need-to-know/",
+      "clicks": 219,
+      "impressions": 54299,
+      "ctr": 0.004033223447945634,
+      "position": 4.603952190648078
+    },
+    {
+      "page": "https://www.collinslaw.com/blog/do-you-know-whats-in-your-sparkling-water/",
+      "clicks": 213,
+      "impressions": 30954,
+      "ctr": 0.006881178522969568,
+      "position": 4.595044259223364
+    },
+    {
+      "page": "https://www.collinslaw.com/blog/understanding-the-difference-between-discovery-depositions-and-evidence-depositions/",
+      "clicks": 209,
+      "impressions": 8813,
+      "ctr": 0.02371496652672189,
+      "position": 8.128673550436854
+    },
+    {
+      "page": "https://www.collinslaw.com/what-you-need-to-know-about-pfas-pfoa-and-pfos/",
+      "clicks": 189,
+      "impressions": 80080,
+      "ctr": 0.00236013986013986,
+      "position": 7.389023476523477
+    },
+    {
+      "page": "https://www.collinslaw.com/blog/toxic-chemical-chlormequat-found-in-oat-based-food-and-humans-raising-concerns-for-reproductive-harm/",
+      "clicks": 172,
+      "impressions": 22401,
+      "ctr": 0.007678228650506674,
+      "position": 5.243515914468104
+    },
+    {
+      "page": "https://www.collinslaw.com/tough-new-illinois-dui-bill-could-become-law-this-summer/",
+      "clicks": 141,
+      "impressions": 13019,
+      "ctr": 0.010830324909747292,
+      "position": 5.878331669099009
+    },
+    {
+      "page": "https://www.collinslaw.com/blog/do-you-hear-that-tinnitus-and-hearing-loss-the-unexpected-consequences-of-your-airbag-deploying/",
+      "clicks": 139,
+      "impressions": 13251,
+      "ctr": 0.010489774356652328,
+      "position": 6.54312882046638
+    },
+    {
+      "page": "https://www.collinslaw.com/police-misconduct-understanding-civil-rights-violations/",
+      "clicks": 121,
+      "impressions": 18608,
+      "ctr": 0.006502579535683577,
+      "position": 6.3034716251074805
+    },
+    {
+      "page": "https://www.collinslaw.com/john-d-risvold/",
+      "clicks": 105,
+      "impressions": 1596,
+      "ctr": 0.06578947368421052,
+      "position": 9.802005012531328
+    },
+    {
+      "page": "https://www.collinslaw.com/blog/what-dummies-car-industry-ignores-womens-safety-by-designing-cars-to-protect-men-only/",
+      "clicks": 90,
+      "impressions": 5562,
+      "ctr": 0.016181229773462782,
+      "position": 6.743617403811578
+    },
+    {
+      "page": "https://www.collinslaw.com/illinois-environmental-law/",
+      "clicks": 88,
+      "impressions": 14684,
+      "ctr": 0.0059929174611822395,
+      "position": 20.61972214655407
+    },
+    {
+      "page": "https://www.collinslaw.com/medical-malpractice-surgical-instrument-left-inside-a-patient/",
+      "clicks": 82,
+      "impressions": 10018,
+      "ctr": 0.008185266520263525,
+      "position": 5.910061888600519
+    },
+    {
+      "page": "https://www.collinslaw.com/blog/burning-incense-can-release-toxic-chemicals-and-harm-your-health/",
+      "clicks": 80,
+      "impressions": 40249,
+      "ctr": 0.001987627021789361,
+      "position": 6.854679619369425
+    },
+    {
+      "page": "https://www.collinslaw.com/blog/distracted-driving-2025-trends/",
+      "clicks": 76,
+      "impressions": 5206,
+      "ctr": 0.014598540145985401,
+      "position": 6.3739915482136
+    },
+    {
+      "page": "https://www.collinslaw.com/the-legal-basics-of-a-business-breach-of-contract-in-illinois/",
+      "clicks": 75,
+      "impressions": 13606,
+      "ctr": 0.005512273996766133,
+      "position": 8.1519917683375
+    },
+    {
+      "page": "https://www.collinslaw.com/natural-gas-line-explosions-how-to-determine-liability/",
+      "clicks": 72,
+      "impressions": 11966,
+      "ctr": 0.006017048303526659,
+      "position": 6.272271435734582
+    },
+    {
+      "page": "https://www.collinslaw.com/what-you-need-to-know-about-trichloroethylene-tce/",
+      "clicks": 70,
+      "impressions": 39803,
+      "ctr": 0.0017586614074316007,
+      "position": 9.801346632163405
+    },
+    {
+      "page": "https://www.collinslaw.com/edward-john-manzke/",
+      "clicks": 67,
+      "impressions": 1015,
+      "ctr": 0.06600985221674877,
+      "position": 10.076847290640394
+    },
+    {
+      "page": "https://www.collinslaw.com/shawn-m-collins/",
+      "clicks": 67,
+      "impressions": 8727,
+      "ctr": 0.007677323249684886,
+      "position": 9.894121691302853
+    },
+    {
+      "page": "https://www.collinslaw.com/blog/your-rights-under-the-illinois-snow-and-ice-removal-act/",
+      "clicks": 61,
+      "impressions": 5793,
+      "ctr": 0.010529949939582254,
+      "position": 9.66166062489211
+    },
+    {
+      "page": "https://www.collinslaw.com/the-legal-basics-of-a-class-action-lawsuit-in-illinois/",
+      "clicks": 60,
+      "impressions": 4598,
+      "ctr": 0.013049151805132666,
+      "position": 7.2716398434101785
+    },
+    {
+      "page": "https://www.collinslaw.com/attorneys/",
+      "clicks": 57,
+      "impressions": 13187,
+      "ctr": 0.004322438765450823,
+      "position": 13.393190263137939
+    },
+    {
+      "page": "https://www.collinslaw.com/blog/what-is-talc-and-why-is-it-dangerous/",
+      "clicks": 56,
+      "impressions": 29089,
+      "ctr": 0.0019251263364158274,
+      "position": 14.394032108357111
+    },
+    {
+      "page": "https://www.collinslaw.com/robert-l-dawidiuk/",
+      "clicks": 56,
+      "impressions": 391,
+      "ctr": 0.1432225063938619,
+      "position": 13.084398976982097
+    },
+    {
+      "page": "https://www.collinslaw.com/blog/love-that-wonderful-smelling-air-freshener-it-may-contain-toxic-phthalates-formaldehyde-and-naphthalene/",
+      "clicks": 54,
+      "impressions": 14104,
+      "ctr": 0.0038287010777084515,
+      "position": 7.464478162223482
+    },
+    {
+      "page": "https://www.collinslaw.com/illinois-business-lawyer/",
+      "clicks": 53,
+      "impressions": 33401,
+      "ctr": 0.0015867788389569175,
+      "position": 39.79449717074339
+    },
+    {
+      "page": "https://www.collinslaw.com/understanding-legal-remedies-for-business-fraud-in-illinois/",
+      "clicks": 52,
+      "impressions": 7000,
+      "ctr": 0.0074285714285714285,
+      "position": 9.146428571428572
+    },
+    {
+      "page": "https://www.collinslaw.com/illinois-medical-malpractice-lawyer/",
+      "clicks": 51,
+      "impressions": 49396,
+      "ctr": 0.0010324722649607257,
+      "position": 27.858288120495587
+    },
+    {
+      "page": "https://www.collinslaw.com/john-a-sopuch-iii/",
+      "clicks": 51,
+      "impressions": 740,
+      "ctr": 0.06891891891891892,
+      "position": 7.6121621621621625
+    },
+    {
+      "page": "https://www.collinslaw.com/what-you-need-to-know-about-methyl-tertiary-butyl-ether-mtbe/",
+      "clicks": 51,
+      "impressions": 26391,
+      "ctr": 0.0019324769807889054,
+      "position": 9.574438255465878
+    },
+    {
+      "page": "https://www.collinslaw.com/what-you-need-to-know-about-arsenic/",
+      "clicks": 49,
+      "impressions": 22511,
+      "ctr": 0.002176713606681178,
+      "position": 9.868242192705788
+    },
+    {
+      "page": "https://www.collinslaw.com/blog/are-reusable-plastic-bottles-leaching-hundreds-of-chemicals-into-your-water/",
+      "clicks": 47,
+      "impressions": 8942,
+      "ctr": 0.005256094833370611,
+      "position": 9.687877432341757
+    },
+    {
+      "page": "https://www.collinslaw.com/illinois-breach-of-contract-lawyer/",
+      "clicks": 47,
+      "impressions": 14600,
+      "ctr": 0.0032191780821917808,
+      "position": 30.75082191780822
+    },
+    {
+      "page": "https://www.collinslaw.com/illinois-motorcycle-accident-lawyer/dooring-accidents/",
+      "clicks": 46,
+      "impressions": 9610,
+      "ctr": 0.004786680541103018,
+      "position": 4.313111342351717
+    },
+    {
+      "page": "https://www.collinslaw.com/blog/is-instacart-liable-if-its-grocery-delivery-driver-causes-an-accident/",
+      "clicks": 45,
+      "impressions": 10067,
+      "ctr": 0.004470050660574153,
+      "position": 6.656600774808781
+    },
+    {
+      "page": "https://www.collinslaw.com/blog/the-dangers-of-the-toxic-chemical-emissions-from-the-koppers-plant-in-cicero-il/",
+      "clicks": 44,
+      "impressions": 3821,
+      "ctr": 0.011515310128238681,
+      "position": 7.028788275320597
+    },
+    {
+      "page": "https://www.collinslaw.com/leonard-e-hudson/",
+      "clicks": 42,
+      "impressions": 1890,
+      "ctr": 0.022222222222222223,
+      "position": 25.58994708994709
+    },
+    {
+      "page": "https://www.collinslaw.com/faulty-adas-whos-liable-for-your-accident/",
+      "clicks": 41,
+      "impressions": 11816,
+      "ctr": 0.0034698713608666215,
+      "position": 5.281990521327014
+    },
+    {
+      "page": "https://www.collinslaw.com/illinois-banking-lawyer/",
+      "clicks": 41,
+      "impressions": 12454,
+      "ctr": 0.003292114983137948,
+      "position": 22.80729083025534
+    },
+    {
+      "page": "https://www.collinslaw.com/what-you-need-to-know-about-perchloroethylene-pce/",
+      "clicks": 40,
+      "impressions": 13546,
+      "ctr": 0.0029529012254540087,
+      "position": 8.53617304001181
+    },
+    {
+      "page": "https://www.collinslaw.com/what-you-need-to-know-about-toluene/",
+      "clicks": 39,
+      "impressions": 16699,
+      "ctr": 0.0023354691897718425,
+      "position": 11.364812264207437
+    },
+    {
+      "page": "https://www.collinslaw.com/blog/joliet-diocese-fails-to-protect-children-catholic-teacher-jeremy-hylka-arrested-on-sex-charges/",
+      "clicks": 38,
+      "impressions": 1179,
+      "ctr": 0.032230703986429174,
+      "position": 4.969465648854962
+    },
+    {
+      "page": "https://www.collinslaw.com/illinois-car-accident-lawyer/most-dangerous-streets-and-intersections/",
+      "clicks": 38,
+      "impressions": 2376,
+      "ctr": 0.015993265993265993,
+      "position": 10.815656565656566
+    },
+    {
+      "page": "https://www.collinslaw.com/illinois-nursing-home-abuse-lawyer/abuse-neglect-of-the-disabled/",
+      "clicks": 37,
+      "impressions": 3859,
+      "ctr": 0.009587976159626846,
+      "position": 30.879761596268462
+    },
+    {
+      "page": "https://www.collinslaw.com/blog/understanding-illinois-dog-bite-law/",
+      "clicks": 35,
+      "impressions": 5699,
+      "ctr": 0.006141428320758028,
+      "position": 11.927180207053869
+    },
+    {
+      "page": "https://www.collinslaw.com/what-you-need-to-know-about-xylene/",
+      "clicks": 34,
+      "impressions": 32957,
+      "ctr": 0.0010316472979943563,
+      "position": 9.332463513062475
+    },
+    {
+      "page": "https://www.collinslaw.com/about-us/",
+      "clicks": 32,
+      "impressions": 21092,
+      "ctr": 0.0015171629053669638,
+      "position": 11.868575763322587
+    },
+    {
+      "page": "https://www.collinslaw.com/illinois-business-litigation-lawyer/",
+      "clicks": 32,
+      "impressions": 34730,
+      "ctr": 0.0009213936078318457,
+      "position": 30.824532104808522
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:07:05.303Z"
+}

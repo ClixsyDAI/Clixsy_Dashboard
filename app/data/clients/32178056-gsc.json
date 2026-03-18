@@ -1,0 +1,1350 @@
+{
+  "property": "sc-domain:reimerhvac.com",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 14262,
+    "impressions": 4881923,
+    "ctr": 0.0029213897884091985,
+    "position": 17.053175213113555
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 257,
+      "impressions": 50340,
+      "ctr": 0.00510528406833532,
+      "position": 14.783909415971394
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 168,
+      "impressions": 46607,
+      "ctr": 0.00360460874975862,
+      "position": 16.113094599523677
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 155,
+      "impressions": 39725,
+      "ctr": 0.0039018250471994967,
+      "position": 14.403801132787917
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 168,
+      "impressions": 49206,
+      "ctr": 0.003414217778319717,
+      "position": 17.17467382026582
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 145,
+      "impressions": 51365,
+      "ctr": 0.0028229339044096176,
+      "position": 19.550472111359877
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 101,
+      "impressions": 51731,
+      "ctr": 0.0019524076472521312,
+      "position": 20.327289246293326
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 125,
+      "impressions": 43603,
+      "ctr": 0.002866775221888402,
+      "position": 17.817535490677248
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 136,
+      "impressions": 41144,
+      "ctr": 0.0033054637371184134,
+      "position": 16.5392766867587
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 114,
+      "impressions": 40907,
+      "ctr": 0.002786809103576405,
+      "position": 18.36150292126042
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 72,
+      "impressions": 35897,
+      "ctr": 0.0020057386411120705,
+      "position": 20.169847062428616
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 68,
+      "impressions": 37508,
+      "ctr": 0.0018129465713981018,
+      "position": 16.815559347339235
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 136,
+      "impressions": 41607,
+      "ctr": 0.003268680750835196,
+      "position": 19.83916167952508
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 114,
+      "impressions": 39316,
+      "ctr": 0.002899582867026147,
+      "position": 16.83139179977617
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 134,
+      "impressions": 42360,
+      "ctr": 0.0031633616619452312,
+      "position": 17.189683663833804
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 203,
+      "impressions": 44021,
+      "ctr": 0.004611435451261897,
+      "position": 15.641784602803208
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 197,
+      "impressions": 45807,
+      "ctr": 0.0043006527386643964,
+      "position": 17.886523893728032
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 125,
+      "impressions": 37973,
+      "ctr": 0.003291812603692097,
+      "position": 18.75377241724383
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 132,
+      "impressions": 53051,
+      "ctr": 0.0024881717592505326,
+      "position": 18.88441311191118
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 152,
+      "impressions": 40112,
+      "ctr": 0.003789389708815317,
+      "position": 15.27682489030714
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 146,
+      "impressions": 38678,
+      "ctr": 0.003774755675060758,
+      "position": 15.961554371994415
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 128,
+      "impressions": 43656,
+      "ctr": 0.0029320139270661537,
+      "position": 15.66522356606194
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 178,
+      "impressions": 51826,
+      "ctr": 0.0034345695210898004,
+      "position": 15.983116582410373
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 178,
+      "impressions": 46545,
+      "ctr": 0.0038242560962509398,
+      "position": 17.050445805134817
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 147,
+      "impressions": 51351,
+      "ctr": 0.0028626511655079744,
+      "position": 19.226013125352964
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 149,
+      "impressions": 55761,
+      "ctr": 0.0026721185057656787,
+      "position": 19.54873477878804
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 158,
+      "impressions": 48851,
+      "ctr": 0.003234324783525414,
+      "position": 19.568279052629425
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 110,
+      "impressions": 48556,
+      "ctr": 0.002265425488096219,
+      "position": 19.139941510832852
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 112,
+      "impressions": 56732,
+      "ctr": 0.001974194458154128,
+      "position": 19.4397870690263
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 197,
+      "impressions": 51042,
+      "ctr": 0.0038595666314015908,
+      "position": 16.989224560166136
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 165,
+      "impressions": 49665,
+      "ctr": 0.0033222591362126247,
+      "position": 16.107762005436424
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 139,
+      "impressions": 47819,
+      "ctr": 0.0029067943704385287,
+      "position": 16.44507413371254
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 133,
+      "impressions": 57770,
+      "ctr": 0.002302232992902891,
+      "position": 17.307045179158735
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 153,
+      "impressions": 50479,
+      "ctr": 0.0030309633709067136,
+      "position": 15.902157332752234
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 117,
+      "impressions": 45706,
+      "ctr": 0.00255983897081346,
+      "position": 17.111451450575416
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 131,
+      "impressions": 52421,
+      "ctr": 0.0024989984929703743,
+      "position": 17.418610862059097
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 179,
+      "impressions": 52823,
+      "ctr": 0.0033886753876152436,
+      "position": 18.127898831948205
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 166,
+      "impressions": 73435,
+      "ctr": 0.002260502485190985,
+      "position": 12.42088922176074
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 203,
+      "impressions": 55231,
+      "ctr": 0.0036754721080552587,
+      "position": 17.77002045952454
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 171,
+      "impressions": 62855,
+      "ctr": 0.002720547291384934,
+      "position": 15.877686739320659
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 232,
+      "impressions": 56187,
+      "ctr": 0.004129069001726378,
+      "position": 13.610621674052716
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 300,
+      "impressions": 69779,
+      "ctr": 0.0042992877513291965,
+      "position": 14.696728242021239
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 268,
+      "impressions": 66180,
+      "ctr": 0.004049561801148383,
+      "position": 14.714113025083106
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 273,
+      "impressions": 63209,
+      "ctr": 0.00431900520495499,
+      "position": 16.274913382587922
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 238,
+      "impressions": 64611,
+      "ctr": 0.0036835832907709215,
+      "position": 16.060871987742026
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 221,
+      "impressions": 53907,
+      "ctr": 0.004099653106275623,
+      "position": 20.107685458289275
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 202,
+      "impressions": 59919,
+      "ctr": 0.003371217810711127,
+      "position": 19.01326791168077
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 214,
+      "impressions": 59535,
+      "ctr": 0.0035945242294448646,
+      "position": 15.893642395229698
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 178,
+      "impressions": 58663,
+      "ctr": 0.003034280551625386,
+      "position": 17.950190068697477
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 193,
+      "impressions": 74544,
+      "ctr": 0.002589074908778708,
+      "position": 14.793799635114832
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 223,
+      "impressions": 65338,
+      "ctr": 0.003413021518871101,
+      "position": 16.002617159998778
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 217,
+      "impressions": 56355,
+      "ctr": 0.00385059000975956,
+      "position": 17.002306805074973
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 198,
+      "impressions": 64630,
+      "ctr": 0.003063592758780752,
+      "position": 18.327231935633606
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 182,
+      "impressions": 62874,
+      "ctr": 0.0028946782453796484,
+      "position": 17.18742246397557
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 175,
+      "impressions": 44948,
+      "ctr": 0.003893387914923912,
+      "position": 16.82395212245261
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 191,
+      "impressions": 41868,
+      "ctr": 0.004561956625585172,
+      "position": 15.039863380147128
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 185,
+      "impressions": 50590,
+      "ctr": 0.0036568491796797786,
+      "position": 15.550721486459775
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 259,
+      "impressions": 66014,
+      "ctr": 0.003923410185718181,
+      "position": 17.738328233405035
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 213,
+      "impressions": 85023,
+      "ctr": 0.0025052044740834834,
+      "position": 19.44390341437023
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 149,
+      "impressions": 100715,
+      "ctr": 0.0014794221317579307,
+      "position": 21.481169637094773
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 146,
+      "impressions": 83322,
+      "ctr": 0.0017522383044093997,
+      "position": 20.366673867646
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 151,
+      "impressions": 78571,
+      "ctr": 0.0019218286645199883,
+      "position": 19.759173231853993
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 91,
+      "impressions": 64099,
+      "ctr": 0.0014196789341487386,
+      "position": 16.509961153840152
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 130,
+      "impressions": 110341,
+      "ctr": 0.0011781658676285334,
+      "position": 10.498636046437861
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 145,
+      "impressions": 136433,
+      "ctr": 0.0010627927260999904,
+      "position": 17.831763576260876
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 171,
+      "impressions": 99669,
+      "ctr": 0.0017156788971495651,
+      "position": 15.788359469845188
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 175,
+      "impressions": 120808,
+      "ctr": 0.001448579564267267,
+      "position": 8.870066551883982
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 175,
+      "impressions": 64803,
+      "ctr": 0.002700492261160749,
+      "position": 12.017329444624478
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 130,
+      "impressions": 44416,
+      "ctr": 0.0029268731988472624,
+      "position": 13.993155619596541
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 130,
+      "impressions": 35992,
+      "ctr": 0.0036119137586130253,
+      "position": 17.791787063791954
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 115,
+      "impressions": 42656,
+      "ctr": 0.002695986496624156,
+      "position": 18.18203769692423
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 164,
+      "impressions": 47759,
+      "ctr": 0.0034339077451370423,
+      "position": 16.612743147888356
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 150,
+      "impressions": 125831,
+      "ctr": 0.0011920750848360103,
+      "position": 8.377808330220692
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 147,
+      "impressions": 64948,
+      "ctr": 0.0022633491408511424,
+      "position": 14.511978813820287
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 135,
+      "impressions": 46467,
+      "ctr": 0.002905287623474724,
+      "position": 24.63660231992597
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 111,
+      "impressions": 35870,
+      "ctr": 0.003094507945358238,
+      "position": 17.451017563423473
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 103,
+      "impressions": 35612,
+      "ctr": 0.002892283499943839,
+      "position": 22.401437717623274
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 101,
+      "impressions": 51710,
+      "ctr": 0.001953200541481338,
+      "position": 20.84776638947979
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 149,
+      "impressions": 35013,
+      "ctr": 0.004255562219746951,
+      "position": 22.851312369691257
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 137,
+      "impressions": 33071,
+      "ctr": 0.004142602279943152,
+      "position": 18.889238305464
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 136,
+      "impressions": 35466,
+      "ctr": 0.0038346585462132746,
+      "position": 19.51688941521457
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 123,
+      "impressions": 31503,
+      "ctr": 0.0039043900580897056,
+      "position": 15.057867504682093
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 107,
+      "impressions": 28246,
+      "ctr": 0.0037881469942646745,
+      "position": 15.53111945054167
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 112,
+      "impressions": 33223,
+      "ctr": 0.0033711585347500224,
+      "position": 17.63561388194925
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 129,
+      "impressions": 34128,
+      "ctr": 0.003779887482419128,
+      "position": 17.241209563994374
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 170,
+      "impressions": 33550,
+      "ctr": 0.005067064083457526,
+      "position": 15.840357675111774
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 142,
+      "impressions": 38878,
+      "ctr": 0.00365245125778075,
+      "position": 14.242064921035032
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 158,
+      "impressions": 48714,
+      "ctr": 0.003243420782526584,
+      "position": 14.473949993841606
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 145,
+      "impressions": 41122,
+      "ctr": 0.003526093088857546,
+      "position": 19.32906959778221
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 122,
+      "impressions": 32126,
+      "ctr": 0.003797547158065119,
+      "position": 16.720786901575046
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 89,
+      "impressions": 29205,
+      "ctr": 0.0030474233864064373,
+      "position": 17.873206642698168
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "reimer heating and cooling",
+      "clicks": 704,
+      "impressions": 4425,
+      "ctr": 0.15909604519774012,
+      "position": 1.5324293785310734
+    },
+    {
+      "query": "reimer heating",
+      "clicks": 664,
+      "impressions": 4295,
+      "ctr": 0.15459837019790454,
+      "position": 1.2160651920838184
+    },
+    {
+      "query": "reimer",
+      "clicks": 538,
+      "impressions": 5124,
+      "ctr": 0.1049960967993755,
+      "position": 6.3097189695550355
+    },
+    {
+      "query": "reimer plumbing",
+      "clicks": 356,
+      "impressions": 2674,
+      "ctr": 0.13313388182498131,
+      "position": 2.0848915482423336
+    },
+    {
+      "query": "reimer home services",
+      "clicks": 302,
+      "impressions": 1639,
+      "ctr": 0.1842586943258084,
+      "position": 1.3026235509456985
+    },
+    {
+      "query": "reimer electric",
+      "clicks": 157,
+      "impressions": 577,
+      "ctr": 0.2720970537261698,
+      "position": 1.6932409012131715
+    },
+    {
+      "query": "reimer hvac",
+      "clicks": 100,
+      "impressions": 458,
+      "ctr": 0.2183406113537118,
+      "position": 8.633187772925764
+    },
+    {
+      "query": "reimer electrical",
+      "clicks": 76,
+      "impressions": 189,
+      "ctr": 0.4021164021164021,
+      "position": 4.915343915343915
+    },
+    {
+      "query": "reimer heating, cooling & plumbing",
+      "clicks": 57,
+      "impressions": 2771,
+      "ctr": 0.020570191266690727,
+      "position": 1.087333092746301
+    },
+    {
+      "query": "how does radiant heat work",
+      "clicks": 50,
+      "impressions": 1410,
+      "ctr": 0.03546099290780142,
+      "position": 2.000709219858156
+    },
+    {
+      "query": "reimer rochester",
+      "clicks": 49,
+      "impressions": 665,
+      "ctr": 0.07368421052631578,
+      "position": 2.1593984962406014
+    },
+    {
+      "query": "reimer albany",
+      "clicks": 48,
+      "impressions": 221,
+      "ctr": 0.2171945701357466,
+      "position": 5.846153846153846
+    },
+    {
+      "query": "riemer plumbing",
+      "clicks": 40,
+      "impressions": 325,
+      "ctr": 0.12307692307692308,
+      "position": 2.2800000000000002
+    },
+    {
+      "query": "furnace repair near me",
+      "clicks": 38,
+      "impressions": 9193,
+      "ctr": 0.004133579897748286,
+      "position": 18.01642554117263
+    },
+    {
+      "query": "reimer heating & cooling",
+      "clicks": 37,
+      "impressions": 105,
+      "ctr": 0.3523809523809524,
+      "position": 2.9523809523809526
+    },
+    {
+      "query": "reimer heating, cooling & plumbing, llc",
+      "clicks": 36,
+      "impressions": 1782,
+      "ctr": 0.020202020202020204,
+      "position": 1.0707070707070707
+    },
+    {
+      "query": "reimer heating, cooling & plumbing, llc reviews",
+      "clicks": 36,
+      "impressions": 375,
+      "ctr": 0.096,
+      "position": 2.2880000000000003
+    },
+    {
+      "query": "furnace light blinking",
+      "clicks": 32,
+      "impressions": 1041,
+      "ctr": 0.03073967339097022,
+      "position": 1.6791546589817483
+    },
+    {
+      "query": "reimer buffalo",
+      "clicks": 32,
+      "impressions": 233,
+      "ctr": 0.13733905579399142,
+      "position": 2.3819742489270386
+    },
+    {
+      "query": "reimer home services rochester ny",
+      "clicks": 30,
+      "impressions": 125,
+      "ctr": 0.24,
+      "position": 1.32
+    },
+    {
+      "query": "plumbers near me",
+      "clicks": 29,
+      "impressions": 4087,
+      "ctr": 0.007095669195008564,
+      "position": 11.671641791044776
+    },
+    {
+      "query": "reimer heating and cooling buffalo ny",
+      "clicks": 29,
+      "impressions": 371,
+      "ctr": 0.07816711590296496,
+      "position": 16.60377358490566
+    },
+    {
+      "query": "buzzing sound in wall",
+      "clicks": 24,
+      "impressions": 874,
+      "ctr": 0.02745995423340961,
+      "position": 2.139588100686499
+    },
+    {
+      "query": "riemer",
+      "clicks": 24,
+      "impressions": 81,
+      "ctr": 0.2962962962962963,
+      "position": 1.8518518518518519
+    },
+    {
+      "query": "reimer heating and cooling rochester ny",
+      "clicks": 21,
+      "impressions": 159,
+      "ctr": 0.1320754716981132,
+      "position": 4.955974842767295
+    },
+    {
+      "query": "reimer plumbing buffalo ny",
+      "clicks": 21,
+      "impressions": 131,
+      "ctr": 0.16030534351145037,
+      "position": 21.236641221374047
+    },
+    {
+      "query": "reimer plumbing rochester ny",
+      "clicks": 21,
+      "impressions": 106,
+      "ctr": 0.19811320754716982,
+      "position": 1.009433962264151
+    },
+    {
+      "query": "rimer plumbing",
+      "clicks": 21,
+      "impressions": 97,
+      "ctr": 0.21649484536082475,
+      "position": 3.2577319587628866
+    },
+    {
+      "query": "how to tell if you have a water leak underground",
+      "clicks": 20,
+      "impressions": 1257,
+      "ctr": 0.015910898965791568,
+      "position": 4.747812251392204
+    },
+    {
+      "query": "reimer heating cooling & plumbing",
+      "clicks": 19,
+      "impressions": 128,
+      "ctr": 0.1484375,
+      "position": 5.421875
+    },
+    {
+      "query": "reimer plumbing albany ny",
+      "clicks": 19,
+      "impressions": 101,
+      "ctr": 0.18811881188118812,
+      "position": 9.613861386138614
+    },
+    {
+      "query": "hvac companies near me",
+      "clicks": 18,
+      "impressions": 2048,
+      "ctr": 0.0087890625,
+      "position": 8.45556640625
+    },
+    {
+      "query": "who owns reimer heating and cooling",
+      "clicks": 17,
+      "impressions": 88,
+      "ctr": 0.19318181818181818,
+      "position": 1.5681818181818183
+    },
+    {
+      "query": "excellent air",
+      "clicks": 16,
+      "impressions": 158,
+      "ctr": 0.10126582278481013,
+      "position": 3.5569620253164556
+    },
+    {
+      "query": "reimer rochester ny",
+      "clicks": 16,
+      "impressions": 133,
+      "ctr": 0.12030075187969924,
+      "position": 1
+    },
+    {
+      "query": "all star plumbing",
+      "clicks": 13,
+      "impressions": 741,
+      "ctr": 0.017543859649122806,
+      "position": 17.327935222672064
+    },
+    {
+      "query": "j & m schwarz heating & cooling inc",
+      "clicks": 13,
+      "impressions": 55,
+      "ctr": 0.23636363636363636,
+      "position": 2.2363636363636363
+    },
+    {
+      "query": "reimer plumbing and heating",
+      "clicks": 13,
+      "impressions": 107,
+      "ctr": 0.12149532710280374,
+      "position": 3.560747663551402
+    },
+    {
+      "query": "hvac near me",
+      "clicks": 12,
+      "impressions": 2081,
+      "ctr": 0.005766458433445459,
+      "position": 5.969245555021624
+    },
+    {
+      "query": "main circuit breaker",
+      "clicks": 12,
+      "impressions": 4522,
+      "ctr": 0.0026536930561698365,
+      "position": 1.7808491817779744
+    },
+    {
+      "query": "noise between the walls",
+      "clicks": 12,
+      "impressions": 2591,
+      "ctr": 0.004631416441528367,
+      "position": 4.678888460054033
+    },
+    {
+      "query": "reimer buffalo ny",
+      "clicks": 12,
+      "impressions": 54,
+      "ctr": 0.2222222222222222,
+      "position": 1.0555555555555556
+    },
+    {
+      "query": "water pressure regulator",
+      "clicks": 12,
+      "impressions": 9351,
+      "ctr": 0.0012832852101379532,
+      "position": 9.488076141589135
+    },
+    {
+      "query": "main circuit breaker for house",
+      "clicks": 11,
+      "impressions": 902,
+      "ctr": 0.012195121951219513,
+      "position": 1.2904656319290466
+    },
+    {
+      "query": "reimer plumbing reviews",
+      "clicks": 11,
+      "impressions": 205,
+      "ctr": 0.05365853658536585,
+      "position": 4.878048780487805
+    },
+    {
+      "query": "blinking light on furnace",
+      "clicks": 10,
+      "impressions": 584,
+      "ctr": 0.017123287671232876,
+      "position": 1.4623287671232876
+    },
+    {
+      "query": "no cold water",
+      "clicks": 10,
+      "impressions": 877,
+      "ctr": 0.011402508551881414,
+      "position": 13.696693272519955
+    },
+    {
+      "query": "toilet water level low",
+      "clicks": 10,
+      "impressions": 2474,
+      "ctr": 0.004042037186742118,
+      "position": 2.6552142279708972
+    },
+    {
+      "query": "air scrubber",
+      "clicks": 9,
+      "impressions": 1697,
+      "ctr": 0.005303476723629935,
+      "position": 2.073659398939305
+    },
+    {
+      "query": "hvac rochester ny",
+      "clicks": 9,
+      "impressions": 986,
+      "ctr": 0.009127789046653144,
+      "position": 15.528397565922921
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://reimerhvac.com/",
+      "clicks": 1722,
+      "impressions": 106910,
+      "ctr": 0.016107005892807034,
+      "position": 31.477728930876438
+    },
+    {
+      "page": "https://reimerhvac.com/whats-that-buzzing-sound-in-my-walls/",
+      "clicks": 1643,
+      "impressions": 184447,
+      "ctr": 0.008907707905251916,
+      "position": 3.2564964461335775
+    },
+    {
+      "page": "https://reimerhvac.com/cheektowaga/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*167*reimer-home-services-Cheektowaga",
+      "clicks": 1013,
+      "impressions": 79504,
+      "ctr": 0.012741497283155564,
+      "position": 2.761282451197424
+    },
+    {
+      "page": "https://reimerhvac.com/schenectady/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*166*reimer-heating-cooling-schenectady",
+      "clicks": 825,
+      "impressions": 50151,
+      "ctr": 0.016450320033498833,
+      "position": 2.765268887958366
+    },
+    {
+      "page": "https://reimerhvac.com/what-does-the-blinking-light-on-your-furnace-mean/",
+      "clicks": 691,
+      "impressions": 186943,
+      "ctr": 0.0036963138496761043,
+      "position": 2.5510663678233474
+    },
+    {
+      "page": "https://reimerhvac.com/why-are-there-bubbles-coming-from-my-sink/",
+      "clicks": 507,
+      "impressions": 58408,
+      "ctr": 0.008680317764689768,
+      "position": 2.5290713600876593
+    },
+    {
+      "page": "https://reimerhvac.com/rochester/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*279*reimer-heating-cooling-rochester",
+      "clicks": 492,
+      "impressions": 98716,
+      "ctr": 0.004983994489241865,
+      "position": 1.9434944689817253
+    },
+    {
+      "page": "https://reimerhvac.com/can-plumbing-be-installed-in-an-exterior-wall/",
+      "clicks": 418,
+      "impressions": 51076,
+      "ctr": 0.008183882841256167,
+      "position": 3.91064296342705
+    },
+    {
+      "page": "https://reimerhvac.com/understanding-your-homes-main-circuit-breaker/",
+      "clicks": 322,
+      "impressions": 871254,
+      "ctr": 0.0003695822343426831,
+      "position": 7.865039357064645
+    },
+    {
+      "page": "https://reimerhvac.com/causes-of-low-toilet-water-level/",
+      "clicks": 285,
+      "impressions": 86171,
+      "ctr": 0.0033073771918626918,
+      "position": 3.9049796335193974
+    },
+    {
+      "page": "https://reimerhvac.com/why-is-my-furnace-making-a-banging-noise/",
+      "clicks": 273,
+      "impressions": 40021,
+      "ctr": 0.006821418755153544,
+      "position": 9.59403812998176
+    },
+    {
+      "page": "https://reimerhvac.com/should-you-use-your-fireplace-and-central-heat-together/",
+      "clicks": 271,
+      "impressions": 14221,
+      "ctr": 0.01905632515294283,
+      "position": 5.449265171225652
+    },
+    {
+      "page": "https://reimerhvac.com/what-are-the-signs-of-an-underground-water-leak/",
+      "clicks": 270,
+      "impressions": 52008,
+      "ctr": 0.005191508998615597,
+      "position": 12.054895400707583
+    },
+    {
+      "page": "https://reimerhvac.com/i-have-no-cold-water-why/",
+      "clicks": 268,
+      "impressions": 35784,
+      "ctr": 0.007489380728817349,
+      "position": 4.403672032193159
+    },
+    {
+      "page": "https://reimerhvac.com/rochester/",
+      "clicks": 243,
+      "impressions": 114283,
+      "ctr": 0.0021263004996368664,
+      "position": 21.74220137728271
+    },
+    {
+      "page": "https://reimerhvac.com/what-to-do-when-you-drop-something-down-the-drain/",
+      "clicks": 236,
+      "impressions": 28139,
+      "ctr": 0.008386936280606987,
+      "position": 3.845125981733537
+    },
+    {
+      "page": "https://reimerhvac.com/the-team/",
+      "clicks": 227,
+      "impressions": 17802,
+      "ctr": 0.012751376249859567,
+      "position": 5.513032243568138
+    },
+    {
+      "page": "https://reimerhvac.com/albany/",
+      "clicks": 190,
+      "impressions": 55117,
+      "ctr": 0.003447212293847633,
+      "position": 25.383384436743654
+    },
+    {
+      "page": "https://reimerhvac.com/how-to-clean-a-smelly-drain/",
+      "clicks": 186,
+      "impressions": 107722,
+      "ctr": 0.0017266667904420638,
+      "position": 11.700070551976383
+    },
+    {
+      "page": "https://reimerhvac.com/contact-us/",
+      "clicks": 177,
+      "impressions": 27036,
+      "ctr": 0.006546826453617399,
+      "position": 6.618693593726882
+    },
+    {
+      "page": "https://reimerhvac.com/why-outlets-stop-working/",
+      "clicks": 132,
+      "impressions": 100344,
+      "ctr": 0.0013154747668022004,
+      "position": 7.567846607669616
+    },
+    {
+      "page": "https://reimerhvac.com/careers/",
+      "clicks": 118,
+      "impressions": 1024,
+      "ctr": 0.115234375,
+      "position": 12.46875
+    },
+    {
+      "page": "https://reimerhvac.com/what-is-a-water-pressure-regulator-and-how-does-it-work/",
+      "clicks": 115,
+      "impressions": 75322,
+      "ctr": 0.0015267783648867529,
+      "position": 13.040957489179789
+    },
+    {
+      "page": "https://reimerhvac.com/hamburg/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*278*reimer-heating-cooling-hamburg",
+      "clicks": 111,
+      "impressions": 26963,
+      "ctr": 0.004116752586878315,
+      "position": 4.694803990653859
+    },
+    {
+      "page": "https://reimerhvac.com/schenectady/",
+      "clicks": 105,
+      "impressions": 16265,
+      "ctr": 0.00645557946510913,
+      "position": 13.176329541961266
+    },
+    {
+      "page": "https://reimerhvac.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*414*j-m-schwarz-albany",
+      "clicks": 102,
+      "impressions": 2957,
+      "ctr": 0.034494420020290836,
+      "position": 12.5187690226581
+    },
+    {
+      "page": "https://reimerhvac.com/why-are-my-lights-flickering-and-dimming/",
+      "clicks": 98,
+      "impressions": 56139,
+      "ctr": 0.0017456670051123105,
+      "position": 11.820356614831045
+    },
+    {
+      "page": "https://reimerhvac.com/do-air-scrubbers-really-work-a-homeowners-guide/",
+      "clicks": 94,
+      "impressions": 19328,
+      "ctr": 0.00486341059602649,
+      "position": 7.376086506622516
+    },
+    {
+      "page": "https://reimerhvac.com/how-radiant-heating-works/",
+      "clicks": 93,
+      "impressions": 12094,
+      "ctr": 0.00768976351910038,
+      "position": 29.993798577807176
+    },
+    {
+      "page": "https://reimerhvac.com/what-to-do-if-your-water-heater-stops-working-overnight/",
+      "clicks": 92,
+      "impressions": 19145,
+      "ctr": 0.004805432227735701,
+      "position": 6.874745364324889
+    },
+    {
+      "page": "https://reimerhvac.com/review/",
+      "clicks": 90,
+      "impressions": 6877,
+      "ctr": 0.013087101933982841,
+      "position": 5.422567980223935
+    },
+    {
+      "page": "https://reimerhvac.com/albany/plumbing/",
+      "clicks": 88,
+      "impressions": 29873,
+      "ctr": 0.002945803903190172,
+      "position": 20.318782847387272
+    },
+    {
+      "page": "https://reimerhvac.com/how-often-should-you-flush-your-boiler/",
+      "clicks": 85,
+      "impressions": 8807,
+      "ctr": 0.00965141364823436,
+      "position": 4.467128420574543
+    },
+    {
+      "page": "https://reimerhvac.com/electrical-services/",
+      "clicks": 84,
+      "impressions": 17927,
+      "ctr": 0.004685669660288949,
+      "position": 6.53377586880125
+    },
+    {
+      "page": "https://reimerhvac.com/maintenance/",
+      "clicks": 79,
+      "impressions": 2708,
+      "ctr": 0.029172821270310192,
+      "position": 12.128138847858198
+    },
+    {
+      "page": "https://reimerhvac.com/how-to-keep-leaves-out-of-your-hvac-system/",
+      "clicks": 68,
+      "impressions": 7739,
+      "ctr": 0.008786664943791187,
+      "position": 3.1276650730068485
+    },
+    {
+      "page": "https://reimerhvac.com/what-is-a-shut-off-valve-and-why-do-you-need-one/",
+      "clicks": 68,
+      "impressions": 47124,
+      "ctr": 0.001443001443001443,
+      "position": 8.804452083863849
+    },
+    {
+      "page": "https://reimerhvac.com/do-air-conditioners-emit-carbon-monoxide/",
+      "clicks": 67,
+      "impressions": 34723,
+      "ctr": 0.0019295567779281744,
+      "position": 3.779569737637877
+    },
+    {
+      "page": "https://reimerhvac.com/coupons/",
+      "clicks": 66,
+      "impressions": 5097,
+      "ctr": 0.012948793407886992,
+      "position": 14.83519717480871
+    },
+    {
+      "page": "https://reimerhvac.com/what-is-causing-water-stains-on-my-wall-and-ceilings/",
+      "clicks": 61,
+      "impressions": 18632,
+      "ctr": 0.003273937312151138,
+      "position": 11.004615714899098
+    },
+    {
+      "page": "https://reimerhvac.com/ways-to-stop-your-toilet-from-sweating/",
+      "clicks": 60,
+      "impressions": 22766,
+      "ctr": 0.002635509092506369,
+      "position": 5.855354475972942
+    },
+    {
+      "page": "https://reimerhvac.com/buffalo/",
+      "clicks": 59,
+      "impressions": 23682,
+      "ctr": 0.002491343636517186,
+      "position": 18.584410100498268
+    },
+    {
+      "page": "https://reimerhvac.com/about-us/",
+      "clicks": 58,
+      "impressions": 21044,
+      "ctr": 0.002756130013305455,
+      "position": 4.973246531077741
+    },
+    {
+      "page": "https://reimerhvac.com/rochester/electrical/",
+      "clicks": 54,
+      "impressions": 16258,
+      "ctr": 0.0033214417517529833,
+      "position": 22.389285274941567
+    },
+    {
+      "page": "https://reimerhvac.com/plumbing-services/",
+      "clicks": 53,
+      "impressions": 64840,
+      "ctr": 0.0008173966687230105,
+      "position": 31.57493830968538
+    },
+    {
+      "page": "https://reimerhvac.com/whats-a-gfci-outlet-and-what-does-it-do/",
+      "clicks": 51,
+      "impressions": 32679,
+      "ctr": 0.00156063527035711,
+      "position": 11.212338198843295
+    },
+    {
+      "page": "https://reimerhvac.com/saratoga-springs/",
+      "clicks": 45,
+      "impressions": 26172,
+      "ctr": 0.0017193947730398899,
+      "position": 14.57641754546844
+    },
+    {
+      "page": "https://reimerhvac.com/hvac-services-tonawanda-ny/",
+      "clicks": 44,
+      "impressions": 16298,
+      "ctr": 0.002699717756779973,
+      "position": 12.966744385814211
+    },
+    {
+      "page": "https://reimerhvac.com/troubleshooting-strange-furnace-sounds/",
+      "clicks": 41,
+      "impressions": 10480,
+      "ctr": 0.0039122137404580155,
+      "position": 5.868606870229008
+    },
+    {
+      "page": "https://reimerhvac.com/welcome-all-star-plumbing/",
+      "clicks": 40,
+      "impressions": 6117,
+      "ctr": 0.006539153179663234,
+      "position": 20.61533431420631
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:06:44.830Z"
+}

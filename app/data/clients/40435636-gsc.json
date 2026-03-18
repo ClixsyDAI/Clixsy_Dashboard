@@ -1,0 +1,1350 @@
+{
+  "property": "sc-domain:andrewpickettlaw.com",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 1484,
+    "impressions": 691593,
+    "ctr": 0.0021457707061812367,
+    "position": 22.908679678186278
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 17,
+      "impressions": 9800,
+      "ctr": 0.0017346938775510204,
+      "position": 18.34265306122449
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 21,
+      "impressions": 7257,
+      "ctr": 0.0028937577511368336,
+      "position": 22.025906021772084
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 15,
+      "impressions": 6063,
+      "ctr": 0.002474022761009401,
+      "position": 17.744515916213096
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 17,
+      "impressions": 6000,
+      "ctr": 0.0028333333333333335,
+      "position": 19.159666666666666
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 12,
+      "impressions": 6526,
+      "ctr": 0.0018387986515476554,
+      "position": 21.358259270609867
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 15,
+      "impressions": 6347,
+      "ctr": 0.002363321254135812,
+      "position": 20.297305813770286
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 12,
+      "impressions": 6357,
+      "ctr": 0.0018876828692779614,
+      "position": 21.696869592575116
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 10,
+      "impressions": 13054,
+      "ctr": 0.0007660487206986365,
+      "position": 11.682242990654206
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 15,
+      "impressions": 7055,
+      "ctr": 0.002126151665485471,
+      "position": 24.633167965981574
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 8,
+      "impressions": 5430,
+      "ctr": 0.0014732965009208103,
+      "position": 22.56611418047882
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 12,
+      "impressions": 5026,
+      "ctr": 0.00238758456028651,
+      "position": 20.11957819339435
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 10,
+      "impressions": 5801,
+      "ctr": 0.0017238407171177384,
+      "position": 20.8667471125668
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 15,
+      "impressions": 5620,
+      "ctr": 0.0026690391459074734,
+      "position": 20.473487544483987
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 9,
+      "impressions": 6019,
+      "ctr": 0.0014952649941850807,
+      "position": 22.41568366838345
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 26,
+      "impressions": 9262,
+      "ctr": 0.0028071690779529258,
+      "position": 19.562621464046643
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 34,
+      "impressions": 6686,
+      "ctr": 0.00508525276697577,
+      "position": 24.501495662578524
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 40,
+      "impressions": 5863,
+      "ctr": 0.006822445846836091,
+      "position": 23.743987719597477
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 7,
+      "impressions": 6005,
+      "ctr": 0.0011656952539550376,
+      "position": 22.887760199833473
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 17,
+      "impressions": 5976,
+      "ctr": 0.0028447121820615795,
+      "position": 21.17921686746988
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 13,
+      "impressions": 5361,
+      "ctr": 0.0024249207237455697,
+      "position": 19.062115277000558
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 6,
+      "impressions": 5917,
+      "ctr": 0.001014027378739226,
+      "position": 21.317728578671623
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 13,
+      "impressions": 9895,
+      "ctr": 0.0013137948458817584,
+      "position": 14.400707427993936
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 16,
+      "impressions": 6130,
+      "ctr": 0.0026101141924959217,
+      "position": 21.709624796084828
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 16,
+      "impressions": 14828,
+      "ctr": 0.0010790396547073105,
+      "position": 33.55017534394389
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 20,
+      "impressions": 8282,
+      "ctr": 0.002414875633904854,
+      "position": 22.52970297029703
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 18,
+      "impressions": 10245,
+      "ctr": 0.0017569546120058566,
+      "position": 33.684626647144945
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 16,
+      "impressions": 7990,
+      "ctr": 0.002002503128911139,
+      "position": 29.732665832290362
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 6,
+      "impressions": 5563,
+      "ctr": 0.0010785547366528852,
+      "position": 29.79633291389538
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 27,
+      "impressions": 6935,
+      "ctr": 0.003893294881038212,
+      "position": 18.784138428262438
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 13,
+      "impressions": 12656,
+      "ctr": 0.0010271807838179519,
+      "position": 23.979693426042985
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 20,
+      "impressions": 6077,
+      "ctr": 0.003291097581043278,
+      "position": 26.58844824749054
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 11,
+      "impressions": 5509,
+      "ctr": 0.0019967326193501543,
+      "position": 21.18497004901071
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 12,
+      "impressions": 5872,
+      "ctr": 0.0020435967302452314,
+      "position": 25.986886920980925
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 7,
+      "impressions": 5549,
+      "ctr": 0.001261488556496666,
+      "position": 23.72373400612723
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 5,
+      "impressions": 5204,
+      "ctr": 0.0009607993850883935,
+      "position": 24.80284396617986
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 15,
+      "impressions": 13388,
+      "ctr": 0.001120406334030475,
+      "position": 13.371900209142515
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 28,
+      "impressions": 10329,
+      "ctr": 0.0027108142124116566,
+      "position": 30.17697744215316
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 10,
+      "impressions": 7204,
+      "ctr": 0.00138811771238201,
+      "position": 24.001804553026098
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 21,
+      "impressions": 9317,
+      "ctr": 0.002253944402704733,
+      "position": 21.213588064827736
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 28,
+      "impressions": 7847,
+      "ctr": 0.003568242640499554,
+      "position": 18.955651841468075
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 12,
+      "impressions": 6317,
+      "ctr": 0.0018996359031185689,
+      "position": 22.19312965015039
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 8,
+      "impressions": 13169,
+      "ctr": 0.0006074872807350596,
+      "position": 12.52114815096059
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 15,
+      "impressions": 8227,
+      "ctr": 0.0018232648596086059,
+      "position": 22.744621368664156
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 26,
+      "impressions": 12346,
+      "ctr": 0.002105945245423619,
+      "position": 29.12522274420865
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 22,
+      "impressions": 7598,
+      "ctr": 0.002895498815477757,
+      "position": 23.682153198210056
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 24,
+      "impressions": 6411,
+      "ctr": 0.003743565746373421,
+      "position": 22.917641553579784
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 18,
+      "impressions": 6141,
+      "ctr": 0.0029311187103077674,
+      "position": 24.47158443250285
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 9,
+      "impressions": 5685,
+      "ctr": 0.0015831134564643799,
+      "position": 25.460686015831136
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 6,
+      "impressions": 6516,
+      "ctr": 0.0009208103130755065,
+      "position": 24.891804788213626
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 18,
+      "impressions": 6777,
+      "ctr": 0.0026560424966799467,
+      "position": 25.03202006787664
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 25,
+      "impressions": 10300,
+      "ctr": 0.0024271844660194173,
+      "position": 30.52728155339806
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 26,
+      "impressions": 6832,
+      "ctr": 0.0038056206088992973,
+      "position": 25.442183840749415
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 28,
+      "impressions": 17421,
+      "ctr": 0.001607255611044142,
+      "position": 31.254979622294933
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 21,
+      "impressions": 9593,
+      "ctr": 0.0021890962159908265,
+      "position": 25.34806629834254
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 7,
+      "impressions": 5603,
+      "ctr": 0.0012493307156880244,
+      "position": 24.111904336962343
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 6,
+      "impressions": 10498,
+      "ctr": 0.0005715374357020385,
+      "position": 13.793865498190131
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 18,
+      "impressions": 6370,
+      "ctr": 0.00282574568288854,
+      "position": 21.488854003139718
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 17,
+      "impressions": 12768,
+      "ctr": 0.001331453634085213,
+      "position": 23.084586466165412
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 11,
+      "impressions": 5973,
+      "ctr": 0.001841620626151013,
+      "position": 23.82019085886489
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 23,
+      "impressions": 6138,
+      "ctr": 0.003747148908439231,
+      "position": 19.801238188334963
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 9,
+      "impressions": 5069,
+      "ctr": 0.0017754981258630894,
+      "position": 19.18445452752022
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 6,
+      "impressions": 4906,
+      "ctr": 0.0012229922543823889,
+      "position": 21.657969832857724
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 9,
+      "impressions": 5036,
+      "ctr": 0.0017871326449563146,
+      "position": 21.630063542494042
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 23,
+      "impressions": 6004,
+      "ctr": 0.0038307794803464357,
+      "position": 20.358594270486343
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 36,
+      "impressions": 7075,
+      "ctr": 0.005088339222614841,
+      "position": 20.79618374558304
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 23,
+      "impressions": 6435,
+      "ctr": 0.003574203574203574,
+      "position": 21.982439782439783
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 34,
+      "impressions": 10106,
+      "ctr": 0.0033643380170195925,
+      "position": 10.645656045913318
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 11,
+      "impressions": 8037,
+      "ctr": 0.0013686699017046162,
+      "position": 16.152668906308325
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 8,
+      "impressions": 5568,
+      "ctr": 0.0014367816091954023,
+      "position": 21.639906609195403
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 12,
+      "impressions": 11489,
+      "ctr": 0.001044477326138045,
+      "position": 11.342327443641745
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 9,
+      "impressions": 6577,
+      "ctr": 0.0013684050478941767,
+      "position": 20.22776341797172
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 20,
+      "impressions": 7390,
+      "ctr": 0.0027063599458728013,
+      "position": 22.172665764546686
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 23,
+      "impressions": 6179,
+      "ctr": 0.0037222851594109077,
+      "position": 23.61854669040298
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 27,
+      "impressions": 6551,
+      "ctr": 0.004121508166692108,
+      "position": 19.810105327430925
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 14,
+      "impressions": 5930,
+      "ctr": 0.002360876897133221,
+      "position": 20.063743676222597
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 7,
+      "impressions": 5705,
+      "ctr": 0.001226993865030675,
+      "position": 23.888694127957933
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 10,
+      "impressions": 6145,
+      "ctr": 0.0016273393002441008,
+      "position": 25.417900732302684
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 18,
+      "impressions": 6562,
+      "ctr": 0.0027430661383724473,
+      "position": 21.465102103017372
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 20,
+      "impressions": 11785,
+      "ctr": 0.0016970725498515061,
+      "position": 15.545014849384811
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 17,
+      "impressions": 9090,
+      "ctr": 0.0018701870187018703,
+      "position": 31.261936193619363
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 19,
+      "impressions": 7309,
+      "ctr": 0.002599534820084827,
+      "position": 28.124504036119852
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 21,
+      "impressions": 7636,
+      "ctr": 0.002750130958617077,
+      "position": 24.904138292299635
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 8,
+      "impressions": 6335,
+      "ctr": 0.0012628255722178373,
+      "position": 29.39952644041042
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 10,
+      "impressions": 6150,
+      "ctr": 0.0016260162601626016,
+      "position": 30.060813008130083
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 29,
+      "impressions": 7512,
+      "ctr": 0.0038604898828541,
+      "position": 32.84171991480298
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 12,
+      "impressions": 9590,
+      "ctr": 0.001251303441084463,
+      "position": 30.849739311783107
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 18,
+      "impressions": 7663,
+      "ctr": 0.002348949497585802,
+      "position": 31.808560615946757
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 15,
+      "impressions": 13311,
+      "ctr": 0.001126887536623845,
+      "position": 17.271730147997896
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 26,
+      "impressions": 6595,
+      "ctr": 0.003942380591357089,
+      "position": 30.198635329795298
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 17,
+      "impressions": 6925,
+      "ctr": 0.002454873646209386,
+      "position": 31.935306859205777
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "andrew pickett law",
+      "clicks": 269,
+      "impressions": 1028,
+      "ctr": 0.2616731517509728,
+      "position": 1.5136186770428015
+    },
+    {
+      "query": "andrew pickett",
+      "clicks": 37,
+      "impressions": 580,
+      "ctr": 0.06379310344827586,
+      "position": 2.3948275862068966
+    },
+    {
+      "query": "andrew pickett law, pllc",
+      "clicks": 17,
+      "impressions": 61,
+      "ctr": 0.2786885245901639,
+      "position": 1
+    },
+    {
+      "query": "andrew pickett law melbourne",
+      "clicks": 14,
+      "impressions": 182,
+      "ctr": 0.07692307692307693,
+      "position": 2.2527472527472527
+    },
+    {
+      "query": "pickett law",
+      "clicks": 12,
+      "impressions": 170,
+      "ctr": 0.07058823529411765,
+      "position": 24.435294117647057
+    },
+    {
+      "query": "andrew pickett law titusville",
+      "clicks": 8,
+      "impressions": 354,
+      "ctr": 0.022598870056497175,
+      "position": 3.225988700564972
+    },
+    {
+      "query": "history of melbourne florida",
+      "clicks": 8,
+      "impressions": 105,
+      "ctr": 0.0761904761904762,
+      "position": 1.8571428571428572
+    },
+    {
+      "query": "what a landlord cannot do florida",
+      "clicks": 8,
+      "impressions": 52,
+      "ctr": 0.15384615384615385,
+      "position": 3.0384615384615383
+    },
+    {
+      "query": "graves amendment florida",
+      "clicks": 7,
+      "impressions": 270,
+      "ctr": 0.025925925925925925,
+      "position": 8.011111111111111
+    },
+    {
+      "query": "pickett law firm",
+      "clicks": 7,
+      "impressions": 59,
+      "ctr": 0.11864406779661017,
+      "position": 10.88135593220339
+    },
+    {
+      "query": "andrew picket law",
+      "clicks": 5,
+      "impressions": 25,
+      "ctr": 0.2,
+      "position": 4.92
+    },
+    {
+      "query": "andrew picket",
+      "clicks": 4,
+      "impressions": 67,
+      "ctr": 0.05970149253731343,
+      "position": 2.4477611940298507
+    },
+    {
+      "query": "melbourne florida",
+      "clicks": 4,
+      "impressions": 2138,
+      "ctr": 0.0018709073900841909,
+      "position": 9.746492048643592
+    },
+    {
+      "query": "tenant lawyer free consultation florida",
+      "clicks": 4,
+      "impressions": 24,
+      "ctr": 0.16666666666666666,
+      "position": 3.1666666666666665
+    },
+    {
+      "query": "melbourne fl history",
+      "clicks": 3,
+      "impressions": 66,
+      "ctr": 0.045454545454545456,
+      "position": 1.9848484848484849
+    },
+    {
+      "query": "picketlaw",
+      "clicks": 3,
+      "impressions": 4,
+      "ctr": 0.75,
+      "position": 3.5
+    },
+    {
+      "query": "renters rights in florida",
+      "clicks": 3,
+      "impressions": 41,
+      "ctr": 0.07317073170731707,
+      "position": 1.170731707317073
+    },
+    {
+      "query": "when was melbourne florida founded",
+      "clicks": 3,
+      "impressions": 146,
+      "ctr": 0.02054794520547945,
+      "position": 6.801369863013699
+    },
+    {
+      "query": "andrew lawyer",
+      "clicks": 2,
+      "impressions": 3,
+      "ctr": 0.6666666666666666,
+      "position": 4
+    },
+    {
+      "query": "attorneys melbourne fl",
+      "clicks": 2,
+      "impressions": 278,
+      "ctr": 0.007194244604316547,
+      "position": 5.079136690647482
+    },
+    {
+      "query": "bankruptcy lawyer near me",
+      "clicks": 2,
+      "impressions": 14,
+      "ctr": 0.14285714285714285,
+      "position": 3.2857142857142856
+    },
+    {
+      "query": "business attorney melbourne fl",
+      "clicks": 2,
+      "impressions": 38,
+      "ctr": 0.05263157894736842,
+      "position": 1.763157894736842
+    },
+    {
+      "query": "car accident attorney",
+      "clicks": 2,
+      "impressions": 2678,
+      "ctr": 0.0007468259895444362,
+      "position": 18.60791635548917
+    },
+    {
+      "query": "car accident law firms near me",
+      "clicks": 2,
+      "impressions": 8,
+      "ctr": 0.25,
+      "position": 1
+    },
+    {
+      "query": "famous people from melbourne florida",
+      "clicks": 2,
+      "impressions": 105,
+      "ctr": 0.01904761904761905,
+      "position": 2.895238095238095
+    },
+    {
+      "query": "how long does it take to file a lawsuit",
+      "clicks": 2,
+      "impressions": 97,
+      "ctr": 0.020618556701030927,
+      "position": 46.144329896907216
+    },
+    {
+      "query": "indemnización por operación de rodilla",
+      "clicks": 2,
+      "impressions": 150,
+      "ctr": 0.013333333333333334,
+      "position": 4.626666666666667
+    },
+    {
+      "query": "law firms near me",
+      "clicks": 2,
+      "impressions": 11,
+      "ctr": 0.18181818181818182,
+      "position": 18.727272727272727
+    },
+    {
+      "query": "melbourne fl",
+      "clicks": 2,
+      "impressions": 2251,
+      "ctr": 0.000888494002665482,
+      "position": 11.992892047978676
+    },
+    {
+      "query": "melbourne fl news today",
+      "clicks": 2,
+      "impressions": 4,
+      "ctr": 0.5,
+      "position": 5.75
+    },
+    {
+      "query": "personal injury lawyer melbourne fl",
+      "clicks": 2,
+      "impressions": 884,
+      "ctr": 0.0022624434389140274,
+      "position": 21.29524886877828
+    },
+    {
+      "query": "picket law",
+      "clicks": 2,
+      "impressions": 12,
+      "ctr": 0.16666666666666666,
+      "position": 4.416666666666666
+    },
+    {
+      "query": "tenant rights lawyer florida",
+      "clicks": 2,
+      "impressions": 11,
+      "ctr": 0.18181818181818182,
+      "position": 2.2727272727272725
+    },
+    {
+      "query": "trust attorneys near me",
+      "clicks": 2,
+      "impressions": 4,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "accident lawyers near me",
+      "clicks": 1,
+      "impressions": 100,
+      "ctr": 0.01,
+      "position": 1.49
+    },
+    {
+      "query": "america's antique mall - melbourne",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "american legion melbourne fl",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 4
+    },
+    {
+      "query": "andrew pickett law reviews",
+      "clicks": 1,
+      "impressions": 68,
+      "ctr": 0.014705882352941176,
+      "position": 10.352941176470589
+    },
+    {
+      "query": "attorneys near me",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 3.9
+    },
+    {
+      "query": "auto attorneys near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 7.5
+    },
+    {
+      "query": "bankruptcy attorney near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 6.333333333333333
+    },
+    {
+      "query": "can i sue my neighbor for emotional distress",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 39.23529411764706
+    },
+    {
+      "query": "can i take my landlord to court for emotional distress",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 5
+    },
+    {
+      "query": "can you ride in the bed of a truck in florida",
+      "clicks": 1,
+      "impressions": 802,
+      "ctr": 0.0012468827930174563,
+      "position": 11.034912718204488
+    },
+    {
+      "query": "car accident lawyer melbourne",
+      "clicks": 1,
+      "impressions": 687,
+      "ctr": 0.001455604075691412,
+      "position": 23.852983988355167
+    },
+    {
+      "query": "car accident lawyer melbourne fl",
+      "clicks": 1,
+      "impressions": 555,
+      "ctr": 0.0018018018018018018,
+      "position": 14.403603603603603
+    },
+    {
+      "query": "car seat regulations florida",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 22.5
+    },
+    {
+      "query": "car seat rules florida",
+      "clicks": 1,
+      "impressions": 58,
+      "ctr": 0.017241379310344827,
+      "position": 30.137931034482758
+    },
+    {
+      "query": "child custody attorneys near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "christian personal injury attorney",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://www.andrewpickettlaw.com/",
+      "clicks": 350,
+      "impressions": 41232,
+      "ctr": 0.008488552580519984,
+      "position": 34.622526193247964
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing-melbourne",
+      "clicks": 164,
+      "impressions": 111020,
+      "ctr": 0.001477211313276887,
+      "position": 3.0911817690506216
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/melbourne/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing-melbourne",
+      "clicks": 106,
+      "impressions": 74423,
+      "ctr": 0.0014242908778200288,
+      "position": 3.1702968168442553
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/famous-people-from-melbourne-fl/",
+      "clicks": 82,
+      "impressions": 7297,
+      "ctr": 0.011237494860901741,
+      "position": 4.447581197752501
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/about/",
+      "clicks": 61,
+      "impressions": 4673,
+      "ctr": 0.013053712818317997,
+      "position": 9.262358228118982
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/titusville/",
+      "clicks": 58,
+      "impressions": 54085,
+      "ctr": 0.0010723860589812334,
+      "position": 9.762928723305908
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/history-of-melbourne-fl/",
+      "clicks": 57,
+      "impressions": 16963,
+      "ctr": 0.0033602546719330305,
+      "position": 8.769557271709013
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/es/blog/cual-es-la-pena-por-matar-a-alguien-en-un-accidente-de-trafico-en-florida/",
+      "clicks": 42,
+      "impressions": 5497,
+      "ctr": 0.007640531198835728,
+      "position": 7.627615062761507
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/can-you-sue-for-emotional-distress-in-florida/",
+      "clicks": 34,
+      "impressions": 2977,
+      "ctr": 0.011420893516963387,
+      "position": 26.521330198186092
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/scholarship/",
+      "clicks": 25,
+      "impressions": 132,
+      "ctr": 0.1893939393939394,
+      "position": 44.833333333333336
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/safe-ride/",
+      "clicks": 24,
+      "impressions": 342,
+      "ctr": 0.07017543859649122,
+      "position": 11.090643274853802
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/personal-injury-lawyer-titusville/",
+      "clicks": 23,
+      "impressions": 18783,
+      "ctr": 0.0012245115263802375,
+      "position": 2.53255603471224
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/how-long-does-a-civil-lawsuit-take-in-florida/",
+      "clicks": 18,
+      "impressions": 4313,
+      "ctr": 0.004173429167632739,
+      "position": 15.100626014375145
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/can-you-ride-in-the-bed-of-a-truck-in-florida/",
+      "clicks": 17,
+      "impressions": 8881,
+      "ctr": 0.0019141988514806891,
+      "position": 12.461772322936607
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/what-is-the-graves-amendment-in-florida/",
+      "clicks": 15,
+      "impressions": 1174,
+      "ctr": 0.012776831345826235,
+      "position": 16.347529812606474
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/es/preguntas-frecuentes/indemnizacion-promedio-por-lesion-de-rodilla/",
+      "clicks": 15,
+      "impressions": 1501,
+      "ctr": 0.009993337774816789,
+      "position": 4.0726182544970015
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/can-a-personal-injury-settlement-be-garnished-in-florida/",
+      "clicks": 14,
+      "impressions": 919,
+      "ctr": 0.015233949945593036,
+      "position": 18.990206746463546
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/florida-child-car-seat-laws/",
+      "clicks": 14,
+      "impressions": 6286,
+      "ctr": 0.0022271714922048997,
+      "position": 24.947661469933184
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/es/blog/cuanto-puede-demandar-alguien-por-abuso-sexual-en-el-lugar-de-trabajo/",
+      "clicks": 14,
+      "impressions": 2670,
+      "ctr": 0.0052434456928838954,
+      "position": 5.370411985018727
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/florida-dash-cam-laws/",
+      "clicks": 13,
+      "impressions": 3787,
+      "ctr": 0.003432796408766834,
+      "position": 24.93187219434909
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/can-child-support-take-my-personal-injury-settlement-in-florida/",
+      "clicks": 12,
+      "impressions": 1810,
+      "ctr": 0.0066298342541436465,
+      "position": 12.617127071823205
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/es/blog/leyes-de-asientos-para-ninos-en-florida/",
+      "clicks": 12,
+      "impressions": 2898,
+      "ctr": 0.004140786749482402,
+      "position": 7.5521048999309865
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/how-to-fire-an-attorney-in-florida/",
+      "clicks": 11,
+      "impressions": 2051,
+      "ctr": 0.005363237445148708,
+      "position": 24.95465626523647
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/what-are-floridas-golf-cart-laws/",
+      "clicks": 11,
+      "impressions": 8987,
+      "ctr": 0.0012239902080783353,
+      "position": 33.76310225881829
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/what-is-the-punishment-for-killing-someone-in-a-car-accident-in-florida/",
+      "clicks": 10,
+      "impressions": 1842,
+      "ctr": 0.0054288816503800215,
+      "position": 31.720412595005428
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/es/blog/puedo-perder-mi-casa-debido-a-un-accidente-automovilistico-culposo-en-florida/",
+      "clicks": 9,
+      "impressions": 179,
+      "ctr": 0.05027932960893855,
+      "position": 4.46927374301676
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/andrew-pickett-law-secures-9075000-usd-verdict/",
+      "clicks": 8,
+      "impressions": 236,
+      "ctr": 0.03389830508474576,
+      "position": 6.033898305084746
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/faqs/is-there-a-difference-between-sexual-assault-and-rape-under-florida-law/",
+      "clicks": 8,
+      "impressions": 1969,
+      "ctr": 0.004062976130015236,
+      "position": 42.5459624174708
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/is-jaywalking-illegal-in-florida/",
+      "clicks": 7,
+      "impressions": 5518,
+      "ctr": 0.0012685755708590069,
+      "position": 19.541681768756796
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/how-much-can-someone-sue-for-sexual-abuse-in-the-workplace/",
+      "clicks": 6,
+      "impressions": 968,
+      "ctr": 0.006198347107438017,
+      "position": 25.47830578512397
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/why-a-lawyer-wont-take-your-car-accident-case/",
+      "clicks": 6,
+      "impressions": 655,
+      "ctr": 0.00916030534351145,
+      "position": 4.1618320610687025
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/case-results/",
+      "clicks": 6,
+      "impressions": 1511,
+      "ctr": 0.003970880211780278,
+      "position": 5.035737921906023
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/reasons-for-failing-a-driving-test/",
+      "clicks": 5,
+      "impressions": 4358,
+      "ctr": 0.0011473152822395595,
+      "position": 5.612436897659477
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/sexual-abuse-in-the-workplace/",
+      "clicks": 5,
+      "impressions": 421,
+      "ctr": 0.011876484560570071,
+      "position": 10.08313539192399
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/what-is-negligence-per-se-in-florida/",
+      "clicks": 5,
+      "impressions": 1129,
+      "ctr": 0.0044286979627989375,
+      "position": 27.850310008857395
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/es/blog/como-funciona-el-derecho-de-paso-en-florida-en-caso-de-accidentes/",
+      "clicks": 5,
+      "impressions": 528,
+      "ctr": 0.00946969696969697,
+      "position": 7.232954545454546
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/es/blog/cual-es-la-ley-de-telefonos-celulares-en-florida/",
+      "clicks": 5,
+      "impressions": 984,
+      "ctr": 0.00508130081300813,
+      "position": 3.5030487804878048
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/es/blog/cuanto-tiempo-tarda-una-demanda-civil-en-florida/",
+      "clicks": 5,
+      "impressions": 384,
+      "ctr": 0.013020833333333334,
+      "position": 2.997395833333333
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/florida-parking-lot-accident-laws/",
+      "clicks": 4,
+      "impressions": 1272,
+      "ctr": 0.0031446540880503146,
+      "position": 37.67767295597484
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/how-much-can-a-lawyer-charge-in-a-wrongful-death-lawsuit/",
+      "clicks": 4,
+      "impressions": 542,
+      "ctr": 0.007380073800738007,
+      "position": 15.79889298892989
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/what-constitutes-sexual-assault-in-florida/",
+      "clicks": 4,
+      "impressions": 559,
+      "ctr": 0.007155635062611807,
+      "position": 29.44901610017889
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/what-kind-of-tort-is-a-serious-car-accident/",
+      "clicks": 4,
+      "impressions": 722,
+      "ctr": 0.00554016620498615,
+      "position": 28.58448753462604
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/who-insures-golf-carts-in-florida/",
+      "clicks": 4,
+      "impressions": 10681,
+      "ctr": 0.00037449676996535904,
+      "position": 46.26879505664264
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/es/blog/leyes-de-camaras-de-salpicadero-en-florida/",
+      "clicks": 4,
+      "impressions": 508,
+      "ctr": 0.007874015748031496,
+      "position": 5.641732283464567
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/es/blog/razones-comunes-para-reprobar-un-examen-de-manejo-en-el-dmv/",
+      "clicks": 4,
+      "impressions": 3283,
+      "ctr": 0.0012183978068839476,
+      "position": 2.1455985379226314
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/areas-we-serve/",
+      "clicks": 3,
+      "impressions": 1908,
+      "ctr": 0.0015723270440251573,
+      "position": 7.082285115303983
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/average-payout-for-a-pedestrian-hit-by-a-car-in-florida/",
+      "clicks": 3,
+      "impressions": 1580,
+      "ctr": 0.0018987341772151898,
+      "position": 48.198101265822785
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/average-settlement-for-back-injury-at-work-in-florida/",
+      "clicks": 3,
+      "impressions": 1300,
+      "ctr": 0.002307692307692308,
+      "position": 47.05307692307692
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/florida-dog-bite-laws/",
+      "clicks": 3,
+      "impressions": 617,
+      "ctr": 0.004862236628849271,
+      "position": 44.60940032414911
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/how-much-to-ask-for-in-a-personal-injury-settlement/",
+      "clicks": 3,
+      "impressions": 565,
+      "ctr": 0.005309734513274336,
+      "position": 31.461946902654866
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:07:30.127Z"
+}

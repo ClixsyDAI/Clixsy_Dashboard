@@ -1,0 +1,1350 @@
+{
+  "property": "sc-domain:goelevatedcomfort.com",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 906,
+    "impressions": 335916,
+    "ctr": 0.0026971028471403564,
+    "position": 14.870446567839982
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 20,
+      "impressions": 11654,
+      "ctr": 0.001716148961729878,
+      "position": 6.057920027458383
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 9,
+      "impressions": 2801,
+      "ctr": 0.0032131381649410924,
+      "position": 15.397715101749375
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 11,
+      "impressions": 2126,
+      "ctr": 0.0051740357478833494,
+      "position": 16.555973659454374
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 10,
+      "impressions": 3005,
+      "ctr": 0.0033277870216306157,
+      "position": 14.765391014975041
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 8,
+      "impressions": 2774,
+      "ctr": 0.002883922134102379,
+      "position": 15.489906272530641
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 3,
+      "impressions": 2541,
+      "ctr": 0.0011806375442739079,
+      "position": 15.641873278236915
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 2,
+      "impressions": 2172,
+      "ctr": 0.0009208103130755065,
+      "position": 15.006445672191528
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 6,
+      "impressions": 3015,
+      "ctr": 0.001990049751243781,
+      "position": 17.186733001658375
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 5,
+      "impressions": 2646,
+      "ctr": 0.001889644746787604,
+      "position": 16.276266061980348
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 6,
+      "impressions": 2268,
+      "ctr": 0.0026455026455026454,
+      "position": 19.28306878306878
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 1,
+      "impressions": 2124,
+      "ctr": 0.00047080979284369113,
+      "position": 17.17467043314501
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 4,
+      "impressions": 2703,
+      "ctr": 0.0014798372179060304,
+      "position": 16.847946725860155
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 9,
+      "impressions": 2458,
+      "ctr": 0.003661513425549227,
+      "position": 15.489829129373474
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 9,
+      "impressions": 2412,
+      "ctr": 0.0037313432835820895,
+      "position": 15.695688225538971
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 11,
+      "impressions": 4512,
+      "ctr": 0.0024379432624113476,
+      "position": 16.10970744680851
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 14,
+      "impressions": 3103,
+      "ctr": 0.0045117628101836935,
+      "position": 16.90525298098614
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 11,
+      "impressions": 4283,
+      "ctr": 0.0025682932523931824,
+      "position": 14.208031753443848
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 4,
+      "impressions": 3445,
+      "ctr": 0.0011611030478955006,
+      "position": 14.498984034833091
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 10,
+      "impressions": 2478,
+      "ctr": 0.004035512510088781,
+      "position": 15.328490718321227
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 8,
+      "impressions": 2305,
+      "ctr": 0.0034707158351409977,
+      "position": 15.84468546637744
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 0,
+      "impressions": 2519,
+      "ctr": 0,
+      "position": 15.547439460103215
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 11,
+      "impressions": 3251,
+      "ctr": 0.003383574284835435,
+      "position": 17.49154106428791
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 11,
+      "impressions": 2790,
+      "ctr": 0.003942652329749104,
+      "position": 20.12258064516129
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 4,
+      "impressions": 2952,
+      "ctr": 0.0013550135501355014,
+      "position": 17.738482384823847
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 7,
+      "impressions": 10554,
+      "ctr": 0.0006632556376729202,
+      "position": 5.575895395110859
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 9,
+      "impressions": 3061,
+      "ctr": 0.0029402156158118264,
+      "position": 17.016007840574975
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 10,
+      "impressions": 3089,
+      "ctr": 0.0032372936225315637,
+      "position": 19.52282292003885
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 2,
+      "impressions": 3461,
+      "ctr": 0.0005778676683039584,
+      "position": 18.568910719445245
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 18,
+      "impressions": 3256,
+      "ctr": 0.005528255528255528,
+      "position": 18.43458230958231
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 15,
+      "impressions": 4676,
+      "ctr": 0.00320786997433704,
+      "position": 21.976047904191617
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 12,
+      "impressions": 6238,
+      "ctr": 0.0019236934915036871,
+      "position": 16.078069894196858
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 9,
+      "impressions": 2675,
+      "ctr": 0.0033644859813084112,
+      "position": 16.297570093457942
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 14,
+      "impressions": 2891,
+      "ctr": 0.004842615012106538,
+      "position": 16.492563126945694
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 6,
+      "impressions": 3196,
+      "ctr": 0.0018773466833541927,
+      "position": 15.947747183979976
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 7,
+      "impressions": 11250,
+      "ctr": 0.0006222222222222223,
+      "position": 3.6414222222222223
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 13,
+      "impressions": 3794,
+      "ctr": 0.003426462836056932,
+      "position": 13.716394306800211
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 14,
+      "impressions": 2949,
+      "ctr": 0.004747371990505256,
+      "position": 13.592743302814513
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 18,
+      "impressions": 2764,
+      "ctr": 0.006512301013024602,
+      "position": 14.962011577424024
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 17,
+      "impressions": 2951,
+      "ctr": 0.0057607590647238225,
+      "position": 15.018298881735005
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 20,
+      "impressions": 2751,
+      "ctr": 0.007270083605961469,
+      "position": 12.48891312250091
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 8,
+      "impressions": 3101,
+      "ctr": 0.0025798129635601417,
+      "position": 14.025798129635602
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 10,
+      "impressions": 2856,
+      "ctr": 0.0035014005602240898,
+      "position": 14.1656162464986
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 10,
+      "impressions": 4669,
+      "ctr": 0.0021417862497322766,
+      "position": 17.66887984579139
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 12,
+      "impressions": 3921,
+      "ctr": 0.00306044376434583,
+      "position": 12.295842897220098
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 16,
+      "impressions": 3162,
+      "ctr": 0.005060088551549652,
+      "position": 14.066097406704618
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 12,
+      "impressions": 2901,
+      "ctr": 0.004136504653567736,
+      "position": 13.670458462599104
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 6,
+      "impressions": 4341,
+      "ctr": 0.00138217000691085,
+      "position": 10.195577055977886
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 6,
+      "impressions": 3850,
+      "ctr": 0.0015584415584415584,
+      "position": 13.261558441558442
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 6,
+      "impressions": 4061,
+      "ctr": 0.0014774686037921695,
+      "position": 12.080522038906674
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 16,
+      "impressions": 7114,
+      "ctr": 0.002249086308687096,
+      "position": 9.194264829912848
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 7,
+      "impressions": 3159,
+      "ctr": 0.0022158911047799935,
+      "position": 15.795188350743906
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 10,
+      "impressions": 2956,
+      "ctr": 0.0033829499323410014,
+      "position": 16.574086603518268
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 10,
+      "impressions": 3039,
+      "ctr": 0.003290556103981573,
+      "position": 13.104968739717012
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 14,
+      "impressions": 2646,
+      "ctr": 0.005291005291005291,
+      "position": 12.070294784580499
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 6,
+      "impressions": 2149,
+      "ctr": 0.002791996277338297,
+      "position": 10.501163331782225
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 5,
+      "impressions": 2536,
+      "ctr": 0.001971608832807571,
+      "position": 12.590694006309148
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 16,
+      "impressions": 3447,
+      "ctr": 0.004641717435451117,
+      "position": 15.305483028720626
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 12,
+      "impressions": 3661,
+      "ctr": 0.0032777929527451517,
+      "position": 14.583993444414094
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 13,
+      "impressions": 3118,
+      "ctr": 0.004169339320076972,
+      "position": 11.574406670942912
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 14,
+      "impressions": 3134,
+      "ctr": 0.004467134652201659,
+      "position": 13.087109125717932
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 15,
+      "impressions": 4784,
+      "ctr": 0.0031354515050167225,
+      "position": 14.075877926421406
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 5,
+      "impressions": 2798,
+      "ctr": 0.0017869907076483202,
+      "position": 10.528949249463903
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 9,
+      "impressions": 3393,
+      "ctr": 0.002652519893899204,
+      "position": 11.47214854111406
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 17,
+      "impressions": 16608,
+      "ctr": 0.0010236030828516378,
+      "position": 3.5066835260115607
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 21,
+      "impressions": 3715,
+      "ctr": 0.005652759084791386,
+      "position": 11.525168236877523
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 18,
+      "impressions": 2757,
+      "ctr": 0.006528835690968444,
+      "position": 14.669568371418208
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 9,
+      "impressions": 2747,
+      "ctr": 0.0032763014197306154,
+      "position": 11.026210411357845
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 21,
+      "impressions": 2662,
+      "ctr": 0.007888805409466567,
+      "position": 11.460180315552217
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 6,
+      "impressions": 2828,
+      "ctr": 0.0021216407355021216,
+      "position": 11.498585572842998
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 9,
+      "impressions": 2543,
+      "ctr": 0.003539127015336217,
+      "position": 14.819111285882816
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 16,
+      "impressions": 3340,
+      "ctr": 0.004790419161676647,
+      "position": 14.918562874251498
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 15,
+      "impressions": 2832,
+      "ctr": 0.005296610169491525,
+      "position": 15.996468926553673
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 16,
+      "impressions": 2814,
+      "ctr": 0.005685856432125089,
+      "position": 17.140724946695094
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 13,
+      "impressions": 2475,
+      "ctr": 0.0052525252525252525,
+      "position": 15.625858585858586
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 9,
+      "impressions": 3109,
+      "ctr": 0.002894821486008363,
+      "position": 14.568028304921196
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 5,
+      "impressions": 3795,
+      "ctr": 0.0013175230566534915,
+      "position": 19.79341238471673
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 6,
+      "impressions": 6141,
+      "ctr": 0.0009770395701025891,
+      "position": 13.707865168539326
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 4,
+      "impressions": 5046,
+      "ctr": 0.0007927070947284979,
+      "position": 19.458581054300435
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 8,
+      "impressions": 4293,
+      "ctr": 0.0018634987188446308,
+      "position": 13.038667598416026
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 5,
+      "impressions": 3385,
+      "ctr": 0.0014771048744460858,
+      "position": 18.979320531757754
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 8,
+      "impressions": 3339,
+      "ctr": 0.002395926924228811,
+      "position": 20.432764300688827
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 9,
+      "impressions": 2878,
+      "ctr": 0.0031271716469770676,
+      "position": 18.527449617790133
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 5,
+      "impressions": 3212,
+      "ctr": 0.001556662515566625,
+      "position": 20.242839352428394
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 7,
+      "impressions": 2745,
+      "ctr": 0.0025500910746812386,
+      "position": 17.826593806921675
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 8,
+      "impressions": 7403,
+      "ctr": 0.0010806429825746318,
+      "position": 9.793056868836958
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 17,
+      "impressions": 3594,
+      "ctr": 0.0047301057317751805,
+      "position": 19.03478018920423
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 10,
+      "impressions": 4074,
+      "ctr": 0.002454590083456063,
+      "position": 16.45360824742268
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 7,
+      "impressions": 4537,
+      "ctr": 0.0015428697377121445,
+      "position": 17.334141503195944
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 14,
+      "impressions": 3489,
+      "ctr": 0.004012611063341932,
+      "position": 16.897965032960734
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 7,
+      "impressions": 2866,
+      "ctr": 0.0024424284717376133,
+      "position": 18.180390788555478
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "elevated comfort",
+      "clicks": 301,
+      "impressions": 1541,
+      "ctr": 0.1953277092796885,
+      "position": 1.81829980532122
+    },
+    {
+      "query": "elevated comfort santa rosa",
+      "clicks": 73,
+      "impressions": 258,
+      "ctr": 0.28294573643410853,
+      "position": 2.3527131782945734
+    },
+    {
+      "query": "elevated comfort cotati",
+      "clicks": 15,
+      "impressions": 120,
+      "ctr": 0.125,
+      "position": 1.6416666666666666
+    },
+    {
+      "query": "elevated comfort hvac",
+      "clicks": 14,
+      "impressions": 45,
+      "ctr": 0.3111111111111111,
+      "position": 1.8
+    },
+    {
+      "query": "elevated",
+      "clicks": 9,
+      "impressions": 46,
+      "ctr": 0.1956521739130435,
+      "position": 2.3695652173913047
+    },
+    {
+      "query": "elevated heating and cooling",
+      "clicks": 9,
+      "impressions": 53,
+      "ctr": 0.16981132075471697,
+      "position": 9.88679245283019
+    },
+    {
+      "query": "elevated hvac",
+      "clicks": 7,
+      "impressions": 54,
+      "ctr": 0.12962962962962962,
+      "position": 7.592592592592593
+    },
+    {
+      "query": "hvac near me",
+      "clicks": 7,
+      "impressions": 592,
+      "ctr": 0.011824324324324325,
+      "position": 4.77195945945946
+    },
+    {
+      "query": "hvac",
+      "clicks": 5,
+      "impressions": 697,
+      "ctr": 0.007173601147776184,
+      "position": 2.2424677187948348
+    },
+    {
+      "query": "elevated comfort san rafael",
+      "clicks": 4,
+      "impressions": 37,
+      "ctr": 0.10810810810810811,
+      "position": 12.756756756756756
+    },
+    {
+      "query": "hvac cotati",
+      "clicks": 4,
+      "impressions": 224,
+      "ctr": 0.017857142857142856,
+      "position": 6.65625
+    },
+    {
+      "query": "elevate comfort",
+      "clicks": 3,
+      "impressions": 15,
+      "ctr": 0.2,
+      "position": 3.7333333333333334
+    },
+    {
+      "query": "hvac companies near me",
+      "clicks": 3,
+      "impressions": 223,
+      "ctr": 0.013452914798206279,
+      "position": 8.385650224215247
+    },
+    {
+      "query": "elevated comfort 1105 francisco blvd e #4, san rafael, ca 94901",
+      "clicks": 2,
+      "impressions": 48,
+      "ctr": 0.041666666666666664,
+      "position": 1
+    },
+    {
+      "query": "elevated comfort reviews",
+      "clicks": 2,
+      "impressions": 165,
+      "ctr": 0.012121212121212121,
+      "position": 6.606060606060606
+    },
+    {
+      "query": "elevation hvac",
+      "clicks": 2,
+      "impressions": 5,
+      "ctr": 0.4,
+      "position": 31.2
+    },
+    {
+      "query": "heat pump repair near me",
+      "clicks": 2,
+      "impressions": 203,
+      "ctr": 0.009852216748768473,
+      "position": 8.551724137931036
+    },
+    {
+      "query": "heater repair near me",
+      "clicks": 2,
+      "impressions": 137,
+      "ctr": 0.014598540145985401,
+      "position": 10.576642335766424
+    },
+    {
+      "query": "hvac contractor near me",
+      "clicks": 2,
+      "impressions": 110,
+      "ctr": 0.01818181818181818,
+      "position": 5.7272727272727275
+    },
+    {
+      "query": "hvac duct cleaning near me",
+      "clicks": 2,
+      "impressions": 4,
+      "ctr": 0.5,
+      "position": 1.5
+    },
+    {
+      "query": "hvac petaluma",
+      "clicks": 2,
+      "impressions": 524,
+      "ctr": 0.003816793893129771,
+      "position": 21.671755725190838
+    },
+    {
+      "query": "hvac repair santa rosa",
+      "clicks": 2,
+      "impressions": 1140,
+      "ctr": 0.0017543859649122807,
+      "position": 8.599122807017544
+    },
+    {
+      "query": "ac installers",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "air service",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 8
+    },
+    {
+      "query": "can ecobee thermostat work without wifi",
+      "clicks": 1,
+      "impressions": 43,
+      "ctr": 0.023255813953488372,
+      "position": 6.72093023255814
+    },
+    {
+      "query": "comfort heating and air",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 6.818181818181818
+    },
+    {
+      "query": "comfortable living ac and heating llc",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 9
+    },
+    {
+      "query": "does ecobee need wifi to work",
+      "clicks": 1,
+      "impressions": 44,
+      "ctr": 0.022727272727272728,
+      "position": 4.25
+    },
+    {
+      "query": "does smart thermostat work without wifi",
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 4.2
+    },
+    {
+      "query": "duct cleaning services near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "elevate air conditioning",
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 21.7
+    },
+    {
+      "query": "elevate heating",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 11.5625
+    },
+    {
+      "query": "elevate heating and cooling",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 24.285714285714285
+    },
+    {
+      "query": "elevate home services",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 24.22222222222222
+    },
+    {
+      "query": "elevate hvac",
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 30.2
+    },
+    {
+      "query": "elevated confort",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 1.1052631578947367
+    },
+    {
+      "query": "elevated heating",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 9.533333333333333
+    },
+    {
+      "query": "elevated heating and air",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 5.285714285714286
+    },
+    {
+      "query": "emergency hvac services near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "furnace inspection and cleaning",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "furnace repair",
+      "clicks": 1,
+      "impressions": 5388,
+      "ctr": 0.0001855976243504083,
+      "position": 5.765033407572383
+    },
+    {
+      "query": "furnace repair near me",
+      "clicks": 1,
+      "impressions": 694,
+      "ctr": 0.001440922190201729,
+      "position": 4.698847262247838
+    },
+    {
+      "query": "furnace smell",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "furnace smells like wet dog",
+      "clicks": 1,
+      "impressions": 44,
+      "ctr": 0.022727272727272728,
+      "position": 8.522727272727273
+    },
+    {
+      "query": "geothermal heat pump near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 6
+    },
+    {
+      "query": "heat pump cant keep up",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 9
+    },
+    {
+      "query": "heating and air conditioning near me",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 6.125
+    },
+    {
+      "query": "heating and air financing near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 17
+    },
+    {
+      "query": "heating and cooling contractor",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "heating and cooling near me",
+      "clicks": 1,
+      "impressions": 33,
+      "ctr": 0.030303030303030304,
+      "position": 5.848484848484849
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://goelevatedcomfort.com/",
+      "clicks": 557,
+      "impressions": 158223,
+      "ctr": 0.0035203478634585365,
+      "position": 5.9358057930895
+    },
+    {
+      "page": "https://www.goelevatedcomfort.com/",
+      "clicks": 93,
+      "impressions": 38879,
+      "ctr": 0.002392036832223051,
+      "position": 2.466884436328095
+    },
+    {
+      "page": "https://goelevatedcomfort.com/do-smart-thermostats-need-wifi-to-work-tips-on-making-the-most-out-of-your-thermostats/",
+      "clicks": 49,
+      "impressions": 18598,
+      "ctr": 0.002634691902355092,
+      "position": 5.6438864394020865
+    },
+    {
+      "page": "https://goelevatedcomfort.com/contact-us/",
+      "clicks": 28,
+      "impressions": 6675,
+      "ctr": 0.004194756554307116,
+      "position": 16.792659176029964
+    },
+    {
+      "page": "https://goelevatedcomfort.com/ac-repair-101-can-there-be-a-freon-leak-if-my-ac-is-off/",
+      "clicks": 26,
+      "impressions": 4211,
+      "ctr": 0.006174305390643553,
+      "position": 4.904298266445025
+    },
+    {
+      "page": "https://goelevatedcomfort.com/about-us/",
+      "clicks": 22,
+      "impressions": 7820,
+      "ctr": 0.002813299232736573,
+      "position": 10.723401534526854
+    },
+    {
+      "page": "https://goelevatedcomfort.com/norcal-winter-humidity-hvac-solutions/",
+      "clicks": 21,
+      "impressions": 925,
+      "ctr": 0.022702702702702703,
+      "position": 4.831351351351351
+    },
+    {
+      "page": "https://goelevatedcomfort.com/san-rafael-hvac-services/",
+      "clicks": 14,
+      "impressions": 27734,
+      "ctr": 0.0005047955577990914,
+      "position": 14.574817913030937
+    },
+    {
+      "page": "https://goelevatedcomfort.com/mill-valley-hvac-services/",
+      "clicks": 8,
+      "impressions": 9755,
+      "ctr": 0.0008200922603792927,
+      "position": 18.76319835981548
+    },
+    {
+      "page": "https://goelevatedcomfort.com/an-hvac-company-founders-story-the-evolution-of-elevated-comfort/",
+      "clicks": 6,
+      "impressions": 1306,
+      "ctr": 0.004594180704441042,
+      "position": 6.402756508422665
+    },
+    {
+      "page": "https://goelevatedcomfort.com/petaluma-hvac-services/",
+      "clicks": 6,
+      "impressions": 16551,
+      "ctr": 0.00036251586006887804,
+      "position": 15.193039695486677
+    },
+    {
+      "page": "https://goelevatedcomfort.com/what-to-do-if-your-furnace-smells-funny-this-fall/",
+      "clicks": 6,
+      "impressions": 707,
+      "ctr": 0.008486562942008486,
+      "position": 12.053748231966054
+    },
+    {
+      "page": "https://goelevatedcomfort.com/american-canyon-hvac-services/",
+      "clicks": 5,
+      "impressions": 471,
+      "ctr": 0.010615711252653927,
+      "position": 11.78343949044586
+    },
+    {
+      "page": "https://goelevatedcomfort.com/novato-hvac-services/",
+      "clicks": 5,
+      "impressions": 11277,
+      "ctr": 0.0004433803316484881,
+      "position": 14.670125033253525
+    },
+    {
+      "page": "https://goelevatedcomfort.com/what-is-the-average-cost-of-furnace-installation-in-cotati-ca/",
+      "clicks": 5,
+      "impressions": 711,
+      "ctr": 0.007032348804500703,
+      "position": 16.82559774964838
+    },
+    {
+      "page": "https://goelevatedcomfort.com/why-your-heat-pump-isnt-keeping-up-this-fall/",
+      "clicks": 5,
+      "impressions": 1020,
+      "ctr": 0.004901960784313725,
+      "position": 13.187254901960785
+    },
+    {
+      "page": "https://goelevatedcomfort.com/napa-hvac-services/",
+      "clicks": 4,
+      "impressions": 4267,
+      "ctr": 0.0009374267635340989,
+      "position": 14.474337942348255
+    },
+    {
+      "page": "https://goelevatedcomfort.com/santa-rosa-hvac-services/",
+      "clicks": 4,
+      "impressions": 12462,
+      "ctr": 0.0003209757663296421,
+      "position": 49.38428823623816
+    },
+    {
+      "page": "https://goelevatedcomfort.com/sonoma-hvac-services/",
+      "clicks": 4,
+      "impressions": 2400,
+      "ctr": 0.0016666666666666668,
+      "position": 26.958333333333332
+    },
+    {
+      "page": "https://goelevatedcomfort.com/cotati-hvac-services/",
+      "clicks": 3,
+      "impressions": 11986,
+      "ctr": 0.0002502920073418989,
+      "position": 9.86809611213082
+    },
+    {
+      "page": "https://goelevatedcomfort.com/hvac-maintenance-program/",
+      "clicks": 3,
+      "impressions": 1354,
+      "ctr": 0.0022156573116691287,
+      "position": 9.385524372230428
+    },
+    {
+      "page": "https://goelevatedcomfort.com/indoor-air-quality-california/",
+      "clicks": 3,
+      "impressions": 4499,
+      "ctr": 0.0006668148477439431,
+      "position": 9.346965992442765
+    },
+    {
+      "page": "https://goelevatedcomfort.com/what-is-the-average-cost-of-ac-installation-in-santa-rosa-ca/",
+      "clicks": 3,
+      "impressions": 1988,
+      "ctr": 0.0015090543259557343,
+      "position": 29.793259557344065
+    },
+    {
+      "page": "https://goelevatedcomfort.com/ac-installation-california/",
+      "clicks": 2,
+      "impressions": 2180,
+      "ctr": 0.0009174311926605505,
+      "position": 28.342660550458717
+    },
+    {
+      "page": "https://goelevatedcomfort.com/ac-repair-california/",
+      "clicks": 2,
+      "impressions": 3811,
+      "ctr": 0.0005247966413014956,
+      "position": 21.630280766203096
+    },
+    {
+      "page": "https://goelevatedcomfort.com/coastal-california-home-energy-efficiency-tips/",
+      "clicks": 2,
+      "impressions": 49,
+      "ctr": 0.04081632653061224,
+      "position": 7.979591836734694
+    },
+    {
+      "page": "https://goelevatedcomfort.com/how-often-to-service-heating-system-norcal/",
+      "clicks": 2,
+      "impressions": 437,
+      "ctr": 0.004576659038901602,
+      "position": 10.842105263157896
+    },
+    {
+      "page": "https://goelevatedcomfort.com/products/lennox/",
+      "clicks": 2,
+      "impressions": 542,
+      "ctr": 0.0036900369003690036,
+      "position": 40.49077490774908
+    },
+    {
+      "page": "https://goelevatedcomfort.com/rohnert-park-hvac-services/",
+      "clicks": 2,
+      "impressions": 6229,
+      "ctr": 0.00032107882485150104,
+      "position": 15.386899983946059
+    },
+    {
+      "page": "https://goelevatedcomfort.com/sausalito-hvac-services/",
+      "clicks": 2,
+      "impressions": 535,
+      "ctr": 0.003738317757009346,
+      "position": 9.601869158878504
+    },
+    {
+      "page": "https://goelevatedcomfort.com/service-area/",
+      "clicks": 2,
+      "impressions": 4763,
+      "ctr": 0.000419903422212891,
+      "position": 8.995800965777871
+    },
+    {
+      "page": "https://goelevatedcomfort.com/st-helena-hvac-services/",
+      "clicks": 2,
+      "impressions": 560,
+      "ctr": 0.0035714285714285713,
+      "position": 10.9
+    },
+    {
+      "page": "https://goelevatedcomfort.com/why-home-feels-drafty-with-heat-on/",
+      "clicks": 2,
+      "impressions": 48,
+      "ctr": 0.041666666666666664,
+      "position": 3.9375
+    },
+    {
+      "page": "https://goelevatedcomfort.com/cloverdale-hvac-services/",
+      "clicks": 1,
+      "impressions": 364,
+      "ctr": 0.0027472527472527475,
+      "position": 13.458791208791208
+    },
+    {
+      "page": "https://goelevatedcomfort.com/common-furnace-problems-northern-california-homes/",
+      "clicks": 1,
+      "impressions": 98,
+      "ctr": 0.01020408163265306,
+      "position": 8.459183673469388
+    },
+    {
+      "page": "https://goelevatedcomfort.com/contact/",
+      "clicks": 1,
+      "impressions": 582,
+      "ctr": 0.001718213058419244,
+      "position": 9.853951890034365
+    },
+    {
+      "page": "https://goelevatedcomfort.com/fairfax-hvac-services/",
+      "clicks": 1,
+      "impressions": 485,
+      "ctr": 0.002061855670103093,
+      "position": 35.15051546391753
+    },
+    {
+      "page": "https://goelevatedcomfort.com/heat-pump-installation-california/",
+      "clicks": 1,
+      "impressions": 10385,
+      "ctr": 0.00009629272989889263,
+      "position": 56.4607607125662
+    },
+    {
+      "page": "https://goelevatedcomfort.com/heat-pump-maintenance-california/",
+      "clicks": 1,
+      "impressions": 2722,
+      "ctr": 0.0003673769287288758,
+      "position": 46.694709772226304
+    },
+    {
+      "page": "https://goelevatedcomfort.com/heat-pump-replacement-california/",
+      "clicks": 1,
+      "impressions": 4536,
+      "ctr": 0.0002204585537918871,
+      "position": 43.66556437389771
+    },
+    {
+      "page": "https://goelevatedcomfort.com/how-cold-nights-affect-heat-pump-performance-norcal/",
+      "clicks": 1,
+      "impressions": 242,
+      "ctr": 0.004132231404958678,
+      "position": 6.801652892561983
+    },
+    {
+      "page": "https://goelevatedcomfort.com/how-to-identify-a-running-toilet/",
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 7.95
+    },
+    {
+      "page": "https://goelevatedcomfort.com/how-to-prepare-your-hvac-system-for-a-vacation/",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 29.5
+    },
+    {
+      "page": "https://goelevatedcomfort.com/mini-split-installation-california/",
+      "clicks": 1,
+      "impressions": 1659,
+      "ctr": 0.0006027727546714888,
+      "position": 30.90717299578059
+    },
+    {
+      "page": "https://goelevatedcomfort.com/preventing-clogged-drains-from-outdoor-debris/",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 14.066666666666666
+    },
+    {
+      "page": "https://goelevatedcomfort.com/privacy-policy/",
+      "clicks": 1,
+      "impressions": 139,
+      "ctr": 0.007194244604316547,
+      "position": 7.712230215827338
+    },
+    {
+      "page": "https://goelevatedcomfort.com/products/",
+      "clicks": 1,
+      "impressions": 5271,
+      "ctr": 0.00018971732119142478,
+      "position": 15.293872130525518
+    },
+    {
+      "page": "https://goelevatedcomfort.com/repair-vs-replace-aging-water-heater-winter/",
+      "clicks": 1,
+      "impressions": 303,
+      "ctr": 0.0033003300330033004,
+      "position": 9.676567656765677
+    },
+    {
+      "page": "https://goelevatedcomfort.com/sebastopol-hvac-services/",
+      "clicks": 1,
+      "impressions": 1937,
+      "ctr": 0.0005162622612287042,
+      "position": 18.652039235931852
+    },
+    {
+      "page": "https://goelevatedcomfort.com/terms-and-conditions/",
+      "clicks": 1,
+      "impressions": 90,
+      "ctr": 0.011111111111111112,
+      "position": 8.277777777777779
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:07:47.508Z"
+}

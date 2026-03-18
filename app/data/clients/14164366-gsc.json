@@ -1,0 +1,1350 @@
+{
+  "property": "sc-domain:855mikewins.com",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 33987,
+    "impressions": 7040550,
+    "ctr": 0.004827321729126276,
+    "position": 20.03847921867056
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 302,
+      "impressions": 56478,
+      "ctr": 0.005347214844718297,
+      "position": 18.95394666949963
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 343,
+      "impressions": 57762,
+      "ctr": 0.005938160036009834,
+      "position": 19.479882968041274
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 309,
+      "impressions": 47711,
+      "ctr": 0.006476493890297835,
+      "position": 18.133700823709418
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 322,
+      "impressions": 54478,
+      "ctr": 0.005910642828297661,
+      "position": 22.107658137229706
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 271,
+      "impressions": 54318,
+      "ctr": 0.004989138038955779,
+      "position": 24.914853271475387
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 205,
+      "impressions": 48550,
+      "ctr": 0.004222451081359423,
+      "position": 21.639485066941297
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 236,
+      "impressions": 49845,
+      "ctr": 0.004734677500250777,
+      "position": 24.414003410572775
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 462,
+      "impressions": 92613,
+      "ctr": 0.0049885005344822,
+      "position": 12.668901774048999
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 504,
+      "impressions": 57310,
+      "ctr": 0.008794276740533938,
+      "position": 22.306264177281452
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 242,
+      "impressions": 48428,
+      "ctr": 0.004997109110431982,
+      "position": 25.249690261831997
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 156,
+      "impressions": 42450,
+      "ctr": 0.003674911660777385,
+      "position": 22.495194346289754
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 765,
+      "impressions": 48067,
+      "ctr": 0.015915284914806416,
+      "position": 19.81240768094535
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 533,
+      "impressions": 47726,
+      "ctr": 0.01116791685873528,
+      "position": 20.384235008171647
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 420,
+      "impressions": 53572,
+      "ctr": 0.007839916374225342,
+      "position": 22.814548644814455
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 600,
+      "impressions": 57285,
+      "ctr": 0.010473946059177796,
+      "position": 18.818940385790345
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 1363,
+      "impressions": 137317,
+      "ctr": 0.009925937793572537,
+      "position": 11.866214671162346
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 2945,
+      "impressions": 143623,
+      "ctr": 0.02050507230736024,
+      "position": 11.589954255237672
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 675,
+      "impressions": 318874,
+      "ctr": 0.0021168235729473084,
+      "position": 10.565693659564593
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 562,
+      "impressions": 337227,
+      "ctr": 0.0016665332253941708,
+      "position": 9.398722522217971
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 535,
+      "impressions": 277584,
+      "ctr": 0.0019273445155340366,
+      "position": 8.763008674851577
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 210,
+      "impressions": 55076,
+      "ctr": 0.0038129130655821047,
+      "position": 23.81240467717336
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 356,
+      "impressions": 86080,
+      "ctr": 0.004135687732342007,
+      "position": 18.01177973977695
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 391,
+      "impressions": 59369,
+      "ctr": 0.006585928683319578,
+      "position": 18.218497869258368
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 397,
+      "impressions": 83456,
+      "ctr": 0.004756997699386503,
+      "position": 28.12653374233129
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 364,
+      "impressions": 87482,
+      "ctr": 0.004160855947509202,
+      "position": 30.818053999679933
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 299,
+      "impressions": 89114,
+      "ctr": 0.003355252822227708,
+      "position": 32.97644590075633
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 241,
+      "impressions": 70539,
+      "ctr": 0.003416549710089454,
+      "position": 31.635676717844028
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 237,
+      "impressions": 74188,
+      "ctr": 0.0031945867256160027,
+      "position": 30.45105677468054
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 387,
+      "impressions": 71462,
+      "ctr": 0.005415465562116929,
+      "position": 22.697279673112984
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 367,
+      "impressions": 70720,
+      "ctr": 0.0051894796380090496,
+      "position": 23.105995475113122
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 365,
+      "impressions": 78295,
+      "ctr": 0.0046618558017753366,
+      "position": 24.754467079634715
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 328,
+      "impressions": 58172,
+      "ctr": 0.005638451488688716,
+      "position": 20.500687616035204
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 298,
+      "impressions": 65016,
+      "ctr": 0.004583487141626676,
+      "position": 25.63607419712071
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 154,
+      "impressions": 57417,
+      "ctr": 0.002682132469477681,
+      "position": 25.597714962467563
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 170,
+      "impressions": 63686,
+      "ctr": 0.002669346481173256,
+      "position": 27.206136356499073
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 287,
+      "impressions": 67626,
+      "ctr": 0.004243929849466182,
+      "position": 25.21885073788188
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 356,
+      "impressions": 68454,
+      "ctr": 0.005200572647325211,
+      "position": 22.538975078154674
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 358,
+      "impressions": 69707,
+      "ctr": 0.005135782633021074,
+      "position": 23.11853902764428
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 335,
+      "impressions": 66559,
+      "ctr": 0.005033128502531589,
+      "position": 24.15462972700912
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 337,
+      "impressions": 62036,
+      "ctr": 0.005432329615062222,
+      "position": 21.51561996260236
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 206,
+      "impressions": 59448,
+      "ctr": 0.0034652132956533442,
+      "position": 24.759705961512584
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 255,
+      "impressions": 103064,
+      "ctr": 0.0024741907940697043,
+      "position": 15.38393619498564
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 371,
+      "impressions": 71815,
+      "ctr": 0.0051660516605166054,
+      "position": 23.354494186451298
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 382,
+      "impressions": 71405,
+      "ctr": 0.005349765422589454,
+      "position": 22.192913661508296
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 399,
+      "impressions": 71422,
+      "ctr": 0.005586513959284254,
+      "position": 20.987650863879477
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 354,
+      "impressions": 62819,
+      "ctr": 0.005635237746541652,
+      "position": 19.655995797449815
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 315,
+      "impressions": 70506,
+      "ctr": 0.004467704876180751,
+      "position": 21.693926758006413
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 240,
+      "impressions": 64575,
+      "ctr": 0.003716608594657375,
+      "position": 23.21708091366628
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 167,
+      "impressions": 74477,
+      "ctr": 0.002242302992870282,
+      "position": 23.588664956966582
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 372,
+      "impressions": 80840,
+      "ctr": 0.004601682335477486,
+      "position": 20.883399307273628
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 400,
+      "impressions": 67378,
+      "ctr": 0.005936655881741815,
+      "position": 16.625040814509187
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 362,
+      "impressions": 75842,
+      "ctr": 0.004773080878668811,
+      "position": 19.414216397246907
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 364,
+      "impressions": 87031,
+      "ctr": 0.004182417759189255,
+      "position": 23.160655398651055
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 326,
+      "impressions": 78986,
+      "ctr": 0.004127313701162231,
+      "position": 22.24057427898615
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 211,
+      "impressions": 65467,
+      "ctr": 0.0032229978462431455,
+      "position": 19.64553133639849
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 268,
+      "impressions": 63485,
+      "ctr": 0.004221469638497283,
+      "position": 21.210947467905804
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 388,
+      "impressions": 99591,
+      "ctr": 0.003895934371579761,
+      "position": 19.493418079946984
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 401,
+      "impressions": 77850,
+      "ctr": 0.005150931278098909,
+      "position": 21.436467565831727
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 375,
+      "impressions": 79368,
+      "ctr": 0.004724826126398548,
+      "position": 19.547197863118637
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 437,
+      "impressions": 69953,
+      "ctr": 0.006247051591783054,
+      "position": 19.61284004974769
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 366,
+      "impressions": 61225,
+      "ctr": 0.005977950183748469,
+      "position": 17.379289505920784
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 221,
+      "impressions": 58915,
+      "ctr": 0.003751166935415429,
+      "position": 19.541899346516168
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 215,
+      "impressions": 62304,
+      "ctr": 0.0034508217770929635,
+      "position": 19.912252824858758
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 383,
+      "impressions": 71836,
+      "ctr": 0.005331588618519962,
+      "position": 19.30412328080628
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 413,
+      "impressions": 72785,
+      "ctr": 0.005674246067184172,
+      "position": 18.972356941677543
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 420,
+      "impressions": 77872,
+      "ctr": 0.005393466200945141,
+      "position": 20.211770597904252
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 370,
+      "impressions": 71091,
+      "ctr": 0.005204596925067871,
+      "position": 17.157938416958547
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 332,
+      "impressions": 70018,
+      "ctr": 0.004741637864549116,
+      "position": 18.30485018138193
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 228,
+      "impressions": 70281,
+      "ctr": 0.0032441200324412004,
+      "position": 20.078413796047297
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 202,
+      "impressions": 69730,
+      "ctr": 0.0028968879965581527,
+      "position": 21.271877240785887
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 358,
+      "impressions": 110926,
+      "ctr": 0.0032273768097650685,
+      "position": 14.35438039774264
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 345,
+      "impressions": 73760,
+      "ctr": 0.0046773318872017355,
+      "position": 19.030409436008675
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 342,
+      "impressions": 77941,
+      "ctr": 0.004387934463247842,
+      "position": 19.056953336498122
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 373,
+      "impressions": 72179,
+      "ctr": 0.005167708059130772,
+      "position": 17.21114174482883
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 298,
+      "impressions": 76476,
+      "ctr": 0.003896647314190073,
+      "position": 17.726476280140176
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 176,
+      "impressions": 63578,
+      "ctr": 0.0027682531693353045,
+      "position": 18.98944603479191
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 178,
+      "impressions": 67270,
+      "ctr": 0.0026460532183737178,
+      "position": 20.88391556414449
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 316,
+      "impressions": 89863,
+      "ctr": 0.00351646395068048,
+      "position": 19.338070173486308
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 340,
+      "impressions": 72315,
+      "ctr": 0.00470165249256724,
+      "position": 17.245301804604853
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 305,
+      "impressions": 64116,
+      "ctr": 0.004757002932185414,
+      "position": 15.833582881028137
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 281,
+      "impressions": 58739,
+      "ctr": 0.004783874427552392,
+      "position": 15.579308466266024
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 266,
+      "impressions": 62987,
+      "ctr": 0.0042230936542461146,
+      "position": 14.010859383682346
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 155,
+      "impressions": 56239,
+      "ctr": 0.002756094525151585,
+      "position": 15.107558811500915
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 158,
+      "impressions": 51385,
+      "ctr": 0.0030748272842269146,
+      "position": 16.7497713340469
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 425,
+      "impressions": 64793,
+      "ctr": 0.0065593505471270045,
+      "position": 15.776086922970073
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 407,
+      "impressions": 61766,
+      "ctr": 0.006589385746203413,
+      "position": 14.798270893371757
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 483,
+      "impressions": 116064,
+      "ctr": 0.004161497105045492,
+      "position": 9.945064791838986
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 476,
+      "impressions": 65236,
+      "ctr": 0.0072965847078300325,
+      "position": 14.917959408915323
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 380,
+      "impressions": 62116,
+      "ctr": 0.006117586451155902,
+      "position": 15.363931998196922
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 195,
+      "impressions": 55750,
+      "ctr": 0.0034977578475336325,
+      "position": 14.832484304932736
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "mike morse law firm",
+      "clicks": 2795,
+      "impressions": 14048,
+      "ctr": 0.1989607061503417,
+      "position": 1.3795558086560364
+    },
+    {
+      "query": "wins855.site -top",
+      "clicks": 2006,
+      "impressions": 924862,
+      "ctr": 0.00216897223585789,
+      "position": 5.779505482980164
+    },
+    {
+      "query": "mike morse",
+      "clicks": 1152,
+      "impressions": 10160,
+      "ctr": 0.11338582677165354,
+      "position": 1.752755905511811
+    },
+    {
+      "query": "mike morse uber voucher",
+      "clicks": 594,
+      "impressions": 696,
+      "ctr": 0.853448275862069,
+      "position": 1.0057471264367817
+    },
+    {
+      "query": "mike morris law firm",
+      "clicks": 368,
+      "impressions": 3895,
+      "ctr": 0.0944801026957638,
+      "position": 1.4618741976893452
+    },
+    {
+      "query": "mike morse law",
+      "clicks": 367,
+      "impressions": 1301,
+      "ctr": 0.28209069946195237,
+      "position": 3.048424289008455
+    },
+    {
+      "query": "mike morse injury law firm",
+      "clicks": 285,
+      "impressions": 1842,
+      "ctr": 0.15472312703583063,
+      "position": 2.9071661237785014
+    },
+    {
+      "query": "mike morse free uber",
+      "clicks": 249,
+      "impressions": 297,
+      "ctr": 0.8383838383838383,
+      "position": 1
+    },
+    {
+      "query": "855 mike wins",
+      "clicks": 240,
+      "impressions": 833,
+      "ctr": 0.28811524609843936,
+      "position": 1.0012004801920769
+    },
+    {
+      "query": "mike morse lawyer",
+      "clicks": 239,
+      "impressions": 1459,
+      "ctr": 0.16381082933516106,
+      "position": 1.6161754626456477
+    },
+    {
+      "query": "mike morse attorney",
+      "clicks": 232,
+      "impressions": 739,
+      "ctr": 0.31393775372124494,
+      "position": 1.6238159675236807
+    },
+    {
+      "query": "mike morse detroit",
+      "clicks": 217,
+      "impressions": 646,
+      "ctr": 0.33591331269349844,
+      "position": 1.5913312693498454
+    },
+    {
+      "query": "mike morse law firm reviews",
+      "clicks": 214,
+      "impressions": 1476,
+      "ctr": 0.14498644986449866,
+      "position": 3.605691056910569
+    },
+    {
+      "query": "mike morse michigan",
+      "clicks": 203,
+      "impressions": 653,
+      "ctr": 0.3108728943338438,
+      "position": 2.104134762633997
+    },
+    {
+      "query": "855mikewins free ride",
+      "clicks": 197,
+      "impressions": 228,
+      "ctr": 0.8640350877192983,
+      "position": 1
+    },
+    {
+      "query": "mike morse uber",
+      "clicks": 197,
+      "impressions": 249,
+      "ctr": 0.7911646586345381,
+      "position": 1
+    },
+    {
+      "query": "mike morse law firm uber",
+      "clicks": 91,
+      "impressions": 131,
+      "ctr": 0.6946564885496184,
+      "position": 1
+    },
+    {
+      "query": "free uber ride",
+      "clicks": 90,
+      "impressions": 3031,
+      "ctr": 0.029693170570768722,
+      "position": 7.615638403167272
+    },
+    {
+      "query": "855mikewins",
+      "clicks": 87,
+      "impressions": 271,
+      "ctr": 0.3210332103321033,
+      "position": 2.5239852398523985
+    },
+    {
+      "query": "mike morse law firm uber voucher",
+      "clicks": 86,
+      "impressions": 120,
+      "ctr": 0.7166666666666667,
+      "position": 1
+    },
+    {
+      "query": "mike morse law firm free uber",
+      "clicks": 83,
+      "impressions": 117,
+      "ctr": 0.7094017094017094,
+      "position": 1
+    },
+    {
+      "query": "mike morse net worth",
+      "clicks": 75,
+      "impressions": 1385,
+      "ctr": 0.05415162454873646,
+      "position": 2.343682310469314
+    },
+    {
+      "query": "mike morse law firm careers",
+      "clicks": 71,
+      "impressions": 115,
+      "ctr": 0.6173913043478261,
+      "position": 2.4956521739130437
+    },
+    {
+      "query": "mike morse ride free nye",
+      "clicks": 67,
+      "impressions": 84,
+      "ctr": 0.7976190476190477,
+      "position": 1
+    },
+    {
+      "query": "free uber voucher",
+      "clicks": 52,
+      "impressions": 908,
+      "ctr": 0.05726872246696035,
+      "position": 7.819383259911894
+    },
+    {
+      "query": "free uber nye",
+      "clicks": 46,
+      "impressions": 1002,
+      "ctr": 0.04590818363273453,
+      "position": 8.141716566866268
+    },
+    {
+      "query": "denis preka",
+      "clicks": 43,
+      "impressions": 244,
+      "ctr": 0.1762295081967213,
+      "position": 2.4877049180327866
+    },
+    {
+      "query": "mike morse injury law firm services near me",
+      "clicks": 43,
+      "impressions": 45,
+      "ctr": 0.9555555555555556,
+      "position": 1.0222222222222221
+    },
+    {
+      "query": "mike wins",
+      "clicks": 41,
+      "impressions": 374,
+      "ctr": 0.10962566844919786,
+      "position": 1.248663101604278
+    },
+    {
+      "query": "mike morse injury law firm near me",
+      "clicks": 40,
+      "impressions": 40,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "mike morris attorney",
+      "clicks": 39,
+      "impressions": 399,
+      "ctr": 0.09774436090225563,
+      "position": 2.7769423558897244
+    },
+    {
+      "query": "mike morris law",
+      "clicks": 39,
+      "impressions": 232,
+      "ctr": 0.16810344827586207,
+      "position": 1.8448275862068966
+    },
+    {
+      "query": "what happens if you hit a deer and don t call the police",
+      "clicks": 39,
+      "impressions": 2356,
+      "ctr": 0.016553480475382003,
+      "position": 3.281409168081494
+    },
+    {
+      "query": "mike's million com",
+      "clicks": 38,
+      "impressions": 44,
+      "ctr": 0.8636363636363636,
+      "position": 1.1590909090909092
+    },
+    {
+      "query": "personal injury lawyer detroit",
+      "clicks": 38,
+      "impressions": 4881,
+      "ctr": 0.007785289899610736,
+      "position": 6.357303831182135
+    },
+    {
+      "query": "mike morse injury law firm services",
+      "clicks": 36,
+      "impressions": 36,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "is michigan a stand your ground state 2025",
+      "clicks": 35,
+      "impressions": 1784,
+      "ctr": 0.01961883408071749,
+      "position": 3.781390134529148
+    },
+    {
+      "query": "detroit personal injury lawyer",
+      "clicks": 34,
+      "impressions": 2821,
+      "ctr": 0.012052463665366891,
+      "position": 7.7873094647288195
+    },
+    {
+      "query": "john nachazel",
+      "clicks": 34,
+      "impressions": 113,
+      "ctr": 0.3008849557522124,
+      "position": 2.3185840707964602
+    },
+    {
+      "query": "mike morris uber voucher",
+      "clicks": 33,
+      "impressions": 165,
+      "ctr": 0.2,
+      "position": 4.284848484848485
+    },
+    {
+      "query": "mike morse law firm jobs",
+      "clicks": 32,
+      "impressions": 57,
+      "ctr": 0.5614035087719298,
+      "position": 1.6491228070175439
+    },
+    {
+      "query": "mike morse free uber ride",
+      "clicks": 31,
+      "impressions": 35,
+      "ctr": 0.8857142857142857,
+      "position": 1
+    },
+    {
+      "query": "mike morse personal injury lawyer detroit",
+      "clicks": 31,
+      "impressions": 31,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "personal injury lawyer",
+      "clicks": 31,
+      "impressions": 67773,
+      "ctr": 0.0004574092927862128,
+      "position": 33.14628244286072
+    },
+    {
+      "query": "michael morse law firm",
+      "clicks": 30,
+      "impressions": 729,
+      "ctr": 0.0411522633744856,
+      "position": 1.260631001371742
+    },
+    {
+      "query": "mike moore law firm",
+      "clicks": 30,
+      "impressions": 185,
+      "ctr": 0.16216216216216217,
+      "position": 2.562162162162162
+    },
+    {
+      "query": "mike morris",
+      "clicks": 29,
+      "impressions": 1583,
+      "ctr": 0.01831964624131396,
+      "position": 10.569172457359445
+    },
+    {
+      "query": "mikemorse",
+      "clicks": 29,
+      "impressions": 80,
+      "ctr": 0.3625,
+      "position": 3.2875
+    },
+    {
+      "query": "mike morris lawyer",
+      "clicks": 28,
+      "impressions": 281,
+      "ctr": 0.099644128113879,
+      "position": 2.6156583629893237
+    },
+    {
+      "query": "mike morse injury law firm reviews",
+      "clicks": 28,
+      "impressions": 114,
+      "ctr": 0.24561403508771928,
+      "position": 10.070175438596491
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://www.855mikewins.com/",
+      "clicks": 5583,
+      "impressions": 635523,
+      "ctr": 0.008784890554708484,
+      "position": 27.774363791711707
+    },
+    {
+      "page": "https://www.855mikewins.com/ridefreenye/",
+      "clicks": 4154,
+      "impressions": 42794,
+      "ctr": 0.09706968266579427,
+      "position": 13.287423470579988
+    },
+    {
+      "page": "https://www.855mikewins.com/southfield-personal-injury-lawyers/?utm_source=GMB&utm_medium=organic&utm_campaign=Southfield",
+      "clicks": 2451,
+      "impressions": 430789,
+      "ctr": 0.005689560318392531,
+      "position": 3.2368189531301867
+    },
+    {
+      "page": "https://www.855mikewins.com/that-surprise-settlement-check-from-an-insurance-company-might-be-a-scam/",
+      "clicks": 1148,
+      "impressions": 95352,
+      "ctr": 0.012039600637637385,
+      "position": 5.172581592415471
+    },
+    {
+      "page": "https://www.855mikewins.com/meet-your-team/",
+      "clicks": 711,
+      "impressions": 107913,
+      "ctr": 0.006588640849573267,
+      "position": 6.832763429799932
+    },
+    {
+      "page": "https://www.855mikewins.com/start-the-new-year-on-a-winning-note-25-tips-for-2026/",
+      "clicks": 612,
+      "impressions": 414464,
+      "ctr": 0.0014766059295861643,
+      "position": 6.108296498610253
+    },
+    {
+      "page": "https://www.855mikewins.com/when-is-deadly-force-permitted/",
+      "clicks": 597,
+      "impressions": 80287,
+      "ctr": 0.007435823981466489,
+      "position": 5.992065963356459
+    },
+    {
+      "page": "https://www.855mikewins.com/mikes-million-challenge/",
+      "clicks": 487,
+      "impressions": 795,
+      "ctr": 0.6125786163522012,
+      "position": 1.9119496855345912
+    },
+    {
+      "page": "https://www.855mikewins.com/car-accident-lawyers/what-to-do-if-your-insurance-check-exceeds-your-car-repairs/",
+      "clicks": 481,
+      "impressions": 87574,
+      "ctr": 0.005492497773311713,
+      "position": 6.626258935300432
+    },
+    {
+      "page": "https://www.855mikewins.com/when-a-natural-disaster-strikes-you-can-strike-back/",
+      "clicks": 380,
+      "impressions": 161903,
+      "ctr": 0.002347084365329858,
+      "position": 5.431999407052371
+    },
+    {
+      "page": "https://www.855mikewins.com/careers/",
+      "clicks": 345,
+      "impressions": 4200,
+      "ctr": 0.08214285714285714,
+      "position": 6.165238095238095
+    },
+    {
+      "page": "https://www.855mikewins.com/pedestrian-accident-lawyers/what-happens-if-someone-jumps-in-front-of-your-car-and-dies/",
+      "clicks": 309,
+      "impressions": 29139,
+      "ctr": 0.010604344692679913,
+      "position": 6.206733244105838
+    },
+    {
+      "page": "https://www.855mikewins.com/the-costly-consequences-of-driving-without-a-license-in-michigan/",
+      "clicks": 304,
+      "impressions": 42452,
+      "ctr": 0.0071610289267879015,
+      "position": 7.4621690379722985
+    },
+    {
+      "page": "https://www.855mikewins.com/deer-car-accident-lawyer/do-you-have-to-file-a-police-report/",
+      "clicks": 302,
+      "impressions": 23534,
+      "ctr": 0.012832497662955723,
+      "position": 9.869380470808192
+    },
+    {
+      "page": "https://www.855mikewins.com/car-accident-lawyers/how-long-does-a-hit-and-run-investigation-take/",
+      "clicks": 278,
+      "impressions": 34243,
+      "ctr": 0.008118447565925883,
+      "position": 3.7746984785211577
+    },
+    {
+      "page": "https://www.855mikewins.com/our-clients-say-it-best/",
+      "clicks": 239,
+      "impressions": 4550,
+      "ctr": 0.05252747252747253,
+      "position": 4.437362637362638
+    },
+    {
+      "page": "https://www.855mikewins.com/how-to-avoid-getting-lowballed-on-the-first-call-with-your-insurance-company/",
+      "clicks": 235,
+      "impressions": 98137,
+      "ctr": 0.0023946116143758215,
+      "position": 6.357021306948449
+    },
+    {
+      "page": "https://www.855mikewins.com/detroit-personal-injury-lawyers/?utm_source=GMB&utm_medium=organic&utm_campaign=Detroit",
+      "clicks": 233,
+      "impressions": 217594,
+      "ctr": 0.0010708015846025167,
+      "position": 2.628836273059
+    },
+    {
+      "page": "https://www.855mikewins.com/morse-law-firm-secures-75-million-verdict-in-historic-wrongful-death-case/",
+      "clicks": 233,
+      "impressions": 9012,
+      "ctr": 0.025854416333777185,
+      "position": 6.812694185530404
+    },
+    {
+      "page": "https://www.855mikewins.com/your-license-your-responsibility-understanding-michigans-license-points-system/",
+      "clicks": 231,
+      "impressions": 62483,
+      "ctr": 0.0036970055855192613,
+      "position": 8.952659123281531
+    },
+    {
+      "page": "https://www.855mikewins.com/detroit-personal-injury-lawyers/",
+      "clicks": 224,
+      "impressions": 93218,
+      "ctr": 0.0024029693835954428,
+      "position": 31.375227960265185
+    },
+    {
+      "page": "https://www.855mikewins.com/michigans-mini-tort-law-is-it-an-exception-that-proves-the-no-fault-rule/",
+      "clicks": 221,
+      "impressions": 25956,
+      "ctr": 0.008514408999845893,
+      "position": 6.299969178609955
+    },
+    {
+      "page": "https://www.855mikewins.com/police-misconduct-attorney/",
+      "clicks": 218,
+      "impressions": 15019,
+      "ctr": 0.014514947732871696,
+      "position": 26.593315134163394
+    },
+    {
+      "page": "https://www.855mikewins.com/car-accident-lawyers/teen-drivers-laws/",
+      "clicks": 213,
+      "impressions": 29860,
+      "ctr": 0.007133288680509042,
+      "position": 4.620261219022103
+    },
+    {
+      "page": "https://www.855mikewins.com/episode-20-what-you-need-to-know-about-workers-compensation/",
+      "clicks": 213,
+      "impressions": 26987,
+      "ctr": 0.007892689072516397,
+      "position": 2.27135287360581
+    },
+    {
+      "page": "https://www.855mikewins.com/meet-your-team/mike-morse/",
+      "clicks": 201,
+      "impressions": 59853,
+      "ctr": 0.003358227657761516,
+      "position": 4.1469433445274255
+    },
+    {
+      "page": "https://www.855mikewins.com/contact-us/",
+      "clicks": 171,
+      "impressions": 80858,
+      "ctr": 0.002114818570827871,
+      "position": 6.270177347943308
+    },
+    {
+      "page": "https://www.855mikewins.com/deer-car-accident-lawyer/who-is-at-fault/",
+      "clicks": 170,
+      "impressions": 54138,
+      "ctr": 0.0031401233883778493,
+      "position": 5.65964756732794
+    },
+    {
+      "page": "https://www.855mikewins.com/michigans-auto-insurance-dilemma-why-are-premiums-so-absurdly-high/",
+      "clicks": 163,
+      "impressions": 18535,
+      "ctr": 0.008794173185864581,
+      "position": 16.304828702454813
+    },
+    {
+      "page": "https://www.855mikewins.com/deer-car-accident-lawyer/is-it-illegal-to-hit-a-deer-and-drive-off/",
+      "clicks": 153,
+      "impressions": 18043,
+      "ctr": 0.008479742836557114,
+      "position": 8.864213268303498
+    },
+    {
+      "page": "https://www.855mikewins.com/personal-injury-lawyer/what-happens-if-someone-makes-a-personal-injury-claim-against-me/",
+      "clicks": 151,
+      "impressions": 14082,
+      "ctr": 0.010722908677744638,
+      "position": 10.384107371112059
+    },
+    {
+      "page": "https://www.855mikewins.com/disability-lawyer/disabled-adult-child-social-security-benefits/",
+      "clicks": 147,
+      "impressions": 13823,
+      "ctr": 0.01063444982999349,
+      "position": 6.749981914200969
+    },
+    {
+      "page": "https://www.855mikewins.com/car-accident-lawyers/what-happens-if-someone-walks-in-front-of-your-car/",
+      "clicks": 144,
+      "impressions": 18046,
+      "ctr": 0.007979607669289594,
+      "position": 4.89050205031586
+    },
+    {
+      "page": "https://www.855mikewins.com/personal-injury-lawyer/what-percentage-of-injury-claims-go-to-court/",
+      "clicks": 131,
+      "impressions": 28142,
+      "ctr": 0.004654964110582048,
+      "position": 7.210965816217753
+    },
+    {
+      "page": "https://www.855mikewins.com/deer-car-accident-lawyer/does-hitting-a-deer-raise-your-insurance/",
+      "clicks": 126,
+      "impressions": 46635,
+      "ctr": 0.0027018333869411387,
+      "position": 9.522611772274043
+    },
+    {
+      "page": "https://www.855mikewins.com/michigans-good-samaritan-laws-are-written-to-protect-well-intentioned-bystanders-but-how-much-safety-do-they-offer/",
+      "clicks": 125,
+      "impressions": 9538,
+      "ctr": 0.013105472845460264,
+      "position": 6.125078632837073
+    },
+    {
+      "page": "https://www.855mikewins.com/sterling-heights-personal-injury-lawyers/?utm_source=GMB&utm_medium=organic&utm_campaign=SterlingHeights",
+      "clicks": 124,
+      "impressions": 136793,
+      "ctr": 0.0009064791327041588,
+      "position": 2.846278683850782
+    },
+    {
+      "page": "https://www.855mikewins.com/in-2021-michigan-saw-50000-deer-related-crashes/",
+      "clicks": 121,
+      "impressions": 28209,
+      "ctr": 0.004289411180828814,
+      "position": 5.38484171718246
+    },
+    {
+      "page": "https://www.855mikewins.com/truck-accident-lawyers/dot-requirements-for-reflective-tape-on-trucks/",
+      "clicks": 117,
+      "impressions": 21232,
+      "ctr": 0.005510550113036926,
+      "position": 6.142614920874152
+    },
+    {
+      "page": "https://www.855mikewins.com/the-great-parking-debate-whats-safer-back-in-or-pull-forward/",
+      "clicks": 116,
+      "impressions": 16060,
+      "ctr": 0.007222914072229141,
+      "position": 5.573910336239103
+    },
+    {
+      "page": "https://www.855mikewins.com/car-accident-lawyers/what-if-someone-else-was-driving-my-car-during-a-car-accident/",
+      "clicks": 114,
+      "impressions": 19795,
+      "ctr": 0.005759030058095479,
+      "position": 9.724425359939378
+    },
+    {
+      "page": "https://www.855mikewins.com/ptsd-flashbacks-anxiety-depression-when-to-sue-for-emotional-distress/",
+      "clicks": 114,
+      "impressions": 54631,
+      "ctr": 0.0020867273159927515,
+      "position": 9.610788746316194
+    },
+    {
+      "page": "https://www.855mikewins.com/109-meet-mikes-daughters-the-morse-girls-flip-the-script-interview-dad-in-fathers-day-special/",
+      "clicks": 112,
+      "impressions": 5214,
+      "ctr": 0.021480629075565784,
+      "position": 3.065017261219793
+    },
+    {
+      "page": "https://www.855mikewins.com/practice-areas/",
+      "clicks": 112,
+      "impressions": 48833,
+      "ctr": 0.0022935310138635758,
+      "position": 5.295271640079455
+    },
+    {
+      "page": "https://www.855mikewins.com/wp-content/uploads/2024/06/Michigan-Firework-Laws-PDF__.pdf",
+      "clicks": 106,
+      "impressions": 12522,
+      "ctr": 0.008465101421498164,
+      "position": 5.147819837086727
+    },
+    {
+      "page": "https://www.855mikewins.com/how-michigans-graduated-license-program-has-empowered-teen-drivers-with-responsible-driving-practices/",
+      "clicks": 101,
+      "impressions": 48933,
+      "ctr": 0.0020640467578117018,
+      "position": 5.961232705944863
+    },
+    {
+      "page": "https://www.855mikewins.com/flint-personal-injury-lawyers/?utm_source=GMB&utm_medium=organic&utm_campaign=Flint",
+      "clicks": 98,
+      "impressions": 48582,
+      "ctr": 0.002017208019431065,
+      "position": 2.517146268165164
+    },
+    {
+      "page": "https://www.855mikewins.com/michigan-medical-malpractice-lawyers/",
+      "clicks": 96,
+      "impressions": 41985,
+      "ctr": 0.002286530903894248,
+      "position": 28.014028819816602
+    },
+    {
+      "page": "https://www.855mikewins.com/meet-your-team/marc-mendelson/",
+      "clicks": 94,
+      "impressions": 949,
+      "ctr": 0.09905163329820864,
+      "position": 8.793466807165437
+    },
+    {
+      "page": "https://www.855mikewins.com/the-dangers-of-daylight-saving-time/",
+      "clicks": 93,
+      "impressions": 92228,
+      "ctr": 0.0010083705599167282,
+      "position": 7.207268942186754
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:06:18.109Z"
+}

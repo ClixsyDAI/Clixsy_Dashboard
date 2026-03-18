@@ -1,0 +1,1350 @@
+{
+  "property": "sc-domain:kogan-disalvo.com",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 6670,
+    "impressions": 2916116,
+    "ctr": 0.0022872889830171366,
+    "position": 22.602936770240913
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 81,
+      "impressions": 30002,
+      "ctr": 0.0026998200119992,
+      "position": 21.614325711619227
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 65,
+      "impressions": 23659,
+      "ctr": 0.0027473688659706667,
+      "position": 25.428166870958197
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 79,
+      "impressions": 20396,
+      "ctr": 0.0038733084918611493,
+      "position": 23.008727201412043
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 72,
+      "impressions": 19794,
+      "ctr": 0.003637465898757199,
+      "position": 24.565929069414974
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 63,
+      "impressions": 20800,
+      "ctr": 0.0030288461538461537,
+      "position": 25.957932692307693
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 41,
+      "impressions": 22695,
+      "ctr": 0.0018065653227583168,
+      "position": 25.94619960343688
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 40,
+      "impressions": 19653,
+      "ctr": 0.002035312674909683,
+      "position": 26.921843993283467
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 55,
+      "impressions": 53711,
+      "ctr": 0.0010239988084377503,
+      "position": 10.75876449889222
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 57,
+      "impressions": 22693,
+      "ctr": 0.002511787775966157,
+      "position": 27.153351253690566
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 32,
+      "impressions": 20763,
+      "ctr": 0.001541203101671242,
+      "position": 27.93575109569908
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 28,
+      "impressions": 17206,
+      "ctr": 0.0016273393002441008,
+      "position": 24.36644193885854
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 52,
+      "impressions": 16820,
+      "ctr": 0.0030915576694411414,
+      "position": 23.361712247324615
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 41,
+      "impressions": 19206,
+      "ctr": 0.00213474955742997,
+      "position": 25.919816723940436
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 44,
+      "impressions": 20331,
+      "ctr": 0.0021641827750725493,
+      "position": 25.87703506959815
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 69,
+      "impressions": 28378,
+      "ctr": 0.0024314609909084502,
+      "position": 21.20311508915357
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 71,
+      "impressions": 28072,
+      "ctr": 0.0025292106013109147,
+      "position": 24.252208606440583
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 55,
+      "impressions": 26736,
+      "ctr": 0.0020571514063435067,
+      "position": 24.896394374625974
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 36,
+      "impressions": 25415,
+      "ctr": 0.0014164863269722605,
+      "position": 25.251229588825495
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 56,
+      "impressions": 22866,
+      "ctr": 0.002449050992740313,
+      "position": 20.269570541415202
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 31,
+      "impressions": 18037,
+      "ctr": 0.001718689360758441,
+      "position": 24.57232355713256
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 47,
+      "impressions": 20552,
+      "ctr": 0.0022868820552744257,
+      "position": 26.42467886337096
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 74,
+      "impressions": 44550,
+      "ctr": 0.0016610549943883277,
+      "position": 13.240852974186307
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 63,
+      "impressions": 22999,
+      "ctr": 0.0027392495325883736,
+      "position": 21.57354667594243
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 92,
+      "impressions": 39586,
+      "ctr": 0.002324053958470166,
+      "position": 31.428030111655637
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 94,
+      "impressions": 40172,
+      "ctr": 0.002339938265458528,
+      "position": 25.901498556208303
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 87,
+      "impressions": 32953,
+      "ctr": 0.0026401238127029404,
+      "position": 29.801747944041512
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 38,
+      "impressions": 24715,
+      "ctr": 0.0015375278171151122,
+      "position": 31.75601861217884
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 42,
+      "impressions": 29078,
+      "ctr": 0.0014443909484833895,
+      "position": 30.126005915124836
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 90,
+      "impressions": 43621,
+      "ctr": 0.0020632264276380643,
+      "position": 15.016987230920886
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 76,
+      "impressions": 32504,
+      "ctr": 0.002338173763229141,
+      "position": 23.246092788579865
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 88,
+      "impressions": 29304,
+      "ctr": 0.003003003003003003,
+      "position": 26.957753207753207
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 87,
+      "impressions": 27495,
+      "ctr": 0.003164211674849973,
+      "position": 19.513366066557555
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 73,
+      "impressions": 25774,
+      "ctr": 0.0028323116318770855,
+      "position": 24.313921005664625
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 30,
+      "impressions": 24739,
+      "ctr": 0.0012126601721977445,
+      "position": 26.57431585755285
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 46,
+      "impressions": 28969,
+      "ctr": 0.0015879043115054024,
+      "position": 28.335841761883394
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 60,
+      "impressions": 37611,
+      "ctr": 0.0015952779771875249,
+      "position": 21.753476376591955
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 100,
+      "impressions": 32514,
+      "ctr": 0.0030755982038506487,
+      "position": 24.69791474441779
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 126,
+      "impressions": 33737,
+      "ctr": 0.0037347719121439368,
+      "position": 23.805465809052375
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 111,
+      "impressions": 32207,
+      "ctr": 0.0034464557394355264,
+      "position": 23.468128046697924
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 106,
+      "impressions": 28329,
+      "ctr": 0.0037417487380422888,
+      "position": 22.77270641392213
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 35,
+      "impressions": 27979,
+      "ctr": 0.0012509382036527395,
+      "position": 25.32388577147146
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 43,
+      "impressions": 66425,
+      "ctr": 0.0006473466315393301,
+      "position": 15.28210764019571
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 105,
+      "impressions": 43516,
+      "ctr": 0.0024129055979409874,
+      "position": 21.848262707969482
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 107,
+      "impressions": 41717,
+      "ctr": 0.002564901598868567,
+      "position": 23.998969245151855
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 109,
+      "impressions": 37743,
+      "ctr": 0.002887952732957105,
+      "position": 22.919428768248416
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 100,
+      "impressions": 35717,
+      "ctr": 0.002799787216171571,
+      "position": 22.16501945852115
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 92,
+      "impressions": 38304,
+      "ctr": 0.0024018379281537175,
+      "position": 22.98467522974102
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 52,
+      "impressions": 35244,
+      "ctr": 0.0014754284417205765,
+      "position": 24.201849960276927
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 49,
+      "impressions": 50329,
+      "ctr": 0.0009735937531045719,
+      "position": 27.55973693099406
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 116,
+      "impressions": 46445,
+      "ctr": 0.002497577780170094,
+      "position": 21.90933362041124
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 125,
+      "impressions": 31543,
+      "ctr": 0.003962844371175855,
+      "position": 20.74989696604635
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 114,
+      "impressions": 36528,
+      "ctr": 0.0031208935611038106,
+      "position": 22.071315155497153
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 125,
+      "impressions": 75926,
+      "ctr": 0.0016463398572294076,
+      "position": 33.23543977030266
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 94,
+      "impressions": 39329,
+      "ctr": 0.002390093823895853,
+      "position": 28.146863637519388
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 54,
+      "impressions": 29778,
+      "ctr": 0.0018134193028410237,
+      "position": 26.32906843978776
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 40,
+      "impressions": 40944,
+      "ctr": 0.0009769441187964048,
+      "position": 22.6004054318093
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 114,
+      "impressions": 37343,
+      "ctr": 0.003052780976354337,
+      "position": 23.586937310874863
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 78,
+      "impressions": 43405,
+      "ctr": 0.001797027992166801,
+      "position": 21.223154014514456
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 110,
+      "impressions": 36259,
+      "ctr": 0.003033729556799691,
+      "position": 26.72401334841005
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 91,
+      "impressions": 31937,
+      "ctr": 0.0028493596768638255,
+      "position": 26.049973385101918
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 90,
+      "impressions": 24383,
+      "ctr": 0.00369109625558791,
+      "position": 22.102612475905342
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 31,
+      "impressions": 23366,
+      "ctr": 0.0013267140289309253,
+      "position": 23.900924420097578
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 45,
+      "impressions": 28136,
+      "ctr": 0.0015993744668751776,
+      "position": 23.33167472277509
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 78,
+      "impressions": 32579,
+      "ctr": 0.002394180300193376,
+      "position": 18.65757082783388
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 96,
+      "impressions": 33302,
+      "ctr": 0.0028827097471623327,
+      "position": 20.610714071226955
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 101,
+      "impressions": 33051,
+      "ctr": 0.00305588333182052,
+      "position": 24.124201990862606
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 77,
+      "impressions": 30735,
+      "ctr": 0.002505287131934277,
+      "position": 19.658662762323086
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 67,
+      "impressions": 28724,
+      "ctr": 0.002332544213897786,
+      "position": 20.645731792229494
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 47,
+      "impressions": 29580,
+      "ctr": 0.0015889114266396213,
+      "position": 22.37183908045977
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 33,
+      "impressions": 31727,
+      "ctr": 0.0010401235540706654,
+      "position": 19.516437104043874
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 99,
+      "impressions": 53821,
+      "ctr": 0.001839430705486706,
+      "position": 12.787685104327307
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 106,
+      "impressions": 29845,
+      "ctr": 0.003551683699112079,
+      "position": 19.830792427542303
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 126,
+      "impressions": 34034,
+      "ctr": 0.003702180172768408,
+      "position": 22.672033848504437
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 91,
+      "impressions": 30332,
+      "ctr": 0.0030001318739285242,
+      "position": 19.484175128577082
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 75,
+      "impressions": 31369,
+      "ctr": 0.0023908954700500493,
+      "position": 20.69578246039083
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 30,
+      "impressions": 30900,
+      "ctr": 0.000970873786407767,
+      "position": 20.58546925566343
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 45,
+      "impressions": 32655,
+      "ctr": 0.0013780431786862655,
+      "position": 23.055887306691165
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 105,
+      "impressions": 48093,
+      "ctr": 0.0021832699145405777,
+      "position": 15.635809785207826
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 103,
+      "impressions": 65809,
+      "ctr": 0.001565135467793159,
+      "position": 10.740704159005608
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 104,
+      "impressions": 32666,
+      "ctr": 0.003183738443641707,
+      "position": 20.478264862548215
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 89,
+      "impressions": 34363,
+      "ctr": 0.0025899950528184383,
+      "position": 14.747140820068097
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 96,
+      "impressions": 25165,
+      "ctr": 0.0038148221736538845,
+      "position": 18.111504073117423
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 48,
+      "impressions": 22914,
+      "ctr": 0.002094789211835559,
+      "position": 18.60857990748014
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 40,
+      "impressions": 23464,
+      "ctr": 0.0017047391749062393,
+      "position": 18.595508012274124
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 93,
+      "impressions": 30774,
+      "ctr": 0.003022031585104309,
+      "position": 17.969617209332554
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 84,
+      "impressions": 35147,
+      "ctr": 0.0023899621589324837,
+      "position": 15.019432668506559
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 98,
+      "impressions": 31188,
+      "ctr": 0.0031422341926381943,
+      "position": 19.229639604976274
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 115,
+      "impressions": 33951,
+      "ctr": 0.0033872345439015052,
+      "position": 18.382374598686344
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 68,
+      "impressions": 30891,
+      "ctr": 0.0022012884011524394,
+      "position": 21.689132757113722
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 39,
+      "impressions": 28099,
+      "ctr": 0.0013879497491013915,
+      "position": 22.14488060073312
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "kogan and disalvo",
+      "clicks": 659,
+      "impressions": 2016,
+      "ctr": 0.32688492063492064,
+      "position": 1.3665674603174602
+    },
+    {
+      "query": "kogan & disalvo",
+      "clicks": 250,
+      "impressions": 528,
+      "ctr": 0.4734848484848485,
+      "position": 1.4621212121212122
+    },
+    {
+      "query": "kogan disalvo",
+      "clicks": 139,
+      "impressions": 311,
+      "ctr": 0.44694533762057875,
+      "position": 2.077170418006431
+    },
+    {
+      "query": "tampa personal injury lawyer",
+      "clicks": 130,
+      "impressions": 1789,
+      "ctr": 0.07266629401900503,
+      "position": 58.276690888764676
+    },
+    {
+      "query": "laurie rabyor",
+      "clicks": 126,
+      "impressions": 1294,
+      "ctr": 0.0973724884080371,
+      "position": 2.919629057187017
+    },
+    {
+      "query": "personal injury lawyers st petersburg florida",
+      "clicks": 113,
+      "impressions": 838,
+      "ctr": 0.13484486873508353,
+      "position": 9.297136038186158
+    },
+    {
+      "query": "personal injury lawyers boca raton",
+      "clicks": 111,
+      "impressions": 1310,
+      "ctr": 0.08473282442748091,
+      "position": 9.114503816793894
+    },
+    {
+      "query": "personal injury attorney delray beach",
+      "clicks": 103,
+      "impressions": 594,
+      "ctr": 0.1734006734006734,
+      "position": 15.276094276094277
+    },
+    {
+      "query": "personal injury lawyer west palm beach",
+      "clicks": 93,
+      "impressions": 2838,
+      "ctr": 0.03276955602536998,
+      "position": 28.620507399577168
+    },
+    {
+      "query": "kogan & disalvo personal injury lawyers",
+      "clicks": 75,
+      "impressions": 947,
+      "ctr": 0.0791974656810982,
+      "position": 1.9218585005279831
+    },
+    {
+      "query": "kogan injury law",
+      "clicks": 60,
+      "impressions": 123,
+      "ctr": 0.4878048780487805,
+      "position": 5.300813008130081
+    },
+    {
+      "query": "personal injury lawyer fort lauderdale",
+      "clicks": 45,
+      "impressions": 1020,
+      "ctr": 0.04411764705882353,
+      "position": 41.03235294117647
+    },
+    {
+      "query": "kogan and disalvo boynton beach",
+      "clicks": 34,
+      "impressions": 229,
+      "ctr": 0.14847161572052403,
+      "position": 5.895196506550218
+    },
+    {
+      "query": "kogan & disalvo,p.a.",
+      "clicks": 33,
+      "impressions": 90,
+      "ctr": 0.36666666666666664,
+      "position": 1
+    },
+    {
+      "query": "casey gartland attorney",
+      "clicks": 30,
+      "impressions": 69,
+      "ctr": 0.43478260869565216,
+      "position": 1
+    },
+    {
+      "query": "kogan & disalvo personal injury law",
+      "clicks": 28,
+      "impressions": 95,
+      "ctr": 0.29473684210526313,
+      "position": 1
+    },
+    {
+      "query": "kogan & disalvo, p.a.",
+      "clicks": 25,
+      "impressions": 62,
+      "ctr": 0.4032258064516129,
+      "position": 1.0483870967741935
+    },
+    {
+      "query": "kogan and disalvo law firm",
+      "clicks": 25,
+      "impressions": 70,
+      "ctr": 0.35714285714285715,
+      "position": 1.5
+    },
+    {
+      "query": "jay london attorney",
+      "clicks": 24,
+      "impressions": 51,
+      "ctr": 0.47058823529411764,
+      "position": 1.5882352941176472
+    },
+    {
+      "query": "casey gartland",
+      "clicks": 21,
+      "impressions": 99,
+      "ctr": 0.21212121212121213,
+      "position": 2.0505050505050506
+    },
+    {
+      "query": "kogan and disalvo boca raton",
+      "clicks": 21,
+      "impressions": 228,
+      "ctr": 0.09210526315789473,
+      "position": 5.43859649122807
+    },
+    {
+      "query": "darryl kogan",
+      "clicks": 18,
+      "impressions": 90,
+      "ctr": 0.2,
+      "position": 5.388888888888889
+    },
+    {
+      "query": "todd baker attorney",
+      "clicks": 18,
+      "impressions": 71,
+      "ctr": 0.2535211267605634,
+      "position": 2.3661971830985915
+    },
+    {
+      "query": "tiffany fanelli",
+      "clicks": 16,
+      "impressions": 189,
+      "ctr": 0.08465608465608465,
+      "position": 3.1693121693121693
+    },
+    {
+      "query": "kogan and disalvo stuart",
+      "clicks": 15,
+      "impressions": 151,
+      "ctr": 0.09933774834437085,
+      "position": 4.708609271523178
+    },
+    {
+      "query": "paul silvestri",
+      "clicks": 15,
+      "impressions": 212,
+      "ctr": 0.07075471698113207,
+      "position": 4.39622641509434
+    },
+    {
+      "query": "darryl kogan attorney",
+      "clicks": 11,
+      "impressions": 35,
+      "ctr": 0.3142857142857143,
+      "position": 1
+    },
+    {
+      "query": "kogan and disalvo reviews",
+      "clicks": 10,
+      "impressions": 171,
+      "ctr": 0.05847953216374269,
+      "position": 13.818713450292398
+    },
+    {
+      "query": "kogan & disalvo law firm",
+      "clicks": 8,
+      "impressions": 38,
+      "ctr": 0.21052631578947367,
+      "position": 1.0263157894736843
+    },
+    {
+      "query": "todd baker",
+      "clicks": 8,
+      "impressions": 106,
+      "ctr": 0.07547169811320754,
+      "position": 10.90566037735849
+    },
+    {
+      "query": "561-375-9500",
+      "clicks": 7,
+      "impressions": 75,
+      "ctr": 0.09333333333333334,
+      "position": 1
+    },
+    {
+      "query": "dwayne haskins accident",
+      "clicks": 7,
+      "impressions": 259,
+      "ctr": 0.02702702702702703,
+      "position": 2.4092664092664093
+    },
+    {
+      "query": "ted disalvo",
+      "clicks": 7,
+      "impressions": 34,
+      "ctr": 0.20588235294117646,
+      "position": 2.2058823529411766
+    },
+    {
+      "query": "todd baker attorney florida",
+      "clicks": 7,
+      "impressions": 14,
+      "ctr": 0.5,
+      "position": 1.4285714285714286
+    },
+    {
+      "query": "what happens if someone sues you for more than your insurance covers in florida",
+      "clicks": 7,
+      "impressions": 105,
+      "ctr": 0.06666666666666667,
+      "position": 2.9047619047619047
+    },
+    {
+      "query": "charles bowen attorney",
+      "clicks": 6,
+      "impressions": 37,
+      "ctr": 0.16216216216216217,
+      "position": 4.918918918918919
+    },
+    {
+      "query": "disability lawyers near me",
+      "clicks": 6,
+      "impressions": 645,
+      "ctr": 0.009302325581395349,
+      "position": 18.86046511627907
+    },
+    {
+      "query": "kogan and desalvo",
+      "clicks": 6,
+      "impressions": 26,
+      "ctr": 0.23076923076923078,
+      "position": 2.3076923076923075
+    },
+    {
+      "query": "kogan law firm",
+      "clicks": 6,
+      "impressions": 32,
+      "ctr": 0.1875,
+      "position": 5.25
+    },
+    {
+      "query": "disalvo",
+      "clicks": 5,
+      "impressions": 693,
+      "ctr": 0.007215007215007215,
+      "position": 9.526695526695526
+    },
+    {
+      "query": "how to get traffic camera footage in florida",
+      "clicks": 5,
+      "impressions": 220,
+      "ctr": 0.022727272727272728,
+      "position": 3.118181818181818
+    },
+    {
+      "query": "kogan and disalvo plantation",
+      "clicks": 5,
+      "impressions": 26,
+      "ctr": 0.19230769230769232,
+      "position": 1
+    },
+    {
+      "query": "can i refuse a recorded statement to insurance company",
+      "clicks": 4,
+      "impressions": 770,
+      "ctr": 0.005194805194805195,
+      "position": 5.732467532467532
+    },
+    {
+      "query": "laurie rabyor florida",
+      "clicks": 4,
+      "impressions": 42,
+      "ctr": 0.09523809523809523,
+      "position": 2.619047619047619
+    },
+    {
+      "query": "medical malpractice attorneys",
+      "clicks": 4,
+      "impressions": 3028,
+      "ctr": 0.001321003963011889,
+      "position": 21.290951122853368
+    },
+    {
+      "query": "stuart mass",
+      "clicks": 4,
+      "impressions": 31,
+      "ctr": 0.12903225806451613,
+      "position": 7.838709677419355
+    },
+    {
+      "query": "whose insurance pays in a multi car accident",
+      "clicks": 4,
+      "impressions": 182,
+      "ctr": 0.02197802197802198,
+      "position": 45.604395604395606
+    },
+    {
+      "query": "accident report",
+      "clicks": 3,
+      "impressions": 111,
+      "ctr": 0.02702702702702703,
+      "position": 10.108108108108109
+    },
+    {
+      "query": "boynton beach personal injury lawyer",
+      "clicks": 3,
+      "impressions": 1033,
+      "ctr": 0.002904162633107454,
+      "position": 10.274927395934172
+    },
+    {
+      "query": "brigitte jolliet",
+      "clicks": 3,
+      "impressions": 22,
+      "ctr": 0.13636363636363635,
+      "position": 1.5
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://www.kogan-disalvo.com/",
+      "clicks": 1379,
+      "impressions": 156546,
+      "ctr": 0.008808912396356342,
+      "position": 24.48312317146398
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/florida-car-accident-lawyer/how-do-i-look-up-an-accident-report-in-florida/",
+      "clicks": 263,
+      "impressions": 54282,
+      "ctr": 0.004845068346781622,
+      "position": 5.929110939169522
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/our-attorneys/",
+      "clicks": 227,
+      "impressions": 28072,
+      "ctr": 0.008086349387289827,
+      "position": 29.725634083784556
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/boynton-beach-injury/?utm_source=gmblisting&utm_medium=organic&utm_campaign=Boynton_Beach",
+      "clicks": 174,
+      "impressions": 67774,
+      "ctr": 0.0025673562132971345,
+      "position": 2.8538082450497244
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/firm-news/boynton-beach-driver-saved-by-good-samaritans/",
+      "clicks": 172,
+      "impressions": 2231,
+      "ctr": 0.07709547288211564,
+      "position": 4.388614970865083
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/west-palm-beach-injury/",
+      "clicks": 133,
+      "impressions": 111065,
+      "ctr": 0.0011974969612389141,
+      "position": 23.572754693197677
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/tampa-injury/",
+      "clicks": 128,
+      "impressions": 58668,
+      "ctr": 0.002181768596168269,
+      "position": 38.96827913001977
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/boca-raton-injury/",
+      "clicks": 119,
+      "impressions": 62393,
+      "ctr": 0.001907265238087606,
+      "position": 22.041623259019442
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/our-attorneys/todd-baker/",
+      "clicks": 116,
+      "impressions": 1885,
+      "ctr": 0.06153846153846154,
+      "position": 17.412732095490718
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/st-petersburg-injury/",
+      "clicks": 113,
+      "impressions": 13013,
+      "ctr": 0.008683624068239453,
+      "position": 43.400061476984554
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/contact-us/",
+      "clicks": 105,
+      "impressions": 12083,
+      "ctr": 0.008689894893652239,
+      "position": 7.817346685425805
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/delray-beach-injury/",
+      "clicks": 99,
+      "impressions": 11635,
+      "ctr": 0.008508809626128062,
+      "position": 23.516115169746456
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/florida-car-accident-lawyer/are-car-accident-settlements-taxable-in-florida/",
+      "clicks": 98,
+      "impressions": 6184,
+      "ctr": 0.015847347994825355,
+      "position": 11.13842173350582
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/our-attorneys/darryl-b-kogan/",
+      "clicks": 95,
+      "impressions": 3458,
+      "ctr": 0.027472527472527472,
+      "position": 7.9459224985540775
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/our-attorneys/casey-gartland/",
+      "clicks": 89,
+      "impressions": 1527,
+      "ctr": 0.058284217419777344,
+      "position": 19.178781925343813
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/florida-car-accident-lawyer/are-parents-liable-for-the-childrens-car-accidents-in-florida/",
+      "clicks": 84,
+      "impressions": 7707,
+      "ctr": 0.010899182561307902,
+      "position": 6.032178538990528
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/firm-news/steelers-qb-dwayne-haskins-killed-by-truck-on-florida-highway/",
+      "clicks": 78,
+      "impressions": 16218,
+      "ctr": 0.004809470958194599,
+      "position": 4.854605993340733
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/florida-workers-compensation-lawyer/can-you-sue-if-you-accept-workers-compensation-in-florida/",
+      "clicks": 76,
+      "impressions": 4262,
+      "ctr": 0.017832003754106054,
+      "position": 8.534021586109809
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/stuart-injury/?utm_source=gmblisting&utm_medium=organic&utm_campaign=Stuart",
+      "clicks": 76,
+      "impressions": 57344,
+      "ctr": 0.0013253348214285715,
+      "position": 2.1548549107142856
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/our-attorneys/jay-s-london/",
+      "clicks": 75,
+      "impressions": 2502,
+      "ctr": 0.02997601918465228,
+      "position": 20.854516386890488
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/florida-car-accident-lawyer/can-i-request-traffic-camera-footage-in-florida-after-a-car-accident/",
+      "clicks": 70,
+      "impressions": 4541,
+      "ctr": 0.015415106804668574,
+      "position": 5.147104162078837
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/florida-car-accident-lawyer/what-if-my-florida-auto-accident-settlement-exceeds-my-policy-limits/",
+      "clicks": 70,
+      "impressions": 5060,
+      "ctr": 0.01383399209486166,
+      "position": 5.832608695652174
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/our-attorneys/paul-m-silvestri/",
+      "clicks": 62,
+      "impressions": 1022,
+      "ctr": 0.060665362035225046,
+      "position": 10.815068493150685
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/our-attorneys/michael-j-ryan/",
+      "clicks": 60,
+      "impressions": 1557,
+      "ctr": 0.038535645472061654,
+      "position": 10.694283879254977
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/boca-raton-injury/?utm_source=gmblisting&utm_medium=organic&utm_campaign=Boca_Raton",
+      "clicks": 59,
+      "impressions": 24675,
+      "ctr": 0.002391084093211753,
+      "position": 6.65450861195542
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/personal-injury/what-is-a-notice-of-claim-and-when-do-you-need-to-file-one-in-florida/",
+      "clicks": 52,
+      "impressions": 2583,
+      "ctr": 0.02013162988772745,
+      "position": 6.4777390631049165
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/our-attorneys/tiffany-m-fanelli/",
+      "clicks": 51,
+      "impressions": 1062,
+      "ctr": 0.0480225988700565,
+      "position": 9.402071563088512
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/our-attorneys/michael-scott/",
+      "clicks": 50,
+      "impressions": 1459,
+      "ctr": 0.03427004797806717,
+      "position": 13.227553118574367
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/boynton-beach-injury/",
+      "clicks": 48,
+      "impressions": 26479,
+      "ctr": 0.00181275727935345,
+      "position": 20.377657766531968
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/fort-lauderdale-injury/",
+      "clicks": 48,
+      "impressions": 52612,
+      "ctr": 0.0009123393902531741,
+      "position": 33.480840872804684
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/florida-car-accident-lawyer/whose-insurance-pays-in-a-multi-car-accident-in-florida/",
+      "clicks": 44,
+      "impressions": 3843,
+      "ctr": 0.011449388498568826,
+      "position": 27.488680718188913
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/fort-myers-injury/",
+      "clicks": 44,
+      "impressions": 57022,
+      "ctr": 0.0007716320016835607,
+      "position": 25.630037529374626
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/our-attorneys/brian-m-andino/",
+      "clicks": 42,
+      "impressions": 848,
+      "ctr": 0.049528301886792456,
+      "position": 13.245283018867925
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/florida-workers-compensation-lawyer/can-an-independent-contractor-receive-workers-compensation-in-florida/",
+      "clicks": 41,
+      "impressions": 7927,
+      "ctr": 0.005172196291156806,
+      "position": 15.240444051974265
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/our-attorneys/theodore-l-disalvo/",
+      "clicks": 38,
+      "impressions": 3108,
+      "ctr": 0.012226512226512226,
+      "position": 8.941119691119692
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/our-attorneys/kevin-major-jr/",
+      "clicks": 37,
+      "impressions": 337,
+      "ctr": 0.10979228486646884,
+      "position": 12.225519287833828
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/st-petersburg-injury/?utm_source=GMBlisting&utm_medium=organic&utm_campaign=St_Pete",
+      "clicks": 36,
+      "impressions": 30147,
+      "ctr": 0.001194148671509603,
+      "position": 5.826384051481076
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/boat-accident/boat-crash-west-palm-beach/",
+      "clicks": 35,
+      "impressions": 3700,
+      "ctr": 0.00945945945945946,
+      "position": 11.761351351351351
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/florida-car-accident-lawyer/my-own-insurance-company-wants-a-recorded-statement-what-should-i-do/",
+      "clicks": 35,
+      "impressions": 5197,
+      "ctr": 0.00673465460842794,
+      "position": 10.858572253223013
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/our-attorneys/alec-zavell/",
+      "clicks": 34,
+      "impressions": 327,
+      "ctr": 0.10397553516819572,
+      "position": 15.565749235474007
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/our-attorneys/charles-a-bowen-jr/",
+      "clicks": 33,
+      "impressions": 1216,
+      "ctr": 0.027138157894736843,
+      "position": 20.861019736842106
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/our-attorneys/rachel-r-schrager/",
+      "clicks": 32,
+      "impressions": 592,
+      "ctr": 0.05405405405405406,
+      "position": 12.662162162162161
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/our-attorneys/sonia-masters/",
+      "clicks": 32,
+      "impressions": 805,
+      "ctr": 0.03975155279503106,
+      "position": 20.339130434782607
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/plantation-injury/?utm_source=gmblisting&utm_medium=organic&utm_campaign=Fort_Laud",
+      "clicks": 32,
+      "impressions": 29182,
+      "ctr": 0.0010965663765334795,
+      "position": 2.7532725652799668
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/florida-car-accident-lawyer/what-if-my-car-is-totaled-in-an-accident-in-florida/",
+      "clicks": 31,
+      "impressions": 13423,
+      "ctr": 0.0023094688221709007,
+      "position": 18.851821500409745
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/dealing-with-auto-insurance/progressive/",
+      "clicks": 30,
+      "impressions": 5046,
+      "ctr": 0.005945303210463734,
+      "position": 10.845223939754261
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/our-attorneys/steven-m-willner/",
+      "clicks": 28,
+      "impressions": 559,
+      "ctr": 0.05008944543828265,
+      "position": 12.790697674418604
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/tampa-injury/?utm_source=GMBlisting&utm_medium=organic&utm_campaign=Tampa",
+      "clicks": 28,
+      "impressions": 4031,
+      "ctr": 0.006946167204167701,
+      "position": 20.449268171669562
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/personal-injury/how-a-medical-lien-affects-your-personal-injury-settlement/",
+      "clicks": 27,
+      "impressions": 3370,
+      "ctr": 0.008011869436201781,
+      "position": 8.47240356083086
+    },
+    {
+      "page": "https://www.kogan-disalvo.com/boca-raton-injury/wrongful-death-lawyer/settlement-distribution/",
+      "clicks": 26,
+      "impressions": 3298,
+      "ctr": 0.007883565797453002,
+      "position": 19.201334141904184
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:07:07.884Z"
+}

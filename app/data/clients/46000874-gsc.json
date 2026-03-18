@@ -1,0 +1,1350 @@
+{
+  "property": "sc-domain:asapcommercialdoors.com",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 11261,
+    "impressions": 191805,
+    "ctr": 0.058710669690571156,
+    "position": 22.92635030166524
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 102,
+      "impressions": 3306,
+      "ctr": 0.030852994555353903,
+      "position": 20.79068360556564
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 98,
+      "impressions": 1970,
+      "ctr": 0.049746192893401014,
+      "position": 32.035532994923855
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 114,
+      "impressions": 1934,
+      "ctr": 0.05894519131334023,
+      "position": 27.384177869700103
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 119,
+      "impressions": 1714,
+      "ctr": 0.06942823803967328,
+      "position": 23.77596266044341
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 105,
+      "impressions": 1769,
+      "ctr": 0.059355568117580554,
+      "position": 29.74448841153194
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 92,
+      "impressions": 1297,
+      "ctr": 0.07093292212798766,
+      "position": 32.21434078643023
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 95,
+      "impressions": 1351,
+      "ctr": 0.07031828275351591,
+      "position": 34.267209474463364
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 115,
+      "impressions": 4273,
+      "ctr": 0.02691317575473906,
+      "position": 21.293470629534283
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 101,
+      "impressions": 1771,
+      "ctr": 0.057029926595143984,
+      "position": 31.507622811970638
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 111,
+      "impressions": 1865,
+      "ctr": 0.05951742627345844,
+      "position": 31.567292225201072
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 127,
+      "impressions": 1043,
+      "ctr": 0.12176414189837009,
+      "position": 25.810162991371044
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 129,
+      "impressions": 1617,
+      "ctr": 0.07977736549165121,
+      "position": 33.16697588126159
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 124,
+      "impressions": 1559,
+      "ctr": 0.07953816549069917,
+      "position": 20.86914688903143
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 121,
+      "impressions": 1684,
+      "ctr": 0.07185273159144893,
+      "position": 28.100950118764846
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 131,
+      "impressions": 3961,
+      "ctr": 0.033072456450391315,
+      "position": 20.722292350416563
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 133,
+      "impressions": 1984,
+      "ctr": 0.06703629032258064,
+      "position": 29.592237903225808
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 116,
+      "impressions": 1980,
+      "ctr": 0.05858585858585859,
+      "position": 26.032323232323233
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 101,
+      "impressions": 1483,
+      "ctr": 0.06810519217801753,
+      "position": 27.764666217127445
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 105,
+      "impressions": 1496,
+      "ctr": 0.07018716577540107,
+      "position": 24.071524064171122
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 106,
+      "impressions": 1259,
+      "ctr": 0.08419380460683082,
+      "position": 31.000794281175537
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 108,
+      "impressions": 1646,
+      "ctr": 0.06561360874848117,
+      "position": 25.03584447144593
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 152,
+      "impressions": 3401,
+      "ctr": 0.0446927374301676,
+      "position": 21.785651279035577
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 120,
+      "impressions": 1652,
+      "ctr": 0.07263922518159806,
+      "position": 25.38256658595642
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 133,
+      "impressions": 2783,
+      "ctr": 0.0477901545095221,
+      "position": 33.50592885375494
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 117,
+      "impressions": 2319,
+      "ctr": 0.050452781371280724,
+      "position": 28.993100474342388
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 154,
+      "impressions": 1830,
+      "ctr": 0.08415300546448087,
+      "position": 23.621311475409836
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 123,
+      "impressions": 1681,
+      "ctr": 0.07317073170731707,
+      "position": 31.739440809042236
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 115,
+      "impressions": 1680,
+      "ctr": 0.06845238095238096,
+      "position": 31.069642857142856
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 125,
+      "impressions": 3795,
+      "ctr": 0.03293807641633729,
+      "position": 18.903293807641635
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 114,
+      "impressions": 2083,
+      "ctr": 0.05472875660105617,
+      "position": 31.492078732597214
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 136,
+      "impressions": 2083,
+      "ctr": 0.06529044647143543,
+      "position": 26.55208833413346
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 142,
+      "impressions": 1702,
+      "ctr": 0.08343125734430082,
+      "position": 20.779083431257344
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 124,
+      "impressions": 1827,
+      "ctr": 0.06787082649151614,
+      "position": 23.949096880131364
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 119,
+      "impressions": 1271,
+      "ctr": 0.0936270653029111,
+      "position": 24.163650668764753
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 139,
+      "impressions": 1472,
+      "ctr": 0.09442934782608696,
+      "position": 32.413043478260875
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 130,
+      "impressions": 3516,
+      "ctr": 0.036973833902161544,
+      "position": 22.58447098976109
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 131,
+      "impressions": 1760,
+      "ctr": 0.07443181818181818,
+      "position": 23.910227272727273
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 129,
+      "impressions": 2053,
+      "ctr": 0.0628348757915246,
+      "position": 25.84169508037019
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 142,
+      "impressions": 1718,
+      "ctr": 0.08265424912689173,
+      "position": 25.61059371362049
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 127,
+      "impressions": 1692,
+      "ctr": 0.07505910165484633,
+      "position": 19.03900709219858
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 130,
+      "impressions": 1392,
+      "ctr": 0.09339080459770115,
+      "position": 25.05387931034483
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 144,
+      "impressions": 1477,
+      "ctr": 0.0974949221394719,
+      "position": 28.840216655382534
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 141,
+      "impressions": 4595,
+      "ctr": 0.030685527747551688,
+      "position": 20.420021762785638
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 134,
+      "impressions": 2119,
+      "ctr": 0.0632373761208117,
+      "position": 21.200094384143465
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 138,
+      "impressions": 2254,
+      "ctr": 0.061224489795918366,
+      "position": 22.856699201419698
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 161,
+      "impressions": 1525,
+      "ctr": 0.10557377049180328,
+      "position": 17.281311475409836
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 163,
+      "impressions": 1944,
+      "ctr": 0.08384773662551441,
+      "position": 19.921810699588477
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 147,
+      "impressions": 1521,
+      "ctr": 0.09664694280078895,
+      "position": 21.132807363576596
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 167,
+      "impressions": 2597,
+      "ctr": 0.06430496726992684,
+      "position": 18.748170966499806
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 203,
+      "impressions": 3571,
+      "ctr": 0.05684682161859423,
+      "position": 20.465415849901987
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 160,
+      "impressions": 1971,
+      "ctr": 0.08117706747843734,
+      "position": 20.635717909690513
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 166,
+      "impressions": 1930,
+      "ctr": 0.08601036269430051,
+      "position": 19.620725388601038
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 128,
+      "impressions": 1911,
+      "ctr": 0.06698063840920984,
+      "position": 23.027734170591312
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 16,
+      "impressions": 2171,
+      "ctr": 0.007369875633348687,
+      "position": 20.863196683555966
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 3,
+      "impressions": 1056,
+      "ctr": 0.002840909090909091,
+      "position": 26.849431818181817
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 112,
+      "impressions": 1284,
+      "ctr": 0.08722741433021806,
+      "position": 27.74221183800623
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 156,
+      "impressions": 3376,
+      "ctr": 0.0462085308056872,
+      "position": 20.895142180094787
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 158,
+      "impressions": 2224,
+      "ctr": 0.0710431654676259,
+      "position": 18.655125899280577
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 151,
+      "impressions": 1908,
+      "ctr": 0.07914046121593292,
+      "position": 21.898846960167713
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 166,
+      "impressions": 2667,
+      "ctr": 0.062242219722534686,
+      "position": 17.249718785151856
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 135,
+      "impressions": 1590,
+      "ctr": 0.08490566037735849,
+      "position": 19.632075471698112
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 157,
+      "impressions": 1494,
+      "ctr": 0.10508701472556894,
+      "position": 24.45983935742972
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 162,
+      "impressions": 1376,
+      "ctr": 0.11773255813953488,
+      "position": 20.327761627906977
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 183,
+      "impressions": 3036,
+      "ctr": 0.06027667984189723,
+      "position": 14.939064558629775
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 180,
+      "impressions": 1912,
+      "ctr": 0.09414225941422594,
+      "position": 18.460774058577407
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 177,
+      "impressions": 1753,
+      "ctr": 0.10096976611523104,
+      "position": 17.11466058185967
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 166,
+      "impressions": 2116,
+      "ctr": 0.07844990548204159,
+      "position": 20.4413988657845
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 162,
+      "impressions": 1808,
+      "ctr": 0.08960176991150443,
+      "position": 19.82466814159292
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 154,
+      "impressions": 1457,
+      "ctr": 0.10569663692518874,
+      "position": 22.638297872340427
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 168,
+      "impressions": 1386,
+      "ctr": 0.12121212121212122,
+      "position": 19.35930735930736
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 172,
+      "impressions": 2482,
+      "ctr": 0.0692989524576954,
+      "position": 18.04149879129734
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 152,
+      "impressions": 1656,
+      "ctr": 0.09178743961352658,
+      "position": 17.14855072463768
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 155,
+      "impressions": 2877,
+      "ctr": 0.05387556482446993,
+      "position": 15.623566214807092
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 174,
+      "impressions": 2037,
+      "ctr": 0.08541973490427099,
+      "position": 17.88610702012764
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 173,
+      "impressions": 2114,
+      "ctr": 0.08183538315988648,
+      "position": 16.797540208136233
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 139,
+      "impressions": 1514,
+      "ctr": 0.09180977542932629,
+      "position": 16.880449141347427
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 147,
+      "impressions": 1680,
+      "ctr": 0.0875,
+      "position": 19.932142857142857
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 164,
+      "impressions": 4328,
+      "ctr": 0.03789279112754159,
+      "position": 15.545055452865064
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 162,
+      "impressions": 8862,
+      "ctr": 0.01828029790115098,
+      "position": 5.186188219363575
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 156,
+      "impressions": 2005,
+      "ctr": 0.07780548628428928,
+      "position": 15.949625935162095
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 85,
+      "impressions": 1942,
+      "ctr": 0.04376930998970134,
+      "position": 18.197219361483008
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 49,
+      "impressions": 1911,
+      "ctr": 0.02564102564102564,
+      "position": 22.264782836211406
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 45,
+      "impressions": 1557,
+      "ctr": 0.028901734104046242,
+      "position": 20.918432883750803
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 30,
+      "impressions": 1552,
+      "ctr": 0.019329896907216496,
+      "position": 31.538659793814432
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 40,
+      "impressions": 2805,
+      "ctr": 0.0142602495543672,
+      "position": 19.258110516934046
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 48,
+      "impressions": 2323,
+      "ctr": 0.020662935858803272,
+      "position": 15.038743004735256
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 49,
+      "impressions": 1832,
+      "ctr": 0.026746724890829694,
+      "position": 19.53056768558952
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 57,
+      "impressions": 2501,
+      "ctr": 0.022790883646541384,
+      "position": 15.25109956017593
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 28,
+      "impressions": 1783,
+      "ctr": 0.015703869882220976,
+      "position": 20.49915872125631
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 23,
+      "impressions": 1343,
+      "ctr": 0.01712583767684289,
+      "position": 23.244229337304542
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "asap commercial doors",
+      "clicks": 10331,
+      "impressions": 14559,
+      "ctr": 0.709595439247201,
+      "position": 1.663713167113126
+    },
+    {
+      "query": "asap commercial doors phoenix",
+      "clicks": 61,
+      "impressions": 229,
+      "ctr": 0.2663755458515284,
+      "position": 1.2314410480349345
+    },
+    {
+      "query": "asap doors",
+      "clicks": 43,
+      "impressions": 399,
+      "ctr": 0.10776942355889724,
+      "position": 3.962406015037594
+    },
+    {
+      "query": "asap commercial doors mooresville nc",
+      "clicks": 29,
+      "impressions": 141,
+      "ctr": 0.20567375886524822,
+      "position": 1.6099290780141844
+    },
+    {
+      "query": "asap commercial",
+      "clicks": 22,
+      "impressions": 125,
+      "ctr": 0.176,
+      "position": 2.792
+    },
+    {
+      "query": "commercial door repair",
+      "clicks": 10,
+      "impressions": 3820,
+      "ctr": 0.002617801047120419,
+      "position": 27.274083769633506
+    },
+    {
+      "query": "commercial doors near me",
+      "clicks": 7,
+      "impressions": 314,
+      "ctr": 0.022292993630573247,
+      "position": 8.573248407643312
+    },
+    {
+      "query": "commercial doors",
+      "clicks": 6,
+      "impressions": 590,
+      "ctr": 0.010169491525423728,
+      "position": 10.605084745762712
+    },
+    {
+      "query": "commercial door repair near me",
+      "clicks": 5,
+      "impressions": 1305,
+      "ctr": 0.0038314176245210726,
+      "position": 7.582375478927203
+    },
+    {
+      "query": "asap door",
+      "clicks": 4,
+      "impressions": 90,
+      "ctr": 0.044444444444444446,
+      "position": 6.655555555555556
+    },
+    {
+      "query": "asap door repair",
+      "clicks": 4,
+      "impressions": 63,
+      "ctr": 0.06349206349206349,
+      "position": 7.063492063492063
+    },
+    {
+      "query": "asap",
+      "clicks": 3,
+      "impressions": 1280,
+      "ctr": 0.00234375,
+      "position": 2.77265625
+    },
+    {
+      "query": "asap garage door",
+      "clicks": 3,
+      "impressions": 54,
+      "ctr": 0.05555555555555555,
+      "position": 13.092592592592593
+    },
+    {
+      "query": "commercial door",
+      "clicks": 3,
+      "impressions": 144,
+      "ctr": 0.020833333333333332,
+      "position": 2.326388888888889
+    },
+    {
+      "query": "commercial door repair charlotte nc",
+      "clicks": 3,
+      "impressions": 421,
+      "ctr": 0.007125890736342043,
+      "position": 15.09501187648456
+    },
+    {
+      "query": "commercial steel doors near me",
+      "clicks": 3,
+      "impressions": 26,
+      "ctr": 0.11538461538461539,
+      "position": 56.03846153846154
+    },
+    {
+      "query": "door repair phoenix",
+      "clicks": 3,
+      "impressions": 731,
+      "ctr": 0.004103967168262654,
+      "position": 5.827633378932968
+    },
+    {
+      "query": "asap garage door service",
+      "clicks": 2,
+      "impressions": 73,
+      "ctr": 0.0273972602739726,
+      "position": 29.438356164383563
+    },
+    {
+      "query": "charlotte garage door repair",
+      "clicks": 2,
+      "impressions": 44,
+      "ctr": 0.045454545454545456,
+      "position": 90.29545454545455
+    },
+    {
+      "query": "commercial door and windows",
+      "clicks": 2,
+      "impressions": 3,
+      "ctr": 0.6666666666666666,
+      "position": 1
+    },
+    {
+      "query": "commercial door companies",
+      "clicks": 2,
+      "impressions": 211,
+      "ctr": 0.009478672985781991,
+      "position": 74.74881516587678
+    },
+    {
+      "query": "commercial door company near me",
+      "clicks": 2,
+      "impressions": 213,
+      "ctr": 0.009389671361502348,
+      "position": 35.7887323943662
+    },
+    {
+      "query": "commercial door hardware",
+      "clicks": 2,
+      "impressions": 20,
+      "ctr": 0.1,
+      "position": 2
+    },
+    {
+      "query": "commercial door installation near me",
+      "clicks": 2,
+      "impressions": 229,
+      "ctr": 0.008733624454148471,
+      "position": 47.624454148471614
+    },
+    {
+      "query": "commercial door installation phoenix",
+      "clicks": 2,
+      "impressions": 95,
+      "ctr": 0.021052631578947368,
+      "position": 5.536842105263158
+    },
+    {
+      "query": "commercial door repair phoenix",
+      "clicks": 2,
+      "impressions": 539,
+      "ctr": 0.0037105751391465678,
+      "position": 6.107606679035251
+    },
+    {
+      "query": "commercial door repair service near me",
+      "clicks": 2,
+      "impressions": 107,
+      "ctr": 0.018691588785046728,
+      "position": 15.757009345794392
+    },
+    {
+      "query": "commercial door replacement",
+      "clicks": 2,
+      "impressions": 618,
+      "ctr": 0.003236245954692557,
+      "position": 43.54854368932039
+    },
+    {
+      "query": "commercial door supplier near me",
+      "clicks": 2,
+      "impressions": 17,
+      "ctr": 0.11764705882352941,
+      "position": 4.470588235294118
+    },
+    {
+      "query": "commercial doors phoenix",
+      "clicks": 2,
+      "impressions": 89,
+      "ctr": 0.02247191011235955,
+      "position": 4.573033707865168
+    },
+    {
+      "query": "commercial glass entry doors",
+      "clicks": 2,
+      "impressions": 194,
+      "ctr": 0.010309278350515464,
+      "position": 77.09278350515464
+    },
+    {
+      "query": "commercial glass entry doors near me",
+      "clicks": 2,
+      "impressions": 71,
+      "ctr": 0.028169014084507043,
+      "position": 18.056338028169016
+    },
+    {
+      "query": "door companies in phoenix",
+      "clicks": 2,
+      "impressions": 148,
+      "ctr": 0.013513513513513514,
+      "position": 11.52027027027027
+    },
+    {
+      "query": "door companies phoenix",
+      "clicks": 2,
+      "impressions": 131,
+      "ctr": 0.015267175572519083,
+      "position": 18.564885496183205
+    },
+    {
+      "query": "door installation near me",
+      "clicks": 2,
+      "impressions": 179,
+      "ctr": 0.0111731843575419,
+      "position": 2.7430167597765363
+    },
+    {
+      "query": "garage door repair",
+      "clicks": 2,
+      "impressions": 111,
+      "ctr": 0.018018018018018018,
+      "position": 45.88288288288288
+    },
+    {
+      "query": "asap commercial doors reviews",
+      "clicks": 1,
+      "impressions": 114,
+      "ctr": 0.008771929824561403,
+      "position": 8.298245614035087
+    },
+    {
+      "query": "asap door services",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1.5
+    },
+    {
+      "query": "asap doors phoenix",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "automatic door installation companies",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 54.25
+    },
+    {
+      "query": "automatic door opener installers near me",
+      "clicks": 1,
+      "impressions": 59,
+      "ctr": 0.01694915254237288,
+      "position": 77.55932203389831
+    },
+    {
+      "query": "automatic door repair",
+      "clicks": 1,
+      "impressions": 1724,
+      "ctr": 0.000580046403712297,
+      "position": 26.279002320185615
+    },
+    {
+      "query": "automatic door service near me",
+      "clicks": 1,
+      "impressions": 141,
+      "ctr": 0.0070921985815602835,
+      "position": 24.29078014184397
+    },
+    {
+      "query": "automatic doors",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 2.4444444444444446
+    },
+    {
+      "query": "automatic sliding door repair near me",
+      "clicks": 1,
+      "impressions": 89,
+      "ctr": 0.011235955056179775,
+      "position": 20.382022471910112
+    },
+    {
+      "query": "automatic sliding door service",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 26.785714285714285
+    },
+    {
+      "query": "best replacement doors near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "box truck roll up door repair",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 3.3333333333333335
+    },
+    {
+      "query": "coiling doors phoenix",
+      "clicks": 1,
+      "impressions": 67,
+      "ctr": 0.014925373134328358,
+      "position": 9.73134328358209
+    },
+    {
+      "query": "comercial door repair",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 5
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://asapcommercialdoors.com/",
+      "clicks": 2123,
+      "impressions": 38780,
+      "ctr": 0.05474471376998453,
+      "position": 17.981975244971636
+    },
+    {
+      "page": "https://asapcommercialdoors.com/about-us/",
+      "clicks": 1899,
+      "impressions": 15939,
+      "ctr": 0.11914172783738002,
+      "position": 3.02666415709894
+    },
+    {
+      "page": "https://asapcommercialdoors.com/contact-us/",
+      "clicks": 1759,
+      "impressions": 17852,
+      "ctr": 0.0985323773246695,
+      "position": 4.304895809993278
+    },
+    {
+      "page": "https://asapcommercialdoors.com/why-us/",
+      "clicks": 1386,
+      "impressions": 13847,
+      "ctr": 0.10009388315158518,
+      "position": 2.6165956524879035
+    },
+    {
+      "page": "https://asapcommercialdoors.com/shop/",
+      "clicks": 1062,
+      "impressions": 9599,
+      "ctr": 0.11063652463798312,
+      "position": 2.6996562141889777
+    },
+    {
+      "page": "https://asapcommercialdoors.com/service-areas/phoenix-az-2/",
+      "clicks": 326,
+      "impressions": 10143,
+      "ctr": 0.032140392388839596,
+      "position": 4.429458740017746
+    },
+    {
+      "page": "https://asapcommercialdoors.com/commercial-door-repair-and-installation-what-every-business-owner-should-know/",
+      "clicks": 301,
+      "impressions": 2655,
+      "ctr": 0.11337099811676082,
+      "position": 4.355178907721281
+    },
+    {
+      "page": "https://asapcommercialdoors.com/faqs/",
+      "clicks": 297,
+      "impressions": 3022,
+      "ctr": 0.09827928524156188,
+      "position": 3.0900066181336863
+    },
+    {
+      "page": "https://asapcommercialdoors.com/scottsdale-commercial-doors/",
+      "clicks": 259,
+      "impressions": 10128,
+      "ctr": 0.025572669826224328,
+      "position": 34.08965244865719
+    },
+    {
+      "page": "https://asapcommercialdoors.com/commercial-door-repair-service/",
+      "clicks": 235,
+      "impressions": 2967,
+      "ctr": 0.07920458375463431,
+      "position": 15.302999662959218
+    },
+    {
+      "page": "https://asapcommercialdoors.com/gallery/",
+      "clicks": 232,
+      "impressions": 2825,
+      "ctr": 0.08212389380530974,
+      "position": 3.742654867256637
+    },
+    {
+      "page": "https://asapcommercialdoors.com/charlotte/mooresville-automatic-door-installation/",
+      "clicks": 228,
+      "impressions": 3566,
+      "ctr": 0.06393718452047112,
+      "position": 10.502243409983175
+    },
+    {
+      "page": "https://asapcommercialdoors.com/radio-ads/",
+      "clicks": 227,
+      "impressions": 1931,
+      "ctr": 0.11755567063697565,
+      "position": 2.549456240290005
+    },
+    {
+      "page": "https://asapcommercialdoors.com/charlotte/storefront-doors/",
+      "clicks": 168,
+      "impressions": 4411,
+      "ctr": 0.03808660167762412,
+      "position": 19.642257991385172
+    },
+    {
+      "page": "https://asapcommercialdoors.com/charlotte/?utm_source=google&utm_medium=GMB&utm_campaign=Google_Business_Profile",
+      "clicks": 143,
+      "impressions": 8791,
+      "ctr": 0.0162666363326129,
+      "position": 6.945853714025708
+    },
+    {
+      "page": "https://asapcommercialdoors.com/commercial-garage-doors/",
+      "clicks": 137,
+      "impressions": 4564,
+      "ctr": 0.03001752848378615,
+      "position": 22.60407537248028
+    },
+    {
+      "page": "https://asapcommercialdoors.com/service-areas/mooresville-nc/",
+      "clicks": 135,
+      "impressions": 13788,
+      "ctr": 0.0097911227154047,
+      "position": 3.807731360603423
+    },
+    {
+      "page": "https://asapcommercialdoors.com/impact-doors/",
+      "clicks": 125,
+      "impressions": 2590,
+      "ctr": 0.04826254826254826,
+      "position": 10.098069498069497
+    },
+    {
+      "page": "https://asapcommercialdoors.com/dock-equipment/",
+      "clicks": 120,
+      "impressions": 3406,
+      "ctr": 0.03523194362889019,
+      "position": 27.580446271285965
+    },
+    {
+      "page": "http://www.asapcommercialdoors.com/",
+      "clicks": 113,
+      "impressions": 13150,
+      "ctr": 0.008593155893536122,
+      "position": 4.177490494296578
+    },
+    {
+      "page": "https://asapcommercialdoors.com/commercial-roll-up-doors/",
+      "clicks": 65,
+      "impressions": 6673,
+      "ctr": 0.009740746291023528,
+      "position": 22.614865877416456
+    },
+    {
+      "page": "https://asapcommercialdoors.com/charlotte/commercial-door-services-in-huntersville/",
+      "clicks": 62,
+      "impressions": 1595,
+      "ctr": 0.038871473354231974,
+      "position": 10.551724137931034
+    },
+    {
+      "page": "https://asapcommercialdoors.com/service-areas/phoenix-az/",
+      "clicks": 61,
+      "impressions": 7701,
+      "ctr": 0.007921049214387741,
+      "position": 2.1463446305674587
+    },
+    {
+      "page": "https://asapcommercialdoors.com/charlotte/hollow-metal-doors/",
+      "clicks": 56,
+      "impressions": 3272,
+      "ctr": 0.017114914425427872,
+      "position": 25.708740831295845
+    },
+    {
+      "page": "https://asapcommercialdoors.com/phoenix-storefront-doors/",
+      "clicks": 50,
+      "impressions": 3844,
+      "ctr": 0.013007284079084287,
+      "position": 30.172476586888656
+    },
+    {
+      "page": "https://asapcommercialdoors.com/charlotte/",
+      "clicks": 48,
+      "impressions": 4432,
+      "ctr": 0.010830324909747292,
+      "position": 18.538583032490976
+    },
+    {
+      "page": "https://asapcommercialdoors.com/charlotte/automatic-doors/",
+      "clicks": 48,
+      "impressions": 7491,
+      "ctr": 0.006407689227072487,
+      "position": 24.58363369376585
+    },
+    {
+      "page": "https://asapcommercialdoors.com/how-to-choose-the-best-commercial-door-company-for-your-business/",
+      "clicks": 40,
+      "impressions": 575,
+      "ctr": 0.06956521739130435,
+      "position": 4.076521739130435
+    },
+    {
+      "page": "https://asapcommercialdoors.com/automatic-doors/",
+      "clicks": 30,
+      "impressions": 5577,
+      "ctr": 0.0053792361484669175,
+      "position": 35.31468531468531
+    },
+    {
+      "page": "https://asapcommercialdoors.com/charlotte/about-us/",
+      "clicks": 25,
+      "impressions": 594,
+      "ctr": 0.04208754208754209,
+      "position": 7.828282828282828
+    },
+    {
+      "page": "https://asapcommercialdoors.com/how-to-protect-your-storefront-doors-from-ice-salt-and-snow-damage/",
+      "clicks": 17,
+      "impressions": 823,
+      "ctr": 0.020656136087484813,
+      "position": 7.07411907654921
+    },
+    {
+      "page": "https://www.asapcommercialdoors.com/",
+      "clicks": 15,
+      "impressions": 2080,
+      "ctr": 0.007211538461538462,
+      "position": 6.11875
+    },
+    {
+      "page": "https://asapcommercialdoors.com/charlotte/glass-doors/",
+      "clicks": 14,
+      "impressions": 3530,
+      "ctr": 0.00396600566572238,
+      "position": 20.51586402266289
+    },
+    {
+      "page": "https://asapcommercialdoors.com/phoneix-hollow-metal-doors/",
+      "clicks": 14,
+      "impressions": 4040,
+      "ctr": 0.0034653465346534654,
+      "position": 38.61212871287129
+    },
+    {
+      "page": "https://asapcommercialdoors.com/service-areas/gilbert-az/",
+      "clicks": 14,
+      "impressions": 3985,
+      "ctr": 0.0035131744040150566,
+      "position": 3.3382685069008784
+    },
+    {
+      "page": "https://asapcommercialdoors.com/commercial-door-maintenance-checklist/",
+      "clicks": 13,
+      "impressions": 1436,
+      "ctr": 0.009052924791086351,
+      "position": 8.602367688022284
+    },
+    {
+      "page": "https://asapcommercialdoors.com/glass-doors/",
+      "clicks": 12,
+      "impressions": 3774,
+      "ctr": 0.003179650238473768,
+      "position": 23.533386327503976
+    },
+    {
+      "page": "https://asapcommercialdoors.com/mesa-commercial-roll-up-doors/",
+      "clicks": 12,
+      "impressions": 2247,
+      "ctr": 0.0053404539385847796,
+      "position": 36.92834890965732
+    },
+    {
+      "page": "https://asapcommercialdoors.com/phoenix-commercial-overhead-doors/",
+      "clicks": 11,
+      "impressions": 1178,
+      "ctr": 0.00933786078098472,
+      "position": 16.759762308998305
+    },
+    {
+      "page": "https://asapcommercialdoors.com/gates/",
+      "clicks": 9,
+      "impressions": 6542,
+      "ctr": 0.0013757260776520942,
+      "position": 40.77988382757567
+    },
+    {
+      "page": "https://asapcommercialdoors.com/types-of-commercial-doors-complete-guide-to-styles-uses-pros-cons/",
+      "clicks": 9,
+      "impressions": 2186,
+      "ctr": 0.004117108874656907,
+      "position": 12.300548947849954
+    },
+    {
+      "page": "https://asapcommercialdoors.com/what-is-a-hollow-metal-door/",
+      "clicks": 8,
+      "impressions": 5066,
+      "ctr": 0.0015791551519936833,
+      "position": 8.670548756415318
+    },
+    {
+      "page": "https://asapcommercialdoors.com/business-door-repair-phoenix/",
+      "clicks": 7,
+      "impressions": 5800,
+      "ctr": 0.001206896551724138,
+      "position": 34.45448275862069
+    },
+    {
+      "page": "https://asapcommercialdoors.com/commercial-handicap-doors/",
+      "clicks": 7,
+      "impressions": 1598,
+      "ctr": 0.004380475594493116,
+      "position": 17.982478097622028
+    },
+    {
+      "page": "https://asapcommercialdoors.com/elevate-your-business-security-with-asap-commercial-doors-financing-available-for-commercial-door-projects/",
+      "clicks": 7,
+      "impressions": 238,
+      "ctr": 0.029411764705882353,
+      "position": 9.105042016806722
+    },
+    {
+      "page": "https://asapcommercialdoors.com/charlotte/wood-doors/",
+      "clicks": 6,
+      "impressions": 875,
+      "ctr": 0.006857142857142857,
+      "position": 23.55542857142857
+    },
+    {
+      "page": "https://asapcommercialdoors.com/commercial-gate-installation-tips-selecting-the-best-gate-for-security-style/",
+      "clicks": 6,
+      "impressions": 2602,
+      "ctr": 0.0023059185242121443,
+      "position": 17.16141429669485
+    },
+    {
+      "page": "https://asapcommercialdoors.com/vip-membership-program/",
+      "clicks": 6,
+      "impressions": 810,
+      "ctr": 0.007407407407407408,
+      "position": 5.354320987654321
+    },
+    {
+      "page": "https://asapcommercialdoors.com/what-is-the-most-common-problem-with-garage-doors/",
+      "clicks": 5,
+      "impressions": 433,
+      "ctr": 0.011547344110854504,
+      "position": 13.577367205542725
+    },
+    {
+      "page": "https://asapcommercialdoors.com/charlotte/glass-replacement/",
+      "clicks": 4,
+      "impressions": 2153,
+      "ctr": 0.0018578727357176034,
+      "position": 37.91639572689271
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:08:06.987Z"
+}

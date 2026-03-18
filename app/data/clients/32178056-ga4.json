@@ -1,0 +1,759 @@
+{
+  "propertyId": "properties/308285249",
+  "displayName": "expertservicesutah.com -  GA4",
+  "dateRange": {
+    "start": "2025-12-17",
+    "end": "2026-03-17"
+  },
+  "totals": {
+    "sessions": 7951,
+    "users": 7450,
+    "screenPageViews": 19256,
+    "organicSessions": 1439,
+    "bounceRate": 0.21432313584616805,
+    "avgSessionDuration": 98.37559139680451
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-17",
+      "sessions": 156,
+      "users": 150,
+      "screenPageViews": 380
+    },
+    {
+      "date": "2025-12-18",
+      "sessions": 145,
+      "users": 136,
+      "screenPageViews": 347
+    },
+    {
+      "date": "2025-12-19",
+      "sessions": 169,
+      "users": 161,
+      "screenPageViews": 394
+    },
+    {
+      "date": "2025-12-20",
+      "sessions": 72,
+      "users": 69,
+      "screenPageViews": 159
+    },
+    {
+      "date": "2025-12-21",
+      "sessions": 96,
+      "users": 90,
+      "screenPageViews": 228
+    },
+    {
+      "date": "2025-12-22",
+      "sessions": 253,
+      "users": 237,
+      "screenPageViews": 619
+    },
+    {
+      "date": "2025-12-23",
+      "sessions": 135,
+      "users": 130,
+      "screenPageViews": 360
+    },
+    {
+      "date": "2025-12-24",
+      "sessions": 142,
+      "users": 138,
+      "screenPageViews": 307
+    },
+    {
+      "date": "2025-12-25",
+      "sessions": 114,
+      "users": 114,
+      "screenPageViews": 242
+    },
+    {
+      "date": "2025-12-26",
+      "sessions": 168,
+      "users": 159,
+      "screenPageViews": 417
+    },
+    {
+      "date": "2025-12-27",
+      "sessions": 57,
+      "users": 53,
+      "screenPageViews": 193
+    },
+    {
+      "date": "2025-12-28",
+      "sessions": 97,
+      "users": 97,
+      "screenPageViews": 206
+    },
+    {
+      "date": "2025-12-29",
+      "sessions": 231,
+      "users": 217,
+      "screenPageViews": 524
+    },
+    {
+      "date": "2025-12-30",
+      "sessions": 149,
+      "users": 141,
+      "screenPageViews": 345
+    },
+    {
+      "date": "2025-12-31",
+      "sessions": 128,
+      "users": 126,
+      "screenPageViews": 278
+    },
+    {
+      "date": "2026-01-01",
+      "sessions": 150,
+      "users": 147,
+      "screenPageViews": 331
+    },
+    {
+      "date": "2026-01-02",
+      "sessions": 132,
+      "users": 127,
+      "screenPageViews": 323
+    },
+    {
+      "date": "2026-01-03",
+      "sessions": 57,
+      "users": 55,
+      "screenPageViews": 124
+    },
+    {
+      "date": "2026-01-04",
+      "sessions": 109,
+      "users": 107,
+      "screenPageViews": 248
+    },
+    {
+      "date": "2026-01-05",
+      "sessions": 195,
+      "users": 188,
+      "screenPageViews": 464
+    },
+    {
+      "date": "2026-01-06",
+      "sessions": 81,
+      "users": 78,
+      "screenPageViews": 220
+    },
+    {
+      "date": "2026-01-07",
+      "sessions": 74,
+      "users": 67,
+      "screenPageViews": 209
+    },
+    {
+      "date": "2026-01-08",
+      "sessions": 79,
+      "users": 74,
+      "screenPageViews": 215
+    },
+    {
+      "date": "2026-01-09",
+      "sessions": 84,
+      "users": 77,
+      "screenPageViews": 227
+    },
+    {
+      "date": "2026-01-10",
+      "sessions": 44,
+      "users": 39,
+      "screenPageViews": 137
+    },
+    {
+      "date": "2026-01-11",
+      "sessions": 55,
+      "users": 51,
+      "screenPageViews": 151
+    },
+    {
+      "date": "2026-01-12",
+      "sessions": 100,
+      "users": 97,
+      "screenPageViews": 234
+    },
+    {
+      "date": "2026-01-13",
+      "sessions": 68,
+      "users": 59,
+      "screenPageViews": 170
+    },
+    {
+      "date": "2026-01-14",
+      "sessions": 90,
+      "users": 82,
+      "screenPageViews": 269
+    },
+    {
+      "date": "2026-01-15",
+      "sessions": 104,
+      "users": 102,
+      "screenPageViews": 233
+    },
+    {
+      "date": "2026-01-16",
+      "sessions": 82,
+      "users": 74,
+      "screenPageViews": 205
+    },
+    {
+      "date": "2026-01-17",
+      "sessions": 30,
+      "users": 29,
+      "screenPageViews": 84
+    },
+    {
+      "date": "2026-01-18",
+      "sessions": 55,
+      "users": 54,
+      "screenPageViews": 119
+    },
+    {
+      "date": "2026-01-19",
+      "sessions": 113,
+      "users": 105,
+      "screenPageViews": 296
+    },
+    {
+      "date": "2026-01-20",
+      "sessions": 81,
+      "users": 76,
+      "screenPageViews": 208
+    },
+    {
+      "date": "2026-01-21",
+      "sessions": 92,
+      "users": 84,
+      "screenPageViews": 231
+    },
+    {
+      "date": "2026-01-22",
+      "sessions": 105,
+      "users": 101,
+      "screenPageViews": 244
+    },
+    {
+      "date": "2026-01-23",
+      "sessions": 88,
+      "users": 81,
+      "screenPageViews": 187
+    },
+    {
+      "date": "2026-01-24",
+      "sessions": 37,
+      "users": 36,
+      "screenPageViews": 83
+    },
+    {
+      "date": "2026-01-25",
+      "sessions": 32,
+      "users": 30,
+      "screenPageViews": 72
+    },
+    {
+      "date": "2026-01-26",
+      "sessions": 97,
+      "users": 88,
+      "screenPageViews": 231
+    },
+    {
+      "date": "2026-01-27",
+      "sessions": 100,
+      "users": 92,
+      "screenPageViews": 232
+    },
+    {
+      "date": "2026-01-28",
+      "sessions": 92,
+      "users": 83,
+      "screenPageViews": 212
+    },
+    {
+      "date": "2026-01-29",
+      "sessions": 91,
+      "users": 88,
+      "screenPageViews": 247
+    },
+    {
+      "date": "2026-01-30",
+      "sessions": 170,
+      "users": 165,
+      "screenPageViews": 274
+    },
+    {
+      "date": "2026-01-31",
+      "sessions": 36,
+      "users": 34,
+      "screenPageViews": 100
+    },
+    {
+      "date": "2026-02-01",
+      "sessions": 59,
+      "users": 54,
+      "screenPageViews": 161
+    },
+    {
+      "date": "2026-02-02",
+      "sessions": 95,
+      "users": 89,
+      "screenPageViews": 236
+    },
+    {
+      "date": "2026-02-03",
+      "sessions": 97,
+      "users": 92,
+      "screenPageViews": 268
+    },
+    {
+      "date": "2026-02-04",
+      "sessions": 65,
+      "users": 58,
+      "screenPageViews": 202
+    },
+    {
+      "date": "2026-02-05",
+      "sessions": 77,
+      "users": 68,
+      "screenPageViews": 184
+    },
+    {
+      "date": "2026-02-06",
+      "sessions": 64,
+      "users": 59,
+      "screenPageViews": 180
+    },
+    {
+      "date": "2026-02-07",
+      "sessions": 31,
+      "users": 27,
+      "screenPageViews": 75
+    },
+    {
+      "date": "2026-02-08",
+      "sessions": 38,
+      "users": 27,
+      "screenPageViews": 78
+    },
+    {
+      "date": "2026-02-09",
+      "sessions": 115,
+      "users": 98,
+      "screenPageViews": 225
+    },
+    {
+      "date": "2026-02-10",
+      "sessions": 146,
+      "users": 139,
+      "screenPageViews": 312
+    },
+    {
+      "date": "2026-02-11",
+      "sessions": 79,
+      "users": 65,
+      "screenPageViews": 229
+    },
+    {
+      "date": "2026-02-12",
+      "sessions": 89,
+      "users": 82,
+      "screenPageViews": 234
+    },
+    {
+      "date": "2026-02-13",
+      "sessions": 95,
+      "users": 86,
+      "screenPageViews": 240
+    },
+    {
+      "date": "2026-02-14",
+      "sessions": 40,
+      "users": 34,
+      "screenPageViews": 95
+    },
+    {
+      "date": "2026-02-15",
+      "sessions": 54,
+      "users": 49,
+      "screenPageViews": 175
+    },
+    {
+      "date": "2026-02-16",
+      "sessions": 68,
+      "users": 61,
+      "screenPageViews": 182
+    },
+    {
+      "date": "2026-02-17",
+      "sessions": 86,
+      "users": 80,
+      "screenPageViews": 221
+    },
+    {
+      "date": "2026-02-18",
+      "sessions": 71,
+      "users": 68,
+      "screenPageViews": 149
+    },
+    {
+      "date": "2026-02-19",
+      "sessions": 72,
+      "users": 68,
+      "screenPageViews": 148
+    },
+    {
+      "date": "2026-02-20",
+      "sessions": 60,
+      "users": 56,
+      "screenPageViews": 169
+    },
+    {
+      "date": "2026-02-21",
+      "sessions": 61,
+      "users": 60,
+      "screenPageViews": 115
+    },
+    {
+      "date": "2026-02-22",
+      "sessions": 27,
+      "users": 26,
+      "screenPageViews": 63
+    },
+    {
+      "date": "2026-02-23",
+      "sessions": 76,
+      "users": 67,
+      "screenPageViews": 208
+    },
+    {
+      "date": "2026-02-24",
+      "sessions": 70,
+      "users": 57,
+      "screenPageViews": 241
+    },
+    {
+      "date": "2026-02-25",
+      "sessions": 62,
+      "users": 59,
+      "screenPageViews": 157
+    },
+    {
+      "date": "2026-02-26",
+      "sessions": 75,
+      "users": 69,
+      "screenPageViews": 209
+    },
+    {
+      "date": "2026-02-27",
+      "sessions": 85,
+      "users": 83,
+      "screenPageViews": 201
+    },
+    {
+      "date": "2026-02-28",
+      "sessions": 50,
+      "users": 45,
+      "screenPageViews": 96
+    },
+    {
+      "date": "2026-03-01",
+      "sessions": 42,
+      "users": 39,
+      "screenPageViews": 97
+    },
+    {
+      "date": "2026-03-02",
+      "sessions": 99,
+      "users": 89,
+      "screenPageViews": 224
+    },
+    {
+      "date": "2026-03-03",
+      "sessions": 92,
+      "users": 82,
+      "screenPageViews": 209
+    },
+    {
+      "date": "2026-03-04",
+      "sessions": 89,
+      "users": 81,
+      "screenPageViews": 209
+    },
+    {
+      "date": "2026-03-05",
+      "sessions": 101,
+      "users": 98,
+      "screenPageViews": 203
+    },
+    {
+      "date": "2026-03-06",
+      "sessions": 65,
+      "users": 62,
+      "screenPageViews": 137
+    },
+    {
+      "date": "2026-03-07",
+      "sessions": 37,
+      "users": 35,
+      "screenPageViews": 84
+    },
+    {
+      "date": "2026-03-08",
+      "sessions": 60,
+      "users": 60,
+      "screenPageViews": 149
+    },
+    {
+      "date": "2026-03-09",
+      "sessions": 79,
+      "users": 72,
+      "screenPageViews": 162
+    },
+    {
+      "date": "2026-03-10",
+      "sessions": 79,
+      "users": 77,
+      "screenPageViews": 203
+    },
+    {
+      "date": "2026-03-11",
+      "sessions": 60,
+      "users": 59,
+      "screenPageViews": 150
+    },
+    {
+      "date": "2026-03-12",
+      "sessions": 49,
+      "users": 45,
+      "screenPageViews": 115
+    },
+    {
+      "date": "2026-03-13",
+      "sessions": 57,
+      "users": 53,
+      "screenPageViews": 139
+    },
+    {
+      "date": "2026-03-14",
+      "sessions": 41,
+      "users": 41,
+      "screenPageViews": 85
+    },
+    {
+      "date": "2026-03-15",
+      "sessions": 29,
+      "users": 29,
+      "screenPageViews": 98
+    },
+    {
+      "date": "2026-03-16",
+      "sessions": 62,
+      "users": 53,
+      "screenPageViews": 197
+    },
+    {
+      "date": "2026-03-17",
+      "sessions": 68,
+      "users": 61,
+      "screenPageViews": 163
+    }
+  ],
+  "channelData": [
+    {
+      "channel": "Cross-network",
+      "sessions": 2724,
+      "users": 2435
+    },
+    {
+      "channel": "Direct",
+      "sessions": 2245,
+      "users": 2052
+    },
+    {
+      "channel": "Organic Search",
+      "sessions": 1439,
+      "users": 1054
+    },
+    {
+      "channel": "Paid Search",
+      "sessions": 1148,
+      "users": 991
+    },
+    {
+      "channel": "Referral",
+      "sessions": 171,
+      "users": 112
+    },
+    {
+      "channel": "Organic Social",
+      "sessions": 131,
+      "users": 124
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": 100,
+      "users": 93
+    },
+    {
+      "channel": "Paid Social",
+      "sessions": 1,
+      "users": 1
+    }
+  ],
+  "topPages": [
+    {
+      "page": "/",
+      "screenPageViews": 7063,
+      "sessions": 3093
+    },
+    {
+      "page": "/request-an-appointment/",
+      "screenPageViews": 3377,
+      "sessions": 1632
+    },
+    {
+      "page": "/home-services/plumbing/",
+      "screenPageViews": 946,
+      "sessions": 464
+    },
+    {
+      "page": "/home-services/sewer/",
+      "screenPageViews": 801,
+      "sessions": 395
+    },
+    {
+      "page": "/lp/local-plumbers-repair-repipe/",
+      "screenPageViews": 788,
+      "sessions": 728
+    },
+    {
+      "page": "/contact-us/",
+      "screenPageViews": 637,
+      "sessions": 273
+    },
+    {
+      "page": "/about-us/coupons/",
+      "screenPageViews": 595,
+      "sessions": 292
+    },
+    {
+      "page": "/about-us/careers/",
+      "screenPageViews": 562,
+      "sessions": 229
+    },
+    {
+      "page": "/home-services/plumbing/water-heater-repair/",
+      "screenPageViews": 478,
+      "sessions": 222
+    },
+    {
+      "page": "/thank-you/",
+      "screenPageViews": 296,
+      "sessions": 139
+    },
+    {
+      "page": "/sitemap/",
+      "screenPageViews": 240,
+      "sessions": 102
+    },
+    {
+      "page": "/home-services/hvac/furnace-installation/",
+      "screenPageViews": 222,
+      "sessions": 104
+    },
+    {
+      "page": "/blog/hazards-presented-by-black-specks-in-water/",
+      "screenPageViews": 197,
+      "sessions": 91
+    },
+    {
+      "page": "/drain-cleaning-bountiful-ut/",
+      "screenPageViews": 181,
+      "sessions": 78
+    },
+    {
+      "page": "/about-us/reviews/",
+      "screenPageViews": 143,
+      "sessions": 64
+    },
+    {
+      "page": "/locations/orem/",
+      "screenPageViews": 143,
+      "sessions": 76
+    },
+    {
+      "page": "/about-us/",
+      "screenPageViews": 140,
+      "sessions": 63
+    },
+    {
+      "page": "/home-services/hvac/",
+      "screenPageViews": 117,
+      "sessions": 56
+    },
+    {
+      "page": "/lp/local-furnace-heating-maintenance-and-repair-experts/",
+      "screenPageViews": 100,
+      "sessions": 93
+    },
+    {
+      "page": "/home-services/plumbing/water-heater-installation/",
+      "screenPageViews": 92,
+      "sessions": 39
+    },
+    {
+      "page": "/lp/local-drain-cleaning-experts/",
+      "screenPageViews": 86,
+      "sessions": 75
+    },
+    {
+      "page": "/home-services/sewer/sewer-line-cleaning/",
+      "screenPageViews": 84,
+      "sessions": 39
+    },
+    {
+      "page": "/locations/lehi/",
+      "screenPageViews": 71,
+      "sessions": 33
+    },
+    {
+      "page": "/contact-us",
+      "screenPageViews": 68,
+      "sessions": 26
+    },
+    {
+      "page": "/home-services/electrical/",
+      "screenPageViews": 66,
+      "sessions": 35
+    },
+    {
+      "page": "/locations/salt-lake-city/",
+      "screenPageViews": 57,
+      "sessions": 32
+    },
+    {
+      "page": "/about-us/expert-care-plan/",
+      "screenPageViews": 47,
+      "sessions": 22
+    },
+    {
+      "page": "/locations/provo/",
+      "screenPageViews": 47,
+      "sessions": 28
+    },
+    {
+      "page": "/blog/sewer-main-repair-what-went-wrong/",
+      "screenPageViews": 46,
+      "sessions": 22
+    },
+    {
+      "page": "/blog/health-and-safety-measures-to-be-taken-by-plumbers/",
+      "screenPageViews": 43,
+      "sessions": 26
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:06:47.265Z"
+}

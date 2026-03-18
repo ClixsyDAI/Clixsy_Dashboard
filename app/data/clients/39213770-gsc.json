@@ -1,0 +1,1350 @@
+{
+  "property": "sc-domain:crashteam.com",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 697,
+    "impressions": 211691,
+    "ctr": 0.0032925348739436255,
+    "position": 18.86764161251914
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 7,
+      "impressions": 1770,
+      "ctr": 0.0039548022598870055,
+      "position": 20.528813559322035
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 2,
+      "impressions": 1733,
+      "ctr": 0.001154068090017311,
+      "position": 22.603000577034045
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 6,
+      "impressions": 1665,
+      "ctr": 0.0036036036036036037,
+      "position": 20.52852852852853
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 8,
+      "impressions": 2822,
+      "ctr": 0.002834868887313962,
+      "position": 13.547129695251595
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 8,
+      "impressions": 1624,
+      "ctr": 0.0049261083743842365,
+      "position": 22.670566502463053
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 5,
+      "impressions": 1695,
+      "ctr": 0.0029498525073746312,
+      "position": 21.830678466076698
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 10,
+      "impressions": 1831,
+      "ctr": 0.005461496450027308,
+      "position": 22.877662479519387
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 8,
+      "impressions": 1869,
+      "ctr": 0.004280363830925628,
+      "position": 19.878544676297484
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 11,
+      "impressions": 2012,
+      "ctr": 0.0054671968190854875,
+      "position": 22.98807157057654
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 8,
+      "impressions": 1979,
+      "ctr": 0.00404244567963618,
+      "position": 25.20010106114199
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 0,
+      "impressions": 1508,
+      "ctr": 0,
+      "position": 24.53183023872679
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 1,
+      "impressions": 1745,
+      "ctr": 0.0005730659025787965,
+      "position": 19.34383954154728
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 1,
+      "impressions": 1625,
+      "ctr": 0.0006153846153846154,
+      "position": 19.315076923076923
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 7,
+      "impressions": 1734,
+      "ctr": 0.004036908881199538,
+      "position": 19.468281430219147
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 11,
+      "impressions": 5244,
+      "ctr": 0.002097635392829901,
+      "position": 7.037948131197559
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 4,
+      "impressions": 1654,
+      "ctr": 0.0024183796856106408,
+      "position": 19.23700120918984
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 5,
+      "impressions": 1793,
+      "ctr": 0.002788622420524261,
+      "position": 19.51589514779699
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 3,
+      "impressions": 1952,
+      "ctr": 0.0015368852459016393,
+      "position": 17.53688524590164
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 10,
+      "impressions": 1713,
+      "ctr": 0.005837711617046118,
+      "position": 15.467600700525393
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 1,
+      "impressions": 1492,
+      "ctr": 0.0006702412868632708,
+      "position": 16.709785522788202
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 3,
+      "impressions": 1372,
+      "ctr": 0.002186588921282799,
+      "position": 18.028425655976676
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 15,
+      "impressions": 1513,
+      "ctr": 0.00991407799074686,
+      "position": 17.320555188367482
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 7,
+      "impressions": 1625,
+      "ctr": 0.0043076923076923075,
+      "position": 16.340307692307693
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 10,
+      "impressions": 2308,
+      "ctr": 0.004332755632582322,
+      "position": 22.51949740034662
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 7,
+      "impressions": 2602,
+      "ctr": 0.002690238278247502,
+      "position": 22.083397386625673
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 6,
+      "impressions": 2079,
+      "ctr": 0.002886002886002886,
+      "position": 24.96825396825397
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 4,
+      "impressions": 2012,
+      "ctr": 0.0019880715705765406,
+      "position": 25.221669980119284
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 2,
+      "impressions": 2251,
+      "ctr": 0.000888494002665482,
+      "position": 25.626832518880498
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 5,
+      "impressions": 4405,
+      "ctr": 0.0011350737797956867,
+      "position": 9.055845629965948
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 10,
+      "impressions": 2091,
+      "ctr": 0.004782400765184123,
+      "position": 21.84313725490196
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 7,
+      "impressions": 4241,
+      "ctr": 0.0016505541145956143,
+      "position": 14.580051874557887
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 16,
+      "impressions": 4681,
+      "ctr": 0.0034180730613116855,
+      "position": 10.90301217688528
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 12,
+      "impressions": 2276,
+      "ctr": 0.005272407732864675,
+      "position": 22.221880492091387
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 1,
+      "impressions": 2039,
+      "ctr": 0.0004904364884747426,
+      "position": 21.863168219715547
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 4,
+      "impressions": 1868,
+      "ctr": 0.0021413276231263384,
+      "position": 23.030513918629552
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 5,
+      "impressions": 1903,
+      "ctr": 0.002627430373095113,
+      "position": 22.21965317919075
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 8,
+      "impressions": 1987,
+      "ctr": 0.004026170105686965,
+      "position": 22.4398590840463
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 12,
+      "impressions": 2249,
+      "ctr": 0.005335704757670075,
+      "position": 21.648732770120052
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 19,
+      "impressions": 2314,
+      "ctr": 0.008210890233362144,
+      "position": 25.869490060501295
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 8,
+      "impressions": 2143,
+      "ctr": 0.003733084461035931,
+      "position": 21.070928604759683
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 3,
+      "impressions": 1818,
+      "ctr": 0.0016501650165016502,
+      "position": 22.977997799779978
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 5,
+      "impressions": 2280,
+      "ctr": 0.0021929824561403508,
+      "position": 21.12543859649123
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 5,
+      "impressions": 5762,
+      "ctr": 0.0008677542519958348,
+      "position": 8.951405761888234
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 6,
+      "impressions": 2261,
+      "ctr": 0.0026536930561698365,
+      "position": 22.392746572313136
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 10,
+      "impressions": 1840,
+      "ctr": 0.005434782608695652,
+      "position": 21.633695652173913
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 20,
+      "impressions": 2028,
+      "ctr": 0.009861932938856016,
+      "position": 24.403846153846153
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 15,
+      "impressions": 2555,
+      "ctr": 0.005870841487279843,
+      "position": 22.274363992172212
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 4,
+      "impressions": 2056,
+      "ctr": 0.0019455252918287938,
+      "position": 21.710603112840467
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 8,
+      "impressions": 2334,
+      "ctr": 0.003427592116538132,
+      "position": 22.1439588688946
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 8,
+      "impressions": 2323,
+      "ctr": 0.0034438226431338786,
+      "position": 20.00990099009901
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 14,
+      "impressions": 2187,
+      "ctr": 0.006401463191586648,
+      "position": 16.686328303612257
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 18,
+      "impressions": 2883,
+      "ctr": 0.006243496357960458,
+      "position": 19.10128338536247
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 8,
+      "impressions": 2612,
+      "ctr": 0.0030627871362940277,
+      "position": 23.668836140888207
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 7,
+      "impressions": 2154,
+      "ctr": 0.0032497678737233053,
+      "position": 24.425255338904364
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 3,
+      "impressions": 1836,
+      "ctr": 0.0016339869281045752,
+      "position": 18.147058823529413
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 6,
+      "impressions": 2498,
+      "ctr": 0.0024019215372297837,
+      "position": 20.73218574859888
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 9,
+      "impressions": 4917,
+      "ctr": 0.0018303843807199512,
+      "position": 11.476510067114093
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 10,
+      "impressions": 2542,
+      "ctr": 0.003933910306845004,
+      "position": 20.743509047993705
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 18,
+      "impressions": 2399,
+      "ctr": 0.007503126302626094,
+      "position": 20.824927052938726
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 13,
+      "impressions": 3758,
+      "ctr": 0.003459286854709952,
+      "position": 15.337413517828633
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 6,
+      "impressions": 2274,
+      "ctr": 0.002638522427440633,
+      "position": 18.86631486367634
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 1,
+      "impressions": 2099,
+      "ctr": 0.0004764173415912339,
+      "position": 21.71843735111958
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 1,
+      "impressions": 2465,
+      "ctr": 0.00040567951318458417,
+      "position": 21.952535496957402
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 13,
+      "impressions": 2528,
+      "ctr": 0.005142405063291139,
+      "position": 19.605617088607595
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 11,
+      "impressions": 2584,
+      "ctr": 0.0042569659442724455,
+      "position": 20.278250773993808
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 13,
+      "impressions": 2516,
+      "ctr": 0.0051669316375198724,
+      "position": 18.599761526232115
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 8,
+      "impressions": 2518,
+      "ctr": 0.003177124702144559,
+      "position": 20.540111199364574
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 7,
+      "impressions": 2702,
+      "ctr": 0.0025906735751295338,
+      "position": 20.85122131754256
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 1,
+      "impressions": 2386,
+      "ctr": 0.00041911148365465214,
+      "position": 18.41450125733445
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 4,
+      "impressions": 2117,
+      "ctr": 0.001889466225791214,
+      "position": 18.138875767595653
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 17,
+      "impressions": 5494,
+      "ctr": 0.0030942846741900255,
+      "position": 6.876046596286859
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 18,
+      "impressions": 2035,
+      "ctr": 0.008845208845208846,
+      "position": 16.042260442260442
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 8,
+      "impressions": 1911,
+      "ctr": 0.004186289900575615,
+      "position": 20.572475143903716
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 8,
+      "impressions": 2723,
+      "ctr": 0.0029379360998898272,
+      "position": 19.776716856408374
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 10,
+      "impressions": 2286,
+      "ctr": 0.004374453193350831,
+      "position": 17.12117235345582
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 8,
+      "impressions": 2182,
+      "ctr": 0.0036663611365719525,
+      "position": 18.57332722273144
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 6,
+      "impressions": 2660,
+      "ctr": 0.002255639097744361,
+      "position": 15.186842105263159
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 10,
+      "impressions": 1890,
+      "ctr": 0.005291005291005291,
+      "position": 11.357142857142858
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 13,
+      "impressions": 1722,
+      "ctr": 0.007549361207897794,
+      "position": 16.177119628339142
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 7,
+      "impressions": 3078,
+      "ctr": 0.0022742040285899934,
+      "position": 18.060103963612736
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 7,
+      "impressions": 2575,
+      "ctr": 0.0027184466019417475,
+      "position": 17.669514563106794
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 4,
+      "impressions": 1812,
+      "ctr": 0.002207505518763797,
+      "position": 15.449779249448124
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 2,
+      "impressions": 1473,
+      "ctr": 0.0013577732518669382,
+      "position": 13.671418873048202
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 4,
+      "impressions": 1588,
+      "ctr": 0.0025188916876574307,
+      "position": 14.2544080604534
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 6,
+      "impressions": 2577,
+      "ctr": 0.002328288707799767,
+      "position": 15.767171129220023
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 10,
+      "impressions": 3184,
+      "ctr": 0.00314070351758794,
+      "position": 7.039572864321608
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 6,
+      "impressions": 2123,
+      "ctr": 0.002826189354686764,
+      "position": 15.0814884597268
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 10,
+      "impressions": 2249,
+      "ctr": 0.004446420631391729,
+      "position": 16.405068919519785
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 6,
+      "impressions": 1594,
+      "ctr": 0.0037641154328732747,
+      "position": 12.67879548306148
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 5,
+      "impressions": 1884,
+      "ctr": 0.002653927813163482,
+      "position": 12.921974522292993
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "the crash team",
+      "clicks": 65,
+      "impressions": 274,
+      "ctr": 0.23722627737226276,
+      "position": 1.5766423357664232
+    },
+    {
+      "query": "the galvan law firm",
+      "clicks": 38,
+      "impressions": 164,
+      "ctr": 0.23170731707317074,
+      "position": 1.1158536585365855
+    },
+    {
+      "query": "galvan law firm",
+      "clicks": 33,
+      "impressions": 194,
+      "ctr": 0.17010309278350516,
+      "position": 2.520618556701031
+    },
+    {
+      "query": "aaron galvan",
+      "clicks": 12,
+      "impressions": 206,
+      "ctr": 0.05825242718446602,
+      "position": 1.970873786407767
+    },
+    {
+      "query": "kevin christiansen",
+      "clicks": 4,
+      "impressions": 240,
+      "ctr": 0.016666666666666666,
+      "position": 4.325
+    },
+    {
+      "query": "move over law texas",
+      "clicks": 4,
+      "impressions": 395,
+      "ctr": 0.010126582278481013,
+      "position": 3.8430379746835444
+    },
+    {
+      "query": "galvan law",
+      "clicks": 3,
+      "impressions": 71,
+      "ctr": 0.04225352112676056,
+      "position": 8.774647887323944
+    },
+    {
+      "query": "move over or slow down law texas",
+      "clicks": 3,
+      "impressions": 104,
+      "ctr": 0.028846153846153848,
+      "position": 5.9326923076923075
+    },
+    {
+      "query": "texas slow down move over law",
+      "clicks": 3,
+      "impressions": 126,
+      "ctr": 0.023809523809523808,
+      "position": 4.468253968253968
+    },
+    {
+      "query": "car accidents lawyers",
+      "clicks": 2,
+      "impressions": 16,
+      "ctr": 0.125,
+      "position": 22
+    },
+    {
+      "query": "galvan law firm houston",
+      "clicks": 2,
+      "impressions": 5,
+      "ctr": 0.4,
+      "position": 1
+    },
+    {
+      "query": "texas move over law",
+      "clicks": 2,
+      "impressions": 531,
+      "ctr": 0.003766478342749529,
+      "position": 3.749529190207156
+    },
+    {
+      "query": "texas move over slow down law",
+      "clicks": 2,
+      "impressions": 164,
+      "ctr": 0.012195121951219513,
+      "position": 4.597560975609756
+    },
+    {
+      "query": "accident lawyer",
+      "clicks": 1,
+      "impressions": 2179,
+      "ctr": 0.0004589261128958238,
+      "position": 11.538320330426801
+    },
+    {
+      "query": "accident reconstruction",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 13
+    },
+    {
+      "query": "car accident attorneys",
+      "clicks": 1,
+      "impressions": 1437,
+      "ctr": 0.0006958942240779402,
+      "position": 14.685455810716771
+    },
+    {
+      "query": "car accident lawyer",
+      "clicks": 1,
+      "impressions": 8550,
+      "ctr": 0.00011695906432748539,
+      "position": 13.188654970760235
+    },
+    {
+      "query": "car accident lawyer sugar land, tx",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "car crash injury clinic",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "crashteam",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 8.666666666666668
+    },
+    {
+      "query": "failure to move over ticket",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "galvan law group",
+      "clicks": 1,
+      "impressions": 143,
+      "ctr": 0.006993006993006993,
+      "position": 9.090909090909092
+    },
+    {
+      "query": "galvin law firm",
+      "clicks": 1,
+      "impressions": 25,
+      "ctr": 0.04,
+      "position": 7.16
+    },
+    {
+      "query": "jacqueline reyes accident",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 10
+    },
+    {
+      "query": "kevin christensen attorney",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 3.909090909090909
+    },
+    {
+      "query": "motorcycle accident calculator",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 6.333333333333333
+    },
+    {
+      "query": "motorcycle accident settlement calculator",
+      "clicks": 1,
+      "impressions": 652,
+      "ctr": 0.0015337423312883436,
+      "position": 8.661042944785276
+    },
+    {
+      "query": "mousavi and associates",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 7.4
+    },
+    {
+      "query": "move over law in texas",
+      "clicks": 1,
+      "impressions": 39,
+      "ctr": 0.02564102564102564,
+      "position": 4.333333333333334
+    },
+    {
+      "query": "move over slow down law",
+      "clicks": 1,
+      "impressions": 102,
+      "ctr": 0.00980392156862745,
+      "position": 6.049019607843137
+    },
+    {
+      "query": "new driving laws in texas 2025",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "new texas speeding law",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 1.5
+    },
+    {
+      "query": "slow down move over law",
+      "clicks": 1,
+      "impressions": 57,
+      "ctr": 0.017543859649122806,
+      "position": 4.052631578947368
+    },
+    {
+      "query": "start stop eliminator",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "sugar land personal injury lawyer",
+      "clicks": 1,
+      "impressions": 1272,
+      "ctr": 0.0007861635220125787,
+      "position": 14.794811320754716
+    },
+    {
+      "query": "texas auto accident lawyers",
+      "clicks": 1,
+      "impressions": 537,
+      "ctr": 0.00186219739292365,
+      "position": 27.459962756052143
+    },
+    {
+      "query": "texas offshore injury lawyer",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 41
+    },
+    {
+      "query": "texas slow down law 2025",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 1.6470588235294117
+    },
+    {
+      "query": "the crash team cares",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 1.1666666666666667
+    },
+    {
+      "query": "why is texas's move over law important for public safety?",
+      "clicks": 1,
+      "impressions": 63,
+      "ctr": 0.015873015873015872,
+      "position": 2.0317460317460316
+    },
+    {
+      "query": "\"(713) 300-0000\" the crash team",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 5.714285714285714
+    },
+    {
+      "query": "\"(713) 713-3333\" the crash team",
+      "clicks": 0,
+      "impressions": 31,
+      "ctr": 0,
+      "position": 6.483870967741935
+    },
+    {
+      "query": "\"february 2017\" animal injured car road built by",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "\"lawyer for accident case\"",
+      "clicks": 0,
+      "impressions": 23,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"move over\" law",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"unsecured anchor spikes\" accident",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 6.5
+    },
+    {
+      "query": "#caraccidentlawyer",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 8.666666666666668
+    },
+    {
+      "query": "#slowdownmoveover",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "#speeding",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "(361) 360-8500",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 32.92307692307692
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://crashteam.com/",
+      "clicks": 344,
+      "impressions": 153081,
+      "ctr": 0.002247176331484639,
+      "position": 18.316290068656464
+    },
+    {
+      "page": "https://crashteam.com/blog/texas-move-over-or-slow-down-law-changes/",
+      "clicks": 124,
+      "impressions": 19022,
+      "ctr": 0.006518767742613816,
+      "position": 5.108926506150773
+    },
+    {
+      "page": "https://crashteam.com/about-us/our-team/aaron-galvan/",
+      "clicks": 55,
+      "impressions": 2052,
+      "ctr": 0.026803118908382065,
+      "position": 5.072124756335283
+    },
+    {
+      "page": "https://crashteam.com/about-us/our-team/kevin-christiansen/",
+      "clicks": 25,
+      "impressions": 556,
+      "ctr": 0.044964028776978415,
+      "position": 7.9784172661870505
+    },
+    {
+      "page": "https://crashteam.com/blog/car-accidents-caused-by-highway-debris-and-your-rights/",
+      "clicks": 24,
+      "impressions": 7855,
+      "ctr": 0.00305537873965627,
+      "position": 13.933290897517505
+    },
+    {
+      "page": "https://crashteam.com/about-us/our-team/krystyna-salinas/",
+      "clicks": 22,
+      "impressions": 254,
+      "ctr": 0.08661417322834646,
+      "position": 18.10236220472441
+    },
+    {
+      "page": "https://crashteam.com/about-us/our-team/breanne-galvan/",
+      "clicks": 21,
+      "impressions": 869,
+      "ctr": 0.024165707710011506,
+      "position": 7.715765247410817
+    },
+    {
+      "page": "https://crashteam.com/blog/how-to-challenge-a-car-accident-police-report-in-texas/",
+      "clicks": 17,
+      "impressions": 1184,
+      "ctr": 0.014358108108108109,
+      "position": 6.484797297297297
+    },
+    {
+      "page": "https://crashteam.com/blog/what-to-do-when-the-other-driver-lies-about-the-car-accident/",
+      "clicks": 11,
+      "impressions": 1626,
+      "ctr": 0.006765067650676507,
+      "position": 5.432349323493235
+    },
+    {
+      "page": "https://crashteam.com/blog/dos-and-donts-after-a-texas-car-accident/",
+      "clicks": 10,
+      "impressions": 1799,
+      "ctr": 0.005558643690939411,
+      "position": 15.951639799888827
+    },
+    {
+      "page": "https://crashteam.com/about-us/our-team/",
+      "clicks": 9,
+      "impressions": 763,
+      "ctr": 0.011795543905635648,
+      "position": 5.6356487549148095
+    },
+    {
+      "page": "https://crashteam.com/reviews/",
+      "clicks": 6,
+      "impressions": 1815,
+      "ctr": 0.003305785123966942,
+      "position": 7.848484848484849
+    },
+    {
+      "page": "https://crashteam.com/about-us/",
+      "clicks": 5,
+      "impressions": 2414,
+      "ctr": 0.002071251035625518,
+      "position": 7.37903893951947
+    },
+    {
+      "page": "https://crashteam.com/blog/motorcycle-accidents-in-texas-rising-risks-and-rider-safety-in-2025/",
+      "clicks": 5,
+      "impressions": 405,
+      "ctr": 0.012345679012345678,
+      "position": 7.140740740740741
+    },
+    {
+      "page": "https://crashteam.com/blog/texas-ends-vehicle-safety-inspections-what-motorists-should-know/",
+      "clicks": 5,
+      "impressions": 3300,
+      "ctr": 0.0015151515151515152,
+      "position": 7.416969696969697
+    },
+    {
+      "page": "https://crashteam.com/calculator/",
+      "clicks": 4,
+      "impressions": 1189,
+      "ctr": 0.00336417157275021,
+      "position": 19.173254835996637
+    },
+    {
+      "page": "https://crashteam.com/boating-accident-lawyers/",
+      "clicks": 3,
+      "impressions": 802,
+      "ctr": 0.003740648379052369,
+      "position": 26.022443890274314
+    },
+    {
+      "page": "https://crashteam.com/about-us/careers/",
+      "clicks": 2,
+      "impressions": 25,
+      "ctr": 0.08,
+      "position": 25.36
+    },
+    {
+      "page": "https://crashteam.com/blog/the-most-dangerous-intersections-in-sugar-land-tx/",
+      "clicks": 2,
+      "impressions": 62,
+      "ctr": 0.03225806451612903,
+      "position": 9.451612903225806
+    },
+    {
+      "page": "https://crashteam.com/contact/",
+      "clicks": 2,
+      "impressions": 2218,
+      "ctr": 0.0009017132551848512,
+      "position": 7.396753832281335
+    },
+    {
+      "page": "https://crashteam.com/sugar-land-car-accident-lawyer/",
+      "clicks": 2,
+      "impressions": 4272,
+      "ctr": 0.00046816479400749064,
+      "position": 34.1500468164794
+    },
+    {
+      "page": "https://crashteam.com/sugar-land-motorcycle-accident-lawyer/",
+      "clicks": 2,
+      "impressions": 286,
+      "ctr": 0.006993006993006993,
+      "position": 22.458041958041957
+    },
+    {
+      "page": "https://crashteam.com/about-us/testimonials/",
+      "clicks": 1,
+      "impressions": 299,
+      "ctr": 0.0033444816053511705,
+      "position": 10.130434782608695
+    },
+    {
+      "page": "https://crashteam.com/blog/annual-click-it-or-ticket-campaign-seat-belt-enforcement-in-texas/",
+      "clicks": 1,
+      "impressions": 384,
+      "ctr": 0.0026041666666666665,
+      "position": 9.1796875
+    },
+    {
+      "page": "https://crashteam.com/blog/proving-negligence-in-accident-cases-tips-steps-for-texas-clients/",
+      "clicks": 1,
+      "impressions": 59,
+      "ctr": 0.01694915254237288,
+      "position": 15.677966101694915
+    },
+    {
+      "page": "https://crashteam.com/blog/statute-of-limitations-in-texas-personal-injury-cases-key-deadlines/",
+      "clicks": 1,
+      "impressions": 924,
+      "ctr": 0.0010822510822510823,
+      "position": 8.719696969696969
+    },
+    {
+      "page": "https://crashteam.com/blog/truck-driver-fatigue-and-truck-accidents-in-texas/",
+      "clicks": 1,
+      "impressions": 546,
+      "ctr": 0.0018315018315018315,
+      "position": 11.83882783882784
+    },
+    {
+      "page": "https://crashteam.com/car-accident-lawyers/",
+      "clicks": 1,
+      "impressions": 641,
+      "ctr": 0.0015600624024961,
+      "position": 23.152886115444616
+    },
+    {
+      "page": "https://crashteam.com/sitemap/",
+      "clicks": 1,
+      "impressions": 175,
+      "ctr": 0.005714285714285714,
+      "position": 42.331428571428575
+    },
+    {
+      "page": "https://crashteam.com/sugar-land-oilfield-accident-lawyer/",
+      "clicks": 1,
+      "impressions": 772,
+      "ctr": 0.0012953367875647669,
+      "position": 61.06217616580311
+    },
+    {
+      "page": "https://crashteam.com/sugar-land-slip-and-fall-accident-lawyer/",
+      "clicks": 1,
+      "impressions": 961,
+      "ctr": 0.001040582726326743,
+      "position": 33.14984391259105
+    },
+    {
+      "page": "https://crashteam.com/about-us/case-results/",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 3.4
+    },
+    {
+      "page": "https://crashteam.com/alvin/",
+      "clicks": 0,
+      "impressions": 878,
+      "ctr": 0,
+      "position": 19.929384965831435
+    },
+    {
+      "page": "https://crashteam.com/angleton/",
+      "clicks": 0,
+      "impressions": 30,
+      "ctr": 0,
+      "position": 17.4
+    },
+    {
+      "page": "https://crashteam.com/attorney-referrals-partnerships/",
+      "clicks": 0,
+      "impressions": 1584,
+      "ctr": 0,
+      "position": 9.255681818181818
+    },
+    {
+      "page": "https://crashteam.com/bicycle-accident-lawyers/",
+      "clicks": 0,
+      "impressions": 1911,
+      "ctr": 0,
+      "position": 15.539508110936682
+    },
+    {
+      "page": "https://crashteam.com/blog/author/andrei/",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 18.333333333333332
+    },
+    {
+      "page": "https://crashteam.com/blog/cargo-loader-liability-in-texas-truck-accidents/",
+      "clicks": 0,
+      "impressions": 161,
+      "ctr": 0,
+      "position": 8.987577639751553
+    },
+    {
+      "page": "https://crashteam.com/blog/category/car-accidents/",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 35.1
+    },
+    {
+      "page": "https://crashteam.com/blog/category/personal-injury/",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 23.384615384615383
+    },
+    {
+      "page": "https://crashteam.com/blog/category/truck-accidents/",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 49.333333333333336
+    },
+    {
+      "page": "https://crashteam.com/blog/category/uncategorized/",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 41.125
+    },
+    {
+      "page": "https://crashteam.com/blog/heatstroke-hot-car-fatalities-in-texas-prevention-legal-options/",
+      "clicks": 0,
+      "impressions": 150,
+      "ctr": 0,
+      "position": 9.766666666666667
+    },
+    {
+      "page": "https://crashteam.com/blog/how-to-collect-witness-statements-after-a-car-accident/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 18
+    },
+    {
+      "page": "https://crashteam.com/blog/liability-in-texas-car-accidents-involving-self-driving-cars/",
+      "clicks": 0,
+      "impressions": 84,
+      "ctr": 0,
+      "position": 12.083333333333334
+    },
+    {
+      "page": "https://crashteam.com/blog/texas-distracted-driving-laws/",
+      "clicks": 0,
+      "impressions": 70,
+      "ctr": 0,
+      "position": 6.6571428571428575
+    },
+    {
+      "page": "https://crashteam.com/blog/texas-move-over-or-slow-down-law-changes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "page": "https://crashteam.com/blog/trucking-company-liability-in-texas-truck-accidents/",
+      "clicks": 0,
+      "impressions": 29,
+      "ctr": 0,
+      "position": 6.724137931034483
+    },
+    {
+      "page": "https://crashteam.com/blog/understanding-comparative-negligence-in-texas-what-it-means-for-your-compensation/",
+      "clicks": 0,
+      "impressions": 21,
+      "ctr": 0,
+      "position": 14.952380952380953
+    },
+    {
+      "page": "https://crashteam.com/blog/what-to-do-if-you-are-hit-by-an-uninsured-motorist-in-texas/",
+      "clicks": 0,
+      "impressions": 215,
+      "ctr": 0,
+      "position": 11.525581395348837
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:07:21.668Z"
+}

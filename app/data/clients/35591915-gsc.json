@@ -1,0 +1,1350 @@
+{
+  "property": "sc-domain:snyderac.com",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 9849,
+    "impressions": 2843528,
+    "ctr": 0.0034636550088481635,
+    "position": 17.150846629206157
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 139,
+      "impressions": 31264,
+      "ctr": 0.004446008188331628,
+      "position": 13.814738996929375
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 125,
+      "impressions": 29786,
+      "ctr": 0.004196602430672128,
+      "position": 15.439636070637212
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 93,
+      "impressions": 26581,
+      "ctr": 0.0034987397012903954,
+      "position": 19.49614386215718
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 102,
+      "impressions": 29936,
+      "ctr": 0.0034072688401924106,
+      "position": 18.353153393907
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 73,
+      "impressions": 24641,
+      "ctr": 0.0029625421046223775,
+      "position": 16.985552534393896
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 44,
+      "impressions": 31221,
+      "ctr": 0.0014093078376733608,
+      "position": 18.63085743570033
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 46,
+      "impressions": 24237,
+      "ctr": 0.001897924660642819,
+      "position": 18.555390518628542
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 94,
+      "impressions": 25836,
+      "ctr": 0.003638334107446973,
+      "position": 17.423401455333643
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 55,
+      "impressions": 25896,
+      "ctr": 0.002123880135928329,
+      "position": 18.568427556379362
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 50,
+      "impressions": 25727,
+      "ctr": 0.0019434834998250865,
+      "position": 21.491040541065807
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 27,
+      "impressions": 22056,
+      "ctr": 0.0012241566920565832,
+      "position": 20.18752266956837
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 72,
+      "impressions": 25919,
+      "ctr": 0.002777884949265018,
+      "position": 19.24217755314634
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 67,
+      "impressions": 28299,
+      "ctr": 0.002367574825965582,
+      "position": 16.77575179334959
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 58,
+      "impressions": 27381,
+      "ctr": 0.002118257185639677,
+      "position": 16.91819144662357
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 108,
+      "impressions": 33135,
+      "ctr": 0.0032593933906745133,
+      "position": 15.857069563905236
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 99,
+      "impressions": 32815,
+      "ctr": 0.0030169129971049824,
+      "position": 15.671247904921529
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 95,
+      "impressions": 34303,
+      "ctr": 0.0027694370754744483,
+      "position": 22.092907325889865
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 67,
+      "impressions": 29224,
+      "ctr": 0.0022926361894333425,
+      "position": 18.40932110594032
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 99,
+      "impressions": 30440,
+      "ctr": 0.003252299605781866,
+      "position": 16.15955978975033
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 59,
+      "impressions": 26416,
+      "ctr": 0.002233494851605088,
+      "position": 15.12253937007874
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 86,
+      "impressions": 26428,
+      "ctr": 0.0032541244135008323,
+      "position": 15.95334493718783
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 132,
+      "impressions": 32541,
+      "ctr": 0.004056421130266433,
+      "position": 15.719000645339726
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 122,
+      "impressions": 30399,
+      "ctr": 0.004013289910852331,
+      "position": 15.76176847922629
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 82,
+      "impressions": 50810,
+      "ctr": 0.0016138555402479826,
+      "position": 15.722200354260972
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 90,
+      "impressions": 43915,
+      "ctr": 0.0020494136399863373,
+      "position": 22.452100648980984
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 85,
+      "impressions": 31550,
+      "ctr": 0.002694136291600634,
+      "position": 20.23321711568938
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 69,
+      "impressions": 32667,
+      "ctr": 0.0021122233446597485,
+      "position": 22.132121100805094
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 58,
+      "impressions": 32521,
+      "ctr": 0.0017834629931428923,
+      "position": 21.583100150671875
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 124,
+      "impressions": 35835,
+      "ctr": 0.0034603041718989816,
+      "position": 18.128645179293986
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 126,
+      "impressions": 35859,
+      "ctr": 0.0035137622354220696,
+      "position": 18.569424691151454
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 102,
+      "impressions": 38319,
+      "ctr": 0.0026618648712127143,
+      "position": 21.363318458206113
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 110,
+      "impressions": 38045,
+      "ctr": 0.0028913129189118147,
+      "position": 18.73967669864634
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 116,
+      "impressions": 33712,
+      "ctr": 0.0034409112482202183,
+      "position": 18.510322733744662
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 58,
+      "impressions": 28615,
+      "ctr": 0.002026908963830159,
+      "position": 17.782631486982353
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 73,
+      "impressions": 28097,
+      "ctr": 0.0025981421504075166,
+      "position": 18.614798732960814
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 138,
+      "impressions": 31694,
+      "ctr": 0.0043541364296081275,
+      "position": 16.945762604909447
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 129,
+      "impressions": 31139,
+      "ctr": 0.004142714923407945,
+      "position": 14.987668197437298
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 108,
+      "impressions": 35349,
+      "ctr": 0.003055249087668675,
+      "position": 17.427055928031912
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 110,
+      "impressions": 33246,
+      "ctr": 0.003308668712025507,
+      "position": 17.014678457558805
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 144,
+      "impressions": 34442,
+      "ctr": 0.0041809418732942335,
+      "position": 13.573572963242553
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 173,
+      "impressions": 44770,
+      "ctr": 0.0038641947732856825,
+      "position": 13.037502792048247
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 176,
+      "impressions": 46435,
+      "ctr": 0.003790244427694627,
+      "position": 12.00973403682567
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 198,
+      "impressions": 41049,
+      "ctr": 0.0048235036176277135,
+      "position": 13.817998002387391
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 168,
+      "impressions": 43247,
+      "ctr": 0.00388466251994358,
+      "position": 14.166601151524961
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 145,
+      "impressions": 35762,
+      "ctr": 0.004054583077009116,
+      "position": 15.99443543425983
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 148,
+      "impressions": 35203,
+      "ctr": 0.00420418714314121,
+      "position": 17.050734312416555
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 138,
+      "impressions": 32301,
+      "ctr": 0.004272313550664066,
+      "position": 15.771771771771771
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 124,
+      "impressions": 35107,
+      "ctr": 0.0035320591335061386,
+      "position": 15.754920671091236
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 197,
+      "impressions": 45829,
+      "ctr": 0.004298588230159942,
+      "position": 12.072617774771432
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 215,
+      "impressions": 38324,
+      "ctr": 0.005610061580210834,
+      "position": 14.261481056257177
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 186,
+      "impressions": 30785,
+      "ctr": 0.006041903524443722,
+      "position": 14.356504791294462
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 136,
+      "impressions": 38106,
+      "ctr": 0.0035689917598278487,
+      "position": 14.96976854038734
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 111,
+      "impressions": 29793,
+      "ctr": 0.003725707380928406,
+      "position": 18.097405430805892
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 109,
+      "impressions": 27706,
+      "ctr": 0.003934165884645925,
+      "position": 16.459719916263623
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 73,
+      "impressions": 29471,
+      "ctr": 0.002477011299243324,
+      "position": 16.80418038071324
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 85,
+      "impressions": 28594,
+      "ctr": 0.002972651605231867,
+      "position": 16.17304329579632
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 123,
+      "impressions": 30178,
+      "ctr": 0.004075816820200146,
+      "position": 17.96789051627013
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 113,
+      "impressions": 30020,
+      "ctr": 0.003764157228514324,
+      "position": 20.137041972018654
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 116,
+      "impressions": 28822,
+      "ctr": 0.004024703351606412,
+      "position": 19.628998681562695
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 111,
+      "impressions": 33532,
+      "ctr": 0.003310270786114756,
+      "position": 20.74856853155195
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 89,
+      "impressions": 50465,
+      "ctr": 0.0017635985336371743,
+      "position": 35.90698503913603
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 71,
+      "impressions": 23807,
+      "ctr": 0.002982316125509304,
+      "position": 17.83861889360272
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 68,
+      "impressions": 24524,
+      "ctr": 0.0027727939977165226,
+      "position": 17.916326863480673
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 149,
+      "impressions": 30440,
+      "ctr": 0.004894875164257556,
+      "position": 16.58097897503285
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 150,
+      "impressions": 31489,
+      "ctr": 0.0047635682301756166,
+      "position": 19.85115437136778
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 136,
+      "impressions": 32146,
+      "ctr": 0.004230697442916692,
+      "position": 17.45106700678156
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 116,
+      "impressions": 32010,
+      "ctr": 0.0036238675413933145,
+      "position": 19.362136832239926
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 110,
+      "impressions": 24794,
+      "ctr": 0.0044365572315882874,
+      "position": 14.875171412438494
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 79,
+      "impressions": 26137,
+      "ctr": 0.0030225351034931323,
+      "position": 16.634158472663273
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 58,
+      "impressions": 27440,
+      "ctr": 0.0021137026239067057,
+      "position": 16.38742711370262
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 156,
+      "impressions": 32271,
+      "ctr": 0.00483406154132193,
+      "position": 16.342815530972082
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 119,
+      "impressions": 28251,
+      "ctr": 0.004212240274680542,
+      "position": 15.546210753601642
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 101,
+      "impressions": 28395,
+      "ctr": 0.003556964254270118,
+      "position": 16.4157774256031
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 133,
+      "impressions": 30743,
+      "ctr": 0.004326188075334222,
+      "position": 19.781446182870898
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 97,
+      "impressions": 30137,
+      "ctr": 0.0032186349006205,
+      "position": 14.275873510966585
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 72,
+      "impressions": 33146,
+      "ctr": 0.002172207807880287,
+      "position": 22.92964460266699
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 74,
+      "impressions": 44164,
+      "ctr": 0.0016755728647767413,
+      "position": 27.790304320260844
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 143,
+      "impressions": 41915,
+      "ctr": 0.0034116664678516045,
+      "position": 25.69481092687582
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 136,
+      "impressions": 33794,
+      "ctr": 0.004024383026572764,
+      "position": 14.191483695330533
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 139,
+      "impressions": 35046,
+      "ctr": 0.00396621583062261,
+      "position": 11.913741939165668
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 143,
+      "impressions": 29493,
+      "ctr": 0.004848608144305429,
+      "position": 11.957244091818398
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 132,
+      "impressions": 27506,
+      "ctr": 0.004798952955718752,
+      "position": 12.833709008943503
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 104,
+      "impressions": 24233,
+      "ctr": 0.00429166838608509,
+      "position": 13.162670738249494
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 70,
+      "impressions": 22101,
+      "ctr": 0.0031672774987557125,
+      "position": 13.303334690737975
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 132,
+      "impressions": 25241,
+      "ctr": 0.0052295867834079475,
+      "position": 12.665742244760509
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 139,
+      "impressions": 25130,
+      "ctr": 0.0055312375646637485,
+      "position": 11.842021488261043
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 132,
+      "impressions": 28762,
+      "ctr": 0.004589388776858354,
+      "position": 13.305959251790558
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 128,
+      "impressions": 24167,
+      "ctr": 0.005296478669259735,
+      "position": 14.6347912442587
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 114,
+      "impressions": 21119,
+      "ctr": 0.005397982859036886,
+      "position": 13.441971684265354
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 80,
+      "impressions": 19332,
+      "ctr": 0.004138216428719222,
+      "position": 13.052658804055453
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "snyder ac",
+      "clicks": 530,
+      "impressions": 3624,
+      "ctr": 0.14624724061810154,
+      "position": 1.4533664459161149
+    },
+    {
+      "query": "snyder plumbing",
+      "clicks": 292,
+      "impressions": 3455,
+      "ctr": 0.08451519536903039,
+      "position": 5.120984081041968
+    },
+    {
+      "query": "snyder air conditioning",
+      "clicks": 284,
+      "impressions": 1746,
+      "ctr": 0.16265750286368844,
+      "position": 2.0618556701030926
+    },
+    {
+      "query": "snyder air conditioning plumbing & electric",
+      "clicks": 219,
+      "impressions": 901,
+      "ctr": 0.24306326304106549,
+      "position": 1.3829078801331853
+    },
+    {
+      "query": "snyder heating and air",
+      "clicks": 215,
+      "impressions": 1749,
+      "ctr": 0.12292738707833048,
+      "position": 2.0234419668381936
+    },
+    {
+      "query": "snyder air conditioning, plumbing & electric",
+      "clicks": 128,
+      "impressions": 2565,
+      "ctr": 0.04990253411306043,
+      "position": 1.1894736842105262
+    },
+    {
+      "query": "snyder",
+      "clicks": 93,
+      "impressions": 2357,
+      "ctr": 0.03945693678404752,
+      "position": 5.857445905812473
+    },
+    {
+      "query": "snyder electric",
+      "clicks": 80,
+      "impressions": 847,
+      "ctr": 0.09445100354191263,
+      "position": 6.1723730814639906
+    },
+    {
+      "query": "snyder hvac",
+      "clicks": 60,
+      "impressions": 340,
+      "ctr": 0.17647058823529413,
+      "position": 2.326470588235294
+    },
+    {
+      "query": "snyder electrical",
+      "clicks": 54,
+      "impressions": 514,
+      "ctr": 0.10505836575875487,
+      "position": 2.6595330739299614
+    },
+    {
+      "query": "snyder company",
+      "clicks": 43,
+      "impressions": 355,
+      "ctr": 0.12112676056338029,
+      "position": 5.295774647887324
+    },
+    {
+      "query": "snyder plumbing jacksonville fl",
+      "clicks": 38,
+      "impressions": 257,
+      "ctr": 0.14785992217898833,
+      "position": 1
+    },
+    {
+      "query": "snyder air",
+      "clicks": 36,
+      "impressions": 190,
+      "ctr": 0.18947368421052632,
+      "position": 1.9789473684210526
+    },
+    {
+      "query": "snyder careers",
+      "clicks": 33,
+      "impressions": 111,
+      "ctr": 0.2972972972972973,
+      "position": 4.693693693693694
+    },
+    {
+      "query": "snyder plumbing gainesville fl",
+      "clicks": 27,
+      "impressions": 208,
+      "ctr": 0.12980769230769232,
+      "position": 1.8028846153846154
+    },
+    {
+      "query": "snyder ac jacksonville fl",
+      "clicks": 26,
+      "impressions": 180,
+      "ctr": 0.14444444444444443,
+      "position": 1.2444444444444445
+    },
+    {
+      "query": "snyder electric jacksonville fl",
+      "clicks": 25,
+      "impressions": 136,
+      "ctr": 0.18382352941176472,
+      "position": 1.9264705882352942
+    },
+    {
+      "query": "snyder jacksonville fl",
+      "clicks": 25,
+      "impressions": 144,
+      "ctr": 0.1736111111111111,
+      "position": 1.7222222222222223
+    },
+    {
+      "query": "how long does it take to defrost a heat pump",
+      "clicks": 23,
+      "impressions": 449,
+      "ctr": 0.051224944320712694,
+      "position": 3.082405345211581
+    },
+    {
+      "query": "furnace high limit switch keeps tripping",
+      "clicks": 21,
+      "impressions": 379,
+      "ctr": 0.055408970976253295,
+      "position": 2.5646437994722957
+    },
+    {
+      "query": "snyder air conditioning, plumbing & electric (air america ac)",
+      "clicks": 21,
+      "impressions": 984,
+      "ctr": 0.021341463414634148,
+      "position": 1.1229674796747968
+    },
+    {
+      "query": "snyder lake city fl",
+      "clicks": 21,
+      "impressions": 101,
+      "ctr": 0.2079207920792079,
+      "position": 1.0198019801980198
+    },
+    {
+      "query": "air america ac",
+      "clicks": 19,
+      "impressions": 447,
+      "ctr": 0.042505592841163314,
+      "position": 2.4049217002237135
+    },
+    {
+      "query": "snyder heating and air jacksonville fl",
+      "clicks": 18,
+      "impressions": 65,
+      "ctr": 0.27692307692307694,
+      "position": 2.092307692307692
+    },
+    {
+      "query": "furnace smells like burning hair",
+      "clicks": 17,
+      "impressions": 380,
+      "ctr": 0.04473684210526316,
+      "position": 2.594736842105263
+    },
+    {
+      "query": "hvac jacksonville fl",
+      "clicks": 17,
+      "impressions": 800,
+      "ctr": 0.02125,
+      "position": 5.6675
+    },
+    {
+      "query": "synder ac",
+      "clicks": 17,
+      "impressions": 110,
+      "ctr": 0.15454545454545454,
+      "position": 6.181818181818182
+    },
+    {
+      "query": "snyder electrical jobs",
+      "clicks": 16,
+      "impressions": 37,
+      "ctr": 0.43243243243243246,
+      "position": 2.945945945945946
+    },
+    {
+      "query": "snyder jacksonville",
+      "clicks": 16,
+      "impressions": 88,
+      "ctr": 0.18181818181818182,
+      "position": 2.1931818181818183
+    },
+    {
+      "query": "buckhalter heating and air",
+      "clicks": 15,
+      "impressions": 95,
+      "ctr": 0.15789473684210525,
+      "position": 1.6210526315789475
+    },
+    {
+      "query": "snyder hvac jacksonville fl",
+      "clicks": 15,
+      "impressions": 77,
+      "ctr": 0.19480519480519481,
+      "position": 1
+    },
+    {
+      "query": "snyder lake city",
+      "clicks": 14,
+      "impressions": 48,
+      "ctr": 0.2916666666666667,
+      "position": 1
+    },
+    {
+      "query": "snyderac.com",
+      "clicks": 14,
+      "impressions": 65,
+      "ctr": 0.2153846153846154,
+      "position": 1
+    },
+    {
+      "query": "snyder plumbing near me",
+      "clicks": 13,
+      "impressions": 181,
+      "ctr": 0.0718232044198895,
+      "position": 2.552486187845304
+    },
+    {
+      "query": "snyder coral springs",
+      "clicks": 12,
+      "impressions": 77,
+      "ctr": 0.15584415584415584,
+      "position": 1.7402597402597402
+    },
+    {
+      "query": "snyder plumbing st augustine",
+      "clicks": 12,
+      "impressions": 85,
+      "ctr": 0.1411764705882353,
+      "position": 1
+    },
+    {
+      "query": "snyder ac and plumbing",
+      "clicks": 11,
+      "impressions": 39,
+      "ctr": 0.28205128205128205,
+      "position": 1.5897435897435899
+    },
+    {
+      "query": "snyder heating",
+      "clicks": 11,
+      "impressions": 96,
+      "ctr": 0.11458333333333333,
+      "position": 10.28125
+    },
+    {
+      "query": "snyder jobs",
+      "clicks": 11,
+      "impressions": 58,
+      "ctr": 0.1896551724137931,
+      "position": 6.793103448275862
+    },
+    {
+      "query": "heat pump defrost cycle",
+      "clicks": 10,
+      "impressions": 2362,
+      "ctr": 0.004233700254022015,
+      "position": 8.422523285351396
+    },
+    {
+      "query": "snyder air conditioning plumbing & electric reviews",
+      "clicks": 10,
+      "impressions": 528,
+      "ctr": 0.01893939393939394,
+      "position": 3.9166666666666665
+    },
+    {
+      "query": "snyder plumbing jacksonville",
+      "clicks": 10,
+      "impressions": 77,
+      "ctr": 0.12987012987012986,
+      "position": 1.948051948051948
+    },
+    {
+      "query": "snyder st augustine",
+      "clicks": 10,
+      "impressions": 115,
+      "ctr": 0.08695652173913043,
+      "position": 2.4695652173913043
+    },
+    {
+      "query": "daikin vs lennox",
+      "clicks": 9,
+      "impressions": 322,
+      "ctr": 0.027950310559006212,
+      "position": 2.3664596273291925
+    },
+    {
+      "query": "daikin vs rheem",
+      "clicks": 9,
+      "impressions": 147,
+      "ctr": 0.061224489795918366,
+      "position": 2.7278911564625847
+    },
+    {
+      "query": "high limit switch",
+      "clicks": 9,
+      "impressions": 5131,
+      "ctr": 0.0017540440459949329,
+      "position": 3.86727733385305
+    },
+    {
+      "query": "snyder ac st augustine",
+      "clicks": 9,
+      "impressions": 74,
+      "ctr": 0.12162162162162163,
+      "position": 14.256756756756756
+    },
+    {
+      "query": "snyder heating and air conditioning",
+      "clicks": 9,
+      "impressions": 158,
+      "ctr": 0.056962025316455694,
+      "position": 5.018987341772152
+    },
+    {
+      "query": "snyder plumbing and heating",
+      "clicks": 9,
+      "impressions": 144,
+      "ctr": 0.0625,
+      "position": 9.770833333333334
+    },
+    {
+      "query": "snyderman",
+      "clicks": 9,
+      "impressions": 150,
+      "ctr": 0.06,
+      "position": 2.913333333333333
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://snyderac.com/",
+      "clicks": 1052,
+      "impressions": 74921,
+      "ctr": 0.01404145700137478,
+      "position": 19.757104149704354
+    },
+    {
+      "page": "https://snyderac.com/blog/whats-causing-my-furnaces-high-limit-switch-to-keep-tripping/",
+      "clicks": 978,
+      "impressions": 169887,
+      "ctr": 0.005756767733846616,
+      "position": 4.100543302312714
+    },
+    {
+      "page": "https://snyderac.com/jacksonville/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*182*snyder-air-jacksonville",
+      "clicks": 776,
+      "impressions": 66696,
+      "ctr": 0.011634880652512895,
+      "position": 3.5083213386110113
+    },
+    {
+      "page": "https://snyderac.com/north-florida/jacksonville/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*182*snyder-air-jacksonville",
+      "clicks": 604,
+      "impressions": 52373,
+      "ctr": 0.0115326599583755,
+      "position": 23.86135986099708
+    },
+    {
+      "page": "https://snyderac.com/blog/should-i-leave-doors-open-or-closed-during-heating-and-cooling/",
+      "clicks": 342,
+      "impressions": 66504,
+      "ctr": 0.005142547816672682,
+      "position": 4.8294989775051125
+    },
+    {
+      "page": "https://snyderac.com/blog/what-do-test-reset-buttons-do-on-outlets/",
+      "clicks": 331,
+      "impressions": 120175,
+      "ctr": 0.0027543166215935094,
+      "position": 3.952976908674849
+    },
+    {
+      "page": "https://snyderac.com/blog/the-heat-pump-defrost-cycle-explained/",
+      "clicks": 314,
+      "impressions": 71662,
+      "ctr": 0.004381680667578354,
+      "position": 5.395453657447462
+    },
+    {
+      "page": "https://snyderac.com/blog/why-is-my-outdoor-a-c-units-fan-not-spinning/",
+      "clicks": 314,
+      "impressions": 100928,
+      "ctr": 0.003111128725428028,
+      "position": 6.86986762840837
+    },
+    {
+      "page": "https://snyderac.com/about-us/hvac-electrical-career-opportunities-snyder-heating-air-conditioning/",
+      "clicks": 294,
+      "impressions": 7732,
+      "ctr": 0.0380237972064149,
+      "position": 6.188954992240041
+    },
+    {
+      "page": "https://snyderac.com/blog/daikin-lennox-rheem-which-hvac-brand-is-best-for-me/",
+      "clicks": 274,
+      "impressions": 16888,
+      "ctr": 0.01622453813358598,
+      "position": 9.353209379441024
+    },
+    {
+      "page": "https://snyderac.com/south-florida/coral-springs/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*12*snyder-air-coral-springs",
+      "clicks": 212,
+      "impressions": 10294,
+      "ctr": 0.020594521080240916,
+      "position": 7.561783563240723
+    },
+    {
+      "page": "https://snyderac.com/blog/how-to-tell-if-your-ac-fuse-is-blown/",
+      "clicks": 184,
+      "impressions": 63042,
+      "ctr": 0.002918689127882999,
+      "position": 7.813663906601948
+    },
+    {
+      "page": "https://snyderac.com/blog/be-cautious-of-these-3-furnace-smells/",
+      "clicks": 157,
+      "impressions": 24507,
+      "ctr": 0.006406332884481985,
+      "position": 7.763088097278328
+    },
+    {
+      "page": "https://snyderac.com/coral-springs/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*12*snyder-air-coral-springs",
+      "clicks": 142,
+      "impressions": 13039,
+      "ctr": 0.010890405705959045,
+      "position": 5.558401717923154
+    },
+    {
+      "page": "https://snyderac.com/gainesville/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*54*snyder-air-gainesville",
+      "clicks": 142,
+      "impressions": 25589,
+      "ctr": 0.005549259447418813,
+      "position": 2.0871077416077224
+    },
+    {
+      "page": "https://snyderac.com/north-florida/gainesville/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*54*snyder-air-gainesville",
+      "clicks": 126,
+      "impressions": 15166,
+      "ctr": 0.008308057497032837,
+      "position": 4.317948041672162
+    },
+    {
+      "page": "https://snyderac.com/contact-us/",
+      "clicks": 121,
+      "impressions": 26633,
+      "ctr": 0.004543235835241993,
+      "position": 8.359816768670447
+    },
+    {
+      "page": "https://snyderac.com/blog/why-is-my-hvac-system-not-cooling-my-second-floor-and-how-do-i-fix-it/",
+      "clicks": 117,
+      "impressions": 20776,
+      "ctr": 0.005631497882171737,
+      "position": 8.134145167500963
+    },
+    {
+      "page": "https://snyderac.com/port-st-lucie/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*299*snyder-air-port-st.-lucie",
+      "clicks": 115,
+      "impressions": 26680,
+      "ctr": 0.004310344827586207,
+      "position": 4.849700149925038
+    },
+    {
+      "page": "https://snyderac.com/st-augustine/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*183*snyder-air-st-augustine",
+      "clicks": 113,
+      "impressions": 17902,
+      "ctr": 0.006312143894536923,
+      "position": 2.3690649089487206
+    },
+    {
+      "page": "https://snyderac.com/south-florida/port-st-lucie/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*299*snyder-air-port-st.-lucie",
+      "clicks": 112,
+      "impressions": 20038,
+      "ctr": 0.005589380177662442,
+      "position": 12.422197824134145
+    },
+    {
+      "page": "https://snyderac.com/blog/what-does-a-buzzing-electrical-outlet-mean/",
+      "clicks": 110,
+      "impressions": 46658,
+      "ctr": 0.002357580693557375,
+      "position": 5.475631188649321
+    },
+    {
+      "page": "https://snyderac.com/lake-city/",
+      "clicks": 101,
+      "impressions": 9798,
+      "ctr": 0.010308226168605838,
+      "position": 17.486119616248214
+    },
+    {
+      "page": "https://snyderac.com/lake-worth-beach/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*155*Snyder-lake-worth-beach",
+      "clicks": 92,
+      "impressions": 27602,
+      "ctr": 0.003333091804941671,
+      "position": 3.345301065140207
+    },
+    {
+      "page": "https://snyderac.com/port-st-lucie/",
+      "clicks": 90,
+      "impressions": 50304,
+      "ctr": 0.00178912213740458,
+      "position": 18.83983381043257
+    },
+    {
+      "page": "https://snyderac.com/south-florida/lake-worth-beach/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*155*Snyder-lake-worth-beach",
+      "clicks": 87,
+      "impressions": 19349,
+      "ctr": 0.004496356400847589,
+      "position": 9.273967646906817
+    },
+    {
+      "page": "https://snyderac.com/south-florida/st-augustine/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*183*snyder-air-st-augustine",
+      "clicks": 74,
+      "impressions": 12702,
+      "ctr": 0.005825854196189577,
+      "position": 13.277751535191308
+    },
+    {
+      "page": "https://snyderac.com/contact-us/home-service-maintenance-plans-near-jacksonville-florida/",
+      "clicks": 71,
+      "impressions": 10188,
+      "ctr": 0.006968983117393012,
+      "position": 8.375736160188456
+    },
+    {
+      "page": "https://snyderac.com/blog/why-does-my-homes-dimmer-switch-get-hot/",
+      "clicks": 67,
+      "impressions": 13306,
+      "ctr": 0.005035322410942432,
+      "position": 4.880730497519916
+    },
+    {
+      "page": "https://snyderac.com/air-duct-cleaning/",
+      "clicks": 65,
+      "impressions": 58762,
+      "ctr": 0.0011061570402641162,
+      "position": 25.46383717368367
+    },
+    {
+      "page": "https://snyderac.com/gainesville/",
+      "clicks": 58,
+      "impressions": 30636,
+      "ctr": 0.0018931975453714584,
+      "position": 27.59230970100535
+    },
+    {
+      "page": "https://snyderac.com/boca-raton/",
+      "clicks": 54,
+      "impressions": 23658,
+      "ctr": 0.002282525995434948,
+      "position": 23.63635979372728
+    },
+    {
+      "page": "https://snyderac.com/snyder-family-hero-plan/",
+      "clicks": 49,
+      "impressions": 748,
+      "ctr": 0.06550802139037433,
+      "position": 15.79144385026738
+    },
+    {
+      "page": "https://snyderac.com/st-augustine/",
+      "clicks": 49,
+      "impressions": 10375,
+      "ctr": 0.00472289156626506,
+      "position": 19.81744578313253
+    },
+    {
+      "page": "https://snyderac.com/coral-springs/",
+      "clicks": 48,
+      "impressions": 19185,
+      "ctr": 0.002501954652071931,
+      "position": 10.650143341151942
+    },
+    {
+      "page": "https://snyderac.com/north-florida/lake-city/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*436*snyder-lake-city",
+      "clicks": 48,
+      "impressions": 3048,
+      "ctr": 0.015748031496062992,
+      "position": 28.88254593175853
+    },
+    {
+      "page": "https://snyderac.com/south-florida/boca-raton/",
+      "clicks": 45,
+      "impressions": 9805,
+      "ctr": 0.004589495155532891,
+      "position": 20.0371239163692
+    },
+    {
+      "page": "https://snyderac.com/about-us/our-most-recent-service-reviews-near-jacksonville-florida/",
+      "clicks": 43,
+      "impressions": 3706,
+      "ctr": 0.011602806260118727,
+      "position": 5.13302752293578
+    },
+    {
+      "page": "https://snyderac.com/north-florida/jacksonville/",
+      "clicks": 43,
+      "impressions": 10538,
+      "ctr": 0.0040804706775479215,
+      "position": 19.03046118808123
+    },
+    {
+      "page": "https://snyderac.com/contact-us/financing-options-plans/",
+      "clicks": 39,
+      "impressions": 3860,
+      "ctr": 0.010103626943005182,
+      "position": 16.566839378238342
+    },
+    {
+      "page": "https://snyderac.com/delray-beach/",
+      "clicks": 37,
+      "impressions": 16416,
+      "ctr": 0.0022538986354775827,
+      "position": 20.3583089668616
+    },
+    {
+      "page": "https://snyderac.com/about-us/",
+      "clicks": 36,
+      "impressions": 8563,
+      "ctr": 0.004204134065164078,
+      "position": 5.148429288800654
+    },
+    {
+      "page": "https://snyderac.com/offers/",
+      "clicks": 36,
+      "impressions": 1756,
+      "ctr": 0.02050113895216401,
+      "position": 13.398633257403189
+    },
+    {
+      "page": "https://snyderac.com/south-florida/coral-springs/",
+      "clicks": 36,
+      "impressions": 8117,
+      "ctr": 0.00443513613403967,
+      "position": 12.060490328939263
+    },
+    {
+      "page": "https://snyderac.com/blog/its-cold-upstairs-heating-and-air-tips-for-a-two-story-home/",
+      "clicks": 35,
+      "impressions": 7001,
+      "ctr": 0.0049992858163119555,
+      "position": 4.875303528067419
+    },
+    {
+      "page": "https://snyderac.com/miami/",
+      "clicks": 34,
+      "impressions": 5342,
+      "ctr": 0.00636465743167353,
+      "position": 24.38431299138899
+    },
+    {
+      "page": "https://snyderac.com/blog/why-do-my-light-bulbs-keep-burning-out/",
+      "clicks": 33,
+      "impressions": 22426,
+      "ctr": 0.001471506287345046,
+      "position": 6.637741906715419
+    },
+    {
+      "page": "https://snyderac.com/blog/how-a-power-outage-affects-your-air-conditioner/",
+      "clicks": 32,
+      "impressions": 17530,
+      "ctr": 0.0018254420992584142,
+      "position": 8.563947518539646
+    },
+    {
+      "page": "https://snyderac.com/fernandina-beach/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*184*snyder-air-fernandina-beach",
+      "clicks": 31,
+      "impressions": 8358,
+      "ctr": 0.0037090212969609956,
+      "position": 2.505862646566164
+    },
+    {
+      "page": "https://snyderac.com/north-florida/fernandina-beach/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*184*snyder-air-fernandina-beach",
+      "clicks": 29,
+      "impressions": 6028,
+      "ctr": 0.0048108825481088255,
+      "position": 23.562873258128732
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:07:01.173Z"
+}

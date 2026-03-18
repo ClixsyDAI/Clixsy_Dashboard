@@ -1,0 +1,1350 @@
+{
+  "property": "sc-domain:amglaw.com",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 7131,
+    "impressions": 1105454,
+    "ctr": 0.006450743314511504,
+    "position": 13.211660226257264
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 114,
+      "impressions": 8120,
+      "ctr": 0.014039408866995074,
+      "position": 12.120320197044334
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 82,
+      "impressions": 7975,
+      "ctr": 0.010282131661442007,
+      "position": 14.92012539184953
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 79,
+      "impressions": 7056,
+      "ctr": 0.011196145124716554,
+      "position": 12.71471088435374
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 76,
+      "impressions": 7841,
+      "ctr": 0.00969264124473919,
+      "position": 14.376865195765847
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 96,
+      "impressions": 11796,
+      "ctr": 0.008138351983723296,
+      "position": 12.62597490674805
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 54,
+      "impressions": 8312,
+      "ctr": 0.0064966313763233875,
+      "position": 15.526588065447546
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 65,
+      "impressions": 7155,
+      "ctr": 0.009084556254367574,
+      "position": 15.585883997204752
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 78,
+      "impressions": 9189,
+      "ctr": 0.008488410055501142,
+      "position": 12.144955925563174
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 57,
+      "impressions": 7781,
+      "ctr": 0.007325536563423725,
+      "position": 17.594782161675877
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 27,
+      "impressions": 6239,
+      "ctr": 0.004327616605225197,
+      "position": 18.79291553133515
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 26,
+      "impressions": 5173,
+      "ctr": 0.005026097042335202,
+      "position": 17.199110767446356
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 57,
+      "impressions": 6811,
+      "ctr": 0.008368815151960064,
+      "position": 14.299662310967552
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 49,
+      "impressions": 6998,
+      "ctr": 0.007002000571591884,
+      "position": 16.663332380680195
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 41,
+      "impressions": 7069,
+      "ctr": 0.005799971707455086,
+      "position": 14.91950770971849
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 50,
+      "impressions": 8366,
+      "ctr": 0.005976571838393498,
+      "position": 12.928878795123117
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 42,
+      "impressions": 7909,
+      "ctr": 0.0053104058667341,
+      "position": 17.815779491718295
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 40,
+      "impressions": 7449,
+      "ctr": 0.005369848301785474,
+      "position": 17.683447442609747
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 39,
+      "impressions": 6750,
+      "ctr": 0.0057777777777777775,
+      "position": 18.202814814814815
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 46,
+      "impressions": 7460,
+      "ctr": 0.0061662198391420914,
+      "position": 13.908310991957105
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 28,
+      "impressions": 6017,
+      "ctr": 0.00465348180156224,
+      "position": 16.19278710320758
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 22,
+      "impressions": 6750,
+      "ctr": 0.003259259259259259,
+      "position": 15.531703703703704
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 71,
+      "impressions": 8613,
+      "ctr": 0.008243353070939277,
+      "position": 14.040984558225938
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 75,
+      "impressions": 9420,
+      "ctr": 0.007961783439490446,
+      "position": 12.16868365180467
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 83,
+      "impressions": 12428,
+      "ctr": 0.006678467975539106,
+      "position": 17.806002574831027
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 89,
+      "impressions": 12022,
+      "ctr": 0.007403094327067043,
+      "position": 15.177008817168524
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 75,
+      "impressions": 10948,
+      "ctr": 0.006850566313481915,
+      "position": 15.887285348922177
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 54,
+      "impressions": 9440,
+      "ctr": 0.0057203389830508475,
+      "position": 15.69375
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 52,
+      "impressions": 11442,
+      "ctr": 0.004544660024471246,
+      "position": 15.998863834993882
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 80,
+      "impressions": 11830,
+      "ctr": 0.006762468300929839,
+      "position": 11.824513947590871
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 87,
+      "impressions": 11765,
+      "ctr": 0.007394815129621759,
+      "position": 13.39430514237144
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 95,
+      "impressions": 11791,
+      "ctr": 0.008056992621490967,
+      "position": 15.493257569332542
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 77,
+      "impressions": 10442,
+      "ctr": 0.007374066270829343,
+      "position": 13.478356636659644
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 92,
+      "impressions": 9343,
+      "ctr": 0.009846944236326661,
+      "position": 14.692604088622499
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 53,
+      "impressions": 7654,
+      "ctr": 0.006924483929971257,
+      "position": 16.74745231251633
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 43,
+      "impressions": 8135,
+      "ctr": 0.00528580208973571,
+      "position": 18.211186232329442
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 53,
+      "impressions": 8280,
+      "ctr": 0.006400966183574879,
+      "position": 16.62463768115942
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 82,
+      "impressions": 10065,
+      "ctr": 0.008147044212617983,
+      "position": 16.237754595131644
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 102,
+      "impressions": 10794,
+      "ctr": 0.009449694274596998,
+      "position": 17.410969056883452
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 91,
+      "impressions": 11539,
+      "ctr": 0.007886298639396829,
+      "position": 15.174625184158073
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 76,
+      "impressions": 10447,
+      "ctr": 0.007274815736575093,
+      "position": 13.036948406241025
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 54,
+      "impressions": 8648,
+      "ctr": 0.006244218316373728,
+      "position": 16.02231729879741
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 60,
+      "impressions": 9845,
+      "ctr": 0.006094464195022855,
+      "position": 16.041645505332657
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 91,
+      "impressions": 12361,
+      "ctr": 0.007361863926866758,
+      "position": 14.065933176927434
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 108,
+      "impressions": 12379,
+      "ctr": 0.008724452702156878,
+      "position": 14.925034332337022
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 106,
+      "impressions": 13473,
+      "ctr": 0.00786758702590366,
+      "position": 15.554442217768871
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 91,
+      "impressions": 13635,
+      "ctr": 0.006674000733406674,
+      "position": 13.909717638430509
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 106,
+      "impressions": 14138,
+      "ctr": 0.007497524402319988,
+      "position": 12.131277408402886
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 87,
+      "impressions": 13659,
+      "ctr": 0.006369426751592357,
+      "position": 13.493447543744052
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 82,
+      "impressions": 17479,
+      "ctr": 0.004691343898392357,
+      "position": 13.697122260998913
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 134,
+      "impressions": 18513,
+      "ctr": 0.007238156970777292,
+      "position": 11.524334251606978
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 152,
+      "impressions": 16378,
+      "ctr": 0.009280742459396751,
+      "position": 10.462877030162414
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 136,
+      "impressions": 18825,
+      "ctr": 0.007224435590969455,
+      "position": 11.78390438247012
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 108,
+      "impressions": 17544,
+      "ctr": 0.006155950752393981,
+      "position": 11.445679434564523
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 102,
+      "impressions": 13460,
+      "ctr": 0.007578008915304606,
+      "position": 11.928751857355126
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 60,
+      "impressions": 8281,
+      "ctr": 0.007245501750996256,
+      "position": 11.97150102644608
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 69,
+      "impressions": 15007,
+      "ctr": 0.004597854334643833,
+      "position": 12.039714799760112
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 91,
+      "impressions": 17345,
+      "ctr": 0.005246468722974921,
+      "position": 10.678408763332373
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 107,
+      "impressions": 17223,
+      "ctr": 0.006212622655751031,
+      "position": 11.099692271961912
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 100,
+      "impressions": 15535,
+      "ctr": 0.006437077566784679,
+      "position": 12.853427743804312
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 109,
+      "impressions": 15598,
+      "ctr": 0.006988075394281318,
+      "position": 12.736055904603154
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 105,
+      "impressions": 14510,
+      "ctr": 0.007236388697450034,
+      "position": 11.154927636113026
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 45,
+      "impressions": 11701,
+      "ctr": 0.003845825143150158,
+      "position": 13.506366977181438
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 78,
+      "impressions": 16453,
+      "ctr": 0.004740776758038048,
+      "position": 10.920865495654288
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 98,
+      "impressions": 15920,
+      "ctr": 0.006155778894472361,
+      "position": 11.130904522613065
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 116,
+      "impressions": 16681,
+      "ctr": 0.006954019543192854,
+      "position": 11.130807505545231
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 104,
+      "impressions": 18039,
+      "ctr": 0.005765286324075614,
+      "position": 11.884805144409336
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 128,
+      "impressions": 18377,
+      "ctr": 0.006965228274473527,
+      "position": 10.725744136692605
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 89,
+      "impressions": 16903,
+      "ctr": 0.0052653375140507604,
+      "position": 10.166656806484056
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 44,
+      "impressions": 11893,
+      "ctr": 0.0036996552593962836,
+      "position": 11.953249810813084
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 59,
+      "impressions": 12660,
+      "ctr": 0.004660347551342812,
+      "position": 13.595734597156397
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 111,
+      "impressions": 16387,
+      "ctr": 0.00677366204918533,
+      "position": 9.63898211997315
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 125,
+      "impressions": 17583,
+      "ctr": 0.00710913950975374,
+      "position": 9.148495706079736
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 95,
+      "impressions": 20338,
+      "ctr": 0.004671059101189891,
+      "position": 8.62646277903432
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 103,
+      "impressions": 17160,
+      "ctr": 0.006002331002331002,
+      "position": 9.918706293706293
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 83,
+      "impressions": 17398,
+      "ctr": 0.004770663294631567,
+      "position": 10.139958615932866
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 51,
+      "impressions": 11663,
+      "ctr": 0.004372802880905427,
+      "position": 10.6538626425448
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 44,
+      "impressions": 12876,
+      "ctr": 0.003417210313762038,
+      "position": 11.982991612301957
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 80,
+      "impressions": 18600,
+      "ctr": 0.004301075268817204,
+      "position": 8.726505376344086
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 101,
+      "impressions": 19583,
+      "ctr": 0.005157534596333555,
+      "position": 8.708573762957666
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 87,
+      "impressions": 18704,
+      "ctr": 0.004651411462788709,
+      "position": 8.473160821214712
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 122,
+      "impressions": 15855,
+      "ctr": 0.007694733522548092,
+      "position": 10.669694102806686
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 72,
+      "impressions": 14287,
+      "ctr": 0.005039546440820326,
+      "position": 10.962203401693847
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 35,
+      "impressions": 11090,
+      "ctr": 0.0031559963931469793,
+      "position": 12.4297565374211
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 43,
+      "impressions": 11629,
+      "ctr": 0.003697652420672457,
+      "position": 12.152721644165448
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 108,
+      "impressions": 13816,
+      "ctr": 0.00781702374059062,
+      "position": 11.278662420382165
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 91,
+      "impressions": 16455,
+      "ctr": 0.005530233971437253,
+      "position": 8.523792160437557
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 102,
+      "impressions": 14497,
+      "ctr": 0.007035938470028281,
+      "position": 11.035800510450438
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 117,
+      "impressions": 17088,
+      "ctr": 0.006846910112359551,
+      "position": 8.916783707865168
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 90,
+      "impressions": 13502,
+      "ctr": 0.006665679158643164,
+      "position": 9.672418900903569
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 54,
+      "impressions": 9866,
+      "ctr": 0.0054733427934319885,
+      "position": 12.00689235759173
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "gloria allred",
+      "clicks": 329,
+      "impressions": 51706,
+      "ctr": 0.0063628979228716204,
+      "position": 7.791687618458206
+    },
+    {
+      "query": "allred maroko & goldberg",
+      "clicks": 270,
+      "impressions": 531,
+      "ctr": 0.5084745762711864,
+      "position": 1.2146892655367232
+    },
+    {
+      "query": "gloria allred law firm",
+      "clicks": 257,
+      "impressions": 743,
+      "ctr": 0.34589502018842533,
+      "position": 1.224764468371467
+    },
+    {
+      "query": "allred, maroko & goldberg",
+      "clicks": 219,
+      "impressions": 412,
+      "ctr": 0.5315533980582524,
+      "position": 1.233009708737864
+    },
+    {
+      "query": "christina cardenas",
+      "clicks": 78,
+      "impressions": 1483,
+      "ctr": 0.052596089008766014,
+      "position": 4.832771409305462
+    },
+    {
+      "query": "olivia flechsig",
+      "clicks": 52,
+      "impressions": 95,
+      "ctr": 0.5473684210526316,
+      "position": 1.4947368421052631
+    },
+    {
+      "query": "gloria allred office",
+      "clicks": 51,
+      "impressions": 217,
+      "ctr": 0.2350230414746544,
+      "position": 3.423963133640553
+    },
+    {
+      "query": "nathan goldberg",
+      "clicks": 50,
+      "impressions": 1007,
+      "ctr": 0.04965243296921549,
+      "position": 4.618669314796425
+    },
+    {
+      "query": "gloria allred firm",
+      "clicks": 47,
+      "impressions": 109,
+      "ctr": 0.43119266055045874,
+      "position": 5.422018348623853
+    },
+    {
+      "query": "nathan goldberg attorney",
+      "clicks": 40,
+      "impressions": 150,
+      "ctr": 0.26666666666666666,
+      "position": 3.18
+    },
+    {
+      "query": "gloria allred attorney",
+      "clicks": 38,
+      "impressions": 472,
+      "ctr": 0.08050847457627118,
+      "position": 5.046610169491525
+    },
+    {
+      "query": "dolores leal",
+      "clicks": 35,
+      "impressions": 98,
+      "ctr": 0.35714285714285715,
+      "position": 1.2244897959183674
+    },
+    {
+      "query": "christina cheung",
+      "clicks": 33,
+      "impressions": 393,
+      "ctr": 0.08396946564885496,
+      "position": 2.7480916030534353
+    },
+    {
+      "query": "renee mochkatel",
+      "clicks": 33,
+      "impressions": 90,
+      "ctr": 0.36666666666666664,
+      "position": 1.2
+    },
+    {
+      "query": "michael maroko",
+      "clicks": 31,
+      "impressions": 87,
+      "ctr": 0.3563218390804598,
+      "position": 2.402298850574713
+    },
+    {
+      "query": "gloria allred still practicing law",
+      "clicks": 28,
+      "impressions": 242,
+      "ctr": 0.11570247933884298,
+      "position": 1.2727272727272727
+    },
+    {
+      "query": "allred maroko goldberg",
+      "clicks": 25,
+      "impressions": 86,
+      "ctr": 0.29069767441860467,
+      "position": 3.5697674418604652
+    },
+    {
+      "query": "karis stephen",
+      "clicks": 25,
+      "impressions": 74,
+      "ctr": 0.33783783783783783,
+      "position": 1.0675675675675675
+    },
+    {
+      "query": "amglaw",
+      "clicks": 24,
+      "impressions": 90,
+      "ctr": 0.26666666666666666,
+      "position": 2.4222222222222225
+    },
+    {
+      "query": "bereavement leave california",
+      "clicks": 22,
+      "impressions": 10143,
+      "ctr": 0.0021689835354431627,
+      "position": 2.991915606822439
+    },
+    {
+      "query": "allred law firm",
+      "clicks": 21,
+      "impressions": 128,
+      "ctr": 0.1640625,
+      "position": 5.3515625
+    },
+    {
+      "query": "amg law",
+      "clicks": 18,
+      "impressions": 496,
+      "ctr": 0.036290322580645164,
+      "position": 3.725806451612903
+    },
+    {
+      "query": "gloria alred",
+      "clicks": 18,
+      "impressions": 1913,
+      "ctr": 0.009409304756926294,
+      "position": 8.335075797177208
+    },
+    {
+      "query": "marcus spiegel",
+      "clicks": 18,
+      "impressions": 161,
+      "ctr": 0.11180124223602485,
+      "position": 4.813664596273291
+    },
+    {
+      "query": "marcus spiegel attorney",
+      "clicks": 18,
+      "impressions": 29,
+      "ctr": 0.6206896551724138,
+      "position": 2.8275862068965516
+    },
+    {
+      "query": "bill gates sexual charges",
+      "clicks": 17,
+      "impressions": 393,
+      "ctr": 0.043256997455470736,
+      "position": 2.5318066157760812
+    },
+    {
+      "query": "allred maroko",
+      "clicks": 15,
+      "impressions": 870,
+      "ctr": 0.017241379310344827,
+      "position": 1.5482758620689654
+    },
+    {
+      "query": "tesla sex",
+      "clicks": 15,
+      "impressions": 2579,
+      "ctr": 0.0058162078324932144,
+      "position": 4.646762310973246
+    },
+    {
+      "query": "allred maroko and goldberg",
+      "clicks": 14,
+      "impressions": 823,
+      "ctr": 0.01701093560145808,
+      "position": 1.0643985419198057
+    },
+    {
+      "query": "bill gates prostitutes",
+      "clicks": 13,
+      "impressions": 222,
+      "ctr": 0.05855855855855856,
+      "position": 7.617117117117117
+    },
+    {
+      "query": "where is roman polanski now",
+      "clicks": 13,
+      "impressions": 1079,
+      "ctr": 0.012048192771084338,
+      "position": 4.876737720111214
+    },
+    {
+      "query": "bereavement leave california 2025",
+      "clicks": 12,
+      "impressions": 472,
+      "ctr": 0.025423728813559324,
+      "position": 1.7245762711864407
+    },
+    {
+      "query": "gloria allred contact number",
+      "clicks": 11,
+      "impressions": 68,
+      "ctr": 0.16176470588235295,
+      "position": 1.3529411764705883
+    },
+    {
+      "query": "is gloria allred still practicing law",
+      "clicks": 11,
+      "impressions": 97,
+      "ctr": 0.1134020618556701,
+      "position": 1.2061855670103092
+    },
+    {
+      "query": "wrongful termination lawyer los angeles",
+      "clicks": 11,
+      "impressions": 4741,
+      "ctr": 0.002320185614849188,
+      "position": 5.854250158194474
+    },
+    {
+      "query": "attorney gloria allred",
+      "clicks": 10,
+      "impressions": 574,
+      "ctr": 0.017421602787456445,
+      "position": 7.806620209059234
+    },
+    {
+      "query": "bill gates sexuality",
+      "clicks": 10,
+      "impressions": 318,
+      "ctr": 0.031446540880503145,
+      "position": 5.959119496855346
+    },
+    {
+      "query": "civil rights attorney",
+      "clicks": 10,
+      "impressions": 4094,
+      "ctr": 0.002442598925256473,
+      "position": 43.96580361504641
+    },
+    {
+      "query": "gloria allred contact",
+      "clicks": 10,
+      "impressions": 103,
+      "ctr": 0.0970873786407767,
+      "position": 12.495145631067961
+    },
+    {
+      "query": "gloria allred email",
+      "clicks": 9,
+      "impressions": 74,
+      "ctr": 0.12162162162162163,
+      "position": 2.891891891891892
+    },
+    {
+      "query": "gloria allred lawyer",
+      "clicks": 9,
+      "impressions": 217,
+      "ctr": 0.041474654377880185,
+      "position": 7.691244239631336
+    },
+    {
+      "query": "john west attorney",
+      "clicks": 9,
+      "impressions": 113,
+      "ctr": 0.07964601769911504,
+      "position": 8.530973451327434
+    },
+    {
+      "query": "amg law firm",
+      "clicks": 8,
+      "impressions": 185,
+      "ctr": 0.043243243243243246,
+      "position": 6.297297297297297
+    },
+    {
+      "query": "bill gates allegations",
+      "clicks": 8,
+      "impressions": 306,
+      "ctr": 0.026143790849673203,
+      "position": 5.562091503267974
+    },
+    {
+      "query": "california bereavement leave 2025",
+      "clicks": 8,
+      "impressions": 772,
+      "ctr": 0.010362694300518135,
+      "position": 2.0660621761658033
+    },
+    {
+      "query": "gloria albright",
+      "clicks": 8,
+      "impressions": 965,
+      "ctr": 0.008290155440414507,
+      "position": 7.389637305699482
+    },
+    {
+      "query": "olivia goldberg stanford law",
+      "clicks": 8,
+      "impressions": 103,
+      "ctr": 0.07766990291262135,
+      "position": 1.650485436893204
+    },
+    {
+      "query": "wrongful termination lawyer",
+      "clicks": 8,
+      "impressions": 10481,
+      "ctr": 0.0007632859459975193,
+      "position": 10.546035683617974
+    },
+    {
+      "query": "bill gates sex scandal",
+      "clicks": 7,
+      "impressions": 146,
+      "ctr": 0.04794520547945205,
+      "position": 6.506849315068493
+    },
+    {
+      "query": "can a company force you to retire",
+      "clicks": 7,
+      "impressions": 166,
+      "ctr": 0.04216867469879518,
+      "position": 2.144578313253012
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://www.amglaw.com/",
+      "clicks": 1313,
+      "impressions": 67198,
+      "ctr": 0.01953927200214292,
+      "position": 8.93752790261615
+    },
+    {
+      "page": "https://www.amglaw.com/attorneys/gloria-allred/",
+      "clicks": 903,
+      "impressions": 97726,
+      "ctr": 0.009240120336450894,
+      "position": 7.21342324458179
+    },
+    {
+      "page": "https://www.amglaw.com/blog/2021/07/both-microsoft-and-its-founder-have-a-poor-history-of-sexual-misconduct-allegations/",
+      "clicks": 514,
+      "impressions": 31869,
+      "ctr": 0.016128526153942703,
+      "position": 4.923656217640968
+    },
+    {
+      "page": "https://www.amglaw.com/blog/2025/10/bereavement-leave-in-california/",
+      "clicks": 344,
+      "impressions": 122847,
+      "ctr": 0.0028002311818766433,
+      "position": 4.9240762900192925
+    },
+    {
+      "page": "https://www.amglaw.com/employment-faqs-archives/can-my-employer-force-me-to-retire/",
+      "clicks": 318,
+      "impressions": 24855,
+      "ctr": 0.012794206397103198,
+      "position": 5.605713136189902
+    },
+    {
+      "page": "https://www.amglaw.com/blog/2024/04/roman-polanski-back-in-court-but-will-he-return-to-the-united-states/",
+      "clicks": 274,
+      "impressions": 38802,
+      "ctr": 0.00706149167568682,
+      "position": 7.421911241688573
+    },
+    {
+      "page": "https://www.amglaw.com/blog/2025/10/can-your-boss-track-your-location/",
+      "clicks": 207,
+      "impressions": 23839,
+      "ctr": 0.008683250136331222,
+      "position": 4.296824531230337
+    },
+    {
+      "page": "https://www.amglaw.com/attorneys/nathan-goldberg/",
+      "clicks": 188,
+      "impressions": 5687,
+      "ctr": 0.03305785123966942,
+      "position": 5.574468085106383
+    },
+    {
+      "page": "https://www.amglaw.com/employment-faqs-archives/chronology-of-a-discrimination-charge-filed-with-the-eeoc-or-state-fair-employment-practices-agency/",
+      "clicks": 146,
+      "impressions": 86029,
+      "ctr": 0.0016971021399760546,
+      "position": 7.570098455172094
+    },
+    {
+      "page": "https://www.amglaw.com/attorneys/michael-maroko/",
+      "clicks": 138,
+      "impressions": 4556,
+      "ctr": 0.03028972783143108,
+      "position": 2.969929762949956
+    },
+    {
+      "page": "https://www.amglaw.com/attorneys/christina-cheung/",
+      "clicks": 133,
+      "impressions": 2455,
+      "ctr": 0.054175152749490835,
+      "position": 6.884725050916497
+    },
+    {
+      "page": "https://www.amglaw.com/attorneys/dolores-y-leal/",
+      "clicks": 130,
+      "impressions": 10459,
+      "ctr": 0.012429486566593364,
+      "position": 35.90907352519361
+    },
+    {
+      "page": "https://www.amglaw.com/contact/",
+      "clicks": 126,
+      "impressions": 8494,
+      "ctr": 0.01483400047092065,
+      "position": 6.292206263244643
+    },
+    {
+      "page": "https://www.amglaw.com/blog/2024/09/amg-obtains-5-6m-settlement-for-california-inmates-wife-who-was-sexually-violated-during-strip-search/",
+      "clicks": 118,
+      "impressions": 2817,
+      "ctr": 0.04188853390131345,
+      "position": 5.637202697905574
+    },
+    {
+      "page": "https://www.amglaw.com/attorneys/olivia-flechsig/",
+      "clicks": 117,
+      "impressions": 822,
+      "ctr": 0.14233576642335766,
+      "position": 5.100973236009732
+    },
+    {
+      "page": "https://www.amglaw.com/employment-law/civil-rights-law/",
+      "clicks": 117,
+      "impressions": 47222,
+      "ctr": 0.002477658718393969,
+      "position": 35.889331243911734
+    },
+    {
+      "page": "https://www.amglaw.com/significant-cases/",
+      "clicks": 104,
+      "impressions": 22862,
+      "ctr": 0.0045490333304172865,
+      "position": 17.8683404776485
+    },
+    {
+      "page": "https://www.amglaw.com/attorneys/marcus-j-spiegel/",
+      "clicks": 99,
+      "impressions": 1313,
+      "ctr": 0.0753998476770754,
+      "position": 8.259710586443259
+    },
+    {
+      "page": "https://www.amglaw.com/attorneys/renee-mochkatel/",
+      "clicks": 88,
+      "impressions": 499,
+      "ctr": 0.17635270541082165,
+      "position": 4.985971943887776
+    },
+    {
+      "page": "https://www.amglaw.com/blog/2017/10/workplace-sexual-harassment-allegations-prompt-ceo-resignation/",
+      "clicks": 83,
+      "impressions": 2495,
+      "ctr": 0.03326653306613227,
+      "position": 6.220040080160321
+    },
+    {
+      "page": "https://www.amglaw.com/employment-law/wrongful-termination/",
+      "clicks": 76,
+      "impressions": 83789,
+      "ctr": 0.0009070403036198069,
+      "position": 15.536060819439307
+    },
+    {
+      "page": "https://www.amglaw.com/attorneys/",
+      "clicks": 75,
+      "impressions": 8855,
+      "ctr": 0.00846979107848673,
+      "position": 4.702089215132693
+    },
+    {
+      "page": "https://www.amglaw.com/attorneys/karis-stephen/",
+      "clicks": 66,
+      "impressions": 615,
+      "ctr": 0.1073170731707317,
+      "position": 7.785365853658536
+    },
+    {
+      "page": "https://www.amglaw.com/attorneys/john-s-west/",
+      "clicks": 63,
+      "impressions": 1718,
+      "ctr": 0.03667054714784633,
+      "position": 9.712456344586728
+    },
+    {
+      "page": "https://www.amglaw.com/blog/2025/09/eliminating-statutes-of-limitations-for-child-sex-abuse/",
+      "clicks": 60,
+      "impressions": 16062,
+      "ctr": 0.0037355248412401943,
+      "position": 5.667164736645499
+    },
+    {
+      "page": "https://www.amglaw.com/employment-faqs-archives/glossary-of-common-employment-discrimination-harassment-terms/",
+      "clicks": 59,
+      "impressions": 5893,
+      "ctr": 0.010011878499915153,
+      "position": 6.550313931783472
+    },
+    {
+      "page": "https://www.amglaw.com/blog/2025/11/neurodiversity-at-work/",
+      "clicks": 51,
+      "impressions": 8076,
+      "ctr": 0.006315007429420505,
+      "position": 6.974492322932145
+    },
+    {
+      "page": "https://www.amglaw.com/attorneys/sabrina-medler/",
+      "clicks": 50,
+      "impressions": 517,
+      "ctr": 0.09671179883945841,
+      "position": 7.085106382978723
+    },
+    {
+      "page": "https://www.amglaw.com/blog/2024/06/tesla-settles-factory-workers-sexual-harassment-lawsuit/",
+      "clicks": 49,
+      "impressions": 7588,
+      "ctr": 0.006457564575645757,
+      "position": 5.771217712177122
+    },
+    {
+      "page": "https://www.amglaw.com/about-us/",
+      "clicks": 45,
+      "impressions": 8494,
+      "ctr": 0.005297857311043089,
+      "position": 3.9516129032258065
+    },
+    {
+      "page": "https://www.amglaw.com/blog/2024/05/ny-philharmonic-facing-an-uproar-since-a-recent-magazine-article-detailed-allegations-of-a-2010-sexual-assault-by-two-principal-players-against-another-female-player/",
+      "clicks": 43,
+      "impressions": 2988,
+      "ctr": 0.014390896921017403,
+      "position": 8.147590361445783
+    },
+    {
+      "page": "https://www.amglaw.com/blog/2025/04/navigating-the-complexities-of-remote-work/",
+      "clicks": 39,
+      "impressions": 6626,
+      "ctr": 0.005885904014488379,
+      "position": 8.903108964684577
+    },
+    {
+      "page": "https://www.amglaw.com/blog/2024/08/new-york-real-estate-moguls-face-multiple-sexual-assault-accusations/",
+      "clicks": 37,
+      "impressions": 1827,
+      "ctr": 0.020251778872468526,
+      "position": 5.739463601532567
+    },
+    {
+      "page": "https://www.amglaw.com/blog/2023/09/court-revives-sexual-abuse-lawsuits-against-michael-jacksons-estate/",
+      "clicks": 31,
+      "impressions": 7641,
+      "ctr": 0.004057060594163068,
+      "position": 7.565371024734982
+    },
+    {
+      "page": "https://www.amglaw.com/employment-faqs-archives/considerations-for-your-performance-evaluation/",
+      "clicks": 30,
+      "impressions": 12069,
+      "ctr": 0.002485707183693761,
+      "position": 13.72615792526307
+    },
+    {
+      "page": "https://www.amglaw.com/employment-faqs-archives/tips-for-employees-dealing-with-discrimination/",
+      "clicks": 29,
+      "impressions": 10495,
+      "ctr": 0.0027632205812291566,
+      "position": 8.357313006193426
+    },
+    {
+      "page": "https://www.amglaw.com/employment-law/disability-discrimination/",
+      "clicks": 28,
+      "impressions": 19143,
+      "ctr": 0.0014626756516742411,
+      "position": 20.482944157133154
+    },
+    {
+      "page": "https://www.amglaw.com/blog/2022/06/report-spacex-paid-250k-to-settle-musk-harassment-claim/",
+      "clicks": 27,
+      "impressions": 10698,
+      "ctr": 0.0025238362310712283,
+      "position": 5.598429613011778
+    },
+    {
+      "page": "https://www.amglaw.com/blog/2024/07/former-law-students-file-title-ix-complaint-against-joshua-wright/",
+      "clicks": 27,
+      "impressions": 2786,
+      "ctr": 0.009691313711414214,
+      "position": 9.1816223977028
+    },
+    {
+      "page": "https://www.amglaw.com/blog/2021/01/allred-maroko-goldberg-win-3-2-million-settlement-for-female-firefighter-who-suffered-sexual-harassment-and-retaliation/",
+      "clicks": 25,
+      "impressions": 831,
+      "ctr": 0.030084235860409144,
+      "position": 8.848375451263538
+    },
+    {
+      "page": "https://www.amglaw.com/blog/2025/04/understanding-the-impact-of-artificial-intelligence-on-employment-discrimination/",
+      "clicks": 24,
+      "impressions": 3804,
+      "ctr": 0.006309148264984227,
+      "position": 7.959516298633018
+    },
+    {
+      "page": "https://www.amglaw.com/attorneys/byron-r-lau/",
+      "clicks": 23,
+      "impressions": 927,
+      "ctr": 0.02481121898597627,
+      "position": 8.614886731391586
+    },
+    {
+      "page": "https://www.amglaw.com/blog/2024/04/former-blackberry-employee-alleges-company-ceo-sexually-harassed-her/",
+      "clicks": 22,
+      "impressions": 1614,
+      "ctr": 0.013630731102850062,
+      "position": 7.808550185873606
+    },
+    {
+      "page": "https://www.amglaw.com/blog/2021/02/investment-management-firm-pimco-faces-accusations-of-sexual-discrimination-harassment-and-retaliation/",
+      "clicks": 20,
+      "impressions": 641,
+      "ctr": 0.031201248049921998,
+      "position": 5.414976599063962
+    },
+    {
+      "page": "https://www.amglaw.com/employment-faqs-archives/what-are-the-tax-implications-for-an-independent-contractor/",
+      "clicks": 20,
+      "impressions": 22496,
+      "ctr": 0.0008890469416785206,
+      "position": 15.63020092460882
+    },
+    {
+      "page": "https://www.amglaw.com/employment-law/age-discrimination/",
+      "clicks": 20,
+      "impressions": 17914,
+      "ctr": 0.0011164452383610583,
+      "position": 25.304957016858324
+    },
+    {
+      "page": "https://www.amglaw.com/blog/2024/01/california-takes-big-step-to-support-child-sexual-abuse-survivors-in-2024/",
+      "clicks": 17,
+      "impressions": 1857,
+      "ctr": 0.009154550350026925,
+      "position": 12.638126009693053
+    },
+    {
+      "page": "https://www.amglaw.com/blog/2025/02/remote-work-and-employment-law-your-rights-as-a-telecommuting-employee/",
+      "clicks": 17,
+      "impressions": 8643,
+      "ctr": 0.0019669096378572256,
+      "position": 8.851787573759111
+    },
+    {
+      "page": "https://www.amglaw.com/videos/",
+      "clicks": 17,
+      "impressions": 1236,
+      "ctr": 0.013754045307443365,
+      "position": 5.3381877022653725
+    },
+    {
+      "page": "https://www.amglaw.com/about-us/frequently-asked-questions-about-our-firm/",
+      "clicks": 16,
+      "impressions": 917,
+      "ctr": 0.017448200654307525,
+      "position": 9.71864776444929
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:07:29.050Z"
+}

@@ -1,0 +1,1350 @@
+{
+  "property": "sc-domain:autoaccident.com",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 9272,
+    "impressions": 5170477,
+    "ctr": 0.0017932581462019848,
+    "position": 16.125239569621037
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 148,
+      "impressions": 81624,
+      "ctr": 0.0018131921983730276,
+      "position": 14.21440997745761
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 146,
+      "impressions": 69688,
+      "ctr": 0.002095052232809092,
+      "position": 15.82044254391
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 118,
+      "impressions": 63079,
+      "ctr": 0.0018706701120816754,
+      "position": 13.87317490765548
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 130,
+      "impressions": 64029,
+      "ctr": 0.002030330006715707,
+      "position": 14.31343609926752
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 132,
+      "impressions": 60433,
+      "ctr": 0.0021842370890076614,
+      "position": 15.599109757913723
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 94,
+      "impressions": 55338,
+      "ctr": 0.001698651920922332,
+      "position": 17.51642632549062
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 107,
+      "impressions": 57000,
+      "ctr": 0.0018771929824561403,
+      "position": 18.06101754385965
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 141,
+      "impressions": 81444,
+      "ctr": 0.0017312509208781495,
+      "position": 12.99399587446589
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 135,
+      "impressions": 64045,
+      "ctr": 0.002107892887813256,
+      "position": 17.122335857600124
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 99,
+      "impressions": 52615,
+      "ctr": 0.001881592701701036,
+      "position": 18.207849472583863
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 69,
+      "impressions": 47109,
+      "ctr": 0.0014646882761255812,
+      "position": 16.50896856227048
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 117,
+      "impressions": 53668,
+      "ctr": 0.002180070060371171,
+      "position": 15.551408660654394
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 81,
+      "impressions": 52795,
+      "ctr": 0.0015342361966095275,
+      "position": 17.02839284023108
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 77,
+      "impressions": 54877,
+      "ctr": 0.0014031379266359312,
+      "position": 18.216939701514296
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 131,
+      "impressions": 70249,
+      "ctr": 0.0018647952284018279,
+      "position": 14.766203077623882
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 132,
+      "impressions": 63672,
+      "ctr": 0.0020731247644176403,
+      "position": 16.25331385852494
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 101,
+      "impressions": 57008,
+      "ctr": 0.001771681167555431,
+      "position": 16.525557816446813
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 97,
+      "impressions": 56949,
+      "ctr": 0.0017032783718765913,
+      "position": 17.2110484819751
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 136,
+      "impressions": 56616,
+      "ctr": 0.0024021478027412744,
+      "position": 13.925445103857566
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 100,
+      "impressions": 50451,
+      "ctr": 0.001982121266179065,
+      "position": 14.330895324175932
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 124,
+      "impressions": 55231,
+      "ctr": 0.00224511596748203,
+      "position": 16.765439698719923
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 142,
+      "impressions": 71442,
+      "ctr": 0.001987626326250665,
+      "position": 13.937431762828588
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 138,
+      "impressions": 59614,
+      "ctr": 0.0023148924749219982,
+      "position": 13.75965377260375
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 119,
+      "impressions": 74168,
+      "ctr": 0.0016044655376981987,
+      "position": 21.722252184230395
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 129,
+      "impressions": 70935,
+      "ctr": 0.0018185662930852188,
+      "position": 22.222992880806373
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 111,
+      "impressions": 70910,
+      "ctr": 0.001565364546608377,
+      "position": 23.373120857424905
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 68,
+      "impressions": 64204,
+      "ctr": 0.001059124042115756,
+      "position": 24.563890100305276
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 78,
+      "impressions": 63568,
+      "ctr": 0.0012270324691668764,
+      "position": 23.413509942109236
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 118,
+      "impressions": 60823,
+      "ctr": 0.0019400555710833074,
+      "position": 17.024957664041562
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 140,
+      "impressions": 63793,
+      "ctr": 0.002194598153402411,
+      "position": 17.31421942846394
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 127,
+      "impressions": 67467,
+      "ctr": 0.0018824017667896898,
+      "position": 19.081417581928942
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 126,
+      "impressions": 56239,
+      "ctr": 0.0022404381301232242,
+      "position": 15.23419690961788
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 117,
+      "impressions": 59057,
+      "ctr": 0.0019811368677718137,
+      "position": 20.107404710703218
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 63,
+      "impressions": 51302,
+      "ctr": 0.0012280222993255624,
+      "position": 20.238938053097346
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 69,
+      "impressions": 49324,
+      "ctr": 0.0013989133079231205,
+      "position": 20.790649582353417
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 104,
+      "impressions": 57403,
+      "ctr": 0.0018117519990244412,
+      "position": 21.09682420779402
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 96,
+      "impressions": 66888,
+      "ctr": 0.0014352350197344816,
+      "position": 18.334245305585455
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 110,
+      "impressions": 58946,
+      "ctr": 0.0018661147490923896,
+      "position": 20.195721507820718
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 114,
+      "impressions": 61941,
+      "ctr": 0.001840461083934712,
+      "position": 20.20169193264558
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 102,
+      "impressions": 54841,
+      "ctr": 0.001859922320891304,
+      "position": 17.768658485439726
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 79,
+      "impressions": 49587,
+      "ctr": 0.0015931594974489282,
+      "position": 20.538669409320992
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 71,
+      "impressions": 63496,
+      "ctr": 0.0011181806727982866,
+      "position": 17.772332115408844
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 89,
+      "impressions": 63067,
+      "ctr": 0.0014111976152345919,
+      "position": 20.279797675487973
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 108,
+      "impressions": 63849,
+      "ctr": 0.0016914908612507636,
+      "position": 19.802706385378002
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 122,
+      "impressions": 59231,
+      "ctr": 0.0020597322348094747,
+      "position": 19.545069304924787
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 102,
+      "impressions": 57437,
+      "ctr": 0.0017758587669968835,
+      "position": 19.167487856259903
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 98,
+      "impressions": 56634,
+      "ctr": 0.0017304092947699262,
+      "position": 18.92472719567751
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 76,
+      "impressions": 52396,
+      "ctr": 0.0014504924040003053,
+      "position": 19.376689060233605
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 75,
+      "impressions": 63136,
+      "ctr": 0.001187911809427268,
+      "position": 20.38014761784085
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 135,
+      "impressions": 66702,
+      "ctr": 0.002023927318521184,
+      "position": 17.268582651194865
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 134,
+      "impressions": 50820,
+      "ctr": 0.0026367571822117275,
+      "position": 14.531129476584022
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 114,
+      "impressions": 64031,
+      "ctr": 0.0017803876247442646,
+      "position": 15.624728647061579
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 106,
+      "impressions": 68048,
+      "ctr": 0.0015577239595579591,
+      "position": 19.232997296026333
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 90,
+      "impressions": 59171,
+      "ctr": 0.0015210153622551587,
+      "position": 17.742424498487434
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 78,
+      "impressions": 46207,
+      "ctr": 0.0016880559222628606,
+      "position": 17.016534291341138
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 77,
+      "impressions": 54436,
+      "ctr": 0.0014145051069145418,
+      "position": 18.766735248732456
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 108,
+      "impressions": 60405,
+      "ctr": 0.001787931462627266,
+      "position": 18.26378611042132
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 128,
+      "impressions": 62480,
+      "ctr": 0.00204865556978233,
+      "position": 17.353056978233035
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 112,
+      "impressions": 58903,
+      "ctr": 0.0019014311664940664,
+      "position": 16.471436089842623
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 107,
+      "impressions": 62998,
+      "ctr": 0.0016984666179878727,
+      "position": 14.801993714086162
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 97,
+      "impressions": 50117,
+      "ctr": 0.0019354709978649958,
+      "position": 13.88349262725223
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 70,
+      "impressions": 45625,
+      "ctr": 0.0015342465753424657,
+      "position": 15.91015890410959
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 77,
+      "impressions": 49632,
+      "ctr": 0.0015514184397163121,
+      "position": 15.67831237911025
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 96,
+      "impressions": 53933,
+      "ctr": 0.0017799862792724306,
+      "position": 15.979363284074685
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 119,
+      "impressions": 53840,
+      "ctr": 0.0022102526002971768,
+      "position": 14.690806092124815
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 95,
+      "impressions": 51630,
+      "ctr": 0.0018400154948673253,
+      "position": 15.31874878946349
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 114,
+      "impressions": 49302,
+      "ctr": 0.0023122794207131557,
+      "position": 13.608433734939759
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 119,
+      "impressions": 49250,
+      "ctr": 0.002416243654822335,
+      "position": 13.617604060913706
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 77,
+      "impressions": 45716,
+      "ctr": 0.0016843118383060634,
+      "position": 14.530601977425846
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 71,
+      "impressions": 57969,
+      "ctr": 0.0012247925615415135,
+      "position": 12.0711242215667
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 124,
+      "impressions": 54568,
+      "ctr": 0.0022723940771147925,
+      "position": 13.598097786248351
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 124,
+      "impressions": 56538,
+      "ctr": 0.0021932151827089743,
+      "position": 13.174342919806149
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 105,
+      "impressions": 53716,
+      "ctr": 0.00195472484920694,
+      "position": 13.530251694094868
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 115,
+      "impressions": 54580,
+      "ctr": 0.0021069989006962256,
+      "position": 11.496060828142177
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 91,
+      "impressions": 61998,
+      "ctr": 0.001467789283525275,
+      "position": 11.936756024387883
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 74,
+      "impressions": 52091,
+      "ctr": 0.001420590889021136,
+      "position": 12.054635157704785
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 86,
+      "impressions": 57625,
+      "ctr": 0.001492407809110629,
+      "position": 13.361683297180043
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 110,
+      "impressions": 67221,
+      "ctr": 0.0016363933889707086,
+      "position": 12.446155219351096
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 96,
+      "impressions": 63346,
+      "ctr": 0.0015154863764089287,
+      "position": 10.52165882612951
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 119,
+      "impressions": 51505,
+      "ctr": 0.002310455295602369,
+      "position": 10.40299000097078
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 83,
+      "impressions": 50918,
+      "ctr": 0.0016300718802780942,
+      "position": 10.812050748261912
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 79,
+      "impressions": 44392,
+      "ctr": 0.0017795999279149395,
+      "position": 10.78626779599928
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 53,
+      "impressions": 39050,
+      "ctr": 0.0013572343149807937,
+      "position": 10.628373879641485
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 70,
+      "impressions": 41473,
+      "ctr": 0.0016878451040435946,
+      "position": 11.764328599329684
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 90,
+      "impressions": 48341,
+      "ctr": 0.0018617736496969446,
+      "position": 11.72160278024865
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 95,
+      "impressions": 51790,
+      "ctr": 0.0018343309519212204,
+      "position": 11.392894381154663
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 98,
+      "impressions": 50621,
+      "ctr": 0.0019359554335157346,
+      "position": 12.102032753205192
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 111,
+      "impressions": 49667,
+      "ctr": 0.0022348843296353714,
+      "position": 11.842712465017014
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 72,
+      "impressions": 42744,
+      "ctr": 0.0016844469399213925,
+      "position": 12.411800486618004
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 47,
+      "impressions": 37460,
+      "ctr": 0.0012546716497597438,
+      "position": 11.949599572877736
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "baby brezza",
+      "clicks": 86,
+      "impressions": 2735,
+      "ctr": 0.03144424131627057,
+      "position": 3.5985374771480805
+    },
+    {
+      "query": "baby brezza formula pro",
+      "clicks": 35,
+      "impressions": 1587,
+      "ctr": 0.02205419029615627,
+      "position": 3.873345935727788
+    },
+    {
+      "query": "autoaccident.com",
+      "clicks": 33,
+      "impressions": 175,
+      "ctr": 0.18857142857142858,
+      "position": 1.2514285714285713
+    },
+    {
+      "query": "chp incident reports by date",
+      "clicks": 21,
+      "impressions": 7107,
+      "ctr": 0.0029548332629801602,
+      "position": 4.834810749964824
+    },
+    {
+      "query": "csaa",
+      "clicks": 21,
+      "impressions": 9550,
+      "ctr": 0.002198952879581152,
+      "position": 7.3582198952879585
+    },
+    {
+      "query": "kemper insurance",
+      "clicks": 21,
+      "impressions": 15280,
+      "ctr": 0.00137434554973822,
+      "position": 7.239659685863875
+    },
+    {
+      "query": "chp accident report",
+      "clicks": 18,
+      "impressions": 1668,
+      "ctr": 0.01079136690647482,
+      "position": 6.630695443645084
+    },
+    {
+      "query": "degloved",
+      "clicks": 17,
+      "impressions": 61743,
+      "ctr": 0.0002753348557731241,
+      "position": 8.799167516965486
+    },
+    {
+      "query": "who pays for towing and storage after an accident",
+      "clicks": 17,
+      "impressions": 353,
+      "ctr": 0.04815864022662889,
+      "position": 3.3626062322946177
+    },
+    {
+      "query": "concord motorcycle accident lawyer",
+      "clicks": 16,
+      "impressions": 1365,
+      "ctr": 0.011721611721611722,
+      "position": 25.514285714285716
+    },
+    {
+      "query": "law offices of edward a. smith",
+      "clicks": 16,
+      "impressions": 64,
+      "ctr": 0.25,
+      "position": 5.96875
+    },
+    {
+      "query": "medial femoral condyle fracture",
+      "clicks": 15,
+      "impressions": 1606,
+      "ctr": 0.00933997509339975,
+      "position": 1.9221668742216687
+    },
+    {
+      "query": "sabrina randhawa",
+      "clicks": 15,
+      "impressions": 56,
+      "ctr": 0.26785714285714285,
+      "position": 2.303571428571429
+    },
+    {
+      "query": "motorcycle accident lawyer concord",
+      "clicks": 13,
+      "impressions": 1279,
+      "ctr": 0.010164190774042221,
+      "position": 18.218921032056294
+    },
+    {
+      "query": "sacramento car accident lawyer",
+      "clicks": 13,
+      "impressions": 8480,
+      "ctr": 0.0015330188679245284,
+      "position": 11.507547169811321
+    },
+    {
+      "query": "babybrezza",
+      "clicks": 12,
+      "impressions": 285,
+      "ctr": 0.042105263157894736,
+      "position": 4.087719298245614
+    },
+    {
+      "query": "law offices of edward a smith",
+      "clicks": 12,
+      "impressions": 37,
+      "ctr": 0.32432432432432434,
+      "position": 4.918918918918919
+    },
+    {
+      "query": "autoaccident",
+      "clicks": 11,
+      "impressions": 153,
+      "ctr": 0.0718954248366013,
+      "position": 3.496732026143791
+    },
+    {
+      "query": "baby brezza formula pro advanced",
+      "clicks": 11,
+      "impressions": 387,
+      "ctr": 0.028423772609819122,
+      "position": 4.720930232558139
+    },
+    {
+      "query": "united services automobile association",
+      "clicks": 11,
+      "impressions": 16180,
+      "ctr": 0.0006798516687268232,
+      "position": 7.122064276885043
+    },
+    {
+      "query": "colossus software",
+      "clicks": 10,
+      "impressions": 286,
+      "ctr": 0.03496503496503497,
+      "position": 3.6818181818181817
+    },
+    {
+      "query": "long-term side effects of proton therapy",
+      "clicks": 10,
+      "impressions": 356,
+      "ctr": 0.028089887640449437,
+      "position": 1.598314606741573
+    },
+    {
+      "query": "baby breeza",
+      "clicks": 9,
+      "impressions": 467,
+      "ctr": 0.019271948608137045,
+      "position": 3.601713062098501
+    },
+    {
+      "query": "deposition definition",
+      "clicks": 9,
+      "impressions": 17657,
+      "ctr": 0.000509712861754545,
+      "position": 9.546751996375376
+    },
+    {
+      "query": "ed smith attorney sacramento",
+      "clicks": 9,
+      "impressions": 38,
+      "ctr": 0.23684210526315788,
+      "position": 1.868421052631579
+    },
+    {
+      "query": "dr jerry tennant biomodulator",
+      "clicks": 8,
+      "impressions": 656,
+      "ctr": 0.012195121951219513,
+      "position": 5.7439024390243905
+    },
+    {
+      "query": "biomodulator",
+      "clicks": 7,
+      "impressions": 850,
+      "ctr": 0.00823529411764706,
+      "position": 8.202352941176471
+    },
+    {
+      "query": "car accident lawyer",
+      "clicks": 7,
+      "impressions": 22189,
+      "ctr": 0.00031547163008698004,
+      "position": 10.07084591464239
+    },
+    {
+      "query": "ed smith attorney",
+      "clicks": 7,
+      "impressions": 100,
+      "ctr": 0.07,
+      "position": 7.81
+    },
+    {
+      "query": "edward a smith law offices",
+      "clicks": 7,
+      "impressions": 79,
+      "ctr": 0.08860759493670886,
+      "position": 5.924050632911392
+    },
+    {
+      "query": "femoral head fracture",
+      "clicks": 7,
+      "impressions": 2153,
+      "ctr": 0.003251277287505806,
+      "position": 1.105434277751974
+    },
+    {
+      "query": "if the insurance totals your car can you keep it",
+      "clicks": 7,
+      "impressions": 312,
+      "ctr": 0.022435897435897436,
+      "position": 3.0865384615384617
+    },
+    {
+      "query": "accutane side effects male",
+      "clicks": 6,
+      "impressions": 2475,
+      "ctr": 0.0024242424242424242,
+      "position": 1.006060606060606
+    },
+    {
+      "query": "chp incident reports by date yesterday",
+      "clicks": 6,
+      "impressions": 1210,
+      "ctr": 0.0049586776859504135,
+      "position": 9.331404958677686
+    },
+    {
+      "query": "chp traffic incident",
+      "clicks": 6,
+      "impressions": 1480,
+      "ctr": 0.004054054054054054,
+      "position": 6.560135135135135
+    },
+    {
+      "query": "disadvantages of proton beam therapy",
+      "clicks": 6,
+      "impressions": 1277,
+      "ctr": 0.004698512137823023,
+      "position": 4.097102584181676
+    },
+    {
+      "query": "metformin lawsuit",
+      "clicks": 6,
+      "impressions": 1475,
+      "ctr": 0.004067796610169492,
+      "position": 9.970169491525423
+    },
+    {
+      "query": "sacramento car accident reports",
+      "clicks": 6,
+      "impressions": 342,
+      "ctr": 0.017543859649122806,
+      "position": 8.269005847953217
+    },
+    {
+      "query": "sacramento trauma centers",
+      "clicks": 6,
+      "impressions": 30,
+      "ctr": 0.2,
+      "position": 2.966666666666667
+    },
+    {
+      "query": "colossus insurance software",
+      "clicks": 5,
+      "impressions": 316,
+      "ctr": 0.015822784810126583,
+      "position": 6.468354430379747
+    },
+    {
+      "query": "edward a smith",
+      "clicks": 5,
+      "impressions": 45,
+      "ctr": 0.1111111111111111,
+      "position": 4.266666666666667
+    },
+    {
+      "query": "edward smith attorney",
+      "clicks": 5,
+      "impressions": 108,
+      "ctr": 0.046296296296296294,
+      "position": 8.25
+    },
+    {
+      "query": "med pay",
+      "clicks": 5,
+      "impressions": 1122,
+      "ctr": 0.004456327985739751,
+      "position": 11.878787878787879
+    },
+    {
+      "query": "metlife car insurance",
+      "clicks": 5,
+      "impressions": 1703,
+      "ctr": 0.002935995302407516,
+      "position": 16.86729301233118
+    },
+    {
+      "query": "non injury car accident lawyers near me",
+      "clicks": 5,
+      "impressions": 27,
+      "ctr": 0.18518518518518517,
+      "position": 2.4444444444444446
+    },
+    {
+      "query": "roller coaster accidents",
+      "clicks": 5,
+      "impressions": 404,
+      "ctr": 0.012376237623762377,
+      "position": 9.113861386138614
+    },
+    {
+      "query": "abdominal bruising after car accident",
+      "clicks": 4,
+      "impressions": 39,
+      "ctr": 0.10256410256410256,
+      "position": 4.205128205128205
+    },
+    {
+      "query": "abdominal hematoma",
+      "clicks": 4,
+      "impressions": 259,
+      "ctr": 0.015444015444015444,
+      "position": 20.27027027027027
+    },
+    {
+      "query": "accident lawyer",
+      "clicks": 4,
+      "impressions": 6730,
+      "ctr": 0.0005943536404160475,
+      "position": 29.555274888558692
+    },
+    {
+      "query": "auto accident",
+      "clicks": 4,
+      "impressions": 3291,
+      "ctr": 0.001215436037678517,
+      "position": 26.382558492859314
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://autoaccident.com/baby-brezza-formula-machines/",
+      "clicks": 1047,
+      "impressions": 86495,
+      "ctr": 0.012104745939071623,
+      "position": 3.6985490490779815
+    },
+    {
+      "page": "https://autoaccident.com/can-i-keep-my-car-even-if-its-totaled/",
+      "clicks": 454,
+      "impressions": 67405,
+      "ctr": 0.00673540538535717,
+      "position": 7.729218900675024
+    },
+    {
+      "page": "https://autoaccident.com/",
+      "clicks": 310,
+      "impressions": 666304,
+      "ctr": 0.00046525309768514074,
+      "position": 18.322337851791374
+    },
+    {
+      "page": "https://autoaccident.com/who-is-responsible-for-the-towing-and-storage-bills/",
+      "clicks": 280,
+      "impressions": 50931,
+      "ctr": 0.005497634053916083,
+      "position": 9.207516051127996
+    },
+    {
+      "page": "https://autoaccident.com/sexual-activity-after-spinal-cord-injury/",
+      "clicks": 278,
+      "impressions": 115623,
+      "ctr": 0.0024043659133563392,
+      "position": 4.170718628646549
+    },
+    {
+      "page": "https://autoaccident.com/how-can-i-get-the-most-money-on-my-wrecked-car/",
+      "clicks": 214,
+      "impressions": 64511,
+      "ctr": 0.003317263722465936,
+      "position": 3.727007797119871
+    },
+    {
+      "page": "https://autoaccident.com/chp-report/",
+      "clicks": 178,
+      "impressions": 62219,
+      "ctr": 0.0028608624375190857,
+      "position": 6.862775036564393
+    },
+    {
+      "page": "https://autoaccident.com/team/edward-a-smith/",
+      "clicks": 161,
+      "impressions": 24287,
+      "ctr": 0.006629060814427472,
+      "position": 16.32647095153786
+    },
+    {
+      "page": "https://autoaccident.com/neck-hematomas/",
+      "clicks": 157,
+      "impressions": 28584,
+      "ctr": 0.00549258326336412,
+      "position": 3.5364539602574867
+    },
+    {
+      "page": "https://autoaccident.com/abdominal-hematoma-following-accident/",
+      "clicks": 112,
+      "impressions": 13002,
+      "ctr": 0.008614059375480695,
+      "position": 11.221581295185356
+    },
+    {
+      "page": "https://autoaccident.com/in-a-car-crash-insurance-wont-total-my-car-whats-next/",
+      "clicks": 104,
+      "impressions": 9751,
+      "ctr": 0.010665572761768024,
+      "position": 3.186852630499436
+    },
+    {
+      "page": "https://autoaccident.com/trauma-centers/",
+      "clicks": 101,
+      "impressions": 18003,
+      "ctr": 0.005610176081764151,
+      "position": 16.514136532800087
+    },
+    {
+      "page": "https://autoaccident.com/opioid-use-and-truck-drivers/",
+      "clicks": 97,
+      "impressions": 6504,
+      "ctr": 0.01491389913899139,
+      "position": 6.9012915129151295
+    },
+    {
+      "page": "https://autoaccident.com/traumatic-facial-burn-injuries/",
+      "clicks": 95,
+      "impressions": 35183,
+      "ctr": 0.002700167694625245,
+      "position": 7.034618992126879
+    },
+    {
+      "page": "https://autoaccident.com/medical-payments-medpay-coverage-and-how-it-works/",
+      "clicks": 91,
+      "impressions": 45647,
+      "ctr": 0.001993559270050606,
+      "position": 13.487326658926106
+    },
+    {
+      "page": "https://autoaccident.com/underinsured-motorist-uim-coverage-and-how-it-works/",
+      "clicks": 91,
+      "impressions": 24552,
+      "ctr": 0.003706419028999674,
+      "position": 16.099788204626915
+    },
+    {
+      "page": "https://autoaccident.com/fred-loya-insurance-lowball-offers-bad-faith/",
+      "clicks": 89,
+      "impressions": 35544,
+      "ctr": 0.0025039387801035337,
+      "position": 8.78058181408958
+    },
+    {
+      "page": "https://autoaccident.com/medial-condyle-femur/",
+      "clicks": 89,
+      "impressions": 31787,
+      "ctr": 0.0027998867461540883,
+      "position": 4.608110233743354
+    },
+    {
+      "page": "https://autoaccident.com/statistics-on-intersection-accidents/",
+      "clicks": 88,
+      "impressions": 28242,
+      "ctr": 0.00311592663409107,
+      "position": 4.70526166702075
+    },
+    {
+      "page": "https://autoaccident.com/aaa-csaa-insurance/",
+      "clicks": 87,
+      "impressions": 48191,
+      "ctr": 0.0018053163453756926,
+      "position": 9.916415928285364
+    },
+    {
+      "page": "https://autoaccident.com/trigeminal-neuralgia-and-trauma/",
+      "clicks": 80,
+      "impressions": 6619,
+      "ctr": 0.012086417887898474,
+      "position": 3.2760235685148813
+    },
+    {
+      "page": "https://autoaccident.com/auto-accidents-can-lead-to-esophageal-injuries/",
+      "clicks": 73,
+      "impressions": 5273,
+      "ctr": 0.013844111511473545,
+      "position": 4.310639104873886
+    },
+    {
+      "page": "https://autoaccident.com/dog-bite-injuries-of-the-eye/",
+      "clicks": 66,
+      "impressions": 9075,
+      "ctr": 0.007272727272727273,
+      "position": 4.41366391184573
+    },
+    {
+      "page": "https://autoaccident.com/document-subpoena-for-insurance-adjuster-file/",
+      "clicks": 64,
+      "impressions": 2478,
+      "ctr": 0.0258272800645682,
+      "position": 6.969733656174334
+    },
+    {
+      "page": "https://autoaccident.com/cardiac-contusions/",
+      "clicks": 63,
+      "impressions": 24943,
+      "ctr": 0.0025257587299041817,
+      "position": 5.079300805837309
+    },
+    {
+      "page": "https://autoaccident.com/biomodulator/",
+      "clicks": 61,
+      "impressions": 7916,
+      "ctr": 0.007705912076806468,
+      "position": 7.213617988883274
+    },
+    {
+      "page": "https://autoaccident.com/top-ten-dangerous-roads-in-california/",
+      "clicks": 60,
+      "impressions": 13115,
+      "ctr": 0.004574914220358368,
+      "position": 9.560579489134579
+    },
+    {
+      "page": "https://autoaccident.com/cell-phone-use-while-driving-accident-statistics/",
+      "clicks": 58,
+      "impressions": 17022,
+      "ctr": 0.0034073551874045354,
+      "position": 8.819762660086946
+    },
+    {
+      "page": "https://autoaccident.com/dangers-of-proton-beam-therapy/",
+      "clicks": 57,
+      "impressions": 9001,
+      "ctr": 0.006332629707810243,
+      "position": 7.864570603266304
+    },
+    {
+      "page": "https://autoaccident.com/types-of-traumatic-brain-injuries-in-motorcycle-accidents/",
+      "clicks": 56,
+      "impressions": 8677,
+      "ctr": 0.0064538434942952635,
+      "position": 6.97683531174369
+    },
+    {
+      "page": "https://autoaccident.com/six-flags-accidents-and-injuries/",
+      "clicks": 54,
+      "impressions": 8783,
+      "ctr": 0.006148240919959012,
+      "position": 4.496868951383354
+    },
+    {
+      "page": "https://autoaccident.com/kemper-insurance/",
+      "clicks": 51,
+      "impressions": 45536,
+      "ctr": 0.0011199929725931132,
+      "position": 7.960273190442726
+    },
+    {
+      "page": "https://autoaccident.com/what-is-colossus/",
+      "clicks": 47,
+      "impressions": 5376,
+      "ctr": 0.008742559523809524,
+      "position": 7.328497023809524
+    },
+    {
+      "page": "https://autoaccident.com/colon-and-rectal-trauma/",
+      "clicks": 45,
+      "impressions": 6177,
+      "ctr": 0.007285089849441476,
+      "position": 4.323457989315202
+    },
+    {
+      "page": "https://autoaccident.com/dangers-of-road-shoulder-drop-off/",
+      "clicks": 45,
+      "impressions": 37418,
+      "ctr": 0.001202629750387514,
+      "position": 5.447886044149874
+    },
+    {
+      "page": "https://autoaccident.com/total-loss-on-cars-with-payments/",
+      "clicks": 45,
+      "impressions": 18856,
+      "ctr": 0.0023865082732286804,
+      "position": 11.901410691557064
+    },
+    {
+      "page": "https://autoaccident.com/proper-venue-for-a-personal-injury-lawsuit-in-california/",
+      "clicks": 44,
+      "impressions": 8190,
+      "ctr": 0.005372405372405372,
+      "position": 7.611111111111111
+    },
+    {
+      "page": "https://autoaccident.com/reiki/",
+      "clicks": 42,
+      "impressions": 3805,
+      "ctr": 0.011038107752956636,
+      "position": 4.695137976346912
+    },
+    {
+      "page": "https://autoaccident.com/basic-california-law-on-intersections/",
+      "clicks": 41,
+      "impressions": 27237,
+      "ctr": 0.0015053052832543967,
+      "position": 6.969820464808899
+    },
+    {
+      "page": "https://autoaccident.com/femur-fracture-statistics/",
+      "clicks": 41,
+      "impressions": 8472,
+      "ctr": 0.00483947119924457,
+      "position": 4.803824362606232
+    },
+    {
+      "page": "https://autoaccident.com/pediatric-elbow-injuries/",
+      "clicks": 41,
+      "impressions": 5852,
+      "ctr": 0.007006151742993848,
+      "position": 9.022727272727273
+    },
+    {
+      "page": "https://autoaccident.com/dog-attack-discovery-requests-for-production-of-documents/",
+      "clicks": 40,
+      "impressions": 768,
+      "ctr": 0.052083333333333336,
+      "position": 5.919270833333333
+    },
+    {
+      "page": "https://autoaccident.com/do-i-decide-whether-my-car-is-to-be-repaired-or-replaced/",
+      "clicks": 37,
+      "impressions": 15047,
+      "ctr": 0.0024589619193194656,
+      "position": 4.504153651890743
+    },
+    {
+      "page": "https://autoaccident.com/kidney-failure-in-burn-victims/",
+      "clicks": 36,
+      "impressions": 9911,
+      "ctr": 0.0036323277166784382,
+      "position": 5.998991020078701
+    },
+    {
+      "page": "https://autoaccident.com/motor-vehicle-accidents-may-aggravate-ankylosing-spondylitis/",
+      "clicks": 36,
+      "impressions": 3100,
+      "ctr": 0.011612903225806452,
+      "position": 6.115806451612904
+    },
+    {
+      "page": "https://autoaccident.com/concord-motorcycle-accident-attorney/",
+      "clicks": 34,
+      "impressions": 4338,
+      "ctr": 0.007837713231904103,
+      "position": 20.101429230059935
+    },
+    {
+      "page": "https://autoaccident.com/hot-air-balloon-accidents/",
+      "clicks": 34,
+      "impressions": 17210,
+      "ctr": 0.0019755955839628123,
+      "position": 5.604764671702498
+    },
+    {
+      "page": "https://autoaccident.com/medpay-reimbursement/",
+      "clicks": 34,
+      "impressions": 4297,
+      "ctr": 0.007912497090993717,
+      "position": 5.636257854316965
+    },
+    {
+      "page": "https://autoaccident.com/personal-injury-damages-what-youre-able-to-recover/",
+      "clicks": 34,
+      "impressions": 214,
+      "ctr": 0.1588785046728972,
+      "position": 11.266355140186915
+    },
+    {
+      "page": "https://autoaccident.com/femur-fracture-of-bone-head/",
+      "clicks": 33,
+      "impressions": 10218,
+      "ctr": 0.0032295948326482677,
+      "position": 2.610393423370523
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:06:20.920Z"
+}

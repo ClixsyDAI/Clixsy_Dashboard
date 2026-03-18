@@ -1,0 +1,1350 @@
+{
+  "property": "sc-domain:maverickelectricalservices.com",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 4038,
+    "impressions": 5473644,
+    "ctr": 0.0007377169578438057,
+    "position": 10.275202293360875
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 21,
+      "impressions": 8098,
+      "ctr": 0.002593232897011608,
+      "position": 16.73005680414917
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 20,
+      "impressions": 7428,
+      "ctr": 0.0026925148088314485,
+      "position": 13.170301561658588
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 37,
+      "impressions": 7631,
+      "ctr": 0.004848643690210982,
+      "position": 11.998427466911282
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 23,
+      "impressions": 8189,
+      "ctr": 0.002808645744291122,
+      "position": 12.593479057271951
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 33,
+      "impressions": 8463,
+      "ctr": 0.0038993264799716413,
+      "position": 13.229823939501358
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 19,
+      "impressions": 18543,
+      "ctr": 0.001024645418756404,
+      "position": 18.29617645472685
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 23,
+      "impressions": 11025,
+      "ctr": 0.0020861678004535146,
+      "position": 10.215328798185942
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 30,
+      "impressions": 9011,
+      "ctr": 0.003329264232604594,
+      "position": 14.616912662301631
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 22,
+      "impressions": 7770,
+      "ctr": 0.0028314028314028314,
+      "position": 14.194208494208494
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 15,
+      "impressions": 7188,
+      "ctr": 0.002086811352253756,
+      "position": 16.968976071229825
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 13,
+      "impressions": 6964,
+      "ctr": 0.0018667432510051695,
+      "position": 16.356691556576678
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 28,
+      "impressions": 7870,
+      "ctr": 0.0035578144853875477,
+      "position": 14.470902160101652
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 23,
+      "impressions": 7654,
+      "ctr": 0.003004964724327149,
+      "position": 11.681865691141887
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 31,
+      "impressions": 9056,
+      "ctr": 0.0034231448763250884,
+      "position": 12.520428445229681
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 31,
+      "impressions": 10134,
+      "ctr": 0.0030590092757055458,
+      "position": 14.319913163607657
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 30,
+      "impressions": 8685,
+      "ctr": 0.0034542314335060447,
+      "position": 12.398733448474381
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 23,
+      "impressions": 8488,
+      "ctr": 0.002709707822808671,
+      "position": 13.988689915174364
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 30,
+      "impressions": 10009,
+      "ctr": 0.0029973024278149665,
+      "position": 13.535218303526825
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 24,
+      "impressions": 8059,
+      "ctr": 0.002978036977292468,
+      "position": 11.439136369276586
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 19,
+      "impressions": 6947,
+      "ctr": 0.0027349935223837628,
+      "position": 12.769684756009788
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 21,
+      "impressions": 8225,
+      "ctr": 0.002553191489361702,
+      "position": 14.570455927051672
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 30,
+      "impressions": 9028,
+      "ctr": 0.003322995126273815,
+      "position": 15.97840053167922
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 27,
+      "impressions": 7366,
+      "ctr": 0.003665490089600869,
+      "position": 13.522128699429812
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 32,
+      "impressions": 8357,
+      "ctr": 0.0038291252841928924,
+      "position": 15.129711619002034
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 25,
+      "impressions": 9866,
+      "ctr": 0.002533954996959254,
+      "position": 20.209406040948714
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 38,
+      "impressions": 9829,
+      "ctr": 0.003866110489368196,
+      "position": 16.090039678502393
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 35,
+      "impressions": 21599,
+      "ctr": 0.0016204453909903235,
+      "position": 11.345571554238623
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 53,
+      "impressions": 27756,
+      "ctr": 0.0019094970456838161,
+      "position": 11.100194552529183
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 42,
+      "impressions": 25789,
+      "ctr": 0.0016286013416572957,
+      "position": 12.365582224979642
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 35,
+      "impressions": 27260,
+      "ctr": 0.0012839325018341892,
+      "position": 10.897615553925165
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 42,
+      "impressions": 32941,
+      "ctr": 0.0012750068303937342,
+      "position": 10.098995173188428
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 31,
+      "impressions": 24918,
+      "ctr": 0.0012440805843165583,
+      "position": 10.97925194638414
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 37,
+      "impressions": 22029,
+      "ctr": 0.001679604158155159,
+      "position": 10.959689500204275
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 32,
+      "impressions": 22167,
+      "ctr": 0.001443587314476474,
+      "position": 10.59227680786755
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 32,
+      "impressions": 21560,
+      "ctr": 0.001484230055658627,
+      "position": 10.656586270871985
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 32,
+      "impressions": 25690,
+      "ctr": 0.0012456208641494744,
+      "position": 10.717321915142078
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 60,
+      "impressions": 37599,
+      "ctr": 0.0015957871219979254,
+      "position": 7.475704141067582
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 112,
+      "impressions": 48191,
+      "ctr": 0.0023240854101388227,
+      "position": 6.948558859538088
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 116,
+      "impressions": 53591,
+      "ctr": 0.0021645425537870164,
+      "position": 7.35358549010095
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 127,
+      "impressions": 59142,
+      "ctr": 0.0021473741165330897,
+      "position": 5.898836698116398
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 120,
+      "impressions": 52070,
+      "ctr": 0.0023045899750336087,
+      "position": 6.261916650662569
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 119,
+      "impressions": 50063,
+      "ctr": 0.002377004973733096,
+      "position": 6.0862513233326005
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 82,
+      "impressions": 36298,
+      "ctr": 0.0022590776351314123,
+      "position": 8.70243539588958
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 68,
+      "impressions": 35551,
+      "ctr": 0.001912745070462153,
+      "position": 7.879497060560884
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 69,
+      "impressions": 38593,
+      "ctr": 0.001787888995413676,
+      "position": 8.820537403156013
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 53,
+      "impressions": 39057,
+      "ctr": 0.0013569910643418594,
+      "position": 9.092403410400184
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 74,
+      "impressions": 35760,
+      "ctr": 0.002069351230425056,
+      "position": 9.348266219239374
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 58,
+      "impressions": 38191,
+      "ctr": 0.0015186824120866174,
+      "position": 8.783901966431882
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 44,
+      "impressions": 46613,
+      "ctr": 0.0009439426769356188,
+      "position": 9.274622959260292
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 63,
+      "impressions": 65556,
+      "ctr": 0.0009610104338275673,
+      "position": 8.834309597901031
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 72,
+      "impressions": 45009,
+      "ctr": 0.0015996800639872025,
+      "position": 8.314292697016153
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 55,
+      "impressions": 40229,
+      "ctr": 0.001367172934947426,
+      "position": 8.906137363593427
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 58,
+      "impressions": 42021,
+      "ctr": 0.0013802622498274672,
+      "position": 10.554913019680637
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 34,
+      "impressions": 61748,
+      "ctr": 0.0005506251214614238,
+      "position": 8.916855606659325
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 51,
+      "impressions": 103077,
+      "ctr": 0.0004947757501673506,
+      "position": 8.590102544699594
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 32,
+      "impressions": 118635,
+      "ctr": 0.0002697349011674464,
+      "position": 8.918110169848696
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 40,
+      "impressions": 187440,
+      "ctr": 0.0002134016218523261,
+      "position": 9.154022620571917
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 38,
+      "impressions": 210200,
+      "ctr": 0.0001807802093244529,
+      "position": 8.538501427212179
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 38,
+      "impressions": 240065,
+      "ctr": 0.00015829046299960426,
+      "position": 7.520950575885697
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 50,
+      "impressions": 149510,
+      "ctr": 0.00033442579091699554,
+      "position": 8.363688047622233
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 57,
+      "impressions": 173691,
+      "ctr": 0.0003281689897576731,
+      "position": 7.5189733492236215
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 59,
+      "impressions": 277563,
+      "ctr": 0.00021256435475909975,
+      "position": 7.282944772898405
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 55,
+      "impressions": 320780,
+      "ctr": 0.0001714570733836274,
+      "position": 7.142836211733899
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 83,
+      "impressions": 342710,
+      "ctr": 0.0002421872720375828,
+      "position": 7.731110851740539
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 60,
+      "impressions": 250868,
+      "ctr": 0.0002391696031379052,
+      "position": 8.538817226589282
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 35,
+      "impressions": 157245,
+      "ctr": 0.00022258259404114598,
+      "position": 7.92800407008172
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 54,
+      "impressions": 90987,
+      "ctr": 0.000593491377889149,
+      "position": 8.728785430885731
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 52,
+      "impressions": 132262,
+      "ctr": 0.00039315903282877927,
+      "position": 7.150277479548169
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 52,
+      "impressions": 176291,
+      "ctr": 0.00029496684459217996,
+      "position": 7.867412403355815
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 48,
+      "impressions": 150783,
+      "ctr": 0.00031833827420863094,
+      "position": 5.994780578712454
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 68,
+      "impressions": 153767,
+      "ctr": 0.00044222752606215896,
+      "position": 5.378520748925322
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 41,
+      "impressions": 192016,
+      "ctr": 0.00021352387301058244,
+      "position": 6.094184859595034
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 37,
+      "impressions": 195107,
+      "ctr": 0.00018963953112907276,
+      "position": 7.770982076501612
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 43,
+      "impressions": 144732,
+      "ctr": 0.0002971008484647486,
+      "position": 8.908562031893432
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 40,
+      "impressions": 96779,
+      "ctr": 0.0004133128054639953,
+      "position": 6.725208981287262
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 41,
+      "impressions": 24352,
+      "ctr": 0.0016836399474375822,
+      "position": 8.806381406044679
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 38,
+      "impressions": 19468,
+      "ctr": 0.001951921101294432,
+      "position": 11.540117115266078
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 39,
+      "impressions": 23433,
+      "ctr": 0.001664319549353476,
+      "position": 14.956343617974651
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 60,
+      "impressions": 33722,
+      "ctr": 0.0017792538995314632,
+      "position": 8.25440365340134
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 40,
+      "impressions": 18170,
+      "ctr": 0.002201430930104568,
+      "position": 9.965657677490368
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 46,
+      "impressions": 24929,
+      "ctr": 0.0018452404829716394,
+      "position": 7.71503068715151
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 26,
+      "impressions": 19265,
+      "ctr": 0.0013495977160654035,
+      "position": 5.975603425901895
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 25,
+      "impressions": 15590,
+      "ctr": 0.001603592046183451,
+      "position": 6.7311738293778065
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 40,
+      "impressions": 12181,
+      "ctr": 0.003283802643461128,
+      "position": 7.960922748542813
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 24,
+      "impressions": 13362,
+      "ctr": 0.001796138302649304,
+      "position": 11.350321808112557
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 43,
+      "impressions": 15851,
+      "ctr": 0.0027127626017285976,
+      "position": 8.329379849851744
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 56,
+      "impressions": 22448,
+      "ctr": 0.0024946543121881683,
+      "position": 8.390368852459016
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 30,
+      "impressions": 11823,
+      "ctr": 0.002537427048972342,
+      "position": 8.40649581324537
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 33,
+      "impressions": 22534,
+      "ctr": 0.0014644537143871483,
+      "position": 8.331987219313039
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 41,
+      "impressions": 25134,
+      "ctr": 0.0016312564653457467,
+      "position": 8.046033261717195
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "maverick heating and air",
+      "clicks": 99,
+      "impressions": 526,
+      "ctr": 0.188212927756654,
+      "position": 2.498098859315589
+    },
+    {
+      "query": "lights flickering in house",
+      "clicks": 83,
+      "impressions": 13726,
+      "ctr": 0.0060469182573218705,
+      "position": 4.361430861139443
+    },
+    {
+      "query": "maverick electric",
+      "clicks": 81,
+      "impressions": 938,
+      "ctr": 0.08635394456289978,
+      "position": 5.651385927505331
+    },
+    {
+      "query": "maverick electric heating and air",
+      "clicks": 79,
+      "impressions": 380,
+      "ctr": 0.20789473684210527,
+      "position": 1.6894736842105265
+    },
+    {
+      "query": "maverick electrical services",
+      "clicks": 57,
+      "impressions": 288,
+      "ctr": 0.19791666666666666,
+      "position": 2.6215277777777777
+    },
+    {
+      "query": "maverick electric plumbing heating and air",
+      "clicks": 29,
+      "impressions": 123,
+      "ctr": 0.23577235772357724,
+      "position": 3.292682926829268
+    },
+    {
+      "query": "maverick electric, heating and air",
+      "clicks": 27,
+      "impressions": 491,
+      "ctr": 0.054989816700611,
+      "position": 1.2566191446028514
+    },
+    {
+      "query": "multiple lights flickering in house",
+      "clicks": 27,
+      "impressions": 4011,
+      "ctr": 0.006731488406881077,
+      "position": 5.1742707554225875
+    },
+    {
+      "query": "maverick electric, plumbing, heating and air",
+      "clicks": 25,
+      "impressions": 137,
+      "ctr": 0.18248175182481752,
+      "position": 2.021897810218978
+    },
+    {
+      "query": "flickering lights in house",
+      "clicks": 24,
+      "impressions": 4768,
+      "ctr": 0.0050335570469798654,
+      "position": 4.028313758389261
+    },
+    {
+      "query": "what size generator to run a house",
+      "clicks": 21,
+      "impressions": 5628,
+      "ctr": 0.0037313432835820895,
+      "position": 2.2199715707178393
+    },
+    {
+      "query": "maverick hvac",
+      "clicks": 18,
+      "impressions": 179,
+      "ctr": 0.1005586592178771,
+      "position": 6.905027932960894
+    },
+    {
+      "query": "maverick electrical",
+      "clicks": 17,
+      "impressions": 256,
+      "ctr": 0.06640625,
+      "position": 6.77734375
+    },
+    {
+      "query": "how many watt generator to run a house",
+      "clicks": 16,
+      "impressions": 4676,
+      "ctr": 0.003421727972626176,
+      "position": 7.156757912745936
+    },
+    {
+      "query": "whole house generator",
+      "clicks": 16,
+      "impressions": 4417,
+      "ctr": 0.003622368123160516,
+      "position": 1.0233189947928458
+    },
+    {
+      "query": "generator",
+      "clicks": 13,
+      "impressions": 6919,
+      "ctr": 0.0018788842318254082,
+      "position": 1.7756901286313052
+    },
+    {
+      "query": "what size generator will run a house",
+      "clicks": 13,
+      "impressions": 1227,
+      "ctr": 0.010594947025264874,
+      "position": 2.60880195599022
+    },
+    {
+      "query": "why are my lights flickering in my house",
+      "clicks": 13,
+      "impressions": 2592,
+      "ctr": 0.005015432098765432,
+      "position": 2.590663580246914
+    },
+    {
+      "query": "light flickering in house",
+      "clicks": 11,
+      "impressions": 1280,
+      "ctr": 0.00859375,
+      "position": 4.30390625
+    },
+    {
+      "query": "flickering lights",
+      "clicks": 10,
+      "impressions": 4679,
+      "ctr": 0.0021372088053002777,
+      "position": 6.216712972857448
+    },
+    {
+      "query": "what causes lights to flicker in a house",
+      "clicks": 10,
+      "impressions": 1166,
+      "ctr": 0.008576329331046312,
+      "position": 2.3627787307032593
+    },
+    {
+      "query": "what size generator do i need",
+      "clicks": 10,
+      "impressions": 4409,
+      "ctr": 0.0022680880018144706,
+      "position": 5.437967793150374
+    },
+    {
+      "query": "8000 watt generator will run what",
+      "clicks": 9,
+      "impressions": 337,
+      "ctr": 0.026706231454005934,
+      "position": 6.605341246290801
+    },
+    {
+      "query": "electrician near me",
+      "clicks": 8,
+      "impressions": 1962,
+      "ctr": 0.004077471967380225,
+      "position": 13.32059123343527
+    },
+    {
+      "query": "how to replace light switch",
+      "clicks": 8,
+      "impressions": 1063,
+      "ctr": 0.007525870178739417,
+      "position": 9.116650987770461
+    },
+    {
+      "query": "what causes flickering lights",
+      "clicks": 8,
+      "impressions": 645,
+      "ctr": 0.012403100775193798,
+      "position": 3.0790697674418603
+    },
+    {
+      "query": "what will a 10000 watt generator run",
+      "clicks": 8,
+      "impressions": 535,
+      "ctr": 0.014953271028037384,
+      "position": 1.6056074766355142
+    },
+    {
+      "query": "house lights flickering",
+      "clicks": 7,
+      "impressions": 1258,
+      "ctr": 0.005564387917329093,
+      "position": 4.332273449920509
+    },
+    {
+      "query": "what causes flickering lights in a house",
+      "clicks": 7,
+      "impressions": 313,
+      "ctr": 0.022364217252396165,
+      "position": 3.246006389776358
+    },
+    {
+      "query": "why are the lights in my house flickering all of a sudden",
+      "clicks": 7,
+      "impressions": 296,
+      "ctr": 0.02364864864864865,
+      "position": 2.4695945945945947
+    },
+    {
+      "query": "8000 watt generator",
+      "clicks": 6,
+      "impressions": 1729,
+      "ctr": 0.003470213996529786,
+      "position": 1.1879699248120301
+    },
+    {
+      "query": "generators",
+      "clicks": 6,
+      "impressions": 916,
+      "ctr": 0.006550218340611353,
+      "position": 2.212882096069869
+    },
+    {
+      "query": "groupe électrogène",
+      "clicks": 6,
+      "impressions": 147,
+      "ctr": 0.04081632653061224,
+      "position": 4.4557823129251695
+    },
+    {
+      "query": "why are my lights flickering",
+      "clicks": 6,
+      "impressions": 5440,
+      "ctr": 0.0011029411764705882,
+      "position": 5.445404411764706
+    },
+    {
+      "query": "why do my lights flicker in my house",
+      "clicks": 6,
+      "impressions": 1373,
+      "ctr": 0.004369992716678805,
+      "position": 1.928623452294246
+    },
+    {
+      "query": "how much will a 10000 watt generator run",
+      "clicks": 5,
+      "impressions": 194,
+      "ctr": 0.02577319587628866,
+      "position": 6.809278350515464
+    },
+    {
+      "query": "lights flickering",
+      "clicks": 5,
+      "impressions": 2803,
+      "ctr": 0.0017838030681412772,
+      "position": 5.408490902604353
+    },
+    {
+      "query": "lights flickering in one room",
+      "clicks": 5,
+      "impressions": 674,
+      "ctr": 0.00741839762611276,
+      "position": 3.7611275964391693
+    },
+    {
+      "query": "lights flickering throughout house",
+      "clicks": 5,
+      "impressions": 792,
+      "ctr": 0.006313131313131313,
+      "position": 3.4835858585858586
+    },
+    {
+      "query": "lights in house flickering",
+      "clicks": 5,
+      "impressions": 1017,
+      "ctr": 0.004916420845624385,
+      "position": 2.580137659783677
+    },
+    {
+      "query": "maverick heating and cooling",
+      "clicks": 5,
+      "impressions": 242,
+      "ctr": 0.02066115702479339,
+      "position": 9.454545454545455
+    },
+    {
+      "query": "mavericks roseville",
+      "clicks": 5,
+      "impressions": 73,
+      "ctr": 0.0684931506849315,
+      "position": 2
+    },
+    {
+      "query": "what causes lights to flicker",
+      "clicks": 5,
+      "impressions": 1735,
+      "ctr": 0.002881844380403458,
+      "position": 3.0835734870317
+    },
+    {
+      "query": "why do lights flicker in my house",
+      "clicks": 5,
+      "impressions": 753,
+      "ctr": 0.006640106241699867,
+      "position": 2.136786188579017
+    },
+    {
+      "query": "will a 10000 watt generator run a house",
+      "clicks": 5,
+      "impressions": 438,
+      "ctr": 0.01141552511415525,
+      "position": 3.143835616438356
+    },
+    {
+      "query": "all lights in house flickering",
+      "clicks": 4,
+      "impressions": 768,
+      "ctr": 0.005208333333333333,
+      "position": 4.483072916666666
+    },
+    {
+      "query": "groupe électrogène 10000w",
+      "clicks": 4,
+      "impressions": 86,
+      "ctr": 0.046511627906976744,
+      "position": 3.5
+    },
+    {
+      "query": "groupe électrogène pour maison 5000w",
+      "clicks": 4,
+      "impressions": 100,
+      "ctr": 0.04,
+      "position": 2.33
+    },
+    {
+      "query": "house lights flickering causes",
+      "clicks": 4,
+      "impressions": 374,
+      "ctr": 0.0106951871657754,
+      "position": 3.9545454545454546
+    },
+    {
+      "query": "how big a generator to run a house",
+      "clicks": 4,
+      "impressions": 571,
+      "ctr": 0.0070052539404553416,
+      "position": 2.0735551663747813
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://maverickelectricalservices.com/what-causes-flickering-lights-in-your-home/",
+      "clicks": 1497,
+      "impressions": 1525541,
+      "ctr": 0.0009812912271777684,
+      "position": 5.439456560000682
+    },
+    {
+      "page": "https://maverickelectricalservices.com/what-size-generator-do-i-need/",
+      "clicks": 1250,
+      "impressions": 368699,
+      "ctr": 0.0033902994041209765,
+      "position": 3.1091133960222295
+    },
+    {
+      "page": "https://maverickelectricalservices.com/",
+      "clicks": 310,
+      "impressions": 7696,
+      "ctr": 0.04028066528066528,
+      "position": 8.66995841995842
+    },
+    {
+      "page": "https://maverickelectricalservices.com/about-us-2/roseville-ca/?utm_source=google&utm_medium=gmb&utm_campaign=GoogleBusinessProfile",
+      "clicks": 243,
+      "impressions": 15090,
+      "ctr": 0.01610337972166998,
+      "position": 5.282239893969516
+    },
+    {
+      "page": "https://maverickelectricalservices.com/about-us/roseville-ca/?utm_source=google&utm_medium=gmb&utm_campaign=GoogleBusinessProfile",
+      "clicks": 92,
+      "impressions": 11850,
+      "ctr": 0.007763713080168776,
+      "position": 4.619493670886076
+    },
+    {
+      "page": "https://maverickelectricalservices.com/how-to-clean-ac-coils/",
+      "clicks": 66,
+      "impressions": 24956,
+      "ctr": 0.0026446545920820646,
+      "position": 7.781575573008495
+    },
+    {
+      "page": "https://maverickelectricalservices.com/about-us-2/",
+      "clicks": 38,
+      "impressions": 4279,
+      "ctr": 0.008880579574666978,
+      "position": 7.160084131806497
+    },
+    {
+      "page": "https://maverickelectricalservices.com/how-to-replace-light-switch/",
+      "clicks": 32,
+      "impressions": 3081727,
+      "ctr": 0.00001038378805131019,
+      "position": 8.236827272500127
+    },
+    {
+      "page": "https://maverickelectricalservices.com/careers/",
+      "clicks": 30,
+      "impressions": 1003,
+      "ctr": 0.02991026919242273,
+      "position": 7.931206380857428
+    },
+    {
+      "page": "https://maverickelectricalservices.com/how-do-i-know-if-my-ac-needs-freon/",
+      "clicks": 29,
+      "impressions": 14348,
+      "ctr": 0.0020211876219682185,
+      "position": 4.122943964315584
+    },
+    {
+      "page": "https://maverickelectricalservices.com/furnace-service-frequency/",
+      "clicks": 28,
+      "impressions": 19102,
+      "ctr": 0.0014658150978955084,
+      "position": 13.284054025756465
+    },
+    {
+      "page": "https://maverickelectricalservices.com/contact-us/",
+      "clicks": 27,
+      "impressions": 3543,
+      "ctr": 0.007620660457239628,
+      "position": 8.63053909116568
+    },
+    {
+      "page": "https://maverickelectricalservices.com/about-us/",
+      "clicks": 26,
+      "impressions": 3409,
+      "ctr": 0.007626870049867997,
+      "position": 5.762393663831036
+    },
+    {
+      "page": "https://maverickelectricalservices.com/ductless-mini-split-repair-when-to-repair-replace-and-why-professional-service-matters/",
+      "clicks": 24,
+      "impressions": 12892,
+      "ctr": 0.001861619609059882,
+      "position": 9.743174061433447
+    },
+    {
+      "page": "https://maverickelectricalservices.com/what-should-i-do-if-blown-fuse/",
+      "clicks": 24,
+      "impressions": 5363,
+      "ctr": 0.004475107216110386,
+      "position": 10.877866865560321
+    },
+    {
+      "page": "https://maverickelectricalservices.com/trustworthy-electrician-how-to-verify-credentials/",
+      "clicks": 23,
+      "impressions": 7989,
+      "ctr": 0.002878958568031043,
+      "position": 5.563149330329202
+    },
+    {
+      "page": "https://maverickelectricalservices.com/contact/",
+      "clicks": 17,
+      "impressions": 2474,
+      "ctr": 0.0068714632174616,
+      "position": 14.022635408245756
+    },
+    {
+      "page": "https://maverickelectricalservices.com/sacramento-electrician/",
+      "clicks": 17,
+      "impressions": 12197,
+      "ctr": 0.0013937853570550136,
+      "position": 23.441747970812497
+    },
+    {
+      "page": "https://maverickelectricalservices.com/electrical-permits-explained-when-you-need-one-and-what-happens-if-you-skip-it/",
+      "clicks": 16,
+      "impressions": 2361,
+      "ctr": 0.006776789495976281,
+      "position": 6.0952986022871665
+    },
+    {
+      "page": "https://maverickelectricalservices.com/sacramento-ca/",
+      "clicks": 14,
+      "impressions": 4868,
+      "ctr": 0.002875924404272802,
+      "position": 29.264379622021362
+    },
+    {
+      "page": "https://maverickelectricalservices.com/lincoln-ca/",
+      "clicks": 12,
+      "impressions": 5194,
+      "ctr": 0.0023103581055063534,
+      "position": 15.390065460146323
+    },
+    {
+      "page": "https://maverickelectricalservices.com/guide-to-measuring-power/",
+      "clicks": 11,
+      "impressions": 24566,
+      "ctr": 0.00044777334527395585,
+      "position": 8.39440690385085
+    },
+    {
+      "page": "https://maverickelectricalservices.com/roseville-electric-services/",
+      "clicks": 10,
+      "impressions": 6328,
+      "ctr": 0.0015802781289506952,
+      "position": 13.65960809102402
+    },
+    {
+      "page": "https://maverickelectricalservices.com/ac-installation-time-span/",
+      "clicks": 8,
+      "impressions": 13416,
+      "ctr": 0.0005963029218843172,
+      "position": 25.481067382230172
+    },
+    {
+      "page": "https://maverickelectricalservices.com/ev-charger-installation/",
+      "clicks": 8,
+      "impressions": 4498,
+      "ctr": 0.0017785682525566918,
+      "position": 30.792796798577147
+    },
+    {
+      "page": "https://maverickelectricalservices.com/plumbing/sewer-lines/",
+      "clicks": 8,
+      "impressions": 7466,
+      "ctr": 0.0010715242432360033,
+      "position": 26.046611304580765
+    },
+    {
+      "page": "https://maverickelectricalservices.com/rancho-cordova-ca/",
+      "clicks": 8,
+      "impressions": 13872,
+      "ctr": 0.0005767012687427913,
+      "position": 23.646698385236448
+    },
+    {
+      "page": "https://maverickelectricalservices.com/financing/",
+      "clicks": 7,
+      "impressions": 1448,
+      "ctr": 0.004834254143646409,
+      "position": 6.661602209944752
+    },
+    {
+      "page": "https://maverickelectricalservices.com/west-sacramento-ca/",
+      "clicks": 7,
+      "impressions": 5784,
+      "ctr": 0.0012102351313969572,
+      "position": 11.576417704011066
+    },
+    {
+      "page": "https://maverickelectricalservices.com/wingman/",
+      "clicks": 7,
+      "impressions": 1167,
+      "ctr": 0.005998286203941731,
+      "position": 10.873179091688089
+    },
+    {
+      "page": "https://maverickelectricalservices.com/electrical-or-mechanical-ac-issue/",
+      "clicks": 6,
+      "impressions": 2414,
+      "ctr": 0.0024855012427506215,
+      "position": 3.540182270091135
+    },
+    {
+      "page": "https://maverickelectricalservices.com/attic-insulation/",
+      "clicks": 5,
+      "impressions": 1971,
+      "ctr": 0.0025367833587011668,
+      "position": 10.701166920345003
+    },
+    {
+      "page": "https://maverickelectricalservices.com/electrical/",
+      "clicks": 5,
+      "impressions": 3577,
+      "ctr": 0.0013978194017332962,
+      "position": 7.713167458764327
+    },
+    {
+      "page": "https://maverickelectricalservices.com/electrical/electrical-inspections/",
+      "clicks": 5,
+      "impressions": 2306,
+      "ctr": 0.002168256721595837,
+      "position": 33.941890719861235
+    },
+    {
+      "page": "https://maverickelectricalservices.com/plumbing/",
+      "clicks": 5,
+      "impressions": 3867,
+      "ctr": 0.0012929919834497026,
+      "position": 17.660977501939488
+    },
+    {
+      "page": "https://maverickelectricalservices.com/understanding-the-causes-of-ac-failures/",
+      "clicks": 5,
+      "impressions": 750,
+      "ctr": 0.006666666666666667,
+      "position": 7.334666666666666
+    },
+    {
+      "page": "https://maverickelectricalservices.com/about-us-2/fair-oaks-ca/electrician/",
+      "clicks": 4,
+      "impressions": 520,
+      "ctr": 0.007692307692307693,
+      "position": 14.798076923076923
+    },
+    {
+      "page": "https://maverickelectricalservices.com/cooling/ductless-mini-split-install-replacement/",
+      "clicks": 4,
+      "impressions": 3564,
+      "ctr": 0.001122334455667789,
+      "position": 29.1307519640853
+    },
+    {
+      "page": "https://maverickelectricalservices.com/electrical/electrical-home-security-systems/",
+      "clicks": 4,
+      "impressions": 722,
+      "ctr": 0.00554016620498615,
+      "position": 18.22714681440443
+    },
+    {
+      "page": "https://maverickelectricalservices.com/hvac-and-electrical-services-in-contra-costa-county-ca/",
+      "clicks": 4,
+      "impressions": 1615,
+      "ctr": 0.002476780185758514,
+      "position": 23.33065015479876
+    },
+    {
+      "page": "https://maverickelectricalservices.com/hvac-services/",
+      "clicks": 4,
+      "impressions": 1332,
+      "ctr": 0.003003003003003003,
+      "position": 28.98273273273273
+    },
+    {
+      "page": "https://maverickelectricalservices.com/plumbing/commercial-plumbing/",
+      "clicks": 4,
+      "impressions": 10251,
+      "ctr": 0.000390205833577212,
+      "position": 26.296166227685102
+    },
+    {
+      "page": "https://maverickelectricalservices.com/plumbing/hydro-jetting/",
+      "clicks": 4,
+      "impressions": 16348,
+      "ctr": 0.00024467824810374357,
+      "position": 14.292696354294103
+    },
+    {
+      "page": "https://maverickelectricalservices.com/plumbing/sump-pumps/",
+      "clicks": 4,
+      "impressions": 2274,
+      "ctr": 0.001759014951627089,
+      "position": 21.154793315743184
+    },
+    {
+      "page": "https://maverickelectricalservices.com/smart-home-services/",
+      "clicks": 4,
+      "impressions": 1319,
+      "ctr": 0.003032600454890068,
+      "position": 34.090978013646705
+    },
+    {
+      "page": "https://maverickelectricalservices.com/about-us-2/auburn-ca/",
+      "clicks": 3,
+      "impressions": 2111,
+      "ctr": 0.0014211274277593558,
+      "position": 19.534817621980103
+    },
+    {
+      "page": "https://maverickelectricalservices.com/about-us-2/citrus-heights-ca/",
+      "clicks": 3,
+      "impressions": 8177,
+      "ctr": 0.0003668827198238963,
+      "position": 18.703069585422526
+    },
+    {
+      "page": "https://maverickelectricalservices.com/about-us-2/roseville-ca/",
+      "clicks": 3,
+      "impressions": 916,
+      "ctr": 0.0032751091703056767,
+      "position": 22.573144104803493
+    },
+    {
+      "page": "https://maverickelectricalservices.com/about-us/roseville-ca/",
+      "clicks": 3,
+      "impressions": 890,
+      "ctr": 0.0033707865168539327,
+      "position": 22.95056179775281
+    },
+    {
+      "page": "https://maverickelectricalservices.com/cooling/ac-tune-up/",
+      "clicks": 3,
+      "impressions": 4019,
+      "ctr": 0.0007464543418760885,
+      "position": 28.58745956705648
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:07:54.562Z"
+}

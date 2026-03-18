@@ -1,0 +1,1350 @@
+{
+  "property": "sc-domain:bassettservices.com",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 2815,
+    "impressions": 896257,
+    "ctr": 0.0031408401831171193,
+    "position": 27.791733401750953
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 45,
+      "impressions": 31793,
+      "ctr": 0.0014154059069606518,
+      "position": 6.863649230962791
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 38,
+      "impressions": 7688,
+      "ctr": 0.004942767950052029,
+      "position": 31.34560353798127
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 34,
+      "impressions": 5492,
+      "ctr": 0.006190823015294974,
+      "position": 32.19956300072833
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 19,
+      "impressions": 7533,
+      "ctr": 0.0025222354971458916,
+      "position": 29.17575998938006
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 33,
+      "impressions": 9601,
+      "ctr": 0.0034371419643787105,
+      "position": 32.1005103635038
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 18,
+      "impressions": 7005,
+      "ctr": 0.002569593147751606,
+      "position": 34.6412562455389
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 6,
+      "impressions": 5771,
+      "ctr": 0.0010396811644429042,
+      "position": 29.396465084040894
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 22,
+      "impressions": 13133,
+      "ctr": 0.0016751694205436687,
+      "position": 15.628340820833015
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 19,
+      "impressions": 7045,
+      "ctr": 0.0026969481902058196,
+      "position": 31.377998580553584
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 8,
+      "impressions": 5991,
+      "ctr": 0.0013353363378400935,
+      "position": 35.70756134201302
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 12,
+      "impressions": 4820,
+      "ctr": 0.0024896265560165973,
+      "position": 36.64356846473029
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 17,
+      "impressions": 6865,
+      "ctr": 0.0024763292061179896,
+      "position": 37.69133284777859
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 10,
+      "impressions": 4662,
+      "ctr": 0.002145002145002145,
+      "position": 32.08108108108108
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 16,
+      "impressions": 6175,
+      "ctr": 0.002591093117408907,
+      "position": 29.091336032388664
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 31,
+      "impressions": 6668,
+      "ctr": 0.004649070185962808,
+      "position": 33.160767846430716
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 39,
+      "impressions": 6647,
+      "ctr": 0.005867308560252746,
+      "position": 33.960132390552126
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 25,
+      "impressions": 7054,
+      "ctr": 0.0035440884604479726,
+      "position": 29.9264247235611
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 21,
+      "impressions": 12336,
+      "ctr": 0.0017023346303501946,
+      "position": 20.25689040207523
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 26,
+      "impressions": 5580,
+      "ctr": 0.004659498207885305,
+      "position": 30.419713261648745
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 19,
+      "impressions": 4703,
+      "ctr": 0.004039974484371677,
+      "position": 31.02913034233468
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 13,
+      "impressions": 5782,
+      "ctr": 0.002248356969906607,
+      "position": 27.933586994119683
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 42,
+      "impressions": 9403,
+      "ctr": 0.00446665957673083,
+      "position": 26.679038604700626
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 33,
+      "impressions": 5592,
+      "ctr": 0.005901287553648069,
+      "position": 31.242131616595135
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 35,
+      "impressions": 6734,
+      "ctr": 0.005197505197505198,
+      "position": 32.97831897831898
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 37,
+      "impressions": 6743,
+      "ctr": 0.005487171881951654,
+      "position": 34.96915319590687
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 32,
+      "impressions": 6092,
+      "ctr": 0.005252790544977019,
+      "position": 31.893959290873276
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 17,
+      "impressions": 5976,
+      "ctr": 0.0028447121820615795,
+      "position": 33.09136546184739
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 14,
+      "impressions": 9107,
+      "ctr": 0.0015372790161414297,
+      "position": 33.55418908531899
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 34,
+      "impressions": 5614,
+      "ctr": 0.006056287851799074,
+      "position": 29.008728179551124
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 35,
+      "impressions": 20554,
+      "ctr": 0.0017028315656319939,
+      "position": 10.315072491972366
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 47,
+      "impressions": 7908,
+      "ctr": 0.005943348507840162,
+      "position": 31.706626201315125
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 31,
+      "impressions": 5379,
+      "ctr": 0.005763153002416806,
+      "position": 29.44208960773378
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 25,
+      "impressions": 8752,
+      "ctr": 0.002856489945155393,
+      "position": 31.446183729433272
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 19,
+      "impressions": 6469,
+      "ctr": 0.0029370845571185657,
+      "position": 32.94744164476735
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 20,
+      "impressions": 6545,
+      "ctr": 0.0030557677616501145,
+      "position": 27.50970206264324
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 42,
+      "impressions": 7307,
+      "ctr": 0.005747912960175175,
+      "position": 27.228137402490763
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 47,
+      "impressions": 38099,
+      "ctr": 0.0012336281792173023,
+      "position": 5.430719966403318
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 56,
+      "impressions": 7536,
+      "ctr": 0.0074309978768577496,
+      "position": 25.888004246284503
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 27,
+      "impressions": 7151,
+      "ctr": 0.003775695706894141,
+      "position": 28.99063068102363
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 37,
+      "impressions": 7214,
+      "ctr": 0.005128915996673136,
+      "position": 24.77696146382035
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 28,
+      "impressions": 7780,
+      "ctr": 0.0035989717223650387,
+      "position": 24.75758354755784
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 23,
+      "impressions": 8422,
+      "ctr": 0.0027309427689384946,
+      "position": 21.69199715032059
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 47,
+      "impressions": 8798,
+      "ctr": 0.0053421232098204135,
+      "position": 25.9200954762446
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 45,
+      "impressions": 8243,
+      "ctr": 0.005459177483925755,
+      "position": 25.375470095838892
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 47,
+      "impressions": 7568,
+      "ctr": 0.006210359408033827,
+      "position": 27.99114693446089
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 55,
+      "impressions": 8167,
+      "ctr": 0.006734419003305988,
+      "position": 24.93547202155014
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 57,
+      "impressions": 7604,
+      "ctr": 0.007496054708048395,
+      "position": 27.523408732246185
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 34,
+      "impressions": 10299,
+      "ctr": 0.003301291387513351,
+      "position": 26.97825031556462
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 33,
+      "impressions": 19254,
+      "ctr": 0.0017139295730757246,
+      "position": 13.402254077074893
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 53,
+      "impressions": 10850,
+      "ctr": 0.004884792626728111,
+      "position": 22.88700460829493
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 28,
+      "impressions": 6456,
+      "ctr": 0.004337050805452293,
+      "position": 26.888320941759602
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 34,
+      "impressions": 7126,
+      "ctr": 0.0047712601740106655,
+      "position": 28.753859107493685
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 40,
+      "impressions": 5801,
+      "ctr": 0.0068953628684709535,
+      "position": 26.86364419927599
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 37,
+      "impressions": 5712,
+      "ctr": 0.006477591036414566,
+      "position": 26.797619047619047
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 18,
+      "impressions": 6381,
+      "ctr": 0.0028208744710860366,
+      "position": 26.476571070365146
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 15,
+      "impressions": 6920,
+      "ctr": 0.002167630057803468,
+      "position": 24.907080924855492
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 39,
+      "impressions": 6300,
+      "ctr": 0.006190476190476191,
+      "position": 26.617619047619048
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 37,
+      "impressions": 37246,
+      "ctr": 0.000993395263920958,
+      "position": 59.976641787037536
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 38,
+      "impressions": 18277,
+      "ctr": 0.002079115828637085,
+      "position": 53.978880560267
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 33,
+      "impressions": 10037,
+      "ctr": 0.003287835010461293,
+      "position": 26.268406894490386
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 38,
+      "impressions": 8174,
+      "ctr": 0.004648886713971128,
+      "position": 26.30535845363347
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 18,
+      "impressions": 9981,
+      "ctr": 0.0018034265103697023,
+      "position": 24.075142771265405
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 20,
+      "impressions": 9365,
+      "ctr": 0.002135611318739989,
+      "position": 22.42039508809397
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 27,
+      "impressions": 8333,
+      "ctr": 0.0032401296051842074,
+      "position": 20.983199327973118
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 35,
+      "impressions": 40864,
+      "ctr": 0.0008564996084573219,
+      "position": 5.755090054815975
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 38,
+      "impressions": 10728,
+      "ctr": 0.0035421327367636092,
+      "position": 26.180089485458613
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 36,
+      "impressions": 10833,
+      "ctr": 0.003323179174743838,
+      "position": 30.716145112157296
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 36,
+      "impressions": 7541,
+      "ctr": 0.004773902665428988,
+      "position": 23.128099721522343
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 25,
+      "impressions": 7646,
+      "ctr": 0.003269683494637719,
+      "position": 21.401778707821084
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 25,
+      "impressions": 9088,
+      "ctr": 0.0027508802816901406,
+      "position": 22.726672535211268
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 39,
+      "impressions": 8293,
+      "ctr": 0.004702761365006632,
+      "position": 22.215241770167612
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 41,
+      "impressions": 7463,
+      "ctr": 0.005493769261691009,
+      "position": 23.961409620795926
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 40,
+      "impressions": 8143,
+      "ctr": 0.004912194522903107,
+      "position": 24.76323222399607
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 28,
+      "impressions": 10012,
+      "ctr": 0.002796644027167399,
+      "position": 25.862465041949662
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 19,
+      "impressions": 8147,
+      "ctr": 0.0023321468025039893,
+      "position": 23.648950533938873
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 18,
+      "impressions": 12351,
+      "ctr": 0.0014573718727228565,
+      "position": 42.425552586835074
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 16,
+      "impressions": 27522,
+      "ctr": 0.0005813530993387108,
+      "position": 33.06656492987428
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 43,
+      "impressions": 17245,
+      "ctr": 0.002493476369962308,
+      "position": 41.56201797622499
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 33,
+      "impressions": 9798,
+      "ctr": 0.0033680342927127987,
+      "position": 27.548683404776487
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 55,
+      "impressions": 10060,
+      "ctr": 0.0054671968190854875,
+      "position": 29.658051689860834
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 27,
+      "impressions": 8043,
+      "ctr": 0.0033569563595673255,
+      "position": 26.960213850553277
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 39,
+      "impressions": 9058,
+      "ctr": 0.004305586222124089,
+      "position": 28.64362994038419
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 21,
+      "impressions": 8959,
+      "ctr": 0.002344011608438442,
+      "position": 24.518473043866504
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 23,
+      "impressions": 9934,
+      "ctr": 0.002315280853633984,
+      "position": 23.79464465472116
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 52,
+      "impressions": 11390,
+      "ctr": 0.0045654082528533806,
+      "position": 28.605355575065847
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 42,
+      "impressions": 9332,
+      "ctr": 0.004500642948992713,
+      "position": 27.137162451778824
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 45,
+      "impressions": 12226,
+      "ctr": 0.0036806805169311303,
+      "position": 26.39317847210862
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 37,
+      "impressions": 9679,
+      "ctr": 0.0038227089575369358,
+      "position": 27.915900402934188
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 35,
+      "impressions": 9195,
+      "ctr": 0.0038064165307232192,
+      "position": 26.307014681892333
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 22,
+      "impressions": 9094,
+      "ctr": 0.002419177479656917,
+      "position": 23.85583901473499
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "bassett services",
+      "clicks": 556,
+      "impressions": 3876,
+      "ctr": 0.1434468524251806,
+      "position": 1.6153250773993808
+    },
+    {
+      "query": "bassett heating and cooling",
+      "clicks": 64,
+      "impressions": 551,
+      "ctr": 0.1161524500907441,
+      "position": 5.94010889292196
+    },
+    {
+      "query": "bassett plumbing",
+      "clicks": 61,
+      "impressions": 833,
+      "ctr": 0.07322929171668667,
+      "position": 5.206482593037215
+    },
+    {
+      "query": "bassett electric",
+      "clicks": 60,
+      "impressions": 342,
+      "ctr": 0.17543859649122806,
+      "position": 5.1608187134502925
+    },
+    {
+      "query": "bassett heating and air",
+      "clicks": 58,
+      "impressions": 376,
+      "ctr": 0.15425531914893617,
+      "position": 4.664893617021276
+    },
+    {
+      "query": "bassett services eaton ohio",
+      "clicks": 36,
+      "impressions": 169,
+      "ctr": 0.21301775147928995,
+      "position": 6.372781065088757
+    },
+    {
+      "query": "bassett services plainfield indiana",
+      "clicks": 35,
+      "impressions": 261,
+      "ctr": 0.13409961685823754,
+      "position": 2.812260536398467
+    },
+    {
+      "query": "bassett",
+      "clicks": 33,
+      "impressions": 1831,
+      "ctr": 0.018022938285090113,
+      "position": 10.886400873839433
+    },
+    {
+      "query": "basset services",
+      "clicks": 32,
+      "impressions": 189,
+      "ctr": 0.1693121693121693,
+      "position": 2.174603174603175
+    },
+    {
+      "query": "bassett home services",
+      "clicks": 30,
+      "impressions": 114,
+      "ctr": 0.2631578947368421,
+      "position": 5.2894736842105265
+    },
+    {
+      "query": "bassett services: heating, cooling, plumbing, & electrical",
+      "clicks": 26,
+      "impressions": 1270,
+      "ctr": 0.02047244094488189,
+      "position": 1.2826771653543307
+    },
+    {
+      "query": "bassett heating and air eaton ohio",
+      "clicks": 22,
+      "impressions": 138,
+      "ctr": 0.15942028985507245,
+      "position": 1.0144927536231885
+    },
+    {
+      "query": "bassett hvac",
+      "clicks": 19,
+      "impressions": 178,
+      "ctr": 0.10674157303370786,
+      "position": 7.584269662921348
+    },
+    {
+      "query": "bassett services columbus ohio",
+      "clicks": 19,
+      "impressions": 126,
+      "ctr": 0.15079365079365079,
+      "position": 6.388888888888889
+    },
+    {
+      "query": "bassett services inc",
+      "clicks": 18,
+      "impressions": 99,
+      "ctr": 0.18181818181818182,
+      "position": 1.1111111111111112
+    },
+    {
+      "query": "dowdy electric",
+      "clicks": 17,
+      "impressions": 82,
+      "ctr": 0.2073170731707317,
+      "position": 2.951219512195122
+    },
+    {
+      "query": "basset hvac",
+      "clicks": 15,
+      "impressions": 98,
+      "ctr": 0.15306122448979592,
+      "position": 7.438775510204081
+    },
+    {
+      "query": "bassett services indianapolis",
+      "clicks": 15,
+      "impressions": 150,
+      "ctr": 0.1,
+      "position": 6.26
+    },
+    {
+      "query": "bassett services electrical",
+      "clicks": 13,
+      "impressions": 65,
+      "ctr": 0.2,
+      "position": 4.584615384615384
+    },
+    {
+      "query": "drake heating and air",
+      "clicks": 13,
+      "impressions": 118,
+      "ctr": 0.11016949152542373,
+      "position": 3.9915254237288136
+    },
+    {
+      "query": "basset heating",
+      "clicks": 11,
+      "impressions": 115,
+      "ctr": 0.09565217391304348,
+      "position": 17.93913043478261
+    },
+    {
+      "query": "bassett electrical",
+      "clicks": 10,
+      "impressions": 78,
+      "ctr": 0.1282051282051282,
+      "position": 8.333333333333332
+    },
+    {
+      "query": "dowdy electric indianapolis",
+      "clicks": 10,
+      "impressions": 117,
+      "ctr": 0.08547008547008547,
+      "position": 2.47008547008547
+    },
+    {
+      "query": "basset electric",
+      "clicks": 9,
+      "impressions": 50,
+      "ctr": 0.18,
+      "position": 4.02
+    },
+    {
+      "query": "basset plumbing",
+      "clicks": 9,
+      "impressions": 121,
+      "ctr": 0.0743801652892562,
+      "position": 7.68595041322314
+    },
+    {
+      "query": "bassett services cincinnati",
+      "clicks": 9,
+      "impressions": 70,
+      "ctr": 0.12857142857142856,
+      "position": 14.685714285714285
+    },
+    {
+      "query": "bassett services dayton ohio",
+      "clicks": 9,
+      "impressions": 66,
+      "ctr": 0.13636363636363635,
+      "position": 8.318181818181818
+    },
+    {
+      "query": "bassett electrical services",
+      "clicks": 8,
+      "impressions": 76,
+      "ctr": 0.10526315789473684,
+      "position": 6.802631578947368
+    },
+    {
+      "query": "bassett services: heating, cooling, plumbing, electrical",
+      "clicks": 8,
+      "impressions": 382,
+      "ctr": 0.020942408376963352,
+      "position": 1.2722513089005236
+    },
+    {
+      "query": "basset",
+      "clicks": 7,
+      "impressions": 145,
+      "ctr": 0.04827586206896552,
+      "position": 2.089655172413793
+    },
+    {
+      "query": "discount drains",
+      "clicks": 7,
+      "impressions": 125,
+      "ctr": 0.056,
+      "position": 3.48
+    },
+    {
+      "query": "what does rough in mean for toilets",
+      "clicks": 7,
+      "impressions": 863,
+      "ctr": 0.008111239860950173,
+      "position": 1.295480880648899
+    },
+    {
+      "query": "basset heating and cooling",
+      "clicks": 6,
+      "impressions": 54,
+      "ctr": 0.1111111111111111,
+      "position": 15.685185185185185
+    },
+    {
+      "query": "bassett heating and air conditioning",
+      "clicks": 5,
+      "impressions": 56,
+      "ctr": 0.08928571428571429,
+      "position": 11.642857142857142
+    },
+    {
+      "query": "bassett plumbing and heating",
+      "clicks": 5,
+      "impressions": 115,
+      "ctr": 0.043478260869565216,
+      "position": 8.295652173913044
+    },
+    {
+      "query": "bassett services: heating, cooling, plumbing & electrical",
+      "clicks": 5,
+      "impressions": 259,
+      "ctr": 0.019305019305019305,
+      "position": 1.2316602316602316
+    },
+    {
+      "query": "electrical contractors in ohio",
+      "clicks": 5,
+      "impressions": 16,
+      "ctr": 0.3125,
+      "position": 44.75
+    },
+    {
+      "query": "electrician near me",
+      "clicks": 5,
+      "impressions": 1571,
+      "ctr": 0.003182686187141948,
+      "position": 2.3176320814767664
+    },
+    {
+      "query": "gpf toilet",
+      "clicks": 5,
+      "impressions": 779,
+      "ctr": 0.006418485237483954,
+      "position": 4.741976893453145
+    },
+    {
+      "query": "hvac near me",
+      "clicks": 5,
+      "impressions": 1239,
+      "ctr": 0.004035512510088781,
+      "position": 6.875706214689266
+    },
+    {
+      "query": "electrician columbus ohio",
+      "clicks": 4,
+      "impressions": 121,
+      "ctr": 0.03305785123966942,
+      "position": 4.793388429752066
+    },
+    {
+      "query": "hvac",
+      "clicks": 4,
+      "impressions": 452,
+      "ctr": 0.008849557522123894,
+      "position": 8.623893805309734
+    },
+    {
+      "query": "hvac eaton ohio",
+      "clicks": 4,
+      "impressions": 39,
+      "ctr": 0.10256410256410256,
+      "position": 1.205128205128205
+    },
+    {
+      "query": "plumbers near me",
+      "clicks": 4,
+      "impressions": 1387,
+      "ctr": 0.002883922134102379,
+      "position": 5.813266041816871
+    },
+    {
+      "query": "what does rough in toilet mean",
+      "clicks": 4,
+      "impressions": 311,
+      "ctr": 0.012861736334405145,
+      "position": 1.122186495176849
+    },
+    {
+      "query": "bassett heating",
+      "clicks": 3,
+      "impressions": 102,
+      "ctr": 0.029411764705882353,
+      "position": 10.22549019607843
+    },
+    {
+      "query": "bassett services: heating, cooling, plumbing & electrical (discount drains)",
+      "clicks": 3,
+      "impressions": 100,
+      "ctr": 0.03,
+      "position": 1.38
+    },
+    {
+      "query": "best plumbing cincinnati",
+      "clicks": 3,
+      "impressions": 358,
+      "ctr": 0.008379888268156424,
+      "position": 12.918994413407821
+    },
+    {
+      "query": "drake heating and air eaton ohio",
+      "clicks": 3,
+      "impressions": 21,
+      "ctr": 0.14285714285714285,
+      "position": 3.857142857142857
+    },
+    {
+      "query": "electrical companies in ohio",
+      "clicks": 3,
+      "impressions": 6,
+      "ctr": 0.5,
+      "position": 44.333333333333336
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://bassettservices.com/plainfield/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*38*bassett-services-plainfield",
+      "clicks": 521,
+      "impressions": 30640,
+      "ctr": 0.01700391644908616,
+      "position": 12.918309399477806
+    },
+    {
+      "page": "https://bassettservices.com/",
+      "clicks": 298,
+      "impressions": 17549,
+      "ctr": 0.01698102455980398,
+      "position": 16.237620377229472
+    },
+    {
+      "page": "https://bassettservices.com/columbus/",
+      "clicks": 144,
+      "impressions": 5822,
+      "ctr": 0.024733768464445208,
+      "position": 24.740810717966333
+    },
+    {
+      "page": "https://bassettservices.com/eaton/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*35*bassett-services-eaton",
+      "clicks": 138,
+      "impressions": 36830,
+      "ctr": 0.0037469454249253326,
+      "position": 24.567797990768394
+    },
+    {
+      "page": "https://bassettservices.com/indianapolis/",
+      "clicks": 133,
+      "impressions": 8811,
+      "ctr": 0.015094767903756667,
+      "position": 16.07184201566224
+    },
+    {
+      "page": "https://bassettservices.com/columbus/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*041*bassett-services-columbus",
+      "clicks": 122,
+      "impressions": 26679,
+      "ctr": 0.004572885040668691,
+      "position": 17.736271974211927
+    },
+    {
+      "page": "https://bassettservices.com/columbus/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*042*bassett-services-columbus",
+      "clicks": 116,
+      "impressions": 29100,
+      "ctr": 0.003986254295532646,
+      "position": 9.518831615120275
+    },
+    {
+      "page": "https://bassettservices.com/indianapolis/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*044*bassett-services-indianapolis",
+      "clicks": 116,
+      "impressions": 25346,
+      "ctr": 0.004576659038901602,
+      "position": 16.166732423262054
+    },
+    {
+      "page": "https://bassettservices.com/lewis-center/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*036*bassett-services-lewis-center",
+      "clicks": 82,
+      "impressions": 21022,
+      "ctr": 0.0039006754828275142,
+      "position": 6.729949576634002
+    },
+    {
+      "page": "https://bassettservices.com/blog/why-is-my-smoke-detector-blinking-red/",
+      "clicks": 81,
+      "impressions": 76835,
+      "ctr": 0.00105420706709182,
+      "position": 4.442597774451747
+    },
+    {
+      "page": "https://bassettservices.com/ohio/dayton/",
+      "clicks": 71,
+      "impressions": 7751,
+      "ctr": 0.009160108373113146,
+      "position": 29.214165914075604
+    },
+    {
+      "page": "https://bassettservices.com/cincinnati/",
+      "clicks": 67,
+      "impressions": 5821,
+      "ctr": 0.011510049819618623,
+      "position": 22.62205806562446
+    },
+    {
+      "page": "https://bassettservices.com/loveland/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*043*bassett-services-loveland",
+      "clicks": 64,
+      "impressions": 36646,
+      "ctr": 0.0017464389019265405,
+      "position": 12.383943677345412
+    },
+    {
+      "page": "https://bassettservices.com/blog/toilet-sizes-and-function-gpf/",
+      "clicks": 58,
+      "impressions": 12542,
+      "ctr": 0.004624461808324031,
+      "position": 5.5707223728273005
+    },
+    {
+      "page": "https://bassettservices.com/blog/toilet-rough-in-size-explained/",
+      "clicks": 51,
+      "impressions": 12701,
+      "ctr": 0.004015431855759389,
+      "position": 9.920793638296198
+    },
+    {
+      "page": "https://bassettservices.com/cincinnati/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*040*bassett-services-cincinnati",
+      "clicks": 51,
+      "impressions": 24555,
+      "ctr": 0.0020769700671960903,
+      "position": 11.04479739360619
+    },
+    {
+      "page": "https://bassettservices.com/ohio/huber-heights/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*352*bassett-dayton",
+      "clicks": 48,
+      "impressions": 1567,
+      "ctr": 0.03063178047223995,
+      "position": 18.136566687938735
+    },
+    {
+      "page": "https://bassettservices.com/contact-us/home-service-maintenance-plans/",
+      "clicks": 41,
+      "impressions": 1308,
+      "ctr": 0.03134556574923547,
+      "position": 22.222477064220183
+    },
+    {
+      "page": "https://bassettservices.com/lebanon/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*037*bassett-services-lebanon",
+      "clicks": 36,
+      "impressions": 37813,
+      "ctr": 0.0009520535265649379,
+      "position": 4.426361304313332
+    },
+    {
+      "page": "https://bassettservices.com/dowdy-is-now-bassett/",
+      "clicks": 34,
+      "impressions": 934,
+      "ctr": 0.03640256959314775,
+      "position": 19.426124197002142
+    },
+    {
+      "page": "https://bassettservices.com/eaton/",
+      "clicks": 32,
+      "impressions": 4471,
+      "ctr": 0.007157235517781257,
+      "position": 22.74099753970029
+    },
+    {
+      "page": "https://bassettservices.com/blog/understanding-why-your-furnaces-high-limit-switch-keeps-tripping/",
+      "clicks": 29,
+      "impressions": 6590,
+      "ctr": 0.004400606980273141,
+      "position": 5.770561456752656
+    },
+    {
+      "page": "https://bassettservices.com/contact-us/",
+      "clicks": 29,
+      "impressions": 4606,
+      "ctr": 0.006296135475466783,
+      "position": 14.040382110290924
+    },
+    {
+      "page": "https://bassettservices.com/drake-heating-air-is-now-bassett-services/",
+      "clicks": 22,
+      "impressions": 1022,
+      "ctr": 0.021526418786692758,
+      "position": 15.974559686888455
+    },
+    {
+      "page": "https://bassettservices.com/plainfield/",
+      "clicks": 22,
+      "impressions": 6503,
+      "ctr": 0.0033830539750884206,
+      "position": 13.54451791480855
+    },
+    {
+      "page": "https://bassettservices.com/blog/drain-snakes-demystified-a-complete-guide/",
+      "clicks": 20,
+      "impressions": 11490,
+      "ctr": 0.0017406440382941688,
+      "position": 15.897040905134899
+    },
+    {
+      "page": "https://bassettservices.com/ohio/springfield/",
+      "clicks": 20,
+      "impressions": 680,
+      "ctr": 0.029411764705882353,
+      "position": 45.154411764705884
+    },
+    {
+      "page": "https://bassettservices.com/blog/what-causes-flickering-or-dimming-lights-and-what-to-do-next/",
+      "clicks": 19,
+      "impressions": 6285,
+      "ctr": 0.003023070803500398,
+      "position": 8.97708830548926
+    },
+    {
+      "page": "https://bassettservices.com/blog/why-does-my-sink-gurgle-when-i-flush/",
+      "clicks": 19,
+      "impressions": 9240,
+      "ctr": 0.0020562770562770564,
+      "position": 4.382467532467532
+    },
+    {
+      "page": "https://bassettservices.com/lewis-center/",
+      "clicks": 17,
+      "impressions": 5424,
+      "ctr": 0.0031342182890855457,
+      "position": 44.17809734513274
+    },
+    {
+      "page": "https://bassettservices.com/newark/",
+      "clicks": 12,
+      "impressions": 2115,
+      "ctr": 0.005673758865248227,
+      "position": 27.556028368794326
+    },
+    {
+      "page": "https://bassettservices.com/lafayette/",
+      "clicks": 11,
+      "impressions": 525,
+      "ctr": 0.02095238095238095,
+      "position": 34.31428571428572
+    },
+    {
+      "page": "https://bassettservices.com/offers/",
+      "clicks": 11,
+      "impressions": 1406,
+      "ctr": 0.007823613086770981,
+      "position": 6.10099573257468
+    },
+    {
+      "page": "https://bassettservices.com/blog/why-does-my-sump-pump-run-in-dry-weather/",
+      "clicks": 10,
+      "impressions": 3537,
+      "ctr": 0.0028272547356516823,
+      "position": 9.864009047215154
+    },
+    {
+      "page": "https://bassettservices.com/plumbing-services/",
+      "clicks": 10,
+      "impressions": 2350,
+      "ctr": 0.00425531914893617,
+      "position": 19.882978723404257
+    },
+    {
+      "page": "https://bassettservices.com/lebanon/",
+      "clicks": 9,
+      "impressions": 2999,
+      "ctr": 0.0030010003334444814,
+      "position": 16.484494831610537
+    },
+    {
+      "page": "https://bassettservices.com/loveland/",
+      "clicks": 9,
+      "impressions": 1323,
+      "ctr": 0.006802721088435374,
+      "position": 27.823885109599395
+    },
+    {
+      "page": "https://bassettservices.com/blog/why-is-my-outdoor-water-spigot-leaking-or-dripping/",
+      "clicks": 7,
+      "impressions": 2657,
+      "ctr": 0.0026345502446368085,
+      "position": 16.628904779826872
+    },
+    {
+      "page": "https://bassettservices.com/carmel/",
+      "clicks": 7,
+      "impressions": 2117,
+      "ctr": 0.0033065658951346244,
+      "position": 35.852621634388285
+    },
+    {
+      "page": "https://bassettservices.com/cincinnati/plumbing/",
+      "clicks": 7,
+      "impressions": 7693,
+      "ctr": 0.0009099181073703367,
+      "position": 50.39009489145977
+    },
+    {
+      "page": "https://bassettservices.com/about-us/our-service-area/indiana/",
+      "clicks": 6,
+      "impressions": 635,
+      "ctr": 0.009448818897637795,
+      "position": 14.096062992125985
+    },
+    {
+      "page": "https://bassettservices.com/blog/why-is-my-circuit-breaker-hot/",
+      "clicks": 6,
+      "impressions": 3796,
+      "ctr": 0.0015806111696522655,
+      "position": 6.8890937829293994
+    },
+    {
+      "page": "https://bassettservices.com/blog/why-is-my-electrical-outlet-buzzing/",
+      "clicks": 6,
+      "impressions": 5226,
+      "ctr": 0.001148105625717566,
+      "position": 6.293340987370838
+    },
+    {
+      "page": "https://bassettservices.com/greencastle/",
+      "clicks": 6,
+      "impressions": 1084,
+      "ctr": 0.005535055350553505,
+      "position": 23.093173431734318
+    },
+    {
+      "page": "https://bassettservices.com/heating-services/air-duct-cleaning/",
+      "clicks": 6,
+      "impressions": 3172,
+      "ctr": 0.0018915510718789407,
+      "position": 32.428121059268605
+    },
+    {
+      "page": "https://bassettservices.com/about-us/financing-options-plans/",
+      "clicks": 5,
+      "impressions": 483,
+      "ctr": 0.010351966873706004,
+      "position": 8.064182194616977
+    },
+    {
+      "page": "https://bassettservices.com/blog/why-is-my-outdoor-ac-unit-fan-not-spinning/",
+      "clicks": 5,
+      "impressions": 6324,
+      "ctr": 0.0007906388361796331,
+      "position": 14.364800759013283
+    },
+    {
+      "page": "https://bassettservices.com/contact-us/?utm_source=gmb&utm_medium=organic",
+      "clicks": 5,
+      "impressions": 2370,
+      "ctr": 0.002109704641350211,
+      "position": 10.566666666666666
+    },
+    {
+      "page": "https://bassettservices.com/contact-us/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*044*bassett-services-indianapolis",
+      "clicks": 5,
+      "impressions": 803,
+      "ctr": 0.0062266500622665,
+      "position": 6.129514321295143
+    },
+    {
+      "page": "https://bassettservices.com/greenwood/",
+      "clicks": 5,
+      "impressions": 1928,
+      "ctr": 0.0025933609958506223,
+      "position": 34.71369294605809
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:06:48.201Z"
+}

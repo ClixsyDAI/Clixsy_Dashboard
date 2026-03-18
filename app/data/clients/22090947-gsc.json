@@ -1,0 +1,1350 @@
+{
+  "property": "https://www.cellinolaw.com/",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 20439,
+    "impressions": 4216101,
+    "ctr": 0.004847844015122028,
+    "position": 18.665612827260922
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 321,
+      "impressions": 53476,
+      "ctr": 0.006002692796768644,
+      "position": 16.144831326202407
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 267,
+      "impressions": 50806,
+      "ctr": 0.005255284808880841,
+      "position": 20.11839152855962
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 249,
+      "impressions": 42901,
+      "ctr": 0.0058040605114099905,
+      "position": 16.65735064450712
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 266,
+      "impressions": 55550,
+      "ctr": 0.004788478847884788,
+      "position": 15.851809180918092
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 254,
+      "impressions": 44928,
+      "ctr": 0.005653490028490029,
+      "position": 20.317107371794872
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 123,
+      "impressions": 39993,
+      "ctr": 0.003075538219188358,
+      "position": 20.000075013127297
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 301,
+      "impressions": 37884,
+      "ctr": 0.007945306725794531,
+      "position": 20.571138211382113
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 262,
+      "impressions": 60248,
+      "ctr": 0.004348692072765901,
+      "position": 13.488895896959235
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 216,
+      "impressions": 43728,
+      "ctr": 0.004939626783754116,
+      "position": 21.295805890962313
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 156,
+      "impressions": 36911,
+      "ctr": 0.004226382379236542,
+      "position": 22.341524206876
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 130,
+      "impressions": 30974,
+      "ctr": 0.004197068509072125,
+      "position": 21.774907987344225
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 178,
+      "impressions": 33851,
+      "ctr": 0.005258338010693924,
+      "position": 17.94883459868246
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 193,
+      "impressions": 38926,
+      "ctr": 0.0049581256743564716,
+      "position": 18.071314802445666
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 218,
+      "impressions": 39704,
+      "ctr": 0.005490630666935321,
+      "position": 19.23569413661092
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 307,
+      "impressions": 45735,
+      "ctr": 0.006712583360664699,
+      "position": 17.25794249480704
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 234,
+      "impressions": 47936,
+      "ctr": 0.004881508678237651,
+      "position": 19.71968875166889
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 225,
+      "impressions": 47156,
+      "ctr": 0.00477139706506065,
+      "position": 20.11249893968954
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 138,
+      "impressions": 42631,
+      "ctr": 0.003237080997396261,
+      "position": 22.644906288850837
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 255,
+      "impressions": 39290,
+      "ctr": 0.006490201068974293,
+      "position": 17.90160346144057
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 203,
+      "impressions": 35140,
+      "ctr": 0.005776892430278884,
+      "position": 18.36946499715424
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 291,
+      "impressions": 40666,
+      "ctr": 0.007155855014016623,
+      "position": 19.366915851079526
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 304,
+      "impressions": 57575,
+      "ctr": 0.00528006947459835,
+      "position": 15.582544507164569
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 321,
+      "impressions": 42355,
+      "ctr": 0.007578798252862708,
+      "position": 16.026277889269274
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 297,
+      "impressions": 58427,
+      "ctr": 0.005083266298115598,
+      "position": 23.308419052835163
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 254,
+      "impressions": 62070,
+      "ctr": 0.004092154019655228,
+      "position": 26.12609956500725
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 262,
+      "impressions": 62693,
+      "ctr": 0.00417909495477964,
+      "position": 28.662482254797187
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 145,
+      "impressions": 49779,
+      "ctr": 0.002912874907089335,
+      "position": 27.856907531288293
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 256,
+      "impressions": 52548,
+      "ctr": 0.0048717363172718275,
+      "position": 26.97626931567329
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 304,
+      "impressions": 50366,
+      "ctr": 0.006035817813604415,
+      "position": 19.06276059246317
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 279,
+      "impressions": 50857,
+      "ctr": 0.005485970466209175,
+      "position": 21.219399492695203
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 291,
+      "impressions": 52771,
+      "ctr": 0.005514392374599685,
+      "position": 21.647514733471034
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 255,
+      "impressions": 45229,
+      "ctr": 0.005637975635101373,
+      "position": 15.325609675208383
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 222,
+      "impressions": 47136,
+      "ctr": 0.004709775967413442,
+      "position": 19.955490495587238
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 159,
+      "impressions": 41892,
+      "ctr": 0.0037954740761959324,
+      "position": 20.41232216174926
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 146,
+      "impressions": 41928,
+      "ctr": 0.003482159893150162,
+      "position": 22.84051230681168
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 215,
+      "impressions": 48262,
+      "ctr": 0.004454850607102896,
+      "position": 22.068811901703203
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 287,
+      "impressions": 47779,
+      "ctr": 0.006006823081270014,
+      "position": 20.978023817995354
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 257,
+      "impressions": 49753,
+      "ctr": 0.0051655176572267,
+      "position": 21.35382790987478
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 247,
+      "impressions": 48966,
+      "ctr": 0.005044316464485561,
+      "position": 19.258179144712656
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 247,
+      "impressions": 42314,
+      "ctr": 0.005837311528099447,
+      "position": 18.322328307415987
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 152,
+      "impressions": 41773,
+      "ctr": 0.003638714001867235,
+      "position": 20.939027601560817
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 191,
+      "impressions": 63189,
+      "ctr": 0.0030226779977527733,
+      "position": 16.235072560097485
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 255,
+      "impressions": 52187,
+      "ctr": 0.004886274359514822,
+      "position": 21.20062467664361
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 276,
+      "impressions": 56091,
+      "ctr": 0.004920575493394662,
+      "position": 21.490916546326506
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 301,
+      "impressions": 50843,
+      "ctr": 0.0059201856696103694,
+      "position": 19.649607615600967
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 291,
+      "impressions": 47800,
+      "ctr": 0.006087866108786611,
+      "position": 17.48776150627615
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 237,
+      "impressions": 49425,
+      "ctr": 0.004795144157814871,
+      "position": 19.23736975214972
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 173,
+      "impressions": 48270,
+      "ctr": 0.003584006629376424,
+      "position": 20.837124507975968
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 153,
+      "impressions": 54010,
+      "ctr": 0.002832808739122385,
+      "position": 21.720903536382153
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 298,
+      "impressions": 56997,
+      "ctr": 0.005228345351509729,
+      "position": 18.417881642893487
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 250,
+      "impressions": 47029,
+      "ctr": 0.005315868931935614,
+      "position": 17.99206872355355
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 298,
+      "impressions": 57468,
+      "ctr": 0.00518549453608965,
+      "position": 18.373982042179996
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 271,
+      "impressions": 54542,
+      "ctr": 0.004968648014374244,
+      "position": 19.317040079205018
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 299,
+      "impressions": 50777,
+      "ctr": 0.0058884928215530655,
+      "position": 18.456289264824626
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 187,
+      "impressions": 40873,
+      "ctr": 0.004575147407824236,
+      "position": 17.911481907371616
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 196,
+      "impressions": 56325,
+      "ctr": 0.003479804704837994,
+      "position": 17.217754105636928
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 239,
+      "impressions": 56669,
+      "ctr": 0.004217473398154194,
+      "position": 19.694365526125395
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 279,
+      "impressions": 51586,
+      "ctr": 0.005408444151513977,
+      "position": 21.510971969138915
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 269,
+      "impressions": 50828,
+      "ctr": 0.005292358542535611,
+      "position": 19.48066026599512
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 254,
+      "impressions": 50527,
+      "ctr": 0.005027015259168366,
+      "position": 18.202762879252678
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 226,
+      "impressions": 44385,
+      "ctr": 0.005091810296271263,
+      "position": 16.68189703728737
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 138,
+      "impressions": 38294,
+      "ctr": 0.0036036977072126182,
+      "position": 19.069854285266622
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 130,
+      "impressions": 42594,
+      "ctr": 0.0030520730619336056,
+      "position": 17.058083298117104
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 260,
+      "impressions": 46668,
+      "ctr": 0.005571269392303077,
+      "position": 16.164095311562527
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 278,
+      "impressions": 48394,
+      "ctr": 0.005744513782700335,
+      "position": 16.563540934826634
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 302,
+      "impressions": 50860,
+      "ctr": 0.005937868659064097,
+      "position": 17.59726700747149
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 264,
+      "impressions": 51766,
+      "ctr": 0.005099872503187421,
+      "position": 12.192790634779586
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 225,
+      "impressions": 41642,
+      "ctr": 0.005403198693626627,
+      "position": 15.386917054896498
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 182,
+      "impressions": 43779,
+      "ctr": 0.004157244340894036,
+      "position": 18.4075926814226
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 188,
+      "impressions": 55555,
+      "ctr": 0.0033840338403384033,
+      "position": 13.672648726487266
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 253,
+      "impressions": 45115,
+      "ctr": 0.005607890945361853,
+      "position": 17.40999667516347
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 211,
+      "impressions": 44429,
+      "ctr": 0.004749150329739584,
+      "position": 17.161358572103808
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 223,
+      "impressions": 46507,
+      "ctr": 0.004794977100221472,
+      "position": 17.691186273034166
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 268,
+      "impressions": 43526,
+      "ctr": 0.00615723935119239,
+      "position": 14.785254790240316
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 206,
+      "impressions": 45522,
+      "ctr": 0.004525284477834893,
+      "position": 15.44103949738588
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 108,
+      "impressions": 36901,
+      "ctr": 0.002926749952575811,
+      "position": 16.7689222514295
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 124,
+      "impressions": 40613,
+      "ctr": 0.003053209563440278,
+      "position": 17.967079506561937
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 213,
+      "impressions": 52927,
+      "ctr": 0.0040244109811627335,
+      "position": 15.59901373590039
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 205,
+      "impressions": 48473,
+      "ctr": 0.004229158500608586,
+      "position": 15.217358116889814
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 203,
+      "impressions": 45085,
+      "ctr": 0.0045026061883109685,
+      "position": 15.824220916047466
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 210,
+      "impressions": 41703,
+      "ctr": 0.005035608948996475,
+      "position": 14.462340838788576
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 166,
+      "impressions": 39875,
+      "ctr": 0.004163009404388715,
+      "position": 16.163962382445142
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 107,
+      "impressions": 35098,
+      "ctr": 0.0030486067582198417,
+      "position": 16.25323380249587
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 109,
+      "impressions": 33386,
+      "ctr": 0.0032648415503504463,
+      "position": 17.399778350206674
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 192,
+      "impressions": 42164,
+      "ctr": 0.004553647661512191,
+      "position": 15.910278910919267
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 269,
+      "impressions": 43342,
+      "ctr": 0.00620645101748881,
+      "position": 16.131835171427255
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 259,
+      "impressions": 48272,
+      "ctr": 0.005365429234338747,
+      "position": 17.074888133907855
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 201,
+      "impressions": 44801,
+      "ctr": 0.00448650699761166,
+      "position": 15.246623959286623
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 200,
+      "impressions": 40281,
+      "ctr": 0.004965120031776768,
+      "position": 16.048807129912365
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 115,
+      "impressions": 35801,
+      "ctr": 0.0032122007765146227,
+      "position": 17.005139521242423
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "cellino law",
+      "clicks": 2112,
+      "impressions": 8837,
+      "ctr": 0.2389951340952812,
+      "position": 1.9751046735317415
+    },
+    {
+      "query": "cellino law buffalo",
+      "clicks": 349,
+      "impressions": 1356,
+      "ctr": 0.25737463126843657,
+      "position": 1.7109144542772863
+    },
+    {
+      "query": "cellino law firm",
+      "clicks": 271,
+      "impressions": 1192,
+      "ctr": 0.2273489932885906,
+      "position": 3.25755033557047
+    },
+    {
+      "query": "cellino law accident attorneys",
+      "clicks": 254,
+      "impressions": 2690,
+      "ctr": 0.09442379182156134,
+      "position": 3.4933085501858736
+    },
+    {
+      "query": "cellino law attorneys",
+      "clicks": 228,
+      "impressions": 719,
+      "ctr": 0.31710709318497915,
+      "position": 2.3713490959666204
+    },
+    {
+      "query": "cellino law new york",
+      "clicks": 224,
+      "impressions": 669,
+      "ctr": 0.33482810164424515,
+      "position": 1.6472346786248133
+    },
+    {
+      "query": "cellino law reviews",
+      "clicks": 223,
+      "impressions": 801,
+      "ctr": 0.2784019975031211,
+      "position": 2.449438202247191
+    },
+    {
+      "query": "cellino law personal injury attorney",
+      "clicks": 220,
+      "impressions": 672,
+      "ctr": 0.3273809523809524,
+      "position": 1.1235119047619047
+    },
+    {
+      "query": "cellino and barnes",
+      "clicks": 216,
+      "impressions": 13959,
+      "ctr": 0.015473887814313346,
+      "position": 5.040189125295508
+    },
+    {
+      "query": "cellino law manhattan",
+      "clicks": 216,
+      "impressions": 691,
+      "ctr": 0.3125904486251809,
+      "position": 1.675832127351664
+    },
+    {
+      "query": "cellino law personal injury lawyers",
+      "clicks": 213,
+      "impressions": 635,
+      "ctr": 0.3354330708661417,
+      "position": 1.2960629921259843
+    },
+    {
+      "query": "ross cellino",
+      "clicks": 213,
+      "impressions": 2237,
+      "ctr": 0.09521680822530175,
+      "position": 1.708985248100134
+    },
+    {
+      "query": "cellino law car accident attorney",
+      "clicks": 205,
+      "impressions": 634,
+      "ctr": 0.32334384858044163,
+      "position": 1.6324921135646688
+    },
+    {
+      "query": "celino law",
+      "clicks": 160,
+      "impressions": 721,
+      "ctr": 0.22191400832177532,
+      "position": 1.6851595006934814
+    },
+    {
+      "query": "knox mansion",
+      "clicks": 136,
+      "impressions": 838,
+      "ctr": 0.162291169451074,
+      "position": 2.770883054892601
+    },
+    {
+      "query": "jeanna cellino",
+      "clicks": 120,
+      "impressions": 433,
+      "ctr": 0.27713625866050806,
+      "position": 1.9722863741339491
+    },
+    {
+      "query": "cellino law rochester",
+      "clicks": 113,
+      "impressions": 810,
+      "ctr": 0.13950617283950617,
+      "position": 1.5049382716049382
+    },
+    {
+      "query": "knox mansion buffalo",
+      "clicks": 104,
+      "impressions": 423,
+      "ctr": 0.2458628841607565,
+      "position": 2.430260047281324
+    },
+    {
+      "query": "brigitte cellino",
+      "clicks": 102,
+      "impressions": 487,
+      "ctr": 0.20944558521560575,
+      "position": 2.055441478439425
+    },
+    {
+      "query": "gina cellino",
+      "clicks": 101,
+      "impressions": 219,
+      "ctr": 0.4611872146118721,
+      "position": 1.634703196347032
+    },
+    {
+      "query": "knox mansion tours",
+      "clicks": 79,
+      "impressions": 225,
+      "ctr": 0.3511111111111111,
+      "position": 2.062222222222222
+    },
+    {
+      "query": "cellino",
+      "clicks": 71,
+      "impressions": 2896,
+      "ctr": 0.02451657458563536,
+      "position": 6.342541436464089
+    },
+    {
+      "query": "888-888-8888",
+      "clicks": 68,
+      "impressions": 1214,
+      "ctr": 0.05601317957166392,
+      "position": 2.8220757825370675
+    },
+    {
+      "query": "cellino law llp",
+      "clicks": 67,
+      "impressions": 152,
+      "ctr": 0.4407894736842105,
+      "position": 1.3289473684210527
+    },
+    {
+      "query": "celino",
+      "clicks": 62,
+      "impressions": 599,
+      "ctr": 0.10350584307178631,
+      "position": 2.8247078464106847
+    },
+    {
+      "query": "cellino law lawyers",
+      "clicks": 62,
+      "impressions": 112,
+      "ctr": 0.5535714285714286,
+      "position": 1.0446428571428572
+    },
+    {
+      "query": "charles polevich",
+      "clicks": 57,
+      "impressions": 746,
+      "ctr": 0.07640750670241286,
+      "position": 3.485254691689008
+    },
+    {
+      "query": "cellino law nyc",
+      "clicks": 49,
+      "impressions": 365,
+      "ctr": 0.13424657534246576,
+      "position": 2.2575342465753425
+    },
+    {
+      "query": "knox mansion buffalo ny",
+      "clicks": 45,
+      "impressions": 199,
+      "ctr": 0.22613065326633167,
+      "position": 2.035175879396985
+    },
+    {
+      "query": "cellinolaw",
+      "clicks": 37,
+      "impressions": 102,
+      "ctr": 0.3627450980392157,
+      "position": 5.862745098039215
+    },
+    {
+      "query": "ross celino",
+      "clicks": 37,
+      "impressions": 172,
+      "ctr": 0.21511627906976744,
+      "position": 3.377906976744186
+    },
+    {
+      "query": "cellino law personal injury lawyer manhattan",
+      "clicks": 36,
+      "impressions": 36,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "ross cellino wife",
+      "clicks": 34,
+      "impressions": 392,
+      "ctr": 0.08673469387755102,
+      "position": 2.3392857142857144
+    },
+    {
+      "query": "cellino law accident attorneys reviews",
+      "clicks": 29,
+      "impressions": 818,
+      "ctr": 0.035452322738386305,
+      "position": 3.3312958435207825
+    },
+    {
+      "query": "maria pavlatos",
+      "clicks": 29,
+      "impressions": 100,
+      "ctr": 0.29,
+      "position": 1.31
+    },
+    {
+      "query": "888 888 8888",
+      "clicks": 27,
+      "impressions": 310,
+      "ctr": 0.08709677419354839,
+      "position": 3.8419354838709676
+    },
+    {
+      "query": "cellino law buffalo ny",
+      "clicks": 27,
+      "impressions": 145,
+      "ctr": 0.18620689655172415,
+      "position": 1.386206896551724
+    },
+    {
+      "query": "fatal car accident on old country road in westbury today",
+      "clicks": 27,
+      "impressions": 252,
+      "ctr": 0.10714285714285714,
+      "position": 2.138888888888889
+    },
+    {
+      "query": "celino and barnes",
+      "clicks": 26,
+      "impressions": 1644,
+      "ctr": 0.015815085158150853,
+      "position": 5.035888077858881
+    },
+    {
+      "query": "cellino law knox mansion",
+      "clicks": 25,
+      "impressions": 38,
+      "ctr": 0.6578947368421053,
+      "position": 1.0263157894736843
+    },
+    {
+      "query": "cellino law melville",
+      "clicks": 25,
+      "impressions": 486,
+      "ctr": 0.051440329218107,
+      "position": 1.9938271604938271
+    },
+    {
+      "query": "cellino & barnes",
+      "clicks": 23,
+      "impressions": 639,
+      "ctr": 0.03599374021909233,
+      "position": 5.117370892018779
+    },
+    {
+      "query": "cellino law rochester ny",
+      "clicks": 23,
+      "impressions": 126,
+      "ctr": 0.18253968253968253,
+      "position": 9.38888888888889
+    },
+    {
+      "query": "bridget cellino",
+      "clicks": 22,
+      "impressions": 87,
+      "ctr": 0.25287356321839083,
+      "position": 1.5977011494252875
+    },
+    {
+      "query": "cellino and barnes injury attorneys",
+      "clicks": 21,
+      "impressions": 342,
+      "ctr": 0.06140350877192982,
+      "position": 1.1637426900584795
+    },
+    {
+      "query": "cellino law bridgeport ct",
+      "clicks": 21,
+      "impressions": 57,
+      "ctr": 0.3684210526315789,
+      "position": 1.0526315789473684
+    },
+    {
+      "query": "gina cellino lawyer",
+      "clicks": 21,
+      "impressions": 43,
+      "ctr": 0.4883720930232558,
+      "position": 1
+    },
+    {
+      "query": "tim cellino",
+      "clicks": 21,
+      "impressions": 85,
+      "ctr": 0.24705882352941178,
+      "position": 5.576470588235294
+    },
+    {
+      "query": "celino law firm",
+      "clicks": 20,
+      "impressions": 99,
+      "ctr": 0.20202020202020202,
+      "position": 1.6464646464646466
+    },
+    {
+      "query": "cellini law",
+      "clicks": 19,
+      "impressions": 67,
+      "ctr": 0.2835820895522388,
+      "position": 1.2238805970149254
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://www.cellinolaw.com/",
+      "clicks": 4320,
+      "impressions": 250661,
+      "ctr": 0.01723443216136535,
+      "position": 20.037508826662304
+    },
+    {
+      "page": "https://www.cellinolaw.com/car-accident-lawyer/insurance-is-not-paying-enough-for-a-totaled-car/",
+      "clicks": 897,
+      "impressions": 128051,
+      "ctr": 0.007005021436771287,
+      "position": 8.59152993729061
+    },
+    {
+      "page": "https://www.cellinolaw.com/attorneys/all-attorneys/",
+      "clicks": 687,
+      "impressions": 50259,
+      "ctr": 0.013669193577269742,
+      "position": 9.19307984639567
+    },
+    {
+      "page": "https://www.cellinolaw.com/attorneys/all-attorneys/jeanna-cellino/",
+      "clicks": 596,
+      "impressions": 9533,
+      "ctr": 0.06251966851987832,
+      "position": 6.86887653414455
+    },
+    {
+      "page": "https://www.cellinolaw.com/buffalo/?utm_source=Organic&utm_medium=GBP&utm_campaign=Buffalo",
+      "clicks": 591,
+      "impressions": 162638,
+      "ctr": 0.00363383711063835,
+      "position": 3.0743614653402034
+    },
+    {
+      "page": "https://www.cellinolaw.com/knox-mansion/",
+      "clicks": 581,
+      "impressions": 8637,
+      "ctr": 0.0672687275674424,
+      "position": 5.916985064258423
+    },
+    {
+      "page": "https://www.cellinolaw.com/manhattan/motorcycle-accident-lawyer/major-cause-of-death/",
+      "clicks": 534,
+      "impressions": 148472,
+      "ctr": 0.003596637749878765,
+      "position": 5.273687968101729
+    },
+    {
+      "page": "https://www.cellinolaw.com/manhattan/car-accident-lawyer/towing-company-damage/",
+      "clicks": 510,
+      "impressions": 95301,
+      "ctr": 0.005351465357131615,
+      "position": 2.8612081720023923
+    },
+    {
+      "page": "https://www.cellinolaw.com/blogs/facts-hitting-a-dog-with-your-car/",
+      "clicks": 452,
+      "impressions": 61497,
+      "ctr": 0.007349952030180334,
+      "position": 4.727726555766948
+    },
+    {
+      "page": "https://www.cellinolaw.com/attorneys/all-attorneys/ross-cellino/",
+      "clicks": 412,
+      "impressions": 25226,
+      "ctr": 0.016332355506223736,
+      "position": 6.6420756362483155
+    },
+    {
+      "page": "https://www.cellinolaw.com/blogs/what-to-know-about-new-york-school-bus-laws/",
+      "clicks": 369,
+      "impressions": 53392,
+      "ctr": 0.006911147737488762,
+      "position": 4.418058885226252
+    },
+    {
+      "page": "https://www.cellinolaw.com/manhattan/",
+      "clicks": 327,
+      "impressions": 54320,
+      "ctr": 0.006019882179675994,
+      "position": 32.24027982326952
+    },
+    {
+      "page": "https://www.cellinolaw.com/knox-mansion/?utm_source=Organic&utm_medium=GBP&utm_campaign=KnoxMansion",
+      "clicks": 326,
+      "impressions": 5801,
+      "ctr": 0.056197207378038266,
+      "position": 5.574900879158766
+    },
+    {
+      "page": "https://www.cellinolaw.com/reviews/",
+      "clicks": 320,
+      "impressions": 15627,
+      "ctr": 0.020477378895501375,
+      "position": 5.249568055288923
+    },
+    {
+      "page": "https://www.cellinolaw.com/car-accident-lawyer/what-if-insurance-check-is-more-than-the-repairs/",
+      "clicks": 313,
+      "impressions": 56551,
+      "ctr": 0.005534826970345352,
+      "position": 4.529698855899984
+    },
+    {
+      "page": "https://www.cellinolaw.com/buffalo/",
+      "clicks": 270,
+      "impressions": 88242,
+      "ctr": 0.0030597674576732167,
+      "position": 20.881915641077946
+    },
+    {
+      "page": "https://www.cellinolaw.com/rochester/?utm_source=Organic&utm_medium=GBP&utm_campaign=Rochester",
+      "clicks": 258,
+      "impressions": 82442,
+      "ctr": 0.003129472841512821,
+      "position": 4.002983915965164
+    },
+    {
+      "page": "https://www.cellinolaw.com/attorneys/all-attorneys/brigitte-cellino/",
+      "clicks": 244,
+      "impressions": 10220,
+      "ctr": 0.023874755381604697,
+      "position": 7.036301369863014
+    },
+    {
+      "page": "https://www.cellinolaw.com/manhattan/?utm_source=Organic&utm_medium=GBP&utm_campaign=Manhattan",
+      "clicks": 194,
+      "impressions": 127837,
+      "ctr": 0.001517557514647559,
+      "position": 11.34909298559885
+    },
+    {
+      "page": "https://www.cellinolaw.com/contact/",
+      "clicks": 189,
+      "impressions": 40057,
+      "ctr": 0.004718276456050129,
+      "position": 5.90550964875053
+    },
+    {
+      "page": "https://www.cellinolaw.com/news/what-is-new-yorks-supplemental-spousal-liability-insurance/",
+      "clicks": 184,
+      "impressions": 14692,
+      "ctr": 0.012523822488429077,
+      "position": 6.2837598693166345
+    },
+    {
+      "page": "https://www.cellinolaw.com/car-accident-lawyer/do-you-have-to-accept-insurance-offer-on-totaled-car/",
+      "clicks": 172,
+      "impressions": 12925,
+      "ctr": 0.013307543520309478,
+      "position": 7.81477756286267
+    },
+    {
+      "page": "https://www.cellinolaw.com/car-accident-lawyer/negotiate-car-total-loss-with-car-insurance-adjusters/",
+      "clicks": 163,
+      "impressions": 26845,
+      "ctr": 0.006071894207487428,
+      "position": 7.249543676662321
+    },
+    {
+      "page": "https://www.cellinolaw.com/cellino-law-careers/",
+      "clicks": 153,
+      "impressions": 2088,
+      "ctr": 0.07327586206896551,
+      "position": 8.879789272030651
+    },
+    {
+      "page": "https://www.cellinolaw.com/car-accident-lawyer/how-to-describe-a-car-accident-for-insurance-examples/",
+      "clicks": 148,
+      "impressions": 15151,
+      "ctr": 0.009768332123292192,
+      "position": 6.297472114051878
+    },
+    {
+      "page": "https://www.cellinolaw.com/car-accident-lawyer/",
+      "clicks": 146,
+      "impressions": 51924,
+      "ctr": 0.0028118018642631537,
+      "position": 36.30084354055928
+    },
+    {
+      "page": "https://www.cellinolaw.com/blogs/how-insurance-policy-limits-affect-personal-injury-claims/",
+      "clicks": 142,
+      "impressions": 43267,
+      "ctr": 0.003281946980377655,
+      "position": 8.338710795756581
+    },
+    {
+      "page": "https://www.cellinolaw.com/rochester/",
+      "clicks": 138,
+      "impressions": 42987,
+      "ctr": 0.0032102728731942215,
+      "position": 20.520320096773442
+    },
+    {
+      "page": "https://www.cellinolaw.com/manhattan/car-accident-lawyer/police-impound-lot/",
+      "clicks": 137,
+      "impressions": 22921,
+      "ctr": 0.0059770516120588105,
+      "position": 4.772872038741765
+    },
+    {
+      "page": "https://www.cellinolaw.com/car-accident-lawyer/the-average-settlement-for-a-car-accident-while-pregnant/",
+      "clicks": 134,
+      "impressions": 7092,
+      "ctr": 0.01889452904681331,
+      "position": 5.815002820078962
+    },
+    {
+      "page": "https://www.cellinolaw.com/manhattan/car-accident-lawyer/diminished-value-claims/",
+      "clicks": 133,
+      "impressions": 35301,
+      "ctr": 0.003767598651596272,
+      "position": 22.349735134982012
+    },
+    {
+      "page": "https://www.cellinolaw.com/manhattan/car-accident-lawyer/tow-truck/",
+      "clicks": 117,
+      "impressions": 31237,
+      "ctr": 0.0037455581521913116,
+      "position": 3.138361558408298
+    },
+    {
+      "page": "https://www.cellinolaw.com/melville/?utm_source=Organic&utm_medium=GBP&utm_campaign=Melville",
+      "clicks": 114,
+      "impressions": 114105,
+      "ctr": 0.0009990797949257263,
+      "position": 3.7832697953639194
+    },
+    {
+      "page": "https://www.cellinolaw.com/manhattan/car-accident-lawyer/cracked-windshield/",
+      "clicks": 112,
+      "impressions": 40570,
+      "ctr": 0.0027606605866403746,
+      "position": 4.749346807986196
+    },
+    {
+      "page": "https://www.cellinolaw.com/attorneys/all-attorneys/annmarie-cellino/",
+      "clicks": 103,
+      "impressions": 2315,
+      "ctr": 0.04449244060475162,
+      "position": 10.131317494600433
+    },
+    {
+      "page": "https://www.cellinolaw.com/blogs/crash-during-a-test-drive/",
+      "clicks": 102,
+      "impressions": 18417,
+      "ctr": 0.005538361296628116,
+      "position": 7.5860346419069336
+    },
+    {
+      "page": "https://www.cellinolaw.com/attorneys/all-attorneys/timothy-cellino/",
+      "clicks": 98,
+      "impressions": 10468,
+      "ctr": 0.009361864730607567,
+      "position": 7.420997325181506
+    },
+    {
+      "page": "https://www.cellinolaw.com/workers-compensation-lawyer/how-long-do-i-have-to-sue-for-work-related-injuries-in-new-york/",
+      "clicks": 89,
+      "impressions": 18528,
+      "ctr": 0.004803540587219344,
+      "position": 9.994278929188255
+    },
+    {
+      "page": "https://www.cellinolaw.com/blogs/mv-104-form/",
+      "clicks": 87,
+      "impressions": 20902,
+      "ctr": 0.004162281121423787,
+      "position": 7.245383216917041
+    },
+    {
+      "page": "https://www.cellinolaw.com/news/long-island-hit-and-run-driver-minaj-father/",
+      "clicks": 81,
+      "impressions": 3808,
+      "ctr": 0.021271008403361345,
+      "position": 5.325892857142857
+    },
+    {
+      "page": "https://www.cellinolaw.com/attorneys/all-attorneys/mark-kochanowicz/",
+      "clicks": 74,
+      "impressions": 1479,
+      "ctr": 0.050033806626098715,
+      "position": 10.685598377281947
+    },
+    {
+      "page": "https://www.cellinolaw.com/melville/",
+      "clicks": 74,
+      "impressions": 156701,
+      "ctr": 0.00047223693530992143,
+      "position": 18.285588477418777
+    },
+    {
+      "page": "https://www.cellinolaw.com/wedding-event-phography-knox-mansion/",
+      "clicks": 72,
+      "impressions": 1960,
+      "ctr": 0.036734693877551024,
+      "position": 15.521428571428572
+    },
+    {
+      "page": "https://www.cellinolaw.com/blogs/is-it-illegal-to-hit-a-dog-and-drive-off/",
+      "clicks": 70,
+      "impressions": 24250,
+      "ctr": 0.00288659793814433,
+      "position": 7.284288659793814
+    },
+    {
+      "page": "https://www.cellinolaw.com/attorneys/all-attorneys/maria-pavlatos/",
+      "clicks": 69,
+      "impressions": 350,
+      "ctr": 0.19714285714285715,
+      "position": 3.4657142857142857
+    },
+    {
+      "page": "https://www.cellinolaw.com/blogs/insurance-company-pay-person-dies-car-accident/",
+      "clicks": 69,
+      "impressions": 11244,
+      "ctr": 0.0061366061899679825,
+      "position": 9.954731412308787
+    },
+    {
+      "page": "https://www.cellinolaw.com/motorcycle-accident-lawyer/who-can-be-sued/",
+      "clicks": 68,
+      "impressions": 6286,
+      "ctr": 0.010817690104995227,
+      "position": 10.621699013681196
+    },
+    {
+      "page": "https://www.cellinolaw.com/news/two-injured-in-severe-long-island-accident/",
+      "clicks": 68,
+      "impressions": 1878,
+      "ctr": 0.0362087326943557,
+      "position": 7.5702875399361025
+    },
+    {
+      "page": "https://www.cellinolaw.com/blogs/new-york-dog-bite-laws/",
+      "clicks": 67,
+      "impressions": 11971,
+      "ctr": 0.005596859076100576,
+      "position": 9.987720324116616
+    },
+    {
+      "page": "https://www.cellinolaw.com/work-injury-lawyer/coccyx-injury-during-time-off-work/",
+      "clicks": 64,
+      "impressions": 8408,
+      "ctr": 0.007611798287345386,
+      "position": 3.9898905803996194
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:06:24.500Z"
+}

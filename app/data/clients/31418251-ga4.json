@@ -1,0 +1,563 @@
+{
+  "propertyId": "properties/348878514",
+  "displayName": "Clixsy Website - GA4",
+  "dateRange": {
+    "start": "2025-12-17",
+    "end": "2026-03-17"
+  },
+  "totals": {
+    "sessions": 995,
+    "users": 909,
+    "screenPageViews": 1446,
+    "organicSessions": 284,
+    "bounceRate": 0.5877894932947323,
+    "avgSessionDuration": 90.35588182217599
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-17",
+      "sessions": 31,
+      "users": 27,
+      "screenPageViews": 40
+    },
+    {
+      "date": "2025-12-18",
+      "sessions": 11,
+      "users": 11,
+      "screenPageViews": 14
+    },
+    {
+      "date": "2025-12-19",
+      "sessions": 18,
+      "users": 15,
+      "screenPageViews": 32
+    },
+    {
+      "date": "2025-12-20",
+      "sessions": 14,
+      "users": 14,
+      "screenPageViews": 23
+    },
+    {
+      "date": "2025-12-21",
+      "sessions": 9,
+      "users": 8,
+      "screenPageViews": 9
+    },
+    {
+      "date": "2025-12-22",
+      "sessions": 26,
+      "users": 20,
+      "screenPageViews": 33
+    },
+    {
+      "date": "2025-12-23",
+      "sessions": 25,
+      "users": 25,
+      "screenPageViews": 39
+    },
+    {
+      "date": "2025-12-24",
+      "sessions": 31,
+      "users": 21,
+      "screenPageViews": 29
+    },
+    {
+      "date": "2025-12-25",
+      "sessions": 11,
+      "users": 9,
+      "screenPageViews": 11
+    },
+    {
+      "date": "2025-12-26",
+      "sessions": 17,
+      "users": 16,
+      "screenPageViews": 38
+    },
+    {
+      "date": "2025-12-27",
+      "sessions": 15,
+      "users": 15,
+      "screenPageViews": 18
+    },
+    {
+      "date": "2025-12-28",
+      "sessions": 11,
+      "users": 11,
+      "screenPageViews": 41
+    },
+    {
+      "date": "2025-12-29",
+      "sessions": 36,
+      "users": 32,
+      "screenPageViews": 64
+    },
+    {
+      "date": "2025-12-30",
+      "sessions": 34,
+      "users": 31,
+      "screenPageViews": 41
+    },
+    {
+      "date": "2025-12-31",
+      "sessions": 18,
+      "users": 17,
+      "screenPageViews": 24
+    },
+    {
+      "date": "2026-01-01",
+      "sessions": 12,
+      "users": 11,
+      "screenPageViews": 12
+    },
+    {
+      "date": "2026-01-02",
+      "sessions": 25,
+      "users": 25,
+      "screenPageViews": 37
+    },
+    {
+      "date": "2026-01-03",
+      "sessions": 19,
+      "users": 19,
+      "screenPageViews": 30
+    },
+    {
+      "date": "2026-01-04",
+      "sessions": 9,
+      "users": 9,
+      "screenPageViews": 9
+    },
+    {
+      "date": "2026-01-05",
+      "sessions": 29,
+      "users": 25,
+      "screenPageViews": 39
+    },
+    {
+      "date": "2026-01-06",
+      "sessions": 43,
+      "users": 42,
+      "screenPageViews": 52
+    },
+    {
+      "date": "2026-01-07",
+      "sessions": 33,
+      "users": 28,
+      "screenPageViews": 35
+    },
+    {
+      "date": "2026-01-08",
+      "sessions": 20,
+      "users": 19,
+      "screenPageViews": 25
+    },
+    {
+      "date": "2026-01-09",
+      "sessions": 32,
+      "users": 32,
+      "screenPageViews": 35
+    },
+    {
+      "date": "2026-01-10",
+      "sessions": 10,
+      "users": 10,
+      "screenPageViews": 9
+    },
+    {
+      "date": "2026-01-11",
+      "sessions": 13,
+      "users": 12,
+      "screenPageViews": 16
+    },
+    {
+      "date": "2026-01-12",
+      "sessions": 30,
+      "users": 27,
+      "screenPageViews": 37
+    },
+    {
+      "date": "2026-01-13",
+      "sessions": 47,
+      "users": 44,
+      "screenPageViews": 62
+    },
+    {
+      "date": "2026-01-14",
+      "sessions": 32,
+      "users": 27,
+      "screenPageViews": 61
+    },
+    {
+      "date": "2026-01-15",
+      "sessions": 26,
+      "users": 23,
+      "screenPageViews": 32
+    },
+    {
+      "date": "2026-01-16",
+      "sessions": 28,
+      "users": 27,
+      "screenPageViews": 56
+    },
+    {
+      "date": "2026-01-17",
+      "sessions": 19,
+      "users": 19,
+      "screenPageViews": 38
+    },
+    {
+      "date": "2026-01-18",
+      "sessions": 15,
+      "users": 15,
+      "screenPageViews": 15
+    },
+    {
+      "date": "2026-01-19",
+      "sessions": 20,
+      "users": 20,
+      "screenPageViews": 29
+    },
+    {
+      "date": "2026-01-20",
+      "sessions": 28,
+      "users": 27,
+      "screenPageViews": 47
+    },
+    {
+      "date": "2026-01-21",
+      "sessions": 31,
+      "users": 28,
+      "screenPageViews": 45
+    },
+    {
+      "date": "2026-01-22",
+      "sessions": 42,
+      "users": 35,
+      "screenPageViews": 69
+    },
+    {
+      "date": "2026-01-23",
+      "sessions": 23,
+      "users": 23,
+      "screenPageViews": 32
+    },
+    {
+      "date": "2026-01-24",
+      "sessions": 17,
+      "users": 16,
+      "screenPageViews": 19
+    },
+    {
+      "date": "2026-01-25",
+      "sessions": 10,
+      "users": 5,
+      "screenPageViews": 8
+    },
+    {
+      "date": "2026-01-26",
+      "sessions": 26,
+      "users": 22,
+      "screenPageViews": 44
+    },
+    {
+      "date": "2026-01-27",
+      "sessions": 1,
+      "users": 1,
+      "screenPageViews": 0
+    },
+    {
+      "date": "2026-01-31",
+      "sessions": 1,
+      "users": 1,
+      "screenPageViews": 1
+    },
+    {
+      "date": "2026-02-02",
+      "sessions": 4,
+      "users": 4,
+      "screenPageViews": 3
+    },
+    {
+      "date": "2026-02-09",
+      "sessions": 1,
+      "users": 1,
+      "screenPageViews": 2
+    },
+    {
+      "date": "2026-02-10",
+      "sessions": 3,
+      "users": 3,
+      "screenPageViews": 8
+    },
+    {
+      "date": "2026-02-11",
+      "sessions": 6,
+      "users": 6,
+      "screenPageViews": 8
+    },
+    {
+      "date": "2026-02-12",
+      "sessions": 2,
+      "users": 2,
+      "screenPageViews": 1
+    },
+    {
+      "date": "2026-02-13",
+      "sessions": 3,
+      "users": 3,
+      "screenPageViews": 24
+    },
+    {
+      "date": "2026-02-14",
+      "sessions": 6,
+      "users": 5,
+      "screenPageViews": 5
+    },
+    {
+      "date": "2026-02-15",
+      "sessions": 4,
+      "users": 3,
+      "screenPageViews": 13
+    },
+    {
+      "date": "2026-02-16",
+      "sessions": 1,
+      "users": 1,
+      "screenPageViews": 3
+    },
+    {
+      "date": "2026-02-17",
+      "sessions": 2,
+      "users": 2,
+      "screenPageViews": 1
+    },
+    {
+      "date": "2026-02-18",
+      "sessions": 3,
+      "users": 3,
+      "screenPageViews": 8
+    },
+    {
+      "date": "2026-02-19",
+      "sessions": 7,
+      "users": 7,
+      "screenPageViews": 16
+    },
+    {
+      "date": "2026-02-23",
+      "sessions": 1,
+      "users": 1,
+      "screenPageViews": 1
+    },
+    {
+      "date": "2026-02-24",
+      "sessions": 1,
+      "users": 1,
+      "screenPageViews": 1
+    },
+    {
+      "date": "2026-02-26",
+      "sessions": 1,
+      "users": 1,
+      "screenPageViews": 0
+    },
+    {
+      "date": "2026-03-04",
+      "sessions": 1,
+      "users": 1,
+      "screenPageViews": 1
+    },
+    {
+      "date": "2026-03-10",
+      "sessions": 1,
+      "users": 1,
+      "screenPageViews": 1
+    }
+  ],
+  "channelData": [
+    {
+      "channel": "Direct",
+      "sessions": 566,
+      "users": 517
+    },
+    {
+      "channel": "Organic Search",
+      "sessions": 284,
+      "users": 209
+    },
+    {
+      "channel": "Referral",
+      "sessions": 110,
+      "users": 77
+    },
+    {
+      "channel": "Organic Social",
+      "sessions": 26,
+      "users": 23
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": 8,
+      "users": 8
+    },
+    {
+      "channel": "Organic Video",
+      "sessions": 1,
+      "users": 1
+    }
+  ],
+  "topPages": [
+    {
+      "page": "/",
+      "screenPageViews": 797,
+      "sessions": 741
+    },
+    {
+      "page": "/about-us/",
+      "screenPageViews": 135,
+      "sessions": 115
+    },
+    {
+      "page": "/seo/",
+      "screenPageViews": 98,
+      "sessions": 94
+    },
+    {
+      "page": "/law-firm/",
+      "screenPageViews": 82,
+      "sessions": 76
+    },
+    {
+      "page": "/contact-us/",
+      "screenPageViews": 70,
+      "sessions": 64
+    },
+    {
+      "page": "/smart-ads/",
+      "screenPageViews": 46,
+      "sessions": 44
+    },
+    {
+      "page": "/blog/",
+      "screenPageViews": 36,
+      "sessions": 33
+    },
+    {
+      "page": "/sitemap/",
+      "screenPageViews": 36,
+      "sessions": 13
+    },
+    {
+      "page": "/social-wall/",
+      "screenPageViews": 25,
+      "sessions": 23
+    },
+    {
+      "page": "/lsa-rank-scan/",
+      "screenPageViews": 14,
+      "sessions": 14
+    },
+    {
+      "page": "/privacy-policy/",
+      "screenPageViews": 13,
+      "sessions": 13
+    },
+    {
+      "page": "/geo-ai-and-the-myth-of-new-why-the-best-seos-are-still-leading-the-future/",
+      "screenPageViews": 9,
+      "sessions": 8
+    },
+    {
+      "page": "/ai-killed-the-seo-industry-not-quite-re-evaluating-the-role-of-seo-in-an-ai-landscape/",
+      "screenPageViews": 8,
+      "sessions": 8
+    },
+    {
+      "page": "/how-11-may-actually-3-and-how-seo-ppc-may-merge/",
+      "screenPageViews": 8,
+      "sessions": 8
+    },
+    {
+      "page": "/terms-and-conditions/",
+      "screenPageViews": 8,
+      "sessions": 8
+    },
+    {
+      "page": "/the-seo-black-box-is-breaking-how-were-reverse-engineering-googles-algorithm/",
+      "screenPageViews": 8,
+      "sessions": 10
+    },
+    {
+      "page": "/blog-coreys-thoughts-on-youtube-ads-particularly-6s-bumper-ads-and-15s-in-stream-non-skippable/",
+      "screenPageViews": 7,
+      "sessions": 7
+    },
+    {
+      "page": "/did-you-know-google-is-giving-away-your-leads-to-competitors/",
+      "screenPageViews": 7,
+      "sessions": 7
+    },
+    {
+      "page": "/wp-admin/.wp-languages/.wjpl95qv_mlr.php",
+      "screenPageViews": 7,
+      "sessions": 2
+    },
+    {
+      "page": "/the-seo-game-has-changed-corey-takes-the-stage-at-fireproof-to-redefine-strategy-in-the-ai-era/",
+      "screenPageViews": 6,
+      "sessions": 6
+    },
+    {
+      "page": "/bert-his-mum-walk-into-a-bar/",
+      "screenPageViews": 5,
+      "sessions": 5
+    },
+    {
+      "page": "/from-keyword-spam-to-ai-strategy-my-accidental-journey-into-seo/",
+      "screenPageViews": 5,
+      "sessions": 4
+    },
+    {
+      "page": "/case-results-page/",
+      "screenPageViews": 2,
+      "sessions": 2
+    },
+    {
+      "page": "/mum-a-game-changing-update/",
+      "screenPageViews": 2,
+      "sessions": 2
+    },
+    {
+      "page": "/about-us",
+      "screenPageViews": 1,
+      "sessions": 1
+    },
+    {
+      "page": "/attorneys/will-pettet/",
+      "screenPageViews": 1,
+      "sessions": 1
+    },
+    {
+      "page": "/author/michael/",
+      "screenPageViews": 1,
+      "sessions": 1
+    },
+    {
+      "page": "/bert-his-mum-walk-into-a-bar",
+      "screenPageViews": 1,
+      "sessions": 1
+    },
+    {
+      "page": "/blog-coreys-thoughts-on-youtube-ads-particularly-6s-bumper-ads-and-15s-in-stream-non-skippable",
+      "screenPageViews": 1,
+      "sessions": 1
+    },
+    {
+      "page": "/category/uncategorized/",
+      "screenPageViews": 1,
+      "sessions": 1
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:06:50.226Z"
+}

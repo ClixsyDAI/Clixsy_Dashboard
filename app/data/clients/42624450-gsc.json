@@ -1,0 +1,1350 @@
+{
+  "property": "https://calltheotterguys.com/",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 1521,
+    "impressions": 751075,
+    "ctr": 0.002025097360450022,
+    "position": 15.333795619977263
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 20,
+      "impressions": 13726,
+      "ctr": 0.0014570887367040652,
+      "position": 9.478653650007285
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 19,
+      "impressions": 6606,
+      "ctr": 0.0028761731759006964,
+      "position": 16.539206781713595
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 15,
+      "impressions": 6911,
+      "ctr": 0.0021704529011720448,
+      "position": 15.730285052814354
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 20,
+      "impressions": 8658,
+      "ctr": 0.00231000231000231,
+      "position": 22.345460845460845
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 18,
+      "impressions": 7250,
+      "ctr": 0.0024827586206896553,
+      "position": 21.503862068965518
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 6,
+      "impressions": 7436,
+      "ctr": 0.0008068854222700376,
+      "position": 22.290882194728347
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 11,
+      "impressions": 5569,
+      "ctr": 0.0019752199676782187,
+      "position": 22.365236128568863
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 22,
+      "impressions": 7661,
+      "ctr": 0.0028716877692207283,
+      "position": 15.815037201409737
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 13,
+      "impressions": 7512,
+      "ctr": 0.0017305644302449414,
+      "position": 16.393237486687966
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 3,
+      "impressions": 6534,
+      "ctr": 0.0004591368227731864,
+      "position": 17.947046219773494
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 2,
+      "impressions": 7261,
+      "ctr": 0.0002754441536978378,
+      "position": 15.901253270899325
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 9,
+      "impressions": 7577,
+      "ctr": 0.0011878051999472086,
+      "position": 18.96674145440148
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 11,
+      "impressions": 6117,
+      "ctr": 0.0017982671244073892,
+      "position": 15.329082883766553
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 16,
+      "impressions": 7100,
+      "ctr": 0.0022535211267605635,
+      "position": 16.64042253521127
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 20,
+      "impressions": 10631,
+      "ctr": 0.0018812905653278148,
+      "position": 10.775750164612925
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 9,
+      "impressions": 7817,
+      "ctr": 0.001151336829985928,
+      "position": 13.276064986567738
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 7,
+      "impressions": 6978,
+      "ctr": 0.001003152765835483,
+      "position": 14.877901977644024
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 6,
+      "impressions": 8945,
+      "ctr": 0.0006707657909446618,
+      "position": 24.966014533258804
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 12,
+      "impressions": 7916,
+      "ctr": 0.0015159171298635675,
+      "position": 13.41422435573522
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 18,
+      "impressions": 6341,
+      "ctr": 0.0028386689796562055,
+      "position": 13.990380066235609
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 17,
+      "impressions": 6880,
+      "ctr": 0.0024709302325581395,
+      "position": 13.353343023255814
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 25,
+      "impressions": 8252,
+      "ctr": 0.0030295685894328648,
+      "position": 12.009815802229763
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 23,
+      "impressions": 6969,
+      "ctr": 0.0033003300330033004,
+      "position": 13.89295451284259
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 19,
+      "impressions": 9445,
+      "ctr": 0.002011646373742721,
+      "position": 12.299417681312864
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 16,
+      "impressions": 15472,
+      "ctr": 0.001034126163391934,
+      "position": 7.952300930713547
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 15,
+      "impressions": 10793,
+      "ctr": 0.0013897896784953211,
+      "position": 10.088668581488001
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 12,
+      "impressions": 5540,
+      "ctr": 0.0021660649819494585,
+      "position": 18.070216606498196
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 10,
+      "impressions": 8125,
+      "ctr": 0.0012307692307692308,
+      "position": 14.758892307692308
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 19,
+      "impressions": 11556,
+      "ctr": 0.0016441675320179993,
+      "position": 10.437867774316372
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 20,
+      "impressions": 11965,
+      "ctr": 0.001671541997492687,
+      "position": 9.850647722524029
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 20,
+      "impressions": 10655,
+      "ctr": 0.0018770530267480056,
+      "position": 11.153542937587988
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 20,
+      "impressions": 12150,
+      "ctr": 0.0016460905349794238,
+      "position": 17.93744855967078
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 12,
+      "impressions": 10283,
+      "ctr": 0.001166974618302052,
+      "position": 10.732568316639114
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 14,
+      "impressions": 8513,
+      "ctr": 0.0016445436391401386,
+      "position": 12.29178902854458
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 13,
+      "impressions": 15816,
+      "ctr": 0.0008219524532119373,
+      "position": 6.514289327263531
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 13,
+      "impressions": 11868,
+      "ctr": 0.0010953825412874957,
+      "position": 10.093950117964274
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 33,
+      "impressions": 11547,
+      "ctr": 0.0028578851649779164,
+      "position": 10.483588810946566
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 26,
+      "impressions": 13157,
+      "ctr": 0.0019761343771376454,
+      "position": 11.015201033670289
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 20,
+      "impressions": 12632,
+      "ctr": 0.0015832805573147563,
+      "position": 12.011082963901202
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 18,
+      "impressions": 12019,
+      "ctr": 0.001497628754472086,
+      "position": 9.66669440053249
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 16,
+      "impressions": 12258,
+      "ctr": 0.0013052700277369881,
+      "position": 9.846875509871104
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 18,
+      "impressions": 11672,
+      "ctr": 0.0015421521590130226,
+      "position": 10.439513365318712
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 13,
+      "impressions": 11713,
+      "ctr": 0.0011098779134295228,
+      "position": 11.144540254418168
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 20,
+      "impressions": 12069,
+      "ctr": 0.0016571381224625072,
+      "position": 11.541055596984009
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 23,
+      "impressions": 11368,
+      "ctr": 0.0020232230823363827,
+      "position": 12.14646375791696
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 18,
+      "impressions": 13108,
+      "ctr": 0.00137320720170888,
+      "position": 17.548977723527617
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 17,
+      "impressions": 12793,
+      "ctr": 0.0013288517157820684,
+      "position": 9.54951926834988
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 17,
+      "impressions": 11630,
+      "ctr": 0.0014617368873602753,
+      "position": 13.256835769561478
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 8,
+      "impressions": 8272,
+      "ctr": 0.0009671179883945841,
+      "position": 11.072654738878143
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 27,
+      "impressions": 9570,
+      "ctr": 0.0028213166144200625,
+      "position": 8.603866248693835
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 28,
+      "impressions": 6276,
+      "ctr": 0.004461440407903123,
+      "position": 12.248087954110899
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 24,
+      "impressions": 8971,
+      "ctr": 0.0026752870360049045,
+      "position": 12.474417567718204
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 19,
+      "impressions": 14118,
+      "ctr": 0.0013457996883411247,
+      "position": 9.274401473296502
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 16,
+      "impressions": 8055,
+      "ctr": 0.0019863438857852266,
+      "position": 13.717939168218498
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 9,
+      "impressions": 6184,
+      "ctr": 0.0014553686934023287,
+      "position": 14.396507115135835
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 9,
+      "impressions": 6152,
+      "ctr": 0.0014629388816644994,
+      "position": 13.671488946684006
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 26,
+      "impressions": 6250,
+      "ctr": 0.00416,
+      "position": 17.52192
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 18,
+      "impressions": 6039,
+      "ctr": 0.0029806259314456036,
+      "position": 17.68736545785726
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 11,
+      "impressions": 6617,
+      "ctr": 0.0016623847665105033,
+      "position": 23.31827111984283
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 17,
+      "impressions": 8026,
+      "ctr": 0.002118116122601545,
+      "position": 29.37303762770994
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 15,
+      "impressions": 5869,
+      "ctr": 0.0025558016697904244,
+      "position": 15.577611177372637
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 8,
+      "impressions": 4911,
+      "ctr": 0.0016289961311341885,
+      "position": 17.56281816330686
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 17,
+      "impressions": 5679,
+      "ctr": 0.002993484768445149,
+      "position": 15.00633914421553
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 31,
+      "impressions": 18514,
+      "ctr": 0.0016744085556875878,
+      "position": 11.059360483958086
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 23,
+      "impressions": 7121,
+      "ctr": 0.00322988344333661,
+      "position": 14.158685577868276
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 26,
+      "impressions": 6831,
+      "ctr": 0.0038061777192211974,
+      "position": 14.393646611037916
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 22,
+      "impressions": 5572,
+      "ctr": 0.003948312993539124,
+      "position": 15.903804737975593
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 21,
+      "impressions": 5624,
+      "ctr": 0.0037339971550497866,
+      "position": 14.39651493598862
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 7,
+      "impressions": 4904,
+      "ctr": 0.0014274061990212073,
+      "position": 15.506321370309951
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 10,
+      "impressions": 5252,
+      "ctr": 0.001904036557501904,
+      "position": 14.963442498095963
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 27,
+      "impressions": 6265,
+      "ctr": 0.004309656823623304,
+      "position": 14.837829209896249
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 24,
+      "impressions": 6824,
+      "ctr": 0.0035169988276670576,
+      "position": 13.403868698710435
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 20,
+      "impressions": 6875,
+      "ctr": 0.002909090909090909,
+      "position": 16.34341818181818
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 13,
+      "impressions": 8620,
+      "ctr": 0.0015081206496519721,
+      "position": 31.902668213457076
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 13,
+      "impressions": 5699,
+      "ctr": 0.0022811019477101246,
+      "position": 16.020880856290578
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 8,
+      "impressions": 5575,
+      "ctr": 0.0014349775784753362,
+      "position": 26.55354260089686
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 13,
+      "impressions": 7217,
+      "ctr": 0.0018013024802549535,
+      "position": 32.28072606346127
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 22,
+      "impressions": 6565,
+      "ctr": 0.0033511043412033513,
+      "position": 27.566641279512567
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 14,
+      "impressions": 5552,
+      "ctr": 0.002521613832853026,
+      "position": 17.529538904899134
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 25,
+      "impressions": 6258,
+      "ctr": 0.003994886545222115,
+      "position": 14.743368488334932
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 19,
+      "impressions": 5152,
+      "ctr": 0.003687888198757764,
+      "position": 14.947787267080745
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 16,
+      "impressions": 5459,
+      "ctr": 0.0029309397325517493,
+      "position": 13.795383769921232
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 15,
+      "impressions": 4404,
+      "ctr": 0.0034059945504087193,
+      "position": 17.256584922797458
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 9,
+      "impressions": 4170,
+      "ctr": 0.002158273381294964,
+      "position": 15.78009592326139
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 28,
+      "impressions": 8285,
+      "ctr": 0.003379601689800845,
+      "position": 9.658780929390465
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 25,
+      "impressions": 4666,
+      "ctr": 0.005357908272610373,
+      "position": 16.14980711530219
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 23,
+      "impressions": 5140,
+      "ctr": 0.004474708171206225,
+      "position": 16.83307392996109
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 16,
+      "impressions": 7106,
+      "ctr": 0.002251618350689558,
+      "position": 33.632001125809175
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 21,
+      "impressions": 6308,
+      "ctr": 0.0033291058972733036,
+      "position": 13.667564996829423
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 14,
+      "impressions": 5334,
+      "ctr": 0.0026246719160104987,
+      "position": 16.614735658042747
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "the otter guys",
+      "clicks": 248,
+      "impressions": 1036,
+      "ctr": 0.23938223938223938,
+      "position": 2.5878378378378377
+    },
+    {
+      "query": "otter guys",
+      "clicks": 140,
+      "impressions": 920,
+      "ctr": 0.15217391304347827,
+      "position": 1.7652173913043478
+    },
+    {
+      "query": "otter guys charlottesville",
+      "clicks": 65,
+      "impressions": 341,
+      "ctr": 0.1906158357771261,
+      "position": 2.19941348973607
+    },
+    {
+      "query": "the otter guys charlottesville va",
+      "clicks": 46,
+      "impressions": 105,
+      "ctr": 0.4380952380952381,
+      "position": 1.3523809523809525
+    },
+    {
+      "query": "furnace",
+      "clicks": 12,
+      "impressions": 141215,
+      "ctr": 0.00008497680841270403,
+      "position": 5.165343624969019
+    },
+    {
+      "query": "new furnace cost",
+      "clicks": 10,
+      "impressions": 18309,
+      "ctr": 0.0005461794745753454,
+      "position": 10.958326506089902
+    },
+    {
+      "query": "otter guys plumbing",
+      "clicks": 10,
+      "impressions": 49,
+      "ctr": 0.20408163265306123,
+      "position": 4.4897959183673475
+    },
+    {
+      "query": "the otter guys heating, air conditioning, plumbing",
+      "clicks": 7,
+      "impressions": 249,
+      "ctr": 0.028112449799196786,
+      "position": 1.2931726907630523
+    },
+    {
+      "query": "plumber charlottesville",
+      "clicks": 6,
+      "impressions": 1758,
+      "ctr": 0.0034129692832764505,
+      "position": 5.6103526734926055
+    },
+    {
+      "query": "plumbers charlottesville",
+      "clicks": 6,
+      "impressions": 1056,
+      "ctr": 0.005681818181818182,
+      "position": 8.65814393939394
+    },
+    {
+      "query": "plumbers in charlottesville va",
+      "clicks": 6,
+      "impressions": 208,
+      "ctr": 0.028846153846153848,
+      "position": 8.759615384615385
+    },
+    {
+      "query": "the otter guys reviews",
+      "clicks": 6,
+      "impressions": 202,
+      "ctr": 0.0297029702970297,
+      "position": 7.1138613861386135
+    },
+    {
+      "query": "emergency plumber charlottesville",
+      "clicks": 5,
+      "impressions": 156,
+      "ctr": 0.03205128205128205,
+      "position": 9.564102564102564
+    },
+    {
+      "query": "heat pump replacement cost",
+      "clicks": 5,
+      "impressions": 1801,
+      "ctr": 0.00277623542476402,
+      "position": 17.062187673514714
+    },
+    {
+      "query": "new furnace",
+      "clicks": 5,
+      "impressions": 25302,
+      "ctr": 0.00019761283692988697,
+      "position": 5.0325270729586595
+    },
+    {
+      "query": "quest pipe",
+      "clicks": 5,
+      "impressions": 2056,
+      "ctr": 0.0024319066147859923,
+      "position": 2.7261673151750974
+    },
+    {
+      "query": "charlottesville hvac companies",
+      "clicks": 4,
+      "impressions": 46,
+      "ctr": 0.08695652173913043,
+      "position": 13.130434782608695
+    },
+    {
+      "query": "hvac charlottesville",
+      "clicks": 4,
+      "impressions": 294,
+      "ctr": 0.013605442176870748,
+      "position": 12.581632653061224
+    },
+    {
+      "query": "new furnace cost 2025",
+      "clicks": 4,
+      "impressions": 210,
+      "ctr": 0.01904761904761905,
+      "position": 2.0142857142857142
+    },
+    {
+      "query": "plumber charlottesville va",
+      "clicks": 4,
+      "impressions": 435,
+      "ctr": 0.009195402298850575,
+      "position": 10.705747126436782
+    },
+    {
+      "query": "charlottesville plumber",
+      "clicks": 3,
+      "impressions": 765,
+      "ctr": 0.00392156862745098,
+      "position": 15.313725490196079
+    },
+    {
+      "query": "cost of new furnace and installation",
+      "clicks": 3,
+      "impressions": 2164,
+      "ctr": 0.0013863216266173752,
+      "position": 10.305452865064694
+    },
+    {
+      "query": "furnace cost",
+      "clicks": 3,
+      "impressions": 9693,
+      "ctr": 0.00030950170225936243,
+      "position": 9.675745383266275
+    },
+    {
+      "query": "jlk endeavors llc",
+      "clicks": 3,
+      "impressions": 87,
+      "ctr": 0.034482758620689655,
+      "position": 1.0804597701149425
+    },
+    {
+      "query": "plumbing companies in virginia",
+      "clicks": 3,
+      "impressions": 7,
+      "ctr": 0.42857142857142855,
+      "position": 26.714285714285715
+    },
+    {
+      "query": "quest pipe vs pex",
+      "clicks": 3,
+      "impressions": 20,
+      "ctr": 0.15,
+      "position": 1.35
+    },
+    {
+      "query": "quest plumbing",
+      "clicks": 3,
+      "impressions": 911,
+      "ctr": 0.003293084522502744,
+      "position": 4.913282107574094
+    },
+    {
+      "query": "furnace replacement cost",
+      "clicks": 2,
+      "impressions": 9717,
+      "ctr": 0.00020582484305855717,
+      "position": 16.773181022949473
+    },
+    {
+      "query": "how much does a tankless hot water heater cost",
+      "clicks": 2,
+      "impressions": 21,
+      "ctr": 0.09523809523809523,
+      "position": 13.904761904761905
+    },
+    {
+      "query": "how to fix a slow bathtub drain",
+      "clicks": 2,
+      "impressions": 9,
+      "ctr": 0.2222222222222222,
+      "position": 9.666666666666666
+    },
+    {
+      "query": "hvac companies in virginia",
+      "clicks": 2,
+      "impressions": 7,
+      "ctr": 0.2857142857142857,
+      "position": 42.42857142857143
+    },
+    {
+      "query": "hvac goochland va",
+      "clicks": 2,
+      "impressions": 25,
+      "ctr": 0.08,
+      "position": 10.04
+    },
+    {
+      "query": "plumber near me",
+      "clicks": 2,
+      "impressions": 2495,
+      "ctr": 0.0008016032064128256,
+      "position": 2.8753507014028057
+    },
+    {
+      "query": "plumber waynesboro va",
+      "clicks": 2,
+      "impressions": 149,
+      "ctr": 0.013422818791946308,
+      "position": 4.496644295302014
+    },
+    {
+      "query": "plumbers near me",
+      "clicks": 2,
+      "impressions": 700,
+      "ctr": 0.002857142857142857,
+      "position": 6.945714285714286
+    },
+    {
+      "query": "plumbing charlottesville va",
+      "clicks": 2,
+      "impressions": 364,
+      "ctr": 0.005494505494505495,
+      "position": 12.472527472527473
+    },
+    {
+      "query": "quest pipes",
+      "clicks": 2,
+      "impressions": 506,
+      "ctr": 0.003952569169960474,
+      "position": 6.290513833992095
+    },
+    {
+      "query": "quest piping",
+      "clicks": 2,
+      "impressions": 1103,
+      "ctr": 0.001813236627379873,
+      "position": 4.255666364460562
+    },
+    {
+      "query": "quest plumbing fittings",
+      "clicks": 2,
+      "impressions": 119,
+      "ctr": 0.01680672268907563,
+      "position": 1.7478991596638656
+    },
+    {
+      "query": "water heater install charlottesville va",
+      "clicks": 2,
+      "impressions": 82,
+      "ctr": 0.024390243902439025,
+      "position": 3.6341463414634148
+    },
+    {
+      "query": "1 in x 1 in pvc slide repair coupling",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "4 basic categories of hvac systems",
+      "clicks": 1,
+      "impressions": 313,
+      "ctr": 0.003194888178913738,
+      "position": 8.11182108626198
+    },
+    {
+      "query": "air conditioning virginia",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "bathtub drain slow but not clogged",
+      "clicks": 1,
+      "impressions": 116,
+      "ctr": 0.008620689655172414,
+      "position": 9.181034482758621
+    },
+    {
+      "query": "best plumbers in charlottesville va",
+      "clicks": 1,
+      "impressions": 63,
+      "ctr": 0.015873015873015872,
+      "position": 9.206349206349206
+    },
+    {
+      "query": "best plumbers near me small jobs",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "charlottesville furnace repair",
+      "clicks": 1,
+      "impressions": 65,
+      "ctr": 0.015384615384615385,
+      "position": 8.2
+    },
+    {
+      "query": "charlottesville plumbers",
+      "clicks": 1,
+      "impressions": 514,
+      "ctr": 0.0019455252918287938,
+      "position": 12.142023346303501
+    },
+    {
+      "query": "charlottesville va plumbers",
+      "clicks": 1,
+      "impressions": 33,
+      "ctr": 0.030303030303030304,
+      "position": 8.93939393939394
+    },
+    {
+      "query": "commercial hvac harrisonburg va",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 126
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://calltheotterguys.com/",
+      "clicks": 343,
+      "impressions": 19240,
+      "ctr": 0.01782744282744283,
+      "position": 15.517307692307693
+    },
+    {
+      "page": "https://calltheotterguys.com/charlottesville-hvac-plumbing-services/?utm_campaign=gmb",
+      "clicks": 318,
+      "impressions": 32228,
+      "ctr": 0.009867196226883455,
+      "position": 10.871198957428323
+    },
+    {
+      "page": "https://calltheotterguys.com/?utm_campaign=gmb",
+      "clicks": 141,
+      "impressions": 17222,
+      "ctr": 0.008187202415515038,
+      "position": 2.301707118801533
+    },
+    {
+      "page": "https://calltheotterguys.com/new-furnace-cost/",
+      "clicks": 88,
+      "impressions": 382273,
+      "ctr": 0.00023020197607469007,
+      "position": 12.816144483131165
+    },
+    {
+      "page": "https://calltheotterguys.com/replace-quest-piping/",
+      "clicks": 86,
+      "impressions": 14573,
+      "ctr": 0.005901324366980032,
+      "position": 3.9851094489809924
+    },
+    {
+      "page": "https://calltheotterguys.com/heat-pump-replacement-cost/",
+      "clicks": 57,
+      "impressions": 33250,
+      "ctr": 0.0017142857142857142,
+      "position": 27.742526315789473
+    },
+    {
+      "page": "https://calltheotterguys.com/tankless-water-heater-cost/",
+      "clicks": 52,
+      "impressions": 70031,
+      "ctr": 0.0007425283088917765,
+      "position": 6.203352800902458
+    },
+    {
+      "page": "https://calltheotterguys.com/contact-us/",
+      "clicks": 40,
+      "impressions": 4460,
+      "ctr": 0.008968609865470852,
+      "position": 5.798430493273543
+    },
+    {
+      "page": "https://calltheotterguys.com/were-otterly-excited-to-share-our-big-secret-with-you/",
+      "clicks": 31,
+      "impressions": 2513,
+      "ctr": 0.012335853561480302,
+      "position": 3.7270194986072425
+    },
+    {
+      "page": "https://calltheotterguys.com/crozet-hvac-plumbing-services/",
+      "clicks": 30,
+      "impressions": 3543,
+      "ctr": 0.00846740050804403,
+      "position": 7.438046852949478
+    },
+    {
+      "page": "https://calltheotterguys.com/about/",
+      "clicks": 25,
+      "impressions": 3936,
+      "ctr": 0.0063516260162601625,
+      "position": 5.087398373983739
+    },
+    {
+      "page": "https://calltheotterguys.com/emergency-service-plumbing/",
+      "clicks": 21,
+      "impressions": 11345,
+      "ctr": 0.0018510356985456148,
+      "position": 26.904892022917586
+    },
+    {
+      "page": "https://calltheotterguys.com/reviews/",
+      "clicks": 19,
+      "impressions": 1314,
+      "ctr": 0.01445966514459665,
+      "position": 3.293759512937595
+    },
+    {
+      "page": "https://calltheotterguys.com/bathtub-draining-slow-read-this/",
+      "clicks": 18,
+      "impressions": 6577,
+      "ctr": 0.0027368100957883535,
+      "position": 11.468298616390452
+    },
+    {
+      "page": "https://calltheotterguys.com/water-heater-installation-cost/",
+      "clicks": 16,
+      "impressions": 14464,
+      "ctr": 0.0011061946902654867,
+      "position": 18.63454092920354
+    },
+    {
+      "page": "https://calltheotterguys.com/culpeper-hvac-plumbing-services/",
+      "clicks": 15,
+      "impressions": 27647,
+      "ctr": 0.0005425543458603103,
+      "position": 5.656056715014287
+    },
+    {
+      "page": "https://calltheotterguys.com/plumbing-services/",
+      "clicks": 15,
+      "impressions": 2419,
+      "ctr": 0.0062009094667217855,
+      "position": 9.256304257957833
+    },
+    {
+      "page": "https://calltheotterguys.com/careers/",
+      "clicks": 12,
+      "impressions": 334,
+      "ctr": 0.03592814371257485,
+      "position": 7.8532934131736525
+    },
+    {
+      "page": "https://calltheotterguys.com/water-filtration-system-installation-replacement/",
+      "clicks": 12,
+      "impressions": 8376,
+      "ctr": 0.0014326647564469914,
+      "position": 11.932545367717287
+    },
+    {
+      "page": "https://calltheotterguys.com/waynesboro-hvac-plumbing-services/",
+      "clicks": 12,
+      "impressions": 9795,
+      "ctr": 0.001225114854517611,
+      "position": 13.411230219499744
+    },
+    {
+      "page": "https://calltheotterguys.com/heating/",
+      "clicks": 11,
+      "impressions": 3031,
+      "ctr": 0.003629165291982844,
+      "position": 10.13922797756516
+    },
+    {
+      "page": "https://calltheotterguys.com/shower-installation/",
+      "clicks": 11,
+      "impressions": 769,
+      "ctr": 0.014304291287386216,
+      "position": 26.221066319895968
+    },
+    {
+      "page": "https://calltheotterguys.com/charlottesville-hvac-plumbing-services/",
+      "clicks": 8,
+      "impressions": 3602,
+      "ctr": 0.002220988339811216,
+      "position": 23.49305941143809
+    },
+    {
+      "page": "https://calltheotterguys.com/repiping/",
+      "clicks": 8,
+      "impressions": 6328,
+      "ctr": 0.0012642225031605564,
+      "position": 45.87452591656132
+    },
+    {
+      "page": "https://calltheotterguys.com/water-heater-repair/",
+      "clicks": 7,
+      "impressions": 2820,
+      "ctr": 0.0024822695035460994,
+      "position": 17.795035460992906
+    },
+    {
+      "page": "https://calltheotterguys.com/air-scrubbers-benefits-allergy-asthma/",
+      "clicks": 6,
+      "impressions": 145,
+      "ctr": 0.041379310344827586,
+      "position": 6.372413793103449
+    },
+    {
+      "page": "https://calltheotterguys.com/gas-lines-installation-repair/",
+      "clicks": 6,
+      "impressions": 4597,
+      "ctr": 0.0013051990428540352,
+      "position": 34.14901022405917
+    },
+    {
+      "page": "https://calltheotterguys.com/mineral-hvac-plumbing-services/",
+      "clicks": 6,
+      "impressions": 1466,
+      "ctr": 0.004092769440654843,
+      "position": 15.684174624829469
+    },
+    {
+      "page": "https://calltheotterguys.com/palmyra-hvac-plumbing-services/",
+      "clicks": 6,
+      "impressions": 1726,
+      "ctr": 0.0034762456546929316,
+      "position": 21.066048667439166
+    },
+    {
+      "page": "https://calltheotterguys.com/what-causes-the-suction-line-to-freeze-up/",
+      "clicks": 6,
+      "impressions": 4571,
+      "ctr": 0.0013126230584117262,
+      "position": 3.798731131043535
+    },
+    {
+      "page": "https://calltheotterguys.com/boiler-installation/",
+      "clicks": 5,
+      "impressions": 1894,
+      "ctr": 0.0026399155227032735,
+      "position": 37.643611404435056
+    },
+    {
+      "page": "https://calltheotterguys.com/sewer-repair/",
+      "clicks": 5,
+      "impressions": 4129,
+      "ctr": 0.001210946960523129,
+      "position": 26.074109953984017
+    },
+    {
+      "page": "https://calltheotterguys.com/staunton-hvac-plumbing-services/",
+      "clicks": 5,
+      "impressions": 4219,
+      "ctr": 0.0011851149561507466,
+      "position": 15.282531405546338
+    },
+    {
+      "page": "https://calltheotterguys.com/4-main-types-of-hvac-systems/",
+      "clicks": 4,
+      "impressions": 1792,
+      "ctr": 0.002232142857142857,
+      "position": 29.038504464285715
+    },
+    {
+      "page": "https://calltheotterguys.com/buy-filters/",
+      "clicks": 4,
+      "impressions": 881,
+      "ctr": 0.004540295119182747,
+      "position": 29.64245175936436
+    },
+    {
+      "page": "https://calltheotterguys.com/goochland-hvac-plumbing-services/",
+      "clicks": 4,
+      "impressions": 1752,
+      "ctr": 0.00228310502283105,
+      "position": 15.109018264840183
+    },
+    {
+      "page": "https://calltheotterguys.com/prevent-handle-frozen-pipes-charlottesville/",
+      "clicks": 4,
+      "impressions": 117,
+      "ctr": 0.03418803418803419,
+      "position": 9.247863247863247
+    },
+    {
+      "page": "https://calltheotterguys.com/scottsville-hvac-plumbing-services/",
+      "clicks": 4,
+      "impressions": 1845,
+      "ctr": 0.002168021680216802,
+      "position": 15.502439024390243
+    },
+    {
+      "page": "https://calltheotterguys.com/water-heater-installation/",
+      "clicks": 4,
+      "impressions": 1407,
+      "ctr": 0.0028429282160625444,
+      "position": 32.67022032693674
+    },
+    {
+      "page": "https://calltheotterguys.com/why-did-my-water-bill-spike/",
+      "clicks": 4,
+      "impressions": 2349,
+      "ctr": 0.0017028522775649213,
+      "position": 6.409535972754363
+    },
+    {
+      "page": "https://calltheotterguys.com/drain-clogs/",
+      "clicks": 3,
+      "impressions": 1902,
+      "ctr": 0.0015772870662460567,
+      "position": 20.01577287066246
+    },
+    {
+      "page": "https://calltheotterguys.com/fluvanna-county-hvac-plumbing-services/",
+      "clicks": 3,
+      "impressions": 552,
+      "ctr": 0.005434782608695652,
+      "position": 16.52536231884058
+    },
+    {
+      "page": "https://calltheotterguys.com/greene-county-hvac-plumbing-services/",
+      "clicks": 3,
+      "impressions": 1266,
+      "ctr": 0.002369668246445498,
+      "position": 23.087677725118482
+    },
+    {
+      "page": "https://calltheotterguys.com/heat-pump-vs-furnace/",
+      "clicks": 3,
+      "impressions": 224,
+      "ctr": 0.013392857142857142,
+      "position": 4.602678571428571
+    },
+    {
+      "page": "https://calltheotterguys.com/lake-anna-hvac-plumbing-services/",
+      "clicks": 3,
+      "impressions": 1323,
+      "ctr": 0.0022675736961451248,
+      "position": 15.029478458049887
+    },
+    {
+      "page": "https://calltheotterguys.com/leak-detection/",
+      "clicks": 3,
+      "impressions": 2815,
+      "ctr": 0.0010657193605683837,
+      "position": 26.103374777975134
+    },
+    {
+      "page": "https://calltheotterguys.com/service-agreements-hvac/",
+      "clicks": 3,
+      "impressions": 367,
+      "ctr": 0.008174386920980926,
+      "position": 20.561307901907355
+    },
+    {
+      "page": "https://calltheotterguys.com/service-areas/",
+      "clicks": 3,
+      "impressions": 856,
+      "ctr": 0.0035046728971962616,
+      "position": 14.462616822429906
+    },
+    {
+      "page": "https://calltheotterguys.com/sewer-replacement/",
+      "clicks": 3,
+      "impressions": 1353,
+      "ctr": 0.0022172949002217295,
+      "position": 21.29637841832964
+    },
+    {
+      "page": "https://calltheotterguys.com/ac-repair/",
+      "clicks": 2,
+      "impressions": 458,
+      "ctr": 0.004366812227074236,
+      "position": 22.897379912663755
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:07:47.961Z"
+}

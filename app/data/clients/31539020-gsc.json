@@ -1,0 +1,1350 @@
+{
+  "property": "sc-domain:harkerinjurylaw.com",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 300,
+    "impressions": 265608,
+    "ctr": 0.0011294840516851902,
+    "position": 33.53898189962833
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 1,
+      "impressions": 1577,
+      "ctr": 0.0006341154090044388,
+      "position": 34.6575776791376
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 6,
+      "impressions": 4652,
+      "ctr": 0.0012897678417884782,
+      "position": 13.596732588134136
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 2,
+      "impressions": 1243,
+      "ctr": 0.0016090104585679806,
+      "position": 38.90345937248592
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 2,
+      "impressions": 1415,
+      "ctr": 0.0014134275618374558,
+      "position": 44.18374558303887
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 0,
+      "impressions": 1191,
+      "ctr": 0,
+      "position": 42.008396305625524
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 0,
+      "impressions": 1451,
+      "ctr": 0,
+      "position": 34.36526533425224
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 0,
+      "impressions": 1244,
+      "ctr": 0,
+      "position": 43.332797427652736
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 1,
+      "impressions": 1142,
+      "ctr": 0.0008756567425569177,
+      "position": 39.012259194395796
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 3,
+      "impressions": 1475,
+      "ctr": 0.002033898305084746,
+      "position": 42.00474576271186
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 1,
+      "impressions": 1266,
+      "ctr": 0.0007898894154818325,
+      "position": 46.24723538704581
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 1,
+      "impressions": 1084,
+      "ctr": 0.0009225092250922509,
+      "position": 41.858856088560884
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 1,
+      "impressions": 1060,
+      "ctr": 0.0009433962264150943,
+      "position": 40.67169811320755
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 2,
+      "impressions": 1246,
+      "ctr": 0.0016051364365971107,
+      "position": 42.203049759229536
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 2,
+      "impressions": 993,
+      "ctr": 0.002014098690835851,
+      "position": 41.21651560926485
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 1,
+      "impressions": 1406,
+      "ctr": 0.0007112375533428165,
+      "position": 31.87126600284495
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 5,
+      "impressions": 1344,
+      "ctr": 0.003720238095238095,
+      "position": 39.063988095238095
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 1,
+      "impressions": 1485,
+      "ctr": 0.0006734006734006734,
+      "position": 44.86060606060606
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 2,
+      "impressions": 1965,
+      "ctr": 0.0010178117048346056,
+      "position": 34.23104325699745
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 0,
+      "impressions": 1376,
+      "ctr": 0,
+      "position": 32.91351744186046
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 0,
+      "impressions": 955,
+      "ctr": 0,
+      "position": 35.665968586387436
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 0,
+      "impressions": 945,
+      "ctr": 0,
+      "position": 43.74391534391535
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 8,
+      "impressions": 1207,
+      "ctr": 0.006628003314001657,
+      "position": 39.74316487158244
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 2,
+      "impressions": 1119,
+      "ctr": 0.0017873100983020554,
+      "position": 34.776586237712245
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 3,
+      "impressions": 2013,
+      "ctr": 0.0014903129657228018,
+      "position": 48.34277198211625
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 2,
+      "impressions": 1988,
+      "ctr": 0.001006036217303823,
+      "position": 50.149396378269614
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 2,
+      "impressions": 4718,
+      "ctr": 0.000423908435777872,
+      "position": 22.790377278507844
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 1,
+      "impressions": 2274,
+      "ctr": 0.00043975373790677223,
+      "position": 49.23218997361477
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 2,
+      "impressions": 2340,
+      "ctr": 0.0008547008547008547,
+      "position": 50.118376068376065
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 4,
+      "impressions": 1767,
+      "ctr": 0.0022637238256932655,
+      "position": 40.58856819468025
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 3,
+      "impressions": 2030,
+      "ctr": 0.001477832512315271,
+      "position": 36.61231527093596
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 4,
+      "impressions": 2440,
+      "ctr": 0.001639344262295082,
+      "position": 43.177868852459014
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 1,
+      "impressions": 1930,
+      "ctr": 0.0005181347150259067,
+      "position": 42.928497409326425
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 1,
+      "impressions": 2041,
+      "ctr": 0.0004899559039686428,
+      "position": 41.01910828025478
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 2,
+      "impressions": 1695,
+      "ctr": 0.0011799410029498525,
+      "position": 39.9882005899705
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 1,
+      "impressions": 1877,
+      "ctr": 0.0005327650506126798,
+      "position": 40.78529568460309
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 2,
+      "impressions": 2094,
+      "ctr": 0.0009551098376313276,
+      "position": 37.49140401146132
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 3,
+      "impressions": 4161,
+      "ctr": 0.0007209805335255948,
+      "position": 22.082672434510936
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 3,
+      "impressions": 2475,
+      "ctr": 0.0012121212121212121,
+      "position": 41.61333333333334
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 3,
+      "impressions": 2815,
+      "ctr": 0.0010657193605683837,
+      "position": 40.65968028419183
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 3,
+      "impressions": 2808,
+      "ctr": 0.0010683760683760685,
+      "position": 27.819444444444443
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 4,
+      "impressions": 2334,
+      "ctr": 0.001713796058269066,
+      "position": 40.592973436161095
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 2,
+      "impressions": 2142,
+      "ctr": 0.0009337068160597573,
+      "position": 39.4187675070028
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 1,
+      "impressions": 2451,
+      "ctr": 0.0004079967360261118,
+      "position": 33.4328845369237
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 4,
+      "impressions": 2684,
+      "ctr": 0.0014903129657228018,
+      "position": 37.35096870342772
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 4,
+      "impressions": 2846,
+      "ctr": 0.0014054813773717498,
+      "position": 40.529163738580465
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 3,
+      "impressions": 2482,
+      "ctr": 0.0012087026591458502,
+      "position": 37.32957292506043
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 1,
+      "impressions": 2693,
+      "ctr": 0.0003713330857779428,
+      "position": 36.362049758633496
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 3,
+      "impressions": 2055,
+      "ctr": 0.00145985401459854,
+      "position": 36.8
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 2,
+      "impressions": 4129,
+      "ctr": 0.0004843787842092516,
+      "position": 27.94187454589489
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 4,
+      "impressions": 2764,
+      "ctr": 0.001447178002894356,
+      "position": 32.19681620839363
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 2,
+      "impressions": 2578,
+      "ctr": 0.0007757951900698216,
+      "position": 29.855702094647015
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 5,
+      "impressions": 3006,
+      "ctr": 0.00166333998669328,
+      "position": 34.047571523619425
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 6,
+      "impressions": 2589,
+      "ctr": 0.002317497103128621,
+      "position": 37.641174198532255
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 4,
+      "impressions": 2237,
+      "ctr": 0.001788109074653554,
+      "position": 33.545820295038
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 4,
+      "impressions": 2015,
+      "ctr": 0.0019851116625310174,
+      "position": 37.06699751861042
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 3,
+      "impressions": 2040,
+      "ctr": 0.0014705882352941176,
+      "position": 39.54460784313726
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 3,
+      "impressions": 2592,
+      "ctr": 0.0011574074074074073,
+      "position": 35.62808641975309
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 13,
+      "impressions": 3161,
+      "ctr": 0.004112622587788674,
+      "position": 30.714647263524203
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 3,
+      "impressions": 3751,
+      "ctr": 0.0007997867235403892,
+      "position": 31.890962410023995
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 4,
+      "impressions": 3141,
+      "ctr": 0.0012734797835084368,
+      "position": 33.11811524992041
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 1,
+      "impressions": 2810,
+      "ctr": 0.00035587188612099647,
+      "position": 27.748398576512457
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 1,
+      "impressions": 2699,
+      "ctr": 0.0003705075954057058,
+      "position": 31.01037421267136
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 4,
+      "impressions": 8019,
+      "ctr": 0.0004988153136301285,
+      "position": 10.769921436588103
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 2,
+      "impressions": 2929,
+      "ctr": 0.0006828269033799932,
+      "position": 29.98088084670536
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 3,
+      "impressions": 3182,
+      "ctr": 0.0009428032683846638,
+      "position": 29.52796983029541
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 7,
+      "impressions": 3544,
+      "ctr": 0.0019751693002257337,
+      "position": 31.0558690744921
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 4,
+      "impressions": 3327,
+      "ctr": 0.0012022843402464682,
+      "position": 28.062518785692816
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 3,
+      "impressions": 3029,
+      "ctr": 0.0009904258831297458,
+      "position": 29.45031363486299
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 2,
+      "impressions": 3107,
+      "ctr": 0.000643707756678468,
+      "position": 30.45799806887673
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 0,
+      "impressions": 2694,
+      "ctr": 0,
+      "position": 30.4547141796585
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 7,
+      "impressions": 3055,
+      "ctr": 0.0022913256955810145,
+      "position": 30.107037643207857
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 5,
+      "impressions": 3143,
+      "ctr": 0.001590836780146357,
+      "position": 29.691059497295576
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 8,
+      "impressions": 3637,
+      "ctr": 0.0021996150673632116,
+      "position": 32.138575749243884
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 6,
+      "impressions": 4235,
+      "ctr": 0.0014167650531286896,
+      "position": 25.567178276269185
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 6,
+      "impressions": 4165,
+      "ctr": 0.0014405762304921968,
+      "position": 26.70828331332533
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 3,
+      "impressions": 3192,
+      "ctr": 0.0009398496240601503,
+      "position": 27.69298245614035
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 3,
+      "impressions": 5114,
+      "ctr": 0.0005866249511145874,
+      "position": 23.743449354712553
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 10,
+      "impressions": 6548,
+      "ctr": 0.0015271838729383018,
+      "position": 18.43463653023824
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 8,
+      "impressions": 11775,
+      "ctr": 0.0006794055201698514,
+      "position": 11.346072186836517
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 8,
+      "impressions": 4912,
+      "ctr": 0.0016286644951140066,
+      "position": 22.518118892508145
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 11,
+      "impressions": 9024,
+      "ctr": 0.0012189716312056738,
+      "position": 13.764295212765957
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 4,
+      "impressions": 3907,
+      "ctr": 0.0010238034297414896,
+      "position": 25.458663936524186
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 2,
+      "impressions": 3885,
+      "ctr": 0.0005148005148005148,
+      "position": 24.11068211068211
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 1,
+      "impressions": 3350,
+      "ctr": 0.00029850746268656717,
+      "position": 25.420597014925374
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 6,
+      "impressions": 4264,
+      "ctr": 0.0014071294559099437,
+      "position": 25.02908067542214
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 10,
+      "impressions": 4133,
+      "ctr": 0.0024195499637067507,
+      "position": 25.155819017662715
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 6,
+      "impressions": 4635,
+      "ctr": 0.0012944983818770227,
+      "position": 25.75361380798274
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 7,
+      "impressions": 5108,
+      "ctr": 0.001370399373531715,
+      "position": 24.8672670321065
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 4,
+      "impressions": 9423,
+      "ctr": 0.0004244932611694789,
+      "position": 13.61445399554282
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 2,
+      "impressions": 4766,
+      "ctr": 0.000419639110365086,
+      "position": 27.326898866974403
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "harker injury law",
+      "clicks": 18,
+      "impressions": 180,
+      "ctr": 0.1,
+      "position": 2.5444444444444443
+    },
+    {
+      "query": "harker injury law escondido",
+      "clicks": 11,
+      "impressions": 81,
+      "ctr": 0.13580246913580246,
+      "position": 1.4567901234567902
+    },
+    {
+      "query": "harker injury law escondido ca",
+      "clicks": 4,
+      "impressions": 30,
+      "ctr": 0.13333333333333333,
+      "position": 1
+    },
+    {
+      "query": "bronson harker",
+      "clicks": 2,
+      "impressions": 53,
+      "ctr": 0.03773584905660377,
+      "position": 4.6415094339622645
+    },
+    {
+      "query": "workers comp lawyers near me",
+      "clicks": 2,
+      "impressions": 7,
+      "ctr": 0.2857142857142857,
+      "position": 7.714285714285714
+    },
+    {
+      "query": "workman comp lawyers",
+      "clicks": 2,
+      "impressions": 4,
+      "ctr": 0.5,
+      "position": 4
+    },
+    {
+      "query": "accident lawyer",
+      "clicks": 1,
+      "impressions": 838,
+      "ctr": 0.0011933174224343676,
+      "position": 1.6730310262529833
+    },
+    {
+      "query": "attorney specializing in landlord tenant law",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "california medical malpractice lawyers",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 27
+    },
+    {
+      "query": "car accident lawyer",
+      "clicks": 1,
+      "impressions": 3014,
+      "ctr": 0.00033178500331785003,
+      "position": 4.129064366290644
+    },
+    {
+      "query": "car accident lawyers near me",
+      "clicks": 1,
+      "impressions": 118,
+      "ctr": 0.00847457627118644,
+      "position": 66.6864406779661
+    },
+    {
+      "query": "car accident lawyers san diego",
+      "clicks": 1,
+      "impressions": 218,
+      "ctr": 0.0045871559633027525,
+      "position": 76
+    },
+    {
+      "query": "car injury lawyers",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 10.444444444444445
+    },
+    {
+      "query": "dental malpractice lawyer san diego",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 6.5
+    },
+    {
+      "query": "escondido divorce lawyer",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 23.857142857142858
+    },
+    {
+      "query": "harker injury law california",
+      "clicks": 1,
+      "impressions": 98,
+      "ctr": 0.01020408163265306,
+      "position": 6.326530612244898
+    },
+    {
+      "query": "harker injury law san diego ca",
+      "clicks": 1,
+      "impressions": 38,
+      "ctr": 0.02631578947368421,
+      "position": 1.0263157894736843
+    },
+    {
+      "query": "how to report my landlord",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "how to sue your landlord",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 2.8
+    },
+    {
+      "query": "la mesa car accident lawyer",
+      "clicks": 1,
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 30.375
+    },
+    {
+      "query": "malpractice attorney",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 4.25
+    },
+    {
+      "query": "malpractice lawyer",
+      "clicks": 1,
+      "impressions": 38,
+      "ctr": 0.02631578947368421,
+      "position": 1.6052631578947367
+    },
+    {
+      "query": "malpractice lawyers near me",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 6.166666666666667
+    },
+    {
+      "query": "medical malpractice attorney",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 6.5
+    },
+    {
+      "query": "medical malpractice attorney in ca",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "mold lawyer",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 2.833333333333333
+    },
+    {
+      "query": "my son took my car without permission and had an accident",
+      "clicks": 1,
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 1
+    },
+    {
+      "query": "personal injury attorney california",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 11
+    },
+    {
+      "query": "personal injury attorneys",
+      "clicks": 1,
+      "impressions": 163,
+      "ctr": 0.006134969325153374,
+      "position": 16.828220858895705
+    },
+    {
+      "query": "personal injury attorneys in california",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 41
+    },
+    {
+      "query": "personal injury lawyer san diego",
+      "clicks": 1,
+      "impressions": 354,
+      "ctr": 0.002824858757062147,
+      "position": 35.71186440677966
+    },
+    {
+      "query": "personal injury lawyer san diego ca",
+      "clicks": 1,
+      "impressions": 133,
+      "ctr": 0.007518796992481203,
+      "position": 50.99248120300752
+    },
+    {
+      "query": "personal injury lawyers in california",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 17
+    },
+    {
+      "query": "personal injury lawyers in san diego",
+      "clicks": 1,
+      "impressions": 105,
+      "ctr": 0.009523809523809525,
+      "position": 49.38095238095238
+    },
+    {
+      "query": "pet injury lawyer",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "product liability attorney near me",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 11.291666666666666
+    },
+    {
+      "query": "property damage lawyers near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "psychiatric malpractice attorney",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "san diego injury attorney",
+      "clicks": 1,
+      "impressions": 366,
+      "ctr": 0.00273224043715847,
+      "position": 36.48087431693989
+    },
+    {
+      "query": "san diego personal injury lawyer",
+      "clicks": 1,
+      "impressions": 1377,
+      "ctr": 0.0007262164124909223,
+      "position": 43.77124183006536
+    },
+    {
+      "query": "san diego truck accident attorney",
+      "clicks": 1,
+      "impressions": 1226,
+      "ctr": 0.0008156606851549756,
+      "position": 32.99347471451876
+    },
+    {
+      "query": "tenant rights attorney",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 2
+    },
+    {
+      "query": "top rated injury lawyers near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "top rated medical malpractice attorneys near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "what is landlord negligence",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "what to do if someone sues you for a car accident in california",
+      "clicks": 1,
+      "impressions": 127,
+      "ctr": 0.007874015748031496,
+      "position": 10.291338582677165
+    },
+    {
+      "query": "work comp attorney",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 1
+    },
+    {
+      "query": "work injury lawyer",
+      "clicks": 1,
+      "impressions": 431,
+      "ctr": 0.002320185614849188,
+      "position": 1.8839907192575405
+    },
+    {
+      "query": "workers comp attorney near me",
+      "clicks": 1,
+      "impressions": 190,
+      "ctr": 0.005263157894736842,
+      "position": 1.0105263157894737
+    },
+    {
+      "query": "workers comp lawyers",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 4.333333333333334
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://www.harkerinjurylaw.com/",
+      "clicks": 143,
+      "impressions": 86660,
+      "ctr": 0.0016501269328409879,
+      "position": 15.473482575582738
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/tenant-injuries-caused-by-landlord-negligence/",
+      "clicks": 23,
+      "impressions": 4349,
+      "ctr": 0.005288572085536905,
+      "position": 4.186709588411129
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/social-media-surveillance/",
+      "clicks": 19,
+      "impressions": 6762,
+      "ctr": 0.0028098195800059155,
+      "position": 7.456965394853594
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/teen-driver-accidents-parental-liability-and-protection/",
+      "clicks": 18,
+      "impressions": 6119,
+      "ctr": 0.002941657133518549,
+      "position": 6.031377676090864
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/accidents-involving-minors/",
+      "clicks": 6,
+      "impressions": 1775,
+      "ctr": 0.0033802816901408453,
+      "position": 18.737464788732396
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/getting-sued-car-accident-california/",
+      "clicks": 5,
+      "impressions": 1570,
+      "ctr": 0.0031847133757961785,
+      "position": 39.91656050955414
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/understanding-californias-liability-laws/",
+      "clicks": 5,
+      "impressions": 781,
+      "ctr": 0.006402048655569782,
+      "position": 17.90653008962868
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/the-impact-of-wearable-technology-on-injury-claims/",
+      "clicks": 4,
+      "impressions": 367,
+      "ctr": 0.010899182561307902,
+      "position": 8.937329700272478
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/the-role-of-insurance-adjusters-in-personal-injury-claims/",
+      "clicks": 4,
+      "impressions": 1524,
+      "ctr": 0.0026246719160104987,
+      "position": 8.036745406824146
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/bronson-harker-esq/",
+      "clicks": 3,
+      "impressions": 667,
+      "ctr": 0.004497751124437781,
+      "position": 7.263868065967016
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/car-accident-while-driving-for-work/",
+      "clicks": 3,
+      "impressions": 1289,
+      "ctr": 0.0023273855702094647,
+      "position": 29.65166795965865
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/ptsd-and-mental-health-claims-after-an-accident-in-california/",
+      "clicks": 3,
+      "impressions": 744,
+      "ctr": 0.004032258064516129,
+      "position": 16.600806451612904
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/the-role-of-police-reports-in-car-accident-cases/",
+      "clicks": 3,
+      "impressions": 2161,
+      "ctr": 0.0013882461823229986,
+      "position": 7.7403979639055995
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/our-firm/",
+      "clicks": 3,
+      "impressions": 716,
+      "ctr": 0.004189944134078212,
+      "position": 6.175977653631285
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/early-action-steps-after-a-fatal-accident/",
+      "clicks": 2,
+      "impressions": 26,
+      "ctr": 0.07692307692307693,
+      "position": 7.461538461538462
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/appealing-a-denied-injury-claim/",
+      "clicks": 2,
+      "impressions": 206,
+      "ctr": 0.009708737864077669,
+      "position": 13.20388349514563
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/dog-bite-injuries-in-california-owner-liability-and-compensation/",
+      "clicks": 2,
+      "impressions": 2419,
+      "ctr": 0.0008267879288962381,
+      "position": 25.594460520876396
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/elevator-and-escalator-accidents-owner-negligence/",
+      "clicks": 2,
+      "impressions": 1718,
+      "ctr": 0.0011641443538998836,
+      "position": 14.757275902211875
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/fight-personal-injury-lawsuit/",
+      "clicks": 2,
+      "impressions": 420,
+      "ctr": 0.004761904761904762,
+      "position": 16.173809523809524
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/personal-injury-trial-process/",
+      "clicks": 2,
+      "impressions": 429,
+      "ctr": 0.004662004662004662,
+      "position": 31.685314685314687
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/structured-settlements-vs-lump-sum-payouts-in-wrongful-death-cases/",
+      "clicks": 2,
+      "impressions": 1029,
+      "ctr": 0.001943634596695821,
+      "position": 18.93586005830904
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/the-hidden-costs-of-car-accidents/",
+      "clicks": 2,
+      "impressions": 606,
+      "ctr": 0.0033003300330033004,
+      "position": 14.358085808580858
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/the-role-of-surveillance-footage-in-slip-and-fall-claims/",
+      "clicks": 2,
+      "impressions": 826,
+      "ctr": 0.002421307506053269,
+      "position": 9.835351089588377
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/locations/",
+      "clicks": 2,
+      "impressions": 858,
+      "ctr": 0.002331002331002331,
+      "position": 3.769230769230769
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/medical-malpractice-lawyer/",
+      "clicks": 2,
+      "impressions": 2654,
+      "ctr": 0.0007535795026375283,
+      "position": 50.06405425772419
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/nursing-home-abuse-lawyer/",
+      "clicks": 2,
+      "impressions": 4769,
+      "ctr": 0.0004193751310547285,
+      "position": 31.42398825749633
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/the-impact-of-wearable-technology-on-injury-claims/",
+      "clicks": 2,
+      "impressions": 61,
+      "ctr": 0.03278688524590164,
+      "position": 8.21311475409836
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/blog/",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 2.2666666666666666
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/car-crash-escondido-southbound-15-near-via-rancho-pkwy/",
+      "clicks": 1,
+      "impressions": 59,
+      "ctr": 0.01694915254237288,
+      "position": 16.74576271186441
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/dog-bite-lawyer/",
+      "clicks": 1,
+      "impressions": 5378,
+      "ctr": 0.0001859427296392711,
+      "position": 44.648568240981774
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/impact-of-covid-19-on-wrongful-death-cases-in-california/",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 4.5
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/ada-violations-and-accessibility-injuries/",
+      "clicks": 1,
+      "impressions": 403,
+      "ctr": 0.0024813895781637717,
+      "position": 12.069478908188586
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/after-personal-injury-case-deposition/",
+      "clicks": 1,
+      "impressions": 4365,
+      "ctr": 0.0002290950744558992,
+      "position": 62.401832760595646
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/compensating-emotional-and-psychological-injuries-in-pi-cases/",
+      "clicks": 1,
+      "impressions": 317,
+      "ctr": 0.0031545741324921135,
+      "position": 9.993690851735016
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/distracted-driving-accidents-and-personal-injury-claims/",
+      "clicks": 1,
+      "impressions": 234,
+      "ctr": 0.004273504273504274,
+      "position": 16.60683760683761
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/essential-evidence-you-need-to-win-your-slip-and-fall-case/",
+      "clicks": 1,
+      "impressions": 406,
+      "ctr": 0.0024630541871921183,
+      "position": 9.5
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/factors-that-determine-liability-in-car-accidents/",
+      "clicks": 1,
+      "impressions": 2570,
+      "ctr": 0.0003891050583657588,
+      "position": 12.341634241245137
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/file-wrongful-death-lawsuit/",
+      "clicks": 1,
+      "impressions": 858,
+      "ctr": 0.0011655011655011655,
+      "position": 57.425407925407924
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/how-weather-conditions-affect-personal-injury-claims/",
+      "clicks": 1,
+      "impressions": 482,
+      "ctr": 0.002074688796680498,
+      "position": 8.022821576763485
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/importance-of-timely-medical-treatment-in-personal-injury-cases/",
+      "clicks": 1,
+      "impressions": 296,
+      "ctr": 0.0033783783783783786,
+      "position": 22.466216216216218
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/locations/escondido/",
+      "clicks": 1,
+      "impressions": 1465,
+      "ctr": 0.0006825938566552901,
+      "position": 21.662798634812287
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/medical-malpractice-in-the-age-of-telemedicine/",
+      "clicks": 1,
+      "impressions": 730,
+      "ctr": 0.0013698630136986301,
+      "position": 14.85068493150685
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/motorcycle-lane-splitting-laws-in-california/",
+      "clicks": 1,
+      "impressions": 631,
+      "ctr": 0.001584786053882726,
+      "position": 6.974643423137876
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/navigating-insurance-claims-in-california/",
+      "clicks": 1,
+      "impressions": 1521,
+      "ctr": 0.0006574621959237344,
+      "position": 47.18211702827087
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/swimming-pool-slip-cases-proving-negligence/",
+      "clicks": 1,
+      "impressions": 366,
+      "ctr": 0.00273224043715847,
+      "position": 11.03825136612022
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/the-impact-of-autonomous-vehicles-on-personal-injury-law/",
+      "clicks": 1,
+      "impressions": 429,
+      "ctr": 0.002331002331002331,
+      "position": 5.174825174825175
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/what-to-do-car-accident-caused-by-defective-vehicle-part/",
+      "clicks": 1,
+      "impressions": 921,
+      "ctr": 0.0010857763300760044,
+      "position": 11.416938110749186
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/when-to-consult-a-lawyer-for-a-truck-accident/",
+      "clicks": 1,
+      "impressions": 483,
+      "ctr": 0.002070393374741201,
+      "position": 20.03312629399586
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/who-can-be-liable-in-a-truck-accident-in-california/",
+      "clicks": 1,
+      "impressions": 666,
+      "ctr": 0.0015015015015015015,
+      "position": 24.153153153153152
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/witnesses-sought-car-crash-palomar-airport-road-yarrow-december-12-2017/",
+      "clicks": 1,
+      "impressions": 23,
+      "ctr": 0.043478260869565216,
+      "position": 13.434782608695652
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:06:40.257Z"
+}

@@ -1,0 +1,1350 @@
+{
+  "property": "https://gdmedics.com/",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 4147,
+    "impressions": 1077220,
+    "ctr": 0.0038497242903028166,
+    "position": 12.622560443341866
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 75,
+      "impressions": 14917,
+      "ctr": 0.005027820607360729,
+      "position": 12.4006837836026
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 51,
+      "impressions": 14182,
+      "ctr": 0.003596107742208433,
+      "position": 13.052954449301932
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 76,
+      "impressions": 13585,
+      "ctr": 0.005594405594405594,
+      "position": 11.37062937062937
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 63,
+      "impressions": 13791,
+      "ctr": 0.004568196649989123,
+      "position": 12.35515916177217
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 63,
+      "impressions": 14924,
+      "ctr": 0.004221388367729831,
+      "position": 12.244572500670062
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 60,
+      "impressions": 14110,
+      "ctr": 0.004252303330970942,
+      "position": 12.547058823529412
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 68,
+      "impressions": 13880,
+      "ctr": 0.004899135446685879,
+      "position": 13.242435158501442
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 59,
+      "impressions": 15188,
+      "ctr": 0.0038846457729786676,
+      "position": 13.199828812220174
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 49,
+      "impressions": 13389,
+      "ctr": 0.003659720666218538,
+      "position": 14.339756516543432
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 29,
+      "impressions": 11865,
+      "ctr": 0.002444163506110409,
+      "position": 13.652423093131057
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 51,
+      "impressions": 10239,
+      "ctr": 0.004980955171403457,
+      "position": 14.520851645668522
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 40,
+      "impressions": 11168,
+      "ctr": 0.0035816618911174787,
+      "position": 11.544949856733524
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 41,
+      "impressions": 12138,
+      "ctr": 0.003377821716922063,
+      "position": 12.539133300378975
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 36,
+      "impressions": 13207,
+      "ctr": 0.002725827212841675,
+      "position": 13.72264708109336
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 73,
+      "impressions": 14654,
+      "ctr": 0.004981574996587962,
+      "position": 12.564009826668487
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 48,
+      "impressions": 13301,
+      "ctr": 0.0036087512217126533,
+      "position": 13.034959777460342
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 46,
+      "impressions": 12516,
+      "ctr": 0.0036752956216043464,
+      "position": 12.612016618728028
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 43,
+      "impressions": 12507,
+      "ctr": 0.003438074678180219,
+      "position": 12.852322699288399
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 52,
+      "impressions": 14452,
+      "ctr": 0.0035981179075560477,
+      "position": 11.50131469692776
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 43,
+      "impressions": 11058,
+      "ctr": 0.003888587448001447,
+      "position": 11.564116476758908
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 42,
+      "impressions": 13130,
+      "ctr": 0.003198781416603199,
+      "position": 12.771210967250571
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 63,
+      "impressions": 13729,
+      "ctr": 0.0045888265714910045,
+      "position": 12.269356835894822
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 55,
+      "impressions": 12575,
+      "ctr": 0.00437375745526839,
+      "position": 11.54337972166998
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 48,
+      "impressions": 13697,
+      "ctr": 0.0035044170256260496,
+      "position": 14.369423961451412
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 61,
+      "impressions": 16315,
+      "ctr": 0.0037388905914802328,
+      "position": 15.088875268158137
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 50,
+      "impressions": 14380,
+      "ctr": 0.0034770514603616135,
+      "position": 16.584492350486787
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 53,
+      "impressions": 13443,
+      "ctr": 0.003942572342483077,
+      "position": 14.663170423268616
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 48,
+      "impressions": 13063,
+      "ctr": 0.003674500497588609,
+      "position": 13.631937533491541
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 61,
+      "impressions": 13345,
+      "ctr": 0.004571000374672162,
+      "position": 12.865717497189959
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 50,
+      "impressions": 11770,
+      "ctr": 0.004248088360237893,
+      "position": 12.967629566694987
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 61,
+      "impressions": 12354,
+      "ctr": 0.004937672009065889,
+      "position": 14.234984620365873
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 43,
+      "impressions": 10874,
+      "ctr": 0.003954386610263013,
+      "position": 12.122585984918153
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 51,
+      "impressions": 11523,
+      "ctr": 0.0044259307472012495,
+      "position": 12.617981428447452
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 27,
+      "impressions": 11556,
+      "ctr": 0.002336448598130841,
+      "position": 11.89693665628245
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 49,
+      "impressions": 12869,
+      "ctr": 0.003807599658093092,
+      "position": 13.220685367938456
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 58,
+      "impressions": 14766,
+      "ctr": 0.00392794257077069,
+      "position": 12.942773940132737
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 53,
+      "impressions": 12276,
+      "ctr": 0.004317367220593027,
+      "position": 11.659661127403062
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 69,
+      "impressions": 17939,
+      "ctr": 0.003846368247951391,
+      "position": 19.029265845364847
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 48,
+      "impressions": 12037,
+      "ctr": 0.0039877045775525465,
+      "position": 13.262690039046275
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 40,
+      "impressions": 13862,
+      "ctr": 0.0028855864954552015,
+      "position": 13.659789352185832
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 42,
+      "impressions": 11411,
+      "ctr": 0.0036806590132328456,
+      "position": 12.391464376478837
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 42,
+      "impressions": 11439,
+      "ctr": 0.0036716496197220037,
+      "position": 13.345572165399073
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 53,
+      "impressions": 13420,
+      "ctr": 0.0039493293591654245,
+      "position": 13.79016393442623
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 61,
+      "impressions": 12881,
+      "ctr": 0.00473565716947442,
+      "position": 13.22801024765158
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 56,
+      "impressions": 12317,
+      "ctr": 0.004546561662742551,
+      "position": 13.901680604043193
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 59,
+      "impressions": 10626,
+      "ctr": 0.005552418595896857,
+      "position": 11.683323922454358
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 39,
+      "impressions": 11074,
+      "ctr": 0.0035217626873758354,
+      "position": 13.398230088495575
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 38,
+      "impressions": 12810,
+      "ctr": 0.002966432474629196,
+      "position": 11.704137392661982
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 50,
+      "impressions": 14194,
+      "ctr": 0.0035226151895166972,
+      "position": 14.090390305762998
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 50,
+      "impressions": 14710,
+      "ctr": 0.003399048266485384,
+      "position": 13.876274643099933
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 46,
+      "impressions": 9539,
+      "ctr": 0.004822308418073173,
+      "position": 10.544396687283783
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 39,
+      "impressions": 10198,
+      "ctr": 0.003824279270445185,
+      "position": 11.872131790547167
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 40,
+      "impressions": 10143,
+      "ctr": 0.003943606428078478,
+      "position": 13.930493936705117
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 32,
+      "impressions": 10078,
+      "ctr": 0.0031752331811867435,
+      "position": 14.014983131573725
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 27,
+      "impressions": 10680,
+      "ctr": 0.0025280898876404493,
+      "position": 10.415449438202247
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 31,
+      "impressions": 9287,
+      "ctr": 0.003337999353935609,
+      "position": 13.295359104124044
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 36,
+      "impressions": 11077,
+      "ctr": 0.003249977430712287,
+      "position": 17.450844091360477
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 35,
+      "impressions": 9018,
+      "ctr": 0.0038811266356176535,
+      "position": 14.745287203371035
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 37,
+      "impressions": 8817,
+      "ctr": 0.004196438697969831,
+      "position": 14.740954973346943
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 28,
+      "impressions": 9263,
+      "ctr": 0.003022778797365864,
+      "position": 12.309079132030659
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 43,
+      "impressions": 8049,
+      "ctr": 0.0053422785439184994,
+      "position": 12.530003727171078
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 23,
+      "impressions": 7913,
+      "ctr": 0.0029066093769745988,
+      "position": 13.010615442941994
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 29,
+      "impressions": 8889,
+      "ctr": 0.0032624592192597593,
+      "position": 13.652154348070649
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 47,
+      "impressions": 9150,
+      "ctr": 0.005136612021857924,
+      "position": 13.60327868852459
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 38,
+      "impressions": 27326,
+      "ctr": 0.0013906169948034838,
+      "position": 4.622923223303813
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 42,
+      "impressions": 8322,
+      "ctr": 0.005046863734679163,
+      "position": 13.051790434991588
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 47,
+      "impressions": 8594,
+      "ctr": 0.005468931812892716,
+      "position": 13.02315569001629
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 33,
+      "impressions": 9065,
+      "ctr": 0.0036403750689464973,
+      "position": 12.745394373965803
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 28,
+      "impressions": 8139,
+      "ctr": 0.003440226071999017,
+      "position": 12.526846049883279
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 26,
+      "impressions": 8959,
+      "ctr": 0.0029021096104475948,
+      "position": 13.352941176470589
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 28,
+      "impressions": 8817,
+      "ctr": 0.0031756833390041966,
+      "position": 12.160258591357605
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 39,
+      "impressions": 7628,
+      "ctr": 0.005112742527530152,
+      "position": 12.670424750917672
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 40,
+      "impressions": 9921,
+      "ctr": 0.004031851627860095,
+      "position": 13.859389174478379
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 40,
+      "impressions": 9141,
+      "ctr": 0.004375888852423148,
+      "position": 13.27042993107975
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 27,
+      "impressions": 10312,
+      "ctr": 0.0026183087664856477,
+      "position": 13.844743987587277
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 30,
+      "impressions": 10718,
+      "ctr": 0.002799029669714499,
+      "position": 11.469770479567083
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 37,
+      "impressions": 10549,
+      "ctr": 0.003507441463645843,
+      "position": 12.754005118968623
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 47,
+      "impressions": 11801,
+      "ctr": 0.003982713329378866,
+      "position": 14.097279891534615
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 42,
+      "impressions": 17924,
+      "ctr": 0.0023432269582682437,
+      "position": 6.905991966079
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 33,
+      "impressions": 9854,
+      "ctr": 0.0033488938502131116,
+      "position": 10.737872944996955
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 37,
+      "impressions": 11487,
+      "ctr": 0.0032210324714895097,
+      "position": 9.553408200574562
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 34,
+      "impressions": 11522,
+      "ctr": 0.002950876583926402,
+      "position": 8.887779899323034
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 41,
+      "impressions": 9360,
+      "ctr": 0.00438034188034188,
+      "position": 10.802884615384615
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 47,
+      "impressions": 10056,
+      "ctr": 0.004673826571201273,
+      "position": 11.147971360381861
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 54,
+      "impressions": 22214,
+      "ctr": 0.0024308994327901325,
+      "position": 6.363959665076078
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 60,
+      "impressions": 9944,
+      "ctr": 0.006033789219629927,
+      "position": 10.625301689460981
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 40,
+      "impressions": 10581,
+      "ctr": 0.0037803610244778376,
+      "position": 11.97325394575182
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 51,
+      "impressions": 8859,
+      "ctr": 0.005756857433118863,
+      "position": 11.291793656168867
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 64,
+      "impressions": 9441,
+      "ctr": 0.006778942908590191,
+      "position": 10.004024997351975
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 63,
+      "impressions": 9129,
+      "ctr": 0.0069010844561288205,
+      "position": 10.498192573118633
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "garage door medics",
+      "clicks": 328,
+      "impressions": 1853,
+      "ctr": 0.1770102536427415,
+      "position": 1.9541284403669725
+    },
+    {
+      "query": "garage door medics san diego",
+      "clicks": 41,
+      "impressions": 171,
+      "ctr": 0.23976608187134502,
+      "position": 1.1111111111111112
+    },
+    {
+      "query": "how to reset garage door",
+      "clicks": 35,
+      "impressions": 1727,
+      "ctr": 0.02026635784597568,
+      "position": 5.4163288940359005
+    },
+    {
+      "query": "best type of garage door opener",
+      "clicks": 29,
+      "impressions": 514,
+      "ctr": 0.05642023346303502,
+      "position": 4.752918287937743
+    },
+    {
+      "query": "garage medics",
+      "clicks": 28,
+      "impressions": 118,
+      "ctr": 0.23728813559322035,
+      "position": 2.4661016949152543
+    },
+    {
+      "query": "garage door medic",
+      "clicks": 22,
+      "impressions": 321,
+      "ctr": 0.06853582554517133,
+      "position": 7.1526479750778815
+    },
+    {
+      "query": "garage door with pedestrian door price",
+      "clicks": 20,
+      "impressions": 860,
+      "ctr": 0.023255813953488372,
+      "position": 10.532558139534883
+    },
+    {
+      "query": "garage door repair san diego",
+      "clicks": 17,
+      "impressions": 4411,
+      "ctr": 0.003854001360235774,
+      "position": 5.683291770573566
+    },
+    {
+      "query": "garage door opener",
+      "clicks": 15,
+      "impressions": 643,
+      "ctr": 0.02332814930015552,
+      "position": 5.440124416796268
+    },
+    {
+      "query": "do you have to reset garage door opener after power outage",
+      "clicks": 14,
+      "impressions": 206,
+      "ctr": 0.06796116504854369,
+      "position": 3.8689320388349513
+    },
+    {
+      "query": "aluminum vs steel garage doors",
+      "clicks": 12,
+      "impressions": 111,
+      "ctr": 0.10810810810810811,
+      "position": 2.7477477477477477
+    },
+    {
+      "query": "garage door repair temecula",
+      "clicks": 12,
+      "impressions": 1489,
+      "ctr": 0.008059100067159167,
+      "position": 5.376091336467428
+    },
+    {
+      "query": "garage door with pedestrian door",
+      "clicks": 12,
+      "impressions": 1032,
+      "ctr": 0.011627906976744186,
+      "position": 12.083333333333334
+    },
+    {
+      "query": "garage door medics murrieta",
+      "clicks": 11,
+      "impressions": 48,
+      "ctr": 0.22916666666666666,
+      "position": 1.0625
+    },
+    {
+      "query": "garage door medics reviews",
+      "clicks": 11,
+      "impressions": 386,
+      "ctr": 0.02849740932642487,
+      "position": 4.917098445595855
+    },
+    {
+      "query": "garage door repair near me",
+      "clicks": 11,
+      "impressions": 7284,
+      "ctr": 0.0015101592531576056,
+      "position": 6.659253157605711
+    },
+    {
+      "query": "steel vs aluminum garage doors",
+      "clicks": 10,
+      "impressions": 188,
+      "ctr": 0.05319148936170213,
+      "position": 6.441489361702128
+    },
+    {
+      "query": "fire rated pet door for garage",
+      "clicks": 9,
+      "impressions": 116,
+      "ctr": 0.07758620689655173,
+      "position": 7.413793103448276
+    },
+    {
+      "query": "garage door not working after power outage",
+      "clicks": 9,
+      "impressions": 377,
+      "ctr": 0.023872679045092837,
+      "position": 4.395225464190982
+    },
+    {
+      "query": "garage door repair",
+      "clicks": 9,
+      "impressions": 9330,
+      "ctr": 0.0009646302250803858,
+      "position": 6.156698821007502
+    },
+    {
+      "query": "reset garage door",
+      "clicks": 9,
+      "impressions": 468,
+      "ctr": 0.019230769230769232,
+      "position": 5.177350427350428
+    },
+    {
+      "query": "steel vs aluminum garage door",
+      "clicks": 9,
+      "impressions": 49,
+      "ctr": 0.1836734693877551,
+      "position": 2.0816326530612246
+    },
+    {
+      "query": "garage door opener repair",
+      "clicks": 8,
+      "impressions": 2200,
+      "ctr": 0.0036363636363636364,
+      "position": 2.332727272727273
+    },
+    {
+      "query": "garage door repair arlington tx",
+      "clicks": 8,
+      "impressions": 951,
+      "ctr": 0.008412197686645636,
+      "position": 6.47844374342797
+    },
+    {
+      "query": "garage medic",
+      "clicks": 8,
+      "impressions": 165,
+      "ctr": 0.048484848484848485,
+      "position": 6.36969696969697
+    },
+    {
+      "query": "garage door alignment",
+      "clicks": 7,
+      "impressions": 1217,
+      "ctr": 0.005751848808545604,
+      "position": 5.750205423171733
+    },
+    {
+      "query": "garage door not opening after power outage",
+      "clicks": 7,
+      "impressions": 220,
+      "ctr": 0.031818181818181815,
+      "position": 4.463636363636364
+    },
+    {
+      "query": "where to see christmas lights san diego",
+      "clicks": 7,
+      "impressions": 430,
+      "ctr": 0.01627906976744186,
+      "position": 9.353488372093024
+    },
+    {
+      "query": "christmas lights san diego",
+      "clicks": 6,
+      "impressions": 1983,
+      "ctr": 0.0030257186081694403,
+      "position": 13.904689863842663
+    },
+    {
+      "query": "garage door tune up near me",
+      "clicks": 6,
+      "impressions": 181,
+      "ctr": 0.03314917127071823,
+      "position": 4.696132596685083
+    },
+    {
+      "query": "how to reset a garage door",
+      "clicks": 6,
+      "impressions": 432,
+      "ctr": 0.013888888888888888,
+      "position": 5.835648148148148
+    },
+    {
+      "query": "best kind of garage door opener",
+      "clicks": 5,
+      "impressions": 41,
+      "ctr": 0.12195121951219512,
+      "position": 3.4390243902439024
+    },
+    {
+      "query": "does an insulated garage door make a difference",
+      "clicks": 5,
+      "impressions": 126,
+      "ctr": 0.03968253968253968,
+      "position": 6.619047619047619
+    },
+    {
+      "query": "dog door for garage door",
+      "clicks": 5,
+      "impressions": 533,
+      "ctr": 0.009380863039399626,
+      "position": 2.8198874296435275
+    },
+    {
+      "query": "dog door in garage door",
+      "clicks": 5,
+      "impressions": 99,
+      "ctr": 0.050505050505050504,
+      "position": 1.393939393939394
+    },
+    {
+      "query": "garage door openers",
+      "clicks": 5,
+      "impressions": 241,
+      "ctr": 0.02074688796680498,
+      "position": 16.601659751037346
+    },
+    {
+      "query": "garage door won't open after power outage",
+      "clicks": 5,
+      "impressions": 205,
+      "ctr": 0.024390243902439025,
+      "position": 4.634146341463415
+    },
+    {
+      "query": "how to reset garage door after power outage",
+      "clicks": 5,
+      "impressions": 197,
+      "ctr": 0.025380710659898477,
+      "position": 4.593908629441625
+    },
+    {
+      "query": "how to tell if garage door spring is broken",
+      "clicks": 5,
+      "impressions": 786,
+      "ctr": 0.006361323155216285,
+      "position": 6.021628498727735
+    },
+    {
+      "query": "best garage door opener drive type",
+      "clicks": 4,
+      "impressions": 92,
+      "ctr": 0.043478260869565216,
+      "position": 4.771739130434783
+    },
+    {
+      "query": "clairemont christmas lights",
+      "clicks": 4,
+      "impressions": 706,
+      "ctr": 0.0056657223796034,
+      "position": 9.907932011331445
+    },
+    {
+      "query": "do insulated garage doors make a difference",
+      "clicks": 4,
+      "impressions": 162,
+      "ctr": 0.024691358024691357,
+      "position": 6.808641975308642
+    },
+    {
+      "query": "garage door opener light flashing",
+      "clicks": 4,
+      "impressions": 573,
+      "ctr": 0.006980802792321117,
+      "position": 8.429319371727749
+    },
+    {
+      "query": "garage door opener not working after power outage",
+      "clicks": 4,
+      "impressions": 250,
+      "ctr": 0.016,
+      "position": 4.316
+    },
+    {
+      "query": "garage door tune up",
+      "clicks": 4,
+      "impressions": 4322,
+      "ctr": 0.0009254974548819991,
+      "position": 9.804951411383618
+    },
+    {
+      "query": "garage door tune up specials near me",
+      "clicks": 4,
+      "impressions": 59,
+      "ctr": 0.06779661016949153,
+      "position": 3.4237288135593222
+    },
+    {
+      "query": "garage door won't work after power outage",
+      "clicks": 4,
+      "impressions": 52,
+      "ctr": 0.07692307692307693,
+      "position": 4.826923076923077
+    },
+    {
+      "query": "garage doors san diego",
+      "clicks": 4,
+      "impressions": 1063,
+      "ctr": 0.0037629350893697085,
+      "position": 13.635936030103482
+    },
+    {
+      "query": "how to realign garage door",
+      "clicks": 4,
+      "impressions": 113,
+      "ctr": 0.035398230088495575,
+      "position": 6.3097345132743365
+    },
+    {
+      "query": "how to reset chamberlain garage door opener after power outage",
+      "clicks": 4,
+      "impressions": 201,
+      "ctr": 0.01990049751243781,
+      "position": 5.417910447761194
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://gdmedics.com/blog/garage-opener-light-blinking/",
+      "clicks": 565,
+      "impressions": 118828,
+      "ctr": 0.004754771602652573,
+      "position": 5.028638031440401
+    },
+    {
+      "page": "https://gdmedics.com/blog/how-reset-garage-door-after-power-outage/",
+      "clicks": 498,
+      "impressions": 47358,
+      "ctr": 0.010515646775623971,
+      "position": 8.535347776510832
+    },
+    {
+      "page": "https://gdmedics.com/san-diego-ca-garage-door-service/?utm_campaign=gmb",
+      "clicks": 271,
+      "impressions": 56209,
+      "ctr": 0.004821291963920369,
+      "position": 3.4747638278567488
+    },
+    {
+      "page": "https://gdmedics.com/",
+      "clicks": 250,
+      "impressions": 63820,
+      "ctr": 0.003917267314321529,
+      "position": 16.101331870886867
+    },
+    {
+      "page": "https://gdmedics.com/blog/types-garage-door-openers/",
+      "clicks": 205,
+      "impressions": 25630,
+      "ctr": 0.007998439328911432,
+      "position": 11.219820522824815
+    },
+    {
+      "page": "https://gdmedics.com/blog/dog-door-for-garage-door/",
+      "clicks": 175,
+      "impressions": 17602,
+      "ctr": 0.00994205203954096,
+      "position": 9.074423360981706
+    },
+    {
+      "page": "https://gdmedics.com/blog/walkthrough-garage-door/",
+      "clicks": 153,
+      "impressions": 17046,
+      "ctr": 0.00897571277719113,
+      "position": 14.313328640150182
+    },
+    {
+      "page": "https://gdmedics.com/blog/how-change-manual-garage-door-to-automatic/",
+      "clicks": 148,
+      "impressions": 12718,
+      "ctr": 0.01163704985060544,
+      "position": 7.85972637207108
+    },
+    {
+      "page": "https://gdmedics.com/blog/steel-vs-aluminum-garage-doors/",
+      "clicks": 129,
+      "impressions": 10132,
+      "ctr": 0.012731938412949072,
+      "position": 9.597907619423609
+    },
+    {
+      "page": "https://gdmedics.com/blog/locked-out-of-garage-what-to-do/",
+      "clicks": 123,
+      "impressions": 22614,
+      "ctr": 0.0054391085168479705,
+      "position": 7.591801538869727
+    },
+    {
+      "page": "https://gdmedics.com/blog/know-garage-door-spring-bad-broken/",
+      "clicks": 113,
+      "impressions": 32574,
+      "ctr": 0.003469024375268619,
+      "position": 14.86836126972432
+    },
+    {
+      "page": "https://gdmedics.com/blog/best-christmas-lights-san-diego-area/",
+      "clicks": 88,
+      "impressions": 18132,
+      "ctr": 0.004853298036620339,
+      "position": 11.714813589234502
+    },
+    {
+      "page": "https://gdmedics.com/blog/garage-door-opener-electrical-requirements/",
+      "clicks": 87,
+      "impressions": 27270,
+      "ctr": 0.00319031903190319,
+      "position": 7.018665199853318
+    },
+    {
+      "page": "https://gdmedics.com/temecula-and-murrieta-garage-door-repair/?utm_campaign=gmb&utm_medium=organic&utm_source=google",
+      "clicks": 84,
+      "impressions": 21911,
+      "ctr": 0.0038336908402172424,
+      "position": 2.815982839669572
+    },
+    {
+      "page": "https://gdmedics.com/blog/garage-door-alignment/",
+      "clicks": 77,
+      "impressions": 11348,
+      "ctr": 0.0067853366231935145,
+      "position": 10.675801903419105
+    },
+    {
+      "page": "https://gdmedics.com/dallas-fort-worth-garage-door-repair/?utm_campaign=gmb&utm_medium=organic&utm_source=google",
+      "clicks": 67,
+      "impressions": 16105,
+      "ctr": 0.0041601986960571255,
+      "position": 3.495312014902204
+    },
+    {
+      "page": "https://gdmedics.com/blog/common-garage-door-opener-problems/",
+      "clicks": 52,
+      "impressions": 14825,
+      "ctr": 0.0035075885328836424,
+      "position": 11.788465430016863
+    },
+    {
+      "page": "https://gdmedics.com/blog/how-to-replace-the-garage-door-bottom-seal/",
+      "clicks": 51,
+      "impressions": 19946,
+      "ctr": 0.0025569036398275344,
+      "position": 6.409956883585681
+    },
+    {
+      "page": "https://gdmedics.com/blog/how-lubricate-garage-door/",
+      "clicks": 50,
+      "impressions": 43823,
+      "ctr": 0.0011409533806448669,
+      "position": 12.368025922460808
+    },
+    {
+      "page": "https://gdmedics.com/blog/install-garage-door-on-carport/",
+      "clicks": 47,
+      "impressions": 5550,
+      "ctr": 0.008468468468468469,
+      "position": 11.122342342342343
+    },
+    {
+      "page": "https://gdmedics.com/blog/troubleshoot-liftmaster-garage-door/",
+      "clicks": 43,
+      "impressions": 16055,
+      "ctr": 0.002678293366552476,
+      "position": 8.242229834942385
+    },
+    {
+      "page": "https://gdmedics.com/blog/garage-door-uneven/",
+      "clicks": 34,
+      "impressions": 9048,
+      "ctr": 0.003757736516357206,
+      "position": 10.493037135278515
+    },
+    {
+      "page": "https://gdmedics.com/san-diego-ca-garage-door-service/",
+      "clicks": 34,
+      "impressions": 10178,
+      "ctr": 0.003340538416191786,
+      "position": 16.0671055217135
+    },
+    {
+      "page": "https://gdmedics.com/blog/garage-door-insulation/",
+      "clicks": 32,
+      "impressions": 10945,
+      "ctr": 0.002923709456372773,
+      "position": 13.287163088168112
+    },
+    {
+      "page": "https://gdmedics.com/blog/perform-garage-door-tune/",
+      "clicks": 29,
+      "impressions": 10677,
+      "ctr": 0.002716118759951297,
+      "position": 10.727451531329026
+    },
+    {
+      "page": "https://gdmedics.com/areas-we-serve/oceanside-ca-garage-door-service/",
+      "clicks": 25,
+      "impressions": 8595,
+      "ctr": 0.0029086678301337987,
+      "position": 10.462478184991275
+    },
+    {
+      "page": "https://gdmedics.com/blog/how-does-wall-mount-garage-door-opener-work/",
+      "clicks": 25,
+      "impressions": 2703,
+      "ctr": 0.00924898261191269,
+      "position": 14.196448390677025
+    },
+    {
+      "page": "https://gdmedics.com/blog/insulated-garage-doors-pros-cons/",
+      "clicks": 25,
+      "impressions": 4455,
+      "ctr": 0.005611672278338945,
+      "position": 14.12053872053872
+    },
+    {
+      "page": "https://gdmedics.com/blog/6-reasons-why-your-garage-door-closes-unevenly/",
+      "clicks": 24,
+      "impressions": 3048,
+      "ctr": 0.007874015748031496,
+      "position": 9.688648293963254
+    },
+    {
+      "page": "https://gdmedics.com/blog/often-perform-garage-door-tune/",
+      "clicks": 24,
+      "impressions": 3605,
+      "ctr": 0.00665742024965326,
+      "position": 8.771151178918169
+    },
+    {
+      "page": "https://gdmedics.com/blog/can-sun-affect-garage-door-sensor/",
+      "clicks": 22,
+      "impressions": 7511,
+      "ctr": 0.0029290374117960324,
+      "position": 8.154440154440154
+    },
+    {
+      "page": "https://gdmedics.com/blog/garage-door-auto-reverse-adjustment/",
+      "clicks": 21,
+      "impressions": 10452,
+      "ctr": 0.0020091848450057405,
+      "position": 7.346345197091466
+    },
+    {
+      "page": "https://gdmedics.com/blog/4-things-check-garage-door-stuck/",
+      "clicks": 20,
+      "impressions": 9710,
+      "ctr": 0.0020597322348094747,
+      "position": 11.325746652935118
+    },
+    {
+      "page": "https://gdmedics.com/blog/garage-doors-with-pedestrian-door/",
+      "clicks": 19,
+      "impressions": 3352,
+      "ctr": 0.0056682577565632455,
+      "position": 16.696002386634845
+    },
+    {
+      "page": "https://gdmedics.com/blog/how-reset-garage-door-code/",
+      "clicks": 19,
+      "impressions": 21171,
+      "ctr": 0.0008974540645222238,
+      "position": 13.921685324264324
+    },
+    {
+      "page": "https://gdmedics.com/palm-springs-and-palm-desert-garage-door-repair/?utm_campaign=gmb&utm_medium=organic&utm_source=google",
+      "clicks": 18,
+      "impressions": 18206,
+      "ctr": 0.0009886850488849829,
+      "position": 2.526310007689773
+    },
+    {
+      "page": "https://gdmedics.com/blog/garage-door-wont-open/",
+      "clicks": 17,
+      "impressions": 7601,
+      "ctr": 0.002236547822654914,
+      "position": 25.294566504407314
+    },
+    {
+      "page": "https://gdmedics.com/blog/install-windows-in-garage-door/",
+      "clicks": 17,
+      "impressions": 3352,
+      "ctr": 0.005071599045346062,
+      "position": 15.232696897374701
+    },
+    {
+      "page": "https://gdmedics.com/contact/",
+      "clicks": 16,
+      "impressions": 4205,
+      "ctr": 0.0038049940546967895,
+      "position": 8.34601664684899
+    },
+    {
+      "page": "https://gdmedics.com/palm-springs-and-palm-desert-garage-door-repair/",
+      "clicks": 16,
+      "impressions": 14515,
+      "ctr": 0.0011023079572855666,
+      "position": 19.14667585256631
+    },
+    {
+      "page": "https://gdmedics.com/reviews/",
+      "clicks": 15,
+      "impressions": 6565,
+      "ctr": 0.002284843869002285,
+      "position": 7.724904798172125
+    },
+    {
+      "page": "https://gdmedics.com/dallas-fort-worth-garage-door-repair/",
+      "clicks": 14,
+      "impressions": 20957,
+      "ctr": 0.000668034546929427,
+      "position": 20.08126163095863
+    },
+    {
+      "page": "https://gdmedics.com/temecula-and-murrieta-garage-door-repair/",
+      "clicks": 14,
+      "impressions": 11827,
+      "ctr": 0.0011837321383275556,
+      "position": 10.89151940475184
+    },
+    {
+      "page": "https://gdmedics.com/blog/watch-out-for-fake-google-business-listings/",
+      "clicks": 13,
+      "impressions": 5476,
+      "ctr": 0.0023739956172388606,
+      "position": 7.149926953981008
+    },
+    {
+      "page": "https://gdmedics.com/locked-out-of-garage-what-to-do/",
+      "clicks": 13,
+      "impressions": 1330,
+      "ctr": 0.009774436090225564,
+      "position": 1.6345864661654135
+    },
+    {
+      "page": "https://gdmedics.com/offers/",
+      "clicks": 13,
+      "impressions": 9880,
+      "ctr": 0.0013157894736842105,
+      "position": 8.26002024291498
+    },
+    {
+      "page": "https://gdmedics.com/commercial-rolling-sheet-doors/",
+      "clicks": 12,
+      "impressions": 9431,
+      "ctr": 0.0012723995334535045,
+      "position": 19.415756547555933
+    },
+    {
+      "page": "https://gdmedics.com/blog/different-types-of-garage-door-springs/",
+      "clicks": 11,
+      "impressions": 6379,
+      "ctr": 0.0017244082144536761,
+      "position": 11.418717667345978
+    },
+    {
+      "page": "https://gdmedics.com/blog/garage-door-summer-care/",
+      "clicks": 11,
+      "impressions": 3491,
+      "ctr": 0.003150959610426812,
+      "position": 6.648811228874248
+    },
+    {
+      "page": "https://gdmedics.com/blog/how-childproof-garage-door/",
+      "clicks": 11,
+      "impressions": 1982,
+      "ctr": 0.005549949545913219,
+      "position": 8.521695257315843
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:07:51.470Z"
+}

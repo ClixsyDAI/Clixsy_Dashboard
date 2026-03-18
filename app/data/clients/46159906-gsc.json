@@ -1,0 +1,1350 @@
+{
+  "property": "sc-domain:theexteriorcompany.com",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 1612,
+    "impressions": 566773,
+    "ctr": 0.002844172181808237,
+    "position": 34.000673017501335
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 18,
+      "impressions": 5989,
+      "ctr": 0.003005510101853398,
+      "position": 36.289363833695106
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 17,
+      "impressions": 6307,
+      "ctr": 0.0026954177897574125,
+      "position": 37.893451720310765
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 14,
+      "impressions": 5524,
+      "ctr": 0.0025343953656770456,
+      "position": 35.83653149891383
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 23,
+      "impressions": 6303,
+      "ctr": 0.0036490560050769475,
+      "position": 39.87148976677773
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 22,
+      "impressions": 7689,
+      "ctr": 0.002861230329041488,
+      "position": 34.04942125113799
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 8,
+      "impressions": 5455,
+      "ctr": 0.001466544454628781,
+      "position": 33.57616865261228
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 6,
+      "impressions": 4713,
+      "ctr": 0.001273074474856779,
+      "position": 37.40229153405474
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 11,
+      "impressions": 5181,
+      "ctr": 0.0021231422505307855,
+      "position": 38.74078363250338
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 13,
+      "impressions": 6097,
+      "ctr": 0.0021321961620469083,
+      "position": 43.27390519927833
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 11,
+      "impressions": 6797,
+      "ctr": 0.0016183610416360158,
+      "position": 43.37060467853465
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 7,
+      "impressions": 5042,
+      "ctr": 0.001388337961126537,
+      "position": 40.547600158667194
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 12,
+      "impressions": 4266,
+      "ctr": 0.0028129395218002813,
+      "position": 34.8216127519925
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 6,
+      "impressions": 4305,
+      "ctr": 0.0013937282229965157,
+      "position": 35.930778164924504
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 3,
+      "impressions": 4809,
+      "ctr": 0.0006238303181534623,
+      "position": 36.10521938032855
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 21,
+      "impressions": 5731,
+      "ctr": 0.003664281975222474,
+      "position": 37.076775431861805
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 22,
+      "impressions": 5740,
+      "ctr": 0.003832752613240418,
+      "position": 41.74738675958188
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 12,
+      "impressions": 6215,
+      "ctr": 0.0019308125502815769,
+      "position": 40.17184231697506
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 6,
+      "impressions": 6363,
+      "ctr": 0.000942951438000943,
+      "position": 41.94012258368694
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 11,
+      "impressions": 4387,
+      "ctr": 0.00250740825165261,
+      "position": 35.99794848415774
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 7,
+      "impressions": 3598,
+      "ctr": 0.0019455252918287938,
+      "position": 35.82573652028905
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 12,
+      "impressions": 4131,
+      "ctr": 0.002904865649963689,
+      "position": 33.24183006535948
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 23,
+      "impressions": 4975,
+      "ctr": 0.004623115577889447,
+      "position": 35.351959798994976
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 18,
+      "impressions": 4948,
+      "ctr": 0.003637833468067906,
+      "position": 35.468876313662086
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 28,
+      "impressions": 8476,
+      "ctr": 0.0033034450212364322,
+      "position": 41.4739263803681
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 24,
+      "impressions": 8635,
+      "ctr": 0.0027793862188766646,
+      "position": 43.03694267515924
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 20,
+      "impressions": 9101,
+      "ctr": 0.002197560707614548,
+      "position": 46.75936710251621
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 9,
+      "impressions": 5759,
+      "ctr": 0.0015627713144643167,
+      "position": 41.90067720090293
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 11,
+      "impressions": 6714,
+      "ctr": 0.0016383675901102174,
+      "position": 37.99255287459041
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 21,
+      "impressions": 7107,
+      "ctr": 0.0029548332629801602,
+      "position": 34.26762346981849
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 24,
+      "impressions": 7640,
+      "ctr": 0.0031413612565445027,
+      "position": 35.32840314136126
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 18,
+      "impressions": 8511,
+      "ctr": 0.0021149101163200562,
+      "position": 42.65479967101398
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 22,
+      "impressions": 6242,
+      "ctr": 0.003524511374559436,
+      "position": 40.343800064082025
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 13,
+      "impressions": 5031,
+      "ctr": 0.002583979328165375,
+      "position": 36.48380043728881
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 12,
+      "impressions": 4975,
+      "ctr": 0.002412060301507538,
+      "position": 35.35798994974874
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 9,
+      "impressions": 5951,
+      "ctr": 0.001512350865400773,
+      "position": 30.59048899344648
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 15,
+      "impressions": 6446,
+      "ctr": 0.0023270245113248527,
+      "position": 39.773968352466646
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 13,
+      "impressions": 5808,
+      "ctr": 0.002238292011019284,
+      "position": 35.50499311294766
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 23,
+      "impressions": 6472,
+      "ctr": 0.003553770086526576,
+      "position": 39.9426761433869
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 18,
+      "impressions": 7677,
+      "ctr": 0.0023446658851113715,
+      "position": 33.34153966393122
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 18,
+      "impressions": 5006,
+      "ctr": 0.003595685177786656,
+      "position": 26.663803435876947
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 5,
+      "impressions": 5211,
+      "ctr": 0.0009595087315294569,
+      "position": 30.637881404720783
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 5,
+      "impressions": 5259,
+      "ctr": 0.0009507510933637574,
+      "position": 32.295303289598785
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 17,
+      "impressions": 6424,
+      "ctr": 0.002646326276463263,
+      "position": 33.571917808219176
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 29,
+      "impressions": 7218,
+      "ctr": 0.004017733444167359,
+      "position": 31.507481296758105
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 27,
+      "impressions": 8862,
+      "ctr": 0.003046716316858497,
+      "position": 37.10110584518168
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 23,
+      "impressions": 5878,
+      "ctr": 0.003912895542701599,
+      "position": 31.202109561075197
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 21,
+      "impressions": 5781,
+      "ctr": 0.0036325895173845357,
+      "position": 28.743815948797785
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 12,
+      "impressions": 5616,
+      "ctr": 0.002136752136752137,
+      "position": 29.933938746438745
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 13,
+      "impressions": 5562,
+      "ctr": 0.0023372887450557353,
+      "position": 29.309421071556994
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 19,
+      "impressions": 6300,
+      "ctr": 0.003015873015873016,
+      "position": 30.042857142857144
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 17,
+      "impressions": 5095,
+      "ctr": 0.0033366045142296367,
+      "position": 26.657507360157016
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 17,
+      "impressions": 6919,
+      "ctr": 0.002457002457002457,
+      "position": 34.32923832923833
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 20,
+      "impressions": 7023,
+      "ctr": 0.002847785846504343,
+      "position": 34.139256727894065
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 35,
+      "impressions": 5728,
+      "ctr": 0.006110335195530726,
+      "position": 29.046962290502794
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 10,
+      "impressions": 5073,
+      "ctr": 0.001971220185294697,
+      "position": 27.80701754385965
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 10,
+      "impressions": 6215,
+      "ctr": 0.0016090104585679806,
+      "position": 31.404666130329847
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 33,
+      "impressions": 7059,
+      "ctr": 0.004674883127921802,
+      "position": 34.4276809746423
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 15,
+      "impressions": 6446,
+      "ctr": 0.0023270245113248527,
+      "position": 31.794446168166306
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 34,
+      "impressions": 7176,
+      "ctr": 0.004738015607580825,
+      "position": 36.45359531772575
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 16,
+      "impressions": 5879,
+      "ctr": 0.002721551284232012,
+      "position": 32.44208198673243
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 24,
+      "impressions": 5303,
+      "ctr": 0.004525740147086555,
+      "position": 24.36262492928531
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 6,
+      "impressions": 5340,
+      "ctr": 0.0011235955056179776,
+      "position": 27.35880149812734
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 19,
+      "impressions": 5657,
+      "ctr": 0.003358670673501856,
+      "position": 29.831005833480642
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 18,
+      "impressions": 6063,
+      "ctr": 0.0029688273132112814,
+      "position": 30.42899554675903
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 18,
+      "impressions": 6107,
+      "ctr": 0.002947437366955952,
+      "position": 33.524480104797775
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 25,
+      "impressions": 6929,
+      "ctr": 0.0036080242459229327,
+      "position": 34.42935488526483
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 24,
+      "impressions": 6272,
+      "ctr": 0.003826530612244898,
+      "position": 31.229751275510203
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 20,
+      "impressions": 5520,
+      "ctr": 0.0036231884057971015,
+      "position": 28.70942028985507
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 9,
+      "impressions": 7259,
+      "ctr": 0.0012398401983744318,
+      "position": 26.602975616476098
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 9,
+      "impressions": 4734,
+      "ctr": 0.0019011406844106464,
+      "position": 29.6326573722011
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 31,
+      "impressions": 5652,
+      "ctr": 0.005484784147204529,
+      "position": 30.23903043170559
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 24,
+      "impressions": 5293,
+      "ctr": 0.004534290572454185,
+      "position": 30.571887398450784
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 20,
+      "impressions": 6147,
+      "ctr": 0.003253619651862697,
+      "position": 33.70896372214088
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 28,
+      "impressions": 5126,
+      "ctr": 0.005462348809988295,
+      "position": 30.94420600858369
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 21,
+      "impressions": 6402,
+      "ctr": 0.0032802249297094657,
+      "position": 31.13261480787254
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 5,
+      "impressions": 5917,
+      "ctr": 0.0008450228156160216,
+      "position": 31.70981916511746
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 5,
+      "impressions": 6204,
+      "ctr": 0.0008059316569954867,
+      "position": 33.81705351386202
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 29,
+      "impressions": 14367,
+      "ctr": 0.0020185146516322125,
+      "position": 17.784227744135865
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 29,
+      "impressions": 6680,
+      "ctr": 0.004341317365269461,
+      "position": 32.4064371257485
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 28,
+      "impressions": 10053,
+      "ctr": 0.0027852382373420867,
+      "position": 28.54093305480951
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 21,
+      "impressions": 7725,
+      "ctr": 0.0027184466019417475,
+      "position": 32.717928802589
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 28,
+      "impressions": 6400,
+      "ctr": 0.004375,
+      "position": 32.947500000000005
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 13,
+      "impressions": 6708,
+      "ctr": 0.001937984496124031,
+      "position": 30.733005366726296
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 13,
+      "impressions": 5647,
+      "ctr": 0.0023021073136178503,
+      "position": 31.706215689746767
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 27,
+      "impressions": 7858,
+      "ctr": 0.003435988801221685,
+      "position": 30.03385085263426
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 35,
+      "impressions": 7864,
+      "ctr": 0.004450661241098677,
+      "position": 34.815488301119025
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 36,
+      "impressions": 8721,
+      "ctr": 0.0041279669762641896,
+      "position": 35.03829836027978
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 32,
+      "impressions": 7165,
+      "ctr": 0.004466154919748779,
+      "position": 33.77138869504536
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 18,
+      "impressions": 7072,
+      "ctr": 0.0025452488687782806,
+      "position": 31.064762443438916
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 18,
+      "impressions": 5748,
+      "ctr": 0.003131524008350731,
+      "position": 31.46955462769659
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "the exterior company",
+      "clicks": 432,
+      "impressions": 1894,
+      "ctr": 0.22808870116156282,
+      "position": 1.7523759239704328
+    },
+    {
+      "query": "tec roofing",
+      "clicks": 135,
+      "impressions": 699,
+      "ctr": 0.19313304721030042,
+      "position": 2.133047210300429
+    },
+    {
+      "query": "tec the exterior company",
+      "clicks": 46,
+      "impressions": 261,
+      "ctr": 0.17624521072796934,
+      "position": 4.888888888888889
+    },
+    {
+      "query": "tec",
+      "clicks": 29,
+      "impressions": 143,
+      "ctr": 0.20279720279720279,
+      "position": 2.2377622377622375
+    },
+    {
+      "query": "tec lancaster pa",
+      "clicks": 15,
+      "impressions": 122,
+      "ctr": 0.12295081967213115,
+      "position": 1.7131147540983607
+    },
+    {
+      "query": "tec exterior company",
+      "clicks": 14,
+      "impressions": 66,
+      "ctr": 0.21212121212121213,
+      "position": 2.5454545454545454
+    },
+    {
+      "query": "the exterior company lancaster pa",
+      "clicks": 14,
+      "impressions": 108,
+      "ctr": 0.12962962962962962,
+      "position": 1.0277777777777777
+    },
+    {
+      "query": "the exterior company pittsburgh",
+      "clicks": 12,
+      "impressions": 79,
+      "ctr": 0.1518987341772152,
+      "position": 1
+    },
+    {
+      "query": "tec company",
+      "clicks": 10,
+      "impressions": 160,
+      "ctr": 0.0625,
+      "position": 8.73125
+    },
+    {
+      "query": "tec construction",
+      "clicks": 8,
+      "impressions": 60,
+      "ctr": 0.13333333333333333,
+      "position": 9.65
+    },
+    {
+      "query": "tec roof",
+      "clicks": 8,
+      "impressions": 29,
+      "ctr": 0.27586206896551724,
+      "position": 1.5172413793103448
+    },
+    {
+      "query": "tec roofing lancaster pa",
+      "clicks": 8,
+      "impressions": 59,
+      "ctr": 0.13559322033898305,
+      "position": 1
+    },
+    {
+      "query": "exterior company",
+      "clicks": 7,
+      "impressions": 1411,
+      "ctr": 0.004961020552799433,
+      "position": 18.002834868887312
+    },
+    {
+      "query": "tec lancaster",
+      "clicks": 7,
+      "impressions": 64,
+      "ctr": 0.109375,
+      "position": 1
+    },
+    {
+      "query": "the exterior company ct",
+      "clicks": 7,
+      "impressions": 92,
+      "ctr": 0.07608695652173914,
+      "position": 2.1304347826086953
+    },
+    {
+      "query": "the exterior company reviews",
+      "clicks": 7,
+      "impressions": 578,
+      "ctr": 0.012110726643598616,
+      "position": 5.186851211072664
+    },
+    {
+      "query": "roofing companies lancaster pa",
+      "clicks": 6,
+      "impressions": 518,
+      "ctr": 0.011583011583011582,
+      "position": 8.685328185328185
+    },
+    {
+      "query": "roofer near me",
+      "clicks": 5,
+      "impressions": 522,
+      "ctr": 0.009578544061302681,
+      "position": 12.204980842911878
+    },
+    {
+      "query": "roofers lancaster pa",
+      "clicks": 4,
+      "impressions": 725,
+      "ctr": 0.005517241379310344,
+      "position": 16.878620689655172
+    },
+    {
+      "query": "theexteriorcompany.com",
+      "clicks": 4,
+      "impressions": 50,
+      "ctr": 0.08,
+      "position": 1
+    },
+    {
+      "query": "roofing contractors lancaster pa",
+      "clicks": 3,
+      "impressions": 537,
+      "ctr": 0.00558659217877095,
+      "position": 6.450651769087523
+    },
+    {
+      "query": "tec exteriors",
+      "clicks": 3,
+      "impressions": 51,
+      "ctr": 0.058823529411764705,
+      "position": 3.235294117647059
+    },
+    {
+      "query": "the exterior company rocky hill",
+      "clicks": 3,
+      "impressions": 45,
+      "ctr": 0.06666666666666667,
+      "position": 2.7777777777777777
+    },
+    {
+      "query": "the exteriors company",
+      "clicks": 3,
+      "impressions": 122,
+      "ctr": 0.02459016393442623,
+      "position": 10.221311475409836
+    },
+    {
+      "query": "commercial roofing companies near me",
+      "clicks": 2,
+      "impressions": 404,
+      "ctr": 0.0049504950495049506,
+      "position": 20.705445544554454
+    },
+    {
+      "query": "exterior roofing",
+      "clicks": 2,
+      "impressions": 439,
+      "ctr": 0.004555808656036446,
+      "position": 21.46469248291572
+    },
+    {
+      "query": "gutter repair",
+      "clicks": 2,
+      "impressions": 352,
+      "ctr": 0.005681818181818182,
+      "position": 11.934659090909092
+    },
+    {
+      "query": "roofer lancaster pa",
+      "clicks": 2,
+      "impressions": 437,
+      "ctr": 0.004576659038901602,
+      "position": 15.79633867276888
+    },
+    {
+      "query": "roofing",
+      "clicks": 2,
+      "impressions": 886,
+      "ctr": 0.002257336343115124,
+      "position": 11.266365688487584
+    },
+    {
+      "query": "roofing companies near me",
+      "clicks": 2,
+      "impressions": 1464,
+      "ctr": 0.001366120218579235,
+      "position": 13.188524590163935
+    },
+    {
+      "query": "roofing company",
+      "clicks": 2,
+      "impressions": 1838,
+      "ctr": 0.001088139281828074,
+      "position": 12.639825897714907
+    },
+    {
+      "query": "roofing contractor",
+      "clicks": 2,
+      "impressions": 2255,
+      "ctr": 0.0008869179600886918,
+      "position": 6.353436807095344
+    },
+    {
+      "query": "roofing contractors near me",
+      "clicks": 2,
+      "impressions": 856,
+      "ctr": 0.002336448598130841,
+      "position": 12.59929906542056
+    },
+    {
+      "query": "roofing in connecticut",
+      "clicks": 2,
+      "impressions": 212,
+      "ctr": 0.009433962264150943,
+      "position": 31.82547169811321
+    },
+    {
+      "query": "roofing near me",
+      "clicks": 2,
+      "impressions": 1609,
+      "ctr": 0.001243008079552517,
+      "position": 39.17837165941579
+    },
+    {
+      "query": "roofing services in usa",
+      "clicks": 2,
+      "impressions": 5,
+      "ctr": 0.4,
+      "position": 52
+    },
+    {
+      "query": "siding companies near me",
+      "clicks": 2,
+      "impressions": 143,
+      "ctr": 0.013986013986013986,
+      "position": 27.95104895104895
+    },
+    {
+      "query": "siding contractors lancaster pa",
+      "clicks": 2,
+      "impressions": 71,
+      "ctr": 0.028169014084507043,
+      "position": 8.91549295774648
+    },
+    {
+      "query": "tec roofing reviews",
+      "clicks": 2,
+      "impressions": 197,
+      "ctr": 0.01015228426395939,
+      "position": 8.538071065989847
+    },
+    {
+      "query": "tech roofing",
+      "clicks": 2,
+      "impressions": 179,
+      "ctr": 0.0111731843575419,
+      "position": 12.519553072625698
+    },
+    {
+      "query": "the exterior company llc",
+      "clicks": 2,
+      "impressions": 47,
+      "ctr": 0.0425531914893617,
+      "position": 1.6595744680851063
+    },
+    {
+      "query": "aluminum siding repair companies near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "best roofing company in bergen county nj",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 9.333333333333334
+    },
+    {
+      "query": "best roofing company near me",
+      "clicks": 1,
+      "impressions": 314,
+      "ctr": 0.0031847133757961785,
+      "position": 33.93312101910828
+    },
+    {
+      "query": "commercial companies",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 41
+    },
+    {
+      "query": "commercial roofing",
+      "clicks": 1,
+      "impressions": 569,
+      "ctr": 0.0017574692442882249,
+      "position": 11.655536028119508
+    },
+    {
+      "query": "commercial roofing contractors harrisburg pa",
+      "clicks": 1,
+      "impressions": 135,
+      "ctr": 0.007407407407407408,
+      "position": 22.22222222222222
+    },
+    {
+      "query": "commercial siding contractors near me",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 19.7
+    },
+    {
+      "query": "companies in lancaster pa",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 24.454545454545453
+    },
+    {
+      "query": "connecticut roofing",
+      "clicks": 1,
+      "impressions": 83,
+      "ctr": 0.012048192771084338,
+      "position": 21.253012048192772
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://theexteriorcompany.com/",
+      "clicks": 532,
+      "impressions": 60767,
+      "ctr": 0.008754751756710056,
+      "position": 22.776358878996824
+    },
+    {
+      "page": "https://theexteriorcompany.com/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-Lancaster-PA",
+      "clicks": 446,
+      "impressions": 28817,
+      "ctr": 0.015476975396467363,
+      "position": 4.121976611028213
+    },
+    {
+      "page": "https://theexteriorcompany.com/service-area/pittsburgh-pa/",
+      "clicks": 82,
+      "impressions": 30307,
+      "ctr": 0.0027056455604315835,
+      "position": 29.95684165374336
+    },
+    {
+      "page": "https://theexteriorcompany.com/about/",
+      "clicks": 61,
+      "impressions": 11210,
+      "ctr": 0.00544157002676182,
+      "position": 6.410080285459411
+    },
+    {
+      "page": "https://theexteriorcompany.com/careers/",
+      "clicks": 39,
+      "impressions": 3954,
+      "ctr": 0.009863429438543247,
+      "position": 10.36368234699039
+    },
+    {
+      "page": "https://theexteriorcompany.com/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-Rocky-Hill-CT",
+      "clicks": 38,
+      "impressions": 4936,
+      "ctr": 0.007698541329011345,
+      "position": 4.42726904376013
+    },
+    {
+      "page": "https://theexteriorcompany.com/blog/ice-dams-prevention-pennsylvania/",
+      "clicks": 36,
+      "impressions": 3581,
+      "ctr": 0.01005305780508238,
+      "position": 9.67774364702597
+    },
+    {
+      "page": "https://theexteriorcompany.com/contact/",
+      "clicks": 36,
+      "impressions": 10371,
+      "ctr": 0.0034712178189181373,
+      "position": 9.579018416738984
+    },
+    {
+      "page": "https://theexteriorcompany.com/service-area/hartford-ct/",
+      "clicks": 35,
+      "impressions": 18045,
+      "ctr": 0.0019395954558049321,
+      "position": 26.37727902466057
+    },
+    {
+      "page": "http://www.theexteriorcompany.com/",
+      "clicks": 33,
+      "impressions": 1448,
+      "ctr": 0.022790055248618785,
+      "position": 13.838397790055248
+    },
+    {
+      "page": "https://theexteriorcompany.com/service-area/york-pa/",
+      "clicks": 27,
+      "impressions": 18410,
+      "ctr": 0.0014665942422596415,
+      "position": 17.496740901683868
+    },
+    {
+      "page": "https://theexteriorcompany.com/reviews/",
+      "clicks": 17,
+      "impressions": 4877,
+      "ctr": 0.003485749436128768,
+      "position": 4.851343038753332
+    },
+    {
+      "page": "https://theexteriorcompany.com/gutters/",
+      "clicks": 14,
+      "impressions": 48097,
+      "ctr": 0.00029107844564110026,
+      "position": 45.221281992639874
+    },
+    {
+      "page": "https://theexteriorcompany.com/blog/massive-hailstorm-hits-northern-and-eastern-pittsburgh-what-homeowners-need-to-know/",
+      "clicks": 12,
+      "impressions": 1245,
+      "ctr": 0.00963855421686747,
+      "position": 10.432931726907631
+    },
+    {
+      "page": "https://theexteriorcompany.com/service-area/lancaster-pa/",
+      "clicks": 12,
+      "impressions": 13512,
+      "ctr": 0.0008880994671403197,
+      "position": 23.209961515689756
+    },
+    {
+      "page": "https://theexteriorcompany.com/service-area/scranton-wilkes-barre-pa/",
+      "clicks": 12,
+      "impressions": 29095,
+      "ctr": 0.0004124420003437017,
+      "position": 19.19831586183193
+    },
+    {
+      "page": "https://theexteriorcompany.com/financing/",
+      "clicks": 11,
+      "impressions": 3760,
+      "ctr": 0.002925531914893617,
+      "position": 44.15053191489362
+    },
+    {
+      "page": "https://theexteriorcompany.com/service-area/new-haven-ct/",
+      "clicks": 11,
+      "impressions": 10455,
+      "ctr": 0.001052128168340507,
+      "position": 14.515638450502152
+    },
+    {
+      "page": "https://theexteriorcompany.com/service-area/torrington-ct/",
+      "clicks": 10,
+      "impressions": 9753,
+      "ctr": 0.0010253255408592228,
+      "position": 34.006664616015584
+    },
+    {
+      "page": "https://theexteriorcompany.com/service-area/newcastle-pa/",
+      "clicks": 9,
+      "impressions": 9320,
+      "ctr": 0.0009656652360515021,
+      "position": 20.41008583690987
+    },
+    {
+      "page": "https://www.theexteriorcompany.com/",
+      "clicks": 9,
+      "impressions": 1303,
+      "ctr": 0.006907137375287797,
+      "position": 24.555640828856486
+    },
+    {
+      "page": "https://theexteriorcompany.com/roof-rescue/",
+      "clicks": 8,
+      "impressions": 1047,
+      "ctr": 0.007640878701050621,
+      "position": 16.983763132760267
+    },
+    {
+      "page": "https://theexteriorcompany.com/service-area/state/connecticut/",
+      "clicks": 8,
+      "impressions": 3908,
+      "ctr": 0.0020470829068577278,
+      "position": 50.21596724667349
+    },
+    {
+      "page": "https://theexteriorcompany.com/blog/ice-dams-in-connecticut-a-homeowners-guide/",
+      "clicks": 7,
+      "impressions": 547,
+      "ctr": 0.012797074954296161,
+      "position": 7.292504570383913
+    },
+    {
+      "page": "https://theexteriorcompany.com/roofing/storm-damage/",
+      "clicks": 7,
+      "impressions": 60132,
+      "ctr": 0.00011641056342712698,
+      "position": 49.614564624492786
+    },
+    {
+      "page": "https://theexteriorcompany.com/service-area/hackensack-nj/",
+      "clicks": 7,
+      "impressions": 4924,
+      "ctr": 0.001421608448415922,
+      "position": 14.355199025182777
+    },
+    {
+      "page": "https://theexteriorcompany.com/roofing/commercial/",
+      "clicks": 6,
+      "impressions": 18805,
+      "ctr": 0.00031906407870247274,
+      "position": 31.00888061685722
+    },
+    {
+      "page": "https://theexteriorcompany.com/roofing/emergency/",
+      "clicks": 6,
+      "impressions": 21205,
+      "ctr": 0.0002829521339306767,
+      "position": 50.35269983494459
+    },
+    {
+      "page": "https://theexteriorcompany.com/schedule/?utm_channel=gbp",
+      "clicks": 6,
+      "impressions": 2940,
+      "ctr": 0.0020408163265306124,
+      "position": 13.279931972789116
+    },
+    {
+      "page": "https://theexteriorcompany.com/service-area/middletown-ct/",
+      "clicks": 6,
+      "impressions": 4321,
+      "ctr": 0.001388567461235825,
+      "position": 23.784309187688034
+    },
+    {
+      "page": "https://theexteriorcompany.com/service-area/rhode-island/",
+      "clicks": 6,
+      "impressions": 2713,
+      "ctr": 0.0022115739034279398,
+      "position": 39.76631035753778
+    },
+    {
+      "page": "https://theexteriorcompany.com/roofing/residential/",
+      "clicks": 5,
+      "impressions": 23106,
+      "ctr": 0.00021639401021379727,
+      "position": 49.05409850255345
+    },
+    {
+      "page": "https://theexteriorcompany.com/schedule/",
+      "clicks": 5,
+      "impressions": 628,
+      "ctr": 0.007961783439490446,
+      "position": 17.53980891719745
+    },
+    {
+      "page": "https://theexteriorcompany.com/service-area/bergen-county-nj/",
+      "clicks": 5,
+      "impressions": 9109,
+      "ctr": 0.0005489076737292787,
+      "position": 24.58996596772423
+    },
+    {
+      "page": "https://theexteriorcompany.com/service-area/florida/",
+      "clicks": 5,
+      "impressions": 248,
+      "ctr": 0.020161290322580645,
+      "position": 15.52016129032258
+    },
+    {
+      "page": "https://theexteriorcompany.com/service-area/germantown-md/",
+      "clicks": 5,
+      "impressions": 12648,
+      "ctr": 0.00039531941808981655,
+      "position": 32.7103889943074
+    },
+    {
+      "page": "https://theexteriorcompany.com/service-area/harrisburg-pa-2/",
+      "clicks": 5,
+      "impressions": 7510,
+      "ctr": 0.0006657789613848203,
+      "position": 26.092010652463383
+    },
+    {
+      "page": "https://theexteriorcompany.com/siding/",
+      "clicks": 5,
+      "impressions": 9815,
+      "ctr": 0.0005094243504839531,
+      "position": 43.800815078960774
+    },
+    {
+      "page": "https://theexteriorcompany.com/blog/tecs-under-one-roof-initiative-gives-family-a-new-roof/",
+      "clicks": 4,
+      "impressions": 104,
+      "ctr": 0.038461538461538464,
+      "position": 11.826923076923077
+    },
+    {
+      "page": "https://theexteriorcompany.com/gallery/",
+      "clicks": 4,
+      "impressions": 455,
+      "ctr": 0.008791208791208791,
+      "position": 11.76923076923077
+    },
+    {
+      "page": "https://theexteriorcompany.com/media-center/",
+      "clicks": 4,
+      "impressions": 204,
+      "ctr": 0.0196078431372549,
+      "position": 16.068627450980394
+    },
+    {
+      "page": "https://theexteriorcompany.com/service-area/allentown-pa/",
+      "clicks": 4,
+      "impressions": 7304,
+      "ctr": 0.000547645125958379,
+      "position": 28.875821467688937
+    },
+    {
+      "page": "https://theexteriorcompany.com/service-area/hershey-pa/",
+      "clicks": 4,
+      "impressions": 2172,
+      "ctr": 0.001841620626151013,
+      "position": 17.864180478821364
+    },
+    {
+      "page": "https://theexteriorcompany.com/service-area/rising-sun-md/",
+      "clicks": 4,
+      "impressions": 1506,
+      "ctr": 0.0026560424966799467,
+      "position": 41.47742363877822
+    },
+    {
+      "page": "https://theexteriorcompany.com/lancaster-roofers/",
+      "clicks": 3,
+      "impressions": 3413,
+      "ctr": 0.0008789920890711983,
+      "position": 40.69704072663346
+    },
+    {
+      "page": "https://theexteriorcompany.com/make-a-payment/",
+      "clicks": 3,
+      "impressions": 267,
+      "ctr": 0.011235955056179775,
+      "position": 13.49438202247191
+    },
+    {
+      "page": "https://theexteriorcompany.com/service-area/northern-va/",
+      "clicks": 3,
+      "impressions": 16008,
+      "ctr": 0.0001874062968515742,
+      "position": 25.06184407796102
+    },
+    {
+      "page": "https://theexteriorcompany.com/ach-stripe/",
+      "clicks": 2,
+      "impressions": 107,
+      "ctr": 0.018691588785046728,
+      "position": 26.53271028037383
+    },
+    {
+      "page": "https://theexteriorcompany.com/blog/winter-roof-inspection-checklist-northeast/",
+      "clicks": 2,
+      "impressions": 228,
+      "ctr": 0.008771929824561403,
+      "position": 6.469298245614035
+    },
+    {
+      "page": "https://theexteriorcompany.com/commercial-roofing/epdm-roofing/",
+      "clicks": 2,
+      "impressions": 3427,
+      "ctr": 0.0005836008170411438,
+      "position": 24.600525240735337
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:08:07.989Z"
+}

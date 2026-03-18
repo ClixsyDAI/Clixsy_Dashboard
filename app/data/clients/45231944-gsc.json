@@ -1,0 +1,1350 @@
+{
+  "property": "https://www.sinklaw.com/",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 16601,
+    "impressions": 7033045,
+    "ctr": 0.002360428519936955,
+    "position": 20.112564861321793
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 184,
+      "impressions": 64424,
+      "ctr": 0.0028560784800695394,
+      "position": 17.668524152489756
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 195,
+      "impressions": 75734,
+      "ctr": 0.0025748012781577627,
+      "position": 17.947989014181214
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 138,
+      "impressions": 57851,
+      "ctr": 0.002385438453959309,
+      "position": 17.76956318819035
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 178,
+      "impressions": 70408,
+      "ctr": 0.002528121804340416,
+      "position": 17.599519940915805
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 167,
+      "impressions": 67075,
+      "ctr": 0.0024897502795378306,
+      "position": 20.353797987327617
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 91,
+      "impressions": 58582,
+      "ctr": 0.0015533781707691783,
+      "position": 18.863149090164214
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 126,
+      "impressions": 58640,
+      "ctr": 0.0021487039563437924,
+      "position": 20.303359481582536
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 162,
+      "impressions": 75246,
+      "ctr": 0.0021529383621720754,
+      "position": 14.574462429896606
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 143,
+      "impressions": 71606,
+      "ctr": 0.0019970393542440576,
+      "position": 19.821858503477362
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 76,
+      "impressions": 58303,
+      "ctr": 0.0013035349810472875,
+      "position": 22.050340462754917
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 65,
+      "impressions": 52279,
+      "ctr": 0.0012433290613821993,
+      "position": 20.042445341341647
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 125,
+      "impressions": 57119,
+      "ctr": 0.002188413662704179,
+      "position": 18.539942926171676
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 113,
+      "impressions": 55825,
+      "ctr": 0.002024182713837886,
+      "position": 17.48345723242275
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 99,
+      "impressions": 57725,
+      "ctr": 0.001715028150714595,
+      "position": 20.399497618016458
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 174,
+      "impressions": 69347,
+      "ctr": 0.0025091207983041802,
+      "position": 17.577890896505977
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 160,
+      "impressions": 127025,
+      "ctr": 0.0012595945679984256,
+      "position": 13.36032277110805
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 160,
+      "impressions": 65871,
+      "ctr": 0.0024289899955974555,
+      "position": 21.026430447389593
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 111,
+      "impressions": 67624,
+      "ctr": 0.0016414290784336923,
+      "position": 22.078921684609014
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 183,
+      "impressions": 102689,
+      "ctr": 0.0017820798722355852,
+      "position": 12.10613600288249
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 129,
+      "impressions": 56727,
+      "ctr": 0.0022740493944682426,
+      "position": 19.77463994217921
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 123,
+      "impressions": 62053,
+      "ctr": 0.001982176526517654,
+      "position": 21.55570238344641
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 211,
+      "impressions": 81892,
+      "ctr": 0.002576564255360719,
+      "position": 17.031736921799443
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 221,
+      "impressions": 67699,
+      "ctr": 0.0032644499918758033,
+      "position": 16.631501203858257
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 214,
+      "impressions": 86195,
+      "ctr": 0.0024827426184813504,
+      "position": 27.1388363594176
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 205,
+      "impressions": 88715,
+      "ctr": 0.00231077044468241,
+      "position": 29.21985008172237
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 181,
+      "impressions": 91108,
+      "ctr": 0.0019866532027922905,
+      "position": 31.810367915001976
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 130,
+      "impressions": 81973,
+      "ctr": 0.001585888036304637,
+      "position": 31.050065265392263
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 124,
+      "impressions": 78372,
+      "ctr": 0.0015821977236768234,
+      "position": 29.329186444138212
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 214,
+      "impressions": 74650,
+      "ctr": 0.0028667113194909576,
+      "position": 20.823415941058272
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 181,
+      "impressions": 83459,
+      "ctr": 0.0021687295558298087,
+      "position": 22.4856756011934
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 227,
+      "impressions": 85246,
+      "ctr": 0.002662881542828989,
+      "position": 27.503319803861764
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 178,
+      "impressions": 69448,
+      "ctr": 0.002563068770878931,
+      "position": 20.871342587259534
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 186,
+      "impressions": 85975,
+      "ctr": 0.002163419598720558,
+      "position": 25.16599011340506
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 127,
+      "impressions": 73576,
+      "ctr": 0.0017261063390235946,
+      "position": 24.321069370446885
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 128,
+      "impressions": 72376,
+      "ctr": 0.0017685420581408202,
+      "position": 25.754435171880182
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 167,
+      "impressions": 84084,
+      "ctr": 0.001986109128966272,
+      "position": 24.686004471718757
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 216,
+      "impressions": 90675,
+      "ctr": 0.002382133995037221,
+      "position": 23.05464571271023
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 196,
+      "impressions": 85948,
+      "ctr": 0.002280448643365756,
+      "position": 25.095767208079305
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 185,
+      "impressions": 85320,
+      "ctr": 0.0021683075480543835,
+      "position": 26.022714486638538
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 171,
+      "impressions": 77669,
+      "ctr": 0.0022016505941881573,
+      "position": 22.87879334097259
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 90,
+      "impressions": 77827,
+      "ctr": 0.0011564110141724594,
+      "position": 25.4595320390096
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 126,
+      "impressions": 89933,
+      "ctr": 0.0014010429986767927,
+      "position": 21.218129051627322
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 178,
+      "impressions": 88475,
+      "ctr": 0.0020118677592540265,
+      "position": 23.104526702458323
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 220,
+      "impressions": 96303,
+      "ctr": 0.002284456351307851,
+      "position": 23.723061586866454
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 241,
+      "impressions": 92608,
+      "ctr": 0.0026023669661368347,
+      "position": 23.633487387698686
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 251,
+      "impressions": 79454,
+      "ctr": 0.003159060588516626,
+      "position": 22.177863921262617
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 207,
+      "impressions": 87364,
+      "ctr": 0.0023693970056316103,
+      "position": 23.400164827617782
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 147,
+      "impressions": 82128,
+      "ctr": 0.0017898889538281706,
+      "position": 23.557690434443796
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 181,
+      "impressions": 87274,
+      "ctr": 0.002073928088548709,
+      "position": 23.455943350826132
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 263,
+      "impressions": 96553,
+      "ctr": 0.002723892577133802,
+      "position": 22.26088262405104
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 322,
+      "impressions": 130075,
+      "ctr": 0.0024754949067845476,
+      "position": 12.535129732846436
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 300,
+      "impressions": 89959,
+      "ctr": 0.0033348525439366823,
+      "position": 20.28928734201136
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 262,
+      "impressions": 96723,
+      "ctr": 0.0027087662706905286,
+      "position": 21.644986197698582
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 264,
+      "impressions": 87553,
+      "ctr": 0.003015316436901077,
+      "position": 21.910442817493404
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 146,
+      "impressions": 70792,
+      "ctr": 0.002062379929935586,
+      "position": 18.988713413945078
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 152,
+      "impressions": 76926,
+      "ctr": 0.0019759249148532357,
+      "position": 19.20216831760393
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 270,
+      "impressions": 94045,
+      "ctr": 0.002870966026902015,
+      "position": 19.31073422297836
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 252,
+      "impressions": 99873,
+      "ctr": 0.0025232044696764894,
+      "position": 19.323681074965204
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 281,
+      "impressions": 90496,
+      "ctr": 0.0031051096181046677,
+      "position": 20.354667609618105
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 324,
+      "impressions": 86927,
+      "ctr": 0.0037272654066055426,
+      "position": 20.800073624995687
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 213,
+      "impressions": 72887,
+      "ctr": 0.002922331828721171,
+      "position": 17.832507854624282
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 137,
+      "impressions": 70028,
+      "ctr": 0.0019563603130176503,
+      "position": 19.805349288855886
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 173,
+      "impressions": 71635,
+      "ctr": 0.002415020590493474,
+      "position": 18.75678090318978
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 198,
+      "impressions": 86132,
+      "ctr": 0.0022987971950030185,
+      "position": 17.944654716017276
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 261,
+      "impressions": 91238,
+      "ctr": 0.0028606501676932856,
+      "position": 18.362765514369013
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 235,
+      "impressions": 84415,
+      "ctr": 0.0027838654267606467,
+      "position": 21.574435823017236
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 217,
+      "impressions": 74997,
+      "ctr": 0.0028934490712961853,
+      "position": 18.616984679387176
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 226,
+      "impressions": 81796,
+      "ctr": 0.0027629712944398257,
+      "position": 17.892097413076435
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 174,
+      "impressions": 74034,
+      "ctr": 0.002350271496879812,
+      "position": 19.00483561606829
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 165,
+      "impressions": 71752,
+      "ctr": 0.0022995874679451445,
+      "position": 17.98650908685472
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 255,
+      "impressions": 90833,
+      "ctr": 0.002807349751742208,
+      "position": 15.192650248257792
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 244,
+      "impressions": 88677,
+      "ctr": 0.0027515590288349854,
+      "position": 15.830858057895508
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 244,
+      "impressions": 86109,
+      "ctr": 0.0028336178564377706,
+      "position": 18.25336492120452
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 239,
+      "impressions": 83758,
+      "ctr": 0.0028534587740872515,
+      "position": 17.23596551971155
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 199,
+      "impressions": 80327,
+      "ctr": 0.0024773737348587647,
+      "position": 16.206319170391026
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 117,
+      "impressions": 68982,
+      "ctr": 0.0016960946333826215,
+      "position": 16.65373575715404
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 126,
+      "impressions": 71363,
+      "ctr": 0.0017656208399310566,
+      "position": 17.90741700881409
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 198,
+      "impressions": 90650,
+      "ctr": 0.0021842250413678984,
+      "position": 15.204864864864865
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 201,
+      "impressions": 80265,
+      "ctr": 0.002504204821528686,
+      "position": 16.139824331900577
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 222,
+      "impressions": 82748,
+      "ctr": 0.002682844298351622,
+      "position": 14.28787402716682
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 179,
+      "impressions": 68598,
+      "ctr": 0.0026094055220268813,
+      "position": 15.665952360127118
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 183,
+      "impressions": 67250,
+      "ctr": 0.002721189591078067,
+      "position": 16.808550185873607
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 105,
+      "impressions": 59644,
+      "ctr": 0.0017604453088324056,
+      "position": 18.06607538059151
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 118,
+      "impressions": 55725,
+      "ctr": 0.0021175414984297893,
+      "position": 18.26609241812472
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 235,
+      "impressions": 65122,
+      "ctr": 0.0036086115291299407,
+      "position": 17.48522772642118
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 173,
+      "impressions": 74286,
+      "ctr": 0.0023288371967800123,
+      "position": 16.64244945211749
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 192,
+      "impressions": 68103,
+      "ctr": 0.0028192590634773798,
+      "position": 18.707090730217466
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 208,
+      "impressions": 70696,
+      "ctr": 0.002942174946248727,
+      "position": 16.84605918298065
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 218,
+      "impressions": 64052,
+      "ctr": 0.003403484668706676,
+      "position": 15.812964466371074
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 105,
+      "impressions": 59122,
+      "ctr": 0.0017759886336727445,
+      "position": 17.016745035688913
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "george sink",
+      "clicks": 694,
+      "impressions": 6745,
+      "ctr": 0.10289103039288362,
+      "position": 2.697998517420311
+    },
+    {
+      "query": "george sink injury lawyers",
+      "clicks": 288,
+      "impressions": 43993,
+      "ctr": 0.006546496033459868,
+      "position": 1.1883254154069967
+    },
+    {
+      "query": "george sink injury lawyer",
+      "clicks": 197,
+      "impressions": 3450,
+      "ctr": 0.05710144927536232,
+      "position": 1.26
+    },
+    {
+      "query": "george sink law firm",
+      "clicks": 189,
+      "impressions": 44106,
+      "ctr": 0.0042851312746565095,
+      "position": 1.2100394504149095
+    },
+    {
+      "query": "george sink law",
+      "clicks": 79,
+      "impressions": 526,
+      "ctr": 0.15019011406844107,
+      "position": 1.5114068441064639
+    },
+    {
+      "query": "george sink, p.a. injury lawyers",
+      "clicks": 55,
+      "impressions": 731,
+      "ctr": 0.07523939808481532,
+      "position": 1.8495212038303692
+    },
+    {
+      "query": "sink law",
+      "clicks": 51,
+      "impressions": 43687,
+      "ctr": 0.001167395334996681,
+      "position": 1.7461487398997413
+    },
+    {
+      "query": "george sink p.a. injury lawyers",
+      "clicks": 48,
+      "impressions": 43460,
+      "ctr": 0.0011044638748274275,
+      "position": 1.1749884951679705
+    },
+    {
+      "query": "george sink greenville",
+      "clicks": 44,
+      "impressions": 924,
+      "ctr": 0.047619047619047616,
+      "position": 1.9166666666666665
+    },
+    {
+      "query": "george sink pa",
+      "clicks": 36,
+      "impressions": 723,
+      "ctr": 0.04979253112033195,
+      "position": 1.5560165975103735
+    },
+    {
+      "query": "will i lose my disability if i work part-time",
+      "clicks": 36,
+      "impressions": 13418,
+      "ctr": 0.002682963183782978,
+      "position": 1.9449247279773438
+    },
+    {
+      "query": "george sink columbia sc",
+      "clicks": 35,
+      "impressions": 391,
+      "ctr": 0.08951406649616368,
+      "position": 3.601023017902813
+    },
+    {
+      "query": "george sink greenville sc",
+      "clicks": 35,
+      "impressions": 415,
+      "ctr": 0.08433734939759036,
+      "position": 3.68433734939759
+    },
+    {
+      "query": "sinklaw",
+      "clicks": 34,
+      "impressions": 61,
+      "ctr": 0.5573770491803278,
+      "position": 1.639344262295082
+    },
+    {
+      "query": "george sink pa injury lawyers",
+      "clicks": 33,
+      "impressions": 43656,
+      "ctr": 0.0007559098405717427,
+      "position": 1.1845565328935312
+    },
+    {
+      "query": "george sink lawyers",
+      "clicks": 31,
+      "impressions": 221,
+      "ctr": 0.14027149321266968,
+      "position": 1.6380090497737556
+    },
+    {
+      "query": "george sink myrtle beach",
+      "clicks": 31,
+      "impressions": 855,
+      "ctr": 0.03625730994152047,
+      "position": 1.7204678362573098
+    },
+    {
+      "query": "will my disability benefits change when i turn 67 after",
+      "clicks": 26,
+      "impressions": 1162,
+      "ctr": 0.022375215146299483,
+      "position": 1.6643717728055076
+    },
+    {
+      "query": "sink law firm",
+      "clicks": 25,
+      "impressions": 43582,
+      "ctr": 0.0005736313156807857,
+      "position": 1.2236932678628791
+    },
+    {
+      "query": "843-569-1700",
+      "clicks": 24,
+      "impressions": 92,
+      "ctr": 0.2608695652173913,
+      "position": 1
+    },
+    {
+      "query": "can you work part time on disability",
+      "clicks": 22,
+      "impressions": 1894,
+      "ctr": 0.011615628299894404,
+      "position": 2.2771911298838434
+    },
+    {
+      "query": "is george sink sr alive",
+      "clicks": 21,
+      "impressions": 177,
+      "ctr": 0.11864406779661017,
+      "position": 1.1807909604519775
+    },
+    {
+      "query": "george sink attorney",
+      "clicks": 20,
+      "impressions": 43148,
+      "ctr": 0.00046352090479280614,
+      "position": 1.2487484935570594
+    },
+    {
+      "query": "george sink charleston sc",
+      "clicks": 20,
+      "impressions": 587,
+      "ctr": 0.034071550255536626,
+      "position": 1.4497444633730834
+    },
+    {
+      "query": "george sink augusta ga",
+      "clicks": 19,
+      "impressions": 221,
+      "ctr": 0.08597285067873303,
+      "position": 5.538461538461538
+    },
+    {
+      "query": "george sink lawyer",
+      "clicks": 18,
+      "impressions": 42846,
+      "ctr": 0.0004201092283993838,
+      "position": 1.2493114876534566
+    },
+    {
+      "query": "charlotte car accident lawyer",
+      "clicks": 17,
+      "impressions": 5381,
+      "ctr": 0.0031592640773090504,
+      "position": 8.951496004460138
+    },
+    {
+      "query": "jay hewitt attorney",
+      "clicks": 17,
+      "impressions": 30,
+      "ctr": 0.5666666666666667,
+      "position": 1
+    },
+    {
+      "query": "do you have to file taxes on disability income",
+      "clicks": 16,
+      "impressions": 5771,
+      "ctr": 0.002772483105181078,
+      "position": 8.461271876624501
+    },
+    {
+      "query": "george sink age",
+      "clicks": 16,
+      "impressions": 270,
+      "ctr": 0.05925925925925926,
+      "position": 7.351851851851852
+    },
+    {
+      "query": "george sink injury",
+      "clicks": 16,
+      "impressions": 372,
+      "ctr": 0.043010752688172046,
+      "position": 1.817204301075269
+    },
+    {
+      "query": "george sink injury lawyers columbia sc",
+      "clicks": 16,
+      "impressions": 86,
+      "ctr": 0.18604651162790697,
+      "position": 4.930232558139535
+    },
+    {
+      "query": "disability lawyers near me",
+      "clicks": 15,
+      "impressions": 5985,
+      "ctr": 0.002506265664160401,
+      "position": 47.4157059314954
+    },
+    {
+      "query": "george sink attorneys",
+      "clicks": 15,
+      "impressions": 190,
+      "ctr": 0.07894736842105263,
+      "position": 2.026315789473684
+    },
+    {
+      "query": "george sink attorney at law",
+      "clicks": 14,
+      "impressions": 91,
+      "ctr": 0.15384615384615385,
+      "position": 8.780219780219781
+    },
+    {
+      "query": "george sink sr.",
+      "clicks": 14,
+      "impressions": 158,
+      "ctr": 0.08860759493670886,
+      "position": 1.1012658227848102
+    },
+    {
+      "query": "how old is george sink injury lawyer",
+      "clicks": 14,
+      "impressions": 62,
+      "ctr": 0.22580645161290322,
+      "position": 9.919354838709678
+    },
+    {
+      "query": "if you are on disability and turn 67 what happens",
+      "clicks": 14,
+      "impressions": 239,
+      "ctr": 0.058577405857740586,
+      "position": 1.2594142259414225
+    },
+    {
+      "query": "side-impact collision who's at fault",
+      "clicks": 14,
+      "impressions": 1048,
+      "ctr": 0.013358778625954198,
+      "position": 7.7853053435114505
+    },
+    {
+      "query": "8435691700",
+      "clicks": 13,
+      "impressions": 116,
+      "ctr": 0.11206896551724138,
+      "position": 1.1293103448275863
+    },
+    {
+      "query": "attorney george sink",
+      "clicks": 13,
+      "impressions": 1291,
+      "ctr": 0.010069713400464756,
+      "position": 1.3896204492641364
+    },
+    {
+      "query": "george sink law firm charleston sc",
+      "clicks": 13,
+      "impressions": 37,
+      "ctr": 0.35135135135135137,
+      "position": 1
+    },
+    {
+      "query": "is george sink still alive",
+      "clicks": 13,
+      "impressions": 376,
+      "ctr": 0.034574468085106384,
+      "position": 3.023936170212766
+    },
+    {
+      "query": "will my disability benefits change when i turn 65",
+      "clicks": 12,
+      "impressions": 1685,
+      "ctr": 0.007121661721068249,
+      "position": 6.771513353115727
+    },
+    {
+      "query": "can i work part time on disability",
+      "clicks": 11,
+      "impressions": 1012,
+      "ctr": 0.010869565217391304,
+      "position": 3.3033596837944663
+    },
+    {
+      "query": "jay hewitt greenville sc",
+      "clicks": 11,
+      "impressions": 16,
+      "ctr": 0.6875,
+      "position": 1.0625
+    },
+    {
+      "query": "concussion vs tbi",
+      "clicks": 10,
+      "impressions": 1263,
+      "ctr": 0.00791765637371338,
+      "position": 4.0704671417260485
+    },
+    {
+      "query": "does ssdi change to ssi at age 65",
+      "clicks": 10,
+      "impressions": 177,
+      "ctr": 0.05649717514124294,
+      "position": 1.542372881355932
+    },
+    {
+      "query": "patrick napolski",
+      "clicks": 10,
+      "impressions": 17,
+      "ctr": 0.5882352941176471,
+      "position": 1
+    },
+    {
+      "query": "do you pay taxes on disability",
+      "clicks": 9,
+      "impressions": 1955,
+      "ctr": 0.004603580562659846,
+      "position": 14.419437340153452
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://www.sinklaw.com/faqs/at-what-age-does-social-security-disability-turn-into-regular-social-security/",
+      "clicks": 3908,
+      "impressions": 336399,
+      "ctr": 0.011617157007006561,
+      "position": 5.609740219203981
+    },
+    {
+      "page": "https://www.sinklaw.com/",
+      "clicks": 1641,
+      "impressions": 613923,
+      "ctr": 0.00267297364653222,
+      "position": 12.912705665042685
+    },
+    {
+      "page": "https://www.sinklaw.com/faqs/can-you-work-part-time-on-social-security-disability/",
+      "clicks": 505,
+      "impressions": 130183,
+      "ctr": 0.0038791547283439465,
+      "position": 5.342917277985605
+    },
+    {
+      "page": "https://www.sinklaw.com/attorneys/",
+      "clicks": 354,
+      "impressions": 383939,
+      "ctr": 0.0009220214669517814,
+      "position": 4.383823992873868
+    },
+    {
+      "page": "https://www.sinklaw.com/car-accident/faqs/sideswipe/",
+      "clicks": 279,
+      "impressions": 43706,
+      "ctr": 0.006383562897542672,
+      "position": 5.382579050931223
+    },
+    {
+      "page": "https://www.sinklaw.com/attorneys/george-sink/",
+      "clicks": 278,
+      "impressions": 317993,
+      "ctr": 0.0008742330806024032,
+      "position": 2.4858031466101456
+    },
+    {
+      "page": "https://www.sinklaw.com/car-accident/faqs/effect-expired-license/",
+      "clicks": 266,
+      "impressions": 25477,
+      "ctr": 0.01044078973191506,
+      "position": 5.408211327864349
+    },
+    {
+      "page": "https://www.sinklaw.com/car-accident/faqs/no-damage-vehicle/",
+      "clicks": 265,
+      "impressions": 56510,
+      "ctr": 0.004689435498141921,
+      "position": 5.647655282250929
+    },
+    {
+      "page": "https://www.sinklaw.com/faqs/can-both-parties-be-at-fault-in-side-impact-accident/",
+      "clicks": 263,
+      "impressions": 27076,
+      "ctr": 0.009713399320431379,
+      "position": 5.43477618555178
+    },
+    {
+      "page": "https://www.sinklaw.com/faqs/does-anyone-get-approved-for-disability-the-first-time/",
+      "clicks": 247,
+      "impressions": 20802,
+      "ctr": 0.011873858282857417,
+      "position": 5.3170368233823675
+    },
+    {
+      "page": "https://www.sinklaw.com/charleston/?utm_source=google&utm_medium=north-charleston-sc",
+      "clicks": 208,
+      "impressions": 101358,
+      "ctr": 0.002052132046804396,
+      "position": 4.35787998973934
+    },
+    {
+      "page": "https://www.sinklaw.com/car-accident/faqs/hit-animal/",
+      "clicks": 194,
+      "impressions": 42797,
+      "ctr": 0.004533028015982429,
+      "position": 7.799728952963993
+    },
+    {
+      "page": "https://www.sinklaw.com/faqs/can-my-doctor-put-me-on-disability/",
+      "clicks": 183,
+      "impressions": 33969,
+      "ctr": 0.005387264859136271,
+      "position": 2.7574553269157174
+    },
+    {
+      "page": "https://www.sinklaw.com/faqs/what-is-the-difference-between-concussion-and-traumatic-brain-injury/",
+      "clicks": 180,
+      "impressions": 27210,
+      "ctr": 0.006615214994487321,
+      "position": 6.6954796030871
+    },
+    {
+      "page": "https://www.sinklaw.com/faqs/can-you-collect-social-security-disability-and-state-disability-at-the-same-time/",
+      "clicks": 176,
+      "impressions": 25461,
+      "ctr": 0.006912532893444876,
+      "position": 10.252228899100585
+    },
+    {
+      "page": "https://www.sinklaw.com/greenville/?utm_source=google&utm_medium=greenville-sc",
+      "clicks": 169,
+      "impressions": 135250,
+      "ctr": 0.0012495378927911275,
+      "position": 2.8983068391866915
+    },
+    {
+      "page": "https://www.sinklaw.com/columbia/?utm_source=google&utm_medium=columbia-sc",
+      "clicks": 159,
+      "impressions": 133532,
+      "ctr": 0.0011907258185303896,
+      "position": 3.6037054788365337
+    },
+    {
+      "page": "https://www.sinklaw.com/car-accident/faqs/didnt-report/",
+      "clicks": 144,
+      "impressions": 13203,
+      "ctr": 0.010906612133605999,
+      "position": 15.546921154283117
+    },
+    {
+      "page": "https://www.sinklaw.com/faqs/how-much-will-my-insurance-go-up-after-a-fender-bender/",
+      "clicks": 143,
+      "impressions": 29996,
+      "ctr": 0.004767302306974263,
+      "position": 7.748166422189625
+    },
+    {
+      "page": "https://www.sinklaw.com/car-accident/faqs/will-insurance-use-video-surveillance/",
+      "clicks": 134,
+      "impressions": 22897,
+      "ctr": 0.005852295060488274,
+      "position": 4.234048128575796
+    },
+    {
+      "page": "https://www.sinklaw.com/attorneys/jay-hewitt/",
+      "clicks": 129,
+      "impressions": 1632,
+      "ctr": 0.07904411764705882,
+      "position": 11.721813725490197
+    },
+    {
+      "page": "https://www.sinklaw.com/faqs/can-i-sue-a-mechanic-or-auto-repair-shop-for-negligence-in-ga/",
+      "clicks": 125,
+      "impressions": 16731,
+      "ctr": 0.007471161317315163,
+      "position": 12.193712270635347
+    },
+    {
+      "page": "https://www.sinklaw.com/car-accident/car-seat-laws/",
+      "clicks": 123,
+      "impressions": 46429,
+      "ctr": 0.0026492063150186304,
+      "position": 6.2618406599323695
+    },
+    {
+      "page": "https://www.sinklaw.com/car-accident/no-insurance/",
+      "clicks": 122,
+      "impressions": 29698,
+      "ctr": 0.004108020742137518,
+      "position": 14.326183581385951
+    },
+    {
+      "page": "https://www.sinklaw.com/car-accident/faqs/can-you-survive-wreck-80-mph/",
+      "clicks": 119,
+      "impressions": 21523,
+      "ctr": 0.00552896900989639,
+      "position": 4.898201923523672
+    },
+    {
+      "page": "https://www.sinklaw.com/greenville/",
+      "clicks": 114,
+      "impressions": 453161,
+      "ctr": 0.0002515662203940763,
+      "position": 22.345978581563728
+    },
+    {
+      "page": "https://www.sinklaw.com/blog/south-carolina-senate-honors-george-sink/",
+      "clicks": 112,
+      "impressions": 7215,
+      "ctr": 0.015523215523215523,
+      "position": 6.152598752598752
+    },
+    {
+      "page": "https://www.sinklaw.com/faqs/do-you-have-to-file-taxes-on-disability-income/",
+      "clicks": 112,
+      "impressions": 47106,
+      "ctr": 0.0023776164395193818,
+      "position": 8.754914448265612
+    },
+    {
+      "page": "https://www.sinklaw.com/blog/the-5-most-common-causes-of-drowning/",
+      "clicks": 110,
+      "impressions": 27200,
+      "ctr": 0.004044117647058824,
+      "position": 3.561691176470588
+    },
+    {
+      "page": "https://www.sinklaw.com/car-accident/faqs/open-car-door/",
+      "clicks": 103,
+      "impressions": 21436,
+      "ctr": 0.00480500093300989,
+      "position": 5.13803881321142
+    },
+    {
+      "page": "https://www.sinklaw.com/car-accident/faqs/public-records/",
+      "clicks": 103,
+      "impressions": 10089,
+      "ctr": 0.010209138665873724,
+      "position": 6.385865794429577
+    },
+    {
+      "page": "https://www.sinklaw.com/about/careers/",
+      "clicks": 99,
+      "impressions": 3480,
+      "ctr": 0.028448275862068967,
+      "position": 13.735919540229885
+    },
+    {
+      "page": "https://www.sinklaw.com/myrtle-beach/?utm_source=google&utm_medium=myrtle-beach-sc",
+      "clicks": 99,
+      "impressions": 89305,
+      "ctr": 0.001108560550921001,
+      "position": 3.7206539387492303
+    },
+    {
+      "page": "https://www.sinklaw.com/faqs/can-i-sue-a-mechanic-or-auto-repair-shop-for-negligence-in-sc/",
+      "clicks": 90,
+      "impressions": 9762,
+      "ctr": 0.00921942224953903,
+      "position": 31.78518746158574
+    },
+    {
+      "page": "https://www.sinklaw.com/faqs/can-you-get-cash-assistance-while-waiting-for-disability/",
+      "clicks": 87,
+      "impressions": 9972,
+      "ctr": 0.008724428399518652,
+      "position": 11.13818692338548
+    },
+    {
+      "page": "https://www.sinklaw.com/blog/license-suspended-in-sc-possible-ways-to-get-it/",
+      "clicks": 77,
+      "impressions": 12239,
+      "ctr": 0.006291363673502737,
+      "position": 4.9437045510254105
+    },
+    {
+      "page": "https://www.sinklaw.com/car-accident/diminished-value/",
+      "clicks": 73,
+      "impressions": 24431,
+      "ctr": 0.002988007040235766,
+      "position": 46.75465596987434
+    },
+    {
+      "page": "https://www.sinklaw.com/columbia/",
+      "clicks": 73,
+      "impressions": 154015,
+      "ctr": 0.0004739798071616401,
+      "position": 13.144524883939877
+    },
+    {
+      "page": "https://www.sinklaw.com/augusta/?utm_source=google&utm_medium=augusta-ga",
+      "clicks": 71,
+      "impressions": 89053,
+      "ctr": 0.0007972780254455212,
+      "position": 3.9430226943505553
+    },
+    {
+      "page": "https://www.sinklaw.com/faqs/how-can-you-tell-who-caused-an-accident/",
+      "clicks": 66,
+      "impressions": 23024,
+      "ctr": 0.0028665740097289782,
+      "position": 4.8358669214732455
+    },
+    {
+      "page": "https://www.sinklaw.com/car-accident/faqs/insurance-cover-legal-fees/",
+      "clicks": 65,
+      "impressions": 27129,
+      "ctr": 0.0023959600427586715,
+      "position": 6.979579048250949
+    },
+    {
+      "page": "https://www.sinklaw.com/video-center/community-involvement/scholarship-award/",
+      "clicks": 60,
+      "impressions": 439,
+      "ctr": 0.1366742596810934,
+      "position": 41.829157175398635
+    },
+    {
+      "page": "https://www.sinklaw.com/about/awards-honors/united-states-marine-corps-veteran/",
+      "clicks": 58,
+      "impressions": 6465,
+      "ctr": 0.00897138437741686,
+      "position": 2.5283836040216547
+    },
+    {
+      "page": "https://www.sinklaw.com/car-accident/faqs/hit-parked-car/",
+      "clicks": 58,
+      "impressions": 45811,
+      "ctr": 0.0012660714675514614,
+      "position": 12.16725240662723
+    },
+    {
+      "page": "https://www.sinklaw.com/faqs/how-much-should-i-settle-for-back-injury-in-workers-compensation-claim/",
+      "clicks": 58,
+      "impressions": 24233,
+      "ctr": 0.002393430446085916,
+      "position": 13.164445178062971
+    },
+    {
+      "page": "https://www.sinklaw.com/practice-areas/",
+      "clicks": 57,
+      "impressions": 341501,
+      "ctr": 0.00016691019938448203,
+      "position": 2.0219882225820713
+    },
+    {
+      "page": "https://www.sinklaw.com/attorneys/alan-kennington/",
+      "clicks": 54,
+      "impressions": 2574,
+      "ctr": 0.02097902097902098,
+      "position": 12.507770007770008
+    },
+    {
+      "page": "https://www.sinklaw.com/attorneys/thomas-outlaw/",
+      "clicks": 54,
+      "impressions": 1108,
+      "ctr": 0.048736462093862815,
+      "position": 14.453068592057761
+    },
+    {
+      "page": "https://www.sinklaw.com/personal-injury/faqs/what-qualifies-pain-suffering/",
+      "clicks": 54,
+      "impressions": 6719,
+      "ctr": 0.008036910254502158,
+      "position": 24.695936895371336
+    },
+    {
+      "page": "https://www.sinklaw.com/faqs/do-you-have-to-pay-taxes-on-social-security-disability/",
+      "clicks": 53,
+      "impressions": 31171,
+      "ctr": 0.0017002983542395175,
+      "position": 12.594045747650059
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:08:02.919Z"
+}

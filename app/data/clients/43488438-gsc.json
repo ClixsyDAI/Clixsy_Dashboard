@@ -1,0 +1,1350 @@
+{
+  "property": "sc-domain:creggerplumbing.com",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 1784,
+    "impressions": 919645,
+    "ctr": 0.0019398789750392814,
+    "position": 23.636948419178538
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 32,
+      "impressions": 12056,
+      "ctr": 0.0026542800265428003,
+      "position": 17.982000663570005
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 14,
+      "impressions": 7296,
+      "ctr": 0.001918859649122807,
+      "position": 21.830043859649123
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 26,
+      "impressions": 9082,
+      "ctr": 0.0028628055494384495,
+      "position": 26.370072671217795
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 11,
+      "impressions": 11301,
+      "ctr": 0.0009733651889213344,
+      "position": 31.506061410494645
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 15,
+      "impressions": 7615,
+      "ctr": 0.001969796454366382,
+      "position": 27.872357189757057
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 14,
+      "impressions": 9080,
+      "ctr": 0.0015418502202643172,
+      "position": 27.241960352422907
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 10,
+      "impressions": 6934,
+      "ctr": 0.001442169022209403,
+      "position": 22.345687914623593
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 30,
+      "impressions": 7074,
+      "ctr": 0.004240882103477523,
+      "position": 22.764913768730562
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 12,
+      "impressions": 7739,
+      "ctr": 0.0015505879312572683,
+      "position": 22.385062669595555
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 14,
+      "impressions": 6616,
+      "ctr": 0.002116082224909311,
+      "position": 25.11517533252721
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 10,
+      "impressions": 5825,
+      "ctr": 0.0017167381974248926,
+      "position": 24.235708154506437
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 14,
+      "impressions": 6918,
+      "ctr": 0.002023706273489448,
+      "position": 26.265683723619542
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 14,
+      "impressions": 5843,
+      "ctr": 0.002396029436933082,
+      "position": 21.3446859489988
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 10,
+      "impressions": 7171,
+      "ctr": 0.0013945056477478734,
+      "position": 20.454887742295355
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 27,
+      "impressions": 6465,
+      "ctr": 0.004176334106728539,
+      "position": 22.554524361948957
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 29,
+      "impressions": 7604,
+      "ctr": 0.0038137822198842713,
+      "position": 21.028274592319832
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 11,
+      "impressions": 10433,
+      "ctr": 0.001054346784242308,
+      "position": 26.644972682833316
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 15,
+      "impressions": 11339,
+      "ctr": 0.001322867977775818,
+      "position": 34.61539818326131
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 25,
+      "impressions": 6160,
+      "ctr": 0.004058441558441558,
+      "position": 23.586850649350648
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 16,
+      "impressions": 5455,
+      "ctr": 0.002933088909257562,
+      "position": 24.06287809349221
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 6,
+      "impressions": 8583,
+      "ctr": 0.0006990562740300594,
+      "position": 23.98112548060119
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 23,
+      "impressions": 6021,
+      "ctr": 0.0038199634612190664,
+      "position": 25.469523334994186
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 33,
+      "impressions": 9168,
+      "ctr": 0.003599476439790576,
+      "position": 25.13361692844677
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 22,
+      "impressions": 8082,
+      "ctr": 0.002722098490472655,
+      "position": 26.310937886661716
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 10,
+      "impressions": 7361,
+      "ctr": 0.0013585110718652357,
+      "position": 24.17579133269936
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 20,
+      "impressions": 6261,
+      "ctr": 0.0031943778949049674,
+      "position": 25.25746685832934
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 10,
+      "impressions": 6176,
+      "ctr": 0.0016191709844559584,
+      "position": 26.94187176165803
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 6,
+      "impressions": 10102,
+      "ctr": 0.000593941793704217,
+      "position": 27.707879627796476
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 20,
+      "impressions": 8468,
+      "ctr": 0.0023618327822390174,
+      "position": 25.101322626358055
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 24,
+      "impressions": 9647,
+      "ctr": 0.0024878200476832176,
+      "position": 22.873950450917384
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 16,
+      "impressions": 9920,
+      "ctr": 0.0016129032258064516,
+      "position": 26.959072580645163
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 22,
+      "impressions": 13589,
+      "ctr": 0.0016189565089410553,
+      "position": 36.87055706821694
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 22,
+      "impressions": 8240,
+      "ctr": 0.002669902912621359,
+      "position": 25.65873786407767
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 13,
+      "impressions": 8401,
+      "ctr": 0.0015474348291870015,
+      "position": 25.376145696940842
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 9,
+      "impressions": 9382,
+      "ctr": 0.0009592837348113409,
+      "position": 23.43647409933916
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 28,
+      "impressions": 9041,
+      "ctr": 0.0030970025439663756,
+      "position": 24.08682667846477
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 20,
+      "impressions": 10917,
+      "ctr": 0.001832005129614363,
+      "position": 21.9106897499313
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 26,
+      "impressions": 9137,
+      "ctr": 0.0028455729451679983,
+      "position": 25.026047936959614
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 27,
+      "impressions": 7909,
+      "ctr": 0.003413832342900493,
+      "position": 25.260968516879505
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 19,
+      "impressions": 8987,
+      "ctr": 0.0021141649048625794,
+      "position": 22.4293980193613
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 26,
+      "impressions": 9431,
+      "ctr": 0.002756865655815926,
+      "position": 24.24970840844025
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 20,
+      "impressions": 9420,
+      "ctr": 0.0021231422505307855,
+      "position": 21.80403397027601
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 36,
+      "impressions": 8459,
+      "ctr": 0.004255822201205816,
+      "position": 24.664262915238208
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 29,
+      "impressions": 9311,
+      "ctr": 0.0031145956395661045,
+      "position": 22.171732359574698
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 27,
+      "impressions": 10062,
+      "ctr": 0.0026833631484794273,
+      "position": 27.6223414828066
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 20,
+      "impressions": 14129,
+      "ctr": 0.0014155283459551277,
+      "position": 25.08953216788166
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 10,
+      "impressions": 8270,
+      "ctr": 0.0012091898428053204,
+      "position": 22.303506650544136
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 13,
+      "impressions": 8460,
+      "ctr": 0.0015366430260047282,
+      "position": 27.255555555555556
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 10,
+      "impressions": 10088,
+      "ctr": 0.0009912767644726407,
+      "position": 19.437946074544012
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 27,
+      "impressions": 8545,
+      "ctr": 0.0031597425394967816,
+      "position": 22.3275599765945
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 26,
+      "impressions": 8218,
+      "ctr": 0.003163786809442687,
+      "position": 20.51594061815527
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 22,
+      "impressions": 7942,
+      "ctr": 0.002770083102493075,
+      "position": 23.799168975069254
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 18,
+      "impressions": 8648,
+      "ctr": 0.0020814061054579094,
+      "position": 24.51167900092507
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 13,
+      "impressions": 6544,
+      "ctr": 0.001986552567237164,
+      "position": 23.618581907090466
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 10,
+      "impressions": 7913,
+      "ctr": 0.0012637432073802604,
+      "position": 25.866422342979906
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 8,
+      "impressions": 8887,
+      "ctr": 0.000900191290649263,
+      "position": 21.989760324068865
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 35,
+      "impressions": 7847,
+      "ctr": 0.0044603033006244425,
+      "position": 25.1864406779661
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 25,
+      "impressions": 76640,
+      "ctr": 0.00032620041753653444,
+      "position": 30.77286012526096
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 31,
+      "impressions": 41788,
+      "ctr": 0.000741839762611276,
+      "position": 30.324423279410357
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 17,
+      "impressions": 39653,
+      "ctr": 0.00042871913852671927,
+      "position": 24.694398910549012
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 23,
+      "impressions": 11352,
+      "ctr": 0.002026074700493305,
+      "position": 20.7669133192389
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 10,
+      "impressions": 8412,
+      "ctr": 0.0011887779362815027,
+      "position": 23.680932001902043
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 10,
+      "impressions": 10336,
+      "ctr": 0.0009674922600619195,
+      "position": 21.7202979876161
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 29,
+      "impressions": 19257,
+      "ctr": 0.0015059458898063042,
+      "position": 15.742275536168666
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 20,
+      "impressions": 29967,
+      "ctr": 0.0006674008075549772,
+      "position": 18.230820569292888
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 27,
+      "impressions": 9423,
+      "ctr": 0.0028653295128939827,
+      "position": 22.468640560331103
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 21,
+      "impressions": 8952,
+      "ctr": 0.0023458445040214475,
+      "position": 22.442917783735478
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 21,
+      "impressions": 8871,
+      "ctr": 0.0023672641190395673,
+      "position": 22.055348889640403
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 15,
+      "impressions": 8965,
+      "ctr": 0.0016731734523145567,
+      "position": 23.334857780256552
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 11,
+      "impressions": 8979,
+      "ctr": 0.0012250807439581244,
+      "position": 22.257489698184653
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 35,
+      "impressions": 9100,
+      "ctr": 0.0038461538461538464,
+      "position": 22.42923076923077
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 40,
+      "impressions": 10563,
+      "ctr": 0.0037868029915743636,
+      "position": 21.685695351699326
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 25,
+      "impressions": 15978,
+      "ctr": 0.0015646513956690449,
+      "position": 37.10683439729628
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 29,
+      "impressions": 9810,
+      "ctr": 0.002956167176350663,
+      "position": 27.221202854230377
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 17,
+      "impressions": 7807,
+      "ctr": 0.002177532983220187,
+      "position": 21.926348149096963
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 11,
+      "impressions": 6247,
+      "ctr": 0.0017608452056987354,
+      "position": 22.667680486633586
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 10,
+      "impressions": 7963,
+      "ctr": 0.0012558081125204068,
+      "position": 19.657666708526936
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 25,
+      "impressions": 6450,
+      "ctr": 0.003875968992248062,
+      "position": 22.566046511627906
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 13,
+      "impressions": 6647,
+      "ctr": 0.0019557695200842487,
+      "position": 19.890176019256806
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 21,
+      "impressions": 5802,
+      "ctr": 0.0036194415718717684,
+      "position": 18.32281971733885
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 13,
+      "impressions": 5083,
+      "ctr": 0.0025575447570332483,
+      "position": 16.562856580759394
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 31,
+      "impressions": 5411,
+      "ctr": 0.005729070412123452,
+      "position": 17.41877656625393
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 22,
+      "impressions": 5535,
+      "ctr": 0.003974706413730804,
+      "position": 17.973261065943994
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 18,
+      "impressions": 6252,
+      "ctr": 0.0028790786948176585,
+      "position": 17.31829814459373
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 30,
+      "impressions": 6551,
+      "ctr": 0.004579453518546787,
+      "position": 19.174171882155395
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 26,
+      "impressions": 6732,
+      "ctr": 0.0038621509209744503,
+      "position": 16.367944147355914
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 34,
+      "impressions": 8563,
+      "ctr": 0.003970571061543852,
+      "position": 25.392969753591032
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 15,
+      "impressions": 7378,
+      "ctr": 0.0020330712930333424,
+      "position": 27.09203036053131
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 15,
+      "impressions": 7852,
+      "ctr": 0.0019103413143148242,
+      "position": 18.558201732042793
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 19,
+      "impressions": 5754,
+      "ctr": 0.0033020507473062216,
+      "position": 16.91119221411192
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "cregger plumbing",
+      "clicks": 589,
+      "impressions": 4303,
+      "ctr": 0.13688124564257495,
+      "position": 2.074134324889612
+    },
+    {
+      "query": "cregger plumbing, heating & cooling",
+      "clicks": 59,
+      "impressions": 1087,
+      "ctr": 0.05427782888684453,
+      "position": 1.0579576816927323
+    },
+    {
+      "query": "cregger plumbing heating & cooling",
+      "clicks": 58,
+      "impressions": 438,
+      "ctr": 0.1324200913242009,
+      "position": 1.7831050228310503
+    },
+    {
+      "query": "cregger",
+      "clicks": 52,
+      "impressions": 1991,
+      "ctr": 0.026117528879959818,
+      "position": 5.143144148669011
+    },
+    {
+      "query": "cregger heating and cooling",
+      "clicks": 32,
+      "impressions": 143,
+      "ctr": 0.22377622377622378,
+      "position": 1.2237762237762237
+    },
+    {
+      "query": "plumbers near me",
+      "clicks": 31,
+      "impressions": 1120,
+      "ctr": 0.027678571428571427,
+      "position": 10.45357142857143
+    },
+    {
+      "query": "cregger hvac",
+      "clicks": 11,
+      "impressions": 272,
+      "ctr": 0.04044117647058824,
+      "position": 7.569852941176471
+    },
+    {
+      "query": "cregger plumbing heating & cooling reviews",
+      "clicks": 11,
+      "impressions": 1142,
+      "ctr": 0.009632224168126095,
+      "position": 2.6497373029772326
+    },
+    {
+      "query": "boiler repair detroit",
+      "clicks": 7,
+      "impressions": 418,
+      "ctr": 0.01674641148325359,
+      "position": 7.270334928229665
+    },
+    {
+      "query": "plumber near me",
+      "clicks": 7,
+      "impressions": 2456,
+      "ctr": 0.0028501628664495114,
+      "position": 11.488192182410424
+    },
+    {
+      "query": "creggar plumbing",
+      "clicks": 6,
+      "impressions": 64,
+      "ctr": 0.09375,
+      "position": 9.46875
+    },
+    {
+      "query": "plumber",
+      "clicks": 6,
+      "impressions": 5657,
+      "ctr": 0.0010606328442637441,
+      "position": 6.910553296800424
+    },
+    {
+      "query": "plumbers",
+      "clicks": 6,
+      "impressions": 1699,
+      "ctr": 0.003531489111241907,
+      "position": 15.360211889346674
+    },
+    {
+      "query": "plumbers detroit",
+      "clicks": 6,
+      "impressions": 396,
+      "ctr": 0.015151515151515152,
+      "position": 4.320707070707071
+    },
+    {
+      "query": "cregger company",
+      "clicks": 5,
+      "impressions": 139,
+      "ctr": 0.03597122302158273,
+      "position": 14.820143884892087
+    },
+    {
+      "query": "cregger plumbing, heating & cooling reviews",
+      "clicks": 5,
+      "impressions": 117,
+      "ctr": 0.042735042735042736,
+      "position": 2.2393162393162394
+    },
+    {
+      "query": "plumbing",
+      "clicks": 5,
+      "impressions": 354,
+      "ctr": 0.014124293785310734,
+      "position": 9.646892655367232
+    },
+    {
+      "query": "plumbing companies near me",
+      "clicks": 5,
+      "impressions": 603,
+      "ctr": 0.008291873963515755,
+      "position": 7.39966832504146
+    },
+    {
+      "query": "creggar",
+      "clicks": 4,
+      "impressions": 178,
+      "ctr": 0.02247191011235955,
+      "position": 4.837078651685394
+    },
+    {
+      "query": "cregger plumbing ferndale",
+      "clicks": 3,
+      "impressions": 40,
+      "ctr": 0.075,
+      "position": 4.65
+    },
+    {
+      "query": "ferndale plumbers",
+      "clicks": 3,
+      "impressions": 54,
+      "ctr": 0.05555555555555555,
+      "position": 5.944444444444445
+    },
+    {
+      "query": "plumber detroit mi",
+      "clicks": 3,
+      "impressions": 217,
+      "ctr": 0.013824884792626729,
+      "position": 3.23963133640553
+    },
+    {
+      "query": "plumbers ferndale",
+      "clicks": 3,
+      "impressions": 72,
+      "ctr": 0.041666666666666664,
+      "position": 5.458333333333333
+    },
+    {
+      "query": "plumbers in detroit",
+      "clicks": 3,
+      "impressions": 266,
+      "ctr": 0.011278195488721804,
+      "position": 6.898496240601504
+    },
+    {
+      "query": "plumbers in michigan",
+      "clicks": 3,
+      "impressions": 442,
+      "ctr": 0.006787330316742082,
+      "position": 14.203619909502262
+    },
+    {
+      "query": "plumbing companies in michigan",
+      "clicks": 3,
+      "impressions": 180,
+      "ctr": 0.016666666666666666,
+      "position": 5.361111111111111
+    },
+    {
+      "query": "plumbing detroit",
+      "clicks": 3,
+      "impressions": 360,
+      "ctr": 0.008333333333333333,
+      "position": 7.011111111111111
+    },
+    {
+      "query": "plumbing near me",
+      "clicks": 3,
+      "impressions": 353,
+      "ctr": 0.0084985835694051,
+      "position": 10.43342776203966
+    },
+    {
+      "query": "boiler repair near me",
+      "clicks": 2,
+      "impressions": 1667,
+      "ctr": 0.0011997600479904018,
+      "position": 12.07618476304739
+    },
+    {
+      "query": "creggor",
+      "clicks": 2,
+      "impressions": 144,
+      "ctr": 0.013888888888888888,
+      "position": 4.881944444444445
+    },
+    {
+      "query": "detroit plumber",
+      "clicks": 2,
+      "impressions": 244,
+      "ctr": 0.00819672131147541,
+      "position": 4.614754098360656
+    },
+    {
+      "query": "detroit plumbers",
+      "clicks": 2,
+      "impressions": 204,
+      "ctr": 0.00980392156862745,
+      "position": 6.8431372549019605
+    },
+    {
+      "query": "furnace installation",
+      "clicks": 2,
+      "impressions": 27333,
+      "ctr": 0.00007317162404419567,
+      "position": 63.83024183221747
+    },
+    {
+      "query": "furnace replacement",
+      "clicks": 2,
+      "impressions": 3842,
+      "ctr": 0.0005205622071837585,
+      "position": 12.566111400312337
+    },
+    {
+      "query": "gregg plumbing",
+      "clicks": 2,
+      "impressions": 2,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "heating and cooling birmingham mi",
+      "clicks": 2,
+      "impressions": 42,
+      "ctr": 0.047619047619047616,
+      "position": 13.095238095238095
+    },
+    {
+      "query": "install garbage disposal near me",
+      "clicks": 2,
+      "impressions": 2,
+      "ctr": 1,
+      "position": 12.5
+    },
+    {
+      "query": "kreger plumbing",
+      "clicks": 2,
+      "impressions": 37,
+      "ctr": 0.05405405405405406,
+      "position": 3.1621621621621623
+    },
+    {
+      "query": "plumber detroit",
+      "clicks": 2,
+      "impressions": 1069,
+      "ctr": 0.0018709073900841909,
+      "position": 4.681945743685688
+    },
+    {
+      "query": "plumber ferndale",
+      "clicks": 2,
+      "impressions": 1015,
+      "ctr": 0.0019704433497536944,
+      "position": 5.994088669950739
+    },
+    {
+      "query": "plumber ferndale mi",
+      "clicks": 2,
+      "impressions": 190,
+      "ctr": 0.010526315789473684,
+      "position": 3.1157894736842104
+    },
+    {
+      "query": "plumber in detroit",
+      "clicks": 2,
+      "impressions": 148,
+      "ctr": 0.013513513513513514,
+      "position": 2.7905405405405403
+    },
+    {
+      "query": "plumber in michigan",
+      "clicks": 2,
+      "impressions": 129,
+      "ctr": 0.015503875968992248,
+      "position": 4.875968992248062
+    },
+    {
+      "query": "plumbers in detroit michigan",
+      "clicks": 2,
+      "impressions": 89,
+      "ctr": 0.02247191011235955,
+      "position": 2.966292134831461
+    },
+    {
+      "query": "plumbing contractor in michigan",
+      "clicks": 2,
+      "impressions": 6,
+      "ctr": 0.3333333333333333,
+      "position": 4
+    },
+    {
+      "query": "plumbing ferndale",
+      "clicks": 2,
+      "impressions": 58,
+      "ctr": 0.034482758620689655,
+      "position": 2.9655172413793105
+    },
+    {
+      "query": "plumbing heating and cooling",
+      "clicks": 2,
+      "impressions": 44,
+      "ctr": 0.045454545454545456,
+      "position": 23.931818181818183
+    },
+    {
+      "query": "plumbing services near me",
+      "clicks": 2,
+      "impressions": 2619,
+      "ctr": 0.0007636502481863307,
+      "position": 10.666284841542574
+    },
+    {
+      "query": "water heater replacement near me",
+      "clicks": 2,
+      "impressions": 9301,
+      "ctr": 0.00021503064186646596,
+      "position": 13.446081066551983
+    },
+    {
+      "query": "24 hour plumbers near me",
+      "clicks": 1,
+      "impressions": 623,
+      "ctr": 0.0016051364365971107,
+      "position": 16.258426966292134
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://www.creggerplumbing.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*324*cregger-plumbing-ferndale",
+      "clicks": 791,
+      "impressions": 56677,
+      "ctr": 0.013956278560968293,
+      "position": 3.914462656809641
+    },
+    {
+      "page": "https://www.creggerplumbing.com/",
+      "clicks": 541,
+      "impressions": 68763,
+      "ctr": 0.00786760321684627,
+      "position": 13.695068568852435
+    },
+    {
+      "page": "https://www.creggerplumbing.com/contact-us/",
+      "clicks": 59,
+      "impressions": 16655,
+      "ctr": 0.0035424797358150706,
+      "position": 8.611768237766437
+    },
+    {
+      "page": "https://www.creggerplumbing.com/about/",
+      "clicks": 36,
+      "impressions": 14344,
+      "ctr": 0.0025097601784718347,
+      "position": 6.525446179587284
+    },
+    {
+      "page": "https://www.creggerplumbing.com/plumbing/water-heaters/",
+      "clicks": 28,
+      "impressions": 129251,
+      "ctr": 0.00021663275332492593,
+      "position": 19.336709193739313
+    },
+    {
+      "page": "https://www.creggerplumbing.com/plumbing/boiler-service/",
+      "clicks": 25,
+      "impressions": 32662,
+      "ctr": 0.0007654154675157676,
+      "position": 20.061631253444368
+    },
+    {
+      "page": "https://www.creggerplumbing.com/contact-us/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*324*cregger-plumbing-heating-cooling-ferndale",
+      "clicks": 24,
+      "impressions": 5577,
+      "ctr": 0.004303388918773534,
+      "position": 10.733369194907656
+    },
+    {
+      "page": "https://www.creggerplumbing.com/ferndale-hvac/",
+      "clicks": 24,
+      "impressions": 10783,
+      "ctr": 0.002225725679310025,
+      "position": 12.627654641565426
+    },
+    {
+      "page": "https://www.creggerplumbing.com/coupons/",
+      "clicks": 22,
+      "impressions": 12271,
+      "ctr": 0.001792844918914514,
+      "position": 7.889169586830739
+    },
+    {
+      "page": "https://www.creggerplumbing.com/plumbing/",
+      "clicks": 20,
+      "impressions": 12382,
+      "ctr": 0.0016152479405588758,
+      "position": 8.080843159424973
+    },
+    {
+      "page": "https://www.creggerplumbing.com/sewer-drain/hydro-jetting/",
+      "clicks": 18,
+      "impressions": 227198,
+      "ctr": 0.00007922604952508385,
+      "position": 26.87633253813854
+    },
+    {
+      "page": "https://www.creggerplumbing.com/reviews/",
+      "clicks": 17,
+      "impressions": 10948,
+      "ctr": 0.0015527950310559005,
+      "position": 7.141943734015345
+    },
+    {
+      "page": "https://www.creggerplumbing.com/plumbing/gas-line-plumbing/",
+      "clicks": 14,
+      "impressions": 6677,
+      "ctr": 0.002096750037441965,
+      "position": 11.113374269881684
+    },
+    {
+      "page": "https://www.creggerplumbing.com/sewer-drain/",
+      "clicks": 14,
+      "impressions": 121733,
+      "ctr": 0.00011500579136306507,
+      "position": 28.760040416320965
+    },
+    {
+      "page": "https://www.creggerplumbing.com/plumbing/water-line-services/",
+      "clicks": 12,
+      "impressions": 2829,
+      "ctr": 0.0042417815482502655,
+      "position": 23.80593849416755
+    },
+    {
+      "page": "http://www.creggerplumbing.com/about/membership/",
+      "clicks": 10,
+      "impressions": 512,
+      "ctr": 0.01953125,
+      "position": 7.3203125
+    },
+    {
+      "page": "https://www.creggerplumbing.com/blog/the-impact-of-aging-pipes-on-your-homes-plumbing/",
+      "clicks": 10,
+      "impressions": 3645,
+      "ctr": 0.0027434842249657062,
+      "position": 7.082030178326475
+    },
+    {
+      "page": "https://www.creggerplumbing.com/ferndale-hvac/heating-repair/",
+      "clicks": 9,
+      "impressions": 2615,
+      "ctr": 0.0034416826003824093,
+      "position": 25.354875717017208
+    },
+    {
+      "page": "https://www.creggerplumbing.com/indoor-air-quality/",
+      "clicks": 9,
+      "impressions": 3523,
+      "ctr": 0.002554640931024695,
+      "position": 18.581890434288958
+    },
+    {
+      "page": "https://www.creggerplumbing.com/plumbing/leak-detection-repair/",
+      "clicks": 9,
+      "impressions": 9755,
+      "ctr": 0.0009226037929267043,
+      "position": 36.197437211686314
+    },
+    {
+      "page": "https://www.creggerplumbing.com/about/hvac-service-plan/",
+      "clicks": 7,
+      "impressions": 3341,
+      "ctr": 0.0020951810835079317,
+      "position": 8.568093385214008
+    },
+    {
+      "page": "https://www.creggerplumbing.com/blog/10-crazy-toilet-seat-covers/",
+      "clicks": 7,
+      "impressions": 634,
+      "ctr": 0.011041009463722398,
+      "position": 14.178233438485805
+    },
+    {
+      "page": "https://www.creggerplumbing.com/heating/furnace-installation-replacement/",
+      "clicks": 7,
+      "impressions": 39025,
+      "ctr": 0.00017937219730941703,
+      "position": 56.52763613068546
+    },
+    {
+      "page": "https://www.creggerplumbing.com/plumbing/flood-control-sump-pumps/",
+      "clicks": 7,
+      "impressions": 1291,
+      "ctr": 0.005422153369481022,
+      "position": 37.521301316808675
+    },
+    {
+      "page": "https://www.creggerplumbing.com/about/financing/",
+      "clicks": 6,
+      "impressions": 752,
+      "ctr": 0.007978723404255319,
+      "position": 11.099734042553191
+    },
+    {
+      "page": "https://www.creggerplumbing.com/sewer-drain/drain-cleaning/",
+      "clicks": 6,
+      "impressions": 8180,
+      "ctr": 0.0007334963325183374,
+      "position": 18.393031784841074
+    },
+    {
+      "page": "https://www.creggerplumbing.com/air-conditioning/air-conditioner-installation/",
+      "clicks": 5,
+      "impressions": 40017,
+      "ctr": 0.00012494689756853338,
+      "position": 34.732588649823825
+    },
+    {
+      "page": "https://www.creggerplumbing.com/blog/how-to-choose-the-right-thermostat-for-your-home/",
+      "clicks": 5,
+      "impressions": 4576,
+      "ctr": 0.0010926573426573427,
+      "position": 12.219624125874127
+    },
+    {
+      "page": "https://www.creggerplumbing.com/blog/tank-vs-tankless-water-heaters-which-option-is-r/",
+      "clicks": 5,
+      "impressions": 2919,
+      "ctr": 0.0017129153819801302,
+      "position": 18.403220280918124
+    },
+    {
+      "page": "https://www.creggerplumbing.com/heating/furnace-repair/",
+      "clicks": 5,
+      "impressions": 12035,
+      "ctr": 0.0004154549231408392,
+      "position": 30.7817199833818
+    },
+    {
+      "page": "https://www.creggerplumbing.com/heating/heating-repair/",
+      "clicks": 4,
+      "impressions": 25319,
+      "ctr": 0.00015798412259567914,
+      "position": 33.67214344958332
+    },
+    {
+      "page": "https://www.creggerplumbing.com/plumbing/backflow-testing-prevention/",
+      "clicks": 4,
+      "impressions": 3854,
+      "ctr": 0.0010378827192527244,
+      "position": 31.279968863518423
+    },
+    {
+      "page": "https://www.creggerplumbing.com/blog/mythbusters-plumbing-edition/",
+      "clicks": 3,
+      "impressions": 577,
+      "ctr": 0.005199306759098787,
+      "position": 8.563258232235702
+    },
+    {
+      "page": "https://www.creggerplumbing.com/grosse-pointe/",
+      "clicks": 3,
+      "impressions": 404,
+      "ctr": 0.007425742574257425,
+      "position": 12.116336633663366
+    },
+    {
+      "page": "https://www.creggerplumbing.com/plumbing/commercial-plumbing/",
+      "clicks": 3,
+      "impressions": 540,
+      "ctr": 0.005555555555555556,
+      "position": 18.646296296296295
+    },
+    {
+      "page": "https://www.creggerplumbing.com/plumbing/fixture-services/toilets/",
+      "clicks": 3,
+      "impressions": 21674,
+      "ctr": 0.00013841469041247579,
+      "position": 19.97314755005998
+    },
+    {
+      "page": "https://www.creggerplumbing.com/plumbing/water-heaters/tankless-heaters/",
+      "clicks": 3,
+      "impressions": 1981,
+      "ctr": 0.001514386673397274,
+      "position": 28.76123170116103
+    },
+    {
+      "page": "https://www.creggerplumbing.com/about/cregger-and-the-community/",
+      "clicks": 2,
+      "impressions": 1800,
+      "ctr": 0.0011111111111111111,
+      "position": 7.605555555555555
+    },
+    {
+      "page": "https://www.creggerplumbing.com/about/service-areas/",
+      "clicks": 2,
+      "impressions": 1402,
+      "ctr": 0.0014265335235378032,
+      "position": 28.58416547788873
+    },
+    {
+      "page": "https://www.creggerplumbing.com/air-conditioning/air-conditioner-inspection/",
+      "clicks": 2,
+      "impressions": 1260,
+      "ctr": 0.0015873015873015873,
+      "position": 48.37222222222222
+    },
+    {
+      "page": "https://www.creggerplumbing.com/air-conditioning/air-conditioner-repair/",
+      "clicks": 2,
+      "impressions": 43805,
+      "ctr": 0.00004565688848304988,
+      "position": 19.296473005364685
+    },
+    {
+      "page": "https://www.creggerplumbing.com/ferndale-hvac/air-conditioning-repairs/",
+      "clicks": 2,
+      "impressions": 961,
+      "ctr": 0.002081165452653486,
+      "position": 29.03537981269511
+    },
+    {
+      "page": "https://www.creggerplumbing.com/heating/heating-installation/",
+      "clicks": 2,
+      "impressions": 2770,
+      "ctr": 0.0007220216606498195,
+      "position": 20.270397111913358
+    },
+    {
+      "page": "https://www.creggerplumbing.com/indoor-air-quality/air-purification/",
+      "clicks": 2,
+      "impressions": 1534,
+      "ctr": 0.001303780964797914,
+      "position": 36.34419817470665
+    },
+    {
+      "page": "https://www.creggerplumbing.com/plumbing/fixture-services/",
+      "clicks": 2,
+      "impressions": 616,
+      "ctr": 0.003246753246753247,
+      "position": 7.079545454545454
+    },
+    {
+      "page": "https://www.creggerplumbing.com/plumbing/garbage-disposal-repair/",
+      "clicks": 2,
+      "impressions": 13572,
+      "ctr": 0.00014736221632773356,
+      "position": 12.978927203065133
+    },
+    {
+      "page": "https://www.creggerplumbing.com/plumbing/piping-repiping/",
+      "clicks": 2,
+      "impressions": 596,
+      "ctr": 0.003355704697986577,
+      "position": 22.823825503355703
+    },
+    {
+      "page": "https://www.creggerplumbing.com/royal-oak/",
+      "clicks": 2,
+      "impressions": 658,
+      "ctr": 0.00303951367781155,
+      "position": 16.90577507598784
+    },
+    {
+      "page": "https://www.creggerplumbing.com/west-bloomfield/",
+      "clicks": 2,
+      "impressions": 1321,
+      "ctr": 0.001514004542013626,
+      "position": 16.693414080242242
+    },
+    {
+      "page": "http://www.creggerplumbing.com/heating/furnace-maintenance/",
+      "clicks": 1,
+      "impressions": 198,
+      "ctr": 0.005050505050505051,
+      "position": 17.92929292929293
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:07:53.716Z"
+}

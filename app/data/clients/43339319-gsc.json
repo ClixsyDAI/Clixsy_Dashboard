@@ -1,0 +1,1350 @@
+{
+  "property": "https://callthechamps.com/",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 894,
+    "impressions": 792156,
+    "ctr": 0.0011285655855664794,
+    "position": 37.003933151083025
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 17,
+      "impressions": 7390,
+      "ctr": 0.002300405953991881,
+      "position": 29.777537212449257
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 7,
+      "impressions": 7371,
+      "ctr": 0.000949667616334283,
+      "position": 29.930945597612265
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 16,
+      "impressions": 16967,
+      "ctr": 0.0009430070136146638,
+      "position": 55.58183532740025
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 10,
+      "impressions": 6667,
+      "ctr": 0.0014999250037498126,
+      "position": 29.688465576721164
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 10,
+      "impressions": 6984,
+      "ctr": 0.0014318442153493699,
+      "position": 34.814862542955325
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 14,
+      "impressions": 6997,
+      "ctr": 0.0020008575103615837,
+      "position": 30.92496784336144
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 11,
+      "impressions": 6275,
+      "ctr": 0.001752988047808765,
+      "position": 30.607011952191236
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 16,
+      "impressions": 6812,
+      "ctr": 0.002348796241926013,
+      "position": 31.501908396946565
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 9,
+      "impressions": 7119,
+      "ctr": 0.0012642225031605564,
+      "position": 33.18921196797303
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 7,
+      "impressions": 6331,
+      "ctr": 0.001105670510187964,
+      "position": 35.550150055283524
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 4,
+      "impressions": 6103,
+      "ctr": 0.0006554153694904145,
+      "position": 35.66065869244634
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 6,
+      "impressions": 6729,
+      "ctr": 0.0008916629514043691,
+      "position": 32.58359340169416
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 15,
+      "impressions": 6925,
+      "ctr": 0.0021660649819494585,
+      "position": 30.746570397111913
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 12,
+      "impressions": 5910,
+      "ctr": 0.0020304568527918783,
+      "position": 29.552791878172588
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 7,
+      "impressions": 6873,
+      "ctr": 0.0010184781027207915,
+      "position": 30.179397642950676
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 11,
+      "impressions": 7432,
+      "ctr": 0.001480086114101184,
+      "position": 31.628094725511303
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 4,
+      "impressions": 20609,
+      "ctr": 0.00019408996069678297,
+      "position": 53.64185550002426
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 6,
+      "impressions": 6976,
+      "ctr": 0.0008600917431192661,
+      "position": 30.23122133027523
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 10,
+      "impressions": 6437,
+      "ctr": 0.0015535187199005747,
+      "position": 28.558179276060276
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 7,
+      "impressions": 6993,
+      "ctr": 0.001001001001001001,
+      "position": 29.15844415844416
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 8,
+      "impressions": 6191,
+      "ctr": 0.0012921983524471006,
+      "position": 27.075270554030045
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 18,
+      "impressions": 7096,
+      "ctr": 0.002536640360766629,
+      "position": 29.8945885005637
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 10,
+      "impressions": 7177,
+      "ctr": 0.0013933398355858995,
+      "position": 30.686080535042496
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 13,
+      "impressions": 6424,
+      "ctr": 0.0020236612702366126,
+      "position": 32.34760273972603
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 11,
+      "impressions": 7163,
+      "ctr": 0.001535669412257434,
+      "position": 36.71422588300991
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 5,
+      "impressions": 6496,
+      "ctr": 0.000769704433497537,
+      "position": 35.38208128078818
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 9,
+      "impressions": 8333,
+      "ctr": 0.001080043201728069,
+      "position": 38.412816512660505
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 9,
+      "impressions": 6710,
+      "ctr": 0.0013412816691505216,
+      "position": 39.29165424739195
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 15,
+      "impressions": 6234,
+      "ctr": 0.002406159769008662,
+      "position": 31.324510747513635
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 12,
+      "impressions": 7073,
+      "ctr": 0.001696592676374947,
+      "position": 34.13841368584759
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 9,
+      "impressions": 28128,
+      "ctr": 0.0003199658703071672,
+      "position": 67.69354379977247
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 11,
+      "impressions": 5767,
+      "ctr": 0.0019074041962892317,
+      "position": 32.766082885382346
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 8,
+      "impressions": 6362,
+      "ctr": 0.0012574662055957245,
+      "position": 34.78685947815153
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 10,
+      "impressions": 7285,
+      "ctr": 0.0013726835964310226,
+      "position": 30.10308853809197
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 12,
+      "impressions": 5483,
+      "ctr": 0.0021885828925770562,
+      "position": 33.23873791719861
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 14,
+      "impressions": 6685,
+      "ctr": 0.0020942408376963353,
+      "position": 35.680478683620045
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 7,
+      "impressions": 6212,
+      "ctr": 0.0011268512556342563,
+      "position": 32.150515132002575
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 12,
+      "impressions": 6783,
+      "ctr": 0.0017691287041132243,
+      "position": 33.90402476780186
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 9,
+      "impressions": 6074,
+      "ctr": 0.0014817253868949622,
+      "position": 33.10009878169246
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 10,
+      "impressions": 6127,
+      "ctr": 0.0016321201240411295,
+      "position": 31.089929818834666
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 6,
+      "impressions": 6879,
+      "ctr": 0.0008722197993894462,
+      "position": 33.12734409071086
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 9,
+      "impressions": 7232,
+      "ctr": 0.0012444690265486725,
+      "position": 30.6570796460177
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 13,
+      "impressions": 6942,
+      "ctr": 0.0018726591760299626,
+      "position": 34.61624891961971
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 9,
+      "impressions": 7119,
+      "ctr": 0.0012642225031605564,
+      "position": 33.288242730720604
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 15,
+      "impressions": 21989,
+      "ctr": 0.0006821592614489063,
+      "position": 56.57569693937878
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 12,
+      "impressions": 5219,
+      "ctr": 0.0022992910519256562,
+      "position": 31.803027399885035
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 14,
+      "impressions": 6613,
+      "ctr": 0.0021170421896264933,
+      "position": 36.86965068803871
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 12,
+      "impressions": 7497,
+      "ctr": 0.001600640256102441,
+      "position": 33.38268640789649
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 5,
+      "impressions": 6369,
+      "ctr": 0.0007850525985241011,
+      "position": 34.127021510441196
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 14,
+      "impressions": 6275,
+      "ctr": 0.0022310756972111555,
+      "position": 36.917131474103584
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 7,
+      "impressions": 7279,
+      "ctr": 0.0009616705591427394,
+      "position": 43.23780739112515
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 9,
+      "impressions": 15989,
+      "ctr": 0.0005628869848020514,
+      "position": 17.974607542685597
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 11,
+      "impressions": 5152,
+      "ctr": 0.0021350931677018635,
+      "position": 36.265916149068325
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 7,
+      "impressions": 5269,
+      "ctr": 0.0013285253368760675,
+      "position": 37.44847219586259
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 6,
+      "impressions": 5643,
+      "ctr": 0.001063264221158958,
+      "position": 34.65337586390218
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 6,
+      "impressions": 4463,
+      "ctr": 0.0013443871835088505,
+      "position": 32.80304727761595
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 16,
+      "impressions": 5471,
+      "ctr": 0.002924511058307439,
+      "position": 37.517638457320416
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 10,
+      "impressions": 15221,
+      "ctr": 0.0006569870573549701,
+      "position": 65.05229616976546
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 7,
+      "impressions": 18474,
+      "ctr": 0.0003789109018079463,
+      "position": 64.62352495398939
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 15,
+      "impressions": 6125,
+      "ctr": 0.0024489795918367346,
+      "position": 34.59379591836735
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 8,
+      "impressions": 6446,
+      "ctr": 0.0012410797393732546,
+      "position": 36.961836798014275
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 7,
+      "impressions": 6130,
+      "ctr": 0.0011419249592169657,
+      "position": 35.703588907014684
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 5,
+      "impressions": 5354,
+      "ctr": 0.0009338812103100486,
+      "position": 33.70134478894285
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 13,
+      "impressions": 8701,
+      "ctr": 0.0014940811400988392,
+      "position": 39.60797609470176
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 15,
+      "impressions": 73465,
+      "ctr": 0.00020417886068195738,
+      "position": 55.781555842918394
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 9,
+      "impressions": 41086,
+      "ctr": 0.00021905271868763083,
+      "position": 59.897897093900596
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 9,
+      "impressions": 14380,
+      "ctr": 0.0006258692628650904,
+      "position": 63.09033379694019
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 10,
+      "impressions": 5699,
+      "ctr": 0.001754693805930865,
+      "position": 35.66274785050009
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 10,
+      "impressions": 6904,
+      "ctr": 0.0014484356894553883,
+      "position": 34.619061413673236
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 8,
+      "impressions": 6190,
+      "ctr": 0.0012924071082390954,
+      "position": 35.359127625201936
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 20,
+      "impressions": 6294,
+      "ctr": 0.0031776294884016524,
+      "position": 35.21893867175088
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 9,
+      "impressions": 6047,
+      "ctr": 0.0014883413262774929,
+      "position": 34.815611046800065
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 7,
+      "impressions": 13849,
+      "ctr": 0.0005054516571593617,
+      "position": 51.76893638529858
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 3,
+      "impressions": 5666,
+      "ctr": 0.0005294740557712672,
+      "position": 34.75379456406636
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 5,
+      "impressions": 6815,
+      "ctr": 0.0007336757153338225,
+      "position": 40.702274394717534
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 6,
+      "impressions": 6853,
+      "ctr": 0.0008755289654166059,
+      "position": 32.38523274478331
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 8,
+      "impressions": 6193,
+      "ctr": 0.0012917810431131924,
+      "position": 36.4865170353625
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 10,
+      "impressions": 5018,
+      "ctr": 0.0019928258270227183,
+      "position": 35.59545635711439
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 8,
+      "impressions": 6447,
+      "ctr": 0.0012408872343725764,
+      "position": 28.576702342174656
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 11,
+      "impressions": 6684,
+      "ctr": 0.0016457211250748055,
+      "position": 47.01301615798923
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 16,
+      "impressions": 5577,
+      "ctr": 0.002868925945849023,
+      "position": 33.81441635287789
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 11,
+      "impressions": 5223,
+      "ctr": 0.002106069308826345,
+      "position": 35.70917097453571
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 7,
+      "impressions": 6103,
+      "ctr": 0.0011469768966082255,
+      "position": 35.60101589382271
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 7,
+      "impressions": 4271,
+      "ctr": 0.001638960430812456,
+      "position": 37.081245609927414
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 12,
+      "impressions": 5812,
+      "ctr": 0.0020646937370956643,
+      "position": 39.953200275292495
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 13,
+      "impressions": 5153,
+      "ctr": 0.002522802251115855,
+      "position": 36.87056083834659
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 14,
+      "impressions": 14349,
+      "ctr": 0.0009756777475782285,
+      "position": 56.600808418705135
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 6,
+      "impressions": 5420,
+      "ctr": 0.001107011070110701,
+      "position": 36.69428044280443
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 9,
+      "impressions": 5566,
+      "ctr": 0.0016169601149838304,
+      "position": 37.19816744520302
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 4,
+      "impressions": 5538,
+      "ctr": 0.0007222824124232575,
+      "position": 34.30624774286746
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "champion plumbing",
+      "clicks": 86,
+      "impressions": 2075,
+      "ctr": 0.04144578313253012,
+      "position": 8.434216867469878
+    },
+    {
+      "query": "champion plumbing okc",
+      "clicks": 53,
+      "impressions": 292,
+      "ctr": 0.1815068493150685,
+      "position": 3.4657534246575343
+    },
+    {
+      "query": "plumbers edmond ok",
+      "clicks": 10,
+      "impressions": 542,
+      "ctr": 0.01845018450184502,
+      "position": 23.85977859778598
+    },
+    {
+      "query": "plumbers near me",
+      "clicks": 10,
+      "impressions": 1095,
+      "ctr": 0.0091324200913242,
+      "position": 13.65296803652968
+    },
+    {
+      "query": "champion plumbing midwest city",
+      "clicks": 6,
+      "impressions": 43,
+      "ctr": 0.13953488372093023,
+      "position": 1.6511627906976745
+    },
+    {
+      "query": "plumber near me",
+      "clicks": 6,
+      "impressions": 5278,
+      "ctr": 0.0011367942402425162,
+      "position": 14.115384615384615
+    },
+    {
+      "query": "plumbers norman ok",
+      "clicks": 6,
+      "impressions": 312,
+      "ctr": 0.019230769230769232,
+      "position": 8.580128205128204
+    },
+    {
+      "query": "champions plumbing",
+      "clicks": 5,
+      "impressions": 177,
+      "ctr": 0.02824858757062147,
+      "position": 11.022598870056497
+    },
+    {
+      "query": "plumber edmond",
+      "clicks": 5,
+      "impressions": 1394,
+      "ctr": 0.003586800573888092,
+      "position": 35.40028694404591
+    },
+    {
+      "query": "shower not getting hot water but sink does",
+      "clicks": 5,
+      "impressions": 753,
+      "ctr": 0.006640106241699867,
+      "position": 12.460823373173971
+    },
+    {
+      "query": "outdoor hot water heater enclosure ideas",
+      "clicks": 4,
+      "impressions": 221,
+      "ctr": 0.01809954751131222,
+      "position": 2.0814479638009047
+    },
+    {
+      "query": "outdoor water heater enclosure",
+      "clicks": 4,
+      "impressions": 490,
+      "ctr": 0.00816326530612245,
+      "position": 5.710204081632653
+    },
+    {
+      "query": "plumbers okc",
+      "clicks": 4,
+      "impressions": 1020,
+      "ctr": 0.00392156862745098,
+      "position": 32.627450980392155
+    },
+    {
+      "query": "plumbers yukon",
+      "clicks": 4,
+      "impressions": 132,
+      "ctr": 0.030303030303030304,
+      "position": 4.1893939393939394
+    },
+    {
+      "query": "plumbing",
+      "clicks": 4,
+      "impressions": 1545,
+      "ctr": 0.0025889967637540453,
+      "position": 27.52168284789644
+    },
+    {
+      "query": "plumbing edmond ok",
+      "clicks": 4,
+      "impressions": 340,
+      "ctr": 0.011764705882352941,
+      "position": 19.75588235294118
+    },
+    {
+      "query": "water heater enclosure indoor",
+      "clicks": 4,
+      "impressions": 90,
+      "ctr": 0.044444444444444446,
+      "position": 4.7444444444444445
+    },
+    {
+      "query": "champion plumbing reviews",
+      "clicks": 3,
+      "impressions": 47,
+      "ctr": 0.06382978723404255,
+      "position": 3.297872340425532
+    },
+    {
+      "query": "commercial plumbers oklahoma city",
+      "clicks": 3,
+      "impressions": 41,
+      "ctr": 0.07317073170731707,
+      "position": 19.146341463414632
+    },
+    {
+      "query": "edmond plumber",
+      "clicks": 3,
+      "impressions": 1209,
+      "ctr": 0.0024813895781637717,
+      "position": 44.2737799834574
+    },
+    {
+      "query": "norman plumbers",
+      "clicks": 3,
+      "impressions": 470,
+      "ctr": 0.006382978723404255,
+      "position": 36.61489361702127
+    },
+    {
+      "query": "outdoor hot water heater",
+      "clicks": 3,
+      "impressions": 211,
+      "ctr": 0.014218009478672985,
+      "position": 2.090047393364929
+    },
+    {
+      "query": "plumbing companies near me",
+      "clicks": 3,
+      "impressions": 657,
+      "ctr": 0.0045662100456621,
+      "position": 13.613394216133942
+    },
+    {
+      "query": "affordable plumbers near me",
+      "clicks": 2,
+      "impressions": 53,
+      "ctr": 0.03773584905660377,
+      "position": 55.9811320754717
+    },
+    {
+      "query": "can cold weather affect toilet flushing",
+      "clicks": 2,
+      "impressions": 13,
+      "ctr": 0.15384615384615385,
+      "position": 17.384615384615383
+    },
+    {
+      "query": "champion plumber",
+      "clicks": 2,
+      "impressions": 18,
+      "ctr": 0.1111111111111111,
+      "position": 10.555555555555555
+    },
+    {
+      "query": "edmond plumbers",
+      "clicks": 2,
+      "impressions": 1252,
+      "ctr": 0.001597444089456869,
+      "position": 46.742811501597444
+    },
+    {
+      "query": "no hot water in shower but sinks are fine",
+      "clicks": 2,
+      "impressions": 69,
+      "ctr": 0.028985507246376812,
+      "position": 10.144927536231885
+    },
+    {
+      "query": "okc plumbers",
+      "clicks": 2,
+      "impressions": 418,
+      "ctr": 0.004784688995215311,
+      "position": 48.77751196172249
+    },
+    {
+      "query": "plumber edmond ok",
+      "clicks": 2,
+      "impressions": 632,
+      "ctr": 0.0031645569620253164,
+      "position": 22.268987341772153
+    },
+    {
+      "query": "plumber norman ok",
+      "clicks": 2,
+      "impressions": 548,
+      "ctr": 0.0036496350364963502,
+      "position": 14.503649635036496
+    },
+    {
+      "query": "plumber okc",
+      "clicks": 2,
+      "impressions": 724,
+      "ctr": 0.0027624309392265192,
+      "position": 32.95303867403315
+    },
+    {
+      "query": "plumbers in oklahoma",
+      "clicks": 2,
+      "impressions": 28,
+      "ctr": 0.07142857142857142,
+      "position": 18.25
+    },
+    {
+      "query": "plumbers in yukon oklahoma",
+      "clicks": 2,
+      "impressions": 56,
+      "ctr": 0.03571428571428571,
+      "position": 3.1964285714285716
+    },
+    {
+      "query": "plumbers midwest city",
+      "clicks": 2,
+      "impressions": 270,
+      "ctr": 0.007407407407407408,
+      "position": 30.211111111111112
+    },
+    {
+      "query": "plumbing near me",
+      "clicks": 2,
+      "impressions": 655,
+      "ctr": 0.0030534351145038168,
+      "position": 15.345038167938931
+    },
+    {
+      "query": "plumbing okc",
+      "clicks": 2,
+      "impressions": 675,
+      "ctr": 0.002962962962962963,
+      "position": 41.93333333333333
+    },
+    {
+      "query": "water heater enclosure outdoor",
+      "clicks": 2,
+      "impressions": 268,
+      "ctr": 0.007462686567164179,
+      "position": 4.414179104477611
+    },
+    {
+      "query": "water heater outside enclosure",
+      "clicks": 2,
+      "impressions": 113,
+      "ctr": 0.017699115044247787,
+      "position": 2.5398230088495577
+    },
+    {
+      "query": "24 hour plumber",
+      "clicks": 1,
+      "impressions": 725,
+      "ctr": 0.001379310344827586,
+      "position": 54.6248275862069
+    },
+    {
+      "query": "are hot water heaters insulated",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 26
+    },
+    {
+      "query": "bad smell from wash basin",
+      "clicks": 1,
+      "impressions": 38,
+      "ctr": 0.02631578947368421,
+      "position": 2.947368421052632
+    },
+    {
+      "query": "bathroom sink smells",
+      "clicks": 1,
+      "impressions": 1943,
+      "ctr": 0.000514668039114771,
+      "position": 5.112712300566135
+    },
+    {
+      "query": "bathroom sink smells bad",
+      "clicks": 1,
+      "impressions": 288,
+      "ctr": 0.003472222222222222,
+      "position": 3.59375
+    },
+    {
+      "query": "bathtub chipped",
+      "clicks": 1,
+      "impressions": 62,
+      "ctr": 0.016129032258064516,
+      "position": 4.096774193548387
+    },
+    {
+      "query": "bathtub damage repair",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 1
+    },
+    {
+      "query": "brakefield plumbing",
+      "clicks": 1,
+      "impressions": 21,
+      "ctr": 0.047619047619047616,
+      "position": 4.095238095238095
+    },
+    {
+      "query": "call the champs",
+      "clicks": 1,
+      "impressions": 143,
+      "ctr": 0.006993006993006993,
+      "position": 25.034965034965033
+    },
+    {
+      "query": "can cold weather cause toilets to clog",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 9.11111111111111
+    },
+    {
+      "query": "can water meters be faulty",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 1
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://callthechamps.com/plumbing-services-in-midwest-city/",
+      "clicks": 116,
+      "impressions": 17574,
+      "ctr": 0.006600660066006601,
+      "position": 8.930465460339137
+    },
+    {
+      "page": "https://callthechamps.com/plumbing-services-edmond/",
+      "clicks": 106,
+      "impressions": 31235,
+      "ctr": 0.0033936289418921082,
+      "position": 24.048183127901392
+    },
+    {
+      "page": "https://callthechamps.com/how-deep-sewer-lines-buried/",
+      "clicks": 95,
+      "impressions": 32687,
+      "ctr": 0.0029063542080949613,
+      "position": 11.057790558937803
+    },
+    {
+      "page": "https://callthechamps.com/",
+      "clicks": 94,
+      "impressions": 77424,
+      "ctr": 0.0012140938210374044,
+      "position": 43.97055176689398
+    },
+    {
+      "page": "https://callthechamps.com/plumbing-services-in-nichols-hills/",
+      "clicks": 63,
+      "impressions": 17997,
+      "ctr": 0.003500583430571762,
+      "position": 12.097627382341502
+    },
+    {
+      "page": "https://callthechamps.com/water-heater-enclosure-ideas-best-and-safest-ways/",
+      "clicks": 60,
+      "impressions": 13833,
+      "ctr": 0.004337453914552158,
+      "position": 9.134027325959662
+    },
+    {
+      "page": "https://callthechamps.com/plumbing-services-in-yukon/",
+      "clicks": 48,
+      "impressions": 16291,
+      "ctr": 0.002946412129396599,
+      "position": 11.933767110674605
+    },
+    {
+      "page": "https://callthechamps.com/plumbing-services-in-norman/",
+      "clicks": 46,
+      "impressions": 24610,
+      "ctr": 0.001869158878504673,
+      "position": 16.233279154815115
+    },
+    {
+      "page": "https://callthechamps.com/fix-chipped-bathtub/",
+      "clicks": 33,
+      "impressions": 22149,
+      "ctr": 0.0014899092509819856,
+      "position": 7.569641970292112
+    },
+    {
+      "page": "https://callthechamps.com/shower-not-getting-hot-water-but-sink-does/",
+      "clicks": 26,
+      "impressions": 15358,
+      "ctr": 0.001692928766766506,
+      "position": 16.718127360333376
+    },
+    {
+      "page": "https://callthechamps.com/?schedtag=true",
+      "clicks": 18,
+      "impressions": 1652,
+      "ctr": 0.010895883777239709,
+      "position": 6.600484261501211
+    },
+    {
+      "page": "https://callthechamps.com/do-toilets-clog-more-in-the-winter/",
+      "clicks": 13,
+      "impressions": 3064,
+      "ctr": 0.004242819843342037,
+      "position": 8.327676240208877
+    },
+    {
+      "page": "https://callthechamps.com/signs-of-sewer-line-problems-from-snow-and-ice/",
+      "clicks": 13,
+      "impressions": 2019,
+      "ctr": 0.0064388311045071814,
+      "position": 11.369489846458643
+    },
+    {
+      "page": "https://callthechamps.com/why-your-toilet-tank-isnt-filling-and-how-to-solve-it/",
+      "clicks": 12,
+      "impressions": 16507,
+      "ctr": 0.0007269643181680499,
+      "position": 55.20021808929545
+    },
+    {
+      "page": "https://callthechamps.com/why-bathroom-sink-smell/",
+      "clicks": 11,
+      "impressions": 29030,
+      "ctr": 0.0003789183603169135,
+      "position": 13.258112297623148
+    },
+    {
+      "page": "https://callthechamps.com/sewer-line-pipe-material/",
+      "clicks": 10,
+      "impressions": 17176,
+      "ctr": 0.0005822077317186772,
+      "position": 14.203306939916162
+    },
+    {
+      "page": "https://callthechamps.com/how-long-toilet-flappers-last/",
+      "clicks": 9,
+      "impressions": 6418,
+      "ctr": 0.0014023060143346837,
+      "position": 6.9851978809598005
+    },
+    {
+      "page": "https://callthechamps.com/water-meter-keeps-spinning/",
+      "clicks": 8,
+      "impressions": 1811,
+      "ctr": 0.004417448923246825,
+      "position": 10.42738818332413
+    },
+    {
+      "page": "https://callthechamps.com/the-risks-of-drinking-unfiltered-water-what-you-need-to-know/",
+      "clicks": 7,
+      "impressions": 567,
+      "ctr": 0.012345679012345678,
+      "position": 13.523809523809524
+    },
+    {
+      "page": "https://callthechamps.com/contact-us/",
+      "clicks": 6,
+      "impressions": 1957,
+      "ctr": 0.0030659172202350538,
+      "position": 16.832396525293817
+    },
+    {
+      "page": "https://callthechamps.com/nuflow-technology/",
+      "clicks": 6,
+      "impressions": 8424,
+      "ctr": 0.0007122507122507123,
+      "position": 54.48931623931624
+    },
+    {
+      "page": "https://callthechamps.com/about-us/",
+      "clicks": 5,
+      "impressions": 1962,
+      "ctr": 0.0025484199796126403,
+      "position": 11.935779816513762
+    },
+    {
+      "page": "https://callthechamps.com/careers/",
+      "clicks": 5,
+      "impressions": 356,
+      "ctr": 0.014044943820224719,
+      "position": 14.030898876404494
+    },
+    {
+      "page": "https://callthechamps.com/is-green-corrosion-on-copper-pipes-dangerous/",
+      "clicks": 5,
+      "impressions": 2376,
+      "ctr": 0.0021043771043771043,
+      "position": 32.14057239057239
+    },
+    {
+      "page": "https://callthechamps.com/toilet-bubbling-when-shower-is-running/",
+      "clicks": 5,
+      "impressions": 5794,
+      "ctr": 0.0008629616845012082,
+      "position": 28.367276492923715
+    },
+    {
+      "page": "https://callthechamps.com/can-water-heater-explode/",
+      "clicks": 4,
+      "impressions": 7659,
+      "ctr": 0.0005222613918266092,
+      "position": 16.454889672280977
+    },
+    {
+      "page": "https://callthechamps.com/pipes-rattle-when-flushing-toilet/",
+      "clicks": 4,
+      "impressions": 2865,
+      "ctr": 0.0013961605584642235,
+      "position": 24.415706806282724
+    },
+    {
+      "page": "https://callthechamps.com/should-you-insulate-water-heater/",
+      "clicks": 4,
+      "impressions": 707,
+      "ctr": 0.005657708628005658,
+      "position": 35.61669024045262
+    },
+    {
+      "page": "https://callthechamps.com/find-sewer-line-on-property/",
+      "clicks": 3,
+      "impressions": 1262,
+      "ctr": 0.002377179080824089,
+      "position": 26.52852614896989
+    },
+    {
+      "page": "https://callthechamps.com/main-water-line-leak/",
+      "clicks": 3,
+      "impressions": 5077,
+      "ctr": 0.0005909001378766989,
+      "position": 20.618475477644278
+    },
+    {
+      "page": "https://callthechamps.com/noble/",
+      "clicks": 3,
+      "impressions": 509,
+      "ctr": 0.005893909626719057,
+      "position": 18.04911591355599
+    },
+    {
+      "page": "https://callthechamps.com/toilet-drying-out/",
+      "clicks": 3,
+      "impressions": 1115,
+      "ctr": 0.0026905829596412557,
+      "position": 6.084304932735426
+    },
+    {
+      "page": "https://callthechamps.com/water-heater-repair-and-installation/",
+      "clicks": 3,
+      "impressions": 9231,
+      "ctr": 0.00032499187520311994,
+      "position": 58.313400498320874
+    },
+    {
+      "page": "https://callthechamps.com/bathroom-remodeling/",
+      "clicks": 2,
+      "impressions": 3427,
+      "ctr": 0.0005836008170411438,
+      "position": 63.885322439451414
+    },
+    {
+      "page": "https://callthechamps.com/commercial-plumbing/",
+      "clicks": 2,
+      "impressions": 1075,
+      "ctr": 0.0018604651162790699,
+      "position": 55.18604651162791
+    },
+    {
+      "page": "https://callthechamps.com/effective-strategies-for-drain-cleaning-and-maintenance/",
+      "clicks": 2,
+      "impressions": 3070,
+      "ctr": 0.0006514657980456026,
+      "position": 42.30130293159609
+    },
+    {
+      "page": "https://callthechamps.com/garbage-disposal-in-norman/",
+      "clicks": 2,
+      "impressions": 2109,
+      "ctr": 0.000948316737790422,
+      "position": 46.07349454717876
+    },
+    {
+      "page": "https://callthechamps.com/how-long-does-pipe-relining-last/",
+      "clicks": 2,
+      "impressions": 1855,
+      "ctr": 0.001078167115902965,
+      "position": 50.371428571428574
+    },
+    {
+      "page": "https://callthechamps.com/how-to-fix-leaking-pipe-joint/",
+      "clicks": 2,
+      "impressions": 1489,
+      "ctr": 0.001343183344526528,
+      "position": 39.38683680322364
+    },
+    {
+      "page": "https://callthechamps.com/insulate-pipes-in-crawl-space/",
+      "clicks": 2,
+      "impressions": 1501,
+      "ctr": 0.0013324450366422385,
+      "position": 25.069287141905395
+    },
+    {
+      "page": "https://callthechamps.com/is-bathroom-mold-dangerous/",
+      "clicks": 2,
+      "impressions": 2038,
+      "ctr": 0.0009813542688910696,
+      "position": 28.74092247301276
+    },
+    {
+      "page": "https://callthechamps.com/plumbing-air-vent/",
+      "clicks": 2,
+      "impressions": 1165,
+      "ctr": 0.0017167381974248926,
+      "position": 27.746781115879827
+    },
+    {
+      "page": "https://callthechamps.com/plumbing-backflow/",
+      "clicks": 2,
+      "impressions": 1534,
+      "ctr": 0.001303780964797914,
+      "position": 29.19947848761408
+    },
+    {
+      "page": "https://callthechamps.com/plumbing-questions/",
+      "clicks": 2,
+      "impressions": 1190,
+      "ctr": 0.0016806722689075631,
+      "position": 59.67899159663865
+    },
+    {
+      "page": "https://callthechamps.com/shower-faucet-wont-turn-off/",
+      "clicks": 2,
+      "impressions": 840,
+      "ctr": 0.002380952380952381,
+      "position": 42.225
+    },
+    {
+      "page": "https://callthechamps.com/signs-poor-water-pressure-in-home/",
+      "clicks": 2,
+      "impressions": 126,
+      "ctr": 0.015873015873015872,
+      "position": 19.5
+    },
+    {
+      "page": "https://callthechamps.com/tankless-water-heater-takes-too-long-heat/",
+      "clicks": 2,
+      "impressions": 943,
+      "ctr": 0.0021208907741251328,
+      "position": 15.191940615058325
+    },
+    {
+      "page": "https://callthechamps.com/where-main-water-shutoff-house/",
+      "clicks": 2,
+      "impressions": 722,
+      "ctr": 0.002770083102493075,
+      "position": 13.084487534626039
+    },
+    {
+      "page": "https://callthechamps.com/why-is-my-shower-drain-gurgling/",
+      "clicks": 2,
+      "impressions": 345,
+      "ctr": 0.005797101449275362,
+      "position": 22.16521739130435
+    },
+    {
+      "page": "https://callthechamps.com/why-toilet-smell-like-sewage/",
+      "clicks": 2,
+      "impressions": 4261,
+      "ctr": 0.0004693733865289838,
+      "position": 52.286787139169206
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:07:53.208Z"
+}

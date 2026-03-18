@@ -1,0 +1,1350 @@
+{
+  "property": "sc-domain:bruniandcampisi.com",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 3698,
+    "impressions": 675116,
+    "ctr": 0.005477577186735316,
+    "position": 21.836451619240393
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 67,
+      "impressions": 8488,
+      "ctr": 0.00789349670122526,
+      "position": 23.574222431668236
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 43,
+      "impressions": 8865,
+      "ctr": 0.00485053581500282,
+      "position": 21.99063733784546
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 40,
+      "impressions": 6346,
+      "ctr": 0.006303183107469272,
+      "position": 20.8183107469272
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 39,
+      "impressions": 7832,
+      "ctr": 0.004979570990806946,
+      "position": 23.294688457609805
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 41,
+      "impressions": 7009,
+      "ctr": 0.005849621914681124,
+      "position": 21.214866600085603
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 21,
+      "impressions": 13187,
+      "ctr": 0.0015924774399029347,
+      "position": 19.50807613558808
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 30,
+      "impressions": 6718,
+      "ctr": 0.004465614766299494,
+      "position": 24.487645132479905
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 35,
+      "impressions": 7107,
+      "ctr": 0.004924722104966934,
+      "position": 22.74757281553398
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 23,
+      "impressions": 7402,
+      "ctr": 0.0031072683058632803,
+      "position": 26.350175628208593
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 22,
+      "impressions": 6853,
+      "ctr": 0.0032102728731942215,
+      "position": 24.871443163577997
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 12,
+      "impressions": 6715,
+      "ctr": 0.0017870439314966492,
+      "position": 21.82144452717796
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 35,
+      "impressions": 7082,
+      "ctr": 0.004942106749505789,
+      "position": 23.305139791019485
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 22,
+      "impressions": 6962,
+      "ctr": 0.003160011490950876,
+      "position": 21.973427176098824
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 30,
+      "impressions": 7212,
+      "ctr": 0.004159733777038269,
+      "position": 22.40099833610649
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 63,
+      "impressions": 8150,
+      "ctr": 0.007730061349693252,
+      "position": 26.40355828220859
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 38,
+      "impressions": 8876,
+      "ctr": 0.004281207751239297,
+      "position": 26.1693330328977
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 32,
+      "impressions": 7459,
+      "ctr": 0.004290119318943558,
+      "position": 23.616704652098136
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 23,
+      "impressions": 8540,
+      "ctr": 0.002693208430913349,
+      "position": 23.089812646370024
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 50,
+      "impressions": 6880,
+      "ctr": 0.007267441860465116,
+      "position": 19.97122093023256
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 25,
+      "impressions": 6052,
+      "ctr": 0.004130865829477859,
+      "position": 22.02379378717779
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 22,
+      "impressions": 8809,
+      "ctr": 0.002497445794074242,
+      "position": 20.04518106482007
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 66,
+      "impressions": 9242,
+      "ctr": 0.00714131140445791,
+      "position": 24.418415927288464
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 45,
+      "impressions": 7165,
+      "ctr": 0.00628053035589672,
+      "position": 22.474947662247033
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 44,
+      "impressions": 8113,
+      "ctr": 0.0054233945519536544,
+      "position": 23.592752372735116
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 42,
+      "impressions": 8886,
+      "ctr": 0.004726536124240378,
+      "position": 23.670830519918972
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 39,
+      "impressions": 8010,
+      "ctr": 0.0048689138576779025,
+      "position": 21.795006242197253
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 13,
+      "impressions": 6617,
+      "ctr": 0.0019646365422396855,
+      "position": 26.307238930028713
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 23,
+      "impressions": 6991,
+      "ctr": 0.003289944213989415,
+      "position": 25.494492919467888
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 54,
+      "impressions": 7419,
+      "ctr": 0.007278608976951072,
+      "position": 26.12980186008896
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 49,
+      "impressions": 6729,
+      "ctr": 0.007281914103135681,
+      "position": 24.153811859117255
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 35,
+      "impressions": 10137,
+      "ctr": 0.003452698036894545,
+      "position": 17.228963204103778
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 37,
+      "impressions": 7492,
+      "ctr": 0.004938601174586226,
+      "position": 23.918446342765616
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 36,
+      "impressions": 6550,
+      "ctr": 0.00549618320610687,
+      "position": 22.95206106870229
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 17,
+      "impressions": 6683,
+      "ctr": 0.0025437677689660334,
+      "position": 25.208140056860692
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 15,
+      "impressions": 6753,
+      "ctr": 0.002221235006663705,
+      "position": 23.080408707241226
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 36,
+      "impressions": 8991,
+      "ctr": 0.004004004004004004,
+      "position": 27.709598487376265
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 55,
+      "impressions": 7682,
+      "ctr": 0.007159593855766727,
+      "position": 22.872038531632388
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 59,
+      "impressions": 8619,
+      "ctr": 0.006845341686970647,
+      "position": 23.329968673860076
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 50,
+      "impressions": 8129,
+      "ctr": 0.006150818058801821,
+      "position": 24.029277893959897
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 50,
+      "impressions": 6782,
+      "ctr": 0.007372456502506636,
+      "position": 19.806251843114126
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 38,
+      "impressions": 8195,
+      "ctr": 0.004636973764490543,
+      "position": 21.227821842586945
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 43,
+      "impressions": 8478,
+      "ctr": 0.005071950931823543,
+      "position": 21.061807029959898
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 53,
+      "impressions": 8725,
+      "ctr": 0.006074498567335243,
+      "position": 25.174785100286535
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 46,
+      "impressions": 13126,
+      "ctr": 0.003504494895627,
+      "position": 16.40408349840012
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 64,
+      "impressions": 8894,
+      "ctr": 0.007195862379131999,
+      "position": 23.398470879244435
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 65,
+      "impressions": 8234,
+      "ctr": 0.007894097643915472,
+      "position": 22.649380616954094
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 72,
+      "impressions": 9127,
+      "ctr": 0.007888681932727074,
+      "position": 19.60096417223622
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 47,
+      "impressions": 8143,
+      "ctr": 0.00577182856441115,
+      "position": 22.817266363748004
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 64,
+      "impressions": 9370,
+      "ctr": 0.006830309498399146,
+      "position": 19.602347918890075
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 78,
+      "impressions": 8834,
+      "ctr": 0.008829522300203759,
+      "position": 22.779148743491056
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 78,
+      "impressions": 8994,
+      "ctr": 0.00867244829886591,
+      "position": 16.602957527240385
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 71,
+      "impressions": 10293,
+      "ctr": 0.006897891771106578,
+      "position": 20.242494899446225
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 50,
+      "impressions": 7973,
+      "ctr": 0.0062711651824909065,
+      "position": 21.727455161168944
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 50,
+      "impressions": 8158,
+      "ctr": 0.006128953174797744,
+      "position": 19.06116695268448
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 27,
+      "impressions": 6704,
+      "ctr": 0.004027446300715991,
+      "position": 16.457488066825775
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 72,
+      "impressions": 7324,
+      "ctr": 0.009830693610049153,
+      "position": 17.749726925177498
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 94,
+      "impressions": 10065,
+      "ctr": 0.009339294585196225,
+      "position": 25.248683556880277
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 76,
+      "impressions": 8592,
+      "ctr": 0.008845437616387336,
+      "position": 21.52304469273743
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 60,
+      "impressions": 9590,
+      "ctr": 0.006256517205422315,
+      "position": 23.838477580813347
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 49,
+      "impressions": 8278,
+      "ctr": 0.005919304179753564,
+      "position": 22.477651606668278
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 47,
+      "impressions": 7085,
+      "ctr": 0.006633733239237827,
+      "position": 19.021030345800988
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 33,
+      "impressions": 5611,
+      "ctr": 0.0058813045802887185,
+      "position": 19.521119230083762
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 26,
+      "impressions": 5695,
+      "ctr": 0.0045654082528533806,
+      "position": 22.536084284460053
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 35,
+      "impressions": 6576,
+      "ctr": 0.005322384428223844,
+      "position": 23.51824817518248
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 59,
+      "impressions": 9373,
+      "ctr": 0.006294676197588819,
+      "position": 24.318894697535473
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 43,
+      "impressions": 7580,
+      "ctr": 0.0056728232189973615,
+      "position": 24.122691292875988
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 34,
+      "impressions": 11579,
+      "ctr": 0.002936350289316867,
+      "position": 39.63848346143881
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 35,
+      "impressions": 4603,
+      "ctr": 0.007603736693460786,
+      "position": 19.9637193134912
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 19,
+      "impressions": 4615,
+      "ctr": 0.004117009750812568,
+      "position": 22.1887323943662
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 17,
+      "impressions": 4388,
+      "ctr": 0.0038742023701002735,
+      "position": 21.17274384685506
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 19,
+      "impressions": 6984,
+      "ctr": 0.002720504009163803,
+      "position": 24.92081901489118
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 30,
+      "impressions": 7491,
+      "ctr": 0.004004805766920304,
+      "position": 19.737952209317847
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 34,
+      "impressions": 11447,
+      "ctr": 0.0029702105355114876,
+      "position": 32.66209487201887
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 32,
+      "impressions": 8558,
+      "ctr": 0.0037391913998597805,
+      "position": 30.68590792241178
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 36,
+      "impressions": 5449,
+      "ctr": 0.006606716828775922,
+      "position": 22.06276380987337
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 18,
+      "impressions": 4383,
+      "ctr": 0.004106776180698152,
+      "position": 21.253023043577457
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 23,
+      "impressions": 5839,
+      "ctr": 0.003939030655934235,
+      "position": 18.9678027059428
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 38,
+      "impressions": 5377,
+      "ctr": 0.007067137809187279,
+      "position": 21.604612237307048
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 51,
+      "impressions": 4974,
+      "ctr": 0.010253317249698432,
+      "position": 18.252915158825896
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 32,
+      "impressions": 6835,
+      "ctr": 0.004681784930504755,
+      "position": 16.731089978054133
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 49,
+      "impressions": 5305,
+      "ctr": 0.009236569274269557,
+      "position": 14.253722902921773
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 29,
+      "impressions": 5452,
+      "ctr": 0.005319148936170213,
+      "position": 15.335656639765224
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 14,
+      "impressions": 4658,
+      "ctr": 0.0030055817947617003,
+      "position": 16.98175182481752
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 23,
+      "impressions": 4159,
+      "ctr": 0.005530175522962251,
+      "position": 15.568886751622987
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 41,
+      "impressions": 5588,
+      "ctr": 0.00733715103793844,
+      "position": 18.229062276306372
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 36,
+      "impressions": 5230,
+      "ctr": 0.006883365200764819,
+      "position": 17.319311663479922
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 50,
+      "impressions": 8799,
+      "ctr": 0.005682463916354131,
+      "position": 8.87532674167519
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 68,
+      "impressions": 5142,
+      "ctr": 0.013224426293271101,
+      "position": 16.268378063010502
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 35,
+      "impressions": 4899,
+      "ctr": 0.007144315166360482,
+      "position": 15.660542967952644
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 17,
+      "impressions": 4811,
+      "ctr": 0.0035335689045936395,
+      "position": 16.411348991893576
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "bruni and campisi",
+      "clicks": 1061,
+      "impressions": 5552,
+      "ctr": 0.19110230547550433,
+      "position": 1.0967219020172911
+    },
+    {
+      "query": "bruni & campisi",
+      "clicks": 149,
+      "impressions": 509,
+      "ctr": 0.29273084479371314,
+      "position": 1.0333988212180747
+    },
+    {
+      "query": "bruno and campisi",
+      "clicks": 112,
+      "impressions": 638,
+      "ctr": 0.1755485893416928,
+      "position": 1.6065830721003134
+    },
+    {
+      "query": "bruni campisi",
+      "clicks": 85,
+      "impressions": 484,
+      "ctr": 0.1756198347107438,
+      "position": 1.3450413223140496
+    },
+    {
+      "query": "bruni & campisi, inc.",
+      "clicks": 61,
+      "impressions": 543,
+      "ctr": 0.11233885819521179,
+      "position": 1.1031307550644567
+    },
+    {
+      "query": "bruno campisi",
+      "clicks": 43,
+      "impressions": 275,
+      "ctr": 0.15636363636363637,
+      "position": 2.589090909090909
+    },
+    {
+      "query": "bruni and campisi reviews",
+      "clicks": 34,
+      "impressions": 2335,
+      "ctr": 0.014561027837259101,
+      "position": 5.590149892933619
+    },
+    {
+      "query": "bruni and campisi plumbing",
+      "clicks": 26,
+      "impressions": 157,
+      "ctr": 0.16560509554140126,
+      "position": 2.1210191082802545
+    },
+    {
+      "query": "bruni and campisi jobs",
+      "clicks": 19,
+      "impressions": 61,
+      "ctr": 0.3114754098360656,
+      "position": 1.7704918032786885
+    },
+    {
+      "query": "bruni & campisi plumbing & heating inc",
+      "clicks": 17,
+      "impressions": 34,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "bruni & campisi inc",
+      "clicks": 12,
+      "impressions": 102,
+      "ctr": 0.11764705882352941,
+      "position": 1.5980392156862746
+    },
+    {
+      "query": "bruni & campisi, inc.-plumbing",
+      "clicks": 11,
+      "impressions": 29,
+      "ctr": 0.3793103448275862,
+      "position": 1
+    },
+    {
+      "query": "services offered by bruni and campisi",
+      "clicks": 10,
+      "impressions": 63,
+      "ctr": 0.15873015873015872,
+      "position": 1.7142857142857144
+    },
+    {
+      "query": "bruni & campisi electric",
+      "clicks": 8,
+      "impressions": 30,
+      "ctr": 0.26666666666666666,
+      "position": 10.233333333333333
+    },
+    {
+      "query": "oil to gas conversion kit",
+      "clicks": 8,
+      "impressions": 352,
+      "ctr": 0.022727272727272728,
+      "position": 3.4375
+    },
+    {
+      "query": "call the bee",
+      "clicks": 7,
+      "impressions": 1697,
+      "ctr": 0.0041249263406010605,
+      "position": 6.058927519151443
+    },
+    {
+      "query": "hvac westchester ny",
+      "clicks": 5,
+      "impressions": 454,
+      "ctr": 0.011013215859030838,
+      "position": 3.9008810572687223
+    },
+    {
+      "query": "bruni & campisi, inc. reviews",
+      "clicks": 4,
+      "impressions": 434,
+      "ctr": 0.009216589861751152,
+      "position": 3.30184331797235
+    },
+    {
+      "query": "converting from oil to natural gas",
+      "clicks": 4,
+      "impressions": 243,
+      "ctr": 0.01646090534979424,
+      "position": 3.3786008230452675
+    },
+    {
+      "query": "hvac near me",
+      "clicks": 4,
+      "impressions": 814,
+      "ctr": 0.004914004914004914,
+      "position": 8.912776412776413
+    },
+    {
+      "query": "hvac westchester",
+      "clicks": 4,
+      "impressions": 578,
+      "ctr": 0.006920415224913495,
+      "position": 12.512110726643598
+    },
+    {
+      "query": "call the bee plumbing",
+      "clicks": 3,
+      "impressions": 135,
+      "ctr": 0.022222222222222223,
+      "position": 8.674074074074074
+    },
+    {
+      "query": "chimney sweep westchester ny",
+      "clicks": 3,
+      "impressions": 40,
+      "ctr": 0.075,
+      "position": 8.725
+    },
+    {
+      "query": "how can i get a new gas pipeline connection? what should i do to make the process easier?",
+      "clicks": 3,
+      "impressions": 48,
+      "ctr": 0.0625,
+      "position": 11.375
+    },
+    {
+      "query": "hvac companies in westchester county ny",
+      "clicks": 3,
+      "impressions": 406,
+      "ctr": 0.007389162561576354,
+      "position": 3.4876847290640396
+    },
+    {
+      "query": "hvac greenwich ct",
+      "clicks": 3,
+      "impressions": 261,
+      "ctr": 0.011494252873563218,
+      "position": 14.877394636015326
+    },
+    {
+      "query": "hvac white plains",
+      "clicks": 3,
+      "impressions": 248,
+      "ctr": 0.012096774193548387,
+      "position": 7.903225806451613
+    },
+    {
+      "query": "oil to gas conversion",
+      "clicks": 3,
+      "impressions": 3384,
+      "ctr": 0.0008865248226950354,
+      "position": 5.282210401891253
+    },
+    {
+      "query": "ac repair in new york",
+      "clicks": 2,
+      "impressions": 170,
+      "ctr": 0.011764705882352941,
+      "position": 32.62352941176471
+    },
+    {
+      "query": "ac turns on but not blowing air",
+      "clicks": 2,
+      "impressions": 43,
+      "ctr": 0.046511627906976744,
+      "position": 6.348837209302325
+    },
+    {
+      "query": "air duct cleaning near me",
+      "clicks": 2,
+      "impressions": 1083,
+      "ctr": 0.0018467220683287165,
+      "position": 11.809787626962143
+    },
+    {
+      "query": "air duct cleaning westchester ny",
+      "clicks": 2,
+      "impressions": 24,
+      "ctr": 0.08333333333333333,
+      "position": 4.625
+    },
+    {
+      "query": "aqueduct heating services",
+      "clicks": 2,
+      "impressions": 8,
+      "ctr": 0.25,
+      "position": 11.625
+    },
+    {
+      "query": "boiler cleaning service",
+      "clicks": 2,
+      "impressions": 66,
+      "ctr": 0.030303030303030304,
+      "position": 25.40909090909091
+    },
+    {
+      "query": "boiler conversion from oil to gas",
+      "clicks": 2,
+      "impressions": 231,
+      "ctr": 0.008658008658008658,
+      "position": 6.588744588744588
+    },
+    {
+      "query": "boiler service near me",
+      "clicks": 2,
+      "impressions": 103,
+      "ctr": 0.019417475728155338,
+      "position": 6.980582524271845
+    },
+    {
+      "query": "bruni electrical services",
+      "clicks": 2,
+      "impressions": 53,
+      "ctr": 0.03773584905660377,
+      "position": 9.320754716981131
+    },
+    {
+      "query": "bruni plumbing",
+      "clicks": 2,
+      "impressions": 50,
+      "ctr": 0.04,
+      "position": 7.24
+    },
+    {
+      "query": "call the bee heating and air",
+      "clicks": 2,
+      "impressions": 66,
+      "ctr": 0.030303030303030304,
+      "position": 7.878787878787879
+    },
+    {
+      "query": "campisi electrical",
+      "clicks": 2,
+      "impressions": 29,
+      "ctr": 0.06896551724137931,
+      "position": 4.137931034482758
+    },
+    {
+      "query": "convert oil to gas",
+      "clicks": 2,
+      "impressions": 392,
+      "ctr": 0.00510204081632653,
+      "position": 5.533163265306122
+    },
+    {
+      "query": "converting oil to gas",
+      "clicks": 2,
+      "impressions": 643,
+      "ctr": 0.003110419906687403,
+      "position": 4.183514774494556
+    },
+    {
+      "query": "drain cleaning",
+      "clicks": 2,
+      "impressions": 2347,
+      "ctr": 0.0008521516829995739,
+      "position": 9.411163187047295
+    },
+    {
+      "query": "duct cleaning near me",
+      "clicks": 2,
+      "impressions": 121,
+      "ctr": 0.01652892561983471,
+      "position": 65.08264462809917
+    },
+    {
+      "query": "emergency boiler repair",
+      "clicks": 2,
+      "impressions": 316,
+      "ctr": 0.006329113924050633,
+      "position": 26.329113924050635
+    },
+    {
+      "query": "heating and plumbing companies near me",
+      "clicks": 2,
+      "impressions": 38,
+      "ctr": 0.05263157894736842,
+      "position": 21.18421052631579
+    },
+    {
+      "query": "heating repair near me",
+      "clicks": 2,
+      "impressions": 116,
+      "ctr": 0.017241379310344827,
+      "position": 9.21551724137931
+    },
+    {
+      "query": "home insulation westchester ny",
+      "clicks": 2,
+      "impressions": 83,
+      "ctr": 0.024096385542168676,
+      "position": 7.626506024096385
+    },
+    {
+      "query": "hvac apprentice jobs",
+      "clicks": 2,
+      "impressions": 18,
+      "ctr": 0.1111111111111111,
+      "position": 1
+    },
+    {
+      "query": "hvac companies near me",
+      "clicks": 2,
+      "impressions": 655,
+      "ctr": 0.0030534351145038168,
+      "position": 8.054961832061068
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://www.bruniandcampisi.com/",
+      "clicks": 1022,
+      "impressions": 23327,
+      "ctr": 0.04381189179920264,
+      "position": 12.3023534959489
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*285*bruni-campisi-elmsford",
+      "clicks": 901,
+      "impressions": 40012,
+      "ctr": 0.022518244526642008,
+      "position": 4.345946216135159
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/career-opportunities/",
+      "clicks": 211,
+      "impressions": 9373,
+      "ctr": 0.02251146911341086,
+      "position": 2.5688680251787046
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/contact/",
+      "clicks": 208,
+      "impressions": 13256,
+      "ctr": 0.015691007845503924,
+      "position": 5.9453832226916115
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/blog/the-complete-guide-to-oil-to-gas-conversions/",
+      "clicks": 130,
+      "impressions": 46502,
+      "ctr": 0.002795578684787751,
+      "position": 11.63504795492667
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/the-complete-guide-to-oil-to-gas-conversions/",
+      "clicks": 75,
+      "impressions": 20538,
+      "ctr": 0.003651767455448437,
+      "position": 11.289512123867953
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/blog/why-is-my-air-conditioner-making-noise-but-not-blowing-any-air-2/",
+      "clicks": 69,
+      "impressions": 38521,
+      "ctr": 0.0017912307572492926,
+      "position": 16.6171438955375
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/exciting-news/",
+      "clicks": 56,
+      "impressions": 6833,
+      "ctr": 0.008195521732767452,
+      "position": 5.641445924191424
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/about/westchester-county-ny/",
+      "clicks": 55,
+      "impressions": 29923,
+      "ctr": 0.001838050997560405,
+      "position": 13.438625806236006
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/reviews/",
+      "clicks": 50,
+      "impressions": 3707,
+      "ctr": 0.013487995683841382,
+      "position": 4.191529538710547
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/maintenance-plans/",
+      "clicks": 41,
+      "impressions": 11570,
+      "ctr": 0.003543647363872083,
+      "position": 19.239585133967157
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/frozen-pipe-and-burst-pipe-repair/",
+      "clicks": 39,
+      "impressions": 9217,
+      "ctr": 0.004231311706629055,
+      "position": 22.46153846153846
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/steam-radiator-system-repair/",
+      "clicks": 39,
+      "impressions": 8510,
+      "ctr": 0.004582843713278496,
+      "position": 27.85616921269095
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/air-duct-cleaning/",
+      "clicks": 35,
+      "impressions": 11569,
+      "ctr": 0.0030253263030512578,
+      "position": 30.676808712939753
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/plumbing-repair-and-installation/",
+      "clicks": 33,
+      "impressions": 17222,
+      "ctr": 0.0019161537568226686,
+      "position": 16.772209963999536
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/about/",
+      "clicks": 30,
+      "impressions": 12874,
+      "ctr": 0.0023302780798508623,
+      "position": 3.7720211278545905
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/boiler-repair/",
+      "clicks": 29,
+      "impressions": 22928,
+      "ctr": 0.0012648290300069783,
+      "position": 27.544007327285414
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/blog/gas-leak-in-home/",
+      "clicks": 28,
+      "impressions": 8233,
+      "ctr": 0.003400947406777602,
+      "position": 8.668893477468725
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/oil-to-gas-conversions/",
+      "clicks": 26,
+      "impressions": 9756,
+      "ctr": 0.0026650266502665026,
+      "position": 34.12341123411234
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/about/stamford-ct/",
+      "clicks": 25,
+      "impressions": 17125,
+      "ctr": 0.00145985401459854,
+      "position": 14.73956204379562
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/baseboard-heating/",
+      "clicks": 25,
+      "impressions": 4376,
+      "ctr": 0.005712979890310786,
+      "position": 15.343464351005485
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/rye-ny-plumbing-hvac/",
+      "clicks": 21,
+      "impressions": 9913,
+      "ctr": 0.0021184303439927368,
+      "position": 8.225461515182083
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/baseboard-heating-repair/",
+      "clicks": 20,
+      "impressions": 2828,
+      "ctr": 0.007072135785007072,
+      "position": 17.607496463932108
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/steam-and-radiator-installation/",
+      "clicks": 20,
+      "impressions": 2008,
+      "ctr": 0.0099601593625498,
+      "position": 16.78735059760956
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/peekskill-ny-plumbing-hvac/",
+      "clicks": 17,
+      "impressions": 6114,
+      "ctr": 0.002780503761858031,
+      "position": 13.329898593392215
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/electrical-services/",
+      "clicks": 16,
+      "impressions": 7753,
+      "ctr": 0.0020637172707339093,
+      "position": 4.723074938733394
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/yonkers-ny-plumbing-hvac/",
+      "clicks": 16,
+      "impressions": 11062,
+      "ctr": 0.001446393057313325,
+      "position": 19.857982281685047
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/blog/hvac-technician-jobs-westchester/",
+      "clicks": 15,
+      "impressions": 1091,
+      "ctr": 0.013748854262144821,
+      "position": 19.703024747937672
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/boiler-installation/",
+      "clicks": 15,
+      "impressions": 4335,
+      "ctr": 0.0034602076124567475,
+      "position": 30.61522491349481
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/drain-cleaning/",
+      "clicks": 14,
+      "impressions": 28390,
+      "ctr": 0.000493131384290243,
+      "position": 23.971891511095457
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/chappaqua-ny-plumbing-hvac/",
+      "clicks": 13,
+      "impressions": 24384,
+      "ctr": 0.0005331364829396325,
+      "position": 39.696686351706035
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/about/rockland-county-ny/",
+      "clicks": 12,
+      "impressions": 5729,
+      "ctr": 0.0020946063885494853,
+      "position": 31.35276662593821
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/blog/installing-air-conditioning-in-townhouses-homes/",
+      "clicks": 12,
+      "impressions": 1337,
+      "ctr": 0.008975317875841436,
+      "position": 4.949139865370231
+    },
+    {
+      "page": "http://www.bruniandcampisi.com/",
+      "clicks": 11,
+      "impressions": 201,
+      "ctr": 0.05472636815920398,
+      "position": 1.3333333333333333
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/about/greenwich-ct/",
+      "clicks": 11,
+      "impressions": 10300,
+      "ctr": 0.0010679611650485437,
+      "position": 17.84611650485437
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/larchmont-ny-plumbing-hvac/",
+      "clicks": 11,
+      "impressions": 1777,
+      "ctr": 0.0061902082160945416,
+      "position": 8.35846933033202
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/pound-ridge-ny-plumbing-hvac/",
+      "clicks": 11,
+      "impressions": 766,
+      "ctr": 0.014360313315926894,
+      "position": 16.22976501305483
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/refer-a-friend/",
+      "clicks": 11,
+      "impressions": 158,
+      "ctr": 0.06962025316455696,
+      "position": 18.481012658227847
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/about/stamford-ct/heating-repair-stamford-ct/",
+      "clicks": 10,
+      "impressions": 4355,
+      "ctr": 0.002296211251435132,
+      "position": 23.880826636050518
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/mount-kisco-ny-plumbing-hvac/",
+      "clicks": 10,
+      "impressions": 4457,
+      "ctr": 0.002243661655822302,
+      "position": 8.80771819609603
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/sewer-ejector-pump-services/",
+      "clicks": 10,
+      "impressions": 1683,
+      "ctr": 0.0059417706476530005,
+      "position": 34.00415923945336
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/blog/is-a-tankless-water-heater-right-for-your-new-york-or-connecticut-home/",
+      "clicks": 9,
+      "impressions": 1727,
+      "ctr": 0.0052113491603937466,
+      "position": 19.901563404748117
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/dry-well-installation/",
+      "clicks": 9,
+      "impressions": 3917,
+      "ctr": 0.002297676793464386,
+      "position": 24.456982384477918
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/blog/air-conditioning-preventive-maintenance-checklist/",
+      "clicks": 8,
+      "impressions": 4146,
+      "ctr": 0.001929570670525808,
+      "position": 29.596237337192473
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/croton-on-hudson-ny-plumbing-hvac/",
+      "clicks": 8,
+      "impressions": 2299,
+      "ctr": 0.0034797738147020443,
+      "position": 30.705959112657677
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/ossining-ny-plumbing-hvac/",
+      "clicks": 8,
+      "impressions": 5559,
+      "ctr": 0.0014391077531930203,
+      "position": 8.907717215326498
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/radiant-floor-heating-systems/",
+      "clicks": 8,
+      "impressions": 1275,
+      "ctr": 0.006274509803921568,
+      "position": 34.305098039215686
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/sump-pumps/",
+      "clicks": 8,
+      "impressions": 8286,
+      "ctr": 0.0009654839488293508,
+      "position": 38.21530292058895
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/about/greenwich-ct/heating-installation-in-greenwich-connecticut/",
+      "clicks": 7,
+      "impressions": 1546,
+      "ctr": 0.004527813712807244,
+      "position": 25.40103492884864
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/about/westchester-county-ny/heating-repair/",
+      "clicks": 7,
+      "impressions": 3989,
+      "ctr": 0.0017548257708698922,
+      "position": 36.97217347706192
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:07:46.798Z"
+}

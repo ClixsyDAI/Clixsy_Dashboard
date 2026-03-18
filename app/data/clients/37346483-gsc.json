@@ -1,0 +1,1350 @@
+{
+  "property": "sc-domain:precisiontoday.com",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 9017,
+    "impressions": 3049494,
+    "ctr": 0.002956883994524993,
+    "position": 17.14746848123488
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 87,
+      "impressions": 33358,
+      "ctr": 0.0026080700281791475,
+      "position": 16.098776905090233
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 90,
+      "impressions": 26355,
+      "ctr": 0.003414911781445646,
+      "position": 18.800341491178145
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 78,
+      "impressions": 22345,
+      "ctr": 0.003490713806220631,
+      "position": 19.119221302304766
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 69,
+      "impressions": 22174,
+      "ctr": 0.0031117525029313612,
+      "position": 17.955984486335346
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 80,
+      "impressions": 27493,
+      "ctr": 0.0029098315934965265,
+      "position": 22.947295675262794
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 60,
+      "impressions": 30653,
+      "ctr": 0.0019573940560467166,
+      "position": 22.20966952663687
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 53,
+      "impressions": 25418,
+      "ctr": 0.002085136517428594,
+      "position": 21.196907703202456
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 68,
+      "impressions": 24418,
+      "ctr": 0.0027848308624784995,
+      "position": 21.18748464247686
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 62,
+      "impressions": 23714,
+      "ctr": 0.002614489331196761,
+      "position": 21.65674285232352
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 53,
+      "impressions": 22993,
+      "ctr": 0.002305049362849563,
+      "position": 22.472013221415214
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 32,
+      "impressions": 20603,
+      "ctr": 0.0015531718681745378,
+      "position": 23.101926903848955
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 53,
+      "impressions": 23975,
+      "ctr": 0.002210636079249218,
+      "position": 20.61201251303441
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 55,
+      "impressions": 23128,
+      "ctr": 0.002378069872016603,
+      "position": 19.937651331719128
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 84,
+      "impressions": 26540,
+      "ctr": 0.0031650339110776186,
+      "position": 19.105727204220045
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 77,
+      "impressions": 27953,
+      "ctr": 0.0027546238328623046,
+      "position": 19.588702464851714
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 99,
+      "impressions": 26916,
+      "ctr": 0.0036781096745430227,
+      "position": 19.769319363947094
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 51,
+      "impressions": 24428,
+      "ctr": 0.0020877681349271327,
+      "position": 21.099803504175537
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 65,
+      "impressions": 26156,
+      "ctr": 0.002485089463220676,
+      "position": 19.402125707294694
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 61,
+      "impressions": 24461,
+      "ctr": 0.0024937655860349127,
+      "position": 19.161808593270923
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 85,
+      "impressions": 24769,
+      "ctr": 0.0034317089910775567,
+      "position": 18.284508861883808
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 72,
+      "impressions": 27992,
+      "ctr": 0.002572163475278651,
+      "position": 18.881894827093454
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 87,
+      "impressions": 31350,
+      "ctr": 0.0027751196172248805,
+      "position": 19.598979266347687
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 100,
+      "impressions": 27351,
+      "ctr": 0.003656173448868414,
+      "position": 18.957551826258637
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 70,
+      "impressions": 28292,
+      "ctr": 0.0024741976530467977,
+      "position": 20.682772515198643
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 101,
+      "impressions": 30513,
+      "ctr": 0.00331006456264543,
+      "position": 21.0364107101891
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 75,
+      "impressions": 27628,
+      "ctr": 0.002714637324453453,
+      "position": 19.656978427682063
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 78,
+      "impressions": 29780,
+      "ctr": 0.0026192075218267295,
+      "position": 19.38139691067831
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 48,
+      "impressions": 31532,
+      "ctr": 0.001522263097805404,
+      "position": 20.700526449321323
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 75,
+      "impressions": 29258,
+      "ctr": 0.0025634014628477682,
+      "position": 19.05400232415066
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 75,
+      "impressions": 31801,
+      "ctr": 0.002358416401999937,
+      "position": 16.806326845067765
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 68,
+      "impressions": 30038,
+      "ctr": 0.0022637991876955856,
+      "position": 20.804314534922433
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 91,
+      "impressions": 25530,
+      "ctr": 0.003564433999216608,
+      "position": 18.519467293380337
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 65,
+      "impressions": 25933,
+      "ctr": 0.002506458951914549,
+      "position": 19.795395827709868
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 58,
+      "impressions": 26344,
+      "ctr": 0.0022016398420892803,
+      "position": 19.90582295778925
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 93,
+      "impressions": 27887,
+      "ctr": 0.003334887223437444,
+      "position": 18.329257360060243
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 95,
+      "impressions": 31301,
+      "ctr": 0.003035046803616498,
+      "position": 20.249289160090733
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 108,
+      "impressions": 40305,
+      "ctr": 0.002679568291775214,
+      "position": 12.948095769755614
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 95,
+      "impressions": 29161,
+      "ctr": 0.0032577757964404514,
+      "position": 18.028531257501456
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 94,
+      "impressions": 29757,
+      "ctr": 0.0031589205901132508,
+      "position": 18.12474375777128
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 127,
+      "impressions": 29848,
+      "ctr": 0.004254891450013401,
+      "position": 14.72108683998928
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 138,
+      "impressions": 36972,
+      "ctr": 0.003732554365465758,
+      "position": 16.338039597533268
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 132,
+      "impressions": 35403,
+      "ctr": 0.003728497584950428,
+      "position": 15.60486399457673
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 147,
+      "impressions": 35844,
+      "ctr": 0.004101104787412119,
+      "position": 17.336681173976118
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 133,
+      "impressions": 36057,
+      "ctr": 0.0036886041545331006,
+      "position": 18.68619130820645
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 146,
+      "impressions": 34263,
+      "ctr": 0.00426115634941482,
+      "position": 19.815632022881825
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 120,
+      "impressions": 31822,
+      "ctr": 0.003770976054302055,
+      "position": 15.926874489346993
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 123,
+      "impressions": 31310,
+      "ctr": 0.003928457361865219,
+      "position": 16.485915043117217
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 128,
+      "impressions": 35685,
+      "ctr": 0.0035869412918593246,
+      "position": 17.173630376909067
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 117,
+      "impressions": 42729,
+      "ctr": 0.002738187179667205,
+      "position": 14.460530318987106
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 145,
+      "impressions": 35490,
+      "ctr": 0.004085657931811778,
+      "position": 15.763820794590025
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 112,
+      "impressions": 29063,
+      "ctr": 0.003853697140694354,
+      "position": 15.102879950452465
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 137,
+      "impressions": 29100,
+      "ctr": 0.004707903780068729,
+      "position": 15.761168384879726
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 128,
+      "impressions": 29856,
+      "ctr": 0.004287245444801715,
+      "position": 17.071978831725616
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 88,
+      "impressions": 27688,
+      "ctr": 0.003178272175671771,
+      "position": 16.612648078590002
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 90,
+      "impressions": 24604,
+      "ctr": 0.0036579417980816126,
+      "position": 12.197081775321086
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 112,
+      "impressions": 28716,
+      "ctr": 0.00390026466081627,
+      "position": 13.769466499512466
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 118,
+      "impressions": 38480,
+      "ctr": 0.0030665280665280667,
+      "position": 20.893944906444908
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 105,
+      "impressions": 90456,
+      "ctr": 0.0011607853542053596,
+      "position": 26.247402051826302
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 123,
+      "impressions": 62743,
+      "ctr": 0.0019603780501410515,
+      "position": 24.997545542929092
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 130,
+      "impressions": 59958,
+      "ctr": 0.002168184395743687,
+      "position": 20.505403782647853
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 96,
+      "impressions": 76258,
+      "ctr": 0.0012588843137769153,
+      "position": 21.876629337249863
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 110,
+      "impressions": 29118,
+      "ctr": 0.0037777319870870253,
+      "position": 15.75310804313483
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 111,
+      "impressions": 31653,
+      "ctr": 0.0035067766088522417,
+      "position": 14.734337977442896
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 102,
+      "impressions": 33874,
+      "ctr": 0.0030111590010037195,
+      "position": 16.5103028871701
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 116,
+      "impressions": 45823,
+      "ctr": 0.0025314798245422605,
+      "position": 14.936625711978701
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 149,
+      "impressions": 42261,
+      "ctr": 0.0035257092827902796,
+      "position": 16.983909514682566
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 119,
+      "impressions": 65019,
+      "ctr": 0.001830234239222381,
+      "position": 21.30248081330073
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 112,
+      "impressions": 34195,
+      "ctr": 0.0032753326509723643,
+      "position": 13.426465857581517
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 94,
+      "impressions": 44985,
+      "ctr": 0.0020895854173613427,
+      "position": 10.089452039568744
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 126,
+      "impressions": 57509,
+      "ctr": 0.0021909614147350848,
+      "position": 8.605400893773147
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 169,
+      "impressions": 59793,
+      "ctr": 0.002826417808104628,
+      "position": 8.654792366999482
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 122,
+      "impressions": 57663,
+      "ctr": 0.0021157414633300384,
+      "position": 8.54553179681945
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 118,
+      "impressions": 41428,
+      "ctr": 0.0028483151491744715,
+      "position": 12.38613980882495
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 90,
+      "impressions": 33735,
+      "ctr": 0.0026678523788350376,
+      "position": 15.883148065807026
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 114,
+      "impressions": 33282,
+      "ctr": 0.0034252749233820083,
+      "position": 15.550928429781864
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 91,
+      "impressions": 32424,
+      "ctr": 0.0028065630397236616,
+      "position": 16.438656550703183
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 104,
+      "impressions": 37363,
+      "ctr": 0.002783502395417927,
+      "position": 15.558814870326259
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 129,
+      "impressions": 37272,
+      "ctr": 0.003461043142305216,
+      "position": 17.557093796952135
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 113,
+      "impressions": 31534,
+      "ctr": 0.003583433754043255,
+      "position": 14.822572461470159
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 133,
+      "impressions": 32433,
+      "ctr": 0.004100761570005858,
+      "position": 12.036845188542534
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 142,
+      "impressions": 33665,
+      "ctr": 0.004218030595574038,
+      "position": 12.052250111391652
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 113,
+      "impressions": 31131,
+      "ctr": 0.0036298223635604383,
+      "position": 12.063923420384825
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 115,
+      "impressions": 33993,
+      "ctr": 0.0033830494513576326,
+      "position": 11.776365722354603
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 114,
+      "impressions": 32267,
+      "ctr": 0.0035330213530851955,
+      "position": 11.260234914928565
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 121,
+      "impressions": 34591,
+      "ctr": 0.003498019716111127,
+      "position": 12.976120956318118
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 124,
+      "impressions": 30808,
+      "ctr": 0.00402492858997663,
+      "position": 12.055083095299922
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 107,
+      "impressions": 31332,
+      "ctr": 0.0034150389378271415,
+      "position": 12.219902974594664
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 133,
+      "impressions": 29451,
+      "ctr": 0.004515975688431632,
+      "position": 12.237852704492207
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 111,
+      "impressions": 29029,
+      "ctr": 0.0038237624444520998,
+      "position": 12.139171173653931
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 110,
+      "impressions": 29915,
+      "ctr": 0.0036770850743774027,
+      "position": 12.195453785726224
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "precision today",
+      "clicks": 967,
+      "impressions": 4716,
+      "ctr": 0.20504664970313824,
+      "position": 1.1278625954198473
+    },
+    {
+      "query": "precision today plumbing",
+      "clicks": 93,
+      "impressions": 447,
+      "ctr": 0.2080536912751678,
+      "position": 1.5436241610738255
+    },
+    {
+      "query": "precision plumbing",
+      "clicks": 91,
+      "impressions": 1308,
+      "ctr": 0.06957186544342507,
+      "position": 10.418195718654435
+    },
+    {
+      "query": "toilet won't stop running",
+      "clicks": 86,
+      "impressions": 17029,
+      "ctr": 0.005050208467907687,
+      "position": 2.4252745316812496
+    },
+    {
+      "query": "dykstra heating and cooling",
+      "clicks": 72,
+      "impressions": 326,
+      "ctr": 0.22085889570552147,
+      "position": 2.604294478527607
+    },
+    {
+      "query": "precision today electric",
+      "clicks": 46,
+      "impressions": 141,
+      "ctr": 0.3262411347517731,
+      "position": 2.4113475177304964
+    },
+    {
+      "query": "precision today plumbing heating cooling electrical",
+      "clicks": 40,
+      "impressions": 801,
+      "ctr": 0.049937578027465665,
+      "position": 1.2908863920099876
+    },
+    {
+      "query": "precision today heating and cooling",
+      "clicks": 33,
+      "impressions": 139,
+      "ctr": 0.23741007194244604,
+      "position": 1.2661870503597124
+    },
+    {
+      "query": "precision today franklin park il",
+      "clicks": 30,
+      "impressions": 186,
+      "ctr": 0.16129032258064516,
+      "position": 3.327956989247312
+    },
+    {
+      "query": "precision heating and cooling",
+      "clicks": 26,
+      "impressions": 1127,
+      "ctr": 0.023070097604259095,
+      "position": 10.26885536823425
+    },
+    {
+      "query": "precision today chicago",
+      "clicks": 22,
+      "impressions": 46,
+      "ctr": 0.4782608695652174,
+      "position": 1.0217391304347827
+    },
+    {
+      "query": "precision today franklin park",
+      "clicks": 22,
+      "impressions": 194,
+      "ctr": 0.1134020618556701,
+      "position": 3.1288659793814433
+    },
+    {
+      "query": "rusty water",
+      "clicks": 21,
+      "impressions": 2558,
+      "ctr": 0.008209538702111024,
+      "position": 3.462470680218921
+    },
+    {
+      "query": "sump pump short cycling",
+      "clicks": 18,
+      "impressions": 273,
+      "ctr": 0.06593406593406594,
+      "position": 1.73992673992674
+    },
+    {
+      "query": "afci vs gfci",
+      "clicks": 16,
+      "impressions": 5276,
+      "ctr": 0.003032600454890068,
+      "position": 1.582827899924185
+    },
+    {
+      "query": "precision today heating & air",
+      "clicks": 16,
+      "impressions": 31,
+      "ctr": 0.5161290322580645,
+      "position": 1.129032258064516
+    },
+    {
+      "query": "precision today reviews",
+      "clicks": 16,
+      "impressions": 525,
+      "ctr": 0.030476190476190476,
+      "position": 5.053333333333334
+    },
+    {
+      "query": "why are my drains gurgling",
+      "clicks": 16,
+      "impressions": 427,
+      "ctr": 0.03747072599531616,
+      "position": 2.428571428571429
+    },
+    {
+      "query": "gurgling drains in house",
+      "clicks": 15,
+      "impressions": 390,
+      "ctr": 0.038461538461538464,
+      "position": 3.982051282051282
+    },
+    {
+      "query": "precision today grayslake",
+      "clicks": 15,
+      "impressions": 84,
+      "ctr": 0.17857142857142858,
+      "position": 6.5
+    },
+    {
+      "query": "what is afci outlet",
+      "clicks": 15,
+      "impressions": 776,
+      "ctr": 0.019329896907216496,
+      "position": 2.306701030927835
+    },
+    {
+      "query": "dykstra home services",
+      "clicks": 14,
+      "impressions": 96,
+      "ctr": 0.14583333333333334,
+      "position": 1.9791666666666665
+    },
+    {
+      "query": "outlet stopped working",
+      "clicks": 13,
+      "impressions": 2391,
+      "ctr": 0.005437055625261397,
+      "position": 6.112923462986198
+    },
+    {
+      "query": "drain gurgling",
+      "clicks": 12,
+      "impressions": 459,
+      "ctr": 0.026143790849673203,
+      "position": 3.065359477124183
+    },
+    {
+      "query": "precision today hvac",
+      "clicks": 12,
+      "impressions": 53,
+      "ctr": 0.22641509433962265,
+      "position": 1.0377358490566038
+    },
+    {
+      "query": "precision today plumbing & drains",
+      "clicks": 12,
+      "impressions": 27,
+      "ctr": 0.4444444444444444,
+      "position": 1.3333333333333333
+    },
+    {
+      "query": "why does my drain gurgle",
+      "clicks": 12,
+      "impressions": 346,
+      "ctr": 0.03468208092485549,
+      "position": 2.5289017341040463
+    },
+    {
+      "query": "drains gurgling",
+      "clicks": 11,
+      "impressions": 213,
+      "ctr": 0.051643192488262914,
+      "position": 1.9248826291079812
+    },
+    {
+      "query": "gurgling drain",
+      "clicks": 11,
+      "impressions": 537,
+      "ctr": 0.020484171322160148,
+      "position": 4.256983240223464
+    },
+    {
+      "query": "precision hvac",
+      "clicks": 11,
+      "impressions": 378,
+      "ctr": 0.0291005291005291,
+      "position": 13.322751322751323
+    },
+    {
+      "query": "precision today plumbing heating cooling electrical reviews",
+      "clicks": 11,
+      "impressions": 102,
+      "ctr": 0.10784313725490197,
+      "position": 2.5098039215686274
+    },
+    {
+      "query": "rust in water",
+      "clicks": 11,
+      "impressions": 792,
+      "ctr": 0.013888888888888888,
+      "position": 4.4141414141414135
+    },
+    {
+      "query": "services offered by precision today",
+      "clicks": 11,
+      "impressions": 29,
+      "ctr": 0.3793103448275862,
+      "position": 1.9310344827586206
+    },
+    {
+      "query": "home remedy for gurgling sink",
+      "clicks": 10,
+      "impressions": 370,
+      "ctr": 0.02702702702702703,
+      "position": 3.9864864864864864
+    },
+    {
+      "query": "toilet wont stop running",
+      "clicks": 10,
+      "impressions": 2733,
+      "ctr": 0.003658982802780827,
+      "position": 2.695938529088913
+    },
+    {
+      "query": "miller heating grayslake",
+      "clicks": 9,
+      "impressions": 45,
+      "ctr": 0.2,
+      "position": 2.533333333333333
+    },
+    {
+      "query": "shower drain clogged",
+      "clicks": 9,
+      "impressions": 5406,
+      "ctr": 0.001664816870144284,
+      "position": 10.514428412874583
+    },
+    {
+      "query": "sump pump turns on and off quickly",
+      "clicks": 9,
+      "impressions": 134,
+      "ctr": 0.06716417910447761,
+      "position": 1.1567164179104479
+    },
+    {
+      "query": "what causes gurgling in drain pipes",
+      "clicks": 9,
+      "impressions": 137,
+      "ctr": 0.06569343065693431,
+      "position": 3.240875912408759
+    },
+    {
+      "query": "afci outlet",
+      "clicks": 8,
+      "impressions": 2149,
+      "ctr": 0.0037226617031177293,
+      "position": 7.430898092135877
+    },
+    {
+      "query": "precision today oak brook il",
+      "clicks": 8,
+      "impressions": 56,
+      "ctr": 0.14285714285714285,
+      "position": 1
+    },
+    {
+      "query": "precision today plumbing heating cooling electrical franklin park",
+      "clicks": 8,
+      "impressions": 43,
+      "ctr": 0.18604651162790697,
+      "position": 1.069767441860465
+    },
+    {
+      "query": "sump pump keeps turning on and off",
+      "clicks": 8,
+      "impressions": 143,
+      "ctr": 0.055944055944055944,
+      "position": 1.2447552447552448
+    },
+    {
+      "query": "clogged shower drain",
+      "clicks": 7,
+      "impressions": 40952,
+      "ctr": 0.00017093182262160577,
+      "position": 20.391165266653644
+    },
+    {
+      "query": "gfci vs afci",
+      "clicks": 7,
+      "impressions": 2074,
+      "ctr": 0.0033751205400192863,
+      "position": 4.476374156219865
+    },
+    {
+      "query": "miller area heating",
+      "clicks": 7,
+      "impressions": 31,
+      "ctr": 0.22580645161290322,
+      "position": 1.064516129032258
+    },
+    {
+      "query": "my toilet won't stop running",
+      "clicks": 7,
+      "impressions": 2394,
+      "ctr": 0.0029239766081871343,
+      "position": 2.74937343358396
+    },
+    {
+      "query": "outlet not working",
+      "clicks": 7,
+      "impressions": 3221,
+      "ctr": 0.002173238124805961,
+      "position": 4.787643588947532
+    },
+    {
+      "query": "percision today",
+      "clicks": 7,
+      "impressions": 28,
+      "ctr": 0.25,
+      "position": 1.8214285714285714
+    },
+    {
+      "query": "precisiontoday.com",
+      "clicks": 7,
+      "impressions": 51,
+      "ctr": 0.13725490196078433,
+      "position": 1
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://precisiontoday.com/",
+      "clicks": 945,
+      "impressions": 38949,
+      "ctr": 0.024262497111607488,
+      "position": 22.27248453105343
+    },
+    {
+      "page": "https://precisiontoday.com/blog/what-to-do-when-your-drain-starts-to-gurgle/",
+      "clicks": 939,
+      "impressions": 101285,
+      "ctr": 0.009270869329120798,
+      "position": 4.487436441723848
+    },
+    {
+      "page": "https://precisiontoday.com/blog/what-does-a-buzzing-electrical-outlet-mean/",
+      "clicks": 813,
+      "impressions": 246700,
+      "ctr": 0.0032955006080259423,
+      "position": 2.9773165788406972
+    },
+    {
+      "page": "https://precisiontoday.com/carol-stream/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*160*precision-today-carol-stream",
+      "clicks": 812,
+      "impressions": 27091,
+      "ctr": 0.02997305378169872,
+      "position": 5.963456498468126
+    },
+    {
+      "page": "https://precisiontoday.com/blog/what-should-i-do-if-my-sump-pump-keeps-cycling/",
+      "clicks": 554,
+      "impressions": 47545,
+      "ctr": 0.011652119045115154,
+      "position": 4.067998738037648
+    },
+    {
+      "page": "https://precisiontoday.com/blog/what-to-do-if-your-shower-drain-keeps-clogging/",
+      "clicks": 495,
+      "impressions": 211378,
+      "ctr": 0.0023417763438011523,
+      "position": 11.76041972201459
+    },
+    {
+      "page": "https://precisiontoday.com/blog/what-causes-rusty-water-and-how-to-fix-it/",
+      "clicks": 465,
+      "impressions": 70217,
+      "ctr": 0.0066223279262856575,
+      "position": 4.741800418702024
+    },
+    {
+      "page": "https://precisiontoday.com/blog/why-did-my-electrical-outlet-suddenly-stop-working/",
+      "clicks": 420,
+      "impressions": 135540,
+      "ctr": 0.003098716246126605,
+      "position": 6.33933894053416
+    },
+    {
+      "page": "https://precisiontoday.com/blog/what-to-do-if-your-toilet-wont-stop-running/",
+      "clicks": 302,
+      "impressions": 102475,
+      "ctr": 0.0029470602585996587,
+      "position": 5.3805513539887775
+    },
+    {
+      "page": "https://precisiontoday.com/blog/signs-its-time-to-replace-your-furnace-blower-motor/",
+      "clicks": 260,
+      "impressions": 48051,
+      "ctr": 0.005410917566751993,
+      "position": 6.02776216936172
+    },
+    {
+      "page": "https://precisiontoday.com/blog/what-causes-furnace-short-cycling/",
+      "clicks": 217,
+      "impressions": 40698,
+      "ctr": 0.005331957344341246,
+      "position": 7.483094992382918
+    },
+    {
+      "page": "https://precisiontoday.com/blog/how-humidity-levels-affect-your-furnace-performance/",
+      "clicks": 180,
+      "impressions": 17804,
+      "ctr": 0.01011008762075938,
+      "position": 5.281172770164008
+    },
+    {
+      "page": "https://precisiontoday.com/blog/why-is-my-electrical-outlet-sparking/",
+      "clicks": 163,
+      "impressions": 66487,
+      "ctr": 0.0024516070810835203,
+      "position": 4.082918465263886
+    },
+    {
+      "page": "https://precisiontoday.com/blog/why-is-water-coming-out-of-my-drain/",
+      "clicks": 147,
+      "impressions": 40096,
+      "ctr": 0.003666201117318436,
+      "position": 5.536262968874701
+    },
+    {
+      "page": "https://precisiontoday.com/blog/whats-the-difference-between-gfci-and-afci-outlets/",
+      "clicks": 146,
+      "impressions": 38579,
+      "ctr": 0.0037844423131755617,
+      "position": 4.540838279893206
+    },
+    {
+      "page": "https://precisiontoday.com/blog/why-is-my-water-bill-so-high-common-plumbing-problems-that-could-be-the-cause/",
+      "clicks": 128,
+      "impressions": 25386,
+      "ctr": 0.0050421492161033645,
+      "position": 6.827621523674466
+    },
+    {
+      "page": "https://precisiontoday.com/palos-heights/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*161*precision-today-palos-heights",
+      "clicks": 113,
+      "impressions": 19716,
+      "ctr": 0.005731385676607831,
+      "position": 4.588658957192129
+    },
+    {
+      "page": "https://precisiontoday.com/blog/why-does-my-kitchen-sink-keep-clogging/",
+      "clicks": 109,
+      "impressions": 40424,
+      "ctr": 0.0026964179695230556,
+      "position": 15.74079754601227
+    },
+    {
+      "page": "https://precisiontoday.com/franklin-park/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*351*precision-today-franklin-park",
+      "clicks": 106,
+      "impressions": 9237,
+      "ctr": 0.011475587311897802,
+      "position": 5.458482191187615
+    },
+    {
+      "page": "https://precisiontoday.com/grayslake/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*162*precision-today-grayslake",
+      "clicks": 91,
+      "impressions": 17587,
+      "ctr": 0.005174276454199125,
+      "position": 7.132541081480639
+    },
+    {
+      "page": "https://precisiontoday.com/about/formerly-dykstra-home-services/",
+      "clicks": 88,
+      "impressions": 4561,
+      "ctr": 0.019294014470510854,
+      "position": 6.9953957465468095
+    },
+    {
+      "page": "https://precisiontoday.com/careers/",
+      "clicks": 81,
+      "impressions": 1514,
+      "ctr": 0.053500660501981503,
+      "position": 14.540951122853368
+    },
+    {
+      "page": "https://precisiontoday.com/contact/",
+      "clicks": 73,
+      "impressions": 12253,
+      "ctr": 0.0059577246388639515,
+      "position": 11.001305802660573
+    },
+    {
+      "page": "https://precisiontoday.com/blog/how-to-know-when-its-time-for-a-new-toilet/",
+      "clicks": 66,
+      "impressions": 16885,
+      "ctr": 0.003908794788273616,
+      "position": 6.452235712170566
+    },
+    {
+      "page": "https://precisiontoday.com/oak-brook/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*340*precision-today-oak-brook",
+      "clicks": 65,
+      "impressions": 12799,
+      "ctr": 0.0050785217595124615,
+      "position": 5.60801625126963
+    },
+    {
+      "page": "https://precisiontoday.com/blog/gas-vs-electric-furnaces-whats-better-for-homes-in-chicagoland/",
+      "clicks": 64,
+      "impressions": 13361,
+      "ctr": 0.004790060624204775,
+      "position": 10.288526307911084
+    },
+    {
+      "page": "https://precisiontoday.com/grayslake/",
+      "clicks": 53,
+      "impressions": 26421,
+      "ctr": 0.002005980091593808,
+      "position": 19.756708678702548
+    },
+    {
+      "page": "https://precisiontoday.com/about/",
+      "clicks": 51,
+      "impressions": 9486,
+      "ctr": 0.005376344086021506,
+      "position": 5.097828378663293
+    },
+    {
+      "page": "https://precisiontoday.com/blog/how-to-handle-sump-pump-odors/",
+      "clicks": 48,
+      "impressions": 11191,
+      "ctr": 0.004289160932892503,
+      "position": 5.740237691001698
+    },
+    {
+      "page": "https://precisiontoday.com/blog/why-your-furnace-pilot-light-keeps-going-out/",
+      "clicks": 48,
+      "impressions": 22649,
+      "ctr": 0.002119298865292066,
+      "position": 7.326062960837123
+    },
+    {
+      "page": "https://precisiontoday.com/franklin-park/",
+      "clicks": 47,
+      "impressions": 11415,
+      "ctr": 0.004117389399912396,
+      "position": 11.064564169951817
+    },
+    {
+      "page": "https://precisiontoday.com/blog/why-is-there-sewage-coming-up-through-the-bathtub/",
+      "clicks": 42,
+      "impressions": 16772,
+      "ctr": 0.0025041736227045075,
+      "position": 6.716491772000954
+    },
+    {
+      "page": "https://precisiontoday.com/blog/what-your-furnace-noises-are-telling-you/",
+      "clicks": 41,
+      "impressions": 9448,
+      "ctr": 0.004339542760372565,
+      "position": 10.520956816257408
+    },
+    {
+      "page": "https://precisiontoday.com/about/formerly-millers-area-heating-and-cooling/",
+      "clicks": 38,
+      "impressions": 11677,
+      "ctr": 0.0032542605121178383,
+      "position": 33.22505780594331
+    },
+    {
+      "page": "https://precisiontoday.com/about/reviews/",
+      "clicks": 35,
+      "impressions": 3530,
+      "ctr": 0.009915014164305949,
+      "position": 6.98356940509915
+    },
+    {
+      "page": "https://precisiontoday.com/blog/why-do-my-drains-smell-so-bad/",
+      "clicks": 35,
+      "impressions": 14746,
+      "ctr": 0.0023735250237352503,
+      "position": 11.994371354943713
+    },
+    {
+      "page": "https://precisiontoday.com/blog/how-do-you-give-a-dog-a-bath-without-clogging-the-drain/",
+      "clicks": 32,
+      "impressions": 6252,
+      "ctr": 0.005118362124120281,
+      "position": 5.080134357005758
+    },
+    {
+      "page": "https://precisiontoday.com/blog/how-to-identify-and-prevent-hard-water-stains/",
+      "clicks": 32,
+      "impressions": 28128,
+      "ctr": 0.0011376564277588168,
+      "position": 9.208973265073947
+    },
+    {
+      "page": "https://precisiontoday.com/offers/",
+      "clicks": 32,
+      "impressions": 1804,
+      "ctr": 0.017738359201773836,
+      "position": 6.278824833702883
+    },
+    {
+      "page": "https://precisiontoday.com/service-area/",
+      "clicks": 32,
+      "impressions": 6881,
+      "ctr": 0.004650486847841883,
+      "position": 7.117860776049993
+    },
+    {
+      "page": "https://precisiontoday.com/blog/what-to-do-when-your-toilet-wont-flush/",
+      "clicks": 30,
+      "impressions": 17870,
+      "ctr": 0.0016787912702853946,
+      "position": 12.82288752098489
+    },
+    {
+      "page": "https://precisiontoday.com/electrical/",
+      "clicks": 29,
+      "impressions": 8258,
+      "ctr": 0.0035117461855170744,
+      "position": 21.700653911358682
+    },
+    {
+      "page": "https://precisiontoday.com/blog/common-issues-with-furnace-during-winter/",
+      "clicks": 24,
+      "impressions": 4814,
+      "ctr": 0.004985459077690071,
+      "position": 7.743456584960532
+    },
+    {
+      "page": "https://precisiontoday.com/maintenance-plan/",
+      "clicks": 24,
+      "impressions": 1973,
+      "ctr": 0.012164216928535226,
+      "position": 10.89863152559554
+    },
+    {
+      "page": "https://precisiontoday.com/blog/the-pros-and-cons-of-installing-a-tankless-water-heater/",
+      "clicks": 21,
+      "impressions": 9653,
+      "ctr": 0.002175489485134155,
+      "position": 26.514865844815084
+    },
+    {
+      "page": "https://precisiontoday.com/plumbing/water-filtration/watertech/",
+      "clicks": 19,
+      "impressions": 5041,
+      "ctr": 0.0037690934338424917,
+      "position": 12.239634993056933
+    },
+    {
+      "page": "https://precisiontoday.com/blog/how-to-safely-unclog-a-toilet-without-a-plumber/",
+      "clicks": 17,
+      "impressions": 15230,
+      "ctr": 0.0011162179908076166,
+      "position": 9.742284963887066
+    },
+    {
+      "page": "https://precisiontoday.com/plumbing/",
+      "clicks": 17,
+      "impressions": 19141,
+      "ctr": 0.0008881458648973408,
+      "position": 25.211065252599134
+    },
+    {
+      "page": "https://precisiontoday.com/blog/how-does-a-whole-house-surge-protector-work/",
+      "clicks": 16,
+      "impressions": 18540,
+      "ctr": 0.0008629989212513484,
+      "position": 27.197950377562027
+    },
+    {
+      "page": "https://precisiontoday.com/electrical/smoke-detectors/",
+      "clicks": 16,
+      "impressions": 4555,
+      "ctr": 0.003512623490669594,
+      "position": 32.356970362239295
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:07:03.979Z"
+}

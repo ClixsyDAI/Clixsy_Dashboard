@@ -1,0 +1,1350 @@
+{
+  "property": "sc-domain:expresselectricalservices.com",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 22107,
+    "impressions": 4317363,
+    "ctr": 0.005120486741559605,
+    "position": 11.202474729767147
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 409,
+      "impressions": 66957,
+      "ctr": 0.006108397927027794,
+      "position": 10.458503218483504
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 356,
+      "impressions": 62006,
+      "ctr": 0.005741379866464536,
+      "position": 10.79168145018224
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 360,
+      "impressions": 60172,
+      "ctr": 0.005982849165724922,
+      "position": 9.541348135345343
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 319,
+      "impressions": 59707,
+      "ctr": 0.005342757130654697,
+      "position": 10.358081966938549
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 324,
+      "impressions": 59095,
+      "ctr": 0.0054826973517218035,
+      "position": 10.483864963194856
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 315,
+      "impressions": 58950,
+      "ctr": 0.0053435114503816794,
+      "position": 11.487735368956743
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 340,
+      "impressions": 55766,
+      "ctr": 0.00609690492414733,
+      "position": 10.501990460137002
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 302,
+      "impressions": 59595,
+      "ctr": 0.005067539223089185,
+      "position": 11.015118718013255
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 271,
+      "impressions": 56964,
+      "ctr": 0.0047573906326802895,
+      "position": 11.857137841443718
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 324,
+      "impressions": 53645,
+      "ctr": 0.00603970547115295,
+      "position": 12.27478795787119
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 327,
+      "impressions": 50234,
+      "ctr": 0.006509535374447585,
+      "position": 12.724250507624317
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 344,
+      "impressions": 55714,
+      "ctr": 0.006174390637900707,
+      "position": 10.474656280288617
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 308,
+      "impressions": 55012,
+      "ctr": 0.005598778448338545,
+      "position": 10.510634043481422
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 418,
+      "impressions": 60153,
+      "ctr": 0.006948946852193573,
+      "position": 10.096271175169983
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 390,
+      "impressions": 61522,
+      "ctr": 0.006339195734859075,
+      "position": 10.485614901986281
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 407,
+      "impressions": 60311,
+      "ctr": 0.006748354363217323,
+      "position": 10.856692808940325
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 330,
+      "impressions": 54785,
+      "ctr": 0.006023546591220224,
+      "position": 11.393793921693895
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 381,
+      "impressions": 56853,
+      "ctr": 0.006701493324890507,
+      "position": 11.04750848679929
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 347,
+      "impressions": 57391,
+      "ctr": 0.006046244184628252,
+      "position": 9.069784460978202
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 371,
+      "impressions": 56598,
+      "ctr": 0.006555001943531574,
+      "position": 9.106805894201209
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 375,
+      "impressions": 65890,
+      "ctr": 0.00569130368796479,
+      "position": 9.637168007284869
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 334,
+      "impressions": 76095,
+      "ctr": 0.004389250279256193,
+      "position": 9.896300676785597
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 301,
+      "impressions": 61089,
+      "ctr": 0.004927237309499255,
+      "position": 8.847959534449737
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 217,
+      "impressions": 52986,
+      "ctr": 0.004095421432076397,
+      "position": 9.960366889367002
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 233,
+      "impressions": 51959,
+      "ctr": 0.004484304932735426,
+      "position": 12.889836217017264
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 252,
+      "impressions": 53893,
+      "ctr": 0.004675931939212885,
+      "position": 10.989460597851298
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 289,
+      "impressions": 56253,
+      "ctr": 0.005137503777576307,
+      "position": 11.601781238333956
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 275,
+      "impressions": 49922,
+      "ctr": 0.005508593405712912,
+      "position": 11.221505548655903
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 201,
+      "impressions": 49602,
+      "ctr": 0.0040522559574210715,
+      "position": 10.205253820410467
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 228,
+      "impressions": 47555,
+      "ctr": 0.004794448533277258,
+      "position": 11.219451161812637
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 228,
+      "impressions": 47687,
+      "ctr": 0.004781177260049909,
+      "position": 11.711116237129616
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 232,
+      "impressions": 46000,
+      "ctr": 0.005043478260869565,
+      "position": 10.906630434782608
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 221,
+      "impressions": 45575,
+      "ctr": 0.004849149753154141,
+      "position": 11.622753702687877
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 214,
+      "impressions": 45418,
+      "ctr": 0.004711788277775331,
+      "position": 11.786230129023735
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 244,
+      "impressions": 47644,
+      "ctr": 0.00512131643019058,
+      "position": 11.68606750062967
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 247,
+      "impressions": 54820,
+      "ctr": 0.004505654870485224,
+      "position": 12.241991973732215
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 266,
+      "impressions": 51575,
+      "ctr": 0.005157537566650509,
+      "position": 12.066388754241396
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 239,
+      "impressions": 57646,
+      "ctr": 0.004145994518266662,
+      "position": 13.507042986503834
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 231,
+      "impressions": 56753,
+      "ctr": 0.0040702694130706745,
+      "position": 13.448205381213327
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 242,
+      "impressions": 54661,
+      "ctr": 0.004427288194507968,
+      "position": 11.569729789063501
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 298,
+      "impressions": 56145,
+      "ctr": 0.005307685457298068,
+      "position": 12.132674325407427
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 269,
+      "impressions": 52287,
+      "ctr": 0.00514468223458986,
+      "position": 12.39088109855222
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 289,
+      "impressions": 56974,
+      "ctr": 0.005072489205602555,
+      "position": 12.381823287815495
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 283,
+      "impressions": 55666,
+      "ctr": 0.005083893220278087,
+      "position": 12.748823339201667
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 218,
+      "impressions": 55211,
+      "ctr": 0.003948488525837243,
+      "position": 12.958903117132456
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 230,
+      "impressions": 48729,
+      "ctr": 0.004719981940938661,
+      "position": 12.530977446694987
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 224,
+      "impressions": 45804,
+      "ctr": 0.004890402584927081,
+      "position": 12.68902279276919
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 240,
+      "impressions": 50968,
+      "ctr": 0.0047088369172814315,
+      "position": 13.228358970334327
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 300,
+      "impressions": 58489,
+      "ctr": 0.005129169587443793,
+      "position": 11.564601890953854
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 244,
+      "impressions": 54580,
+      "ctr": 0.004470502015390253,
+      "position": 10.661835837303041
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 205,
+      "impressions": 48935,
+      "ctr": 0.004189230612036375,
+      "position": 9.964483498518442
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 225,
+      "impressions": 50247,
+      "ctr": 0.004477879276374709,
+      "position": 10.796843592652298
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 235,
+      "impressions": 48113,
+      "ctr": 0.004884334795169705,
+      "position": 12.212873859455865
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 223,
+      "impressions": 50105,
+      "ctr": 0.004450653627382496,
+      "position": 9.84742041712404
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 204,
+      "impressions": 40871,
+      "ctr": 0.004991314134716547,
+      "position": 10.336228621761151
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 233,
+      "impressions": 39529,
+      "ctr": 0.0058944066381643855,
+      "position": 10.711705330263857
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 230,
+      "impressions": 42644,
+      "ctr": 0.005393490291717475,
+      "position": 12.399587280742894
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 202,
+      "impressions": 41690,
+      "ctr": 0.00484528663948189,
+      "position": 11.795346605900695
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 226,
+      "impressions": 43647,
+      "ctr": 0.005177904552432011,
+      "position": 13.958416386005911
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 205,
+      "impressions": 43299,
+      "ctr": 0.004734520427723504,
+      "position": 12.71710663063812
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 182,
+      "impressions": 37571,
+      "ctr": 0.004844161720475899,
+      "position": 12.061696521253094
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 178,
+      "impressions": 34893,
+      "ctr": 0.0051013097182816035,
+      "position": 12.209898833576935
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 173,
+      "impressions": 36335,
+      "ctr": 0.004761249483968625,
+      "position": 12.5019402779689
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 229,
+      "impressions": 40718,
+      "ctr": 0.005624048332432831,
+      "position": 11.427894297362347
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 268,
+      "impressions": 42670,
+      "ctr": 0.006280759315678463,
+      "position": 12.679915631591282
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 247,
+      "impressions": 44616,
+      "ctr": 0.005536130536130536,
+      "position": 11.433745741438049
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 231,
+      "impressions": 43204,
+      "ctr": 0.005346727154893065,
+      "position": 11.595222664568096
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 189,
+      "impressions": 37578,
+      "ctr": 0.005029538559795625,
+      "position": 10.607376656554367
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 190,
+      "impressions": 38005,
+      "ctr": 0.004999342191816867,
+      "position": 10.915668990922248
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 211,
+      "impressions": 37344,
+      "ctr": 0.005650171379605827,
+      "position": 11.971936589545844
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 189,
+      "impressions": 40089,
+      "ctr": 0.004714510214772132,
+      "position": 10.914440370176358
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 242,
+      "impressions": 37855,
+      "ctr": 0.006392814687623828,
+      "position": 11.940113591335358
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 192,
+      "impressions": 41097,
+      "ctr": 0.004671873859405796,
+      "position": 11.035306713385406
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 170,
+      "impressions": 36848,
+      "ctr": 0.004613547546678246,
+      "position": 11.242808293530178
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 145,
+      "impressions": 35281,
+      "ctr": 0.004109860831609081,
+      "position": 11.01882032822199
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 128,
+      "impressions": 32744,
+      "ctr": 0.003909113119960909,
+      "position": 11.290098949425849
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 126,
+      "impressions": 38738,
+      "ctr": 0.0032526201662450307,
+      "position": 12.334477773762197
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 210,
+      "impressions": 41272,
+      "ctr": 0.00508819538670285,
+      "position": 10.81873909672417
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 173,
+      "impressions": 37006,
+      "ctr": 0.004674917580932822,
+      "position": 10.636788628870994
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 201,
+      "impressions": 36178,
+      "ctr": 0.005555862678976173,
+      "position": 10.631682237824092
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 162,
+      "impressions": 35076,
+      "ctr": 0.004618542593226137,
+      "position": 11.602833846504733
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 114,
+      "impressions": 30582,
+      "ctr": 0.0037276829507553464,
+      "position": 10.186024458831993
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 141,
+      "impressions": 29113,
+      "ctr": 0.00484319719712843,
+      "position": 10.128980180675299
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 152,
+      "impressions": 31108,
+      "ctr": 0.004886202906004886,
+      "position": 10.263340619776264
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 131,
+      "impressions": 33501,
+      "ctr": 0.003910331034894481,
+      "position": 10.545028506611743
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 126,
+      "impressions": 30057,
+      "ctr": 0.004192035133246831,
+      "position": 10.355291612602722
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 141,
+      "impressions": 34313,
+      "ctr": 0.004109229738000175,
+      "position": 9.51752979920147
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 136,
+      "impressions": 36849,
+      "ctr": 0.0036907378761974544,
+      "position": 8.880593774593612
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 145,
+      "impressions": 35296,
+      "ctr": 0.004108114233907525,
+      "position": 9.080434043517679
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 190,
+      "impressions": 33040,
+      "ctr": 0.0057506053268765135,
+      "position": 8.814679176755448
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "how to stop smoke alarm beeping",
+      "clicks": 244,
+      "impressions": 2457,
+      "ctr": 0.0993080993080993,
+      "position": 2.645909645909646
+    },
+    {
+      "query": "how to stop fire alarm from beeping",
+      "clicks": 233,
+      "impressions": 7608,
+      "ctr": 0.03062565720294427,
+      "position": 4.34897476340694
+    },
+    {
+      "query": "how to stop smoke detector from chirping without battery",
+      "clicks": 223,
+      "impressions": 4060,
+      "ctr": 0.05492610837438423,
+      "position": 3.733004926108374
+    },
+    {
+      "query": "how to stop smoke alarm from beeping",
+      "clicks": 213,
+      "impressions": 5791,
+      "ctr": 0.03678121222586773,
+      "position": 4.146261440165775
+    },
+    {
+      "query": "express electrical services",
+      "clicks": 159,
+      "impressions": 1069,
+      "ctr": 0.14873713751169318,
+      "position": 7.6613657623947615
+    },
+    {
+      "query": "how to stop smoke detector from beeping",
+      "clicks": 122,
+      "impressions": 3664,
+      "ctr": 0.03329694323144105,
+      "position": 4.247816593886463
+    },
+    {
+      "query": "how to make smoke alarm stop beeping",
+      "clicks": 105,
+      "impressions": 2267,
+      "ctr": 0.04631671812968681,
+      "position": 3.7278341420379357
+    },
+    {
+      "query": "how to stop fire alarm from chirping",
+      "clicks": 102,
+      "impressions": 1978,
+      "ctr": 0.05156723963599596,
+      "position": 3.7249747219413547
+    },
+    {
+      "query": "how to stop a smoke alarm from beeping",
+      "clicks": 91,
+      "impressions": 1511,
+      "ctr": 0.060225016545334215,
+      "position": 3.3666446062210458
+    },
+    {
+      "query": "how to silence smoke alarm low battery at night",
+      "clicks": 88,
+      "impressions": 1571,
+      "ctr": 0.056015276893698285,
+      "position": 3.591343093570974
+    },
+    {
+      "query": "how to get smoke alarm to stop beeping",
+      "clicks": 86,
+      "impressions": 1667,
+      "ctr": 0.05158968206358728,
+      "position": 3.629874025194961
+    },
+    {
+      "query": "how to stop a smoke detector from beeping",
+      "clicks": 84,
+      "impressions": 3076,
+      "ctr": 0.027308192457737322,
+      "position": 3.7860858257477243
+    },
+    {
+      "query": "how to turn off smoke alarm",
+      "clicks": 77,
+      "impressions": 5538,
+      "ctr": 0.013903936439147706,
+      "position": 6.592091007583965
+    },
+    {
+      "query": "how to stop smoke alarm from chirping",
+      "clicks": 74,
+      "impressions": 1748,
+      "ctr": 0.04233409610983982,
+      "position": 4.302059496567505
+    },
+    {
+      "query": "how to stop a fire alarm from beeping",
+      "clicks": 72,
+      "impressions": 3082,
+      "ctr": 0.02336145360155743,
+      "position": 4.5879299156391955
+    },
+    {
+      "query": "how to get smoke detector to stop beeping",
+      "clicks": 71,
+      "impressions": 2067,
+      "ctr": 0.0343492985002419,
+      "position": 3.617319787131108
+    },
+    {
+      "query": "how to make smoke detector stop beeping",
+      "clicks": 67,
+      "impressions": 1532,
+      "ctr": 0.043733681462140996,
+      "position": 3.6305483028720626
+    },
+    {
+      "query": "how to silence smoke alarm",
+      "clicks": 64,
+      "impressions": 1631,
+      "ctr": 0.03923973022685469,
+      "position": 4.4261189454322505
+    },
+    {
+      "query": "how to change a lightbulb",
+      "clicks": 62,
+      "impressions": 2716,
+      "ctr": 0.022827687776141383,
+      "position": 6.358247422680412
+    },
+    {
+      "query": "how to stop fire alarm beeping",
+      "clicks": 59,
+      "impressions": 1593,
+      "ctr": 0.037037037037037035,
+      "position": 4.14375392341494
+    },
+    {
+      "query": "how to silence smoke alarm low battery",
+      "clicks": 58,
+      "impressions": 901,
+      "ctr": 0.06437291897891231,
+      "position": 4.204217536071033
+    },
+    {
+      "query": "watts vs volts",
+      "clicks": 57,
+      "impressions": 7497,
+      "ctr": 0.007603041216486595,
+      "position": 2.771908763505402
+    },
+    {
+      "query": "how to turn off smoke alarm beeping",
+      "clicks": 56,
+      "impressions": 1810,
+      "ctr": 0.030939226519337018,
+      "position": 4.577348066298343
+    },
+    {
+      "query": "how to get fire alarm to stop beeping",
+      "clicks": 54,
+      "impressions": 2276,
+      "ctr": 0.023725834797891036,
+      "position": 4.372583479789103
+    },
+    {
+      "query": "stop smoke alarm beeping",
+      "clicks": 52,
+      "impressions": 684,
+      "ctr": 0.07602339181286549,
+      "position": 3.4283625730994154
+    },
+    {
+      "query": "how to stop smoke detector from chirping",
+      "clicks": 51,
+      "impressions": 1121,
+      "ctr": 0.045495093666369314,
+      "position": 3.8902765388046388
+    },
+    {
+      "query": "stop smoke alarm chirping",
+      "clicks": 47,
+      "impressions": 528,
+      "ctr": 0.08901515151515152,
+      "position": 3.0265151515151514
+    },
+    {
+      "query": "how to stop a smoke alarm beeping",
+      "clicks": 44,
+      "impressions": 423,
+      "ctr": 0.10401891252955082,
+      "position": 2.6335697399527187
+    },
+    {
+      "query": "how to turn off beeping smoke alarm",
+      "clicks": 44,
+      "impressions": 903,
+      "ctr": 0.048726467331118496,
+      "position": 3.5780730897009967
+    },
+    {
+      "query": "how to make fire alarm stop beeping",
+      "clicks": 43,
+      "impressions": 1861,
+      "ctr": 0.0231058570660935,
+      "position": 4.264373992477163
+    },
+    {
+      "query": "how to stop smoke alarm chirping",
+      "clicks": 43,
+      "impressions": 435,
+      "ctr": 0.09885057471264368,
+      "position": 3.1264367816091956
+    },
+    {
+      "query": "how to stop smoke detector beeping",
+      "clicks": 40,
+      "impressions": 996,
+      "ctr": 0.040160642570281124,
+      "position": 3.752008032128514
+    },
+    {
+      "query": "why is my fire alarm beeping",
+      "clicks": 40,
+      "impressions": 2450,
+      "ctr": 0.0163265306122449,
+      "position": 7.356734693877551
+    },
+    {
+      "query": "how to get a smoke detector to stop beeping",
+      "clicks": 38,
+      "impressions": 692,
+      "ctr": 0.05491329479768786,
+      "position": 2.4450867052023124
+    },
+    {
+      "query": "how to stop a smoke detector from chirping",
+      "clicks": 37,
+      "impressions": 766,
+      "ctr": 0.048302872062663184,
+      "position": 3.2493472584856398
+    },
+    {
+      "query": "how to stop beeping smoke detector",
+      "clicks": 36,
+      "impressions": 1072,
+      "ctr": 0.033582089552238806,
+      "position": 3.9580223880597014
+    },
+    {
+      "query": "how to turn off smoke alarm permanently",
+      "clicks": 36,
+      "impressions": 2412,
+      "ctr": 0.014925373134328358,
+      "position": 8.216417910447761
+    },
+    {
+      "query": "how to make smoke alarm stop chirping",
+      "clicks": 35,
+      "impressions": 437,
+      "ctr": 0.08009153318077804,
+      "position": 2.794050343249428
+    },
+    {
+      "query": "electrician los angeles",
+      "clicks": 34,
+      "impressions": 3096,
+      "ctr": 0.010981912144702842,
+      "position": 9.979328165374676
+    },
+    {
+      "query": "how to get a fire alarm to stop beeping",
+      "clicks": 34,
+      "impressions": 894,
+      "ctr": 0.03803131991051454,
+      "position": 3.422818791946309
+    },
+    {
+      "query": "how to stop chirping smoke detector",
+      "clicks": 33,
+      "impressions": 728,
+      "ctr": 0.04532967032967033,
+      "position": 3.465659340659341
+    },
+    {
+      "query": "how to get a smoke alarm to stop beeping",
+      "clicks": 32,
+      "impressions": 737,
+      "ctr": 0.04341926729986431,
+      "position": 3.7706919945725916
+    },
+    {
+      "query": "how to get a smoke detector to stop chirping",
+      "clicks": 32,
+      "impressions": 463,
+      "ctr": 0.06911447084233262,
+      "position": 2.1749460043196542
+    },
+    {
+      "query": "how to stop fire alarm chirping",
+      "clicks": 32,
+      "impressions": 541,
+      "ctr": 0.059149722735674676,
+      "position": 3.918669131238447
+    },
+    {
+      "query": "stop fire alarm beeping",
+      "clicks": 32,
+      "impressions": 649,
+      "ctr": 0.04930662557781202,
+      "position": 3.8705701078582435
+    },
+    {
+      "query": "how to silence smoke alarm chirp",
+      "clicks": 31,
+      "impressions": 376,
+      "ctr": 0.08244680851063829,
+      "position": 3.672872340425532
+    },
+    {
+      "query": "how to turn off smoke detector beep",
+      "clicks": 31,
+      "impressions": 920,
+      "ctr": 0.03369565217391304,
+      "position": 4.25
+    },
+    {
+      "query": "how to stop smoke detector chirping",
+      "clicks": 30,
+      "impressions": 428,
+      "ctr": 0.07009345794392523,
+      "position": 2.9672897196261685
+    },
+    {
+      "query": "how to turn off fire alarm",
+      "clicks": 30,
+      "impressions": 5088,
+      "ctr": 0.00589622641509434,
+      "position": 7.726022012578617
+    },
+    {
+      "query": "volts vs watts",
+      "clicks": 28,
+      "impressions": 5436,
+      "ctr": 0.0051508462104488595,
+      "position": 3.695548197203826
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://expresselectricalservices.com/what-do-i-do-when-the-smoke-alarm-is-beeping-in-the-middle-of-the-night/",
+      "clicks": 6814,
+      "impressions": 428896,
+      "ctr": 0.01588730135044393,
+      "position": 6.45564892188316
+    },
+    {
+      "page": "https://expresselectricalservices.com/blog/what-do-i-do-when-the-smoke-alarm-is-beeping-in-the-middle-of-the-night/",
+      "clicks": 4721,
+      "impressions": 317673,
+      "ctr": 0.014861193743251708,
+      "position": 7.3071806543206375
+    },
+    {
+      "page": "https://expresselectricalservices.com/blog/what-to-do-next-if-your-circuit-breaker-sparks/",
+      "clicks": 483,
+      "impressions": 42211,
+      "ctr": 0.011442514984245812,
+      "position": 7.8965198644902985
+    },
+    {
+      "page": "https://expresselectricalservices.com/faq/why-wont-my-gfci-outlet-reset/",
+      "clicks": 477,
+      "impressions": 151793,
+      "ctr": 0.0031424373982989993,
+      "position": 4.032867128260197
+    },
+    {
+      "page": "https://expresselectricalservices.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*85*express-electrical-services-los-angeles",
+      "clicks": 401,
+      "impressions": 105697,
+      "ctr": 0.003793863591208833,
+      "position": 2.641380550062916
+    },
+    {
+      "page": "https://expresselectricalservices.com/blog/how-many-watts-can-a-200-amp-panel-handle/",
+      "clicks": 336,
+      "impressions": 75893,
+      "ctr": 0.004427285783932642,
+      "position": 4.810746709182665
+    },
+    {
+      "page": "https://expresselectricalservices.com/watts-vs-volts-whats-the-difference/",
+      "clicks": 302,
+      "impressions": 241378,
+      "ctr": 0.0012511496490980952,
+      "position": 7.266254588239193
+    },
+    {
+      "page": "https://expresselectricalservices.com/what-to-do-next-if-your-circuit-breaker-sparks/",
+      "clicks": 278,
+      "impressions": 18554,
+      "ctr": 0.014983292012504042,
+      "position": 7.602834968200927
+    },
+    {
+      "page": "https://expresselectricalservices.com/blog/do-usb-sockets-draw-power-when-theyre-not-being-used/",
+      "clicks": 253,
+      "impressions": 26646,
+      "ctr": 0.009494858515349395,
+      "position": 6.19244914808977
+    },
+    {
+      "page": "https://expresselectricalservices.com/blog/watts-vs-volts-whats-the-difference/",
+      "clicks": 246,
+      "impressions": 107540,
+      "ctr": 0.002287520922447461,
+      "position": 6.230760647201041
+    },
+    {
+      "page": "https://expresselectricalservices.com/faq/should-i-change-electrical-outlets-switches-on-my-own/",
+      "clicks": 237,
+      "impressions": 45446,
+      "ctr": 0.005214980416318268,
+      "position": 3.4135677507371387
+    },
+    {
+      "page": "https://expresselectricalservices.com/do-usb-sockets-draw-power-when-theyre-not-being-used/",
+      "clicks": 214,
+      "impressions": 26467,
+      "ctr": 0.008085540484376772,
+      "position": 5.865341746325613
+    },
+    {
+      "page": "https://expresselectricalservices.com/reasons-a-gfci-outlet-wont-reset-after-rain/",
+      "clicks": 204,
+      "impressions": 16423,
+      "ctr": 0.012421603848261584,
+      "position": 8.43536503683858
+    },
+    {
+      "page": "https://expresselectricalservices.com/blog/dimmer-switch-buzzing/",
+      "clicks": 192,
+      "impressions": 18415,
+      "ctr": 0.01042628292153136,
+      "position": 7.936464838446918
+    },
+    {
+      "page": "https://expresselectricalservices.com/",
+      "clicks": 190,
+      "impressions": 63353,
+      "ctr": 0.0029990687102426088,
+      "position": 35.356541915931366
+    },
+    {
+      "page": "https://expresselectricalservices.com/should-i-use-a-4-gauge-wire-for-a-sub-panel/",
+      "clicks": 177,
+      "impressions": 37914,
+      "ctr": 0.004668460199398639,
+      "position": 5.324181041304004
+    },
+    {
+      "page": "https://expresselectricalservices.com/blog/how-to-trace-a-wire-with-no-power/",
+      "clicks": 172,
+      "impressions": 19557,
+      "ctr": 0.008794804929181367,
+      "position": 9.929999488674133
+    },
+    {
+      "page": "https://expresselectricalservices.com/diy-guide-how-to-wire-a-sub-panel/",
+      "clicks": 171,
+      "impressions": 33399,
+      "ctr": 0.005119913769873349,
+      "position": 12.183748016407677
+    },
+    {
+      "page": "https://expresselectricalservices.com/blog/everything-you-need-to-know-about-a-200-amp-panel/",
+      "clicks": 168,
+      "impressions": 36569,
+      "ctr": 0.004594055073969756,
+      "position": 8.544395526265415
+    },
+    {
+      "page": "https://expresselectricalservices.com/blog/should-i-use-a-4-gauge-wire-for-a-sub-panel/",
+      "clicks": 164,
+      "impressions": 44686,
+      "ctr": 0.003670053260529025,
+      "position": 6.470303898312671
+    },
+    {
+      "page": "https://expresselectricalservices.com/blog/6-fun-facts-about-electricity/",
+      "clicks": 160,
+      "impressions": 17015,
+      "ctr": 0.009403467528651191,
+      "position": 7.010226270937408
+    },
+    {
+      "page": "https://expresselectricalservices.com/can-i-convert-an-appliance-outlet/",
+      "clicks": 154,
+      "impressions": 65430,
+      "ctr": 0.0023536604004279382,
+      "position": 3.8316062968057465
+    },
+    {
+      "page": "https://expresselectricalservices.com/how-many-watts-can-a-200-amp-panel-handle/",
+      "clicks": 153,
+      "impressions": 33598,
+      "ctr": 0.004553842490624442,
+      "position": 4.402881123876421
+    },
+    {
+      "page": "https://expresselectricalservices.com/blog/how-to-read-your-circuit-breaker-panel/",
+      "clicks": 139,
+      "impressions": 58777,
+      "ctr": 0.0023648706126546096,
+      "position": 10.303537097844394
+    },
+    {
+      "page": "https://expresselectricalservices.com/what-to-do-when-your-gfci-wont-reset/",
+      "clicks": 132,
+      "impressions": 62930,
+      "ctr": 0.002097568727157159,
+      "position": 6.220260607023677
+    },
+    {
+      "page": "https://expresselectricalservices.com/blog/reasons-a-gfci-outlet-wont-reset-after-rain/",
+      "clicks": 130,
+      "impressions": 21211,
+      "ctr": 0.006128895384470322,
+      "position": 9.00829758144359
+    },
+    {
+      "page": "https://expresselectricalservices.com/how-to-trace-a-wire-with-no-power/",
+      "clicks": 127,
+      "impressions": 10439,
+      "ctr": 0.012165916275505317,
+      "position": 8.901714723632532
+    },
+    {
+      "page": "https://expresselectricalservices.com/blog/how-to-waterproof-wire-connectors/",
+      "clicks": 125,
+      "impressions": 24500,
+      "ctr": 0.00510204081632653,
+      "position": 9.38722448979592
+    },
+    {
+      "page": "https://expresselectricalservices.com/blog/how-to-change-a-lightbulb/",
+      "clicks": 124,
+      "impressions": 41282,
+      "ctr": 0.003003730439416695,
+      "position": 8.360568770892883
+    },
+    {
+      "page": "https://expresselectricalservices.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*86*express-electrical-services-santa-ana",
+      "clicks": 115,
+      "impressions": 25679,
+      "ctr": 0.0044783675376767005,
+      "position": 3.931305736204681
+    },
+    {
+      "page": "https://expresselectricalservices.com/blog/most-common-recessed-lighting-problems/",
+      "clicks": 115,
+      "impressions": 24019,
+      "ctr": 0.004787876264623839,
+      "position": 4.616886631416795
+    },
+    {
+      "page": "https://expresselectricalservices.com/blog/what-to-do-when-your-gfci-wont-reset/",
+      "clicks": 112,
+      "impressions": 50236,
+      "ctr": 0.0022294768691774824,
+      "position": 6.7112429333545665
+    },
+    {
+      "page": "https://expresselectricalservices.com/what-size-wire-do-i-need/",
+      "clicks": 111,
+      "impressions": 58920,
+      "ctr": 0.0018839103869653768,
+      "position": 9.815393754243042
+    },
+    {
+      "page": "https://expresselectricalservices.com/blog/how-to-ground-a-house/",
+      "clicks": 109,
+      "impressions": 14518,
+      "ctr": 0.007507921201267392,
+      "position": 10.627290260366442
+    },
+    {
+      "page": "https://expresselectricalservices.com/what-to-do-if-an-outdoor-outlet-is-not-working/",
+      "clicks": 108,
+      "impressions": 19201,
+      "ctr": 0.005624707046507994,
+      "position": 7.402791521274934
+    },
+    {
+      "page": "https://expresselectricalservices.com/everything-you-need-to-know-about-a-200-amp-panel/",
+      "clicks": 102,
+      "impressions": 26129,
+      "ctr": 0.003903708523096942,
+      "position": 8.13666806996058
+    },
+    {
+      "page": "https://expresselectricalservices.com/blog/can-i-convert-an-appliance-outlet/",
+      "clicks": 99,
+      "impressions": 35174,
+      "ctr": 0.0028145789503610623,
+      "position": 4.337323022687212
+    },
+    {
+      "page": "https://expresselectricalservices.com/how-to-find-an-electrical-wire-in-a-wallhow-to-find-an-electrical-wire-in-a-wall/",
+      "clicks": 98,
+      "impressions": 20577,
+      "ctr": 0.004762599018321427,
+      "position": 5.942314234339311
+    },
+    {
+      "page": "https://expresselectricalservices.com/blog/top-6-most-common-electrical-services/",
+      "clicks": 92,
+      "impressions": 111058,
+      "ctr": 0.0008283959732752256,
+      "position": 22.80263465936718
+    },
+    {
+      "page": "https://expresselectricalservices.com/how-to-ground-a-house/",
+      "clicks": 91,
+      "impressions": 12401,
+      "ctr": 0.007338117893718249,
+      "position": 13.093540843480364
+    },
+    {
+      "page": "https://expresselectricalservices.com/blog/diy-guide-how-to-wire-a-sub-panel/",
+      "clicks": 87,
+      "impressions": 28364,
+      "ctr": 0.0030672683683542518,
+      "position": 17.079607953744183
+    },
+    {
+      "page": "https://expresselectricalservices.com/dimmer-switch-buzzing/",
+      "clicks": 86,
+      "impressions": 11706,
+      "ctr": 0.007346659832564497,
+      "position": 6.8669058602426105
+    },
+    {
+      "page": "https://expresselectricalservices.com/blog/what-causes-an-electrical-humming-noise/",
+      "clicks": 80,
+      "impressions": 14416,
+      "ctr": 0.005549389567147614,
+      "position": 5.188401775804661
+    },
+    {
+      "page": "https://expresselectricalservices.com/what-causes-an-electrical-humming-noise/",
+      "clicks": 79,
+      "impressions": 23952,
+      "ctr": 0.003298263193052772,
+      "position": 5.25501002004008
+    },
+    {
+      "page": "https://expresselectricalservices.com/burning-smell-outlets-appliances/",
+      "clicks": 78,
+      "impressions": 23479,
+      "ctr": 0.0033221176370373524,
+      "position": 7.097533966523276
+    },
+    {
+      "page": "https://expresselectricalservices.com/blog/what-size-wire-do-i-need/",
+      "clicks": 77,
+      "impressions": 75924,
+      "ctr": 0.0010141720668036458,
+      "position": 10.322875507086033
+    },
+    {
+      "page": "https://expresselectricalservices.com/how-to-change-a-lightbulb/",
+      "clicks": 76,
+      "impressions": 27439,
+      "ctr": 0.002769780239804658,
+      "position": 7.827471846641641
+    },
+    {
+      "page": "https://expresselectricalservices.com/blog/how-do-electrical-wires-work/",
+      "clicks": 74,
+      "impressions": 28999,
+      "ctr": 0.002551812131452809,
+      "position": 11.819717921307632
+    },
+    {
+      "page": "https://expresselectricalservices.com/blog/how-to-fix-sagging-recessed-lighting/",
+      "clicks": 72,
+      "impressions": 7690,
+      "ctr": 0.009362808842652795,
+      "position": 4.176983094928479
+    },
+    {
+      "page": "https://expresselectricalservices.com/ceiling-fans-electrical-noises/",
+      "clicks": 71,
+      "impressions": 26971,
+      "ctr": 0.0026324570835341665,
+      "position": 8.074709873567906
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:07:27.653Z"
+}

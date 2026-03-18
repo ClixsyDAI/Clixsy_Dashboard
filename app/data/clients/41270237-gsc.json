@@ -1,0 +1,1350 @@
+{
+  "property": "https://www.fhvlegal.com/",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 5504,
+    "impressions": 1782741,
+    "ctr": 0.003087380612214562,
+    "position": 22.763583170761265
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 72,
+      "impressions": 18658,
+      "ctr": 0.003858934505306035,
+      "position": 14.57021116947154
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 66,
+      "impressions": 15942,
+      "ctr": 0.0041400075272864136,
+      "position": 21.29256053192824
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 75,
+      "impressions": 14258,
+      "ctr": 0.005260204797306775,
+      "position": 18.508346191611725
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 69,
+      "impressions": 14886,
+      "ctr": 0.004635227730753728,
+      "position": 20.383380357382777
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 44,
+      "impressions": 14938,
+      "ctr": 0.0029455081001472753,
+      "position": 24.222921408488418
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 37,
+      "impressions": 12764,
+      "ctr": 0.0028987778125979316,
+      "position": 20.394782199937325
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 47,
+      "impressions": 12490,
+      "ctr": 0.0037630104083266613,
+      "position": 21.751080864691755
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 59,
+      "impressions": 13070,
+      "ctr": 0.0045141545524101,
+      "position": 18.970849273144605
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 44,
+      "impressions": 14355,
+      "ctr": 0.0030651340996168583,
+      "position": 23.672169975618253
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 33,
+      "impressions": 12367,
+      "ctr": 0.0026683916875555914,
+      "position": 24.428317296029757
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 34,
+      "impressions": 10229,
+      "ctr": 0.0033238830775246847,
+      "position": 20.617166878482745
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 45,
+      "impressions": 12204,
+      "ctr": 0.003687315634218289,
+      "position": 21.18625040970174
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 27,
+      "impressions": 12680,
+      "ctr": 0.0021293375394321767,
+      "position": 18.79290220820189
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 31,
+      "impressions": 12667,
+      "ctr": 0.0024473040183153076,
+      "position": 20.993052814399622
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 54,
+      "impressions": 14427,
+      "ctr": 0.0037429819089207735,
+      "position": 19.659457960768005
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 60,
+      "impressions": 14743,
+      "ctr": 0.004069728006511565,
+      "position": 23.426439666282302
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 42,
+      "impressions": 14829,
+      "ctr": 0.0028322880841594174,
+      "position": 24.7517701800526
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 36,
+      "impressions": 15032,
+      "ctr": 0.002394890899414582,
+      "position": 22.91983767961682
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 58,
+      "impressions": 12378,
+      "ctr": 0.004685732751656164,
+      "position": 20.512118274357732
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 31,
+      "impressions": 10984,
+      "ctr": 0.002822286962855062,
+      "position": 19.53741806263656
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 48,
+      "impressions": 13053,
+      "ctr": 0.0036773155596414617,
+      "position": 21.092928828621773
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 76,
+      "impressions": 19791,
+      "ctr": 0.003840129351725532,
+      "position": 14.856399373452579
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 69,
+      "impressions": 13719,
+      "ctr": 0.005029521102121146,
+      "position": 17.065456665937752
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 81,
+      "impressions": 20340,
+      "ctr": 0.003982300884955752,
+      "position": 24.037463126843658
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 87,
+      "impressions": 25234,
+      "ctr": 0.003447729254180867,
+      "position": 24.726519774906873
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 65,
+      "impressions": 20891,
+      "ctr": 0.0031113876789047915,
+      "position": 27.40524627830166
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 43,
+      "impressions": 18411,
+      "ctr": 0.002335560262886318,
+      "position": 29.14540220520341
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 49,
+      "impressions": 20949,
+      "ctr": 0.0023390137954078954,
+      "position": 28.779464413575827
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 78,
+      "impressions": 19555,
+      "ctr": 0.003988749680388647,
+      "position": 18.95627716696497
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 63,
+      "impressions": 20200,
+      "ctr": 0.003118811881188119,
+      "position": 26.034257425742574
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 68,
+      "impressions": 21958,
+      "ctr": 0.0030968212041169504,
+      "position": 27.498542672374533
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 65,
+      "impressions": 18681,
+      "ctr": 0.003479471120389701,
+      "position": 19.187142015952038
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 56,
+      "impressions": 20717,
+      "ctr": 0.0027030940773277983,
+      "position": 23.577641550417532
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 47,
+      "impressions": 17534,
+      "ctr": 0.0026805064446218775,
+      "position": 24.266910003421923
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 61,
+      "impressions": 24823,
+      "ctr": 0.002457398380534182,
+      "position": 19.866132216089916
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 67,
+      "impressions": 19835,
+      "ctr": 0.0033778674061003275,
+      "position": 22.167330476430553
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 75,
+      "impressions": 23118,
+      "ctr": 0.003244225279003374,
+      "position": 22.107881304611126
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 95,
+      "impressions": 20944,
+      "ctr": 0.004535905271199389,
+      "position": 24.89457601222307
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 64,
+      "impressions": 20076,
+      "ctr": 0.0031878860330743176,
+      "position": 25.338862323171945
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 70,
+      "impressions": 18961,
+      "ctr": 0.0036917884077843997,
+      "position": 25.404356310321187
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 43,
+      "impressions": 17078,
+      "ctr": 0.0025178592341023537,
+      "position": 24.964281531795294
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 55,
+      "impressions": 18291,
+      "ctr": 0.003006943305450768,
+      "position": 26.01257449018643
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 70,
+      "impressions": 20103,
+      "ctr": 0.0034820673531313732,
+      "position": 23.78704670944635
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 78,
+      "impressions": 21835,
+      "ctr": 0.0035722463934050835,
+      "position": 26.34018777192581
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 75,
+      "impressions": 20382,
+      "ctr": 0.0036797173977038563,
+      "position": 25.053086056324208
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 83,
+      "impressions": 19965,
+      "ctr": 0.004157275231655397,
+      "position": 24.40741297270223
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 54,
+      "impressions": 21961,
+      "ctr": 0.0024589044214744318,
+      "position": 25.886662720276853
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 42,
+      "impressions": 20222,
+      "ctr": 0.0020769459005044013,
+      "position": 25.972208485807535
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 40,
+      "impressions": 23953,
+      "ctr": 0.0016699369598797646,
+      "position": 26.51705423120277
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 70,
+      "impressions": 25115,
+      "ctr": 0.002787178976707147,
+      "position": 25.06760899860641
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 65,
+      "impressions": 23182,
+      "ctr": 0.0028038995772582177,
+      "position": 26.76369597101199
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 77,
+      "impressions": 25830,
+      "ctr": 0.002981029810298103,
+      "position": 26.77514518002323
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 84,
+      "impressions": 52939,
+      "ctr": 0.0015867318989780691,
+      "position": 32.51170214775496
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 67,
+      "impressions": 28115,
+      "ctr": 0.0023830695358349635,
+      "position": 28.18417215009781
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 47,
+      "impressions": 22525,
+      "ctr": 0.0020865704772475026,
+      "position": 28.34756936736959
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 45,
+      "impressions": 21949,
+      "ctr": 0.0020502072987379836,
+      "position": 27.78755296368855
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 80,
+      "impressions": 23324,
+      "ctr": 0.003429943405933802,
+      "position": 23.1037557880295
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 79,
+      "impressions": 24153,
+      "ctr": 0.0032708152196414524,
+      "position": 26.280793276197574
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 77,
+      "impressions": 25913,
+      "ctr": 0.002971481495774322,
+      "position": 26.395207038937986
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 71,
+      "impressions": 23780,
+      "ctr": 0.0029857022708158114,
+      "position": 23.974264087468462
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 50,
+      "impressions": 20143,
+      "ctr": 0.0024822518989227028,
+      "position": 22.728243062105943
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 40,
+      "impressions": 18935,
+      "ctr": 0.002112490097702667,
+      "position": 24.53440718246633
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 35,
+      "impressions": 20149,
+      "ctr": 0.001737058911112214,
+      "position": 24.960692838354262
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 74,
+      "impressions": 25494,
+      "ctr": 0.0029026437593159173,
+      "position": 19.918137601004158
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 63,
+      "impressions": 21346,
+      "ctr": 0.0029513726225053874,
+      "position": 25.795605734095382
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 77,
+      "impressions": 22790,
+      "ctr": 0.0033786748573935935,
+      "position": 26.49245283018868
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 61,
+      "impressions": 17879,
+      "ctr": 0.0034118239275127246,
+      "position": 18.92197550198557
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 68,
+      "impressions": 17858,
+      "ctr": 0.0038078172247732107,
+      "position": 19.665752043901893
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 49,
+      "impressions": 17374,
+      "ctr": 0.0028203062046736503,
+      "position": 22.969955105329802
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 43,
+      "impressions": 18736,
+      "ctr": 0.002295046968403074,
+      "position": 22.170100341588387
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 68,
+      "impressions": 20684,
+      "ctr": 0.0032875652678398763,
+      "position": 19.51658286598337
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 87,
+      "impressions": 18786,
+      "ctr": 0.004631108272117534,
+      "position": 19.94841903545193
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 76,
+      "impressions": 22189,
+      "ctr": 0.0034251205552300688,
+      "position": 22.69854432376403
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 64,
+      "impressions": 22150,
+      "ctr": 0.002889390519187359,
+      "position": 17.439458239277652
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 76,
+      "impressions": 22652,
+      "ctr": 0.0033551121313791276,
+      "position": 16.68656189298958
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 50,
+      "impressions": 15712,
+      "ctr": 0.0031822810590631367,
+      "position": 17.86386201629328
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 48,
+      "impressions": 15720,
+      "ctr": 0.0030534351145038168,
+      "position": 18.46882951653944
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 69,
+      "impressions": 17292,
+      "ctr": 0.003990284524635669,
+      "position": 14.956685172334028
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 86,
+      "impressions": 23251,
+      "ctr": 0.003698765644488409,
+      "position": 14.2331512623113
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 70,
+      "impressions": 21392,
+      "ctr": 0.0032722513089005235,
+      "position": 20.031787584143604
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 84,
+      "impressions": 21236,
+      "ctr": 0.003955547184027124,
+      "position": 17.756404219250328
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 68,
+      "impressions": 20617,
+      "ctr": 0.0032982490178008438,
+      "position": 21.49085705970801
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 46,
+      "impressions": 18516,
+      "ctr": 0.0024843378699503133,
+      "position": 21.27354720241953
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 57,
+      "impressions": 18217,
+      "ctr": 0.003128945490475929,
+      "position": 23.16907284404677
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 70,
+      "impressions": 27533,
+      "ctr": 0.002542403661061272,
+      "position": 21.639559800966115
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 64,
+      "impressions": 25341,
+      "ctr": 0.002525551477842232,
+      "position": 24.699538297620457
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 101,
+      "impressions": 26695,
+      "ctr": 0.0037834800524442777,
+      "position": 26.161977898482863
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 78,
+      "impressions": 25734,
+      "ctr": 0.003031009559337841,
+      "position": 24.48865314370094
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 57,
+      "impressions": 23582,
+      "ctr": 0.00241709778644729,
+      "position": 25.285938427614283
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 32,
+      "impressions": 21432,
+      "ctr": 0.0014930944382232176,
+      "position": 21.623926838372526
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "worst hospitals in florida",
+      "clicks": 142,
+      "impressions": 816,
+      "ctr": 0.17401960784313725,
+      "position": 2.3872549019607843
+    },
+    {
+      "query": "freedland harwin valori gander",
+      "clicks": 134,
+      "impressions": 315,
+      "ctr": 0.4253968253968254,
+      "position": 2.5746031746031743
+    },
+    {
+      "query": "signs of dying from aspiration pneumonia",
+      "clicks": 78,
+      "impressions": 14726,
+      "ctr": 0.005296754040472634,
+      "position": 2.3346462039929374
+    },
+    {
+      "query": "freedland harwin valori",
+      "clicks": 60,
+      "impressions": 132,
+      "ctr": 0.45454545454545453,
+      "position": 2.333333333333333
+    },
+    {
+      "query": "michael freedland",
+      "clicks": 39,
+      "impressions": 314,
+      "ctr": 0.12420382165605096,
+      "position": 6.468152866242038
+    },
+    {
+      "query": "fhv legal",
+      "clicks": 37,
+      "impressions": 136,
+      "ctr": 0.27205882352941174,
+      "position": 1.0588235294117647
+    },
+    {
+      "query": "christine fields",
+      "clicks": 28,
+      "impressions": 422,
+      "ctr": 0.06635071090047394,
+      "position": 1.1966824644549763
+    },
+    {
+      "query": "top 10 worst hospitals in florida",
+      "clicks": 27,
+      "impressions": 117,
+      "ctr": 0.23076923076923078,
+      "position": 2.5128205128205128
+    },
+    {
+      "query": "michael freedland attorney",
+      "clicks": 25,
+      "impressions": 70,
+      "ctr": 0.35714285714285715,
+      "position": 1.0142857142857142
+    },
+    {
+      "query": "daniel harwin",
+      "clicks": 23,
+      "impressions": 82,
+      "ctr": 0.2804878048780488,
+      "position": 6.817073170731708
+    },
+    {
+      "query": "worst hospitals in south florida",
+      "clicks": 22,
+      "impressions": 123,
+      "ctr": 0.17886178861788618,
+      "position": 1.6341463414634148
+    },
+    {
+      "query": "daniel harwin attorney",
+      "clicks": 21,
+      "impressions": 44,
+      "ctr": 0.4772727272727273,
+      "position": 1.4545454545454546
+    },
+    {
+      "query": "west boca medical center",
+      "clicks": 20,
+      "impressions": 182,
+      "ctr": 0.10989010989010989,
+      "position": 2.71978021978022
+    },
+    {
+      "query": "peter spillis",
+      "clicks": 18,
+      "impressions": 48,
+      "ctr": 0.375,
+      "position": 1
+    },
+    {
+      "query": "worst hospitals in florida 2025",
+      "clicks": 17,
+      "impressions": 54,
+      "ctr": 0.3148148148148148,
+      "position": 1.6666666666666665
+    },
+    {
+      "query": "fhvg",
+      "clicks": 16,
+      "impressions": 1152,
+      "ctr": 0.013888888888888888,
+      "position": 1.6779513888888888
+    },
+    {
+      "query": "worst hospital in florida",
+      "clicks": 15,
+      "impressions": 96,
+      "ctr": 0.15625,
+      "position": 2.46875
+    },
+    {
+      "query": "is death by aspiration painful",
+      "clicks": 13,
+      "impressions": 2212,
+      "ctr": 0.005877034358047016,
+      "position": 5.488245931283906
+    },
+    {
+      "query": "deborah gander",
+      "clicks": 12,
+      "impressions": 53,
+      "ctr": 0.22641509433962265,
+      "position": 3.943396226415094
+    },
+    {
+      "query": "sudden death due to aspiration",
+      "clicks": 12,
+      "impressions": 915,
+      "ctr": 0.013114754098360656,
+      "position": 3.7704918032786887
+    },
+    {
+      "query": "free kill law florida",
+      "clicks": 10,
+      "impressions": 4250,
+      "ctr": 0.002352941176470588,
+      "position": 2.327529411764706
+    },
+    {
+      "query": "how long does it take to die from aspiration",
+      "clicks": 10,
+      "impressions": 2595,
+      "ctr": 0.0038535645472061657,
+      "position": 3.434296724470135
+    },
+    {
+      "query": "jennifer rufer",
+      "clicks": 8,
+      "impressions": 92,
+      "ctr": 0.08695652173913043,
+      "position": 4.543478260869565
+    },
+    {
+      "query": "misdiagnosis statistics",
+      "clicks": 8,
+      "impressions": 108,
+      "ctr": 0.07407407407407407,
+      "position": 6.833333333333333
+    },
+    {
+      "query": "bedside manner meaning",
+      "clicks": 7,
+      "impressions": 1658,
+      "ctr": 0.004221954161640531,
+      "position": 3.2768395657418576
+    },
+    {
+      "query": "nica florida",
+      "clicks": 7,
+      "impressions": 1723,
+      "ctr": 0.004062681369704005,
+      "position": 6.711549622751016
+    },
+    {
+      "query": "top medical malpractice attorneys in florida",
+      "clicks": 7,
+      "impressions": 1087,
+      "ctr": 0.006439742410303588,
+      "position": 14.738730450781969
+    },
+    {
+      "query": "bad bedside manner",
+      "clicks": 6,
+      "impressions": 220,
+      "ctr": 0.02727272727272727,
+      "position": 1.4136363636363636
+    },
+    {
+      "query": "can you die from aspiration pneumonia",
+      "clicks": 6,
+      "impressions": 2165,
+      "ctr": 0.002771362586605081,
+      "position": 5.41986143187067
+    },
+    {
+      "query": "medical negligence examples",
+      "clicks": 6,
+      "impressions": 2164,
+      "ctr": 0.0027726432532347504,
+      "position": 11.634011090573013
+    },
+    {
+      "query": "woodhull hospital",
+      "clicks": 6,
+      "impressions": 86,
+      "ctr": 0.06976744186046512,
+      "position": 3.197674418604651
+    },
+    {
+      "query": "aspiration pneumonia symptoms",
+      "clicks": 5,
+      "impressions": 609,
+      "ctr": 0.008210180623973728,
+      "position": 1.0164203612479474
+    },
+    {
+      "query": "death by aspiration of vomit",
+      "clicks": 5,
+      "impressions": 680,
+      "ctr": 0.007352941176470588,
+      "position": 4.145588235294118
+    },
+    {
+      "query": "florida free kill law",
+      "clicks": 5,
+      "impressions": 2970,
+      "ctr": 0.0016835016835016834,
+      "position": 2.8666666666666667
+    },
+    {
+      "query": "florida medical malpractice caps",
+      "clicks": 5,
+      "impressions": 726,
+      "ctr": 0.006887052341597796,
+      "position": 13.68457300275482
+    },
+    {
+      "query": "medical negligence lawyers",
+      "clicks": 5,
+      "impressions": 2767,
+      "ctr": 0.0018070112034694614,
+      "position": 23.589085652331043
+    },
+    {
+      "query": "poor bedside manner",
+      "clicks": 5,
+      "impressions": 212,
+      "ctr": 0.02358490566037736,
+      "position": 1.4245283018867925
+    },
+    {
+      "query": "top 5 worst hospitals in america",
+      "clicks": 5,
+      "impressions": 260,
+      "ctr": 0.019230769230769232,
+      "position": 6.623076923076923
+    },
+    {
+      "query": "best medical malpractice lawyers in south florida",
+      "clicks": 4,
+      "impressions": 279,
+      "ctr": 0.014336917562724014,
+      "position": 7.924731182795699
+    },
+    {
+      "query": "boca west hospital",
+      "clicks": 4,
+      "impressions": 31,
+      "ctr": 0.12903225806451613,
+      "position": 1.967741935483871
+    },
+    {
+      "query": "breach of standard of care examples",
+      "clicks": 4,
+      "impressions": 121,
+      "ctr": 0.03305785123966942,
+      "position": 1.7272727272727273
+    },
+    {
+      "query": "caleb stalls",
+      "clicks": 4,
+      "impressions": 131,
+      "ctr": 0.030534351145038167,
+      "position": 5.412213740458015
+    },
+    {
+      "query": "express consent",
+      "clicks": 4,
+      "impressions": 1623,
+      "ctr": 0.0024645717806531116,
+      "position": 8.50955021565003
+    },
+    {
+      "query": "florida birth-related neurological injury compensation association",
+      "clicks": 4,
+      "impressions": 129,
+      "ctr": 0.031007751937984496,
+      "position": 4.395348837209302
+    },
+    {
+      "query": "florida medical malpractice statute of limitations",
+      "clicks": 4,
+      "impressions": 1011,
+      "ctr": 0.003956478733926805,
+      "position": 4.376854599406528
+    },
+    {
+      "query": "free kill law in florida",
+      "clicks": 4,
+      "impressions": 227,
+      "ctr": 0.01762114537444934,
+      "position": 3.933920704845815
+    },
+    {
+      "query": "peter spillas",
+      "clicks": 4,
+      "impressions": 58,
+      "ctr": 0.06896551724137931,
+      "position": 3.9655172413793105
+    },
+    {
+      "query": "what happens after a deposition in a medical malpractice case",
+      "clicks": 4,
+      "impressions": 50,
+      "ctr": 0.08,
+      "position": 3.88
+    },
+    {
+      "query": "best medical malpractice attorneys in florida",
+      "clicks": 3,
+      "impressions": 102,
+      "ctr": 0.029411764705882353,
+      "position": 6.735294117647059
+    },
+    {
+      "query": "florida medical board complaints",
+      "clicks": 3,
+      "impressions": 145,
+      "ctr": 0.020689655172413793,
+      "position": 1.6206896551724137
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://www.fhvlegal.com/blog/worst-hospitals-south-florida/",
+      "clicks": 931,
+      "impressions": 19360,
+      "ctr": 0.04808884297520661,
+      "position": 8.228254132231406
+    },
+    {
+      "page": "https://www.fhvlegal.com/",
+      "clicks": 338,
+      "impressions": 33433,
+      "ctr": 0.010109771782370712,
+      "position": 22.819998205365955
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/staggering-u-s-diagnostic-error-statistics-july-2024/",
+      "clicks": 328,
+      "impressions": 59577,
+      "ctr": 0.005505480302801417,
+      "position": 7.441714084294275
+    },
+    {
+      "page": "https://www.fhvlegal.com/fort-lauderdale/?utm_source=google&utm_medium=organic&utm_campaign=gbp-fortlauderdale",
+      "clicks": 260,
+      "impressions": 96155,
+      "ctr": 0.0027039675523893715,
+      "position": 3.8481098226821278
+    },
+    {
+      "page": "https://www.fhvlegal.com/nursing-home-abuse-attorney/aspiration-death/",
+      "clicks": 211,
+      "impressions": 45345,
+      "ctr": 0.0046532142463336645,
+      "position": 3.617730731061859
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/hospital-faces-lawsuit-over-fatal-medical-treatment-christine-fields/",
+      "clicks": 194,
+      "impressions": 5517,
+      "ctr": 0.035164038426681164,
+      "position": 7.876019575856444
+    },
+    {
+      "page": "https://www.fhvlegal.com/attorneys/michael-freedland-esq/",
+      "clicks": 151,
+      "impressions": 6390,
+      "ctr": 0.023630672926447573,
+      "position": 8.281220657276997
+    },
+    {
+      "page": "https://www.fhvlegal.com/attorneys/daniel-harwin-esq/",
+      "clicks": 126,
+      "impressions": 6959,
+      "ctr": 0.018106049719787326,
+      "position": 13.58499784451789
+    },
+    {
+      "page": "https://www.fhvlegal.com/medical-malpractice-attorney/",
+      "clicks": 126,
+      "impressions": 133590,
+      "ctr": 0.0009431843700875814,
+      "position": 26.536170372033833
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/breach-duty-of-care-medical-negligence/",
+      "clicks": 114,
+      "impressions": 29755,
+      "ctr": 0.0038312888590152916,
+      "position": 8.114905057973449
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/examples-of-bad-bedside-manner-versus-medical-malpractice/",
+      "clicks": 107,
+      "impressions": 14870,
+      "ctr": 0.0071956960322797575,
+      "position": 4.602824478816409
+    },
+    {
+      "page": "https://www.fhvlegal.com/medical-malpractice-attorney/consequences/",
+      "clicks": 104,
+      "impressions": 143047,
+      "ctr": 0.0007270337721168566,
+      "position": 41.62048138024566
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/medical-malpractice-statute-of-limitations-in-florida/",
+      "clicks": 103,
+      "impressions": 34122,
+      "ctr": 0.0030185803880194598,
+      "position": 7.4836762206201275
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/telemetry-medical-malpractice-examples/",
+      "clicks": 76,
+      "impressions": 9098,
+      "ctr": 0.008353484282259837,
+      "position": 7.253572213673335
+    },
+    {
+      "page": "https://www.fhvlegal.com/attorneys/peter-spillis/",
+      "clicks": 73,
+      "impressions": 1025,
+      "ctr": 0.07121951219512195,
+      "position": 9.622439024390244
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/who-can-sue-for-medical-malpractice-in-florida/",
+      "clicks": 72,
+      "impressions": 16685,
+      "ctr": 0.004315253221456398,
+      "position": 13.7419238837279
+    },
+    {
+      "page": "https://www.fhvlegal.com/fort-lauderdale/",
+      "clicks": 69,
+      "impressions": 264277,
+      "ctr": 0.0002610896899843725,
+      "position": 39.10477642776329
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/florida-free-kill-law/",
+      "clicks": 68,
+      "impressions": 24535,
+      "ctr": 0.002771550845730589,
+      "position": 4.45718361524353
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/what-is-cooling-therapy-for-newborns/",
+      "clicks": 66,
+      "impressions": 16962,
+      "ctr": 0.0038910505836575876,
+      "position": 10.892996108949417
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/what-happens-during-a-deposition-in-a-malpractice-lawsuit/",
+      "clicks": 63,
+      "impressions": 5715,
+      "ctr": 0.011023622047244094,
+      "position": 6.861417322834646
+    },
+    {
+      "page": "https://www.fhvlegal.com/medical-malpractice-attorney/surgical-errors/plastic-surgery/",
+      "clicks": 63,
+      "impressions": 14455,
+      "ctr": 0.0043583535108958835,
+      "position": 17.03894846074023
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/can-a-heart-attack-be-misdiagnosed/",
+      "clicks": 59,
+      "impressions": 11292,
+      "ctr": 0.00522493800921006,
+      "position": 10.648157987956075
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/nica-birth-injury-fund/",
+      "clicks": 59,
+      "impressions": 13537,
+      "ctr": 0.004358425057250499,
+      "position": 6.9763610844352515
+    },
+    {
+      "page": "https://www.fhvlegal.com/medical-malpractice-attorney/hospitals/",
+      "clicks": 57,
+      "impressions": 14195,
+      "ctr": 0.004015498414934836,
+      "position": 23.34399436421275
+    },
+    {
+      "page": "https://www.fhvlegal.com/attorneys/deborah-gander-esq/",
+      "clicks": 54,
+      "impressions": 2488,
+      "ctr": 0.021704180064308683,
+      "position": 14.580385852090032
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/medical-board-complaints-vs-malpractice-lawsuits/",
+      "clicks": 51,
+      "impressions": 6022,
+      "ctr": 0.00846894719362338,
+      "position": 6.547492527399535
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/what-should-you-do-if-you-think-youve-been-misdiagnosed/",
+      "clicks": 51,
+      "impressions": 16536,
+      "ctr": 0.003084179970972424,
+      "position": 6.212385099177552
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/how-social-determinants-impact-medical-outcomes-florida/",
+      "clicks": 48,
+      "impressions": 2745,
+      "ctr": 0.017486338797814208,
+      "position": 7.51183970856102
+    },
+    {
+      "page": "https://www.fhvlegal.com/attorneys/raymond-valori-esq/",
+      "clicks": 47,
+      "impressions": 1421,
+      "ctr": 0.033075299085151305,
+      "position": 18.070372976776916
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/how-much-does-hiring-a-malpractice-lawyer-cost/",
+      "clicks": 47,
+      "impressions": 21393,
+      "ctr": 0.0021969803206656384,
+      "position": 6.86635815453653
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/can-i-sue-if-i-signed-a-consent-form-florida-law/",
+      "clicks": 46,
+      "impressions": 9653,
+      "ctr": 0.004765357919817673,
+      "position": 5.17880451673055
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/interpreter-errors-hospitals-medical-mistakes-florida/",
+      "clicks": 44,
+      "impressions": 8056,
+      "ctr": 0.005461767626613704,
+      "position": 6.326713008937438
+    },
+    {
+      "page": "https://www.fhvlegal.com/medical-malpractice-attorney/birth-injury/stillbirth/",
+      "clicks": 44,
+      "impressions": 15544,
+      "ctr": 0.0028306742151312406,
+      "position": 29.727161605764284
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/examining-medical-malpractice-caps-in-florida/",
+      "clicks": 43,
+      "impressions": 7717,
+      "ctr": 0.005572113515614876,
+      "position": 8.685499546455876
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/what-to-know-about-floridas-new-advanced-birth-center-laws/",
+      "clicks": 43,
+      "impressions": 3366,
+      "ctr": 0.01277480689245395,
+      "position": 8.1010101010101
+    },
+    {
+      "page": "https://www.fhvlegal.com/medical-malpractice-attorney/psychiatric-negligence/",
+      "clicks": 41,
+      "impressions": 5612,
+      "ctr": 0.007305773342836779,
+      "position": 14.439950106913756
+    },
+    {
+      "page": "https://www.fhvlegal.com/attorneys/melissa-gunion-esq/",
+      "clicks": 40,
+      "impressions": 1237,
+      "ctr": 0.03233629749393695,
+      "position": 21.853678253839934
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/updated-reports-on-floridas-infant-mortality-rate-june-2024/",
+      "clicks": 39,
+      "impressions": 5455,
+      "ctr": 0.007149404216315307,
+      "position": 6.336571952337305
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/what-is-vicarious-liability/",
+      "clicks": 39,
+      "impressions": 44279,
+      "ctr": 0.0008807786987059329,
+      "position": 6.80112468664604
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/express-consent-health-care/",
+      "clicks": 38,
+      "impressions": 24714,
+      "ctr": 0.0015375900299425427,
+      "position": 6.8877963907097195
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/how-long-do-medical-malpractice-cases-take-in-florida/",
+      "clicks": 38,
+      "impressions": 7607,
+      "ctr": 0.004995398974628631,
+      "position": 22.74102800052583
+    },
+    {
+      "page": "https://www.fhvlegal.com/attorneys/",
+      "clicks": 37,
+      "impressions": 10062,
+      "ctr": 0.0036772013516199564,
+      "position": 27.78861061419201
+    },
+    {
+      "page": "https://www.fhvlegal.com/have-a-well-informed-pregnancy-avoid-complications/",
+      "clicks": 31,
+      "impressions": 4573,
+      "ctr": 0.0067789197463371965,
+      "position": 10.50338945987317
+    },
+    {
+      "page": "https://www.fhvlegal.com/medical-malpractice-attorney/hca-florida-mercy-hospital/",
+      "clicks": 31,
+      "impressions": 3617,
+      "ctr": 0.008570638650815593,
+      "position": 17.033453137959636
+    },
+    {
+      "page": "https://www.fhvlegal.com/medical-malpractice-attorney/broward-health-medical-center/",
+      "clicks": 29,
+      "impressions": 2520,
+      "ctr": 0.011507936507936509,
+      "position": 8.940079365079365
+    },
+    {
+      "page": "https://www.fhvlegal.com/medical-malpractice-attorney/hca-aventura-hospital/",
+      "clicks": 28,
+      "impressions": 4598,
+      "ctr": 0.006089604175728578,
+      "position": 20.694432361896478
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/how-to-find-out-if-my-doctor-has-been-sued/",
+      "clicks": 26,
+      "impressions": 4544,
+      "ctr": 0.005721830985915493,
+      "position": 5.180017605633803
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/understanding-the-link-between-delayed-diagnosis-and-patient-harm/",
+      "clicks": 26,
+      "impressions": 7281,
+      "ctr": 0.0035709380579590716,
+      "position": 6.897266858947947
+    },
+    {
+      "page": "https://www.fhvlegal.com/medical-malpractice-attorney/bethesda-hospital/",
+      "clicks": 26,
+      "impressions": 2084,
+      "ctr": 0.012476007677543186,
+      "position": 16.200095969289826
+    },
+    {
+      "page": "https://www.fhvlegal.com/medical-malpractice-attorney/iv-infiltration-errors/",
+      "clicks": 25,
+      "impressions": 1891,
+      "ctr": 0.013220518244315178,
+      "position": 8.733474352194605
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:07:35.187Z"
+}

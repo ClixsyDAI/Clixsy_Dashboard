@@ -1,0 +1,1350 @@
+{
+  "property": "https://goodygaragedoors.com/",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 925,
+    "impressions": 234945,
+    "ctr": 0.003937091659750154,
+    "position": 25.821200561042232
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 6,
+      "impressions": 2641,
+      "ctr": 0.002271866717152594,
+      "position": 26.802347595607724
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 15,
+      "impressions": 3110,
+      "ctr": 0.00482315112540193,
+      "position": 34.51189710610932
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 12,
+      "impressions": 2255,
+      "ctr": 0.005321507760532151,
+      "position": 31.21640798226164
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 17,
+      "impressions": 1551,
+      "ctr": 0.01096067053513862,
+      "position": 32.69825918762089
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 12,
+      "impressions": 1432,
+      "ctr": 0.008379888268156424,
+      "position": 32.904329608938546
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 8,
+      "impressions": 2150,
+      "ctr": 0.0037209302325581397,
+      "position": 34.58186046511628
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 5,
+      "impressions": 1718,
+      "ctr": 0.002910360884749709,
+      "position": 39.86670547147846
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 9,
+      "impressions": 2960,
+      "ctr": 0.0030405405405405407,
+      "position": 26.901013513513515
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 5,
+      "impressions": 2552,
+      "ctr": 0.001959247648902821,
+      "position": 35.792319749216304
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 3,
+      "impressions": 2463,
+      "ctr": 0.001218026796589525,
+      "position": 35.77101096224117
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 3,
+      "impressions": 1120,
+      "ctr": 0.0026785714285714286,
+      "position": 37.40625
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 4,
+      "impressions": 1398,
+      "ctr": 0.002861230329041488,
+      "position": 31.513590844062946
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 8,
+      "impressions": 2122,
+      "ctr": 0.003770028275212064,
+      "position": 33.6258246936852
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 4,
+      "impressions": 1701,
+      "ctr": 0.0023515579071134627,
+      "position": 40.908289241622576
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 13,
+      "impressions": 2612,
+      "ctr": 0.0049770290964777945,
+      "position": 26.145865237366003
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 15,
+      "impressions": 2535,
+      "ctr": 0.005917159763313609,
+      "position": 31.869033530571993
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 10,
+      "impressions": 2855,
+      "ctr": 0.0035026269702276708,
+      "position": 29.145359019264447
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 4,
+      "impressions": 2225,
+      "ctr": 0.0017977528089887641,
+      "position": 25.2723595505618
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 9,
+      "impressions": 1495,
+      "ctr": 0.006020066889632107,
+      "position": 29.810702341137123
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 4,
+      "impressions": 2041,
+      "ctr": 0.0019598236158745713,
+      "position": 36.63792258696717
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 8,
+      "impressions": 1847,
+      "ctr": 0.004331348132106118,
+      "position": 37.79480238224147
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 20,
+      "impressions": 2912,
+      "ctr": 0.006868131868131868,
+      "position": 23.015796703296704
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 17,
+      "impressions": 1998,
+      "ctr": 0.00850850850850851,
+      "position": 28.002002002002
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 12,
+      "impressions": 6058,
+      "ctr": 0.0019808517662594917,
+      "position": 27.585011554968638
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 12,
+      "impressions": 3202,
+      "ctr": 0.0037476577139287947,
+      "position": 34.19394128669582
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 11,
+      "impressions": 1930,
+      "ctr": 0.005699481865284974,
+      "position": 36.218134715025904
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 6,
+      "impressions": 2000,
+      "ctr": 0.003,
+      "position": 33.211
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 5,
+      "impressions": 3364,
+      "ctr": 0.0014863258026159335,
+      "position": 28.83412604042806
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 17,
+      "impressions": 3718,
+      "ctr": 0.00457235072619688,
+      "position": 17.312533620225928
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 17,
+      "impressions": 3302,
+      "ctr": 0.00514839491217444,
+      "position": 29.41732283464567
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 17,
+      "impressions": 4015,
+      "ctr": 0.004234122042341221,
+      "position": 30.316562889165628
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 9,
+      "impressions": 1788,
+      "ctr": 0.0050335570469798654,
+      "position": 24.55704697986577
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 11,
+      "impressions": 1983,
+      "ctr": 0.005547150781643974,
+      "position": 26.605648008068584
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 8,
+      "impressions": 1865,
+      "ctr": 0.004289544235924933,
+      "position": 24.030563002680964
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 2,
+      "impressions": 3393,
+      "ctr": 0.0005894488653109342,
+      "position": 34.54818744473917
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 12,
+      "impressions": 4346,
+      "ctr": 0.0027611596870685687,
+      "position": 21.011044638748274
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 11,
+      "impressions": 2601,
+      "ctr": 0.004229142637447136,
+      "position": 24.369088811995386
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 15,
+      "impressions": 6154,
+      "ctr": 0.0024374390640233994,
+      "position": 28.76893077673058
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 17,
+      "impressions": 2538,
+      "ctr": 0.006698187549251379,
+      "position": 26.05043341213554
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 18,
+      "impressions": 2482,
+      "ctr": 0.007252215954875101,
+      "position": 24.597904915390814
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 8,
+      "impressions": 1747,
+      "ctr": 0.0045792787635947334,
+      "position": 26.44304522037779
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 8,
+      "impressions": 2802,
+      "ctr": 0.0028551034975017845,
+      "position": 30.376873661670235
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 13,
+      "impressions": 4105,
+      "ctr": 0.003166869671132765,
+      "position": 21.823873325213153
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 13,
+      "impressions": 2939,
+      "ctr": 0.004423273222184417,
+      "position": 24.35318135420211
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 15,
+      "impressions": 3663,
+      "ctr": 0.004095004095004095,
+      "position": 25.811356811356813
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 13,
+      "impressions": 2024,
+      "ctr": 0.006422924901185771,
+      "position": 23.759881422924902
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 13,
+      "impressions": 1915,
+      "ctr": 0.006788511749347258,
+      "position": 23.919060052219322
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 5,
+      "impressions": 2637,
+      "ctr": 0.0018960940462646946,
+      "position": 20.806598407281
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 10,
+      "impressions": 3798,
+      "ctr": 0.0026329647182727752,
+      "position": 25.114533965244867
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 17,
+      "impressions": 3761,
+      "ctr": 0.00452007444828503,
+      "position": 21.06939643711779
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 15,
+      "impressions": 1978,
+      "ctr": 0.007583417593528817,
+      "position": 22.59201213346815
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 15,
+      "impressions": 2646,
+      "ctr": 0.005668934240362812,
+      "position": 24.80309901738473
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 20,
+      "impressions": 2729,
+      "ctr": 0.007328691828508612,
+      "position": 27.96372297544888
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 17,
+      "impressions": 2490,
+      "ctr": 0.006827309236947791,
+      "position": 20.926907630522088
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 6,
+      "impressions": 2201,
+      "ctr": 0.0027260336210813267,
+      "position": 24.323943661971832
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 3,
+      "impressions": 2190,
+      "ctr": 0.0013698630136986301,
+      "position": 28.19269406392694
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 9,
+      "impressions": 3789,
+      "ctr": 0.0023752969121140144,
+      "position": 21.31908155186065
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 13,
+      "impressions": 2392,
+      "ctr": 0.005434782608695652,
+      "position": 28.025919732441473
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 11,
+      "impressions": 2780,
+      "ctr": 0.003956834532374101,
+      "position": 24.50071942446043
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 7,
+      "impressions": 2419,
+      "ctr": 0.0028937577511368336,
+      "position": 28.49855312112443
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 8,
+      "impressions": 1990,
+      "ctr": 0.004020100502512563,
+      "position": 23.768844221105528
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 2,
+      "impressions": 2405,
+      "ctr": 0.0008316008316008316,
+      "position": 22.334303534303533
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 3,
+      "impressions": 2013,
+      "ctr": 0.0014903129657228018,
+      "position": 25.14406358668654
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 8,
+      "impressions": 2537,
+      "ctr": 0.0031533307055577452,
+      "position": 15.862830114308238
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 8,
+      "impressions": 2232,
+      "ctr": 0.0035842293906810036,
+      "position": 20.342293906810035
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 8,
+      "impressions": 2716,
+      "ctr": 0.0029455081001472753,
+      "position": 19.75
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 14,
+      "impressions": 2310,
+      "ctr": 0.006060606060606061,
+      "position": 20.954978354978355
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 12,
+      "impressions": 2470,
+      "ctr": 0.004858299595141701,
+      "position": 21.13157894736842
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 7,
+      "impressions": 2301,
+      "ctr": 0.003042155584528466,
+      "position": 21.810951760104302
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 3,
+      "impressions": 2312,
+      "ctr": 0.0012975778546712802,
+      "position": 26.024221453287197
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 10,
+      "impressions": 2512,
+      "ctr": 0.003980891719745223,
+      "position": 17.628184713375795
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 11,
+      "impressions": 1769,
+      "ctr": 0.006218202374222725,
+      "position": 20.021481062747316
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 13,
+      "impressions": 2450,
+      "ctr": 0.005306122448979592,
+      "position": 22.815510204081633
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 12,
+      "impressions": 1713,
+      "ctr": 0.0070052539404553416,
+      "position": 19.298307063631057
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 5,
+      "impressions": 2600,
+      "ctr": 0.0019230769230769232,
+      "position": 26.65230769230769
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 5,
+      "impressions": 2622,
+      "ctr": 0.0019069412662090007,
+      "position": 19.088482074752097
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 3,
+      "impressions": 3411,
+      "ctr": 0.0008795074758135445,
+      "position": 21.72969803576664
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 22,
+      "impressions": 3739,
+      "ctr": 0.005883926183471516,
+      "position": 18.194704466434874
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 9,
+      "impressions": 3222,
+      "ctr": 0.002793296089385475,
+      "position": 14.686219739292365
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 8,
+      "impressions": 2462,
+      "ctr": 0.003249390739236393,
+      "position": 17.804224207961006
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 16,
+      "impressions": 2298,
+      "ctr": 0.006962576153176675,
+      "position": 17.67058311575283
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 13,
+      "impressions": 2637,
+      "ctr": 0.004929844520288207,
+      "position": 19.772089495638983
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 7,
+      "impressions": 2405,
+      "ctr": 0.0029106029106029108,
+      "position": 20.187525987525987
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 3,
+      "impressions": 2964,
+      "ctr": 0.0010121457489878543,
+      "position": 29.502024291497975
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 19,
+      "impressions": 2930,
+      "ctr": 0.006484641638225256,
+      "position": 18.60887372013652
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 18,
+      "impressions": 3339,
+      "ctr": 0.005390835579514825,
+      "position": 14.697214734950585
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 11,
+      "impressions": 2670,
+      "ctr": 0.004119850187265918,
+      "position": 19.285767790262174
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 11,
+      "impressions": 1581,
+      "ctr": 0.006957621758380772,
+      "position": 17.633776091081593
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 7,
+      "impressions": 2468,
+      "ctr": 0.0028363047001620746,
+      "position": 22.617504051863857
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 7,
+      "impressions": 2430,
+      "ctr": 0.002880658436213992,
+      "position": 20.443621399176955
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "goody garage doors",
+      "clicks": 304,
+      "impressions": 2136,
+      "ctr": 0.14232209737827714,
+      "position": 1.5224719101123596
+    },
+    {
+      "query": "goody garage door",
+      "clicks": 113,
+      "impressions": 542,
+      "ctr": 0.20848708487084872,
+      "position": 1.8173431734317345
+    },
+    {
+      "query": "goody garage",
+      "clicks": 19,
+      "impressions": 93,
+      "ctr": 0.20430107526881722,
+      "position": 2.193548387096774
+    },
+    {
+      "query": "garage door repair",
+      "clicks": 7,
+      "impressions": 5191,
+      "ctr": 0.0013484877672895396,
+      "position": 9.973415526873435
+    },
+    {
+      "query": "goody garage doors tucson",
+      "clicks": 6,
+      "impressions": 77,
+      "ctr": 0.07792207792207792,
+      "position": 1.7532467532467533
+    },
+    {
+      "query": "goodys garage",
+      "clicks": 6,
+      "impressions": 140,
+      "ctr": 0.04285714285714286,
+      "position": 10.592857142857143
+    },
+    {
+      "query": "garage door repair mesa az",
+      "clicks": 5,
+      "impressions": 1612,
+      "ctr": 0.003101736972704715,
+      "position": 7.614764267990075
+    },
+    {
+      "query": "garage doors phoenix",
+      "clicks": 5,
+      "impressions": 741,
+      "ctr": 0.006747638326585695,
+      "position": 14.574898785425102
+    },
+    {
+      "query": "goody garage doors photos",
+      "clicks": 4,
+      "impressions": 36,
+      "ctr": 0.1111111111111111,
+      "position": 2.4722222222222223
+    },
+    {
+      "query": "arizona's best garage door and repair company reviews",
+      "clicks": 3,
+      "impressions": 840,
+      "ctr": 0.0035714285714285713,
+      "position": 6.870238095238095
+    },
+    {
+      "query": "commercial garage door repair",
+      "clicks": 3,
+      "impressions": 3809,
+      "ctr": 0.0007876082961407193,
+      "position": 54.9419795221843
+    },
+    {
+      "query": "garage door repair phoenix",
+      "clicks": 3,
+      "impressions": 1668,
+      "ctr": 0.0017985611510791368,
+      "position": 24.18345323741007
+    },
+    {
+      "query": "garage doors mesa az",
+      "clicks": 3,
+      "impressions": 426,
+      "ctr": 0.007042253521126761,
+      "position": 7.450704225352113
+    },
+    {
+      "query": "goodies garage",
+      "clicks": 3,
+      "impressions": 40,
+      "ctr": 0.075,
+      "position": 18
+    },
+    {
+      "query": "goodies garage door repair",
+      "clicks": 3,
+      "impressions": 45,
+      "ctr": 0.06666666666666667,
+      "position": 8.444444444444445
+    },
+    {
+      "query": "driveway gate phoenix",
+      "clicks": 2,
+      "impressions": 48,
+      "ctr": 0.041666666666666664,
+      "position": 11.166666666666666
+    },
+    {
+      "query": "garage door arizona",
+      "clicks": 2,
+      "impressions": 20,
+      "ctr": 0.1,
+      "position": 26
+    },
+    {
+      "query": "garage door installation",
+      "clicks": 2,
+      "impressions": 5331,
+      "ctr": 0.00037516413430876007,
+      "position": 6.231101106734196
+    },
+    {
+      "query": "garage door installation mesa az",
+      "clicks": 2,
+      "impressions": 304,
+      "ctr": 0.006578947368421052,
+      "position": 3.473684210526316
+    },
+    {
+      "query": "garage door mesa az",
+      "clicks": 2,
+      "impressions": 141,
+      "ctr": 0.014184397163120567,
+      "position": 13.97872340425532
+    },
+    {
+      "query": "garage door phoenix az",
+      "clicks": 2,
+      "impressions": 45,
+      "ctr": 0.044444444444444446,
+      "position": 26.2
+    },
+    {
+      "query": "garage door repair cave creek",
+      "clicks": 2,
+      "impressions": 160,
+      "ctr": 0.0125,
+      "position": 11.85
+    },
+    {
+      "query": "garage door service mesa az",
+      "clicks": 2,
+      "impressions": 463,
+      "ctr": 0.004319654427645789,
+      "position": 5.827213822894168
+    },
+    {
+      "query": "glass garage doors mesa az",
+      "clicks": 2,
+      "impressions": 126,
+      "ctr": 0.015873015873015872,
+      "position": 25.50793650793651
+    },
+    {
+      "query": "goody garage doors careers",
+      "clicks": 2,
+      "impressions": 128,
+      "ctr": 0.015625,
+      "position": 4.1015625
+    },
+    {
+      "query": "goody garage doors reviews",
+      "clicks": 2,
+      "impressions": 110,
+      "ctr": 0.01818181818181818,
+      "position": 5.009090909090909
+    },
+    {
+      "query": "goody's garage",
+      "clicks": 2,
+      "impressions": 49,
+      "ctr": 0.04081632653061224,
+      "position": 9.918367346938776
+    },
+    {
+      "query": "mesa az garage door repair",
+      "clicks": 2,
+      "impressions": 221,
+      "ctr": 0.00904977375565611,
+      "position": 7.131221719457014
+    },
+    {
+      "query": "new garage door",
+      "clicks": 2,
+      "impressions": 1099,
+      "ctr": 0.0018198362147406734,
+      "position": 52.84531392174704
+    },
+    {
+      "query": "rv gates",
+      "clicks": 2,
+      "impressions": 227,
+      "ctr": 0.00881057268722467,
+      "position": 11.616740088105727
+    },
+    {
+      "query": "arizona's best garage door and repair company",
+      "clicks": 1,
+      "impressions": 1328,
+      "ctr": 0.0007530120481927711,
+      "position": 32.2296686746988
+    },
+    {
+      "query": "az best garage door repair",
+      "clicks": 1,
+      "impressions": 57,
+      "ctr": 0.017543859649122806,
+      "position": 6.964912280701754
+    },
+    {
+      "query": "best garage door repair near me",
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 14.25
+    },
+    {
+      "query": "car stuck in garage",
+      "clicks": 1,
+      "impressions": 61,
+      "ctr": 0.01639344262295082,
+      "position": 7.098360655737705
+    },
+    {
+      "query": "commercial garage door installation",
+      "clicks": 1,
+      "impressions": 44,
+      "ctr": 0.022727272727272728,
+      "position": 4.659090909090909
+    },
+    {
+      "query": "commercial garage door repair phoenix",
+      "clicks": 1,
+      "impressions": 368,
+      "ctr": 0.002717391304347826,
+      "position": 17.22826086956522
+    },
+    {
+      "query": "electric gate repair",
+      "clicks": 1,
+      "impressions": 635,
+      "ctr": 0.0015748031496062992,
+      "position": 30.50708661417323
+    },
+    {
+      "query": "garage door company",
+      "clicks": 1,
+      "impressions": 3310,
+      "ctr": 0.00030211480362537764,
+      "position": 28.34894259818731
+    },
+    {
+      "query": "garage door maintenance peoria",
+      "clicks": 1,
+      "impressions": 105,
+      "ctr": 0.009523809523809525,
+      "position": 24.80952380952381
+    },
+    {
+      "query": "garage door opener installation near me",
+      "clicks": 1,
+      "impressions": 238,
+      "ctr": 0.004201680672268907,
+      "position": 18.26890756302521
+    },
+    {
+      "query": "garage door parts near me",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 10.571428571428571
+    },
+    {
+      "query": "garage door parts supplier",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 23
+    },
+    {
+      "query": "garage door repair estimates near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "garage door repair free estimate",
+      "clicks": 1,
+      "impressions": 50,
+      "ctr": 0.02,
+      "position": 63.96
+    },
+    {
+      "query": "garage door repair in phoenix",
+      "clicks": 1,
+      "impressions": 167,
+      "ctr": 0.005988023952095809,
+      "position": 27.95808383233533
+    },
+    {
+      "query": "garage door repair mesa",
+      "clicks": 1,
+      "impressions": 2089,
+      "ctr": 0.0004786979415988511,
+      "position": 5.876974629009095
+    },
+    {
+      "query": "garage door repair near me",
+      "clicks": 1,
+      "impressions": 2314,
+      "ctr": 0.000432152117545376,
+      "position": 18.371650821089023
+    },
+    {
+      "query": "garage door repair scottsdale",
+      "clicks": 1,
+      "impressions": 385,
+      "ctr": 0.0025974025974025974,
+      "position": 37.251948051948055
+    },
+    {
+      "query": "garage door repair surprise az",
+      "clicks": 1,
+      "impressions": 537,
+      "ctr": 0.00186219739292365,
+      "position": 14.312849162011172
+    },
+    {
+      "query": "garage door repair tucson az",
+      "clicks": 1,
+      "impressions": 225,
+      "ctr": 0.0044444444444444444,
+      "position": 27.653333333333332
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://goodygaragedoors.com/?utm_source=google&utm_medium=organic&utm_campaign=Google%20My%20Business%20AZ%20Best",
+      "clicks": 352,
+      "impressions": 28215,
+      "ctr": 0.012475633528265107,
+      "position": 4.477015771752614
+    },
+    {
+      "page": "https://goodygaragedoors.com/",
+      "clicks": 333,
+      "impressions": 44229,
+      "ctr": 0.007528996812046395,
+      "position": 24.22139320355423
+    },
+    {
+      "page": "https://goodygaragedoors.com/contact-us/",
+      "clicks": 29,
+      "impressions": 4894,
+      "ctr": 0.005925623212096444,
+      "position": 7.48304045770331
+    },
+    {
+      "page": "https://goodygaragedoors.com/about-us/",
+      "clicks": 27,
+      "impressions": 8423,
+      "ctr": 0.003205508726107088,
+      "position": 11.422296094028257
+    },
+    {
+      "page": "https://goodygaragedoors.com/the-most-common-automatic-gate-problems-and-what-they-mean/",
+      "clicks": 25,
+      "impressions": 4618,
+      "ctr": 0.005413598960588999,
+      "position": 9.925508878302296
+    },
+    {
+      "page": "https://goodygaragedoors.com/tucson-garage-door-repair/",
+      "clicks": 16,
+      "impressions": 10733,
+      "ctr": 0.0014907295257616695,
+      "position": 24.7510481691978
+    },
+    {
+      "page": "https://goodygaragedoors.com/new-garage-door-installation/",
+      "clicks": 15,
+      "impressions": 24406,
+      "ctr": 0.0006146029664836516,
+      "position": 27.56617225272474
+    },
+    {
+      "page": "https://goodygaragedoors.com/garage-door-repair/",
+      "clicks": 14,
+      "impressions": 20559,
+      "ctr": 0.0006809669731018045,
+      "position": 20.832871248601585
+    },
+    {
+      "page": "https://goodygaragedoors.com/rv-gates/",
+      "clicks": 13,
+      "impressions": 2894,
+      "ctr": 0.004492052522460262,
+      "position": 30.022114720110572
+    },
+    {
+      "page": "https://goodygaragedoors.com/commercial-garage-door-installation-repair/",
+      "clicks": 12,
+      "impressions": 17850,
+      "ctr": 0.0006722689075630252,
+      "position": 35.526442577030814
+    },
+    {
+      "page": "https://goodygaragedoors.com/automatic-gate-installation/",
+      "clicks": 8,
+      "impressions": 14538,
+      "ctr": 0.0005502820195350117,
+      "position": 21.5821295914156
+    },
+    {
+      "page": "https://goodygaragedoors.com/electric-driveway-gate/",
+      "clicks": 8,
+      "impressions": 8430,
+      "ctr": 0.0009489916963226571,
+      "position": 24.81459074733096
+    },
+    {
+      "page": "https://goodygaragedoors.com/what-to-do-if-your-garage-door-doesnt-open-car-stuck-in-garage/",
+      "clicks": 8,
+      "impressions": 1696,
+      "ctr": 0.0047169811320754715,
+      "position": 31.64858490566038
+    },
+    {
+      "page": "https://goodygaragedoors.com/garage-door-installation/",
+      "clicks": 7,
+      "impressions": 4490,
+      "ctr": 0.0015590200445434299,
+      "position": 9.518485523385301
+    },
+    {
+      "page": "https://goodygaragedoors.com/gallery/",
+      "clicks": 5,
+      "impressions": 191,
+      "ctr": 0.02617801047120419,
+      "position": 17.12041884816754
+    },
+    {
+      "page": "https://goodygaragedoors.com/broken-garage-door-springs/",
+      "clicks": 4,
+      "impressions": 8414,
+      "ctr": 0.0004753981459472308,
+      "position": 20.2747801283575
+    },
+    {
+      "page": "https://goodygaragedoors.com/custom-size-garage-doors-for-non-standard-openings/",
+      "clicks": 4,
+      "impressions": 938,
+      "ctr": 0.0042643923240938165,
+      "position": 9.621535181236673
+    },
+    {
+      "page": "https://goodygaragedoors.com/dock-leveler-repair/",
+      "clicks": 4,
+      "impressions": 1938,
+      "ctr": 0.0020639834881320948,
+      "position": 46.115067079463365
+    },
+    {
+      "page": "https://goodygaragedoors.com/garage-door-opener-repair-and-installation/",
+      "clicks": 4,
+      "impressions": 3890,
+      "ctr": 0.0010282776349614395,
+      "position": 37.17917737789203
+    },
+    {
+      "page": "https://goodygaragedoors.com/garage-door-repair-and-installation/",
+      "clicks": 4,
+      "impressions": 1484,
+      "ctr": 0.0026954177897574125,
+      "position": 17.758760107816713
+    },
+    {
+      "page": "https://goodygaragedoors.com/how-can-i-tell-if-its-time-to-replace-my-garage-door-springs/",
+      "clicks": 4,
+      "impressions": 3337,
+      "ctr": 0.001198681450404555,
+      "position": 35.68894216362002
+    },
+    {
+      "page": "https://goodygaragedoors.com/new-commercial-garage-door/",
+      "clicks": 4,
+      "impressions": 3598,
+      "ctr": 0.0011117287381878821,
+      "position": 28.666481378543637
+    },
+    {
+      "page": "https://goodygaragedoors.com/automatic-gate-openers/",
+      "clicks": 3,
+      "impressions": 5855,
+      "ctr": 0.0005123825789923143,
+      "position": 37.69940222032451
+    },
+    {
+      "page": "https://goodygaragedoors.com/cave-creek-garage-door-repair/",
+      "clicks": 3,
+      "impressions": 1301,
+      "ctr": 0.0023059185242121443,
+      "position": 24.594926979246733
+    },
+    {
+      "page": "https://goodygaragedoors.com/garage-door-openers/",
+      "clicks": 3,
+      "impressions": 876,
+      "ctr": 0.003424657534246575,
+      "position": 14.200913242009133
+    },
+    {
+      "page": "https://goodygaragedoors.com/mesa-garage-door-springs/",
+      "clicks": 3,
+      "impressions": 736,
+      "ctr": 0.004076086956521739,
+      "position": 27.83423913043478
+    },
+    {
+      "page": "https://goodygaragedoors.com/surprise-garage-door-repair/",
+      "clicks": 3,
+      "impressions": 3043,
+      "ctr": 0.000985869208018403,
+      "position": 21.70456786066382
+    },
+    {
+      "page": "https://goodygaragedoors.com/what-should-i-do-if-my-garage-door-sensors-arent-working/",
+      "clicks": 3,
+      "impressions": 2499,
+      "ctr": 0.0012004801920768306,
+      "position": 19.276510604241697
+    },
+    {
+      "page": "https://goodygaragedoors.com/commercial-garage-doors-chandler/",
+      "clicks": 2,
+      "impressions": 289,
+      "ctr": 0.006920415224913495,
+      "position": 40.449826989619375
+    },
+    {
+      "page": "https://goodygaragedoors.com/commercial-garage-doors-gilbert/",
+      "clicks": 2,
+      "impressions": 59,
+      "ctr": 0.03389830508474576,
+      "position": 31.559322033898304
+    },
+    {
+      "page": "https://goodygaragedoors.com/garage-door-repair-estimates/",
+      "clicks": 2,
+      "impressions": 1959,
+      "ctr": 0.0010209290454313426,
+      "position": 29.772843287391527
+    },
+    {
+      "page": "https://goodygaragedoors.com/genie-garage-door-openers/",
+      "clicks": 2,
+      "impressions": 1470,
+      "ctr": 0.0013605442176870747,
+      "position": 20.75170068027211
+    },
+    {
+      "page": "https://goodygaragedoors.com/guide-to-garage-door-sizes/",
+      "clicks": 2,
+      "impressions": 762,
+      "ctr": 0.0026246719160104987,
+      "position": 15.964566929133857
+    },
+    {
+      "page": "https://goodygaragedoors.com/mesa-garage-door-repair/glass-garage-doors/",
+      "clicks": 2,
+      "impressions": 60,
+      "ctr": 0.03333333333333333,
+      "position": 3.9166666666666665
+    },
+    {
+      "page": "https://goodygaragedoors.com/peoria-garage-door-repair/garage-door-maintenance/",
+      "clicks": 2,
+      "impressions": 612,
+      "ctr": 0.0032679738562091504,
+      "position": 35.48202614379085
+    },
+    {
+      "page": "https://goodygaragedoors.com/san-tan-valley-garage-door-repair/",
+      "clicks": 2,
+      "impressions": 2654,
+      "ctr": 0.0007535795026375283,
+      "position": 22.26525998492841
+    },
+    {
+      "page": "https://goodygaragedoors.com/scottsdale-garage-door-repair/wood-garage-doors/",
+      "clicks": 2,
+      "impressions": 258,
+      "ctr": 0.007751937984496124,
+      "position": 5.550387596899225
+    },
+    {
+      "page": "https://goodygaragedoors.com/why-have-my-garage-door-rollers-come-off-track/",
+      "clicks": 2,
+      "impressions": 2652,
+      "ctr": 0.0007541478129713424,
+      "position": 20.7341628959276
+    },
+    {
+      "page": "https://goodygaragedoors.com/buckeye-garage-door-repair/",
+      "clicks": 1,
+      "impressions": 683,
+      "ctr": 0.0014641288433382138,
+      "position": 23.70424597364568
+    },
+    {
+      "page": "https://goodygaragedoors.com/commercial-garage-doors-mesa/",
+      "clicks": 1,
+      "impressions": 648,
+      "ctr": 0.0015432098765432098,
+      "position": 27.555555555555557
+    },
+    {
+      "page": "https://goodygaragedoors.com/commercial-garage-doors-scottsdale/",
+      "clicks": 1,
+      "impressions": 267,
+      "ctr": 0.003745318352059925,
+      "position": 8.831460674157302
+    },
+    {
+      "page": "https://goodygaragedoors.com/design-your-door-today/",
+      "clicks": 1,
+      "impressions": 837,
+      "ctr": 0.0011947431302270011,
+      "position": 13.166069295101552
+    },
+    {
+      "page": "https://goodygaragedoors.com/double-to-single-garage-door/",
+      "clicks": 1,
+      "impressions": 269,
+      "ctr": 0.0037174721189591076,
+      "position": 15.788104089219331
+    },
+    {
+      "page": "https://goodygaragedoors.com/fountain-hills-garage-door-repair/",
+      "clicks": 1,
+      "impressions": 2477,
+      "ctr": 0.0004037141703673799,
+      "position": 17.005651998385144
+    },
+    {
+      "page": "https://goodygaragedoors.com/garage-door-repair-and-installation/insulated-wood-grain-garage-doors/",
+      "clicks": 1,
+      "impressions": 40,
+      "ctr": 0.025,
+      "position": 35.125
+    },
+    {
+      "page": "https://goodygaragedoors.com/garage-door-replacement-versus-repair/",
+      "clicks": 1,
+      "impressions": 344,
+      "ctr": 0.0029069767441860465,
+      "position": 26.11918604651163
+    },
+    {
+      "page": "https://goodygaragedoors.com/gilbert-garage-door-repair/",
+      "clicks": 1,
+      "impressions": 9147,
+      "ctr": 0.00010932546190007652,
+      "position": 40.488356838307645
+    },
+    {
+      "page": "https://goodygaragedoors.com/gilbert-garage-door-repair/wood-garage-doors/",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 38.63636363636363
+    },
+    {
+      "page": "https://goodygaragedoors.com/glendale-garage-door-repair/",
+      "clicks": 1,
+      "impressions": 2473,
+      "ctr": 0.0004043671653861706,
+      "position": 47.005661140315404
+    },
+    {
+      "page": "https://goodygaragedoors.com/liftmaster-garage-door-openers/",
+      "clicks": 1,
+      "impressions": 1007,
+      "ctr": 0.0009930486593843098,
+      "position": 24.38033763654419
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:08:15.263Z"
+}

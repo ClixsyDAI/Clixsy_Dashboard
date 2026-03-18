@@ -1,0 +1,754 @@
+{
+  "propertyId": "properties/398642882",
+  "displayName": "Minton Law Firm - GA4",
+  "dateRange": {
+    "start": "2025-12-17",
+    "end": "2026-03-17"
+  },
+  "totals": {
+    "sessions": 37575,
+    "users": 36916,
+    "screenPageViews": 45216,
+    "organicSessions": 9060,
+    "bounceRate": 0.7795617795977045,
+    "avgSessionDuration": 58.95238801376338
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-17",
+      "sessions": 431,
+      "users": 423,
+      "screenPageViews": 558
+    },
+    {
+      "date": "2025-12-18",
+      "sessions": 410,
+      "users": 403,
+      "screenPageViews": 545
+    },
+    {
+      "date": "2025-12-19",
+      "sessions": 364,
+      "users": 356,
+      "screenPageViews": 498
+    },
+    {
+      "date": "2025-12-20",
+      "sessions": 335,
+      "users": 336,
+      "screenPageViews": 471
+    },
+    {
+      "date": "2025-12-21",
+      "sessions": 338,
+      "users": 335,
+      "screenPageViews": 481
+    },
+    {
+      "date": "2025-12-22",
+      "sessions": 455,
+      "users": 450,
+      "screenPageViews": 587
+    },
+    {
+      "date": "2025-12-23",
+      "sessions": 391,
+      "users": 384,
+      "screenPageViews": 523
+    },
+    {
+      "date": "2025-12-24",
+      "sessions": 304,
+      "users": 303,
+      "screenPageViews": 405
+    },
+    {
+      "date": "2025-12-25",
+      "sessions": 310,
+      "users": 306,
+      "screenPageViews": 423
+    },
+    {
+      "date": "2025-12-26",
+      "sessions": 315,
+      "users": 307,
+      "screenPageViews": 437
+    },
+    {
+      "date": "2025-12-27",
+      "sessions": 324,
+      "users": 322,
+      "screenPageViews": 438
+    },
+    {
+      "date": "2025-12-28",
+      "sessions": 280,
+      "users": 278,
+      "screenPageViews": 374
+    },
+    {
+      "date": "2025-12-29",
+      "sessions": 405,
+      "users": 397,
+      "screenPageViews": 568
+    },
+    {
+      "date": "2025-12-30",
+      "sessions": 439,
+      "users": 433,
+      "screenPageViews": 562
+    },
+    {
+      "date": "2025-12-31",
+      "sessions": 374,
+      "users": 364,
+      "screenPageViews": 487
+    },
+    {
+      "date": "2026-01-01",
+      "sessions": 1074,
+      "users": 1068,
+      "screenPageViews": 1175
+    },
+    {
+      "date": "2026-01-02",
+      "sessions": 846,
+      "users": 839,
+      "screenPageViews": 940
+    },
+    {
+      "date": "2026-01-03",
+      "sessions": 782,
+      "users": 777,
+      "screenPageViews": 845
+    },
+    {
+      "date": "2026-01-04",
+      "sessions": 692,
+      "users": 687,
+      "screenPageViews": 724
+    },
+    {
+      "date": "2026-01-05",
+      "sessions": 720,
+      "users": 714,
+      "screenPageViews": 785
+    },
+    {
+      "date": "2026-01-06",
+      "sessions": 710,
+      "users": 701,
+      "screenPageViews": 788
+    },
+    {
+      "date": "2026-01-07",
+      "sessions": 682,
+      "users": 674,
+      "screenPageViews": 810
+    },
+    {
+      "date": "2026-01-08",
+      "sessions": 786,
+      "users": 784,
+      "screenPageViews": 1154
+    },
+    {
+      "date": "2026-01-09",
+      "sessions": 656,
+      "users": 646,
+      "screenPageViews": 802
+    },
+    {
+      "date": "2026-01-10",
+      "sessions": 706,
+      "users": 699,
+      "screenPageViews": 878
+    },
+    {
+      "date": "2026-01-11",
+      "sessions": 576,
+      "users": 575,
+      "screenPageViews": 679
+    },
+    {
+      "date": "2026-01-12",
+      "sessions": 562,
+      "users": 557,
+      "screenPageViews": 610
+    },
+    {
+      "date": "2026-01-13",
+      "sessions": 412,
+      "users": 405,
+      "screenPageViews": 456
+    },
+    {
+      "date": "2026-01-14",
+      "sessions": 440,
+      "users": 422,
+      "screenPageViews": 538
+    },
+    {
+      "date": "2026-01-15",
+      "sessions": 408,
+      "users": 393,
+      "screenPageViews": 519
+    },
+    {
+      "date": "2026-01-16",
+      "sessions": 434,
+      "users": 421,
+      "screenPageViews": 542
+    },
+    {
+      "date": "2026-01-17",
+      "sessions": 438,
+      "users": 434,
+      "screenPageViews": 557
+    },
+    {
+      "date": "2026-01-18",
+      "sessions": 377,
+      "users": 373,
+      "screenPageViews": 467
+    },
+    {
+      "date": "2026-01-19",
+      "sessions": 446,
+      "users": 440,
+      "screenPageViews": 545
+    },
+    {
+      "date": "2026-01-20",
+      "sessions": 429,
+      "users": 425,
+      "screenPageViews": 535
+    },
+    {
+      "date": "2026-01-21",
+      "sessions": 438,
+      "users": 423,
+      "screenPageViews": 622
+    },
+    {
+      "date": "2026-01-22",
+      "sessions": 397,
+      "users": 390,
+      "screenPageViews": 497
+    },
+    {
+      "date": "2026-01-23",
+      "sessions": 310,
+      "users": 300,
+      "screenPageViews": 398
+    },
+    {
+      "date": "2026-01-24",
+      "sessions": 368,
+      "users": 360,
+      "screenPageViews": 439
+    },
+    {
+      "date": "2026-01-25",
+      "sessions": 323,
+      "users": 319,
+      "screenPageViews": 408
+    },
+    {
+      "date": "2026-01-26",
+      "sessions": 389,
+      "users": 382,
+      "screenPageViews": 514
+    },
+    {
+      "date": "2026-01-27",
+      "sessions": 369,
+      "users": 367,
+      "screenPageViews": 486
+    },
+    {
+      "date": "2026-01-28",
+      "sessions": 397,
+      "users": 382,
+      "screenPageViews": 487
+    },
+    {
+      "date": "2026-01-29",
+      "sessions": 382,
+      "users": 375,
+      "screenPageViews": 458
+    },
+    {
+      "date": "2026-01-30",
+      "sessions": 417,
+      "users": 414,
+      "screenPageViews": 499
+    },
+    {
+      "date": "2026-01-31",
+      "sessions": 381,
+      "users": 379,
+      "screenPageViews": 433
+    },
+    {
+      "date": "2026-02-01",
+      "sessions": 488,
+      "users": 482,
+      "screenPageViews": 525
+    },
+    {
+      "date": "2026-02-02",
+      "sessions": 465,
+      "users": 456,
+      "screenPageViews": 511
+    },
+    {
+      "date": "2026-02-03",
+      "sessions": 472,
+      "users": 460,
+      "screenPageViews": 555
+    },
+    {
+      "date": "2026-02-04",
+      "sessions": 466,
+      "users": 454,
+      "screenPageViews": 536
+    },
+    {
+      "date": "2026-02-05",
+      "sessions": 430,
+      "users": 421,
+      "screenPageViews": 494
+    },
+    {
+      "date": "2026-02-06",
+      "sessions": 352,
+      "users": 344,
+      "screenPageViews": 411
+    },
+    {
+      "date": "2026-02-07",
+      "sessions": 381,
+      "users": 372,
+      "screenPageViews": 443
+    },
+    {
+      "date": "2026-02-08",
+      "sessions": 357,
+      "users": 355,
+      "screenPageViews": 391
+    },
+    {
+      "date": "2026-02-09",
+      "sessions": 400,
+      "users": 393,
+      "screenPageViews": 443
+    },
+    {
+      "date": "2026-02-10",
+      "sessions": 449,
+      "users": 432,
+      "screenPageViews": 577
+    },
+    {
+      "date": "2026-02-11",
+      "sessions": 309,
+      "users": 301,
+      "screenPageViews": 485
+    },
+    {
+      "date": "2026-02-12",
+      "sessions": 314,
+      "users": 306,
+      "screenPageViews": 370
+    },
+    {
+      "date": "2026-02-13",
+      "sessions": 340,
+      "users": 332,
+      "screenPageViews": 400
+    },
+    {
+      "date": "2026-02-14",
+      "sessions": 369,
+      "users": 360,
+      "screenPageViews": 416
+    },
+    {
+      "date": "2026-02-15",
+      "sessions": 259,
+      "users": 255,
+      "screenPageViews": 290
+    },
+    {
+      "date": "2026-02-16",
+      "sessions": 374,
+      "users": 368,
+      "screenPageViews": 427
+    },
+    {
+      "date": "2026-02-17",
+      "sessions": 401,
+      "users": 386,
+      "screenPageViews": 451
+    },
+    {
+      "date": "2026-02-18",
+      "sessions": 354,
+      "users": 352,
+      "screenPageViews": 415
+    },
+    {
+      "date": "2026-02-19",
+      "sessions": 308,
+      "users": 307,
+      "screenPageViews": 369
+    },
+    {
+      "date": "2026-02-20",
+      "sessions": 301,
+      "users": 294,
+      "screenPageViews": 347
+    },
+    {
+      "date": "2026-02-21",
+      "sessions": 274,
+      "users": 269,
+      "screenPageViews": 298
+    },
+    {
+      "date": "2026-02-22",
+      "sessions": 260,
+      "users": 258,
+      "screenPageViews": 279
+    },
+    {
+      "date": "2026-02-23",
+      "sessions": 359,
+      "users": 351,
+      "screenPageViews": 413
+    },
+    {
+      "date": "2026-02-24",
+      "sessions": 320,
+      "users": 311,
+      "screenPageViews": 383
+    },
+    {
+      "date": "2026-02-25",
+      "sessions": 336,
+      "users": 327,
+      "screenPageViews": 391
+    },
+    {
+      "date": "2026-02-26",
+      "sessions": 290,
+      "users": 286,
+      "screenPageViews": 336
+    },
+    {
+      "date": "2026-02-27",
+      "sessions": 294,
+      "users": 288,
+      "screenPageViews": 329
+    },
+    {
+      "date": "2026-02-28",
+      "sessions": 386,
+      "users": 379,
+      "screenPageViews": 414
+    },
+    {
+      "date": "2026-03-01",
+      "sessions": 212,
+      "users": 210,
+      "screenPageViews": 247
+    },
+    {
+      "date": "2026-03-02",
+      "sessions": 363,
+      "users": 355,
+      "screenPageViews": 397
+    },
+    {
+      "date": "2026-03-03",
+      "sessions": 307,
+      "users": 297,
+      "screenPageViews": 375
+    },
+    {
+      "date": "2026-03-04",
+      "sessions": 314,
+      "users": 304,
+      "screenPageViews": 359
+    },
+    {
+      "date": "2026-03-05",
+      "sessions": 305,
+      "users": 297,
+      "screenPageViews": 359
+    },
+    {
+      "date": "2026-03-06",
+      "sessions": 302,
+      "users": 291,
+      "screenPageViews": 366
+    },
+    {
+      "date": "2026-03-07",
+      "sessions": 270,
+      "users": 267,
+      "screenPageViews": 329
+    },
+    {
+      "date": "2026-03-08",
+      "sessions": 398,
+      "users": 390,
+      "screenPageViews": 433
+    },
+    {
+      "date": "2026-03-09",
+      "sessions": 400,
+      "users": 386,
+      "screenPageViews": 463
+    },
+    {
+      "date": "2026-03-10",
+      "sessions": 417,
+      "users": 407,
+      "screenPageViews": 465
+    },
+    {
+      "date": "2026-03-11",
+      "sessions": 298,
+      "users": 290,
+      "screenPageViews": 351
+    },
+    {
+      "date": "2026-03-12",
+      "sessions": 317,
+      "users": 309,
+      "screenPageViews": 404
+    },
+    {
+      "date": "2026-03-13",
+      "sessions": 328,
+      "users": 312,
+      "screenPageViews": 359
+    },
+    {
+      "date": "2026-03-14",
+      "sessions": 247,
+      "users": 243,
+      "screenPageViews": 256
+    },
+    {
+      "date": "2026-03-15",
+      "sessions": 272,
+      "users": 270,
+      "screenPageViews": 284
+    },
+    {
+      "date": "2026-03-16",
+      "sessions": 421,
+      "users": 404,
+      "screenPageViews": 477
+    },
+    {
+      "date": "2026-03-17",
+      "sessions": 474,
+      "users": 463,
+      "screenPageViews": 646
+    }
+  ],
+  "channelData": [
+    {
+      "channel": "Display",
+      "sessions": 16070,
+      "users": 15588
+    },
+    {
+      "channel": "Organic Search",
+      "sessions": 9060,
+      "users": 8327
+    },
+    {
+      "channel": "Direct",
+      "sessions": 7228,
+      "users": 7036
+    },
+    {
+      "channel": "Referral",
+      "sessions": 2377,
+      "users": 2298
+    },
+    {
+      "channel": "Organic Shopping",
+      "sessions": 1868,
+      "users": 1870
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": 763,
+      "users": 735
+    },
+    {
+      "channel": "Organic Social",
+      "sessions": 81,
+      "users": 75
+    }
+  ],
+  "topPages": [
+    {
+      "page": "/",
+      "screenPageViews": 33190,
+      "sessions": 31012
+    },
+    {
+      "page": "/contact/",
+      "screenPageViews": 1793,
+      "sessions": 1711
+    },
+    {
+      "page": "/about-us/",
+      "screenPageViews": 548,
+      "sessions": 495
+    },
+    {
+      "page": "/legal-staff/",
+      "screenPageViews": 468,
+      "sessions": 431
+    },
+    {
+      "page": "/practice-areas/",
+      "screenPageViews": 459,
+      "sessions": 428
+    },
+    {
+      "page": "/verdicts-settlements/",
+      "screenPageViews": 321,
+      "sessions": 314
+    },
+    {
+      "page": "/client-recognition/",
+      "screenPageViews": 275,
+      "sessions": 271
+    },
+    {
+      "page": "/arkansas-car-accident-lawyer/",
+      "screenPageViews": 255,
+      "sessions": 245
+    },
+    {
+      "page": "/how-to-prove-lost-wages-in-a-personal-injury-lawsuit/",
+      "screenPageViews": 250,
+      "sessions": 244
+    },
+    {
+      "page": "/justin-minton/",
+      "screenPageViews": 250,
+      "sessions": 243
+    },
+    {
+      "page": "/locations/",
+      "screenPageViews": 249,
+      "sessions": 232
+    },
+    {
+      "page": "/blog/",
+      "screenPageViews": 237,
+      "sessions": 236
+    },
+    {
+      "page": "/arkansas-bicycle-accident-lawyer/",
+      "screenPageViews": 218,
+      "sessions": 216
+    },
+    {
+      "page": "/car-accidents-caused-by-autonomous-vehicles-whos-liable/",
+      "screenPageViews": 218,
+      "sessions": 216
+    },
+    {
+      "page": "/understanding-the-one-bite-rule-and-its-applicability-in-arkansas/",
+      "screenPageViews": 190,
+      "sessions": 187
+    },
+    {
+      "page": "/motorcycle-accidents-vs-car-accidents-why-legal-approach-is-different/",
+      "screenPageViews": 180,
+      "sessions": 159
+    },
+    {
+      "page": "/arkansas-pedestrian-accident-lawyer/",
+      "screenPageViews": 177,
+      "sessions": 175
+    },
+    {
+      "page": "/conway-personal-injury-lawyer/",
+      "screenPageViews": 171,
+      "sessions": 166
+    },
+    {
+      "page": "/arkansas-premises-liability-lawyer/",
+      "screenPageViews": 170,
+      "sessions": 168
+    },
+    {
+      "page": "/can-you-sue-for-emotional-distress-in-arkansas/",
+      "screenPageViews": 158,
+      "sessions": 152
+    },
+    {
+      "page": "/benton-personal-injury-attorney/",
+      "screenPageViews": 143,
+      "sessions": 135
+    },
+    {
+      "page": "/arkansas-product-liability-lawyer/",
+      "screenPageViews": 141,
+      "sessions": 143
+    },
+    {
+      "page": "/les-lamey/",
+      "screenPageViews": 136,
+      "sessions": 134
+    },
+    {
+      "page": "/arkansas-boating-accident-lawyer/",
+      "screenPageViews": 130,
+      "sessions": 130
+    },
+    {
+      "page": "/arkansas-truck-accident-lawyer/",
+      "screenPageViews": 123,
+      "sessions": 118
+    },
+    {
+      "page": "/connie-grace/",
+      "screenPageViews": 121,
+      "sessions": 118
+    },
+    {
+      "page": "/arkansas-catastrophic-injury-lawyer/",
+      "screenPageViews": 118,
+      "sessions": 120
+    },
+    {
+      "page": "/hot-springs-personal-injury-lawyer/",
+      "screenPageViews": 112,
+      "sessions": 96
+    },
+    {
+      "page": "/arkansas-slip-and-fall-lawyer/",
+      "screenPageViews": 110,
+      "sessions": 109
+    },
+    {
+      "page": "/daniel-hall/",
+      "screenPageViews": 110,
+      "sessions": 107
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:06:31.642Z"
+}

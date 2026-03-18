@@ -1,0 +1,744 @@
+{
+  "propertyId": "properties/358455299",
+  "displayName": "Wolf Law Colorado - GA4",
+  "dateRange": {
+    "start": "2025-12-17",
+    "end": "2026-03-17"
+  },
+  "totals": {
+    "sessions": 12017,
+    "users": 11450,
+    "screenPageViews": 14577,
+    "organicSessions": 9999,
+    "bounceRate": 0.4789435009111878,
+    "avgSessionDuration": 107.0628850976993
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-17",
+      "sessions": 138,
+      "users": 130,
+      "screenPageViews": 156
+    },
+    {
+      "date": "2025-12-18",
+      "sessions": 262,
+      "users": 252,
+      "screenPageViews": 290
+    },
+    {
+      "date": "2025-12-19",
+      "sessions": 223,
+      "users": 208,
+      "screenPageViews": 220
+    },
+    {
+      "date": "2025-12-20",
+      "sessions": 127,
+      "users": 123,
+      "screenPageViews": 142
+    },
+    {
+      "date": "2025-12-21",
+      "sessions": 122,
+      "users": 117,
+      "screenPageViews": 149
+    },
+    {
+      "date": "2025-12-22",
+      "sessions": 156,
+      "users": 149,
+      "screenPageViews": 172
+    },
+    {
+      "date": "2025-12-23",
+      "sessions": 130,
+      "users": 126,
+      "screenPageViews": 144
+    },
+    {
+      "date": "2025-12-24",
+      "sessions": 76,
+      "users": 72,
+      "screenPageViews": 84
+    },
+    {
+      "date": "2025-12-25",
+      "sessions": 91,
+      "users": 91,
+      "screenPageViews": 118
+    },
+    {
+      "date": "2025-12-26",
+      "sessions": 194,
+      "users": 188,
+      "screenPageViews": 204
+    },
+    {
+      "date": "2025-12-27",
+      "sessions": 146,
+      "users": 145,
+      "screenPageViews": 155
+    },
+    {
+      "date": "2025-12-28",
+      "sessions": 109,
+      "users": 107,
+      "screenPageViews": 121
+    },
+    {
+      "date": "2025-12-29",
+      "sessions": 161,
+      "users": 155,
+      "screenPageViews": 166
+    },
+    {
+      "date": "2025-12-30",
+      "sessions": 119,
+      "users": 116,
+      "screenPageViews": 138
+    },
+    {
+      "date": "2025-12-31",
+      "sessions": 111,
+      "users": 106,
+      "screenPageViews": 115
+    },
+    {
+      "date": "2026-01-01",
+      "sessions": 123,
+      "users": 119,
+      "screenPageViews": 140
+    },
+    {
+      "date": "2026-01-02",
+      "sessions": 114,
+      "users": 106,
+      "screenPageViews": 138
+    },
+    {
+      "date": "2026-01-03",
+      "sessions": 76,
+      "users": 73,
+      "screenPageViews": 88
+    },
+    {
+      "date": "2026-01-04",
+      "sessions": 91,
+      "users": 89,
+      "screenPageViews": 101
+    },
+    {
+      "date": "2026-01-05",
+      "sessions": 157,
+      "users": 145,
+      "screenPageViews": 207
+    },
+    {
+      "date": "2026-01-06",
+      "sessions": 132,
+      "users": 126,
+      "screenPageViews": 159
+    },
+    {
+      "date": "2026-01-07",
+      "sessions": 136,
+      "users": 127,
+      "screenPageViews": 173
+    },
+    {
+      "date": "2026-01-08",
+      "sessions": 151,
+      "users": 145,
+      "screenPageViews": 173
+    },
+    {
+      "date": "2026-01-09",
+      "sessions": 112,
+      "users": 106,
+      "screenPageViews": 126
+    },
+    {
+      "date": "2026-01-10",
+      "sessions": 80,
+      "users": 77,
+      "screenPageViews": 91
+    },
+    {
+      "date": "2026-01-11",
+      "sessions": 81,
+      "users": 79,
+      "screenPageViews": 104
+    },
+    {
+      "date": "2026-01-12",
+      "sessions": 139,
+      "users": 133,
+      "screenPageViews": 171
+    },
+    {
+      "date": "2026-01-13",
+      "sessions": 117,
+      "users": 111,
+      "screenPageViews": 142
+    },
+    {
+      "date": "2026-01-14",
+      "sessions": 160,
+      "users": 150,
+      "screenPageViews": 189
+    },
+    {
+      "date": "2026-01-15",
+      "sessions": 140,
+      "users": 137,
+      "screenPageViews": 177
+    },
+    {
+      "date": "2026-01-16",
+      "sessions": 198,
+      "users": 189,
+      "screenPageViews": 218
+    },
+    {
+      "date": "2026-01-17",
+      "sessions": 106,
+      "users": 105,
+      "screenPageViews": 119
+    },
+    {
+      "date": "2026-01-18",
+      "sessions": 119,
+      "users": 116,
+      "screenPageViews": 146
+    },
+    {
+      "date": "2026-01-19",
+      "sessions": 118,
+      "users": 114,
+      "screenPageViews": 140
+    },
+    {
+      "date": "2026-01-20",
+      "sessions": 162,
+      "users": 144,
+      "screenPageViews": 321
+    },
+    {
+      "date": "2026-01-21",
+      "sessions": 159,
+      "users": 144,
+      "screenPageViews": 221
+    },
+    {
+      "date": "2026-01-22",
+      "sessions": 179,
+      "users": 167,
+      "screenPageViews": 241
+    },
+    {
+      "date": "2026-01-23",
+      "sessions": 117,
+      "users": 111,
+      "screenPageViews": 134
+    },
+    {
+      "date": "2026-01-24",
+      "sessions": 82,
+      "users": 75,
+      "screenPageViews": 92
+    },
+    {
+      "date": "2026-01-25",
+      "sessions": 83,
+      "users": 79,
+      "screenPageViews": 99
+    },
+    {
+      "date": "2026-01-26",
+      "sessions": 177,
+      "users": 165,
+      "screenPageViews": 210
+    },
+    {
+      "date": "2026-01-27",
+      "sessions": 159,
+      "users": 148,
+      "screenPageViews": 217
+    },
+    {
+      "date": "2026-01-28",
+      "sessions": 160,
+      "users": 154,
+      "screenPageViews": 203
+    },
+    {
+      "date": "2026-01-29",
+      "sessions": 149,
+      "users": 142,
+      "screenPageViews": 169
+    },
+    {
+      "date": "2026-01-30",
+      "sessions": 137,
+      "users": 127,
+      "screenPageViews": 172
+    },
+    {
+      "date": "2026-01-31",
+      "sessions": 98,
+      "users": 94,
+      "screenPageViews": 120
+    },
+    {
+      "date": "2026-02-01",
+      "sessions": 90,
+      "users": 88,
+      "screenPageViews": 110
+    },
+    {
+      "date": "2026-02-02",
+      "sessions": 112,
+      "users": 108,
+      "screenPageViews": 133
+    },
+    {
+      "date": "2026-02-03",
+      "sessions": 171,
+      "users": 164,
+      "screenPageViews": 188
+    },
+    {
+      "date": "2026-02-04",
+      "sessions": 171,
+      "users": 159,
+      "screenPageViews": 213
+    },
+    {
+      "date": "2026-02-05",
+      "sessions": 144,
+      "users": 136,
+      "screenPageViews": 167
+    },
+    {
+      "date": "2026-02-06",
+      "sessions": 123,
+      "users": 118,
+      "screenPageViews": 236
+    },
+    {
+      "date": "2026-02-07",
+      "sessions": 146,
+      "users": 140,
+      "screenPageViews": 157
+    },
+    {
+      "date": "2026-02-08",
+      "sessions": 126,
+      "users": 122,
+      "screenPageViews": 144
+    },
+    {
+      "date": "2026-02-09",
+      "sessions": 143,
+      "users": 135,
+      "screenPageViews": 172
+    },
+    {
+      "date": "2026-02-10",
+      "sessions": 188,
+      "users": 169,
+      "screenPageViews": 277
+    },
+    {
+      "date": "2026-02-11",
+      "sessions": 141,
+      "users": 135,
+      "screenPageViews": 179
+    },
+    {
+      "date": "2026-02-12",
+      "sessions": 145,
+      "users": 138,
+      "screenPageViews": 190
+    },
+    {
+      "date": "2026-02-13",
+      "sessions": 109,
+      "users": 102,
+      "screenPageViews": 132
+    },
+    {
+      "date": "2026-02-14",
+      "sessions": 79,
+      "users": 77,
+      "screenPageViews": 97
+    },
+    {
+      "date": "2026-02-15",
+      "sessions": 73,
+      "users": 69,
+      "screenPageViews": 102
+    },
+    {
+      "date": "2026-02-16",
+      "sessions": 118,
+      "users": 109,
+      "screenPageViews": 155
+    },
+    {
+      "date": "2026-02-17",
+      "sessions": 141,
+      "users": 135,
+      "screenPageViews": 174
+    },
+    {
+      "date": "2026-02-18",
+      "sessions": 136,
+      "users": 131,
+      "screenPageViews": 177
+    },
+    {
+      "date": "2026-02-19",
+      "sessions": 113,
+      "users": 110,
+      "screenPageViews": 136
+    },
+    {
+      "date": "2026-02-20",
+      "sessions": 128,
+      "users": 127,
+      "screenPageViews": 146
+    },
+    {
+      "date": "2026-02-21",
+      "sessions": 78,
+      "users": 75,
+      "screenPageViews": 95
+    },
+    {
+      "date": "2026-02-22",
+      "sessions": 77,
+      "users": 75,
+      "screenPageViews": 89
+    },
+    {
+      "date": "2026-02-23",
+      "sessions": 132,
+      "users": 128,
+      "screenPageViews": 160
+    },
+    {
+      "date": "2026-02-24",
+      "sessions": 138,
+      "users": 130,
+      "screenPageViews": 172
+    },
+    {
+      "date": "2026-02-25",
+      "sessions": 111,
+      "users": 107,
+      "screenPageViews": 124
+    },
+    {
+      "date": "2026-02-26",
+      "sessions": 221,
+      "users": 215,
+      "screenPageViews": 249
+    },
+    {
+      "date": "2026-02-27",
+      "sessions": 184,
+      "users": 173,
+      "screenPageViews": 219
+    },
+    {
+      "date": "2026-02-28",
+      "sessions": 79,
+      "users": 78,
+      "screenPageViews": 89
+    },
+    {
+      "date": "2026-03-01",
+      "sessions": 73,
+      "users": 72,
+      "screenPageViews": 73
+    },
+    {
+      "date": "2026-03-02",
+      "sessions": 116,
+      "users": 107,
+      "screenPageViews": 158
+    },
+    {
+      "date": "2026-03-03",
+      "sessions": 116,
+      "users": 106,
+      "screenPageViews": 152
+    },
+    {
+      "date": "2026-03-04",
+      "sessions": 170,
+      "users": 154,
+      "screenPageViews": 193
+    },
+    {
+      "date": "2026-03-05",
+      "sessions": 142,
+      "users": 131,
+      "screenPageViews": 166
+    },
+    {
+      "date": "2026-03-06",
+      "sessions": 107,
+      "users": 104,
+      "screenPageViews": 135
+    },
+    {
+      "date": "2026-03-07",
+      "sessions": 94,
+      "users": 91,
+      "screenPageViews": 120
+    },
+    {
+      "date": "2026-03-08",
+      "sessions": 87,
+      "users": 86,
+      "screenPageViews": 99
+    },
+    {
+      "date": "2026-03-09",
+      "sessions": 112,
+      "users": 109,
+      "screenPageViews": 123
+    },
+    {
+      "date": "2026-03-10",
+      "sessions": 125,
+      "users": 121,
+      "screenPageViews": 178
+    },
+    {
+      "date": "2026-03-11",
+      "sessions": 304,
+      "users": 297,
+      "screenPageViews": 346
+    },
+    {
+      "date": "2026-03-12",
+      "sessions": 120,
+      "users": 116,
+      "screenPageViews": 152
+    },
+    {
+      "date": "2026-03-13",
+      "sessions": 110,
+      "users": 104,
+      "screenPageViews": 131
+    },
+    {
+      "date": "2026-03-14",
+      "sessions": 87,
+      "users": 83,
+      "screenPageViews": 111
+    },
+    {
+      "date": "2026-03-15",
+      "sessions": 81,
+      "users": 77,
+      "screenPageViews": 90
+    },
+    {
+      "date": "2026-03-16",
+      "sessions": 198,
+      "users": 185,
+      "screenPageViews": 268
+    },
+    {
+      "date": "2026-03-17",
+      "sessions": 181,
+      "users": 172,
+      "screenPageViews": 225
+    }
+  ],
+  "channelData": [
+    {
+      "channel": "Organic Search",
+      "sessions": 9999,
+      "users": 9183
+    },
+    {
+      "channel": "Direct",
+      "sessions": 1739,
+      "users": 1608
+    },
+    {
+      "channel": "Referral",
+      "sessions": 130,
+      "users": 103
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": 83,
+      "users": 76
+    },
+    {
+      "channel": "Organic Social",
+      "sessions": 47,
+      "users": 47
+    }
+  ],
+  "topPages": [
+    {
+      "page": "/courttv/lynlee-renick-convicted-of-killing-snake-breeder-husband-after-taking-the-stand/",
+      "screenPageViews": 1431,
+      "sessions": 1425
+    },
+    {
+      "page": "/",
+      "screenPageViews": 1349,
+      "sessions": 1142
+    },
+    {
+      "page": "/blog/federal-drug-classification-infographic/",
+      "screenPageViews": 1199,
+      "sessions": 1183
+    },
+    {
+      "page": "/law-crime/love-triangle-double-murder-kevin-eastman-murder-trial/",
+      "screenPageViews": 916,
+      "sessions": 907
+    },
+    {
+      "page": "/courttv/keith-johansen-sentenced-to-life-in-prison-for-murdering-wife/",
+      "screenPageViews": 551,
+      "sessions": 548
+    },
+    {
+      "page": "/contact-us/",
+      "screenPageViews": 480,
+      "sessions": 318
+    },
+    {
+      "page": "/blog/what-are-the-3-elements-of-assault/",
+      "screenPageViews": 293,
+      "sessions": 293
+    },
+    {
+      "page": "/jeffrey-wolf/",
+      "screenPageViews": 265,
+      "sessions": 235
+    },
+    {
+      "page": "/colleen-kelley/",
+      "screenPageViews": 245,
+      "sessions": 238
+    },
+    {
+      "page": "/blog/posession-nine-tenths-meaning/",
+      "screenPageViews": 234,
+      "sessions": 236
+    },
+    {
+      "page": "/blog/colorado-probation-violations-what-happens-and-how-to-respond/",
+      "screenPageViews": 221,
+      "sessions": 208
+    },
+    {
+      "page": "/cassandra-monahan-bio/",
+      "screenPageViews": 174,
+      "sessions": 165
+    },
+    {
+      "page": "/domestic-violence-lawyer-in-colorado/",
+      "screenPageViews": 171,
+      "sessions": 134
+    },
+    {
+      "page": "/law-crime/theodore-edgecomb-found-guilty-in-road-rage-trial/",
+      "screenPageViews": 155,
+      "sessions": 154
+    },
+    {
+      "page": "/courttv/pizza-delivery-murder/",
+      "screenPageViews": 144,
+      "sessions": 142
+    },
+    {
+      "page": "/domestic-violence-charges/",
+      "screenPageViews": 140,
+      "sessions": 133
+    },
+    {
+      "page": "/blog/the-consequences-of-refusing-a-breathalyzer-or-blood-test-in-colorado/",
+      "screenPageViews": 138,
+      "sessions": 143
+    },
+    {
+      "page": "/blog/reckless-vs-careless-driving-in-colorado/",
+      "screenPageViews": 134,
+      "sessions": 139
+    },
+    {
+      "page": "/child-abuse-attorney/",
+      "screenPageViews": 121,
+      "sessions": 101
+    },
+    {
+      "page": "/blog/what-the-revocation-process-looks-like-and-how-a-defense-attorney-can-respond/",
+      "screenPageViews": 118,
+      "sessions": 115
+    },
+    {
+      "page": "/blog/what-is-good-evidence-in-a-sexual-assault-case/",
+      "screenPageViews": 112,
+      "sessions": 111
+    },
+    {
+      "page": "/protection-orders-lawyer/",
+      "screenPageViews": 112,
+      "sessions": 84
+    },
+    {
+      "page": "/blog/colorado-theft-laws-petty-theft-vs-shoplifting/",
+      "screenPageViews": 105,
+      "sessions": 97
+    },
+    {
+      "page": "/blog/negotiating-plea-deals-in-domestic-violence-cases/",
+      "screenPageViews": 100,
+      "sessions": 101
+    },
+    {
+      "page": "/blog/resources-for-denver-felons/",
+      "screenPageViews": 96,
+      "sessions": 92
+    },
+    {
+      "page": "/practice-areas/",
+      "screenPageViews": 95,
+      "sessions": 77
+    },
+    {
+      "page": "/blog/understanding-bail-and-bond-in-colorado/",
+      "screenPageViews": 91,
+      "sessions": 87
+    },
+    {
+      "page": "/firm-overview/",
+      "screenPageViews": 90,
+      "sessions": 84
+    },
+    {
+      "page": "/blog/facing-federal-charges-for-shipping-drugs/",
+      "screenPageViews": 85,
+      "sessions": 83
+    },
+    {
+      "page": "/blog/how-plea-bargains-work-in-colorado-criminal-cases/",
+      "screenPageViews": 82,
+      "sessions": 84
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:06:43.423Z"
+}

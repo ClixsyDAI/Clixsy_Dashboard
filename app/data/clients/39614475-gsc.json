@@ -1,0 +1,1350 @@
+{
+  "property": "https://www.hencoplumbing.com/",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 1856,
+    "impressions": 920156,
+    "ctr": 0.002017049282947674,
+    "position": 16.2599411219375
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 28,
+      "impressions": 11237,
+      "ctr": 0.0024917682655513037,
+      "position": 14.755895701699743
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 20,
+      "impressions": 10041,
+      "ctr": 0.0019918334827208443,
+      "position": 16.942037645652825
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 20,
+      "impressions": 8888,
+      "ctr": 0.0022502250225022503,
+      "position": 15.542304230423042
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 18,
+      "impressions": 9455,
+      "ctr": 0.0019037546271813855,
+      "position": 16.805711263881545
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 20,
+      "impressions": 7218,
+      "ctr": 0.002770850651149903,
+      "position": 19.713771127736216
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 10,
+      "impressions": 9177,
+      "ctr": 0.0010896807235480004,
+      "position": 18.47989539065054
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 11,
+      "impressions": 7434,
+      "ctr": 0.0014796879203658865,
+      "position": 17.983588915792307
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 17,
+      "impressions": 7971,
+      "ctr": 0.0021327311504202736,
+      "position": 20.0713837661523
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 12,
+      "impressions": 7631,
+      "ctr": 0.001572533088717075,
+      "position": 22.496789411610536
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 6,
+      "impressions": 7167,
+      "ctr": 0.0008371703641691084,
+      "position": 21.094879307939166
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 1,
+      "impressions": 6998,
+      "ctr": 0.00014289797084881395,
+      "position": 21.677765075735923
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 15,
+      "impressions": 6813,
+      "ctr": 0.002201673271686482,
+      "position": 21.574930280346397
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 13,
+      "impressions": 7491,
+      "ctr": 0.001735415832332132,
+      "position": 16.783873982111867
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 14,
+      "impressions": 7119,
+      "ctr": 0.0019665683382497543,
+      "position": 19.248068548953505
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 26,
+      "impressions": 8541,
+      "ctr": 0.0030441400304414,
+      "position": 16.558833860203723
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 21,
+      "impressions": 8386,
+      "ctr": 0.0025041736227045075,
+      "position": 17.62008108752683
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 11,
+      "impressions": 8650,
+      "ctr": 0.0012716763005780347,
+      "position": 18.24751445086705
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 8,
+      "impressions": 18421,
+      "ctr": 0.000434286955105586,
+      "position": 7.6499104283155095
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 21,
+      "impressions": 7244,
+      "ctr": 0.0028989508558807287,
+      "position": 16.112921038100495
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 11,
+      "impressions": 6476,
+      "ctr": 0.0016985793699814701,
+      "position": 17.837554045707225
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 10,
+      "impressions": 6928,
+      "ctr": 0.001443418013856813,
+      "position": 17.23469976905312
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 23,
+      "impressions": 16195,
+      "ctr": 0.0014201914171040446,
+      "position": 10.541586909539982
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 28,
+      "impressions": 10530,
+      "ctr": 0.0026590693257359924,
+      "position": 13.515764482431148
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 20,
+      "impressions": 11471,
+      "ctr": 0.001743527155435446,
+      "position": 19.849359253770377
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 22,
+      "impressions": 9493,
+      "ctr": 0.002317497103128621,
+      "position": 17.08880227536079
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 14,
+      "impressions": 6740,
+      "ctr": 0.0020771513353115725,
+      "position": 18.918545994065283
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 10,
+      "impressions": 8654,
+      "ctr": 0.0011555350127108851,
+      "position": 18.6019181881211
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 7,
+      "impressions": 8580,
+      "ctr": 0.0008158508158508159,
+      "position": 18.66025641025641
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 28,
+      "impressions": 8555,
+      "ctr": 0.0032729398012857976,
+      "position": 20.26113383985973
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 26,
+      "impressions": 9574,
+      "ctr": 0.0027156883225402132,
+      "position": 19.62669730520159
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 33,
+      "impressions": 9140,
+      "ctr": 0.003610503282275711,
+      "position": 17.334901531728665
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 26,
+      "impressions": 8998,
+      "ctr": 0.00288953100689042,
+      "position": 13.174149811069126
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 24,
+      "impressions": 9175,
+      "ctr": 0.0026158038147138965,
+      "position": 15.246430517711172
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 18,
+      "impressions": 8608,
+      "ctr": 0.002091078066914498,
+      "position": 15.919725836431226
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 22,
+      "impressions": 9217,
+      "ctr": 0.0023868937832266465,
+      "position": 15.81490723662797
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 28,
+      "impressions": 11012,
+      "ctr": 0.0025426807119505995,
+      "position": 16.998637849618596
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 23,
+      "impressions": 10358,
+      "ctr": 0.002220505889167793,
+      "position": 17.804885112956168
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 30,
+      "impressions": 8446,
+      "ctr": 0.003551977267345489,
+      "position": 20.419251716789013
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 27,
+      "impressions": 10342,
+      "ctr": 0.0026107135950493134,
+      "position": 17.16031715335525
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 24,
+      "impressions": 6978,
+      "ctr": 0.0034393809114359416,
+      "position": 15.073516766981943
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 15,
+      "impressions": 10354,
+      "ctr": 0.001448715472281244,
+      "position": 16.295924280471315
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 20,
+      "impressions": 8922,
+      "ctr": 0.0022416498542927594,
+      "position": 16.03093476798924
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 33,
+      "impressions": 10372,
+      "ctr": 0.0031816428846895488,
+      "position": 20.34583494022368
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 29,
+      "impressions": 9517,
+      "ctr": 0.0030471787327939477,
+      "position": 21.59136282441946
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 26,
+      "impressions": 8043,
+      "ctr": 0.0032326246425463134,
+      "position": 20.339922914335446
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 20,
+      "impressions": 7800,
+      "ctr": 0.002564102564102564,
+      "position": 16.932820512820513
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 22,
+      "impressions": 9661,
+      "ctr": 0.002277196977538557,
+      "position": 15.955284132077425
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 8,
+      "impressions": 8528,
+      "ctr": 0.0009380863039399625,
+      "position": 18.438203564727957
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 16,
+      "impressions": 15115,
+      "ctr": 0.0010585511081706914,
+      "position": 12.003903407211379
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 28,
+      "impressions": 14703,
+      "ctr": 0.001904373257158403,
+      "position": 11.48337074066517
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 30,
+      "impressions": 10510,
+      "ctr": 0.0028544243577545195,
+      "position": 17.622169362511894
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 28,
+      "impressions": 7586,
+      "ctr": 0.003691009754811495,
+      "position": 16.436066438175587
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 12,
+      "impressions": 7838,
+      "ctr": 0.0015310028068384791,
+      "position": 17.709619800969634
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 17,
+      "impressions": 5425,
+      "ctr": 0.0031336405529953917,
+      "position": 18.24442396313364
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 13,
+      "impressions": 7005,
+      "ctr": 0.0018558172733761599,
+      "position": 14.72705210563883
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 10,
+      "impressions": 6297,
+      "ctr": 0.001588057805304113,
+      "position": 16.990312847387646
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 23,
+      "impressions": 11296,
+      "ctr": 0.0020361189801699716,
+      "position": 14.32949716713881
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 25,
+      "impressions": 12044,
+      "ctr": 0.0020757223513782797,
+      "position": 21.394802391232147
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 33,
+      "impressions": 8629,
+      "ctr": 0.00382431336191911,
+      "position": 21.845520917835206
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 22,
+      "impressions": 14055,
+      "ctr": 0.0015652792600498043,
+      "position": 17.63991462113127
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 18,
+      "impressions": 10214,
+      "ctr": 0.0017622870569806149,
+      "position": 15.678872136283532
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 25,
+      "impressions": 8875,
+      "ctr": 0.0028169014084507044,
+      "position": 15.138704225352113
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 14,
+      "impressions": 9390,
+      "ctr": 0.001490947816826411,
+      "position": 16.255484558040468
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 26,
+      "impressions": 12440,
+      "ctr": 0.002090032154340836,
+      "position": 13.758360128617364
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 28,
+      "impressions": 11559,
+      "ctr": 0.002422354874989186,
+      "position": 21.543299593390433
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 36,
+      "impressions": 23458,
+      "ctr": 0.0015346576860772445,
+      "position": 13.935970670986444
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 24,
+      "impressions": 17911,
+      "ctr": 0.0013399586846072247,
+      "position": 16.13829490257384
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 16,
+      "impressions": 8415,
+      "ctr": 0.0019013666072489601,
+      "position": 15.555674390968509
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 20,
+      "impressions": 8913,
+      "ctr": 0.0022439133849433412,
+      "position": 17.692135083585775
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 20,
+      "impressions": 8634,
+      "ctr": 0.0023164234422052353,
+      "position": 16.75665971739634
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 18,
+      "impressions": 8927,
+      "ctr": 0.0020163548784586085,
+      "position": 14.965273888204324
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 24,
+      "impressions": 10175,
+      "ctr": 0.002358722358722359,
+      "position": 15.49149877149877
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 25,
+      "impressions": 12141,
+      "ctr": 0.002059138456469813,
+      "position": 21.289761963594433
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 18,
+      "impressions": 9553,
+      "ctr": 0.0018842248508321993,
+      "position": 17.658955301999374
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 17,
+      "impressions": 10704,
+      "ctr": 0.0015881913303437967,
+      "position": 14.254110612855008
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 17,
+      "impressions": 10888,
+      "ctr": 0.0015613519470977222,
+      "position": 13.966752387950036
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 22,
+      "impressions": 19863,
+      "ctr": 0.001107586970749635,
+      "position": 10.444092030408298
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 28,
+      "impressions": 12986,
+      "ctr": 0.0021561681811181274,
+      "position": 18.272678268904976
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 18,
+      "impressions": 10439,
+      "ctr": 0.0017243030941661078,
+      "position": 13.941373694798353
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 26,
+      "impressions": 11209,
+      "ctr": 0.00231956463556071,
+      "position": 13.467481488089927
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 34,
+      "impressions": 10139,
+      "ctr": 0.0033533879080777196,
+      "position": 12.359996054837755
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 18,
+      "impressions": 9779,
+      "ctr": 0.0018406790060333368,
+      "position": 10.545454545454545
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 23,
+      "impressions": 16736,
+      "ctr": 0.001374282982791587,
+      "position": 7.897705544933078
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 16,
+      "impressions": 10252,
+      "ctr": 0.0015606710885680843,
+      "position": 11.650702301989856
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 28,
+      "impressions": 11444,
+      "ctr": 0.002446696959105208,
+      "position": 10.414103460328556
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 31,
+      "impressions": 12103,
+      "ctr": 0.0025613484260100803,
+      "position": 12.782533256217468
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 24,
+      "impressions": 17714,
+      "ctr": 0.0013548605622671333,
+      "position": 8.548266907530767
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 23,
+      "impressions": 14278,
+      "ctr": 0.001610869869729654,
+      "position": 13.19750665359294
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 24,
+      "impressions": 13737,
+      "ctr": 0.0017471063550993666,
+      "position": 7.943219043459271
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 19,
+      "impressions": 12228,
+      "ctr": 0.0015538109257441936,
+      "position": 9.049640170101407
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "henco plumbing",
+      "clicks": 306,
+      "impressions": 2355,
+      "ctr": 0.12993630573248408,
+      "position": 2.014012738853503
+    },
+    {
+      "query": "henco plumbing portland",
+      "clicks": 118,
+      "impressions": 460,
+      "ctr": 0.2565217391304348,
+      "position": 3.508695652173913
+    },
+    {
+      "query": "henco plumbing services",
+      "clicks": 85,
+      "impressions": 1698,
+      "ctr": 0.05005889281507656,
+      "position": 1.3239104829210837
+    },
+    {
+      "query": "henco",
+      "clicks": 64,
+      "impressions": 1307,
+      "ctr": 0.04896710022953328,
+      "position": 5.911247130833971
+    },
+    {
+      "query": "henco electric",
+      "clicks": 36,
+      "impressions": 72,
+      "ctr": 0.5,
+      "position": 1.2916666666666667
+    },
+    {
+      "query": "henco plumbing ridgefield wa",
+      "clicks": 35,
+      "impressions": 183,
+      "ctr": 0.1912568306010929,
+      "position": 3.557377049180328
+    },
+    {
+      "query": "henco electrical",
+      "clicks": 34,
+      "impressions": 81,
+      "ctr": 0.41975308641975306,
+      "position": 1.2469135802469136
+    },
+    {
+      "query": "henco heating and cooling",
+      "clicks": 29,
+      "impressions": 149,
+      "ctr": 0.19463087248322147,
+      "position": 1.5771812080536913
+    },
+    {
+      "query": "henco plumbing vancouver wa",
+      "clicks": 18,
+      "impressions": 100,
+      "ctr": 0.18,
+      "position": 2.4699999999999998
+    },
+    {
+      "query": "henco plumbing reviews",
+      "clicks": 16,
+      "impressions": 251,
+      "ctr": 0.06374501992031872,
+      "position": 5.665338645418327
+    },
+    {
+      "query": "henco plumbing salem",
+      "clicks": 12,
+      "impressions": 41,
+      "ctr": 0.2926829268292683,
+      "position": 1.146341463414634
+    },
+    {
+      "query": "plumbers vancouver wa",
+      "clicks": 9,
+      "impressions": 940,
+      "ctr": 0.009574468085106383,
+      "position": 26.825531914893617
+    },
+    {
+      "query": "henco plumbing ridgefield",
+      "clicks": 8,
+      "impressions": 83,
+      "ctr": 0.0963855421686747,
+      "position": 6.554216867469879
+    },
+    {
+      "query": "forbes plumbing",
+      "clicks": 7,
+      "impressions": 336,
+      "ctr": 0.020833333333333332,
+      "position": 7.279761904761905
+    },
+    {
+      "query": "henco hvac",
+      "clicks": 7,
+      "impressions": 31,
+      "ctr": 0.22580645161290322,
+      "position": 1.5806451612903225
+    },
+    {
+      "query": "henco plumbing service",
+      "clicks": 7,
+      "impressions": 45,
+      "ctr": 0.15555555555555556,
+      "position": 1.7555555555555555
+    },
+    {
+      "query": "plumber near me",
+      "clicks": 7,
+      "impressions": 14535,
+      "ctr": 0.00048159614723082214,
+      "position": 1.9251461988304093
+    },
+    {
+      "query": "plumbers near me",
+      "clicks": 6,
+      "impressions": 2248,
+      "ctr": 0.0026690391459074734,
+      "position": 1.8896797153024911
+    },
+    {
+      "query": "plumbers portland",
+      "clicks": 5,
+      "impressions": 1569,
+      "ctr": 0.0031867431485022306,
+      "position": 9.876991714467813
+    },
+    {
+      "query": "henco plumbing services reviews",
+      "clicks": 4,
+      "impressions": 161,
+      "ctr": 0.024844720496894408,
+      "position": 4.770186335403727
+    },
+    {
+      "query": "plumbing services",
+      "clicks": 4,
+      "impressions": 14864,
+      "ctr": 0.00026910656620021526,
+      "position": 7.4270048439181915
+    },
+    {
+      "query": "plumber",
+      "clicks": 3,
+      "impressions": 17842,
+      "ctr": 0.0001681425849120054,
+      "position": 1.5879385719089787
+    },
+    {
+      "query": "plumber salem oregon",
+      "clicks": 3,
+      "impressions": 663,
+      "ctr": 0.004524886877828055,
+      "position": 10.288084464555054
+    },
+    {
+      "query": "plumbing near me",
+      "clicks": 3,
+      "impressions": 1321,
+      "ctr": 0.002271006813020439,
+      "position": 1.691900075700227
+    },
+    {
+      "query": "portland plumbers",
+      "clicks": 3,
+      "impressions": 1360,
+      "ctr": 0.0022058823529411764,
+      "position": 17.67058823529412
+    },
+    {
+      "query": "vancouver wa plumbers",
+      "clicks": 3,
+      "impressions": 576,
+      "ctr": 0.005208333333333333,
+      "position": 30.383680555555557
+    },
+    {
+      "query": "best repipe company near me",
+      "clicks": 2,
+      "impressions": 142,
+      "ctr": 0.014084507042253521,
+      "position": 18.190140845070424
+    },
+    {
+      "query": "henco heating",
+      "clicks": 2,
+      "impressions": 13,
+      "ctr": 0.15384615384615385,
+      "position": 8.153846153846153
+    },
+    {
+      "query": "hot water heater repair",
+      "clicks": 2,
+      "impressions": 300,
+      "ctr": 0.006666666666666667,
+      "position": 7.486666666666666
+    },
+    {
+      "query": "plumber apprenticeship",
+      "clicks": 2,
+      "impressions": 13,
+      "ctr": 0.15384615384615385,
+      "position": 3.6153846153846154
+    },
+    {
+      "query": "plumber ridgefield wa",
+      "clicks": 2,
+      "impressions": 317,
+      "ctr": 0.006309148264984227,
+      "position": 2.362776025236593
+    },
+    {
+      "query": "plumber vancouver wa",
+      "clicks": 2,
+      "impressions": 1861,
+      "ctr": 0.0010746910263299302,
+      "position": 22.815690488984416
+    },
+    {
+      "query": "plumbers",
+      "clicks": 2,
+      "impressions": 7676,
+      "ctr": 0.0002605523710265763,
+      "position": 1.4554455445544554
+    },
+    {
+      "query": "plumbers in salem",
+      "clicks": 2,
+      "impressions": 43,
+      "ctr": 0.046511627906976744,
+      "position": 7.069767441860465
+    },
+    {
+      "query": "plumbers ridgefield wa",
+      "clicks": 2,
+      "impressions": 136,
+      "ctr": 0.014705882352941176,
+      "position": 5.713235294117647
+    },
+    {
+      "query": "plumbing",
+      "clicks": 2,
+      "impressions": 5466,
+      "ctr": 0.00036589828027808267,
+      "position": 1.2092938163190632
+    },
+    {
+      "query": "plumbing companies in portland oregon",
+      "clicks": 2,
+      "impressions": 105,
+      "ctr": 0.01904761904761905,
+      "position": 6.4
+    },
+    {
+      "query": "plumbing company",
+      "clicks": 2,
+      "impressions": 2560,
+      "ctr": 0.00078125,
+      "position": 5.625390625
+    },
+    {
+      "query": "portland oregon plumbers",
+      "clicks": 2,
+      "impressions": 144,
+      "ctr": 0.013888888888888888,
+      "position": 60.13194444444444
+    },
+    {
+      "query": "ridgefield plumbers",
+      "clicks": 2,
+      "impressions": 109,
+      "ctr": 0.01834862385321101,
+      "position": 5.779816513761468
+    },
+    {
+      "query": "sewer line repair near me",
+      "clicks": 2,
+      "impressions": 2851,
+      "ctr": 0.0007015082427218519,
+      "position": 20.447913012977903
+    },
+    {
+      "query": "are gas or electric water heaters cheaper",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 6
+    },
+    {
+      "query": "best local plumbers near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "best plumbers in vancouver wa",
+      "clicks": 1,
+      "impressions": 110,
+      "ctr": 0.00909090909090909,
+      "position": 9.481818181818182
+    },
+    {
+      "query": "boiler repair portland oregon",
+      "clicks": 1,
+      "impressions": 59,
+      "ctr": 0.01694915254237288,
+      "position": 13.40677966101695
+    },
+    {
+      "query": "cheapest plumber near me",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 4
+    },
+    {
+      "query": "clearing blocked drains",
+      "clicks": 1,
+      "impressions": 112,
+      "ctr": 0.008928571428571428,
+      "position": 14.491071428571429
+    },
+    {
+      "query": "commercial plumber bend oregon",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 60.81818181818182
+    },
+    {
+      "query": "drain cleaning salem",
+      "clicks": 1,
+      "impressions": 45,
+      "ctr": 0.022222222222222223,
+      "position": 38.666666666666664
+    },
+    {
+      "query": "electric and plumbing company",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://www.hencoplumbing.com/",
+      "clicks": 319,
+      "impressions": 22620,
+      "ctr": 0.014102564102564103,
+      "position": 29.211759504862954
+    },
+    {
+      "page": "https://www.hencoplumbing.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*116*henco-plumbing-services-ridgefield",
+      "clicks": 249,
+      "impressions": 24738,
+      "ctr": 0.010065486296386126,
+      "position": 5.3986579351604815
+    },
+    {
+      "page": "https://www.hencoplumbing.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*118*henco-plumbing-services-portland",
+      "clicks": 241,
+      "impressions": 102426,
+      "ctr": 0.0023529182043621737,
+      "position": 3.3782340421377386
+    },
+    {
+      "page": "https://www.hencoplumbing.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*280*henco-plumbing-services-vancouver",
+      "clicks": 111,
+      "impressions": 48452,
+      "ctr": 0.002290927103112359,
+      "position": 4.350821431519854
+    },
+    {
+      "page": "https://www.hencoplumbing.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*397*henco-salem",
+      "clicks": 89,
+      "impressions": 280986,
+      "ctr": 0.000316741759375912,
+      "position": 2.437712199184301
+    },
+    {
+      "page": "https://www.hencoplumbing.com/vancouver/",
+      "clicks": 75,
+      "impressions": 32356,
+      "ctr": 0.0023179626653480035,
+      "position": 22.587835331932254
+    },
+    {
+      "page": "https://www.hencoplumbing.com/portland/",
+      "clicks": 74,
+      "impressions": 19238,
+      "ctr": 0.0038465536958103754,
+      "position": 21.214471358769103
+    },
+    {
+      "page": "https://www.hencoplumbing.com/how-much-do-plumbers-cost-in-portland-in-2025/",
+      "clicks": 73,
+      "impressions": 41257,
+      "ctr": 0.001769396708437356,
+      "position": 23.31662505756599
+    },
+    {
+      "page": "https://www.hencoplumbing.com/careers/",
+      "clicks": 40,
+      "impressions": 720,
+      "ctr": 0.05555555555555555,
+      "position": 15.277777777777779
+    },
+    {
+      "page": "https://www.hencoplumbing.com/portland/electrical/",
+      "clicks": 37,
+      "impressions": 2066,
+      "ctr": 0.017909002904162634,
+      "position": 28.087124878993222
+    },
+    {
+      "page": "https://www.hencoplumbing.com/gas-vs-electric-water-heaters-which-is-better-for-oregon-homes/",
+      "clicks": 36,
+      "impressions": 11576,
+      "ctr": 0.0031098825155494126,
+      "position": 15.920006910850034
+    },
+    {
+      "page": "https://www.hencoplumbing.com/contact-us/",
+      "clicks": 32,
+      "impressions": 6672,
+      "ctr": 0.004796163069544364,
+      "position": 9.94904076738609
+    },
+    {
+      "page": "https://www.hencoplumbing.com/ridgefield/",
+      "clicks": 27,
+      "impressions": 9624,
+      "ctr": 0.002805486284289277,
+      "position": 14.13611803823774
+    },
+    {
+      "page": "https://www.hencoplumbing.com/ghoulish-ghosts-or-haunted-heater-signs-your-system-is-howling-for-repairs/",
+      "clicks": 26,
+      "impressions": 2801,
+      "ctr": 0.009282399143163157,
+      "position": 4.273473759371653
+    },
+    {
+      "page": "https://www.hencoplumbing.com/forbes-plumbing-merger/",
+      "clicks": 25,
+      "impressions": 1028,
+      "ctr": 0.024319066147859923,
+      "position": 15.051556420233464
+    },
+    {
+      "page": "https://www.hencoplumbing.com/reviews/",
+      "clicks": 25,
+      "impressions": 2377,
+      "ctr": 0.01051745898190997,
+      "position": 7.568363483382415
+    },
+    {
+      "page": "https://www.hencoplumbing.com/about-us/",
+      "clicks": 24,
+      "impressions": 5026,
+      "ctr": 0.00477516912057302,
+      "position": 10.842220453641067
+    },
+    {
+      "page": "https://www.hencoplumbing.com/salem-plumbing-contractor/",
+      "clicks": 19,
+      "impressions": 10159,
+      "ctr": 0.0018702628211438135,
+      "position": 34.944187420021656
+    },
+    {
+      "page": "https://www.hencoplumbing.com/troubleshooting-a-sump-pump-that-wont-turn-on/",
+      "clicks": 19,
+      "impressions": 3375,
+      "ctr": 0.005629629629629629,
+      "position": 6.5114074074074075
+    },
+    {
+      "page": "https://www.hencoplumbing.com/coupons/",
+      "clicks": 16,
+      "impressions": 2307,
+      "ctr": 0.006935413957520589,
+      "position": 14.933246640658865
+    },
+    {
+      "page": "https://www.hencoplumbing.com/dallas/",
+      "clicks": 15,
+      "impressions": 2922,
+      "ctr": 0.00513347022587269,
+      "position": 23.44798083504449
+    },
+    {
+      "page": "https://www.hencoplumbing.com/membership-program/",
+      "clicks": 15,
+      "impressions": 505,
+      "ctr": 0.0297029702970297,
+      "position": 12.592079207920792
+    },
+    {
+      "page": "https://www.hencoplumbing.com/financing/",
+      "clicks": 13,
+      "impressions": 404,
+      "ctr": 0.03217821782178218,
+      "position": 17.207920792079207
+    },
+    {
+      "page": "https://www.hencoplumbing.com/portland/electrical/ev-charger-installation/",
+      "clicks": 10,
+      "impressions": 5418,
+      "ctr": 0.0018456995201181247,
+      "position": 23.71280915466962
+    },
+    {
+      "page": "https://www.hencoplumbing.com/products/",
+      "clicks": 10,
+      "impressions": 2510,
+      "ctr": 0.00398406374501992,
+      "position": 6.944223107569721
+    },
+    {
+      "page": "https://www.hencoplumbing.com/salem/",
+      "clicks": 10,
+      "impressions": 26838,
+      "ctr": 0.00037260600640882333,
+      "position": 59.44936284372904
+    },
+    {
+      "page": "https://www.hencoplumbing.com/services/repiping/",
+      "clicks": 10,
+      "impressions": 8000,
+      "ctr": 0.00125,
+      "position": 31.318375
+    },
+    {
+      "page": "https://www.hencoplumbing.com/how-to-know-if-your-sewer-line-needs-replacing/",
+      "clicks": 9,
+      "impressions": 1635,
+      "ctr": 0.005504587155963303,
+      "position": 5.775535168195718
+    },
+    {
+      "page": "https://www.hencoplumbing.com/electrical/",
+      "clicks": 8,
+      "impressions": 1519,
+      "ctr": 0.005266622778143515,
+      "position": 15.391046741277156
+    },
+    {
+      "page": "https://www.hencoplumbing.com/hood-river/",
+      "clicks": 8,
+      "impressions": 5934,
+      "ctr": 0.0013481631277384564,
+      "position": 9.638186720593191
+    },
+    {
+      "page": "https://www.hencoplumbing.com/portland-plumbing-contractor/repiping/",
+      "clicks": 8,
+      "impressions": 24022,
+      "ctr": 0.000333028057613854,
+      "position": 26.630588627091832
+    },
+    {
+      "page": "https://www.hencoplumbing.com/press-releases/honoring-the-women-who-shaped-the-plumbing-industry/",
+      "clicks": 8,
+      "impressions": 1684,
+      "ctr": 0.004750593824228029,
+      "position": 7.350356294536817
+    },
+    {
+      "page": "https://www.hencoplumbing.com/ridgefield/contact-us/",
+      "clicks": 7,
+      "impressions": 1377,
+      "ctr": 0.005083514887436456,
+      "position": 25.25054466230937
+    },
+    {
+      "page": "https://www.hencoplumbing.com/water-hammer-or-haunted-house/",
+      "clicks": 7,
+      "impressions": 2443,
+      "ctr": 0.0028653295128939827,
+      "position": 4.473188702415063
+    },
+    {
+      "page": "https://www.hencoplumbing.com/winterizing-your-water-heater-prevent-breakdowns-in-freezing-weather/",
+      "clicks": 7,
+      "impressions": 1858,
+      "ctr": 0.003767491926803014,
+      "position": 11.122712594187298
+    },
+    {
+      "page": "https://www.hencoplumbing.com/portland-plumbing-contractor/",
+      "clicks": 6,
+      "impressions": 4601,
+      "ctr": 0.0013040643338404696,
+      "position": 40.236470332536406
+    },
+    {
+      "page": "https://www.hencoplumbing.com/portland/contact-us/",
+      "clicks": 6,
+      "impressions": 1517,
+      "ctr": 0.003955174686882004,
+      "position": 12.759393539881344
+    },
+    {
+      "page": "https://www.hencoplumbing.com/portland/reviews/",
+      "clicks": 6,
+      "impressions": 772,
+      "ctr": 0.007772020725388601,
+      "position": 8.058290155440414
+    },
+    {
+      "page": "https://www.hencoplumbing.com/ridgefield/services/water-softeners/",
+      "clicks": 6,
+      "impressions": 2294,
+      "ctr": 0.0026155187445510027,
+      "position": 39.66608544027899
+    },
+    {
+      "page": "https://www.hencoplumbing.com/services/sewer-video-inspection/",
+      "clicks": 6,
+      "impressions": 9763,
+      "ctr": 0.0006145651951244494,
+      "position": 21.40192563761139
+    },
+    {
+      "page": "https://www.hencoplumbing.com/services/tankless-water-heaters/",
+      "clicks": 6,
+      "impressions": 14686,
+      "ctr": 0.0004085523627944982,
+      "position": 34.80709519270053
+    },
+    {
+      "page": "https://www.hencoplumbing.com/services/water-softeners/",
+      "clicks": 6,
+      "impressions": 10661,
+      "ctr": 0.0005627989869618235,
+      "position": 23.32360941750305
+    },
+    {
+      "page": "https://www.hencoplumbing.com/contact-us/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*118*henco-plumbing-services-portland",
+      "clicks": 5,
+      "impressions": 941,
+      "ctr": 0.005313496280552604,
+      "position": 9.1211477151966
+    },
+    {
+      "page": "https://www.hencoplumbing.com/services/water-filtration-systems/",
+      "clicks": 5,
+      "impressions": 6923,
+      "ctr": 0.0007222302470027445,
+      "position": 24.041456016177957
+    },
+    {
+      "page": "https://www.hencoplumbing.com/tankless-water-heaters-are-they-worth-it-for-your-portland-home/",
+      "clicks": 5,
+      "impressions": 3109,
+      "ctr": 0.0016082341588935349,
+      "position": 30.74911547121261
+    },
+    {
+      "page": "https://www.hencoplumbing.com/wet-yard/",
+      "clicks": 5,
+      "impressions": 357,
+      "ctr": 0.014005602240896359,
+      "position": 15.268907563025211
+    },
+    {
+      "page": "https://www.hencoplumbing.com/electrical/ev-charger-installation/",
+      "clicks": 4,
+      "impressions": 5758,
+      "ctr": 0.0006946856547412296,
+      "position": 33.023619312261204
+    },
+    {
+      "page": "https://www.hencoplumbing.com/french-drains/",
+      "clicks": 4,
+      "impressions": 1394,
+      "ctr": 0.0028694404591104736,
+      "position": 19.170014347202297
+    },
+    {
+      "page": "https://www.hencoplumbing.com/press-releases/faqs-about-sprinkler-stop-and-waste-valves/",
+      "clicks": 4,
+      "impressions": 2854,
+      "ctr": 0.001401541695865452,
+      "position": 10.355991590749825
+    },
+    {
+      "page": "https://www.hencoplumbing.com/ridgefield/reviews/",
+      "clicks": 4,
+      "impressions": 850,
+      "ctr": 0.004705882352941176,
+      "position": 7.8882352941176475
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:07:23.312Z"
+}

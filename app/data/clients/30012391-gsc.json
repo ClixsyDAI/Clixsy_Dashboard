@@ -1,0 +1,1350 @@
+{
+  "property": "sc-domain:johnsonattorneysgroup.com",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 463,
+    "impressions": 415782,
+    "ctr": 0.0011135643197637223,
+    "position": 34.68565423948989
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 9,
+      "impressions": 3459,
+      "ctr": 0.0026019080659150044,
+      "position": 34.47499277247759
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 6,
+      "impressions": 2952,
+      "ctr": 0.0020325203252032522,
+      "position": 37.47831978319783
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 4,
+      "impressions": 1989,
+      "ctr": 0.002011060834590246,
+      "position": 40.14077425842132
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 7,
+      "impressions": 3022,
+      "ctr": 0.002316346790205162,
+      "position": 46.73362011912641
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 0,
+      "impressions": 3304,
+      "ctr": 0,
+      "position": 42.7227602905569
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 3,
+      "impressions": 2985,
+      "ctr": 0.0010050251256281408,
+      "position": 46.07939698492462
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 1,
+      "impressions": 2951,
+      "ctr": 0.00033886818027787193,
+      "position": 45.168417485598106
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 4,
+      "impressions": 7530,
+      "ctr": 0.0005312084993359894,
+      "position": 16.60504648074369
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 7,
+      "impressions": 3107,
+      "ctr": 0.002252977148374638,
+      "position": 46.25297714837464
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 2,
+      "impressions": 2469,
+      "ctr": 0.0008100445524503848,
+      "position": 50.16443904414743
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 1,
+      "impressions": 2081,
+      "ctr": 0.0004805382027871216,
+      "position": 46.50985103315713
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 6,
+      "impressions": 2528,
+      "ctr": 0.0023734177215189874,
+      "position": 39.94264240506329
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 2,
+      "impressions": 3142,
+      "ctr": 0.0006365372374283895,
+      "position": 36.57320178230427
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 2,
+      "impressions": 2671,
+      "ctr": 0.0007487832272557095,
+      "position": 43.82291276675402
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 3,
+      "impressions": 3253,
+      "ctr": 0.0009222256378727329,
+      "position": 36.483246234245314
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 5,
+      "impressions": 3229,
+      "ctr": 0.001548467017652524,
+      "position": 39.124496748219265
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 5,
+      "impressions": 3000,
+      "ctr": 0.0016666666666666668,
+      "position": 38.06933333333333
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 1,
+      "impressions": 3196,
+      "ctr": 0.00031289111389236547,
+      "position": 44.379849812265334
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 6,
+      "impressions": 2670,
+      "ctr": 0.0022471910112359553,
+      "position": 38.69400749063671
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 2,
+      "impressions": 2287,
+      "ctr": 0.0008745080891998251,
+      "position": 45.14254481853957
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 2,
+      "impressions": 3109,
+      "ctr": 0.000643293663557414,
+      "position": 44.05660984239305
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 4,
+      "impressions": 5080,
+      "ctr": 0.0007874015748031496,
+      "position": 28.19468503937008
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 6,
+      "impressions": 2590,
+      "ctr": 0.0023166023166023165,
+      "position": 32.81042471042471
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 5,
+      "impressions": 4208,
+      "ctr": 0.001188212927756654,
+      "position": 46.20009505703422
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 3,
+      "impressions": 4953,
+      "ctr": 0.0006056935190793458,
+      "position": 50.177266303250555
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 8,
+      "impressions": 5638,
+      "ctr": 0.001418942887548776,
+      "position": 45.770840723660875
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 7,
+      "impressions": 4995,
+      "ctr": 0.0014014014014014013,
+      "position": 46.5001001001001
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 3,
+      "impressions": 5955,
+      "ctr": 0.0005037783375314861,
+      "position": 42.005037783375315
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 5,
+      "impressions": 5033,
+      "ctr": 0.0009934432743890324,
+      "position": 33.049870852374326
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 5,
+      "impressions": 4098,
+      "ctr": 0.0012201073694485115,
+      "position": 41.39946315275744
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 7,
+      "impressions": 4160,
+      "ctr": 0.0016826923076923078,
+      "position": 38.09543269230769
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 10,
+      "impressions": 3212,
+      "ctr": 0.00311332503113325,
+      "position": 40.11892901618929
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 8,
+      "impressions": 4100,
+      "ctr": 0.001951219512195122,
+      "position": 38.25439024390244
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 3,
+      "impressions": 3422,
+      "ctr": 0.0008766803039158387,
+      "position": 41.20981881940386
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 6,
+      "impressions": 3600,
+      "ctr": 0.0016666666666666668,
+      "position": 40.386944444444445
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 5,
+      "impressions": 4297,
+      "ctr": 0.0011636025133814289,
+      "position": 39.35652781010007
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 5,
+      "impressions": 4010,
+      "ctr": 0.0012468827930174563,
+      "position": 35.343142144638406
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 4,
+      "impressions": 3695,
+      "ctr": 0.0010825439783491205,
+      "position": 38.21326116373478
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 10,
+      "impressions": 4615,
+      "ctr": 0.0021668472372697724,
+      "position": 40.81148429035753
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 3,
+      "impressions": 3795,
+      "ctr": 0.0007905138339920949,
+      "position": 32.23768115942029
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 3,
+      "impressions": 3957,
+      "ctr": 0.000758150113722517,
+      "position": 38.93277735658327
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 4,
+      "impressions": 8659,
+      "ctr": 0.00046194710705624206,
+      "position": 22.5318166069985
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 4,
+      "impressions": 5601,
+      "ctr": 0.0007141581860382074,
+      "position": 34.78593108373505
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 5,
+      "impressions": 5768,
+      "ctr": 0.0008668515950069349,
+      "position": 32.08512482662968
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 5,
+      "impressions": 4057,
+      "ctr": 0.0012324377618930244,
+      "position": 42.91767315750555
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 5,
+      "impressions": 4427,
+      "ctr": 0.00112943302462164,
+      "position": 36.57375197650779
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 3,
+      "impressions": 5555,
+      "ctr": 0.00054005400540054,
+      "position": 33.782718271827186
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 6,
+      "impressions": 4172,
+      "ctr": 0.0014381591562799617,
+      "position": 34.125599232981784
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 4,
+      "impressions": 5875,
+      "ctr": 0.0006808510638297873,
+      "position": 37.67165957446809
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 7,
+      "impressions": 5982,
+      "ctr": 0.001170177198261451,
+      "position": 36.27783350050151
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 8,
+      "impressions": 5310,
+      "ctr": 0.0015065913370998117,
+      "position": 35.606214689265535
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 2,
+      "impressions": 6102,
+      "ctr": 0.00032776138970829236,
+      "position": 34.427073090789904
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 2,
+      "impressions": 6315,
+      "ctr": 0.00031670625494853525,
+      "position": 32.241330166270785
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 10,
+      "impressions": 4944,
+      "ctr": 0.0020226537216828477,
+      "position": 31.840210355987054
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 4,
+      "impressions": 3903,
+      "ctr": 0.0010248526774276198,
+      "position": 32.80348449910325
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 1,
+      "impressions": 6688,
+      "ctr": 0.00014952153110047846,
+      "position": 28.189144736842106
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 3,
+      "impressions": 5854,
+      "ctr": 0.0005124701059104886,
+      "position": 30.568670994192004
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 5,
+      "impressions": 5269,
+      "ctr": 0.0009489466691971911,
+      "position": 34.01765040804707
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 11,
+      "impressions": 5522,
+      "ctr": 0.00199203187250996,
+      "position": 33.470662803332125
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 10,
+      "impressions": 4898,
+      "ctr": 0.002041649652919559,
+      "position": 33.85892200898326
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 5,
+      "impressions": 4967,
+      "ctr": 0.0010066438494060802,
+      "position": 26.919468492047514
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 8,
+      "impressions": 4274,
+      "ctr": 0.0018717828731867104,
+      "position": 30.35797847449696
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 3,
+      "impressions": 5521,
+      "ctr": 0.0005433798224959246,
+      "position": 30.117732294874116
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 6,
+      "impressions": 5798,
+      "ctr": 0.0010348395998620215,
+      "position": 26.889444636081407
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 8,
+      "impressions": 4888,
+      "ctr": 0.0016366612111292963,
+      "position": 29.05687397708674
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 7,
+      "impressions": 5065,
+      "ctr": 0.0013820335636722605,
+      "position": 31.515301085883515
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 7,
+      "impressions": 4232,
+      "ctr": 0.0016540642722117202,
+      "position": 28.589083175803403
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 11,
+      "impressions": 4468,
+      "ctr": 0.0024619516562220233,
+      "position": 26.147493285586393
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 2,
+      "impressions": 4172,
+      "ctr": 0.00047938638542665386,
+      "position": 30.81759348034516
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 3,
+      "impressions": 5063,
+      "ctr": 0.0005925340707090658,
+      "position": 29.99407465929291
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 8,
+      "impressions": 8327,
+      "ctr": 0.0009607301549177375,
+      "position": 17.481445898883152
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 5,
+      "impressions": 4587,
+      "ctr": 0.0010900370612600828,
+      "position": 28.781774580335732
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 10,
+      "impressions": 4594,
+      "ctr": 0.0021767522855899,
+      "position": 30.7372659991293
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 7,
+      "impressions": 4216,
+      "ctr": 0.0016603415559772296,
+      "position": 30.513757115749527
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 12,
+      "impressions": 4808,
+      "ctr": 0.0024958402662229617,
+      "position": 28.604617304492514
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 6,
+      "impressions": 4255,
+      "ctr": 0.001410105757931845,
+      "position": 29.713043478260868
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 3,
+      "impressions": 5919,
+      "ctr": 0.0005068423720223011,
+      "position": 30.234499070788985
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 4,
+      "impressions": 6522,
+      "ctr": 0.0006133088009812941,
+      "position": 25.939282428702853
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 9,
+      "impressions": 6446,
+      "ctr": 0.0013962147067949117,
+      "position": 22.448650325783433
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 4,
+      "impressions": 4788,
+      "ctr": 0.000835421888053467,
+      "position": 28.871345029239766
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 8,
+      "impressions": 5163,
+      "ctr": 0.0015494867325198528,
+      "position": 27.42223513461166
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 4,
+      "impressions": 5046,
+      "ctr": 0.0007927070947284979,
+      "position": 27.487713040031707
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 2,
+      "impressions": 4598,
+      "ctr": 0.00043497172683775554,
+      "position": 29.624184428012178
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 2,
+      "impressions": 5176,
+      "ctr": 0.0003863987635239567,
+      "position": 26.635432766615146
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 3,
+      "impressions": 5674,
+      "ctr": 0.0005287275290800141,
+      "position": 29.116320056397605
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 6,
+      "impressions": 5676,
+      "ctr": 0.0010570824524312897,
+      "position": 28.18217054263566
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 9,
+      "impressions": 5930,
+      "ctr": 0.0015177065767284991,
+      "position": 29.988364249578414
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 9,
+      "impressions": 9611,
+      "ctr": 0.0009364270107168869,
+      "position": 18.196441577359277
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 5,
+      "impressions": 5700,
+      "ctr": 0.0008771929824561404,
+      "position": 26.210526315789473
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 0,
+      "impressions": 5050,
+      "ctr": 0,
+      "position": 29.651683168316833
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "johnson attorneys group",
+      "clicks": 35,
+      "impressions": 1006,
+      "ctr": 0.03479125248508946,
+      "position": 1.1878727634194832
+    },
+    {
+      "query": "johnson attorney group",
+      "clicks": 15,
+      "impressions": 96,
+      "ctr": 0.15625,
+      "position": 1.8020833333333335
+    },
+    {
+      "query": "james johnson attorney",
+      "clicks": 12,
+      "impressions": 84,
+      "ctr": 0.14285714285714285,
+      "position": 6.357142857142857
+    },
+    {
+      "query": "never drink and drive scholarship",
+      "clicks": 7,
+      "impressions": 48,
+      "ctr": 0.14583333333333334,
+      "position": 2.4375
+    },
+    {
+      "query": "what happens if i'm at fault in a car accident california",
+      "clicks": 7,
+      "impressions": 666,
+      "ctr": 0.010510510510510511,
+      "position": 7.588588588588588
+    },
+    {
+      "query": "james johnson lawyer",
+      "clicks": 5,
+      "impressions": 43,
+      "ctr": 0.11627906976744186,
+      "position": 8.279069767441861
+    },
+    {
+      "query": "johnson attorney at law",
+      "clicks": 3,
+      "impressions": 25,
+      "ctr": 0.12,
+      "position": 32.8
+    },
+    {
+      "query": "johnson attorneys group injury & accidents",
+      "clicks": 3,
+      "impressions": 20,
+      "ctr": 0.15,
+      "position": 11.6
+    },
+    {
+      "query": "patient abandonment california",
+      "clicks": 3,
+      "impressions": 392,
+      "ctr": 0.007653061224489796,
+      "position": 8.283163265306122
+    },
+    {
+      "query": "social host liability california",
+      "clicks": 3,
+      "impressions": 27,
+      "ctr": 0.1111111111111111,
+      "position": 12.222222222222221
+    },
+    {
+      "query": "can lead poisoning be cured",
+      "clicks": 2,
+      "impressions": 152,
+      "ctr": 0.013157894736842105,
+      "position": 2.802631578947368
+    },
+    {
+      "query": "car battery explosion injury",
+      "clicks": 2,
+      "impressions": 118,
+      "ctr": 0.01694915254237288,
+      "position": 8.211864406779661
+    },
+    {
+      "query": "johnson law group",
+      "clicks": 2,
+      "impressions": 707,
+      "ctr": 0.002828854314002829,
+      "position": 6.724186704384724
+    },
+    {
+      "query": "limo accident lawyer",
+      "clicks": 2,
+      "impressions": 150,
+      "ctr": 0.013333333333333334,
+      "position": 38.10666666666667
+    },
+    {
+      "query": "what to do after a car accident california",
+      "clicks": 2,
+      "impressions": 328,
+      "ctr": 0.006097560975609756,
+      "position": 47.667682926829265
+    },
+    {
+      "query": "what to do after a car accident in california",
+      "clicks": 2,
+      "impressions": 567,
+      "ctr": 0.003527336860670194,
+      "position": 44.516754850088184
+    },
+    {
+      "query": "what to do after car accident california",
+      "clicks": 2,
+      "impressions": 495,
+      "ctr": 0.00404040404040404,
+      "position": 52.93939393939394
+    },
+    {
+      "query": "anaheim motorcycle accident attorney",
+      "clicks": 1,
+      "impressions": 21,
+      "ctr": 0.047619047619047616,
+      "position": 97.23809523809524
+    },
+    {
+      "query": "anaheim pedestrian accident attorney",
+      "clicks": 1,
+      "impressions": 68,
+      "ctr": 0.014705882352941176,
+      "position": 94.51470588235294
+    },
+    {
+      "query": "bakersfield injury attorney",
+      "clicks": 1,
+      "impressions": 272,
+      "ctr": 0.003676470588235294,
+      "position": 16.602941176470587
+    },
+    {
+      "query": "bakersfield personal injury attorney",
+      "clicks": 1,
+      "impressions": 2600,
+      "ctr": 0.0003846153846153846,
+      "position": 11.822692307692307
+    },
+    {
+      "query": "billy johnson law firm",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 9.666666666666666
+    },
+    {
+      "query": "california medical malpractice attorney",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 61
+    },
+    {
+      "query": "can the effects of lead poisoning be reversed",
+      "clicks": 1,
+      "impressions": 34,
+      "ctr": 0.029411764705882353,
+      "position": 9.352941176470589
+    },
+    {
+      "query": "car accident lawyer anaheim",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 100.26315789473684
+    },
+    {
+      "query": "defective medical device lawyers",
+      "clicks": 1,
+      "impressions": 585,
+      "ctr": 0.0017094017094017094,
+      "position": 63.23760683760684
+    },
+    {
+      "query": "effects of lead exposure",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3
+    },
+    {
+      "query": "how does homeowners insurance work if someone gets hurt on your property",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 3
+    },
+    {
+      "query": "how to detox lead out of your body",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "how to treat lead poisoning",
+      "clicks": 1,
+      "impressions": 42,
+      "ctr": 0.023809523809523808,
+      "position": 2.7142857142857144
+    },
+    {
+      "query": "human trafficking lawyer",
+      "clicks": 1,
+      "impressions": 29,
+      "ctr": 0.034482758620689655,
+      "position": 56.10344827586207
+    },
+    {
+      "query": "is there a cure for lead poisoning",
+      "clicks": 1,
+      "impressions": 52,
+      "ctr": 0.019230769230769232,
+      "position": 2
+    },
+    {
+      "query": "johnson attorney",
+      "clicks": 1,
+      "impressions": 27,
+      "ctr": 0.037037037037037035,
+      "position": 17.925925925925927
+    },
+    {
+      "query": "johnson attorneys group car accident lawyers",
+      "clicks": 1,
+      "impressions": 336,
+      "ctr": 0.002976190476190476,
+      "position": 1.6488095238095237
+    },
+    {
+      "query": "johnson attorneys group injury",
+      "clicks": 1,
+      "impressions": 328,
+      "ctr": 0.003048780487804878,
+      "position": 1
+    },
+    {
+      "query": "johnson law firm",
+      "clicks": 1,
+      "impressions": 189,
+      "ctr": 0.005291005291005291,
+      "position": 7.592592592592593
+    },
+    {
+      "query": "johnson trial law",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3
+    },
+    {
+      "query": "jonathan johnson lawyer",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3.5
+    },
+    {
+      "query": "lithium battery can explode",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "patient abandonment lawyers",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 6.785714285714286
+    },
+    {
+      "query": "personal injury attorney",
+      "clicks": 1,
+      "impressions": 2335,
+      "ctr": 0.00042826552462526765,
+      "position": 9.634261241970021
+    },
+    {
+      "query": "personal injury law firm",
+      "clicks": 1,
+      "impressions": 299,
+      "ctr": 0.0033444816053511705,
+      "position": 14.31772575250836
+    },
+    {
+      "query": "personal injury law firms in california",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 65.61538461538461
+    },
+    {
+      "query": "personal injury lawyers in san jose",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 76.92857142857143
+    },
+    {
+      "query": "sex trafficking lawyer",
+      "clicks": 1,
+      "impressions": 67,
+      "ctr": 0.014925373134328358,
+      "position": 39.791044776119406
+    },
+    {
+      "query": "slipping on wet floor with no sign",
+      "clicks": 1,
+      "impressions": 112,
+      "ctr": 0.008928571428571428,
+      "position": 64.07142857142857
+    },
+    {
+      "query": "the jackson law group",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 101
+    },
+    {
+      "query": "the johnson injury firm",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 10.666666666666666
+    },
+    {
+      "query": "trip and fall",
+      "clicks": 1,
+      "impressions": 299,
+      "ctr": 0.0033444816053511705,
+      "position": 46.88294314381271
+    },
+    {
+      "query": "trip and fall lawyers near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2.666666666666667
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://johnsonattorneysgroup.com/",
+      "clicks": 161,
+      "impressions": 38979,
+      "ctr": 0.0041304292054696115,
+      "position": 10.205341337643347
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/personal-injury-attorney-bakersfield/",
+      "clicks": 37,
+      "impressions": 133552,
+      "ctr": 0.00027704564514196715,
+      "position": 23.241374146399902
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/about/",
+      "clicks": 26,
+      "impressions": 2414,
+      "ctr": 0.010770505385252692,
+      "position": 8.059652029826015
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/suing-a-host-of-a-party-for-dui/",
+      "clicks": 25,
+      "impressions": 4833,
+      "ctr": 0.0051727705358990276,
+      "position": 6.570039313056073
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/2024-scholarship-page/",
+      "clicks": 17,
+      "impressions": 398,
+      "ctr": 0.04271356783919598,
+      "position": 24.530150753768844
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/what-is-patient-abandonment/",
+      "clicks": 16,
+      "impressions": 2789,
+      "ctr": 0.005736823234134099,
+      "position": 17.557547508067408
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/human-trafficking-lawyer/",
+      "clicks": 14,
+      "impressions": 359,
+      "ctr": 0.03899721448467967,
+      "position": 34.14484679665738
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/islead-poisoning-reversible/",
+      "clicks": 13,
+      "impressions": 5822,
+      "ctr": 0.002232909653040192,
+      "position": 3.884060460322913
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/car-accident-lawyer/what-if-i-am-at-fault/",
+      "clicks": 11,
+      "impressions": 3381,
+      "ctr": 0.003253475303164744,
+      "position": 23.075125702454894
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/does-homeowners-insurance-cover-injuries-under-personal-liability/",
+      "clicks": 11,
+      "impressions": 8059,
+      "ctr": 0.0013649336145923811,
+      "position": 16.16093808164785
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/our-reviews/",
+      "clicks": 10,
+      "impressions": 2106,
+      "ctr": 0.004748338081671415,
+      "position": 8.522317188983855
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/lithium-battery-explosion-lawyer/",
+      "clicks": 9,
+      "impressions": 1882,
+      "ctr": 0.004782146652497344,
+      "position": 18.878320935175346
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/locations/",
+      "clicks": 7,
+      "impressions": 2926,
+      "ctr": 0.0023923444976076554,
+      "position": 4.603896103896104
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/slip-and-fall-accident-attorney/trip-and-fall/",
+      "clicks": 7,
+      "impressions": 3267,
+      "ctr": 0.0021426385062748698,
+      "position": 10.463728191000918
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/what-to-do-after-a-car-accident-in-california-step-by-step-guide/",
+      "clicks": 6,
+      "impressions": 3871,
+      "ctr": 0.0015499870834409714,
+      "position": 44.75975200206665
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/contact/",
+      "clicks": 5,
+      "impressions": 4147,
+      "ctr": 0.0012056908608632747,
+      "position": 15.327706775982637
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/personal-injury-attorney-san-diego/",
+      "clicks": 5,
+      "impressions": 3042,
+      "ctr": 0.001643655489809336,
+      "position": 67.79388560157791
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/trampoline-injury-lawyer/",
+      "clicks": 5,
+      "impressions": 3777,
+      "ctr": 0.0013238019592268996,
+      "position": 10.141117288853588
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/can-posting-a-beware-of-dog-sign-help-to-offset-liability-if-the-dog-bites/",
+      "clicks": 4,
+      "impressions": 755,
+      "ctr": 0.005298013245033113,
+      "position": 9.47019867549669
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/makes-lithium-ion-batteries-explode/",
+      "clicks": 4,
+      "impressions": 1923,
+      "ctr": 0.0020800832033281333,
+      "position": 17.913676547061883
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/car-battery-explosion-injury-lawyer/",
+      "clicks": 3,
+      "impressions": 1301,
+      "ctr": 0.0023059185242121443,
+      "position": 22.50730207532667
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/limousine-accident-lawyer/",
+      "clicks": 3,
+      "impressions": 563,
+      "ctr": 0.0053285968028419185,
+      "position": 25.55417406749556
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/parking-lot-accident-lawyer/",
+      "clicks": 3,
+      "impressions": 820,
+      "ctr": 0.003658536585365854,
+      "position": 14.845121951219513
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/personal-injury-attorney-newport-beach/",
+      "clicks": 3,
+      "impressions": 11983,
+      "ctr": 0.000250354669114579,
+      "position": 54.79262288241676
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/personal-injury-attorney-san-jose/",
+      "clicks": 3,
+      "impressions": 3398,
+      "ctr": 0.0008828722778104767,
+      "position": 69.58416715715127
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/police-brutality-misconduct-injury-lawyer/",
+      "clicks": 3,
+      "impressions": 1118,
+      "ctr": 0.0026833631484794273,
+      "position": 72.22003577817532
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/slip-falls-due-no-wet-floor-signs/",
+      "clicks": 3,
+      "impressions": 1604,
+      "ctr": 0.0018703241895261845,
+      "position": 17.459476309226932
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/traumatic-brain-injury-lawyer/compensation-available/",
+      "clicks": 3,
+      "impressions": 347,
+      "ctr": 0.008645533141210375,
+      "position": 51.56772334293948
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/choking-injury-lawyer/",
+      "clicks": 2,
+      "impressions": 351,
+      "ctr": 0.005698005698005698,
+      "position": 26.307692307692307
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/liability-dog-bite-attack-cases/",
+      "clicks": 2,
+      "impressions": 228,
+      "ctr": 0.008771929824561403,
+      "position": 12
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/motorcycle-accident-lawyer/insurance-coverage-options/",
+      "clicks": 2,
+      "impressions": 3692,
+      "ctr": 0.0005417118093174431,
+      "position": 33.90005417118093
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/motorcycle-accident-lawyer/what-to-do-if-ticketed-after-crash/",
+      "clicks": 2,
+      "impressions": 188,
+      "ctr": 0.010638297872340425,
+      "position": 8.638297872340425
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/nursing-malpractice-lawyer/",
+      "clicks": 2,
+      "impressions": 497,
+      "ctr": 0.004024144869215292,
+      "position": 34.33601609657948
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/personal-injury-attorney-riverside/",
+      "clicks": 2,
+      "impressions": 7473,
+      "ctr": 0.00026763013515321824,
+      "position": 56.766091261876085
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/personal-injury-attorney-santa-barbara/",
+      "clicks": 2,
+      "impressions": 390,
+      "ctr": 0.005128205128205128,
+      "position": 31.53076923076923
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/product-liability-attorney/",
+      "clicks": 2,
+      "impressions": 688,
+      "ctr": 0.0029069767441860465,
+      "position": 34.656976744186046
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/retained-foreign-bodies-medical-malpractice-lawyer/",
+      "clicks": 2,
+      "impressions": 283,
+      "ctr": 0.007067137809187279,
+      "position": 10.731448763250883
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/slip-fall-injuries-caused-poorly-marked-steps-ramps/",
+      "clicks": 2,
+      "impressions": 221,
+      "ctr": 0.00904977375565611,
+      "position": 8.963800904977376
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/taxi-accident-lawyer/",
+      "clicks": 2,
+      "impressions": 2727,
+      "ctr": 0.0007334066740007334,
+      "position": 18.213421342134215
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/7-steps-to-take-immediately-after-a-car-accident/",
+      "clicks": 1,
+      "impressions": 4076,
+      "ctr": 0.0002453385672227674,
+      "position": 63.02747791952895
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/assault-bodily-injury-lawyer/",
+      "clicks": 1,
+      "impressions": 106,
+      "ctr": 0.009433962264150943,
+      "position": 21.39622641509434
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/battery-explosion-accident-lawyer/",
+      "clicks": 1,
+      "impressions": 218,
+      "ctr": 0.0045871559633027525,
+      "position": 11.371559633027523
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/blog/",
+      "clicks": 1,
+      "impressions": 79,
+      "ctr": 0.012658227848101266,
+      "position": 8
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/car-accident-lawyer/what-does-an-attorney-do/",
+      "clicks": 1,
+      "impressions": 1325,
+      "ctr": 0.0007547169811320754,
+      "position": 34.61056603773585
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/defective-automotive-products-lawyer/",
+      "clicks": 1,
+      "impressions": 29,
+      "ctr": 0.034482758620689655,
+      "position": 42.89655172413793
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/defective-medical-devices-lawyer/",
+      "clicks": 1,
+      "impressions": 6521,
+      "ctr": 0.00015335071308081582,
+      "position": 50.0263763226499
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/disclaimer/",
+      "clicks": 1,
+      "impressions": 106,
+      "ctr": 0.009433962264150943,
+      "position": 8.556603773584905
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/failure-warn-defective-product-case/",
+      "clicks": 1,
+      "impressions": 331,
+      "ctr": 0.0030211480362537764,
+      "position": 12.803625377643504
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/fraternity-hazing-injuries/",
+      "clicks": 1,
+      "impressions": 1021,
+      "ctr": 0.0009794319294809011,
+      "position": 9.328109696376101
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/knotts-berry-farm-accident-lawyer/",
+      "clicks": 1,
+      "impressions": 1839,
+      "ctr": 0.000543773790103317,
+      "position": 21.298531810766722
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:06:27.634Z"
+}

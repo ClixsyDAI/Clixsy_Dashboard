@@ -1,0 +1,1350 @@
+{
+  "property": "sc-domain:arroofing.com",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 707,
+    "impressions": 214159,
+    "ctr": 0.003301285493488483,
+    "position": 21.747831707059902
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 13,
+      "impressions": 1989,
+      "ctr": 0.006535947712418301,
+      "position": 19.67420814479638
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 11,
+      "impressions": 2063,
+      "ctr": 0.005332040717401842,
+      "position": 31.03829374697043
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 5,
+      "impressions": 2869,
+      "ctr": 0.001742767514813524,
+      "position": 28.241547577553156
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 9,
+      "impressions": 2727,
+      "ctr": 0.0033003300330033004,
+      "position": 20.884855152181885
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 5,
+      "impressions": 1227,
+      "ctr": 0.004074979625101874,
+      "position": 27.272208638956805
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 2,
+      "impressions": 2804,
+      "ctr": 0.0007132667617689016,
+      "position": 25.560984308131243
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 1,
+      "impressions": 1341,
+      "ctr": 0.0007457121551081282,
+      "position": 25.901565995525726
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 4,
+      "impressions": 1700,
+      "ctr": 0.002352941176470588,
+      "position": 20.696470588235293
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 2,
+      "impressions": 2401,
+      "ctr": 0.0008329862557267805,
+      "position": 31.593086214077466
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 1,
+      "impressions": 2761,
+      "ctr": 0.0003621876131836291,
+      "position": 30.180007243752264
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 0,
+      "impressions": 1181,
+      "ctr": 0,
+      "position": 31.779847586790854
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 3,
+      "impressions": 1255,
+      "ctr": 0.002390438247011952,
+      "position": 26.542629482071714
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 2,
+      "impressions": 1662,
+      "ctr": 0.0012033694344163659,
+      "position": 29.888688327316487
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 3,
+      "impressions": 1589,
+      "ctr": 0.0018879798615481435,
+      "position": 26.40591567023285
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 5,
+      "impressions": 3640,
+      "ctr": 0.0013736263736263737,
+      "position": 10.727197802197802
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 10,
+      "impressions": 2323,
+      "ctr": 0.004304778303917348,
+      "position": 30.000860955660784
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 4,
+      "impressions": 3053,
+      "ctr": 0.0013101867016049786,
+      "position": 28.191287258434325
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 2,
+      "impressions": 1499,
+      "ctr": 0.00133422281521014,
+      "position": 29.791194129419612
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 2,
+      "impressions": 1382,
+      "ctr": 0.001447178002894356,
+      "position": 23.5123010130246
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 1,
+      "impressions": 1675,
+      "ctr": 0.0005970149253731343,
+      "position": 28.875820895522388
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 2,
+      "impressions": 1492,
+      "ctr": 0.0013404825737265416,
+      "position": 25.926943699731904
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 11,
+      "impressions": 1517,
+      "ctr": 0.007251153592617007,
+      "position": 22.765985497692814
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 11,
+      "impressions": 2240,
+      "ctr": 0.004910714285714286,
+      "position": 25.860714285714284
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 11,
+      "impressions": 3347,
+      "ctr": 0.0032865252464893933,
+      "position": 27.45622945921721
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 14,
+      "impressions": 1900,
+      "ctr": 0.007368421052631579,
+      "position": 21.93578947368421
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 4,
+      "impressions": 1672,
+      "ctr": 0.0023923444976076554,
+      "position": 25.47188995215311
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 2,
+      "impressions": 2245,
+      "ctr": 0.0008908685968819599,
+      "position": 28.078841870824053
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 4,
+      "impressions": 1854,
+      "ctr": 0.002157497303128371,
+      "position": 26.224379719525352
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 12,
+      "impressions": 1654,
+      "ctr": 0.007255139056831923,
+      "position": 21.92503022974607
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 11,
+      "impressions": 2327,
+      "ctr": 0.004727116458960034,
+      "position": 26.529437043403522
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 11,
+      "impressions": 3251,
+      "ctr": 0.003383574284835435,
+      "position": 31.558597354660105
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 9,
+      "impressions": 1672,
+      "ctr": 0.005382775119617225,
+      "position": 20.983253588516746
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 6,
+      "impressions": 1722,
+      "ctr": 0.003484320557491289,
+      "position": 24.034843205574912
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 1,
+      "impressions": 2595,
+      "ctr": 0.0003853564547206166,
+      "position": 27.840077071290946
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 7,
+      "impressions": 1802,
+      "ctr": 0.00388457269700333,
+      "position": 22.527746947835738
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 5,
+      "impressions": 1951,
+      "ctr": 0.0025627883136852894,
+      "position": 20.950281906714505
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 6,
+      "impressions": 2204,
+      "ctr": 0.0027223230490018148,
+      "position": 27.55580762250454
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 13,
+      "impressions": 2778,
+      "ctr": 0.004679625629949604,
+      "position": 26.571994240460764
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 4,
+      "impressions": 1723,
+      "ctr": 0.0023215322112594312,
+      "position": 24.167730702263494
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 10,
+      "impressions": 1511,
+      "ctr": 0.0066181336863004635,
+      "position": 17.543348775645267
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 0,
+      "impressions": 2385,
+      "ctr": 0,
+      "position": 25.534591194968552
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 1,
+      "impressions": 1497,
+      "ctr": 0.0006680026720106881,
+      "position": 24.84502338009352
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 9,
+      "impressions": 2004,
+      "ctr": 0.004491017964071856,
+      "position": 17.491017964071855
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 9,
+      "impressions": 2615,
+      "ctr": 0.0034416826003824093,
+      "position": 24.79694072657744
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 5,
+      "impressions": 3031,
+      "ctr": 0.001649620587264929,
+      "position": 29.281095348069943
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 15,
+      "impressions": 1755,
+      "ctr": 0.008547008547008548,
+      "position": 19.05128205128205
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 5,
+      "impressions": 2091,
+      "ctr": 0.0023912003825920613,
+      "position": 19.417981826877092
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 1,
+      "impressions": 3124,
+      "ctr": 0.0003201024327784891,
+      "position": 20.095070422535212
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 2,
+      "impressions": 1865,
+      "ctr": 0.0010723860589812334,
+      "position": 18.561930294906166
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 11,
+      "impressions": 3078,
+      "ctr": 0.0035737491877842753,
+      "position": 11.909681611435998
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 11,
+      "impressions": 3114,
+      "ctr": 0.0035324341682723185,
+      "position": 11.889210019267823
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 12,
+      "impressions": 2547,
+      "ctr": 0.004711425206124852,
+      "position": 17.272870043188064
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 7,
+      "impressions": 2546,
+      "ctr": 0.0027494108405341712,
+      "position": 15.242733699921445
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 8,
+      "impressions": 2132,
+      "ctr": 0.00375234521575985,
+      "position": 18.838649155722326
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 4,
+      "impressions": 1782,
+      "ctr": 0.002244668911335578,
+      "position": 18.428731762065095
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 2,
+      "impressions": 2492,
+      "ctr": 0.0008025682182985554,
+      "position": 16.007624398073837
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 8,
+      "impressions": 2919,
+      "ctr": 0.0027406646111682084,
+      "position": 18.964028776978417
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 19,
+      "impressions": 3783,
+      "ctr": 0.0050224689399947136,
+      "position": 23.36426116838488
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 16,
+      "impressions": 2072,
+      "ctr": 0.007722007722007722,
+      "position": 25.56949806949807
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 14,
+      "impressions": 1836,
+      "ctr": 0.007625272331154684,
+      "position": 17.872549019607842
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 8,
+      "impressions": 1878,
+      "ctr": 0.004259850905218318,
+      "position": 13.83013844515442
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 4,
+      "impressions": 1607,
+      "ctr": 0.002489110143123833,
+      "position": 20.2874922215308
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 3,
+      "impressions": 1354,
+      "ctr": 0.0022156573116691287,
+      "position": 22.501477104874446
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 11,
+      "impressions": 1584,
+      "ctr": 0.006944444444444444,
+      "position": 17.821969696969695
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 9,
+      "impressions": 3268,
+      "ctr": 0.0027539779681762548,
+      "position": 17.804161566707467
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 27,
+      "impressions": 1979,
+      "ctr": 0.013643254168772108,
+      "position": 22.06366851945427
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 10,
+      "impressions": 1724,
+      "ctr": 0.00580046403712297,
+      "position": 21.27726218097448
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 6,
+      "impressions": 2211,
+      "ctr": 0.0027137042062415195,
+      "position": 17.158299412030754
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 6,
+      "impressions": 2627,
+      "ctr": 0.0022839741149600305,
+      "position": 19.63037685572897
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 3,
+      "impressions": 1873,
+      "ctr": 0.001601708489054992,
+      "position": 22.97330485851575
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 12,
+      "impressions": 2009,
+      "ctr": 0.005973120955699353,
+      "position": 20.754106520657043
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 13,
+      "impressions": 3523,
+      "ctr": 0.0036900369003690036,
+      "position": 24.028384899233608
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 19,
+      "impressions": 2411,
+      "ctr": 0.007880547490667772,
+      "position": 24.093322272915803
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 13,
+      "impressions": 2895,
+      "ctr": 0.004490500863557859,
+      "position": 19.65837651122625
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 10,
+      "impressions": 2459,
+      "ctr": 0.004066693777958519,
+      "position": 22.806018706791377
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 0,
+      "impressions": 3527,
+      "ctr": 0,
+      "position": 13.59058690104905
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 4,
+      "impressions": 2204,
+      "ctr": 0.0018148820326678765,
+      "position": 24.460072595281307
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 11,
+      "impressions": 2329,
+      "ctr": 0.0047230571060541005,
+      "position": 17.230571060541006
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 13,
+      "impressions": 3570,
+      "ctr": 0.0036414565826330533,
+      "position": 17.183193277310924
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 12,
+      "impressions": 2298,
+      "ctr": 0.005221932114882507,
+      "position": 11.993472584856397
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 6,
+      "impressions": 1802,
+      "ctr": 0.003329633740288568,
+      "position": 12.802441731409544
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 9,
+      "impressions": 15489,
+      "ctr": 0.0005810575246949448,
+      "position": 2.72096326425205
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 8,
+      "impressions": 1704,
+      "ctr": 0.004694835680751174,
+      "position": 13.809272300469484
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 4,
+      "impressions": 1424,
+      "ctr": 0.0028089887640449437,
+      "position": 19.530898876404493
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 20,
+      "impressions": 2033,
+      "ctr": 0.009837678307919331,
+      "position": 12.668962124938515
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 13,
+      "impressions": 3229,
+      "ctr": 0.004026014245896562,
+      "position": 15.50975534221121
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 20,
+      "impressions": 2553,
+      "ctr": 0.007833920877399139,
+      "position": 15.334900117508813
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 23,
+      "impressions": 2703,
+      "ctr": 0.008509064002959674,
+      "position": 16.580836108028116
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 10,
+      "impressions": 2561,
+      "ctr": 0.003904724716907458,
+      "position": 20.072237407262786
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 2,
+      "impressions": 2065,
+      "ctr": 0.0009685230024213075,
+      "position": 20.025665859564164
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "ar roofing",
+      "clicks": 106,
+      "impressions": 1588,
+      "ctr": 0.06675062972292191,
+      "position": 9.075566750629722
+    },
+    {
+      "query": "ar roofing wichita ks",
+      "clicks": 66,
+      "impressions": 393,
+      "ctr": 0.16793893129770993,
+      "position": 11.21882951653944
+    },
+    {
+      "query": "a-r roofing & exteriors",
+      "clicks": 31,
+      "impressions": 248,
+      "ctr": 0.125,
+      "position": 2
+    },
+    {
+      "query": "a-r roofing",
+      "clicks": 23,
+      "impressions": 151,
+      "ctr": 0.152317880794702,
+      "position": 4.940397350993377
+    },
+    {
+      "query": "ar roofing llc",
+      "clicks": 12,
+      "impressions": 63,
+      "ctr": 0.19047619047619047,
+      "position": 3.2063492063492065
+    },
+    {
+      "query": "ar roofing pratt ks",
+      "clicks": 12,
+      "impressions": 72,
+      "ctr": 0.16666666666666666,
+      "position": 2.125
+    },
+    {
+      "query": "a&r roofing",
+      "clicks": 9,
+      "impressions": 150,
+      "ctr": 0.06,
+      "position": 8.913333333333334
+    },
+    {
+      "query": "a-r roofing and exteriors wichita",
+      "clicks": 9,
+      "impressions": 69,
+      "ctr": 0.13043478260869565,
+      "position": 1.0579710144927537
+    },
+    {
+      "query": "emergency roof repair near me",
+      "clicks": 7,
+      "impressions": 161,
+      "ctr": 0.043478260869565216,
+      "position": 15.819875776397515
+    },
+    {
+      "query": "shingle roof repair near me",
+      "clicks": 6,
+      "impressions": 91,
+      "ctr": 0.06593406593406594,
+      "position": 10.186813186813186
+    },
+    {
+      "query": "a r roofing",
+      "clicks": 5,
+      "impressions": 218,
+      "ctr": 0.022935779816513763,
+      "position": 22.192660550458715
+    },
+    {
+      "query": "ar roofing wichita",
+      "clicks": 5,
+      "impressions": 149,
+      "ctr": 0.03355704697986577,
+      "position": 39.23489932885906
+    },
+    {
+      "query": "roof leak repair near me",
+      "clicks": 5,
+      "impressions": 536,
+      "ctr": 0.009328358208955223,
+      "position": 32.501865671641795
+    },
+    {
+      "query": "a & r roofing",
+      "clicks": 3,
+      "impressions": 47,
+      "ctr": 0.06382978723404255,
+      "position": 4.76595744680851
+    },
+    {
+      "query": "a and r roofing",
+      "clicks": 3,
+      "impressions": 119,
+      "ctr": 0.025210084033613446,
+      "position": 8.77310924369748
+    },
+    {
+      "query": "flat roof repair near me",
+      "clicks": 3,
+      "impressions": 117,
+      "ctr": 0.02564102564102564,
+      "position": 4.675213675213675
+    },
+    {
+      "query": "roofing contractors in kansas",
+      "clicks": 3,
+      "impressions": 22,
+      "ctr": 0.13636363636363635,
+      "position": 19.045454545454547
+    },
+    {
+      "query": "wichita roofing",
+      "clicks": 3,
+      "impressions": 278,
+      "ctr": 0.01079136690647482,
+      "position": 12.37410071942446
+    },
+    {
+      "query": "downspout installer near me",
+      "clicks": 2,
+      "impressions": 13,
+      "ctr": 0.15384615384615385,
+      "position": 7
+    },
+    {
+      "query": "gutter installation wichita ks",
+      "clicks": 2,
+      "impressions": 345,
+      "ctr": 0.005797101449275362,
+      "position": 10.336231884057971
+    },
+    {
+      "query": "roofing company wichita kansas",
+      "clicks": 2,
+      "impressions": 10,
+      "ctr": 0.2,
+      "position": 7.4
+    },
+    {
+      "query": "roofing contractors in wichita ks",
+      "clicks": 2,
+      "impressions": 119,
+      "ctr": 0.01680672268907563,
+      "position": 15.899159663865547
+    },
+    {
+      "query": "roofing in kansas",
+      "clicks": 2,
+      "impressions": 30,
+      "ctr": 0.06666666666666667,
+      "position": 7.766666666666667
+    },
+    {
+      "query": "roofing kansas",
+      "clicks": 2,
+      "impressions": 122,
+      "ctr": 0.01639344262295082,
+      "position": 6.049180327868853
+    },
+    {
+      "query": "roofing wichita ks",
+      "clicks": 2,
+      "impressions": 603,
+      "ctr": 0.003316749585406302,
+      "position": 10.008291873963516
+    },
+    {
+      "query": "siding contractor wichita ks",
+      "clicks": 2,
+      "impressions": 281,
+      "ctr": 0.0071174377224199285,
+      "position": 12.555160142348754
+    },
+    {
+      "query": "wichita roofing companies",
+      "clicks": 2,
+      "impressions": 199,
+      "ctr": 0.010050251256281407,
+      "position": 13.768844221105528
+    },
+    {
+      "query": "a&r roofing and building specialists",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 6
+    },
+    {
+      "query": "a-r roofing and exteriors creve coeur",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 1
+    },
+    {
+      "query": "a-r roofing and exteriors creve coeur reviews",
+      "clicks": 1,
+      "impressions": 22,
+      "ctr": 0.045454545454545456,
+      "position": 2.5
+    },
+    {
+      "query": "a1 roofing near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 1.6666666666666665
+    },
+    {
+      "query": "aar roofing",
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 52.63333333333333
+    },
+    {
+      "query": "ar roofing & remodeling",
+      "clicks": 1,
+      "impressions": 48,
+      "ctr": 0.020833333333333332,
+      "position": 15.270833333333334
+    },
+    {
+      "query": "aresroofing",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 2.1
+    },
+    {
+      "query": "arr roofing",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 5.615384615384615
+    },
+    {
+      "query": "best roofing companies in wichita ks",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 17.41176470588235
+    },
+    {
+      "query": "best roofing company wichita ks",
+      "clicks": 1,
+      "impressions": 21,
+      "ctr": 0.047619047619047616,
+      "position": 12.19047619047619
+    },
+    {
+      "query": "cheap windows near me for sale",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 13
+    },
+    {
+      "query": "commercial roofing wichita ks",
+      "clicks": 1,
+      "impressions": 731,
+      "ctr": 0.0013679890560875513,
+      "position": 17.051983584131328
+    },
+    {
+      "query": "commercial roofing york, ne",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 8.6
+    },
+    {
+      "query": "compañías de roofing comercial",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 10
+    },
+    {
+      "query": "full roof replacement",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "gutter company wichita",
+      "clicks": 1,
+      "impressions": 33,
+      "ctr": 0.030303030303030304,
+      "position": 12.727272727272727
+    },
+    {
+      "query": "gutters and downspouts",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "kansas roofers",
+      "clicks": 1,
+      "impressions": 54,
+      "ctr": 0.018518518518518517,
+      "position": 12
+    },
+    {
+      "query": "metal roofers near me",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 1
+    },
+    {
+      "query": "metal siding contractors near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "ok roofing wichita ks",
+      "clicks": 1,
+      "impressions": 43,
+      "ctr": 0.023255813953488372,
+      "position": 2.488372093023256
+    },
+    {
+      "query": "online estimates roofer near me",
+      "clicks": 1,
+      "impressions": 22,
+      "ctr": 0.045454545454545456,
+      "position": 3.909090909090909
+    },
+    {
+      "query": "pratt roofing",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 21.181818181818183
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://arroofing.com/",
+      "clicks": 262,
+      "impressions": 60573,
+      "ctr": 0.004325359483598303,
+      "position": 24.639063609198818
+    },
+    {
+      "page": "https://arroofing.com/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-Wichita-AR",
+      "clicks": 211,
+      "impressions": 42257,
+      "ctr": 0.004993255555292614,
+      "position": 2.168350805783657
+    },
+    {
+      "page": "https://arroofing.com/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-Pratt-AR",
+      "clicks": 41,
+      "impressions": 6646,
+      "ctr": 0.006169124285284382,
+      "position": 3.7148660848630755
+    },
+    {
+      "page": "https://arroofing.com/contact/",
+      "clicks": 28,
+      "impressions": 7553,
+      "ctr": 0.0037071362372567192,
+      "position": 9.203230504435323
+    },
+    {
+      "page": "https://arroofing.com/service-area/wichita-ks/roof-repair/",
+      "clicks": 25,
+      "impressions": 13271,
+      "ctr": 0.0018838067967749228,
+      "position": 24.02283173837691
+    },
+    {
+      "page": "https://arroofing.com/service-area/st-louis-mo/",
+      "clicks": 22,
+      "impressions": 3258,
+      "ctr": 0.006752608962553714,
+      "position": 35.84775936157152
+    },
+    {
+      "page": "https://arroofing.com/?utm_source=https://arroofing.com/&utm_medium=google&utm_campaign=organic&utm_content=GMBListing-Creve-Coeur-MO",
+      "clicks": 19,
+      "impressions": 4797,
+      "ctr": 0.003960808838857619,
+      "position": 3.9703981655201166
+    },
+    {
+      "page": "https://arroofing.com/roofing/residential/",
+      "clicks": 16,
+      "impressions": 7766,
+      "ctr": 0.0020602626834921455,
+      "position": 26.96806592840587
+    },
+    {
+      "page": "https://arroofing.com/siding/",
+      "clicks": 15,
+      "impressions": 24859,
+      "ctr": 0.0006034031940142403,
+      "position": 21.948871636027192
+    },
+    {
+      "page": "https://arroofing.com/blog/why-your-roof-needs-to-breathe-a-simple-guide-to-ventilation/",
+      "clicks": 11,
+      "impressions": 1654,
+      "ctr": 0.006650544135429262,
+      "position": 4.917775090689238
+    },
+    {
+      "page": "https://arroofing.com/roofing/commercial/",
+      "clicks": 9,
+      "impressions": 4657,
+      "ctr": 0.001932574618853339,
+      "position": 28.38307923555937
+    },
+    {
+      "page": "https://arroofing.com/blog/ice-dams-the-silent-winter-threat-that-can-wreck-your-roof-and-your-home/",
+      "clicks": 7,
+      "impressions": 449,
+      "ctr": 0.015590200445434299,
+      "position": 5.472160356347438
+    },
+    {
+      "page": "https://arroofing.com/gutters/",
+      "clicks": 6,
+      "impressions": 14332,
+      "ctr": 0.0004186435947530003,
+      "position": 25.28998046329891
+    },
+    {
+      "page": "https://arroofing.com/about/",
+      "clicks": 5,
+      "impressions": 8115,
+      "ctr": 0.0006161429451632779,
+      "position": 40.88638324091189
+    },
+    {
+      "page": "https://arroofing.com/service-area/",
+      "clicks": 5,
+      "impressions": 826,
+      "ctr": 0.006053268765133172,
+      "position": 9.658595641646489
+    },
+    {
+      "page": "https://arroofing.com/gallery/",
+      "clicks": 4,
+      "impressions": 1136,
+      "ctr": 0.0035211267605633804,
+      "position": 15.148767605633802
+    },
+    {
+      "page": "https://arroofing.com/service-area/pratt-ks/",
+      "clicks": 4,
+      "impressions": 2345,
+      "ctr": 0.0017057569296375266,
+      "position": 15.850319829424308
+    },
+    {
+      "page": "https://arroofing.com/service-area/wichita-ks/",
+      "clicks": 4,
+      "impressions": 4453,
+      "ctr": 0.0008982708286548395,
+      "position": 32.63575117898046
+    },
+    {
+      "page": "https://arroofing.com/windows/",
+      "clicks": 4,
+      "impressions": 14329,
+      "ctr": 0.00027915416288645404,
+      "position": 17.958754972433525
+    },
+    {
+      "page": "https://arroofing.com/blog/insurance-education-tips-what-kansas-missouri-homeowners-need-to-know/",
+      "clicks": 3,
+      "impressions": 629,
+      "ctr": 0.0047694753577106515,
+      "position": 5.233704292527822
+    },
+    {
+      "page": "https://arroofing.com/blog/why-winter-is-the-best-time-to-schedule-roof-repairs-in-kansas-missouri/",
+      "clicks": 3,
+      "impressions": 124,
+      "ctr": 0.024193548387096774,
+      "position": 14.588709677419354
+    },
+    {
+      "page": "https://arroofing.com/contact/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-Wichita-AR",
+      "clicks": 3,
+      "impressions": 998,
+      "ctr": 0.003006012024048096,
+      "position": 11.819639278557114
+    },
+    {
+      "page": "https://arroofing.com/service-area/garden-city-ks/",
+      "clicks": 3,
+      "impressions": 524,
+      "ctr": 0.0057251908396946565,
+      "position": 5.748091603053435
+    },
+    {
+      "page": "http://www.arroofing.com/",
+      "clicks": 2,
+      "impressions": 305,
+      "ctr": 0.006557377049180328,
+      "position": 33.131147540983605
+    },
+    {
+      "page": "https://arroofing.com/blog/5-factors-that-really-determine-your-roofs-final-price/",
+      "clicks": 2,
+      "impressions": 514,
+      "ctr": 0.0038910505836575876,
+      "position": 5.844357976653696
+    },
+    {
+      "page": "https://arroofing.com/blog/how-to-prepare-for-day-of-roof-installation/",
+      "clicks": 2,
+      "impressions": 87,
+      "ctr": 0.022988505747126436,
+      "position": 6.0344827586206895
+    },
+    {
+      "page": "https://arroofing.com/reviews/",
+      "clicks": 2,
+      "impressions": 1162,
+      "ctr": 0.0017211703958691911,
+      "position": 14.250430292598967
+    },
+    {
+      "page": "https://arroofing.com/roofing/storm-damage/",
+      "clicks": 2,
+      "impressions": 8912,
+      "ctr": 0.0002244165170556553,
+      "position": 38.38375224416517
+    },
+    {
+      "page": "https://arroofing.com/service-area/dodge-city-ks/",
+      "clicks": 2,
+      "impressions": 91,
+      "ctr": 0.02197802197802198,
+      "position": 8.252747252747252
+    },
+    {
+      "page": "https://arroofing.com/service-area/grand-island-ne/",
+      "clicks": 2,
+      "impressions": 373,
+      "ctr": 0.005361930294906166,
+      "position": 8.766756032171582
+    },
+    {
+      "page": "https://arroofing.com/service-area/great-bend-ks/",
+      "clicks": 2,
+      "impressions": 508,
+      "ctr": 0.003937007874015748,
+      "position": 14.354330708661417
+    },
+    {
+      "page": "https://arroofing.com/blog/storm-damage-roof-signs/",
+      "clicks": 1,
+      "impressions": 545,
+      "ctr": 0.001834862385321101,
+      "position": 10.297247706422018
+    },
+    {
+      "page": "https://arroofing.com/blog/the-homeowners-shield-why-licensed-insured-is-a-non-negotiable/",
+      "clicks": 1,
+      "impressions": 260,
+      "ctr": 0.0038461538461538464,
+      "position": 12.05
+    },
+    {
+      "page": "https://arroofing.com/financing/",
+      "clicks": 1,
+      "impressions": 2022,
+      "ctr": 0.0004945598417408506,
+      "position": 14.090009891196836
+    },
+    {
+      "page": "https://arroofing.com/privacy-policy/",
+      "clicks": 1,
+      "impressions": 164,
+      "ctr": 0.006097560975609756,
+      "position": 8.286585365853657
+    },
+    {
+      "page": "https://arroofing.com/roofing/repair/",
+      "clicks": 1,
+      "impressions": 7669,
+      "ctr": 0.00013039509714434736,
+      "position": 31.19168079280219
+    },
+    {
+      "page": "https://arroofing.com/roofing/replacement/",
+      "clicks": 1,
+      "impressions": 748,
+      "ctr": 0.001336898395721925,
+      "position": 19.50668449197861
+    },
+    {
+      "page": "https://arroofing.com/service-area/owasso-ok/",
+      "clicks": 1,
+      "impressions": 8097,
+      "ctr": 0.00012350253180190194,
+      "position": 10.632085957762134
+    },
+    {
+      "page": "https://arroofing.com/terms-and-conditions/",
+      "clicks": 1,
+      "impressions": 259,
+      "ctr": 0.003861003861003861,
+      "position": 7.185328185328185
+    },
+    {
+      "page": "https://arroofing.com/blog/",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "page": "https://arroofing.com/blog/decoding-your-estimate-how-your-old-roofs-condition-dictates-your-new-roofs-price/",
+      "clicks": 0,
+      "impressions": 26,
+      "ctr": 0,
+      "position": 8.653846153846153
+    },
+    {
+      "page": "https://arroofing.com/blog/more-than-shingles-the-critical-role-of-your-roofs-decking-and-why-we-replace-it/",
+      "clicks": 0,
+      "impressions": 32,
+      "ctr": 0,
+      "position": 5.8125
+    },
+    {
+      "page": "https://arroofing.com/blog/spring-is-coming-is-your-roof-ready-for-midwest-weather/",
+      "clicks": 0,
+      "impressions": 75,
+      "ctr": 0,
+      "position": 7.546666666666667
+    },
+    {
+      "page": "https://arroofing.com/blog/spring-roof-inspections-why-march-is-the-most-important-month-for-kansas-missouri-homeowners/",
+      "clicks": 0,
+      "impressions": 31,
+      "ctr": 0,
+      "position": 7.741935483870968
+    },
+    {
+      "page": "https://arroofing.com/blog/stone-coated-steel-roofing-why-it-may-be-the-best-upgrade-youll-ever-make-for-your-home/",
+      "clicks": 0,
+      "impressions": 103,
+      "ctr": 0,
+      "position": 25.446601941747574
+    },
+    {
+      "page": "https://arroofing.com/contact/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-Pratt-AR",
+      "clicks": 0,
+      "impressions": 163,
+      "ctr": 0,
+      "position": 12.83435582822086
+    },
+    {
+      "page": "https://arroofing.com/contact/?utm_source=https://arroofing.com/&utm_medium=google&utm_campaign=organic&utm_content=GMBListing-Creve-Coeur-MO",
+      "clicks": 0,
+      "impressions": 157,
+      "ctr": 0,
+      "position": 13.662420382165605
+    },
+    {
+      "page": "https://arroofing.com/gallery/page/2/",
+      "clicks": 0,
+      "impressions": 717,
+      "ctr": 0,
+      "position": 22.00976290097629
+    },
+    {
+      "page": "https://arroofing.com/gallery/page/3/",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 11.466666666666667
+    },
+    {
+      "page": "https://arroofing.com/gallery/page/4/",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 6.5
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:08:09.424Z"
+}

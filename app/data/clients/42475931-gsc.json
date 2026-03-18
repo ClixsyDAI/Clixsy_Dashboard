@@ -1,0 +1,1350 @@
+{
+  "property": "https://onestoputah.com/",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 366,
+    "impressions": 404435,
+    "ctr": 0.0009049661873972331,
+    "position": 26.452743729115795
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 4,
+      "impressions": 5249,
+      "ctr": 0.0007620499142693847,
+      "position": 23.413983615926842
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 3,
+      "impressions": 4991,
+      "ctr": 0.0006010819475055099,
+      "position": 28.38569424964937
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 4,
+      "impressions": 4906,
+      "ctr": 0.0008153281695882593,
+      "position": 32.10823481451284
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 2,
+      "impressions": 4161,
+      "ctr": 0.0004806536890170632,
+      "position": 29.12256669069935
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 2,
+      "impressions": 5526,
+      "ctr": 0.0003619254433586681,
+      "position": 31.57600434310532
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 4,
+      "impressions": 11587,
+      "ctr": 0.00034521446448606196,
+      "position": 32.04142573573833
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 10,
+      "impressions": 3884,
+      "ctr": 0.0025746652935118436,
+      "position": 28.009783728115345
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 5,
+      "impressions": 4027,
+      "ctr": 0.0012416190712689348,
+      "position": 28.62875589769059
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 4,
+      "impressions": 4988,
+      "ctr": 0.0008019246190858059,
+      "position": 30.12449879711307
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 1,
+      "impressions": 5583,
+      "ctr": 0.00017911517105498835,
+      "position": 33.996238581407844
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 1,
+      "impressions": 3068,
+      "ctr": 0.0003259452411994785,
+      "position": 28.92959582790091
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 3,
+      "impressions": 3788,
+      "ctr": 0.0007919746568109821,
+      "position": 26.03273495248152
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 1,
+      "impressions": 3516,
+      "ctr": 0.0002844141069397042,
+      "position": 27.283276450511945
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 3,
+      "impressions": 3647,
+      "ctr": 0.0008225939128050452,
+      "position": 26.183438442555524
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 7,
+      "impressions": 4318,
+      "ctr": 0.001621120889300602,
+      "position": 29.05488652153775
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 6,
+      "impressions": 4804,
+      "ctr": 0.0012489592006661116,
+      "position": 28.868442964196504
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 3,
+      "impressions": 5540,
+      "ctr": 0.0005415162454873646,
+      "position": 33.61480144404332
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 2,
+      "impressions": 5529,
+      "ctr": 0.00036172906493036716,
+      "position": 25.6503888587448
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 2,
+      "impressions": 3483,
+      "ctr": 0.0005742176284811944,
+      "position": 23.597473442434683
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 0,
+      "impressions": 3367,
+      "ctr": 0,
+      "position": 23.900801900801902
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 2,
+      "impressions": 3533,
+      "ctr": 0.0005660911406736484,
+      "position": 23.45825077837532
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 4,
+      "impressions": 3798,
+      "ctr": 0.00105318588730911,
+      "position": 26.329383886255926
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 2,
+      "impressions": 4165,
+      "ctr": 0.0004801920768307323,
+      "position": 25.3296518607443
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 4,
+      "impressions": 6750,
+      "ctr": 0.0005925925925925926,
+      "position": 35.671703703703706
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 4,
+      "impressions": 4212,
+      "ctr": 0.000949667616334283,
+      "position": 25.388414055080723
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 2,
+      "impressions": 4387,
+      "ctr": 0.00045589240939138365,
+      "position": 28.862092546159108
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 1,
+      "impressions": 5468,
+      "ctr": 0.000182882223847842,
+      "position": 37.34345281638625
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 4,
+      "impressions": 4069,
+      "ctr": 0.0009830425165888424,
+      "position": 25.213811747358072
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 6,
+      "impressions": 4110,
+      "ctr": 0.00145985401459854,
+      "position": 23.774452554744524
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 7,
+      "impressions": 3994,
+      "ctr": 0.0017526289434151227,
+      "position": 28.182273410115172
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 2,
+      "impressions": 4250,
+      "ctr": 0.00047058823529411766,
+      "position": 28.893882352941176
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 5,
+      "impressions": 3768,
+      "ctr": 0.001326963906581741,
+      "position": 28.970541401273884
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 3,
+      "impressions": 4084,
+      "ctr": 0.0007345739471106758,
+      "position": 27.61190009794319
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 5,
+      "impressions": 5084,
+      "ctr": 0.000983477576711251,
+      "position": 33.344020456333595
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 2,
+      "impressions": 6688,
+      "ctr": 0.0002990430622009569,
+      "position": 14.287828947368421
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 5,
+      "impressions": 4120,
+      "ctr": 0.0012135922330097086,
+      "position": 26.08373786407767
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 3,
+      "impressions": 4082,
+      "ctr": 0.0007349338559529642,
+      "position": 26.182263596276336
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 4,
+      "impressions": 4443,
+      "ctr": 0.0009002925950934053,
+      "position": 27.413459374296647
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 4,
+      "impressions": 3965,
+      "ctr": 0.001008827238335435,
+      "position": 28.612105926860025
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 3,
+      "impressions": 4792,
+      "ctr": 0.0006260434056761269,
+      "position": 20.59599332220367
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 4,
+      "impressions": 4732,
+      "ctr": 0.0008453085376162299,
+      "position": 27.188292476754015
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 9,
+      "impressions": 4096,
+      "ctr": 0.002197265625,
+      "position": 22.335693359375
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 8,
+      "impressions": 4577,
+      "ctr": 0.0017478697837011142,
+      "position": 22.532007865414027
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 11,
+      "impressions": 5311,
+      "ctr": 0.002071173037092826,
+      "position": 25.53191489361702
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 7,
+      "impressions": 4501,
+      "ctr": 0.0015552099533437014,
+      "position": 26.97600533214841
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 7,
+      "impressions": 4403,
+      "ctr": 0.001589825119236884,
+      "position": 28.717011128775834
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 7,
+      "impressions": 4287,
+      "ctr": 0.0016328434802892467,
+      "position": 25.627944949848377
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 3,
+      "impressions": 5981,
+      "ctr": 0.0005015883631499749,
+      "position": 24.58284567798027
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 3,
+      "impressions": 5525,
+      "ctr": 0.0005429864253393666,
+      "position": 18.274932126696832
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 4,
+      "impressions": 9731,
+      "ctr": 0.0004110574452779776,
+      "position": 10.142636933511458
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 6,
+      "impressions": 3730,
+      "ctr": 0.0016085790884718498,
+      "position": 24.232171581769435
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 6,
+      "impressions": 4001,
+      "ctr": 0.0014996250937265683,
+      "position": 25.537115721069732
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 2,
+      "impressions": 3186,
+      "ctr": 0.0006277463904582549,
+      "position": 25.871939736346516
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 4,
+      "impressions": 3450,
+      "ctr": 0.0011594202898550724,
+      "position": 27.85913043478261
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 1,
+      "impressions": 3217,
+      "ctr": 0.00031084861672365556,
+      "position": 25.864470003108487
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 1,
+      "impressions": 3313,
+      "ctr": 0.00030184123151222455,
+      "position": 23.2568668880169
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 3,
+      "impressions": 3265,
+      "ctr": 0.0009188361408882082,
+      "position": 24.535068912710567
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 10,
+      "impressions": 3680,
+      "ctr": 0.002717391304347826,
+      "position": 30.14646739130435
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 4,
+      "impressions": 3272,
+      "ctr": 0.0012224938875305623,
+      "position": 26.477383863080686
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 6,
+      "impressions": 4111,
+      "ctr": 0.001459498905375821,
+      "position": 26.963999027000728
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 1,
+      "impressions": 3651,
+      "ctr": 0.0002738975623116954,
+      "position": 22.318816762530812
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 4,
+      "impressions": 4102,
+      "ctr": 0.0009751340809361287,
+      "position": 25.794490492442712
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 1,
+      "impressions": 3634,
+      "ctr": 0.000275178866263071,
+      "position": 22.654375343973584
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 2,
+      "impressions": 6463,
+      "ctr": 0.00030945381401825775,
+      "position": 10.78694104904843
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 5,
+      "impressions": 3757,
+      "ctr": 0.0013308490817141336,
+      "position": 24.26377428799574
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 3,
+      "impressions": 4931,
+      "ctr": 0.0006083958629081322,
+      "position": 20.467653619955385
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 7,
+      "impressions": 3360,
+      "ctr": 0.0020833333333333333,
+      "position": 21.06547619047619
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 8,
+      "impressions": 3681,
+      "ctr": 0.0021733224667209996,
+      "position": 21.820972561803856
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 1,
+      "impressions": 4175,
+      "ctr": 0.00023952095808383233,
+      "position": 25.782275449101796
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 0,
+      "impressions": 3340,
+      "ctr": 0,
+      "position": 21.520359281437127
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 7,
+      "impressions": 3382,
+      "ctr": 0.0020697811945594325,
+      "position": 20.420165582495564
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 3,
+      "impressions": 3777,
+      "ctr": 0.0007942811755361397,
+      "position": 23.396875827376224
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 3,
+      "impressions": 4288,
+      "ctr": 0.0006996268656716418,
+      "position": 25.07695895522388
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 2,
+      "impressions": 4451,
+      "ctr": 0.00044933722758930576,
+      "position": 28.17187148955291
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 4,
+      "impressions": 4328,
+      "ctr": 0.0009242144177449168,
+      "position": 21.84426987060998
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 3,
+      "impressions": 6343,
+      "ctr": 0.00047296232066845344,
+      "position": 60.39555415418572
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 2,
+      "impressions": 8489,
+      "ctr": 0.00023559901048415596,
+      "position": 77.07821887148074
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 8,
+      "impressions": 5620,
+      "ctr": 0.0014234875444839859,
+      "position": 51.35427046263345
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 6,
+      "impressions": 4360,
+      "ctr": 0.0013761467889908258,
+      "position": 22.969724770642202
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 9,
+      "impressions": 4378,
+      "ctr": 0.002055733211512106,
+      "position": 20.52147099132024
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 5,
+      "impressions": 3713,
+      "ctr": 0.00134661998384056,
+      "position": 18.87476434150283
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 4,
+      "impressions": 4585,
+      "ctr": 0.0008724100327153762,
+      "position": 19.414612868047982
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 0,
+      "impressions": 4263,
+      "ctr": 0,
+      "position": 21.846352334037064
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 1,
+      "impressions": 3333,
+      "ctr": 0.00030003000300030005,
+      "position": 20.181518151815183
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 3,
+      "impressions": 3969,
+      "ctr": 0.0007558578987150416,
+      "position": 20.73116654069035
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 10,
+      "impressions": 4481,
+      "ctr": 0.0022316447221602323,
+      "position": 20.974559250167374
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 1,
+      "impressions": 3882,
+      "ctr": 0.00025759917568263783,
+      "position": 21.58990211231324
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 4,
+      "impressions": 3948,
+      "ctr": 0.0010131712259371835,
+      "position": 22.711499493414387
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 11,
+      "impressions": 4021,
+      "ctr": 0.002735637901019647,
+      "position": 19.808505346928623
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 3,
+      "impressions": 3637,
+      "ctr": 0.0008248556502612042,
+      "position": 22.18339290624141
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "one stop heating and air",
+      "clicks": 61,
+      "impressions": 574,
+      "ctr": 0.10627177700348432,
+      "position": 3.475609756097561
+    },
+    {
+      "query": "one stop heating and air conditioning",
+      "clicks": 23,
+      "impressions": 486,
+      "ctr": 0.047325102880658436,
+      "position": 4.125514403292181
+    },
+    {
+      "query": "one stop utah",
+      "clicks": 11,
+      "impressions": 53,
+      "ctr": 0.20754716981132076,
+      "position": 2.188679245283019
+    },
+    {
+      "query": "onestop heating and cooling",
+      "clicks": 5,
+      "impressions": 43,
+      "ctr": 0.11627906976744186,
+      "position": 7.27906976744186
+    },
+    {
+      "query": "furnace replacement near me",
+      "clicks": 3,
+      "impressions": 4875,
+      "ctr": 0.0006153846153846154,
+      "position": 11.534358974358975
+    },
+    {
+      "query": "hvac companies near me",
+      "clicks": 3,
+      "impressions": 105,
+      "ctr": 0.02857142857142857,
+      "position": 17.723809523809525
+    },
+    {
+      "query": "one stop heating",
+      "clicks": 3,
+      "impressions": 38,
+      "ctr": 0.07894736842105263,
+      "position": 1.6052631578947367
+    },
+    {
+      "query": "one stop heating and cooling",
+      "clicks": 3,
+      "impressions": 104,
+      "ctr": 0.028846153846153848,
+      "position": 6.259615384615385
+    },
+    {
+      "query": "furnace repair",
+      "clicks": 2,
+      "impressions": 8320,
+      "ctr": 0.0002403846153846154,
+      "position": 9.880168269230769
+    },
+    {
+      "query": "furnace repair near me",
+      "clicks": 2,
+      "impressions": 5617,
+      "ctr": 0.00035606195478013177,
+      "position": 13.05180701442051
+    },
+    {
+      "query": "hvac companies in utah",
+      "clicks": 2,
+      "impressions": 17,
+      "ctr": 0.11764705882352941,
+      "position": 6.882352941176471
+    },
+    {
+      "query": "hvac near me",
+      "clicks": 2,
+      "impressions": 2242,
+      "ctr": 0.0008920606601248885,
+      "position": 8.594112399643176
+    },
+    {
+      "query": "hvac repair utah",
+      "clicks": 2,
+      "impressions": 29,
+      "ctr": 0.06896551724137931,
+      "position": 39.51724137931034
+    },
+    {
+      "query": "hvac salt lake city",
+      "clicks": 2,
+      "impressions": 475,
+      "ctr": 0.004210526315789474,
+      "position": 47.27578947368421
+    },
+    {
+      "query": "onestop",
+      "clicks": 2,
+      "impressions": 4,
+      "ctr": 0.5,
+      "position": 2.75
+    },
+    {
+      "query": "ac and furnace replacement",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 9
+    },
+    {
+      "query": "ac repair draper utah",
+      "clicks": 1,
+      "impressions": 80,
+      "ctr": 0.0125,
+      "position": 61.7125
+    },
+    {
+      "query": "ac repair herriman utah",
+      "clicks": 1,
+      "impressions": 27,
+      "ctr": 0.037037037037037035,
+      "position": 26.925925925925927
+    },
+    {
+      "query": "ac repair pleasant grove utah",
+      "clicks": 1,
+      "impressions": 38,
+      "ctr": 0.02631578947368421,
+      "position": 36.94736842105263
+    },
+    {
+      "query": "ac repair sandy ut",
+      "clicks": 1,
+      "impressions": 462,
+      "ctr": 0.0021645021645021645,
+      "position": 21.627705627705627
+    },
+    {
+      "query": "air duct cleaning west jordan utah",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 67
+    },
+    {
+      "query": "electric hvac not blowing hot air",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 49
+    },
+    {
+      "query": "furnace check up near me",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 5.222222222222222
+    },
+    {
+      "query": "furnace replacement provo ut",
+      "clicks": 1,
+      "impressions": 262,
+      "ctr": 0.003816793893129771,
+      "position": 12.385496183206106
+    },
+    {
+      "query": "heating repair",
+      "clicks": 1,
+      "impressions": 1349,
+      "ctr": 0.0007412898443291327,
+      "position": 9.308376575240919
+    },
+    {
+      "query": "heating services near me",
+      "clicks": 1,
+      "impressions": 317,
+      "ctr": 0.0031545741324921135,
+      "position": 9.041009463722398
+    },
+    {
+      "query": "how to refill freon in ac unit",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 22.25
+    },
+    {
+      "query": "hvac businesses near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 11
+    },
+    {
+      "query": "hvac repair",
+      "clicks": 1,
+      "impressions": 1224,
+      "ctr": 0.0008169934640522876,
+      "position": 9.691993464052288
+    },
+    {
+      "query": "hvac replacement cost near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "hvac sandy utah",
+      "clicks": 1,
+      "impressions": 435,
+      "ctr": 0.0022988505747126436,
+      "position": 13.105747126436782
+    },
+    {
+      "query": "hvac service near me",
+      "clicks": 1,
+      "impressions": 669,
+      "ctr": 0.0014947683109118087,
+      "position": 14.086696562032884
+    },
+    {
+      "query": "hvac services near me",
+      "clicks": 1,
+      "impressions": 1030,
+      "ctr": 0.000970873786407767,
+      "position": 15.37378640776699
+    },
+    {
+      "query": "mini split cleaning near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 7
+    },
+    {
+      "query": "one stop",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 4
+    },
+    {
+      "query": "one stop heating and air conditioning reviews",
+      "clicks": 1,
+      "impressions": 803,
+      "ctr": 0.0012453300124533001,
+      "position": 4.302615193026152
+    },
+    {
+      "query": "onestop utah",
+      "clicks": 1,
+      "impressions": 76,
+      "ctr": 0.013157894736842105,
+      "position": 3.026315789473684
+    },
+    {
+      "query": "stopped working",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "\"just right\" \"84070\"",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 101.5
+    },
+    {
+      "query": "\"one stop heating and air conditioning\" \"611 w 9560 s suite e\"",
+      "clicks": 0,
+      "impressions": 39,
+      "ctr": 0,
+      "position": 20.358974358974358
+    },
+    {
+      "query": "\"one stop heating and air conditioning\" \"84070\"",
+      "clicks": 0,
+      "impressions": 53,
+      "ctr": 0,
+      "position": 20.90566037735849
+    },
+    {
+      "query": "\"one stop heating and air conditioning\" \"onestoputah.com\"",
+      "clicks": 0,
+      "impressions": 30,
+      "ctr": 0,
+      "position": 22.8
+    },
+    {
+      "query": "\"one stop heating and air conditioning\" \"sandy\"",
+      "clicks": 0,
+      "impressions": 45,
+      "ctr": 0,
+      "position": 22.4
+    },
+    {
+      "query": "+furnace +repair +sandy",
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 12.916666666666666
+    },
+    {
+      "query": "+furnace +service +sandy",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 17
+    },
+    {
+      "query": "-10f a c",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 15.5
+    },
+    {
+      "query": "-1f a c",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "1 air conditioning",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 29
+    },
+    {
+      "query": "1 hour ac and heating",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "1 hour air conditioning",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://onestoputah.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "clicks": 146,
+      "impressions": 57656,
+      "ctr": 0.0025322603024836962,
+      "position": 20.953534757874287
+    },
+    {
+      "page": "https://onestoputah.com/",
+      "clicks": 64,
+      "impressions": 26076,
+      "ctr": 0.0024543641662831722,
+      "position": 31.841655161834638
+    },
+    {
+      "page": "https://onestoputah.com/blog/why-is-my-heat-pump-not-blowing-hot-air",
+      "clicks": 17,
+      "impressions": 3194,
+      "ctr": 0.005322479649342517,
+      "position": 23.162805259862242
+    },
+    {
+      "page": "https://onestoputah.com/blog/how-to-refill-ac-refrigerant",
+      "clicks": 12,
+      "impressions": 5613,
+      "ctr": 0.002137894174238375,
+      "position": 25.303402814893996
+    },
+    {
+      "page": "https://onestoputah.com/blog/why-furnace-making-clicking-noise",
+      "clicks": 10,
+      "impressions": 5952,
+      "ctr": 0.0016801075268817205,
+      "position": 12.543850806451612
+    },
+    {
+      "page": "https://onestoputah.com/blog/mini-split-ac-system-clicking-sounds",
+      "clicks": 9,
+      "impressions": 3028,
+      "ctr": 0.00297225891677675,
+      "position": 8.447490092470279
+    },
+    {
+      "page": "https://onestoputah.com/blog/heat-pump-makes-bubbling-sounds",
+      "clicks": 8,
+      "impressions": 1276,
+      "ctr": 0.006269592476489028,
+      "position": 5.7076802507836994
+    },
+    {
+      "page": "https://onestoputah.com/blog/how-much-does-it-cost-to-replace-ac-capacitor",
+      "clicks": 8,
+      "impressions": 9576,
+      "ctr": 0.000835421888053467,
+      "position": 15.866228070175438
+    },
+    {
+      "page": "https://onestoputah.com/career-opportunities",
+      "clicks": 7,
+      "impressions": 202,
+      "ctr": 0.034653465346534656,
+      "position": 11.044554455445544
+    },
+    {
+      "page": "https://onestoputah.com/testimonials",
+      "clicks": 7,
+      "impressions": 1697,
+      "ctr": 0.0041249263406010605,
+      "position": 7.9257513258691805
+    },
+    {
+      "page": "https://onestoputah.com/blog/controlling-static-electricity",
+      "clicks": 6,
+      "impressions": 2414,
+      "ctr": 0.0024855012427506215,
+      "position": 12.230737365368682
+    },
+    {
+      "page": "https://onestoputah.com/blog/why-is-there-black-dust-mold-on-my-ac-vents",
+      "clicks": 6,
+      "impressions": 3610,
+      "ctr": 0.0016620498614958448,
+      "position": 16.985872576177286
+    },
+    {
+      "page": "https://onestoputah.com/blog/evaluate-your-homes-airflow",
+      "clicks": 5,
+      "impressions": 788,
+      "ctr": 0.006345177664974619,
+      "position": 14.58502538071066
+    },
+    {
+      "page": "https://onestoputah.com/about-us",
+      "clicks": 4,
+      "impressions": 852,
+      "ctr": 0.004694835680751174,
+      "position": 11.303990610328638
+    },
+    {
+      "page": "https://onestoputah.com/service-areas/salt-lake-city-ut",
+      "clicks": 4,
+      "impressions": 14579,
+      "ctr": 0.0002743672405514782,
+      "position": 46.748199464983884
+    },
+    {
+      "page": "https://onestoputah.com/blog/how-to-diagnose-a-low-freon-problem-in-your-home-air-conditioning-unit",
+      "clicks": 3,
+      "impressions": 2745,
+      "ctr": 0.001092896174863388,
+      "position": 32.28706739526412
+    },
+    {
+      "page": "https://onestoputah.com/blog/the-dangers-of-old-hvac-equipment",
+      "clicks": 3,
+      "impressions": 281,
+      "ctr": 0.010676156583629894,
+      "position": 7.185053380782918
+    },
+    {
+      "page": "https://onestoputah.com/heating/furnace-replacement-salt-lake-city-ut",
+      "clicks": 3,
+      "impressions": 10679,
+      "ctr": 0.000280925180260324,
+      "position": 41.23401067515685
+    },
+    {
+      "page": "https://onestoputah.com/heating/furnace-replacement-west-valley-city-ut",
+      "clicks": 3,
+      "impressions": 8058,
+      "ctr": 0.00037230081906180194,
+      "position": 29.776495408289897
+    },
+    {
+      "page": "https://onestoputah.com/service-areas/south-jordan-ut",
+      "clicks": 3,
+      "impressions": 7768,
+      "ctr": 0.0003861997940267765,
+      "position": 24.049819773429455
+    },
+    {
+      "page": "https://onestoputah.com/blog/address-mini-split-ac-temperature-fluctuations",
+      "clicks": 2,
+      "impressions": 364,
+      "ctr": 0.005494505494505495,
+      "position": 13.483516483516484
+    },
+    {
+      "page": "https://onestoputah.com/blog/mini-split-ac-has-low-airflow",
+      "clicks": 2,
+      "impressions": 313,
+      "ctr": 0.006389776357827476,
+      "position": 9.93290734824281
+    },
+    {
+      "page": "https://onestoputah.com/blog/weather-conditions-ductless-mini-split",
+      "clicks": 2,
+      "impressions": 1307,
+      "ctr": 0.001530221882172915,
+      "position": 17.225707727620506
+    },
+    {
+      "page": "https://onestoputah.com/blog/why-your-ac-fan-motor-stops-working",
+      "clicks": 2,
+      "impressions": 1188,
+      "ctr": 0.0016835016835016834,
+      "position": 28.261784511784512
+    },
+    {
+      "page": "https://onestoputah.com/heating/emergency-furnace-repair",
+      "clicks": 2,
+      "impressions": 18620,
+      "ctr": 0.00010741138560687433,
+      "position": 25.533834586466167
+    },
+    {
+      "page": "https://onestoputah.com/heating/furnace-replacement-orem-ut",
+      "clicks": 2,
+      "impressions": 10355,
+      "ctr": 0.00019314340898116852,
+      "position": 32.929599227426365
+    },
+    {
+      "page": "https://onestoputah.com/heating/furnace-replacement-springville-ut",
+      "clicks": 2,
+      "impressions": 2117,
+      "ctr": 0.000944733112895607,
+      "position": 28.932451582427966
+    },
+    {
+      "page": "https://onestoputah.com/request-service/?utm_source=google&utm_medium=organic&utm_campaign=gbpbooking",
+      "clicks": 2,
+      "impressions": 1002,
+      "ctr": 0.001996007984031936,
+      "position": 12.110778443113773
+    },
+    {
+      "page": "https://onestoputah.com/air-quality/air-duct-cleaning-herriman-ut",
+      "clicks": 1,
+      "impressions": 289,
+      "ctr": 0.0034602076124567475,
+      "position": 11.525951557093425
+    },
+    {
+      "page": "https://onestoputah.com/air-quality/hvac-uv-lights-installation",
+      "clicks": 1,
+      "impressions": 995,
+      "ctr": 0.0010050251256281408,
+      "position": 24.74070351758794
+    },
+    {
+      "page": "https://onestoputah.com/air-quality/reme-halo-installation",
+      "clicks": 1,
+      "impressions": 230,
+      "ctr": 0.004347826086956522,
+      "position": 37.56956521739131
+    },
+    {
+      "page": "https://onestoputah.com/blog/all-there-is-to-know-about-relighting-the-gas-furnace",
+      "clicks": 1,
+      "impressions": 887,
+      "ctr": 0.0011273957158962795,
+      "position": 18.771138669673054
+    },
+    {
+      "page": "https://onestoputah.com/blog/enjoy-a-whisper-quiet-summer-the-importance-of-noise-reduction-in-hvac-systems",
+      "clicks": 1,
+      "impressions": 60,
+      "ctr": 0.016666666666666666,
+      "position": 12.816666666666666
+    },
+    {
+      "page": "https://onestoputah.com/blog/gas-vs-electric-furnaces-which-is-right-for-you",
+      "clicks": 1,
+      "impressions": 60,
+      "ctr": 0.016666666666666666,
+      "position": 17.733333333333334
+    },
+    {
+      "page": "https://onestoputah.com/blog/heat-pump-takes-longer-to-heat",
+      "clicks": 1,
+      "impressions": 60,
+      "ctr": 0.016666666666666666,
+      "position": 20.583333333333332
+    },
+    {
+      "page": "https://onestoputah.com/blog/heating-repair-crucial-post-holiday-season",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 15.88888888888889
+    },
+    {
+      "page": "https://onestoputah.com/blog/identifying-critical-heat-pump-problems",
+      "clicks": 1,
+      "impressions": 630,
+      "ctr": 0.0015873015873015873,
+      "position": 39.13333333333333
+    },
+    {
+      "page": "https://onestoputah.com/blog/installing-a-ductless-mini-split",
+      "clicks": 1,
+      "impressions": 502,
+      "ctr": 0.00199203187250996,
+      "position": 16.372509960159363
+    },
+    {
+      "page": "https://onestoputah.com/blog/mini-split-ac-emergency-shutdown",
+      "clicks": 1,
+      "impressions": 723,
+      "ctr": 0.0013831258644536654,
+      "position": 7.301521438450899
+    },
+    {
+      "page": "https://onestoputah.com/blog/troubleshooting-heat-pump-noises",
+      "clicks": 1,
+      "impressions": 250,
+      "ctr": 0.004,
+      "position": 13.908
+    },
+    {
+      "page": "https://onestoputah.com/blog/understanding-inverter-ac-systems",
+      "clicks": 1,
+      "impressions": 464,
+      "ctr": 0.0021551724137931034,
+      "position": 26.405172413793103
+    },
+    {
+      "page": "https://onestoputah.com/ductless/mini-split-installation-provo-ut",
+      "clicks": 1,
+      "impressions": 653,
+      "ctr": 0.0015313935681470138,
+      "position": 14.191424196018376
+    },
+    {
+      "page": "https://onestoputah.com/ductless/mini-split-maintenance-sandy-ut",
+      "clicks": 1,
+      "impressions": 1756,
+      "ctr": 0.0005694760820045558,
+      "position": 52.80922551252847
+    },
+    {
+      "page": "https://onestoputah.com/financing",
+      "clicks": 1,
+      "impressions": 619,
+      "ctr": 0.0016155088852988692,
+      "position": 21.831987075928918
+    },
+    {
+      "page": "https://onestoputah.com/heating/furnace-repair-stansbury-park-ut",
+      "clicks": 1,
+      "impressions": 128,
+      "ctr": 0.0078125,
+      "position": 4.8046875
+    },
+    {
+      "page": "https://onestoputah.com/heating/furnace-replacement-bluffdale-ut",
+      "clicks": 1,
+      "impressions": 809,
+      "ctr": 0.0012360939431396785,
+      "position": 29.059332509270703
+    },
+    {
+      "page": "https://onestoputah.com/heating/furnace-replacement-clinton-ut",
+      "clicks": 1,
+      "impressions": 890,
+      "ctr": 0.0011235955056179776,
+      "position": 35.12247191011236
+    },
+    {
+      "page": "https://onestoputah.com/heating/furnace-replacement-herriman-ut",
+      "clicks": 1,
+      "impressions": 2322,
+      "ctr": 0.0004306632213608958,
+      "position": 28.371662360034453
+    },
+    {
+      "page": "https://onestoputah.com/heating/furnace-replacement-lehi-ut",
+      "clicks": 1,
+      "impressions": 3389,
+      "ctr": 0.00029507229271171436,
+      "position": 48.92328120389495
+    },
+    {
+      "page": "https://onestoputah.com/heating/furnace-replacement-millcreek-ut",
+      "clicks": 1,
+      "impressions": 662,
+      "ctr": 0.0015105740181268882,
+      "position": 43.6797583081571
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:07:49.476Z"
+}

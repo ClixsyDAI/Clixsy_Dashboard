@@ -1,0 +1,1350 @@
+{
+  "property": "sc-domain:johnston-lawfirm.com",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 8024,
+    "impressions": 2267385,
+    "ctr": 0.00353887848777336,
+    "position": 34.72115239778928
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 116,
+      "impressions": 25826,
+      "ctr": 0.0044915976148067836,
+      "position": 31.781228219623635
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 102,
+      "impressions": 24760,
+      "ctr": 0.004119547657512116,
+      "position": 37.07342487883683
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 120,
+      "impressions": 18821,
+      "ctr": 0.006375856755751554,
+      "position": 33.13909994155465
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 108,
+      "impressions": 24442,
+      "ctr": 0.004418623680549873,
+      "position": 38.37521479420669
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 102,
+      "impressions": 24907,
+      "ctr": 0.004095234271489942,
+      "position": 41.340506684867705
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 79,
+      "impressions": 25685,
+      "ctr": 0.0030757251313996495,
+      "position": 31.481214716760757
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 82,
+      "impressions": 23053,
+      "ctr": 0.003557020778206741,
+      "position": 37.90638962391012
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 113,
+      "impressions": 22914,
+      "ctr": 0.004931482936196212,
+      "position": 30.236536615169765
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 85,
+      "impressions": 22441,
+      "ctr": 0.0037877099950982575,
+      "position": 38.329575330867605
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 82,
+      "impressions": 20632,
+      "ctr": 0.0039744086855370295,
+      "position": 38.56911593640946
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 71,
+      "impressions": 16735,
+      "ctr": 0.004242605318195399,
+      "position": 35.60573648043024
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 78,
+      "impressions": 17854,
+      "ctr": 0.0043687689033269856,
+      "position": 31.830178111347596
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 71,
+      "impressions": 22980,
+      "ctr": 0.0030896431679721496,
+      "position": 26.561879895561358
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 92,
+      "impressions": 22409,
+      "ctr": 0.004105493328573341,
+      "position": 34.73225043509304
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 118,
+      "impressions": 19804,
+      "ctr": 0.005958392243991113,
+      "position": 33.68006463340739
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 43,
+      "impressions": 25314,
+      "ctr": 0.0016986647704827368,
+      "position": 42.03409180690527
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 87,
+      "impressions": 24887,
+      "ctr": 0.0034958010206131715,
+      "position": 39.60553702736368
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 83,
+      "impressions": 27747,
+      "ctr": 0.0029913143763289725,
+      "position": 42.64417774894583
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 102,
+      "impressions": 20584,
+      "ctr": 0.004955305091333074,
+      "position": 37.43645549941702
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 92,
+      "impressions": 24482,
+      "ctr": 0.0037578629196961034,
+      "position": 31.73556082019443
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 109,
+      "impressions": 23027,
+      "ctr": 0.004733573630954966,
+      "position": 36.53715203891085
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 92,
+      "impressions": 24646,
+      "ctr": 0.0037328572587843867,
+      "position": 37.59153615191106
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 103,
+      "impressions": 19738,
+      "ctr": 0.005218360522849326,
+      "position": 35.05882054919445
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 126,
+      "impressions": 39811,
+      "ctr": 0.0031649544095852904,
+      "position": 47.91394338248223
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 99,
+      "impressions": 47038,
+      "ctr": 0.002104681321484757,
+      "position": 48.49317573026064
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 109,
+      "impressions": 47065,
+      "ctr": 0.002315946032083289,
+      "position": 53.06665250185913
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 83,
+      "impressions": 40353,
+      "ctr": 0.0020568483136321957,
+      "position": 46.22974747850222
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 81,
+      "impressions": 38478,
+      "ctr": 0.0021050990176204585,
+      "position": 47.90742762097822
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 114,
+      "impressions": 33243,
+      "ctr": 0.0034292933850735494,
+      "position": 34.92669133351382
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 133,
+      "impressions": 31103,
+      "ctr": 0.004276114844227245,
+      "position": 42.1067099636691
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 135,
+      "impressions": 32620,
+      "ctr": 0.00413856529736358,
+      "position": 44.730594727161254
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 108,
+      "impressions": 21936,
+      "ctr": 0.004923413566739606,
+      "position": 36.08502005835157
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 106,
+      "impressions": 29412,
+      "ctr": 0.0036039711682306543,
+      "position": 40.256731946144434
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 38,
+      "impressions": 27075,
+      "ctr": 0.0014035087719298245,
+      "position": 34.22747922437673
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 30,
+      "impressions": 25664,
+      "ctr": 0.0011689526184538654,
+      "position": 39.91832917705736
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 103,
+      "impressions": 26495,
+      "ctr": 0.0038875259482921308,
+      "position": 39.143725231175694
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 127,
+      "impressions": 25637,
+      "ctr": 0.004953777743105668,
+      "position": 38.807426766002266
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 135,
+      "impressions": 25800,
+      "ctr": 0.005232558139534884,
+      "position": 38.964728682170545
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 110,
+      "impressions": 26650,
+      "ctr": 0.004127579737335835,
+      "position": 41.141613508442774
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 140,
+      "impressions": 26935,
+      "ctr": 0.005197698162242435,
+      "position": 32.802190458511234
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 77,
+      "impressions": 23971,
+      "ctr": 0.0032122147595010637,
+      "position": 39.152183888865714
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 86,
+      "impressions": 24643,
+      "ctr": 0.0034898348415371505,
+      "position": 40.67098161749787
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 106,
+      "impressions": 30591,
+      "ctr": 0.0034650714262364746,
+      "position": 36.5025661142166
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 131,
+      "impressions": 27827,
+      "ctr": 0.004707658029970891,
+      "position": 43.21806159485392
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 120,
+      "impressions": 23939,
+      "ctr": 0.005012740715986465,
+      "position": 40.69121517189523
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 120,
+      "impressions": 22160,
+      "ctr": 0.005415162454873646,
+      "position": 39.30491877256318
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 88,
+      "impressions": 25854,
+      "ctr": 0.0034037286299992264,
+      "position": 37.715440550785175
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 105,
+      "impressions": 28968,
+      "ctr": 0.003624689312344656,
+      "position": 35.806924882629104
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 40,
+      "impressions": 31213,
+      "ctr": 0.0012815173165027392,
+      "position": 37.869317271649635
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 124,
+      "impressions": 29409,
+      "ctr": 0.004216396341256078,
+      "position": 37.95763201740964
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 125,
+      "impressions": 22447,
+      "ctr": 0.005568672873880697,
+      "position": 34.55276874415289
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 115,
+      "impressions": 28886,
+      "ctr": 0.003981167347503981,
+      "position": 36.084989268157585
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 116,
+      "impressions": 38620,
+      "ctr": 0.003003625064733299,
+      "position": 35.887467633350596
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 116,
+      "impressions": 28361,
+      "ctr": 0.004090123761503473,
+      "position": 38.37008568104087
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 79,
+      "impressions": 26929,
+      "ctr": 0.0029336403134167625,
+      "position": 31.282223625088196
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 68,
+      "impressions": 25493,
+      "ctr": 0.002667398893813988,
+      "position": 35.95998901659279
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 70,
+      "impressions": 32445,
+      "ctr": 0.002157497303128371,
+      "position": 35.83408845738943
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 124,
+      "impressions": 28948,
+      "ctr": 0.004283542904518447,
+      "position": 38.01347243332873
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 120,
+      "impressions": 27676,
+      "ctr": 0.004335886688827865,
+      "position": 36.73569157392687
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 117,
+      "impressions": 26210,
+      "ctr": 0.004463945059137733,
+      "position": 34.79988553987028
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 119,
+      "impressions": 22177,
+      "ctr": 0.005365919646480588,
+      "position": 32.44546151418136
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 80,
+      "impressions": 26740,
+      "ctr": 0.0029917726252804786,
+      "position": 29.83829468960359
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 87,
+      "impressions": 27406,
+      "ctr": 0.003174487338539006,
+      "position": 31.98536816755455
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 103,
+      "impressions": 30176,
+      "ctr": 0.003413308589607635,
+      "position": 29.57022136797455
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 124,
+      "impressions": 24784,
+      "ctr": 0.005003227888960619,
+      "position": 36.638678179470624
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 114,
+      "impressions": 27231,
+      "ctr": 0.004186405199955933,
+      "position": 38.11108662920936
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 126,
+      "impressions": 22223,
+      "ctr": 0.0056698015569455066,
+      "position": 30.17418890338838
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 119,
+      "impressions": 22512,
+      "ctr": 0.005286069651741294,
+      "position": 31.696828358208954
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 90,
+      "impressions": 28796,
+      "ctr": 0.0031254340880677873,
+      "position": 30.665474371440478
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 82,
+      "impressions": 26185,
+      "ctr": 0.0031315638724460568,
+      "position": 35.068932594997136
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 87,
+      "impressions": 24264,
+      "ctr": 0.0035855588526211672,
+      "position": 32.61337784371909
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 54,
+      "impressions": 22579,
+      "ctr": 0.0023916028167766507,
+      "position": 31.481907967580494
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 58,
+      "impressions": 24342,
+      "ctr": 0.002382713006326514,
+      "position": 32.748993509161124
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 54,
+      "impressions": 24076,
+      "ctr": 0.002242897491277621,
+      "position": 22.88685828210666
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 47,
+      "impressions": 22036,
+      "ctr": 0.002132873479760392,
+      "position": 28.652750045380287
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 28,
+      "impressions": 20329,
+      "ctr": 0.0013773427123813273,
+      "position": 26.54508337842491
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 35,
+      "impressions": 19896,
+      "ctr": 0.0017591475673502212,
+      "position": 29.294531564133493
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 48,
+      "impressions": 26757,
+      "ctr": 0.0017939230855477072,
+      "position": 24.13166647979968
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 56,
+      "impressions": 18551,
+      "ctr": 0.0030187051910948197,
+      "position": 26.608430812355127
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 54,
+      "impressions": 17343,
+      "ctr": 0.0031136481577581734,
+      "position": 24.800841838205617
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 72,
+      "impressions": 16643,
+      "ctr": 0.004326143123234994,
+      "position": 23.465120471068918
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 61,
+      "impressions": 16495,
+      "ctr": 0.0036980903304031526,
+      "position": 24.543134283116096
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 28,
+      "impressions": 17674,
+      "ctr": 0.0015842480479800838,
+      "position": 22.233054203915355
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 38,
+      "impressions": 13818,
+      "ctr": 0.0027500361846866405,
+      "position": 26.969821971341727
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 62,
+      "impressions": 16871,
+      "ctr": 0.0036749451721889634,
+      "position": 25.195424100527532
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 60,
+      "impressions": 16089,
+      "ctr": 0.003729256013425322,
+      "position": 26.730064018894897
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 75,
+      "impressions": 17334,
+      "ctr": 0.004326756663205262,
+      "position": 27.60499596169378
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 37,
+      "impressions": 15861,
+      "ctr": 0.0023327659037891686,
+      "position": 21.51087573292983
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 52,
+      "impressions": 14440,
+      "ctr": 0.003601108033240997,
+      "position": 22.315720221606647
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 20,
+      "impressions": 20164,
+      "ctr": 0.0009918666931164452,
+      "position": 21.9586887522317
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "johnston law firm",
+      "clicks": 1856,
+      "impressions": 2889,
+      "ctr": 0.6424368293527172,
+      "position": 2.0612668743509865
+    },
+    {
+      "query": "johnston law firm portland",
+      "clicks": 254,
+      "impressions": 781,
+      "ctr": 0.32522407170294493,
+      "position": 1.5236875800256082
+    },
+    {
+      "query": "johnston law firm oregon",
+      "clicks": 247,
+      "impressions": 688,
+      "ctr": 0.35901162790697677,
+      "position": 1.072674418604651
+    },
+    {
+      "query": "johnston law firm reviews",
+      "clicks": 234,
+      "impressions": 685,
+      "ctr": 0.3416058394160584,
+      "position": 3.267153284671533
+    },
+    {
+      "query": "johnston law",
+      "clicks": 228,
+      "impressions": 656,
+      "ctr": 0.3475609756097561,
+      "position": 9.173780487804878
+    },
+    {
+      "query": "johnston law personal injury lawyers",
+      "clicks": 228,
+      "impressions": 652,
+      "ctr": 0.3496932515337423,
+      "position": 1.7346625766871164
+    },
+    {
+      "query": "johnston law personal injury attorneys",
+      "clicks": 224,
+      "impressions": 653,
+      "ctr": 0.3430321592649311,
+      "position": 1.6477794793261868
+    },
+    {
+      "query": "johnston law attorney",
+      "clicks": 220,
+      "impressions": 491,
+      "ctr": 0.4480651731160896,
+      "position": 17.65173116089613
+    },
+    {
+      "query": "johnston law lawyer",
+      "clicks": 212,
+      "impressions": 489,
+      "ctr": 0.4335378323108384,
+      "position": 16.595092024539877
+    },
+    {
+      "query": "johnston law firm llc",
+      "clicks": 89,
+      "impressions": 305,
+      "ctr": 0.29180327868852457,
+      "position": 5.609836065573771
+    },
+    {
+      "query": "oregon good samaritan law",
+      "clicks": 42,
+      "impressions": 244,
+      "ctr": 0.1721311475409836,
+      "position": 1.9549180327868854
+    },
+    {
+      "query": "marc johnston",
+      "clicks": 29,
+      "impressions": 361,
+      "ctr": 0.08033240997229917,
+      "position": 2.590027700831025
+    },
+    {
+      "query": "johnston law firm portland oregon",
+      "clicks": 27,
+      "impressions": 67,
+      "ctr": 0.40298507462686567,
+      "position": 1
+    },
+    {
+      "query": "good samaritan law oregon",
+      "clicks": 26,
+      "impressions": 243,
+      "ctr": 0.10699588477366255,
+      "position": 1.9794238683127572
+    },
+    {
+      "query": "mark johnston attorney",
+      "clicks": 15,
+      "impressions": 49,
+      "ctr": 0.30612244897959184,
+      "position": 4.5102040816326525
+    },
+    {
+      "query": "civil rights attorney portland oregon",
+      "clicks": 14,
+      "impressions": 412,
+      "ctr": 0.03398058252427184,
+      "position": 4.730582524271845
+    },
+    {
+      "query": "portland law firms",
+      "clicks": 14,
+      "impressions": 657,
+      "ctr": 0.0213089802130898,
+      "position": 1.5038051750380519
+    },
+    {
+      "query": "medical malpractice lawyers portland",
+      "clicks": 12,
+      "impressions": 377,
+      "ctr": 0.03183023872679045,
+      "position": 8.068965517241379
+    },
+    {
+      "query": "good samaritan laws oregon",
+      "clicks": 11,
+      "impressions": 38,
+      "ctr": 0.2894736842105263,
+      "position": 3.1315789473684212
+    },
+    {
+      "query": "johnston law firm, p.c.",
+      "clicks": 10,
+      "impressions": 27,
+      "ctr": 0.37037037037037035,
+      "position": 1.037037037037037
+    },
+    {
+      "query": "law firms in portland oregon",
+      "clicks": 10,
+      "impressions": 505,
+      "ctr": 0.019801980198019802,
+      "position": 1.0277227722772277
+    },
+    {
+      "query": "best civil rights attorney portland, oregon",
+      "clicks": 9,
+      "impressions": 143,
+      "ctr": 0.06293706293706294,
+      "position": 4.874125874125874
+    },
+    {
+      "query": "car accident lawyer",
+      "clicks": 9,
+      "impressions": 132533,
+      "ctr": 0.00006790761546180951,
+      "position": 63.36046116816189
+    },
+    {
+      "query": "good samaritan law",
+      "clicks": 9,
+      "impressions": 351,
+      "ctr": 0.02564102564102564,
+      "position": 9.908831908831909
+    },
+    {
+      "query": "civil attorney portland",
+      "clicks": 8,
+      "impressions": 85,
+      "ctr": 0.09411764705882353,
+      "position": 5.5058823529411764
+    },
+    {
+      "query": "civil rights attorney",
+      "clicks": 8,
+      "impressions": 1455,
+      "ctr": 0.005498281786941581,
+      "position": 53.00274914089347
+    },
+    {
+      "query": "medical malpractice attorney portland",
+      "clicks": 8,
+      "impressions": 780,
+      "ctr": 0.010256410256410256,
+      "position": 8.112820512820512
+    },
+    {
+      "query": "oregon's good samaritan law",
+      "clicks": 8,
+      "impressions": 35,
+      "ctr": 0.22857142857142856,
+      "position": 2
+    },
+    {
+      "query": "civil litigation attorney",
+      "clicks": 7,
+      "impressions": 2222,
+      "ctr": 0.0031503150315031502,
+      "position": 36.962196219621966
+    },
+    {
+      "query": "law firm portland oregon",
+      "clicks": 7,
+      "impressions": 64,
+      "ctr": 0.109375,
+      "position": 1.734375
+    },
+    {
+      "query": "civil rights attorney oregon",
+      "clicks": 6,
+      "impressions": 371,
+      "ctr": 0.016172506738544475,
+      "position": 4.663072776280323
+    },
+    {
+      "query": "johnston personal injury law firm",
+      "clicks": 6,
+      "impressions": 28,
+      "ctr": 0.21428571428571427,
+      "position": 2.7142857142857144
+    },
+    {
+      "query": "malpractice attorney portland oregon",
+      "clicks": 6,
+      "impressions": 259,
+      "ctr": 0.023166023166023165,
+      "position": 5.428571428571429
+    },
+    {
+      "query": "medical malpractice attorney portland oregon",
+      "clicks": 6,
+      "impressions": 623,
+      "ctr": 0.009630818619582664,
+      "position": 10.6115569823435
+    },
+    {
+      "query": "personal injury lawyer portland",
+      "clicks": 6,
+      "impressions": 3051,
+      "ctr": 0.0019665683382497543,
+      "position": 8.96755162241888
+    },
+    {
+      "query": "buying a car in oregon from out of state",
+      "clicks": 5,
+      "impressions": 143,
+      "ctr": 0.03496503496503497,
+      "position": 6.0979020979020975
+    },
+    {
+      "query": "car accident attorneys near me",
+      "clicks": 5,
+      "impressions": 1870,
+      "ctr": 0.00267379679144385,
+      "position": 43.04491978609626
+    },
+    {
+      "query": "civil rights attorney portland",
+      "clicks": 5,
+      "impressions": 445,
+      "ctr": 0.011235955056179775,
+      "position": 4.141573033707865
+    },
+    {
+      "query": "johnston law group",
+      "clicks": 5,
+      "impressions": 44,
+      "ctr": 0.11363636363636363,
+      "position": 7.568181818181818
+    },
+    {
+      "query": "oregon medical malpractice attorney",
+      "clicks": 5,
+      "impressions": 429,
+      "ctr": 0.011655011655011656,
+      "position": 3.034965034965035
+    },
+    {
+      "query": "oregon statute of limitations personal injury",
+      "clicks": 5,
+      "impressions": 457,
+      "ctr": 0.010940919037199124,
+      "position": 3.658643326039387
+    },
+    {
+      "query": "personal injury attorney portland",
+      "clicks": 5,
+      "impressions": 3491,
+      "ctr": 0.0014322543683758235,
+      "position": 6.156688627900315
+    },
+    {
+      "query": "personal injury attorney portland oregon",
+      "clicks": 5,
+      "impressions": 645,
+      "ctr": 0.007751937984496124,
+      "position": 4.965891472868217
+    },
+    {
+      "query": "taylor smith bridge lawsuit",
+      "clicks": 5,
+      "impressions": 51,
+      "ctr": 0.09803921568627451,
+      "position": 4.03921568627451
+    },
+    {
+      "query": "civil litigation attorney near me",
+      "clicks": 4,
+      "impressions": 410,
+      "ctr": 0.00975609756097561,
+      "position": 36.83658536585366
+    },
+    {
+      "query": "law firms portland oregon",
+      "clicks": 4,
+      "impressions": 163,
+      "ctr": 0.024539877300613498,
+      "position": 1.7177914110429446
+    },
+    {
+      "query": "marc johnson attorney",
+      "clicks": 4,
+      "impressions": 10,
+      "ctr": 0.4,
+      "position": 2.8
+    },
+    {
+      "query": "medical negligence lawyers",
+      "clicks": 4,
+      "impressions": 181,
+      "ctr": 0.022099447513812154,
+      "position": 12.07182320441989
+    },
+    {
+      "query": "oregon civil rights attorney",
+      "clicks": 4,
+      "impressions": 149,
+      "ctr": 0.026845637583892617,
+      "position": 5.570469798657718
+    },
+    {
+      "query": "personal injury lawyer oregon",
+      "clicks": 4,
+      "impressions": 2321,
+      "ctr": 0.0017233950883239983,
+      "position": 11.261094355881086
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://johnston-lawfirm.com/",
+      "clicks": 3546,
+      "impressions": 184304,
+      "ctr": 0.01923995138466881,
+      "position": 26.066352330931505
+    },
+    {
+      "page": "https://johnston-lawfirm.com/?utm_campaign=gmb&utm_source=gmb",
+      "clicks": 686,
+      "impressions": 292903,
+      "ctr": 0.002342072290143836,
+      "position": 3.04464617979331
+    },
+    {
+      "page": "https://johnston-lawfirm.com/oregon-nurse-swapping-fentanyl-tap-water-303m-lawsuit/",
+      "clicks": 268,
+      "impressions": 4360,
+      "ctr": 0.061467889908256884,
+      "position": 8.561467889908258
+    },
+    {
+      "page": "https://johnston-lawfirm.com/our-testimonials/",
+      "clicks": 237,
+      "impressions": 21493,
+      "ctr": 0.011026845949844136,
+      "position": 5.847438700972409
+    },
+    {
+      "page": "https://johnston-lawfirm.com/portland/civil-rights/",
+      "clicks": 218,
+      "impressions": 42181,
+      "ctr": 0.005168203693606126,
+      "position": 29.78343329935279
+    },
+    {
+      "page": "https://johnston-lawfirm.com/oregons-good-samaritan-law/",
+      "clicks": 216,
+      "impressions": 5739,
+      "ctr": 0.03763721902770518,
+      "position": 10.261892315734448
+    },
+    {
+      "page": "https://johnston-lawfirm.com/portland/medical-malpractice/",
+      "clicks": 135,
+      "impressions": 62940,
+      "ctr": 0.0021448999046711154,
+      "position": 36.05611693676517
+    },
+    {
+      "page": "https://johnston-lawfirm.com/what-you-should-know-buying-car-oregon/",
+      "clicks": 128,
+      "impressions": 30739,
+      "ctr": 0.00416409121962328,
+      "position": 10.271674420117765
+    },
+    {
+      "page": "https://johnston-lawfirm.com/how-to-dispute-fault-in-a-police-report-after-a-car-accident/",
+      "clicks": 123,
+      "impressions": 17779,
+      "ctr": 0.006918274368637156,
+      "position": 10.059283424264581
+    },
+    {
+      "page": "https://johnston-lawfirm.com/oregons-statute-of-limitations-for-different-types-of-injury-claims/",
+      "clicks": 121,
+      "impressions": 19668,
+      "ctr": 0.006152125279642058,
+      "position": 7.8420276591417535
+    },
+    {
+      "page": "https://johnston-lawfirm.com/how-insurance-companies-handle-drunk-driving-accidents/",
+      "clicks": 99,
+      "impressions": 20719,
+      "ctr": 0.004778222887204981,
+      "position": 11.747767749408755
+    },
+    {
+      "page": "https://johnston-lawfirm.com/attorneys/",
+      "clicks": 98,
+      "impressions": 21020,
+      "ctr": 0.004662226450999048,
+      "position": 8.360085632730733
+    },
+    {
+      "page": "https://johnston-lawfirm.com/portland/litigation/",
+      "clicks": 96,
+      "impressions": 23133,
+      "ctr": 0.0041499157048372455,
+      "position": 30.371374227294343
+    },
+    {
+      "page": "https://johnston-lawfirm.com/car-accident/",
+      "clicks": 85,
+      "impressions": 567333,
+      "ctr": 0.0001498238248083577,
+      "position": 57.99625264174656
+    },
+    {
+      "page": "https://johnston-lawfirm.com/portland/sexual-assault/",
+      "clicks": 77,
+      "impressions": 47873,
+      "ctr": 0.0016084222839596433,
+      "position": 28.497232260355524
+    },
+    {
+      "page": "https://johnston-lawfirm.com/attorneys/marc-a-johnston/",
+      "clicks": 68,
+      "impressions": 23768,
+      "ctr": 0.00286098956580276,
+      "position": 9.88665432514305
+    },
+    {
+      "page": "https://johnston-lawfirm.com/human-error-in-self-driving-car-accidents/",
+      "clicks": 53,
+      "impressions": 6634,
+      "ctr": 0.007989146819415134,
+      "position": 11.437594211637022
+    },
+    {
+      "page": "https://johnston-lawfirm.com/practice-areas/",
+      "clicks": 53,
+      "impressions": 32876,
+      "ctr": 0.0016121182625623556,
+      "position": 8.139676359654459
+    },
+    {
+      "page": "https://johnston-lawfirm.com/after-girl-falls-60-feet-from-bridge-friend-who-pushed-her-may-be-liable-for-damages/",
+      "clicks": 50,
+      "impressions": 3690,
+      "ctr": 0.013550135501355014,
+      "position": 8.026287262872629
+    },
+    {
+      "page": "https://johnston-lawfirm.com/portland/victims/",
+      "clicks": 46,
+      "impressions": 4386,
+      "ctr": 0.010487916096671226,
+      "position": 30.010259917920656
+    },
+    {
+      "page": "https://johnston-lawfirm.com/portland/bad-faith/",
+      "clicks": 44,
+      "impressions": 13983,
+      "ctr": 0.003146678109132518,
+      "position": 33.86547951083458
+    },
+    {
+      "page": "https://johnston-lawfirm.com/portland/elder-abuse/",
+      "clicks": 44,
+      "impressions": 10425,
+      "ctr": 0.00422062350119904,
+      "position": 36.4642685851319
+    },
+    {
+      "page": "https://johnston-lawfirm.com/what-to-do-if-the-other-driver-lies-about-the-car-accident/",
+      "clicks": 44,
+      "impressions": 5933,
+      "ctr": 0.007416146974549132,
+      "position": 7.14276082926007
+    },
+    {
+      "page": "https://johnston-lawfirm.com/5-ways-prove-emotional-distress-in-oregon-court/",
+      "clicks": 39,
+      "impressions": 2058,
+      "ctr": 0.018950437317784258,
+      "position": 6.812439261418853
+    },
+    {
+      "page": "https://johnston-lawfirm.com/stop-signs-parking-lots-legitimate-oregon/",
+      "clicks": 38,
+      "impressions": 2723,
+      "ctr": 0.01395519647447668,
+      "position": 9.858979067205288
+    },
+    {
+      "page": "https://johnston-lawfirm.com/legal-aspects-in-oregon-accidents-involving-rental-cars/",
+      "clicks": 33,
+      "impressions": 3597,
+      "ctr": 0.009174311926605505,
+      "position": 22.187934389769254
+    },
+    {
+      "page": "https://johnston-lawfirm.com/portland/health-insurance/",
+      "clicks": 32,
+      "impressions": 6068,
+      "ctr": 0.005273566249176005,
+      "position": 28.914634146341463
+    },
+    {
+      "page": "https://johnston-lawfirm.com/sheridan/",
+      "clicks": 31,
+      "impressions": 406,
+      "ctr": 0.07635467980295567,
+      "position": 17.051724137931036
+    },
+    {
+      "page": "https://johnston-lawfirm.com/new-oregon-labor-and-employment-laws-in-2025-and-2026/",
+      "clicks": 30,
+      "impressions": 8773,
+      "ctr": 0.0034195828108970704,
+      "position": 13.667388578593412
+    },
+    {
+      "page": "https://johnston-lawfirm.com/contact/",
+      "clicks": 28,
+      "impressions": 40432,
+      "ctr": 0.0006925207756232687,
+      "position": 13.778022358527899
+    },
+    {
+      "page": "https://johnston-lawfirm.com/when-is-a-police-report-required-after-a-car-accident-in-oregon/",
+      "clicks": 27,
+      "impressions": 3580,
+      "ctr": 0.007541899441340782,
+      "position": 6.462011173184358
+    },
+    {
+      "page": "https://johnston-lawfirm.com/cutting-edge-approach/",
+      "clicks": 26,
+      "impressions": 240,
+      "ctr": 0.10833333333333334,
+      "position": 15.079166666666667
+    },
+    {
+      "page": "https://johnston-lawfirm.com/getting-sued-for-a-car-accident-in-oregon/",
+      "clicks": 26,
+      "impressions": 2547,
+      "ctr": 0.010208087946603848,
+      "position": 32.64193168433451
+    },
+    {
+      "page": "https://johnston-lawfirm.com/where-do-registered-sex-offenders-live-in-portland/",
+      "clicks": 25,
+      "impressions": 1684,
+      "ctr": 0.014845605700712588,
+      "position": 9.211995249406176
+    },
+    {
+      "page": "https://johnston-lawfirm.com/toxic-mold-pacific-coast-homes/",
+      "clicks": 24,
+      "impressions": 674,
+      "ctr": 0.03560830860534125,
+      "position": 16.495548961424333
+    },
+    {
+      "page": "https://johnston-lawfirm.com/tactics-insurance-companies-use-to-deny-car-accident-claims/",
+      "clicks": 23,
+      "impressions": 5502,
+      "ctr": 0.004180298073427844,
+      "position": 16.093420574336605
+    },
+    {
+      "page": "https://johnston-lawfirm.com/how-to-file-car-accident-police-report-oregon/",
+      "clicks": 22,
+      "impressions": 2900,
+      "ctr": 0.007586206896551724,
+      "position": 9.051724137931034
+    },
+    {
+      "page": "https://johnston-lawfirm.com/attorneys/rob-kline/",
+      "clicks": 21,
+      "impressions": 1543,
+      "ctr": 0.013609850939727802,
+      "position": 17.880751782242385
+    },
+    {
+      "page": "https://johnston-lawfirm.com/can-seek-compensation-contracting-diseasestdillness-another/",
+      "clicks": 20,
+      "impressions": 4044,
+      "ctr": 0.004945598417408506,
+      "position": 10.711177052423343
+    },
+    {
+      "page": "https://johnston-lawfirm.com/dallas/",
+      "clicks": 20,
+      "impressions": 172,
+      "ctr": 0.11627906976744186,
+      "position": 18.023255813953487
+    },
+    {
+      "page": "https://johnston-lawfirm.com/oregon-average-settlements-in-car-accidents-w-o-injuries/",
+      "clicks": 18,
+      "impressions": 1840,
+      "ctr": 0.009782608695652175,
+      "position": 16.945652173913043
+    },
+    {
+      "page": "https://johnston-lawfirm.com/the-importance-of-police-reports-in-oregon-car-accidents/",
+      "clicks": 18,
+      "impressions": 3532,
+      "ctr": 0.005096262740656852,
+      "position": 15.597395243488108
+    },
+    {
+      "page": "https://johnston-lawfirm.com/federal-motor-carrier-safety-regulations-and-their-role-in-bus-accident-litigation/",
+      "clicks": 17,
+      "impressions": 6484,
+      "ctr": 0.002621838371375694,
+      "position": 9.781462060456509
+    },
+    {
+      "page": "https://johnston-lawfirm.com/legal-guide-for-portland-victims-injured-in-hit-and-run-accidents/",
+      "clicks": 17,
+      "impressions": 2640,
+      "ctr": 0.006439393939393939,
+      "position": 5.930681818181818
+    },
+    {
+      "page": "https://johnston-lawfirm.com/bus-accident/trimet-bus/",
+      "clicks": 16,
+      "impressions": 5098,
+      "ctr": 0.003138485680659082,
+      "position": 22.525500196155356
+    },
+    {
+      "page": "https://johnston-lawfirm.com/witnessing-sudden-injury-death-family-member/",
+      "clicks": 16,
+      "impressions": 2629,
+      "ctr": 0.006085964244960061,
+      "position": 11.212248003042982
+    },
+    {
+      "page": "https://johnston-lawfirm.com/oregons-comparative-negligence-rule-and-its-impact-on-your-personal-injury-claim/",
+      "clicks": 15,
+      "impressions": 4657,
+      "ctr": 0.0032209576980888983,
+      "position": 8.75434829289242
+    },
+    {
+      "page": "https://johnston-lawfirm.com/portland/defective-products/",
+      "clicks": 15,
+      "impressions": 8678,
+      "ctr": 0.0017285088730122147,
+      "position": 33.74913574556349
+    },
+    {
+      "page": "https://johnston-lawfirm.com/portland/workplace-accident/",
+      "clicks": 15,
+      "impressions": 24595,
+      "ctr": 0.0006098800569221387,
+      "position": 36.960113844277295
+    },
+    {
+      "page": "https://johnston-lawfirm.com/the-process-of-settlement-negotiations-in-oregon-personal-injury-cases/",
+      "clicks": 15,
+      "impressions": 2825,
+      "ctr": 0.005309734513274336,
+      "position": 15.650973451327433
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:06:58.320Z"
+}

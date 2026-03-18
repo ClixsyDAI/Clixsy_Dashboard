@@ -1,0 +1,1259 @@
+{
+  "property": "sc-domain:lifetimeroofingla.com",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 529,
+    "impressions": 104264,
+    "ctr": 0.0050736591728688715,
+    "position": 10.881666505071651
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 7,
+      "impressions": 1781,
+      "ctr": 0.0039303761931499155,
+      "position": 6.425603593486805
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 5,
+      "impressions": 1284,
+      "ctr": 0.003894080996884735,
+      "position": 12.302959501557632
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 7,
+      "impressions": 913,
+      "ctr": 0.007667031763417305,
+      "position": 10.299014238773275
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 6,
+      "impressions": 1000,
+      "ctr": 0.006,
+      "position": 11.641
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 7,
+      "impressions": 1150,
+      "ctr": 0.00608695652173913,
+      "position": 10.279130434782608
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 1,
+      "impressions": 924,
+      "ctr": 0.0010822510822510823,
+      "position": 8.82034632034632
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 0,
+      "impressions": 873,
+      "ctr": 0,
+      "position": 9.517754868270332
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 4,
+      "impressions": 1516,
+      "ctr": 0.002638522427440633,
+      "position": 7.463060686015831
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 5,
+      "impressions": 1228,
+      "ctr": 0.004071661237785016,
+      "position": 14.052931596091206
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 1,
+      "impressions": 877,
+      "ctr": 0.0011402508551881414,
+      "position": 11.375142531356898
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 0,
+      "impressions": 790,
+      "ctr": 0,
+      "position": 14.029113924050632
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 1,
+      "impressions": 836,
+      "ctr": 0.0011961722488038277,
+      "position": 10.519138755980862
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 0,
+      "impressions": 746,
+      "ctr": 0,
+      "position": 9.554959785522788
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 1,
+      "impressions": 746,
+      "ctr": 0.0013404825737265416,
+      "position": 9.737265415549597
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 3,
+      "impressions": 1274,
+      "ctr": 0.002354788069073783,
+      "position": 8.247252747252748
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 2,
+      "impressions": 1267,
+      "ctr": 0.0015785319652722968,
+      "position": 12.32202052091555
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 3,
+      "impressions": 861,
+      "ctr": 0.003484320557491289,
+      "position": 13.13588850174216
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 2,
+      "impressions": 758,
+      "ctr": 0.002638522427440633,
+      "position": 15.106860158311346
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 8,
+      "impressions": 914,
+      "ctr": 0.0087527352297593,
+      "position": 8.807439824945295
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 0,
+      "impressions": 865,
+      "ctr": 0,
+      "position": 9.114450867052023
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 4,
+      "impressions": 1307,
+      "ctr": 0.00306044376434583,
+      "position": 7.6863045141545525
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 14,
+      "impressions": 1558,
+      "ctr": 0.008985879332477536,
+      "position": 6.989730423620026
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 5,
+      "impressions": 1383,
+      "ctr": 0.0036153289949385392,
+      "position": 12.281995661605206
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 7,
+      "impressions": 1744,
+      "ctr": 0.0040137614678899085,
+      "position": 18.836009174311926
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 2,
+      "impressions": 1244,
+      "ctr": 0.001607717041800643,
+      "position": 11.756430868167202
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 6,
+      "impressions": 1014,
+      "ctr": 0.005917159763313609,
+      "position": 15.31360946745562
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 2,
+      "impressions": 1274,
+      "ctr": 0.0015698587127158557,
+      "position": 13.471742543171114
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 1,
+      "impressions": 1064,
+      "ctr": 0.0009398496240601503,
+      "position": 13.524436090225564
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 4,
+      "impressions": 1439,
+      "ctr": 0.002779708130646282,
+      "position": 8.772758860319666
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 8,
+      "impressions": 1411,
+      "ctr": 0.005669737774627924,
+      "position": 17.82211197732105
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 12,
+      "impressions": 1158,
+      "ctr": 0.010362694300518135,
+      "position": 10.546632124352332
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 4,
+      "impressions": 1868,
+      "ctr": 0.0021413276231263384,
+      "position": 6.244111349036403
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 6,
+      "impressions": 1398,
+      "ctr": 0.004291845493562232,
+      "position": 11.048640915593705
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 5,
+      "impressions": 1159,
+      "ctr": 0.004314063848144953,
+      "position": 10.614322691975842
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 2,
+      "impressions": 904,
+      "ctr": 0.0022123893805309734,
+      "position": 9.71349557522124
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 6,
+      "impressions": 1386,
+      "ctr": 0.004329004329004329,
+      "position": 7.524531024531025
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 5,
+      "impressions": 1605,
+      "ctr": 0.003115264797507788,
+      "position": 13.799376947040498
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 10,
+      "impressions": 1000,
+      "ctr": 0.01,
+      "position": 12.922
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 5,
+      "impressions": 936,
+      "ctr": 0.005341880341880342,
+      "position": 10.216880341880342
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 5,
+      "impressions": 900,
+      "ctr": 0.005555555555555556,
+      "position": 12.374444444444444
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 9,
+      "impressions": 901,
+      "ctr": 0.009988901220865706,
+      "position": 11.794672586015539
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 2,
+      "impressions": 713,
+      "ctr": 0.002805049088359046,
+      "position": 9.699859747545583
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 5,
+      "impressions": 1391,
+      "ctr": 0.0035945363048166786,
+      "position": 7.403306973400431
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 9,
+      "impressions": 1281,
+      "ctr": 0.00702576112412178,
+      "position": 13.97736143637783
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 6,
+      "impressions": 967,
+      "ctr": 0.0062047569803516025,
+      "position": 13.620475698035161
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 8,
+      "impressions": 786,
+      "ctr": 0.010178117048346057,
+      "position": 9.029262086513995
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 8,
+      "impressions": 988,
+      "ctr": 0.008097165991902834,
+      "position": 13.648785425101215
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 2,
+      "impressions": 763,
+      "ctr": 0.002621231979030144,
+      "position": 10.642201834862385
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 3,
+      "impressions": 769,
+      "ctr": 0.0039011703511053317,
+      "position": 11.276983094928479
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 7,
+      "impressions": 1098,
+      "ctr": 0.006375227686703097,
+      "position": 10.520036429872496
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 6,
+      "impressions": 1098,
+      "ctr": 0.00546448087431694,
+      "position": 12.926229508196721
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 5,
+      "impressions": 1061,
+      "ctr": 0.00471253534401508,
+      "position": 10.233741753063148
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 5,
+      "impressions": 997,
+      "ctr": 0.0050150451354062184,
+      "position": 12.552657973921765
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 8,
+      "impressions": 935,
+      "ctr": 0.008556149732620321,
+      "position": 14.218181818181819
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 2,
+      "impressions": 631,
+      "ctr": 0.003169572107765452,
+      "position": 13.405705229793977
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 2,
+      "impressions": 704,
+      "ctr": 0.002840909090909091,
+      "position": 11.848011363636363
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 13,
+      "impressions": 1026,
+      "ctr": 0.012670565302144249,
+      "position": 11.014619883040936
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 5,
+      "impressions": 1337,
+      "ctr": 0.0037397157816005983,
+      "position": 17.523560209424083
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 13,
+      "impressions": 886,
+      "ctr": 0.014672686230248307,
+      "position": 11.737020316027088
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 11,
+      "impressions": 825,
+      "ctr": 0.013333333333333334,
+      "position": 14.123636363636363
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 6,
+      "impressions": 742,
+      "ctr": 0.008086253369272238,
+      "position": 13.827493261455526
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 1,
+      "impressions": 629,
+      "ctr": 0.001589825119236884,
+      "position": 14.201907790143084
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 3,
+      "impressions": 614,
+      "ctr": 0.004885993485342019,
+      "position": 9.998371335504887
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 8,
+      "impressions": 987,
+      "ctr": 0.008105369807497468,
+      "position": 8.267477203647417
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 5,
+      "impressions": 988,
+      "ctr": 0.005060728744939271,
+      "position": 16.305668016194332
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 14,
+      "impressions": 792,
+      "ctr": 0.017676767676767676,
+      "position": 12.95959595959596
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 10,
+      "impressions": 991,
+      "ctr": 0.010090817356205853,
+      "position": 12.712411705348133
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 13,
+      "impressions": 1101,
+      "ctr": 0.011807447774750226,
+      "position": 12.02724795640327
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 4,
+      "impressions": 778,
+      "ctr": 0.005141388174807198,
+      "position": 11.854755784061696
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 1,
+      "impressions": 793,
+      "ctr": 0.0012610340479192938,
+      "position": 11.469104665825977
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 4,
+      "impressions": 1114,
+      "ctr": 0.003590664272890485,
+      "position": 7.851885098743267
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 8,
+      "impressions": 1158,
+      "ctr": 0.0069084628670120895,
+      "position": 14.535405872193436
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 5,
+      "impressions": 913,
+      "ctr": 0.00547645125958379,
+      "position": 10.480832420591456
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 3,
+      "impressions": 906,
+      "ctr": 0.0033112582781456954,
+      "position": 9.392935982339957
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 6,
+      "impressions": 991,
+      "ctr": 0.006054490413723511,
+      "position": 8.233097880928355
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 4,
+      "impressions": 790,
+      "ctr": 0.005063291139240506,
+      "position": 8.60253164556962
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 2,
+      "impressions": 922,
+      "ctr": 0.0021691973969631237,
+      "position": 10.926247288503253
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 3,
+      "impressions": 1546,
+      "ctr": 0.0019404915912031048,
+      "position": 7.7380336351875805
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 11,
+      "impressions": 1074,
+      "ctr": 0.010242085661080074,
+      "position": 9.702048417132216
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 12,
+      "impressions": 877,
+      "ctr": 0.013683010262257697,
+      "position": 7.75484606613455
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 18,
+      "impressions": 1264,
+      "ctr": 0.014240506329113924,
+      "position": 7.2349683544303796
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 8,
+      "impressions": 7024,
+      "ctr": 0.0011389521640091116,
+      "position": 2.642369020501139
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 3,
+      "impressions": 778,
+      "ctr": 0.0038560411311053984,
+      "position": 8.224935732647815
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 12,
+      "impressions": 824,
+      "ctr": 0.014563106796116505,
+      "position": 8.149271844660195
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 14,
+      "impressions": 1142,
+      "ctr": 0.012259194395796848,
+      "position": 6.309982486865149
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 12,
+      "impressions": 1223,
+      "ctr": 0.009811937857726901,
+      "position": 10.82011447260834
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 14,
+      "impressions": 1205,
+      "ctr": 0.011618257261410789,
+      "position": 10.410788381742739
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 11,
+      "impressions": 1259,
+      "ctr": 0.008737092930897538,
+      "position": 8.88880063542494
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 6,
+      "impressions": 4445,
+      "ctr": 0.0013498312710911137,
+      "position": 3.3244094488188978
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 3,
+      "impressions": 882,
+      "ctr": 0.003401360544217687,
+      "position": 9.095238095238095
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "lifetime roofing",
+      "clicks": 139,
+      "impressions": 1663,
+      "ctr": 0.0835838845460012,
+      "position": 8.18520745640409
+    },
+    {
+      "query": "lifetime roofing baton rouge",
+      "clicks": 80,
+      "impressions": 377,
+      "ctr": 0.21220159151193635,
+      "position": 1.3740053050397878
+    },
+    {
+      "query": "lifetime roofing llc.",
+      "clicks": 20,
+      "impressions": 280,
+      "ctr": 0.07142857142857142,
+      "position": 2.7964285714285717
+    },
+    {
+      "query": "lifetime roofing llc",
+      "clicks": 16,
+      "impressions": 153,
+      "ctr": 0.10457516339869281,
+      "position": 5.189542483660131
+    },
+    {
+      "query": "roofing companies baton rouge",
+      "clicks": 8,
+      "impressions": 1300,
+      "ctr": 0.006153846153846154,
+      "position": 5.018461538461539
+    },
+    {
+      "query": "life time roofing",
+      "clicks": 6,
+      "impressions": 30,
+      "ctr": 0.2,
+      "position": 1.8333333333333335
+    },
+    {
+      "query": "lifetime roofing company",
+      "clicks": 5,
+      "impressions": 125,
+      "ctr": 0.04,
+      "position": 11.696
+    },
+    {
+      "query": "lifetime roofing llc reviews",
+      "clicks": 4,
+      "impressions": 395,
+      "ctr": 0.010126582278481013,
+      "position": 3.1468354430379746
+    },
+    {
+      "query": "roofing baton rouge",
+      "clicks": 4,
+      "impressions": 1345,
+      "ctr": 0.002973977695167286,
+      "position": 10.884758364312267
+    },
+    {
+      "query": "roof repair baton rouge",
+      "clicks": 3,
+      "impressions": 2206,
+      "ctr": 0.0013599274705349048,
+      "position": 4.57026291931097
+    },
+    {
+      "query": "roofers in baton rouge",
+      "clicks": 3,
+      "impressions": 616,
+      "ctr": 0.00487012987012987,
+      "position": 3.5275974025974026
+    },
+    {
+      "query": "roofing",
+      "clicks": 3,
+      "impressions": 160,
+      "ctr": 0.01875,
+      "position": 6.1375
+    },
+    {
+      "query": "baton rouge roofers",
+      "clicks": 2,
+      "impressions": 1177,
+      "ctr": 0.0016992353440951572,
+      "position": 3.127442650807137
+    },
+    {
+      "query": "lifetime roofing reviews",
+      "clicks": 2,
+      "impressions": 62,
+      "ctr": 0.03225806451612903,
+      "position": 5.67741935483871
+    },
+    {
+      "query": "roofers baton rouge",
+      "clicks": 2,
+      "impressions": 830,
+      "ctr": 0.0024096385542168677,
+      "position": 4.636144578313253
+    },
+    {
+      "query": "roofing companies in baton rouge louisiana",
+      "clicks": 2,
+      "impressions": 17,
+      "ctr": 0.11764705882352941,
+      "position": 2
+    },
+    {
+      "query": "roofing companies in louisiana",
+      "clicks": 2,
+      "impressions": 183,
+      "ctr": 0.01092896174863388,
+      "position": 13.836065573770492
+    },
+    {
+      "query": "roofing companies louisiana",
+      "clicks": 2,
+      "impressions": 216,
+      "ctr": 0.009259259259259259,
+      "position": 8.972222222222221
+    },
+    {
+      "query": "roofing contractors in louisiana",
+      "clicks": 2,
+      "impressions": 123,
+      "ctr": 0.016260162601626018,
+      "position": 47.15447154471545
+    },
+    {
+      "query": "roofing in louisiana",
+      "clicks": 2,
+      "impressions": 370,
+      "ctr": 0.005405405405405406,
+      "position": 10.256756756756756
+    },
+    {
+      "query": "baton rogue roofing",
+      "clicks": 1,
+      "impressions": 22,
+      "ctr": 0.045454545454545456,
+      "position": 13.181818181818182
+    },
+    {
+      "query": "baton rouge roof repair",
+      "clicks": 1,
+      "impressions": 1085,
+      "ctr": 0.0009216589861751152,
+      "position": 4.674654377880184
+    },
+    {
+      "query": "baton rouge roofing",
+      "clicks": 1,
+      "impressions": 917,
+      "ctr": 0.0010905125408942203,
+      "position": 7.1308615049073065
+    },
+    {
+      "query": "baton rouge roofing companies",
+      "clicks": 1,
+      "impressions": 248,
+      "ctr": 0.004032258064516129,
+      "position": 3.2701612903225805
+    },
+    {
+      "query": "baton rouge roofing company",
+      "clicks": 1,
+      "impressions": 369,
+      "ctr": 0.0027100271002710027,
+      "position": 7.6802168021680215
+    },
+    {
+      "query": "baton rouge roofing contractor",
+      "clicks": 1,
+      "impressions": 172,
+      "ctr": 0.005813953488372093,
+      "position": 2.645348837209302
+    },
+    {
+      "query": "baton rouge roofing contractors",
+      "clicks": 1,
+      "impressions": 757,
+      "ctr": 0.001321003963011889,
+      "position": 2.903566710700132
+    },
+    {
+      "query": "best roofers baton rouge",
+      "clicks": 1,
+      "impressions": 138,
+      "ctr": 0.007246376811594203,
+      "position": 9.68840579710145
+    },
+    {
+      "query": "lifetime roofing and renovation",
+      "clicks": 1,
+      "impressions": 29,
+      "ctr": 0.034482758620689655,
+      "position": 38.172413793103445
+    },
+    {
+      "query": "lifetime roofing la",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 15
+    },
+    {
+      "query": "lifetime roofing of america",
+      "clicks": 1,
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 16.944444444444443
+    },
+    {
+      "query": "ltr roofing",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 4.25
+    },
+    {
+      "query": "new roof financing",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 9.5
+    },
+    {
+      "query": "residential roofing baton rouge",
+      "clicks": 1,
+      "impressions": 944,
+      "ctr": 0.001059322033898305,
+      "position": 14.755296610169491
+    },
+    {
+      "query": "roof baton rouge",
+      "clicks": 1,
+      "impressions": 331,
+      "ctr": 0.0030211480362537764,
+      "position": 6.734138972809668
+    },
+    {
+      "query": "roof inspection baton rouge la",
+      "clicks": 1,
+      "impressions": 475,
+      "ctr": 0.002105263157894737,
+      "position": 14.32421052631579
+    },
+    {
+      "query": "roof near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 28.25
+    },
+    {
+      "query": "roof replacement baton rouge",
+      "clicks": 1,
+      "impressions": 1578,
+      "ctr": 0.0006337135614702154,
+      "position": 4.73637515842839
+    },
+    {
+      "query": "roofer",
+      "clicks": 1,
+      "impressions": 933,
+      "ctr": 0.0010718113612004287,
+      "position": 1.1929260450160772
+    },
+    {
+      "query": "roofer baton rouge",
+      "clicks": 1,
+      "impressions": 255,
+      "ctr": 0.00392156862745098,
+      "position": 2.462745098039216
+    },
+    {
+      "query": "roofers",
+      "clicks": 1,
+      "impressions": 817,
+      "ctr": 0.0012239902080783353,
+      "position": 1.430844553243574
+    },
+    {
+      "query": "roofing companies baton rouge louisiana",
+      "clicks": 1,
+      "impressions": 31,
+      "ctr": 0.03225806451612903,
+      "position": 4.483870967741936
+    },
+    {
+      "query": "roofing companies in baton rouge",
+      "clicks": 1,
+      "impressions": 462,
+      "ctr": 0.0021645021645021645,
+      "position": 5.3441558441558445
+    },
+    {
+      "query": "roofing companies in baton rouge la",
+      "clicks": 1,
+      "impressions": 108,
+      "ctr": 0.009259259259259259,
+      "position": 2.0185185185185186
+    },
+    {
+      "query": "roofing company baton rouge",
+      "clicks": 1,
+      "impressions": 1294,
+      "ctr": 0.0007727975270479134,
+      "position": 4.561051004636785
+    },
+    {
+      "query": "roofing contractor baton rouge la",
+      "clicks": 1,
+      "impressions": 703,
+      "ctr": 0.001422475106685633,
+      "position": 3.660028449502134
+    },
+    {
+      "query": "roofing contractors in baton rouge la",
+      "clicks": 1,
+      "impressions": 271,
+      "ctr": 0.0036900369003690036,
+      "position": 2.8228782287822876
+    },
+    {
+      "query": "roofing louisiana",
+      "clicks": 1,
+      "impressions": 661,
+      "ctr": 0.0015128593040847202,
+      "position": 7.7609682299546146
+    },
+    {
+      "query": "roofs",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 4.4
+    },
+    {
+      "query": "slidell roofer",
+      "clicks": 1,
+      "impressions": 45,
+      "ctr": 0.022222222222222223,
+      "position": 55.733333333333334
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://www.lifetimeroofingla.com/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-baton-rouge-la",
+      "clicks": 231,
+      "impressions": 47736,
+      "ctr": 0.0048391151332327804,
+      "position": 1.8082369700016758
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/",
+      "clicks": 219,
+      "impressions": 59496,
+      "ctr": 0.003680919725695845,
+      "position": 12.884462821029985
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/reviews/",
+      "clicks": 20,
+      "impressions": 6128,
+      "ctr": 0.0032637075718015664,
+      "position": 10.62532637075718
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/about/",
+      "clicks": 13,
+      "impressions": 4611,
+      "ctr": 0.0028193450444589027,
+      "position": 21.04445890262416
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/warranty/",
+      "clicks": 11,
+      "impressions": 3573,
+      "ctr": 0.0030786453960257487,
+      "position": 8.74503218583823
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/careers/",
+      "clicks": 10,
+      "impressions": 2951,
+      "ctr": 0.003388681802778719,
+      "position": 10.221619789901728
+    },
+    {
+      "page": "https://lifetimeroofingla.com/",
+      "clicks": 8,
+      "impressions": 66,
+      "ctr": 0.12121212121212122,
+      "position": 3.8181818181818183
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/contact",
+      "clicks": 3,
+      "impressions": 5024,
+      "ctr": 0.0005971337579617834,
+      "position": 10.983081210191083
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/financing",
+      "clicks": 3,
+      "impressions": 295,
+      "ctr": 0.010169491525423728,
+      "position": 6.613559322033899
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/roofing/",
+      "clicks": 3,
+      "impressions": 5679,
+      "ctr": 0.0005282620179609086,
+      "position": 11.474907554146856
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/roofing/installation/",
+      "clicks": 3,
+      "impressions": 1845,
+      "ctr": 0.0016260162601626016,
+      "position": 28.183739837398374
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/schedule/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-baton-rouge-la",
+      "clicks": 3,
+      "impressions": 1256,
+      "ctr": 0.0023885350318471337,
+      "position": 12.626592356687897
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/service-area/houston-tx/",
+      "clicks": 3,
+      "impressions": 66,
+      "ctr": 0.045454545454545456,
+      "position": 3.409090909090909
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/roofing/repairs",
+      "clicks": 2,
+      "impressions": 5360,
+      "ctr": 0.00037313432835820896,
+      "position": 27.76865671641791
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/roofing/storm-damage/",
+      "clicks": 2,
+      "impressions": 3879,
+      "ctr": 0.0005155968032998196,
+      "position": 14.726475895849445
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/blog/roof-inspection-guide-baton-rouge/",
+      "clicks": 1,
+      "impressions": 298,
+      "ctr": 0.003355704697986577,
+      "position": 12.587248322147651
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/reviews/page/3",
+      "clicks": 1,
+      "impressions": 117,
+      "ctr": 0.008547008547008548,
+      "position": 5
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/roofing/inspections/",
+      "clicks": 1,
+      "impressions": 3309,
+      "ctr": 0.0003022061045633122,
+      "position": 25.14868540344515
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/schedule/?utm_campaign=slidell-gbp-booking&utm_source=slidell-gbp&utm_medium=google",
+      "clicks": 1,
+      "impressions": 28,
+      "ctr": 0.03571428571428571,
+      "position": 13.75
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/service-area/",
+      "clicks": 1,
+      "impressions": 3773,
+      "ctr": 0.00026504108136761196,
+      "position": 13.717466207262126
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/service-area/prairieville-la/",
+      "clicks": 1,
+      "impressions": 678,
+      "ctr": 0.0014749262536873156,
+      "position": 15.163716814159292
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/about",
+      "clicks": 0,
+      "impressions": 641,
+      "ctr": 0,
+      "position": 7.926677067082683
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/blog/how-to-spot-roof-damage-after-storm-la/",
+      "clicks": 0,
+      "impressions": 127,
+      "ctr": 0,
+      "position": 26.96062992125984
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/blog/repair-vs-replace-your-roof-in-baton-rouge-la/",
+      "clicks": 0,
+      "impressions": 350,
+      "ctr": 0,
+      "position": 29.694285714285716
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/contact/",
+      "clicks": 0,
+      "impressions": 654,
+      "ctr": 0,
+      "position": 7.408256880733945
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/how-to-spot-roof-damage-after-storm-la",
+      "clicks": 0,
+      "impressions": 62,
+      "ctr": 0,
+      "position": 20.580645161290324
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/privacy-policy/",
+      "clicks": 0,
+      "impressions": 58,
+      "ctr": 0,
+      "position": 12.03448275862069
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/reviews",
+      "clicks": 0,
+      "impressions": 1294,
+      "ctr": 0,
+      "position": 7.288253477588872
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/reviews/page/2",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 11.428571428571429
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/reviews/page/4",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/roofing",
+      "clicks": 0,
+      "impressions": 1333,
+      "ctr": 0,
+      "position": 7.135783945986496
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/roofing/inspections",
+      "clicks": 0,
+      "impressions": 2609,
+      "ctr": 0,
+      "position": 17.642391720965886
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/schedule-old",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/schedule-thankyou/",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 18.5
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/schedule/",
+      "clicks": 0,
+      "impressions": 170,
+      "ctr": 0,
+      "position": 8.511764705882353
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/service-area",
+      "clicks": 0,
+      "impressions": 1174,
+      "ctr": 0,
+      "position": 7.545996592844975
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/terms-conditions/",
+      "clicks": 0,
+      "impressions": 91,
+      "ctr": 0,
+      "position": 8.571428571428571
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:08:13.056Z"
+}

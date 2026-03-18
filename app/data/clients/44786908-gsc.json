@@ -1,0 +1,1350 @@
+{
+  "property": "sc-domain:wilshirelawfirm.com",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 30998,
+    "impressions": 8504301,
+    "ctr": 0.0036449791699517693,
+    "position": 20.604654718036944
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 481,
+      "impressions": 111389,
+      "ctr": 0.004318200181346453,
+      "position": 19.704064135596873
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 571,
+      "impressions": 116240,
+      "ctr": 0.004912250516173435,
+      "position": 20.754619752236753
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 505,
+      "impressions": 94107,
+      "ctr": 0.005366232055001222,
+      "position": 18.969651566833498
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 507,
+      "impressions": 117096,
+      "ctr": 0.004329780692764911,
+      "position": 20.480366536858646
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 413,
+      "impressions": 119763,
+      "ctr": 0.003448477409550529,
+      "position": 20.93884588729407
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 208,
+      "impressions": 104780,
+      "ctr": 0.0019851116625310174,
+      "position": 20.95694789081886
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 227,
+      "impressions": 100767,
+      "ctr": 0.0022527216251352128,
+      "position": 20.647394484305376
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 436,
+      "impressions": 113148,
+      "ctr": 0.0038533602007989535,
+      "position": 17.382896737017003
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 401,
+      "impressions": 124962,
+      "ctr": 0.0032089755285606824,
+      "position": 19.569597157535892
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 201,
+      "impressions": 110697,
+      "ctr": 0.0018157673649692404,
+      "position": 19.32233935879021
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 142,
+      "impressions": 93211,
+      "ctr": 0.0015234253467938334,
+      "position": 18.795732263359476
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 275,
+      "impressions": 93252,
+      "ctr": 0.0029489984129026725,
+      "position": 18.39363230815425
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 205,
+      "impressions": 86680,
+      "ctr": 0.0023650207660359944,
+      "position": 19.52793031841255
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 226,
+      "impressions": 89861,
+      "ctr": 0.002514995381756268,
+      "position": 20.838461624063832
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 491,
+      "impressions": 114313,
+      "ctr": 0.004295224515147009,
+      "position": 16.922983387716183
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 470,
+      "impressions": 115102,
+      "ctr": 0.004083334781324391,
+      "position": 21.218858056332643
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 278,
+      "impressions": 119349,
+      "ctr": 0.0023293031361804454,
+      "position": 20.879094085413367
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 182,
+      "impressions": 130439,
+      "ctr": 0.0013952882190142518,
+      "position": 21.83455101618381
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 374,
+      "impressions": 99671,
+      "ctr": 0.00375234521575985,
+      "position": 20.50052673295141
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 189,
+      "impressions": 83925,
+      "ctr": 0.00225201072386059,
+      "position": 21.915007447125408
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 227,
+      "impressions": 89520,
+      "ctr": 0.0025357462019660413,
+      "position": 23.283266309204645
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 574,
+      "impressions": 105062,
+      "ctr": 0.005463440635053588,
+      "position": 21.251822733243227
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 547,
+      "impressions": 89370,
+      "ctr": 0.006120622132706725,
+      "position": 19.634060646749468
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 531,
+      "impressions": 140576,
+      "ctr": 0.0037773161848395176,
+      "position": 26.094937969496925
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 529,
+      "impressions": 139976,
+      "ctr": 0.0037792192947362405,
+      "position": 26.566832885637538
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 449,
+      "impressions": 133285,
+      "ctr": 0.0033687211614210153,
+      "position": 27.90844431106276
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 236,
+      "impressions": 106715,
+      "ctr": 0.0022114979150072624,
+      "position": 26.696368832872604
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 237,
+      "impressions": 112963,
+      "ctr": 0.002098032099005869,
+      "position": 28.20597894885936
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 531,
+      "impressions": 104287,
+      "ctr": 0.005091718047311745,
+      "position": 23.291014220372624
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 507,
+      "impressions": 106358,
+      "ctr": 0.004766919272645217,
+      "position": 24.884672521107955
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 491,
+      "impressions": 115725,
+      "ctr": 0.004242817023115144,
+      "position": 26.68446748757831
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 494,
+      "impressions": 94651,
+      "ctr": 0.005219173595630263,
+      "position": 21.750050184361495
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 388,
+      "impressions": 100621,
+      "ctr": 0.0038560539052484074,
+      "position": 23.23924429294084
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 202,
+      "impressions": 85090,
+      "ctr": 0.0023739569867199436,
+      "position": 22.59073921729933
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 195,
+      "impressions": 87871,
+      "ctr": 0.0022191621809243096,
+      "position": 23.044713272865906
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 349,
+      "impressions": 100747,
+      "ctr": 0.0034641230011811766,
+      "position": 20.49393034035753
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 508,
+      "impressions": 109122,
+      "ctr": 0.00465533989479665,
+      "position": 20.882361027107276
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 450,
+      "impressions": 99913,
+      "ctr": 0.004503918409015844,
+      "position": 24.23006015233253
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 407,
+      "impressions": 101497,
+      "ctr": 0.004009970738051371,
+      "position": 23.86756258805679
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 358,
+      "impressions": 81248,
+      "ctr": 0.004406262307995274,
+      "position": 21.094956183536826
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 168,
+      "impressions": 77130,
+      "ctr": 0.002178140801244652,
+      "position": 23.648398807208608
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 172,
+      "impressions": 78064,
+      "ctr": 0.0022033203525312563,
+      "position": 23.45093769215003
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 381,
+      "impressions": 93181,
+      "ctr": 0.004088816389607323,
+      "position": 21.993936532125648
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 405,
+      "impressions": 103374,
+      "ctr": 0.003917812989726624,
+      "position": 21.203735949078105
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 470,
+      "impressions": 92323,
+      "ctr": 0.005090822438612264,
+      "position": 23.001559741342895
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 437,
+      "impressions": 88758,
+      "ctr": 0.00492349985353433,
+      "position": 21.43911534734897
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 378,
+      "impressions": 103250,
+      "ctr": 0.003661016949152542,
+      "position": 22.351854721549635
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 164,
+      "impressions": 81034,
+      "ctr": 0.002023841844164178,
+      "position": 24.0791025989091
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 144,
+      "impressions": 102520,
+      "ctr": 0.0014046039797112758,
+      "position": 24.063333983612953
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 449,
+      "impressions": 106138,
+      "ctr": 0.0042303416307071925,
+      "position": 21.688358552073716
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 405,
+      "impressions": 89879,
+      "ctr": 0.004506058144839173,
+      "position": 20.609597347545034
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 432,
+      "impressions": 101860,
+      "ctr": 0.004241115256234047,
+      "position": 22.29143923031612
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 427,
+      "impressions": 111739,
+      "ctr": 0.0038214052389944422,
+      "position": 22.20042241294445
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 345,
+      "impressions": 89304,
+      "ctr": 0.0038632088148347218,
+      "position": 21.651706530502555
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 168,
+      "impressions": 65618,
+      "ctr": 0.002560273095796885,
+      "position": 20.189673565180286
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 137,
+      "impressions": 75688,
+      "ctr": 0.0018100623612725927,
+      "position": 22.0107282528274
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 405,
+      "impressions": 93066,
+      "ctr": 0.004351750370704661,
+      "position": 20.76749833451529
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 430,
+      "impressions": 90234,
+      "ctr": 0.004765387769576878,
+      "position": 20.784759624975067
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 434,
+      "impressions": 96442,
+      "ctr": 0.004500114058190415,
+      "position": 20.738920802140147
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 422,
+      "impressions": 85812,
+      "ctr": 0.004917727124411504,
+      "position": 20.346291893907612
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 325,
+      "impressions": 75499,
+      "ctr": 0.00430469277738778,
+      "position": 18.858845812527317
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 128,
+      "impressions": 69553,
+      "ctr": 0.0018403232067631878,
+      "position": 19.594913231636305
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 161,
+      "impressions": 76897,
+      "ctr": 0.0020937097676112203,
+      "position": 20.336437052160683
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 275,
+      "impressions": 81831,
+      "ctr": 0.0033605846195207197,
+      "position": 18.636360303552443
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 400,
+      "impressions": 77641,
+      "ctr": 0.005151917157172113,
+      "position": 19.08303602478072
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 430,
+      "impressions": 84281,
+      "ctr": 0.005101980280252963,
+      "position": 19.34032581483371
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 366,
+      "impressions": 71673,
+      "ctr": 0.0051065254698422,
+      "position": 17.1727149693748
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 315,
+      "impressions": 72607,
+      "ctr": 0.004338424669797678,
+      "position": 17.66098310080295
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 119,
+      "impressions": 72080,
+      "ctr": 0.0016509433962264152,
+      "position": 19.171836847946725
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 147,
+      "impressions": 74516,
+      "ctr": 0.001972730688711149,
+      "position": 20.5968382629234
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 413,
+      "impressions": 78790,
+      "ctr": 0.005241781952024368,
+      "position": 19.278829800736133
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 447,
+      "impressions": 84008,
+      "ctr": 0.005320921816969812,
+      "position": 17.123059708599182
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 401,
+      "impressions": 83406,
+      "ctr": 0.004807807591779968,
+      "position": 18.603265952089778
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 397,
+      "impressions": 77911,
+      "ctr": 0.005095557751793713,
+      "position": 16.682085969888718
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 362,
+      "impressions": 87528,
+      "ctr": 0.004135819394936477,
+      "position": 15.78424047162051
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 113,
+      "impressions": 75919,
+      "ctr": 0.0014884284566445817,
+      "position": 15.465114134801565
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 153,
+      "impressions": 91412,
+      "ctr": 0.0016737408655318777,
+      "position": 15.834255896381219
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 380,
+      "impressions": 118993,
+      "ctr": 0.0031934651618162413,
+      "position": 13.11534291933139
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 388,
+      "impressions": 107509,
+      "ctr": 0.00360900017672939,
+      "position": 12.828107414262991
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 405,
+      "impressions": 86201,
+      "ctr": 0.004698321365181378,
+      "position": 17.437755942506467
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 461,
+      "impressions": 82638,
+      "ctr": 0.00557854739950144,
+      "position": 18.434219124373776
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 334,
+      "impressions": 83258,
+      "ctr": 0.0040116265103653705,
+      "position": 17.517331667827715
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 154,
+      "impressions": 69033,
+      "ctr": 0.0022308171454232034,
+      "position": 18.33505714658207
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 135,
+      "impressions": 70218,
+      "ctr": 0.001922583952832607,
+      "position": 18.806958329772993
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 387,
+      "impressions": 78847,
+      "ctr": 0.004908240009131609,
+      "position": 19.984235291133462
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 436,
+      "impressions": 83349,
+      "ctr": 0.00523101656888505,
+      "position": 17.870328378264887
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 387,
+      "impressions": 82866,
+      "ctr": 0.004670190427919774,
+      "position": 21.236104071633722
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 375,
+      "impressions": 87829,
+      "ctr": 0.004269660362750344,
+      "position": 19.740381878422845
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 305,
+      "impressions": 74471,
+      "ctr": 0.0040955539740301595,
+      "position": 19.04911979159673
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 134,
+      "impressions": 74774,
+      "ctr": 0.00179206676117367,
+      "position": 17.08048252066226
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "wilshire law firm",
+      "clicks": 6259,
+      "impressions": 20788,
+      "ctr": 0.3010871656725034,
+      "position": 1.4043679045603232
+    },
+    {
+      "query": "wilshire law",
+      "clicks": 652,
+      "impressions": 1879,
+      "ctr": 0.3469930814262906,
+      "position": 1.5614688664183076
+    },
+    {
+      "query": "wilshire law firm los angeles",
+      "clicks": 515,
+      "impressions": 2848,
+      "ctr": 0.18082865168539325,
+      "position": 7.517907303370786
+    },
+    {
+      "query": "wilshire law firm plc",
+      "clicks": 350,
+      "impressions": 1124,
+      "ctr": 0.3113879003558719,
+      "position": 1.6708185053380782
+    },
+    {
+      "query": "wilshire law firm careers",
+      "clicks": 174,
+      "impressions": 527,
+      "ctr": 0.3301707779886148,
+      "position": 3.935483870967742
+    },
+    {
+      "query": "wilshire law group",
+      "clicks": 132,
+      "impressions": 409,
+      "ctr": 0.32273838630806845,
+      "position": 1.8533007334963325
+    },
+    {
+      "query": "wilshire law firm, plc",
+      "clicks": 90,
+      "impressions": 179,
+      "ctr": 0.5027932960893855,
+      "position": 1.229050279329609
+    },
+    {
+      "query": "willshire law firm",
+      "clicks": 77,
+      "impressions": 280,
+      "ctr": 0.275,
+      "position": 1.1892857142857143
+    },
+    {
+      "query": "wilshire law firm locations",
+      "clicks": 75,
+      "impressions": 221,
+      "ctr": 0.3393665158371041,
+      "position": 3.0361990950226243
+    },
+    {
+      "query": "the wilshire law firm",
+      "clicks": 66,
+      "impressions": 176,
+      "ctr": 0.375,
+      "position": 2.8636363636363633
+    },
+    {
+      "query": "dexcom class action lawsuit",
+      "clicks": 57,
+      "impressions": 743,
+      "ctr": 0.07671601615074024,
+      "position": 2.5114401076716018
+    },
+    {
+      "query": "wilshirelawfirm",
+      "clicks": 56,
+      "impressions": 224,
+      "ctr": 0.25,
+      "position": 1.3794642857142856
+    },
+    {
+      "query": "213-381-9988",
+      "clicks": 51,
+      "impressions": 202,
+      "ctr": 0.2524752475247525,
+      "position": 1.004950495049505
+    },
+    {
+      "query": "dexcom g7 lawsuit",
+      "clicks": 50,
+      "impressions": 1297,
+      "ctr": 0.03855050115651504,
+      "position": 2.3114880493446415
+    },
+    {
+      "query": "dexcom lawsuit",
+      "clicks": 50,
+      "impressions": 1528,
+      "ctr": 0.032722513089005235,
+      "position": 2.50065445026178
+    },
+    {
+      "query": "whilshire law firm",
+      "clicks": 49,
+      "impressions": 124,
+      "ctr": 0.3951612903225806,
+      "position": 4.814516129032258
+    },
+    {
+      "query": "thiago coelho",
+      "clicks": 47,
+      "impressions": 158,
+      "ctr": 0.2974683544303797,
+      "position": 2.9556962025316453
+    },
+    {
+      "query": "wilshire law firm san diego",
+      "clicks": 47,
+      "impressions": 274,
+      "ctr": 0.17153284671532848,
+      "position": 2.1058394160583944
+    },
+    {
+      "query": "wilshire law firm attorneys",
+      "clicks": 46,
+      "impressions": 93,
+      "ctr": 0.4946236559139785,
+      "position": 12.268817204301076
+    },
+    {
+      "query": "consumer protection lawyer",
+      "clicks": 45,
+      "impressions": 3630,
+      "ctr": 0.012396694214876033,
+      "position": 19.782920110192837
+    },
+    {
+      "query": "wilshire law firm irvine",
+      "clicks": 45,
+      "impressions": 214,
+      "ctr": 0.2102803738317757,
+      "position": 5.0607476635514015
+    },
+    {
+      "query": "john yslas",
+      "clicks": 44,
+      "impressions": 87,
+      "ctr": 0.5057471264367817,
+      "position": 1.9540229885057472
+    },
+    {
+      "query": "alivia abreu",
+      "clicks": 43,
+      "impressions": 139,
+      "ctr": 0.30935251798561153,
+      "position": 1.2805755395683454
+    },
+    {
+      "query": "nicol hajjar",
+      "clicks": 41,
+      "impressions": 85,
+      "ctr": 0.4823529411764706,
+      "position": 4.364705882352942
+    },
+    {
+      "query": "nathan kingery",
+      "clicks": 40,
+      "impressions": 104,
+      "ctr": 0.38461538461538464,
+      "position": 1.1057692307692308
+    },
+    {
+      "query": "valen hermiz",
+      "clicks": 40,
+      "impressions": 81,
+      "ctr": 0.49382716049382713,
+      "position": 1
+    },
+    {
+      "query": "toxic work environment",
+      "clicks": 39,
+      "impressions": 5336,
+      "ctr": 0.007308845577211395,
+      "position": 12.270989505247377
+    },
+    {
+      "query": "wilshire law firm riverside",
+      "clicks": 39,
+      "impressions": 224,
+      "ctr": 0.17410714285714285,
+      "position": 4.428571428571429
+    },
+    {
+      "query": "california employment lawyer",
+      "clicks": 38,
+      "impressions": 2646,
+      "ctr": 0.01436130007558579,
+      "position": 5.616780045351474
+    },
+    {
+      "query": "2133819988",
+      "clicks": 37,
+      "impressions": 190,
+      "ctr": 0.19473684210526315,
+      "position": 1.0157894736842106
+    },
+    {
+      "query": "california dog bite law",
+      "clicks": 36,
+      "impressions": 905,
+      "ctr": 0.039779005524861875,
+      "position": 4.099447513812155
+    },
+    {
+      "query": "chumahan bowen",
+      "clicks": 35,
+      "impressions": 66,
+      "ctr": 0.5303030303030303,
+      "position": 1.9545454545454546
+    },
+    {
+      "query": "wilshire",
+      "clicks": 34,
+      "impressions": 6934,
+      "ctr": 0.00490337467551197,
+      "position": 5.644361119123161
+    },
+    {
+      "query": "colin jones attorney",
+      "clicks": 33,
+      "impressions": 143,
+      "ctr": 0.23076923076923078,
+      "position": 2.5034965034965033
+    },
+    {
+      "query": "willshire law",
+      "clicks": 32,
+      "impressions": 87,
+      "ctr": 0.367816091954023,
+      "position": 1.3908045977011494
+    },
+    {
+      "query": "wilshire law firm jobs",
+      "clicks": 31,
+      "impressions": 341,
+      "ctr": 0.09090909090909091,
+      "position": 6.073313782991202
+    },
+    {
+      "query": "wilshire lawfirm",
+      "clicks": 31,
+      "impressions": 142,
+      "ctr": 0.21830985915492956,
+      "position": 1.0140845070422535
+    },
+    {
+      "query": "auto accident attorney california",
+      "clicks": 29,
+      "impressions": 2761,
+      "ctr": 0.010503440782325244,
+      "position": 6.2122419413256065
+    },
+    {
+      "query": "disability discrimination",
+      "clicks": 29,
+      "impressions": 4700,
+      "ctr": 0.006170212765957447,
+      "position": 8.686808510638297
+    },
+    {
+      "query": "reckless driving",
+      "clicks": 29,
+      "impressions": 3822,
+      "ctr": 0.007587650444793302,
+      "position": 10.46807953950811
+    },
+    {
+      "query": "sutton shapiro",
+      "clicks": 29,
+      "impressions": 57,
+      "ctr": 0.5087719298245614,
+      "position": 1.3508771929824561
+    },
+    {
+      "query": "law firms los angeles",
+      "clicks": 27,
+      "impressions": 941,
+      "ctr": 0.028692879914984058,
+      "position": 3.22422954303932
+    },
+    {
+      "query": "mary caruso",
+      "clicks": 27,
+      "impressions": 320,
+      "ctr": 0.084375,
+      "position": 2.196875
+    },
+    {
+      "query": "rene ucros",
+      "clicks": 27,
+      "impressions": 63,
+      "ctr": 0.42857142857142855,
+      "position": 1.0158730158730158
+    },
+    {
+      "query": "tyler woods attorney",
+      "clicks": 27,
+      "impressions": 42,
+      "ctr": 0.6428571428571429,
+      "position": 1.0714285714285714
+    },
+    {
+      "query": "wilshire law firm sacramento",
+      "clicks": 27,
+      "impressions": 150,
+      "ctr": 0.18,
+      "position": 2.6866666666666665
+    },
+    {
+      "query": "employment lawyer california",
+      "clicks": 26,
+      "impressions": 1432,
+      "ctr": 0.018156424581005588,
+      "position": 7.631284916201118
+    },
+    {
+      "query": "wilshire firm",
+      "clicks": 26,
+      "impressions": 61,
+      "ctr": 0.4262295081967213,
+      "position": 2.819672131147541
+    },
+    {
+      "query": "colin jones wilshire law firm",
+      "clicks": 25,
+      "impressions": 40,
+      "ctr": 0.625,
+      "position": 1.975
+    },
+    {
+      "query": "sean paisan",
+      "clicks": 25,
+      "impressions": 42,
+      "ctr": 0.5952380952380952,
+      "position": 1
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://wilshirelawfirm.com/",
+      "clicks": 6378,
+      "impressions": 439825,
+      "ctr": 0.014501222076962429,
+      "position": 22.745150912294662
+    },
+    {
+      "page": "https://wilshirelawfirm.com/our-legal-team/",
+      "clicks": 1674,
+      "impressions": 152583,
+      "ctr": 0.010971078036216355,
+      "position": 16.629008474076404
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/california-dog-bite-faq/",
+      "clicks": 1027,
+      "impressions": 107786,
+      "ctr": 0.009528139090419906,
+      "position": 7.402408476054404
+    },
+    {
+      "page": "https://wilshirelawfirm.com/locations/los-angeles-california/?utm_campaign=organic&utm_medium=gbp&utm_source=GBP_Los_Angeles",
+      "clicks": 848,
+      "impressions": 231731,
+      "ctr": 0.003659415442905783,
+      "position": 3.231294043524604
+    },
+    {
+      "page": "https://wilshirelawfirm.com/locations/los-angeles-california/?utm_campaign=gmb&utm_source=gmb",
+      "clicks": 743,
+      "impressions": 187094,
+      "ctr": 0.00397126578083744,
+      "position": 3.557447058697767
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/5-examples-disability-discrimination-workers-applicants/",
+      "clicks": 722,
+      "impressions": 78546,
+      "ctr": 0.009192065795839382,
+      "position": 8.33534489343824
+    },
+    {
+      "page": "https://wilshirelawfirm.com/contact-us/",
+      "clicks": 680,
+      "impressions": 64975,
+      "ctr": 0.010465563678337822,
+      "position": 7.840184686417853
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/6-examples-pregnancy-accommodations-at-work/",
+      "clicks": 602,
+      "impressions": 53105,
+      "ctr": 0.011336032388663968,
+      "position": 6.2410319178985025
+    },
+    {
+      "page": "https://wilshirelawfirm.com/dexcom-class-action-lawsuit/",
+      "clicks": 520,
+      "impressions": 23416,
+      "ctr": 0.022207037922787838,
+      "position": 3.8969508028698328
+    },
+    {
+      "page": "https://wilshirelawfirm.com/locations/los-angeles-california/",
+      "clicks": 504,
+      "impressions": 158102,
+      "ctr": 0.0031878154609049853,
+      "position": 24.99197353607165
+    },
+    {
+      "page": "https://wilshirelawfirm.com/los-angeles/?utm_campaign=organic&utm_medium=gbp&utm_source=GBP_Los_Angeles",
+      "clicks": 502,
+      "impressions": 182083,
+      "ctr": 0.00275698445214545,
+      "position": 3.028349708649352
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/importance-filing-police-report/",
+      "clicks": 495,
+      "impressions": 87162,
+      "ctr": 0.005679080333172713,
+      "position": 2.60252174112572
+    },
+    {
+      "page": "https://wilshirelawfirm.com/?utm_source=google&utm_medium=cpc&utm_campaign=GMB",
+      "clicks": 476,
+      "impressions": 78664,
+      "ctr": 0.006051052578053493,
+      "position": 8.81141309874911
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/can-personal-injury-settlement-affect-medi-cal-medicaid/",
+      "clicks": 393,
+      "impressions": 29223,
+      "ctr": 0.013448311261677446,
+      "position": 7.23775793039729
+    },
+    {
+      "page": "https://wilshirelawfirm.com/locations/los-angeles-california/?utm_source=gmb",
+      "clicks": 388,
+      "impressions": 96915,
+      "ctr": 0.0040035082288603415,
+      "position": 3.8731362534179437
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/overtime-pay-during-federal-holidays/",
+      "clicks": 305,
+      "impressions": 278197,
+      "ctr": 0.0010963453955290675,
+      "position": 4.33640909139926
+    },
+    {
+      "page": "https://wilshirelawfirm.com/consumer-protection-lawyer/",
+      "clicks": 277,
+      "impressions": 34122,
+      "ctr": 0.008117929781372721,
+      "position": 24.349070980599027
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/5-deadliest-freeways-los-angeles/",
+      "clicks": 262,
+      "impressions": 42275,
+      "ctr": 0.0061975162625665286,
+      "position": 5.227983441750443
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/what-to-do-if-debris-hits-your-car-on-the-freeway/",
+      "clicks": 260,
+      "impressions": 40753,
+      "ctr": 0.0063798984123868184,
+      "position": 5.756901332417246
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/toxic-work-environment-five-signs/",
+      "clicks": 253,
+      "impressions": 29988,
+      "ctr": 0.00843670801653995,
+      "position": 8.017607042817126
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/can-you-sue-a-company-for-false-advertising/",
+      "clicks": 249,
+      "impressions": 101945,
+      "ctr": 0.0024424935013978126,
+      "position": 5.289636568738045
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/negligent-repair-claim/",
+      "clicks": 248,
+      "impressions": 32535,
+      "ctr": 0.0076225603196557554,
+      "position": 5.899861687413555
+    },
+    {
+      "page": "https://wilshirelawfirm.com/locations/",
+      "clicks": 244,
+      "impressions": 36504,
+      "ctr": 0.0066841989918913,
+      "position": 4.3277449046679815
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/how-to-describe-car-accident/",
+      "clicks": 237,
+      "impressions": 60529,
+      "ctr": 0.003915478530952105,
+      "position": 4.81950800442763
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/car-accident-claims-defenses/",
+      "clicks": 228,
+      "impressions": 12417,
+      "ctr": 0.01836192316984779,
+      "position": 15.412096319561892
+    },
+    {
+      "page": "https://wilshirelawfirm.com/about-us/",
+      "clicks": 224,
+      "impressions": 43023,
+      "ctr": 0.0052065174441577764,
+      "position": 5.181158914998954
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/can-my-employer-fire-me-for-tattoos-piercings-or-hairstyle-in-california/",
+      "clicks": 221,
+      "impressions": 50059,
+      "ctr": 0.0044147905471543574,
+      "position": 3.7869114444954954
+    },
+    {
+      "page": "https://wilshirelawfirm.com/employment-lawyer/",
+      "clicks": 214,
+      "impressions": 102431,
+      "ctr": 0.0020892112739307436,
+      "position": 33.87126943991565
+    },
+    {
+      "page": "https://wilshirelawfirm.com/car-accident-lawyers/",
+      "clicks": 174,
+      "impressions": 505577,
+      "ctr": 0.0003441612256886686,
+      "position": 22.48705736218222
+    },
+    {
+      "page": "https://wilshirelawfirm.com/executive-team/",
+      "clicks": 165,
+      "impressions": 14214,
+      "ctr": 0.011608273533136345,
+      "position": 8.629871957225271
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/how-do-you-prove-a-traumatic-brain-injury-in-court/",
+      "clicks": 163,
+      "impressions": 30632,
+      "ctr": 0.005321232697832332,
+      "position": 8.273243666753721
+    },
+    {
+      "page": "https://wilshirelawfirm.com/legalteam/thiago-coelho-esq/",
+      "clicks": 162,
+      "impressions": 1311,
+      "ctr": 0.12356979405034325,
+      "position": 6.478260869565218
+    },
+    {
+      "page": "https://wilshirelawfirm.com/locations/orange-california/?utm_source=gmb",
+      "clicks": 156,
+      "impressions": 56392,
+      "ctr": 0.0027663498368562917,
+      "position": 6.171620087955739
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/what-to-do-when-you-get-fired-unfairly/",
+      "clicks": 151,
+      "impressions": 41303,
+      "ctr": 0.0036559087717599205,
+      "position": 6.725056291310558
+    },
+    {
+      "page": "https://wilshirelawfirm.com/california-employment-lawyer/",
+      "clicks": 151,
+      "impressions": 62466,
+      "ctr": 0.0024173150193705375,
+      "position": 34.72650721992764
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/what-is-considered-reckless-driving/",
+      "clicks": 150,
+      "impressions": 35122,
+      "ctr": 0.0042708274016286085,
+      "position": 6.085046409657765
+    },
+    {
+      "page": "https://wilshirelawfirm.com/locations/oakland-california?utm_campaign=organic&utm_medium=gbp&utm_source=GBP_Oakland",
+      "clicks": 150,
+      "impressions": 22072,
+      "ctr": 0.006795940558173251,
+      "position": 4.819862268938021
+    },
+    {
+      "page": "https://wilshirelawfirm.com/california-consumer-protection-lawyer/",
+      "clicks": 146,
+      "impressions": 17660,
+      "ctr": 0.00826727066817667,
+      "position": 26.0257644394111
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/injury-compensation/",
+      "clicks": 145,
+      "impressions": 106508,
+      "ctr": 0.0013614000826229016,
+      "position": 6.051667480377061
+    },
+    {
+      "page": "https://wilshirelawfirm.com/settlements/",
+      "clicks": 132,
+      "impressions": 10104,
+      "ctr": 0.013064133016627079,
+      "position": 6.4126088677751385
+    },
+    {
+      "page": "https://wilshirelawfirm.com/los-angeles-film-school-lawsuit/",
+      "clicks": 126,
+      "impressions": 11017,
+      "ctr": 0.011436870291367886,
+      "position": 4.572388127439412
+    },
+    {
+      "page": "https://wilshirelawfirm.com/class-action-lawyer/",
+      "clicks": 124,
+      "impressions": 30046,
+      "ctr": 0.004127005258603475,
+      "position": 21.282500166411502
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/uber-class-action-lawsuit-update/",
+      "clicks": 120,
+      "impressions": 8884,
+      "ctr": 0.0135074290859973,
+      "position": 12.744371904547501
+    },
+    {
+      "page": "https://wilshirelawfirm.com/data-privacy-lawyer/",
+      "clicks": 113,
+      "impressions": 15032,
+      "ctr": 0.00751729643427355,
+      "position": 32.960883448642896
+    },
+    {
+      "page": "https://wilshirelawfirm.com/contact/?utm_source=google&utm_medium=organic&utm_campaign=mapsappointments",
+      "clicks": 112,
+      "impressions": 18070,
+      "ctr": 0.006198118428334256,
+      "position": 11.649086884338683
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/what-happens-if-someone-sues-you-for-more-than-your-insurance-covers/",
+      "clicks": 111,
+      "impressions": 12024,
+      "ctr": 0.009231536926147704,
+      "position": 4.889637391882901
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/12-most-important-bike-laws-in-california/",
+      "clicks": 97,
+      "impressions": 43549,
+      "ctr": 0.00222737605915176,
+      "position": 9.771705435256838
+    },
+    {
+      "page": "https://wilshirelawfirm.com/legal-team/colin-m-jones-esq/",
+      "clicks": 95,
+      "impressions": 2267,
+      "ctr": 0.04190560211733568,
+      "position": 10.745037494486105
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/express-lanes-can-motorcyclist-use-free/",
+      "clicks": 92,
+      "impressions": 8427,
+      "ctr": 0.010917289664174677,
+      "position": 7.864720541117835
+    },
+    {
+      "page": "https://wilshirelawfirm.com/es/abogados-de-demandas-colectivas/demanda-colectiva-uber/",
+      "clicks": 87,
+      "impressions": 3987,
+      "ctr": 0.0218209179834462,
+      "position": 7.330323551542513
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:07:59.847Z"
+}

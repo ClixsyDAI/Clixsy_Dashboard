@@ -1,0 +1,1350 @@
+{
+  "property": "sc-domain:goarco.com",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 2698,
+    "impressions": 1208795,
+    "ctr": 0.002231974817897162,
+    "position": 25.886558914347365
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 33,
+      "impressions": 12914,
+      "ctr": 0.002555366269165247,
+      "position": 24.122889886944403
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 30,
+      "impressions": 8928,
+      "ctr": 0.003360215053763441,
+      "position": 25.586021505376344
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 21,
+      "impressions": 8931,
+      "ctr": 0.0023513604299630502,
+      "position": 31.296607322808196
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 25,
+      "impressions": 8248,
+      "ctr": 0.003031037827352085,
+      "position": 35.47999515033948
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 15,
+      "impressions": 11707,
+      "ctr": 0.0012812847014606647,
+      "position": 32.21790381822841
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 22,
+      "impressions": 22555,
+      "ctr": 0.0009753934825980935,
+      "position": 28.936732431833295
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 9,
+      "impressions": 15167,
+      "ctr": 0.0005933935517900706,
+      "position": 27.03969143535307
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 25,
+      "impressions": 8863,
+      "ctr": 0.0028207153334085526,
+      "position": 26.192936928805146
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 19,
+      "impressions": 7446,
+      "ctr": 0.00255170561375235,
+      "position": 28.296400752081656
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 10,
+      "impressions": 6942,
+      "ctr": 0.0014405070584845865,
+      "position": 32.33376548545088
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 13,
+      "impressions": 8102,
+      "ctr": 0.0016045420883732413,
+      "position": 30.1632930140706
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 18,
+      "impressions": 8372,
+      "ctr": 0.002150023889154324,
+      "position": 29.49653607262303
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 14,
+      "impressions": 7927,
+      "ctr": 0.0017661158067364703,
+      "position": 23.319036205374037
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 12,
+      "impressions": 8730,
+      "ctr": 0.0013745704467353953,
+      "position": 24.504123711340206
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 31,
+      "impressions": 10268,
+      "ctr": 0.0030190884300740164,
+      "position": 24.846416049863652
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 23,
+      "impressions": 9355,
+      "ctr": 0.0024585783003741313,
+      "position": 24.111704970603956
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 19,
+      "impressions": 8473,
+      "ctr": 0.002242417089578662,
+      "position": 26.52484362091349
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 17,
+      "impressions": 11977,
+      "ctr": 0.0014193871587208817,
+      "position": 31.26125073056692
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 22,
+      "impressions": 8718,
+      "ctr": 0.0025235145675613674,
+      "position": 23.880362468456067
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 26,
+      "impressions": 8909,
+      "ctr": 0.002918397126501291,
+      "position": 23.924009428667638
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 25,
+      "impressions": 9529,
+      "ctr": 0.002623570154265925,
+      "position": 21.786441389442754
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 51,
+      "impressions": 11967,
+      "ctr": 0.004261719729255453,
+      "position": 24.170970167961894
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 42,
+      "impressions": 9043,
+      "ctr": 0.004644476390578348,
+      "position": 24.221165542408492
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 32,
+      "impressions": 9354,
+      "ctr": 0.003420996365191362,
+      "position": 27.65533461620697
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 20,
+      "impressions": 9869,
+      "ctr": 0.002026547775863816,
+      "position": 26.943357989664605
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 22,
+      "impressions": 9559,
+      "ctr": 0.0023014959723820483,
+      "position": 27.992363217909823
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 14,
+      "impressions": 8988,
+      "ctr": 0.001557632398753894,
+      "position": 28.250111259457054
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 14,
+      "impressions": 12024,
+      "ctr": 0.001164337990685296,
+      "position": 29.8999500998004
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 31,
+      "impressions": 11787,
+      "ctr": 0.0026300161194536356,
+      "position": 26.295155679986426
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 20,
+      "impressions": 16019,
+      "ctr": 0.0012485173856045945,
+      "position": 18.517198326986705
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 39,
+      "impressions": 12066,
+      "ctr": 0.0032322227747389356,
+      "position": 24.63533896900381
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 20,
+      "impressions": 15042,
+      "ctr": 0.0013296104241457252,
+      "position": 44.72084829145061
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 24,
+      "impressions": 11363,
+      "ctr": 0.002112118278623603,
+      "position": 25.16456921587609
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 20,
+      "impressions": 10029,
+      "ctr": 0.0019942167713630473,
+      "position": 26.246884036294745
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 19,
+      "impressions": 12327,
+      "ctr": 0.001541332035369514,
+      "position": 23.98247748844001
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 42,
+      "impressions": 13225,
+      "ctr": 0.003175803402646503,
+      "position": 24.806654064272212
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 46,
+      "impressions": 10763,
+      "ctr": 0.004273901328625848,
+      "position": 23.829229768651864
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 38,
+      "impressions": 12255,
+      "ctr": 0.0031007751937984496,
+      "position": 24.600571195430437
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 27,
+      "impressions": 12807,
+      "ctr": 0.0021082220660576245,
+      "position": 26.851018973998595
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 36,
+      "impressions": 12978,
+      "ctr": 0.0027739251040221915,
+      "position": 18.9802743103714
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 43,
+      "impressions": 15873,
+      "ctr": 0.002709002709002709,
+      "position": 19.49247149247149
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 45,
+      "impressions": 17298,
+      "ctr": 0.0026014568158168575,
+      "position": 19.06694415539369
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 39,
+      "impressions": 17151,
+      "ctr": 0.002273919888053175,
+      "position": 23.38143548481138
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 49,
+      "impressions": 14322,
+      "ctr": 0.003421309872922776,
+      "position": 21.480379835218546
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 48,
+      "impressions": 13206,
+      "ctr": 0.003634711494775102,
+      "position": 25.31387248220506
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 48,
+      "impressions": 18920,
+      "ctr": 0.002536997885835095,
+      "position": 36.053646934460886
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 47,
+      "impressions": 12386,
+      "ctr": 0.0037946068141450026,
+      "position": 21.877442273534637
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 26,
+      "impressions": 13462,
+      "ctr": 0.0019313623532907444,
+      "position": 25.494503045609864
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 31,
+      "impressions": 17666,
+      "ctr": 0.0017547831993660137,
+      "position": 19.53792595947017
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 50,
+      "impressions": 15096,
+      "ctr": 0.0033121356650768416,
+      "position": 21.48065712771595
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 47,
+      "impressions": 12643,
+      "ctr": 0.0037174721189591076,
+      "position": 23.168551767776634
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 29,
+      "impressions": 13870,
+      "ctr": 0.002090843547224225,
+      "position": 23.910886806056237
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 41,
+      "impressions": 16220,
+      "ctr": 0.002527743526510481,
+      "position": 28.42324290998767
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 34,
+      "impressions": 10411,
+      "ctr": 0.003265776582460859,
+      "position": 24.30535011046009
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 35,
+      "impressions": 11099,
+      "ctr": 0.003153437246598793,
+      "position": 24.673934588701684
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 27,
+      "impressions": 14376,
+      "ctr": 0.0018781302170283807,
+      "position": 21.561769616026712
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 33,
+      "impressions": 14832,
+      "ctr": 0.0022249190938511327,
+      "position": 24.614212513484357
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 26,
+      "impressions": 12586,
+      "ctr": 0.0020657873828062927,
+      "position": 24.40076275226442
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 25,
+      "impressions": 24415,
+      "ctr": 0.0010239606799098914,
+      "position": 12.893671922998157
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 31,
+      "impressions": 15739,
+      "ctr": 0.0019696295825656013,
+      "position": 33.53974204206112
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 27,
+      "impressions": 33307,
+      "ctr": 0.0008106404059206773,
+      "position": 42.04881856666767
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 39,
+      "impressions": 11109,
+      "ctr": 0.0035106670267350797,
+      "position": 24.591772436762984
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 23,
+      "impressions": 15080,
+      "ctr": 0.0015251989389920425,
+      "position": 23.271551724137932
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 38,
+      "impressions": 13802,
+      "ctr": 0.0027532241704100856,
+      "position": 23.22373569047964
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 38,
+      "impressions": 13150,
+      "ctr": 0.0028897338403041824,
+      "position": 22.25422053231939
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 33,
+      "impressions": 14542,
+      "ctr": 0.0022692889561270802,
+      "position": 20.79301334066841
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 29,
+      "impressions": 16383,
+      "ctr": 0.0017701275712628944,
+      "position": 26.267838613196606
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 41,
+      "impressions": 11557,
+      "ctr": 0.0035476334688933115,
+      "position": 20.673012027342736
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 23,
+      "impressions": 11023,
+      "ctr": 0.0020865463122561917,
+      "position": 22.952644470652274
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 24,
+      "impressions": 14834,
+      "ctr": 0.0016179048132668194,
+      "position": 21.649049480922205
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 39,
+      "impressions": 15713,
+      "ctr": 0.002482021256284605,
+      "position": 22.36810284477821
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 31,
+      "impressions": 14114,
+      "ctr": 0.0021964007368570214,
+      "position": 22.21737282131217
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 49,
+      "impressions": 13825,
+      "ctr": 0.0035443037974683543,
+      "position": 24.797396021699818
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 46,
+      "impressions": 15091,
+      "ctr": 0.0030481744085879,
+      "position": 30.575376051951494
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 38,
+      "impressions": 16331,
+      "ctr": 0.0023268630212479333,
+      "position": 25.13073296185169
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 25,
+      "impressions": 13011,
+      "ctr": 0.0019214510798555068,
+      "position": 28.33894397048651
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 29,
+      "impressions": 18731,
+      "ctr": 0.001548235545352624,
+      "position": 25.363301478831882
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 40,
+      "impressions": 16498,
+      "ctr": 0.002424536307431204,
+      "position": 25.054248999878773
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 29,
+      "impressions": 17243,
+      "ctr": 0.001681841906860755,
+      "position": 21.24810067853622
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 39,
+      "impressions": 15086,
+      "ctr": 0.002585178311016837,
+      "position": 26.692628927482435
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 41,
+      "impressions": 17016,
+      "ctr": 0.0024094969440526565,
+      "position": 29.643747061589092
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 32,
+      "impressions": 14099,
+      "ctr": 0.002269664515213845,
+      "position": 27.50663167600539
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 14,
+      "impressions": 13643,
+      "ctr": 0.001026167265264238,
+      "position": 29.53214102470131
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 12,
+      "impressions": 14267,
+      "ctr": 0.0008411018434148734,
+      "position": 26.81586878811243
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 44,
+      "impressions": 15682,
+      "ctr": 0.0028057645708455554,
+      "position": 28.369659482208903
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 36,
+      "impressions": 19912,
+      "ctr": 0.0018079550020088388,
+      "position": 19.8368320610687
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 19,
+      "impressions": 21823,
+      "ctr": 0.0008706410667644229,
+      "position": 23.680245612427257
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 37,
+      "impressions": 18776,
+      "ctr": 0.0019706007669365146,
+      "position": 38.29175543246698
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 19,
+      "impressions": 15079,
+      "ctr": 0.0012600305060017243,
+      "position": 28.72398700179057
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 24,
+      "impressions": 12971,
+      "ctr": 0.0018502813969624547,
+      "position": 30.12173309690849
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "arco comfort air",
+      "clicks": 217,
+      "impressions": 1306,
+      "ctr": 0.166156202143951,
+      "position": 1.2274119448698315
+    },
+    {
+      "query": "arco home services",
+      "clicks": 116,
+      "impressions": 607,
+      "ctr": 0.19110378912685339,
+      "position": 1.9802306425041185
+    },
+    {
+      "query": "arco plumbing",
+      "clicks": 71,
+      "impressions": 388,
+      "ctr": 0.18298969072164947,
+      "position": 6.185567010309279
+    },
+    {
+      "query": "arco electric",
+      "clicks": 51,
+      "impressions": 356,
+      "ctr": 0.14325842696629212,
+      "position": 5.893258426966292
+    },
+    {
+      "query": "arco heating and cooling",
+      "clicks": 33,
+      "impressions": 416,
+      "ctr": 0.07932692307692307,
+      "position": 5.012019230769231
+    },
+    {
+      "query": "arco plumbing and heating",
+      "clicks": 25,
+      "impressions": 87,
+      "ctr": 0.28735632183908044,
+      "position": 3.1264367816091956
+    },
+    {
+      "query": "arco hvac",
+      "clicks": 24,
+      "impressions": 212,
+      "ctr": 0.11320754716981132,
+      "position": 8.35377358490566
+    },
+    {
+      "query": "arco home services ohio",
+      "clicks": 21,
+      "impressions": 74,
+      "ctr": 0.28378378378378377,
+      "position": 1.1216216216216217
+    },
+    {
+      "query": "arco comfort air llc",
+      "clicks": 18,
+      "impressions": 148,
+      "ctr": 0.12162162162162163,
+      "position": 2.945945945945946
+    },
+    {
+      "query": "arco heating",
+      "clicks": 18,
+      "impressions": 76,
+      "ctr": 0.23684210526315788,
+      "position": 5.2631578947368425
+    },
+    {
+      "query": "arco comfort air, llc",
+      "clicks": 17,
+      "impressions": 439,
+      "ctr": 0.0387243735763098,
+      "position": 1.3234624145785876
+    },
+    {
+      "query": "invisible excavations",
+      "clicks": 16,
+      "impressions": 169,
+      "ctr": 0.09467455621301775,
+      "position": 1.301775147928994
+    },
+    {
+      "query": "arco electric cleveland ohio",
+      "clicks": 10,
+      "impressions": 77,
+      "ctr": 0.12987012987012986,
+      "position": 1.0909090909090908
+    },
+    {
+      "query": "arco ohio",
+      "clicks": 10,
+      "impressions": 55,
+      "ctr": 0.18181818181818182,
+      "position": 1.8181818181818183
+    },
+    {
+      "query": "how long to boil water for humidity",
+      "clicks": 9,
+      "impressions": 469,
+      "ctr": 0.019189765458422176,
+      "position": 4.744136460554371
+    },
+    {
+      "query": "arco cleveland",
+      "clicks": 8,
+      "impressions": 78,
+      "ctr": 0.10256410256410256,
+      "position": 1.6025641025641026
+    },
+    {
+      "query": "does boiling water help with dry air",
+      "clicks": 7,
+      "impressions": 630,
+      "ctr": 0.011111111111111112,
+      "position": 1.1238095238095238
+    },
+    {
+      "query": "how to add moisture to dry air",
+      "clicks": 7,
+      "impressions": 3583,
+      "ctr": 0.0019536701088473346,
+      "position": 1.5043259838124476
+    },
+    {
+      "query": "arco air",
+      "clicks": 6,
+      "impressions": 595,
+      "ctr": 0.010084033613445379,
+      "position": 7.532773109243697
+    },
+    {
+      "query": "how to humidify air",
+      "clicks": 6,
+      "impressions": 206,
+      "ctr": 0.02912621359223301,
+      "position": 3.737864077669903
+    },
+    {
+      "query": "clay sewer pipe",
+      "clicks": 5,
+      "impressions": 924,
+      "ctr": 0.005411255411255411,
+      "position": 4.917748917748918
+    },
+    {
+      "query": "arco comfort",
+      "clicks": 4,
+      "impressions": 23,
+      "ctr": 0.17391304347826086,
+      "position": 1.0869565217391304
+    },
+    {
+      "query": "bowl of water for humidity",
+      "clicks": 4,
+      "impressions": 225,
+      "ctr": 0.017777777777777778,
+      "position": 2.24
+    },
+    {
+      "query": "clay pipe sewer",
+      "clicks": 4,
+      "impressions": 511,
+      "ctr": 0.007827788649706457,
+      "position": 5.176125244618396
+    },
+    {
+      "query": "clay pipes plumbing",
+      "clicks": 4,
+      "impressions": 308,
+      "ctr": 0.012987012987012988,
+      "position": 8.162337662337663
+    },
+    {
+      "query": "does boiling a pot of water increase humidity",
+      "clicks": 4,
+      "impressions": 303,
+      "ctr": 0.013201320132013201,
+      "position": 1.4653465346534653
+    },
+    {
+      "query": "how to make humidifier at home",
+      "clicks": 4,
+      "impressions": 308,
+      "ctr": 0.012987012987012988,
+      "position": 1.2922077922077921
+    },
+    {
+      "query": "stuffy room",
+      "clicks": 4,
+      "impressions": 993,
+      "ctr": 0.004028197381671702,
+      "position": 4.938569989929507
+    },
+    {
+      "query": "boil water to increase humidity",
+      "clicks": 3,
+      "impressions": 131,
+      "ctr": 0.022900763358778626,
+      "position": 2.213740458015267
+    },
+    {
+      "query": "clay sewer pipes",
+      "clicks": 3,
+      "impressions": 237,
+      "ctr": 0.012658227848101266,
+      "position": 12.037974683544304
+    },
+    {
+      "query": "does a bowl of water help with dry air",
+      "clicks": 3,
+      "impressions": 168,
+      "ctr": 0.017857142857142856,
+      "position": 5.619047619047619
+    },
+    {
+      "query": "does a pot of water help with humidity",
+      "clicks": 3,
+      "impressions": 108,
+      "ctr": 0.027777777777777776,
+      "position": 1.925925925925926
+    },
+    {
+      "query": "furnace repair",
+      "clicks": 3,
+      "impressions": 4571,
+      "ctr": 0.0006563115292058631,
+      "position": 17.644060380660687
+    },
+    {
+      "query": "how to humidify a room",
+      "clicks": 3,
+      "impressions": 1830,
+      "ctr": 0.001639344262295082,
+      "position": 7.9005464480874315
+    },
+    {
+      "query": "hvac companies near me",
+      "clicks": 3,
+      "impressions": 75,
+      "ctr": 0.04,
+      "position": 10.306666666666667
+    },
+    {
+      "query": "hvac near me",
+      "clicks": 3,
+      "impressions": 264,
+      "ctr": 0.011363636363636364,
+      "position": 7.511363636363637
+    },
+    {
+      "query": "pot on stove humidifier",
+      "clicks": 3,
+      "impressions": 45,
+      "ctr": 0.06666666666666667,
+      "position": 2.4444444444444446
+    },
+    {
+      "query": "sewer line belly repair cost",
+      "clicks": 3,
+      "impressions": 241,
+      "ctr": 0.012448132780082987,
+      "position": 4.24896265560166
+    },
+    {
+      "query": "sewer line replacement cost",
+      "clicks": 3,
+      "impressions": 2052,
+      "ctr": 0.0014619883040935672,
+      "position": 10.50243664717349
+    },
+    {
+      "query": "skunk smell in house",
+      "clicks": 3,
+      "impressions": 72,
+      "ctr": 0.041666666666666664,
+      "position": 2.888888888888889
+    },
+    {
+      "query": "add moisture to the air",
+      "clicks": 2,
+      "impressions": 557,
+      "ctr": 0.003590664272890485,
+      "position": 2.087971274685817
+    },
+    {
+      "query": "adding moisture to air",
+      "clicks": 2,
+      "impressions": 303,
+      "ctr": 0.006600660066006601,
+      "position": 3.33993399339934
+    },
+    {
+      "query": "arco careers",
+      "clicks": 2,
+      "impressions": 136,
+      "ctr": 0.014705882352941176,
+      "position": 9.617647058823529
+    },
+    {
+      "query": "arco comfort air reviews",
+      "clicks": 2,
+      "impressions": 531,
+      "ctr": 0.003766478342749529,
+      "position": 4.199623352165725
+    },
+    {
+      "query": "arco jobs",
+      "clicks": 2,
+      "impressions": 45,
+      "ctr": 0.044444444444444446,
+      "position": 14.222222222222221
+    },
+    {
+      "query": "arco services",
+      "clicks": 2,
+      "impressions": 32,
+      "ctr": 0.0625,
+      "position": 5.40625
+    },
+    {
+      "query": "are clay pipes good",
+      "clicks": 2,
+      "impressions": 39,
+      "ctr": 0.05128205128205128,
+      "position": 2.2051282051282053
+    },
+    {
+      "query": "argo plumbing",
+      "clicks": 2,
+      "impressions": 25,
+      "ctr": 0.08,
+      "position": 16.16
+    },
+    {
+      "query": "arko plumbing",
+      "clicks": 2,
+      "impressions": 7,
+      "ctr": 0.2857142857142857,
+      "position": 7
+    },
+    {
+      "query": "boiling water humidifier",
+      "clicks": 2,
+      "impressions": 292,
+      "ctr": 0.00684931506849315,
+      "position": 5.133561643835616
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://www.goarco.com/blog/suffering-from-dry-air-heres-how-to-humidify-your-home-in-a-pinch/",
+      "clicks": 792,
+      "impressions": 140752,
+      "ctr": 0.005626918267591224,
+      "position": 4.672573036262362
+    },
+    {
+      "page": "https://www.goarco.com/",
+      "clicks": 547,
+      "impressions": 45298,
+      "ctr": 0.012075588326195418,
+      "position": 21.87694820963398
+    },
+    {
+      "page": "https://www.goarco.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*226*arco-comfort-air-bedford-heights",
+      "clicks": 337,
+      "impressions": 28349,
+      "ctr": 0.011887544534198737,
+      "position": 8.613707714557833
+    },
+    {
+      "page": "https://www.goarco.com/blog/my-home-still-has-clay-sewer-pipes-should-i-have-them-replaced/",
+      "clicks": 168,
+      "impressions": 23514,
+      "ctr": 0.007144679765246236,
+      "position": 7.515054860933912
+    },
+    {
+      "page": "https://www.goarco.com/blog/broken-sewer-lines-under-slab-what-to-do/",
+      "clicks": 94,
+      "impressions": 15112,
+      "ctr": 0.006220222339862361,
+      "position": 10.818554790894654
+    },
+    {
+      "page": "https://www.goarco.com/blog/how-much-does-sewer-line-repair-cost/",
+      "clicks": 70,
+      "impressions": 56972,
+      "ctr": 0.0012286737344660535,
+      "position": 13.777241451941304
+    },
+    {
+      "page": "https://www.goarco.com/blog/three-tips-to-eliminate-stuffy-rooms/",
+      "clicks": 66,
+      "impressions": 25375,
+      "ctr": 0.002600985221674877,
+      "position": 4.957674876847291
+    },
+    {
+      "page": "https://www.goarco.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*227*arco-comfort-air-akron",
+      "clicks": 37,
+      "impressions": 14581,
+      "ctr": 0.0025375488649612508,
+      "position": 7.210342226184761
+    },
+    {
+      "page": "https://www.goarco.com/arco-and-invisible-excavations-join-forces/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*286*invisible-excavations-parma",
+      "clicks": 37,
+      "impressions": 3165,
+      "ctr": 0.011690363349131122,
+      "position": 6.290995260663507
+    },
+    {
+      "page": "https://www.goarco.com/blog/why-does-my-air-conditioner-smell/",
+      "clicks": 36,
+      "impressions": 13859,
+      "ctr": 0.002597590013709503,
+      "position": 3.479111046973086
+    },
+    {
+      "page": "https://www.goarco.com/contact-us/careers/",
+      "clicks": 34,
+      "impressions": 2179,
+      "ctr": 0.015603487838458009,
+      "position": 9.801743919229004
+    },
+    {
+      "page": "https://www.goarco.com/contact-us/",
+      "clicks": 30,
+      "impressions": 7420,
+      "ctr": 0.004043126684636119,
+      "position": 10.908760107816711
+    },
+    {
+      "page": "https://www.goarco.com/plumbing-services/",
+      "clicks": 26,
+      "impressions": 8669,
+      "ctr": 0.002999192525089399,
+      "position": 28.116968508478486
+    },
+    {
+      "page": "https://www.goarco.com/arco-and-invisible-excavations-join-forces/",
+      "clicks": 18,
+      "impressions": 6469,
+      "ctr": 0.002782501159375483,
+      "position": 46.26078219199258
+    },
+    {
+      "page": "https://www.goarco.com/electrical-services/",
+      "clicks": 17,
+      "impressions": 6386,
+      "ctr": 0.002662073285311619,
+      "position": 33.067961165048544
+    },
+    {
+      "page": "https://www.goarco.com/blog/repairing-replacing-clay-sewer-pipe/",
+      "clicks": 14,
+      "impressions": 9006,
+      "ctr": 0.001554519209415945,
+      "position": 16.11503442149678
+    },
+    {
+      "page": "https://www.goarco.com/blog/up-to-1250-in-energy-rebates-available-through-dominion-energy/",
+      "clicks": 13,
+      "impressions": 3045,
+      "ctr": 0.004269293924466338,
+      "position": 8.442036124794745
+    },
+    {
+      "page": "https://www.goarco.com/blog/what-you-need-to-know-about-high-efficiency-furnace-venting/",
+      "clicks": 13,
+      "impressions": 7176,
+      "ctr": 0.0018115942028985507,
+      "position": 15.150501672240802
+    },
+    {
+      "page": "https://www.goarco.com/about-us/",
+      "clicks": 11,
+      "impressions": 6374,
+      "ctr": 0.0017257609036711642,
+      "position": 8.354565422026985
+    },
+    {
+      "page": "https://www.goarco.com/all-offers/heating-specials/",
+      "clicks": 11,
+      "impressions": 4483,
+      "ctr": 0.002453714030782958,
+      "position": 26.66830247602052
+    },
+    {
+      "page": "https://www.goarco.com/plumbing-services/frozen-burst-pipe-repair/",
+      "clicks": 11,
+      "impressions": 6811,
+      "ctr": 0.0016150345030098371,
+      "position": 27.132873293202174
+    },
+    {
+      "page": "https://www.goarco.com/blog/how-to-detect-and-remove-tree-roots-from-your-sewer-lines/",
+      "clicks": 10,
+      "impressions": 6775,
+      "ctr": 0.0014760147601476014,
+      "position": 40.876457564575645
+    },
+    {
+      "page": "https://www.goarco.com/about-us/purple-heart-homes/",
+      "clicks": 9,
+      "impressions": 46618,
+      "ctr": 0.00019305847526706422,
+      "position": 3.59689390364237
+    },
+    {
+      "page": "https://www.goarco.com/blog/cured-in-place-cipp-vs-pull-in-place-pip-pipe-lining/",
+      "clicks": 9,
+      "impressions": 15165,
+      "ctr": 0.0005934718100890207,
+      "position": 48.13643257500824
+    },
+    {
+      "page": "https://www.goarco.com/blog/new-furnace-efficiency-laws-in-northeast-ohio/",
+      "clicks": 9,
+      "impressions": 557,
+      "ctr": 0.01615798922800718,
+      "position": 11.333931777378815
+    },
+    {
+      "page": "https://www.goarco.com/electrical-services/smoke-co-detector-installation/",
+      "clicks": 9,
+      "impressions": 2839,
+      "ctr": 0.0031701303275801338,
+      "position": 30.13666784078901
+    },
+    {
+      "page": "https://www.goarco.com/hvac-financing/",
+      "clicks": 9,
+      "impressions": 15917,
+      "ctr": 0.0005654331846453478,
+      "position": 35.73745052459634
+    },
+    {
+      "page": "https://www.goarco.com/about-us/maintenance-plan/",
+      "clicks": 8,
+      "impressions": 1379,
+      "ctr": 0.005801305293691081,
+      "position": 16.803480783176212
+    },
+    {
+      "page": "https://www.goarco.com/blog/why-does-your-furnace-smell-5-reasons-for-furnace-odors/",
+      "clicks": 8,
+      "impressions": 1490,
+      "ctr": 0.005369127516778523,
+      "position": 7.495302013422819
+    },
+    {
+      "page": "https://www.goarco.com/heating-services/air-duct-sealing/",
+      "clicks": 8,
+      "impressions": 1598,
+      "ctr": 0.0050062578222778474,
+      "position": 41.09386733416771
+    },
+    {
+      "page": "https://www.goarco.com/about-us/local-service-reviews/",
+      "clicks": 7,
+      "impressions": 1296,
+      "ctr": 0.005401234567901234,
+      "position": 7.610339506172839
+    },
+    {
+      "page": "https://www.goarco.com/akron/",
+      "clicks": 7,
+      "impressions": 3834,
+      "ctr": 0.0018257694314032342,
+      "position": 37.087376108502866
+    },
+    {
+      "page": "https://www.goarco.com/blog/sewer-line-belly-vs-pipe-channeling/",
+      "clicks": 7,
+      "impressions": 2308,
+      "ctr": 0.0030329289428076256,
+      "position": 14.553292894280762
+    },
+    {
+      "page": "https://www.goarco.com/strongsville/",
+      "clicks": 7,
+      "impressions": 8242,
+      "ctr": 0.0008493084202863383,
+      "position": 15.428658092695947
+    },
+    {
+      "page": "https://www.goarco.com/blog/air-filters-the-truth-behind-their-effectiveness/",
+      "clicks": 6,
+      "impressions": 873,
+      "ctr": 0.006872852233676976,
+      "position": 10.494845360824742
+    },
+    {
+      "page": "https://www.goarco.com/blog/how-your-furnace-can-impact-your-energy-bill/",
+      "clicks": 6,
+      "impressions": 2760,
+      "ctr": 0.002173913043478261,
+      "position": 5.316666666666666
+    },
+    {
+      "page": "https://www.goarco.com/blog/seven-reasons-for-faucet-repair/",
+      "clicks": 5,
+      "impressions": 766,
+      "ctr": 0.006527415143603133,
+      "position": 6.339425587467363
+    },
+    {
+      "page": "https://www.goarco.com/contact-us/24-7-emergency-services/",
+      "clicks": 5,
+      "impressions": 13706,
+      "ctr": 0.00036480373559025247,
+      "position": 28.332409163869837
+    },
+    {
+      "page": "https://www.goarco.com/electrical-services/electric-car-charging-installation/",
+      "clicks": 5,
+      "impressions": 11932,
+      "ctr": 0.00041904123365739187,
+      "position": 22.64046262152196
+    },
+    {
+      "page": "https://www.goarco.com/elyria/",
+      "clicks": 5,
+      "impressions": 2542,
+      "ctr": 0.001966955153422502,
+      "position": 15.530684500393392
+    },
+    {
+      "page": "https://www.goarco.com/heating-services/furnace-repair/",
+      "clicks": 5,
+      "impressions": 29630,
+      "ctr": 0.00016874789065136686,
+      "position": 31.84924063449207
+    },
+    {
+      "page": "https://www.goarco.com/home-generator-installation/",
+      "clicks": 5,
+      "impressions": 84798,
+      "ctr": 0.00005896365480317932,
+      "position": 29.468383688294534
+    },
+    {
+      "page": "https://www.goarco.com/all-offers/plumbing-specials/",
+      "clicks": 4,
+      "impressions": 487,
+      "ctr": 0.008213552361396304,
+      "position": 27.373716632443532
+    },
+    {
+      "page": "https://www.goarco.com/blog/the-benefits-of-using-a-humidifier/",
+      "clicks": 4,
+      "impressions": 13536,
+      "ctr": 0.0002955082742316785,
+      "position": 13.418144208037825
+    },
+    {
+      "page": "https://www.goarco.com/blog/when-should-i-replace-my-air-conditioner-with-r22-freon-refrigerant/",
+      "clicks": 4,
+      "impressions": 1080,
+      "ctr": 0.003703703703703704,
+      "position": 19.84259259259259
+    },
+    {
+      "page": "https://www.goarco.com/brook-park/",
+      "clicks": 4,
+      "impressions": 971,
+      "ctr": 0.004119464469618949,
+      "position": 27.31513903192585
+    },
+    {
+      "page": "https://www.goarco.com/cooling-services/air-conditioning-repair/",
+      "clicks": 4,
+      "impressions": 41797,
+      "ctr": 0.00009570064837189272,
+      "position": 54.61777161040266
+    },
+    {
+      "page": "https://www.goarco.com/electrical-services/electrical-switches-and-outlets-service/",
+      "clicks": 4,
+      "impressions": 4938,
+      "ctr": 0.0008100445524503848,
+      "position": 33.863710004050226
+    },
+    {
+      "page": "https://www.goarco.com/heating-services/",
+      "clicks": 4,
+      "impressions": 3886,
+      "ctr": 0.001029336078229542,
+      "position": 16.887287699433863
+    },
+    {
+      "page": "https://www.goarco.com/heating-services/air-duct-installation/",
+      "clicks": 4,
+      "impressions": 2328,
+      "ctr": 0.001718213058419244,
+      "position": 42.881443298969074
+    }
+  ],
+  "fetchedAt": "2026-03-18T13:07:57.820Z"
+}
