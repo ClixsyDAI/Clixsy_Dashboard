@@ -7,6 +7,8 @@ import ClientDashboardCharts from "../../components/ClientDashboardCharts";
 import GoogleSearchCharts from "../../components/GoogleSearchCharts";
 import DashboardTabs from "../../components/DashboardTabs";
 import ProjectLogTable from "../../components/ProjectLogTable";
+import BrightLocalPanel from "../../components/BrightLocalPanel";
+import { getBrightLocalSummary } from "../../lib/brightlocal-data";
 
 interface PageProps {
   params: Promise<{ id: string }>;
@@ -24,11 +26,13 @@ export default async function ClientDashboard({ params }: PageProps) {
   const gscData = loadGscData(id);
   const ga4Data = loadGa4Data(id);
   const todos = loadClientTodos(id);
+  const blData = getBrightLocalSummary(id);
 
   const tabs = [
     { id: "overview", label: "Overview" },
     { id: "project-log", label: "Project Log" },
     ...(gscData || ga4Data ? [{ id: "search", label: "Search Performance" }] : []),
+    ...(blData ? [{ id: "local-seo", label: "Local SEO" }] : []),
   ];
 
   return (
@@ -327,6 +331,13 @@ export default async function ClientDashboard({ params }: PageProps) {
                   ga4Channels={ga4Data?.channelData || null}
                   ga4Totals={ga4Data?.totals || null}
                 />
+              </div>
+            )}
+
+            {/* ── TAB 4: LOCAL SEO / BRIGHTLOCAL (conditional) ── */}
+            {blData && (
+              <div>
+                <BrightLocalPanel {...blData} />
               </div>
             )}
           </DashboardTabs>
