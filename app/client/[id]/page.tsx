@@ -30,7 +30,7 @@ export default async function ClientDashboard({ params }: PageProps) {
   const blData = getBrightLocalSummary(id);
 
   const tabs = [
-    { id: "ai-report", label: "AI Report" },
+    { id: "report", label: "Report" },
     { id: "overview", label: "Overview" },
     { id: "project-log", label: "Project Log" },
     ...(gscData || ga4Data ? [{ id: "search", label: "Search Performance" }] : []),

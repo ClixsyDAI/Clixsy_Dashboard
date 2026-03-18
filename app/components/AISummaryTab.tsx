@@ -358,7 +358,7 @@ export default function AISummaryTab(props: AISummaryTabProps) {
   return (
     <div className="space-y-5">
       {/* Client Context Bar */}
-      <div className="flex flex-wrap items-center gap-4 text-xs" style={{ color: "#888" }}>
+      <div className="flex flex-wrap items-center gap-4 text-sm" style={{ color: "#888" }}>
         <span>Total tasks: <strong style={{ color: "#f0ede8" }}>{props.todos.length}</strong></span>
         {props.blLocations && props.blLocations > 0 && (
           <span>Locations: <strong style={{ color: "#f0ede8" }}>{props.blLocations}</strong></span>
@@ -369,19 +369,19 @@ export default function AISummaryTab(props: AISummaryTabProps) {
       {/* Date Range Picker */}
       <div className="rounded-sm p-4 flex flex-wrap items-end gap-3" style={{ backgroundColor: "#111" }}>
         <div>
-          <label className="block text-[9px] uppercase tracking-widest mb-1" style={{ color: "#666" }}>From</label>
+          <label className="block text-sm uppercase tracking-widest mb-1" style={{ color: "#666" }}>From</label>
           <input type="date" value={startDate} onChange={(e) => { setStartDate(e.target.value); setAiData(null); }}
             className="rounded-sm px-2.5 py-1.5 text-sm outline-none" style={{ backgroundColor: "#1a1a1a", color: "#f0ede8", border: "1px solid #333" }} />
         </div>
         <div>
-          <label className="block text-[9px] uppercase tracking-widest mb-1" style={{ color: "#666" }}>To</label>
+          <label className="block text-sm uppercase tracking-widest mb-1" style={{ color: "#666" }}>To</label>
           <input type="date" value={endDate} onChange={(e) => { setEndDate(e.target.value); setAiData(null); }}
             className="rounded-sm px-2.5 py-1.5 text-sm outline-none" style={{ backgroundColor: "#1a1a1a", color: "#f0ede8", border: "1px solid #333" }} />
         </div>
         <div className="flex gap-1">
           {presets.map((p) => (
             <button key={p.label} onClick={() => applyPreset(p)}
-              className="rounded-sm px-2.5 py-1.5 text-[10px] uppercase tracking-wide hover:text-white transition-colors"
+              className="rounded-sm px-2.5 py-1.5 text-sm uppercase tracking-wide hover:text-white transition-colors"
               style={{ backgroundColor: "#1a1a1a", color: "#888", border: "1px solid #333" }}>
               {p.label}
             </button>
@@ -390,7 +390,7 @@ export default function AISummaryTab(props: AISummaryTabProps) {
         <button onClick={handleGenerate} disabled={aiLoading}
           className="ml-auto rounded-sm px-5 py-1.5 text-sm font-semibold tracking-wide transition-opacity hover:opacity-90 disabled:opacity-50"
           style={{ backgroundColor: "#C8A882", color: "#0a0a0a" }}>
-          {aiLoading ? "Analyzing..." : aiData ? "Regenerate" : "Generate AI Report"}
+          {aiLoading ? "Analyzing..." : aiData ? "Regenerate" : "Generate Report"}
         </button>
       </div>
 
@@ -412,7 +412,7 @@ export default function AISummaryTab(props: AISummaryTabProps) {
         </span>
         <div className="mt-3 flex flex-wrap justify-center gap-2">
           {healthScore.subScores.filter((s) => s.available).map((s) => (
-            <span key={s.id} className="rounded-sm px-2 py-0.5 text-[10px] tracking-wide"
+            <span key={s.id} className="rounded-sm px-2 py-0.5 text-sm tracking-wide"
               style={{ backgroundColor: "#1a1a1a", color: s.score >= 70 ? "#2d6a4f" : s.score >= 40 ? "#C8A882" : "#e74c3c" }}>
               {s.label}: {s.score}
             </span>
@@ -449,31 +449,31 @@ export default function AISummaryTab(props: AISummaryTabProps) {
       <div className="grid grid-cols-1 gap-4 md:grid-cols-2">
         {/* Wins */}
         <div className="rounded-sm p-4" style={{ backgroundColor: "#111" }}>
-          <h3 className="text-xs font-semibold tracking-widest uppercase mb-3" style={{ color: "#2d6a4f" }}>
+          <h3 className="text-sm font-semibold tracking-widest uppercase mb-3" style={{ color: "#2d6a4f" }}>
             Top Wins This Period
           </h3>
           {wins.length > 0 ? wins.map((w, i) => (
             <ItemCard key={i} item={w} type="win" />
           )) : (
-            <p className="text-xs py-4 text-center" style={{ color: "#666" }}>No standout wins detected — generate AI report for deeper analysis</p>
+            <p className="text-sm py-4 text-center" style={{ color: "#666" }}>No standout wins detected — generate report for deeper analysis</p>
           )}
         </div>
         {/* Flags */}
         <div className="rounded-sm p-4" style={{ backgroundColor: "#111" }}>
-          <h3 className="text-xs font-semibold tracking-widest uppercase mb-3" style={{ color: "#e74c3c" }}>
+          <h3 className="text-sm font-semibold tracking-widest uppercase mb-3" style={{ color: "#e74c3c" }}>
             Flags &amp; Watch Items
           </h3>
           {flags.length > 0 ? flags.map((f, i) => (
             <ItemCard key={i} item={f} type="flag" />
           )) : (
-            <p className="text-xs py-4 text-center" style={{ color: "#666" }}>No major concerns detected</p>
+            <p className="text-sm py-4 text-center" style={{ color: "#666" }}>No major concerns detected</p>
           )}
         </div>
       </div>
 
       {/* Section 5: Work Summary */}
       <div className="rounded-sm p-4" style={{ backgroundColor: "#111" }}>
-        <h3 className="text-xs font-semibold tracking-widest uppercase mb-3" style={{ color: "#f0ede8" }}>
+        <h3 className="text-sm font-semibold tracking-widest uppercase mb-3" style={{ color: "#f0ede8" }}>
           Work Completed This Period
         </h3>
         <div className="flex flex-wrap items-center gap-4 mb-3">
@@ -488,11 +488,11 @@ export default function AISummaryTab(props: AISummaryTabProps) {
               const pct = completedInPeriod.length > 0 ? (c.count / completedInPeriod.length) * 100 : 0;
               return (
                 <div key={c.name} className="flex items-center gap-2">
-                  <span className="text-[10px] w-40 truncate" style={{ color: "#888" }}>{c.name}</span>
+                  <span className="text-sm w-40 truncate" style={{ color: "#888" }}>{c.name}</span>
                   <div className="flex-1 h-3 rounded-sm overflow-hidden" style={{ backgroundColor: "#1a1a1a" }}>
                     <div className="h-full rounded-sm" style={{ width: `${pct}%`, backgroundColor: "#C8A882", transition: "width 0.3s" }} />
                   </div>
-                  <span className="text-[10px] w-6 text-right" style={{ color: "#C8A882" }}>{c.count}</span>
+                  <span className="text-sm w-6 text-right" style={{ color: "#C8A882" }}>{c.count}</span>
                 </div>
               );
             })}
@@ -501,7 +501,7 @@ export default function AISummaryTab(props: AISummaryTabProps) {
         {/* Weekly heatmap */}
         {taskWeekly.length > 1 && (
           <div className="flex items-end gap-1 mt-2">
-            <span className="text-[9px] uppercase tracking-wide mr-1" style={{ color: "#666" }}>Weekly:</span>
+            <span className="text-sm uppercase tracking-wide mr-1" style={{ color: "#666" }}>Weekly:</span>
             {taskWeekly.map((v, i) => {
               const max = Math.max(...taskWeekly);
               const h = max > 0 ? Math.max(4, (v / max) * 24) : 4;
@@ -516,7 +516,7 @@ export default function AISummaryTab(props: AISummaryTabProps) {
         {completedInPeriod.length > 0 && (
           <div className="mt-3">
             <button onClick={() => setShowAllTasks(!showAllTasks)}
-              className="text-[10px] uppercase tracking-widest hover:text-white transition-colors"
+              className="text-sm uppercase tracking-widest hover:text-white transition-colors"
               style={{ color: "#C8A882" }}>
               {showAllTasks ? "Hide" : "View"} All {completedInPeriod.length} Tasks {showAllTasks ? "\u25B2" : "\u25BC"}
             </button>
@@ -525,21 +525,21 @@ export default function AISummaryTab(props: AISummaryTabProps) {
                 <table className="w-full text-left text-sm">
                   <thead>
                     <tr style={{ backgroundColor: "#1a1a1a" }}>
-                      <th className="px-2 py-1.5 text-[10px] font-semibold tracking-wide" style={{ color: "#f0ede8" }}>Task</th>
-                      <th className="px-2 py-1.5 text-[10px] font-semibold tracking-wide" style={{ color: "#f0ede8" }}>Category</th>
-                      <th className="px-2 py-1.5 text-[10px] font-semibold tracking-wide" style={{ color: "#f0ede8" }}>Completed</th>
-                      <th className="px-2 py-1.5 text-[10px] font-semibold tracking-wide" style={{ color: "#f0ede8" }}>Assigned</th>
+                      <th className="px-2 py-1.5 text-sm font-semibold tracking-wide" style={{ color: "#f0ede8" }}>Task</th>
+                      <th className="px-2 py-1.5 text-sm font-semibold tracking-wide" style={{ color: "#f0ede8" }}>Category</th>
+                      <th className="px-2 py-1.5 text-sm font-semibold tracking-wide" style={{ color: "#f0ede8" }}>Completed</th>
+                      <th className="px-2 py-1.5 text-sm font-semibold tracking-wide" style={{ color: "#f0ede8" }}>Assigned</th>
                     </tr>
                   </thead>
                   <tbody>
                     {completedInPeriod.map((t, i) => (
                       <tr key={t.id} style={{ backgroundColor: i % 2 === 0 ? "#111" : "#161616" }}>
-                        <td className="px-2 py-1.5 text-xs" style={{ color: "#f0ede8" }}>{stripHtml(t.title).substring(0, 60)}</td>
-                        <td className="px-2 py-1.5 text-[10px]" style={{ color: "#C8A882" }}>{t.list_title.replace(/:$/, "")}</td>
-                        <td className="px-2 py-1.5 text-[10px]" style={{ color: "#888" }}>
+                        <td className="px-2 py-1.5 text-sm" style={{ color: "#f0ede8" }}>{stripHtml(t.title).substring(0, 60)}</td>
+                        <td className="px-2 py-1.5 text-sm" style={{ color: "#C8A882" }}>{t.list_title.replace(/:$/, "")}</td>
+                        <td className="px-2 py-1.5 text-sm" style={{ color: "#888" }}>
                           {t.completed_on ? new Date(t.completed_on).toLocaleDateString("en-US", { month: "short", day: "numeric" }) : "-"}
                         </td>
-                        <td className="px-2 py-1.5 text-[10px]" style={{ color: "#888" }}>{t.assignees?.substring(0, 25)}</td>
+                        <td className="px-2 py-1.5 text-sm" style={{ color: "#888" }}>{t.assignees?.substring(0, 25)}</td>
                       </tr>
                     ))}
                   </tbody>
@@ -552,7 +552,7 @@ export default function AISummaryTab(props: AISummaryTabProps) {
 
       {/* Section 6: Coming Up Next */}
       <div className="rounded-sm p-4" style={{ backgroundColor: "#111" }}>
-        <h3 className="text-xs font-semibold tracking-widest uppercase mb-3" style={{ color: "#f0ede8" }}>
+        <h3 className="text-sm font-semibold tracking-widest uppercase mb-3" style={{ color: "#f0ede8" }}>
           Coming Up Next
         </h3>
         {computed.upcoming.length > 0 ? (
@@ -562,9 +562,9 @@ export default function AISummaryTab(props: AISummaryTabProps) {
               return (
                 <div key={t.id} className="flex items-center gap-3 py-1.5 px-2 rounded-sm" style={{ backgroundColor: "#1a1a1a" }}>
                   <span className="inline-block h-2 w-2 rounded-full" style={{ backgroundColor: isOverdue ? "#e74c3c" : "#C8A882" }} />
-                  <span className="flex-1 text-xs truncate" style={{ color: "#f0ede8" }}>{stripHtml(t.title)}</span>
-                  <span className="text-[10px]" style={{ color: "#888" }}>{t.assignees?.split(",")[0]}</span>
-                  <span className="text-[10px] whitespace-nowrap" style={{ color: isOverdue ? "#e74c3c" : "#888" }}>
+                  <span className="flex-1 text-sm truncate" style={{ color: "#f0ede8" }}>{stripHtml(t.title)}</span>
+                  <span className="text-sm" style={{ color: "#888" }}>{t.assignees?.split(",")[0]}</span>
+                  <span className="text-sm whitespace-nowrap" style={{ color: isOverdue ? "#e74c3c" : "#888" }}>
                     {t.due_on ? new Date(t.due_on).toLocaleDateString("en-US", { month: "short", day: "numeric" }) : "No date"}
                   </span>
                 </div>
@@ -572,16 +572,16 @@ export default function AISummaryTab(props: AISummaryTabProps) {
             })}
           </div>
         ) : (
-          <p className="text-xs py-2" style={{ color: "#666" }}>No upcoming tasks with due dates</p>
+          <p className="text-sm py-2" style={{ color: "#666" }}>No upcoming tasks with due dates</p>
         )}
 
         {/* AI Recommendations (after generation) */}
         {aiData && (
           <div className="mt-4 pt-3" style={{ borderTop: "1px solid #222" }}>
-            <h4 className="text-[10px] font-semibold tracking-widest uppercase mb-2" style={{ color: "#C8A882" }}>
-              AI-Recommended Next Steps
+            <h4 className="text-sm font-semibold tracking-widest uppercase mb-2" style={{ color: "#C8A882" }}>
+              Recommended Next Steps
             </h4>
-            <div className="text-xs" style={{ color: "#ccc" }}
+            <div className="text-sm" style={{ color: "#ccc" }}
               dangerouslySetInnerHTML={{ __html: extractRecommendations(aiData.aiSummary) }} />
           </div>
         )}
@@ -591,14 +591,14 @@ export default function AISummaryTab(props: AISummaryTabProps) {
       {aiLoading && (
         <div className="flex items-center justify-center gap-3 py-8 rounded-sm" style={{ backgroundColor: "#111" }}>
           <div className="h-5 w-5 animate-spin rounded-full border-2 border-t-transparent" style={{ borderColor: "#C8A882", borderTopColor: "transparent" }} />
-          <span className="text-sm" style={{ color: "#888" }}>Generating AI analysis...</span>
+          <span className="text-sm" style={{ color: "#888" }}>Generating analysis...</span>
         </div>
       )}
 
       {/* AI Error */}
       {aiError && (
         <div className="rounded-sm p-3" style={{ backgroundColor: "rgba(231,76,60,0.1)", border: "1px solid rgba(231,76,60,0.3)" }}>
-          <p className="text-xs" style={{ color: "#e74c3c" }}>{aiError}</p>
+          <p className="text-sm" style={{ color: "#e74c3c" }}>{aiError}</p>
         </div>
       )}
 
@@ -608,10 +608,9 @@ export default function AISummaryTab(props: AISummaryTabProps) {
           <button onClick={() => setShowFullReport(!showFullReport)}
             className="w-full flex items-center justify-between p-4 text-left hover:opacity-90 transition-opacity">
             <div className="flex items-center gap-2">
-              <div className="h-5 w-5 rounded-full flex items-center justify-center text-[8px] font-bold" style={{ backgroundColor: "#C8A882", color: "#0a0a0a" }}>AI</div>
-              <span className="text-xs font-semibold tracking-widest uppercase" style={{ color: "#f0ede8" }}>Full AI Report</span>
+              <span className="text-sm font-semibold tracking-widest uppercase" style={{ color: "#f0ede8" }}>Full Performance Report</span>
             </div>
-            <span className="text-xs" style={{ color: "#888" }}>{showFullReport ? "\u25B2 Collapse" : "\u25BC Expand"}</span>
+            <span className="text-sm" style={{ color: "#888" }}>{showFullReport ? "\u25B2 Collapse" : "\u25BC Expand"}</span>
           </button>
           {showFullReport && (
             <div className="px-4 pb-4">
@@ -638,7 +637,7 @@ function MetricCard({ label, value, change, sparkData, accent, valueColor, prefi
           {prefix}{value.toLocaleString()}
         </span>
         {change !== null && change !== undefined && (
-          <span className="text-[10px] font-medium" style={{ color: change > 0 ? "#2d6a4f" : change < 0 ? "#e74c3c" : "#666" }}>
+          <span className="text-sm font-medium" style={{ color: change > 0 ? "#2d6a4f" : change < 0 ? "#e74c3c" : "#666" }}>
             {change > 0 ? "\u25B2" : change < 0 ? "\u25BC" : ""}{Math.abs(change).toFixed(0)}%
           </span>
         )}
@@ -648,7 +647,7 @@ function MetricCard({ label, value, change, sparkData, accent, valueColor, prefi
           <Sparkline data={sparkData} color={accent ? "#C8A882" : "#555"} width={60} height={16} />
         </div>
       )}
-      <span className="mt-1 text-[8px] tracking-widest uppercase" style={{ color: "#666" }}>{label}</span>
+      <span className="mt-1 text-sm tracking-widest uppercase" style={{ color: "#666" }}>{label}</span>
     </div>
   );
 }
@@ -659,13 +658,13 @@ function ItemCard({ item, type }: { item: DetectedItem; type: "win" | "flag" }) 
   return (
     <div className="mb-2 rounded-sm p-2.5" style={{ backgroundColor: "#1a1a1a", borderLeft: `3px solid ${color}` }}>
       <div className="flex items-start justify-between gap-2">
-        <span className="text-xs font-medium" style={{ color: "#f0ede8" }}>{item.title}</span>
-        <span className="text-[8px] px-1.5 py-0.5 rounded-sm whitespace-nowrap"
+        <span className="text-sm font-medium" style={{ color: "#f0ede8" }}>{item.title}</span>
+        <span className="text-sm px-1.5 py-0.5 rounded-sm whitespace-nowrap"
           style={{ backgroundColor: badges[item.source] || "#333", color: "#fff" }}>
           {item.source}
         </span>
       </div>
-      <p className="mt-0.5 text-[10px]" style={{ color: "#888" }}>{item.detail}</p>
+      <p className="mt-0.5 text-sm" style={{ color: "#888" }}>{item.detail}</p>
     </div>
   );
 }
@@ -681,11 +680,11 @@ function extractRecommendations(md: string): string {
 function renderMarkdown(md: string): string {
   if (!md) return "";
   return md
-    .replace(/^## (.*$)/gm, '<h2 style="color:#f0ede8;font-size:14px;font-weight:700;margin-top:16px;margin-bottom:6px">$1</h2>')
-    .replace(/^### (.*$)/gm, '<h3 style="color:#C8A882;font-size:12px;font-weight:600;margin-top:12px;margin-bottom:4px">$1</h3>')
+    .replace(/^## (.*$)/gm, '<h2 style="color:#f0ede8;font-size:16px;font-weight:700;margin-top:16px;margin-bottom:6px">$1</h2>')
+    .replace(/^### (.*$)/gm, '<h3 style="color:#C8A882;font-size:14px;font-weight:600;margin-top:12px;margin-bottom:4px">$1</h3>')
     .replace(/\*\*(.*?)\*\*/g, '<strong style="color:#f0ede8">$1</strong>')
-    .replace(/^- (.*$)/gm, '<li style="margin-left:16px;margin-bottom:3px;list-style-type:disc;color:#ccc;font-size:12px">$1</li>')
-    .replace(/^\d+\. (.*$)/gm, '<li style="margin-left:16px;margin-bottom:3px;list-style-type:decimal;color:#ccc;font-size:12px">$1</li>')
+    .replace(/^- (.*$)/gm, '<li style="margin-left:16px;margin-bottom:3px;list-style-type:disc;color:#ccc;font-size:14px">$1</li>')
+    .replace(/^\d+\. (.*$)/gm, '<li style="margin-left:16px;margin-bottom:3px;list-style-type:decimal;color:#ccc;font-size:14px">$1</li>')
     .replace(/\n\n/g, '<br/><br/>')
     .replace(/\n/g, '<br/>');
 }
