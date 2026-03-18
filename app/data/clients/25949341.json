@@ -626,7 +626,7 @@
     "comments_count": 10,
     "assignees": "Bogdan Zakharchyshyn, Den, Jordan, Predrag, Venus Saragena",
     "app_url": "https://3.basecamp.com/4226914/buckets/25949341/todos/8126193759",
-    "description": "<div>Seeking help. Its regarding the client request to add a Guarantees section (under About Us).&nbsp;<br><br>They have sent us the Guarantees they have. Can a page be added to their site please?&nbsp;<br><br>\n</div><div class=\"attachment-gallery attachment-gallery--2\">\n  <bc-attachment sgid=\"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaTVuYVdRNkx5OWlZek12UVhSMFlXTm9iV1Z1ZEM4Mk56QTJNemd5TVRjX1pYaHdhWEpsYzE5cGJnWTZCa1ZVIiwiZXhwIjpudWxsLCJwdXIiOiJhdHRhY2hhYmxlIn19--7ceb601cd74edc17e8c049f2bcf887bd75fbbba",
+    "description": "<div>Seeking help. Its regarding the client request to add a Guarantees section (under About Us).&nbsp;<br><br>They have sent us the Guarantees they have. Can a page be added to their site please?&nbsp;<br><br>\n</div><div>\n  <bc-attachment sgid=\"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaTVuYVdRNkx5OWlZek12UVhSMFlXTm9iV1Z1ZEM4Mk56QTJNemd5TVRjX1pYaHdhWEpsYzE5cGJnWTZCa1ZVIiwiZXhwIjpudWxsLCJwdXIiOiJhdHRhY2hhYmxlIn19--7ceb601cd74edc17e8c049f2bcf887bd75fbbba0\" content-type=\"image/png\" url=\"https://preview.",
     "visible_to_clients": false
   },
   {
@@ -1047,6 +1047,21 @@
     "assignees": "Chris Traynor, John De Guzman",
     "app_url": "https://3.basecamp.com/4226914/buckets/25949341/todos/7909807592",
     "description": "<div>\n<br>Hey guys, I really like how cleanly laid out the Roth website is. And Wolfers has a lot of similar formatting. Can you please send these edits to Clixsy to make to the Sunset website? Feel free to challenge any of the items I have listed below. Thank you!<br><br>\n</div><div>\n<br>&nbsp;<br><br>\n</div><div>\n<br>Toolbar Reformatting:<br><br>\n</div><ul>\n<li>Let’s remove the ductless pump page from the toolbar on the website’s main page. Ductless mini splits can be an option beneath heating",
+    "visible_to_clients": false
+  },
+  {
+    "id": 5310040361,
+    "title": "Mailgun integration",
+    "list_title": "SEPT 2022",
+    "completed": true,
+    "due_on": null,
+    "created_at": "2022-09-08T16:47:27.642Z",
+    "updated_at": "2022-09-21T17:41:23.136Z",
+    "completed_on": "2022-09-21T17:41:23.078Z",
+    "comments_count": 4,
+    "assignees": "Chris Traynor, Keith Bruss",
+    "app_url": "https://3.basecamp.com/4226914/buckets/25949341/todos/5310040361",
+    "description": "<div>Mailgun integration is failing.&nbsp; The emails are being sent using our fallback email server.<br><br>Either re-enable Mailgun's account or disable mailgun API using Post SMTP plugin.<br><br><bc-attachment sgid=\"BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8yOTY5MzI1OT9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--ea0b6fbc87654417839b979e1624a2b99eedac2a\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"29",
     "visible_to_clients": false
   }
 ]
