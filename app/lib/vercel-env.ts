@@ -3,7 +3,7 @@
  * Used to persist Basecamp OAuth tokens across deployments.
  *
  * Required env vars:
- *   VERCEL_TOKEN       - Vercel API token (personal access token)
+ *   VERCEL_API_TOKEN       - Vercel API token (personal access token)
  *   VERCEL_PROJECT_ID  - The Vercel project ID
  *   VERCEL_TEAM_ID     - The Vercel team/account ID (optional for personal accounts)
  */
@@ -11,9 +11,9 @@
 const VERCEL_API = "https://api.vercel.com";
 
 function getHeaders(): HeadersInit {
-  const token = process.env.VERCEL_TOKEN;
+  const token = process.env.VERCEL_API_TOKEN;
   if (!token) {
-    throw new Error("VERCEL_TOKEN env var is required to manage env vars");
+    throw new Error("VERCEL_API_TOKEN env var is required to manage env vars");
   }
   return {
     Authorization: `Bearer ${token}`,

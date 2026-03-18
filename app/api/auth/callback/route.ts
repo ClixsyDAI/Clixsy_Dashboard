@@ -23,9 +23,9 @@ export async function GET(request: NextRequest) {
     // Exchange code for tokens
     const tokens = await exchangeCodeForTokens(code);
 
-    // Try to store tokens as Vercel env vars (requires VERCEL_TOKEN)
+    // Try to store tokens as Vercel env vars (requires VERCEL_API_TOKEN)
     let storedInVercel = false;
-    if (process.env.VERCEL_TOKEN && process.env.VERCEL_PROJECT_ID) {
+    if (process.env.VERCEL_API_TOKEN && process.env.VERCEL_PROJECT_ID) {
       try {
         await storeBasecampTokens(tokens.access_token, tokens.refresh_token);
         storedInVercel = true;

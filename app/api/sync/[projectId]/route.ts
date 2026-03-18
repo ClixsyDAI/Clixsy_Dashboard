@@ -37,7 +37,7 @@ export async function POST(request: NextRequest, { params }: RouteParams) {
 
     // If token was refreshed, try to update Vercel env vars
     if (refreshed && newTokens) {
-      if (process.env.VERCEL_TOKEN && process.env.VERCEL_PROJECT_ID) {
+      if (process.env.VERCEL_API_TOKEN && process.env.VERCEL_PROJECT_ID) {
         try {
           await storeBasecampTokens(
             newTokens.access_token,
