@@ -1,8 +1,12 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import projects from "../../data/projects.json";
-import { getDashboardData } from "../../lib/dashboard-data";
+import { getDashboardData, loadClientTodos } from "../../lib/dashboard-data";
+import { loadGscData, loadGa4Data } from "../../lib/google-data";
 import ClientDashboardCharts from "../../components/ClientDashboardCharts";
+import GoogleSearchCharts from "../../components/GoogleSearchCharts";
+import DashboardTabs from "../../components/DashboardTabs";
+import ProjectLogTable from "../../components/ProjectLogTable";
 
 interface PageProps {
   params: Promise<{ id: string }>;
@@ -17,6 +21,15 @@ export default async function ClientDashboard({ params }: PageProps) {
   }
 
   const data = getDashboardData(id, project.name);
+  const gscData = loadGscData(id);
+  const ga4Data = loadGa4Data(id);
+  const todos = loadClientTodos(id);
+
+  const tabs = [
+    { id: "overview", label: "Overview" },
+    { id: "project-log", label: "Project Log" },
+    ...(gscData || ga4Data ? [{ id: "search", label: "Search Performance" }] : []),
+  ];
 
   return (
     <div className="min-h-screen" style={{ backgroundColor: "#0a0a0a" }}>
@@ -89,225 +102,267 @@ export default async function ClientDashboard({ params }: PageProps) {
             </Link>
           </div>
         ) : (
-          <>
-            {/* KPI Cards */}
-            <section className="mt-8 grid grid-cols-2 gap-4 md:grid-cols-4">
-              <KpiCardServer
-                value={data.completedCount}
-                label="COMPLETED TASKS"
-              />
-              <KpiCardServer
-                value={data.outstandingCount}
-                label="OUTSTANDING TASKS"
-              />
-              <KpiCardServer
-                value={`${data.completionRate}%`}
-                label="COMPLETION RATE"
-              />
-              <KpiCardServer
-                value={data.periodCompletedCount}
-                label="COMPLETED THIS PERIOD"
-                accent
-              />
-            </section>
+          <DashboardTabs tabs={tabs}>
+            {/* ── TAB 1: OVERVIEW ────────────────────────────── */}
+            <div>
+              {/* KPI Cards */}
+              <section className="grid grid-cols-2 gap-4 md:grid-cols-4">
+                <KpiCardServer
+                  value={data.completedCount}
+                  label="COMPLETED TASKS"
+                />
+                <KpiCardServer
+                  value={data.outstandingCount}
+                  label="OUTSTANDING TASKS"
+                />
+                <KpiCardServer
+                  value={`${data.completionRate}%`}
+                  label="COMPLETION RATE"
+                />
+                <KpiCardServer
+                  value={data.periodCompletedCount}
+                  label="COMPLETED THIS PERIOD"
+                  accent
+                />
+              </section>
 
-            <p
-              className="mt-3 text-center text-xs"
-              style={{ color: "#888888" }}
-            >
-              All-time: {data.completedCount} completed &nbsp;|&nbsp;{" "}
-              {data.outstandingCount} outstanding &nbsp;|&nbsp; {data.total}{" "}
-              total tasks tracked
-            </p>
-
-            {/* Charts (client component) */}
-            <ClientDashboardCharts
-              completedCount={data.completedCount}
-              outstandingCount={data.outstandingCount}
-              completionRate={data.completionRate}
-              categoryData={data.categoryData}
-              commentData={data.commentData}
-              timelineData={data.timelineData}
-            />
-
-            {/* Most Discussed Tasks Table */}
-            <section className="mt-12">
-              <SectionHeader title="MOST DISCUSSED TASKS" />
-              <div className="mt-1 overflow-x-auto">
-                <table className="w-full text-left text-sm">
-                  <thead>
-                    <tr style={{ backgroundColor: "#1a1a1a" }}>
-                      <Th>Task</Th>
-                      <Th>Task List</Th>
-                      <Th>Owner</Th>
-                      <Th className="text-center">Status</Th>
-                      <Th className="text-center">Due Date</Th>
-                      <Th className="text-center">Comments</Th>
-                      <Th className="text-center">Link</Th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    {data.topCommented.map(
-                      (
-                        t: {
-                          id: number;
-                          title: string;
-                          list_title: string;
-                          assignees: string;
-                          completed: boolean;
-                          due_on: string | null;
-                          comments_count: number;
-                          app_url: string;
-                        },
-                        i: number
-                      ) => (
-                        <tr
-                          key={t.id}
-                          style={{
-                            backgroundColor:
-                              i % 2 === 0 ? "#111111" : "#1a1a1a",
-                          }}
-                        >
-                          <Td
-                            className="font-medium"
-                            style={{ color: "#f0ede8" }}
-                          >
-                            {truncate(t.title, 55)}
-                          </Td>
-                          <Td dim>{truncate(t.list_title, 28)}</Td>
-                          <Td dim>{t.assignees}</Td>
-                          <Td className="text-center">
-                            <StatusBadgeInline completed={t.completed} />
-                          </Td>
-                          <Td dim className="text-center">
-                            {t.due_on || "\u2014"}
-                          </Td>
-                          <Td
-                            className="text-center font-bold"
-                            style={{ color: "#c8a882" }}
-                          >
-                            {t.comments_count}
-                          </Td>
-                          <Td className="text-center">
-                            <a
-                              href={t.app_url}
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              className="underline"
-                              style={{ color: "#c8a882" }}
-                            >
-                              View
-                            </a>
-                          </Td>
-                        </tr>
-                      )
-                    )}
-                  </tbody>
-                </table>
-              </div>
-            </section>
-
-            {/* Highest Impact Tasks Table */}
-            <section className="mt-12">
-              <SectionHeader title="HIGHEST IMPACT TASKS" />
-              <div className="mt-1 overflow-x-auto">
-                <table className="w-full text-left text-sm">
-                  <thead>
-                    <tr style={{ backgroundColor: "#1a1a1a" }}>
-                      <Th>Task</Th>
-                      <Th className="text-center">Impact</Th>
-                      <Th>Why It Matters</Th>
-                      <Th>Owner</Th>
-                      <Th className="text-center">Status</Th>
-                      <Th className="text-center">Due Date</Th>
-                      <Th className="text-center">Link</Th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    {data.topImpact.map(
-                      (
-                        t: {
-                          id: number;
-                          title: string;
-                          impact_score: number;
-                          impact_rationale: string;
-                          assignees: string;
-                          completed: boolean;
-                          due_on: string | null;
-                          app_url: string;
-                        },
-                        i: number
-                      ) => (
-                        <tr
-                          key={t.id}
-                          style={{
-                            backgroundColor:
-                              i % 2 === 0 ? "#111111" : "#1a1a1a",
-                          }}
-                        >
-                          <Td
-                            className="font-medium"
-                            style={{ color: "#f0ede8" }}
-                          >
-                            {truncate(t.title, 50)}
-                          </Td>
-                          <Td
-                            className="text-center font-bold"
-                            style={{ color: "#c8a882" }}
-                          >
-                            {t.impact_score}
-                          </Td>
-                          <Td dim>{t.impact_rationale}</Td>
-                          <Td dim>{t.assignees}</Td>
-                          <Td className="text-center">
-                            <StatusBadgeInline completed={t.completed} />
-                          </Td>
-                          <Td dim className="text-center">
-                            {t.due_on || "\u2014"}
-                          </Td>
-                          <Td className="text-center">
-                            <a
-                              href={t.app_url}
-                              target="_blank"
-                              rel="noopener noreferrer"
-                              className="underline"
-                              style={{ color: "#c8a882" }}
-                            >
-                              View
-                            </a>
-                          </Td>
-                        </tr>
-                      )
-                    )}
-                  </tbody>
-                </table>
-              </div>
-            </section>
-
-            {/* Footer */}
-            <footer className="mt-12 pb-8">
-              <div
-                className="h-[1px] w-full"
-                style={{ backgroundColor: "#1a1a1a" }}
-              />
               <p
-                className="mt-4 text-xs italic"
+                className="mt-3 text-center text-xs"
                 style={{ color: "#888888" }}
               >
-                Impact scores are calculated from task scope, comment activity,
-                due-date urgency, and keyword relevance. Scores are transparent
-                and editable.
+                All-time: {data.completedCount} completed &nbsp;|&nbsp;{" "}
+                {data.outstandingCount} outstanding &nbsp;|&nbsp; {data.total}{" "}
+                total tasks tracked
               </p>
+
+              {/* Charts */}
+              <ClientDashboardCharts
+                completedCount={data.completedCount}
+                outstandingCount={data.outstandingCount}
+                completionRate={data.completionRate}
+                categoryData={data.categoryData}
+                commentData={data.commentData}
+                timelineData={data.timelineData}
+              />
+
+              {/* Most Discussed Tasks Table */}
+              <section className="mt-12">
+                <SectionHeader title="MOST DISCUSSED TASKS" />
+                <div className="mt-1 overflow-x-auto">
+                  <table className="w-full text-left text-sm">
+                    <thead>
+                      <tr style={{ backgroundColor: "#1a1a1a" }}>
+                        <Th>Task</Th>
+                        <Th>Task List</Th>
+                        <Th>Owner</Th>
+                        <Th className="text-center">Status</Th>
+                        <Th className="text-center">Due Date</Th>
+                        <Th className="text-center">Comments</Th>
+                        <Th className="text-center">Link</Th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {data.topCommented.map(
+                        (
+                          t: {
+                            id: number;
+                            title: string;
+                            list_title: string;
+                            assignees: string;
+                            completed: boolean;
+                            due_on: string | null;
+                            comments_count: number;
+                            app_url: string;
+                          },
+                          i: number
+                        ) => (
+                          <tr
+                            key={t.id}
+                            style={{
+                              backgroundColor:
+                                i % 2 === 0 ? "#111111" : "#1a1a1a",
+                            }}
+                          >
+                            <Td
+                              className="font-medium"
+                              style={{ color: "#f0ede8" }}
+                            >
+                              {truncate(t.title, 55)}
+                            </Td>
+                            <Td dim>{truncate(t.list_title, 28)}</Td>
+                            <Td dim>{t.assignees}</Td>
+                            <Td className="text-center">
+                              <StatusBadgeInline completed={t.completed} />
+                            </Td>
+                            <Td dim className="text-center">
+                              {t.due_on || "\u2014"}
+                            </Td>
+                            <Td
+                              className="text-center font-bold"
+                              style={{ color: "#c8a882" }}
+                            >
+                              {t.comments_count}
+                            </Td>
+                            <Td className="text-center">
+                              <a
+                                href={t.app_url}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="underline"
+                                style={{ color: "#c8a882" }}
+                              >
+                                View
+                              </a>
+                            </Td>
+                          </tr>
+                        )
+                      )}
+                    </tbody>
+                  </table>
+                </div>
+              </section>
+
+              {/* Highest Impact Tasks Table */}
+              <section className="mt-12">
+                <SectionHeader title="HIGHEST IMPACT TASKS" />
+                <div className="mt-1 overflow-x-auto">
+                  <table className="w-full text-left text-sm">
+                    <thead>
+                      <tr style={{ backgroundColor: "#1a1a1a" }}>
+                        <Th>Task</Th>
+                        <Th className="text-center">Impact</Th>
+                        <Th>Why It Matters</Th>
+                        <Th>Owner</Th>
+                        <Th className="text-center">Status</Th>
+                        <Th className="text-center">Due Date</Th>
+                        <Th className="text-center">Link</Th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {data.topImpact.map(
+                        (
+                          t: {
+                            id: number;
+                            title: string;
+                            impact_score: number;
+                            impact_rationale: string;
+                            assignees: string;
+                            completed: boolean;
+                            due_on: string | null;
+                            app_url: string;
+                          },
+                          i: number
+                        ) => (
+                          <tr
+                            key={t.id}
+                            style={{
+                              backgroundColor:
+                                i % 2 === 0 ? "#111111" : "#1a1a1a",
+                            }}
+                          >
+                            <Td
+                              className="font-medium"
+                              style={{ color: "#f0ede8" }}
+                            >
+                              {truncate(t.title, 50)}
+                            </Td>
+                            <Td
+                              className="text-center font-bold"
+                              style={{ color: "#c8a882" }}
+                            >
+                              {t.impact_score}
+                            </Td>
+                            <Td dim>{t.impact_rationale}</Td>
+                            <Td dim>{t.assignees}</Td>
+                            <Td className="text-center">
+                              <StatusBadgeInline completed={t.completed} />
+                            </Td>
+                            <Td dim className="text-center">
+                              {t.due_on || "\u2014"}
+                            </Td>
+                            <Td className="text-center">
+                              <a
+                                href={t.app_url}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="underline"
+                                style={{ color: "#c8a882" }}
+                              >
+                                View
+                              </a>
+                            </Td>
+                          </tr>
+                        )
+                      )}
+                    </tbody>
+                  </table>
+                </div>
+              </section>
+            </div>
+
+            {/* ── TAB 2: PROJECT LOG ────────────────────────── */}
+            <div>
+              {todos && todos.length > 0 ? (
+                <ProjectLogTable todos={todos} />
+              ) : (
+                <p className="py-12 text-center text-sm" style={{ color: "#666" }}>
+                  No task data synced yet.
+                </p>
+              )}
+            </div>
+
+            {/* ── TAB 3: SEARCH PERFORMANCE (conditional) ──── */}
+            {(gscData || ga4Data) && (
+              <div>
+                <GoogleSearchCharts
+                  gscDaily={gscData?.dailyData || null}
+                  gscTopQueries={gscData?.topQueries || null}
+                  gscTopPages={gscData?.topPages || null}
+                  gscTotals={gscData?.totals || null}
+                  ga4Daily={ga4Data?.dailyData || null}
+                  ga4Channels={ga4Data?.channelData || null}
+                  ga4Totals={ga4Data?.totals || null}
+                />
+              </div>
+            )}
+          </DashboardTabs>
+        )}
+
+        {/* Footer */}
+        {data && (
+          <footer className="mt-12 pb-8">
+            <div
+              className="h-[1px] w-full"
+              style={{ backgroundColor: "#1a1a1a" }}
+            />
+            <p
+              className="mt-4 text-xs italic"
+              style={{ color: "#888888" }}
+            >
+              Impact scores are calculated from task scope, comment activity,
+              due-date urgency, and keyword relevance. Scores are transparent
+              and editable.
+            </p>
+            <p
+              className="mt-1 text-xs italic"
+              style={{ color: "#888888" }}
+            >
+              Data source: Basecamp project &ldquo;{data.clientName}&rdquo;
+              &mdash; {data.total} tasks tracked across {data.uniqueLists}{" "}
+              task lists.
+            </p>
+            {(gscData || ga4Data) && (
               <p
                 className="mt-1 text-xs italic"
                 style={{ color: "#888888" }}
               >
-                Data source: Basecamp project &ldquo;{data.clientName}&rdquo;
-                &mdash; {data.total} tasks tracked across {data.uniqueLists}{" "}
-                task lists.
+                Search data:{" "}
+                {gscData && <>GSC ({gscData.dateRange.start} to {gscData.dateRange.end})</>}
+                {gscData && ga4Data && " | "}
+                {ga4Data && <>GA4 ({ga4Data.dateRange.start} to {ga4Data.dateRange.end})</>}
               </p>
-            </footer>
-          </>
+            )}
+          </footer>
         )}
       </div>
     </div>

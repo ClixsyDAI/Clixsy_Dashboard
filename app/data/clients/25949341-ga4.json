@@ -1,0 +1,759 @@
+{
+  "propertyId": "properties/348013449",
+  "displayName": "AC Plus Heating & Air - GA4",
+  "dateRange": {
+    "start": "2025-12-17",
+    "end": "2026-03-17"
+  },
+  "totals": {
+    "sessions": 8353,
+    "users": 9085,
+    "screenPageViews": 11706,
+    "organicSessions": 1718,
+    "bounceRate": 0.6652652473447412,
+    "avgSessionDuration": 158.09859992207979
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-17",
+      "sessions": 71,
+      "users": 80,
+      "screenPageViews": 127
+    },
+    {
+      "date": "2025-12-18",
+      "sessions": 65,
+      "users": 73,
+      "screenPageViews": 74
+    },
+    {
+      "date": "2025-12-19",
+      "sessions": 91,
+      "users": 91,
+      "screenPageViews": 143
+    },
+    {
+      "date": "2025-12-20",
+      "sessions": 74,
+      "users": 73,
+      "screenPageViews": 74
+    },
+    {
+      "date": "2025-12-21",
+      "sessions": 81,
+      "users": 82,
+      "screenPageViews": 90
+    },
+    {
+      "date": "2025-12-22",
+      "sessions": 75,
+      "users": 82,
+      "screenPageViews": 95
+    },
+    {
+      "date": "2025-12-23",
+      "sessions": 61,
+      "users": 64,
+      "screenPageViews": 89
+    },
+    {
+      "date": "2025-12-24",
+      "sessions": 53,
+      "users": 57,
+      "screenPageViews": 55
+    },
+    {
+      "date": "2025-12-25",
+      "sessions": 83,
+      "users": 80,
+      "screenPageViews": 91
+    },
+    {
+      "date": "2025-12-26",
+      "sessions": 53,
+      "users": 59,
+      "screenPageViews": 61
+    },
+    {
+      "date": "2025-12-27",
+      "sessions": 59,
+      "users": 65,
+      "screenPageViews": 66
+    },
+    {
+      "date": "2025-12-28",
+      "sessions": 201,
+      "users": 200,
+      "screenPageViews": 279
+    },
+    {
+      "date": "2025-12-29",
+      "sessions": 74,
+      "users": 93,
+      "screenPageViews": 92
+    },
+    {
+      "date": "2025-12-30",
+      "sessions": 129,
+      "users": 137,
+      "screenPageViews": 151
+    },
+    {
+      "date": "2025-12-31",
+      "sessions": 102,
+      "users": 105,
+      "screenPageViews": 112
+    },
+    {
+      "date": "2026-01-01",
+      "sessions": 107,
+      "users": 111,
+      "screenPageViews": 112
+    },
+    {
+      "date": "2026-01-02",
+      "sessions": 108,
+      "users": 119,
+      "screenPageViews": 260
+    },
+    {
+      "date": "2026-01-03",
+      "sessions": 73,
+      "users": 77,
+      "screenPageViews": 87
+    },
+    {
+      "date": "2026-01-04",
+      "sessions": 98,
+      "users": 97,
+      "screenPageViews": 108
+    },
+    {
+      "date": "2026-01-05",
+      "sessions": 211,
+      "users": 226,
+      "screenPageViews": 245
+    },
+    {
+      "date": "2026-01-06",
+      "sessions": 212,
+      "users": 223,
+      "screenPageViews": 262
+    },
+    {
+      "date": "2026-01-07",
+      "sessions": 79,
+      "users": 95,
+      "screenPageViews": 103
+    },
+    {
+      "date": "2026-01-08",
+      "sessions": 100,
+      "users": 115,
+      "screenPageViews": 164
+    },
+    {
+      "date": "2026-01-09",
+      "sessions": 76,
+      "users": 104,
+      "screenPageViews": 122
+    },
+    {
+      "date": "2026-01-10",
+      "sessions": 50,
+      "users": 65,
+      "screenPageViews": 67
+    },
+    {
+      "date": "2026-01-11",
+      "sessions": 53,
+      "users": 54,
+      "screenPageViews": 59
+    },
+    {
+      "date": "2026-01-12",
+      "sessions": 146,
+      "users": 150,
+      "screenPageViews": 191
+    },
+    {
+      "date": "2026-01-13",
+      "sessions": 89,
+      "users": 97,
+      "screenPageViews": 123
+    },
+    {
+      "date": "2026-01-14",
+      "sessions": 118,
+      "users": 126,
+      "screenPageViews": 156
+    },
+    {
+      "date": "2026-01-15",
+      "sessions": 58,
+      "users": 73,
+      "screenPageViews": 90
+    },
+    {
+      "date": "2026-01-16",
+      "sessions": 90,
+      "users": 95,
+      "screenPageViews": 112
+    },
+    {
+      "date": "2026-01-17",
+      "sessions": 144,
+      "users": 149,
+      "screenPageViews": 164
+    },
+    {
+      "date": "2026-01-18",
+      "sessions": 129,
+      "users": 129,
+      "screenPageViews": 148
+    },
+    {
+      "date": "2026-01-19",
+      "sessions": 91,
+      "users": 96,
+      "screenPageViews": 133
+    },
+    {
+      "date": "2026-01-20",
+      "sessions": 91,
+      "users": 106,
+      "screenPageViews": 136
+    },
+    {
+      "date": "2026-01-21",
+      "sessions": 74,
+      "users": 83,
+      "screenPageViews": 98
+    },
+    {
+      "date": "2026-01-22",
+      "sessions": 60,
+      "users": 75,
+      "screenPageViews": 65
+    },
+    {
+      "date": "2026-01-23",
+      "sessions": 67,
+      "users": 74,
+      "screenPageViews": 100
+    },
+    {
+      "date": "2026-01-24",
+      "sessions": 39,
+      "users": 42,
+      "screenPageViews": 50
+    },
+    {
+      "date": "2026-01-25",
+      "sessions": 58,
+      "users": 57,
+      "screenPageViews": 74
+    },
+    {
+      "date": "2026-01-26",
+      "sessions": 93,
+      "users": 92,
+      "screenPageViews": 154
+    },
+    {
+      "date": "2026-01-27",
+      "sessions": 290,
+      "users": 288,
+      "screenPageViews": 471
+    },
+    {
+      "date": "2026-01-28",
+      "sessions": 90,
+      "users": 93,
+      "screenPageViews": 130
+    },
+    {
+      "date": "2026-01-29",
+      "sessions": 97,
+      "users": 100,
+      "screenPageViews": 167
+    },
+    {
+      "date": "2026-01-30",
+      "sessions": 110,
+      "users": 120,
+      "screenPageViews": 133
+    },
+    {
+      "date": "2026-01-31",
+      "sessions": 130,
+      "users": 134,
+      "screenPageViews": 146
+    },
+    {
+      "date": "2026-02-01",
+      "sessions": 67,
+      "users": 67,
+      "screenPageViews": 73
+    },
+    {
+      "date": "2026-02-02",
+      "sessions": 87,
+      "users": 87,
+      "screenPageViews": 124
+    },
+    {
+      "date": "2026-02-03",
+      "sessions": 76,
+      "users": 85,
+      "screenPageViews": 110
+    },
+    {
+      "date": "2026-02-04",
+      "sessions": 86,
+      "users": 96,
+      "screenPageViews": 125
+    },
+    {
+      "date": "2026-02-05",
+      "sessions": 63,
+      "users": 71,
+      "screenPageViews": 92
+    },
+    {
+      "date": "2026-02-06",
+      "sessions": 82,
+      "users": 87,
+      "screenPageViews": 123
+    },
+    {
+      "date": "2026-02-07",
+      "sessions": 29,
+      "users": 36,
+      "screenPageViews": 31
+    },
+    {
+      "date": "2026-02-08",
+      "sessions": 73,
+      "users": 70,
+      "screenPageViews": 89
+    },
+    {
+      "date": "2026-02-09",
+      "sessions": 204,
+      "users": 209,
+      "screenPageViews": 314
+    },
+    {
+      "date": "2026-02-10",
+      "sessions": 157,
+      "users": 166,
+      "screenPageViews": 184
+    },
+    {
+      "date": "2026-02-11",
+      "sessions": 101,
+      "users": 110,
+      "screenPageViews": 133
+    },
+    {
+      "date": "2026-02-12",
+      "sessions": 132,
+      "users": 126,
+      "screenPageViews": 188
+    },
+    {
+      "date": "2026-02-13",
+      "sessions": 75,
+      "users": 83,
+      "screenPageViews": 116
+    },
+    {
+      "date": "2026-02-14",
+      "sessions": 38,
+      "users": 41,
+      "screenPageViews": 64
+    },
+    {
+      "date": "2026-02-15",
+      "sessions": 66,
+      "users": 66,
+      "screenPageViews": 70
+    },
+    {
+      "date": "2026-02-16",
+      "sessions": 91,
+      "users": 106,
+      "screenPageViews": 109
+    },
+    {
+      "date": "2026-02-17",
+      "sessions": 71,
+      "users": 85,
+      "screenPageViews": 99
+    },
+    {
+      "date": "2026-02-18",
+      "sessions": 67,
+      "users": 78,
+      "screenPageViews": 100
+    },
+    {
+      "date": "2026-02-19",
+      "sessions": 66,
+      "users": 80,
+      "screenPageViews": 104
+    },
+    {
+      "date": "2026-02-20",
+      "sessions": 86,
+      "users": 96,
+      "screenPageViews": 134
+    },
+    {
+      "date": "2026-02-21",
+      "sessions": 51,
+      "users": 68,
+      "screenPageViews": 61
+    },
+    {
+      "date": "2026-02-22",
+      "sessions": 60,
+      "users": 64,
+      "screenPageViews": 82
+    },
+    {
+      "date": "2026-02-23",
+      "sessions": 190,
+      "users": 209,
+      "screenPageViews": 263
+    },
+    {
+      "date": "2026-02-24",
+      "sessions": 69,
+      "users": 79,
+      "screenPageViews": 132
+    },
+    {
+      "date": "2026-02-25",
+      "sessions": 77,
+      "users": 94,
+      "screenPageViews": 163
+    },
+    {
+      "date": "2026-02-26",
+      "sessions": 89,
+      "users": 111,
+      "screenPageViews": 202
+    },
+    {
+      "date": "2026-02-27",
+      "sessions": 134,
+      "users": 154,
+      "screenPageViews": 301
+    },
+    {
+      "date": "2026-02-28",
+      "sessions": 49,
+      "users": 59,
+      "screenPageViews": 57
+    },
+    {
+      "date": "2026-03-01",
+      "sessions": 55,
+      "users": 61,
+      "screenPageViews": 71
+    },
+    {
+      "date": "2026-03-02",
+      "sessions": 57,
+      "users": 79,
+      "screenPageViews": 91
+    },
+    {
+      "date": "2026-03-03",
+      "sessions": 69,
+      "users": 88,
+      "screenPageViews": 88
+    },
+    {
+      "date": "2026-03-04",
+      "sessions": 62,
+      "users": 66,
+      "screenPageViews": 88
+    },
+    {
+      "date": "2026-03-05",
+      "sessions": 63,
+      "users": 70,
+      "screenPageViews": 79
+    },
+    {
+      "date": "2026-03-06",
+      "sessions": 56,
+      "users": 65,
+      "screenPageViews": 88
+    },
+    {
+      "date": "2026-03-07",
+      "sessions": 45,
+      "users": 51,
+      "screenPageViews": 56
+    },
+    {
+      "date": "2026-03-08",
+      "sessions": 73,
+      "users": 72,
+      "screenPageViews": 82
+    },
+    {
+      "date": "2026-03-09",
+      "sessions": 174,
+      "users": 187,
+      "screenPageViews": 225
+    },
+    {
+      "date": "2026-03-10",
+      "sessions": 121,
+      "users": 139,
+      "screenPageViews": 225
+    },
+    {
+      "date": "2026-03-11",
+      "sessions": 87,
+      "users": 96,
+      "screenPageViews": 111
+    },
+    {
+      "date": "2026-03-12",
+      "sessions": 76,
+      "users": 91,
+      "screenPageViews": 119
+    },
+    {
+      "date": "2026-03-13",
+      "sessions": 82,
+      "users": 97,
+      "screenPageViews": 113
+    },
+    {
+      "date": "2026-03-14",
+      "sessions": 67,
+      "users": 74,
+      "screenPageViews": 89
+    },
+    {
+      "date": "2026-03-15",
+      "sessions": 103,
+      "users": 100,
+      "screenPageViews": 132
+    },
+    {
+      "date": "2026-03-16",
+      "sessions": 135,
+      "users": 155,
+      "screenPageViews": 218
+    },
+    {
+      "date": "2026-03-17",
+      "sessions": 89,
+      "users": 105,
+      "screenPageViews": 159
+    }
+  ],
+  "channelData": [
+    {
+      "channel": "Direct",
+      "sessions": 5369,
+      "users": 5176
+    },
+    {
+      "channel": "Organic Search",
+      "sessions": 1718,
+      "users": 1230
+    },
+    {
+      "channel": "Referral",
+      "sessions": 771,
+      "users": 724
+    },
+    {
+      "channel": "Organic Social",
+      "sessions": 211,
+      "users": 175
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": 122,
+      "users": 1183
+    },
+    {
+      "channel": "Paid Search",
+      "sessions": 19,
+      "users": 19
+    },
+    {
+      "channel": "Display",
+      "sessions": 15,
+      "users": 14
+    },
+    {
+      "channel": "Organic Video",
+      "sessions": 2,
+      "users": 2
+    }
+  ],
+  "topPages": [
+    {
+      "page": "/",
+      "screenPageViews": 3330,
+      "sessions": 2928
+    },
+    {
+      "page": "/areas-we-serve/victorville/",
+      "screenPageViews": 468,
+      "sessions": 411
+    },
+    {
+      "page": "/contact/",
+      "screenPageViews": 375,
+      "sessions": 296
+    },
+    {
+      "page": "/careers/",
+      "screenPageViews": 295,
+      "sessions": 236
+    },
+    {
+      "page": "/specials/",
+      "screenPageViews": 268,
+      "sessions": 188
+    },
+    {
+      "page": "/blog/what-does-a-bad-ac-compressor-sound-like/",
+      "screenPageViews": 262,
+      "sessions": 259
+    },
+    {
+      "page": "/areas-we-serve/rancho-cucamonga/",
+      "screenPageViews": 225,
+      "sessions": 195
+    },
+    {
+      "page": "/about/",
+      "screenPageViews": 175,
+      "sessions": 165
+    },
+    {
+      "page": "/about/meet-the-team/",
+      "screenPageViews": 171,
+      "sessions": 169
+    },
+    {
+      "page": "/thank-you/",
+      "screenPageViews": 141,
+      "sessions": 132
+    },
+    {
+      "page": "/no-fuss-club/",
+      "screenPageViews": 120,
+      "sessions": 113
+    },
+    {
+      "page": "/careers/customer-service-job/",
+      "screenPageViews": 107,
+      "sessions": 95
+    },
+    {
+      "page": "/careers/hvac-technician/",
+      "screenPageViews": 107,
+      "sessions": 81
+    },
+    {
+      "page": "/financing/",
+      "screenPageViews": 102,
+      "sessions": 96
+    },
+    {
+      "page": "/areas-we-serve/",
+      "screenPageViews": 101,
+      "sessions": 96
+    },
+    {
+      "page": "/careers/hvac-installer/",
+      "screenPageViews": 100,
+      "sessions": 88
+    },
+    {
+      "page": "/air-conditioning/",
+      "screenPageViews": 96,
+      "sessions": 77
+    },
+    {
+      "page": "/areas-we-serve/wrightwood/",
+      "screenPageViews": 89,
+      "sessions": 75
+    },
+    {
+      "page": "/areas-we-serve/redlands/",
+      "screenPageViews": 87,
+      "sessions": 73
+    },
+    {
+      "page": "/air-conditioning/ac-repair/",
+      "screenPageViews": 85,
+      "sessions": 85
+    },
+    {
+      "page": "/blog/",
+      "screenPageViews": 85,
+      "sessions": 77
+    },
+    {
+      "page": "/heating/",
+      "screenPageViews": 83,
+      "sessions": 73
+    },
+    {
+      "page": "/reviews/",
+      "screenPageViews": 78,
+      "sessions": 73
+    },
+    {
+      "page": "/air-conditioning-repair-spring-valley-lake-272177bc/",
+      "screenPageViews": 73,
+      "sessions": 67
+    },
+    {
+      "page": "/air-conditioning-service-apple-valley-272184bc/",
+      "screenPageViews": 66,
+      "sessions": 54
+    },
+    {
+      "page": "/air-conditioning/ac-replacement/",
+      "screenPageViews": 60,
+      "sessions": 52
+    },
+    {
+      "page": "/air-conditioning-installation-spring-valley-lake-272180bc/",
+      "screenPageViews": 59,
+      "sessions": 52
+    },
+    {
+      "page": "/apple-valley-air-conditioning-service-near-me-286321bc/",
+      "screenPageViews": 56,
+      "sessions": 48
+    },
+    {
+      "page": "/air-conditioning-companies-spring-valley-lake-286325bc/",
+      "screenPageViews": 55,
+      "sessions": 53
+    },
+    {
+      "page": "/apple-valley-air-conditioning-companies-286320bc/",
+      "screenPageViews": 54,
+      "sessions": 49
+    }
+  ],
+  "fetchedAt": "2026-03-18T12:42:09.932Z"
+}

@@ -1,0 +1,1350 @@
+{
+  "property": "sc-domain:sunsethc.com",
+  "dateRange": {
+    "start": "2025-12-15",
+    "end": "2026-03-15"
+  },
+  "totals": {
+    "clicks": 3098,
+    "impressions": 1703517,
+    "ctr": 0.0018185905981566372,
+    "position": 22.948966185768423
+  },
+  "dailyData": [
+    {
+      "date": "2025-12-15",
+      "clicks": 40,
+      "impressions": 23963,
+      "ctr": 0.0016692400784542837,
+      "position": 17.454367149355257
+    },
+    {
+      "date": "2025-12-16",
+      "clicks": 42,
+      "impressions": 19407,
+      "ctr": 0.0021641675684031534,
+      "position": 22.15195547998145
+    },
+    {
+      "date": "2025-12-17",
+      "clicks": 46,
+      "impressions": 16167,
+      "ctr": 0.002845302158718377,
+      "position": 20.53027772623245
+    },
+    {
+      "date": "2025-12-18",
+      "clicks": 32,
+      "impressions": 16863,
+      "ctr": 0.0018976457332621716,
+      "position": 29.523275810947045
+    },
+    {
+      "date": "2025-12-19",
+      "clicks": 24,
+      "impressions": 17092,
+      "ctr": 0.001404165691551603,
+      "position": 25.460449333021298
+    },
+    {
+      "date": "2025-12-20",
+      "clicks": 25,
+      "impressions": 16326,
+      "ctr": 0.0015312997672424355,
+      "position": 23.73042998897464
+    },
+    {
+      "date": "2025-12-21",
+      "clicks": 17,
+      "impressions": 14272,
+      "ctr": 0.0011911434977578475,
+      "position": 24.919142376681613
+    },
+    {
+      "date": "2025-12-22",
+      "clicks": 23,
+      "impressions": 15888,
+      "ctr": 0.0014476334340382678,
+      "position": 21.822318731117825
+    },
+    {
+      "date": "2025-12-23",
+      "clicks": 28,
+      "impressions": 15573,
+      "ctr": 0.0017979836897193862,
+      "position": 27.67180376292301
+    },
+    {
+      "date": "2025-12-24",
+      "clicks": 24,
+      "impressions": 13945,
+      "ctr": 0.0017210469702402295,
+      "position": 28.10656149157404
+    },
+    {
+      "date": "2025-12-25",
+      "clicks": 13,
+      "impressions": 12298,
+      "ctr": 0.0010570824524312897,
+      "position": 29.08375345584648
+    },
+    {
+      "date": "2025-12-26",
+      "clicks": 26,
+      "impressions": 13359,
+      "ctr": 0.0019462534620854855,
+      "position": 24.726326820869826
+    },
+    {
+      "date": "2025-12-27",
+      "clicks": 24,
+      "impressions": 13959,
+      "ctr": 0.0017193208682570384,
+      "position": 24.017766315638656
+    },
+    {
+      "date": "2025-12-28",
+      "clicks": 24,
+      "impressions": 15354,
+      "ctr": 0.0015631105900742479,
+      "position": 25.526442620815423
+    },
+    {
+      "date": "2025-12-29",
+      "clicks": 47,
+      "impressions": 18279,
+      "ctr": 0.002571256633295038,
+      "position": 21.68193008370261
+    },
+    {
+      "date": "2025-12-30",
+      "clicks": 38,
+      "impressions": 18348,
+      "ctr": 0.0020710704163941574,
+      "position": 24.272018748637453
+    },
+    {
+      "date": "2025-12-31",
+      "clicks": 32,
+      "impressions": 20178,
+      "ctr": 0.0015858856179998017,
+      "position": 39.42754485082764
+    },
+    {
+      "date": "2026-01-01",
+      "clicks": 25,
+      "impressions": 16726,
+      "ctr": 0.0014946789429630515,
+      "position": 24.157897883534616
+    },
+    {
+      "date": "2026-01-02",
+      "clicks": 42,
+      "impressions": 13803,
+      "ctr": 0.0030428167789610956,
+      "position": 21.60979497210751
+    },
+    {
+      "date": "2026-01-03",
+      "clicks": 33,
+      "impressions": 13714,
+      "ctr": 0.0024063001312527345,
+      "position": 21.641534198629138
+    },
+    {
+      "date": "2026-01-04",
+      "clicks": 17,
+      "impressions": 14682,
+      "ctr": 0.0011578803977659719,
+      "position": 22.958588748126957
+    },
+    {
+      "date": "2026-01-05",
+      "clicks": 41,
+      "impressions": 19311,
+      "ctr": 0.0021231422505307855,
+      "position": 18.27046760913469
+    },
+    {
+      "date": "2026-01-06",
+      "clicks": 42,
+      "impressions": 16105,
+      "ctr": 0.002607885749767153,
+      "position": 20.554486184414777
+    },
+    {
+      "date": "2026-01-07",
+      "clicks": 39,
+      "impressions": 21562,
+      "ctr": 0.0018087375939152212,
+      "position": 25.071004545032928
+    },
+    {
+      "date": "2026-01-08",
+      "clicks": 25,
+      "impressions": 15005,
+      "ctr": 0.0016661112962345886,
+      "position": 27.27884038653782
+    },
+    {
+      "date": "2026-01-09",
+      "clicks": 33,
+      "impressions": 16485,
+      "ctr": 0.002001819836214741,
+      "position": 23.728601759175007
+    },
+    {
+      "date": "2026-01-10",
+      "clicks": 21,
+      "impressions": 14002,
+      "ctr": 0.0014997857448935867,
+      "position": 25.77117554635052
+    },
+    {
+      "date": "2026-01-11",
+      "clicks": 14,
+      "impressions": 15599,
+      "ctr": 0.0008974934290659658,
+      "position": 24.323546381178282
+    },
+    {
+      "date": "2026-01-12",
+      "clicks": 29,
+      "impressions": 14923,
+      "ctr": 0.0019433089861287944,
+      "position": 22.39509482007639
+    },
+    {
+      "date": "2026-01-13",
+      "clicks": 41,
+      "impressions": 16141,
+      "ctr": 0.002540115234496004,
+      "position": 25.191004274828078
+    },
+    {
+      "date": "2026-01-14",
+      "clicks": 31,
+      "impressions": 14575,
+      "ctr": 0.0021269296740994855,
+      "position": 23.9326243567753
+    },
+    {
+      "date": "2026-01-15",
+      "clicks": 37,
+      "impressions": 16698,
+      "ctr": 0.002215834231644508,
+      "position": 30.323092585938436
+    },
+    {
+      "date": "2026-01-16",
+      "clicks": 35,
+      "impressions": 17257,
+      "ctr": 0.002028162484788781,
+      "position": 19.796488381526338
+    },
+    {
+      "date": "2026-01-17",
+      "clicks": 18,
+      "impressions": 16063,
+      "ctr": 0.0011205876859864284,
+      "position": 23.418290481230155
+    },
+    {
+      "date": "2026-01-18",
+      "clicks": 20,
+      "impressions": 16545,
+      "ctr": 0.0012088244182532487,
+      "position": 23.3813841039589
+    },
+    {
+      "date": "2026-01-19",
+      "clicks": 35,
+      "impressions": 18776,
+      "ctr": 0.001864081806561568,
+      "position": 21.518427780144865
+    },
+    {
+      "date": "2026-01-20",
+      "clicks": 39,
+      "impressions": 20567,
+      "ctr": 0.0018962415520007779,
+      "position": 22.984732824427482
+    },
+    {
+      "date": "2026-01-21",
+      "clicks": 36,
+      "impressions": 20839,
+      "ctr": 0.0017275301118095878,
+      "position": 22.793752099428957
+    },
+    {
+      "date": "2026-01-22",
+      "clicks": 50,
+      "impressions": 24369,
+      "ctr": 0.002051787106569822,
+      "position": 24.818580984037098
+    },
+    {
+      "date": "2026-01-23",
+      "clicks": 49,
+      "impressions": 18981,
+      "ctr": 0.002581528897318371,
+      "position": 16.644381223328594
+    },
+    {
+      "date": "2026-01-24",
+      "clicks": 47,
+      "impressions": 23791,
+      "ctr": 0.001975536967760918,
+      "position": 16.548022361397166
+    },
+    {
+      "date": "2026-01-25",
+      "clicks": 54,
+      "impressions": 25970,
+      "ctr": 0.002079322294955718,
+      "position": 14.99780515979977
+    },
+    {
+      "date": "2026-01-26",
+      "clicks": 57,
+      "impressions": 25464,
+      "ctr": 0.002238454288407163,
+      "position": 16.41855168080427
+    },
+    {
+      "date": "2026-01-27",
+      "clicks": 69,
+      "impressions": 30008,
+      "ctr": 0.002299386830178619,
+      "position": 19.18681684884031
+    },
+    {
+      "date": "2026-01-28",
+      "clicks": 50,
+      "impressions": 21410,
+      "ctr": 0.002335357309668379,
+      "position": 22.114198972442782
+    },
+    {
+      "date": "2026-01-29",
+      "clicks": 55,
+      "impressions": 18958,
+      "ctr": 0.0029011499103280937,
+      "position": 20.33009811161515
+    },
+    {
+      "date": "2026-01-30",
+      "clicks": 38,
+      "impressions": 18900,
+      "ctr": 0.0020105820105820104,
+      "position": 18.736349206349207
+    },
+    {
+      "date": "2026-01-31",
+      "clicks": 51,
+      "impressions": 22192,
+      "ctr": 0.0022981254506128333,
+      "position": 20.62463950973324
+    },
+    {
+      "date": "2026-02-01",
+      "clicks": 48,
+      "impressions": 24064,
+      "ctr": 0.0019946808510638296,
+      "position": 17.828291223404257
+    },
+    {
+      "date": "2026-02-02",
+      "clicks": 60,
+      "impressions": 21602,
+      "ctr": 0.0027775205999444495,
+      "position": 19.392417368762153
+    },
+    {
+      "date": "2026-02-03",
+      "clicks": 72,
+      "impressions": 19554,
+      "ctr": 0.00368211107701749,
+      "position": 24.24378643755753
+    },
+    {
+      "date": "2026-02-04",
+      "clicks": 42,
+      "impressions": 15587,
+      "ctr": 0.0026945531532687494,
+      "position": 23.94488997241291
+    },
+    {
+      "date": "2026-02-05",
+      "clicks": 39,
+      "impressions": 15840,
+      "ctr": 0.002462121212121212,
+      "position": 25.07108585858586
+    },
+    {
+      "date": "2026-02-06",
+      "clicks": 30,
+      "impressions": 12529,
+      "ctr": 0.002394444887860164,
+      "position": 20.429643227711708
+    },
+    {
+      "date": "2026-02-07",
+      "clicks": 37,
+      "impressions": 12873,
+      "ctr": 0.0028742328905461043,
+      "position": 19.067272586032782
+    },
+    {
+      "date": "2026-02-08",
+      "clicks": 23,
+      "impressions": 14247,
+      "ctr": 0.0016143749561311153,
+      "position": 19.62083245595564
+    },
+    {
+      "date": "2026-02-09",
+      "clicks": 52,
+      "impressions": 21368,
+      "ctr": 0.002433545488581056,
+      "position": 20.650411830774992
+    },
+    {
+      "date": "2026-02-10",
+      "clicks": 35,
+      "impressions": 25258,
+      "ctr": 0.0013856995803309842,
+      "position": 35.76819225591892
+    },
+    {
+      "date": "2026-02-11",
+      "clicks": 28,
+      "impressions": 17131,
+      "ctr": 0.0016344638374875956,
+      "position": 26.131340844083823
+    },
+    {
+      "date": "2026-02-12",
+      "clicks": 35,
+      "impressions": 27215,
+      "ctr": 0.0012860554841080288,
+      "position": 32.7880948006614
+    },
+    {
+      "date": "2026-02-13",
+      "clicks": 31,
+      "impressions": 17611,
+      "ctr": 0.0017602634716938276,
+      "position": 22.315371074896373
+    },
+    {
+      "date": "2026-02-14",
+      "clicks": 20,
+      "impressions": 18862,
+      "ctr": 0.001060332944544587,
+      "position": 23.054129996819
+    },
+    {
+      "date": "2026-02-15",
+      "clicks": 21,
+      "impressions": 21445,
+      "ctr": 0.0009792492422476102,
+      "position": 22.970622522732572
+    },
+    {
+      "date": "2026-02-16",
+      "clicks": 34,
+      "impressions": 19973,
+      "ctr": 0.0017022981024382917,
+      "position": 21.53852701146548
+    },
+    {
+      "date": "2026-02-17",
+      "clicks": 42,
+      "impressions": 20089,
+      "ctr": 0.002090696401015481,
+      "position": 23.47802279854647
+    },
+    {
+      "date": "2026-02-18",
+      "clicks": 46,
+      "impressions": 25113,
+      "ctr": 0.0018317206227850117,
+      "position": 22.991279417035003
+    },
+    {
+      "date": "2026-02-19",
+      "clicks": 45,
+      "impressions": 30295,
+      "ctr": 0.0014853936293117676,
+      "position": 18.802574682290807
+    },
+    {
+      "date": "2026-02-20",
+      "clicks": 26,
+      "impressions": 17721,
+      "ctr": 0.0014671858247277242,
+      "position": 21.116979854410022
+    },
+    {
+      "date": "2026-02-21",
+      "clicks": 32,
+      "impressions": 18021,
+      "ctr": 0.0017757061206370346,
+      "position": 20.949669829643195
+    },
+    {
+      "date": "2026-02-22",
+      "clicks": 28,
+      "impressions": 19201,
+      "ctr": 0.0014582573824279985,
+      "position": 21.05973647205875
+    },
+    {
+      "date": "2026-02-23",
+      "clicks": 33,
+      "impressions": 20048,
+      "ctr": 0.001646049481245012,
+      "position": 18.60739225857941
+    },
+    {
+      "date": "2026-02-24",
+      "clicks": 45,
+      "impressions": 20566,
+      "ctr": 0.0021880774093163474,
+      "position": 21.440873286006028
+    },
+    {
+      "date": "2026-02-25",
+      "clicks": 40,
+      "impressions": 18312,
+      "ctr": 0.00218435998252512,
+      "position": 23.390072083879424
+    },
+    {
+      "date": "2026-02-26",
+      "clicks": 30,
+      "impressions": 18995,
+      "ctr": 0.0015793629902605948,
+      "position": 26.819268228481178
+    },
+    {
+      "date": "2026-02-27",
+      "clicks": 31,
+      "impressions": 16040,
+      "ctr": 0.0019326683291770574,
+      "position": 22.77001246882793
+    },
+    {
+      "date": "2026-02-28",
+      "clicks": 20,
+      "impressions": 17211,
+      "ctr": 0.0011620475277438847,
+      "position": 25.53988728138981
+    },
+    {
+      "date": "2026-03-01",
+      "clicks": 25,
+      "impressions": 22984,
+      "ctr": 0.00108771319178559,
+      "position": 22.504350852767143
+    },
+    {
+      "date": "2026-03-02",
+      "clicks": 35,
+      "impressions": 21648,
+      "ctr": 0.0016167775314116777,
+      "position": 23.560744641537326
+    },
+    {
+      "date": "2026-03-03",
+      "clicks": 46,
+      "impressions": 19822,
+      "ctr": 0.0023206538189890023,
+      "position": 23.740994854202402
+    },
+    {
+      "date": "2026-03-04",
+      "clicks": 28,
+      "impressions": 16119,
+      "ctr": 0.0017370804640486383,
+      "position": 24.457410509336807
+    },
+    {
+      "date": "2026-03-05",
+      "clicks": 25,
+      "impressions": 19989,
+      "ctr": 0.0012506878783330832,
+      "position": 24.826504577517635
+    },
+    {
+      "date": "2026-03-06",
+      "clicks": 25,
+      "impressions": 18623,
+      "ctr": 0.0013424260323256188,
+      "position": 23.613434999731513
+    },
+    {
+      "date": "2026-03-07",
+      "clicks": 17,
+      "impressions": 25485,
+      "ctr": 0.0006670590543456935,
+      "position": 17.562801648028252
+    },
+    {
+      "date": "2026-03-08",
+      "clicks": 23,
+      "impressions": 19170,
+      "ctr": 0.001199791340636411,
+      "position": 22.848565466875325
+    },
+    {
+      "date": "2026-03-09",
+      "clicks": 36,
+      "impressions": 19741,
+      "ctr": 0.001823615824932881,
+      "position": 22.26847677422623
+    },
+    {
+      "date": "2026-03-10",
+      "clicks": 41,
+      "impressions": 18785,
+      "ctr": 0.0021825924940111793,
+      "position": 22.0055895661432
+    },
+    {
+      "date": "2026-03-11",
+      "clicks": 23,
+      "impressions": 23023,
+      "ctr": 0.000999000999000999,
+      "position": 23.27146766277201
+    },
+    {
+      "date": "2026-03-12",
+      "clicks": 26,
+      "impressions": 21986,
+      "ctr": 0.0011825707268261622,
+      "position": 22.346038388065132
+    },
+    {
+      "date": "2026-03-13",
+      "clicks": 20,
+      "impressions": 21202,
+      "ctr": 0.0009433072351664937,
+      "position": 21.137817187057824
+    },
+    {
+      "date": "2026-03-14",
+      "clicks": 25,
+      "impressions": 27477,
+      "ctr": 0.0009098518761145685,
+      "position": 17.855442733922917
+    }
+  ],
+  "topQueries": [
+    {
+      "query": "sunset heating and cooling",
+      "clicks": 590,
+      "impressions": 3986,
+      "ctr": 0.14801806322127445,
+      "position": 1.2812343201204215
+    },
+    {
+      "query": "sunset plumbing",
+      "clicks": 70,
+      "impressions": 631,
+      "ctr": 0.1109350237717908,
+      "position": 5.638668779714738
+    },
+    {
+      "query": "sunset heating",
+      "clicks": 45,
+      "impressions": 399,
+      "ctr": 0.11278195488721804,
+      "position": 4.593984962406015
+    },
+    {
+      "query": "sunset heating and cooling portland",
+      "clicks": 36,
+      "impressions": 193,
+      "ctr": 0.18652849740932642,
+      "position": 1.0518134715025906
+    },
+    {
+      "query": "sunset heating & cooling",
+      "clicks": 34,
+      "impressions": 1302,
+      "ctr": 0.026113671274961597,
+      "position": 1.5890937019969278
+    },
+    {
+      "query": "sunset hvac",
+      "clicks": 34,
+      "impressions": 265,
+      "ctr": 0.12830188679245283,
+      "position": 3.4981132075471697
+    },
+    {
+      "query": "sunset electrical",
+      "clicks": 23,
+      "impressions": 249,
+      "ctr": 0.09236947791164658,
+      "position": 3.1927710843373496
+    },
+    {
+      "query": "sunset plumbing portland",
+      "clicks": 17,
+      "impressions": 111,
+      "ctr": 0.15315315315315314,
+      "position": 1.5045045045045045
+    },
+    {
+      "query": "sunset fuel",
+      "clicks": 15,
+      "impressions": 189,
+      "ctr": 0.07936507936507936,
+      "position": 6.275132275132275
+    },
+    {
+      "query": "sunset heating and air",
+      "clicks": 10,
+      "impressions": 205,
+      "ctr": 0.04878048780487805,
+      "position": 5.848780487804878
+    },
+    {
+      "query": "sunset electrical portland",
+      "clicks": 9,
+      "impressions": 76,
+      "ctr": 0.11842105263157894,
+      "position": 1.0921052631578947
+    },
+    {
+      "query": "sunset electric",
+      "clicks": 8,
+      "impressions": 132,
+      "ctr": 0.06060606060606061,
+      "position": 5.886363636363637
+    },
+    {
+      "query": "furnace capacitor",
+      "clicks": 7,
+      "impressions": 2190,
+      "ctr": 0.0031963470319634705,
+      "position": 3.078082191780822
+    },
+    {
+      "query": "sunset cooling and heating",
+      "clicks": 7,
+      "impressions": 51,
+      "ctr": 0.13725490196078433,
+      "position": 1.5294117647058822
+    },
+    {
+      "query": "sunset heating and cooling reviews",
+      "clicks": 7,
+      "impressions": 1637,
+      "ctr": 0.004276114844227245,
+      "position": 4.957849725106903
+    },
+    {
+      "query": "heat pump not keeping up in cold weather",
+      "clicks": 6,
+      "impressions": 385,
+      "ctr": 0.015584415584415584,
+      "position": 2.1948051948051948
+    },
+    {
+      "query": "heating and cooling portland",
+      "clicks": 6,
+      "impressions": 2192,
+      "ctr": 0.002737226277372263,
+      "position": 10.5
+    },
+    {
+      "query": "hvac portland",
+      "clicks": 6,
+      "impressions": 1441,
+      "ctr": 0.004163775156141568,
+      "position": 13.001387925052047
+    },
+    {
+      "query": "sunset plumbing and heating",
+      "clicks": 6,
+      "impressions": 74,
+      "ctr": 0.08108108108108109,
+      "position": 11.743243243243244
+    },
+    {
+      "query": "sunset heating & cooling reviews",
+      "clicks": 5,
+      "impressions": 130,
+      "ctr": 0.038461538461538464,
+      "position": 3.2846153846153845
+    },
+    {
+      "query": "sunset hvac portland",
+      "clicks": 5,
+      "impressions": 34,
+      "ctr": 0.14705882352941177,
+      "position": 3.4411764705882355
+    },
+    {
+      "query": "black furnace filter",
+      "clicks": 4,
+      "impressions": 209,
+      "ctr": 0.019138755980861243,
+      "position": 4.488038277511961
+    },
+    {
+      "query": "furnace repair",
+      "clicks": 4,
+      "impressions": 9545,
+      "ctr": 0.00041906757464641174,
+      "position": 2.664117338920901
+    },
+    {
+      "query": "furnace repair portland",
+      "clicks": 4,
+      "impressions": 1706,
+      "ctr": 0.0023446658851113715,
+      "position": 20.402696365767877
+    },
+    {
+      "query": "hvac",
+      "clicks": 4,
+      "impressions": 1423,
+      "ctr": 0.0028109627547434997,
+      "position": 2.260014054813774
+    },
+    {
+      "query": "hvac near me",
+      "clicks": 4,
+      "impressions": 1108,
+      "ctr": 0.0036101083032490976,
+      "position": 5.9891696750902526
+    },
+    {
+      "query": "hvac portland oregon",
+      "clicks": 4,
+      "impressions": 341,
+      "ctr": 0.011730205278592375,
+      "position": 8.140762463343108
+    },
+    {
+      "query": "sunset heating portland",
+      "clicks": 4,
+      "impressions": 34,
+      "ctr": 0.11764705882352941,
+      "position": 1.3529411764705883
+    },
+    {
+      "query": "heat pump not keeping up",
+      "clicks": 3,
+      "impressions": 627,
+      "ctr": 0.004784688995215311,
+      "position": 1.3588516746411483
+    },
+    {
+      "query": "heat pump struggling to keep up",
+      "clicks": 3,
+      "impressions": 241,
+      "ctr": 0.012448132780082987,
+      "position": 1.3153526970954357
+    },
+    {
+      "query": "morrison heating and cooling",
+      "clicks": 3,
+      "impressions": 34,
+      "ctr": 0.08823529411764706,
+      "position": 7.5588235294117645
+    },
+    {
+      "query": "sun heating and cooling",
+      "clicks": 3,
+      "impressions": 27,
+      "ctr": 0.1111111111111111,
+      "position": 12.37037037037037
+    },
+    {
+      "query": "sunset ac",
+      "clicks": 3,
+      "impressions": 58,
+      "ctr": 0.05172413793103448,
+      "position": 8.46551724137931
+    },
+    {
+      "query": "why is my house so dusty in the winter",
+      "clicks": 3,
+      "impressions": 237,
+      "ctr": 0.012658227848101266,
+      "position": 4.565400843881857
+    },
+    {
+      "query": "why is there more dust in winter",
+      "clicks": 3,
+      "impressions": 70,
+      "ctr": 0.04285714285714286,
+      "position": 4.357142857142858
+    },
+    {
+      "query": "ac pad",
+      "clicks": 2,
+      "impressions": 260,
+      "ctr": 0.007692307692307693,
+      "position": 15.107692307692307
+    },
+    {
+      "query": "ac repair portland or",
+      "clicks": 2,
+      "impressions": 1315,
+      "ctr": 0.001520912547528517,
+      "position": 19.97642585551331
+    },
+    {
+      "query": "emergency furnace service near me",
+      "clicks": 2,
+      "impressions": 7,
+      "ctr": 0.2857142857142857,
+      "position": 15.285714285714286
+    },
+    {
+      "query": "flue pipe furnace",
+      "clicks": 2,
+      "impressions": 1068,
+      "ctr": 0.0018726591760299626,
+      "position": 4.171348314606742
+    },
+    {
+      "query": "furnace companies near me",
+      "clicks": 2,
+      "impressions": 19,
+      "ctr": 0.10526315789473684,
+      "position": 6.2105263157894735
+    },
+    {
+      "query": "furnace flue pipe",
+      "clicks": 2,
+      "impressions": 997,
+      "ctr": 0.0020060180541624875,
+      "position": 4.199598796389168
+    },
+    {
+      "query": "furnace fuse keeps blowing",
+      "clicks": 2,
+      "impressions": 940,
+      "ctr": 0.002127659574468085,
+      "position": 6.753191489361702
+    },
+    {
+      "query": "furnace high limit switch keeps tripping",
+      "clicks": 2,
+      "impressions": 282,
+      "ctr": 0.0070921985815602835,
+      "position": 2.081560283687943
+    },
+    {
+      "query": "furnace making whistling noise when running",
+      "clicks": 2,
+      "impressions": 108,
+      "ctr": 0.018518518518518517,
+      "position": 5
+    },
+    {
+      "query": "furnace whistling",
+      "clicks": 2,
+      "impressions": 1011,
+      "ctr": 0.0019782393669634025,
+      "position": 6.600395647873393
+    },
+    {
+      "query": "goodman furnace dealers near me",
+      "clicks": 2,
+      "impressions": 3,
+      "ctr": 0.6666666666666666,
+      "position": 1.3333333333333333
+    },
+    {
+      "query": "goodman heat pump not blowing hot air",
+      "clicks": 2,
+      "impressions": 41,
+      "ctr": 0.04878048780487805,
+      "position": 1.0731707317073171
+    },
+    {
+      "query": "heating portland",
+      "clicks": 2,
+      "impressions": 133,
+      "ctr": 0.015037593984962405,
+      "position": 12.68421052631579
+    },
+    {
+      "query": "high efficiency air filter",
+      "clicks": 2,
+      "impressions": 549,
+      "ctr": 0.0036429872495446266,
+      "position": 14.233151183970856
+    },
+    {
+      "query": "high limit switch furnace",
+      "clicks": 2,
+      "impressions": 2172,
+      "ctr": 0.0009208103130755065,
+      "position": 1.3793738489871086
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://www.sunsethc.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*197*sunset-heating-portland",
+      "clicks": 770,
+      "impressions": 188912,
+      "ctr": 0.004075971881087491,
+      "position": 4.287255441687135
+    },
+    {
+      "page": "https://www.sunsethc.com/",
+      "clicks": 466,
+      "impressions": 55318,
+      "ctr": 0.008424021114284681,
+      "position": 20.579395495137206
+    },
+    {
+      "page": "https://www.sunsethc.com/why-does-my-furnaces-high-limit-switch-keep-tripping/",
+      "clicks": 145,
+      "impressions": 71836,
+      "ctr": 0.00201848655270338,
+      "position": 2.8589286708614066
+    },
+    {
+      "page": "https://www.sunsethc.com/why-heat-pump-not-keeping-up/",
+      "clicks": 125,
+      "impressions": 19751,
+      "ctr": 0.006328793478811199,
+      "position": 4.907852766948508
+    },
+    {
+      "page": "https://www.sunsethc.com/why-is-my-heat-pump-not-blowing-hot-air/",
+      "clicks": 105,
+      "impressions": 42794,
+      "ctr": 0.002453614992755994,
+      "position": 5.515282516240594
+    },
+    {
+      "page": "https://www.sunsethc.com/ac-not-working-after-power-outage-what-to-do-during-unexpected-situations/",
+      "clicks": 81,
+      "impressions": 25361,
+      "ctr": 0.003193880367493395,
+      "position": 7.12010567406648
+    },
+    {
+      "page": "https://www.sunsethc.com/why-is-my-shower-water-turning-cold-so-quickly/",
+      "clicks": 76,
+      "impressions": 33337,
+      "ctr": 0.002279749227584966,
+      "position": 4.460629330773616
+    },
+    {
+      "page": "https://www.sunsethc.com/common-mini-split-system-issues-and-how-to-troubleshoot-them/",
+      "clicks": 70,
+      "impressions": 17687,
+      "ctr": 0.003957709051845989,
+      "position": 4.577260134562108
+    },
+    {
+      "page": "https://www.sunsethc.com/why-does-my-furnace-keep-blowing-the-fuse/",
+      "clicks": 70,
+      "impressions": 28321,
+      "ctr": 0.0024716641361533843,
+      "position": 10.255993785530173
+    },
+    {
+      "page": "https://www.sunsethc.com/why-furnace-filter-turning-black/",
+      "clicks": 66,
+      "impressions": 9207,
+      "ctr": 0.007168458781362007,
+      "position": 4.652438362115781
+    },
+    {
+      "page": "https://www.sunsethc.com/why-house-so-dusty-in-the-winter/",
+      "clicks": 62,
+      "impressions": 7034,
+      "ctr": 0.008814330395223202,
+      "position": 8.304236565254477
+    },
+    {
+      "page": "https://www.sunsethc.com/what-is-furnace-flue-pipe-and-why-is-it-important/",
+      "clicks": 61,
+      "impressions": 34006,
+      "ctr": 0.0017938010939246016,
+      "position": 5.9443627595130275
+    },
+    {
+      "page": "https://www.sunsethc.com/whats-a-furnace-capacitor-and-how-to-tell-if-its-bad/",
+      "clicks": 55,
+      "impressions": 16164,
+      "ctr": 0.0034026231130908193,
+      "position": 4.646993318485523
+    },
+    {
+      "page": "https://www.sunsethc.com/why-is-my-furnace-making-a-whistling-sound/",
+      "clicks": 51,
+      "impressions": 28721,
+      "ctr": 0.0017757041885728213,
+      "position": 4.468019915741095
+    },
+    {
+      "page": "https://www.sunsethc.com/contact-us/",
+      "clicks": 47,
+      "impressions": 11915,
+      "ctr": 0.003944607637431809,
+      "position": 9.173310952580781
+    },
+    {
+      "page": "https://www.sunsethc.com/career-opportunities/",
+      "clicks": 45,
+      "impressions": 1116,
+      "ctr": 0.04032258064516129,
+      "position": 9.174731182795698
+    },
+    {
+      "page": "https://www.sunsethc.com/plumbing/",
+      "clicks": 42,
+      "impressions": 22617,
+      "ctr": 0.0018570102135561746,
+      "position": 36.503249767873726
+    },
+    {
+      "page": "https://www.sunsethc.com/how-to-troubleshoot-your-acs-outdoor-fan-motor/",
+      "clicks": 41,
+      "impressions": 20910,
+      "ctr": 0.00196078431372549,
+      "position": 11.958584409373506
+    },
+    {
+      "page": "https://www.sunsethc.com/what-is-a-furnace-burner-and-how-does-it-work/",
+      "clicks": 33,
+      "impressions": 13217,
+      "ctr": 0.0024967844442763108,
+      "position": 6.5063176212453655
+    },
+    {
+      "page": "https://www.sunsethc.com/electrical/",
+      "clicks": 32,
+      "impressions": 36022,
+      "ctr": 0.0008883460107711954,
+      "position": 31.571956026872467
+    },
+    {
+      "page": "https://www.sunsethc.com/about-us-sunset-heating-cooling/",
+      "clicks": 28,
+      "impressions": 11475,
+      "ctr": 0.0024400871459694987,
+      "position": 6.080261437908497
+    },
+    {
+      "page": "https://www.sunsethc.com/the-warning-signs-of-a-faulty-furnace-ignitor/",
+      "clicks": 24,
+      "impressions": 12068,
+      "ctr": 0.0019887305270135896,
+      "position": 8.277925091150149
+    },
+    {
+      "page": "https://www.sunsethc.com/why-is-my-ac-too-cold/",
+      "clicks": 24,
+      "impressions": 10969,
+      "ctr": 0.002187984319445711,
+      "position": 8.102744097000638
+    },
+    {
+      "page": "https://www.sunsethc.com/why-does-my-heat-pump-trip-the-breaker-over-and-over-again/",
+      "clicks": 23,
+      "impressions": 4316,
+      "ctr": 0.005329008341056534,
+      "position": 8.06858202038925
+    },
+    {
+      "page": "https://www.sunsethc.com/understanding-your-air-conditioners-expansion-valve/",
+      "clicks": 19,
+      "impressions": 16691,
+      "ctr": 0.0011383380264813373,
+      "position": 11.98298484213049
+    },
+    {
+      "page": "https://www.sunsethc.com/common-causes-of-reduced-furnace-airflow/",
+      "clicks": 17,
+      "impressions": 8599,
+      "ctr": 0.001976974066751948,
+      "position": 2.301779276660077
+    },
+    {
+      "page": "https://www.sunsethc.com/coupons-specials/",
+      "clicks": 17,
+      "impressions": 6322,
+      "ctr": 0.002689022461246441,
+      "position": 4.459348307497628
+    },
+    {
+      "page": "https://www.sunsethc.com/how-long-does-ac-freon-last/",
+      "clicks": 16,
+      "impressions": 11133,
+      "ctr": 0.0014371687775083086,
+      "position": 10.624270187730172
+    },
+    {
+      "page": "https://www.sunsethc.com/vancouver/",
+      "clicks": 16,
+      "impressions": 11174,
+      "ctr": 0.001431895471630571,
+      "position": 38.576695901199216
+    },
+    {
+      "page": "https://www.sunsethc.com/what-temperature-should-i-set-my-heat-pump-in-the-winter/",
+      "clicks": 16,
+      "impressions": 6553,
+      "ctr": 0.002441629787883412,
+      "position": 18.349153059667326
+    },
+    {
+      "page": "https://www.sunsethc.com/why-furnace-flue-pipe-rusting/",
+      "clicks": 16,
+      "impressions": 2850,
+      "ctr": 0.005614035087719298,
+      "position": 10.59157894736842
+    },
+    {
+      "page": "https://www.sunsethc.com/air-conditioner-pad-and-why-do-you-need-one/",
+      "clicks": 15,
+      "impressions": 8192,
+      "ctr": 0.0018310546875,
+      "position": 21.674560546875
+    },
+    {
+      "page": "https://www.sunsethc.com/salem/",
+      "clicks": 15,
+      "impressions": 30135,
+      "ctr": 0.0004977600796416127,
+      "position": 53.12201758752281
+    },
+    {
+      "page": "https://www.sunsethc.com/why-is-my-ac-outdoor-units-fan-not-spinning/",
+      "clicks": 15,
+      "impressions": 13827,
+      "ctr": 0.0010848340203948796,
+      "position": 14.186736096043973
+    },
+    {
+      "page": "https://www.sunsethc.com/beaverton/",
+      "clicks": 14,
+      "impressions": 35791,
+      "ctr": 0.00039115978877371407,
+      "position": 18.625101282445307
+    },
+    {
+      "page": "https://www.sunsethc.com/common-causes-for-cold-spots-in-your-home/",
+      "clicks": 14,
+      "impressions": 6244,
+      "ctr": 0.002242152466367713,
+      "position": 5.9572389493914155
+    },
+    {
+      "page": "https://www.sunsethc.com/reviews/",
+      "clicks": 14,
+      "impressions": 2634,
+      "ctr": 0.005315110098709187,
+      "position": 4.826119969627943
+    },
+    {
+      "page": "https://www.sunsethc.com/why-is-my-ac-air-not-as-cold-as-it-used-to-be/",
+      "clicks": 14,
+      "impressions": 5589,
+      "ctr": 0.0025049203793165147,
+      "position": 30.027375201288244
+    },
+    {
+      "page": "https://www.sunsethc.com/heat-pump-problems-in-cold-weather/",
+      "clicks": 12,
+      "impressions": 6660,
+      "ctr": 0.0018018018018018018,
+      "position": 6.567417417417418
+    },
+    {
+      "page": "https://www.sunsethc.com/how-to-unclog-a-bathroom-sink-drain/",
+      "clicks": 12,
+      "impressions": 16110,
+      "ctr": 0.0007448789571694599,
+      "position": 25.949162011173183
+    },
+    {
+      "page": "https://www.sunsethc.com/the-truth-about-furnace-short-cycling-causes-and-solutions/",
+      "clicks": 12,
+      "impressions": 5553,
+      "ctr": 0.0021609940572663426,
+      "position": 24.763010985053125
+    },
+    {
+      "page": "https://www.sunsethc.com/what-is-a-good-seer-rating/",
+      "clicks": 11,
+      "impressions": 12685,
+      "ctr": 0.00086716594402838,
+      "position": 35.03957430035475
+    },
+    {
+      "page": "https://www.sunsethc.com/ductless-mini-split/",
+      "clicks": 10,
+      "impressions": 19428,
+      "ctr": 0.0005147210212065061,
+      "position": 27.20336627547869
+    },
+    {
+      "page": "https://www.sunsethc.com/why-your-water-heater-takes-so-long-to-heat/",
+      "clicks": 10,
+      "impressions": 4226,
+      "ctr": 0.00236630383341221,
+      "position": 10.654756270705159
+    },
+    {
+      "page": "https://www.sunsethc.com/contact-us/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*197*sunset-heating-portland",
+      "clicks": 9,
+      "impressions": 5202,
+      "ctr": 0.0017301038062283738,
+      "position": 11.932333717800846
+    },
+    {
+      "page": "https://www.sunsethc.com/things-to-do-before-you-turn-on-ac-after-winter/",
+      "clicks": 9,
+      "impressions": 1656,
+      "ctr": 0.005434782608695652,
+      "position": 11.719806763285025
+    },
+    {
+      "page": "https://www.sunsethc.com/air-duct-repair-installation/",
+      "clicks": 8,
+      "impressions": 7681,
+      "ctr": 0.0010415310506444472,
+      "position": 46.5061840906132
+    },
+    {
+      "page": "https://www.sunsethc.com/dangers-of-old-outlets-switches/",
+      "clicks": 8,
+      "impressions": 1788,
+      "ctr": 0.0044742729306487695,
+      "position": 5.081096196868009
+    },
+    {
+      "page": "https://www.sunsethc.com/financing/",
+      "clicks": 8,
+      "impressions": 842,
+      "ctr": 0.009501187648456057,
+      "position": 8.014251781472684
+    },
+    {
+      "page": "https://www.sunsethc.com/the-difference-between-fiberglass-filters-pleated-filters/",
+      "clicks": 8,
+      "impressions": 4842,
+      "ctr": 0.0016522098306484924,
+      "position": 25.130111524163567
+    }
+  ],
+  "fetchedAt": "2026-03-18T12:42:05.479Z"
+}
