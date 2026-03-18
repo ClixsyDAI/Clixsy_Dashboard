@@ -115,7 +115,25 @@ export default async function ClientDashboard({ params }: PageProps) {
           <DashboardTabs tabs={tabs}>
             {/* ── TAB 0: AI REPORT ──────────────────────────── */}
             <div>
-              <AISummaryTab projectId={id} projectName={project.name} />
+              <AISummaryTab
+                projectId={id}
+                projectName={project.name}
+                projectDescription={project.description}
+                todos={todos || []}
+                gscDaily={gscData?.dailyData || null}
+                gscTopQueries={gscData?.topQueries || null}
+                ga4Daily={ga4Data?.dailyData || null}
+                ga4Channels={ga4Data?.channelData || null}
+                ga4OrganicSessions={ga4Data?.totals?.organicSessions ?? null}
+                blLocations={blData?.locationCount ?? null}
+                blRankingsUp={blData?.totalRankingsUp ?? null}
+                blRankingsDown={blData?.totalRankingsDown ?? null}
+                blAvgGoogleRank={blData?.avgGoogleRank ?? null}
+                blCitations={blData?.totalCitations ?? null}
+                blReviewRating={blData?.reviewRating ?? null}
+                blTotalReviews={blData?.totalReviews ?? null}
+                blGmbCalls={blData?.totalGmbCalls ?? null}
+              />
             </div>
 
             {/* ── TAB 1: OVERVIEW ────────────────────────────── */}
