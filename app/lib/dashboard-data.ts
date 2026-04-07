@@ -211,6 +211,21 @@ export function getDashboardData(projectId: string, clientName: string) {
     (t) => t.completed_on && new Date(t.completed_on) >= cutoff
   );
 
+  // Last 10 tasks worked on (by updated_at desc)
+  const last10Updated = [...todos]
+    .filter((t) => t.updated_at)
+    .sort((a, b) => new Date(b.updated_at).getTime() - new Date(a.updated_at).getTime())
+    .slice(0, 10)
+    .map((t) => ({
+      id: t.id,
+      title: stripHtml(t.title),
+      description: stripHtml(t.description || "").slice(0, 600),
+      list_title: cleanListTitle(t.list_title),
+      completed: t.completed,
+      updated_at: t.updated_at,
+      app_url: t.app_url,
+    }));
+
   const topCommented = [...todos]
     .sort((a, b) => (b.comments_count || 0) - (a.comments_count || 0))
     .slice(0, 10)
@@ -332,6 +347,7 @@ export function getDashboardData(projectId: string, clientName: string) {
     outstandingCount,
     completionRate: Math.round(completionRate),
     periodCompletedCount: periodCompleted.length,
+    last10Updated,
     topCommented,
     topImpact,
     uniqueLists,

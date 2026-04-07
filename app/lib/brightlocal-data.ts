@@ -40,6 +40,26 @@ export interface BrightLocalLocation {
   gmbTotal: number;
 }
 
+interface GridIndexEntry {
+  file: string; // public-relative path, e.g. "/grids/3660193.png"
+  capturedAt: string;
+}
+let cachedGridIndex: Record<string, GridIndexEntry> | null = null;
+function loadGridIndex(): Record<string, GridIndexEntry> {
+  if (cachedGridIndex) return cachedGridIndex;
+  const filePath = join(process.cwd(), "app", "data", "brightlocal-grid-index.json");
+  if (!existsSync(filePath)) {
+    cachedGridIndex = {};
+    return cachedGridIndex;
+  }
+  try {
+    cachedGridIndex = JSON.parse(readFileSync(filePath, "utf-8"));
+  } catch {
+    cachedGridIndex = {};
+  }
+  return cachedGridIndex!;
+}
+
 let cachedLocations: BrightLocalLocation[] | null = null;
 
 function loadAllLocations(): BrightLocalLocation[] {
@@ -145,9 +165,19 @@ export function getBrightLocalSummary(projectId: string) {
   // Load citation reports matched by locationId
   const citations = getCitationsForLocations(locations.map((l) => l.locationId));
 
+  // Look up the captured grid screenshot for the "main" location (first in list)
+  const gridIndex = loadGridIndex();
+  const mainLocation = locations[0];
+  const mainGrid = mainLocation
+    ? gridIndex[String(mainLocation.locationId)] || null
+    : null;
+
   return {
     locationCount: locations.length,
     locations,
+    mainLocationName: mainLocation?.locationName || null,
+    mainGridImage: mainGrid?.file || null,
+    mainGridCapturedAt: mainGrid?.capturedAt || null,
     totalRankingsUp,
     totalRankingsDown,
     totalCitations,

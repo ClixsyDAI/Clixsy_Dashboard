@@ -79,6 +79,9 @@ export interface GscSearchData {
   dailyData: Array<{ date: string; clicks: number; impressions: number; ctr: number; position: number }>;
   topQueries: Array<{ query: string; clicks: number; impressions: number; ctr: number; position: number }>;
   topPages: Array<{ page: string; clicks: number; impressions: number; ctr: number; position: number }>;
+  /** Same window one year earlier — used for non-branded YoY comparison. */
+  yoyDateRange?: { start: string; end: string };
+  yoyTopQueries?: Array<{ query: string; clicks: number; impressions: number; ctr: number; position: number }>;
   fetchedAt: string;
 }
 
@@ -102,8 +105,21 @@ export async function fetchGscData(
     rowLimit: 25000,
   };
 
-  // Fetch daily data, top queries, and top pages in parallel
-  const [dailyRes, queriesRes, pagesRes] = await Promise.all([
+  // YoY window: same length, one year earlier
+  const yoyEndDate = new Date(endDate);
+  yoyEndDate.setFullYear(yoyEndDate.getFullYear() - 1);
+  const yoyStartDate = new Date(startDate);
+  yoyStartDate.setFullYear(yoyStartDate.getFullYear() - 1);
+
+  const yoyBody = {
+    startDate: fmt(yoyStartDate),
+    endDate: fmt(yoyEndDate),
+    dimensions: [] as string[],
+    rowLimit: 25000,
+  };
+
+  // Fetch daily data, top queries, top pages, and YoY queries in parallel
+  const [dailyRes, queriesRes, pagesRes, yoyQueriesRes] = await Promise.all([
     fetch(`${GSC_API}/sites/${encodeURIComponent(siteUrl)}/searchAnalytics/query`, {
       method: "POST",
       headers: { Authorization: `Bearer ${token}`, "Content-Type": "application/json" },
@@ -112,20 +128,28 @@ export async function fetchGscData(
     fetch(`${GSC_API}/sites/${encodeURIComponent(siteUrl)}/searchAnalytics/query`, {
       method: "POST",
       headers: { Authorization: `Bearer ${token}`, "Content-Type": "application/json" },
-      body: JSON.stringify({ ...baseBody, dimensions: ["query"], rowLimit: 50 }),
+      body: JSON.stringify({ ...baseBody, dimensions: ["query"], rowLimit: 200 }),
     }),
     fetch(`${GSC_API}/sites/${encodeURIComponent(siteUrl)}/searchAnalytics/query`, {
       method: "POST",
       headers: { Authorization: `Bearer ${token}`, "Content-Type": "application/json" },
       body: JSON.stringify({ ...baseBody, dimensions: ["page"], rowLimit: 50 }),
     }),
+    fetch(`${GSC_API}/sites/${encodeURIComponent(siteUrl)}/searchAnalytics/query`, {
+      method: "POST",
+      headers: { Authorization: `Bearer ${token}`, "Content-Type": "application/json" },
+      body: JSON.stringify({ ...yoyBody, dimensions: ["query"], rowLimit: 200 }),
+    }),
   ]);
 
-  const [dailyJson, queriesJson, pagesJson] = await Promise.all([
+  const [dailyJson, queriesJson, pagesJson, yoyQueriesJson] = await Promise.all([
     dailyRes.json(),
     queriesRes.json(),
     pagesRes.json(),
+    yoyQueriesRes.json(),
   ]);
+
+  const yoyQueryRows: GscQueryRow[] = yoyQueriesJson.rows || [];
 
   const dailyRows: GscQueryRow[] = dailyJson.rows || [];
   const queryRows: GscQueryRow[] = queriesJson.rows || [];
@@ -167,6 +191,14 @@ export async function fetchGscData(
     })),
     topPages: pageRows.map((r) => ({
       page: r.keys[0],
+      clicks: r.clicks,
+      impressions: r.impressions,
+      ctr: r.ctr,
+      position: r.position,
+    })),
+    yoyDateRange: { start: fmt(yoyStartDate), end: fmt(yoyEndDate) },
+    yoyTopQueries: yoyQueryRows.map((r) => ({
+      query: r.keys[0],
       clicks: r.clicks,
       impressions: r.impressions,
       ctr: r.ctr,
@@ -252,6 +284,16 @@ export interface Ga4ReportData {
     sessions: number;
     users: number;
   }>;
+  /**
+   * Key events (conversions) per channel — excludes engagement noise
+   * (page_view, session_start, first_visit, user_engagement).
+   */
+  keyEventsByChannel?: Array<{
+    channel: string;
+    sessions: number;
+    keyEvents: number;
+    conversionRate: number;
+  }>;
   topPages: Array<{
     page: string;
     screenPageViews: number;
@@ -259,6 +301,13 @@ export interface Ga4ReportData {
   }>;
   fetchedAt: string;
 }
+
+const EXCLUDED_KEY_EVENTS = new Set([
+  "page_view",
+  "session_start",
+  "first_visit",
+  "user_engagement",
+]);
 
 /** Fetch GA4 analytics data for a property */
 export async function fetchGa4Data(
@@ -278,8 +327,8 @@ export async function fetchGa4Data(
 
   const fmt = (d: Date) => d.toISOString().split("T")[0];
 
-  // Run 3 reports in parallel: daily overview, channel breakdown, top pages
-  const [dailyRes, channelRes, pagesRes] = await Promise.all([
+  // Run reports in parallel: daily overview, channel breakdown, top pages, key events by channel+event
+  const [dailyRes, channelRes, pagesRes, eventsRes] = await Promise.all([
     // Daily overview
     fetch(`${GA4_API}/${propId}:runReport`, {
       method: "POST",
@@ -322,12 +371,27 @@ export async function fetchGa4Data(
         limit: 30,
       }),
     }),
+    // Events by channel + event name (for key events / conversion rate)
+    fetch(`${GA4_API}/${propId}:runReport`, {
+      method: "POST",
+      headers: { Authorization: `Bearer ${token}`, "Content-Type": "application/json" },
+      body: JSON.stringify({
+        dateRanges: [{ startDate: fmt(startDate), endDate: fmt(endDate) }],
+        dimensions: [
+          { name: "sessionDefaultChannelGroup" },
+          { name: "eventName" },
+        ],
+        metrics: [{ name: "eventCount" }],
+        limit: 5000,
+      }),
+    }),
   ]);
 
-  const [dailyJson, channelJson, pagesJson] = await Promise.all([
+  const [dailyJson, channelJson, pagesJson, eventsJson] = await Promise.all([
     dailyRes.json(),
     channelRes.json(),
     pagesRes.json(),
+    eventsRes.json(),
   ]);
 
   // Parse daily data
@@ -374,6 +438,34 @@ export async function fetchGa4Data(
     sessions: parseInt(r.metricValues[1].value) || 0,
   }));
 
+  // Aggregate key events by channel (excluding noisy engagement events)
+  const keyEventCountByChannel = new Map<string, number>();
+  for (const r of (eventsJson.rows || []) as Array<{
+    dimensionValues: Array<{ value: string }>;
+    metricValues: Array<{ value: string }>;
+  }>) {
+    const channel = r.dimensionValues[0]?.value || "(unknown)";
+    const eventName = r.dimensionValues[1]?.value || "";
+    if (EXCLUDED_KEY_EVENTS.has(eventName)) continue;
+    const count = parseInt(r.metricValues[0]?.value || "0") || 0;
+    keyEventCountByChannel.set(
+      channel,
+      (keyEventCountByChannel.get(channel) || 0) + count
+    );
+  }
+
+  const keyEventsByChannel = channelData
+    .map((c: { channel: string; sessions: number }) => {
+      const keyEvents = keyEventCountByChannel.get(c.channel) || 0;
+      return {
+        channel: c.channel,
+        sessions: c.sessions,
+        keyEvents,
+        conversionRate: c.sessions > 0 ? keyEvents / c.sessions : 0,
+      };
+    })
+    .sort((a: { sessions: number }, b: { sessions: number }) => b.sessions - a.sessions);
+
   return {
     propertyId: propId,
     displayName,
@@ -386,6 +478,7 @@ export async function fetchGa4Data(
       screenPageViews: r.screenPageViews,
     })),
     channelData,
+    keyEventsByChannel,
     topPages,
     fetchedAt: new Date().toISOString(),
   };

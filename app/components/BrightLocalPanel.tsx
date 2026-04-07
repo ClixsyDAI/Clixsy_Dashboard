@@ -47,6 +47,9 @@ interface BrightLocalPanelProps {
   reviewRating: number;
   totalReviews: number;
   citations: CitationReport[];
+  mainLocationName?: string | null;
+  mainGridImage?: string | null;
+  mainGridCapturedAt?: string | null;
 }
 
 function ChangeIndicator({ value, inverse = false }: { value: number; inverse?: boolean }) {
@@ -74,6 +77,9 @@ export default function BrightLocalPanel({
   reviewRating,
   totalReviews,
   citations,
+  mainLocationName,
+  mainGridImage,
+  mainGridCapturedAt,
 }: BrightLocalPanelProps) {
   return (
     <div>
@@ -100,6 +106,31 @@ export default function BrightLocalPanel({
         <KpiBox value={totalGmbCalls.toString()} label="GBP CALLS" accent />
         <KpiBox value={totalGmbInteractions.toString()} label="GBP INTERACTIONS" accent />
       </div>
+
+      {/* Main location grid screenshot */}
+      {mainGridImage && (
+        <div className="mt-8">
+          <div className="flex items-baseline justify-between">
+            <h3 className="text-sm font-semibold tracking-wide" style={{ color: "#f0ede8" }}>
+              LOCAL SEARCH GRID — {mainLocationName || "Main Location"}
+            </h3>
+            {mainGridCapturedAt && (
+              <span className="text-[11px]" style={{ color: "#666" }}>
+                Captured {new Date(mainGridCapturedAt).toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" })}
+              </span>
+            )}
+          </div>
+          <div className="mt-1 h-[1px] w-full" style={{ backgroundColor: "#333" }} />
+          <div className="mt-3 rounded-sm p-2" style={{ backgroundColor: "#111111" }}>
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src={mainGridImage}
+              alt={`Local Search Grid for ${mainLocationName || "main location"}`}
+              className="mx-auto block max-w-full rounded-sm"
+            />
+          </div>
+        </div>
+      )}
 
       {/* Location Table */}
       <div className="mt-8">

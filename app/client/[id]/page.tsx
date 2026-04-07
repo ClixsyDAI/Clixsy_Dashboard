@@ -10,6 +10,10 @@ import AISummaryTab from "../../components/AISummaryTab";
 import ProjectLogTable from "../../components/ProjectLogTable";
 import BrightLocalPanel from "../../components/BrightLocalPanel";
 import { getBrightLocalSummary } from "../../lib/brightlocal-data";
+import OverviewTopWins from "../../components/OverviewTopWins";
+import Last10TasksTable from "../../components/Last10TasksTable";
+import { detectWins } from "../../lib/win-flag-detection";
+import { loadTaskSummaries } from "../../lib/task-summaries";
 
 interface PageProps {
   params: Promise<{ id: string }>;
@@ -28,13 +32,89 @@ export default async function ClientDashboard({ params }: PageProps) {
   const ga4Data = loadGa4Data(id);
   const todos = loadClientTodos(id);
   const blData = getBrightLocalSummary(id);
+  const taskSummariesCache = loadTaskSummaries(id);
+
+  // ── Compute TOP WINS for the Overview tab (server-side) ──────
+  // Use a simple last-30-days vs prior-30-days comparison so the wins panel
+  // matches the rest of the Overview's reporting period.
+  const now = new Date();
+  const cutoff = new Date(now.getTime() - 30 * 24 * 60 * 60 * 1000);
+  const prevCutoff = new Date(cutoff.getTime() - 30 * 24 * 60 * 60 * 1000);
+
+  function sumGsc(daily: typeof gscData extends infer T ? T extends { dailyData: infer D } ? D : never : never, from: Date, to: Date) {
+    if (!Array.isArray(daily)) return { clicks: 0, impressions: 0, position: 0, ctr: 0 };
+    const rows = daily.filter((r) => {
+      const d = new Date(r.date);
+      return d >= from && d <= to;
+    });
+    const clicks = rows.reduce((s, r) => s + r.clicks, 0);
+    const impressions = rows.reduce((s, r) => s + r.impressions, 0);
+    const position = rows.length > 0 ? rows.reduce((s, r) => s + r.position, 0) / rows.length : 0;
+    const ctr = impressions > 0 ? clicks / impressions : 0;
+    return { clicks, impressions, position, ctr };
+  }
+  function sumGa4(daily: typeof ga4Data extends infer T ? T extends { dailyData: infer D } ? D : never : never, from: Date, to: Date) {
+    if (!Array.isArray(daily)) return { sessions: 0 };
+    const rows = daily.filter((r) => {
+      const d = new Date(r.date);
+      return d >= from && d <= to;
+    });
+    return { sessions: rows.reduce((s, r) => s + r.sessions, 0) };
+  }
+  const gscCurr = gscData ? sumGsc(gscData.dailyData, cutoff, now) : null;
+  const gscPrev = gscData ? sumGsc(gscData.dailyData, prevCutoff, cutoff) : null;
+  const ga4Curr = ga4Data ? sumGa4(ga4Data.dailyData, cutoff, now) : null;
+  const ga4Prev = ga4Data ? sumGa4(ga4Data.dailyData, prevCutoff, cutoff) : null;
+  const completedThisPeriod = (todos || []).filter(
+    (t) => t.completed && t.completed_on && new Date(t.completed_on) >= cutoff
+  ).length;
+  const dueThisPeriod = (todos || []).filter(
+    (t) => t.due_on && new Date(t.due_on) >= cutoff && new Date(t.due_on) <= now
+  ).length;
+  const overdue = (todos || [])
+    .filter((t) => !t.completed && t.due_on && new Date(t.due_on) < now)
+    .map((t) => ({ title: t.title, due_on: t.due_on }));
+  const overviewWins = detectWins({
+    tasksCompletedInPeriod: completedThisPeriod,
+    tasksDueInPeriod: dueThisPeriod,
+    overdueTasks: overdue,
+    completionRate:
+      dueThisPeriod > 0
+        ? completedThisPeriod / dueThisPeriod
+        : completedThisPeriod > 0
+          ? 0.9
+          : 0,
+    gscClicksCurrent: gscCurr ? gscCurr.clicks : null,
+    gscClicksPrevious: gscPrev ? gscPrev.clicks : null,
+    gscAvgPositionCurrent: gscCurr && gscCurr.position > 0 ? gscCurr.position : null,
+    gscAvgPositionPrevious: gscPrev && gscPrev.position > 0 ? gscPrev.position : null,
+    gscCtrCurrent: gscCurr ? gscCurr.ctr : null,
+    gscCtrPrevious: gscPrev ? gscPrev.ctr : null,
+    ga4SessionsCurrent: ga4Curr ? ga4Curr.sessions : null,
+    ga4SessionsPrevious: ga4Prev ? ga4Prev.sessions : null,
+    ga4OrganicCurrent: ga4Data ? ga4Data.totals.organicSessions : null,
+    ga4OrganicPrevious: ga4Prev ? ga4Prev.sessions : null,
+    blRankingsUp: blData?.totalRankingsUp ?? null,
+    blRankingsDown: blData?.totalRankingsDown ?? null,
+    blAvgGoogleRank: blData?.avgGoogleRank ?? null,
+    blReviewRating: blData?.reviewRating ?? null,
+    blTotalReviews: blData?.totalReviews ?? null,
+    blCitations: blData?.totalCitations ?? null,
+    blGmbCalls: blData?.totalGmbCalls ?? null,
+  });
 
   const tabs = [
-    { id: "report", label: "Report" },
     { id: "overview", label: "Overview" },
-    { id: "project-log", label: "Project Log" },
     ...(gscData || ga4Data ? [{ id: "search", label: "Search Performance" }] : []),
     ...(blData ? [{ id: "local-seo", label: "Local SEO" }] : []),
+    {
+      id: "internal",
+      label: "Internal Use",
+      children: [
+        { id: "report", label: "Report" },
+        { id: "project-log", label: "Project Log" },
+      ],
+    },
   ];
 
   return (
@@ -113,30 +193,7 @@ export default async function ClientDashboard({ params }: PageProps) {
           </div>
         ) : (
           <DashboardTabs tabs={tabs}>
-            {/* ── TAB 0: AI REPORT ──────────────────────────── */}
-            <div>
-              <AISummaryTab
-                projectId={id}
-                projectName={project.name}
-                projectDescription={project.description}
-                todos={todos || []}
-                gscDaily={gscData?.dailyData || null}
-                gscTopQueries={gscData?.topQueries || null}
-                ga4Daily={ga4Data?.dailyData || null}
-                ga4Channels={ga4Data?.channelData || null}
-                ga4OrganicSessions={ga4Data?.totals?.organicSessions ?? null}
-                blLocations={blData?.locationCount ?? null}
-                blRankingsUp={blData?.totalRankingsUp ?? null}
-                blRankingsDown={blData?.totalRankingsDown ?? null}
-                blAvgGoogleRank={blData?.avgGoogleRank ?? null}
-                blCitations={blData?.totalCitations ?? null}
-                blReviewRating={blData?.reviewRating ?? null}
-                blTotalReviews={blData?.totalReviews ?? null}
-                blGmbCalls={blData?.totalGmbCalls ?? null}
-              />
-            </div>
-
-            {/* ── TAB 1: OVERVIEW ────────────────────────────── */}
+            {/* ── TAB: OVERVIEW ──────────────────────────────── */}
             <div>
               {/* KPI Cards */}
               <section className="grid grid-cols-2 gap-4 md:grid-cols-4">
@@ -168,7 +225,9 @@ export default async function ClientDashboard({ params }: PageProps) {
                 total tasks tracked
               </p>
 
-              {/* Charts */}
+              {/* Charts: Row 1 = TOP WINS + (Donut + Gauge half-width) ;
+                  Row inserted after = Last 10 Tasks Worked On ;
+                  Row 2 = Tasks by Category ; Row 3 = Comments + Timeline */}
               <ClientDashboardCharts
                 completedCount={data.completedCount}
                 outstandingCount={data.outstandingCount}
@@ -176,6 +235,16 @@ export default async function ClientDashboard({ params }: PageProps) {
                 categoryData={data.categoryData}
                 commentData={data.commentData}
                 timelineData={data.timelineData}
+                topWinsSlot={<OverviewTopWins wins={overviewWins} />}
+                afterRow1={
+                  data.last10Updated && data.last10Updated.length > 0 ? (
+                    <Last10TasksTable
+                      projectId={id}
+                      tasks={data.last10Updated}
+                      initialSummaries={taskSummariesCache}
+                    />
+                  ) : null
+                }
               />
 
               {/* Most Discussed Tasks Table */}
@@ -333,7 +402,57 @@ export default async function ClientDashboard({ params }: PageProps) {
               </section>
             </div>
 
-            {/* ── TAB 2: PROJECT LOG ────────────────────────── */}
+            {/* ── TAB: SEARCH PERFORMANCE (conditional) ─────── */}
+            {(gscData || ga4Data) && (
+              <div>
+                <GoogleSearchCharts
+                  gscProperty={gscData?.property || null}
+                  projectName={project.name}
+                  gscDaily={gscData?.dailyData || null}
+                  gscTopQueries={gscData?.topQueries || null}
+                  gscYoyTopQueries={gscData?.yoyTopQueries || null}
+                  gscYoyDateRange={gscData?.yoyDateRange || null}
+                  gscDateRange={gscData?.dateRange || null}
+                  gscTopPages={gscData?.topPages || null}
+                  gscTotals={gscData?.totals || null}
+                  ga4Daily={ga4Data?.dailyData || null}
+                  ga4KeyEventsByChannel={ga4Data?.keyEventsByChannel || null}
+                  ga4Totals={ga4Data?.totals || null}
+                />
+              </div>
+            )}
+
+            {/* ── TAB: LOCAL SEO / BRIGHTLOCAL (conditional) ── */}
+            {blData && (
+              <div>
+                <BrightLocalPanel {...blData} />
+              </div>
+            )}
+
+            {/* ── TAB: INTERNAL USE → REPORT (AI) ───────────── */}
+            <div>
+              <AISummaryTab
+                projectId={id}
+                projectName={project.name}
+                projectDescription={project.description}
+                todos={todos || []}
+                gscDaily={gscData?.dailyData || null}
+                gscTopQueries={gscData?.topQueries || null}
+                ga4Daily={ga4Data?.dailyData || null}
+                ga4Channels={ga4Data?.channelData || null}
+                ga4OrganicSessions={ga4Data?.totals?.organicSessions ?? null}
+                blLocations={blData?.locationCount ?? null}
+                blRankingsUp={blData?.totalRankingsUp ?? null}
+                blRankingsDown={blData?.totalRankingsDown ?? null}
+                blAvgGoogleRank={blData?.avgGoogleRank ?? null}
+                blCitations={blData?.totalCitations ?? null}
+                blReviewRating={blData?.reviewRating ?? null}
+                blTotalReviews={blData?.totalReviews ?? null}
+                blGmbCalls={blData?.totalGmbCalls ?? null}
+              />
+            </div>
+
+            {/* ── TAB: INTERNAL USE → PROJECT LOG ───────────── */}
             <div>
               {todos && todos.length > 0 ? (
                 <ProjectLogTable todos={todos} />
@@ -343,28 +462,6 @@ export default async function ClientDashboard({ params }: PageProps) {
                 </p>
               )}
             </div>
-
-            {/* ── TAB 3: SEARCH PERFORMANCE (conditional) ──── */}
-            {(gscData || ga4Data) && (
-              <div>
-                <GoogleSearchCharts
-                  gscDaily={gscData?.dailyData || null}
-                  gscTopQueries={gscData?.topQueries || null}
-                  gscTopPages={gscData?.topPages || null}
-                  gscTotals={gscData?.totals || null}
-                  ga4Daily={ga4Data?.dailyData || null}
-                  ga4Channels={ga4Data?.channelData || null}
-                  ga4Totals={ga4Data?.totals || null}
-                />
-              </div>
-            )}
-
-            {/* ── TAB 4: LOCAL SEO / BRIGHTLOCAL (conditional) ── */}
-            {blData && (
-              <div>
-                <BrightLocalPanel {...blData} />
-              </div>
-            )}
           </DashboardTabs>
         )}
 
