@@ -1,842 +1,820 @@
 {
-  "propertyId": "properties/355863493",
-  "displayName": "https://www.norrisinjurylawyers.com - GA4",
+  "propertyId": "properties/330084523",
+  "displayName": "Allen Law Firm, P.A. - GA4",
   "dateRange": {
     "start": "2026-01-06",
     "end": "2026-04-06"
   },
   "totals": {
-    "sessions": 181877,
-    "users": 136251,
-    "screenPageViews": 326968,
-    "organicSessions": 10450,
-    "bounceRate": 0.6517637186720769,
-    "avgSessionDuration": 123.333632092855
+    "sessions": 30801,
+    "users": 31556,
+    "screenPageViews": 37442,
+    "organicSessions": 6652,
+    "bounceRate": 0.6946572605289385,
+    "avgSessionDuration": 170.6120139026085
   },
   "dailyData": [
     {
       "date": "2026-01-06",
-      "sessions": 626,
-      "users": 597,
-      "screenPageViews": 734
+      "sessions": 393,
+      "users": 414,
+      "screenPageViews": 645
     },
     {
       "date": "2026-01-07",
-      "sessions": 555,
-      "users": 527,
-      "screenPageViews": 709
-    },
-    {
-      "date": "2026-01-08",
-      "sessions": 633,
-      "users": 616,
-      "screenPageViews": 748
-    },
-    {
-      "date": "2026-01-09",
-      "sessions": 614,
-      "users": 594,
-      "screenPageViews": 731
-    },
-    {
-      "date": "2026-01-10",
-      "sessions": 663,
-      "users": 631,
-      "screenPageViews": 804
-    },
-    {
-      "date": "2026-01-11",
-      "sessions": 640,
-      "users": 594,
-      "screenPageViews": 730
-    },
-    {
-      "date": "2026-01-12",
-      "sessions": 532,
-      "users": 515,
-      "screenPageViews": 633
-    },
-    {
-      "date": "2026-01-13",
-      "sessions": 571,
-      "users": 539,
-      "screenPageViews": 716
-    },
-    {
-      "date": "2026-01-14",
-      "sessions": 564,
-      "users": 535,
-      "screenPageViews": 703
-    },
-    {
-      "date": "2026-01-15",
-      "sessions": 608,
-      "users": 586,
-      "screenPageViews": 776
-    },
-    {
-      "date": "2026-01-16",
-      "sessions": 713,
-      "users": 704,
-      "screenPageViews": 917
-    },
-    {
-      "date": "2026-01-17",
-      "sessions": 741,
-      "users": 701,
-      "screenPageViews": 863
-    },
-    {
-      "date": "2026-01-18",
-      "sessions": 877,
-      "users": 837,
-      "screenPageViews": 1151
-    },
-    {
-      "date": "2026-01-19",
-      "sessions": 828,
-      "users": 796,
-      "screenPageViews": 1036
-    },
-    {
-      "date": "2026-01-20",
-      "sessions": 673,
-      "users": 668,
-      "screenPageViews": 900
-    },
-    {
-      "date": "2026-01-21",
-      "sessions": 695,
-      "users": 659,
-      "screenPageViews": 958
-    },
-    {
-      "date": "2026-01-22",
-      "sessions": 542,
-      "users": 528,
-      "screenPageViews": 683
-    },
-    {
-      "date": "2026-01-23",
-      "sessions": 481,
-      "users": 469,
-      "screenPageViews": 554
-    },
-    {
-      "date": "2026-01-24",
-      "sessions": 481,
-      "users": 460,
-      "screenPageViews": 534
-    },
-    {
-      "date": "2026-01-25",
-      "sessions": 442,
-      "users": 415,
-      "screenPageViews": 493
-    },
-    {
-      "date": "2026-01-26",
-      "sessions": 323,
-      "users": 323,
-      "screenPageViews": 377
-    },
-    {
-      "date": "2026-01-27",
-      "sessions": 449,
-      "users": 419,
-      "screenPageViews": 574
-    },
-    {
-      "date": "2026-01-28",
-      "sessions": 428,
-      "users": 400,
-      "screenPageViews": 540
-    },
-    {
-      "date": "2026-01-29",
-      "sessions": 398,
-      "users": 396,
-      "screenPageViews": 491
-    },
-    {
-      "date": "2026-01-30",
-      "sessions": 385,
-      "users": 376,
-      "screenPageViews": 476
-    },
-    {
-      "date": "2026-01-31",
-      "sessions": 405,
-      "users": 363,
-      "screenPageViews": 460
-    },
-    {
-      "date": "2026-02-01",
-      "sessions": 350,
-      "users": 336,
-      "screenPageViews": 409
-    },
-    {
-      "date": "2026-02-02",
-      "sessions": 614,
-      "users": 592,
-      "screenPageViews": 704
-    },
-    {
-      "date": "2026-02-03",
-      "sessions": 556,
-      "users": 542,
-      "screenPageViews": 636
-    },
-    {
-      "date": "2026-02-04",
-      "sessions": 460,
-      "users": 444,
-      "screenPageViews": 530
-    },
-    {
-      "date": "2026-02-05",
-      "sessions": 358,
-      "users": 346,
-      "screenPageViews": 405
-    },
-    {
-      "date": "2026-02-06",
-      "sessions": 327,
-      "users": 311,
-      "screenPageViews": 379
-    },
-    {
-      "date": "2026-02-07",
-      "sessions": 389,
-      "users": 360,
-      "screenPageViews": 442
-    },
-    {
-      "date": "2026-02-08",
-      "sessions": 337,
-      "users": 323,
-      "screenPageViews": 395
-    },
-    {
-      "date": "2026-02-09",
-      "sessions": 348,
-      "users": 347,
-      "screenPageViews": 385
-    },
-    {
-      "date": "2026-02-10",
-      "sessions": 296,
-      "users": 295,
-      "screenPageViews": 365
-    },
-    {
-      "date": "2026-02-11",
-      "sessions": 318,
-      "users": 297,
-      "screenPageViews": 373
-    },
-    {
-      "date": "2026-02-12",
-      "sessions": 239,
-      "users": 232,
+      "sessions": 214,
+      "users": 239,
       "screenPageViews": 272
     },
     {
-      "date": "2026-02-13",
-      "sessions": 329,
-      "users": 318,
-      "screenPageViews": 393
+      "date": "2026-01-08",
+      "sessions": 207,
+      "users": 227,
+      "screenPageViews": 279
     },
     {
-      "date": "2026-02-14",
-      "sessions": 398,
-      "users": 376,
-      "screenPageViews": 463
+      "date": "2026-01-09",
+      "sessions": 205,
+      "users": 227,
+      "screenPageViews": 244
     },
     {
-      "date": "2026-02-15",
-      "sessions": 392,
-      "users": 370,
-      "screenPageViews": 420
+      "date": "2026-01-10",
+      "sessions": 97,
+      "users": 108,
+      "screenPageViews": 109
     },
     {
-      "date": "2026-02-16",
-      "sessions": 336,
-      "users": 326,
-      "screenPageViews": 354
+      "date": "2026-01-11",
+      "sessions": 103,
+      "users": 102,
+      "screenPageViews": 139
     },
     {
-      "date": "2026-02-17",
-      "sessions": 323,
-      "users": 319,
-      "screenPageViews": 378
+      "date": "2026-01-12",
+      "sessions": 190,
+      "users": 210,
+      "screenPageViews": 266
     },
     {
-      "date": "2026-02-18",
-      "sessions": 324,
-      "users": 324,
-      "screenPageViews": 367
-    },
-    {
-      "date": "2026-02-19",
-      "sessions": 382,
-      "users": 377,
-      "screenPageViews": 427
-    },
-    {
-      "date": "2026-02-20",
-      "sessions": 360,
-      "users": 364,
-      "screenPageViews": 427
-    },
-    {
-      "date": "2026-02-21",
-      "sessions": 393,
-      "users": 381,
-      "screenPageViews": 456
-    },
-    {
-      "date": "2026-02-22",
-      "sessions": 449,
-      "users": 418,
-      "screenPageViews": 506
-    },
-    {
-      "date": "2026-02-23",
-      "sessions": 445,
-      "users": 437,
-      "screenPageViews": 493
-    },
-    {
-      "date": "2026-02-24",
-      "sessions": 434,
-      "users": 422,
-      "screenPageViews": 482
-    },
-    {
-      "date": "2026-02-25",
-      "sessions": 558,
-      "users": 558,
-      "screenPageViews": 650
-    },
-    {
-      "date": "2026-02-26",
-      "sessions": 543,
-      "users": 527,
-      "screenPageViews": 613
-    },
-    {
-      "date": "2026-02-27",
-      "sessions": 437,
-      "users": 433,
-      "screenPageViews": 480
-    },
-    {
-      "date": "2026-02-28",
-      "sessions": 534,
-      "users": 518,
-      "screenPageViews": 578
-    },
-    {
-      "date": "2026-03-01",
-      "sessions": 482,
-      "users": 463,
-      "screenPageViews": 532
-    },
-    {
-      "date": "2026-03-02",
-      "sessions": 373,
-      "users": 376,
-      "screenPageViews": 400
-    },
-    {
-      "date": "2026-03-03",
-      "sessions": 406,
-      "users": 405,
-      "screenPageViews": 472
-    },
-    {
-      "date": "2026-03-04",
-      "sessions": 394,
-      "users": 386,
-      "screenPageViews": 487
-    },
-    {
-      "date": "2026-03-05",
-      "sessions": 395,
-      "users": 386,
-      "screenPageViews": 434
-    },
-    {
-      "date": "2026-03-06",
-      "sessions": 387,
-      "users": 385,
-      "screenPageViews": 446
-    },
-    {
-      "date": "2026-03-07",
-      "sessions": 397,
-      "users": 380,
-      "screenPageViews": 433
-    },
-    {
-      "date": "2026-03-08",
-      "sessions": 341,
-      "users": 337,
-      "screenPageViews": 388
-    },
-    {
-      "date": "2026-03-09",
-      "sessions": 322,
-      "users": 332,
-      "screenPageViews": 372
-    },
-    {
-      "date": "2026-03-10",
-      "sessions": 291,
-      "users": 294,
-      "screenPageViews": 350
-    },
-    {
-      "date": "2026-03-11",
-      "sessions": 248,
+      "date": "2026-01-13",
+      "sessions": 231,
       "users": 249,
-      "screenPageViews": 277
-    },
-    {
-      "date": "2026-03-12",
-      "sessions": 326,
-      "users": 331,
-      "screenPageViews": 408
-    },
-    {
-      "date": "2026-03-13",
-      "sessions": 266,
-      "users": 270,
-      "screenPageViews": 322
-    },
-    {
-      "date": "2026-03-14",
-      "sessions": 2651,
-      "users": 2578,
-      "screenPageViews": 4491
-    },
-    {
-      "date": "2026-03-15",
-      "sessions": 40389,
-      "users": 26593,
-      "screenPageViews": 79397
-    },
-    {
-      "date": "2026-03-16",
-      "sessions": 35608,
-      "users": 24826,
-      "screenPageViews": 67823
-    },
-    {
-      "date": "2026-03-17",
-      "sessions": 27347,
-      "users": 20096,
-      "screenPageViews": 52616
-    },
-    {
-      "date": "2026-03-18",
-      "sessions": 33571,
-      "users": 21825,
-      "screenPageViews": 67325
-    },
-    {
-      "date": "2026-03-19",
-      "sessions": 7320,
-      "users": 6267,
-      "screenPageViews": 14183
-    },
-    {
-      "date": "2026-03-20",
-      "sessions": 305,
-      "users": 309,
-      "screenPageViews": 334
-    },
-    {
-      "date": "2026-03-21",
-      "sessions": 263,
-      "users": 259,
       "screenPageViews": 304
     },
     {
-      "date": "2026-03-22",
-      "sessions": 234,
-      "users": 232,
-      "screenPageViews": 260
-    },
-    {
-      "date": "2026-03-23",
-      "sessions": 245,
-      "users": 254,
-      "screenPageViews": 277
-    },
-    {
-      "date": "2026-03-24",
-      "sessions": 248,
-      "users": 253,
-      "screenPageViews": 263
-    },
-    {
-      "date": "2026-03-25",
-      "sessions": 206,
-      "users": 216,
-      "screenPageViews": 237
-    },
-    {
-      "date": "2026-03-26",
-      "sessions": 230,
-      "users": 230,
-      "screenPageViews": 247
-    },
-    {
-      "date": "2026-03-27",
-      "sessions": 256,
+      "date": "2026-01-14",
+      "sessions": 243,
       "users": 262,
-      "screenPageViews": 291
+      "screenPageViews": 470
     },
     {
-      "date": "2026-03-28",
-      "sessions": 271,
-      "users": 268,
-      "screenPageViews": 295
+      "date": "2026-01-15",
+      "sessions": 241,
+      "users": 247,
+      "screenPageViews": 394
     },
     {
-      "date": "2026-03-29",
-      "sessions": 261,
-      "users": 253,
-      "screenPageViews": 289
+      "date": "2026-01-16",
+      "sessions": 233,
+      "users": 251,
+      "screenPageViews": 309
     },
     {
-      "date": "2026-03-30",
-      "sessions": 253,
-      "users": 262,
+      "date": "2026-01-17",
+      "sessions": 286,
+      "users": 286,
+      "screenPageViews": 313
+    },
+    {
+      "date": "2026-01-18",
+      "sessions": 244,
+      "users": 244,
+      "screenPageViews": 259
+    },
+    {
+      "date": "2026-01-19",
+      "sessions": 165,
+      "users": 169,
+      "screenPageViews": 220
+    },
+    {
+      "date": "2026-01-20",
+      "sessions": 244,
+      "users": 259,
+      "screenPageViews": 344
+    },
+    {
+      "date": "2026-01-21",
+      "sessions": 207,
+      "users": 221,
       "screenPageViews": 284
     },
     {
-      "date": "2026-03-31",
-      "sessions": 191,
-      "users": 205,
-      "screenPageViews": 210
+      "date": "2026-01-22",
+      "sessions": 236,
+      "users": 240,
+      "screenPageViews": 340
     },
     {
-      "date": "2026-04-01",
-      "sessions": 234,
-      "users": 246,
-      "screenPageViews": 265
+      "date": "2026-01-23",
+      "sessions": 199,
+      "users": 217,
+      "screenPageViews": 310
     },
     {
-      "date": "2026-04-02",
-      "sessions": 180,
-      "users": 181,
-      "screenPageViews": 193
+      "date": "2026-01-24",
+      "sessions": 118,
+      "users": 122,
+      "screenPageViews": 131
     },
     {
-      "date": "2026-04-03",
-      "sessions": 163,
-      "users": 166,
-      "screenPageViews": 177
+      "date": "2026-01-25",
+      "sessions": 154,
+      "users": 149,
+      "screenPageViews": 223
     },
     {
-      "date": "2026-04-04",
-      "sessions": 183,
-      "users": 182,
-      "screenPageViews": 198
+      "date": "2026-01-26",
+      "sessions": 304,
+      "users": 304,
+      "screenPageViews": 496
     },
     {
-      "date": "2026-04-05",
-      "sessions": 284,
-      "users": 278,
+      "date": "2026-01-27",
+      "sessions": 366,
+      "users": 387,
+      "screenPageViews": 480
+    },
+    {
+      "date": "2026-01-28",
+      "sessions": 225,
+      "users": 239,
       "screenPageViews": 319
     },
     {
+      "date": "2026-01-29",
+      "sessions": 331,
+      "users": 353,
+      "screenPageViews": 405
+    },
+    {
+      "date": "2026-01-30",
+      "sessions": 252,
+      "users": 272,
+      "screenPageViews": 339
+    },
+    {
+      "date": "2026-01-31",
+      "sessions": 156,
+      "users": 160,
+      "screenPageViews": 171
+    },
+    {
+      "date": "2026-02-01",
+      "sessions": 156,
+      "users": 156,
+      "screenPageViews": 172
+    },
+    {
+      "date": "2026-02-02",
+      "sessions": 265,
+      "users": 267,
+      "screenPageViews": 393
+    },
+    {
+      "date": "2026-02-03",
+      "sessions": 231,
+      "users": 260,
+      "screenPageViews": 323
+    },
+    {
+      "date": "2026-02-04",
+      "sessions": 214,
+      "users": 240,
+      "screenPageViews": 265
+    },
+    {
+      "date": "2026-02-05",
+      "sessions": 319,
+      "users": 323,
+      "screenPageViews": 431
+    },
+    {
+      "date": "2026-02-06",
+      "sessions": 345,
+      "users": 350,
+      "screenPageViews": 437
+    },
+    {
+      "date": "2026-02-07",
+      "sessions": 152,
+      "users": 155,
+      "screenPageViews": 171
+    },
+    {
+      "date": "2026-02-08",
+      "sessions": 150,
+      "users": 152,
+      "screenPageViews": 181
+    },
+    {
+      "date": "2026-02-09",
+      "sessions": 333,
+      "users": 358,
+      "screenPageViews": 417
+    },
+    {
+      "date": "2026-02-10",
+      "sessions": 214,
+      "users": 241,
+      "screenPageViews": 291
+    },
+    {
+      "date": "2026-02-11",
+      "sessions": 235,
+      "users": 269,
+      "screenPageViews": 314
+    },
+    {
+      "date": "2026-02-12",
+      "sessions": 228,
+      "users": 253,
+      "screenPageViews": 346
+    },
+    {
+      "date": "2026-02-13",
+      "sessions": 285,
+      "users": 317,
+      "screenPageViews": 316
+    },
+    {
+      "date": "2026-02-14",
+      "sessions": 231,
+      "users": 235,
+      "screenPageViews": 270
+    },
+    {
+      "date": "2026-02-15",
+      "sessions": 266,
+      "users": 264,
+      "screenPageViews": 287
+    },
+    {
+      "date": "2026-02-16",
+      "sessions": 295,
+      "users": 335,
+      "screenPageViews": 379
+    },
+    {
+      "date": "2026-02-17",
+      "sessions": 231,
+      "users": 274,
+      "screenPageViews": 320
+    },
+    {
+      "date": "2026-02-18",
+      "sessions": 183,
+      "users": 217,
+      "screenPageViews": 237
+    },
+    {
+      "date": "2026-02-19",
+      "sessions": 183,
+      "users": 203,
+      "screenPageViews": 244
+    },
+    {
+      "date": "2026-02-20",
+      "sessions": 202,
+      "users": 222,
+      "screenPageViews": 270
+    },
+    {
+      "date": "2026-02-21",
+      "sessions": 191,
+      "users": 195,
+      "screenPageViews": 218
+    },
+    {
+      "date": "2026-02-22",
+      "sessions": 153,
+      "users": 157,
+      "screenPageViews": 184
+    },
+    {
+      "date": "2026-02-23",
+      "sessions": 211,
+      "users": 239,
+      "screenPageViews": 276
+    },
+    {
+      "date": "2026-02-24",
+      "sessions": 1965,
+      "users": 1971,
+      "screenPageViews": 2064
+    },
+    {
+      "date": "2026-02-25",
+      "sessions": 264,
+      "users": 291,
+      "screenPageViews": 319
+    },
+    {
+      "date": "2026-02-26",
+      "sessions": 247,
+      "users": 264,
+      "screenPageViews": 286
+    },
+    {
+      "date": "2026-02-27",
+      "sessions": 310,
+      "users": 332,
+      "screenPageViews": 375
+    },
+    {
+      "date": "2026-02-28",
+      "sessions": 207,
+      "users": 208,
+      "screenPageViews": 232
+    },
+    {
+      "date": "2026-03-01",
+      "sessions": 177,
+      "users": 181,
+      "screenPageViews": 201
+    },
+    {
+      "date": "2026-03-02",
+      "sessions": 348,
+      "users": 387,
+      "screenPageViews": 424
+    },
+    {
+      "date": "2026-03-03",
+      "sessions": 310,
+      "users": 324,
+      "screenPageViews": 356
+    },
+    {
+      "date": "2026-03-04",
+      "sessions": 296,
+      "users": 323,
+      "screenPageViews": 394
+    },
+    {
+      "date": "2026-03-05",
+      "sessions": 346,
+      "users": 367,
+      "screenPageViews": 393
+    },
+    {
+      "date": "2026-03-06",
+      "sessions": 252,
+      "users": 276,
+      "screenPageViews": 280
+    },
+    {
+      "date": "2026-03-07",
+      "sessions": 215,
+      "users": 217,
+      "screenPageViews": 201
+    },
+    {
+      "date": "2026-03-08",
+      "sessions": 199,
+      "users": 201,
+      "screenPageViews": 196
+    },
+    {
+      "date": "2026-03-09",
+      "sessions": 271,
+      "users": 290,
+      "screenPageViews": 342
+    },
+    {
+      "date": "2026-03-10",
+      "sessions": 278,
+      "users": 290,
+      "screenPageViews": 364
+    },
+    {
+      "date": "2026-03-11",
+      "sessions": 197,
+      "users": 210,
+      "screenPageViews": 311
+    },
+    {
+      "date": "2026-03-12",
+      "sessions": 266,
+      "users": 271,
+      "screenPageViews": 350
+    },
+    {
+      "date": "2026-03-13",
+      "sessions": 273,
+      "users": 272,
+      "screenPageViews": 308
+    },
+    {
+      "date": "2026-03-14",
+      "sessions": 236,
+      "users": 230,
+      "screenPageViews": 262
+    },
+    {
+      "date": "2026-03-15",
+      "sessions": 168,
+      "users": 165,
+      "screenPageViews": 185
+    },
+    {
+      "date": "2026-03-16",
+      "sessions": 401,
+      "users": 424,
+      "screenPageViews": 465
+    },
+    {
+      "date": "2026-03-17",
+      "sessions": 723,
+      "users": 736,
+      "screenPageViews": 788
+    },
+    {
+      "date": "2026-03-18",
+      "sessions": 604,
+      "users": 614,
+      "screenPageViews": 644
+    },
+    {
+      "date": "2026-03-19",
+      "sessions": 921,
+      "users": 913,
+      "screenPageViews": 972
+    },
+    {
+      "date": "2026-03-20",
+      "sessions": 587,
+      "users": 587,
+      "screenPageViews": 663
+    },
+    {
+      "date": "2026-03-21",
+      "sessions": 360,
+      "users": 354,
+      "screenPageViews": 390
+    },
+    {
+      "date": "2026-03-22",
+      "sessions": 486,
+      "users": 466,
+      "screenPageViews": 554
+    },
+    {
+      "date": "2026-03-23",
+      "sessions": 511,
+      "users": 525,
+      "screenPageViews": 565
+    },
+    {
+      "date": "2026-03-24",
+      "sessions": 528,
+      "users": 534,
+      "screenPageViews": 622
+    },
+    {
+      "date": "2026-03-25",
+      "sessions": 609,
+      "users": 597,
+      "screenPageViews": 688
+    },
+    {
+      "date": "2026-03-26",
+      "sessions": 659,
+      "users": 631,
+      "screenPageViews": 938
+    },
+    {
+      "date": "2026-03-27",
+      "sessions": 684,
+      "users": 683,
+      "screenPageViews": 777
+    },
+    {
+      "date": "2026-03-28",
+      "sessions": 449,
+      "users": 426,
+      "screenPageViews": 578
+    },
+    {
+      "date": "2026-03-29",
+      "sessions": 467,
+      "users": 440,
+      "screenPageViews": 508
+    },
+    {
+      "date": "2026-03-30",
+      "sessions": 561,
+      "users": 550,
+      "screenPageViews": 654
+    },
+    {
+      "date": "2026-03-31",
+      "sessions": 814,
+      "users": 793,
+      "screenPageViews": 943
+    },
+    {
+      "date": "2026-04-01",
+      "sessions": 703,
+      "users": 685,
+      "screenPageViews": 817
+    },
+    {
+      "date": "2026-04-02",
+      "sessions": 623,
+      "users": 607,
+      "screenPageViews": 690
+    },
+    {
+      "date": "2026-04-03",
+      "sessions": 575,
+      "users": 568,
+      "screenPageViews": 671
+    },
+    {
+      "date": "2026-04-04",
+      "sessions": 487,
+      "users": 458,
+      "screenPageViews": 532
+    },
+    {
+      "date": "2026-04-05",
+      "sessions": 516,
+      "users": 488,
+      "screenPageViews": 613
+    },
+    {
       "date": "2026-04-06",
-      "sessions": 260,
-      "users": 275,
-      "screenPageViews": 296
+      "sessions": 591,
+      "users": 567,
+      "screenPageViews": 720
     }
   ],
   "channelData": [
     {
-      "channel": "Paid Other",
-      "sessions": 145846,
-      "users": 71326
-    },
-    {
-      "channel": "Paid Social",
-      "sessions": 16209,
-      "users": 14570
-    },
-    {
-      "channel": "Organic Social",
-      "sessions": 10450,
-      "users": 9466
-    },
-    {
-      "channel": "Display",
-      "sessions": 2660,
-      "users": 2301
-    },
-    {
-      "channel": "Referral",
-      "sessions": 2033,
-      "users": 1793
-    },
-    {
-      "channel": "Organic Search",
-      "sessions": 1648,
-      "users": 1343
-    },
-    {
       "channel": "Direct",
-      "sessions": 1287,
-      "users": 1186
+      "sessions": 9692,
+      "users": 9486
     },
     {
       "channel": "Unassigned",
-      "sessions": 271,
-      "users": 915
+      "sessions": 8313,
+      "users": 8299
     },
     {
-      "channel": "Paid Search",
-      "sessions": 243,
-      "users": 197
-    },
-    {
-      "channel": "Cross-network",
-      "sessions": 4,
-      "users": 4
+      "channel": "Organic Search",
+      "sessions": 6652,
+      "users": 5482
     },
     {
       "channel": "Organic Video",
-      "sessions": 1,
-      "users": 1
+      "sessions": 4163,
+      "users": 4040
+    },
+    {
+      "channel": "Paid Search",
+      "sessions": 1422,
+      "users": 1187
+    },
+    {
+      "channel": "Referral",
+      "sessions": 380,
+      "users": 233
+    },
+    {
+      "channel": "Organic Social",
+      "sessions": 157,
+      "users": 148
+    },
+    {
+      "channel": "Audio",
+      "sessions": 65,
+      "users": 63
+    },
+    {
+      "channel": "Cross-network",
+      "sessions": 12,
+      "users": 12
     }
   ],
   "keyEventsByChannel": [
     {
-      "channel": "Paid Other",
-      "sessions": 145846,
-      "keyEvents": 211197,
-      "conversionRate": 1.4480822237154258
-    },
-    {
-      "channel": "Paid Social",
-      "sessions": 16209,
-      "keyEvents": 5041,
-      "conversionRate": 0.31100006169412053
-    },
-    {
-      "channel": "Organic Social",
-      "sessions": 10450,
-      "keyEvents": 3648,
-      "conversionRate": 0.3490909090909091
-    },
-    {
-      "channel": "Display",
-      "sessions": 2660,
-      "keyEvents": 4165,
-      "conversionRate": 1.5657894736842106
-    },
-    {
-      "channel": "Referral",
-      "sessions": 2033,
-      "keyEvents": 1024,
-      "conversionRate": 0.5036891293654697
-    },
-    {
-      "channel": "Organic Search",
-      "sessions": 1648,
-      "keyEvents": 2563,
-      "conversionRate": 1.5552184466019416
-    },
-    {
       "channel": "Direct",
-      "sessions": 1287,
-      "keyEvents": 1368,
-      "conversionRate": 1.062937062937063
+      "sessions": 9692,
+      "keyEvents": 1492,
+      "conversionRate": 0.15394139496491951
     },
     {
       "channel": "Unassigned",
-      "sessions": 271,
-      "keyEvents": 2193,
-      "conversionRate": 8.092250922509225
+      "sessions": 8313,
+      "keyEvents": 3051,
+      "conversionRate": 0.36701551786358716
     },
     {
-      "channel": "Paid Search",
-      "sessions": 243,
-      "keyEvents": 430,
-      "conversionRate": 1.7695473251028806
-    },
-    {
-      "channel": "Cross-network",
-      "sessions": 4,
-      "keyEvents": 12,
-      "conversionRate": 3
+      "channel": "Organic Search",
+      "sessions": 6652,
+      "keyEvents": 1720,
+      "conversionRate": 0.25856885147324116
     },
     {
       "channel": "Organic Video",
-      "sessions": 1,
-      "keyEvents": 1,
-      "conversionRate": 1
+      "sessions": 4163,
+      "keyEvents": 102,
+      "conversionRate": 0.024501561374009127
+    },
+    {
+      "channel": "Paid Search",
+      "sessions": 1422,
+      "keyEvents": 2366,
+      "conversionRate": 1.6638537271448663
+    },
+    {
+      "channel": "Referral",
+      "sessions": 380,
+      "keyEvents": 155,
+      "conversionRate": 0.40789473684210525
+    },
+    {
+      "channel": "Organic Social",
+      "sessions": 157,
+      "keyEvents": 22,
+      "conversionRate": 0.14012738853503184
+    },
+    {
+      "channel": "Audio",
+      "sessions": 65,
+      "keyEvents": 0,
+      "conversionRate": 0
+    },
+    {
+      "channel": "Cross-network",
+      "sessions": 12,
+      "keyEvents": 43,
+      "conversionRate": 3.5833333333333335
     }
   ],
   "topPages": [
     {
-      "page": "/cases-we-handle/alabama-asbestos-cancer-lawyer/",
-      "screenPageViews": 317431,
-      "sessions": 174154
-    },
-    {
       "page": "/",
-      "screenPageViews": 5229,
-      "sessions": 4300
+      "screenPageViews": 9414,
+      "sessions": 8654
     },
     {
-      "page": "/about-norris/our-team/",
-      "screenPageViews": 631,
-      "sessions": 511
+      "page": "/ocala-personal-injury-lawyer/",
+      "screenPageViews": 4784,
+      "sessions": 4576
+    },
+    {
+      "page": "/gainesville-motorcycle-accident-lawyer/",
+      "screenPageViews": 3150,
+      "sessions": 3036
+    },
+    {
+      "page": "/who-we-are/our-attorneys/",
+      "screenPageViews": 1032,
+      "sessions": 799
     },
     {
       "page": "/contact-us/",
-      "screenPageViews": 492,
-      "sessions": 409
+      "screenPageViews": 990,
+      "sessions": 824
     },
     {
-      "page": "/cases-we-handle/",
-      "screenPageViews": 335,
-      "sessions": 306
+      "page": "/ppc-branded/",
+      "screenPageViews": 663,
+      "sessions": 638
     },
     {
-      "page": "/contact-us/thank-you/",
-      "screenPageViews": 280,
-      "sessions": 270
+      "page": "/who-we-are/our-staff/",
+      "screenPageViews": 603,
+      "sessions": 456
     },
     {
-      "page": "/about-norris/",
+      "page": "/what-happens-if-i-dont-pay-a-ticket-in-florida/",
+      "screenPageViews": 363,
+      "sessions": 371
+    },
+    {
+      "page": "/how-does-the-brain-repair-itself-after-a-traumatic-brain-injury/",
+      "screenPageViews": 362,
+      "sessions": 356
+    },
+    {
+      "page": "/es/",
+      "screenPageViews": 351,
+      "sessions": 347
+    },
+    {
+      "page": "/who-we-are/",
+      "screenPageViews": 344,
+      "sessions": 325
+    },
+    {
+      "page": "/ppc-mva-accident-ocala/",
+      "screenPageViews": 234,
+      "sessions": 204
+    },
+    {
+      "page": "/who-we-are/our-attorneys/bill-allen/",
+      "screenPageViews": 228,
+      "sessions": 215
+    },
+    {
+      "page": "/careers/",
+      "screenPageViews": 222,
+      "sessions": 197
+    },
+    {
+      "page": "/ppc-car-accident-help/",
+      "screenPageViews": 188,
+      "sessions": 36
+    },
+    {
+      "page": "/gainesville-car-accident-lawyer/faq/what-should-i-do-if-someone-sues-me-after-a-car-accident-in-florida/",
+      "screenPageViews": 187,
+      "sessions": 174
+    },
+    {
+      "page": "/what-are-the-safest-neighborhoods-in-gainesville-fl/",
+      "screenPageViews": 177,
+      "sessions": 181
+    },
+    {
+      "page": "/gainesville-car-accident-lawyer/",
+      "screenPageViews": 170,
+      "sessions": 136
+    },
+    {
+      "page": "/thank-you/",
+      "screenPageViews": 165,
+      "sessions": 152
+    },
+    {
+      "page": "/who-we-are/our-attorneys/abraham-banks/",
       "screenPageViews": 161,
+      "sessions": 147
+    },
+    {
+      "page": "/practice-areas/",
+      "screenPageViews": 159,
+      "sessions": 127
+    },
+    {
+      "page": "/ppc-mva-accident-gainesville/",
+      "screenPageViews": 157,
       "sessions": 158
     },
     {
-      "page": "/blog/2024/10/24/interview-with-robert-norris/",
-      "screenPageViews": 145,
-      "sessions": 143
+      "page": "/service-areas/",
+      "screenPageViews": 157,
+      "sessions": 111
     },
     {
-      "page": "/cases-we-handle/alabama-legal-malpractice/",
+      "page": "/vaping-laws-in-florida/",
+      "screenPageViews": 157,
+      "sessions": 152
+    },
+    {
+      "page": "/can-i-sue-my-school-for-emotional-distress/",
+      "screenPageViews": 136,
+      "sessions": 133
+    },
+    {
+      "page": "/who-we-are/our-attorneys/anthony-livingston-attorney/",
+      "screenPageViews": 135,
+      "sessions": 131
+    },
+    {
+      "page": "/gainesville-airplane-accidents-lawyer/statistics/",
+      "screenPageViews": 132,
+      "sessions": 136
+    },
+    {
+      "page": "/ppc-ocala-car-accident-lawyer/",
       "screenPageViews": 129,
-      "sessions": 115
+      "sessions": 113
     },
     {
-      "page": "/blog/",
+      "page": "/gainesville-car-accident-lawyers-ppc/",
+      "screenPageViews": 125,
+      "sessions": 117
+    },
+    {
+      "page": "/mirror-laws-in-florida/",
       "screenPageViews": 123,
       "sessions": 120
-    },
-    {
-      "page": "/cases-we-handle/alabama-auto-accident/",
-      "screenPageViews": 121,
-      "sessions": 116
-    },
-    {
-      "page": "/sitemap/",
-      "screenPageViews": 106,
-      "sessions": 108
-    },
-    {
-      "page": "/about-us/our-team/stephen-c-norris/",
-      "screenPageViews": 98,
-      "sessions": 92
-    },
-    {
-      "page": "/cases-we-handle/alabama-mesothelioma/",
-      "screenPageViews": 97,
-      "sessions": 96
-    },
-    {
-      "page": "/about-us/our-team/bradford-t-walden/",
-      "screenPageViews": 87,
-      "sessions": 74
-    },
-    {
-      "page": "/faqs/uninsured-motorist-coverage/",
-      "screenPageViews": 85,
-      "sessions": 84
-    },
-    {
-      "page": "/cases-we-handle/alabama-wrongful-death/",
-      "screenPageViews": 79,
-      "sessions": 79
-    },
-    {
-      "page": "/about-us/our-team/david-b-norris/",
-      "screenPageViews": 76,
-      "sessions": 72
-    },
-    {
-      "page": "/faqs/reading-your-alabama-car-accident-report/",
-      "screenPageViews": 75,
-      "sessions": 74
-    },
-    {
-      "page": "/about-us/our-team/mark-a-english/",
-      "screenPageViews": 61,
-      "sessions": 63
-    },
-    {
-      "page": "/about-us/our-team/robert-m-norris-iii/",
-      "screenPageViews": 61,
-      "sessions": 53
-    },
-    {
-      "page": "/about-us/our-team/victor-dunning/",
-      "screenPageViews": 61,
-      "sessions": 58
-    },
-    {
-      "page": "/about-us/our-team/nathan-evans/",
-      "screenPageViews": 58,
-      "sessions": 53
-    },
-    {
-      "page": "/blog/2024/08/22/the-story-of-nellie-kershaw/",
-      "screenPageViews": 56,
-      "sessions": 56
-    },
-    {
-      "page": "/about-us/our-team/robert-mckim-norris-jr/",
-      "screenPageViews": 55,
-      "sessions": 52
-    },
-    {
-      "page": "/about-us/our-team/miles-turney/",
-      "screenPageViews": 52,
-      "sessions": 47
-    },
-    {
-      "page": "/faqs/file-or-obtain-reports-alabama/",
-      "screenPageViews": 41,
-      "sessions": 35
-    },
-    {
-      "page": "/alabamaarea1/clkn/https/www.norrisinjurylawyers.com/",
-      "screenPageViews": 37,
-      "sessions": 32
-    },
-    {
-      "page": "/blog/2022/06/30/how-contributory-negligence-works-in-alabama/",
-      "screenPageViews": 36,
-      "sessions": 37
-    },
-    {
-      "page": "/cases-we-handle/alabama-mesothelioma/alabama-asbestos-claims-process-faqs/",
-      "screenPageViews": 35,
-      "sessions": 33
     }
   ],
-  "fetchedAt": "2026-04-07T16:22:30.905Z"
+  "fetchedAt": "2026-04-07T17:42:17.167Z"
 }

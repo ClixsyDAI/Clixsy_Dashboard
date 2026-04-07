@@ -6,12 +6,12 @@
     "end": "2026-04-06"
   },
   "totals": {
-    "sessions": 12919,
-    "users": 12846,
-    "screenPageViews": 47011,
-    "organicSessions": 2119,
-    "bounceRate": 0.16330333418131568,
-    "avgSessionDuration": 1355.530950201145
+    "sessions": 12925,
+    "users": 12852,
+    "screenPageViews": 47069,
+    "organicSessions": 2122,
+    "bounceRate": 0.15479571277046847,
+    "avgSessionDuration": 1355.5645272899521
   },
   "dailyData": [
     {
@@ -556,36 +556,36 @@
     },
     {
       "date": "2026-04-06",
-      "sessions": 242,
-      "users": 240,
-      "screenPageViews": 436
+      "sessions": 248,
+      "users": 246,
+      "screenPageViews": 494
     }
   ],
   "channelData": [
     {
       "channel": "Paid Social",
-      "sessions": 4724,
-      "users": 4029
+      "sessions": 4725,
+      "users": 4049
     },
     {
       "channel": "Direct",
-      "sessions": 3707,
-      "users": 3266
+      "sessions": 3723,
+      "users": 3269
     },
     {
       "channel": "Organic Search",
-      "sessions": 2119,
-      "users": 1769
+      "sessions": 2122,
+      "users": 1771
     },
     {
       "channel": "Unassigned",
-      "sessions": 1170,
-      "users": 1165
+      "sessions": 1052,
+      "users": 1050
     },
     {
       "channel": "Paid Search",
-      "sessions": 602,
-      "users": 570
+      "sessions": 607,
+      "users": 576
     },
     {
       "channel": "Organic Social",
@@ -599,8 +599,8 @@
     },
     {
       "channel": "Cross-network",
-      "sessions": 13,
-      "users": 13
+      "sessions": 7,
+      "users": 7
     },
     {
       "channel": "Paid Other",
@@ -616,33 +616,33 @@
   "keyEventsByChannel": [
     {
       "channel": "Paid Social",
-      "sessions": 4724,
-      "keyEvents": 1537,
-      "conversionRate": 0.3253598645215919
+      "sessions": 4725,
+      "keyEvents": 1564,
+      "conversionRate": 0.331005291005291
     },
     {
       "channel": "Direct",
-      "sessions": 3707,
-      "keyEvents": 4126,
-      "conversionRate": 1.1130294038305908
+      "sessions": 3723,
+      "keyEvents": 4133,
+      "conversionRate": 1.110126242277733
     },
     {
       "channel": "Organic Search",
-      "sessions": 2119,
-      "keyEvents": 2510,
-      "conversionRate": 1.1845210004719207
+      "sessions": 2122,
+      "keyEvents": 2532,
+      "conversionRate": 1.1932139491046183
     },
     {
       "channel": "Unassigned",
-      "sessions": 1170,
-      "keyEvents": 1336,
-      "conversionRate": 1.1418803418803418
+      "sessions": 1052,
+      "keyEvents": 1287,
+      "conversionRate": 1.223384030418251
     },
     {
       "channel": "Paid Search",
-      "sessions": 602,
-      "keyEvents": 600,
-      "conversionRate": 0.9966777408637874
+      "sessions": 607,
+      "keyEvents": 604,
+      "conversionRate": 0.9950576606260296
     },
     {
       "channel": "Organic Social",
@@ -653,14 +653,14 @@
     {
       "channel": "Referral",
       "sessions": 297,
-      "keyEvents": 356,
-      "conversionRate": 1.1986531986531987
+      "keyEvents": 360,
+      "conversionRate": 1.2121212121212122
     },
     {
       "channel": "Cross-network",
-      "sessions": 13,
-      "keyEvents": 14,
-      "conversionRate": 1.0769230769230769
+      "sessions": 7,
+      "keyEvents": 13,
+      "conversionRate": 1.8571428571428572
     },
     {
       "channel": "Paid Other",
@@ -678,28 +678,28 @@
   "topPages": [
     {
       "page": "/",
-      "screenPageViews": 9948,
+      "screenPageViews": 9952,
       "sessions": 2770
     },
     {
       "page": "/contact-us/",
-      "screenPageViews": 7847,
-      "sessions": 3473
+      "screenPageViews": 7851,
+      "sessions": 3476
     },
     {
       "page": "/scholarship/",
-      "screenPageViews": 2855,
-      "sessions": 1255
+      "screenPageViews": 2891,
+      "sessions": 1256
     },
     {
       "page": "/about/",
-      "screenPageViews": 2084,
+      "screenPageViews": 2087,
       "sessions": 742
     },
     {
       "page": "/ell/pages/381245/personal-injury-law",
-      "screenPageViews": 1419,
-      "sessions": 1218
+      "screenPageViews": 1427,
+      "sessions": 1222
     },
     {
       "page": "/car-accident-lawyers/",
@@ -708,7 +708,7 @@
     },
     {
       "page": "/melbourne/",
-      "screenPageViews": 1224,
+      "screenPageViews": 1225,
       "sessions": 401
     },
     {
@@ -744,7 +744,7 @@
     {
       "page": "/personal-injury-law",
       "screenPageViews": 310,
-      "sessions": 266
+      "sessions": 265
     },
     {
       "page": "/blog/",
@@ -827,5 +827,5 @@
       "sessions": 67
     }
   ],
-  "fetchedAt": "2026-04-07T16:22:09.519Z"
+  "fetchedAt": "2026-04-07T17:42:02.797Z"
 }

@@ -6,12 +6,12 @@
     "end": "2026-04-06"
   },
   "totals": {
-    "sessions": 119742,
+    "sessions": 119743,
     "users": 118455,
     "screenPageViews": 129616,
-    "organicSessions": 13254,
-    "bounceRate": 0.8469415051917569,
-    "avgSessionDuration": 32.99633901731625
+    "organicSessions": 13302,
+    "bounceRate": 0.8466783760968825,
+    "avgSessionDuration": 33.036664555759835
   },
   "dailyData": [
     {
@@ -556,7 +556,7 @@
     },
     {
       "date": "2026-04-06",
-      "sessions": 569,
+      "sessions": 570,
       "users": 553,
       "screenPageViews": 736
     }
@@ -569,12 +569,12 @@
     },
     {
       "channel": "Direct",
-      "sessions": 25463,
+      "sessions": 25356,
       "users": 24455
     },
     {
       "channel": "Organic Search",
-      "sessions": 13254,
+      "sessions": 13302,
       "users": 12088
     },
     {
@@ -594,8 +594,8 @@
     },
     {
       "channel": "Unassigned",
-      "sessions": 546,
-      "users": 541
+      "sessions": 538,
+      "users": 533
     },
     {
       "channel": "Paid Search",
@@ -617,15 +617,15 @@
     },
     {
       "channel": "Direct",
-      "sessions": 25463,
-      "keyEvents": 3242,
-      "conversionRate": 0.12732199662255037
+      "sessions": 25356,
+      "keyEvents": 3243,
+      "conversionRate": 0.12789872219592996
     },
     {
       "channel": "Organic Search",
-      "sessions": 13254,
+      "sessions": 13302,
       "keyEvents": 1996,
-      "conversionRate": 0.15059604647653538
+      "conversionRate": 0.1500526236656142
     },
     {
       "channel": "Paid Other",
@@ -647,9 +647,9 @@
     },
     {
       "channel": "Unassigned",
-      "sessions": 546,
-      "keyEvents": 229,
-      "conversionRate": 0.4194139194139194
+      "sessions": 538,
+      "keyEvents": 228,
+      "conversionRate": 0.42379182156133827
     },
     {
       "channel": "Paid Search",
@@ -668,7 +668,7 @@
     {
       "page": "/trucking-accidents/",
       "screenPageViews": 36890,
-      "sessions": 36239
+      "sessions": 36246
     },
     {
       "page": "/trucking-accidents.html",
@@ -683,12 +683,12 @@
     {
       "page": "/contact-us/",
       "screenPageViews": 7972,
-      "sessions": 7856
+      "sessions": 7842
     },
     {
       "page": "/",
       "screenPageViews": 5422,
-      "sessions": 5087
+      "sessions": 5096
     },
     {
       "page": "/pedestrian-injuries/",
@@ -698,7 +698,7 @@
     {
       "page": "/elk-grove-accidents/",
       "screenPageViews": 1385,
-      "sessions": 1372
+      "sessions": 1371
     },
     {
       "page": "/baby-brezza-formula-machines/",
@@ -816,5 +816,5 @@
       "sessions": 183
     }
   ],
-  "fetchedAt": "2026-04-07T16:21:52.340Z"
+  "fetchedAt": "2026-04-07T17:41:51.889Z"
 }
