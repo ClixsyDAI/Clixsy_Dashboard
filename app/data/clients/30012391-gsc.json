@@ -1,156 +1,16 @@
 {
   "property": "sc-domain:johnsonattorneysgroup.com",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 463,
-    "impressions": 415782,
-    "ctr": 0.0011135643197637223,
-    "position": 34.68565423948989
+    "clicks": 496,
+    "impressions": 466931,
+    "ctr": 0.0010622554510195297,
+    "position": 31.803679506680876
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 9,
-      "impressions": 3459,
-      "ctr": 0.0026019080659150044,
-      "position": 34.47499277247759
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 6,
-      "impressions": 2952,
-      "ctr": 0.0020325203252032522,
-      "position": 37.47831978319783
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 4,
-      "impressions": 1989,
-      "ctr": 0.002011060834590246,
-      "position": 40.14077425842132
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 7,
-      "impressions": 3022,
-      "ctr": 0.002316346790205162,
-      "position": 46.73362011912641
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 0,
-      "impressions": 3304,
-      "ctr": 0,
-      "position": 42.7227602905569
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 3,
-      "impressions": 2985,
-      "ctr": 0.0010050251256281408,
-      "position": 46.07939698492462
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 1,
-      "impressions": 2951,
-      "ctr": 0.00033886818027787193,
-      "position": 45.168417485598106
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 4,
-      "impressions": 7530,
-      "ctr": 0.0005312084993359894,
-      "position": 16.60504648074369
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 7,
-      "impressions": 3107,
-      "ctr": 0.002252977148374638,
-      "position": 46.25297714837464
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 2,
-      "impressions": 2469,
-      "ctr": 0.0008100445524503848,
-      "position": 50.16443904414743
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 1,
-      "impressions": 2081,
-      "ctr": 0.0004805382027871216,
-      "position": 46.50985103315713
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 6,
-      "impressions": 2528,
-      "ctr": 0.0023734177215189874,
-      "position": 39.94264240506329
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 2,
-      "impressions": 3142,
-      "ctr": 0.0006365372374283895,
-      "position": 36.57320178230427
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 2,
-      "impressions": 2671,
-      "ctr": 0.0007487832272557095,
-      "position": 43.82291276675402
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 3,
-      "impressions": 3253,
-      "ctr": 0.0009222256378727329,
-      "position": 36.483246234245314
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 5,
-      "impressions": 3229,
-      "ctr": 0.001548467017652524,
-      "position": 39.124496748219265
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 5,
-      "impressions": 3000,
-      "ctr": 0.0016666666666666668,
-      "position": 38.06933333333333
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 1,
-      "impressions": 3196,
-      "ctr": 0.00031289111389236547,
-      "position": 44.379849812265334
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 6,
-      "impressions": 2670,
-      "ctr": 0.0022471910112359553,
-      "position": 38.69400749063671
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 2,
-      "impressions": 2287,
-      "ctr": 0.0008745080891998251,
-      "position": 45.14254481853957
-    },
     {
       "date": "2026-01-04",
       "clicks": 2,
@@ -640,162 +500,288 @@
       "impressions": 5050,
       "ctr": 0,
       "position": 29.651683168316833
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 3,
+      "impressions": 5395,
+      "ctr": 0.0005560704355885078,
+      "position": 30.056719184430026
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 7,
+      "impressions": 9238,
+      "ctr": 0.0007577397705130981,
+      "position": 21.38644728296168
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 7,
+      "impressions": 5393,
+      "ctr": 0.001297978861487113,
+      "position": 29.280734285184497
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 7,
+      "impressions": 4913,
+      "ctr": 0.0014247913698351314,
+      "position": 28.708528394056586
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 5,
+      "impressions": 4497,
+      "ctr": 0.0011118523460084502,
+      "position": 31.211029575272402
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 4,
+      "impressions": 4678,
+      "ctr": 0.0008550662676357417,
+      "position": 30.72060709705002
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 2,
+      "impressions": 5313,
+      "ctr": 0.0003764351590438547,
+      "position": 33.36834180312441
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 0,
+      "impressions": 5773,
+      "ctr": 0,
+      "position": 32.37761995496275
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 6,
+      "impressions": 5900,
+      "ctr": 0.001016949152542373,
+      "position": 30.05864406779661
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 6,
+      "impressions": 5984,
+      "ctr": 0.001002673796791444,
+      "position": 29.785260695187166
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 7,
+      "impressions": 6031,
+      "ctr": 0.001160669872326314,
+      "position": 31.198142928204277
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 6,
+      "impressions": 6407,
+      "ctr": 0.0009364757296706727,
+      "position": 29.76307164039332
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 5,
+      "impressions": 5062,
+      "ctr": 0.0009877518767285659,
+      "position": 26.05294350059265
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 4,
+      "impressions": 4295,
+      "ctr": 0.0009313154831199069,
+      "position": 28.88381839348079
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 2,
+      "impressions": 5760,
+      "ctr": 0.00034722222222222224,
+      "position": 29.099652777777777
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 12,
+      "impressions": 6282,
+      "ctr": 0.0019102196752626551,
+      "position": 27.025628780643107
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 10,
+      "impressions": 5065,
+      "ctr": 0.0019743336623889436,
+      "position": 21.582033563672262
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 4,
+      "impressions": 4303,
+      "ctr": 0.0009295840111550081,
+      "position": 22.555891238670696
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 4,
+      "impressions": 4455,
+      "ctr": 0.0008978675645342312,
+      "position": 23.82401795735129
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 5,
+      "impressions": 4648,
+      "ctr": 0.0010757314974182443,
+      "position": 24.454173838209982
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 3,
+      "impressions": 3582,
+      "ctr": 0.0008375209380234506,
+      "position": 25.59547738693467
     }
   ],
   "topQueries": [
     {
       "query": "johnson attorneys group",
       "clicks": 35,
-      "impressions": 1006,
-      "ctr": 0.03479125248508946,
-      "position": 1.1878727634194832
+      "impressions": 922,
+      "ctr": 0.03796095444685466,
+      "position": 1.177874186550976
     },
     {
       "query": "johnson attorney group",
-      "clicks": 15,
-      "impressions": 96,
-      "ctr": 0.15625,
-      "position": 1.8020833333333335
+      "clicks": 18,
+      "impressions": 111,
+      "ctr": 0.16216216216216217,
+      "position": 2.054054054054054
     },
     {
       "query": "james johnson attorney",
-      "clicks": 12,
-      "impressions": 84,
-      "ctr": 0.14285714285714285,
-      "position": 6.357142857142857
+      "clicks": 13,
+      "impressions": 96,
+      "ctr": 0.13541666666666666,
+      "position": 6.114583333333333
+    },
+    {
+      "query": "what happens if i'm at fault in a car accident california",
+      "clicks": 8,
+      "impressions": 693,
+      "ctr": 0.011544011544011544,
+      "position": 6.8268398268398265
     },
     {
       "query": "never drink and drive scholarship",
       "clicks": 7,
-      "impressions": 48,
-      "ctr": 0.14583333333333334,
-      "position": 2.4375
-    },
-    {
-      "query": "what happens if i'm at fault in a car accident california",
-      "clicks": 7,
-      "impressions": 666,
-      "ctr": 0.010510510510510511,
-      "position": 7.588588588588588
+      "impressions": 56,
+      "ctr": 0.125,
+      "position": 2.375
     },
     {
       "query": "james johnson lawyer",
       "clicks": 5,
-      "impressions": 43,
-      "ctr": 0.11627906976744186,
-      "position": 8.279069767441861
+      "impressions": 61,
+      "ctr": 0.08196721311475409,
+      "position": 8.21311475409836
     },
     {
       "query": "johnson attorney at law",
       "clicks": 3,
-      "impressions": 25,
-      "ctr": 0.12,
-      "position": 32.8
+      "impressions": 26,
+      "ctr": 0.11538461538461539,
+      "position": 31.96153846153846
     },
     {
       "query": "johnson attorneys group injury & accidents",
       "clicks": 3,
-      "impressions": 20,
-      "ctr": 0.15,
-      "position": 11.6
+      "impressions": 17,
+      "ctr": 0.17647058823529413,
+      "position": 13.411764705882353
+    },
+    {
+      "query": "johnson law group",
+      "clicks": 3,
+      "impressions": 726,
+      "ctr": 0.004132231404958678,
+      "position": 6.709366391184573
     },
     {
       "query": "patient abandonment california",
       "clicks": 3,
-      "impressions": 392,
-      "ctr": 0.007653061224489796,
-      "position": 8.283163265306122
+      "impressions": 366,
+      "ctr": 0.00819672131147541,
+      "position": 8.28688524590164
     },
     {
       "query": "social host liability california",
       "clicks": 3,
-      "impressions": 27,
-      "ctr": 0.1111111111111111,
-      "position": 12.222222222222221
+      "impressions": 36,
+      "ctr": 0.08333333333333333,
+      "position": 6.75
     },
     {
       "query": "can lead poisoning be cured",
       "clicks": 2,
-      "impressions": 152,
-      "ctr": 0.013157894736842105,
-      "position": 2.802631578947368
+      "impressions": 287,
+      "ctr": 0.006968641114982578,
+      "position": 2.923344947735192
     },
     {
       "query": "car battery explosion injury",
       "clicks": 2,
-      "impressions": 118,
-      "ctr": 0.01694915254237288,
-      "position": 8.211864406779661
+      "impressions": 124,
+      "ctr": 0.016129032258064516,
+      "position": 7.096774193548387
     },
     {
-      "query": "johnson law group",
+      "query": "defective medical device lawyer",
       "clicks": 2,
-      "impressions": 707,
-      "ctr": 0.002828854314002829,
-      "position": 6.724186704384724
+      "impressions": 1164,
+      "ctr": 0.001718213058419244,
+      "position": 48.42353951890034
     },
     {
       "query": "limo accident lawyer",
       "clicks": 2,
-      "impressions": 150,
-      "ctr": 0.013333333333333334,
-      "position": 38.10666666666667
-    },
-    {
-      "query": "what to do after a car accident california",
-      "clicks": 2,
-      "impressions": 328,
-      "ctr": 0.006097560975609756,
-      "position": 47.667682926829265
+      "impressions": 205,
+      "ctr": 0.00975609756097561,
+      "position": 33.551219512195125
     },
     {
       "query": "what to do after a car accident in california",
       "clicks": 2,
-      "impressions": 567,
-      "ctr": 0.003527336860670194,
-      "position": 44.516754850088184
-    },
-    {
-      "query": "what to do after car accident california",
-      "clicks": 2,
-      "impressions": 495,
-      "ctr": 0.00404040404040404,
-      "position": 52.93939393939394
+      "impressions": 552,
+      "ctr": 0.0036231884057971015,
+      "position": 39.18115942028985
     },
     {
       "query": "anaheim motorcycle accident attorney",
       "clicks": 1,
-      "impressions": 21,
-      "ctr": 0.047619047619047616,
-      "position": 97.23809523809524
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 105.5
     },
     {
       "query": "anaheim pedestrian accident attorney",
       "clicks": 1,
-      "impressions": 68,
-      "ctr": 0.014705882352941176,
-      "position": 94.51470588235294
+      "impressions": 56,
+      "ctr": 0.017857142857142856,
+      "position": 95.58928571428571
     },
     {
       "query": "bakersfield injury attorney",
       "clicks": 1,
-      "impressions": 272,
-      "ctr": 0.003676470588235294,
-      "position": 16.602941176470587
-    },
-    {
-      "query": "bakersfield personal injury attorney",
-      "clicks": 1,
-      "impressions": 2600,
-      "ctr": 0.0003846153846153846,
-      "position": 11.822692307692307
-    },
-    {
-      "query": "billy johnson law firm",
-      "clicks": 1,
-      "impressions": 24,
-      "ctr": 0.041666666666666664,
-      "position": 9.666666666666666
+      "impressions": 320,
+      "ctr": 0.003125,
+      "position": 16.903125
     },
     {
       "query": "california medical malpractice attorney",
@@ -805,31 +791,31 @@
       "position": 61
     },
     {
-      "query": "can the effects of lead poisoning be reversed",
+      "query": "california personal injury lawyers",
       "clicks": 1,
-      "impressions": 34,
-      "ctr": 0.029411764705882353,
-      "position": 9.352941176470589
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
     },
     {
-      "query": "car accident lawyer anaheim",
+      "query": "can the effects of lead poisoning be reversed",
       "clicks": 1,
-      "impressions": 19,
-      "ctr": 0.05263157894736842,
-      "position": 100.26315789473684
+      "impressions": 35,
+      "ctr": 0.02857142857142857,
+      "position": 7.3428571428571425
     },
     {
       "query": "defective medical device lawyers",
       "clicks": 1,
-      "impressions": 585,
-      "ctr": 0.0017094017094017094,
-      "position": 63.23760683760684
+      "impressions": 720,
+      "ctr": 0.001388888888888889,
+      "position": 61.28611111111111
     },
     {
       "query": "effects of lead exposure",
       "clicks": 1,
-      "impressions": 2,
-      "ctr": 0.5,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
       "position": 3
     },
     {
@@ -849,58 +835,58 @@
     {
       "query": "how to treat lead poisoning",
       "clicks": 1,
-      "impressions": 42,
-      "ctr": 0.023809523809523808,
-      "position": 2.7142857142857144
+      "impressions": 61,
+      "ctr": 0.01639344262295082,
+      "position": 2.80327868852459
     },
     {
       "query": "human trafficking lawyer",
       "clicks": 1,
-      "impressions": 29,
-      "ctr": 0.034482758620689655,
-      "position": 56.10344827586207
+      "impressions": 36,
+      "ctr": 0.027777777777777776,
+      "position": 57.638888888888886
+    },
+    {
+      "query": "is california a no fault state for car accidents",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 2
     },
     {
       "query": "is there a cure for lead poisoning",
       "clicks": 1,
-      "impressions": 52,
-      "ctr": 0.019230769230769232,
-      "position": 2
+      "impressions": 94,
+      "ctr": 0.010638297872340425,
+      "position": 2.3617021276595747
     },
     {
       "query": "johnson attorney",
       "clicks": 1,
-      "impressions": 27,
-      "ctr": 0.037037037037037035,
-      "position": 17.925925925925927
-    },
-    {
-      "query": "johnson attorneys group car accident lawyers",
-      "clicks": 1,
-      "impressions": 336,
-      "ctr": 0.002976190476190476,
-      "position": 1.6488095238095237
+      "impressions": 28,
+      "ctr": 0.03571428571428571,
+      "position": 17.714285714285715
     },
     {
       "query": "johnson attorneys group injury",
       "clicks": 1,
-      "impressions": 328,
-      "ctr": 0.003048780487804878,
+      "impressions": 293,
+      "ctr": 0.0034129692832764505,
       "position": 1
     },
     {
       "query": "johnson law firm",
       "clicks": 1,
-      "impressions": 189,
-      "ctr": 0.005291005291005291,
-      "position": 7.592592592592593
+      "impressions": 174,
+      "ctr": 0.005747126436781609,
+      "position": 7.206896551724138
     },
     {
       "query": "johnson trial law",
       "clicks": 1,
-      "impressions": 2,
-      "ctr": 0.5,
-      "position": 3
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 5
     },
     {
       "query": "jonathan johnson lawyer",
@@ -910,6 +896,13 @@
       "position": 3.5
     },
     {
+      "query": "law firm bakersfield",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 51
+    },
+    {
       "query": "lithium battery can explode",
       "clicks": 1,
       "impressions": 1,
@@ -917,25 +910,32 @@
       "position": 3
     },
     {
+      "query": "no wet floor sign lawsuit compensation",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 11.352941176470589
+    },
+    {
       "query": "patient abandonment lawyers",
       "clicks": 1,
-      "impressions": 14,
-      "ctr": 0.07142857142857142,
-      "position": 6.785714285714286
+      "impressions": 21,
+      "ctr": 0.047619047619047616,
+      "position": 5.904761904761905
     },
     {
       "query": "personal injury attorney",
       "clicks": 1,
-      "impressions": 2335,
-      "ctr": 0.00042826552462526765,
-      "position": 9.634261241970021
+      "impressions": 2486,
+      "ctr": 0.00040225261464199515,
+      "position": 9.622284794851167
     },
     {
       "query": "personal injury law firm",
       "clicks": 1,
-      "impressions": 299,
-      "ctr": 0.0033444816053511705,
-      "position": 14.31772575250836
+      "impressions": 353,
+      "ctr": 0.0028328611898017,
+      "position": 13.960339943342776
     },
     {
       "query": "personal injury law firms in california",
@@ -961,9 +961,9 @@
     {
       "query": "slipping on wet floor with no sign",
       "clicks": 1,
-      "impressions": 112,
-      "ctr": 0.008928571428571428,
-      "position": 64.07142857142857
+      "impressions": 121,
+      "ctr": 0.008264462809917356,
+      "position": 66.29752066115702
     },
     {
       "query": "the jackson law group",
@@ -973,18 +973,11 @@
       "position": 101
     },
     {
-      "query": "the johnson injury firm",
-      "clicks": 1,
-      "impressions": 24,
-      "ctr": 0.041666666666666664,
-      "position": 10.666666666666666
-    },
-    {
       "query": "trip and fall",
       "clicks": 1,
-      "impressions": 299,
-      "ctr": 0.0033444816053511705,
-      "position": 46.88294314381271
+      "impressions": 461,
+      "ctr": 0.0021691973969631237,
+      "position": 35.13665943600868
     },
     {
       "query": "trip and fall lawyers near me",
@@ -992,359 +985,2829 @@
       "impressions": 3,
       "ctr": 0.3333333333333333,
       "position": 2.666666666666667
+    },
+    {
+      "query": "what to do after car accident california",
+      "clicks": 1,
+      "impressions": 428,
+      "ctr": 0.002336448598130841,
+      "position": 44.754672897196265
+    },
+    {
+      "query": "\"car accident\" \"resources\" or \"guide\" \"los angeles\" or \"california\"",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8.5
+    },
+    {
+      "query": "\"even with damages\" or \"even with injuries reported\"",
+      "clicks": 0,
+      "impressions": 32,
+      "ctr": 0,
+      "position": 4.59375
+    },
+    {
+      "query": "\"http://www.gofind247.com/newport-beach-ca/top/johnson-attorneys-group-injury-accidents\"",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"http://www.usaonlineclassifieds.com/view/item-2987191-johnson-attorneys-group-injury-accidents.html\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"people in need of legal representation.\" or \"receiving a verdict. this not only deprives people of their liberty but also denies them the chance to rebuild their lives. the necessity for fair legal aid and justice reforms is becoming more widely acknowledged, notwithstandi\" or \"this violates article 39a of the indian constitution which promises\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 41
+    },
+    {
+      "query": "#accidentattorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "#caraccidentattorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "#caraccidentlawyer",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "#mattjohnson",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "(310) 400-2036",
+      "clicks": 0,
+      "impressions": 44,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "(562) 415-7070",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "(844) 772-7826",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "(949) 624-3190",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 7.75
+    },
+    {
+      "query": "+injury +attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "+personal +injury +law +firm",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 88
+    },
+    {
+      "query": "+truck accident +attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 83
+    },
+    {
+      "query": ".22 lead free pellets",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "1 800 car crash",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 80
+    },
+    {
+      "query": "1-800 car wreck",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 88
+    },
+    {
+      "query": "10 best personal injury lawyers in bakersfield",
+      "clicks": 0,
+      "impressions": 48,
+      "ctr": 0,
+      "position": 24.791666666666668
+    },
+    {
+      "query": "18 wheeler accident attorney",
+      "clicks": 0,
+      "impressions": 74,
+      "ctr": 0,
+      "position": 16.45945945945946
+    },
+    {
+      "query": "18 wheeler accident attorney bakerfield",
+      "clicks": 0,
+      "impressions": 30,
+      "ctr": 0,
+      "position": 23.333333333333332
+    },
+    {
+      "query": "18 wheeler accident attorney bakersfield",
+      "clicks": 0,
+      "impressions": 25,
+      "ctr": 0,
+      "position": 23.92
+    },
+    {
+      "query": "18 wheeler accident attorney california",
+      "clicks": 0,
+      "impressions": 93,
+      "ctr": 0,
+      "position": 23.204301075268816
+    },
+    {
+      "query": "18 wheeler accident attorney camarillo",
+      "clicks": 0,
+      "impressions": 28,
+      "ctr": 0,
+      "position": 24.785714285714285
+    },
+    {
+      "query": "18 wheeler accident attorney marin county",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 16
+    },
+    {
+      "query": "18 wheeler accident attorney near me",
+      "clicks": 0,
+      "impressions": 31,
+      "ctr": 0,
+      "position": 14.516129032258064
+    },
+    {
+      "query": "18 wheeler accident attorney santa barbara",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 69
+    },
+    {
+      "query": "18 wheeler accident attorneys",
+      "clicks": 0,
+      "impressions": 67,
+      "ctr": 0,
+      "position": 16.55223880597015
+    },
+    {
+      "query": "18 wheeler accident attorneys roseville",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 95
+    },
+    {
+      "query": "18 wheeler accident lawyer",
+      "clicks": 0,
+      "impressions": 73,
+      "ctr": 0,
+      "position": 17.534246575342465
+    },
+    {
+      "query": "18 wheeler accident lawyer bakersfield",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 18
+    },
+    {
+      "query": "18 wheeler accident lawyer california",
+      "clicks": 0,
+      "impressions": 124,
+      "ctr": 0,
+      "position": 45.75806451612903
+    },
+    {
+      "query": "18 wheeler accident lawyer near me",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 13.666666666666666
+    },
+    {
+      "query": "18 wheeler accident lawyers",
+      "clicks": 0,
+      "impressions": 199,
+      "ctr": 0,
+      "position": 18.22613065326633
+    },
+    {
+      "query": "18 wheeler accidents lawyers roseville",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 95
+    },
+    {
+      "query": "18 wheeler crash attorney",
+      "clicks": 0,
+      "impressions": 28,
+      "ctr": 0,
+      "position": 17.821428571428573
+    },
+    {
+      "query": "18 wheeler crash lawyer",
+      "clicks": 0,
+      "impressions": 58,
+      "ctr": 0,
+      "position": 22.24137931034483
+    },
+    {
+      "query": "18 wheeler lawyers",
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 16.157894736842103
+    },
+    {
+      "query": "18 wheeler truck accident attorney",
+      "clicks": 0,
+      "impressions": 89,
+      "ctr": 0,
+      "position": 19.96629213483146
+    },
+    {
+      "query": "18 wheeler truck accident lawyer",
+      "clicks": 0,
+      "impressions": 48,
+      "ctr": 0,
+      "position": 18.020833333333332
+    },
+    {
+      "query": "18 wheeler wreck attorney",
+      "clicks": 0,
+      "impressions": 41,
+      "ctr": 0,
+      "position": 26.146341463414632
+    },
+    {
+      "query": "18 wheeler wreck lawyers",
+      "clicks": 0,
+      "impressions": 43,
+      "ctr": 0,
+      "position": 25.302325581395348
+    },
+    {
+      "query": "18+wheeler+accident+attorney+near+me",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 14.666666666666666
+    },
+    {
+      "query": "18+wheeler+accident+lawyer+near+me",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 11.666666666666666
+    },
+    {
+      "query": "18+wheeler+crash+attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 17
+    },
+    {
+      "query": "18+wheeler+truck+accident+lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "query": "18-wheeler accident attorney",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 16
+    },
+    {
+      "query": "18-wheeler accident attorneys",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 19.428571428571427
+    },
+    {
+      "query": "18-wheeler accident lawyer",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 19.066666666666666
+    },
+    {
+      "query": "18-wheeler accident lawyers",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 18
+    },
+    {
+      "query": "18-wheeler accident lawyers near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "18-wheeler crash attorney hire",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 14
+    },
+    {
+      "query": "18-wheeler truck accident attorney",
+      "clicks": 0,
+      "impressions": 63,
+      "ctr": 0,
+      "position": 19.158730158730158
+    },
+    {
+      "query": "18-wheeler truck accident lawyer",
+      "clicks": 0,
+      "impressions": 52,
+      "ctr": 0,
+      "position": 18.192307692307693
+    },
+    {
+      "query": "18-wheeler wreck attorney",
+      "clicks": 0,
+      "impressions": 27,
+      "ctr": 0,
+      "position": 21.51851851851852
+    },
+    {
+      "query": "18-wheeler+accident+lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "query": "198 n arrowhead ave san bernardino",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 9.6
+    },
+    {
+      "query": "2 at fault accidents in 1 year",
+      "clicks": 0,
+      "impressions": 21,
+      "ctr": 0,
+      "position": 35.76190476190476
+    },
+    {
+      "query": "2 at-fault accidents in 1 year",
+      "clicks": 0,
+      "impressions": 26,
+      "ctr": 0,
+      "position": 46.03846153846154
+    },
+    {
+      "query": "2 point driving violations",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 7 attorneys",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 19
+    },
+    {
+      "query": "3m leadcheck",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "3m leadcheck swabs",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "4. in california, what is the most common reason for car crashes where someone is injured? a. distracted driving b. right-of-way c. alcohol and drugs d. speeding",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "4000 macarthur blvd. suite 600 east tower newport beach, ca 92660",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 9.25
+    },
+    {
+      "query": "48 hours lead poisoning",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "4900 california ave tower b 2nd floor bakersfield ca 93309",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 9.5
+    },
+    {
+      "query": "5 steps to take after a car accident",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 44.666666666666664
+    },
+    {
+      "query": "562-415-7070",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 5.75
+    },
+    {
+      "query": "650-750-2749",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "661-387-2323",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "7 most dangerous rides in the world",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "844-772-7826",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "916 545 6665",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "93031 accident attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 50
+    },
+    {
+      "query": "949-569-2711",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "949-624-3190",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 8.222222222222221
+    },
+    {
+      "query": "975-444-320",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "?",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "[accident atorney (location)]",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 13.571428571428571
+    },
+    {
+      "query": "[accident attorney (location)]",
+      "clicks": 0,
+      "impressions": 39,
+      "ctr": 0,
+      "position": 18.128205128205128
+    },
+    {
+      "query": "[acident attorney (location)]",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 14.3125
+    },
+    {
+      "query": "[atorney for injury at store]",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 2.666666666666667
+    },
+    {
+      "query": "[attorney for injury at store]",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 2.666666666666667
+    },
+    {
+      "query": "[attorney for inury at store]",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 2.111111111111111
+    },
+    {
+      "query": "[auto accident atorney]",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 18.333333333333332
+    },
+    {
+      "query": "[auto accident attorney]",
+      "clicks": 0,
+      "impressions": 39,
+      "ctr": 0,
+      "position": 19.641025641025642
+    },
+    {
+      "query": "[auto accident injry lawyer]",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 14.428571428571429
+    },
+    {
+      "query": "[auto accident injury lawyer]",
+      "clicks": 0,
+      "impressions": 36,
+      "ctr": 0,
+      "position": 19.75
+    },
+    {
+      "query": "[auto accident lawyer]",
+      "clicks": 0,
+      "impressions": 27,
+      "ctr": 0,
+      "position": 20.333333333333332
+    },
+    {
+      "query": "[auto accident lawyr]",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 20.75
+    },
+    {
+      "query": "[auto acident attorney]",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 18.571428571428573
+    },
+    {
+      "query": "[auto acident injury lawyer]",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 16
+    },
+    {
+      "query": "[auto acident lawyer]",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 19.6
+    },
+    {
+      "query": "[automobile accident attorney near me]",
+      "clicks": 0,
+      "impressions": 52,
+      "ctr": 0,
+      "position": 17.78846153846154
+    },
+    {
+      "query": "[automobile accident lawyer free consultation]",
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 11.555555555555555
+    },
+    {
+      "query": "[automobile acident attorney near me]",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 17.642857142857142
+    },
+    {
+      "query": "[automobile acident lawyer free consultation]",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "[automoble accident atorney near me]",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 14.7
+    },
+    {
+      "query": "[automoble accident lawyer free consultation]",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "[back pain slip and fall]",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "[best car accident lawyer in (location)]",
+      "clicks": 0,
+      "impressions": 30,
+      "ctr": 0,
+      "position": 20.5
+    },
+    {
+      "query": "[best car accident lawyr in (location)]",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 17.333333333333332
+    },
+    {
+      "query": "[best car acident lawyer in (location)]",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 17.166666666666668
+    },
+    {
+      "query": "[california slip and fall lawyer]",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "[car accident claim lawyer]",
+      "clicks": 0,
+      "impressions": 26,
+      "ctr": 0,
+      "position": 20.23076923076923
+    },
+    {
+      "query": "[car accident cliam lawyer]",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 14.333333333333334
+    },
+    {
+      "query": "[car accident lawsuit atorney]",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 15.25
+    },
+    {
+      "query": "[car accident lawsuit attorney]",
+      "clicks": 0,
+      "impressions": 32,
+      "ctr": 0,
+      "position": 18.75
+    },
+    {
+      "query": "[car acident claim lawyer]",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "query": "[car acident lawsuit attorney]",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 12.5
+    },
+    {
+      "query": "[experiencd accident lawyer]",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "[experienced accident lawyer]",
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 18.666666666666668
+    },
+    {
+      "query": "[experienced acident lawyer]",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "[fall injury lawyer]",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 13.142857142857142
+    },
+    {
+      "query": "[free consultation car accident lawyer]",
+      "clicks": 0,
+      "impressions": 27,
+      "ctr": 0,
+      "position": 20.25925925925926
+    },
+    {
+      "query": "[free consultation car acident lawyer]",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 16
+    },
+    {
+      "query": "[free consultaton car accident lawyer]",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 14.333333333333334
+    },
+    {
+      "query": "[head injry slip and fall]",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "[head injury slip and fall]",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "[head injury slip n fall]",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "[hire car accident lawyer]",
+      "clicks": 0,
+      "impressions": 29,
+      "ctr": 0,
+      "position": 20.310344827586206
+    },
+    {
+      "query": "[hire car accident lawyr]",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 16
+    },
+    {
+      "query": "[hire car acident lawyer]",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 16
+    },
+    {
+      "query": "[injured in uber accident lawyer]",
+      "clicks": 0,
+      "impressions": 25,
+      "ctr": 0,
+      "position": 16.6
+    },
+    {
+      "query": "[injured in uber acident lawyer]",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 8.142857142857142
+    },
+    {
+      "query": "[injuried in uber accident lawyer]",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 5.285714285714286
+    },
+    {
+      "query": "[insurance claim for a slip and fall injury]",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 9.666666666666666
+    },
+    {
+      "query": "[lawyer for slip and fall accident]",
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 15.444444444444445
+    },
+    {
+      "query": "[lawyer for slip n fall accident]",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "[lawyr for slip and fall accident]",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "[legal advice for slip and fall]",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 2.666666666666667
+    },
+    {
+      "query": "[legal advise for slip and fall]",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "[lift accident lawyer near me]",
+      "clicks": 0,
+      "impressions": 22,
+      "ctr": 0,
+      "position": 10.5
+    },
+    {
+      "query": "[lift passenger accident lawyer]",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 1.8333333333333335
+    },
+    {
+      "query": "[lyft accident lawyer near me]",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 7.25
+    },
+    {
+      "query": "[lyft acident lawyer near me]",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 3.5
+    },
+    {
+      "query": "[lyft passenger accident lawyer]",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "[not at fault accident lawyer]",
+      "clicks": 0,
+      "impressions": 20,
+      "ctr": 0,
+      "position": 19
+    },
+    {
+      "query": "[not at fault acident lawyer]",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "[personal injury attorney near me]",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 17
+    },
+    {
+      "query": "[premises liability]",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 19.571428571428573
+    },
+    {
+      "query": "[premisis liability]",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 21
+    },
+    {
+      "query": "[property owner negligance]",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 1.8333333333333335
+    },
+    {
+      "query": "[property owner negligence]",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 5.166666666666667
+    },
+    {
+      "query": "[property owner neglignce]",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "[retail store slip and fall]",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "[slip and fall claim]",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "[slip and fall injury]",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "[slip and fall lawsuit]",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 1.7142857142857144
     }
   ],
   "topPages": [
     {
       "page": "https://johnsonattorneysgroup.com/",
       "clicks": 161,
-      "impressions": 38979,
-      "ctr": 0.0041304292054696115,
-      "position": 10.205341337643347
+      "impressions": 38502,
+      "ctr": 0.004181600955794504,
+      "position": 10.609085242325074
     },
     {
       "page": "https://johnsonattorneysgroup.com/personal-injury-attorney-bakersfield/",
-      "clicks": 37,
-      "impressions": 133552,
-      "ctr": 0.00027704564514196715,
-      "position": 23.241374146399902
-    },
-    {
-      "page": "https://johnsonattorneysgroup.com/about/",
-      "clicks": 26,
-      "impressions": 2414,
-      "ctr": 0.010770505385252692,
-      "position": 8.059652029826015
+      "clicks": 36,
+      "impressions": 149100,
+      "ctr": 0.0002414486921529175,
+      "position": 21.401509054325956
     },
     {
       "page": "https://johnsonattorneysgroup.com/suing-a-host-of-a-party-for-dui/",
-      "clicks": 25,
-      "impressions": 4833,
-      "ctr": 0.0051727705358990276,
-      "position": 6.570039313056073
+      "clicks": 31,
+      "impressions": 5414,
+      "ctr": 0.0057258958256372365,
+      "position": 6.407277428888068
     },
     {
-      "page": "https://johnsonattorneysgroup.com/2024-scholarship-page/",
-      "clicks": 17,
-      "impressions": 398,
-      "ctr": 0.04271356783919598,
-      "position": 24.530150753768844
+      "page": "https://johnsonattorneysgroup.com/about/",
+      "clicks": 28,
+      "impressions": 2637,
+      "ctr": 0.01061812665908229,
+      "position": 7.822525597269625
     },
     {
       "page": "https://johnsonattorneysgroup.com/what-is-patient-abandonment/",
-      "clicks": 16,
-      "impressions": 2789,
-      "ctr": 0.005736823234134099,
-      "position": 17.557547508067408
+      "clicks": 18,
+      "impressions": 3212,
+      "ctr": 0.00560398505603985,
+      "position": 15.184931506849315
     },
     {
-      "page": "https://johnsonattorneysgroup.com/human-trafficking-lawyer/",
-      "clicks": 14,
-      "impressions": 359,
-      "ctr": 0.03899721448467967,
-      "position": 34.14484679665738
-    },
-    {
-      "page": "https://johnsonattorneysgroup.com/islead-poisoning-reversible/",
-      "clicks": 13,
-      "impressions": 5822,
-      "ctr": 0.002232909653040192,
-      "position": 3.884060460322913
+      "page": "https://johnsonattorneysgroup.com/2024-scholarship-page/",
+      "clicks": 15,
+      "impressions": 392,
+      "ctr": 0.03826530612244898,
+      "position": 23.785714285714285
     },
     {
       "page": "https://johnsonattorneysgroup.com/car-accident-lawyer/what-if-i-am-at-fault/",
-      "clicks": 11,
-      "impressions": 3381,
-      "ctr": 0.003253475303164744,
-      "position": 23.075125702454894
+      "clicks": 15,
+      "impressions": 4418,
+      "ctr": 0.0033952014486192846,
+      "position": 23.488229968311455
     },
     {
-      "page": "https://johnsonattorneysgroup.com/does-homeowners-insurance-cover-injuries-under-personal-liability/",
-      "clicks": 11,
-      "impressions": 8059,
-      "ctr": 0.0013649336145923811,
-      "position": 16.16093808164785
-    },
-    {
-      "page": "https://johnsonattorneysgroup.com/our-reviews/",
-      "clicks": 10,
-      "impressions": 2106,
-      "ctr": 0.004748338081671415,
-      "position": 8.522317188983855
+      "page": "https://johnsonattorneysgroup.com/human-trafficking-lawyer/",
+      "clicks": 15,
+      "impressions": 472,
+      "ctr": 0.03177966101694915,
+      "position": 33.27542372881356
     },
     {
       "page": "https://johnsonattorneysgroup.com/lithium-battery-explosion-lawyer/",
-      "clicks": 9,
-      "impressions": 1882,
-      "ctr": 0.004782146652497344,
-      "position": 18.878320935175346
+      "clicks": 13,
+      "impressions": 1780,
+      "ctr": 0.007303370786516854,
+      "position": 15.149438202247191
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/does-homeowners-insurance-cover-injuries-under-personal-liability/",
+      "clicks": 12,
+      "impressions": 8083,
+      "ctr": 0.0014845973029815663,
+      "position": 15.0711369541012
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/our-reviews/",
+      "clicks": 12,
+      "impressions": 2224,
+      "ctr": 0.00539568345323741,
+      "position": 8.31429856115108
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/islead-poisoning-reversible/",
+      "clicks": 11,
+      "impressions": 8007,
+      "ctr": 0.0013737979268140378,
+      "position": 3.669788934682153
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/contact/",
+      "clicks": 10,
+      "impressions": 4015,
+      "ctr": 0.0024906600249066002,
+      "position": 14.727272727272727
     },
     {
       "page": "https://johnsonattorneysgroup.com/locations/",
+      "clicks": 9,
+      "impressions": 2776,
+      "ctr": 0.0032420749279538905,
+      "position": 5.1902017291066285
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/police-brutality-misconduct-injury-lawyer/",
       "clicks": 7,
-      "impressions": 2926,
-      "ctr": 0.0023923444976076554,
-      "position": 4.603896103896104
+      "impressions": 799,
+      "ctr": 0.008760951188986232,
+      "position": 66.55819774718398
     },
     {
       "page": "https://johnsonattorneysgroup.com/slip-and-fall-accident-attorney/trip-and-fall/",
       "clicks": 7,
-      "impressions": 3267,
-      "ctr": 0.0021426385062748698,
-      "position": 10.463728191000918
-    },
-    {
-      "page": "https://johnsonattorneysgroup.com/what-to-do-after-a-car-accident-in-california-step-by-step-guide/",
-      "clicks": 6,
-      "impressions": 3871,
-      "ctr": 0.0015499870834409714,
-      "position": 44.75975200206665
-    },
-    {
-      "page": "https://johnsonattorneysgroup.com/contact/",
-      "clicks": 5,
-      "impressions": 4147,
-      "ctr": 0.0012056908608632747,
-      "position": 15.327706775982637
+      "impressions": 3604,
+      "ctr": 0.001942286348501665,
+      "position": 13.422863485016649
     },
     {
       "page": "https://johnsonattorneysgroup.com/personal-injury-attorney-san-diego/",
-      "clicks": 5,
-      "impressions": 3042,
-      "ctr": 0.001643655489809336,
-      "position": 67.79388560157791
+      "clicks": 6,
+      "impressions": 3335,
+      "ctr": 0.0017991004497751124,
+      "position": 66.80179910044977
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/slip-falls-due-no-wet-floor-signs/",
+      "clicks": 6,
+      "impressions": 1798,
+      "ctr": 0.0033370411568409346,
+      "position": 17.31868743047831
     },
     {
       "page": "https://johnsonattorneysgroup.com/trampoline-injury-lawyer/",
       "clicks": 5,
-      "impressions": 3777,
-      "ctr": 0.0013238019592268996,
-      "position": 10.141117288853588
+      "impressions": 3666,
+      "ctr": 0.001363884342607747,
+      "position": 9.291598472449536
     },
     {
-      "page": "https://johnsonattorneysgroup.com/can-posting-a-beware-of-dog-sign-help-to-offset-liability-if-the-dog-bites/",
+      "page": "https://johnsonattorneysgroup.com/defective-medical-devices-lawyer/",
       "clicks": 4,
-      "impressions": 755,
-      "ctr": 0.005298013245033113,
-      "position": 9.47019867549669
+      "impressions": 8203,
+      "ctr": 0.0004876264781177618,
+      "position": 49.486407411922464
     },
     {
       "page": "https://johnsonattorneysgroup.com/makes-lithium-ion-batteries-explode/",
       "clicks": 4,
-      "impressions": 1923,
-      "ctr": 0.0020800832033281333,
-      "position": 17.913676547061883
+      "impressions": 1605,
+      "ctr": 0.0024922118380062306,
+      "position": 13.644859813084112
     },
     {
-      "page": "https://johnsonattorneysgroup.com/car-battery-explosion-injury-lawyer/",
+      "page": "https://johnsonattorneysgroup.com/parking-lot-accident-lawyer/",
+      "clicks": 4,
+      "impressions": 860,
+      "ctr": 0.004651162790697674,
+      "position": 16.203488372093023
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/personal-injury-attorney-san-francisco/",
+      "clicks": 4,
+      "impressions": 2144,
+      "ctr": 0.0018656716417910447,
+      "position": 53.0321828358209
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/7-steps-to-take-immediately-after-a-car-accident/",
       "clicks": 3,
-      "impressions": 1301,
-      "ctr": 0.0023059185242121443,
-      "position": 22.50730207532667
+      "impressions": 6100,
+      "ctr": 0.0004918032786885246,
+      "position": 56.395409836065575
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/choking-injury-lawyer/",
+      "clicks": 3,
+      "impressions": 349,
+      "ctr": 0.008595988538681949,
+      "position": 23.43839541547278
     },
     {
       "page": "https://johnsonattorneysgroup.com/limousine-accident-lawyer/",
       "clicks": 3,
-      "impressions": 563,
-      "ctr": 0.0053285968028419185,
-      "position": 25.55417406749556
-    },
-    {
-      "page": "https://johnsonattorneysgroup.com/parking-lot-accident-lawyer/",
-      "clicks": 3,
-      "impressions": 820,
-      "ctr": 0.003658536585365854,
-      "position": 14.845121951219513
+      "impressions": 701,
+      "ctr": 0.0042796005706134095,
+      "position": 25.141226818830244
     },
     {
       "page": "https://johnsonattorneysgroup.com/personal-injury-attorney-newport-beach/",
       "clicks": 3,
-      "impressions": 11983,
-      "ctr": 0.000250354669114579,
-      "position": 54.79262288241676
-    },
-    {
-      "page": "https://johnsonattorneysgroup.com/personal-injury-attorney-san-jose/",
-      "clicks": 3,
-      "impressions": 3398,
-      "ctr": 0.0008828722778104767,
-      "position": 69.58416715715127
-    },
-    {
-      "page": "https://johnsonattorneysgroup.com/police-brutality-misconduct-injury-lawyer/",
-      "clicks": 3,
-      "impressions": 1118,
-      "ctr": 0.0026833631484794273,
-      "position": 72.22003577817532
-    },
-    {
-      "page": "https://johnsonattorneysgroup.com/slip-falls-due-no-wet-floor-signs/",
-      "clicks": 3,
-      "impressions": 1604,
-      "ctr": 0.0018703241895261845,
-      "position": 17.459476309226932
+      "impressions": 15743,
+      "ctr": 0.0001905608842025027,
+      "position": 46.368163628279234
     },
     {
       "page": "https://johnsonattorneysgroup.com/traumatic-brain-injury-lawyer/compensation-available/",
       "clicks": 3,
-      "impressions": 347,
-      "ctr": 0.008645533141210375,
-      "position": 51.56772334293948
+      "impressions": 339,
+      "ctr": 0.008849557522123894,
+      "position": 47.8377581120944
     },
     {
-      "page": "https://johnsonattorneysgroup.com/choking-injury-lawyer/",
+      "page": "https://johnsonattorneysgroup.com/what-to-do-after-a-car-accident-in-california-step-by-step-guide/",
+      "clicks": 3,
+      "impressions": 3824,
+      "ctr": 0.0007845188284518828,
+      "position": 38.71992677824268
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/assault-bodily-injury-lawyer/",
       "clicks": 2,
-      "impressions": 351,
-      "ctr": 0.005698005698005698,
-      "position": 26.307692307692307
+      "impressions": 100,
+      "ctr": 0.02,
+      "position": 21.16
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/can-posting-a-beware-of-dog-sign-help-to-offset-liability-if-the-dog-bites/",
+      "clicks": 2,
+      "impressions": 738,
+      "ctr": 0.0027100271002710027,
+      "position": 8.994579945799458
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/car-battery-explosion-injury-lawyer/",
+      "clicks": 2,
+      "impressions": 1212,
+      "ctr": 0.0016501650165016502,
+      "position": 20.334158415841586
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/fraternity-hazing-injuries/",
+      "clicks": 2,
+      "impressions": 1099,
+      "ctr": 0.0018198362147406734,
+      "position": 8.763421292083713
     },
     {
       "page": "https://johnsonattorneysgroup.com/liability-dog-bite-attack-cases/",
       "clicks": 2,
-      "impressions": 228,
-      "ctr": 0.008771929824561403,
-      "position": 12
+      "impressions": 236,
+      "ctr": 0.00847457627118644,
+      "position": 11.75
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/misdiagnosis-and-delayed-diagnosis-lawyer/",
+      "clicks": 2,
+      "impressions": 140,
+      "ctr": 0.014285714285714285,
+      "position": 10.057142857142857
     },
     {
       "page": "https://johnsonattorneysgroup.com/motorcycle-accident-lawyer/insurance-coverage-options/",
       "clicks": 2,
-      "impressions": 3692,
-      "ctr": 0.0005417118093174431,
-      "position": 33.90005417118093
+      "impressions": 3885,
+      "ctr": 0.0005148005148005148,
+      "position": 31.047361647361647
     },
     {
-      "page": "https://johnsonattorneysgroup.com/motorcycle-accident-lawyer/what-to-do-if-ticketed-after-crash/",
+      "page": "https://johnsonattorneysgroup.com/personal-injury-attorney-san-jose/",
       "clicks": 2,
-      "impressions": 188,
-      "ctr": 0.010638297872340425,
-      "position": 8.638297872340425
-    },
-    {
-      "page": "https://johnsonattorneysgroup.com/nursing-malpractice-lawyer/",
-      "clicks": 2,
-      "impressions": 497,
-      "ctr": 0.004024144869215292,
-      "position": 34.33601609657948
-    },
-    {
-      "page": "https://johnsonattorneysgroup.com/personal-injury-attorney-riverside/",
-      "clicks": 2,
-      "impressions": 7473,
-      "ctr": 0.00026763013515321824,
-      "position": 56.766091261876085
+      "impressions": 3198,
+      "ctr": 0.0006253908692933083,
+      "position": 66.64040025015635
     },
     {
       "page": "https://johnsonattorneysgroup.com/personal-injury-attorney-santa-barbara/",
       "clicks": 2,
-      "impressions": 390,
-      "ctr": 0.005128205128205128,
-      "position": 31.53076923076923
-    },
-    {
-      "page": "https://johnsonattorneysgroup.com/product-liability-attorney/",
-      "clicks": 2,
-      "impressions": 688,
-      "ctr": 0.0029069767441860465,
-      "position": 34.656976744186046
+      "impressions": 294,
+      "ctr": 0.006802721088435374,
+      "position": 29.43877551020408
     },
     {
       "page": "https://johnsonattorneysgroup.com/retained-foreign-bodies-medical-malpractice-lawyer/",
       "clicks": 2,
-      "impressions": 283,
-      "ctr": 0.007067137809187279,
-      "position": 10.731448763250883
+      "impressions": 385,
+      "ctr": 0.005194805194805195,
+      "position": 10.623376623376624
     },
     {
       "page": "https://johnsonattorneysgroup.com/slip-fall-injuries-caused-poorly-marked-steps-ramps/",
       "clicks": 2,
-      "impressions": 221,
-      "ctr": 0.00904977375565611,
-      "position": 8.963800904977376
+      "impressions": 239,
+      "ctr": 0.008368200836820083,
+      "position": 9.196652719665272
     },
     {
       "page": "https://johnsonattorneysgroup.com/taxi-accident-lawyer/",
       "clicks": 2,
-      "impressions": 2727,
-      "ctr": 0.0007334066740007334,
-      "position": 18.213421342134215
+      "impressions": 2552,
+      "ctr": 0.0007836990595611285,
+      "position": 30.90282131661442
     },
     {
-      "page": "https://johnsonattorneysgroup.com/7-steps-to-take-immediately-after-a-car-accident/",
+      "page": "https://johnsonattorneysgroup.com/4-elements-of-a-valid-wrongful-death-claim/",
       "clicks": 1,
-      "impressions": 4076,
-      "ctr": 0.0002453385672227674,
-      "position": 63.02747791952895
-    },
-    {
-      "page": "https://johnsonattorneysgroup.com/assault-bodily-injury-lawyer/",
-      "clicks": 1,
-      "impressions": 106,
-      "ctr": 0.009433962264150943,
-      "position": 21.39622641509434
+      "impressions": 35,
+      "ctr": 0.02857142857142857,
+      "position": 44.77142857142857
     },
     {
       "page": "https://johnsonattorneysgroup.com/battery-explosion-accident-lawyer/",
       "clicks": 1,
-      "impressions": 218,
-      "ctr": 0.0045871559633027525,
-      "position": 11.371559633027523
+      "impressions": 245,
+      "ctr": 0.004081632653061225,
+      "position": 11.179591836734694
     },
     {
-      "page": "https://johnsonattorneysgroup.com/blog/",
+      "page": "https://johnsonattorneysgroup.com/car-accident-lawyer/",
       "clicks": 1,
-      "impressions": 79,
-      "ctr": 0.012658227848101266,
-      "position": 8
-    },
-    {
-      "page": "https://johnsonattorneysgroup.com/car-accident-lawyer/what-does-an-attorney-do/",
-      "clicks": 1,
-      "impressions": 1325,
-      "ctr": 0.0007547169811320754,
-      "position": 34.61056603773585
+      "impressions": 2450,
+      "ctr": 0.00040816326530612246,
+      "position": 21.373061224489796
     },
     {
       "page": "https://johnsonattorneysgroup.com/defective-automotive-products-lawyer/",
       "clicks": 1,
-      "impressions": 29,
-      "ctr": 0.034482758620689655,
-      "position": 42.89655172413793
-    },
-    {
-      "page": "https://johnsonattorneysgroup.com/defective-medical-devices-lawyer/",
-      "clicks": 1,
-      "impressions": 6521,
-      "ctr": 0.00015335071308081582,
-      "position": 50.0263763226499
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 43
     },
     {
       "page": "https://johnsonattorneysgroup.com/disclaimer/",
       "clicks": 1,
-      "impressions": 106,
-      "ctr": 0.009433962264150943,
-      "position": 8.556603773584905
+      "impressions": 88,
+      "ctr": 0.011363636363636364,
+      "position": 8.022727272727273
     },
     {
       "page": "https://johnsonattorneysgroup.com/failure-warn-defective-product-case/",
       "clicks": 1,
-      "impressions": 331,
-      "ctr": 0.0030211480362537764,
-      "position": 12.803625377643504
+      "impressions": 321,
+      "ctr": 0.003115264797507788,
+      "position": 13.242990654205608
     },
     {
-      "page": "https://johnsonattorneysgroup.com/fraternity-hazing-injuries/",
+      "page": "https://johnsonattorneysgroup.com/lead-poisoning-injury-lawyer/",
       "clicks": 1,
-      "impressions": 1021,
-      "ctr": 0.0009794319294809011,
-      "position": 9.328109696376101
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 12
     },
     {
-      "page": "https://johnsonattorneysgroup.com/knotts-berry-farm-accident-lawyer/",
+      "page": "https://johnsonattorneysgroup.com/legoland-accident-lawyer/",
       "clicks": 1,
-      "impressions": 1839,
-      "ctr": 0.000543773790103317,
-      "position": 21.298531810766722
+      "impressions": 68,
+      "ctr": 0.014705882352941176,
+      "position": 7.5
+    },
+    {
+      "page": "https://johnsonattorneysgroup.com/loss-hearing-injury-lawyer/",
+      "clicks": 1,
+      "impressions": 320,
+      "ctr": 0.003125,
+      "position": 23.996875
     }
   ],
-  "fetchedAt": "2026-03-18T13:06:27.634Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "johnson attorneys group motorcycle accident lawyer",
+      "clicks": 63,
+      "impressions": 90,
+      "ctr": 0.7,
+      "position": 1.1777777777777778
+    },
+    {
+      "query": "newport beach car accident lawyer johnson attorneys group",
+      "clicks": 58,
+      "impressions": 60,
+      "ctr": 0.9666666666666667,
+      "position": 1
+    },
+    {
+      "query": "johnson attorneys group newport beach car accident lawyer",
+      "clicks": 53,
+      "impressions": 54,
+      "ctr": 0.9814814814814815,
+      "position": 1
+    },
+    {
+      "query": "car accident lawyer johnson attorneys group",
+      "clicks": 48,
+      "impressions": 75,
+      "ctr": 0.64,
+      "position": 1.0266666666666666
+    },
+    {
+      "query": "california car accident lawyers",
+      "clicks": 44,
+      "impressions": 1001,
+      "ctr": 0.04395604395604396,
+      "position": 71.54445554445554
+    },
+    {
+      "query": "johnson attorneys group car accident lawyer",
+      "clicks": 40,
+      "impressions": 62,
+      "ctr": 0.6451612903225806,
+      "position": 1.096774193548387
+    },
+    {
+      "query": "johnson attorneys group",
+      "clicks": 34,
+      "impressions": 992,
+      "ctr": 0.034274193548387094,
+      "position": 1.1189516129032258
+    },
+    {
+      "query": "johnson attorneys group truck accident lawyer",
+      "clicks": 29,
+      "impressions": 53,
+      "ctr": 0.5471698113207547,
+      "position": 1.5849056603773586
+    },
+    {
+      "query": "personal injury lawyer bakersfield",
+      "clicks": 29,
+      "impressions": 2136,
+      "ctr": 0.013576779026217229,
+      "position": 37.485955056179776
+    },
+    {
+      "query": "california truck accident lawyer",
+      "clicks": 27,
+      "impressions": 1864,
+      "ctr": 0.014484978540772532,
+      "position": 72.08959227467811
+    },
+    {
+      "query": "johnson attorneys group trucking accident lawyer",
+      "clicks": 27,
+      "impressions": 54,
+      "ctr": 0.5,
+      "position": 1.3888888888888888
+    },
+    {
+      "query": "california motorcycle accident lawyer",
+      "clicks": 26,
+      "impressions": 2217,
+      "ctr": 0.011727559765448805,
+      "position": 81.58322056833559
+    },
+    {
+      "query": "johnson attorney group",
+      "clicks": 25,
+      "impressions": 109,
+      "ctr": 0.22935779816513763,
+      "position": 2.284403669724771
+    },
+    {
+      "query": "bakersfield personal injury lawyer",
+      "clicks": 23,
+      "impressions": 2433,
+      "ctr": 0.009453349773941636,
+      "position": 42.55322646937937
+    },
+    {
+      "query": "never drink and drive scholarship",
+      "clicks": 23,
+      "impressions": 122,
+      "ctr": 0.1885245901639344,
+      "position": 1.9918032786885247
+    },
+    {
+      "query": "bakersfield personal injury attorney",
+      "clicks": 21,
+      "impressions": 1923,
+      "ctr": 0.0109204368174727,
+      "position": 43.81539261570463
+    },
+    {
+      "query": "california car door accident lawyer",
+      "clicks": 20,
+      "impressions": 138,
+      "ctr": 0.14492753623188406,
+      "position": 7.4855072463768115
+    },
+    {
+      "query": "bicycle accident attorney",
+      "clicks": 19,
+      "impressions": 6831,
+      "ctr": 0.0027814375640462597,
+      "position": 44.58190601668863
+    },
+    {
+      "query": "catastrophic injury lawyer",
+      "clicks": 17,
+      "impressions": 834,
+      "ctr": 0.02038369304556355,
+      "position": 51.58033573141487
+    },
+    {
+      "query": "catastrophic injury attorney",
+      "clicks": 16,
+      "impressions": 1733,
+      "ctr": 0.009232544720138488,
+      "position": 48.45470282746682
+    },
+    {
+      "query": "james johnson attorney",
+      "clicks": 14,
+      "impressions": 89,
+      "ctr": 0.15730337078651685,
+      "position": 4.393258426966292
+    },
+    {
+      "query": "bicycle accident lawyer",
+      "clicks": 10,
+      "impressions": 3043,
+      "ctr": 0.003286230693394676,
+      "position": 38.27209990141308
+    },
+    {
+      "query": "johnson attorneys group car accident lawyers",
+      "clicks": 6,
+      "impressions": 597,
+      "ctr": 0.010050251256281407,
+      "position": 1.051926298157454
+    },
+    {
+      "query": "pedestrian accident attorney",
+      "clicks": 5,
+      "impressions": 1677,
+      "ctr": 0.0029815146094215863,
+      "position": 42.032200357781754
+    },
+    {
+      "query": "johnson attorney",
+      "clicks": 4,
+      "impressions": 141,
+      "ctr": 0.028368794326241134,
+      "position": 16.872340425531917
+    },
+    {
+      "query": "johnston motorcycle accident lawyer",
+      "clicks": 3,
+      "impressions": 11,
+      "ctr": 0.2727272727272727,
+      "position": 3
+    },
+    {
+      "query": "james johnson lawyer",
+      "clicks": 2,
+      "impressions": 52,
+      "ctr": 0.038461538461538464,
+      "position": 4.4423076923076925
+    },
+    {
+      "query": "johnson & johnson attorneys at law",
+      "clicks": 2,
+      "impressions": 17,
+      "ctr": 0.11764705882352941,
+      "position": 30.823529411764707
+    },
+    {
+      "query": "johnson law firm",
+      "clicks": 2,
+      "impressions": 347,
+      "ctr": 0.005763688760806916,
+      "position": 24.919308357348704
+    },
+    {
+      "query": "mold exposure attorneys",
+      "clicks": 2,
+      "impressions": 33,
+      "ctr": 0.06060606060606061,
+      "position": 36.27272727272727
+    },
+    {
+      "query": "t-bone truck accident lawyer california",
+      "clicks": 2,
+      "impressions": 19,
+      "ctr": 0.10526315789473684,
+      "position": 9.210526315789474
+    },
+    {
+      "query": "taxi car accident lawyer",
+      "clicks": 2,
+      "impressions": 314,
+      "ctr": 0.006369426751592357,
+      "position": 29.93312101910828
+    },
+    {
+      "query": "accident attorney near me free consultation",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 16
+    },
+    {
+      "query": "car crash lawyer",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 46.583333333333336
+    },
+    {
+      "query": "concrete truck accident lawyer",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 5.571428571428571
+    },
+    {
+      "query": "hazing injuries",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 21.307692307692307
+    },
+    {
+      "query": "james johnson california",
+      "clicks": 1,
+      "impressions": 38,
+      "ctr": 0.02631578947368421,
+      "position": 8.052631578947368
+    },
+    {
+      "query": "jim johnson lawyer",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 28.5
+    },
+    {
+      "query": "johnson and johnson law group",
+      "clicks": 1,
+      "impressions": 31,
+      "ctr": 0.03225806451612903,
+      "position": 30.967741935483872
+    },
+    {
+      "query": "johnson attorney at law",
+      "clicks": 1,
+      "impressions": 67,
+      "ctr": 0.014925373134328358,
+      "position": 41.74626865671642
+    },
+    {
+      "query": "johnson attorneys",
+      "clicks": 1,
+      "impressions": 29,
+      "ctr": 0.034482758620689655,
+      "position": 19.06896551724138
+    },
+    {
+      "query": "johnson attorneys group accident attorneys in bakersfield",
+      "clicks": 1,
+      "impressions": 87,
+      "ctr": 0.011494252873563218,
+      "position": 1.0114942528735633
+    },
+    {
+      "query": "johnson criminal law group reviews",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 10
+    },
+    {
+      "query": "johnson law group",
+      "clicks": 1,
+      "impressions": 728,
+      "ctr": 0.0013736263736263737,
+      "position": 18.065934065934066
+    },
+    {
+      "query": "mold injury lawyers",
+      "clicks": 1,
+      "impressions": 43,
+      "ctr": 0.023255813953488372,
+      "position": 25.3953488372093
+    },
+    {
+      "query": "personal injury lawyer san bernardino",
+      "clicks": 1,
+      "impressions": 1286,
+      "ctr": 0.0007776049766718507,
+      "position": 49.72783825816485
+    },
+    {
+      "query": "personal injury lawyers california",
+      "clicks": 1,
+      "impressions": 103,
+      "ctr": 0.009708737864077669,
+      "position": 79.88349514563107
+    },
+    {
+      "query": "school injury lawyers",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 25
+    },
+    {
+      "query": "taxi accident attorney",
+      "clicks": 1,
+      "impressions": 59,
+      "ctr": 0.01694915254237288,
+      "position": 77.9322033898305
+    },
+    {
+      "query": "truck accident lawyer group",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 5.333333333333333
+    },
+    {
+      "query": "truck accident lawyers",
+      "clicks": 1,
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 31.9375
+    },
+    {
+      "query": "\"car accidents\" \"attorneys\" \"california\" \"lawyers\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 38
+    },
+    {
+      "query": "\"injuries lawyer\"",
+      "clicks": 0,
+      "impressions": 36,
+      "ctr": 0,
+      "position": 42.52777777777778
+    },
+    {
+      "query": "+boat +accidents +lawyer",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 45.57142857142857
+    },
+    {
+      "query": "+motorcycle +accident +lawyer",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 50.4
+    },
+    {
+      "query": "+personal +injury +law +firm",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "1-800 car wreck",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 75.14285714285714
+    },
+    {
+      "query": "100 bayview",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 27
+    },
+    {
+      "query": "100 bayview circle newport beach",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 81
+    },
+    {
+      "query": "100 bayview circle newport beach ca 92660",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 69
+    },
+    {
+      "query": "18 wheeler accident attorney",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "18 wheeler accident attorney california",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 83.92307692307692
+    },
+    {
+      "query": "18 wheeler accident attorney camarillo",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 66
+    },
+    {
+      "query": "18 wheeler accident attorney oxnard",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 79.77777777777777
+    },
+    {
+      "query": "18 wheeler accident lawyer bakersfield",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 97.0909090909091
+    },
+    {
+      "query": "18 wheeler accident lawyer california",
+      "clicks": 0,
+      "impressions": 34,
+      "ctr": 0,
+      "position": 80.8529411764706
+    },
+    {
+      "query": "18 wheeler accident lawyer la",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 176
+    },
+    {
+      "query": "18 wheeler accident lawyer oxnard",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 98.5
+    },
+    {
+      "query": "4000 macarthur blvd suite 600 newport beach ca 92660",
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 69.94444444444444
+    },
+    {
+      "query": "4000 macarthur blvd, suite 600, newport beach, ca 92660",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 64
+    },
+    {
+      "query": "800 car wreck",
+      "clicks": 0,
+      "impressions": 28,
+      "ctr": 0,
+      "position": 79.89285714285714
+    },
+    {
+      "query": "a trip and fall",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 86
+    },
+    {
+      "query": "abogado cerca de mi",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 39
+    },
+    {
+      "query": "abogado de lesion personal en san bernardino",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 92.625
+    },
+    {
+      "query": "abogado de tbi en sacramento",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 85
+    },
+    {
+      "query": "abogado johnson",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 55.666666666666664
+    },
+    {
+      "query": "abogados de accidentes bakersfield",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 23.3
+    },
+    {
+      "query": "abogados de accidentes en bakersfield",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 23
+    },
+    {
+      "query": "abogados en bakersfield california",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 83
+    },
+    {
+      "query": "abogados laborales",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 38
+    },
+    {
+      "query": "accident amusement park",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 100
+    },
+    {
+      "query": "accident at knott's berry farm",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 27
+    },
+    {
+      "query": "accident at magic mountain",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 40
+    },
+    {
+      "query": "accident attorney",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 29.375
+    },
+    {
+      "query": "accident attorney 93308 bakersfield",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 27.333333333333332
+    },
+    {
+      "query": "accident attorney bakersfield",
+      "clicks": 0,
+      "impressions": 415,
+      "ctr": 0,
+      "position": 62.05060240963856
+    },
+    {
+      "query": "accident attorney bakersfield ca",
+      "clicks": 0,
+      "impressions": 146,
+      "ctr": 0,
+      "position": 50.16438356164384
+    },
+    {
+      "query": "accident attorney ca",
+      "clicks": 0,
+      "impressions": 191,
+      "ctr": 0,
+      "position": 83.61256544502618
+    },
+    {
+      "query": "accident attorney california",
+      "clicks": 0,
+      "impressions": 1371,
+      "ctr": 0,
+      "position": 65.03136396790664
+    },
+    {
+      "query": "accident attorney car",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 51
+    },
+    {
+      "query": "accident attorney group",
+      "clicks": 0,
+      "impressions": 472,
+      "ctr": 0,
+      "position": 27.26906779661017
+    },
+    {
+      "query": "accident attorney in california",
+      "clicks": 0,
+      "impressions": 42,
+      "ctr": 0,
+      "position": 82.26190476190476
+    },
+    {
+      "query": "accident attorney irvine",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 23
+    },
+    {
+      "query": "accident attorney near me",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 9.75
+    },
+    {
+      "query": "accident attorney newport beach",
+      "clicks": 0,
+      "impressions": 31,
+      "ctr": 0,
+      "position": 70.16129032258064
+    },
+    {
+      "query": "accident attorney newport beach ca",
+      "clicks": 0,
+      "impressions": 164,
+      "ctr": 0,
+      "position": 83.65243902439025
+    },
+    {
+      "query": "accident attorney orange county",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 149
+    },
+    {
+      "query": "accident attorney oxnard",
+      "clicks": 0,
+      "impressions": 155,
+      "ctr": 0,
+      "position": 60.806451612903224
+    },
+    {
+      "query": "accident attorney san bernardino",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 100
+    },
+    {
+      "query": "accident attorney san jose",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 94.75
+    },
+    {
+      "query": "accident attorney san jose ca",
+      "clicks": 0,
+      "impressions": 70,
+      "ctr": 0,
+      "position": 91.64285714285714
+    },
+    {
+      "query": "accident attorney santa barbara",
+      "clicks": 0,
+      "impressions": 227,
+      "ctr": 0,
+      "position": 56.53303964757709
+    },
+    {
+      "query": "accident attorney santa barbara ca",
+      "clicks": 0,
+      "impressions": 26,
+      "ctr": 0,
+      "position": 51.19230769230769
+    },
+    {
+      "query": "accident attorney victorville",
+      "clicks": 0,
+      "impressions": 126,
+      "ctr": 0,
+      "position": 53.06349206349206
+    },
+    {
+      "query": "accident attorney victorville ca",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 23.666666666666668
+    },
+    {
+      "query": "accident attorneys",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 92
+    },
+    {
+      "query": "accident attorneys bakersfield",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 57.38461538461539
+    },
+    {
+      "query": "accident attorneys california",
+      "clicks": 0,
+      "impressions": 36,
+      "ctr": 0,
+      "position": 93.72222222222223
+    },
+    {
+      "query": "accident attorneys del mar ca",
+      "clicks": 0,
+      "impressions": 103,
+      "ctr": 0,
+      "position": 27.631067961165048
+    },
+    {
+      "query": "accident attorneys group",
+      "clicks": 0,
+      "impressions": 193,
+      "ctr": 0,
+      "position": 24.647668393782382
+    },
+    {
+      "query": "accident attorneys group los angeles",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 60.5
+    },
+    {
+      "query": "accident attorneys in bakersfield california",
+      "clicks": 0,
+      "impressions": 25,
+      "ctr": 0,
+      "position": 51.08
+    },
+    {
+      "query": "accident attorneys in california",
+      "clicks": 0,
+      "impressions": 79,
+      "ctr": 0,
+      "position": 84.50632911392405
+    },
+    {
+      "query": "accident attorneys newport beach",
+      "clicks": 0,
+      "impressions": 291,
+      "ctr": 0,
+      "position": 73.23711340206185
+    },
+    {
+      "query": "accident attorneys san francisco",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 73
+    },
+    {
+      "query": "accident attorneys san jose ca",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 90
+    },
+    {
+      "query": "accident attornies",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "accident disneyland",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 27
+    },
+    {
+      "query": "accident in california",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "accident injured leg",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 87.5
+    },
+    {
+      "query": "accident injury attorney sacramento",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 93.4
+    },
+    {
+      "query": "accident injury group",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 72
+    },
+    {
+      "query": "accident injury lawyers san jose",
+      "clicks": 0,
+      "impressions": 25,
+      "ctr": 0,
+      "position": 88.48
+    },
+    {
+      "query": "accident law firm",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 139
+    },
+    {
+      "query": "accident law group",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 62.666666666666664
+    },
+    {
+      "query": "accident lawyer",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 34.57142857142857
+    },
+    {
+      "query": "accident lawyer bakersfield",
+      "clicks": 0,
+      "impressions": 437,
+      "ctr": 0,
+      "position": 58.224256292906176
+    },
+    {
+      "query": "accident lawyer bakersfield ca",
+      "clicks": 0,
+      "impressions": 99,
+      "ctr": 0,
+      "position": 60.25252525252525
+    },
+    {
+      "query": "accident lawyer ca",
+      "clicks": 0,
+      "impressions": 78,
+      "ctr": 0,
+      "position": 87.92307692307692
+    },
+    {
+      "query": "accident lawyer california",
+      "clicks": 0,
+      "impressions": 381,
+      "ctr": 0,
+      "position": 84.55905511811024
+    },
+    {
+      "query": "accident lawyer del mar ca",
+      "clicks": 0,
+      "impressions": 117,
+      "ctr": 0,
+      "position": 94.88888888888889
+    },
+    {
+      "query": "accident lawyer firm newport beach",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 66.14285714285714
+    },
+    {
+      "query": "accident lawyer group",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 11.166666666666666
+    },
+    {
+      "query": "accident lawyer in california",
+      "clicks": 0,
+      "impressions": 197,
+      "ctr": 0,
+      "position": 86.9238578680203
+    },
+    {
+      "query": "accident lawyer irvine",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 49
+    },
+    {
+      "query": "accident lawyer near me",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 10.5
+    },
+    {
+      "query": "accident lawyer newport beach",
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 93.5
+    },
+    {
+      "query": "accident lawyer newport beach ca",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 87
+    },
+    {
+      "query": "accident lawyer of california",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 165
+    },
+    {
+      "query": "accident lawyer orange county",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 178
+    },
+    {
+      "query": "accident lawyer orange county ca",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 91
+    },
+    {
+      "query": "accident lawyer oxnard",
+      "clicks": 0,
+      "impressions": 85,
+      "ctr": 0,
+      "position": 83.31764705882352
+    },
+    {
+      "query": "accident lawyer san jose ca",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 98.4
+    },
+    {
+      "query": "accident lawyer santa barbara",
+      "clicks": 0,
+      "impressions": 151,
+      "ctr": 0,
+      "position": 75.08609271523179
+    },
+    {
+      "query": "accident lawyer santa paula",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 84.14285714285714
+    },
+    {
+      "query": "accident lawyer victorville",
+      "clicks": 0,
+      "impressions": 103,
+      "ctr": 0,
+      "position": 68.23300970873787
+    },
+    {
+      "query": "accident lawyer victorville ca",
+      "clicks": 0,
+      "impressions": 116,
+      "ctr": 0,
+      "position": 51.86206896551724
+    },
+    {
+      "query": "accident lawyers",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 49.25
+    },
+    {
+      "query": "accident lawyers bakersfield",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 57.25
+    },
+    {
+      "query": "accident lawyers bakersfield ca",
+      "clicks": 0,
+      "impressions": 25,
+      "ctr": 0,
+      "position": 56.72
+    },
+    {
+      "query": "accident lawyers california",
+      "clicks": 0,
+      "impressions": 192,
+      "ctr": 0,
+      "position": 67.60416666666667
+    },
+    {
+      "query": "accident lawyers group",
+      "clicks": 0,
+      "impressions": 81,
+      "ctr": 0,
+      "position": 23.049382716049383
+    },
+    {
+      "query": "accident lawyers group inc",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 18.714285714285715
+    },
+    {
+      "query": "accident lawyers in bakersfield",
+      "clicks": 0,
+      "impressions": 80,
+      "ctr": 0,
+      "position": 73.4625
+    },
+    {
+      "query": "accident lawyers in bakersfield ca",
+      "clicks": 0,
+      "impressions": 37,
+      "ctr": 0,
+      "position": 55.810810810810814
+    },
+    {
+      "query": "accident lawyers in california",
+      "clicks": 0,
+      "impressions": 281,
+      "ctr": 0,
+      "position": 84.83274021352314
+    },
+    {
+      "query": "accident leg damage",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 75
+    },
+    {
+      "query": "accident leg injured",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 77.5
+    },
+    {
+      "query": "accident mail taxi",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 42
+    },
+    {
+      "query": "accident on 208 today",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 94
+    },
+    {
+      "query": "accidental drowning lawyer",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 95.8
+    },
+    {
+      "query": "accidents amusement parks",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 96.33333333333333
+    },
+    {
+      "query": "accidents at intersections",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 41
+    },
+    {
+      "query": "accidents at knott's berry farm",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 30
+    },
+    {
+      "query": "accidents attorney near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 37
+    },
+    {
+      "query": "accidents in amusement parks",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 87.18181818181819
+    },
+    {
+      "query": "accidents in california",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 84
+    },
+    {
+      "query": "accidents in disneyland",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 50
+    },
+    {
+      "query": "accidents involving pedestrians",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 56
+    },
+    {
+      "query": "accidents with driverless cars",
+      "clicks": 0,
+      "impressions": 33,
+      "ctr": 0,
+      "position": 63.15151515151515
+    },
+    {
+      "query": "advocate attorney group",
+      "clicks": 0,
+      "impressions": 27,
+      "ctr": 0,
+      "position": 65.88888888888889
+    },
+    {
+      "query": "advocates for the elderly assisted living and nursing home abuse lawyer",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 91.5
+    },
+    {
+      "query": "air crash lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 66
+    },
+    {
+      "query": "air disaster attorney",
+      "clicks": 0,
+      "impressions": 971,
+      "ctr": 0,
+      "position": 77.59526261585994
+    },
+    {
+      "query": "air disaster attorneys",
+      "clicks": 0,
+      "impressions": 1171,
+      "ctr": 0,
+      "position": 65.33817250213492
+    },
+    {
+      "query": "air disaster lawyers",
+      "clicks": 0,
+      "impressions": 115,
+      "ctr": 0,
+      "position": 85.64347826086957
+    },
+    {
+      "query": "aircraft accident lawyer",
+      "clicks": 0,
+      "impressions": 206,
+      "ctr": 0,
+      "position": 73.24271844660194
+    },
+    {
+      "query": "airline accident lawyer",
+      "clicks": 0,
+      "impressions": 57,
+      "ctr": 0,
+      "position": 89.78947368421052
+    },
+    {
+      "query": "airline crash attorney",
+      "clicks": 0,
+      "impressions": 294,
+      "ctr": 0,
+      "position": 79.64965986394557
+    },
+    {
+      "query": "airline crash lawyer",
+      "clicks": 0,
+      "impressions": 104,
+      "ctr": 0,
+      "position": 82.21153846153847
+    },
+    {
+      "query": "airline injury claims attorney",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 97.33333333333333
+    },
+    {
+      "query": "airline injury claims attorneys",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 90
+    },
+    {
+      "query": "airplane accident attorney",
+      "clicks": 0,
+      "impressions": 93,
+      "ctr": 0,
+      "position": 83.48387096774194
+    },
+    {
+      "query": "airplane accident attorney california",
+      "clicks": 0,
+      "impressions": 136,
+      "ctr": 0,
+      "position": 81.25
+    },
+    {
+      "query": "airplane accident lawyer",
+      "clicks": 0,
+      "impressions": 520,
+      "ctr": 0,
+      "position": 70.28461538461538
+    },
+    {
+      "query": "airplane accident lawyers",
+      "clicks": 0,
+      "impressions": 32,
+      "ctr": 0,
+      "position": 90.28125
+    },
+    {
+      "query": "airplane accidents attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 80
+    },
+    {
+      "query": "airplane crash accident lawyer",
+      "clicks": 0,
+      "impressions": 300,
+      "ctr": 0,
+      "position": 76.17333333333333
+    },
+    {
+      "query": "airplane crash attorney",
+      "clicks": 0,
+      "impressions": 105,
+      "ctr": 0,
+      "position": 83.08571428571429
+    },
+    {
+      "query": "airplane crash lawyer",
+      "clicks": 0,
+      "impressions": 441,
+      "ctr": 0,
+      "position": 76.38775510204081
+    },
+    {
+      "query": "alex johnson attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "alexandria car accident lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "aliso viejo attorney injury personal",
+      "clicks": 0,
+      "impressions": 63,
+      "ctr": 0,
+      "position": 26.603174603174605
+    },
+    {
+      "query": "aliso viejo attorney slip and fall accident",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 101
+    },
+    {
+      "query": "aliso viejo attorneys personal injury",
+      "clicks": 0,
+      "impressions": 65,
+      "ctr": 0,
+      "position": 27.661538461538463
+    },
+    {
+      "query": "aliso viejo brain injury attorney",
+      "clicks": 0,
+      "impressions": 72,
+      "ctr": 0,
+      "position": 31
+    },
+    {
+      "query": "aliso viejo brain injury attorneys",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 70
+    },
+    {
+      "query": "aliso viejo brain injury lawyer",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 99.71428571428571
+    },
+    {
+      "query": "aliso viejo bus accident attorney",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 71.14285714285714
+    },
+    {
+      "query": "aliso viejo construction accident attorney",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 33.22222222222222
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:21:26.097Z"
 }

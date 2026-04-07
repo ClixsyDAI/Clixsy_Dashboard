@@ -1,156 +1,16 @@
 {
   "property": "sc-domain:855mikewins.com",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 33987,
-    "impressions": 7040550,
-    "ctr": 0.004827321729126276,
-    "position": 20.03847921867056
+    "clicks": 30099,
+    "impressions": 6338454,
+    "ctr": 0.004748634288424275,
+    "position": 18.946561590794786
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 302,
-      "impressions": 56478,
-      "ctr": 0.005347214844718297,
-      "position": 18.95394666949963
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 343,
-      "impressions": 57762,
-      "ctr": 0.005938160036009834,
-      "position": 19.479882968041274
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 309,
-      "impressions": 47711,
-      "ctr": 0.006476493890297835,
-      "position": 18.133700823709418
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 322,
-      "impressions": 54478,
-      "ctr": 0.005910642828297661,
-      "position": 22.107658137229706
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 271,
-      "impressions": 54318,
-      "ctr": 0.004989138038955779,
-      "position": 24.914853271475387
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 205,
-      "impressions": 48550,
-      "ctr": 0.004222451081359423,
-      "position": 21.639485066941297
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 236,
-      "impressions": 49845,
-      "ctr": 0.004734677500250777,
-      "position": 24.414003410572775
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 462,
-      "impressions": 92613,
-      "ctr": 0.0049885005344822,
-      "position": 12.668901774048999
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 504,
-      "impressions": 57310,
-      "ctr": 0.008794276740533938,
-      "position": 22.306264177281452
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 242,
-      "impressions": 48428,
-      "ctr": 0.004997109110431982,
-      "position": 25.249690261831997
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 156,
-      "impressions": 42450,
-      "ctr": 0.003674911660777385,
-      "position": 22.495194346289754
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 765,
-      "impressions": 48067,
-      "ctr": 0.015915284914806416,
-      "position": 19.81240768094535
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 533,
-      "impressions": 47726,
-      "ctr": 0.01116791685873528,
-      "position": 20.384235008171647
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 420,
-      "impressions": 53572,
-      "ctr": 0.007839916374225342,
-      "position": 22.814548644814455
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 600,
-      "impressions": 57285,
-      "ctr": 0.010473946059177796,
-      "position": 18.818940385790345
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 1363,
-      "impressions": 137317,
-      "ctr": 0.009925937793572537,
-      "position": 11.866214671162346
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 2945,
-      "impressions": 143623,
-      "ctr": 0.02050507230736024,
-      "position": 11.589954255237672
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 675,
-      "impressions": 318874,
-      "ctr": 0.0021168235729473084,
-      "position": 10.565693659564593
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 562,
-      "impressions": 337227,
-      "ctr": 0.0016665332253941708,
-      "position": 9.398722522217971
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 535,
-      "impressions": 277584,
-      "ctr": 0.0019273445155340366,
-      "position": 8.763008674851577
-    },
     {
       "date": "2026-01-04",
       "clicks": 210,
@@ -640,711 +500,3314 @@
       "impressions": 55750,
       "ctr": 0.0034977578475336325,
       "position": 14.832484304932736
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 319,
+      "impressions": 55966,
+      "ctr": 0.005699889218454062,
+      "position": 14.681771075295716
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 458,
+      "impressions": 104888,
+      "ctr": 0.004366562428495157,
+      "position": 10.516417512012813
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 556,
+      "impressions": 66755,
+      "ctr": 0.008328964122537637,
+      "position": 13.595730656879635
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 787,
+      "impressions": 64758,
+      "ctr": 0.012152938633064641,
+      "position": 13.018777602767226
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 861,
+      "impressions": 64924,
+      "ctr": 0.013261659786827676,
+      "position": 14.410972829770193
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 491,
+      "impressions": 59058,
+      "ctr": 0.008313860950252295,
+      "position": 14.959124928036845
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 349,
+      "impressions": 53029,
+      "ctr": 0.006581304569197986,
+      "position": 13.540911576684456
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 284,
+      "impressions": 59649,
+      "ctr": 0.004761186273030562,
+      "position": 15.994601753591846
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 383,
+      "impressions": 66909,
+      "ctr": 0.005724192560044239,
+      "position": 16.226337264045195
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 370,
+      "impressions": 63255,
+      "ctr": 0.005849339973124654,
+      "position": 14.701604616235871
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 296,
+      "impressions": 63669,
+      "ctr": 0.004649044275864236,
+      "position": 14.738836796557194
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 294,
+      "impressions": 58969,
+      "ctr": 0.004985670437009276,
+      "position": 13.548084586816802
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 348,
+      "impressions": 58885,
+      "ctr": 0.005909824233675809,
+      "position": 13.865126942345249
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 191,
+      "impressions": 59575,
+      "ctr": 0.0032060428031892574,
+      "position": 15.201913554343264
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 227,
+      "impressions": 55517,
+      "ctr": 0.004088837653331412,
+      "position": 14.011203775420142
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 340,
+      "impressions": 63805,
+      "ctr": 0.005328735992477078,
+      "position": 13.470699788417836
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 321,
+      "impressions": 62410,
+      "ctr": 0.005143406505367729,
+      "position": 11.260230732254447
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 296,
+      "impressions": 64702,
+      "ctr": 0.004574819943742079,
+      "position": 11.850066458532966
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 270,
+      "impressions": 63395,
+      "ctr": 0.004259010963009701,
+      "position": 11.955706285984698
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 249,
+      "impressions": 59322,
+      "ctr": 0.004197430969960554,
+      "position": 13.196554398031084
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 172,
+      "impressions": 59682,
+      "ctr": 0.00288194095372139,
+      "position": 12.306608357628766
     }
   ],
   "topQueries": [
     {
       "query": "mike morse law firm",
-      "clicks": 2795,
-      "impressions": 14048,
-      "ctr": 0.1989607061503417,
-      "position": 1.3795558086560364
-    },
-    {
-      "query": "wins855.site -top",
-      "clicks": 2006,
-      "impressions": 924862,
-      "ctr": 0.00216897223585789,
-      "position": 5.779505482980164
+      "clicks": 2513,
+      "impressions": 13431,
+      "ctr": 0.18710445983173257,
+      "position": 1.436676345767255
     },
     {
       "query": "mike morse",
-      "clicks": 1152,
-      "impressions": 10160,
-      "ctr": 0.11338582677165354,
-      "position": 1.752755905511811
-    },
-    {
-      "query": "mike morse uber voucher",
-      "clicks": 594,
-      "impressions": 696,
-      "ctr": 0.853448275862069,
-      "position": 1.0057471264367817
+      "clicks": 1132,
+      "impressions": 10269,
+      "ctr": 0.11023468692180349,
+      "position": 1.8366929593923458
     },
     {
       "query": "mike morris law firm",
-      "clicks": 368,
-      "impressions": 3895,
-      "ctr": 0.0944801026957638,
-      "position": 1.4618741976893452
+      "clicks": 347,
+      "impressions": 3771,
+      "ctr": 0.09201803235216123,
+      "position": 1.560594006894723
     },
     {
       "query": "mike morse law",
-      "clicks": 367,
-      "impressions": 1301,
-      "ctr": 0.28209069946195237,
-      "position": 3.048424289008455
+      "clicks": 321,
+      "impressions": 1164,
+      "ctr": 0.2757731958762887,
+      "position": 4.3075601374570445
+    },
+    {
+      "query": "mike morse bracket challenge",
+      "clicks": 304,
+      "impressions": 331,
+      "ctr": 0.918429003021148,
+      "position": 1.0060422960725075
     },
     {
       "query": "mike morse injury law firm",
-      "clicks": 285,
-      "impressions": 1842,
-      "ctr": 0.15472312703583063,
-      "position": 2.9071661237785014
+      "clicks": 214,
+      "impressions": 1506,
+      "ctr": 0.14209827357237717,
+      "position": 3.246347941567065
     },
     {
-      "query": "mike morse free uber",
-      "clicks": 249,
-      "impressions": 297,
-      "ctr": 0.8383838383838383,
-      "position": 1
-    },
-    {
-      "query": "855 mike wins",
-      "clicks": 240,
-      "impressions": 833,
-      "ctr": 0.28811524609843936,
-      "position": 1.0012004801920769
+      "query": "wins855.site -top",
+      "clicks": 209,
+      "impressions": 9356,
+      "ctr": 0.022338606241983753,
+      "position": 3.9748824283882
     },
     {
       "query": "mike morse lawyer",
-      "clicks": 239,
-      "impressions": 1459,
-      "ctr": 0.16381082933516106,
-      "position": 1.6161754626456477
+      "clicks": 179,
+      "impressions": 1150,
+      "ctr": 0.15565217391304348,
+      "position": 1.7278260869565218
     },
     {
       "query": "mike morse attorney",
-      "clicks": 232,
-      "impressions": 739,
-      "ctr": 0.31393775372124494,
-      "position": 1.6238159675236807
+      "clicks": 170,
+      "impressions": 575,
+      "ctr": 0.2956521739130435,
+      "position": 2.24
     },
     {
-      "query": "mike morse detroit",
-      "clicks": 217,
-      "impressions": 646,
-      "ctr": 0.33591331269349844,
-      "position": 1.5913312693498454
+      "query": "855 mike wins",
+      "clicks": 161,
+      "impressions": 617,
+      "ctr": 0.26094003241491087,
+      "position": 1
     },
     {
       "query": "mike morse law firm reviews",
-      "clicks": 214,
-      "impressions": 1476,
-      "ctr": 0.14498644986449866,
-      "position": 3.605691056910569
+      "clicks": 158,
+      "impressions": 1344,
+      "ctr": 0.11755952380952381,
+      "position": 4.880952380952381
+    },
+    {
+      "query": "mike morse detroit",
+      "clicks": 155,
+      "impressions": 485,
+      "ctr": 0.31958762886597936,
+      "position": 2.802061855670103
     },
     {
       "query": "mike morse michigan",
-      "clicks": 203,
-      "impressions": 653,
-      "ctr": 0.3108728943338438,
-      "position": 2.104134762633997
+      "clicks": 148,
+      "impressions": 487,
+      "ctr": 0.30390143737166325,
+      "position": 2.4804928131416837
     },
     {
-      "query": "855mikewins free ride",
-      "clicks": 197,
-      "impressions": 228,
-      "ctr": 0.8640350877192983,
+      "query": "mike morse bracket",
+      "clicks": 127,
+      "impressions": 139,
+      "ctr": 0.9136690647482014,
+      "position": 1.0503597122302157
+    },
+    {
+      "query": "mike morse march madness",
+      "clicks": 119,
+      "impressions": 124,
+      "ctr": 0.9596774193548387,
       "position": 1
     },
     {
-      "query": "mike morse uber",
-      "clicks": 197,
-      "impressions": 249,
-      "ctr": 0.7911646586345381,
-      "position": 1
+      "query": "denis preka",
+      "clicks": 107,
+      "impressions": 476,
+      "ctr": 0.22478991596638656,
+      "position": 2.4222689075630255
     },
     {
-      "query": "mike morse law firm uber",
-      "clicks": 91,
-      "impressions": 131,
-      "ctr": 0.6946564885496184,
-      "position": 1
-    },
-    {
-      "query": "free uber ride",
-      "clicks": 90,
-      "impressions": 3031,
-      "ctr": 0.029693170570768722,
-      "position": 7.615638403167272
-    },
-    {
-      "query": "855mikewins",
-      "clicks": 87,
-      "impressions": 271,
-      "ctr": 0.3210332103321033,
-      "position": 2.5239852398523985
-    },
-    {
-      "query": "mike morse law firm uber voucher",
-      "clicks": 86,
-      "impressions": 120,
-      "ctr": 0.7166666666666667,
-      "position": 1
-    },
-    {
-      "query": "mike morse law firm free uber",
-      "clicks": 83,
-      "impressions": 117,
-      "ctr": 0.7094017094017094,
-      "position": 1
+      "query": "mikesmillions.com",
+      "clicks": 98,
+      "impressions": 159,
+      "ctr": 0.6163522012578616,
+      "position": 1.2578616352201257
     },
     {
       "query": "mike morse net worth",
       "clicks": 75,
-      "impressions": 1385,
-      "ctr": 0.05415162454873646,
-      "position": 2.343682310469314
+      "impressions": 1321,
+      "ctr": 0.05677517032551098,
+      "position": 1.7199091597274792
     },
     {
       "query": "mike morse law firm careers",
-      "clicks": 71,
-      "impressions": 115,
-      "ctr": 0.6173913043478261,
-      "position": 2.4956521739130437
+      "clicks": 74,
+      "impressions": 122,
+      "ctr": 0.6065573770491803,
+      "position": 2.3770491803278686
     },
     {
-      "query": "mike morse ride free nye",
-      "clicks": 67,
-      "impressions": 84,
-      "ctr": 0.7976190476190477,
-      "position": 1
+      "query": "mikes million",
+      "clicks": 58,
+      "impressions": 74,
+      "ctr": 0.7837837837837838,
+      "position": 1.027027027027027
     },
     {
-      "query": "free uber voucher",
-      "clicks": 52,
-      "impressions": 908,
-      "ctr": 0.05726872246696035,
-      "position": 7.819383259911894
+      "query": "855mikewins",
+      "clicks": 56,
+      "impressions": 252,
+      "ctr": 0.2222222222222222,
+      "position": 2.003968253968254
     },
     {
-      "query": "free uber nye",
-      "clicks": 46,
-      "impressions": 1002,
-      "ctr": 0.04590818363273453,
-      "position": 8.141716566866268
+      "query": "mike's million com",
+      "clicks": 49,
+      "impressions": 60,
+      "ctr": 0.8166666666666667,
+      "position": 1.1166666666666667
     },
     {
-      "query": "denis preka",
-      "clicks": 43,
-      "impressions": 244,
-      "ctr": 0.1762295081967213,
-      "position": 2.4877049180327866
+      "query": "mikesmillions",
+      "clicks": 42,
+      "impressions": 55,
+      "ctr": 0.7636363636363637,
+      "position": 1.1454545454545455
     },
     {
-      "query": "mike morse injury law firm services near me",
-      "clicks": 43,
-      "impressions": 45,
-      "ctr": 0.9555555555555556,
-      "position": 1.0222222222222221
-    },
-    {
-      "query": "mike wins",
-      "clicks": 41,
-      "impressions": 374,
-      "ctr": 0.10962566844919786,
-      "position": 1.248663101604278
-    },
-    {
-      "query": "mike morse injury law firm near me",
+      "query": "john nachazel",
       "clicks": 40,
-      "impressions": 40,
-      "ctr": 1,
-      "position": 1
+      "impressions": 131,
+      "ctr": 0.3053435114503817,
+      "position": 2.2977099236641223
+    },
+    {
+      "query": "mike morris law",
+      "clicks": 40,
+      "impressions": 210,
+      "ctr": 0.19047619047619047,
+      "position": 1.8380952380952382
     },
     {
       "query": "mike morris attorney",
       "clicks": 39,
-      "impressions": 399,
-      "ctr": 0.09774436090225563,
-      "position": 2.7769423558897244
+      "impressions": 400,
+      "ctr": 0.0975,
+      "position": 2.7875
     },
     {
-      "query": "mike morris law",
-      "clicks": 39,
-      "impressions": 232,
-      "ctr": 0.16810344827586207,
-      "position": 1.8448275862068966
+      "query": "mike wins",
+      "clicks": 38,
+      "impressions": 382,
+      "ctr": 0.09947643979057591,
+      "position": 1.2460732984293195
+    },
+    {
+      "query": "mike morse law firm jobs",
+      "clicks": 37,
+      "impressions": 56,
+      "ctr": 0.6607142857142857,
+      "position": 1.625
+    },
+    {
+      "query": "mike morse millions",
+      "clicks": 37,
+      "impressions": 39,
+      "ctr": 0.9487179487179487,
+      "position": 1
+    },
+    {
+      "query": "mikesmillion.com",
+      "clicks": 36,
+      "impressions": 169,
+      "ctr": 0.21301775147928995,
+      "position": 2.6508875739644973
+    },
+    {
+      "query": "mike morris lawyer",
+      "clicks": 34,
+      "impressions": 304,
+      "ctr": 0.1118421052631579,
+      "position": 2.7269736842105265
     },
     {
       "query": "what happens if you hit a deer and don t call the police",
-      "clicks": 39,
-      "impressions": 2356,
-      "ctr": 0.016553480475382003,
-      "position": 3.281409168081494
+      "clicks": 34,
+      "impressions": 2186,
+      "ctr": 0.01555352241537054,
+      "position": 3.246569075937786
     },
     {
-      "query": "mike's million com",
-      "clicks": 38,
-      "impressions": 44,
-      "ctr": 0.8636363636363636,
-      "position": 1.1590909090909092
+      "query": "mike morse injury law firm services near me",
+      "clicks": 32,
+      "impressions": 32,
+      "ctr": 1,
+      "position": 1.03125
     },
     {
-      "query": "personal injury lawyer detroit",
-      "clicks": 38,
-      "impressions": 4881,
-      "ctr": 0.007785289899610736,
-      "position": 6.357303831182135
+      "query": "the mike morse law firm",
+      "clicks": 32,
+      "impressions": 387,
+      "ctr": 0.082687338501292,
+      "position": 1.0155038759689923
     },
     {
-      "query": "mike morse injury law firm services",
-      "clicks": 36,
-      "impressions": 36,
+      "query": "is michigan a stand your ground state 2025",
+      "clicks": 31,
+      "impressions": 1424,
+      "ctr": 0.021769662921348316,
+      "position": 3.5737359550561796
+    },
+    {
+      "query": "mikemorse",
+      "clicks": 31,
+      "impressions": 85,
+      "ctr": 0.36470588235294116,
+      "position": 6.094117647058823
+    },
+    {
+      "query": "mike morse injury law firm near me",
+      "clicks": 30,
+      "impressions": 30,
       "ctr": 1,
       "position": 1
     },
     {
-      "query": "is michigan a stand your ground state 2025",
-      "clicks": 35,
-      "impressions": 1784,
-      "ctr": 0.01961883408071749,
-      "position": 3.781390134529148
+      "query": "personal injury lawyer detroit",
+      "clicks": 30,
+      "impressions": 5106,
+      "ctr": 0.005875440658049354,
+      "position": 6.0172346259302785
     },
     {
-      "query": "detroit personal injury lawyer",
-      "clicks": 34,
-      "impressions": 2821,
-      "ctr": 0.012052463665366891,
-      "position": 7.7873094647288195
+      "query": "michael morse law firm",
+      "clicks": 29,
+      "impressions": 798,
+      "ctr": 0.03634085213032581,
+      "position": 1.449874686716792
     },
     {
-      "query": "john nachazel",
-      "clicks": 34,
-      "impressions": 113,
-      "ctr": 0.3008849557522124,
-      "position": 2.3185840707964602
+      "query": "mike morse lawyer wikipedia",
+      "clicks": 29,
+      "impressions": 338,
+      "ctr": 0.08579881656804733,
+      "position": 2.5207100591715976
     },
     {
-      "query": "mike morris uber voucher",
-      "clicks": 33,
-      "impressions": 165,
-      "ctr": 0.2,
-      "position": 4.284848484848485
+      "query": "mike's millions",
+      "clicks": 29,
+      "impressions": 37,
+      "ctr": 0.7837837837837838,
+      "position": 1.1081081081081081
     },
     {
-      "query": "mike morse law firm jobs",
-      "clicks": 32,
-      "impressions": 57,
-      "ctr": 0.5614035087719298,
-      "position": 1.6491228070175439
-    },
-    {
-      "query": "mike morse free uber ride",
-      "clicks": 31,
-      "impressions": 35,
-      "ctr": 0.8857142857142857,
-      "position": 1
-    },
-    {
-      "query": "mike morse personal injury lawyer detroit",
-      "clicks": 31,
-      "impressions": 31,
+      "query": "mike morse injury law firm services",
+      "clicks": 27,
+      "impressions": 27,
       "ctr": 1,
       "position": 1
     },
     {
       "query": "personal injury lawyer",
-      "clicks": 31,
-      "impressions": 67773,
-      "ctr": 0.0004574092927862128,
-      "position": 33.14628244286072
+      "clicks": 27,
+      "impressions": 92517,
+      "ctr": 0.000291838256752813,
+      "position": 26.88754499173125
     },
     {
-      "query": "michael morse law firm",
-      "clicks": 30,
-      "impressions": 729,
-      "ctr": 0.0411522633744856,
-      "position": 1.260631001371742
-    },
-    {
-      "query": "mike moore law firm",
-      "clicks": 30,
-      "impressions": 185,
-      "ctr": 0.16216216216216217,
-      "position": 2.562162162162162
-    },
-    {
-      "query": "mike morris",
-      "clicks": 29,
-      "impressions": 1583,
-      "ctr": 0.01831964624131396,
-      "position": 10.569172457359445
-    },
-    {
-      "query": "mikemorse",
-      "clicks": 29,
-      "impressions": 80,
-      "ctr": 0.3625,
-      "position": 3.2875
-    },
-    {
-      "query": "mike morris lawyer",
-      "clicks": 28,
-      "impressions": 281,
-      "ctr": 0.099644128113879,
-      "position": 2.6156583629893237
+      "query": "detroit personal injury lawyer",
+      "clicks": 25,
+      "impressions": 2850,
+      "ctr": 0.008771929824561403,
+      "position": 7.507719298245614
     },
     {
       "query": "mike morse injury law firm reviews",
-      "clicks": 28,
-      "impressions": 114,
-      "ctr": 0.24561403508771928,
-      "position": 10.070175438596491
+      "clicks": 24,
+      "impressions": 130,
+      "ctr": 0.18461538461538463,
+      "position": 9.876923076923077
+    },
+    {
+      "query": "marc mendelson",
+      "clicks": 23,
+      "impressions": 92,
+      "ctr": 0.25,
+      "position": 3
+    },
+    {
+      "query": "thelonious searcy",
+      "clicks": 23,
+      "impressions": 197,
+      "ctr": 0.116751269035533,
+      "position": 9.187817258883248
+    },
+    {
+      "query": "mike morse wife",
+      "clicks": 22,
+      "impressions": 623,
+      "ctr": 0.03531300160513644,
+      "position": 2.8459069020866776
+    },
+    {
+      "query": "is michigan a stand your ground state 2026",
+      "clicks": 21,
+      "impressions": 589,
+      "ctr": 0.035653650254668934,
+      "position": 2.568760611205433
+    },
+    {
+      "query": "mike morese law firm",
+      "clicks": 21,
+      "impressions": 33,
+      "ctr": 0.6363636363636364,
+      "position": 1
+    },
+    {
+      "query": "mike morse personal injury lawyer detroit",
+      "clicks": 21,
+      "impressions": 21,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "what happens if you hit a deer and don 't call the police",
+      "clicks": 21,
+      "impressions": 848,
+      "ctr": 0.024764150943396228,
+      "position": 1.5919811320754715
+    },
+    {
+      "query": "detroit personal injury attorney",
+      "clicks": 20,
+      "impressions": 1603,
+      "ctr": 0.012476606363069246,
+      "position": 8.384279475982533
+    },
+    {
+      "query": "mike morris",
+      "clicks": 20,
+      "impressions": 1460,
+      "ctr": 0.0136986301369863,
+      "position": 10.60890410958904
+    },
+    {
+      "query": "michigan self defense laws",
+      "clicks": 19,
+      "impressions": 961,
+      "ctr": 0.019771071800208116,
+      "position": 6.317377731529657
+    },
+    {
+      "query": "mike moore law firm",
+      "clicks": 19,
+      "impressions": 164,
+      "ctr": 0.11585365853658537,
+      "position": 3.25
+    },
+    {
+      "query": "mikes millions",
+      "clicks": 19,
+      "impressions": 22,
+      "ctr": 0.8636363636363636,
+      "position": 1.4545454545454546
+    },
+    {
+      "query": "mikewins",
+      "clicks": 19,
+      "impressions": 59,
+      "ctr": 0.3220338983050847,
+      "position": 2.6779661016949152
+    },
+    {
+      "query": "personal injury attorney detroit",
+      "clicks": 19,
+      "impressions": 3088,
+      "ctr": 0.006152849740932643,
+      "position": 4.016839378238342
+    },
+    {
+      "query": "personal injury insurance definition",
+      "clicks": 19,
+      "impressions": 411,
+      "ctr": 0.046228710462287104,
+      "position": 4.992700729927007
+    },
+    {
+      "query": "picture of mike morse wife",
+      "clicks": 19,
+      "impressions": 842,
+      "ctr": 0.022565320665083134,
+      "position": 1.0902612826603326
+    },
+    {
+      "query": "michigan stand your ground law",
+      "clicks": 18,
+      "impressions": 2111,
+      "ctr": 0.008526764566556135,
+      "position": 6.6935101847465655
+    },
+    {
+      "query": "mike morse law firm locations",
+      "clicks": 18,
+      "impressions": 75,
+      "ctr": 0.24,
+      "position": 1.0133333333333334
+    },
+    {
+      "query": "mike's million",
+      "clicks": 18,
+      "impressions": 18,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "morse law firm",
+      "clicks": 18,
+      "impressions": 905,
+      "ctr": 0.019889502762430938,
+      "position": 3.7425414364640885
+    },
+    {
+      "query": "detroit injury lawyers",
+      "clicks": 17,
+      "impressions": 256,
+      "ctr": 0.06640625,
+      "position": 17.09765625
+    },
+    {
+      "query": "michigan good samaritan law",
+      "clicks": 17,
+      "impressions": 286,
+      "ctr": 0.05944055944055944,
+      "position": 3.5524475524475525
+    },
+    {
+      "query": "julia opiela",
+      "clicks": 16,
+      "impressions": 118,
+      "ctr": 0.13559322033898305,
+      "position": 1.305084745762712
+    },
+    {
+      "query": "mike more law firm",
+      "clicks": 16,
+      "impressions": 70,
+      "ctr": 0.22857142857142856,
+      "position": 1.2285714285714286
+    },
+    {
+      "query": "mike morris law firm michigan",
+      "clicks": 16,
+      "impressions": 66,
+      "ctr": 0.24242424242424243,
+      "position": 1
+    },
+    {
+      "query": "good samaritan law michigan",
+      "clicks": 15,
+      "impressions": 335,
+      "ctr": 0.04477611940298507,
+      "position": 2.2925373134328355
+    },
+    {
+      "query": "mike mores",
+      "clicks": 15,
+      "impressions": 144,
+      "ctr": 0.10416666666666667,
+      "position": 2.548611111111111
+    },
+    {
+      "query": "mike's million.com",
+      "clicks": 15,
+      "impressions": 29,
+      "ctr": 0.5172413793103449,
+      "position": 1.1379310344827587
+    },
+    {
+      "query": "mikes millions.com",
+      "clicks": 15,
+      "impressions": 30,
+      "ctr": 0.5,
+      "position": 1.7666666666666666
+    },
+    {
+      "query": "mini tort michigan",
+      "clicks": 15,
+      "impressions": 916,
+      "ctr": 0.016375545851528384,
+      "position": 5.10589519650655
+    },
+    {
+      "query": "james wendt",
+      "clicks": 14,
+      "impressions": 253,
+      "ctr": 0.05533596837944664,
+      "position": 1.3794466403162056
+    },
+    {
+      "query": "malpractice lawyers",
+      "clicks": 14,
+      "impressions": 408,
+      "ctr": 0.03431372549019608,
+      "position": 13.034313725490197
+    },
+    {
+      "query": "mini tort claim",
+      "clicks": 14,
+      "impressions": 1427,
+      "ctr": 0.009810791871058164,
+      "position": 3.570427470217239
+    },
+    {
+      "query": "services offered by 855mikewins",
+      "clicks": 14,
+      "impressions": 141,
+      "ctr": 0.09929078014184398,
+      "position": 5.177304964539007
+    },
+    {
+      "query": "slip and fall attorneys",
+      "clicks": 14,
+      "impressions": 11196,
+      "ctr": 0.001250446588067167,
+      "position": 9.367988567345481
+    },
+    {
+      "query": "average wrongful death settlement michigan",
+      "clicks": 13,
+      "impressions": 129,
+      "ctr": 0.10077519379844961,
+      "position": 4.007751937984496
+    },
+    {
+      "query": "fireproof mike morse",
+      "clicks": 13,
+      "impressions": 156,
+      "ctr": 0.08333333333333333,
+      "position": 4.814102564102564
+    },
+    {
+      "query": "medical malpractice attorneys",
+      "clicks": 13,
+      "impressions": 2126,
+      "ctr": 0.0061147695202257765,
+      "position": 23.281279397930387
+    },
+    {
+      "query": "mike morese",
+      "clicks": 13,
+      "impressions": 45,
+      "ctr": 0.28888888888888886,
+      "position": 2.7111111111111112
+    },
+    {
+      "query": "mike morse attorney michigan",
+      "clicks": 13,
+      "impressions": 60,
+      "ctr": 0.21666666666666667,
+      "position": 2.916666666666667
+    },
+    {
+      "query": "mike.morse law firm",
+      "clicks": 13,
+      "impressions": 80,
+      "ctr": 0.1625,
+      "position": 4.2625
+    },
+    {
+      "query": "mikemorselawfirm",
+      "clicks": 13,
+      "impressions": 51,
+      "ctr": 0.2549019607843137,
+      "position": 2.4117647058823533
+    },
+    {
+      "query": "attorney mike morse",
+      "clicks": 12,
+      "impressions": 261,
+      "ctr": 0.04597701149425287,
+      "position": 1.6130268199233715
+    },
+    {
+      "query": "car accident lawyer",
+      "clicks": 12,
+      "impressions": 96094,
+      "ctr": 0.00012487772389535248,
+      "position": 26.1601452744188
+    },
+    {
+      "query": "michigan moped laws",
+      "clicks": 12,
+      "impressions": 448,
+      "ctr": 0.026785714285714284,
+      "position": 2.430803571428571
+    },
+    {
+      "query": "personal injury attorney near me",
+      "clicks": 12,
+      "impressions": 1624,
+      "ctr": 0.007389162561576354,
+      "position": 23.660098522167488
+    },
+    {
+      "query": "rob zielinski",
+      "clicks": 12,
+      "impressions": 162,
+      "ctr": 0.07407407407407407,
+      "position": 2.5987654320987654
+    },
+    {
+      "query": "what happens if you hit a deer and don t call the police michigan",
+      "clicks": 12,
+      "impressions": 85,
+      "ctr": 0.1411764705882353,
+      "position": 1.0235294117647058
+    },
+    {
+      "query": "why is michigan car insurance so expensive",
+      "clicks": 12,
+      "impressions": 551,
+      "ctr": 0.021778584392014518,
+      "position": 1.969147005444646
+    },
+    {
+      "query": "allen ayoub",
+      "clicks": 11,
+      "impressions": 35,
+      "ctr": 0.3142857142857143,
+      "position": 1.8857142857142857
+    },
+    {
+      "query": "free uber ride",
+      "clicks": 11,
+      "impressions": 1436,
+      "ctr": 0.00766016713091922,
+      "position": 7.7005571030640665
+    },
+    {
+      "query": "how to file a mini tort claim in michigan",
+      "clicks": 11,
+      "impressions": 540,
+      "ctr": 0.020370370370370372,
+      "position": 2.688888888888889
+    },
+    {
+      "query": "michael morse attorney",
+      "clicks": 11,
+      "impressions": 92,
+      "ctr": 0.11956521739130435,
+      "position": 5.467391304347826
+    },
+    {
+      "query": "michael morse law",
+      "clicks": 11,
+      "impressions": 106,
+      "ctr": 0.10377358490566038,
+      "position": 2.452830188679245
+    },
+    {
+      "query": "mike morse fireproof",
+      "clicks": 11,
+      "impressions": 83,
+      "ctr": 0.13253012048192772,
+      "position": 9.096385542168674
+    },
+    {
+      "query": "austin bruce",
+      "clicks": 10,
+      "impressions": 143,
+      "ctr": 0.06993006993006994,
+      "position": 2.3776223776223775
+    },
+    {
+      "query": "best personal injury lawyers in michigan",
+      "clicks": 10,
+      "impressions": 371,
+      "ctr": 0.026954177897574125,
+      "position": 6.191374663072776
+    },
+    {
+      "query": "free uber voucher",
+      "clicks": 10,
+      "impressions": 323,
+      "ctr": 0.030959752321981424,
+      "position": 7.743034055727554
+    },
+    {
+      "query": "i committed a hit and run how long will it take for the police to find me",
+      "clicks": 10,
+      "impressions": 1802,
+      "ctr": 0.005549389567147614,
+      "position": 4.975027746947836
+    },
+    {
+      "query": "lawyer mike morris",
+      "clicks": 10,
+      "impressions": 87,
+      "ctr": 0.11494252873563218,
+      "position": 6.873563218390805
+    },
+    {
+      "query": "michigan stand your ground law 2025",
+      "clicks": 10,
+      "impressions": 136,
+      "ctr": 0.07352941176470588,
+      "position": 3.588235294117647
+    },
+    {
+      "query": "mike morris bracket",
+      "clicks": 10,
+      "impressions": 15,
+      "ctr": 0.6666666666666666,
+      "position": 5.866666666666666
+    },
+    {
+      "query": "mike morris bracket challenge",
+      "clicks": 10,
+      "impressions": 21,
+      "ctr": 0.47619047619047616,
+      "position": 4.761904761904762
+    },
+    {
+      "query": "mike morris the lawyer",
+      "clicks": 10,
+      "impressions": 49,
+      "ctr": 0.20408163265306123,
+      "position": 5.571428571428571
+    },
+    {
+      "query": "mike morse law firm grand rapids",
+      "clicks": 10,
+      "impressions": 42,
+      "ctr": 0.23809523809523808,
+      "position": 1.0238095238095237
+    },
+    {
+      "query": "mike morse law firm michigan",
+      "clicks": 10,
+      "impressions": 166,
+      "ctr": 0.060240963855421686,
+      "position": 3.1566265060240966
+    },
+    {
+      "query": "mikesmillion com",
+      "clicks": 10,
+      "impressions": 37,
+      "ctr": 0.2702702702702703,
+      "position": 2
+    },
+    {
+      "query": "mini tort claim michigan",
+      "clicks": 10,
+      "impressions": 467,
+      "ctr": 0.021413276231263382,
+      "position": 3.7858672376873663
+    },
+    {
+      "query": "morgan hirst",
+      "clicks": 10,
+      "impressions": 97,
+      "ctr": 0.10309278350515463,
+      "position": 2.6391752577319587
+    },
+    {
+      "query": "personal injury definition insurance",
+      "clicks": 10,
+      "impressions": 144,
+      "ctr": 0.06944444444444445,
+      "position": 3.7083333333333335
+    },
+    {
+      "query": "steven batsikouras",
+      "clicks": 10,
+      "impressions": 22,
+      "ctr": 0.45454545454545453,
+      "position": 1
+    },
+    {
+      "query": "chris hansen dahvie vanity",
+      "clicks": 9,
+      "impressions": 30,
+      "ctr": 0.3,
+      "position": 1.9
+    },
+    {
+      "query": "david eagles",
+      "clicks": 9,
+      "impressions": 67,
+      "ctr": 0.13432835820895522,
+      "position": 5.2388059701492535
+    },
+    {
+      "query": "if someone runs in front of your car is it your fault",
+      "clicks": 9,
+      "impressions": 214,
+      "ctr": 0.04205607476635514,
+      "position": 2.163551401869159
+    },
+    {
+      "query": "ira todd",
+      "clicks": 9,
+      "impressions": 93,
+      "ctr": 0.0967741935483871,
+      "position": 3.6021505376344085
+    },
+    {
+      "query": "is mike morse married",
+      "clicks": 9,
+      "impressions": 315,
+      "ctr": 0.02857142857142857,
+      "position": 2.365079365079365
+    },
+    {
+      "query": "michigan car accident lawyer",
+      "clicks": 9,
+      "impressions": 4143,
+      "ctr": 0.002172338884866039,
+      "position": 10.478397296644943
+    },
+    {
+      "query": "mike morse family",
+      "clicks": 9,
+      "impressions": 107,
+      "ctr": 0.08411214953271028,
+      "position": 2.009345794392523
+    },
+    {
+      "query": "mike morse law firm southfield mi",
+      "clicks": 9,
+      "impressions": 66,
+      "ctr": 0.13636363636363635,
+      "position": 7.484848484848484
+    },
+    {
+      "query": "mike morse lawfirm",
+      "clicks": 9,
+      "impressions": 31,
+      "ctr": 0.2903225806451613,
+      "position": 1.1612903225806452
+    },
+    {
+      "query": "personal injury lawyer near me",
+      "clicks": 9,
+      "impressions": 4638,
+      "ctr": 0.0019404915912031048,
+      "position": 14.257222940922812
+    },
+    {
+      "query": "thelonious searcy detroit",
+      "clicks": 9,
+      "impressions": 97,
+      "ctr": 0.09278350515463918,
+      "position": 5.288659793814433
+    },
+    {
+      "query": "attorney mike morris",
+      "clicks": 8,
+      "impressions": 140,
+      "ctr": 0.05714285714285714,
+      "position": 3.45
+    },
+    {
+      "query": "does michigan have a good samaritan law",
+      "clicks": 8,
+      "impressions": 27,
+      "ctr": 0.2962962962962963,
+      "position": 3.5925925925925926
+    },
+    {
+      "query": "dustin morris",
+      "clicks": 8,
+      "impressions": 566,
+      "ctr": 0.014134275618374558,
+      "position": 3.76678445229682
+    },
+    {
+      "query": "if someone runs in front of your car",
+      "clicks": 8,
+      "impressions": 118,
+      "ctr": 0.06779661016949153,
+      "position": 2.3728813559322033
+    },
+    {
+      "query": "is mike morris attorney married",
+      "clicks": 8,
+      "impressions": 197,
+      "ctr": 0.04060913705583756,
+      "position": 3.1472081218274113
+    },
+    {
+      "query": "joshua farr",
+      "clicks": 8,
+      "impressions": 184,
+      "ctr": 0.043478260869565216,
+      "position": 4.288043478260869
+    },
+    {
+      "query": "joshua shope",
+      "clicks": 8,
+      "impressions": 36,
+      "ctr": 0.2222222222222222,
+      "position": 2.611111111111111
+    },
+    {
+      "query": "katrina martin",
+      "clicks": 8,
+      "impressions": 291,
+      "ctr": 0.027491408934707903,
+      "position": 7.312714776632302
+    },
+    {
+      "query": "law firm scholarships",
+      "clicks": 8,
+      "impressions": 31,
+      "ctr": 0.25806451612903225,
+      "position": 40.45161290322581
+    },
+    {
+      "query": "malpractice lawyers near me",
+      "clicks": 8,
+      "impressions": 115,
+      "ctr": 0.06956521739130435,
+      "position": 5.217391304347826
+    },
+    {
+      "query": "medical malpractice lawyers",
+      "clicks": 8,
+      "impressions": 1434,
+      "ctr": 0.005578800557880056,
+      "position": 14.387726638772664
+    },
+    {
+      "query": "michigan mini tort law",
+      "clicks": 8,
+      "impressions": 417,
+      "ctr": 0.019184652278177457,
+      "position": 4.860911270983213
+    },
+    {
+      "query": "mike morris attorney at law",
+      "clicks": 8,
+      "impressions": 123,
+      "ctr": 0.06504065040650407,
+      "position": 4.268292682926829
+    },
+    {
+      "query": "mike morse law firm flint",
+      "clicks": 8,
+      "impressions": 44,
+      "ctr": 0.18181818181818182,
+      "position": 1
+    },
+    {
+      "query": "mikemillion.com",
+      "clicks": 8,
+      "impressions": 11,
+      "ctr": 0.7272727272727273,
+      "position": 2.3636363636363633
+    },
+    {
+      "query": "personal injury attorney",
+      "clicks": 8,
+      "impressions": 45286,
+      "ctr": 0.00017665503687673895,
+      "position": 36.85026277436735
+    },
+    {
+      "query": "self defense laws in michigan",
+      "clicks": 8,
+      "impressions": 320,
+      "ctr": 0.025,
+      "position": 3.921875
+    },
+    {
+      "query": "slip and fall lawyers",
+      "clicks": 8,
+      "impressions": 20556,
+      "ctr": 0.0003891807744697412,
+      "position": 24.28273983265227
+    },
+    {
+      "query": "steve dolunt",
+      "clicks": 8,
+      "impressions": 167,
+      "ctr": 0.04790419161676647,
+      "position": 4.904191616766467
+    },
+    {
+      "query": "what to do after a car accident in michigan",
+      "clicks": 8,
+      "impressions": 550,
+      "ctr": 0.014545454545454545,
+      "position": 3.903636363636364
+    },
+    {
+      "query": "why is car insurance so expensive in michigan",
+      "clicks": 8,
+      "impressions": 1026,
+      "ctr": 0.007797270955165692,
+      "position": 2.3050682261208575
+    },
+    {
+      "query": "248-350-9050",
+      "clicks": 7,
+      "impressions": 29,
+      "ctr": 0.2413793103448276,
+      "position": 1
+    },
+    {
+      "query": "charles kersten",
+      "clicks": 7,
+      "impressions": 20,
+      "ctr": 0.35,
+      "position": 7.6
+    },
+    {
+      "query": "driving with expired license penalty",
+      "clicks": 7,
+      "impressions": 57,
+      "ctr": 0.12280701754385964,
+      "position": 3.175438596491228
+    },
+    {
+      "query": "emotional distress",
+      "clicks": 7,
+      "impressions": 21526,
+      "ctr": 0.00032518814456935797,
+      "position": 7.043621666821518
+    },
+    {
+      "query": "exemplary damages vs punitive damages",
+      "clicks": 7,
+      "impressions": 289,
+      "ctr": 0.02422145328719723,
+      "position": 3.332179930795848
+    },
+    {
+      "query": "good samaritan law",
+      "clicks": 7,
+      "impressions": 3158,
+      "ctr": 0.002216592780240659,
+      "position": 3.474350854971501
+    },
+    {
+      "query": "how do i know if a settlement check is real",
+      "clicks": 7,
+      "impressions": 96,
+      "ctr": 0.07291666666666667,
+      "position": 1.84375
+    },
+    {
+      "query": "how long does a hit and run investigation take",
+      "clicks": 7,
+      "impressions": 237,
+      "ctr": 0.029535864978902954,
+      "position": 2.0253164556962027
+    },
+    {
+      "query": "how long will police investigate a hit and run",
+      "clicks": 7,
+      "impressions": 45,
+      "ctr": 0.15555555555555556,
+      "position": 1.8
+    },
+    {
+      "query": "how old is mike morse attorney",
+      "clicks": 7,
+      "impressions": 134,
+      "ctr": 0.05223880597014925,
+      "position": 10.455223880597014
+    },
+    {
+      "query": "if someone jumps in front of your car is it manslaughter",
+      "clicks": 7,
+      "impressions": 422,
+      "ctr": 0.016587677725118485,
+      "position": 2.154028436018957
+    },
+    {
+      "query": "if someone walks in front of your car",
+      "clicks": 7,
+      "impressions": 85,
+      "ctr": 0.08235294117647059,
+      "position": 1.6235294117647059
+    },
+    {
+      "query": "is detroit attorney mike morse married",
+      "clicks": 7,
+      "impressions": 148,
+      "ctr": 0.0472972972972973,
+      "position": 4.29054054054054
+    },
+    {
+      "query": "law firms near me",
+      "clicks": 7,
+      "impressions": 107,
+      "ctr": 0.06542056074766354,
+      "position": 10.42056074766355
+    },
+    {
+      "query": "michael morris law firm",
+      "clicks": 7,
+      "impressions": 54,
+      "ctr": 0.12962962962962962,
+      "position": 1.6851851851851851
+    },
+    {
+      "query": "mike moorse",
+      "clicks": 7,
+      "impressions": 34,
+      "ctr": 0.20588235294117646,
+      "position": 1.8529411764705883
+    },
+    {
+      "query": "mike morse age",
+      "clicks": 7,
+      "impressions": 445,
+      "ctr": 0.015730337078651686,
+      "position": 7.9348314606741575
+    },
+    {
+      "query": "mike morse lawyer age",
+      "clicks": 7,
+      "impressions": 207,
+      "ctr": 0.033816425120772944,
+      "position": 2.7246376811594204
+    },
+    {
+      "query": "mike morse wife and kids",
+      "clicks": 7,
+      "impressions": 243,
+      "ctr": 0.02880658436213992,
+      "position": 1.0329218106995885
+    },
+    {
+      "query": "mikes million.com",
+      "clicks": 7,
+      "impressions": 33,
+      "ctr": 0.21212121212121213,
+      "position": 2.333333333333333
+    },
+    {
+      "query": "patty dooley",
+      "clicks": 7,
+      "impressions": 40,
+      "ctr": 0.175,
+      "position": 3.925
+    },
+    {
+      "query": "police misconduct lawyers michigan",
+      "clicks": 7,
+      "impressions": 88,
+      "ctr": 0.07954545454545454,
+      "position": 3.477272727272727
+    },
+    {
+      "query": "robert zielinski",
+      "clicks": 7,
+      "impressions": 44,
+      "ctr": 0.1590909090909091,
+      "position": 5.909090909090909
+    },
+    {
+      "query": "slip and fall lawyers in michigan",
+      "clicks": 7,
+      "impressions": 430,
+      "ctr": 0.01627906976744186,
+      "position": 5.688372093023256
+    },
+    {
+      "query": "stand your ground law",
+      "clicks": 7,
+      "impressions": 1694,
+      "ctr": 0.004132231404958678,
+      "position": 8.343565525383706
+    },
+    {
+      "query": "suing for emotional distress in michigan",
+      "clicks": 7,
+      "impressions": 18,
+      "ctr": 0.3888888888888889,
+      "position": 1.3888888888888888
+    },
+    {
+      "query": "what happens if someone jumps in front of your car and dies",
+      "clicks": 7,
+      "impressions": 41,
+      "ctr": 0.17073170731707318,
+      "position": 4.829268292682927
+    },
+    {
+      "query": "what happens if you hit someone with your car by accident and they die",
+      "clicks": 7,
+      "impressions": 812,
+      "ctr": 0.008620689655172414,
+      "position": 8.242610837438423
+    },
+    {
+      "query": "1800 mike wins",
+      "clicks": 6,
+      "impressions": 43,
+      "ctr": 0.13953488372093023,
+      "position": 2.0930232558139537
+    },
+    {
+      "query": "855 mike wins commercial",
+      "clicks": 6,
+      "impressions": 35,
+      "ctr": 0.17142857142857143,
+      "position": 1.1428571428571428
+    },
+    {
+      "query": "855mikewins.com",
+      "clicks": 6,
+      "impressions": 285,
+      "ctr": 0.021052631578947368,
+      "position": 1
+    },
+    {
+      "query": "accident attorney near me",
+      "clicks": 6,
+      "impressions": 866,
+      "ctr": 0.006928406466512702,
+      "position": 34.10508083140878
+    },
+    {
+      "query": "adolph mongo",
+      "clicks": 6,
+      "impressions": 400,
+      "ctr": 0.015,
+      "position": 4.885
+    },
+    {
+      "query": "andrew miller attorney",
+      "clicks": 6,
+      "impressions": 67,
+      "ctr": 0.08955223880597014,
+      "position": 8.029850746268657
+    },
+    {
+      "query": "chris hansen onision",
+      "clicks": 6,
+      "impressions": 551,
+      "ctr": 0.010889292196007259,
+      "position": 8.166969147005446
+    },
+    {
+      "query": "cole schmidt",
+      "clicks": 6,
+      "impressions": 325,
+      "ctr": 0.018461538461538463,
+      "position": 5.08
+    },
+    {
+      "query": "dahvie vanity chris hansen",
+      "clicks": 6,
+      "impressions": 39,
+      "ctr": 0.15384615384615385,
+      "position": 1.641025641025641
+    },
+    {
+      "query": "exemplary vs punitive damages",
+      "clicks": 6,
+      "impressions": 65,
+      "ctr": 0.09230769230769231,
+      "position": 3.6
+    },
+    {
+      "query": "how often do personal injury cases go to trial",
+      "clicks": 6,
+      "impressions": 624,
+      "ctr": 0.009615384615384616,
+      "position": 24.203525641025642
+    },
+    {
+      "query": "is attorney mike morris married",
+      "clicks": 6,
+      "impressions": 35,
+      "ctr": 0.17142857142857143,
+      "position": 4.0285714285714285
+    },
+    {
+      "query": "is michigan a stand your ground state",
+      "clicks": 6,
+      "impressions": 1218,
+      "ctr": 0.0049261083743842365,
+      "position": 6.446633825944171
+    },
+    {
+      "query": "josh farr",
+      "clicks": 6,
+      "impressions": 40,
+      "ctr": 0.15,
+      "position": 8.725
+    },
+    {
+      "query": "michael morse lawyer",
+      "clicks": 6,
+      "impressions": 75,
+      "ctr": 0.08,
+      "position": 12.04
+    },
+    {
+      "query": "michigan attendant care rates",
+      "clicks": 6,
+      "impressions": 224,
+      "ctr": 0.026785714285714284,
+      "position": 8.450892857142858
+    },
+    {
+      "query": "michigan personal injury lawyer",
+      "clicks": 6,
+      "impressions": 4075,
+      "ctr": 0.00147239263803681,
+      "position": 9.319754601226993
+    },
+    {
+      "query": "mike morae",
+      "clicks": 6,
+      "impressions": 104,
+      "ctr": 0.057692307692307696,
+      "position": 1.3653846153846154
+    },
+    {
+      "query": "mike morris phone number",
+      "clicks": 6,
+      "impressions": 67,
+      "ctr": 0.08955223880597014,
+      "position": 1.835820895522388
+    },
+    {
+      "query": "mike morrison law firm",
+      "clicks": 6,
+      "impressions": 82,
+      "ctr": 0.07317073170731707,
+      "position": 1.7073170731707317
+    },
+    {
+      "query": "mike morse ex wife",
+      "clicks": 6,
+      "impressions": 257,
+      "ctr": 0.023346303501945526,
+      "position": 1.3968871595330739
+    },
+    {
+      "query": "mike morse personal injury attorney",
+      "clicks": 6,
+      "impressions": 15,
+      "ctr": 0.4,
+      "position": 3.6666666666666665
+    },
+    {
+      "query": "mini tort",
+      "clicks": 6,
+      "impressions": 1041,
+      "ctr": 0.005763688760806916,
+      "position": 6.682036503362152
+    },
+    {
+      "query": "police misconduct lawyers near me",
+      "clicks": 6,
+      "impressions": 210,
+      "ctr": 0.02857142857142857,
+      "position": 28.961904761904762
     }
   ],
   "topPages": [
     {
       "page": "https://www.855mikewins.com/",
-      "clicks": 5583,
-      "impressions": 635523,
-      "ctr": 0.008784890554708484,
-      "position": 27.774363791711707
-    },
-    {
-      "page": "https://www.855mikewins.com/ridefreenye/",
-      "clicks": 4154,
-      "impressions": 42794,
-      "ctr": 0.09706968266579427,
-      "position": 13.287423470579988
-    },
-    {
-      "page": "https://www.855mikewins.com/southfield-personal-injury-lawyers/?utm_source=GMB&utm_medium=organic&utm_campaign=Southfield",
-      "clicks": 2451,
-      "impressions": 430789,
-      "ctr": 0.005689560318392531,
-      "position": 3.2368189531301867
-    },
-    {
-      "page": "https://www.855mikewins.com/that-surprise-settlement-check-from-an-insurance-company-might-be-a-scam/",
-      "clicks": 1148,
-      "impressions": 95352,
-      "ctr": 0.012039600637637385,
-      "position": 5.172581592415471
-    },
-    {
-      "page": "https://www.855mikewins.com/meet-your-team/",
-      "clicks": 711,
-      "impressions": 107913,
-      "ctr": 0.006588640849573267,
-      "position": 6.832763429799932
-    },
-    {
-      "page": "https://www.855mikewins.com/start-the-new-year-on-a-winning-note-25-tips-for-2026/",
-      "clicks": 612,
-      "impressions": 414464,
-      "ctr": 0.0014766059295861643,
-      "position": 6.108296498610253
-    },
-    {
-      "page": "https://www.855mikewins.com/when-is-deadly-force-permitted/",
-      "clicks": 597,
-      "impressions": 80287,
-      "ctr": 0.007435823981466489,
-      "position": 5.992065963356459
+      "clicks": 4910,
+      "impressions": 675173,
+      "ctr": 0.007272210233525334,
+      "position": 27.543955401060174
     },
     {
       "page": "https://www.855mikewins.com/mikes-million-challenge/",
-      "clicks": 487,
-      "impressions": 795,
-      "ctr": 0.6125786163522012,
-      "position": 1.9119496855345912
+      "clicks": 2476,
+      "impressions": 3761,
+      "ctr": 0.6583355490561021,
+      "position": 1.8976336080829568
+    },
+    {
+      "page": "https://www.855mikewins.com/southfield-personal-injury-lawyers/?utm_source=GMB&utm_medium=organic&utm_campaign=Southfield",
+      "clicks": 2134,
+      "impressions": 456219,
+      "ctr": 0.004677578092977276,
+      "position": 3.170801742145768
+    },
+    {
+      "page": "https://www.855mikewins.com/that-surprise-settlement-check-from-an-insurance-company-might-be-a-scam/",
+      "clicks": 1023,
+      "impressions": 95134,
+      "ctr": 0.01075325330586331,
+      "position": 5.151954085815797
+    },
+    {
+      "page": "https://www.855mikewins.com/meet-your-team/",
+      "clicks": 795,
+      "impressions": 98519,
+      "ctr": 0.008069509434728327,
+      "position": 7.335366782042042
+    },
+    {
+      "page": "https://www.855mikewins.com/when-is-deadly-force-permitted/",
+      "clicks": 638,
+      "impressions": 88579,
+      "ctr": 0.007202610099459239,
+      "position": 5.832409487576062
     },
     {
       "page": "https://www.855mikewins.com/car-accident-lawyers/what-to-do-if-your-insurance-check-exceeds-your-car-repairs/",
-      "clicks": 481,
-      "impressions": 87574,
-      "ctr": 0.005492497773311713,
-      "position": 6.626258935300432
-    },
-    {
-      "page": "https://www.855mikewins.com/when-a-natural-disaster-strikes-you-can-strike-back/",
-      "clicks": 380,
-      "impressions": 161903,
-      "ctr": 0.002347084365329858,
-      "position": 5.431999407052371
+      "clicks": 554,
+      "impressions": 96756,
+      "ctr": 0.005725743106370664,
+      "position": 6.43603497457522
     },
     {
       "page": "https://www.855mikewins.com/careers/",
-      "clicks": 345,
-      "impressions": 4200,
-      "ctr": 0.08214285714285714,
-      "position": 6.165238095238095
-    },
-    {
-      "page": "https://www.855mikewins.com/pedestrian-accident-lawyers/what-happens-if-someone-jumps-in-front-of-your-car-and-dies/",
-      "clicks": 309,
-      "impressions": 29139,
-      "ctr": 0.010604344692679913,
-      "position": 6.206733244105838
-    },
-    {
-      "page": "https://www.855mikewins.com/the-costly-consequences-of-driving-without-a-license-in-michigan/",
-      "clicks": 304,
-      "impressions": 42452,
-      "ctr": 0.0071610289267879015,
-      "position": 7.4621690379722985
-    },
-    {
-      "page": "https://www.855mikewins.com/deer-car-accident-lawyer/do-you-have-to-file-a-police-report/",
-      "clicks": 302,
-      "impressions": 23534,
-      "ctr": 0.012832497662955723,
-      "position": 9.869380470808192
-    },
-    {
-      "page": "https://www.855mikewins.com/car-accident-lawyers/how-long-does-a-hit-and-run-investigation-take/",
-      "clicks": 278,
-      "impressions": 34243,
-      "ctr": 0.008118447565925883,
-      "position": 3.7746984785211577
-    },
-    {
-      "page": "https://www.855mikewins.com/our-clients-say-it-best/",
-      "clicks": 239,
-      "impressions": 4550,
-      "ctr": 0.05252747252747253,
-      "position": 4.437362637362638
-    },
-    {
-      "page": "https://www.855mikewins.com/how-to-avoid-getting-lowballed-on-the-first-call-with-your-insurance-company/",
-      "clicks": 235,
-      "impressions": 98137,
-      "ctr": 0.0023946116143758215,
-      "position": 6.357021306948449
-    },
-    {
-      "page": "https://www.855mikewins.com/detroit-personal-injury-lawyers/?utm_source=GMB&utm_medium=organic&utm_campaign=Detroit",
-      "clicks": 233,
-      "impressions": 217594,
-      "ctr": 0.0010708015846025167,
-      "position": 2.628836273059
+      "clicks": 367,
+      "impressions": 3157,
+      "ctr": 0.1162496040544821,
+      "position": 5.881216344630979
     },
     {
       "page": "https://www.855mikewins.com/morse-law-firm-secures-75-million-verdict-in-historic-wrongful-death-case/",
-      "clicks": 233,
-      "impressions": 9012,
-      "ctr": 0.025854416333777185,
-      "position": 6.812694185530404
+      "clicks": 331,
+      "impressions": 8552,
+      "ctr": 0.038704396632366696,
+      "position": 6.596585594013097
     },
     {
-      "page": "https://www.855mikewins.com/your-license-your-responsibility-understanding-michigans-license-points-system/",
-      "clicks": 231,
-      "impressions": 62483,
-      "ctr": 0.0036970055855192613,
-      "position": 8.952659123281531
+      "page": "https://www.855mikewins.com/pedestrian-accident-lawyers/what-happens-if-someone-jumps-in-front-of-your-car-and-dies/",
+      "clicks": 322,
+      "impressions": 27935,
+      "ctr": 0.011526758546626097,
+      "position": 6.671308394487203
     },
     {
-      "page": "https://www.855mikewins.com/detroit-personal-injury-lawyers/",
-      "clicks": 224,
-      "impressions": 93218,
-      "ctr": 0.0024029693835954428,
-      "position": 31.375227960265185
+      "page": "https://www.855mikewins.com/the-costly-consequences-of-driving-without-a-license-in-michigan/",
+      "clicks": 311,
+      "impressions": 46625,
+      "ctr": 0.0066702412868632705,
+      "position": 7.543957104557641
+    },
+    {
+      "page": "https://www.855mikewins.com/deer-car-accident-lawyer/do-you-have-to-file-a-police-report/",
+      "clicks": 268,
+      "impressions": 22361,
+      "ctr": 0.011985152721255757,
+      "position": 9.79423997137874
+    },
+    {
+      "page": "https://www.855mikewins.com/car-accident-lawyers/how-long-does-a-hit-and-run-investigation-take/",
+      "clicks": 263,
+      "impressions": 34271,
+      "ctr": 0.007674126812757142,
+      "position": 3.7507513641271046
     },
     {
       "page": "https://www.855mikewins.com/michigans-mini-tort-law-is-it-an-exception-that-proves-the-no-fault-rule/",
-      "clicks": 221,
-      "impressions": 25956,
-      "ctr": 0.008514408999845893,
-      "position": 6.299969178609955
+      "clicks": 250,
+      "impressions": 27084,
+      "ctr": 0.009230542017427264,
+      "position": 6.191884507458278
+    },
+    {
+      "page": "https://www.855mikewins.com/detroit-personal-injury-lawyers/?utm_source=GMB&utm_medium=organic&utm_campaign=Detroit",
+      "clicks": 248,
+      "impressions": 259204,
+      "ctr": 0.0009567753584049629,
+      "position": 2.5076117652505365
     },
     {
       "page": "https://www.855mikewins.com/police-misconduct-attorney/",
-      "clicks": 218,
-      "impressions": 15019,
-      "ctr": 0.014514947732871696,
-      "position": 26.593315134163394
+      "clicks": 248,
+      "impressions": 16821,
+      "ctr": 0.01474347541763272,
+      "position": 22.91409547589323
+    },
+    {
+      "page": "https://www.855mikewins.com/your-license-your-responsibility-understanding-michigans-license-points-system/",
+      "clicks": 247,
+      "impressions": 65935,
+      "ctr": 0.0037461135967240466,
+      "position": 8.427891104876014
     },
     {
       "page": "https://www.855mikewins.com/car-accident-lawyers/teen-drivers-laws/",
-      "clicks": 213,
-      "impressions": 29860,
-      "ctr": 0.007133288680509042,
-      "position": 4.620261219022103
-    },
-    {
-      "page": "https://www.855mikewins.com/episode-20-what-you-need-to-know-about-workers-compensation/",
-      "clicks": 213,
-      "impressions": 26987,
-      "ctr": 0.007892689072516397,
-      "position": 2.27135287360581
+      "clicks": 225,
+      "impressions": 31890,
+      "ctr": 0.0070555032925682035,
+      "position": 4.47848855440577
     },
     {
       "page": "https://www.855mikewins.com/meet-your-team/mike-morse/",
-      "clicks": 201,
-      "impressions": 59853,
-      "ctr": 0.003358227657761516,
-      "position": 4.1469433445274255
+      "clicks": 221,
+      "impressions": 52015,
+      "ctr": 0.004248774392002307,
+      "position": 3.9775257137364224
+    },
+    {
+      "page": "https://www.855mikewins.com/our-clients-say-it-best/",
+      "clicks": 197,
+      "impressions": 4193,
+      "ctr": 0.046983067016456,
+      "position": 4.285952778440258
     },
     {
       "page": "https://www.855mikewins.com/contact-us/",
-      "clicks": 171,
-      "impressions": 80858,
-      "ctr": 0.002114818570827871,
-      "position": 6.270177347943308
+      "clicks": 179,
+      "impressions": 59297,
+      "ctr": 0.003018702463868324,
+      "position": 6.978447476263555
     },
     {
-      "page": "https://www.855mikewins.com/deer-car-accident-lawyer/who-is-at-fault/",
-      "clicks": 170,
-      "impressions": 54138,
-      "ctr": 0.0031401233883778493,
-      "position": 5.65964756732794
-    },
-    {
-      "page": "https://www.855mikewins.com/michigans-auto-insurance-dilemma-why-are-premiums-so-absurdly-high/",
-      "clicks": 163,
-      "impressions": 18535,
-      "ctr": 0.008794173185864581,
-      "position": 16.304828702454813
-    },
-    {
-      "page": "https://www.855mikewins.com/deer-car-accident-lawyer/is-it-illegal-to-hit-a-deer-and-drive-off/",
-      "clicks": 153,
-      "impressions": 18043,
-      "ctr": 0.008479742836557114,
-      "position": 8.864213268303498
-    },
-    {
-      "page": "https://www.855mikewins.com/personal-injury-lawyer/what-happens-if-someone-makes-a-personal-injury-claim-against-me/",
-      "clicks": 151,
-      "impressions": 14082,
-      "ctr": 0.010722908677744638,
-      "position": 10.384107371112059
+      "page": "https://www.855mikewins.com/detroit-personal-injury-lawyers/",
+      "clicks": 169,
+      "impressions": 94764,
+      "ctr": 0.00178337765396142,
+      "position": 32.22524376345447
     },
     {
       "page": "https://www.855mikewins.com/disability-lawyer/disabled-adult-child-social-security-benefits/",
-      "clicks": 147,
-      "impressions": 13823,
-      "ctr": 0.01063444982999349,
-      "position": 6.749981914200969
+      "clicks": 168,
+      "impressions": 15093,
+      "ctr": 0.011130987875173921,
+      "position": 6.545749685284569
+    },
+    {
+      "page": "https://www.855mikewins.com/personal-injury-lawyer/what-happens-if-someone-makes-a-personal-injury-claim-against-me/",
+      "clicks": 155,
+      "impressions": 12501,
+      "ctr": 0.012399008079353652,
+      "position": 11.233901287896968
+    },
+    {
+      "page": "https://www.855mikewins.com/deer-car-accident-lawyer/is-it-illegal-to-hit-a-deer-and-drive-off/",
+      "clicks": 154,
+      "impressions": 17682,
+      "ctr": 0.00870942201108472,
+      "position": 8.800135731252121
     },
     {
       "page": "https://www.855mikewins.com/car-accident-lawyers/what-happens-if-someone-walks-in-front-of-your-car/",
-      "clicks": 144,
-      "impressions": 18046,
-      "ctr": 0.007979607669289594,
-      "position": 4.89050205031586
+      "clicks": 151,
+      "impressions": 17657,
+      "ctr": 0.00855184912499292,
+      "position": 4.636348190519341
     },
     {
-      "page": "https://www.855mikewins.com/personal-injury-lawyer/what-percentage-of-injury-claims-go-to-court/",
-      "clicks": 131,
-      "impressions": 28142,
-      "ctr": 0.004654964110582048,
-      "position": 7.210965816217753
+      "page": "https://www.855mikewins.com/michigans-auto-insurance-dilemma-why-are-premiums-so-absurdly-high/",
+      "clicks": 151,
+      "impressions": 17824,
+      "ctr": 0.008471723518850987,
+      "position": 15.213420107719928
     },
     {
-      "page": "https://www.855mikewins.com/deer-car-accident-lawyer/does-hitting-a-deer-raise-your-insurance/",
-      "clicks": 126,
-      "impressions": 46635,
-      "ctr": 0.0027018333869411387,
-      "position": 9.522611772274043
-    },
-    {
-      "page": "https://www.855mikewins.com/michigans-good-samaritan-laws-are-written-to-protect-well-intentioned-bystanders-but-how-much-safety-do-they-offer/",
-      "clicks": 125,
-      "impressions": 9538,
-      "ctr": 0.013105472845460264,
-      "position": 6.125078632837073
-    },
-    {
-      "page": "https://www.855mikewins.com/sterling-heights-personal-injury-lawyers/?utm_source=GMB&utm_medium=organic&utm_campaign=SterlingHeights",
-      "clicks": 124,
-      "impressions": 136793,
-      "ctr": 0.0009064791327041588,
-      "position": 2.846278683850782
-    },
-    {
-      "page": "https://www.855mikewins.com/in-2021-michigan-saw-50000-deer-related-crashes/",
-      "clicks": 121,
-      "impressions": 28209,
-      "ctr": 0.004289411180828814,
-      "position": 5.38484171718246
+      "page": "https://www.855mikewins.com/deer-car-accident-lawyer/who-is-at-fault/",
+      "clicks": 143,
+      "impressions": 49145,
+      "ctr": 0.0029097568419981686,
+      "position": 5.704649506562214
     },
     {
       "page": "https://www.855mikewins.com/truck-accident-lawyers/dot-requirements-for-reflective-tape-on-trucks/",
-      "clicks": 117,
-      "impressions": 21232,
-      "ctr": 0.005510550113036926,
-      "position": 6.142614920874152
+      "clicks": 143,
+      "impressions": 23131,
+      "ctr": 0.006182179758765293,
+      "position": 5.740132290000433
     },
     {
-      "page": "https://www.855mikewins.com/the-great-parking-debate-whats-safer-back-in-or-pull-forward/",
-      "clicks": 116,
-      "impressions": 16060,
-      "ctr": 0.007222914072229141,
-      "position": 5.573910336239103
+      "page": "https://www.855mikewins.com/michigans-good-samaritan-laws-are-written-to-protect-well-intentioned-bystanders-but-how-much-safety-do-they-offer/",
+      "clicks": 141,
+      "impressions": 10131,
+      "ctr": 0.01391767841279242,
+      "position": 5.92942453854506
+    },
+    {
+      "page": "https://www.855mikewins.com/personal-injury-lawyer/what-percentage-of-injury-claims-go-to-court/",
+      "clicks": 141,
+      "impressions": 29823,
+      "ctr": 0.00472789457801026,
+      "position": 7.029004459645241
+    },
+    {
+      "page": "https://www.855mikewins.com/in-2021-michigan-saw-50000-deer-related-crashes/",
+      "clicks": 135,
+      "impressions": 29187,
+      "ctr": 0.004625346901017576,
+      "position": 4.973961010038716
     },
     {
       "page": "https://www.855mikewins.com/car-accident-lawyers/what-if-someone-else-was-driving-my-car-during-a-car-accident/",
-      "clicks": 114,
-      "impressions": 19795,
-      "ctr": 0.005759030058095479,
-      "position": 9.724425359939378
+      "clicks": 122,
+      "impressions": 20180,
+      "ctr": 0.006045589692765114,
+      "position": 8.765906838453915
     },
     {
-      "page": "https://www.855mikewins.com/ptsd-flashbacks-anxiety-depression-when-to-sue-for-emotional-distress/",
-      "clicks": 114,
-      "impressions": 54631,
-      "ctr": 0.0020867273159927515,
-      "position": 9.610788746316194
-    },
-    {
-      "page": "https://www.855mikewins.com/109-meet-mikes-daughters-the-morse-girls-flip-the-script-interview-dad-in-fathers-day-special/",
-      "clicks": 112,
-      "impressions": 5214,
-      "ctr": 0.021480629075565784,
-      "position": 3.065017261219793
+      "page": "https://www.855mikewins.com/the-great-parking-debate-whats-safer-back-in-or-pull-forward/",
+      "clicks": 120,
+      "impressions": 17373,
+      "ctr": 0.006907269901571404,
+      "position": 5.483336211362459
     },
     {
       "page": "https://www.855mikewins.com/practice-areas/",
-      "clicks": 112,
-      "impressions": 48833,
-      "ctr": 0.0022935310138635758,
-      "position": 5.295271640079455
+      "clicks": 118,
+      "impressions": 48072,
+      "ctr": 0.002454651356298885,
+      "position": 5.811407888167748
     },
     {
-      "page": "https://www.855mikewins.com/wp-content/uploads/2024/06/Michigan-Firework-Laws-PDF__.pdf",
-      "clicks": 106,
-      "impressions": 12522,
-      "ctr": 0.008465101421498164,
-      "position": 5.147819837086727
+      "page": "https://www.855mikewins.com/ptsd-flashbacks-anxiety-depression-when-to-sue-for-emotional-distress/",
+      "clicks": 115,
+      "impressions": 59155,
+      "ctr": 0.0019440453047079706,
+      "position": 9.037376384075733
     },
     {
       "page": "https://www.855mikewins.com/how-michigans-graduated-license-program-has-empowered-teen-drivers-with-responsible-driving-practices/",
-      "clicks": 101,
-      "impressions": 48933,
-      "ctr": 0.0020640467578117018,
-      "position": 5.961232705944863
+      "clicks": 111,
+      "impressions": 52149,
+      "ctr": 0.002128516366565035,
+      "position": 5.727223916086598
     },
     {
-      "page": "https://www.855mikewins.com/flint-personal-injury-lawyers/?utm_source=GMB&utm_medium=organic&utm_campaign=Flint",
-      "clicks": 98,
-      "impressions": 48582,
-      "ctr": 0.002017208019431065,
-      "position": 2.517146268165164
+      "page": "https://www.855mikewins.com/sterling-heights-personal-injury-lawyers/?utm_source=GMB&utm_medium=organic&utm_campaign=SterlingHeights",
+      "clicks": 111,
+      "impressions": 149921,
+      "ctr": 0.0007403899387010492,
+      "position": 2.772146663909659
+    },
+    {
+      "page": "https://www.855mikewins.com/deer-car-accident-lawyer/does-hitting-a-deer-raise-your-insurance/",
+      "clicks": 109,
+      "impressions": 43856,
+      "ctr": 0.0024854067858445824,
+      "position": 9.44383892739876
+    },
+    {
+      "page": "https://www.855mikewins.com/personal-injury-lawyer/what-does-personal-injury-mean-in-insurance/",
+      "clicks": 105,
+      "impressions": 48884,
+      "ctr": 0.002147942066933966,
+      "position": 11.149517224449717
+    },
+    {
+      "page": "https://www.855mikewins.com/daycare-injury-lawyers/what-to-do/",
+      "clicks": 103,
+      "impressions": 12778,
+      "ctr": 0.008060729378619503,
+      "position": 1.8514634528095164
     },
     {
       "page": "https://www.855mikewins.com/michigan-medical-malpractice-lawyers/",
-      "clicks": 96,
-      "impressions": 41985,
-      "ctr": 0.002286530903894248,
-      "position": 28.014028819816602
+      "clicks": 99,
+      "impressions": 47612,
+      "ctr": 0.0020793077375451567,
+      "position": 24.643409224565236
+    },
+    {
+      "page": "https://www.855mikewins.com/michigans-moped-myths-debunked/",
+      "clicks": 99,
+      "impressions": 19905,
+      "ctr": 0.0049736247174076865,
+      "position": 6.9277066063803066
+    },
+    {
+      "page": "https://www.855mikewins.com/ridefreenye/",
+      "clicks": 98,
+      "impressions": 13372,
+      "ctr": 0.007328746634759198,
+      "position": 5.317603948549207
     },
     {
       "page": "https://www.855mikewins.com/meet-your-team/marc-mendelson/",
-      "clicks": 94,
-      "impressions": 949,
-      "ctr": 0.09905163329820864,
-      "position": 8.793466807165437
+      "clicks": 97,
+      "impressions": 1002,
+      "ctr": 0.0968063872255489,
+      "position": 8.402195608782435
     },
     {
-      "page": "https://www.855mikewins.com/the-dangers-of-daylight-saving-time/",
-      "clicks": 93,
-      "impressions": 92228,
-      "ctr": 0.0010083705599167282,
-      "position": 7.207268942186754
+      "page": "https://www.855mikewins.com/fathers-day-interview-with-mike-morse/",
+      "clicks": 95,
+      "impressions": 4765,
+      "ctr": 0.01993704092339979,
+      "position": 3.528856243441763
+    },
+    {
+      "page": "https://www.855mikewins.com/flint-personal-injury-lawyers/?utm_source=GMB&utm_medium=organic&utm_campaign=Flint",
+      "clicks": 94,
+      "impressions": 54213,
+      "ctr": 0.0017339014627487871,
+      "position": 2.5275856344419236
+    },
+    {
+      "page": "https://www.855mikewins.com/wayne-personal-injury-lawyers/?utm_source=GMB&utm_medium=organic&utm_campaign=Wayne",
+      "clicks": 91,
+      "impressions": 107251,
+      "ctr": 0.0008484769372779741,
+      "position": 3.0418644115206384
+    },
+    {
+      "page": "https://www.855mikewins.com/slip-and-fall-lawyers/how-long-to-settle/",
+      "clicks": 90,
+      "impressions": 22360,
+      "ctr": 0.004025044722719142,
+      "position": 12.017307692307693
+    },
+    {
+      "page": "https://www.855mikewins.com/car-accident-lawyers/are-no-fault-benefits-and-car-accident-settlements-taxable/",
+      "clicks": 89,
+      "impressions": 7357,
+      "ctr": 0.012097322278102488,
+      "position": 7.339812423542205
     }
   ],
-  "fetchedAt": "2026-03-18T13:06:18.109Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "mike morse law firm",
+      "clicks": 2442,
+      "impressions": 11509,
+      "ctr": 0.2121817707880789,
+      "position": 1.0078199669823615
+    },
+    {
+      "query": "mike morse",
+      "clicks": 1045,
+      "impressions": 7328,
+      "ctr": 0.14260371179039302,
+      "position": 1.90242903930131
+    },
+    {
+      "query": "mike morris law firm",
+      "clicks": 240,
+      "impressions": 1992,
+      "ctr": 0.12048192771084337,
+      "position": 1.0321285140562249
+    },
+    {
+      "query": "car accident attorneys",
+      "clicks": 111,
+      "impressions": 28318,
+      "ctr": 0.0039197683452221205,
+      "position": 69.35542764319514
+    },
+    {
+      "query": "mike morse law",
+      "clicks": 95,
+      "impressions": 629,
+      "ctr": 0.151033386327504,
+      "position": 1.0015898251192368
+    },
+    {
+      "query": "car accident attorney",
+      "clicks": 90,
+      "impressions": 46114,
+      "ctr": 0.0019516849546775384,
+      "position": 54.07941189226699
+    },
+    {
+      "query": "southfield motorcycle accident lawyer mike morse law firm",
+      "clicks": 89,
+      "impressions": 102,
+      "ctr": 0.8725490196078431,
+      "position": 1
+    },
+    {
+      "query": "auto accident lawyer",
+      "clicks": 87,
+      "impressions": 45145,
+      "ctr": 0.0019271237124820024,
+      "position": 59.57862443238454
+    },
+    {
+      "query": "auto accident attorney",
+      "clicks": 82,
+      "impressions": 29395,
+      "ctr": 0.0027895900663378126,
+      "position": 48.83868004762715
+    },
+    {
+      "query": "mike morse lawyer",
+      "clicks": 81,
+      "impressions": 537,
+      "ctr": 0.15083798882681565,
+      "position": 1.5847299813780262
+    },
+    {
+      "query": "855 mike wins",
+      "clicks": 79,
+      "impressions": 263,
+      "ctr": 0.30038022813688214,
+      "position": 1.0038022813688212
+    },
+    {
+      "query": "mike morse injury law firm",
+      "clicks": 78,
+      "impressions": 771,
+      "ctr": 0.10116731517509728,
+      "position": 1.2619974059662775
+    },
+    {
+      "query": "car injury attorney",
+      "clicks": 77,
+      "impressions": 25480,
+      "ctr": 0.003021978021978022,
+      "position": 74.63897174254318
+    },
+    {
+      "query": "mike wins",
+      "clicks": 76,
+      "impressions": 570,
+      "ctr": 0.13333333333333333,
+      "position": 1.0736842105263158
+    },
+    {
+      "query": "lansing motorcycle accident lawyer",
+      "clicks": 74,
+      "impressions": 596,
+      "ctr": 0.12416107382550336,
+      "position": 1.5654362416107381
+    },
+    {
+      "query": "mike morse 75 million dollar verdict",
+      "clicks": 73,
+      "impressions": 103,
+      "ctr": 0.7087378640776699,
+      "position": 1
+    },
+    {
+      "query": "car crash lawyer",
+      "clicks": 72,
+      "impressions": 14866,
+      "ctr": 0.004843266514193462,
+      "position": 61.051325171532355
+    },
+    {
+      "query": "saginaw michigan car accident lawyer",
+      "clicks": 70,
+      "impressions": 118,
+      "ctr": 0.5932203389830508,
+      "position": 2.1271186440677967
+    },
+    {
+      "query": "automobile accident lawyer",
+      "clicks": 69,
+      "impressions": 4044,
+      "ctr": 0.017062314540059347,
+      "position": 48.967359050445104
+    },
+    {
+      "query": "truck crash lawyer",
+      "clicks": 68,
+      "impressions": 5822,
+      "ctr": 0.011679835108210237,
+      "position": 74.23462727585023
+    },
+    {
+      "query": "michigan car seat laws",
+      "clicks": 63,
+      "impressions": 156576,
+      "ctr": 0.0004023605150214592,
+      "position": 10.505601113836093
+    },
+    {
+      "query": "auto accident attorneys",
+      "clicks": 60,
+      "impressions": 34319,
+      "ctr": 0.0017483026894723039,
+      "position": 73.39135755703838
+    },
+    {
+      "query": "michigan car accident lawyer mike morse law firm",
+      "clicks": 59,
+      "impressions": 64,
+      "ctr": 0.921875,
+      "position": 1
+    },
+    {
+      "query": "semi truck accident lawyer",
+      "clicks": 58,
+      "impressions": 16124,
+      "ctr": 0.0035971223021582736,
+      "position": 65.0203423468122
+    },
+    {
+      "query": "mike morse law firm southfield car accident lawyer",
+      "clicks": 57,
+      "impressions": 70,
+      "ctr": 0.8142857142857143,
+      "position": 1
+    },
+    {
+      "query": "accident lawyer near me",
+      "clicks": 56,
+      "impressions": 763,
+      "ctr": 0.07339449541284404,
+      "position": 6.007863695937091
+    },
+    {
+      "query": "michigan rear end car accident lawyer",
+      "clicks": 56,
+      "impressions": 141,
+      "ctr": 0.3971631205673759,
+      "position": 3.879432624113475
+    },
+    {
+      "query": "sterling heights motorcycle accident lawyer",
+      "clicks": 56,
+      "impressions": 85,
+      "ctr": 0.6588235294117647,
+      "position": 1.0941176470588236
+    },
+    {
+      "query": "mike morse law firm reviews",
+      "clicks": 55,
+      "impressions": 1153,
+      "ctr": 0.047701647875108416,
+      "position": 3.0598438855160452
+    },
+    {
+      "query": "mike morse attorney",
+      "clicks": 53,
+      "impressions": 210,
+      "ctr": 0.2523809523809524,
+      "position": 1.2428571428571429
+    },
+    {
+      "query": "detroit car accident lawyer mike morse law firm",
+      "clicks": 52,
+      "impressions": 53,
+      "ctr": 0.9811320754716981,
+      "position": 1
+    },
+    {
+      "query": "southfield car accident lawyer mike morse law firm",
+      "clicks": 52,
+      "impressions": 64,
+      "ctr": 0.8125,
+      "position": 1
+    },
+    {
+      "query": "ann arbor semi truck accident lawyer",
+      "clicks": 51,
+      "impressions": 58,
+      "ctr": 0.8793103448275862,
+      "position": 1.4482758620689655
+    },
+    {
+      "query": "attorney for auto accident",
+      "clicks": 51,
+      "impressions": 1061,
+      "ctr": 0.04806786050895382,
+      "position": 35.970782280867105
+    },
+    {
+      "query": "auto accident lawyers",
+      "clicks": 51,
+      "impressions": 11517,
+      "ctr": 0.004428236519927064,
+      "position": 58.8508292089954
+    },
+    {
+      "query": "automobile accident attorney",
+      "clicks": 51,
+      "impressions": 2888,
+      "ctr": 0.017659279778393353,
+      "position": 54.74896121883656
+    },
+    {
+      "query": "car accident personal injury lawyer mike morse law firm",
+      "clicks": 51,
+      "impressions": 66,
+      "ctr": 0.7727272727272727,
+      "position": 1
+    },
+    {
+      "query": "lawyer southeast michigan car accident",
+      "clicks": 51,
+      "impressions": 57,
+      "ctr": 0.8947368421052632,
+      "position": 1.1052631578947367
+    },
+    {
+      "query": "mike morse family",
+      "clicks": 51,
+      "impressions": 215,
+      "ctr": 0.2372093023255814,
+      "position": 1.0232558139534884
+    },
+    {
+      "query": "car accident lawyer southfield mi mike morse law firm",
+      "clicks": 50,
+      "impressions": 52,
+      "ctr": 0.9615384615384616,
+      "position": 1
+    },
+    {
+      "query": "semi truck accident attorneys",
+      "clicks": 49,
+      "impressions": 5357,
+      "ctr": 0.009146910584282247,
+      "position": 54.41795781220833
+    },
+    {
+      "query": "semi truck accident law firm",
+      "clicks": 49,
+      "impressions": 4860,
+      "ctr": 0.010082304526748971,
+      "position": 62.16090534979424
+    },
+    {
+      "query": "truck accident lawyers",
+      "clicks": 48,
+      "impressions": 26572,
+      "ctr": 0.0018064127653168748,
+      "position": 67.32699834412163
+    },
+    {
+      "query": "michigan truck accident attorney",
+      "clicks": 47,
+      "impressions": 1906,
+      "ctr": 0.02465897166841553,
+      "position": 3.8898216159496326
+    },
+    {
+      "query": "semi truck accident attorney",
+      "clicks": 47,
+      "impressions": 11698,
+      "ctr": 0.004017780817233715,
+      "position": 60.003932296119
+    },
+    {
+      "query": "car accident lawyer",
+      "clicks": 45,
+      "impressions": 116758,
+      "ctr": 0.0003854125627366005,
+      "position": 65.0999331951558
+    },
+    {
+      "query": "mike morris law",
+      "clicks": 45,
+      "impressions": 176,
+      "ctr": 0.2556818181818182,
+      "position": 1.125
+    },
+    {
+      "query": "michigan auto accident attorney",
+      "clicks": 44,
+      "impressions": 2765,
+      "ctr": 0.015913200723327307,
+      "position": 2.8003616636528026
+    },
+    {
+      "query": "michigan truck accident lawyer 855mikewins.com",
+      "clicks": 43,
+      "impressions": 43,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "top car accident lawyer mike morse law firm",
+      "clicks": 42,
+      "impressions": 52,
+      "ctr": 0.8076923076923077,
+      "position": 1
+    },
+    {
+      "query": "car injury lawyer",
+      "clicks": 41,
+      "impressions": 5069,
+      "ctr": 0.008088380351154074,
+      "position": 61.75636220161768
+    },
+    {
+      "query": "mike morse law firm car accident personal injury lawyer",
+      "clicks": 40,
+      "impressions": 52,
+      "ctr": 0.7692307692307693,
+      "position": 1
+    },
+    {
+      "query": "what happens if you hit a deer and don't call the police",
+      "clicks": 40,
+      "impressions": 3856,
+      "ctr": 0.01037344398340249,
+      "position": 6.667271784232365
+    },
+    {
+      "query": "car accident lawyers",
+      "clicks": 39,
+      "impressions": 22329,
+      "ctr": 0.0017466075507187962,
+      "position": 51.287608043351696
+    },
+    {
+      "query": "top car accident lawyer mike morse injury law firm",
+      "clicks": 39,
+      "impressions": 61,
+      "ctr": 0.639344262295082,
+      "position": 1
+    },
+    {
+      "query": "why is michigan car insurance so expensive",
+      "clicks": 39,
+      "impressions": 463,
+      "ctr": 0.08423326133909287,
+      "position": 2.421166306695464
+    },
+    {
+      "query": "best trucking accident lawyer mike morse law firm",
+      "clicks": 38,
+      "impressions": 46,
+      "ctr": 0.8260869565217391,
+      "position": 1
+    },
+    {
+      "query": "car seat laws michigan",
+      "clicks": 38,
+      "impressions": 10463,
+      "ctr": 0.0036318455509892,
+      "position": 8.722354965115168
+    },
+    {
+      "query": "morse law firm",
+      "clicks": 38,
+      "impressions": 668,
+      "ctr": 0.05688622754491018,
+      "position": 4.5104790419161676
+    },
+    {
+      "query": "truck accident attorney",
+      "clicks": 38,
+      "impressions": 71540,
+      "ctr": 0.0005311713726586525,
+      "position": 62.72866927592955
+    },
+    {
+      "query": "855mikewins",
+      "clicks": 37,
+      "impressions": 76,
+      "ctr": 0.4868421052631579,
+      "position": 1.013157894736842
+    },
+    {
+      "query": "michigan auto accident attorneys",
+      "clicks": 37,
+      "impressions": 4886,
+      "ctr": 0.00757265656979124,
+      "position": 4.390503479328695
+    },
+    {
+      "query": "why is car insurance so expensive in michigan",
+      "clicks": 37,
+      "impressions": 808,
+      "ctr": 0.04579207920792079,
+      "position": 2.907178217821782
+    },
+    {
+      "query": "truck accident attorneys",
+      "clicks": 36,
+      "impressions": 27958,
+      "ctr": 0.0012876457543458044,
+      "position": 74.27963373631876
+    },
+    {
+      "query": "booster seat requirements michigan",
+      "clicks": 35,
+      "impressions": 1808,
+      "ctr": 0.019358407079646017,
+      "position": 1.739491150442478
+    },
+    {
+      "query": "michigan car accident attorney",
+      "clicks": 35,
+      "impressions": 5950,
+      "ctr": 0.0058823529411764705,
+      "position": 3.232941176470588
+    },
+    {
+      "query": "mike morse age",
+      "clicks": 35,
+      "impressions": 594,
+      "ctr": 0.058922558922558925,
+      "position": 2.5420875420875424
+    },
+    {
+      "query": "motorcycle accident lawyer in lansing",
+      "clicks": 35,
+      "impressions": 108,
+      "ctr": 0.32407407407407407,
+      "position": 1.75
+    },
+    {
+      "query": "personal injury lawyer",
+      "clicks": 35,
+      "impressions": 359625,
+      "ctr": 0.00009732360097323601,
+      "position": 76.54768717413972
+    },
+    {
+      "query": "mike morse net worth",
+      "clicks": 34,
+      "impressions": 1564,
+      "ctr": 0.021739130434782608,
+      "position": 3.481457800511509
+    },
+    {
+      "query": "novi mi motorcycle accident lawyer",
+      "clicks": 34,
+      "impressions": 92,
+      "ctr": 0.3695652173913043,
+      "position": 1.1195652173913044
+    },
+    {
+      "query": "michael morse law",
+      "clicks": 33,
+      "impressions": 146,
+      "ctr": 0.22602739726027396,
+      "position": 1.8698630136986303
+    },
+    {
+      "query": "michael morse law firm",
+      "clicks": 33,
+      "impressions": 611,
+      "ctr": 0.054009819967266774,
+      "position": 1.0114566284779052
+    },
+    {
+      "query": "michigan truck accident lawyer",
+      "clicks": 33,
+      "impressions": 1915,
+      "ctr": 0.01723237597911227,
+      "position": 4.570757180156658
+    },
+    {
+      "query": "mike morris attorney",
+      "clicks": 32,
+      "impressions": 337,
+      "ctr": 0.09495548961424333,
+      "position": 2.050445103857567
+    },
+    {
+      "query": "mike morse fireproof",
+      "clicks": 32,
+      "impressions": 55,
+      "ctr": 0.5818181818181818,
+      "position": 1.2363636363636363
+    },
+    {
+      "query": "semi truck accident lawyer mike morse law firm",
+      "clicks": 32,
+      "impressions": 52,
+      "ctr": 0.6153846153846154,
+      "position": 1
+    },
+    {
+      "query": "car accident lawyer mike morse law firm",
+      "clicks": 31,
+      "impressions": 64,
+      "ctr": 0.484375,
+      "position": 1
+    },
+    {
+      "query": "lawyers for car accident",
+      "clicks": 31,
+      "impressions": 496,
+      "ctr": 0.0625,
+      "position": 15.03024193548387
+    },
+    {
+      "query": "lawyers for car accidents",
+      "clicks": 31,
+      "impressions": 1169,
+      "ctr": 0.026518391787852865,
+      "position": 11.216424294268606
+    },
+    {
+      "query": "truck accidents attorney",
+      "clicks": 31,
+      "impressions": 4481,
+      "ctr": 0.00691809863869672,
+      "position": 70.83865208658781
+    },
+    {
+      "query": "car injury lawyers",
+      "clicks": 30,
+      "impressions": 9286,
+      "ctr": 0.0032306698255438293,
+      "position": 73.41912556536722
+    },
+    {
+      "query": "lawyer for truck accident",
+      "clicks": 30,
+      "impressions": 3137,
+      "ctr": 0.00956327701625757,
+      "position": 73.1048772712783
+    },
+    {
+      "query": "mike morse law firm lawyer for truck accident",
+      "clicks": 30,
+      "impressions": 49,
+      "ctr": 0.6122448979591837,
+      "position": 1
+    },
+    {
+      "query": "slip and fall attorneys",
+      "clicks": 30,
+      "impressions": 13657,
+      "ctr": 0.002196675697444534,
+      "position": 64.08676869004907
+    },
+    {
+      "query": "trucking accident attorney",
+      "clicks": 30,
+      "impressions": 11776,
+      "ctr": 0.002547554347826087,
+      "position": 76.42790421195652
+    },
+    {
+      "query": "auto accident attorneys near me",
+      "clicks": 29,
+      "impressions": 660,
+      "ctr": 0.04393939393939394,
+      "position": 6.595454545454546
+    },
+    {
+      "query": "car accident injury lawyer",
+      "clicks": 29,
+      "impressions": 1969,
+      "ctr": 0.014728288471305232,
+      "position": 46.39969527679025
+    },
+    {
+      "query": "car accident lawyer detroit mike morse law firm",
+      "clicks": 29,
+      "impressions": 64,
+      "ctr": 0.453125,
+      "position": 1
+    },
+    {
+      "query": "truck accident lawyer",
+      "clicks": 29,
+      "impressions": 69653,
+      "ctr": 0.0004163496188247455,
+      "position": 56.56438344364206
+    },
+    {
+      "query": "is mike morse married",
+      "clicks": 28,
+      "impressions": 374,
+      "ctr": 0.0748663101604278,
+      "position": 1.9786096256684491
+    },
+    {
+      "query": "lawyer for truck accident mike morse law firm",
+      "clicks": 28,
+      "impressions": 45,
+      "ctr": 0.6222222222222222,
+      "position": 1.0222222222222221
+    },
+    {
+      "query": "mike morse lawyer wikipedia",
+      "clicks": 28,
+      "impressions": 273,
+      "ctr": 0.10256410256410256,
+      "position": 1.5384615384615383
+    },
+    {
+      "query": "saginaw car accident lawyer",
+      "clicks": 28,
+      "impressions": 322,
+      "ctr": 0.08695652173913043,
+      "position": 3.8322981366459627
+    },
+    {
+      "query": "truck wreck attorney",
+      "clicks": 28,
+      "impressions": 2378,
+      "ctr": 0.011774600504625737,
+      "position": 73.48696383515559
+    },
+    {
+      "query": "dot reflective tape requirements",
+      "clicks": 27,
+      "impressions": 671,
+      "ctr": 0.040238450074515646,
+      "position": 7.973174366616989
+    },
+    {
+      "query": "best lawyer for auto accident",
+      "clicks": 26,
+      "impressions": 385,
+      "ctr": 0.06753246753246753,
+      "position": 31.179220779220778
+    },
+    {
+      "query": "mikemorse",
+      "clicks": 26,
+      "impressions": 49,
+      "ctr": 0.5306122448979592,
+      "position": 1.9387755102040818
+    },
+    {
+      "query": "slip and fall lawyer",
+      "clicks": 26,
+      "impressions": 36432,
+      "ctr": 0.0007136583223539745,
+      "position": 63.62143170838823
+    },
+    {
+      "query": "truck injury lawyers",
+      "clicks": 26,
+      "impressions": 2327,
+      "ctr": 0.0111731843575419,
+      "position": 51.674258702191665
+    },
+    {
+      "query": "why is auto insurance so high in michigan",
+      "clicks": 26,
+      "impressions": 432,
+      "ctr": 0.06018518518518518,
+      "position": 1.1666666666666667
+    },
+    {
+      "query": "attorney for car wrecks",
+      "clicks": 25,
+      "impressions": 1235,
+      "ctr": 0.020242914979757085,
+      "position": 36.053441295546556
+    },
+    {
+      "query": "auto accident attorneys michigan",
+      "clicks": 25,
+      "impressions": 1139,
+      "ctr": 0.021949078138718173,
+      "position": 3.8472344161545213
+    },
+    {
+      "query": "fireproof mike morse",
+      "clicks": 25,
+      "impressions": 108,
+      "ctr": 0.23148148148148148,
+      "position": 1.4444444444444444
+    },
+    {
+      "query": "car accident law firms",
+      "clicks": 24,
+      "impressions": 3579,
+      "ctr": 0.006705783738474434,
+      "position": 74.21430567197541
+    },
+    {
+      "query": "flint motorcycle accident lawyer",
+      "clicks": 24,
+      "impressions": 555,
+      "ctr": 0.043243243243243246,
+      "position": 1.9693693693693692
+    },
+    {
+      "query": "services offered by 855mikewins",
+      "clicks": 24,
+      "impressions": 192,
+      "ctr": 0.125,
+      "position": 1.9166666666666665
+    },
+    {
+      "query": "slip and fall lawyers",
+      "clicks": 24,
+      "impressions": 17640,
+      "ctr": 0.0013605442176870747,
+      "position": 68.17613378684807
+    },
+    {
+      "query": "truck accidents lawyers",
+      "clicks": 24,
+      "impressions": 1604,
+      "ctr": 0.014962593516209476,
+      "position": 70.89650872817955
+    },
+    {
+      "query": "truck crash attorney",
+      "clicks": 24,
+      "impressions": 6226,
+      "ctr": 0.0038548024413748794,
+      "position": 69.22486347574687
+    },
+    {
+      "query": "accident attorney",
+      "clicks": 23,
+      "impressions": 23273,
+      "ctr": 0.0009882696687148198,
+      "position": 56.96210200661711
+    },
+    {
+      "query": "john nachazel",
+      "clicks": 23,
+      "impressions": 110,
+      "ctr": 0.20909090909090908,
+      "position": 1.018181818181818
+    },
+    {
+      "query": "michigan car seat law",
+      "clicks": 23,
+      "impressions": 2644,
+      "ctr": 0.00869894099848714,
+      "position": 5.931921331316188
+    },
+    {
+      "query": "michigan slip and fall lawyer",
+      "clicks": 23,
+      "impressions": 1923,
+      "ctr": 0.011960478419136765,
+      "position": 4.277691107644306
+    },
+    {
+      "query": "mike morse detroit",
+      "clicks": 23,
+      "impressions": 65,
+      "ctr": 0.35384615384615387,
+      "position": 1.0769230769230769
+    },
+    {
+      "query": "mike morse michigan",
+      "clicks": 23,
+      "impressions": 69,
+      "ctr": 0.3333333333333333,
+      "position": 1
+    },
+    {
+      "query": "auto accident injury lawyers",
+      "clicks": 22,
+      "impressions": 1394,
+      "ctr": 0.015781922525107604,
+      "position": 52.9519368723099
+    },
+    {
+      "query": "fall and slip lawyer",
+      "clicks": 22,
+      "impressions": 960,
+      "ctr": 0.022916666666666665,
+      "position": 26.24375
+    },
+    {
+      "query": "semi truck accident lawyers",
+      "clicks": 22,
+      "impressions": 4283,
+      "ctr": 0.005136586504786365,
+      "position": 55.954237683866445
+    },
+    {
+      "query": "slip and fall injury attorneys",
+      "clicks": 22,
+      "impressions": 1781,
+      "ctr": 0.012352610892756879,
+      "position": 60.228523301516
+    },
+    {
+      "query": "trucking accident law firms",
+      "clicks": 22,
+      "impressions": 2933,
+      "ctr": 0.007500852369587453,
+      "position": 70.6164336856461
+    },
+    {
+      "query": "car crash attorney",
+      "clicks": 21,
+      "impressions": 11648,
+      "ctr": 0.0018028846153846155,
+      "position": 44.5625
+    },
+    {
+      "query": "emotional distress lawsuit",
+      "clicks": 21,
+      "impressions": 1256,
+      "ctr": 0.016719745222929936,
+      "position": 16.695063694267517
+    },
+    {
+      "query": "injury lawyer",
+      "clicks": 21,
+      "impressions": 49897,
+      "ctr": 0.00042086698599114175,
+      "position": 64.06126620838928
+    },
+    {
+      "query": "michigan good samaritan law",
+      "clicks": 21,
+      "impressions": 359,
+      "ctr": 0.0584958217270195,
+      "position": 4.242339832869081
+    },
+    {
+      "query": "michigan slip and fall lawyers",
+      "clicks": 21,
+      "impressions": 1110,
+      "ctr": 0.01891891891891892,
+      "position": 4.177477477477478
+    },
+    {
+      "query": "slip and fall accident lawyer",
+      "clicks": 21,
+      "impressions": 5077,
+      "ctr": 0.004136300965136892,
+      "position": 45.730155603702975
+    },
+    {
+      "query": "slip and fall attorneys in michigan",
+      "clicks": 21,
+      "impressions": 566,
+      "ctr": 0.037102473498233215,
+      "position": 2.510600706713781
+    },
+    {
+      "query": "truck crash law firms",
+      "clicks": 21,
+      "impressions": 613,
+      "ctr": 0.03425774877650897,
+      "position": 53.01305057096248
+    },
+    {
+      "query": "attorney for slip and fall",
+      "clicks": 20,
+      "impressions": 628,
+      "ctr": 0.03184713375796178,
+      "position": 19.96496815286624
+    },
+    {
+      "query": "average wrongful death settlement michigan",
+      "clicks": 20,
+      "impressions": 156,
+      "ctr": 0.1282051282051282,
+      "position": 1.9935897435897436
+    },
+    {
+      "query": "best truck accident lawyer",
+      "clicks": 20,
+      "impressions": 2001,
+      "ctr": 0.009995002498750625,
+      "position": 66.96701649175412
+    },
+    {
+      "query": "car accident lawyer waterford michigan",
+      "clicks": 20,
+      "impressions": 50,
+      "ctr": 0.4,
+      "position": 1.24
+    },
+    {
+      "query": "denis preka",
+      "clicks": 20,
+      "impressions": 354,
+      "ctr": 0.05649717514124294,
+      "position": 6.853107344632768
+    },
+    {
+      "query": "do you have to pay taxes on a lawsuit settlement",
+      "clicks": 20,
+      "impressions": 536,
+      "ctr": 0.03731343283582089,
+      "position": 11.335820895522389
+    },
+    {
+      "query": "mikewins",
+      "clicks": 20,
+      "impressions": 52,
+      "ctr": 0.38461538461538464,
+      "position": 1
+    },
+    {
+      "query": "semi-truck accident lawyer",
+      "clicks": 20,
+      "impressions": 3516,
+      "ctr": 0.005688282138794084,
+      "position": 70.48890784982935
+    },
+    {
+      "query": "trucking accident attorneys",
+      "clicks": 20,
+      "impressions": 7868,
+      "ctr": 0.002541942043721403,
+      "position": 72.77656329435689
+    },
+    {
+      "query": "why is michigan insurance so expensive",
+      "clicks": 20,
+      "impressions": 164,
+      "ctr": 0.12195121951219512,
+      "position": 1.6219512195121952
+    },
+    {
+      "query": "accident injury lawyers",
+      "clicks": 19,
+      "impressions": 2509,
+      "ctr": 0.00757273814268633,
+      "position": 66.68951773614987
+    },
+    {
+      "query": "accident lawyer",
+      "clicks": 19,
+      "impressions": 24934,
+      "ctr": 0.0007620117109168204,
+      "position": 61.59938236945536
+    },
+    {
+      "query": "car accident law firm",
+      "clicks": 19,
+      "impressions": 4205,
+      "ctr": 0.004518430439952438,
+      "position": 63.253983353151014
+    },
+    {
+      "query": "car wreck attorney",
+      "clicks": 19,
+      "impressions": 7669,
+      "ctr": 0.0024775068457426,
+      "position": 48.14121789020733
+    },
+    {
+      "query": "lawyers for slip and fall",
+      "clicks": 19,
+      "impressions": 648,
+      "ctr": 0.029320987654320986,
+      "position": 25.635802469135804
+    },
+    {
+      "query": "the role of a car accident lawyer in claiming akelicious.net",
+      "clicks": 19,
+      "impressions": 27,
+      "ctr": 0.7037037037037037,
+      "position": 1.1481481481481481
+    },
+    {
+      "query": "attorney for car accident",
+      "clicks": 18,
+      "impressions": 528,
+      "ctr": 0.03409090909090909,
+      "position": 25.47159090909091
+    },
+    {
+      "query": "i committed a hit and run how long will it take for the police to find me",
+      "clicks": 18,
+      "impressions": 2336,
+      "ctr": 0.007705479452054794,
+      "position": 10.323630136986301
+    },
+    {
+      "query": "medical malpractice attorneys",
+      "clicks": 18,
+      "impressions": 16537,
+      "ctr": 0.0010884682832436356,
+      "position": 65.76682590554515
+    },
+    {
+      "query": "mike morse law firm careers",
+      "clicks": 18,
+      "impressions": 32,
+      "ctr": 0.5625,
+      "position": 4.03125
+    },
+    {
+      "query": "mike morse lawyer age",
+      "clicks": 18,
+      "impressions": 172,
+      "ctr": 0.10465116279069768,
+      "position": 1.2267441860465116
+    },
+    {
+      "query": "personal injury attorney",
+      "clicks": 18,
+      "impressions": 226688,
+      "ctr": 0.0000794042913608131,
+      "position": 76.0640175042349
+    },
+    {
+      "query": "slip trip and fall lawyer",
+      "clicks": 18,
+      "impressions": 220,
+      "ctr": 0.08181818181818182,
+      "position": 9.127272727272727
+    },
+    {
+      "query": "car seat requirements michigan",
+      "clicks": 17,
+      "impressions": 609,
+      "ctr": 0.027914614121510674,
+      "position": 4.121510673234811
+    },
+    {
+      "query": "free uber voucher",
+      "clicks": 17,
+      "impressions": 275,
+      "ctr": 0.06181818181818182,
+      "position": 9.018181818181818
+    },
+    {
+      "query": "how old is mike morse attorney",
+      "clicks": 17,
+      "impressions": 119,
+      "ctr": 0.14285714285714285,
+      "position": 1.6050420168067228
+    },
+    {
+      "query": "julia opiela",
+      "clicks": 17,
+      "impressions": 96,
+      "ctr": 0.17708333333333334,
+      "position": 1.0833333333333333
+    },
+    {
+      "query": "the mike morse law firm",
+      "clicks": 17,
+      "impressions": 49,
+      "ctr": 0.3469387755102041,
+      "position": 1.469387755102041
+    },
+    {
+      "query": "truck crash lawyers",
+      "clicks": 17,
+      "impressions": 2734,
+      "ctr": 0.006217995610826628,
+      "position": 29.655449890270667
+    },
+    {
+      "query": "attorney auto accident",
+      "clicks": 16,
+      "impressions": 610,
+      "ctr": 0.02622950819672131,
+      "position": 34.34426229508197
+    },
+    {
+      "query": "auto injury lawyers",
+      "clicks": 16,
+      "impressions": 2567,
+      "ctr": 0.0062329567588624854,
+      "position": 58.0821971172575
+    },
+    {
+      "query": "good samaritan law michigan",
+      "clicks": 16,
+      "impressions": 409,
+      "ctr": 0.039119804400977995,
+      "position": 4.342298288508557
+    },
+    {
+      "query": "mike wins lawyer",
+      "clicks": 16,
+      "impressions": 112,
+      "ctr": 0.14285714285714285,
+      "position": 1
+    },
+    {
+      "query": "mike.morse",
+      "clicks": 16,
+      "impressions": 105,
+      "ctr": 0.1523809523809524,
+      "position": 1.7809523809523808
+    },
+    {
+      "query": "morse law",
+      "clicks": 16,
+      "impressions": 1450,
+      "ctr": 0.011034482758620689,
+      "position": 7.220689655172414
+    },
+    {
+      "query": "police misconduct lawyers michigan",
+      "clicks": 16,
+      "impressions": 129,
+      "ctr": 0.12403100775193798,
+      "position": 2.341085271317829
+    },
+    {
+      "query": "slip and fall attorney",
+      "clicks": 16,
+      "impressions": 49847,
+      "ctr": 0.0003209822055489799,
+      "position": 61.10744879330752
+    },
+    {
+      "query": "best truck accident attorney",
+      "clicks": 15,
+      "impressions": 2025,
+      "ctr": 0.007407407407407408,
+      "position": 68.3279012345679
+    },
+    {
+      "query": "fall injury lawyers",
+      "clicks": 15,
+      "impressions": 1191,
+      "ctr": 0.012594458438287154,
+      "position": 38.19143576826197
+    },
+    {
+      "query": "mike morris lawyer",
+      "clicks": 15,
+      "impressions": 266,
+      "ctr": 0.05639097744360902,
+      "position": 1.330827067669173
+    },
+    {
+      "query": "mike morse law firm southfield mi",
+      "clicks": 15,
+      "impressions": 79,
+      "ctr": 0.189873417721519,
+      "position": 1
+    },
+    {
+      "query": "what happens when someone files a bodily injury claim against you",
+      "clicks": 15,
+      "impressions": 261,
+      "ctr": 0.05747126436781609,
+      "position": 2.471264367816092
+    },
+    {
+      "query": "are convertibles safe",
+      "clicks": 14,
+      "impressions": 1325,
+      "ctr": 0.010566037735849057,
+      "position": 6.132830188679245
+    },
+    {
+      "query": "can you sue for emotional distress",
+      "clicks": 14,
+      "impressions": 802,
+      "ctr": 0.017456359102244388,
+      "position": 10.709476309226932
+    },
+    {
+      "query": "lawyer for auto accident",
+      "clicks": 14,
+      "impressions": 4175,
+      "ctr": 0.0033532934131736527,
+      "position": 8.120479041916168
+    },
+    {
+      "query": "pain and suffering settlement pregnant",
+      "clicks": 14,
+      "impressions": 218,
+      "ctr": 0.06422018348623854,
+      "position": 2.5871559633027523
+    },
+    {
+      "query": "pontiac motorcycle accident lawyer",
+      "clicks": 14,
+      "impressions": 129,
+      "ctr": 0.10852713178294573,
+      "position": 1.5968992248062015
+    },
+    {
+      "query": "what happens if someone runs in front of your car and dies",
+      "clicks": 14,
+      "impressions": 81,
+      "ctr": 0.1728395061728395,
+      "position": 2.3456790123456788
+    },
+    {
+      "query": "what happens when someone files a bodily injury claim",
+      "clicks": 14,
+      "impressions": 949,
+      "ctr": 0.014752370916754479,
+      "position": 3.266596417281349
+    },
+    {
+      "query": "can i sue for emotional distress",
+      "clicks": 13,
+      "impressions": 335,
+      "ctr": 0.03880597014925373,
+      "position": 11.271641791044775
+    },
+    {
+      "query": "dot reflective tape",
+      "clicks": 13,
+      "impressions": 617,
+      "ctr": 0.02106969205834684,
+      "position": 30.771474878444085
+    },
+    {
+      "query": "flint delivery truck accident lawyer",
+      "clicks": 13,
+      "impressions": 116,
+      "ctr": 0.11206896551724138,
+      "position": 2.905172413793103
+    },
+    {
+      "query": "howard eisenshtadt",
+      "clicks": 13,
+      "impressions": 29,
+      "ctr": 0.4482758620689655,
+      "position": 1
+    },
+    {
+      "query": "lawyer for slip and fall",
+      "clicks": 13,
+      "impressions": 945,
+      "ctr": 0.013756613756613757,
+      "position": 35.91534391534392
+    },
+    {
+      "query": "mike moore law firm",
+      "clicks": 13,
+      "impressions": 127,
+      "ctr": 0.10236220472440945,
+      "position": 2.6614173228346454
+    },
+    {
+      "query": "personal injury attorneys",
+      "clicks": 13,
+      "impressions": 64371,
+      "ctr": 0.0002019542961892778,
+      "position": 78.70576812539808
+    },
+    {
+      "query": "reckless driving causing death michigan",
+      "clicks": 13,
+      "impressions": 175,
+      "ctr": 0.07428571428571429,
+      "position": 2.7085714285714286
+    },
+    {
+      "query": "why is car insurance in michigan so expensive",
+      "clicks": 13,
+      "impressions": 27,
+      "ctr": 0.48148148148148145,
+      "position": 1.1481481481481481
+    },
+    {
+      "query": "car accident miscarriage settlement",
+      "clicks": 12,
+      "impressions": 216,
+      "ctr": 0.05555555555555555,
+      "position": 2.0694444444444446
+    },
+    {
+      "query": "find novi car accident lawyer",
+      "clicks": 12,
+      "impressions": 58,
+      "ctr": 0.20689655172413793,
+      "position": 2.4827586206896552
+    },
+    {
+      "query": "how long do hit and run investigations take",
+      "clicks": 12,
+      "impressions": 238,
+      "ctr": 0.05042016806722689,
+      "position": 2.3193277310924367
+    },
+    {
+      "query": "michigan car seat law 2025",
+      "clicks": 12,
+      "impressions": 368,
+      "ctr": 0.03260869565217391,
+      "position": 1.766304347826087
+    },
+    {
+      "query": "mike morris injury",
+      "clicks": 12,
+      "impressions": 66,
+      "ctr": 0.18181818181818182,
+      "position": 3.196969696969697
+    },
+    {
+      "query": "mike morris law firm michigan",
+      "clicks": 12,
+      "impressions": 40,
+      "ctr": 0.3,
+      "position": 1
+    },
+    {
+      "query": "mike.morse law firm",
+      "clicks": 12,
+      "impressions": 51,
+      "ctr": 0.23529411764705882,
+      "position": 1.0196078431372548
+    },
+    {
+      "query": "motorcycle injury lawyer",
+      "clicks": 12,
+      "impressions": 1262,
+      "ctr": 0.009508716323296355,
+      "position": 24.519809825673534
+    },
+    {
+      "query": "motorcycle injury lawyers",
+      "clicks": 12,
+      "impressions": 2565,
+      "ctr": 0.004678362573099415,
+      "position": 42.672124756335286
+    },
+    {
+      "query": "sue for emotional distress",
+      "clicks": 12,
+      "impressions": 689,
+      "ctr": 0.01741654571843251,
+      "position": 12.502177068214804
+    },
+    {
+      "query": "suing for emotional distress in michigan",
+      "clicks": 12,
+      "impressions": 105,
+      "ctr": 0.11428571428571428,
+      "position": 2.1714285714285717
+    },
+    {
+      "query": "trucking accident lawyers",
+      "clicks": 12,
+      "impressions": 6974,
+      "ctr": 0.0017206767995411529,
+      "position": 69.1197304273014
+    },
+    {
+      "query": "best personal injury lawyers in michigan",
+      "clicks": 11,
+      "impressions": 610,
+      "ctr": 0.018032786885245903,
+      "position": 4.827868852459016
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:21:15.356Z"
 }

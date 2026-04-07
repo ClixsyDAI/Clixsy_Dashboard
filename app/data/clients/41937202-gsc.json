@@ -1,156 +1,16 @@
 {
   "property": "https://superiorcomfortinc.com/",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 1562,
-    "impressions": 214582,
-    "ctr": 0.007279268531377283,
-    "position": 20.082879957372473
+    "clicks": 1704,
+    "impressions": 224643,
+    "ctr": 0.007585368785139088,
+    "position": 19.63467814873509
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 25,
-      "impressions": 2644,
-      "ctr": 0.009455370650529501,
-      "position": 19.280257186081695
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 23,
-      "impressions": 2033,
-      "ctr": 0.01131333005410723,
-      "position": 22.473684210526315
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 14,
-      "impressions": 1613,
-      "ctr": 0.008679479231246125,
-      "position": 23.826410415375076
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 14,
-      "impressions": 2155,
-      "ctr": 0.0064965197215777265,
-      "position": 23.440835266821345
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 18,
-      "impressions": 2099,
-      "ctr": 0.00857551214864221,
-      "position": 27.265840876607907
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 8,
-      "impressions": 2194,
-      "ctr": 0.0036463081130355514,
-      "position": 23.7771194165907
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 10,
-      "impressions": 2014,
-      "ctr": 0.004965243296921549,
-      "position": 23.40268123138034
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 13,
-      "impressions": 2068,
-      "ctr": 0.006286266924564797,
-      "position": 21.268858800773696
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 15,
-      "impressions": 1911,
-      "ctr": 0.007849293563579277,
-      "position": 20.932496075353217
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 11,
-      "impressions": 1727,
-      "ctr": 0.006369426751592357,
-      "position": 23.561667631731325
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 4,
-      "impressions": 1895,
-      "ctr": 0.0021108179419525065,
-      "position": 25.258047493403694
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 10,
-      "impressions": 2076,
-      "ctr": 0.004816955684007707,
-      "position": 22.91907514450867
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 4,
-      "impressions": 1778,
-      "ctr": 0.0022497187851518562,
-      "position": 19.800337457817772
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 5,
-      "impressions": 1865,
-      "ctr": 0.002680965147453083,
-      "position": 20.446112600536193
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 22,
-      "impressions": 2193,
-      "ctr": 0.010031919744642043,
-      "position": 23.105791153670772
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 10,
-      "impressions": 1870,
-      "ctr": 0.0053475935828877,
-      "position": 20.44010695187166
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 14,
-      "impressions": 1951,
-      "ctr": 0.007175807278318811,
-      "position": 22.434136340338288
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 7,
-      "impressions": 2018,
-      "ctr": 0.003468780971258672,
-      "position": 27.55302279484638
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 13,
-      "impressions": 1798,
-      "ctr": 0.007230255839822024,
-      "position": 19.800889877641826
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 8,
-      "impressions": 1720,
-      "ctr": 0.004651162790697674,
-      "position": 17.843604651162792
-    },
     {
       "date": "2026-01-04",
       "clicks": 10,
@@ -640,204 +500,358 @@
       "impressions": 1805,
       "ctr": 0.00443213296398892,
       "position": 17.549584487534627
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 12,
+      "impressions": 1823,
+      "ctr": 0.006582556226001097,
+      "position": 19.55677454744926
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 20,
+      "impressions": 2325,
+      "ctr": 0.008602150537634409,
+      "position": 18.535913978494623
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 14,
+      "impressions": 1772,
+      "ctr": 0.007900677200902935,
+      "position": 16.11681715575621
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 26,
+      "impressions": 1998,
+      "ctr": 0.013013013013013013,
+      "position": 16.13013013013013
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 19,
+      "impressions": 2093,
+      "ctr": 0.009077878643096034,
+      "position": 17.4696607740086
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 21,
+      "impressions": 2228,
+      "ctr": 0.009425493716337522,
+      "position": 20.2975763016158
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 13,
+      "impressions": 1586,
+      "ctr": 0.00819672131147541,
+      "position": 19.919293820933166
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 7,
+      "impressions": 1742,
+      "ctr": 0.004018369690011481,
+      "position": 17.317451205510906
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 32,
+      "impressions": 2147,
+      "ctr": 0.014904517931998137,
+      "position": 19.508150908244062
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 42,
+      "impressions": 2261,
+      "ctr": 0.018575851393188854,
+      "position": 16.530738611233968
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 18,
+      "impressions": 2422,
+      "ctr": 0.007431874483897605,
+      "position": 21.433113129644923
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 16,
+      "impressions": 2264,
+      "ctr": 0.007067137809187279,
+      "position": 22.118374558303888
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 21,
+      "impressions": 2276,
+      "ctr": 0.00922671353251318,
+      "position": 25.38488576449912
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 6,
+      "impressions": 2062,
+      "ctr": 0.002909796314258002,
+      "position": 24.59941804073715
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 12,
+      "impressions": 2599,
+      "ctr": 0.00461716044632551,
+      "position": 27.216621777606772
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 16,
+      "impressions": 2486,
+      "ctr": 0.006436041834271922,
+      "position": 23.34070796460177
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 24,
+      "impressions": 4478,
+      "ctr": 0.005359535506922733,
+      "position": 17.436578829834747
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 21,
+      "impressions": 3970,
+      "ctr": 0.005289672544080605,
+      "position": 18.60125944584383
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 21,
+      "impressions": 2651,
+      "ctr": 0.007921539041870993,
+      "position": 23.92870614862316
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 18,
+      "impressions": 2777,
+      "ctr": 0.006481814908174289,
+      "position": 23.82751170327692
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 11,
+      "impressions": 1723,
+      "ctr": 0.006384213580963436,
+      "position": 18.85780615206036
     }
   ],
   "topQueries": [
     {
       "query": "superior comfort",
-      "clicks": 315,
-      "impressions": 2740,
-      "ctr": 0.11496350364963503,
-      "position": 3.267153284671533
+      "clicks": 356,
+      "impressions": 2864,
+      "ctr": 0.12430167597765363,
+      "position": 3.2028631284916202
     },
     {
       "query": "superior comfort ri",
-      "clicks": 67,
-      "impressions": 307,
-      "ctr": 0.2182410423452769,
-      "position": 2.296416938110749
+      "clicks": 78,
+      "impressions": 340,
+      "ctr": 0.22941176470588234,
+      "position": 2.170588235294118
     },
     {
       "query": "superior comfort inc",
-      "clicks": 57,
-      "impressions": 406,
-      "ctr": 0.14039408866995073,
-      "position": 1.6059113300492611
+      "clicks": 65,
+      "impressions": 504,
+      "ctr": 0.12896825396825398,
+      "position": 2.307539682539683
     },
     {
       "query": "superior comfort bristol ri",
-      "clicks": 56,
-      "impressions": 350,
-      "ctr": 0.16,
-      "position": 2.5
+      "clicks": 51,
+      "impressions": 328,
+      "ctr": 0.15548780487804878,
+      "position": 2.4054878048780486
+    },
+    {
+      "query": "superior comfort heating and cooling",
+      "clicks": 41,
+      "impressions": 751,
+      "ctr": 0.05459387483355526,
+      "position": 6.989347536617843
     },
     {
       "query": "superior comfort incorporated",
       "clicks": 41,
-      "impressions": 507,
-      "ctr": 0.08086785009861933,
-      "position": 1.7100591715976332
-    },
-    {
-      "query": "superior comfort heating and cooling",
-      "clicks": 38,
-      "impressions": 777,
-      "ctr": 0.0489060489060489,
-      "position": 7.818532818532819
+      "impressions": 504,
+      "ctr": 0.08134920634920635,
+      "position": 1.3611111111111112
     },
     {
       "query": "superior comfort plumbing",
-      "clicks": 30,
-      "impressions": 110,
-      "ctr": 0.2727272727272727,
-      "position": 1.2181818181818183
+      "clicks": 26,
+      "impressions": 108,
+      "ctr": 0.24074074074074073,
+      "position": 1.3425925925925926
     },
     {
       "query": "superior comfort heating & air",
-      "clicks": 24,
-      "impressions": 72,
-      "ctr": 0.3333333333333333,
-      "position": 1.9583333333333335
+      "clicks": 25,
+      "impressions": 74,
+      "ctr": 0.33783783783783783,
+      "position": 1.8513513513513513
     },
     {
       "query": "superior comfort rhode island",
-      "clicks": 13,
-      "impressions": 35,
-      "ctr": 0.37142857142857144,
-      "position": 2.6
-    },
-    {
-      "query": "superior heating and cooling",
-      "clicks": 11,
-      "impressions": 270,
-      "ctr": 0.040740740740740744,
-      "position": 26.014814814814816
+      "clicks": 17,
+      "impressions": 41,
+      "ctr": 0.4146341463414634,
+      "position": 4.536585365853659
     },
     {
       "query": "superior comfort electric",
+      "clicks": 12,
+      "impressions": 39,
+      "ctr": 0.3076923076923077,
+      "position": 1.0256410256410255
+    },
+    {
+      "query": "superior comfort incorporated reviews",
+      "clicks": 11,
+      "impressions": 131,
+      "ctr": 0.08396946564885496,
+      "position": 2.931297709923664
+    },
+    {
+      "query": "superior heating and cooling",
       "clicks": 10,
-      "impressions": 38,
-      "ctr": 0.2631578947368421,
-      "position": 1.0526315789473684
+      "impressions": 261,
+      "ctr": 0.038314176245210725,
+      "position": 25.03448275862069
     },
     {
       "query": "superior plumbing and heating",
       "clicks": 10,
-      "impressions": 76,
-      "ctr": 0.13157894736842105,
-      "position": 8.381578947368421
+      "impressions": 96,
+      "ctr": 0.10416666666666667,
+      "position": 6.802083333333333
     },
     {
       "query": "hvac company near me",
-      "clicks": 9,
-      "impressions": 254,
-      "ctr": 0.03543307086614173,
-      "position": 4.925196850393701
-    },
-    {
-      "query": "superior plumbing",
-      "clicks": 8,
-      "impressions": 117,
-      "ctr": 0.06837606837606838,
-      "position": 38.21367521367522
-    },
-    {
-      "query": "hvac companies",
       "clicks": 7,
-      "impressions": 386,
-      "ctr": 0.018134715025906734,
-      "position": 3.1865284974093266
+      "impressions": 236,
+      "ctr": 0.029661016949152543,
+      "position": 5.461864406779661
     },
     {
       "query": "superior comfort heating",
-      "clicks": 6,
-      "impressions": 56,
-      "ctr": 0.10714285714285714,
-      "position": 9.303571428571429
-    },
-    {
-      "query": "superior comfort incorporated reviews",
-      "clicks": 6,
-      "impressions": 107,
-      "ctr": 0.056074766355140186,
-      "position": 2.953271028037383
+      "clicks": 7,
+      "impressions": 57,
+      "ctr": 0.12280701754385964,
+      "position": 9.280701754385966
     },
     {
       "query": "superior heating and air conditioning",
+      "clicks": 7,
+      "impressions": 79,
+      "ctr": 0.08860759493670886,
+      "position": 22.151898734177216
+    },
+    {
+      "query": "hvac companies",
       "clicks": 6,
-      "impressions": 74,
-      "ctr": 0.08108108108108109,
-      "position": 21.554054054054053
+      "impressions": 460,
+      "ctr": 0.013043478260869565,
+      "position": 3.121739130434783
+    },
+    {
+      "query": "superior plumbing",
+      "clicks": 6,
+      "impressions": 130,
+      "ctr": 0.046153846153846156,
+      "position": 39.46923076923077
     },
     {
       "query": "hvac companies near me",
       "clicks": 5,
-      "impressions": 987,
-      "ctr": 0.005065856129685917,
-      "position": 13.752786220871327
-    },
-    {
-      "query": "hvac rhode island",
-      "clicks": 5,
-      "impressions": 856,
-      "ctr": 0.005841121495327103,
-      "position": 14.10981308411215
+      "impressions": 1021,
+      "ctr": 0.004897159647404506,
+      "position": 16.12047012732615
     },
     {
       "query": "superior comfort hvac",
       "clicks": 5,
-      "impressions": 118,
-      "ctr": 0.0423728813559322,
-      "position": 10.127118644067796
-    },
-    {
-      "query": "furnace repair near me",
-      "clicks": 4,
-      "impressions": 723,
-      "ctr": 0.005532503457814661,
-      "position": 14.401106500691563
+      "impressions": 119,
+      "ctr": 0.04201680672268908,
+      "position": 9.823529411764707
     },
     {
       "query": "hvac",
-      "clicks": 3,
-      "impressions": 299,
-      "ctr": 0.010033444816053512,
-      "position": 1.879598662207358
+      "clicks": 4,
+      "impressions": 243,
+      "ctr": 0.01646090534979424,
+      "position": 1.9423868312757202
+    },
+    {
+      "query": "plumbers bristol ri",
+      "clicks": 4,
+      "impressions": 173,
+      "ctr": 0.023121387283236993,
+      "position": 6.202312138728324
+    },
+    {
+      "query": "superior",
+      "clicks": 4,
+      "impressions": 203,
+      "ctr": 0.019704433497536946,
+      "position": 1.9950738916256157
+    },
+    {
+      "query": "superior hvac",
+      "clicks": 4,
+      "impressions": 206,
+      "ctr": 0.019417475728155338,
+      "position": 21.83495145631068
     },
     {
       "query": "hvac near me",
       "clicks": 3,
-      "impressions": 563,
-      "ctr": 0.0053285968028419185,
-      "position": 15.806394316163411
+      "impressions": 523,
+      "ctr": 0.0057361376673040155,
+      "position": 18.254302103250478
     },
     {
-      "query": "plumbers bristol ri",
+      "query": "hvac rhode island",
       "clicks": 3,
-      "impressions": 103,
-      "ctr": 0.02912621359223301,
-      "position": 9.970873786407767
-    },
-    {
-      "query": "superior",
-      "clicks": 3,
-      "impressions": 160,
-      "ctr": 0.01875,
-      "position": 2.65625
+      "impressions": 968,
+      "ctr": 0.0030991735537190084,
+      "position": 12.333677685950413
     },
     {
       "query": "superior comfort heating and air conditioning",
       "clicks": 3,
-      "impressions": 189,
-      "ctr": 0.015873015873015872,
-      "position": 3.9100529100529102
+      "impressions": 206,
+      "ctr": 0.014563106796116505,
+      "position": 6.101941747572815
     },
     {
-      "query": "superior hvac",
+      "query": "superior comfort incorporated bristol reviews",
       "clicks": 3,
-      "impressions": 188,
-      "ctr": 0.015957446808510637,
-      "position": 21.47872340425532
+      "impressions": 682,
+      "ctr": 0.004398826979472141,
+      "position": 3.4897360703812317
+    },
+    {
+      "query": "furnace service near me",
+      "clicks": 2,
+      "impressions": 56,
+      "ctr": 0.03571428571428571,
+      "position": 12.5
     },
     {
       "query": "gas boiler maintenance",
@@ -847,53 +861,53 @@
       "position": 1.75
     },
     {
-      "query": "geothermal contractor near me",
+      "query": "geothermal companies near me",
       "clicks": 2,
-      "impressions": 5,
-      "ctr": 0.4,
-      "position": 2.6
+      "impressions": 2,
+      "ctr": 1,
+      "position": 1
     },
     {
       "query": "hvac companies in rhode island",
       "clicks": 2,
-      "impressions": 156,
-      "ctr": 0.01282051282051282,
-      "position": 7.121794871794871
+      "impressions": 135,
+      "ctr": 0.014814814814814815,
+      "position": 8.222222222222221
     },
     {
       "query": "hvac companies rhode island",
       "clicks": 2,
-      "impressions": 46,
-      "ctr": 0.043478260869565216,
-      "position": 4.130434782608695
+      "impressions": 47,
+      "ctr": 0.0425531914893617,
+      "position": 4.1063829787234045
     },
     {
       "query": "hvac company rhode island",
       "clicks": 2,
-      "impressions": 566,
-      "ctr": 0.0035335689045936395,
-      "position": 12.003533568904594
+      "impressions": 671,
+      "ctr": 0.0029806259314456036,
+      "position": 12.560357675111774
     },
     {
       "query": "hvac service near me",
       "clicks": 2,
-      "impressions": 281,
-      "ctr": 0.0071174377224199285,
-      "position": 8.362989323843417
-    },
-    {
-      "query": "mini split cleaning service near me",
-      "clicks": 2,
-      "impressions": 3,
-      "ctr": 0.6666666666666666,
-      "position": 4.333333333333334
+      "impressions": 282,
+      "ctr": 0.0070921985815602835,
+      "position": 9.663120567375886
     },
     {
       "query": "plumbers near me",
       "clicks": 2,
-      "impressions": 80,
-      "ctr": 0.025,
-      "position": 7.2875
+      "impressions": 71,
+      "ctr": 0.028169014084507043,
+      "position": 7.549295774647887
+    },
+    {
+      "query": "superior ac",
+      "clicks": 2,
+      "impressions": 29,
+      "ctr": 0.06896551724137931,
+      "position": 38.96551724137931
     },
     {
       "query": "superior comfort heating and cooling ri",
@@ -905,16 +919,23 @@
     {
       "query": "superior comfort systems",
       "clicks": 2,
-      "impressions": 60,
-      "ctr": 0.03333333333333333,
-      "position": 6.666666666666667
+      "impressions": 63,
+      "ctr": 0.031746031746031744,
+      "position": 6.555555555555555
     },
     {
       "query": "supreme comfort",
       "clicks": 2,
-      "impressions": 12,
-      "ctr": 0.16666666666666666,
-      "position": 9.416666666666666
+      "impressions": 15,
+      "ctr": 0.13333333333333333,
+      "position": 7.8
+    },
+    {
+      "query": "well repair",
+      "clicks": 2,
+      "impressions": 9,
+      "ctr": 0.2222222222222222,
+      "position": 8
     },
     {
       "query": "24 hour heating and cooling",
@@ -924,18 +945,32 @@
       "position": 2.166666666666667
     },
     {
+      "query": "24 hour hot water heater service near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
       "query": "ac repair near me",
       "clicks": 1,
-      "impressions": 394,
-      "ctr": 0.0025380710659898475,
-      "position": 14.649746192893401
+      "impressions": 352,
+      "ctr": 0.002840909090909091,
+      "position": 14.338068181818182
     },
     {
       "query": "ac repair newport ri",
       "clicks": 1,
-      "impressions": 328,
-      "ctr": 0.003048780487804878,
-      "position": 9.957317073170731
+      "impressions": 355,
+      "ctr": 0.0028169014084507044,
+      "position": 11.56338028169014
+    },
+    {
+      "query": "ac service rhode island",
+      "clicks": 1,
+      "impressions": 31,
+      "ctr": 0.03225806451612903,
+      "position": 14.612903225806452
     },
     {
       "query": "ac system repair",
@@ -945,32 +980,25 @@
       "position": 8.2
     },
     {
+      "query": "air conditioner expert",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
       "query": "air conditioner repair near me",
       "clicks": 1,
-      "impressions": 184,
-      "ctr": 0.005434782608695652,
-      "position": 4.146739130434783
+      "impressions": 176,
+      "ctr": 0.005681818181818182,
+      "position": 3.6363636363636362
     },
     {
       "query": "air conditioning service bristol",
       "clicks": 1,
-      "impressions": 1,
-      "ctr": 1,
-      "position": 1
-    },
-    {
-      "query": "barrington heating",
-      "clicks": 1,
-      "impressions": 64,
-      "ctr": 0.015625,
-      "position": 72.21875
-    },
-    {
-      "query": "basement heater options",
-      "clicks": 1,
-      "impressions": 1,
-      "ctr": 1,
-      "position": 1
+      "impressions": 68,
+      "ctr": 0.014705882352941176,
+      "position": 1.5147058823529411
     },
     {
       "query": "best emergency furnace repair near me",
@@ -978,6 +1006,20 @@
       "impressions": 2,
       "ctr": 0.5,
       "position": 3.5
+    },
+    {
+      "query": "best furnace company near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 9
+    },
+    {
+      "query": "best hvac companies in rhode island",
+      "clicks": 1,
+      "impressions": 271,
+      "ctr": 0.0036900369003690036,
+      "position": 12.468634686346864
     },
     {
       "query": "boiler installation near me",
@@ -989,362 +1031,2783 @@
     {
       "query": "boiler maintenance near me",
       "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 58.5
+    },
+    {
+      "query": "burner service near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 3.75
+    },
+    {
+      "query": "central air installation near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 2.25
+    },
+    {
+      "query": "cheap hvac repair",
+      "clicks": 1,
       "impressions": 1,
       "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "comfort hvac",
+      "clicks": 1,
+      "impressions": 27,
+      "ctr": 0.037037037037037035,
+      "position": 40.333333333333336
+    },
+    {
+      "query": "comfort inc",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 4.583333333333334
+    },
+    {
+      "query": "comfort incorporated",
+      "clicks": 1,
+      "impressions": 42,
+      "ctr": 0.023809523809523808,
+      "position": 5.0476190476190474
+    },
+    {
+      "query": "commercial hvac contractors rhode island",
+      "clicks": 1,
+      "impressions": 65,
+      "ctr": 0.015384615384615385,
+      "position": 33.84615384615385
+    },
+    {
+      "query": "drain cleaning ri",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 13.545454545454545
+    },
+    {
+      "query": "ductless mini split maintenance near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 38
+    },
+    {
+      "query": "electrical companies near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "emergency water heater replacement",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 77.16666666666667
+    },
+    {
+      "query": "furnace",
+      "clicks": 1,
+      "impressions": 71,
+      "ctr": 0.014084507042253521,
+      "position": 4.394366197183098
+    },
+    {
+      "query": "furnace installation near me",
+      "clicks": 1,
+      "impressions": 76,
+      "ctr": 0.013157894736842105,
+      "position": 9.789473684210526
+    },
+    {
+      "query": "furnace repair",
+      "clicks": 1,
+      "impressions": 1470,
+      "ctr": 0.0006802721088435374,
+      "position": 10.073469387755102
+    },
+    {
+      "query": "furnace repair near me",
+      "clicks": 1,
+      "impressions": 807,
+      "ctr": 0.0012391573729863693,
+      "position": 15.66914498141264
+    },
+    {
+      "query": "furnace repair ri",
+      "clicks": 1,
+      "impressions": 266,
+      "ctr": 0.0037593984962406013,
+      "position": 26.44736842105263
+    },
+    {
+      "query": "furnace tune up near me",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 1.8333333333333335
+    },
+    {
+      "query": "gas furnace dealers",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "geothermal installers near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "geothermal near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 1
+    },
+    {
+      "query": "heat pumps near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "heat repair near me",
+      "clicks": 1,
+      "impressions": 23,
+      "ctr": 0.043478260869565216,
+      "position": 16.043478260869563
+    },
+    {
+      "query": "heating and cooling companies near me",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 6.5
+    },
+    {
+      "query": "heating and cooling near me",
+      "clicks": 1,
+      "impressions": 796,
+      "ctr": 0.001256281407035176,
+      "position": 25.246231155778894
+    },
+    {
+      "query": "heating and cooling rhode island",
+      "clicks": 1,
+      "impressions": 578,
+      "ctr": 0.0017301038062283738,
+      "position": 16.40138408304498
+    },
+    {
+      "query": "heating services",
+      "clicks": 1,
+      "impressions": 99,
+      "ctr": 0.010101010101010102,
+      "position": 11.8989898989899
+    },
+    {
+      "query": "hot water heater replacement",
+      "clicks": 1,
+      "impressions": 379,
+      "ctr": 0.002638522427440633,
+      "position": 9.393139841688654
+    },
+    {
+      "query": "hvac consultant",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3
+    },
+    {
+      "query": "hvac fall river",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 41
+    },
+    {
+      "query": "hvac middletown",
+      "clicks": 1,
+      "impressions": 35,
+      "ctr": 0.02857142857142857,
+      "position": 54.02857142857143
+    },
+    {
+      "query": "hvac newport",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 8.7
+    },
+    {
+      "query": "hvac newport ri",
+      "clicks": 1,
+      "impressions": 38,
+      "ctr": 0.02631578947368421,
+      "position": 3.1578947368421053
+    },
+    {
+      "query": "hvac person near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "hvac repair near me",
+      "clicks": 1,
+      "impressions": 349,
+      "ctr": 0.0028653295128939827,
+      "position": 8.051575931232092
+    },
+    {
+      "query": "hvac service companies near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "hvac superior co",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "ibc boiler service near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 5.25
+    },
+    {
+      "query": "in rhode island",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "local hvac companies",
+      "clicks": 1,
+      "impressions": 79,
+      "ctr": 0.012658227848101266,
+      "position": 2.2025316455696204
+    },
+    {
+      "query": "mini split cleaning service near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 6
+    },
+    {
+      "query": "mini split installation near me",
+      "clicks": 1,
+      "impressions": 42,
+      "ctr": 0.023809523809523808,
+      "position": 5.214285714285714
+    },
+    {
+      "query": "mitsubishi diamond contractor",
+      "clicks": 1,
+      "impressions": 74,
+      "ctr": 0.013513513513513514,
+      "position": 26.243243243243242
+    },
+    {
+      "query": "mitsubishi mini split contractors",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 8
+    },
+    {
+      "query": "plumber",
+      "clicks": 1,
+      "impressions": 46,
+      "ctr": 0.021739130434782608,
+      "position": 5.195652173913044
+    },
+    {
+      "query": "plumbers barrington ri",
+      "clicks": 1,
+      "impressions": 34,
+      "ctr": 0.029411764705882353,
+      "position": 10.411764705882353
+    },
+    {
+      "query": "plumbing companies in ri",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 52
+    },
+    {
+      "query": "radiant floor installers near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 10
+    },
+    {
+      "query": "recessed lighting installation near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "ri energy heat pump rebate",
+      "clicks": 1,
+      "impressions": 35,
+      "ctr": 0.02857142857142857,
+      "position": 13.628571428571428
+    },
+    {
+      "query": "southern comfort plumbing",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "superior electric company",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 5.5
+    },
+    {
+      "query": "superior gas",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 1
+    },
+    {
+      "query": "superior heating",
+      "clicks": 1,
+      "impressions": 57,
+      "ctr": 0.017543859649122806,
+      "position": 12.87719298245614
+    },
+    {
+      "query": "superior heating & cooling inc",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 20.77777777777778
+    },
+    {
+      "query": "superior inc",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 2.75
+    },
+    {
+      "query": "superior refrigeration",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 45.2
+    },
+    {
+      "query": "top 5 hvac companies near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "water heater replacement",
+      "clicks": 1,
+      "impressions": 994,
+      "ctr": 0.001006036217303823,
+      "position": 14.072434607645874
+    },
+    {
+      "query": "water heater replacement contractor",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "why is my emergency heat not working on my heat pump",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 69
+    },
+    {
+      "query": "\"ac service\"",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 81.91666666666667
+    },
+    {
+      "query": "\"air conditioning repair\"",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 84.22222222222223
+    },
+    {
+      "query": "\"air conditioning service\"",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 84
+    },
+    {
+      "query": "\"boiler service\"",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 87.5
+    },
+    {
+      "query": "\"furnace repair\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "\"mitsubishi\" \"ad server\"",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 7.333333333333333
+    },
+    {
+      "query": "\"radiant floor heating installation\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 44
+    },
+    {
+      "query": "\"superior\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "\"water heater installation\"",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 91.66666666666667
+    },
+    {
+      "query": "\"well pump maintenance\"",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 33.714285714285715
+    },
+    {
+      "query": "\"well pump repair\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 99
+    },
+    {
+      "query": "$49 drain cleaning near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "- outdoor lighting bristol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 38
+    },
+    {
+      "query": "11 broadcommon rd bristol ri",
+      "clicks": 0,
+      "impressions": 50,
+      "ctr": 0,
+      "position": 6.76
+    },
+    {
+      "query": "24 7 ac repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 41
+    },
+    {
+      "query": "24 7 emergency hvac services",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 7 heating repair",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 38.5
+    },
+    {
+      "query": "24 emergency plumber near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "24 heating and cooling near me",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "24 hour ac company",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 43
+    },
+    {
+      "query": "24 hour ac repair",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 6.125
+    },
+    {
+      "query": "24 hour ac repair in warren",
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 16.875
+    },
+    {
+      "query": "24 hour ac repair portsmouth",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 40.42857142857143
+    },
+    {
+      "query": "24 hour ac service portsmouth",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 38.75
+    },
+    {
+      "query": "24 hour air conditioning",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 39
+    },
+    {
+      "query": "24 hour air conditioning service portsmouth",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 47
+    },
+    {
+      "query": "24 hour boiler repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hour boiler service near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
       "position": 20
+    },
+    {
+      "query": "24 hour electrician near me",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 34.333333333333336
+    },
+    {
+      "query": "24 hour emergency air conditioning repair services",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "24 hour emergency heating service",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hour furnace repair near me",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 17.444444444444443
+    },
+    {
+      "query": "24 hour gas furnace repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hour heating and air",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hour heating and air conditioning repair",
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 1.1052631578947367
+    },
+    {
+      "query": "24 hour heating and air conditioning repair near me",
+      "clicks": 0,
+      "impressions": 40,
+      "ctr": 0,
+      "position": 3.2
+    },
+    {
+      "query": "24 hour heating and cooling near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2.5
+    },
+    {
+      "query": "24 hour heating company",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "24 hour heating repair",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 24.2
+    },
+    {
+      "query": "24 hour heating repair near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hour heating service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "24 hour hvac repair",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 43.5
+    },
+    {
+      "query": "24 hour hvac repair bristol",
+      "clicks": 0,
+      "impressions": 111,
+      "ctr": 0,
+      "position": 59.5945945945946
+    },
+    {
+      "query": "24 hour hvac repair portsmouth",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 50
+    },
+    {
+      "query": "24 hour hvac service arnold",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 47
+    },
+    {
+      "query": "24 hour hvac service near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hour plumber toilet unclogging services",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "24 hour plumbers",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 13.666666666666666
+    },
+    {
+      "query": "24 hour plumbers near me",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "24 hour plumbing service near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7.5
+    },
+    {
+      "query": "24 hour water heater repair",
+      "clicks": 0,
+      "impressions": 31,
+      "ctr": 0,
+      "position": 16.129032258064516
+    },
+    {
+      "query": "24 hour water heater repair near me",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 27.22222222222222
+    },
+    {
+      "query": "24 hour well pump service",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 6.25
+    },
+    {
+      "query": "24 hour well service near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7.5
+    },
+    {
+      "query": "24 hours heating service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "24 hr ac service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 41
+    },
+    {
+      "query": "24 hr hvac near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 37
+    },
+    {
+      "query": "24 hrs electrician near me",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 41
+    },
+    {
+      "query": "24 hvac service near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 18
+    },
+    {
+      "query": "24-hour heating and air conditioning repair",
+      "clicks": 0,
+      "impressions": 29,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24-hour heating and air conditioning repair near me",
+      "clicks": 0,
+      "impressions": 45,
+      "ctr": 0,
+      "position": 2.0888888888888886
+    },
+    {
+      "query": "24/7 boiler service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24/7 emergency hvac bristol",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 38.2
+    },
+    {
+      "query": "24/7 hvac",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24/7 hvac near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24/7 hvac repair near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24/7 hvac service",
+      "clicks": 0,
+      "impressions": 139,
+      "ctr": 0,
+      "position": 1.4820143884892087
+    },
+    {
+      "query": "24/7 plumber bristol",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 30.5
+    },
+    {
+      "query": "24/7 plumber near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "24/7 plumbing services barrington",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 24.166666666666668
+    },
+    {
+      "query": "24hr heating repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "27 broadcommon rd bristol ri 02809",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "3 ton high velocity air conditioner",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 56
+    },
+    {
+      "query": "30 to 40%",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "30lbs virgin r22 freon for sale",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "5 ton high velocity air conditioner",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 58.5
+    },
+    {
+      "query": "555 metacom ave bristol ri",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "a c and heating repair",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "a c and heating repair near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 35
+    },
+    {
+      "query": "a c repair services​ warrington",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 71
+    },
+    {
+      "query": "a c services near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "a superior air conditioning",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 62.333333333333336
+    },
+    {
+      "query": "a superior air conditioning company",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 52.285714285714285
+    },
+    {
+      "query": "a to z heating and cooling near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "a/c contractors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
     }
   ],
   "topPages": [
     {
       "page": "https://superiorcomfortinc.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*296*superior-comfort-bristol",
-      "clicks": 781,
-      "impressions": 58546,
-      "ctr": 0.01333993782666621,
-      "position": 5.658405356471834
+      "clicks": 818,
+      "impressions": 59831,
+      "ctr": 0.013671842355969313,
+      "position": 5.963246477578513
     },
     {
       "page": "https://superiorcomfortinc.com/",
-      "clicks": 414,
-      "impressions": 33112,
-      "ctr": 0.012503020053152935,
-      "position": 15.638862043971974
+      "clicks": 457,
+      "impressions": 36943,
+      "ctr": 0.012370408467097962,
+      "position": 15.184554584089001
     },
     {
       "page": "https://superiorcomfortinc.com/blog/mold-and-mildew-in-the-attic-how-your-hvac-system-can-be-the-culprit/",
-      "clicks": 65,
-      "impressions": 6024,
-      "ctr": 0.010790172642762285,
-      "position": 8.322543160690572
+      "clicks": 80,
+      "impressions": 7766,
+      "ctr": 0.010301313417460727,
+      "position": 7.422997682204481
     },
     {
       "page": "https://superiorcomfortinc.com/newport-ri/",
-      "clicks": 27,
-      "impressions": 14767,
-      "ctr": 0.0018284011647592606,
-      "position": 22.103677117898016
-    },
-    {
-      "page": "https://superiorcomfortinc.com/radiant-floor-heating/",
-      "clicks": 20,
-      "impressions": 1827,
-      "ctr": 0.010946907498631636,
-      "position": 24.970443349753694
-    },
-    {
-      "page": "https://superiorcomfortinc.com/employment-opportunities/",
-      "clicks": 19,
-      "impressions": 980,
-      "ctr": 0.019387755102040816,
-      "position": 8.823469387755102
+      "clicks": 30,
+      "impressions": 17092,
+      "ctr": 0.0017552071144395038,
+      "position": 23.318862625789844
     },
     {
       "page": "https://superiorcomfortinc.com/testimonials/",
-      "clicks": 15,
-      "impressions": 2449,
-      "ctr": 0.006124948958758677,
-      "position": 7.043282972641895
+      "clicks": 26,
+      "impressions": 2553,
+      "ctr": 0.010184097140618879,
+      "position": 6.3399921660791225
     },
     {
-      "page": "https://superiorcomfortinc.com/membership/",
-      "clicks": 13,
-      "impressions": 1286,
-      "ctr": 0.01010886469673406,
-      "position": 8.817262830482115
+      "page": "https://superiorcomfortinc.com/employment-opportunities/",
+      "clicks": 21,
+      "impressions": 1069,
+      "ctr": 0.019644527595884004,
+      "position": 8.366697848456502
     },
     {
-      "page": "https://superiorcomfortinc.com/middletown-ri/",
-      "clicks": 12,
-      "impressions": 9231,
-      "ctr": 0.0012999675008124798,
-      "position": 28.179287184487055
+      "page": "https://superiorcomfortinc.com/radiant-floor-heating/",
+      "clicks": 18,
+      "impressions": 1791,
+      "ctr": 0.010050251256281407,
+      "position": 23.79006141820212
     },
     {
       "page": "https://superiorcomfortinc.com/specials/",
+      "clicks": 16,
+      "impressions": 6027,
+      "ctr": 0.002654720424755268,
+      "position": 3.4690559150489464
+    },
+    {
+      "page": "https://superiorcomfortinc.com/areas-served/",
+      "clicks": 14,
+      "impressions": 3026,
+      "ctr": 0.004626569729015202,
+      "position": 6.551553205551883
+    },
+    {
+      "page": "https://superiorcomfortinc.com/bristol-ri/",
+      "clicks": 14,
+      "impressions": 5643,
+      "ctr": 0.002480949849370902,
+      "position": 26.020910863016127
+    },
+    {
+      "page": "https://superiorcomfortinc.com/media/rie-2680081-rebate-form-hpwh.pdf",
+      "clicks": 12,
+      "impressions": 1249,
+      "ctr": 0.009607686148919135,
+      "position": 7.993594875900721
+    },
+    {
+      "page": "https://superiorcomfortinc.com/membership/",
+      "clicks": 12,
+      "impressions": 1123,
+      "ctr": 0.01068566340160285,
+      "position": 8.726625111308994
+    },
+    {
+      "page": "https://superiorcomfortinc.com/middletown-ri/",
       "clicks": 10,
-      "impressions": 5900,
-      "ctr": 0.001694915254237288,
-      "position": 3.4428813559322036
+      "impressions": 10024,
+      "ctr": 0.0009976057462090981,
+      "position": 30.054169992019155
+    },
+    {
+      "page": "https://superiorcomfortinc.com/plumbing-services/",
+      "clicks": 10,
+      "impressions": 4437,
+      "ctr": 0.00225377507324769,
+      "position": 6.699121027721433
+    },
+    {
+      "page": "https://superiorcomfortinc.com/well-pump-service/",
+      "clicks": 10,
+      "impressions": 3489,
+      "ctr": 0.002866150759529951,
+      "position": 31.89079965606191
     },
     {
       "page": "https://superiorcomfortinc.com/about-us/",
       "clicks": 9,
-      "impressions": 5964,
-      "ctr": 0.0015090543259557343,
-      "position": 6.9652917505030185
-    },
-    {
-      "page": "https://superiorcomfortinc.com/areas-served/",
-      "clicks": 9,
-      "impressions": 3449,
-      "ctr": 0.002609452015076834,
-      "position": 5.5384169324441865
-    },
-    {
-      "page": "https://superiorcomfortinc.com/barrington-ri/",
-      "clicks": 9,
-      "impressions": 7416,
-      "ctr": 0.0012135922330097086,
-      "position": 27.97653721682848
+      "impressions": 4944,
+      "ctr": 0.0018203883495145632,
+      "position": 6.482605177993528
     },
     {
       "page": "https://superiorcomfortinc.com/heating-service/",
-      "clicks": 9,
-      "impressions": 6474,
-      "ctr": 0.0013901760889712697,
-      "position": 5.122953351869015
-    },
-    {
-      "page": "https://superiorcomfortinc.com/media/rie-2680081-rebate-form-hpwh.pdf",
-      "clicks": 9,
-      "impressions": 950,
-      "ctr": 0.009473684210526316,
-      "position": 8.246315789473684
-    },
-    {
-      "page": "https://superiorcomfortinc.com/plumber-in-bristol-ri/",
-      "clicks": 9,
-      "impressions": 3035,
-      "ctr": 0.0029654036243822075,
-      "position": 18.410873146622734
-    },
-    {
-      "page": "https://superiorcomfortinc.com/bristol-ri/",
       "clicks": 8,
-      "impressions": 3764,
-      "ctr": 0.0021253985122210413,
-      "position": 19.835547290116896
+      "impressions": 6726,
+      "ctr": 0.0011894142134998512,
+      "position": 5.626375260184359
     },
     {
       "page": "https://superiorcomfortinc.com/mitsubishi-diamond-contractor/",
       "clicks": 8,
-      "impressions": 963,
-      "ctr": 0.008307372793354102,
-      "position": 25.47767393561786
+      "impressions": 948,
+      "ctr": 0.008438818565400843,
+      "position": 23.376582278481013
     },
     {
-      "page": "https://superiorcomfortinc.com/plumbing-services/",
-      "clicks": 8,
-      "impressions": 3688,
-      "ctr": 0.0021691973969631237,
-      "position": 7.080260303687636
-    },
-    {
-      "page": "https://superiorcomfortinc.com/schedule-service/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*296*superior-comfort-bristol",
+      "page": "https://superiorcomfortinc.com/barrington-ri/",
       "clicks": 7,
-      "impressions": 3079,
-      "ctr": 0.0022734654108476776,
-      "position": 12.947710295550504
+      "impressions": 9586,
+      "ctr": 0.0007302315877321093,
+      "position": 30.478510327561025
     },
     {
-      "page": "https://superiorcomfortinc.com/well-pump-service/",
+      "page": "https://superiorcomfortinc.com/electrical-installations/",
       "clicks": 7,
-      "impressions": 5471,
-      "ctr": 0.0012794735880095047,
-      "position": 42.53061597514166
+      "impressions": 612,
+      "ctr": 0.011437908496732025,
+      "position": 11.838235294117647
     },
     {
-      "page": "https://superiorcomfortinc.com/oil-to-gas-conversions/",
-      "clicks": 6,
-      "impressions": 4330,
-      "ctr": 0.0013856812933025404,
-      "position": 37.029792147806006
-    },
-    {
-      "page": "https://superiorcomfortinc.com/plumber-in-barrington-ri/",
-      "clicks": 6,
-      "impressions": 1323,
-      "ctr": 0.0045351473922902496,
-      "position": 18.40665154950869
-    },
-    {
-      "page": "https://superiorcomfortinc.com/schedule-service/",
-      "clicks": 6,
-      "impressions": 5712,
-      "ctr": 0.0010504201680672268,
-      "position": 4.322303921568627
+      "page": "https://superiorcomfortinc.com/fujitsu-elite-contractors/",
+      "clicks": 7,
+      "impressions": 621,
+      "ctr": 0.011272141706924315,
+      "position": 10.035426731078905
     },
     {
       "page": "https://superiorcomfortinc.com/high-velocity-hvac/",
+      "clicks": 7,
+      "impressions": 1309,
+      "ctr": 0.0053475935828877,
+      "position": 44.10771581359817
+    },
+    {
+      "page": "https://superiorcomfortinc.com/oil-to-gas-conversions/",
+      "clicks": 7,
+      "impressions": 3897,
+      "ctr": 0.001796253528355145,
+      "position": 38.6058506543495
+    },
+    {
+      "page": "https://superiorcomfortinc.com/plumber-in-bristol-ri/",
+      "clicks": 7,
+      "impressions": 2694,
+      "ctr": 0.0025983667409057165,
+      "position": 18.474016332590942
+    },
+    {
+      "page": "https://superiorcomfortinc.com/hot-water-heaters/",
+      "clicks": 6,
+      "impressions": 8743,
+      "ctr": 0.0006862632963513668,
+      "position": 16.651263868237447
+    },
+    {
+      "page": "https://superiorcomfortinc.com/boiler-service/",
       "clicks": 5,
-      "impressions": 1478,
-      "ctr": 0.0033829499323410014,
-      "position": 40.41407307171854
+      "impressions": 1974,
+      "ctr": 0.0025329280648429585,
+      "position": 42.74012158054711
+    },
+    {
+      "page": "https://superiorcomfortinc.com/plumber-in-barrington-ri/",
+      "clicks": 5,
+      "impressions": 1846,
+      "ctr": 0.0027085590465872156,
+      "position": 16.853196099674975
+    },
+    {
+      "page": "https://superiorcomfortinc.com/products/",
+      "clicks": 5,
+      "impressions": 869,
+      "ctr": 0.005753739930955121,
+      "position": 10.07825086306099
+    },
+    {
+      "page": "https://superiorcomfortinc.com/schedule-service/",
+      "clicks": 5,
+      "impressions": 4966,
+      "ctr": 0.0010068465565847766,
+      "position": 3.342931937172775
+    },
+    {
+      "page": "https://superiorcomfortinc.com/schedule-service/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*296*superior-comfort-bristol",
+      "clicks": 5,
+      "impressions": 2948,
+      "ctr": 0.0016960651289009499,
+      "position": 13.114993215739485
     },
     {
       "page": "https://superiorcomfortinc.com/water-heater-installation/",
       "clicks": 5,
-      "impressions": 3866,
-      "ctr": 0.0012933264355923435,
-      "position": 24.115623383341955
+      "impressions": 4187,
+      "ctr": 0.0011941724385001193,
+      "position": 27.28922856460473
     },
     {
-      "page": "https://superiorcomfortinc.com/electrical-installations/",
+      "page": "https://superiorcomfortinc.com/financing/",
       "clicks": 4,
-      "impressions": 746,
-      "ctr": 0.005361930294906166,
-      "position": 10.64745308310992
-    },
-    {
-      "page": "https://superiorcomfortinc.com/fujitsu-elite-contractors/",
-      "clicks": 4,
-      "impressions": 557,
-      "ctr": 0.00718132854578097,
-      "position": 10.48294434470377
+      "impressions": 324,
+      "ctr": 0.012345679012345678,
+      "position": 15.203703703703704
     },
     {
       "page": "https://superiorcomfortinc.com/plumber-in-portsmouth-ri/",
       "clicks": 4,
-      "impressions": 2602,
-      "ctr": 0.0015372790161414297,
-      "position": 17.43120676402767
-    },
-    {
-      "page": "https://superiorcomfortinc.com/products/",
-      "clicks": 4,
-      "impressions": 703,
-      "ctr": 0.005689900426742532,
-      "position": 9.250355618776672
+      "impressions": 2444,
+      "ctr": 0.0016366612111292963,
+      "position": 16.292962356792145
     },
     {
       "page": "https://superiorcomfortinc.com/warren-ri/",
       "clicks": 4,
-      "impressions": 3322,
-      "ctr": 0.0012040939193257074,
-      "position": 16.519867549668874
+      "impressions": 3635,
+      "ctr": 0.0011004126547455295,
+      "position": 14.820082530949106
     },
     {
-      "page": "https://superiorcomfortinc.com/air-conditioning-service-in-barrington-ri/",
+      "page": "https://superiorcomfortinc.com/ev-charging-station-installation/",
       "clicks": 3,
-      "impressions": 3362,
-      "ctr": 0.000892325996430696,
-      "position": 38.29030339083879
-    },
-    {
-      "page": "https://superiorcomfortinc.com/boiler-service/",
-      "clicks": 3,
-      "impressions": 1859,
-      "ctr": 0.0016137708445400753,
-      "position": 47.4400215169446
-    },
-    {
-      "page": "https://superiorcomfortinc.com/financing/",
-      "clicks": 3,
-      "impressions": 235,
-      "ctr": 0.01276595744680851,
-      "position": 17.22553191489362
-    },
-    {
-      "page": "https://superiorcomfortinc.com/furnace-repair-in-barrington-ri/",
-      "clicks": 3,
-      "impressions": 1503,
-      "ctr": 0.001996007984031936,
-      "position": 36.1729873586161
+      "impressions": 881,
+      "ctr": 0.00340522133938706,
+      "position": 21.04199772985244
     },
     {
       "page": "https://superiorcomfortinc.com/furnace-service-in-jamestown-ri/",
       "clicks": 3,
-      "impressions": 2140,
-      "ctr": 0.0014018691588785046,
-      "position": 13.709813084112149
+      "impressions": 1985,
+      "ctr": 0.0015113350125944584,
+      "position": 12.856423173803526
     },
     {
-      "page": "https://superiorcomfortinc.com/generator-installation-services/",
+      "page": "https://superiorcomfortinc.com/portsmouth-ri/",
       "clicks": 3,
-      "impressions": 400,
-      "ctr": 0.0075,
-      "position": 27.755
+      "impressions": 1906,
+      "ctr": 0.0015739769150052466,
+      "position": 10.038824763903463
     },
     {
-      "page": "https://superiorcomfortinc.com/hot-water-heaters/",
+      "page": "https://superiorcomfortinc.com/premier-worry-free-program/",
       "clicks": 3,
-      "impressions": 8333,
-      "ctr": 0.00036001440057602306,
-      "position": 15.116764670586823
+      "impressions": 166,
+      "ctr": 0.018072289156626505,
+      "position": 11.55421686746988
     },
     {
       "page": "https://superiorcomfortinc.com/smart-home-electrical-solutions/",
       "clicks": 3,
-      "impressions": 655,
-      "ctr": 0.004580152671755725,
-      "position": 9.932824427480917
+      "impressions": 548,
+      "ctr": 0.005474452554744526,
+      "position": 11.288321167883211
+    },
+    {
+      "page": "https://superiorcomfortinc.com/solar-hot-water-and-thermal-heating-systems/",
+      "clicks": 3,
+      "impressions": 61,
+      "ctr": 0.04918032786885246,
+      "position": 16.83606557377049
+    },
+    {
+      "page": "https://superiorcomfortinc.com/water-filtration-system-installation/",
+      "clicks": 3,
+      "impressions": 517,
+      "ctr": 0.005802707930367505,
+      "position": 28.916827852998065
     },
     {
       "page": "https://superiorcomfortinc.com/air-conditioning-repair/",
       "clicks": 2,
-      "impressions": 2650,
-      "ctr": 0.0007547169811320754,
-      "position": 38.7422641509434
+      "impressions": 3708,
+      "ctr": 0.0005393743257820927,
+      "position": 41.57659115426106
     },
     {
       "page": "https://superiorcomfortinc.com/air-conditioning-service-in-bristol-ri/",
       "clicks": 2,
-      "impressions": 5147,
-      "ctr": 0.0003885758694385079,
-      "position": 36.14085875267146
+      "impressions": 5951,
+      "ctr": 0.0003360779700890607,
+      "position": 38.49890774659721
     },
     {
       "page": "https://superiorcomfortinc.com/air-conditioning-service-in-dartmouth-ma/",
       "clicks": 2,
-      "impressions": 1453,
-      "ctr": 0.0013764624913971094,
-      "position": 20.978664831383345
+      "impressions": 1518,
+      "ctr": 0.0013175230566534915,
+      "position": 18.384057971014492
+    },
+    {
+      "page": "https://superiorcomfortinc.com/blog/the-importance-of-well-pump-maintenance-for-ri-rural-homes/",
+      "clicks": 2,
+      "impressions": 827,
+      "ctr": 0.0024183796856106408,
+      "position": 16.92140266021765
     },
     {
       "page": "https://superiorcomfortinc.com/ceiling-fan-installation-repair/",
       "clicks": 2,
-      "impressions": 680,
-      "ctr": 0.0029411764705882353,
-      "position": 39.726470588235294
+      "impressions": 606,
+      "ctr": 0.0033003300330033004,
+      "position": 33.42079207920792
     },
     {
       "page": "https://superiorcomfortinc.com/ductless-hvac/",
       "clicks": 2,
-      "impressions": 2833,
-      "ctr": 0.0007059654076950229,
-      "position": 28.42428521002471
+      "impressions": 2894,
+      "ctr": 0.000691085003455425,
+      "position": 30.994816862474085
     },
     {
       "page": "https://superiorcomfortinc.com/electrical-repairs/",
       "clicks": 2,
-      "impressions": 391,
-      "ctr": 0.005115089514066497,
-      "position": 19.10230179028133
-    },
-    {
-      "page": "https://superiorcomfortinc.com/ev-charging-station-installation/",
-      "clicks": 2,
-      "impressions": 844,
-      "ctr": 0.002369668246445498,
-      "position": 21.334123222748815
-    },
-    {
-      "page": "https://superiorcomfortinc.com/furnace-service-tiverton-ri/",
-      "clicks": 2,
-      "impressions": 872,
-      "ctr": 0.0022935779816513763,
-      "position": 15.24197247706422
+      "impressions": 348,
+      "ctr": 0.005747126436781609,
+      "position": 20.46551724137931
     },
     {
       "page": "https://superiorcomfortinc.com/gallery/",
       "clicks": 2,
-      "impressions": 74,
-      "ctr": 0.02702702702702703,
-      "position": 5.824324324324325
+      "impressions": 80,
+      "ctr": 0.025,
+      "position": 5.6375
     },
     {
-      "page": "https://superiorcomfortinc.com/heating-furnace-repair/",
+      "page": "https://superiorcomfortinc.com/generator-installation-services/",
       "clicks": 2,
-      "impressions": 781,
-      "ctr": 0.002560819462227913,
-      "position": 19.516005121638923
-    },
-    {
-      "page": "https://superiorcomfortinc.com/hours-directions/",
-      "clicks": 2,
-      "impressions": 442,
-      "ctr": 0.004524886877828055,
-      "position": 9.104072398190045
+      "impressions": 267,
+      "ctr": 0.00749063670411985,
+      "position": 24.194756554307116
     }
   ],
-  "fetchedAt": "2026-03-18T13:07:31.686Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "superior comfort",
+      "clicks": 379,
+      "impressions": 2643,
+      "ctr": 0.1433976541808551,
+      "position": 3.2845251608021186
+    },
+    {
+      "query": "superior comfort incorporated",
+      "clicks": 96,
+      "impressions": 644,
+      "ctr": 0.14906832298136646,
+      "position": 1.265527950310559
+    },
+    {
+      "query": "superior comfort heating and cooling",
+      "clicks": 94,
+      "impressions": 761,
+      "ctr": 0.12352168199737187,
+      "position": 3.78580814717477
+    },
+    {
+      "query": "superior comfort inc",
+      "clicks": 90,
+      "impressions": 349,
+      "ctr": 0.25787965616045844,
+      "position": 1.005730659025788
+    },
+    {
+      "query": "superior comfort bristol ri",
+      "clicks": 52,
+      "impressions": 163,
+      "ctr": 0.31901840490797545,
+      "position": 1
+    },
+    {
+      "query": "superior comfort ri",
+      "clicks": 25,
+      "impressions": 116,
+      "ctr": 0.21551724137931033,
+      "position": 1
+    },
+    {
+      "query": "superior comfort hvac",
+      "clicks": 22,
+      "impressions": 93,
+      "ctr": 0.23655913978494625,
+      "position": 1.4623655913978495
+    },
+    {
+      "query": "superior comfort bristol",
+      "clicks": 21,
+      "impressions": 107,
+      "ctr": 0.19626168224299065,
+      "position": 1
+    },
+    {
+      "query": "superior comfort rhode island",
+      "clicks": 18,
+      "impressions": 31,
+      "ctr": 0.5806451612903226,
+      "position": 1
+    },
+    {
+      "query": "superior heating and air conditioning",
+      "clicks": 9,
+      "impressions": 358,
+      "ctr": 0.025139664804469275,
+      "position": 40.84357541899441
+    },
+    {
+      "query": "superior hvac",
+      "clicks": 7,
+      "impressions": 450,
+      "ctr": 0.015555555555555555,
+      "position": 29.78
+    },
+    {
+      "query": "hvac near me",
+      "clicks": 6,
+      "impressions": 370,
+      "ctr": 0.016216216216216217,
+      "position": 9.862162162162162
+    },
+    {
+      "query": "superior comfort incorporated bristol photos",
+      "clicks": 6,
+      "impressions": 95,
+      "ctr": 0.06315789473684211,
+      "position": 1.936842105263158
+    },
+    {
+      "query": "superior comfort reviews",
+      "clicks": 6,
+      "impressions": 86,
+      "ctr": 0.06976744186046512,
+      "position": 1.744186046511628
+    },
+    {
+      "query": "superior heating and cooling",
+      "clicks": 6,
+      "impressions": 286,
+      "ctr": 0.02097902097902098,
+      "position": 41.86013986013986
+    },
+    {
+      "query": "heating repair",
+      "clicks": 3,
+      "impressions": 761,
+      "ctr": 0.003942181340341655,
+      "position": 56.80683311432326
+    },
+    {
+      "query": "hvac companies near me",
+      "clicks": 3,
+      "impressions": 471,
+      "ctr": 0.006369426751592357,
+      "position": 12.127388535031848
+    },
+    {
+      "query": "hvac rhode island",
+      "clicks": 3,
+      "impressions": 1735,
+      "ctr": 0.001729106628242075,
+      "position": 9.973487031700289
+    },
+    {
+      "query": "oil burner service near me",
+      "clicks": 3,
+      "impressions": 202,
+      "ctr": 0.01485148514851485,
+      "position": 30.792079207920793
+    },
+    {
+      "query": "superior comfort incorporated bristol reviews",
+      "clicks": 3,
+      "impressions": 399,
+      "ctr": 0.007518796992481203,
+      "position": 2.889724310776942
+    },
+    {
+      "query": "best hvac companies in rhode island",
+      "clicks": 2,
+      "impressions": 126,
+      "ctr": 0.015873015873015872,
+      "position": 6.238095238095238
+    },
+    {
+      "query": "boiler services",
+      "clicks": 2,
+      "impressions": 338,
+      "ctr": 0.005917159763313609,
+      "position": 63.10650887573964
+    },
+    {
+      "query": "furnace",
+      "clicks": 2,
+      "impressions": 40,
+      "ctr": 0.05,
+      "position": 10.225
+    },
+    {
+      "query": "hvac companies",
+      "clicks": 2,
+      "impressions": 275,
+      "ctr": 0.007272727272727273,
+      "position": 28.614545454545453
+    },
+    {
+      "query": "hvac company near me",
+      "clicks": 2,
+      "impressions": 1354,
+      "ctr": 0.0014771048744460858,
+      "position": 67.46381093057607
+    },
+    {
+      "query": "hvac company rhode island",
+      "clicks": 2,
+      "impressions": 411,
+      "ctr": 0.004866180048661801,
+      "position": 11.688564476885645
+    },
+    {
+      "query": "ri energy rebates 2024 application",
+      "clicks": 2,
+      "impressions": 11,
+      "ctr": 0.18181818181818182,
+      "position": 8.636363636363637
+    },
+    {
+      "query": "superior comfort llc",
+      "clicks": 2,
+      "impressions": 67,
+      "ctr": 0.029850746268656716,
+      "position": 6.6716417910447765
+    },
+    {
+      "query": "superior heating",
+      "clicks": 2,
+      "impressions": 68,
+      "ctr": 0.029411764705882353,
+      "position": 30.16176470588235
+    },
+    {
+      "query": "air condition service",
+      "clicks": 1,
+      "impressions": 28,
+      "ctr": 0.03571428571428571,
+      "position": 70.21428571428571
+    },
+    {
+      "query": "air conditioner deals near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "air conditioning installation companies near me",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 73.28571428571429
+    },
+    {
+      "query": "best heating and cooling company near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "best hvac companies in ri",
+      "clicks": 1,
+      "impressions": 86,
+      "ctr": 0.011627906976744186,
+      "position": 6.686046511627907
+    },
+    {
+      "query": "boiler maintenance near me",
+      "clicks": 1,
+      "impressions": 3048,
+      "ctr": 0.00032808398950131233,
+      "position": 56.49737532808399
+    },
+    {
+      "query": "boiler service",
+      "clicks": 1,
+      "impressions": 7941,
+      "ctr": 0.0001259287243420224,
+      "position": 74.73164588842715
+    },
+    {
+      "query": "boiler service near me",
+      "clicks": 1,
+      "impressions": 37871,
+      "ctr": 0.000026405428956193393,
+      "position": 66.3960814343429
+    },
+    {
+      "query": "boiler servicing",
+      "clicks": 1,
+      "impressions": 153,
+      "ctr": 0.006535947712418301,
+      "position": 56.97385620915033
+    },
+    {
+      "query": "central ac tune up near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 45
+    },
+    {
+      "query": "clean heat ri",
+      "clicks": 1,
+      "impressions": 239,
+      "ctr": 0.0041841004184100415,
+      "position": 6.502092050209205
+    },
+    {
+      "query": "cleanheat ri",
+      "clicks": 1,
+      "impressions": 59,
+      "ctr": 0.01694915254237288,
+      "position": 7.135593220338983
+    },
+    {
+      "query": "commercial hvac companies near me",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 8.333333333333332
+    },
+    {
+      "query": "duct cleaning near me reviews",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "emergency furnace repair rhode island",
+      "clicks": 1,
+      "impressions": 257,
+      "ctr": 0.0038910505836575876,
+      "position": 7.525291828793774
+    },
+    {
+      "query": "furnace cleaning near me",
+      "clicks": 1,
+      "impressions": 22,
+      "ctr": 0.045454545454545456,
+      "position": 10.954545454545455
+    },
+    {
+      "query": "gas furnace cleaning near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3
+    },
+    {
+      "query": "gas furnace repair near me",
+      "clicks": 1,
+      "impressions": 162,
+      "ctr": 0.006172839506172839,
+      "position": 70
+    },
+    {
+      "query": "geothermal installers near me",
+      "clicks": 1,
+      "impressions": 62,
+      "ctr": 0.016129032258064516,
+      "position": 61.74193548387097
+    },
+    {
+      "query": "heat pump service near me",
+      "clicks": 1,
+      "impressions": 1584,
+      "ctr": 0.0006313131313131314,
+      "position": 72.90277777777777
+    },
+    {
+      "query": "heat pump specialist near me",
+      "clicks": 1,
+      "impressions": 138,
+      "ctr": 0.007246376811594203,
+      "position": 67.47101449275362
+    },
+    {
+      "query": "heating and cooling contractors in my area",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "heating companies in ri",
+      "clicks": 1,
+      "impressions": 28,
+      "ctr": 0.03571428571428571,
+      "position": 14.821428571428571
+    },
+    {
+      "query": "heating company near me",
+      "clicks": 1,
+      "impressions": 324,
+      "ctr": 0.0030864197530864196,
+      "position": 61.79938271604938
+    },
+    {
+      "query": "heating service",
+      "clicks": 1,
+      "impressions": 6298,
+      "ctr": 0.00015878056525881233,
+      "position": 71.70577961257543
+    },
+    {
+      "query": "heating system service",
+      "clicks": 1,
+      "impressions": 70,
+      "ctr": 0.014285714285714285,
+      "position": 66.95714285714286
+    },
+    {
+      "query": "high velocity air conditioning contractors near me",
+      "clicks": 1,
+      "impressions": 171,
+      "ctr": 0.005847953216374269,
+      "position": 22.473684210526315
+    },
+    {
+      "query": "hvac companies rhode island",
+      "clicks": 1,
+      "impressions": 46,
+      "ctr": 0.021739130434782608,
+      "position": 10.217391304347826
+    },
+    {
+      "query": "hvac contractors rhode island",
+      "clicks": 1,
+      "impressions": 96,
+      "ctr": 0.010416666666666666,
+      "position": 20.208333333333332
+    },
+    {
+      "query": "hvac contractors ri",
+      "clicks": 1,
+      "impressions": 547,
+      "ctr": 0.0018281535648994515,
+      "position": 17.449725776965266
+    },
+    {
+      "query": "hvac installation",
+      "clicks": 1,
+      "impressions": 109,
+      "ctr": 0.009174311926605505,
+      "position": 17.31192660550459
+    },
+    {
+      "query": "hvac newport ri",
+      "clicks": 1,
+      "impressions": 33,
+      "ctr": 0.030303030303030304,
+      "position": 7.303030303030303
+    },
+    {
+      "query": "hydronic radiant floor heating installers near me",
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 37.4
+    },
+    {
+      "query": "mini split ac installation near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "mini split cleaning service near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 1
+    },
+    {
+      "query": "newport heating",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 7.5
+    },
+    {
+      "query": "radiant floor heating contractors near me",
+      "clicks": 1,
+      "impressions": 176,
+      "ctr": 0.005681818181818182,
+      "position": 73.6590909090909
+    },
+    {
+      "query": "radiant heat installers near me",
+      "clicks": 1,
+      "impressions": 43,
+      "ctr": 0.023255813953488372,
+      "position": 61.55813953488372
+    },
+    {
+      "query": "rhode island hvac services",
+      "clicks": 1,
+      "impressions": 54,
+      "ctr": 0.018518518518518517,
+      "position": 14.88888888888889
+    },
+    {
+      "query": "superior ac",
+      "clicks": 1,
+      "impressions": 113,
+      "ctr": 0.008849557522123894,
+      "position": 38.56637168141593
+    },
+    {
+      "query": "superior air",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 18.285714285714285
+    },
+    {
+      "query": "superior comfort heating and air conditioning",
+      "clicks": 1,
+      "impressions": 114,
+      "ctr": 0.008771929824561403,
+      "position": 5.192982456140351
+    },
+    {
+      "query": "superior comfort heating and cooling ri",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 1
+    },
+    {
+      "query": "superior comfort incorporated reviews",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 2.625
+    },
+    {
+      "query": "superior comfort systems",
+      "clicks": 1,
+      "impressions": 27,
+      "ctr": 0.037037037037037035,
+      "position": 7.148148148148148
+    },
+    {
+      "query": "superior cooling and heating",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 37
+    },
+    {
+      "query": "superior hvac and plumbing",
+      "clicks": 1,
+      "impressions": 241,
+      "ctr": 0.004149377593360996,
+      "position": 45.551867219917014
+    },
+    {
+      "query": "superior hvac services",
+      "clicks": 1,
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 9.777777777777779
+    },
+    {
+      "query": "superior plumbing and heating",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 7.166666666666667
+    },
+    {
+      "query": "walk in freezer repair",
+      "clicks": 1,
+      "impressions": 1673,
+      "ctr": 0.0005977286312014345,
+      "position": 66.97130902570233
+    },
+    {
+      "query": "whole house humidifier installation near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "\"ac repair\"",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 82.93333333333334
+    },
+    {
+      "query": "\"ac service\"",
+      "clicks": 0,
+      "impressions": 251,
+      "ctr": 0,
+      "position": 82.11553784860558
+    },
+    {
+      "query": "\"air conditioner service\"",
+      "clicks": 0,
+      "impressions": 157,
+      "ctr": 0,
+      "position": 74.97452229299363
+    },
+    {
+      "query": "\"air conditioning service\"",
+      "clicks": 0,
+      "impressions": 190,
+      "ctr": 0,
+      "position": 69.6421052631579
+    },
+    {
+      "query": "\"heating repair\"",
+      "clicks": 0,
+      "impressions": 47,
+      "ctr": 0,
+      "position": 82.82978723404256
+    },
+    {
+      "query": "\"hvac company\"",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 94.5
+    },
+    {
+      "query": "\"hvac near me\"",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 31.5
+    },
+    {
+      "query": "\"repair drain\"",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 90
+    },
+    {
+      "query": "+air +conditioner +repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 54
+    },
+    {
+      "query": "+air +conditioning +maintenance +newport +beach",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 96.25
+    },
+    {
+      "query": "+commercial +boiler +repair",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 89
+    },
+    {
+      "query": "11 broadcommon rd bristol ri",
+      "clicks": 0,
+      "impressions": 62,
+      "ctr": 0,
+      "position": 5.516129032258065
+    },
+    {
+      "query": "13x22x1 furnace filter",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 89.3
+    },
+    {
+      "query": "16.625 + 25.875",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "16251 furnace filter",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 50
+    },
+    {
+      "query": "21.5 x 23.5 air filter",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 38
+    },
+    {
+      "query": "24 7 furnace repair near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 89.5
+    },
+    {
+      "query": "24 7 hvac service near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 air conditioning repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "query": "24 hour a/c repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 61
+    },
+    {
+      "query": "24 hour ac company",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 69
+    },
+    {
+      "query": "24 hour air service inc",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 89.6
+    },
+    {
+      "query": "24 hour boiler service near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "24 hour commercial refrigeration repair",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 55.92307692307692
+    },
+    {
+      "query": "24 hour furnace repair near me",
+      "clicks": 0,
+      "impressions": 32,
+      "ctr": 0,
+      "position": 9.4375
+    },
+    {
+      "query": "24 hour furnace service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "24 hour gas boiler repair near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "24 hour heater repair near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 83
+    },
+    {
+      "query": "24 hour heating and air conditioning repair",
+      "clicks": 0,
+      "impressions": 45,
+      "ctr": 0,
+      "position": 2.177777777777778
+    },
+    {
+      "query": "24 hour heating and air conditioning repair near me",
+      "clicks": 0,
+      "impressions": 25,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hour heating and air conditioning repair warwick",
+      "clicks": 0,
+      "impressions": 79,
+      "ctr": 0,
+      "position": 40.35443037974684
+    },
+    {
+      "query": "24 hour heating and air near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "24 hour heating and cooling dartmouth",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 49.5
+    },
+    {
+      "query": "24 hour heating and cooling repair near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 14
+    },
+    {
+      "query": "24 hour heating and cooling service",
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 13.722222222222221
+    },
+    {
+      "query": "24 hour heating repair",
+      "clicks": 0,
+      "impressions": 38,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hour heating repair warwick",
+      "clicks": 0,
+      "impressions": 88,
+      "ctr": 0,
+      "position": 60.39772727272727
+    },
+    {
+      "query": "24 hour heating service",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 7.333333333333333
+    },
+    {
+      "query": "24 hour heating service near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "24 hour hot water service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 83
+    },
+    {
+      "query": "24 hour hvac repair",
+      "clicks": 0,
+      "impressions": 27,
+      "ctr": 0,
+      "position": 11.518518518518519
+    },
+    {
+      "query": "24 hour hvac service",
+      "clicks": 0,
+      "impressions": 27,
+      "ctr": 0,
+      "position": 12.88888888888889
+    },
+    {
+      "query": "24 hour mini split service near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 34
+    },
+    {
+      "query": "24 hour oil burner service near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 46
+    },
+    {
+      "query": "24 hour oil furnace repair near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "24 hour water heater repair warwick",
+      "clicks": 0,
+      "impressions": 74,
+      "ctr": 0,
+      "position": 68.70270270270271
+    },
+    {
+      "query": "24 hour water heater replacement",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 92
+    },
+    {
+      "query": "24 hours ac repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 91
+    },
+    {
+      "query": "24 hours furnace repair",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 38
+    },
+    {
+      "query": "24 hrs heating and cooling",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hvac service near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "24-hour emergency hvac service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "24-hour heating and air conditioning repair",
+      "clicks": 0,
+      "impressions": 34,
+      "ctr": 0,
+      "position": 3.088235294117647
+    },
+    {
+      "query": "24-hour heating and air conditioning repair near me",
+      "clicks": 0,
+      "impressions": 29,
+      "ctr": 0,
+      "position": 1.8275862068965516
+    },
+    {
+      "query": "24-hour heating and air conditioning repair warwick",
+      "clicks": 0,
+      "impressions": 78,
+      "ctr": 0,
+      "position": 39.01282051282051
+    },
+    {
+      "query": "24/7 a/c repair",
+      "clicks": 0,
+      "impressions": 54,
+      "ctr": 0,
+      "position": 89.55555555555556
+    },
+    {
+      "query": "24/7 boiler installations kingston",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 43
+    },
+    {
+      "query": "24/7 boiler servicing kingston",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 40
+    },
+    {
+      "query": "24/7 furnace repair near me",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 83.07142857142857
+    },
+    {
+      "query": "24/7 heating repair",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 4.5
+    },
+    {
+      "query": "24/7 hvac service",
+      "clicks": 0,
+      "impressions": 193,
+      "ctr": 0,
+      "position": 13.32642487046632
+    },
+    {
+      "query": "24/7 hvac service near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24/7 oil & gas pumping repairs",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 95.54545454545455
+    },
+    {
+      "query": "24/7 plumbing services barrington",
+      "clicks": 0,
+      "impressions": 55,
+      "ctr": 0,
+      "position": 32.054545454545455
+    },
+    {
+      "query": "24/7 water heater repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "255649-102",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 59.75
+    },
+    {
+      "query": "255649-103",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 46
+    },
+    {
+      "query": "255649-105",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 64.52941176470588
+    },
+    {
+      "query": "259112-102",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 43.294117647058826
+    },
+    {
+      "query": "259112-105",
+      "clicks": 0,
+      "impressions": 46,
+      "ctr": 0,
+      "position": 40.97826086956522
+    },
+    {
+      "query": "3.5x - 6 = x + 25.25",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 39
+    },
+    {
+      "query": "30x36x2 geothermal filter",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 66
+    },
+    {
+      "query": "5x1,760",
+      "clicks": 0,
+      "impressions": 58,
+      "ctr": 0,
+      "position": 6.586206896551724
+    },
+    {
+      "query": "800 duct",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 95.5
+    },
+    {
+      "query": "80lc canister",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 61
+    },
+    {
+      "query": "a better heating and air",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 33
+    },
+    {
+      "query": "a c and heating repair",
+      "clicks": 0,
+      "impressions": 67,
+      "ctr": 0,
+      "position": 46.28358208955224
+    },
+    {
+      "query": "a c and heating repair near me",
+      "clicks": 0,
+      "impressions": 129,
+      "ctr": 0,
+      "position": 64.42635658914729
+    },
+    {
+      "query": "a c and heating repair warwick",
+      "clicks": 0,
+      "impressions": 75,
+      "ctr": 0,
+      "position": 91.16
+    },
+    {
+      "query": "a c and heating service",
+      "clicks": 0,
+      "impressions": 38,
+      "ctr": 0,
+      "position": 86
+    },
+    {
+      "query": "a c companies near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 100
+    },
+    {
+      "query": "a c company near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 99
+    },
+    {
+      "query": "a c contractor",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 52
+    },
+    {
+      "query": "a c contractors near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 19.5
+    },
+    {
+      "query": "a c duct cleaning near me",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 58.25
+    },
+    {
+      "query": "a c heater repair near me",
+      "clicks": 0,
+      "impressions": 32,
+      "ctr": 0,
+      "position": 67.25
+    },
+    {
+      "query": "a c inspection",
+      "clicks": 0,
+      "impressions": 91,
+      "ctr": 0,
+      "position": 32.32967032967033
+    },
+    {
+      "query": "a c installation companies near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 62
+    },
+    {
+      "query": "a c installation near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 25
+    },
+    {
+      "query": "a c installers",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 76.125
+    },
+    {
+      "query": "a c repair companies",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 55
+    },
+    {
+      "query": "a c repairman",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 72
+    },
+    {
+      "query": "a c repairs near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 96
+    },
+    {
+      "query": "a c shop near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "a c specialist",
+      "clicks": 0,
+      "impressions": 31,
+      "ctr": 0,
+      "position": 82
+    },
+    {
+      "query": "a c specialist near me",
+      "clicks": 0,
+      "impressions": 28,
+      "ctr": 0,
+      "position": 46.42857142857143
+    },
+    {
+      "query": "a comfort heating and cooling",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 90.75
+    },
+    {
+      "query": "a heating and air conditioning repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 81
+    },
+    {
+      "query": "a plumbing near me",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 90
+    },
+    {
+      "query": "a quality heating and air",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 64
+    },
+    {
+      "query": "a superior ac",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 53.25
+    },
+    {
+      "query": "a superior air conditioning",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 73.14285714285714
+    },
+    {
+      "query": "a superior air conditioning company",
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 73.27777777777777
+    },
+    {
+      "query": "a superior air conditioning company reviews",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 34.5
+    },
+    {
+      "query": "a-11 air conditioning",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 90.33333333333333
+    },
+    {
+      "query": "a/c annual inspections",
+      "clicks": 0,
+      "impressions": 104,
+      "ctr": 0,
+      "position": 29.08653846153846
+    },
+    {
+      "query": "a/c company",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 63
+    },
+    {
+      "query": "a/c inspection",
+      "clicks": 0,
+      "impressions": 92,
+      "ctr": 0,
+      "position": 43.46739130434783
+    },
+    {
+      "query": "a/c repair",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 88
+    },
+    {
+      "query": "a/c repair and installations referral program",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 61.4
+    },
+    {
+      "query": "a/c repair companies",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 39.666666666666664
+    },
+    {
+      "query": "a/c repair services",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 86
+    },
+    {
+      "query": "a/c service & maintenance",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 89
+    },
+    {
+      "query": "a/c shops",
+      "clicks": 0,
+      "impressions": 32,
+      "ctr": 0,
+      "position": 69.4375
+    },
+    {
+      "query": "a/c specialist",
+      "clicks": 0,
+      "impressions": 109,
+      "ctr": 0,
+      "position": 80.78899082568807
+    },
+    {
+      "query": "a/c unit repair near me",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 98.5
+    },
+    {
+      "query": "a/c window unit repair",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 44.666666666666664
+    },
+    {
+      "query": "ac",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 3.5
+    },
+    {
+      "query": "ac & heat repair",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 73.2
+    },
+    {
+      "query": "ac & heat services",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 76.66666666666667
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:22:10.128Z"
 }

@@ -1,156 +1,16 @@
 {
   "property": "https://www.cellinolaw.com/",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 20439,
-    "impressions": 4216101,
-    "ctr": 0.004847844015122028,
-    "position": 18.665612827260922
+    "clicks": 19365,
+    "impressions": 4326829,
+    "ctr": 0.004475563975373189,
+    "position": 18.56044003216551
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 321,
-      "impressions": 53476,
-      "ctr": 0.006002692796768644,
-      "position": 16.144831326202407
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 267,
-      "impressions": 50806,
-      "ctr": 0.005255284808880841,
-      "position": 20.11839152855962
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 249,
-      "impressions": 42901,
-      "ctr": 0.0058040605114099905,
-      "position": 16.65735064450712
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 266,
-      "impressions": 55550,
-      "ctr": 0.004788478847884788,
-      "position": 15.851809180918092
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 254,
-      "impressions": 44928,
-      "ctr": 0.005653490028490029,
-      "position": 20.317107371794872
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 123,
-      "impressions": 39993,
-      "ctr": 0.003075538219188358,
-      "position": 20.000075013127297
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 301,
-      "impressions": 37884,
-      "ctr": 0.007945306725794531,
-      "position": 20.571138211382113
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 262,
-      "impressions": 60248,
-      "ctr": 0.004348692072765901,
-      "position": 13.488895896959235
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 216,
-      "impressions": 43728,
-      "ctr": 0.004939626783754116,
-      "position": 21.295805890962313
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 156,
-      "impressions": 36911,
-      "ctr": 0.004226382379236542,
-      "position": 22.341524206876
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 130,
-      "impressions": 30974,
-      "ctr": 0.004197068509072125,
-      "position": 21.774907987344225
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 178,
-      "impressions": 33851,
-      "ctr": 0.005258338010693924,
-      "position": 17.94883459868246
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 193,
-      "impressions": 38926,
-      "ctr": 0.0049581256743564716,
-      "position": 18.071314802445666
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 218,
-      "impressions": 39704,
-      "ctr": 0.005490630666935321,
-      "position": 19.23569413661092
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 307,
-      "impressions": 45735,
-      "ctr": 0.006712583360664699,
-      "position": 17.25794249480704
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 234,
-      "impressions": 47936,
-      "ctr": 0.004881508678237651,
-      "position": 19.71968875166889
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 225,
-      "impressions": 47156,
-      "ctr": 0.00477139706506065,
-      "position": 20.11249893968954
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 138,
-      "impressions": 42631,
-      "ctr": 0.003237080997396261,
-      "position": 22.644906288850837
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 255,
-      "impressions": 39290,
-      "ctr": 0.006490201068974293,
-      "position": 17.90160346144057
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 203,
-      "impressions": 35140,
-      "ctr": 0.005776892430278884,
-      "position": 18.36946499715424
-    },
     {
       "date": "2026-01-04",
       "clicks": 291,
@@ -640,711 +500,3314 @@
       "impressions": 35801,
       "ctr": 0.0032122007765146227,
       "position": 17.005139521242423
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 90,
+      "impressions": 34383,
+      "ctr": 0.0026175726376406945,
+      "position": 18.807986504958844
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 213,
+      "impressions": 59415,
+      "ctr": 0.00358495329462257,
+      "position": 12.421240427501473
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 193,
+      "impressions": 41538,
+      "ctr": 0.004646347922384323,
+      "position": 15.764119601328904
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 223,
+      "impressions": 44528,
+      "ctr": 0.005008084800574919,
+      "position": 16.293882500898313
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 232,
+      "impressions": 43368,
+      "ctr": 0.005349566500645637,
+      "position": 15.532881387197934
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 171,
+      "impressions": 43014,
+      "ctr": 0.003975449853536058,
+      "position": 16.97833263588599
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 114,
+      "impressions": 46261,
+      "ctr": 0.0024642787661312985,
+      "position": 17.967964376040293
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 119,
+      "impressions": 46167,
+      "ctr": 0.0025775987176987892,
+      "position": 18.791604392748066
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 212,
+      "impressions": 53376,
+      "ctr": 0.0039718225419664265,
+      "position": 15.639407224220623
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 200,
+      "impressions": 60483,
+      "ctr": 0.003306714283352347,
+      "position": 17.724071226625664
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 224,
+      "impressions": 57753,
+      "ctr": 0.0038785863937804096,
+      "position": 18.79133551503818
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 188,
+      "impressions": 56769,
+      "ctr": 0.0033116665785904277,
+      "position": 19.240941358840214
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 182,
+      "impressions": 50206,
+      "ctr": 0.0036250647332988087,
+      "position": 19.733896347050152
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 118,
+      "impressions": 54543,
+      "ctr": 0.0021634306877142805,
+      "position": 21.74126835707607
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 103,
+      "impressions": 53099,
+      "ctr": 0.0019397728770786645,
+      "position": 23.533983690841634
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 199,
+      "impressions": 55428,
+      "ctr": 0.0035902431983834884,
+      "position": 22.193187558634627
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 168,
+      "impressions": 45330,
+      "ctr": 0.0037061548643282593,
+      "position": 17.892190602250164
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 176,
+      "impressions": 41109,
+      "ctr": 0.004281300931669464,
+      "position": 20.45019338830913
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 118,
+      "impressions": 32226,
+      "ctr": 0.003661639669831813,
+      "position": 18.882703407186742
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 110,
+      "impressions": 31150,
+      "ctr": 0.003531300160513644,
+      "position": 21.355120385232745
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 69,
+      "impressions": 28350,
+      "ctr": 0.002433862433862434,
+      "position": 19.182363315696648
     }
   ],
   "topQueries": [
     {
       "query": "cellino law",
-      "clicks": 2112,
-      "impressions": 8837,
-      "ctr": 0.2389951340952812,
-      "position": 1.9751046735317415
+      "clicks": 2142,
+      "impressions": 8815,
+      "ctr": 0.24299489506522973,
+      "position": 2.185819625638117
     },
     {
       "query": "cellino law buffalo",
-      "clicks": 349,
-      "impressions": 1356,
-      "ctr": 0.25737463126843657,
-      "position": 1.7109144542772863
+      "clicks": 336,
+      "impressions": 1328,
+      "ctr": 0.25301204819277107,
+      "position": 1.3305722891566265
     },
     {
       "query": "cellino law firm",
-      "clicks": 271,
-      "impressions": 1192,
-      "ctr": 0.2273489932885906,
-      "position": 3.25755033557047
-    },
-    {
-      "query": "cellino law accident attorneys",
-      "clicks": 254,
-      "impressions": 2690,
-      "ctr": 0.09442379182156134,
-      "position": 3.4933085501858736
-    },
-    {
-      "query": "cellino law attorneys",
-      "clicks": 228,
-      "impressions": 719,
-      "ctr": 0.31710709318497915,
-      "position": 2.3713490959666204
-    },
-    {
-      "query": "cellino law new york",
-      "clicks": 224,
-      "impressions": 669,
-      "ctr": 0.33482810164424515,
-      "position": 1.6472346786248133
-    },
-    {
-      "query": "cellino law reviews",
-      "clicks": 223,
-      "impressions": 801,
-      "ctr": 0.2784019975031211,
-      "position": 2.449438202247191
-    },
-    {
-      "query": "cellino law personal injury attorney",
-      "clicks": 220,
-      "impressions": 672,
-      "ctr": 0.3273809523809524,
-      "position": 1.1235119047619047
+      "clicks": 215,
+      "impressions": 1043,
+      "ctr": 0.20613614573346117,
+      "position": 3.7085330776605945
     },
     {
       "query": "cellino and barnes",
-      "clicks": 216,
-      "impressions": 13959,
-      "ctr": 0.015473887814313346,
-      "position": 5.040189125295508
-    },
-    {
-      "query": "cellino law manhattan",
-      "clicks": 216,
-      "impressions": 691,
-      "ctr": 0.3125904486251809,
-      "position": 1.675832127351664
-    },
-    {
-      "query": "cellino law personal injury lawyers",
-      "clicks": 213,
-      "impressions": 635,
-      "ctr": 0.3354330708661417,
-      "position": 1.2960629921259843
+      "clicks": 206,
+      "impressions": 13277,
+      "ctr": 0.01551555321232206,
+      "position": 4.738269187316412
     },
     {
       "query": "ross cellino",
-      "clicks": 213,
-      "impressions": 2237,
-      "ctr": 0.09521680822530175,
-      "position": 1.708985248100134
+      "clicks": 194,
+      "impressions": 2141,
+      "ctr": 0.09061186361513311,
+      "position": 1.6833255488089678
     },
     {
-      "query": "cellino law car accident attorney",
-      "clicks": 205,
-      "impressions": 634,
-      "ctr": 0.32334384858044163,
-      "position": 1.6324921135646688
+      "query": "cellino law accident attorneys",
+      "clicks": 183,
+      "impressions": 2136,
+      "ctr": 0.08567415730337079,
+      "position": 4.323033707865168
+    },
+    {
+      "query": "cellino law attorneys",
+      "clicks": 165,
+      "impressions": 521,
+      "ctr": 0.31669865642994244,
+      "position": 2.205374280230326
     },
     {
       "query": "celino law",
-      "clicks": 160,
-      "impressions": 721,
-      "ctr": 0.22191400832177532,
-      "position": 1.6851595006934814
+      "clicks": 161,
+      "impressions": 743,
+      "ctr": 0.21668909825033647,
+      "position": 1.5679676985195155
+    },
+    {
+      "query": "cellino law personal injury attorney",
+      "clicks": 159,
+      "impressions": 489,
+      "ctr": 0.32515337423312884,
+      "position": 1.1697341513292434
+    },
+    {
+      "query": "cellino law reviews",
+      "clicks": 159,
+      "impressions": 617,
+      "ctr": 0.2576985413290113,
+      "position": 2.9238249594813617
+    },
+    {
+      "query": "cellino law new york",
+      "clicks": 157,
+      "impressions": 490,
+      "ctr": 0.32040816326530613,
+      "position": 2.046938775510204
+    },
+    {
+      "query": "cellino law manhattan",
+      "clicks": 156,
+      "impressions": 533,
+      "ctr": 0.2926829268292683,
+      "position": 2.803001876172608
+    },
+    {
+      "query": "cellino law personal injury lawyers",
+      "clicks": 150,
+      "impressions": 473,
+      "ctr": 0.3171247357293869,
+      "position": 1.4059196617336152
+    },
+    {
+      "query": "cellino law car accident attorney",
+      "clicks": 146,
+      "impressions": 469,
+      "ctr": 0.31130063965884863,
+      "position": 2.8315565031982945
     },
     {
       "query": "knox mansion",
-      "clicks": 136,
-      "impressions": 838,
-      "ctr": 0.162291169451074,
-      "position": 2.770883054892601
-    },
-    {
-      "query": "jeanna cellino",
-      "clicks": 120,
-      "impressions": 433,
-      "ctr": 0.27713625866050806,
-      "position": 1.9722863741339491
+      "clicks": 124,
+      "impressions": 753,
+      "ctr": 0.1646746347941567,
+      "position": 2.592297476759628
     },
     {
       "query": "cellino law rochester",
-      "clicks": 113,
-      "impressions": 810,
-      "ctr": 0.13950617283950617,
-      "position": 1.5049382716049382
+      "clicks": 104,
+      "impressions": 792,
+      "ctr": 0.13131313131313133,
+      "position": 2.1351010101010104
+    },
+    {
+      "query": "jeanna cellino",
+      "clicks": 104,
+      "impressions": 350,
+      "ctr": 0.29714285714285715,
+      "position": 2.145714285714286
     },
     {
       "query": "knox mansion buffalo",
-      "clicks": 104,
-      "impressions": 423,
-      "ctr": 0.2458628841607565,
-      "position": 2.430260047281324
+      "clicks": 84,
+      "impressions": 359,
+      "ctr": 0.233983286908078,
+      "position": 2.6128133704735377
     },
     {
       "query": "brigitte cellino",
-      "clicks": 102,
-      "impressions": 487,
-      "ctr": 0.20944558521560575,
-      "position": 2.055441478439425
-    },
-    {
-      "query": "gina cellino",
-      "clicks": 101,
-      "impressions": 219,
-      "ctr": 0.4611872146118721,
-      "position": 1.634703196347032
-    },
-    {
-      "query": "knox mansion tours",
       "clicks": 79,
-      "impressions": 225,
-      "ctr": 0.3511111111111111,
-      "position": 2.062222222222222
+      "impressions": 387,
+      "ctr": 0.2041343669250646,
+      "position": 3.147286821705426
     },
     {
       "query": "cellino",
-      "clicks": 71,
-      "impressions": 2896,
-      "ctr": 0.02451657458563536,
-      "position": 6.342541436464089
-    },
-    {
-      "query": "888-888-8888",
-      "clicks": 68,
-      "impressions": 1214,
-      "ctr": 0.05601317957166392,
-      "position": 2.8220757825370675
+      "clicks": 78,
+      "impressions": 3011,
+      "ctr": 0.02590501494520093,
+      "position": 6.286615742278313
     },
     {
       "query": "cellino law llp",
-      "clicks": 67,
-      "impressions": 152,
-      "ctr": 0.4407894736842105,
-      "position": 1.3289473684210527
+      "clicks": 68,
+      "impressions": 162,
+      "ctr": 0.41975308641975306,
+      "position": 2.049382716049383
     },
     {
-      "query": "celino",
-      "clicks": 62,
-      "impressions": 599,
-      "ctr": 0.10350584307178631,
-      "position": 2.8247078464106847
+      "query": "knox mansion tours",
+      "clicks": 65,
+      "impressions": 207,
+      "ctr": 0.3140096618357488,
+      "position": 2.9565217391304346
     },
     {
       "query": "cellino law lawyers",
-      "clicks": 62,
-      "impressions": 112,
-      "ctr": 0.5535714285714286,
-      "position": 1.0446428571428572
+      "clicks": 60,
+      "impressions": 117,
+      "ctr": 0.5128205128205128,
+      "position": 1.0341880341880343
     },
     {
-      "query": "charles polevich",
-      "clicks": 57,
-      "impressions": 746,
-      "ctr": 0.07640750670241286,
-      "position": 3.485254691689008
+      "query": "888-888-8888",
+      "clicks": 58,
+      "impressions": 1296,
+      "ctr": 0.044753086419753084,
+      "position": 2.7299382716049383
     },
     {
       "query": "cellino law nyc",
+      "clicks": 50,
+      "impressions": 311,
+      "ctr": 0.1607717041800643,
+      "position": 2.581993569131833
+    },
+    {
+      "query": "celino",
       "clicks": 49,
-      "impressions": 365,
-      "ctr": 0.13424657534246576,
-      "position": 2.2575342465753425
+      "impressions": 666,
+      "ctr": 0.07357357357357357,
+      "position": 3.0105105105105103
     },
     {
       "query": "knox mansion buffalo ny",
-      "clicks": 45,
-      "impressions": 199,
-      "ctr": 0.22613065326633167,
-      "position": 2.035175879396985
+      "clicks": 47,
+      "impressions": 221,
+      "ctr": 0.21266968325791855,
+      "position": 2.723981900452489
     },
     {
       "query": "cellinolaw",
-      "clicks": 37,
-      "impressions": 102,
-      "ctr": 0.3627450980392157,
-      "position": 5.862745098039215
+      "clicks": 39,
+      "impressions": 110,
+      "ctr": 0.35454545454545455,
+      "position": 7.254545454545455
     },
     {
       "query": "ross celino",
-      "clicks": 37,
-      "impressions": 172,
-      "ctr": 0.21511627906976744,
-      "position": 3.377906976744186
+      "clicks": 32,
+      "impressions": 160,
+      "ctr": 0.2,
+      "position": 5.325
     },
     {
-      "query": "cellino law personal injury lawyer manhattan",
-      "clicks": 36,
-      "impressions": 36,
-      "ctr": 1,
-      "position": 1
-    },
-    {
-      "query": "ross cellino wife",
-      "clicks": 34,
-      "impressions": 392,
-      "ctr": 0.08673469387755102,
-      "position": 2.3392857142857144
-    },
-    {
-      "query": "cellino law accident attorneys reviews",
-      "clicks": 29,
-      "impressions": 818,
-      "ctr": 0.035452322738386305,
-      "position": 3.3312958435207825
+      "query": "cellino law melville",
+      "clicks": 30,
+      "impressions": 518,
+      "ctr": 0.05791505791505792,
+      "position": 2.7355212355212357
     },
     {
       "query": "maria pavlatos",
-      "clicks": 29,
-      "impressions": 100,
-      "ctr": 0.29,
-      "position": 1.31
+      "clicks": 28,
+      "impressions": 95,
+      "ctr": 0.29473684210526313,
+      "position": 1
     },
     {
       "query": "888 888 8888",
       "clicks": 27,
-      "impressions": 310,
-      "ctr": 0.08709677419354839,
-      "position": 3.8419354838709676
+      "impressions": 320,
+      "ctr": 0.084375,
+      "position": 3.384375
     },
     {
       "query": "cellino law buffalo ny",
-      "clicks": 27,
-      "impressions": 145,
-      "ctr": 0.18620689655172415,
-      "position": 1.386206896551724
+      "clicks": 26,
+      "impressions": 147,
+      "ctr": 0.17687074829931973,
+      "position": 1.380952380952381
     },
     {
-      "query": "fatal car accident on old country road in westbury today",
-      "clicks": 27,
-      "impressions": 252,
-      "ctr": 0.10714285714285714,
-      "position": 2.138888888888889
+      "query": "ross cellino wife",
+      "clicks": 26,
+      "impressions": 335,
+      "ctr": 0.07761194029850746,
+      "position": 2.1940298507462686
     },
     {
       "query": "celino and barnes",
-      "clicks": 26,
-      "impressions": 1644,
-      "ctr": 0.015815085158150853,
-      "position": 5.035888077858881
-    },
-    {
-      "query": "cellino law knox mansion",
       "clicks": 25,
-      "impressions": 38,
-      "ctr": 0.6578947368421053,
-      "position": 1.0263157894736843
-    },
-    {
-      "query": "cellino law melville",
-      "clicks": 25,
-      "impressions": 486,
-      "ctr": 0.051440329218107,
-      "position": 1.9938271604938271
+      "impressions": 1623,
+      "ctr": 0.015403573629081947,
+      "position": 4.811460258780037
     },
     {
       "query": "cellino & barnes",
-      "clicks": 23,
-      "impressions": 639,
-      "ctr": 0.03599374021909233,
-      "position": 5.117370892018779
+      "clicks": 25,
+      "impressions": 698,
+      "ctr": 0.03581661891117478,
+      "position": 5.106017191977077
     },
     {
-      "query": "cellino law rochester ny",
-      "clicks": 23,
-      "impressions": 126,
-      "ctr": 0.18253968253968253,
-      "position": 9.38888888888889
-    },
-    {
-      "query": "bridget cellino",
-      "clicks": 22,
-      "impressions": 87,
-      "ctr": 0.25287356321839083,
-      "position": 1.5977011494252875
-    },
-    {
-      "query": "cellino and barnes injury attorneys",
-      "clicks": 21,
-      "impressions": 342,
-      "ctr": 0.06140350877192982,
-      "position": 1.1637426900584795
-    },
-    {
-      "query": "cellino law bridgeport ct",
-      "clicks": 21,
-      "impressions": 57,
-      "ctr": 0.3684210526315789,
-      "position": 1.0526315789473684
-    },
-    {
-      "query": "gina cellino lawyer",
-      "clicks": 21,
-      "impressions": 43,
-      "ctr": 0.4883720930232558,
+      "query": "cellino law personal injury lawyer manhattan",
+      "clicks": 25,
+      "impressions": 25,
+      "ctr": 1,
       "position": 1
     },
     {
-      "query": "tim cellino",
-      "clicks": 21,
-      "impressions": 85,
-      "ctr": 0.24705882352941178,
-      "position": 5.576470588235294
+      "query": "charles polevich",
+      "clicks": 25,
+      "impressions": 489,
+      "ctr": 0.05112474437627812,
+      "position": 4.582822085889571
     },
     {
-      "query": "celino law firm",
-      "clicks": 20,
-      "impressions": 99,
-      "ctr": 0.20202020202020202,
-      "position": 1.6464646464646466
+      "query": "gina cellino",
+      "clicks": 25,
+      "impressions": 61,
+      "ctr": 0.4098360655737705,
+      "position": 2.475409836065574
+    },
+    {
+      "query": "cellino law rochester ny",
+      "clicks": 24,
+      "impressions": 134,
+      "ctr": 0.1791044776119403,
+      "position": 5.432835820895522
+    },
+    {
+      "query": "cellino law bridgeport ct",
+      "clicks": 23,
+      "impressions": 56,
+      "ctr": 0.4107142857142857,
+      "position": 1.0178571428571428
     },
     {
       "query": "cellini law",
+      "clicks": 22,
+      "impressions": 62,
+      "ctr": 0.3548387096774194,
+      "position": 1.1129032258064515
+    },
+    {
+      "query": "cellino law accident attorneys reviews",
+      "clicks": 22,
+      "impressions": 743,
+      "ctr": 0.029609690444145357,
+      "position": 2.756393001345895
+    },
+    {
+      "query": "menabrak anjing di jalan pertanda apa",
+      "clicks": 22,
+      "impressions": 396,
+      "ctr": 0.05555555555555555,
+      "position": 2.1186868686868685
+    },
+    {
+      "query": "timothy cellino",
+      "clicks": 22,
+      "impressions": 101,
+      "ctr": 0.21782178217821782,
+      "position": 7.861386138613861
+    },
+    {
+      "query": "ross cellino jr",
+      "clicks": 20,
+      "impressions": 189,
+      "ctr": 0.10582010582010581,
+      "position": 3.6507936507936507
+    },
+    {
+      "query": "celino law firm",
       "clicks": 19,
-      "impressions": 67,
-      "ctr": 0.2835820895522388,
-      "position": 1.2238805970149254
+      "impressions": 115,
+      "ctr": 0.16521739130434782,
+      "position": 5.6173913043478265
+    },
+    {
+      "query": "cellino firm",
+      "clicks": 19,
+      "impressions": 85,
+      "ctr": 0.2235294117647059,
+      "position": 1.0470588235294118
+    },
+    {
+      "query": "tim cellino",
+      "clicks": 19,
+      "impressions": 72,
+      "ctr": 0.2638888888888889,
+      "position": 6.402777777777778
+    },
+    {
+      "query": "cellino and barnes injury attorneys",
+      "clicks": 18,
+      "impressions": 299,
+      "ctr": 0.06020066889632107,
+      "position": 1.140468227424749
+    },
+    {
+      "query": "cellino law injury attorneys",
+      "clicks": 18,
+      "impressions": 143,
+      "ctr": 0.1258741258741259,
+      "position": 1.3006993006993006
+    },
+    {
+      "query": "cellino law knox mansion",
+      "clicks": 18,
+      "impressions": 27,
+      "ctr": 0.6666666666666666,
+      "position": 1.037037037037037
+    },
+    {
+      "query": "annmarie cellino",
+      "clicks": 17,
+      "impressions": 79,
+      "ctr": 0.21518987341772153,
+      "position": 1
+    },
+    {
+      "query": "ross cellino children",
+      "clicks": 17,
+      "impressions": 463,
+      "ctr": 0.0367170626349892,
+      "position": 2.915766738660907
+    },
+    {
+      "query": "800 delaware ave buffalo ny",
+      "clicks": 16,
+      "impressions": 205,
+      "ctr": 0.07804878048780488,
+      "position": 3.770731707317073
+    },
+    {
+      "query": "cellino law firm buffalo ny",
+      "clicks": 16,
+      "impressions": 56,
+      "ctr": 0.2857142857142857,
+      "position": 2.5357142857142856
+    },
+    {
+      "query": "ross cellino daughter",
+      "clicks": 16,
+      "impressions": 176,
+      "ctr": 0.09090909090909091,
+      "position": 1.0113636363636365
+    },
+    {
+      "query": "cellino lawyers",
+      "clicks": 15,
+      "impressions": 52,
+      "ctr": 0.28846153846153844,
+      "position": 1.0192307692307692
+    },
+    {
+      "query": "the knox mansion",
+      "clicks": 15,
+      "impressions": 163,
+      "ctr": 0.09202453987730061,
+      "position": 3.4355828220858897
+    },
+    {
+      "query": "anna marie cellino",
+      "clicks": 14,
+      "impressions": 65,
+      "ctr": 0.2153846153846154,
+      "position": 1.5846153846153848
+    },
+    {
+      "query": "carolea goldfarb",
+      "clicks": 14,
+      "impressions": 69,
+      "ctr": 0.2028985507246377,
+      "position": 1.391304347826087
+    },
+    {
+      "query": "menabrak anjing tidak sengaja pertanda apa",
+      "clicks": 14,
+      "impressions": 257,
+      "ctr": 0.054474708171206226,
+      "position": 2.9766536964980546
+    },
+    {
+      "query": "मोटरसाइकिल से एक्सीडेंट होने पर कौन सी धारा लगती है",
+      "clicks": 14,
+      "impressions": 551,
+      "ctr": 0.025408348457350273,
+      "position": 4.745916515426497
+    },
+    {
+      "query": "cellino attorney",
+      "clicks": 13,
+      "impressions": 74,
+      "ctr": 0.17567567567567569,
+      "position": 7.175675675675675
+    },
+    {
+      "query": "cellino law careers",
+      "clicks": 13,
+      "impressions": 18,
+      "ctr": 0.7222222222222222,
+      "position": 1
+    },
+    {
+      "query": "mark kochanowicz",
+      "clicks": 13,
+      "impressions": 73,
+      "ctr": 0.1780821917808219,
+      "position": 5.041095890410959
+    },
+    {
+      "query": "casey fundaro",
+      "clicks": 12,
+      "impressions": 44,
+      "ctr": 0.2727272727272727,
+      "position": 2
+    },
+    {
+      "query": "fatal car accident on old country road in westbury today",
+      "clicks": 12,
+      "impressions": 149,
+      "ctr": 0.08053691275167785,
+      "position": 2.8322147651006713
+    },
+    {
+      "query": "personal injury lawyer manhattan",
+      "clicks": 12,
+      "impressions": 1610,
+      "ctr": 0.007453416149068323,
+      "position": 34.155900621118015
+    },
+    {
+      "query": "8008888888",
+      "clicks": 11,
+      "impressions": 204,
+      "ctr": 0.05392156862745098,
+      "position": 2.4705882352941178
+    },
+    {
+      "query": "cellino law accident attorneys photos",
+      "clicks": 11,
+      "impressions": 85,
+      "ctr": 0.12941176470588237,
+      "position": 6.188235294117647
+    },
+    {
+      "query": "the knox mansion photos",
+      "clicks": 11,
+      "impressions": 69,
+      "ctr": 0.15942028985507245,
+      "position": 2.057971014492754
+    },
+    {
+      "query": "cellino and cellino",
+      "clicks": 10,
+      "impressions": 45,
+      "ctr": 0.2222222222222222,
+      "position": 1.1555555555555554
+    },
+    {
+      "query": "cellino law, llp",
+      "clicks": 10,
+      "impressions": 412,
+      "ctr": 0.024271844660194174,
+      "position": 1.3495145631067962
+    },
+    {
+      "query": "mrs seymour h knox house photos",
+      "clicks": 10,
+      "impressions": 118,
+      "ctr": 0.0847457627118644,
+      "position": 2.7372881355932206
+    },
+    {
+      "query": "brittany brideau",
+      "clicks": 9,
+      "impressions": 70,
+      "ctr": 0.12857142857142856,
+      "position": 1.5714285714285714
+    },
+    {
+      "query": "cellino & barnes law firm",
+      "clicks": 9,
+      "impressions": 282,
+      "ctr": 0.031914893617021274,
+      "position": 2.5319148936170213
+    },
+    {
+      "query": "cellino injury attorney",
+      "clicks": 9,
+      "impressions": 74,
+      "ctr": 0.12162162162162163,
+      "position": 1.0675675675675675
+    },
+    {
+      "query": "david cannone",
+      "clicks": 9,
+      "impressions": 120,
+      "ctr": 0.075,
+      "position": 6.116666666666666
+    },
+    {
+      "query": "do you have to accept insurance offer on totaled car",
+      "clicks": 9,
+      "impressions": 351,
+      "ctr": 0.02564102564102564,
+      "position": 3.2792022792022792
+    },
+    {
+      "query": "my car was hit and their insurance won t pay full amount",
+      "clicks": 9,
+      "impressions": 471,
+      "ctr": 0.01910828025477707,
+      "position": 4.273885350318471
+    },
+    {
+      "query": "personal injury attorney rochester ny",
+      "clicks": 9,
+      "impressions": 694,
+      "ctr": 0.012968299711815562,
+      "position": 13.904899135446685
+    },
+    {
+      "query": "selena law",
+      "clicks": 9,
+      "impressions": 197,
+      "ctr": 0.04568527918781726,
+      "position": 2.0101522842639596
+    },
+    {
+      "query": "bridget cellino",
+      "clicks": 8,
+      "impressions": 21,
+      "ctr": 0.38095238095238093,
+      "position": 1
+    },
+    {
+      "query": "gina cellino lawyer",
+      "clicks": 8,
+      "impressions": 12,
+      "ctr": 0.6666666666666666,
+      "position": 1
+    },
+    {
+      "query": "ny comparative negligence law",
+      "clicks": 8,
+      "impressions": 271,
+      "ctr": 0.02952029520295203,
+      "position": 7.044280442804428
+    },
+    {
+      "query": "robert voltz",
+      "clicks": 8,
+      "impressions": 98,
+      "ctr": 0.08163265306122448,
+      "position": 1.183673469387755
+    },
+    {
+      "query": "what is supplemental spousal liability insurance",
+      "clicks": 8,
+      "impressions": 293,
+      "ctr": 0.027303754266211604,
+      "position": 2.6860068259385663
+    },
+    {
+      "query": "1-888-888-8888",
+      "clicks": 7,
+      "impressions": 229,
+      "ctr": 0.03056768558951965,
+      "position": 4.506550218340611
+    },
+    {
+      "query": "800-888-8888",
+      "clicks": 7,
+      "impressions": 215,
+      "ctr": 0.03255813953488372,
+      "position": 3.116279069767442
+    },
+    {
+      "query": "can i sue a towing company for damaging my car",
+      "clicks": 7,
+      "impressions": 463,
+      "ctr": 0.01511879049676026,
+      "position": 3.3434125269978403
+    },
+    {
+      "query": "can you die from a head injury years later",
+      "clicks": 7,
+      "impressions": 2533,
+      "ctr": 0.0027635215159889457,
+      "position": 4.6506119226213976
+    },
+    {
+      "query": "can you sue a towing company for damaging your car",
+      "clicks": 7,
+      "impressions": 189,
+      "ctr": 0.037037037037037035,
+      "position": 2.079365079365079
+    },
+    {
+      "query": "cellino and barnes law firm",
+      "clicks": 7,
+      "impressions": 141,
+      "ctr": 0.04964539007092199,
+      "position": 1.7234042553191489
+    },
+    {
+      "query": "cellino daughter",
+      "clicks": 7,
+      "impressions": 29,
+      "ctr": 0.2413793103448276,
+      "position": 1.3793103448275863
+    },
+    {
+      "query": "cellino lawyer",
+      "clicks": 7,
+      "impressions": 231,
+      "ctr": 0.030303030303030304,
+      "position": 2.878787878787879
+    },
+    {
+      "query": "do i need supplemental spousal liability insurance",
+      "clicks": 7,
+      "impressions": 140,
+      "ctr": 0.05,
+      "position": 3.7214285714285715
+    },
+    {
+      "query": "is brake checking illegal",
+      "clicks": 7,
+      "impressions": 412,
+      "ctr": 0.01699029126213592,
+      "position": 7.036407766990291
+    },
+    {
+      "query": "malpractice lawyer",
+      "clicks": 7,
+      "impressions": 202,
+      "ctr": 0.034653465346534656,
+      "position": 2.599009900990099
+    },
+    {
+      "query": "manual distractions while driving",
+      "clicks": 7,
+      "impressions": 595,
+      "ctr": 0.011764705882352941,
+      "position": 1.5680672268907563
+    },
+    {
+      "query": "nys school bus stop laws",
+      "clicks": 7,
+      "impressions": 141,
+      "ctr": 0.04964539007092199,
+      "position": 4.141843971631205
+    },
+    {
+      "query": "personal injury law firms in new york",
+      "clicks": 7,
+      "impressions": 90,
+      "ctr": 0.07777777777777778,
+      "position": 9
+    },
+    {
+      "query": "personal injury lawyer new york",
+      "clicks": 7,
+      "impressions": 4791,
+      "ctr": 0.0014610728449175538,
+      "position": 15.609893550407014
+    },
+    {
+      "query": "slip and fall lawyers",
+      "clicks": 7,
+      "impressions": 34839,
+      "ctr": 0.00020092425155716296,
+      "position": 34.826946812480266
+    },
+    {
+      "query": "supplemental spousal liability insurance",
+      "clicks": 7,
+      "impressions": 449,
+      "ctr": 0.015590200445434299,
+      "position": 2.5657015590200443
+    },
+    {
+      "query": "workers comp lawyer",
+      "clicks": 7,
+      "impressions": 375,
+      "ctr": 0.018666666666666668,
+      "position": 8.693333333333333
+    },
+    {
+      "query": "(888) 888-8888",
+      "clicks": 6,
+      "impressions": 470,
+      "ctr": 0.01276595744680851,
+      "position": 2.4659574468085106
+    },
+    {
+      "query": "bridgette cellino",
+      "clicks": 6,
+      "impressions": 36,
+      "ctr": 0.16666666666666666,
+      "position": 3.2777777777777777
+    },
+    {
+      "query": "car accident lawyer",
+      "clicks": 6,
+      "impressions": 35269,
+      "ctr": 0.0001701210694944569,
+      "position": 11.340100371431001
+    },
+    {
+      "query": "cellino barnes",
+      "clicks": 6,
+      "impressions": 497,
+      "ctr": 0.012072434607645875,
+      "position": 7.597585513078471
+    },
+    {
+      "query": "cellino law accident attorneys new york",
+      "clicks": 6,
+      "impressions": 488,
+      "ctr": 0.012295081967213115,
+      "position": 1.2049180327868854
+    },
+    {
+      "query": "cellino law accident attorneys services",
+      "clicks": 6,
+      "impressions": 6,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "cellinolaw.com",
+      "clicks": 6,
+      "impressions": 1425,
+      "ctr": 0.004210526315789474,
+      "position": 1.2821052631578946
+    },
+    {
+      "query": "christina cora",
+      "clicks": 6,
+      "impressions": 23,
+      "ctr": 0.2608695652173913,
+      "position": 2.2608695652173916
+    },
+    {
+      "query": "if a dog runs in front of your car who is responsible",
+      "clicks": 6,
+      "impressions": 180,
+      "ctr": 0.03333333333333333,
+      "position": 2.011111111111111
+    },
+    {
+      "query": "joshua sandberg",
+      "clicks": 6,
+      "impressions": 41,
+      "ctr": 0.14634146341463414,
+      "position": 1.048780487804878
+    },
+    {
+      "query": "manhattan personal injury attorney",
+      "clicks": 6,
+      "impressions": 592,
+      "ctr": 0.010135135135135136,
+      "position": 45.56587837837838
+    },
+    {
+      "query": "medical malpractice lawyers buffalo ny",
+      "clicks": 6,
+      "impressions": 243,
+      "ctr": 0.024691358024691357,
+      "position": 6.094650205761317
+    },
+    {
+      "query": "menabrak anjing pertanda apa",
+      "clicks": 6,
+      "impressions": 104,
+      "ctr": 0.057692307692307696,
+      "position": 2.3173076923076925
+    },
+    {
+      "query": "mrs. seymour h. knox house",
+      "clicks": 6,
+      "impressions": 41,
+      "ctr": 0.14634146341463414,
+      "position": 2.2439024390243905
+    },
+    {
+      "query": "personal injury lawyer nyc",
+      "clicks": 6,
+      "impressions": 2634,
+      "ctr": 0.002277904328018223,
+      "position": 27.369779802581625
+    },
+    {
+      "query": "ross cellino jr.",
+      "clicks": 6,
+      "impressions": 30,
+      "ctr": 0.2,
+      "position": 1.2666666666666666
+    },
+    {
+      "query": "allan silverstein",
+      "clicks": 5,
+      "impressions": 68,
+      "ctr": 0.07352941176470588,
+      "position": 2.0882352941176467
+    },
+    {
+      "query": "ann marie cellino",
+      "clicks": 5,
+      "impressions": 19,
+      "ctr": 0.2631578947368421,
+      "position": 1
+    },
+    {
+      "query": "can you sue a towing company for damages",
+      "clicks": 5,
+      "impressions": 89,
+      "ctr": 0.056179775280898875,
+      "position": 3.393258426966292
+    },
+    {
+      "query": "description of accident for insurance sample",
+      "clicks": 5,
+      "impressions": 161,
+      "ctr": 0.031055900621118012,
+      "position": 2.329192546583851
+    },
+    {
+      "query": "how does workers comp work in ny",
+      "clicks": 5,
+      "impressions": 909,
+      "ctr": 0.005500550055005501,
+      "position": 6.715071507150715
+    },
+    {
+      "query": "if a tow truck damages your car are they liable",
+      "clicks": 5,
+      "impressions": 516,
+      "ctr": 0.009689922480620155,
+      "position": 3.9302325581395348
+    },
+    {
+      "query": "menabrak anjing tidak sengaja",
+      "clicks": 5,
+      "impressions": 170,
+      "ctr": 0.029411764705882353,
+      "position": 4.4
+    },
+    {
+      "query": "personal injury",
+      "clicks": 5,
+      "impressions": 7697,
+      "ctr": 0.0006496037417175523,
+      "position": 18.460698973626087
+    },
+    {
+      "query": "personal injury lawyer",
+      "clicks": 5,
+      "impressions": 35118,
+      "ctr": 0.00014237712853807163,
+      "position": 9.324050344552651
+    },
+    {
+      "query": "personal injury lawyer buffalo ny",
+      "clicks": 5,
+      "impressions": 1893,
+      "ctr": 0.002641310089804543,
+      "position": 8.146856840993133
+    },
+    {
+      "query": "personal injury lawyer rochester ny",
+      "clicks": 5,
+      "impressions": 479,
+      "ctr": 0.010438413361169102,
+      "position": 18.1482254697286
+    },
+    {
+      "query": "slip and fall attorneys near me",
+      "clicks": 5,
+      "impressions": 1482,
+      "ctr": 0.0033738191632928477,
+      "position": 34.30971659919028
+    },
+    {
+      "query": "spousal liability coverage ny",
+      "clicks": 5,
+      "impressions": 119,
+      "ctr": 0.04201680672268908,
+      "position": 2.310924369747899
+    },
+    {
+      "query": "stephanie jaramillo car accident",
+      "clicks": 5,
+      "impressions": 35,
+      "ctr": 0.14285714285714285,
+      "position": 1.0285714285714285
+    },
+    {
+      "query": "what kind of lawyer do i need to sue a towing company",
+      "clicks": 5,
+      "impressions": 222,
+      "ctr": 0.02252252252252252,
+      "position": 1.599099099099099
+    },
+    {
+      "query": "800 delaware ave",
+      "clicks": 4,
+      "impressions": 41,
+      "ctr": 0.0975609756097561,
+      "position": 4.2926829268292686
+    },
+    {
+      "query": "844-311-0406",
+      "clicks": 4,
+      "impressions": 555,
+      "ctr": 0.007207207207207207,
+      "position": 7.308108108108108
+    },
+    {
+      "query": "888-8888",
+      "clicks": 4,
+      "impressions": 277,
+      "ctr": 0.01444043321299639,
+      "position": 4.288808664259928
+    },
+    {
+      "query": "accident in bennington, vt today",
+      "clicks": 4,
+      "impressions": 85,
+      "ctr": 0.047058823529411764,
+      "position": 4.741176470588235
+    },
+    {
+      "query": "brake checking illegal",
+      "clicks": 4,
+      "impressions": 109,
+      "ctr": 0.03669724770642202,
+      "position": 13.706422018348624
+    },
+    {
+      "query": "cellino law accident attorneys manhattan ny",
+      "clicks": 4,
+      "impressions": 124,
+      "ctr": 0.03225806451612903,
+      "position": 1.0080645161290323
+    },
+    {
+      "query": "cellino law ct",
+      "clicks": 4,
+      "impressions": 10,
+      "ctr": 0.4,
+      "position": 1
+    },
+    {
+      "query": "cellino law google reviews",
+      "clicks": 4,
+      "impressions": 24,
+      "ctr": 0.16666666666666666,
+      "position": 1.0833333333333333
+    },
+    {
+      "query": "cellino law personal injury lawyer",
+      "clicks": 4,
+      "impressions": 16,
+      "ctr": 0.25,
+      "position": 1
+    },
+    {
+      "query": "cellino law phone number",
+      "clicks": 4,
+      "impressions": 149,
+      "ctr": 0.026845637583892617,
+      "position": 4.7114093959731544
+    },
+    {
+      "query": "desire louree",
+      "clicks": 4,
+      "impressions": 26,
+      "ctr": 0.15384615384615385,
+      "position": 4.1923076923076925
+    },
+    {
+      "query": "erin skuce",
+      "clicks": 4,
+      "impressions": 18,
+      "ctr": 0.2222222222222222,
+      "position": 1.4444444444444444
+    },
+    {
+      "query": "jenna cellino",
+      "clicks": 4,
+      "impressions": 5,
+      "ctr": 0.8,
+      "position": 1
+    },
+    {
+      "query": "law firms in buffalo ny",
+      "clicks": 4,
+      "impressions": 98,
+      "ctr": 0.04081632653061224,
+      "position": 2.5816326530612246
+    },
+    {
+      "query": "long island expressway accident",
+      "clicks": 4,
+      "impressions": 166,
+      "ctr": 0.024096385542168676,
+      "position": 9.27710843373494
+    },
+    {
+      "query": "medical malpractice lawyers",
+      "clicks": 4,
+      "impressions": 255,
+      "ctr": 0.01568627450980392,
+      "position": 2.0980392156862746
+    },
+    {
+      "query": "mike lovecchio",
+      "clicks": 4,
+      "impressions": 58,
+      "ctr": 0.06896551724137931,
+      "position": 2.862068965517241
+    },
+    {
+      "query": "new york state school bus stop law",
+      "clicks": 4,
+      "impressions": 37,
+      "ctr": 0.10810810810810811,
+      "position": 3.864864864864865
+    },
+    {
+      "query": "nicholas davis attorney",
+      "clicks": 4,
+      "impressions": 41,
+      "ctr": 0.0975609756097561,
+      "position": 6.658536585365853
+    },
+    {
+      "query": "nick davis attorney",
+      "clicks": 4,
+      "impressions": 94,
+      "ctr": 0.0425531914893617,
+      "position": 8.47872340425532
+    },
+    {
+      "query": "nys school bus rules and regulations",
+      "clicks": 4,
+      "impressions": 82,
+      "ctr": 0.04878048780487805,
+      "position": 1.5121951219512195
+    },
+    {
+      "query": "personal injury lawyer near me",
+      "clicks": 4,
+      "impressions": 3532,
+      "ctr": 0.0011325028312570782,
+      "position": 18.270101925254814
+    },
+    {
+      "query": "ross cellino kids",
+      "clicks": 4,
+      "impressions": 49,
+      "ctr": 0.08163265306122448,
+      "position": 2.795918367346939
+    },
+    {
+      "query": "short description of accident for insurance claim",
+      "clicks": 4,
+      "impressions": 122,
+      "ctr": 0.03278688524590164,
+      "position": 2.2704918032786887
+    },
+    {
+      "query": "supplemental spousal liability",
+      "clicks": 4,
+      "impressions": 311,
+      "ctr": 0.012861736334405145,
+      "position": 2.845659163987138
+    },
+    {
+      "query": "the knox mansion buffalo",
+      "clicks": 4,
+      "impressions": 18,
+      "ctr": 0.2222222222222222,
+      "position": 3.2222222222222223
+    },
+    {
+      "query": "what is a witness statement",
+      "clicks": 4,
+      "impressions": 530,
+      "ctr": 0.007547169811320755,
+      "position": 5.59433962264151
+    },
+    {
+      "query": "what is spousal liability coverage in ny",
+      "clicks": 4,
+      "impressions": 59,
+      "ctr": 0.06779661016949153,
+      "position": 2.0677966101694913
+    },
+    {
+      "query": "what is the average settlement for airbags not deploying",
+      "clicks": 4,
+      "impressions": 409,
+      "ctr": 0.009779951100244499,
+      "position": 2.8288508557457215
+    },
+    {
+      "query": "1-800-888-8888",
+      "clicks": 3,
+      "impressions": 37,
+      "ctr": 0.08108108108108109,
+      "position": 2.6756756756756754
+    },
+    {
+      "query": "abraham meir",
+      "clicks": 3,
+      "impressions": 27,
+      "ctr": 0.1111111111111111,
+      "position": 1.037037037037037
+    },
+    {
+      "query": "accident in bennington vt today",
+      "clicks": 3,
+      "impressions": 26,
+      "ctr": 0.11538461538461539,
+      "position": 5.115384615384615
+    },
+    {
+      "query": "accident long island expressway",
+      "clicks": 3,
+      "impressions": 41,
+      "ctr": 0.07317073170731707,
+      "position": 8
+    },
+    {
+      "query": "alan silverstein attorney",
+      "clicks": 3,
+      "impressions": 13,
+      "ctr": 0.23076923076923078,
+      "position": 2.3846153846153846
+    },
+    {
+      "query": "are tow truck companies liable for damage",
+      "clicks": 3,
+      "impressions": 40,
+      "ctr": 0.075,
+      "position": 1.3
+    },
+    {
+      "query": "buffalo mansion",
+      "clicks": 3,
+      "impressions": 34,
+      "ctr": 0.08823529411764706,
+      "position": 3.0294117647058822
+    },
+    {
+      "query": "can you drive with a cracked windshield",
+      "clicks": 3,
+      "impressions": 1025,
+      "ctr": 0.002926829268292683,
+      "position": 5.485853658536586
+    },
+    {
+      "query": "can you go to jail for hitting a dog with a car",
+      "clicks": 3,
+      "impressions": 202,
+      "ctr": 0.01485148514851485,
+      "position": 2.1386138613861387
+    },
+    {
+      "query": "can you sue towing company",
+      "clicks": 3,
+      "impressions": 76,
+      "ctr": 0.039473684210526314,
+      "position": 1.3552631578947367
+    },
+    {
+      "query": "car accident lawyer nyc",
+      "clicks": 3,
+      "impressions": 2870,
+      "ctr": 0.0010452961672473868,
+      "position": 4.707665505226481
+    },
+    {
+      "query": "car crash victims face",
+      "clicks": 3,
+      "impressions": 12,
+      "ctr": 0.25,
+      "position": 7.583333333333333
+    },
+    {
+      "query": "description of car accident example",
+      "clicks": 3,
+      "impressions": 30,
+      "ctr": 0.1,
+      "position": 2.8666666666666667
+    },
+    {
+      "query": "dog bite law euthanasia new york",
+      "clicks": 3,
+      "impressions": 174,
+      "ctr": 0.017241379310344827,
+      "position": 1.9885057471264367
+    },
+    {
+      "query": "gina celino",
+      "clicks": 3,
+      "impressions": 5,
+      "ctr": 0.6,
+      "position": 3.6
+    },
+    {
+      "query": "grave injury new york",
+      "clicks": 3,
+      "impressions": 133,
+      "ctr": 0.022556390977443608,
+      "position": 8.218045112781954
+    },
+    {
+      "query": "greg pajak",
+      "clicks": 3,
+      "impressions": 27,
+      "ctr": 0.1111111111111111,
+      "position": 1.2962962962962963
+    },
+    {
+      "query": "harley davidson dealership oregon closing",
+      "clicks": 3,
+      "impressions": 218,
+      "ctr": 0.013761467889908258,
+      "position": 3.371559633027523
+    },
+    {
+      "query": "historic sites near me",
+      "clicks": 3,
+      "impressions": 4,
+      "ctr": 0.75,
+      "position": 5
+    },
+    {
+      "query": "how long do you have to file a workers' comp claim in ny",
+      "clicks": 3,
+      "impressions": 185,
+      "ctr": 0.016216216216216217,
+      "position": 5.6
+    },
+    {
+      "query": "how to write a car accident report for insurance",
+      "clicks": 3,
+      "impressions": 56,
+      "ctr": 0.05357142857142857,
+      "position": 3.357142857142857
+    },
+    {
+      "query": "is emotional distress a personal injury",
+      "clicks": 3,
+      "impressions": 319,
+      "ctr": 0.009404388714733543,
+      "position": 8.852664576802507
+    },
+    {
+      "query": "law firms near me",
+      "clicks": 3,
+      "impressions": 21,
+      "ctr": 0.14285714285714285,
+      "position": 12.380952380952381
+    },
+    {
+      "query": "lewis county snowmobile accident",
+      "clicks": 3,
+      "impressions": 69,
+      "ctr": 0.043478260869565216,
+      "position": 6.159420289855072
+    },
+    {
+      "query": "long island personal injury lawyer",
+      "clicks": 3,
+      "impressions": 4358,
+      "ctr": 0.0006883891693437356,
+      "position": 15.871041762276274
+    },
+    {
+      "query": "malpractice lawyer buffalo ny",
+      "clicks": 3,
+      "impressions": 180,
+      "ctr": 0.016666666666666666,
+      "position": 7.333333333333333
+    },
+    {
+      "query": "manhattan car accident lawyer",
+      "clicks": 3,
+      "impressions": 3506,
+      "ctr": 0.0008556759840273817,
+      "position": 13.322589845978323
+    },
+    {
+      "query": "mark davis attorney",
+      "clicks": 3,
+      "impressions": 176,
+      "ctr": 0.017045454545454544,
+      "position": 17
+    },
+    {
+      "query": "mark davis attorney at law",
+      "clicks": 3,
+      "impressions": 25,
+      "ctr": 0.12,
+      "position": 9.16
+    },
+    {
+      "query": "medical malpractice attorney buffalo ny",
+      "clicks": 3,
+      "impressions": 511,
+      "ctr": 0.005870841487279843,
+      "position": 9.772994129158512
+    },
+    {
+      "query": "medical malpractice lawyers rochester ny",
+      "clicks": 3,
+      "impressions": 653,
+      "ctr": 0.004594180704441042,
+      "position": 1.007656967840735
+    },
+    {
+      "query": "most dangerous streets in rochester, ny",
+      "clicks": 3,
+      "impressions": 35,
+      "ctr": 0.08571428571428572,
+      "position": 1.2285714285714286
+    },
+    {
+      "query": "motorcycle accident",
+      "clicks": 3,
+      "impressions": 249,
+      "ctr": 0.012048192771084338,
+      "position": 24.57429718875502
+    },
+    {
+      "query": "new york personal injury lawyers",
+      "clicks": 3,
+      "impressions": 2631,
+      "ctr": 0.0011402508551881414,
+      "position": 15.52793614595211
     }
   ],
   "topPages": [
     {
       "page": "https://www.cellinolaw.com/",
-      "clicks": 4320,
-      "impressions": 250661,
-      "ctr": 0.01723443216136535,
-      "position": 20.037508826662304
+      "clicks": 4123,
+      "impressions": 286892,
+      "ctr": 0.014371261659439789,
+      "position": 18.38311629463352
     },
     {
       "page": "https://www.cellinolaw.com/car-accident-lawyer/insurance-is-not-paying-enough-for-a-totaled-car/",
-      "clicks": 897,
-      "impressions": 128051,
-      "ctr": 0.007005021436771287,
-      "position": 8.59152993729061
-    },
-    {
-      "page": "https://www.cellinolaw.com/attorneys/all-attorneys/",
-      "clicks": 687,
-      "impressions": 50259,
-      "ctr": 0.013669193577269742,
-      "position": 9.19307984639567
-    },
-    {
-      "page": "https://www.cellinolaw.com/attorneys/all-attorneys/jeanna-cellino/",
-      "clicks": 596,
-      "impressions": 9533,
-      "ctr": 0.06251966851987832,
-      "position": 6.86887653414455
+      "clicks": 776,
+      "impressions": 105623,
+      "ctr": 0.007346884674739403,
+      "position": 8.268047679009307
     },
     {
       "page": "https://www.cellinolaw.com/buffalo/?utm_source=Organic&utm_medium=GBP&utm_campaign=Buffalo",
-      "clicks": 591,
-      "impressions": 162638,
-      "ctr": 0.00363383711063835,
-      "position": 3.0743614653402034
-    },
-    {
-      "page": "https://www.cellinolaw.com/knox-mansion/",
-      "clicks": 581,
-      "impressions": 8637,
-      "ctr": 0.0672687275674424,
-      "position": 5.916985064258423
-    },
-    {
-      "page": "https://www.cellinolaw.com/manhattan/motorcycle-accident-lawyer/major-cause-of-death/",
-      "clicks": 534,
-      "impressions": 148472,
-      "ctr": 0.003596637749878765,
-      "position": 5.273687968101729
+      "clicks": 616,
+      "impressions": 175692,
+      "ctr": 0.003506135737540696,
+      "position": 3.0364786102952896
     },
     {
       "page": "https://www.cellinolaw.com/manhattan/car-accident-lawyer/towing-company-damage/",
-      "clicks": 510,
-      "impressions": 95301,
-      "ctr": 0.005351465357131615,
-      "position": 2.8612081720023923
+      "clicks": 534,
+      "impressions": 96821,
+      "ctr": 0.005515332417554043,
+      "position": 2.868489274021132
+    },
+    {
+      "page": "https://www.cellinolaw.com/attorneys/all-attorneys/",
+      "clicks": 514,
+      "impressions": 31326,
+      "ctr": 0.016408095511715508,
+      "position": 9.759369214071379
+    },
+    {
+      "page": "https://www.cellinolaw.com/knox-mansion/",
+      "clicks": 511,
+      "impressions": 7829,
+      "ctr": 0.06527014944437348,
+      "position": 5.97598671605569
     },
     {
       "page": "https://www.cellinolaw.com/blogs/facts-hitting-a-dog-with-your-car/",
-      "clicks": 452,
-      "impressions": 61497,
-      "ctr": 0.007349952030180334,
-      "position": 4.727726555766948
+      "clicks": 433,
+      "impressions": 60266,
+      "ctr": 0.007184813991305213,
+      "position": 4.639099990044137
     },
     {
-      "page": "https://www.cellinolaw.com/attorneys/all-attorneys/ross-cellino/",
-      "clicks": 412,
-      "impressions": 25226,
-      "ctr": 0.016332355506223736,
-      "position": 6.6420756362483155
+      "page": "https://www.cellinolaw.com/attorneys/all-attorneys/jeanna-cellino/",
+      "clicks": 424,
+      "impressions": 8622,
+      "ctr": 0.04917652516817444,
+      "position": 7.05045233124565
+    },
+    {
+      "page": "https://www.cellinolaw.com/manhattan/motorcycle-accident-lawyer/major-cause-of-death/",
+      "clicks": 420,
+      "impressions": 150053,
+      "ctr": 0.002799011016107642,
+      "position": 5.054020912610877
     },
     {
       "page": "https://www.cellinolaw.com/blogs/what-to-know-about-new-york-school-bus-laws/",
-      "clicks": 369,
-      "impressions": 53392,
-      "ctr": 0.006911147737488762,
-      "position": 4.418058885226252
+      "clicks": 374,
+      "impressions": 55074,
+      "ctr": 0.0067908632022369905,
+      "position": 4.5814358862621205
     },
     {
-      "page": "https://www.cellinolaw.com/manhattan/",
-      "clicks": 327,
-      "impressions": 54320,
-      "ctr": 0.006019882179675994,
-      "position": 32.24027982326952
+      "page": "https://www.cellinolaw.com/attorneys/all-attorneys/ross-cellino/",
+      "clicks": 366,
+      "impressions": 21643,
+      "ctr": 0.0169107794668022,
+      "position": 6.789816568867532
     },
     {
       "page": "https://www.cellinolaw.com/knox-mansion/?utm_source=Organic&utm_medium=GBP&utm_campaign=KnoxMansion",
-      "clicks": 326,
-      "impressions": 5801,
-      "ctr": 0.056197207378038266,
-      "position": 5.574900879158766
-    },
-    {
-      "page": "https://www.cellinolaw.com/reviews/",
-      "clicks": 320,
-      "impressions": 15627,
-      "ctr": 0.020477378895501375,
-      "position": 5.249568055288923
+      "clicks": 340,
+      "impressions": 5993,
+      "ctr": 0.05673285499749708,
+      "position": 5.821792090772568
     },
     {
       "page": "https://www.cellinolaw.com/car-accident-lawyer/what-if-insurance-check-is-more-than-the-repairs/",
-      "clicks": 313,
-      "impressions": 56551,
-      "ctr": 0.005534826970345352,
-      "position": 4.529698855899984
+      "clicks": 285,
+      "impressions": 51241,
+      "ctr": 0.005561952342850451,
+      "position": 4.597295134755372
     },
     {
       "page": "https://www.cellinolaw.com/buffalo/",
-      "clicks": 270,
-      "impressions": 88242,
-      "ctr": 0.0030597674576732167,
-      "position": 20.881915641077946
+      "clicks": 261,
+      "impressions": 74003,
+      "ctr": 0.0035268840452414092,
+      "position": 24.278948150750644
     },
     {
       "page": "https://www.cellinolaw.com/rochester/?utm_source=Organic&utm_medium=GBP&utm_campaign=Rochester",
-      "clicks": 258,
-      "impressions": 82442,
-      "ctr": 0.003129472841512821,
-      "position": 4.002983915965164
+      "clicks": 257,
+      "impressions": 91879,
+      "ctr": 0.002797157130573907,
+      "position": 3.5184862699855244
     },
     {
-      "page": "https://www.cellinolaw.com/attorneys/all-attorneys/brigitte-cellino/",
-      "clicks": 244,
-      "impressions": 10220,
-      "ctr": 0.023874755381604697,
-      "position": 7.036301369863014
+      "page": "https://www.cellinolaw.com/reviews/",
+      "clicks": 247,
+      "impressions": 16192,
+      "ctr": 0.015254446640316206,
+      "position": 5.158288043478261
+    },
+    {
+      "page": "https://www.cellinolaw.com/manhattan/",
+      "clicks": 239,
+      "impressions": 48607,
+      "ctr": 0.004916987265208715,
+      "position": 38.19883967329808
     },
     {
       "page": "https://www.cellinolaw.com/manhattan/?utm_source=Organic&utm_medium=GBP&utm_campaign=Manhattan",
-      "clicks": 194,
-      "impressions": 127837,
-      "ctr": 0.001517557514647559,
-      "position": 11.34909298559885
+      "clicks": 196,
+      "impressions": 119219,
+      "ctr": 0.0016440332497336834,
+      "position": 12.271609391120544
     },
     {
       "page": "https://www.cellinolaw.com/contact/",
-      "clicks": 189,
-      "impressions": 40057,
-      "ctr": 0.004718276456050129,
-      "position": 5.90550964875053
-    },
-    {
-      "page": "https://www.cellinolaw.com/news/what-is-new-yorks-supplemental-spousal-liability-insurance/",
-      "clicks": 184,
-      "impressions": 14692,
-      "ctr": 0.012523822488429077,
-      "position": 6.2837598693166345
+      "clicks": 191,
+      "impressions": 33494,
+      "ctr": 0.005702513883083537,
+      "position": 6.1462650026870485
     },
     {
       "page": "https://www.cellinolaw.com/car-accident-lawyer/do-you-have-to-accept-insurance-offer-on-totaled-car/",
-      "clicks": 172,
-      "impressions": 12925,
-      "ctr": 0.013307543520309478,
-      "position": 7.81477756286267
+      "clicks": 183,
+      "impressions": 13636,
+      "ctr": 0.013420357876210032,
+      "position": 6.679084775594016
     },
     {
-      "page": "https://www.cellinolaw.com/car-accident-lawyer/negotiate-car-total-loss-with-car-insurance-adjusters/",
-      "clicks": 163,
-      "impressions": 26845,
-      "ctr": 0.006071894207487428,
-      "position": 7.249543676662321
+      "page": "https://www.cellinolaw.com/news/what-is-new-yorks-supplemental-spousal-liability-insurance/",
+      "clicks": 176,
+      "impressions": 14287,
+      "ctr": 0.01231889129978302,
+      "position": 5.713725764681179
+    },
+    {
+      "page": "https://www.cellinolaw.com/attorneys/all-attorneys/brigitte-cellino/",
+      "clicks": 174,
+      "impressions": 9105,
+      "ctr": 0.019110378912685338,
+      "position": 7.0377814387699065
     },
     {
       "page": "https://www.cellinolaw.com/cellino-law-careers/",
-      "clicks": 153,
-      "impressions": 2088,
-      "ctr": 0.07327586206896551,
-      "position": 8.879789272030651
+      "clicks": 168,
+      "impressions": 1120,
+      "ctr": 0.15,
+      "position": 13.39107142857143
     },
     {
-      "page": "https://www.cellinolaw.com/car-accident-lawyer/how-to-describe-a-car-accident-for-insurance-examples/",
-      "clicks": 148,
-      "impressions": 15151,
-      "ctr": 0.009768332123292192,
-      "position": 6.297472114051878
-    },
-    {
-      "page": "https://www.cellinolaw.com/car-accident-lawyer/",
-      "clicks": 146,
-      "impressions": 51924,
-      "ctr": 0.0028118018642631537,
-      "position": 36.30084354055928
-    },
-    {
-      "page": "https://www.cellinolaw.com/blogs/how-insurance-policy-limits-affect-personal-injury-claims/",
-      "clicks": 142,
-      "impressions": 43267,
-      "ctr": 0.003281946980377655,
-      "position": 8.338710795756581
+      "page": "https://www.cellinolaw.com/car-accident-lawyer/negotiate-car-total-loss-with-car-insurance-adjusters/",
+      "clicks": 164,
+      "impressions": 26672,
+      "ctr": 0.00614877024595081,
+      "position": 6.536292741451709
     },
     {
       "page": "https://www.cellinolaw.com/rochester/",
+      "clicks": 150,
+      "impressions": 42953,
+      "ctr": 0.003492189136963658,
+      "position": 20.37757548948851
+    },
+    {
+      "page": "https://www.cellinolaw.com/car-accident-lawyer/how-to-describe-a-car-accident-for-insurance-examples/",
       "clicks": 138,
-      "impressions": 42987,
-      "ctr": 0.0032102728731942215,
-      "position": 20.520320096773442
+      "impressions": 16114,
+      "ctr": 0.00856398163087998,
+      "position": 5.86725828472136
     },
     {
-      "page": "https://www.cellinolaw.com/manhattan/car-accident-lawyer/police-impound-lot/",
-      "clicks": 137,
-      "impressions": 22921,
-      "ctr": 0.0059770516120588105,
-      "position": 4.772872038741765
-    },
-    {
-      "page": "https://www.cellinolaw.com/car-accident-lawyer/the-average-settlement-for-a-car-accident-while-pregnant/",
-      "clicks": 134,
-      "impressions": 7092,
-      "ctr": 0.01889452904681331,
-      "position": 5.815002820078962
+      "page": "https://www.cellinolaw.com/blogs/how-insurance-policy-limits-affect-personal-injury-claims/",
+      "clicks": 135,
+      "impressions": 45881,
+      "ctr": 0.0029423944552211157,
+      "position": 7.787275778644755
     },
     {
       "page": "https://www.cellinolaw.com/manhattan/car-accident-lawyer/diminished-value-claims/",
-      "clicks": 133,
-      "impressions": 35301,
-      "ctr": 0.003767598651596272,
-      "position": 22.349735134982012
+      "clicks": 135,
+      "impressions": 32535,
+      "ctr": 0.004149377593360996,
+      "position": 20.43940371907177
+    },
+    {
+      "page": "https://www.cellinolaw.com/car-accident-lawyer/the-average-settlement-for-a-car-accident-while-pregnant/",
+      "clicks": 129,
+      "impressions": 7108,
+      "ctr": 0.01814856499718627,
+      "position": 5.367191896454699
+    },
+    {
+      "page": "https://www.cellinolaw.com/manhattan/car-accident-lawyer/cracked-windshield/",
+      "clicks": 129,
+      "impressions": 42828,
+      "ctr": 0.0030120481927710845,
+      "position": 4.5308676566732045
+    },
+    {
+      "page": "https://www.cellinolaw.com/manhattan/car-accident-lawyer/police-impound-lot/",
+      "clicks": 128,
+      "impressions": 21367,
+      "ctr": 0.005990546169326531,
+      "position": 4.994009453830674
+    },
+    {
+      "page": "https://www.cellinolaw.com/melville/?utm_source=Organic&utm_medium=GBP&utm_campaign=Melville",
+      "clicks": 124,
+      "impressions": 118204,
+      "ctr": 0.001049033873642178,
+      "position": 3.857094514568035
     },
     {
       "page": "https://www.cellinolaw.com/manhattan/car-accident-lawyer/tow-truck/",
       "clicks": 117,
-      "impressions": 31237,
-      "ctr": 0.0037455581521913116,
-      "position": 3.138361558408298
+      "impressions": 29399,
+      "ctr": 0.003979727201605497,
+      "position": 3.091669784686554
     },
     {
-      "page": "https://www.cellinolaw.com/melville/?utm_source=Organic&utm_medium=GBP&utm_campaign=Melville",
-      "clicks": 114,
-      "impressions": 114105,
-      "ctr": 0.0009990797949257263,
-      "position": 3.7832697953639194
-    },
-    {
-      "page": "https://www.cellinolaw.com/manhattan/car-accident-lawyer/cracked-windshield/",
-      "clicks": 112,
-      "impressions": 40570,
-      "ctr": 0.0027606605866403746,
-      "position": 4.749346807986196
+      "page": "https://www.cellinolaw.com/motorcycle-accident-lawyer/who-can-be-sued/",
+      "clicks": 97,
+      "impressions": 7382,
+      "ctr": 0.013140070441614738,
+      "position": 9.82376049850989
     },
     {
       "page": "https://www.cellinolaw.com/attorneys/all-attorneys/annmarie-cellino/",
-      "clicks": 103,
-      "impressions": 2315,
-      "ctr": 0.04449244060475162,
-      "position": 10.131317494600433
+      "clicks": 93,
+      "impressions": 2154,
+      "ctr": 0.04317548746518106,
+      "position": 10.394614670380687
     },
     {
-      "page": "https://www.cellinolaw.com/blogs/crash-during-a-test-drive/",
-      "clicks": 102,
-      "impressions": 18417,
-      "ctr": 0.005538361296628116,
-      "position": 7.5860346419069336
-    },
-    {
-      "page": "https://www.cellinolaw.com/attorneys/all-attorneys/timothy-cellino/",
-      "clicks": 98,
-      "impressions": 10468,
-      "ctr": 0.009361864730607567,
-      "position": 7.420997325181506
-    },
-    {
-      "page": "https://www.cellinolaw.com/workers-compensation-lawyer/how-long-do-i-have-to-sue-for-work-related-injuries-in-new-york/",
+      "page": "https://www.cellinolaw.com/car-accident-lawyer/",
       "clicks": 89,
-      "impressions": 18528,
-      "ctr": 0.004803540587219344,
-      "position": 9.994278929188255
-    },
-    {
-      "page": "https://www.cellinolaw.com/blogs/mv-104-form/",
-      "clicks": 87,
-      "impressions": 20902,
-      "ctr": 0.004162281121423787,
-      "position": 7.245383216917041
-    },
-    {
-      "page": "https://www.cellinolaw.com/news/long-island-hit-and-run-driver-minaj-father/",
-      "clicks": 81,
-      "impressions": 3808,
-      "ctr": 0.021271008403361345,
-      "position": 5.325892857142857
-    },
-    {
-      "page": "https://www.cellinolaw.com/attorneys/all-attorneys/mark-kochanowicz/",
-      "clicks": 74,
-      "impressions": 1479,
-      "ctr": 0.050033806626098715,
-      "position": 10.685598377281947
+      "impressions": 44335,
+      "ctr": 0.0020074433291981503,
+      "position": 35.783128453817525
     },
     {
       "page": "https://www.cellinolaw.com/melville/",
-      "clicks": 74,
-      "impressions": 156701,
-      "ctr": 0.00047223693530992143,
-      "position": 18.285588477418777
+      "clicks": 88,
+      "impressions": 160949,
+      "ctr": 0.0005467570472634188,
+      "position": 18.84025995812338
+    },
+    {
+      "page": "https://www.cellinolaw.com/workers-compensation-lawyer/how-long-do-i-have-to-sue-for-work-related-injuries-in-new-york/",
+      "clicks": 87,
+      "impressions": 17496,
+      "ctr": 0.004972565157750343,
+      "position": 9.132315957933242
+    },
+    {
+      "page": "https://www.cellinolaw.com/attorneys/all-attorneys/timothy-cellino/",
+      "clicks": 86,
+      "impressions": 8903,
+      "ctr": 0.009659665281365831,
+      "position": 7.603616758396046
+    },
+    {
+      "page": "https://www.cellinolaw.com/about-us/",
+      "clicks": 84,
+      "impressions": 24641,
+      "ctr": 0.0034089525587435573,
+      "position": 6.222718233837912
+    },
+    {
+      "page": "https://www.cellinolaw.com/attorneys/all-attorneys/mark-kochanowicz/",
+      "clicks": 83,
+      "impressions": 1412,
+      "ctr": 0.058781869688385266,
+      "position": 9.935552407932011
+    },
+    {
+      "page": "https://www.cellinolaw.com/blogs/crash-during-a-test-drive/",
+      "clicks": 83,
+      "impressions": 17936,
+      "ctr": 0.004627564674397859,
+      "position": 7.9348795718108835
+    },
+    {
+      "page": "https://www.cellinolaw.com/blogs/mv-104-form/",
+      "clicks": 82,
+      "impressions": 19421,
+      "ctr": 0.004222233664589877,
+      "position": 7.268266309664796
     },
     {
       "page": "https://www.cellinolaw.com/wedding-event-phography-knox-mansion/",
       "clicks": 72,
-      "impressions": 1960,
-      "ctr": 0.036734693877551024,
-      "position": 15.521428571428572
-    },
-    {
-      "page": "https://www.cellinolaw.com/blogs/is-it-illegal-to-hit-a-dog-and-drive-off/",
-      "clicks": 70,
-      "impressions": 24250,
-      "ctr": 0.00288659793814433,
-      "position": 7.284288659793814
-    },
-    {
-      "page": "https://www.cellinolaw.com/attorneys/all-attorneys/maria-pavlatos/",
-      "clicks": 69,
-      "impressions": 350,
-      "ctr": 0.19714285714285715,
-      "position": 3.4657142857142857
+      "impressions": 1873,
+      "ctr": 0.03844100373731981,
+      "position": 14.770955686065136
     },
     {
       "page": "https://www.cellinolaw.com/blogs/insurance-company-pay-person-dies-car-accident/",
-      "clicks": 69,
-      "impressions": 11244,
-      "ctr": 0.0061366061899679825,
-      "position": 9.954731412308787
+      "clicks": 70,
+      "impressions": 10743,
+      "ctr": 0.006515870799590431,
+      "position": 10.416643395699525
     },
     {
-      "page": "https://www.cellinolaw.com/motorcycle-accident-lawyer/who-can-be-sued/",
-      "clicks": 68,
-      "impressions": 6286,
-      "ctr": 0.010817690104995227,
-      "position": 10.621699013681196
-    },
-    {
-      "page": "https://www.cellinolaw.com/news/two-injured-in-severe-long-island-accident/",
-      "clicks": 68,
-      "impressions": 1878,
-      "ctr": 0.0362087326943557,
-      "position": 7.5702875399361025
+      "page": "https://www.cellinolaw.com/attorneys/all-attorneys/maria-pavlatos/",
+      "clicks": 64,
+      "impressions": 380,
+      "ctr": 0.16842105263157894,
+      "position": 6.1078947368421055
     },
     {
       "page": "https://www.cellinolaw.com/blogs/new-york-dog-bite-laws/",
-      "clicks": 67,
-      "impressions": 11971,
-      "ctr": 0.005596859076100576,
-      "position": 9.987720324116616
+      "clicks": 63,
+      "impressions": 11753,
+      "ctr": 0.005360333531864205,
+      "position": 10.325448821577469
     },
     {
-      "page": "https://www.cellinolaw.com/work-injury-lawyer/coccyx-injury-during-time-off-work/",
-      "clicks": 64,
-      "impressions": 8408,
-      "ctr": 0.007611798287345386,
-      "position": 3.9898905803996194
+      "page": "https://www.cellinolaw.com/blogs/what-to-do-if-youre-in-an-accident-with-an-amazon-delivery-truck/",
+      "clicks": 63,
+      "impressions": 12863,
+      "ctr": 0.004897768794215968,
+      "position": 8.833864572805723
+    },
+    {
+      "page": "https://www.cellinolaw.com/attorneys/all-attorneys/christopher-damato/",
+      "clicks": 62,
+      "impressions": 3003,
+      "ctr": 0.020646020646020648,
+      "position": 9.878454878454878
+    },
+    {
+      "page": "https://www.cellinolaw.com/blogs/is-it-illegal-to-hit-a-dog-and-drive-off/",
+      "clicks": 62,
+      "impressions": 22922,
+      "ctr": 0.0027048250588953843,
+      "position": 6.943416804816334
     }
   ],
-  "fetchedAt": "2026-03-18T13:06:24.500Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "cellino law",
+      "clicks": 1790,
+      "impressions": 5882,
+      "ctr": 0.3043182590955457,
+      "position": 1.2106426385583136
+    },
+    {
+      "query": "ross cellino",
+      "clicks": 242,
+      "impressions": 1427,
+      "ctr": 0.1695865451997197,
+      "position": 1.051156271899089
+    },
+    {
+      "query": "cellino",
+      "clicks": 157,
+      "impressions": 3789,
+      "ctr": 0.04143573502243336,
+      "position": 7.654790182106097
+    },
+    {
+      "query": "cellino law firm",
+      "clicks": 148,
+      "impressions": 537,
+      "ctr": 0.2756052141527002,
+      "position": 1.0633147113594041
+    },
+    {
+      "query": "celino law",
+      "clicks": 141,
+      "impressions": 545,
+      "ctr": 0.25871559633027524,
+      "position": 1.2587155963302752
+    },
+    {
+      "query": "can you die from a head injury years later",
+      "clicks": 96,
+      "impressions": 7234,
+      "ctr": 0.013270666298037047,
+      "position": 6.925767210395355
+    },
+    {
+      "query": "jeanna cellino",
+      "clicks": 92,
+      "impressions": 367,
+      "ctr": 0.2506811989100817,
+      "position": 1
+    },
+    {
+      "query": "cellino law buffalo",
+      "clicks": 83,
+      "impressions": 409,
+      "ctr": 0.20293398533007334,
+      "position": 1.0513447432762837
+    },
+    {
+      "query": "knox mansion buffalo",
+      "clicks": 74,
+      "impressions": 252,
+      "ctr": 0.29365079365079366,
+      "position": 1.003968253968254
+    },
+    {
+      "query": "buffalo car accident lawyer cellino law",
+      "clicks": 71,
+      "impressions": 77,
+      "ctr": 0.922077922077922,
+      "position": 1
+    },
+    {
+      "query": "cellino law accident attorneys",
+      "clicks": 68,
+      "impressions": 1331,
+      "ctr": 0.05108940646130729,
+      "position": 1.2839969947407963
+    },
+    {
+      "query": "menabrak anjing tidak sengaja pertanda apa",
+      "clicks": 66,
+      "impressions": 486,
+      "ctr": 0.13580246913580246,
+      "position": 1.8703703703703702
+    },
+    {
+      "query": "cellino and barnes",
+      "clicks": 65,
+      "impressions": 6373,
+      "ctr": 0.010199278204927036,
+      "position": 8.646163502275224
+    },
+    {
+      "query": "888-888-8888",
+      "clicks": 62,
+      "impressions": 1095,
+      "ctr": 0.05662100456621005,
+      "position": 5.248401826484018
+    },
+    {
+      "query": "car accident lawyer rochester ny cellino law",
+      "clicks": 59,
+      "impressions": 60,
+      "ctr": 0.9833333333333333,
+      "position": 1
+    },
+    {
+      "query": "cellino law rochester",
+      "clicks": 58,
+      "impressions": 386,
+      "ctr": 0.15025906735751296,
+      "position": 1.0621761658031088
+    },
+    {
+      "query": "car accident lawyer buffalo mn cellino law",
+      "clicks": 55,
+      "impressions": 56,
+      "ctr": 0.9821428571428571,
+      "position": 1
+    },
+    {
+      "query": "cellino law llp",
+      "clicks": 55,
+      "impressions": 113,
+      "ctr": 0.48672566371681414,
+      "position": 1.008849557522124
+    },
+    {
+      "query": "cellino law attorneys",
+      "clicks": 53,
+      "impressions": 110,
+      "ctr": 0.4818181818181818,
+      "position": 1.0636363636363637
+    },
+    {
+      "query": "knox mansion tours",
+      "clicks": 52,
+      "impressions": 114,
+      "ctr": 0.45614035087719296,
+      "position": 1.0087719298245614
+    },
+    {
+      "query": "car accident lawyer buffalo cellino law",
+      "clicks": 51,
+      "impressions": 59,
+      "ctr": 0.864406779661017,
+      "position": 1
+    },
+    {
+      "query": "knox mansion",
+      "clicks": 51,
+      "impressions": 315,
+      "ctr": 0.1619047619047619,
+      "position": 3.1365079365079365
+    },
+    {
+      "query": "car accident lawyer buffalo ny cellino law",
+      "clicks": 48,
+      "impressions": 48,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "cellino law car accident lawyer",
+      "clicks": 48,
+      "impressions": 73,
+      "ctr": 0.6575342465753424,
+      "position": 1
+    },
+    {
+      "query": "long island interstate car accident lawyer",
+      "clicks": 45,
+      "impressions": 112,
+      "ctr": 0.4017857142857143,
+      "position": 7.535714285714286
+    },
+    {
+      "query": "bronx car accident spine injury lawyer",
+      "clicks": 42,
+      "impressions": 104,
+      "ctr": 0.40384615384615385,
+      "position": 9.51923076923077
+    },
+    {
+      "query": "cellino law lawyer for accident car",
+      "clicks": 42,
+      "impressions": 54,
+      "ctr": 0.7777777777777778,
+      "position": 1
+    },
+    {
+      "query": "menabrak anjing di jalan pertanda apa",
+      "clicks": 41,
+      "impressions": 313,
+      "ctr": 0.13099041533546327,
+      "position": 1.8434504792332267
+    },
+    {
+      "query": "ross cellino jr",
+      "clicks": 39,
+      "impressions": 195,
+      "ctr": 0.2,
+      "position": 1
+    },
+    {
+      "query": "cellino law truck accident lawyer",
+      "clicks": 38,
+      "impressions": 54,
+      "ctr": 0.7037037037037037,
+      "position": 1.0185185185185186
+    },
+    {
+      "query": "cellino law lawyer car accident",
+      "clicks": 37,
+      "impressions": 67,
+      "ctr": 0.5522388059701493,
+      "position": 1.0597014925373134
+    },
+    {
+      "query": "cellino law lawyer for car accident",
+      "clicks": 36,
+      "impressions": 63,
+      "ctr": 0.5714285714285714,
+      "position": 1.0634920634920635
+    },
+    {
+      "query": "celino law firm",
+      "clicks": 34,
+      "impressions": 107,
+      "ctr": 0.3177570093457944,
+      "position": 1.0467289719626167
+    },
+    {
+      "query": "cellino law manhattan",
+      "clicks": 33,
+      "impressions": 273,
+      "ctr": 0.12087912087912088,
+      "position": 1.010989010989011
+    },
+    {
+      "query": "greg pajak",
+      "clicks": 33,
+      "impressions": 114,
+      "ctr": 0.2894736842105263,
+      "position": 1.1754385964912282
+    },
+    {
+      "query": "denis bastible",
+      "clicks": 32,
+      "impressions": 93,
+      "ctr": 0.34408602150537637,
+      "position": 1
+    },
+    {
+      "query": "flatbush car accident lawyer",
+      "clicks": 32,
+      "impressions": 381,
+      "ctr": 0.08398950131233596,
+      "position": 3.9501312335958003
+    },
+    {
+      "query": "cellino law accident attorneys photos",
+      "clicks": 30,
+      "impressions": 115,
+      "ctr": 0.2608695652173913,
+      "position": 1.7652173913043478
+    },
+    {
+      "query": "mv104",
+      "clicks": 30,
+      "impressions": 5670,
+      "ctr": 0.005291005291005291,
+      "position": 6.3432098765432094
+    },
+    {
+      "query": "the knox mansion",
+      "clicks": 30,
+      "impressions": 141,
+      "ctr": 0.2127659574468085,
+      "position": 3.028368794326241
+    },
+    {
+      "query": "ross celino",
+      "clicks": 28,
+      "impressions": 156,
+      "ctr": 0.1794871794871795,
+      "position": 1.0256410256410255
+    },
+    {
+      "query": "cellino and barnes injury attorneys",
+      "clicks": 27,
+      "impressions": 246,
+      "ctr": 0.10975609756097561,
+      "position": 1.6097560975609757
+    },
+    {
+      "query": "gina cellino",
+      "clicks": 27,
+      "impressions": 45,
+      "ctr": 0.6,
+      "position": 2.1333333333333333
+    },
+    {
+      "query": "long island out of state car accident lawyer",
+      "clicks": 27,
+      "impressions": 159,
+      "ctr": 0.16981132075471697,
+      "position": 8.333333333333332
+    },
+    {
+      "query": "mv-104",
+      "clicks": 27,
+      "impressions": 2174,
+      "ctr": 0.012419503219871205,
+      "position": 5.324747010119595
+    },
+    {
+      "query": "stephanie jaramillo car accident",
+      "clicks": 27,
+      "impressions": 74,
+      "ctr": 0.36486486486486486,
+      "position": 1.0135135135135136
+    },
+    {
+      "query": "cellinolaw",
+      "clicks": 26,
+      "impressions": 49,
+      "ctr": 0.5306122448979592,
+      "position": 1.0408163265306123
+    },
+    {
+      "query": "menabrak anjing pertanda apa",
+      "clicks": 24,
+      "impressions": 153,
+      "ctr": 0.1568627450980392,
+      "position": 1.869281045751634
+    },
+    {
+      "query": "pertanda jika menabrak anjing",
+      "clicks": 24,
+      "impressions": 210,
+      "ctr": 0.11428571428571428,
+      "position": 1.938095238095238
+    },
+    {
+      "query": "cellino law, llp",
+      "clicks": 23,
+      "impressions": 38,
+      "ctr": 0.6052631578947368,
+      "position": 1
+    },
+    {
+      "query": "888 888 8888",
+      "clicks": 22,
+      "impressions": 307,
+      "ctr": 0.07166123778501629,
+      "position": 4.7947882736156355
+    },
+    {
+      "query": "cellino law melville",
+      "clicks": 22,
+      "impressions": 495,
+      "ctr": 0.044444444444444446,
+      "position": 1.0383838383838384
+    },
+    {
+      "query": "cellino law rochester ny",
+      "clicks": 21,
+      "impressions": 136,
+      "ctr": 0.15441176470588236,
+      "position": 1
+    },
+    {
+      "query": "brigitte cellino",
+      "clicks": 20,
+      "impressions": 131,
+      "ctr": 0.15267175572519084,
+      "position": 1
+    },
+    {
+      "query": "justin bettis",
+      "clicks": 20,
+      "impressions": 54,
+      "ctr": 0.37037037037037035,
+      "position": 1
+    },
+    {
+      "query": "mark kochanowicz",
+      "clicks": 20,
+      "impressions": 70,
+      "ctr": 0.2857142857142857,
+      "position": 3.1285714285714286
+    },
+    {
+      "query": "best long island car accident lawyer",
+      "clicks": 19,
+      "impressions": 125,
+      "ctr": 0.152,
+      "position": 8.376000000000001
+    },
+    {
+      "query": "cellino attorney",
+      "clicks": 19,
+      "impressions": 66,
+      "ctr": 0.2878787878787879,
+      "position": 1.3484848484848486
+    },
+    {
+      "query": "cellino law reviews",
+      "clicks": 19,
+      "impressions": 303,
+      "ctr": 0.0627062706270627,
+      "position": 2.006600660066007
+    },
+    {
+      "query": "diminished value claim new york",
+      "clicks": 19,
+      "impressions": 476,
+      "ctr": 0.03991596638655462,
+      "position": 3.254201680672269
+    },
+    {
+      "query": "mv 104",
+      "clicks": 19,
+      "impressions": 1651,
+      "ctr": 0.01150817686250757,
+      "position": 5.60205935796487
+    },
+    {
+      "query": "cellino and barnes law firm",
+      "clicks": 17,
+      "impressions": 161,
+      "ctr": 0.10559006211180125,
+      "position": 2.099378881987578
+    },
+    {
+      "query": "fatal car accident staten island today",
+      "clicks": 17,
+      "impressions": 1331,
+      "ctr": 0.012772351615326822,
+      "position": 8.350864012021038
+    },
+    {
+      "query": "selena law",
+      "clicks": 17,
+      "impressions": 207,
+      "ctr": 0.0821256038647343,
+      "position": 1.8260869565217392
+    },
+    {
+      "query": "cellino lawyer",
+      "clicks": 16,
+      "impressions": 86,
+      "ctr": 0.18604651162790697,
+      "position": 1.5930232558139537
+    },
+    {
+      "query": "mrs seymour h knox house tours",
+      "clicks": 16,
+      "impressions": 58,
+      "ctr": 0.27586206896551724,
+      "position": 1.0172413793103448
+    },
+    {
+      "query": "cellino firm",
+      "clicks": 15,
+      "impressions": 55,
+      "ctr": 0.2727272727272727,
+      "position": 1
+    },
+    {
+      "query": "cellino law new york",
+      "clicks": 15,
+      "impressions": 48,
+      "ctr": 0.3125,
+      "position": 1
+    },
+    {
+      "query": "cellino law phone number",
+      "clicks": 15,
+      "impressions": 176,
+      "ctr": 0.08522727272727272,
+      "position": 1.9204545454545454
+    },
+    {
+      "query": "oyster bay car accident lawyer",
+      "clicks": 15,
+      "impressions": 159,
+      "ctr": 0.09433962264150944,
+      "position": 3.4465408805031448
+    },
+    {
+      "query": "michael lovecchio",
+      "clicks": 14,
+      "impressions": 53,
+      "ctr": 0.2641509433962264,
+      "position": 1.0377358490566038
+    },
+    {
+      "query": "stephen ciocca",
+      "clicks": 14,
+      "impressions": 19,
+      "ctr": 0.7368421052631579,
+      "position": 1
+    },
+    {
+      "query": "supplemental spousal liability insurance",
+      "clicks": 14,
+      "impressions": 642,
+      "ctr": 0.021806853582554516,
+      "position": 9.95171339563863
+    },
+    {
+      "query": "car accident lawyer oyster bay ny",
+      "clicks": 13,
+      "impressions": 120,
+      "ctr": 0.10833333333333334,
+      "position": 1.9916666666666667
+    },
+    {
+      "query": "cellini law",
+      "clicks": 13,
+      "impressions": 34,
+      "ctr": 0.38235294117647056,
+      "position": 1.4705882352941178
+    },
+    {
+      "query": "new york city laws you should know",
+      "clicks": 13,
+      "impressions": 161,
+      "ctr": 0.08074534161490683,
+      "position": 3.484472049689441
+    },
+    {
+      "query": "ny dog bite law",
+      "clicks": 13,
+      "impressions": 113,
+      "ctr": 0.11504424778761062,
+      "position": 3.15929203539823
+    },
+    {
+      "query": "apa yang harus dilakukan ketika menabrak anjing",
+      "clicks": 12,
+      "impressions": 63,
+      "ctr": 0.19047619047619047,
+      "position": 1.7301587301587302
+    },
+    {
+      "query": "christina cora",
+      "clicks": 12,
+      "impressions": 66,
+      "ctr": 0.18181818181818182,
+      "position": 2.5454545454545454
+    },
+    {
+      "query": "long island city car accident lawyer",
+      "clicks": 12,
+      "impressions": 122,
+      "ctr": 0.09836065573770492,
+      "position": 9.524590163934427
+    },
+    {
+      "query": "medical malpractice lawyer buffalo ny",
+      "clicks": 12,
+      "impressions": 348,
+      "ctr": 0.034482758620689655,
+      "position": 12.663793103448276
+    },
+    {
+      "query": "motorcycle accident lawyer buffalo ny",
+      "clicks": 12,
+      "impressions": 173,
+      "ctr": 0.06936416184971098,
+      "position": 1.7630057803468207
+    },
+    {
+      "query": "ross cellino jr.",
+      "clicks": 12,
+      "impressions": 34,
+      "ctr": 0.35294117647058826,
+      "position": 1
+    },
+    {
+      "query": "do i need supplemental spousal liability insurance",
+      "clicks": 11,
+      "impressions": 204,
+      "ctr": 0.05392156862745098,
+      "position": 5.323529411764706
+    },
+    {
+      "query": "low-impact car accident injuries",
+      "clicks": 11,
+      "impressions": 295,
+      "ctr": 0.03728813559322034,
+      "position": 2.7966101694915255
+    },
+    {
+      "query": "robert voltz",
+      "clicks": 11,
+      "impressions": 49,
+      "ctr": 0.22448979591836735,
+      "position": 1.4285714285714286
+    },
+    {
+      "query": "what happens if you crash a car on a test drive",
+      "clicks": 11,
+      "impressions": 623,
+      "ctr": 0.01765650080256822,
+      "position": 3.024077046548957
+    },
+    {
+      "query": "brittany brideau",
+      "clicks": 10,
+      "impressions": 38,
+      "ctr": 0.2631578947368421,
+      "position": 1
+    },
+    {
+      "query": "cellino & barnes",
+      "clicks": 10,
+      "impressions": 579,
+      "ctr": 0.017271157167530225,
+      "position": 7.464594127806563
+    },
+    {
+      "query": "how do car manufacturers determine if safety features will work when cars are traveling at high speeds?",
+      "clicks": 10,
+      "impressions": 51,
+      "ctr": 0.19607843137254902,
+      "position": 1
+    },
+    {
+      "query": "manual distractions while driving",
+      "clicks": 10,
+      "impressions": 1151,
+      "ctr": 0.008688097306689836,
+      "position": 5.443961772371851
+    },
+    {
+      "query": "melville car accident lawyer",
+      "clicks": 10,
+      "impressions": 412,
+      "ctr": 0.024271844660194174,
+      "position": 3.8276699029126213
+    },
+    {
+      "query": "police towed my car illegally",
+      "clicks": 10,
+      "impressions": 145,
+      "ctr": 0.06896551724137931,
+      "position": 4.075862068965517
+    },
+    {
+      "query": "ross cellino daughter",
+      "clicks": 10,
+      "impressions": 29,
+      "ctr": 0.3448275862068966,
+      "position": 1
+    },
+    {
+      "query": "accident description for insurance claim",
+      "clicks": 9,
+      "impressions": 125,
+      "ctr": 0.072,
+      "position": 5.92
+    },
+    {
+      "query": "car accident lawyer amherst",
+      "clicks": 9,
+      "impressions": 590,
+      "ctr": 0.015254237288135594,
+      "position": 17.023728813559323
+    },
+    {
+      "query": "car accident lawyer buffalo ny",
+      "clicks": 9,
+      "impressions": 1244,
+      "ctr": 0.007234726688102894,
+      "position": 2.617363344051447
+    },
+    {
+      "query": "garbage truck hit my car",
+      "clicks": 9,
+      "impressions": 107,
+      "ctr": 0.08411214953271028,
+      "position": 4.084112149532711
+    },
+    {
+      "query": "grave injury new york",
+      "clicks": 9,
+      "impressions": 83,
+      "ctr": 0.10843373493975904,
+      "position": 1.8795180722891565
+    },
+    {
+      "query": "joshua sandberg",
+      "clicks": 9,
+      "impressions": 37,
+      "ctr": 0.24324324324324326,
+      "position": 1.1081081081081081
+    },
+    {
+      "query": "new york dog bite laws",
+      "clicks": 9,
+      "impressions": 1506,
+      "ctr": 0.00597609561752988,
+      "position": 3.1314741035856573
+    },
+    {
+      "query": "1-888-888-8888",
+      "clicks": 8,
+      "impressions": 166,
+      "ctr": 0.04819277108433735,
+      "position": 5.650602409638554
+    },
+    {
+      "query": "arti menabrak anjing tidak sengaja",
+      "clicks": 8,
+      "impressions": 54,
+      "ctr": 0.14814814814814814,
+      "position": 1.9444444444444444
+    },
+    {
+      "query": "can i sue a towing company for damaging my car",
+      "clicks": 8,
+      "impressions": 764,
+      "ctr": 0.010471204188481676,
+      "position": 4.112565445026178
+    },
+    {
+      "query": "car accident lawyer farmingdale",
+      "clicks": 8,
+      "impressions": 64,
+      "ctr": 0.125,
+      "position": 3.640625
+    },
+    {
+      "query": "coccyx injury time off work",
+      "clicks": 8,
+      "impressions": 193,
+      "ctr": 0.04145077720207254,
+      "position": 5.461139896373057
+    },
+    {
+      "query": "lawyer car accident farmingdale",
+      "clicks": 8,
+      "impressions": 59,
+      "ctr": 0.13559322033898305,
+      "position": 3.5254237288135593
+    },
+    {
+      "query": "menabrak anjing tidak sengaja",
+      "clicks": 8,
+      "impressions": 136,
+      "ctr": 0.058823529411764705,
+      "position": 2.485294117647059
+    },
+    {
+      "query": "motorcycle accident lawyer buffalo",
+      "clicks": 8,
+      "impressions": 279,
+      "ctr": 0.02867383512544803,
+      "position": 4.505376344086022
+    },
+    {
+      "query": "mrs seymour h knox house photos",
+      "clicks": 8,
+      "impressions": 129,
+      "ctr": 0.06201550387596899,
+      "position": 4.108527131782946
+    },
+    {
+      "query": "mv104 dmv",
+      "clicks": 8,
+      "impressions": 479,
+      "ctr": 0.016701461377870562,
+      "position": 5.27348643006263
+    },
+    {
+      "query": "mv104 form",
+      "clicks": 8,
+      "impressions": 1069,
+      "ctr": 0.007483629560336763,
+      "position": 6.516370439663237
+    },
+    {
+      "query": "supplemental spousal liability",
+      "clicks": 8,
+      "impressions": 489,
+      "ctr": 0.016359918200409,
+      "position": 9.012269938650308
+    },
+    {
+      "query": "what happens if you crash a car during a test drive",
+      "clicks": 8,
+      "impressions": 421,
+      "ctr": 0.019002375296912115,
+      "position": 3.133016627078385
+    },
+    {
+      "query": "abraham meir",
+      "clicks": 7,
+      "impressions": 40,
+      "ctr": 0.175,
+      "position": 1.35
+    },
+    {
+      "query": "arti menabrak anjing di jalan",
+      "clicks": 7,
+      "impressions": 19,
+      "ctr": 0.3684210526315789,
+      "position": 1.7894736842105263
+    },
+    {
+      "query": "best car accident lawyer in buffalo ny",
+      "clicks": 7,
+      "impressions": 95,
+      "ctr": 0.07368421052631578,
+      "position": 1.0210526315789474
+    },
+    {
+      "query": "fractura de coxis",
+      "clicks": 7,
+      "impressions": 679,
+      "ctr": 0.010309278350515464,
+      "position": 2.08100147275405
+    },
+    {
+      "query": "malpractice lawyer buffalo ny",
+      "clicks": 7,
+      "impressions": 207,
+      "ctr": 0.033816425120772944,
+      "position": 10.014492753623188
+    },
+    {
+      "query": "mrs. seymour h. knox house",
+      "clicks": 7,
+      "impressions": 26,
+      "ctr": 0.2692307692307692,
+      "position": 1.4230769230769231
+    },
+    {
+      "query": "new york comparative negligence law",
+      "clicks": 7,
+      "impressions": 295,
+      "ctr": 0.023728813559322035,
+      "position": 3.5830508474576273
+    },
+    {
+      "query": "new york dog bite law",
+      "clicks": 7,
+      "impressions": 343,
+      "ctr": 0.02040816326530612,
+      "position": 3.693877551020408
+    },
+    {
+      "query": "nys cracked windshield law",
+      "clicks": 7,
+      "impressions": 34,
+      "ctr": 0.20588235294117646,
+      "position": 1.5294117647058822
+    },
+    {
+      "query": "safest motorcycle gear",
+      "clicks": 7,
+      "impressions": 263,
+      "ctr": 0.026615969581749048,
+      "position": 8.152091254752852
+    },
+    {
+      "query": "soho car accident lawyer",
+      "clicks": 7,
+      "impressions": 50,
+      "ctr": 0.14,
+      "position": 3.36
+    },
+    {
+      "query": "uber driving record requirements",
+      "clicks": 7,
+      "impressions": 431,
+      "ctr": 0.016241299303944315,
+      "position": 7.396751740139211
+    },
+    {
+      "query": "workers comp lawyers rochester ny",
+      "clicks": 7,
+      "impressions": 172,
+      "ctr": 0.040697674418604654,
+      "position": 8.534883720930232
+    },
+    {
+      "query": "800 delaware ave buffalo ny",
+      "clicks": 6,
+      "impressions": 258,
+      "ctr": 0.023255813953488372,
+      "position": 4.0852713178294575
+    },
+    {
+      "query": "car accident long island",
+      "clicks": 6,
+      "impressions": 383,
+      "ctr": 0.015665796344647518,
+      "position": 10.044386422976501
+    },
+    {
+      "query": "cellino & barnes law firm",
+      "clicks": 6,
+      "impressions": 54,
+      "ctr": 0.1111111111111111,
+      "position": 2.4814814814814814
+    },
+    {
+      "query": "cellino injury attorney",
+      "clicks": 6,
+      "impressions": 47,
+      "ctr": 0.1276595744680851,
+      "position": 1.3617021276595744
+    },
+    {
+      "query": "cellino law accident attorneys reviews",
+      "clicks": 6,
+      "impressions": 414,
+      "ctr": 0.014492753623188406,
+      "position": 2.7318840579710146
+    },
+    {
+      "query": "dog bit my child",
+      "clicks": 6,
+      "impressions": 507,
+      "ctr": 0.011834319526627219,
+      "position": 6.723865877712032
+    },
+    {
+      "query": "gregory pajak",
+      "clicks": 6,
+      "impressions": 9,
+      "ctr": 0.6666666666666666,
+      "position": 1
+    },
+    {
+      "query": "height and weight to sit in front seat ny",
+      "clicks": 6,
+      "impressions": 861,
+      "ctr": 0.006968641114982578,
+      "position": 5.996515679442509
+    },
+    {
+      "query": "insurance not giving enough for totaled car",
+      "clicks": 6,
+      "impressions": 25,
+      "ctr": 0.24,
+      "position": 2.52
+    },
+    {
+      "query": "josh sandberg",
+      "clicks": 6,
+      "impressions": 342,
+      "ctr": 0.017543859649122806,
+      "position": 2.9502923976608186
+    },
+    {
+      "query": "law firms buffalo ny",
+      "clicks": 6,
+      "impressions": 116,
+      "ctr": 0.05172413793103448,
+      "position": 10.568965517241379
+    },
+    {
+      "query": "mike lovecchio",
+      "clicks": 6,
+      "impressions": 53,
+      "ctr": 0.11320754716981132,
+      "position": 2.3207547169811322
+    },
+    {
+      "query": "mv-104 form",
+      "clicks": 6,
+      "impressions": 494,
+      "ctr": 0.012145748987854251,
+      "position": 6.135627530364372
+    },
+    {
+      "query": "personal injury lawyer",
+      "clicks": 6,
+      "impressions": 24422,
+      "ctr": 0.0002456801244779297,
+      "position": 19.236712799934484
+    },
+    {
+      "query": "personal injury lawyer manhattan",
+      "clicks": 6,
+      "impressions": 2248,
+      "ctr": 0.0026690391459074734,
+      "position": 15.117437722419929
+    },
+    {
+      "query": "submit mv-104 online",
+      "clicks": 6,
+      "impressions": 872,
+      "ctr": 0.006880733944954129,
+      "position": 10.029816513761467
+    },
+    {
+      "query": "thomas cleere",
+      "clicks": 6,
+      "impressions": 15,
+      "ctr": 0.4,
+      "position": 1
+    },
+    {
+      "query": "tim cellino",
+      "clicks": 6,
+      "impressions": 24,
+      "ctr": 0.25,
+      "position": 1
+    },
+    {
+      "query": "timothy cellino",
+      "clicks": 6,
+      "impressions": 11,
+      "ctr": 0.5454545454545454,
+      "position": 1
+    },
+    {
+      "query": "what happens if you wreck a car while test driving",
+      "clicks": 6,
+      "impressions": 179,
+      "ctr": 0.0335195530726257,
+      "position": 2.6201117318435756
+    },
+    {
+      "query": "what is the average settlement for a car accident while pregnant",
+      "clicks": 6,
+      "impressions": 1070,
+      "ctr": 0.005607476635514018,
+      "position": 7.798130841121496
+    },
+    {
+      "query": "what to do if car insurance doesn't pay enough",
+      "clicks": 6,
+      "impressions": 44,
+      "ctr": 0.13636363636363635,
+      "position": 2.4772727272727275
+    },
+    {
+      "query": "8005555555",
+      "clicks": 5,
+      "impressions": 170,
+      "ctr": 0.029411764705882353,
+      "position": 6.541176470588235
+    },
+    {
+      "query": "accident during test drive",
+      "clicks": 5,
+      "impressions": 494,
+      "ctr": 0.010121457489878543,
+      "position": 5.366396761133603
+    },
+    {
+      "query": "allen silverstein",
+      "clicks": 5,
+      "impressions": 74,
+      "ctr": 0.06756756756756757,
+      "position": 2.4054054054054053
+    },
+    {
+      "query": "amr ambulance crash",
+      "clicks": 5,
+      "impressions": 430,
+      "ctr": 0.011627906976744186,
+      "position": 5.7627906976744185
+    },
+    {
+      "query": "amr ambulance crash today",
+      "clicks": 5,
+      "impressions": 74,
+      "ctr": 0.06756756756756757,
+      "position": 5.621621621621622
+    },
+    {
+      "query": "annmarie cellino",
+      "clicks": 5,
+      "impressions": 14,
+      "ctr": 0.35714285714285715,
+      "position": 1
+    },
+    {
+      "query": "best lawyers for hernia mesh lawsuit",
+      "clicks": 5,
+      "impressions": 272,
+      "ctr": 0.01838235294117647,
+      "position": 9.610294117647058
+    },
+    {
+      "query": "can you buy back a totaled car",
+      "clicks": 5,
+      "impressions": 549,
+      "ctr": 0.009107468123861567,
+      "position": 6.185792349726776
+    },
+    {
+      "query": "car accident lawyer",
+      "clicks": 5,
+      "impressions": 37150,
+      "ctr": 0.00013458950201884252,
+      "position": 42.34441453566622
+    },
+    {
+      "query": "car accident lawyer in buffalo ny",
+      "clicks": 5,
+      "impressions": 398,
+      "ctr": 0.01256281407035176,
+      "position": 3.0854271356783918
+    },
+    {
+      "query": "celino and barnes",
+      "clicks": 5,
+      "impressions": 826,
+      "ctr": 0.006053268765133172,
+      "position": 8.587167070217918
+    },
+    {
+      "query": "desire louree",
+      "clicks": 5,
+      "impressions": 31,
+      "ctr": 0.16129032258064516,
+      "position": 4.580645161290322
+    },
+    {
+      "query": "grave injury",
+      "clicks": 5,
+      "impressions": 412,
+      "ctr": 0.012135922330097087,
+      "position": 6.924757281553398
+    },
+    {
+      "query": "head injury side effects years later",
+      "clicks": 5,
+      "impressions": 505,
+      "ctr": 0.009900990099009901,
+      "position": 14.152475247524752
+    },
+    {
+      "query": "laws in new york for tourists",
+      "clicks": 5,
+      "impressions": 7,
+      "ctr": 0.7142857142857143,
+      "position": 1.5714285714285714
+    },
+    {
+      "query": "motomenacee death",
+      "clicks": 5,
+      "impressions": 656,
+      "ctr": 0.007621951219512195,
+      "position": 3.4588414634146343
+    },
+    {
+      "query": "se puede caminar con fractura de coxis",
+      "clicks": 5,
+      "impressions": 238,
+      "ctr": 0.02100840336134454,
+      "position": 2.7899159663865545
+    },
+    {
+      "query": "short description of accident for insurance claim",
+      "clicks": 5,
+      "impressions": 269,
+      "ctr": 0.01858736059479554,
+      "position": 6.338289962825279
+    },
+    {
+      "query": "sledding accident",
+      "clicks": 5,
+      "impressions": 161,
+      "ctr": 0.031055900621118012,
+      "position": 15.273291925465838
+    },
+    {
+      "query": "slip and fall attorneys near me",
+      "clicks": 5,
+      "impressions": 4311,
+      "ctr": 0.001159823706796567,
+      "position": 50.98538622129436
+    },
+    {
+      "query": "slip and fall lawyers",
+      "clicks": 5,
+      "impressions": 31435,
+      "ctr": 0.0001590583744234134,
+      "position": 53.46247812947352
+    },
+    {
+      "query": "staten island car crash",
+      "clicks": 5,
+      "impressions": 111,
+      "ctr": 0.04504504504504504,
+      "position": 6.8108108108108105
+    },
+    {
+      "query": "sum coverage",
+      "clicks": 5,
+      "impressions": 228,
+      "ctr": 0.021929824561403508,
+      "position": 4.31140350877193
+    },
+    {
+      "query": "what if repair cost more than insurance estimate",
+      "clicks": 5,
+      "impressions": 554,
+      "ctr": 0.009025270758122744,
+      "position": 9.615523465703971
+    },
+    {
+      "query": "what is supplemental spousal liability insurance",
+      "clicks": 5,
+      "impressions": 373,
+      "ctr": 0.013404825737265416,
+      "position": 7.603217158176943
+    },
+    {
+      "query": "what kind of lawyer do i need to sue a towing company",
+      "clicks": 5,
+      "impressions": 367,
+      "ctr": 0.013623978201634877,
+      "position": 5.662125340599455
+    },
+    {
+      "query": "what to do if family dog bites child",
+      "clicks": 5,
+      "impressions": 181,
+      "ctr": 0.027624309392265192,
+      "position": 9.12707182320442
+    },
+    {
+      "query": "workers comp lawyer",
+      "clicks": 5,
+      "impressions": 1243,
+      "ctr": 0.004022526146419952,
+      "position": 28.462590506838293
+    },
+    {
+      "query": "(888) 888-8888",
+      "clicks": 4,
+      "impressions": 163,
+      "ctr": 0.024539877300613498,
+      "position": 5.6871165644171775
+    },
+    {
+      "query": "accident while test driving car",
+      "clicks": 4,
+      "impressions": 29,
+      "ctr": 0.13793103448275862,
+      "position": 2.5172413793103448
+    },
+    {
+      "query": "allan silverstein",
+      "clicks": 4,
+      "impressions": 51,
+      "ctr": 0.0784313725490196,
+      "position": 1.6666666666666665
+    },
+    {
+      "query": "buffalo ny car accident lawyer",
+      "clicks": 4,
+      "impressions": 185,
+      "ctr": 0.021621621621621623,
+      "position": 1.4972972972972973
+    },
+    {
+      "query": "can you sue a towing company",
+      "clicks": 4,
+      "impressions": 320,
+      "ctr": 0.0125,
+      "position": 7.378125
+    },
+    {
+      "query": "car accident lawyer celina",
+      "clicks": 4,
+      "impressions": 40,
+      "ctr": 0.1,
+      "position": 48.75
+    },
+    {
+      "query": "car accident statement example",
+      "clicks": 4,
+      "impressions": 72,
+      "ctr": 0.05555555555555555,
+      "position": 11.833333333333334
+    },
+    {
+      "query": "car crash call cellino",
+      "clicks": 4,
+      "impressions": 39,
+      "ctr": 0.10256410256410256,
+      "position": 2.7435897435897436
+    },
+    {
+      "query": "cellino law car accident attorney",
+      "clicks": 4,
+      "impressions": 7,
+      "ctr": 0.5714285714285714,
+      "position": 1
+    },
+    {
+      "query": "cellino law personal injury lawyers",
+      "clicks": 4,
+      "impressions": 6,
+      "ctr": 0.6666666666666666,
+      "position": 1
+    },
+    {
+      "query": "chris damato",
+      "clicks": 4,
+      "impressions": 8,
+      "ctr": 0.5,
+      "position": 3.875
+    },
+    {
+      "query": "comparative negligence new york",
+      "clicks": 4,
+      "impressions": 431,
+      "ctr": 0.009280742459396751,
+      "position": 5.076566125290023
+    },
+    {
+      "query": "diminished value claim",
+      "clicks": 4,
+      "impressions": 2116,
+      "ctr": 0.001890359168241966,
+      "position": 37.97117202268431
+    },
+    {
+      "query": "do you have to stop if you hit a dog",
+      "clicks": 4,
+      "impressions": 135,
+      "ctr": 0.02962962962962963,
+      "position": 6.148148148148148
+    },
+    {
+      "query": "fracture du coccyx",
+      "clicks": 4,
+      "impressions": 355,
+      "ctr": 0.011267605633802818,
+      "position": 2
+    },
+    {
+      "query": "how to describe a car accident for insurance examples",
+      "clicks": 4,
+      "impressions": 277,
+      "ctr": 0.01444043321299639,
+      "position": 4.743682310469314
+    },
+    {
+      "query": "how to win a left turn accident",
+      "clicks": 4,
+      "impressions": 503,
+      "ctr": 0.007952286282306162,
+      "position": 47.54671968190855
+    },
+    {
+      "query": "if a dog runs in front of your car",
+      "clicks": 4,
+      "impressions": 52,
+      "ctr": 0.07692307692307693,
+      "position": 6
+    },
+    {
+      "query": "injury attorney buffalo ny",
+      "clicks": 4,
+      "impressions": 691,
+      "ctr": 0.005788712011577424,
+      "position": 7.154848046309696
+    },
+    {
+      "query": "insurance not paying enough for totaled car",
+      "clicks": 4,
+      "impressions": 344,
+      "ctr": 0.011627906976744186,
+      "position": 3.88953488372093
+    },
+    {
+      "query": "is it bad luck to hit a dog with your car",
+      "clicks": 4,
+      "impressions": 257,
+      "ctr": 0.01556420233463035,
+      "position": 4.902723735408561
+    },
+    {
+      "query": "is it bad luck to hit a dog with your car in india",
+      "clicks": 4,
+      "impressions": 42,
+      "ctr": 0.09523809523809523,
+      "position": 9.571428571428571
+    },
+    {
+      "query": "knox farm mansion",
+      "clicks": 4,
+      "impressions": 6,
+      "ctr": 0.6666666666666666,
+      "position": 2
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:21:22.336Z"
 }

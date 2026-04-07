@@ -1,156 +1,16 @@
 {
   "property": "sc-domain:amglaw.com",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 7131,
-    "impressions": 1105454,
-    "ctr": 0.006450743314511504,
-    "position": 13.211660226257264
+    "clicks": 7809,
+    "impressions": 1275614,
+    "ctr": 0.006121757835834351,
+    "position": 12.048260491793053
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 114,
-      "impressions": 8120,
-      "ctr": 0.014039408866995074,
-      "position": 12.120320197044334
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 82,
-      "impressions": 7975,
-      "ctr": 0.010282131661442007,
-      "position": 14.92012539184953
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 79,
-      "impressions": 7056,
-      "ctr": 0.011196145124716554,
-      "position": 12.71471088435374
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 76,
-      "impressions": 7841,
-      "ctr": 0.00969264124473919,
-      "position": 14.376865195765847
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 96,
-      "impressions": 11796,
-      "ctr": 0.008138351983723296,
-      "position": 12.62597490674805
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 54,
-      "impressions": 8312,
-      "ctr": 0.0064966313763233875,
-      "position": 15.526588065447546
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 65,
-      "impressions": 7155,
-      "ctr": 0.009084556254367574,
-      "position": 15.585883997204752
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 78,
-      "impressions": 9189,
-      "ctr": 0.008488410055501142,
-      "position": 12.144955925563174
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 57,
-      "impressions": 7781,
-      "ctr": 0.007325536563423725,
-      "position": 17.594782161675877
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 27,
-      "impressions": 6239,
-      "ctr": 0.004327616605225197,
-      "position": 18.79291553133515
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 26,
-      "impressions": 5173,
-      "ctr": 0.005026097042335202,
-      "position": 17.199110767446356
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 57,
-      "impressions": 6811,
-      "ctr": 0.008368815151960064,
-      "position": 14.299662310967552
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 49,
-      "impressions": 6998,
-      "ctr": 0.007002000571591884,
-      "position": 16.663332380680195
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 41,
-      "impressions": 7069,
-      "ctr": 0.005799971707455086,
-      "position": 14.91950770971849
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 50,
-      "impressions": 8366,
-      "ctr": 0.005976571838393498,
-      "position": 12.928878795123117
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 42,
-      "impressions": 7909,
-      "ctr": 0.0053104058667341,
-      "position": 17.815779491718295
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 40,
-      "impressions": 7449,
-      "ctr": 0.005369848301785474,
-      "position": 17.683447442609747
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 39,
-      "impressions": 6750,
-      "ctr": 0.0057777777777777775,
-      "position": 18.202814814814815
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 46,
-      "impressions": 7460,
-      "ctr": 0.0061662198391420914,
-      "position": 13.908310991957105
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 28,
-      "impressions": 6017,
-      "ctr": 0.00465348180156224,
-      "position": 16.19278710320758
-    },
     {
       "date": "2026-01-04",
       "clicks": 22,
@@ -640,711 +500,3314 @@
       "impressions": 9866,
       "ctr": 0.0054733427934319885,
       "position": 12.00689235759173
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 54,
+      "impressions": 9961,
+      "ctr": 0.005421142455576749,
+      "position": 11.313321955626945
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 112,
+      "impressions": 13863,
+      "ctr": 0.008079059366659454,
+      "position": 9.710163745221092
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 104,
+      "impressions": 13980,
+      "ctr": 0.007439198855507869,
+      "position": 9.525894134477825
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 103,
+      "impressions": 14044,
+      "ctr": 0.00733409285103959,
+      "position": 9.182213044716605
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 97,
+      "impressions": 12998,
+      "ctr": 0.007462686567164179,
+      "position": 9.198338205877828
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 63,
+      "impressions": 12613,
+      "ctr": 0.004994846586854832,
+      "position": 10.47958455561722
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 49,
+      "impressions": 12526,
+      "ctr": 0.003911863324285486,
+      "position": 13.18369790835063
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 47,
+      "impressions": 11801,
+      "ctr": 0.003982713329378866,
+      "position": 12.852385391068553
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 87,
+      "impressions": 15903,
+      "ctr": 0.005470665912092058,
+      "position": 10.145318493366032
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 107,
+      "impressions": 17104,
+      "ctr": 0.006255846585594013,
+      "position": 9.58863423760524
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 108,
+      "impressions": 15403,
+      "ctr": 0.007011621112770239,
+      "position": 11.36518859962345
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 86,
+      "impressions": 15313,
+      "ctr": 0.005616143146346242,
+      "position": 11.142493306341018
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 98,
+      "impressions": 15846,
+      "ctr": 0.006184526063359838,
+      "position": 10.037485800833018
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 59,
+      "impressions": 13554,
+      "ctr": 0.004352958536225468,
+      "position": 10.725025822635384
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 64,
+      "impressions": 14133,
+      "ctr": 0.004528408688884172,
+      "position": 11.389301634472512
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 111,
+      "impressions": 19916,
+      "ctr": 0.005573408314922675,
+      "position": 9.801215103434425
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 102,
+      "impressions": 22350,
+      "ctr": 0.004563758389261745,
+      "position": 7.933825503355704
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 101,
+      "impressions": 18843,
+      "ctr": 0.005360080666560526,
+      "position": 8.981000902191795
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 119,
+      "impressions": 20113,
+      "ctr": 0.005916571371749614,
+      "position": 8.418236961169393
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 94,
+      "impressions": 16621,
+      "ctr": 0.005655496059202214,
+      "position": 9.010107695084532
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 59,
+      "impressions": 14741,
+      "ctr": 0.004002442168102571,
+      "position": 9.57560545417543
     }
   ],
   "topQueries": [
     {
       "query": "gloria allred",
-      "clicks": 329,
-      "impressions": 51706,
-      "ctr": 0.0063628979228716204,
-      "position": 7.791687618458206
+      "clicks": 317,
+      "impressions": 44734,
+      "ctr": 0.007086332543479233,
+      "position": 7.803996959806859
     },
     {
       "query": "allred maroko & goldberg",
-      "clicks": 270,
-      "impressions": 531,
-      "ctr": 0.5084745762711864,
-      "position": 1.2146892655367232
+      "clicks": 297,
+      "impressions": 576,
+      "ctr": 0.515625,
+      "position": 1.078125
     },
     {
       "query": "gloria allred law firm",
-      "clicks": 257,
-      "impressions": 743,
-      "ctr": 0.34589502018842533,
-      "position": 1.224764468371467
+      "clicks": 269,
+      "impressions": 769,
+      "ctr": 0.34980494148244473,
+      "position": 1.213263979193758
     },
     {
       "query": "allred, maroko & goldberg",
-      "clicks": 219,
-      "impressions": 412,
-      "ctr": 0.5315533980582524,
-      "position": 1.233009708737864
-    },
-    {
-      "query": "christina cardenas",
-      "clicks": 78,
-      "impressions": 1483,
-      "ctr": 0.052596089008766014,
-      "position": 4.832771409305462
-    },
-    {
-      "query": "olivia flechsig",
-      "clicks": 52,
-      "impressions": 95,
-      "ctr": 0.5473684210526316,
-      "position": 1.4947368421052631
+      "clicks": 229,
+      "impressions": 431,
+      "ctr": 0.531322505800464,
+      "position": 1.2134570765661252
     },
     {
       "query": "gloria allred office",
-      "clicks": 51,
-      "impressions": 217,
-      "ctr": 0.2350230414746544,
-      "position": 3.423963133640553
+      "clicks": 72,
+      "impressions": 256,
+      "ctr": 0.28125,
+      "position": 3.04296875
     },
     {
-      "query": "nathan goldberg",
-      "clicks": 50,
-      "impressions": 1007,
-      "ctr": 0.04965243296921549,
-      "position": 4.618669314796425
+      "query": "christina cardenas",
+      "clicks": 70,
+      "impressions": 1323,
+      "ctr": 0.05291005291005291,
+      "position": 4.607709750566894
+    },
+    {
+      "query": "olivia flechsig",
+      "clicks": 51,
+      "impressions": 90,
+      "ctr": 0.5666666666666667,
+      "position": 1
     },
     {
       "query": "gloria allred firm",
-      "clicks": 47,
-      "impressions": 109,
-      "ctr": 0.43119266055045874,
-      "position": 5.422018348623853
+      "clicks": 44,
+      "impressions": 100,
+      "ctr": 0.44,
+      "position": 5.04
     },
     {
-      "query": "nathan goldberg attorney",
-      "clicks": 40,
-      "impressions": 150,
-      "ctr": 0.26666666666666666,
-      "position": 3.18
-    },
-    {
-      "query": "gloria allred attorney",
-      "clicks": 38,
-      "impressions": 472,
-      "ctr": 0.08050847457627118,
-      "position": 5.046610169491525
-    },
-    {
-      "query": "dolores leal",
-      "clicks": 35,
-      "impressions": 98,
-      "ctr": 0.35714285714285715,
-      "position": 1.2244897959183674
-    },
-    {
-      "query": "christina cheung",
-      "clicks": 33,
-      "impressions": 393,
-      "ctr": 0.08396946564885496,
-      "position": 2.7480916030534353
-    },
-    {
-      "query": "renee mochkatel",
-      "clicks": 33,
-      "impressions": 90,
-      "ctr": 0.36666666666666664,
-      "position": 1.2
-    },
-    {
-      "query": "michael maroko",
-      "clicks": 31,
-      "impressions": 87,
-      "ctr": 0.3563218390804598,
-      "position": 2.402298850574713
-    },
-    {
-      "query": "gloria allred still practicing law",
-      "clicks": 28,
-      "impressions": 242,
-      "ctr": 0.11570247933884298,
-      "position": 1.2727272727272727
+      "query": "nathan goldberg",
+      "clicks": 41,
+      "impressions": 1018,
+      "ctr": 0.04027504911591356,
+      "position": 4.12573673870334
     },
     {
       "query": "allred maroko goldberg",
-      "clicks": 25,
-      "impressions": 86,
-      "ctr": 0.29069767441860467,
-      "position": 3.5697674418604652
+      "clicks": 38,
+      "impressions": 112,
+      "ctr": 0.3392857142857143,
+      "position": 3.4642857142857144
     },
     {
-      "query": "karis stephen",
-      "clicks": 25,
-      "impressions": 74,
-      "ctr": 0.33783783783783783,
-      "position": 1.0675675675675675
+      "query": "christina cheung",
+      "clicks": 37,
+      "impressions": 449,
+      "ctr": 0.08240534521158129,
+      "position": 2.864142538975501
     },
     {
-      "query": "amglaw",
-      "clicks": 24,
+      "query": "gloria allred attorney",
+      "clicks": 35,
+      "impressions": 418,
+      "ctr": 0.08373205741626795,
+      "position": 4.844497607655502
+    },
+    {
+      "query": "michael maroko",
+      "clicks": 34,
+      "impressions": 93,
+      "ctr": 0.3655913978494624,
+      "position": 2.311827956989247
+    },
+    {
+      "query": "renee mochkatel",
+      "clicks": 34,
       "impressions": 90,
-      "ctr": 0.26666666666666666,
-      "position": 2.4222222222222225
+      "ctr": 0.37777777777777777,
+      "position": 1.2
+    },
+    {
+      "query": "dolores leal",
+      "clicks": 33,
+      "impressions": 95,
+      "ctr": 0.3473684210526316,
+      "position": 1.231578947368421
+    },
+    {
+      "query": "gloria allred still practicing law",
+      "clicks": 33,
+      "impressions": 219,
+      "ctr": 0.1506849315068493,
+      "position": 1.2602739726027397
     },
     {
       "query": "bereavement leave california",
-      "clicks": 22,
-      "impressions": 10143,
-      "ctr": 0.0021689835354431627,
-      "position": 2.991915606822439
+      "clicks": 31,
+      "impressions": 11203,
+      "ctr": 0.002767115951084531,
+      "position": 3.2607337320360616
+    },
+    {
+      "query": "karis stephen",
+      "clicks": 27,
+      "impressions": 76,
+      "ctr": 0.35526315789473684,
+      "position": 1.0657894736842106
+    },
+    {
+      "query": "nathan goldberg attorney",
+      "clicks": 27,
+      "impressions": 119,
+      "ctr": 0.226890756302521,
+      "position": 4.38655462184874
+    },
+    {
+      "query": "amglaw",
+      "clicks": 26,
+      "impressions": 109,
+      "ctr": 0.23853211009174313,
+      "position": 2.3944954128440368
     },
     {
       "query": "allred law firm",
-      "clicks": 21,
-      "impressions": 128,
-      "ctr": 0.1640625,
-      "position": 5.3515625
+      "clicks": 25,
+      "impressions": 131,
+      "ctr": 0.19083969465648856,
+      "position": 5.267175572519084
     },
     {
-      "query": "amg law",
-      "clicks": 18,
-      "impressions": 496,
-      "ctr": 0.036290322580645164,
-      "position": 3.725806451612903
+      "query": "marcus spiegel attorney",
+      "clicks": 22,
+      "impressions": 36,
+      "ctr": 0.6111111111111112,
+      "position": 2.4722222222222223
+    },
+    {
+      "query": "tesla sex",
+      "clicks": 22,
+      "impressions": 3315,
+      "ctr": 0.006636500754147813,
+      "position": 4.849170437405732
     },
     {
       "query": "gloria alred",
-      "clicks": 18,
-      "impressions": 1913,
-      "ctr": 0.009409304756926294,
-      "position": 8.335075797177208
+      "clicks": 19,
+      "impressions": 1669,
+      "ctr": 0.011384062312762133,
+      "position": 8.360095865787898
     },
     {
       "query": "marcus spiegel",
       "clicks": 18,
-      "impressions": 161,
-      "ctr": 0.11180124223602485,
-      "position": 4.813664596273291
-    },
-    {
-      "query": "marcus spiegel attorney",
-      "clicks": 18,
-      "impressions": 29,
-      "ctr": 0.6206896551724138,
-      "position": 2.8275862068965516
-    },
-    {
-      "query": "bill gates sexual charges",
-      "clicks": 17,
-      "impressions": 393,
-      "ctr": 0.043256997455470736,
-      "position": 2.5318066157760812
+      "impressions": 165,
+      "ctr": 0.10909090909090909,
+      "position": 5.133333333333334
     },
     {
       "query": "allred maroko",
-      "clicks": 15,
-      "impressions": 870,
-      "ctr": 0.017241379310344827,
-      "position": 1.5482758620689654
+      "clicks": 17,
+      "impressions": 689,
+      "ctr": 0.02467343976777939,
+      "position": 1.6923076923076923
     },
     {
-      "query": "tesla sex",
-      "clicks": 15,
-      "impressions": 2579,
-      "ctr": 0.0058162078324932144,
-      "position": 4.646762310973246
+      "query": "bereavement leave",
+      "clicks": 17,
+      "impressions": 11523,
+      "ctr": 0.0014753102490670832,
+      "position": 4.119239781306952
     },
     {
       "query": "allred maroko and goldberg",
+      "clicks": 15,
+      "impressions": 657,
+      "ctr": 0.0228310502283105,
+      "position": 1.8143074581430745
+    },
+    {
+      "query": "amg law",
       "clicks": 14,
-      "impressions": 823,
-      "ctr": 0.01701093560145808,
-      "position": 1.0643985419198057
+      "impressions": 513,
+      "ctr": 0.02729044834307992,
+      "position": 4.159844054580897
     },
     {
       "query": "bill gates prostitutes",
       "clicks": 13,
-      "impressions": 222,
-      "ctr": 0.05855855855855856,
-      "position": 7.617117117117117
+      "impressions": 232,
+      "ctr": 0.05603448275862069,
+      "position": 7.702586206896552
     },
     {
-      "query": "where is roman polanski now",
+      "query": "is gloria allred still practicing law",
       "clicks": 13,
-      "impressions": 1079,
-      "ctr": 0.012048192771084338,
-      "position": 4.876737720111214
+      "impressions": 101,
+      "ctr": 0.12871287128712872,
+      "position": 1.198019801980198
+    },
+    {
+      "query": "olivia goldberg stanford law",
+      "clicks": 13,
+      "impressions": 108,
+      "ctr": 0.12037037037037036,
+      "position": 1.4907407407407407
     },
     {
       "query": "bereavement leave california 2025",
       "clicks": 12,
-      "impressions": 472,
-      "ctr": 0.025423728813559324,
-      "position": 1.7245762711864407
+      "impressions": 418,
+      "ctr": 0.028708133971291867,
+      "position": 1.7703349282296652
     },
     {
-      "query": "gloria allred contact number",
-      "clicks": 11,
-      "impressions": 68,
-      "ctr": 0.16176470588235295,
-      "position": 1.3529411764705883
-    },
-    {
-      "query": "is gloria allred still practicing law",
-      "clicks": 11,
-      "impressions": 97,
-      "ctr": 0.1134020618556701,
-      "position": 1.2061855670103092
-    },
-    {
-      "query": "wrongful termination lawyer los angeles",
-      "clicks": 11,
-      "impressions": 4741,
-      "ctr": 0.002320185614849188,
-      "position": 5.854250158194474
-    },
-    {
-      "query": "attorney gloria allred",
-      "clicks": 10,
-      "impressions": 574,
-      "ctr": 0.017421602787456445,
-      "position": 7.806620209059234
-    },
-    {
-      "query": "bill gates sexuality",
-      "clicks": 10,
-      "impressions": 318,
-      "ctr": 0.031446540880503145,
-      "position": 5.959119496855346
-    },
-    {
-      "query": "civil rights attorney",
-      "clicks": 10,
-      "impressions": 4094,
-      "ctr": 0.002442598925256473,
-      "position": 43.96580361504641
+      "query": "dolores leal attorney",
+      "clicks": 12,
+      "impressions": 24,
+      "ctr": 0.5,
+      "position": 10.875
     },
     {
       "query": "gloria allred contact",
+      "clicks": 12,
+      "impressions": 101,
+      "ctr": 0.1188118811881188,
+      "position": 12.752475247524753
+    },
+    {
+      "query": "is roman polanski still alive",
+      "clicks": 12,
+      "impressions": 805,
+      "ctr": 0.014906832298136646,
+      "position": 10.301863354037268
+    },
+    {
+      "query": "wrongful termination lawyer los angeles",
+      "clicks": 12,
+      "impressions": 5131,
+      "ctr": 0.0023387253946599105,
+      "position": 5.133112453712727
+    },
+    {
+      "query": "where is roman polanski now",
+      "clicks": 11,
+      "impressions": 1165,
+      "ctr": 0.00944206008583691,
+      "position": 5.00343347639485
+    },
+    {
+      "query": "does gloria allred still practice law",
       "clicks": 10,
-      "impressions": 103,
-      "ctr": 0.0970873786407767,
-      "position": 12.495145631067961
+      "impressions": 64,
+      "ctr": 0.15625,
+      "position": 4
     },
     {
       "query": "gloria allred email",
-      "clicks": 9,
-      "impressions": 74,
-      "ctr": 0.12162162162162163,
-      "position": 2.891891891891892
+      "clicks": 10,
+      "impressions": 73,
+      "ctr": 0.136986301369863,
+      "position": 2.7534246575342465
     },
     {
       "query": "gloria allred lawyer",
+      "clicks": 10,
+      "impressions": 204,
+      "ctr": 0.049019607843137254,
+      "position": 8.284313725490197
+    },
+    {
+      "query": "wrongful termination lawyer",
+      "clicks": 10,
+      "impressions": 11025,
+      "ctr": 0.0009070294784580499,
+      "position": 10.616054421768707
+    },
+    {
+      "query": "amg law firm",
       "clicks": 9,
-      "impressions": 217,
-      "ctr": 0.041474654377880185,
-      "position": 7.691244239631336
+      "impressions": 195,
+      "ctr": 0.046153846153846156,
+      "position": 6.107692307692307
+    },
+    {
+      "query": "attorney gloria allred",
+      "clicks": 9,
+      "impressions": 476,
+      "ctr": 0.018907563025210083,
+      "position": 7.911764705882353
+    },
+    {
+      "query": "christina cheung attorney",
+      "clicks": 9,
+      "impressions": 13,
+      "ctr": 0.6923076923076923,
+      "position": 1
+    },
+    {
+      "query": "gloria allred contact number",
+      "clicks": 9,
+      "impressions": 60,
+      "ctr": 0.15,
+      "position": 1.4
     },
     {
       "query": "john west attorney",
       "clicks": 9,
-      "impressions": 113,
-      "ctr": 0.07964601769911504,
-      "position": 8.530973451327434
+      "impressions": 130,
+      "ctr": 0.06923076923076923,
+      "position": 7.923076923076923
     },
     {
-      "query": "amg law firm",
+      "query": "bill gates sexual charges",
       "clicks": 8,
-      "impressions": 185,
-      "ctr": 0.043243243243243246,
-      "position": 6.297297297297297
+      "impressions": 233,
+      "ctr": 0.034334763948497854,
+      "position": 2.896995708154506
     },
     {
-      "query": "bill gates allegations",
+      "query": "bill gates sexuality",
       "clicks": 8,
-      "impressions": 306,
-      "ctr": 0.026143790849673203,
-      "position": 5.562091503267974
+      "impressions": 297,
+      "ctr": 0.026936026936026935,
+      "position": 5.909090909090909
     },
     {
-      "query": "california bereavement leave 2025",
+      "query": "civil rights attorney",
       "clicks": 8,
-      "impressions": 772,
-      "ctr": 0.010362694300518135,
-      "position": 2.0660621761658033
+      "impressions": 4168,
+      "ctr": 0.0019193857965451055,
+      "position": 42.70657389635317
     },
     {
       "query": "gloria albright",
       "clicks": 8,
-      "impressions": 965,
-      "ctr": 0.008290155440414507,
-      "position": 7.389637305699482
+      "impressions": 939,
+      "ctr": 0.008519701810436636,
+      "position": 7.094781682641107
     },
     {
-      "query": "olivia goldberg stanford law",
-      "clicks": 8,
-      "impressions": 103,
-      "ctr": 0.07766990291262135,
-      "position": 1.650485436893204
-    },
-    {
-      "query": "wrongful termination lawyer",
-      "clicks": 8,
-      "impressions": 10481,
-      "ctr": 0.0007632859459975193,
-      "position": 10.546035683617974
-    },
-    {
-      "query": "bill gates sex scandal",
+      "query": "bill gates sexual assault",
       "clicks": 7,
-      "impressions": 146,
-      "ctr": 0.04794520547945205,
-      "position": 6.506849315068493
+      "impressions": 61,
+      "ctr": 0.11475409836065574,
+      "position": 4.114754098360656
+    },
+    {
+      "query": "california bereavement leave law",
+      "clicks": 7,
+      "impressions": 594,
+      "ctr": 0.011784511784511785,
+      "position": 4.853535353535353
     },
     {
       "query": "can a company force you to retire",
       "clicks": 7,
+      "impressions": 147,
+      "ctr": 0.047619047619047616,
+      "position": 2.1700680272108843
+    },
+    {
+      "query": "chrissie cheung",
+      "clicks": 7,
+      "impressions": 14,
+      "ctr": 0.5,
+      "position": 1.9285714285714286
+    },
+    {
+      "query": "mochkatel",
+      "clicks": 7,
+      "impressions": 34,
+      "ctr": 0.20588235294117646,
+      "position": 3.6470588235294117
+    },
+    {
+      "query": "roman polanski now",
+      "clicks": 7,
+      "impressions": 900,
+      "ctr": 0.0077777777777777776,
+      "position": 7.351111111111111
+    },
+    {
+      "query": "where does roman polanski live",
+      "clicks": 7,
+      "impressions": 1104,
+      "ctr": 0.006340579710144928,
+      "position": 5.813405797101449
+    },
+    {
+      "query": "california bereavement leave 2025",
+      "clicks": 6,
+      "impressions": 672,
+      "ctr": 0.008928571428571428,
+      "position": 2.3720238095238093
+    },
+    {
+      "query": "can you force someone to retire",
+      "clicks": 6,
+      "impressions": 69,
+      "ctr": 0.08695652173913043,
+      "position": 2.0434782608695654
+    },
+    {
+      "query": "sabrina medler",
+      "clicks": 6,
+      "impressions": 14,
+      "ctr": 0.42857142857142855,
+      "position": 1
+    },
+    {
+      "query": "bill gates controversies",
+      "clicks": 5,
+      "impressions": 363,
+      "ctr": 0.013774104683195593,
+      "position": 5
+    },
+    {
+      "query": "bill gates rape",
+      "clicks": 5,
+      "impressions": 87,
+      "ctr": 0.05747126436781609,
+      "position": 4
+    },
+    {
+      "query": "california bereavement leave",
+      "clicks": 5,
+      "impressions": 3034,
+      "ctr": 0.0016479894528675016,
+      "position": 4.35497692814766
+    },
+    {
+      "query": "can roman polanski come back to america",
+      "clicks": 5,
+      "impressions": 124,
+      "ctr": 0.04032258064516129,
+      "position": 2.42741935483871
+    },
+    {
+      "query": "civil rights attorney los angeles",
+      "clicks": 5,
+      "impressions": 811,
+      "ctr": 0.006165228113440197,
+      "position": 12.438964241676942
+    },
+    {
+      "query": "where is roman polanski today",
+      "clicks": 5,
+      "impressions": 102,
+      "ctr": 0.049019607843137254,
+      "position": 4.401960784313726
+    },
+    {
+      "query": "allred attorney",
+      "clicks": 4,
+      "impressions": 665,
+      "ctr": 0.006015037593984963,
+      "position": 10.533834586466165
+    },
+    {
+      "query": "allred lawyer",
+      "clicks": 4,
+      "impressions": 526,
+      "ctr": 0.0076045627376425855,
+      "position": 7.403041825095057
+    },
+    {
+      "query": "allred maroko & goldberg reviews",
+      "clicks": 4,
+      "impressions": 76,
+      "ctr": 0.05263157894736842,
+      "position": 2.723684210526316
+    },
+    {
+      "query": "attorney allred",
+      "clicks": 4,
+      "impressions": 133,
+      "ctr": 0.03007518796992481,
+      "position": 5.7669172932330826
+    },
+    {
+      "query": "byron lau",
+      "clicks": 4,
+      "impressions": 9,
+      "ctr": 0.4444444444444444,
+      "position": 1.2222222222222223
+    },
+    {
+      "query": "california bereavement leave law 2025",
+      "clicks": 4,
+      "impressions": 304,
+      "ctr": 0.013157894736842105,
+      "position": 2.723684210526316
+    },
+    {
+      "query": "can an employer force you to retire",
+      "clicks": 4,
+      "impressions": 51,
+      "ctr": 0.0784313725490196,
+      "position": 3.4705882352941178
+    },
+    {
+      "query": "employment lawyer los angeles",
+      "clicks": 4,
+      "impressions": 1467,
+      "ctr": 0.0027266530334014998,
+      "position": 46.661895023858214
+    },
+    {
+      "query": "gloria aldred",
+      "clicks": 4,
+      "impressions": 289,
+      "ctr": 0.01384083044982699,
+      "position": 4.328719723183391
+    },
+    {
+      "query": "gloria alfred",
+      "clicks": 4,
+      "impressions": 456,
+      "ctr": 0.008771929824561403,
+      "position": 6.673245614035087
+    },
+    {
+      "query": "gloria attorney",
+      "clicks": 4,
+      "impressions": 124,
+      "ctr": 0.03225806451612903,
+      "position": 7.201612903225806
+    },
+    {
+      "query": "los angeles wrongful termination lawyer",
+      "clicks": 4,
+      "impressions": 4114,
+      "ctr": 0.0009722897423432182,
+      "position": 5.724355858045698
+    },
+    {
+      "query": "roman polanski where is he",
+      "clicks": 4,
+      "impressions": 65,
+      "ctr": 0.06153846153846154,
+      "position": 3.9846153846153847
+    },
+    {
+      "query": "roman polanski where is he now",
+      "clicks": 4,
+      "impressions": 326,
+      "ctr": 0.012269938650306749,
+      "position": 3.7576687116564416
+    },
+    {
+      "query": "vidio sex maroko",
+      "clicks": 4,
+      "impressions": 21,
+      "ctr": 0.19047619047619047,
+      "position": 5.809523809523809
+    },
+    {
+      "query": "what happened to roman polanski",
+      "clicks": 4,
+      "impressions": 250,
+      "ctr": 0.016,
+      "position": 7.072
+    },
+    {
+      "query": "what is an ada accommodation",
+      "clicks": 4,
+      "impressions": 162,
+      "ctr": 0.024691358024691357,
+      "position": 2.4012345679012346
+    },
+    {
+      "query": "where does roman polanski live now",
+      "clicks": 4,
+      "impressions": 570,
+      "ctr": 0.007017543859649123,
+      "position": 4.968421052631578
+    },
+    {
+      "query": "bill gates pedofile",
+      "clicks": 3,
+      "impressions": 68,
+      "ctr": 0.04411764705882353,
+      "position": 7.955882352941177
+    },
+    {
+      "query": "can you be forced to retire",
+      "clicks": 3,
+      "impressions": 127,
+      "ctr": 0.023622047244094488,
+      "position": 3.8661417322834644
+    },
+    {
+      "query": "can you force retirement",
+      "clicks": 3,
+      "impressions": 21,
+      "ctr": 0.14285714285714285,
+      "position": 2.0952380952380953
+    },
+    {
+      "query": "civil rights law firms los angeles",
+      "clicks": 3,
+      "impressions": 139,
+      "ctr": 0.02158273381294964,
+      "position": 14.510791366906474
+    },
+    {
+      "query": "contact gloria allred",
+      "clicks": 3,
+      "impressions": 32,
+      "ctr": 0.09375,
+      "position": 2.6875
+    },
+    {
+      "query": "forced retirement",
+      "clicks": 3,
+      "impressions": 586,
+      "ctr": 0.005119453924914676,
+      "position": 8.22013651877133
+    },
+    {
+      "query": "gloria aldridge",
+      "clicks": 3,
+      "impressions": 453,
+      "ctr": 0.006622516556291391,
+      "position": 7.152317880794702
+    },
+    {
+      "query": "gloria allred hourly rate",
+      "clicks": 3,
+      "impressions": 89,
+      "ctr": 0.033707865168539325,
+      "position": 5.078651685393258
+    },
+    {
+      "query": "gloria alread",
+      "clicks": 3,
+      "impressions": 218,
+      "ctr": 0.013761467889908258,
+      "position": 8.18348623853211
+    },
+    {
+      "query": "gloria lawyer",
+      "clicks": 3,
+      "impressions": 327,
+      "ctr": 0.009174311926605505,
+      "position": 7.345565749235474
+    },
+    {
+      "query": "how many years does an individual have to file a discrimination lawsuit in federal court",
+      "clicks": 3,
+      "impressions": 300,
+      "ctr": 0.01,
+      "position": 2.9866666666666664
+    },
+    {
+      "query": "is bill gates a pedofile",
+      "clicks": 3,
+      "impressions": 93,
+      "ctr": 0.03225806451612903,
+      "position": 7.451612903225806
+    },
+    {
+      "query": "is roman polanski alive",
+      "clicks": 3,
+      "impressions": 195,
+      "ctr": 0.015384615384615385,
+      "position": 9.548717948717949
+    },
+    {
+      "query": "john west lawyer",
+      "clicks": 3,
+      "impressions": 45,
+      "ctr": 0.06666666666666667,
+      "position": 5.488888888888889
+    },
+    {
+      "query": "lawyers in california",
+      "clicks": 3,
+      "impressions": 24,
+      "ctr": 0.125,
+      "position": 12.458333333333334
+    },
+    {
+      "query": "los angeles age discrimination lawyer",
+      "clicks": 3,
+      "impressions": 1182,
+      "ctr": 0.0025380710659898475,
+      "position": 8.587140439932318
+    },
+    {
+      "query": "los angeles discrimination lawyer",
+      "clicks": 3,
+      "impressions": 2132,
+      "ctr": 0.0014071294559099437,
+      "position": 8.208255159474671
+    },
+    {
+      "query": "nathan j goldberg",
+      "clicks": 3,
+      "impressions": 124,
+      "ctr": 0.024193548387096774,
+      "position": 1
+    },
+    {
+      "query": "nathan j goldberg biography",
+      "clicks": 3,
+      "impressions": 38,
+      "ctr": 0.07894736842105263,
+      "position": 2.526315789473684
+    },
+    {
+      "query": "porno maroko",
+      "clicks": 3,
+      "impressions": 33,
+      "ctr": 0.09090909090909091,
+      "position": 3.6363636363636362
+    },
+    {
+      "query": "roman polanski lives",
+      "clicks": 3,
+      "impressions": 88,
+      "ctr": 0.03409090909090909,
+      "position": 6.556818181818182
+    },
+    {
+      "query": "roman polanski where does he live",
+      "clicks": 3,
+      "impressions": 510,
+      "ctr": 0.0058823529411764705,
+      "position": 7.223529411764706
+    },
+    {
+      "query": "thomas keller abuse",
+      "clicks": 3,
+      "impressions": 36,
+      "ctr": 0.08333333333333333,
+      "position": 6
+    },
+    {
+      "query": "tracy tutor sexual assault",
+      "clicks": 3,
+      "impressions": 42,
+      "ctr": 0.07142857142857142,
+      "position": 7.904761904761905
+    },
+    {
+      "query": "where is roman polanski",
+      "clicks": 3,
+      "impressions": 945,
+      "ctr": 0.0031746031746031746,
+      "position": 5.533333333333333
+    },
+    {
+      "query": "who is gloria allred",
+      "clicks": 3,
+      "impressions": 337,
+      "ctr": 0.008902077151335312,
+      "position": 3.163204747774481
+    },
+    {
+      "query": "ada accommodations",
+      "clicks": 2,
+      "impressions": 363,
+      "ctr": 0.005509641873278237,
+      "position": 3.600550964187328
+    },
+    {
+      "query": "age discrimination lawyer los angeles",
+      "clicks": 2,
+      "impressions": 933,
+      "ctr": 0.0021436227224008574,
+      "position": 5.318327974276527
+    },
+    {
+      "query": "allred gloria",
+      "clicks": 2,
+      "impressions": 544,
+      "ctr": 0.003676470588235294,
+      "position": 6.952205882352941
+    },
+    {
+      "query": "bereavement law california",
+      "clicks": 2,
+      "impressions": 110,
+      "ctr": 0.01818181818181818,
+      "position": 3.5454545454545454
+    },
+    {
+      "query": "best civil rights attorney los angeles",
+      "clicks": 2,
+      "impressions": 115,
+      "ctr": 0.017391304347826087,
+      "position": 17.756521739130434
+    },
+    {
+      "query": "bill gates accusations",
+      "clicks": 2,
+      "impressions": 258,
+      "ctr": 0.007751937984496124,
+      "position": 4.124031007751938
+    },
+    {
+      "query": "bill gates allegations",
+      "clicks": 2,
+      "impressions": 233,
+      "ctr": 0.008583690987124463,
+      "position": 5.317596566523605
+    },
+    {
+      "query": "bill gates child abuse",
+      "clicks": 2,
+      "impressions": 69,
+      "ctr": 0.028985507246376812,
+      "position": 6.942028985507246
+    },
+    {
+      "query": "bill gates controversy",
+      "clicks": 2,
+      "impressions": 628,
+      "ctr": 0.0031847133757961785,
+      "position": 1.0541401273885351
+    },
+    {
+      "query": "bill gates hookers",
+      "clicks": 2,
+      "impressions": 103,
+      "ctr": 0.019417475728155338,
+      "position": 7.805825242718447
+    },
+    {
+      "query": "bill gates pedophilia",
+      "clicks": 2,
+      "impressions": 39,
+      "ctr": 0.05128205128205128,
+      "position": 6.564102564102564
+    },
+    {
+      "query": "bill gates scandals",
+      "clicks": 2,
+      "impressions": 205,
+      "ctr": 0.00975609756097561,
+      "position": 5.560975609756097
+    },
+    {
+      "query": "bill gates sex",
+      "clicks": 2,
+      "impressions": 25,
+      "ctr": 0.08,
+      "position": 12.32
+    },
+    {
+      "query": "bill gates sex scandal",
+      "clicks": 2,
+      "impressions": 93,
+      "ctr": 0.021505376344086023,
+      "position": 6.419354838709677
+    },
+    {
+      "query": "bill gates sexual",
+      "clicks": 2,
+      "impressions": 37,
+      "ctr": 0.05405405405405406,
+      "position": 6.351351351351352
+    },
+    {
+      "query": "bill gates sexual harassment",
+      "clicks": 2,
+      "impressions": 76,
+      "ctr": 0.02631578947368421,
+      "position": 2.486842105263158
+    },
+    {
+      "query": "bill gates sexual misconduct",
+      "clicks": 2,
+      "impressions": 30,
+      "ctr": 0.06666666666666667,
+      "position": 2.4333333333333336
+    },
+    {
+      "query": "ca bereavement leave",
+      "clicks": 2,
+      "impressions": 1040,
+      "ctr": 0.0019230769230769232,
+      "position": 3.9153846153846152
+    },
+    {
+      "query": "can employers track your location",
+      "clicks": 2,
+      "impressions": 131,
+      "ctr": 0.015267175572519083,
+      "position": 4.33587786259542
+    },
+    {
+      "query": "can my employer track my location without telling me",
+      "clicks": 2,
+      "impressions": 44,
+      "ctr": 0.045454545454545456,
+      "position": 4.909090909090909
+    },
+    {
+      "query": "civil right attorney",
+      "clicks": 2,
       "impressions": 166,
-      "ctr": 0.04216867469879518,
-      "position": 2.144578313253012
+      "ctr": 0.012048192771084338,
+      "position": 41.674698795180724
+    },
+    {
+      "query": "civil rights attorneys in los angeles",
+      "clicks": 2,
+      "impressions": 142,
+      "ctr": 0.014084507042253521,
+      "position": 13.873239436619718
+    },
+    {
+      "query": "civil rights attorneys in los angeles california",
+      "clicks": 2,
+      "impressions": 153,
+      "ctr": 0.013071895424836602,
+      "position": 9.313725490196079
+    },
+    {
+      "query": "civil rights attorneys near me",
+      "clicks": 2,
+      "impressions": 150,
+      "ctr": 0.013333333333333334,
+      "position": 23.953333333333333
+    },
+    {
+      "query": "civil rights lawyer los angeles",
+      "clicks": 2,
+      "impressions": 703,
+      "ctr": 0.002844950213371266,
+      "position": 12.036984352773827
+    },
+    {
+      "query": "civil rights litigation firms",
+      "clicks": 2,
+      "impressions": 77,
+      "ctr": 0.025974025974025976,
+      "position": 22.233766233766232
+    },
+    {
+      "query": "czy muszę iść na emeryturę w wieku 60 lat",
+      "clicks": 2,
+      "impressions": 2,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "did roman polanski ever come back to the united states",
+      "clicks": 2,
+      "impressions": 45,
+      "ctr": 0.044444444444444446,
+      "position": 3.3777777777777778
+    },
+    {
+      "query": "eeoc investigation timeline",
+      "clicks": 2,
+      "impressions": 458,
+      "ctr": 0.004366812227074236,
+      "position": 8.248908296943231
+    },
+    {
+      "query": "employer tracking employee location",
+      "clicks": 2,
+      "impressions": 30,
+      "ctr": 0.06666666666666667,
+      "position": 2.966666666666667
+    },
+    {
+      "query": "employment discrimination cases",
+      "clicks": 2,
+      "impressions": 64,
+      "ctr": 0.03125,
+      "position": 17.84375
+    },
+    {
+      "query": "famous female attorney gloria",
+      "clicks": 2,
+      "impressions": 70,
+      "ctr": 0.02857142857142857,
+      "position": 5.8428571428571425
+    },
+    {
+      "query": "forced retirement age",
+      "clicks": 2,
+      "impressions": 85,
+      "ctr": 0.023529411764705882,
+      "position": 7.694117647058824
+    },
+    {
+      "query": "gloria all red",
+      "clicks": 2,
+      "impressions": 65,
+      "ctr": 0.03076923076923077,
+      "position": 8.384615384615385
+    },
+    {
+      "query": "gloria allred cases",
+      "clicks": 2,
+      "impressions": 151,
+      "ctr": 0.013245033112582781,
+      "position": 11.874172185430464
+    },
+    {
+      "query": "gloria allred net worth",
+      "clicks": 2,
+      "impressions": 555,
+      "ctr": 0.0036036036036036037,
+      "position": 8.488288288288288
+    },
+    {
+      "query": "how does bereavement work in california",
+      "clicks": 2,
+      "impressions": 172,
+      "ctr": 0.011627906976744186,
+      "position": 5.3604651162790695
+    },
+    {
+      "query": "how to contact gloria allred",
+      "clicks": 2,
+      "impressions": 5,
+      "ctr": 0.4,
+      "position": 1.2
+    },
+    {
+      "query": "is bereavement leave paid",
+      "clicks": 2,
+      "impressions": 803,
+      "ctr": 0.0024906600249066002,
+      "position": 7.885429638854297
+    },
+    {
+      "query": "is bereavement leave paid in california",
+      "clicks": 2,
+      "impressions": 1138,
+      "ctr": 0.0017574692442882249,
+      "position": 3.054481546572935
+    },
+    {
+      "query": "is there a statute of limitations on child abuse",
+      "clicks": 2,
+      "impressions": 159,
+      "ctr": 0.012578616352201259,
+      "position": 20.31446540880503
+    },
+    {
+      "query": "law firms in california",
+      "clicks": 2,
+      "impressions": 20,
+      "ctr": 0.1,
+      "position": 27.55
+    },
+    {
+      "query": "law office in california",
+      "clicks": 2,
+      "impressions": 4,
+      "ctr": 0.5,
+      "position": 126
+    },
+    {
+      "query": "lawyer gloria allred",
+      "clicks": 2,
+      "impressions": 282,
+      "ctr": 0.0070921985815602835,
+      "position": 8.581560283687942
+    },
+    {
+      "query": "los angeles civil rights attorney",
+      "clicks": 2,
+      "impressions": 526,
+      "ctr": 0.0038022813688212928,
+      "position": 13.67490494296578
+    },
+    {
+      "query": "michael morocco",
+      "clicks": 2,
+      "impressions": 43,
+      "ctr": 0.046511627906976744,
+      "position": 4.930232558139535
+    },
+    {
+      "query": "microsoft sex",
+      "clicks": 2,
+      "impressions": 100,
+      "ctr": 0.02,
+      "position": 6.39
+    },
+    {
+      "query": "nathan goldberg lawyer",
+      "clicks": 2,
+      "impressions": 12,
+      "ctr": 0.16666666666666666,
+      "position": 3.0833333333333335
+    },
+    {
+      "query": "polanski today",
+      "clicks": 2,
+      "impressions": 18,
+      "ctr": 0.1111111111111111,
+      "position": 2.833333333333333
+    },
+    {
+      "query": "porn maroko",
+      "clicks": 2,
+      "impressions": 5,
+      "ctr": 0.4,
+      "position": 3.6
+    },
+    {
+      "query": "recent age discrimination cases won",
+      "clicks": 2,
+      "impressions": 33,
+      "ctr": 0.06060606060606061,
+      "position": 14.454545454545455
+    },
+    {
+      "query": "roman polanski arrest",
+      "clicks": 2,
+      "impressions": 127,
+      "ctr": 0.015748031496062992,
+      "position": 9.31496062992126
+    },
+    {
+      "query": "roman polanski current location",
+      "clicks": 2,
+      "impressions": 23,
+      "ctr": 0.08695652173913043,
+      "position": 2.8695652173913047
+    },
+    {
+      "query": "roman polanski rape",
+      "clicks": 2,
+      "impressions": 428,
+      "ctr": 0.004672897196261682,
+      "position": 7.983644859813084
+    },
+    {
+      "query": "sex maroko",
+      "clicks": 2,
+      "impressions": 27,
+      "ctr": 0.07407407407407407,
+      "position": 10.444444444444445
+    },
+    {
+      "query": "sexual assault attorney los angeles",
+      "clicks": 2,
+      "impressions": 485,
+      "ctr": 0.004123711340206186,
+      "position": 24.921649484536083
+    },
+    {
+      "query": "takesbig sex",
+      "clicks": 2,
+      "impressions": 7,
+      "ctr": 0.2857142857142857,
+      "position": 5.285714285714286
+    },
+    {
+      "query": "tesla sexual harassment lawsuit",
+      "clicks": 2,
+      "impressions": 6,
+      "ctr": 0.3333333333333333,
+      "position": 1.6666666666666665
+    },
+    {
+      "query": "time off for funeral",
+      "clicks": 2,
+      "impressions": 59,
+      "ctr": 0.03389830508474576,
+      "position": 3.610169491525424
+    },
+    {
+      "query": "top civil rights law firms",
+      "clicks": 2,
+      "impressions": 121,
+      "ctr": 0.01652892561983471,
+      "position": 49.446280991735534
+    },
+    {
+      "query": "tracy tutor alexander brothers",
+      "clicks": 2,
+      "impressions": 133,
+      "ctr": 0.015037593984962405,
+      "position": 6.330827067669173
+    },
+    {
+      "query": "video sex maroko",
+      "clicks": 2,
+      "impressions": 12,
+      "ctr": 0.16666666666666666,
+      "position": 5.583333333333333
+    },
+    {
+      "query": "what is bereavement leave",
+      "clicks": 2,
+      "impressions": 1575,
+      "ctr": 0.0012698412698412698,
+      "position": 6.382857142857143
+    },
+    {
+      "query": "what is forced retirement",
+      "clicks": 2,
+      "impressions": 47,
+      "ctr": 0.0425531914893617,
+      "position": 4.340425531914894
+    },
+    {
+      "query": "where does gloria allred live",
+      "clicks": 2,
+      "impressions": 39,
+      "ctr": 0.05128205128205128,
+      "position": 3.5641025641025643
+    },
+    {
+      "query": "where does polanski live",
+      "clicks": 2,
+      "impressions": 162,
+      "ctr": 0.012345679012345678,
+      "position": 6.888888888888889
+    },
+    {
+      "query": "where is roman polanski living now",
+      "clicks": 2,
+      "impressions": 29,
+      "ctr": 0.06896551724137931,
+      "position": 4.517241379310345
+    },
+    {
+      "query": "who is considered immediate family for bereavement leave in california",
+      "clicks": 2,
+      "impressions": 485,
+      "ctr": 0.004123711340206186,
+      "position": 5.738144329896907
+    },
+    {
+      "query": "why was roman polanski not extradited",
+      "clicks": 2,
+      "impressions": 134,
+      "ctr": 0.014925373134328358,
+      "position": 7.440298507462686
+    },
+    {
+      "query": "wrongful termination attorney los angeles",
+      "clicks": 2,
+      "impressions": 2084,
+      "ctr": 0.0009596928982725527,
+      "position": 6.518714011516315
+    },
+    {
+      "query": "wrongful termination lawyer in los angeles",
+      "clicks": 2,
+      "impressions": 885,
+      "ctr": 0.0022598870056497176,
+      "position": 5.429378531073446
+    },
+    {
+      "query": "wrongful termination lawyers in los angeles",
+      "clicks": 2,
+      "impressions": 995,
+      "ctr": 0.0020100502512562816,
+      "position": 7.788944723618091
+    },
+    {
+      "query": "xxx porno maroko",
+      "clicks": 2,
+      "impressions": 7,
+      "ctr": 0.2857142857142857,
+      "position": 3.142857142857143
+    },
+    {
+      "query": "ab1949",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 25.4
+    },
+    {
+      "query": "accommodations for neurodivergent employees",
+      "clicks": 1,
+      "impressions": 48,
+      "ctr": 0.020833333333333332,
+      "position": 15
+    },
+    {
+      "query": "accusations against bill gates",
+      "clicks": 1,
+      "impressions": 36,
+      "ctr": 0.027777777777777776,
+      "position": 5.333333333333333
+    },
+    {
+      "query": "ada discrimination lawyer",
+      "clicks": 1,
+      "impressions": 96,
+      "ctr": 0.010416666666666666,
+      "position": 11.020833333333334
+    },
+    {
+      "query": "age discrimination attorney los angeles",
+      "clicks": 1,
+      "impressions": 793,
+      "ctr": 0.0012610340479192938,
+      "position": 3.081967213114754
+    },
+    {
+      "query": "ageism in tech industry",
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 7.1
+    },
+    {
+      "query": "allison allred attorney",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 1.6666666666666665
+    },
+    {
+      "query": "allred, maroko",
+      "clicks": 1,
+      "impressions": 225,
+      "ctr": 0.0044444444444444444,
+      "position": 1.2133333333333334
+    },
+    {
+      "query": "anime girl lawyer",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "at what age can a company force you to retire",
+      "clicks": 1,
+      "impressions": 137,
+      "ctr": 0.0072992700729927005,
+      "position": 2.8175182481751824
+    },
+    {
+      "query": "attorneys in california",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "bereavement california law",
+      "clicks": 1,
+      "impressions": 321,
+      "ctr": 0.003115264797507788,
+      "position": 4.024922118380062
+    },
+    {
+      "query": "bereavement days",
+      "clicks": 1,
+      "impressions": 148,
+      "ctr": 0.006756756756756757,
+      "position": 29.35135135135135
+    },
+    {
+      "query": "bereavement in california",
+      "clicks": 1,
+      "impressions": 245,
+      "ctr": 0.004081632653061225,
+      "position": 6.559183673469388
+    },
+    {
+      "query": "bereavement leave california law",
+      "clicks": 1,
+      "impressions": 227,
+      "ctr": 0.004405286343612335,
+      "position": 5.149779735682819
+    },
+    {
+      "query": "bereavement leave in ca",
+      "clicks": 1,
+      "impressions": 267,
+      "ctr": 0.003745318352059925,
+      "position": 6.101123595505618
     }
   ],
   "topPages": [
     {
       "page": "https://www.amglaw.com/",
-      "clicks": 1313,
-      "impressions": 67198,
-      "ctr": 0.01953927200214292,
-      "position": 8.93752790261615
+      "clicks": 1421,
+      "impressions": 85134,
+      "ctr": 0.016691333662226606,
+      "position": 7.227100805788521
     },
     {
       "page": "https://www.amglaw.com/attorneys/gloria-allred/",
-      "clicks": 903,
-      "impressions": 97726,
-      "ctr": 0.009240120336450894,
-      "position": 7.21342324458179
-    },
-    {
-      "page": "https://www.amglaw.com/blog/2021/07/both-microsoft-and-its-founder-have-a-poor-history-of-sexual-misconduct-allegations/",
-      "clicks": 514,
-      "impressions": 31869,
-      "ctr": 0.016128526153942703,
-      "position": 4.923656217640968
+      "clicks": 931,
+      "impressions": 92348,
+      "ctr": 0.010081431108415992,
+      "position": 6.95319876987049
     },
     {
       "page": "https://www.amglaw.com/blog/2025/10/bereavement-leave-in-california/",
-      "clicks": 344,
-      "impressions": 122847,
-      "ctr": 0.0028002311818766433,
-      "position": 4.9240762900192925
+      "clicks": 501,
+      "impressions": 157566,
+      "ctr": 0.0031796199687749893,
+      "position": 4.9671439269893245
     },
     {
-      "page": "https://www.amglaw.com/employment-faqs-archives/can-my-employer-force-me-to-retire/",
-      "clicks": 318,
-      "impressions": 24855,
-      "ctr": 0.012794206397103198,
-      "position": 5.605713136189902
+      "page": "https://www.amglaw.com/blog/2021/07/both-microsoft-and-its-founder-have-a-poor-history-of-sexual-misconduct-allegations/",
+      "clicks": 420,
+      "impressions": 29699,
+      "ctr": 0.014141890299336678,
+      "position": 4.914744604195427
     },
     {
       "page": "https://www.amglaw.com/blog/2024/04/roman-polanski-back-in-court-but-will-he-return-to-the-united-states/",
-      "clicks": 274,
-      "impressions": 38802,
-      "ctr": 0.00706149167568682,
-      "position": 7.421911241688573
+      "clicks": 304,
+      "impressions": 41731,
+      "ctr": 0.00728475234238336,
+      "position": 7.310536531595217
+    },
+    {
+      "page": "https://www.amglaw.com/employment-faqs-archives/can-my-employer-force-me-to-retire/",
+      "clicks": 291,
+      "impressions": 25462,
+      "ctr": 0.011428795852643154,
+      "position": 5.518026863561386
     },
     {
       "page": "https://www.amglaw.com/blog/2025/10/can-your-boss-track-your-location/",
-      "clicks": 207,
-      "impressions": 23839,
-      "ctr": 0.008683250136331222,
-      "position": 4.296824531230337
-    },
-    {
-      "page": "https://www.amglaw.com/attorneys/nathan-goldberg/",
-      "clicks": 188,
-      "impressions": 5687,
-      "ctr": 0.03305785123966942,
-      "position": 5.574468085106383
+      "clicks": 290,
+      "impressions": 29878,
+      "ctr": 0.009706138295735993,
+      "position": 4.132204297476404
     },
     {
       "page": "https://www.amglaw.com/employment-faqs-archives/chronology-of-a-discrimination-charge-filed-with-the-eeoc-or-state-fair-employment-practices-agency/",
-      "clicks": 146,
-      "impressions": 86029,
-      "ctr": 0.0016971021399760546,
-      "position": 7.570098455172094
-    },
-    {
-      "page": "https://www.amglaw.com/attorneys/michael-maroko/",
-      "clicks": 138,
-      "impressions": 4556,
-      "ctr": 0.03028972783143108,
-      "position": 2.969929762949956
-    },
-    {
-      "page": "https://www.amglaw.com/attorneys/christina-cheung/",
-      "clicks": 133,
-      "impressions": 2455,
-      "ctr": 0.054175152749490835,
-      "position": 6.884725050916497
+      "clicks": 178,
+      "impressions": 103445,
+      "ctr": 0.0017207211561699454,
+      "position": 7.4310986514572965
     },
     {
       "page": "https://www.amglaw.com/attorneys/dolores-y-leal/",
-      "clicks": 130,
-      "impressions": 10459,
-      "ctr": 0.012429486566593364,
-      "position": 35.90907352519361
+      "clicks": 149,
+      "impressions": 10945,
+      "ctr": 0.013613522156235723,
+      "position": 31.368296025582456
     },
     {
-      "page": "https://www.amglaw.com/contact/",
-      "clicks": 126,
-      "impressions": 8494,
-      "ctr": 0.01483400047092065,
-      "position": 6.292206263244643
+      "page": "https://www.amglaw.com/attorneys/nathan-goldberg/",
+      "clicks": 149,
+      "impressions": 4588,
+      "ctr": 0.032476024411508285,
+      "position": 5.752397558849172
     },
     {
-      "page": "https://www.amglaw.com/blog/2024/09/amg-obtains-5-6m-settlement-for-california-inmates-wife-who-was-sexually-violated-during-strip-search/",
-      "clicks": 118,
-      "impressions": 2817,
-      "ctr": 0.04188853390131345,
-      "position": 5.637202697905574
+      "page": "https://www.amglaw.com/attorneys/michael-maroko/",
+      "clicks": 146,
+      "impressions": 4062,
+      "ctr": 0.035942885278188084,
+      "position": 3.085918266863614
     },
     {
-      "page": "https://www.amglaw.com/attorneys/olivia-flechsig/",
-      "clicks": 117,
-      "impressions": 822,
-      "ctr": 0.14233576642335766,
-      "position": 5.100973236009732
-    },
-    {
-      "page": "https://www.amglaw.com/employment-law/civil-rights-law/",
-      "clicks": 117,
-      "impressions": 47222,
-      "ctr": 0.002477658718393969,
-      "position": 35.889331243911734
+      "page": "https://www.amglaw.com/attorneys/christina-cheung/",
+      "clicks": 143,
+      "impressions": 2782,
+      "ctr": 0.0514018691588785,
+      "position": 6.674335010783609
     },
     {
       "page": "https://www.amglaw.com/significant-cases/",
+      "clicks": 129,
+      "impressions": 29990,
+      "ctr": 0.004301433811270424,
+      "position": 16.84368122707569
+    },
+    {
+      "page": "https://www.amglaw.com/attorneys/olivia-flechsig/",
+      "clicks": 122,
+      "impressions": 839,
+      "ctr": 0.14541120381406436,
+      "position": 4.796185935637664
+    },
+    {
+      "page": "https://www.amglaw.com/contact/",
+      "clicks": 122,
+      "impressions": 8803,
+      "ctr": 0.01385891173463592,
+      "position": 6.801885720777008
+    },
+    {
+      "page": "https://www.amglaw.com/employment-law/civil-rights-law/",
+      "clicks": 120,
+      "impressions": 48936,
+      "ctr": 0.0024521824423737125,
+      "position": 35.47952427660618
+    },
+    {
+      "page": "https://www.amglaw.com/blog/2024/09/amg-obtains-5-6m-settlement-for-california-inmates-wife-who-was-sexually-violated-during-strip-search/",
+      "clicks": 109,
+      "impressions": 2766,
+      "ctr": 0.03940708604483008,
+      "position": 5.814172089660159
+    },
+    {
+      "page": "https://www.amglaw.com/attorneys/renee-mochkatel/",
       "clicks": 104,
-      "impressions": 22862,
-      "ctr": 0.0045490333304172865,
-      "position": 17.8683404776485
+      "impressions": 557,
+      "ctr": 0.1867145421903052,
+      "position": 4.26032315978456
     },
     {
       "page": "https://www.amglaw.com/attorneys/marcus-j-spiegel/",
       "clicks": 99,
-      "impressions": 1313,
-      "ctr": 0.0753998476770754,
-      "position": 8.259710586443259
-    },
-    {
-      "page": "https://www.amglaw.com/attorneys/renee-mochkatel/",
-      "clicks": 88,
-      "impressions": 499,
-      "ctr": 0.17635270541082165,
-      "position": 4.985971943887776
-    },
-    {
-      "page": "https://www.amglaw.com/blog/2017/10/workplace-sexual-harassment-allegations-prompt-ceo-resignation/",
-      "clicks": 83,
-      "impressions": 2495,
-      "ctr": 0.03326653306613227,
-      "position": 6.220040080160321
-    },
-    {
-      "page": "https://www.amglaw.com/employment-law/wrongful-termination/",
-      "clicks": 76,
-      "impressions": 83789,
-      "ctr": 0.0009070403036198069,
-      "position": 15.536060819439307
+      "impressions": 1324,
+      "ctr": 0.07477341389728097,
+      "position": 8.256797583081571
     },
     {
       "page": "https://www.amglaw.com/attorneys/",
-      "clicks": 75,
-      "impressions": 8855,
-      "ctr": 0.00846979107848673,
-      "position": 4.702089215132693
+      "clicks": 91,
+      "impressions": 9161,
+      "ctr": 0.00993341338281847,
+      "position": 5.454098897500273
     },
     {
-      "page": "https://www.amglaw.com/attorneys/karis-stephen/",
-      "clicks": 66,
-      "impressions": 615,
-      "ctr": 0.1073170731707317,
-      "position": 7.785365853658536
+      "page": "https://www.amglaw.com/blog/2017/10/workplace-sexual-harassment-allegations-prompt-ceo-resignation/",
+      "clicks": 87,
+      "impressions": 2552,
+      "ctr": 0.03409090909090909,
+      "position": 6.105015673981192
     },
     {
-      "page": "https://www.amglaw.com/attorneys/john-s-west/",
-      "clicks": 63,
-      "impressions": 1718,
-      "ctr": 0.03667054714784633,
-      "position": 9.712456344586728
+      "page": "https://www.amglaw.com/employment-law/wrongful-termination/",
+      "clicks": 85,
+      "impressions": 89355,
+      "ctr": 0.0009512618208270382,
+      "position": 14.593464271725141
     },
     {
       "page": "https://www.amglaw.com/blog/2025/09/eliminating-statutes-of-limitations-for-child-sex-abuse/",
-      "clicks": 60,
-      "impressions": 16062,
-      "ctr": 0.0037355248412401943,
-      "position": 5.667164736645499
-    },
-    {
-      "page": "https://www.amglaw.com/employment-faqs-archives/glossary-of-common-employment-discrimination-harassment-terms/",
-      "clicks": 59,
-      "impressions": 5893,
-      "ctr": 0.010011878499915153,
-      "position": 6.550313931783472
+      "clicks": 77,
+      "impressions": 23370,
+      "ctr": 0.0032948224219084294,
+      "position": 5.684253316217372
     },
     {
       "page": "https://www.amglaw.com/blog/2025/11/neurodiversity-at-work/",
-      "clicks": 51,
-      "impressions": 8076,
-      "ctr": 0.006315007429420505,
-      "position": 6.974492322932145
-    },
-    {
-      "page": "https://www.amglaw.com/attorneys/sabrina-medler/",
-      "clicks": 50,
-      "impressions": 517,
-      "ctr": 0.09671179883945841,
-      "position": 7.085106382978723
+      "clicks": 69,
+      "impressions": 10855,
+      "ctr": 0.006356517733763243,
+      "position": 6.7169967756794104
     },
     {
       "page": "https://www.amglaw.com/blog/2024/06/tesla-settles-factory-workers-sexual-harassment-lawsuit/",
-      "clicks": 49,
-      "impressions": 7588,
-      "ctr": 0.006457564575645757,
-      "position": 5.771217712177122
+      "clicks": 66,
+      "impressions": 9400,
+      "ctr": 0.007021276595744681,
+      "position": 5.774893617021276
     },
     {
-      "page": "https://www.amglaw.com/about-us/",
-      "clicks": 45,
-      "impressions": 8494,
-      "ctr": 0.005297857311043089,
-      "position": 3.9516129032258065
+      "page": "https://www.amglaw.com/employment-faqs-archives/glossary-of-common-employment-discrimination-harassment-terms/",
+      "clicks": 66,
+      "impressions": 6524,
+      "ctr": 0.010116492949110975,
+      "position": 5.820662170447578
+    },
+    {
+      "page": "https://www.amglaw.com/attorneys/karis-stephen/",
+      "clicks": 62,
+      "impressions": 644,
+      "ctr": 0.09627329192546584,
+      "position": 7.944099378881988
+    },
+    {
+      "page": "https://www.amglaw.com/attorneys/john-s-west/",
+      "clicks": 59,
+      "impressions": 1777,
+      "ctr": 0.033202025886325266,
+      "position": 9.62183455261677
+    },
+    {
+      "page": "https://www.amglaw.com/attorneys/sabrina-medler/",
+      "clicks": 56,
+      "impressions": 574,
+      "ctr": 0.0975609756097561,
+      "position": 7.2473867595818815
     },
     {
       "page": "https://www.amglaw.com/blog/2024/05/ny-philharmonic-facing-an-uproar-since-a-recent-magazine-article-detailed-allegations-of-a-2010-sexual-assault-by-two-principal-players-against-another-female-player/",
-      "clicks": 43,
-      "impressions": 2988,
-      "ctr": 0.014390896921017403,
-      "position": 8.147590361445783
+      "clicks": 48,
+      "impressions": 3141,
+      "ctr": 0.015281757402101241,
+      "position": 7.943966889525629
     },
     {
-      "page": "https://www.amglaw.com/blog/2025/04/navigating-the-complexities-of-remote-work/",
-      "clicks": 39,
-      "impressions": 6626,
-      "ctr": 0.005885904014488379,
-      "position": 8.903108964684577
+      "page": "https://www.amglaw.com/about-us/",
+      "clicks": 43,
+      "impressions": 9200,
+      "ctr": 0.004673913043478261,
+      "position": 4.85304347826087
     },
     {
       "page": "https://www.amglaw.com/blog/2024/08/new-york-real-estate-moguls-face-multiple-sexual-assault-accusations/",
-      "clicks": 37,
-      "impressions": 1827,
-      "ctr": 0.020251778872468526,
-      "position": 5.739463601532567
+      "clicks": 41,
+      "impressions": 1927,
+      "ctr": 0.02127659574468085,
+      "position": 6.009859885832901
     },
     {
-      "page": "https://www.amglaw.com/blog/2023/09/court-revives-sexual-abuse-lawsuits-against-michael-jacksons-estate/",
-      "clicks": 31,
-      "impressions": 7641,
-      "ctr": 0.004057060594163068,
-      "position": 7.565371024734982
+      "page": "https://www.amglaw.com/blog/2025/04/navigating-the-complexities-of-remote-work/",
+      "clicks": 41,
+      "impressions": 7422,
+      "ctr": 0.005524117488547561,
+      "position": 8.088520614389651
     },
     {
       "page": "https://www.amglaw.com/employment-faqs-archives/considerations-for-your-performance-evaluation/",
-      "clicks": 30,
-      "impressions": 12069,
-      "ctr": 0.002485707183693761,
-      "position": 13.72615792526307
+      "clicks": 38,
+      "impressions": 14213,
+      "ctr": 0.0026736086681207346,
+      "position": 12.343136565116442
     },
     {
       "page": "https://www.amglaw.com/employment-faqs-archives/tips-for-employees-dealing-with-discrimination/",
-      "clicks": 29,
-      "impressions": 10495,
-      "ctr": 0.0027632205812291566,
-      "position": 8.357313006193426
+      "clicks": 38,
+      "impressions": 11749,
+      "ctr": 0.0032343178142820667,
+      "position": 7.65503447101881
     },
     {
-      "page": "https://www.amglaw.com/employment-law/disability-discrimination/",
-      "clicks": 28,
-      "impressions": 19143,
-      "ctr": 0.0014626756516742411,
-      "position": 20.482944157133154
+      "page": "https://www.amglaw.com/blog/2025/04/understanding-the-impact-of-artificial-intelligence-on-employment-discrimination/",
+      "clicks": 35,
+      "impressions": 5025,
+      "ctr": 0.006965174129353234,
+      "position": 7.7759203980099505
     },
     {
       "page": "https://www.amglaw.com/blog/2022/06/report-spacex-paid-250k-to-settle-musk-harassment-claim/",
+      "clicks": 31,
+      "impressions": 14340,
+      "ctr": 0.0021617852161785215,
+      "position": 5.11513249651325
+    },
+    {
+      "page": "https://www.amglaw.com/employment-law/age-discrimination/",
+      "clicks": 31,
+      "impressions": 19280,
+      "ctr": 0.0016078838174273858,
+      "position": 22.967946058091286
+    },
+    {
+      "page": "https://www.amglaw.com/attorneys/byron-r-lau/",
+      "clicks": 30,
+      "impressions": 998,
+      "ctr": 0.03006012024048096,
+      "position": 8.308617234468937
+    },
+    {
+      "page": "https://www.amglaw.com/employment-law/disability-discrimination/",
+      "clicks": 30,
+      "impressions": 21427,
+      "ctr": 0.0014001026741961077,
+      "position": 22.05773090026602
+    },
+    {
+      "page": "https://www.amglaw.com/blog/2022/10/california-winery-sued-over-sexual-harassment-allegations/",
+      "clicks": 28,
+      "impressions": 1682,
+      "ctr": 0.016646848989298454,
+      "position": 7.01307966706302
+    },
+    {
+      "page": "https://www.amglaw.com/employment-faqs-archives/what-are-the-tax-implications-for-an-independent-contractor/",
+      "clicks": 28,
+      "impressions": 25427,
+      "ctr": 0.0011011916466747945,
+      "position": 13.578440240689032
+    },
+    {
+      "page": "https://www.amglaw.com/blog/2023/09/court-revives-sexual-abuse-lawsuits-against-michael-jacksons-estate/",
       "clicks": 27,
-      "impressions": 10698,
-      "ctr": 0.0025238362310712283,
-      "position": 5.598429613011778
+      "impressions": 7239,
+      "ctr": 0.0037297969332780773,
+      "position": 7.873048763641387
     },
     {
       "page": "https://www.amglaw.com/blog/2024/07/former-law-students-file-title-ix-complaint-against-joshua-wright/",
       "clicks": 27,
-      "impressions": 2786,
-      "ctr": 0.009691313711414214,
-      "position": 9.1816223977028
+      "impressions": 3123,
+      "ctr": 0.008645533141210375,
+      "position": 8.288504642971501
     },
     {
       "page": "https://www.amglaw.com/blog/2021/01/allred-maroko-goldberg-win-3-2-million-settlement-for-female-firefighter-who-suffered-sexual-harassment-and-retaliation/",
-      "clicks": 25,
-      "impressions": 831,
-      "ctr": 0.030084235860409144,
-      "position": 8.848375451263538
-    },
-    {
-      "page": "https://www.amglaw.com/blog/2025/04/understanding-the-impact-of-artificial-intelligence-on-employment-discrimination/",
-      "clicks": 24,
-      "impressions": 3804,
-      "ctr": 0.006309148264984227,
-      "position": 7.959516298633018
-    },
-    {
-      "page": "https://www.amglaw.com/attorneys/byron-r-lau/",
-      "clicks": 23,
-      "impressions": 927,
-      "ctr": 0.02481121898597627,
-      "position": 8.614886731391586
+      "clicks": 26,
+      "impressions": 804,
+      "ctr": 0.03233830845771144,
+      "position": 8.914179104477611
     },
     {
       "page": "https://www.amglaw.com/blog/2024/04/former-blackberry-employee-alleges-company-ceo-sexually-harassed-her/",
-      "clicks": 22,
-      "impressions": 1614,
-      "ctr": 0.013630731102850062,
-      "position": 7.808550185873606
-    },
-    {
-      "page": "https://www.amglaw.com/blog/2021/02/investment-management-firm-pimco-faces-accusations-of-sexual-discrimination-harassment-and-retaliation/",
-      "clicks": 20,
-      "impressions": 641,
-      "ctr": 0.031201248049921998,
-      "position": 5.414976599063962
-    },
-    {
-      "page": "https://www.amglaw.com/employment-faqs-archives/what-are-the-tax-implications-for-an-independent-contractor/",
-      "clicks": 20,
-      "impressions": 22496,
-      "ctr": 0.0008890469416785206,
-      "position": 15.63020092460882
-    },
-    {
-      "page": "https://www.amglaw.com/employment-law/age-discrimination/",
-      "clicks": 20,
-      "impressions": 17914,
-      "ctr": 0.0011164452383610583,
-      "position": 25.304957016858324
-    },
-    {
-      "page": "https://www.amglaw.com/blog/2024/01/california-takes-big-step-to-support-child-sexual-abuse-survivors-in-2024/",
-      "clicks": 17,
-      "impressions": 1857,
-      "ctr": 0.009154550350026925,
-      "position": 12.638126009693053
+      "clicks": 25,
+      "impressions": 1768,
+      "ctr": 0.01414027149321267,
+      "position": 6.9360859728506785
     },
     {
       "page": "https://www.amglaw.com/blog/2025/02/remote-work-and-employment-law-your-rights-as-a-telecommuting-employee/",
-      "clicks": 17,
-      "impressions": 8643,
-      "ctr": 0.0019669096378572256,
-      "position": 8.851787573759111
+      "clicks": 24,
+      "impressions": 10263,
+      "ctr": 0.00233849751534639,
+      "position": 8.323881905875474
+    },
+    {
+      "page": "https://www.amglaw.com/blog/2021/02/investment-management-firm-pimco-faces-accusations-of-sexual-discrimination-harassment-and-retaliation/",
+      "clicks": 23,
+      "impressions": 1839,
+      "ctr": 0.012506797172376292,
+      "position": 5.278412180532898
+    },
+    {
+      "page": "https://www.amglaw.com/employment-law/",
+      "clicks": 23,
+      "impressions": 35465,
+      "ctr": 0.0006485267164810377,
+      "position": 38.39427604680671
     },
     {
       "page": "https://www.amglaw.com/videos/",
-      "clicks": 17,
-      "impressions": 1236,
-      "ctr": 0.013754045307443365,
-      "position": 5.3381877022653725
-    },
-    {
-      "page": "https://www.amglaw.com/about-us/frequently-asked-questions-about-our-firm/",
-      "clicks": 16,
-      "impressions": 917,
-      "ctr": 0.017448200654307525,
-      "position": 9.71864776444929
+      "clicks": 21,
+      "impressions": 1996,
+      "ctr": 0.010521042084168337,
+      "position": 6.099699398797595
     }
   ],
-  "fetchedAt": "2026-03-18T13:07:29.050Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "gloria allred",
+      "clicks": 588,
+      "impressions": 63649,
+      "ctr": 0.009238165564266524,
+      "position": 8.157787239391034
+    },
+    {
+      "query": "allred maroko & goldberg",
+      "clicks": 345,
+      "impressions": 627,
+      "ctr": 0.5502392344497608,
+      "position": 1.003189792663477
+    },
+    {
+      "query": "gloria allred law firm",
+      "clicks": 290,
+      "impressions": 711,
+      "ctr": 0.4078762306610408,
+      "position": 1.0112517580872011
+    },
+    {
+      "query": "allred, maroko & goldberg",
+      "clicks": 257,
+      "impressions": 508,
+      "ctr": 0.5059055118110236,
+      "position": 1.108267716535433
+    },
+    {
+      "query": "where is roman polanski now",
+      "clicks": 96,
+      "impressions": 1035,
+      "ctr": 0.0927536231884058,
+      "position": 3.7681159420289854
+    },
+    {
+      "query": "where is roman polanski",
+      "clicks": 72,
+      "impressions": 753,
+      "ctr": 0.09561752988047809,
+      "position": 3.4302788844621515
+    },
+    {
+      "query": "roman polanski where is he now",
+      "clicks": 67,
+      "impressions": 469,
+      "ctr": 0.14285714285714285,
+      "position": 2.4392324093816633
+    },
+    {
+      "query": "gloria allred firm",
+      "clicks": 62,
+      "impressions": 106,
+      "ctr": 0.5849056603773585,
+      "position": 1.150943396226415
+    },
+    {
+      "query": "where does roman polanski live",
+      "clicks": 58,
+      "impressions": 1111,
+      "ctr": 0.052205220522052204,
+      "position": 5.005400540054006
+    },
+    {
+      "query": "nathan goldberg attorney",
+      "clicks": 44,
+      "impressions": 134,
+      "ctr": 0.3283582089552239,
+      "position": 1.6865671641791045
+    },
+    {
+      "query": "nathan goldberg",
+      "clicks": 42,
+      "impressions": 961,
+      "ctr": 0.043704474505723206,
+      "position": 2.942767950052029
+    },
+    {
+      "query": "where does roman polanski live now",
+      "clicks": 42,
+      "impressions": 307,
+      "ctr": 0.13680781758957655,
+      "position": 2.3778501628664497
+    },
+    {
+      "query": "michael maroko",
+      "clicks": 39,
+      "impressions": 116,
+      "ctr": 0.33620689655172414,
+      "position": 1.0086206896551724
+    },
+    {
+      "query": "gloria allred attorney",
+      "clicks": 33,
+      "impressions": 337,
+      "ctr": 0.09792284866468842,
+      "position": 2.7270029673590503
+    },
+    {
+      "query": "roman polanski where does he live",
+      "clicks": 32,
+      "impressions": 203,
+      "ctr": 0.15763546798029557,
+      "position": 2.886699507389163
+    },
+    {
+      "query": "allred maroko and goldberg",
+      "clicks": 28,
+      "impressions": 48,
+      "ctr": 0.5833333333333334,
+      "position": 1
+    },
+    {
+      "query": "gloria alred",
+      "clicks": 28,
+      "impressions": 2314,
+      "ctr": 0.012100259291270527,
+      "position": 8.511668107173726
+    },
+    {
+      "query": "allred law firm",
+      "clicks": 27,
+      "impressions": 133,
+      "ctr": 0.20300751879699247,
+      "position": 3.9022556390977443
+    },
+    {
+      "query": "allred maroko",
+      "clicks": 27,
+      "impressions": 64,
+      "ctr": 0.421875,
+      "position": 1
+    },
+    {
+      "query": "dolores leal",
+      "clicks": 27,
+      "impressions": 92,
+      "ctr": 0.29347826086956524,
+      "position": 1.3478260869565217
+    },
+    {
+      "query": "christina cheung",
+      "clicks": 22,
+      "impressions": 448,
+      "ctr": 0.049107142857142856,
+      "position": 2.591517857142857
+    },
+    {
+      "query": "olivia flechsig",
+      "clicks": 22,
+      "impressions": 55,
+      "ctr": 0.4,
+      "position": 1
+    },
+    {
+      "query": "amg law",
+      "clicks": 21,
+      "impressions": 338,
+      "ctr": 0.0621301775147929,
+      "position": 5.650887573964497
+    },
+    {
+      "query": "marcus spiegel",
+      "clicks": 21,
+      "impressions": 168,
+      "ctr": 0.125,
+      "position": 6.083333333333333
+    },
+    {
+      "query": "gloria allred office",
+      "clicks": 20,
+      "impressions": 89,
+      "ctr": 0.2247191011235955,
+      "position": 1.202247191011236
+    },
+    {
+      "query": "is roman polanski allowed in the united states",
+      "clicks": 20,
+      "impressions": 176,
+      "ctr": 0.11363636363636363,
+      "position": 2.346590909090909
+    },
+    {
+      "query": "karis stephen",
+      "clicks": 20,
+      "impressions": 66,
+      "ctr": 0.30303030303030304,
+      "position": 1.696969696969697
+    },
+    {
+      "query": "wrongful termination lawyer los angeles",
+      "clicks": 19,
+      "impressions": 3788,
+      "ctr": 0.00501583949313622,
+      "position": 4.213041182682154
+    },
+    {
+      "query": "does gloria allred still practice law",
+      "clicks": 18,
+      "impressions": 266,
+      "ctr": 0.06766917293233082,
+      "position": 1.7857142857142856
+    },
+    {
+      "query": "amglaw",
+      "clicks": 17,
+      "impressions": 99,
+      "ctr": 0.1717171717171717,
+      "position": 2.111111111111111
+    },
+    {
+      "query": "gloria allred contact",
+      "clicks": 16,
+      "impressions": 99,
+      "ctr": 0.16161616161616163,
+      "position": 2.404040404040404
+    },
+    {
+      "query": "tesla gender harssment lawsuit",
+      "clicks": 16,
+      "impressions": 389,
+      "ctr": 0.04113110539845758,
+      "position": 1.8508997429305913
+    },
+    {
+      "query": "allred maroko & goldberg photos",
+      "clicks": 15,
+      "impressions": 78,
+      "ctr": 0.19230769230769232,
+      "position": 2.5256410256410255
+    },
+    {
+      "query": "allred maroko goldberg",
+      "clicks": 15,
+      "impressions": 31,
+      "ctr": 0.4838709677419355,
+      "position": 1
+    },
+    {
+      "query": "amg law firm",
+      "clicks": 15,
+      "impressions": 242,
+      "ctr": 0.06198347107438017,
+      "position": 5.053719008264463
+    },
+    {
+      "query": "can a company force you to retire",
+      "clicks": 15,
+      "impressions": 273,
+      "ctr": 0.054945054945054944,
+      "position": 2.8168498168498166
+    },
+    {
+      "query": "where is roman polanski today",
+      "clicks": 14,
+      "impressions": 375,
+      "ctr": 0.037333333333333336,
+      "position": 4.816
+    },
+    {
+      "query": "is roman polanski still alive",
+      "clicks": 13,
+      "impressions": 995,
+      "ctr": 0.01306532663316583,
+      "position": 8.928643216080403
+    },
+    {
+      "query": "olivia goldberg stanford law",
+      "clicks": 13,
+      "impressions": 134,
+      "ctr": 0.09701492537313433,
+      "position": 4
+    },
+    {
+      "query": "forced retirement",
+      "clicks": 12,
+      "impressions": 1380,
+      "ctr": 0.008695652173913044,
+      "position": 8.439855072463768
+    },
+    {
+      "query": "attorney gloria allred",
+      "clicks": 11,
+      "impressions": 531,
+      "ctr": 0.02071563088512241,
+      "position": 6.284369114877589
+    },
+    {
+      "query": "civil rights attorney los angeles",
+      "clicks": 11,
+      "impressions": 1328,
+      "ctr": 0.008283132530120483,
+      "position": 10.06777108433735
+    },
+    {
+      "query": "million dollar discrimination settlements",
+      "clicks": 11,
+      "impressions": 448,
+      "ctr": 0.024553571428571428,
+      "position": 6.725446428571429
+    },
+    {
+      "query": "nathan j goldberg biography",
+      "clicks": 11,
+      "impressions": 51,
+      "ctr": 0.21568627450980393,
+      "position": 1.392156862745098
+    },
+    {
+      "query": "gloria allred phone number",
+      "clicks": 10,
+      "impressions": 61,
+      "ctr": 0.16393442622950818,
+      "position": 1.3934426229508197
+    },
+    {
+      "query": "renee mochkatel",
+      "clicks": 10,
+      "impressions": 28,
+      "ctr": 0.35714285714285715,
+      "position": 1
+    },
+    {
+      "query": "roman polanski lives where",
+      "clicks": 10,
+      "impressions": 183,
+      "ctr": 0.0546448087431694,
+      "position": 4.28415300546448
+    },
+    {
+      "query": "tesla sexual harassment lawsuit",
+      "clicks": 10,
+      "impressions": 57,
+      "ctr": 0.17543859649122806,
+      "position": 1.5789473684210527
+    },
+    {
+      "query": "bill gates sexual harassment",
+      "clicks": 9,
+      "impressions": 148,
+      "ctr": 0.060810810810810814,
+      "position": 4.763513513513514
+    },
+    {
+      "query": "nathan j goldberg",
+      "clicks": 9,
+      "impressions": 126,
+      "ctr": 0.07142857142857142,
+      "position": 1.4761904761904763
+    },
+    {
+      "query": "allred maroko & goldberg reviews",
+      "clicks": 8,
+      "impressions": 90,
+      "ctr": 0.08888888888888889,
+      "position": 3.1444444444444444
+    },
+    {
+      "query": "bill gates sexual assault",
+      "clicks": 8,
+      "impressions": 101,
+      "ctr": 0.07920792079207921,
+      "position": 3.8217821782178216
+    },
+    {
+      "query": "forced to retire or be fired",
+      "clicks": 8,
+      "impressions": 438,
+      "ctr": 0.0182648401826484,
+      "position": 4.139269406392694
+    },
+    {
+      "query": "gloria allred email",
+      "clicks": 8,
+      "impressions": 59,
+      "ctr": 0.13559322033898305,
+      "position": 3.4745762711864407
+    },
+    {
+      "query": "john west attorney",
+      "clicks": 8,
+      "impressions": 61,
+      "ctr": 0.13114754098360656,
+      "position": 6.934426229508197
+    },
+    {
+      "query": "roman polanski where is he",
+      "clicks": 8,
+      "impressions": 50,
+      "ctr": 0.16,
+      "position": 2.44
+    },
+    {
+      "query": "allred gloria",
+      "clicks": 7,
+      "impressions": 184,
+      "ctr": 0.03804347826086957,
+      "position": 5.804347826086956
+    },
+    {
+      "query": "discrimination in the workplace",
+      "clicks": 7,
+      "impressions": 153,
+      "ctr": 0.0457516339869281,
+      "position": 5.915032679738562
+    },
+    {
+      "query": "gloria allred contact number",
+      "clicks": 7,
+      "impressions": 73,
+      "ctr": 0.0958904109589041,
+      "position": 1.7534246575342465
+    },
+    {
+      "query": "gloria allred lawyer",
+      "clicks": 7,
+      "impressions": 157,
+      "ctr": 0.044585987261146494,
+      "position": 5.280254777070064
+    },
+    {
+      "query": "john west lawyer",
+      "clicks": 7,
+      "impressions": 55,
+      "ctr": 0.12727272727272726,
+      "position": 6.345454545454546
+    },
+    {
+      "query": "roman polanski living now",
+      "clicks": 7,
+      "impressions": 49,
+      "ctr": 0.14285714285714285,
+      "position": 2.7142857142857144
+    },
+    {
+      "query": "sex maroko",
+      "clicks": 7,
+      "impressions": 98,
+      "ctr": 0.07142857142857142,
+      "position": 8.357142857142858
+    },
+    {
+      "query": "allred attorney",
+      "clicks": 6,
+      "impressions": 495,
+      "ctr": 0.012121212121212121,
+      "position": 6.101010101010101
+    },
+    {
+      "query": "can a company force you to retire at 65",
+      "clicks": 6,
+      "impressions": 45,
+      "ctr": 0.13333333333333333,
+      "position": 2.7555555555555555
+    },
+    {
+      "query": "can an employer force an employee to retire",
+      "clicks": 6,
+      "impressions": 30,
+      "ctr": 0.2,
+      "position": 3.966666666666667
+    },
+    {
+      "query": "can an employer force retirement",
+      "clicks": 6,
+      "impressions": 36,
+      "ctr": 0.16666666666666666,
+      "position": 2.4444444444444446
+    },
+    {
+      "query": "gloria alfred",
+      "clicks": 6,
+      "impressions": 358,
+      "ctr": 0.01675977653631285,
+      "position": 6.472067039106145
+    },
+    {
+      "query": "joshua wright lawsuit",
+      "clicks": 6,
+      "impressions": 158,
+      "ctr": 0.0379746835443038,
+      "position": 5.417721518987341
+    },
+    {
+      "query": "recent discrimination cases won",
+      "clicks": 6,
+      "impressions": 56,
+      "ctr": 0.10714285714285714,
+      "position": 17.053571428571427
+    },
+    {
+      "query": "where is roman polanski living",
+      "clicks": 6,
+      "impressions": 57,
+      "ctr": 0.10526315789473684,
+      "position": 2.8771929824561404
+    },
+    {
+      "query": "where is roman polanski right now",
+      "clicks": 6,
+      "impressions": 45,
+      "ctr": 0.13333333333333333,
+      "position": 3.7777777777777777
+    },
+    {
+      "query": "wrongful termination lawyer",
+      "clicks": 6,
+      "impressions": 7342,
+      "ctr": 0.0008172160174339417,
+      "position": 14.502451648052302
+    },
+    {
+      "query": "at what age can a company force you to retire",
+      "clicks": 5,
+      "impressions": 272,
+      "ctr": 0.01838235294117647,
+      "position": 5.448529411764706
+    },
+    {
+      "query": "can you be forced to retire",
+      "clicks": 5,
+      "impressions": 193,
+      "ctr": 0.025906735751295335,
+      "position": 4.33160621761658
+    },
+    {
+      "query": "forced retirement package",
+      "clicks": 5,
+      "impressions": 185,
+      "ctr": 0.02702702702702703,
+      "position": 4.54054054054054
+    },
+    {
+      "query": "gloria aldridge",
+      "clicks": 5,
+      "impressions": 854,
+      "ctr": 0.00585480093676815,
+      "position": 6.60655737704918
+    },
+    {
+      "query": "gloria allred education",
+      "clicks": 5,
+      "impressions": 505,
+      "ctr": 0.009900990099009901,
+      "position": 4.41980198019802
+    },
+    {
+      "query": "gloria allred net worth",
+      "clicks": 5,
+      "impressions": 2691,
+      "ctr": 0.0018580453363062058,
+      "position": 6.729468599033816
+    },
+    {
+      "query": "harvey weinstein appeal",
+      "clicks": 5,
+      "impressions": 312,
+      "ctr": 0.016025641025641024,
+      "position": 6.839743589743589
+    },
+    {
+      "query": "is roman polanski alive",
+      "clicks": 5,
+      "impressions": 271,
+      "ctr": 0.01845018450184502,
+      "position": 9.77859778597786
+    },
+    {
+      "query": "josh wright misconduct",
+      "clicks": 5,
+      "impressions": 275,
+      "ctr": 0.01818181818181818,
+      "position": 7.196363636363636
+    },
+    {
+      "query": "roman polanski location",
+      "clicks": 5,
+      "impressions": 61,
+      "ctr": 0.08196721311475409,
+      "position": 4.295081967213115
+    },
+    {
+      "query": "roman polanski today",
+      "clicks": 5,
+      "impressions": 380,
+      "ctr": 0.013157894736842105,
+      "position": 7.544736842105263
+    },
+    {
+      "query": "sexual harassment questions",
+      "clicks": 5,
+      "impressions": 193,
+      "ctr": 0.025906735751295335,
+      "position": 8.103626943005182
+    },
+    {
+      "query": "statute of limitations california sexual assault",
+      "clicks": 5,
+      "impressions": 68,
+      "ctr": 0.07352941176470588,
+      "position": 47.85294117647059
+    },
+    {
+      "query": "video sex maroko",
+      "clicks": 5,
+      "impressions": 65,
+      "ctr": 0.07692307692307693,
+      "position": 6.769230769230769
+    },
+    {
+      "query": "what to do if sexually harassed at work",
+      "clicks": 5,
+      "impressions": 1104,
+      "ctr": 0.004528985507246377,
+      "position": 13.269021739130435
+    },
+    {
+      "query": "attorney allred",
+      "clicks": 4,
+      "impressions": 101,
+      "ctr": 0.039603960396039604,
+      "position": 5.455445544554456
+    },
+    {
+      "query": "bill gates sexual",
+      "clicks": 4,
+      "impressions": 50,
+      "ctr": 0.08,
+      "position": 6.6
+    },
+    {
+      "query": "can a company force someone to retire",
+      "clicks": 4,
+      "impressions": 25,
+      "ctr": 0.16,
+      "position": 2.3600000000000003
+    },
+    {
+      "query": "can my employer force me to retire",
+      "clicks": 4,
+      "impressions": 37,
+      "ctr": 0.10810810810810811,
+      "position": 3.108108108108108
+    },
+    {
+      "query": "can you force an employee to retire",
+      "clicks": 4,
+      "impressions": 71,
+      "ctr": 0.056338028169014086,
+      "position": 2.056338028169014
+    },
+    {
+      "query": "can you force someone into retirement",
+      "clicks": 4,
+      "impressions": 42,
+      "ctr": 0.09523809523809523,
+      "position": 4
+    },
+    {
+      "query": "can you force someone to retire",
+      "clicks": 4,
+      "impressions": 73,
+      "ctr": 0.0547945205479452,
+      "position": 4.315068493150685
+    },
+    {
+      "query": "can you force someone to retire at 70",
+      "clicks": 4,
+      "impressions": 18,
+      "ctr": 0.2222222222222222,
+      "position": 3.7777777777777777
+    },
+    {
+      "query": "civil rights attorney california",
+      "clicks": 4,
+      "impressions": 877,
+      "ctr": 0.004561003420752566,
+      "position": 12.812998859749145
+    },
+    {
+      "query": "civil rights lawyer los angeles",
+      "clicks": 4,
+      "impressions": 872,
+      "ctr": 0.0045871559633027525,
+      "position": 9.25
+    },
+    {
+      "query": "contact gloria allred",
+      "clicks": 4,
+      "impressions": 31,
+      "ctr": 0.12903225806451613,
+      "position": 2.32258064516129
+    },
+    {
+      "query": "elyse dorsey joshua wright",
+      "clicks": 4,
+      "impressions": 99,
+      "ctr": 0.04040404040404041,
+      "position": 5.353535353535354
+    },
+    {
+      "query": "employment law questions",
+      "clicks": 4,
+      "impressions": 352,
+      "ctr": 0.011363636363636364,
+      "position": 8.59090909090909
+    },
+    {
+      "query": "gloria aldred",
+      "clicks": 4,
+      "impressions": 154,
+      "ctr": 0.025974025974025976,
+      "position": 6.2272727272727275
+    },
+    {
+      "query": "gloria aldridge attorney",
+      "clicks": 4,
+      "impressions": 57,
+      "ctr": 0.07017543859649122,
+      "position": 4.807017543859649
+    },
+    {
+      "query": "gloria attorney",
+      "clicks": 4,
+      "impressions": 185,
+      "ctr": 0.021621621621621623,
+      "position": 4.356756756756757
+    },
+    {
+      "query": "los angeles wrongful termination lawyer",
+      "clicks": 4,
+      "impressions": 3742,
+      "ctr": 0.0010689470871191875,
+      "position": 4.02618920363442
+    },
+    {
+      "query": "questions about employment law",
+      "clicks": 4,
+      "impressions": 53,
+      "ctr": 0.07547169811320754,
+      "position": 6.113207547169812
+    },
+    {
+      "query": "roman polanski banned from us",
+      "clicks": 4,
+      "impressions": 84,
+      "ctr": 0.047619047619047616,
+      "position": 4.0476190476190474
+    },
+    {
+      "query": "roman polanski not allowed in us",
+      "clicks": 4,
+      "impressions": 28,
+      "ctr": 0.14285714285714285,
+      "position": 2.75
+    },
+    {
+      "query": "tesla sexual harassment",
+      "clicks": 4,
+      "impressions": 107,
+      "ctr": 0.037383177570093455,
+      "position": 2.6261682242990654
+    },
+    {
+      "query": "where did roman polanski run to",
+      "clicks": 4,
+      "impressions": 126,
+      "ctr": 0.031746031746031744,
+      "position": 4.912698412698413
+    },
+    {
+      "query": "why can't roman polanski return to the us",
+      "clicks": 4,
+      "impressions": 95,
+      "ctr": 0.042105263157894736,
+      "position": 1.9473684210526314
+    },
+    {
+      "query": "allred lawyer",
+      "clicks": 3,
+      "impressions": 569,
+      "ctr": 0.005272407732864675,
+      "position": 5.572934973637961
+    },
+    {
+      "query": "bill gates allegations",
+      "clicks": 3,
+      "impressions": 181,
+      "ctr": 0.016574585635359115,
+      "position": 6.430939226519337
+    },
+    {
+      "query": "bill gates rape",
+      "clicks": 3,
+      "impressions": 45,
+      "ctr": 0.06666666666666667,
+      "position": 4.377777777777778
+    },
+    {
+      "query": "bill gates sexual harrassment",
+      "clicks": 3,
+      "impressions": 59,
+      "ctr": 0.05084745762711865,
+      "position": 4.728813559322034
+    },
+    {
+      "query": "bill gates sexual misconduct",
+      "clicks": 3,
+      "impressions": 57,
+      "ctr": 0.05263157894736842,
+      "position": 3.5964912280701755
+    },
+    {
+      "query": "byron lau",
+      "clicks": 3,
+      "impressions": 17,
+      "ctr": 0.17647058823529413,
+      "position": 1.0588235294117647
+    },
+    {
+      "query": "can a company make you retire",
+      "clicks": 3,
+      "impressions": 57,
+      "ctr": 0.05263157894736842,
+      "position": 1.9649122807017543
+    },
+    {
+      "query": "can an employer force you to retire",
+      "clicks": 3,
+      "impressions": 94,
+      "ctr": 0.031914893617021274,
+      "position": 2.6914893617021276
+    },
+    {
+      "query": "gloria albright",
+      "clicks": 3,
+      "impressions": 1155,
+      "ctr": 0.0025974025974025974,
+      "position": 6.20952380952381
+    },
+    {
+      "query": "gloria allread",
+      "clicks": 3,
+      "impressions": 226,
+      "ctr": 0.01327433628318584,
+      "position": 8.278761061946902
+    },
+    {
+      "query": "gloria alread",
+      "clicks": 3,
+      "impressions": 294,
+      "ctr": 0.01020408163265306,
+      "position": 8.071428571428571
+    },
+    {
+      "query": "is gloria allred still practicing law",
+      "clicks": 3,
+      "impressions": 42,
+      "ctr": 0.07142857142857142,
+      "position": 2.5952380952380953
+    },
+    {
+      "query": "is roman polanski still wanted in the united states",
+      "clicks": 3,
+      "impressions": 23,
+      "ctr": 0.13043478260869565,
+      "position": 3.3043478260869565
+    },
+    {
+      "query": "joseph baldenebro",
+      "clicks": 3,
+      "impressions": 48,
+      "ctr": 0.0625,
+      "position": 3.3958333333333335
+    },
+    {
+      "query": "joshua wright elyse dorsey",
+      "clicks": 3,
+      "impressions": 52,
+      "ctr": 0.057692307692307696,
+      "position": 4.6923076923076925
+    },
+    {
+      "query": "lawyer gloria allred",
+      "clicks": 3,
+      "impressions": 412,
+      "ctr": 0.007281553398058253,
+      "position": 4.851941747572816
+    },
+    {
+      "query": "lawyers for wrongful termination",
+      "clicks": 3,
+      "impressions": 233,
+      "ctr": 0.012875536480686695,
+      "position": 17.433476394849784
+    },
+    {
+      "query": "pimco lawsuit",
+      "clicks": 3,
+      "impressions": 45,
+      "ctr": 0.06666666666666667,
+      "position": 4.533333333333333
+    },
+    {
+      "query": "roman polanski current location",
+      "clicks": 3,
+      "impressions": 28,
+      "ctr": 0.10714285714285714,
+      "position": 2.107142857142857
+    },
+    {
+      "query": "what is forced retirement",
+      "clicks": 3,
+      "impressions": 159,
+      "ctr": 0.018867924528301886,
+      "position": 7.6415094339622645
+    },
+    {
+      "query": "when was the last time roman polanski was in the us",
+      "clicks": 3,
+      "impressions": 51,
+      "ctr": 0.058823529411764705,
+      "position": 4.921568627450981
+    },
+    {
+      "query": "where is gloria allred now",
+      "clicks": 3,
+      "impressions": 102,
+      "ctr": 0.029411764705882353,
+      "position": 4.833333333333334
+    },
+    {
+      "query": "where is polanski now",
+      "clicks": 3,
+      "impressions": 80,
+      "ctr": 0.0375,
+      "position": 5.15
+    },
+    {
+      "query": "work discrimination lawyer",
+      "clicks": 3,
+      "impressions": 1062,
+      "ctr": 0.002824858757062147,
+      "position": 41.091337099811675
+    },
+    {
+      "query": "bill gates sexuality",
+      "clicks": 2,
+      "impressions": 40,
+      "ctr": 0.05,
+      "position": 6.925
+    },
+    {
+      "query": "california sexual assault",
+      "clicks": 2,
+      "impressions": 10,
+      "ctr": 0.2,
+      "position": 24.7
+    },
+    {
+      "query": "can a company refuse to let you retire",
+      "clicks": 2,
+      "impressions": 59,
+      "ctr": 0.03389830508474576,
+      "position": 3.711864406779661
+    },
+    {
+      "query": "can an employee be forced to retire",
+      "clicks": 2,
+      "impressions": 191,
+      "ctr": 0.010471204188481676,
+      "position": 19.13612565445026
+    },
+    {
+      "query": "can i be forced to retire",
+      "clicks": 2,
+      "impressions": 58,
+      "ctr": 0.034482758620689655,
+      "position": 4.551724137931035
+    },
+    {
+      "query": "can you make someone retire",
+      "clicks": 2,
+      "impressions": 34,
+      "ctr": 0.058823529411764705,
+      "position": 3.9705882352941178
+    },
+    {
+      "query": "can your employer force you to retire",
+      "clicks": 2,
+      "impressions": 34,
+      "ctr": 0.058823529411764705,
+      "position": 2.2058823529411766
+    },
+    {
+      "query": "can your employer make you retire",
+      "clicks": 2,
+      "impressions": 100,
+      "ctr": 0.02,
+      "position": 21.61
+    },
+    {
+      "query": "christina cardenas settlement",
+      "clicks": 2,
+      "impressions": 50,
+      "ctr": 0.04,
+      "position": 6.54
+    },
+    {
+      "query": "civil rights attorney",
+      "clicks": 2,
+      "impressions": 1552,
+      "ctr": 0.001288659793814433,
+      "position": 21.010309278350515
+    },
+    {
+      "query": "civil rights attorney los angeles ca",
+      "clicks": 2,
+      "impressions": 233,
+      "ctr": 0.008583690987124463,
+      "position": 8.738197424892704
+    },
+    {
+      "query": "civil rights law firms los angeles",
+      "clicks": 2,
+      "impressions": 198,
+      "ctr": 0.010101010101010102,
+      "position": 10.348484848484848
+    },
+    {
+      "query": "civil rights lawyer near me",
+      "clicks": 2,
+      "impressions": 139,
+      "ctr": 0.014388489208633094,
+      "position": 20.294964028776977
+    },
+    {
+      "query": "disability discrimination lawyers near me",
+      "clicks": 2,
+      "impressions": 222,
+      "ctr": 0.009009009009009009,
+      "position": 20.324324324324323
+    },
+    {
+      "query": "discrimination",
+      "clicks": 2,
+      "impressions": 178,
+      "ctr": 0.011235955056179775,
+      "position": 15.97191011235955
+    },
+    {
+      "query": "discrimination attorney los angeles",
+      "clicks": 2,
+      "impressions": 1231,
+      "ctr": 0.0016246953696181965,
+      "position": 3.9317627944760356
+    },
+    {
+      "query": "discrimination lawsuit examples",
+      "clicks": 2,
+      "impressions": 30,
+      "ctr": 0.06666666666666667,
+      "position": 27.366666666666667
+    },
+    {
+      "query": "discrimination lawyers los angeles",
+      "clicks": 2,
+      "impressions": 705,
+      "ctr": 0.0028368794326241137,
+      "position": 6.370212765957447
+    },
+    {
+      "query": "eeoc investigation timeline",
+      "clicks": 2,
+      "impressions": 54,
+      "ctr": 0.037037037037037035,
+      "position": 19.944444444444443
+    },
+    {
+      "query": "employment discrimination attorney",
+      "clicks": 2,
+      "impressions": 3019,
+      "ctr": 0.000662471016893011,
+      "position": 43.93209672076846
+    },
+    {
+      "query": "employment discrimination attorney los angeles",
+      "clicks": 2,
+      "impressions": 920,
+      "ctr": 0.002173913043478261,
+      "position": 5.832608695652174
+    },
+    {
+      "query": "employment law question",
+      "clicks": 2,
+      "impressions": 99,
+      "ctr": 0.020202020202020204,
+      "position": 41.111111111111114
+    },
+    {
+      "query": "example of forced retirement",
+      "clicks": 2,
+      "impressions": 94,
+      "ctr": 0.02127659574468085,
+      "position": 4.829787234042554
+    },
+    {
+      "query": "famous female attorney gloria",
+      "clicks": 2,
+      "impressions": 154,
+      "ctr": 0.012987012987012988,
+      "position": 2.525974025974026
+    },
+    {
+      "query": "force retirement",
+      "clicks": 2,
+      "impressions": 220,
+      "ctr": 0.00909090909090909,
+      "position": 7.9818181818181815
+    },
+    {
+      "query": "forced retirement age",
+      "clicks": 2,
+      "impressions": 209,
+      "ctr": 0.009569377990430622,
+      "position": 10.382775119617225
+    },
+    {
+      "query": "gloria alleed",
+      "clicks": 2,
+      "impressions": 230,
+      "ctr": 0.008695652173913044,
+      "position": 9.917391304347825
+    },
+    {
+      "query": "gloria allerd",
+      "clicks": 2,
+      "impressions": 92,
+      "ctr": 0.021739130434782608,
+      "position": 8.804347826086957
+    },
+    {
+      "query": "gloria lawyer",
+      "clicks": 2,
+      "impressions": 493,
+      "ctr": 0.004056795131845842,
+      "position": 7.257606490872211
+    },
+    {
+      "query": "gloria rachel allred",
+      "clicks": 2,
+      "impressions": 17,
+      "ctr": 0.11764705882352941,
+      "position": 4.117647058823529
+    },
+    {
+      "query": "has roman polanski been back to the us",
+      "clicks": 2,
+      "impressions": 37,
+      "ctr": 0.05405405405405406,
+      "position": 2.4054054054054053
+    },
+    {
+      "query": "human rights attorney los angeles",
+      "clicks": 2,
+      "impressions": 151,
+      "ctr": 0.013245033112582781,
+      "position": 10.708609271523178
+    },
+    {
+      "query": "involuntary retirement",
+      "clicks": 2,
+      "impressions": 374,
+      "ctr": 0.0053475935828877,
+      "position": 6.745989304812834
+    },
+    {
+      "query": "is forced retirement legal",
+      "clicks": 2,
+      "impressions": 80,
+      "ctr": 0.025,
+      "position": 4.6625
+    },
+    {
+      "query": "john giamatteo",
+      "clicks": 2,
+      "impressions": 92,
+      "ctr": 0.021739130434782608,
+      "position": 27.619565217391305
+    },
+    {
+      "query": "joshua wright defamation",
+      "clicks": 2,
+      "impressions": 15,
+      "ctr": 0.13333333333333333,
+      "position": 7.466666666666667
+    },
+    {
+      "query": "los angeles civil rights attorney",
+      "clicks": 2,
+      "impressions": 631,
+      "ctr": 0.003169572107765452,
+      "position": 7.654516640253566
+    },
+    {
+      "query": "los angeles workplace harassment lawyer",
+      "clicks": 2,
+      "impressions": 471,
+      "ctr": 0.004246284501061571,
+      "position": 5.150743099787686
+    },
+    {
+      "query": "maroko sex",
+      "clicks": 2,
+      "impressions": 53,
+      "ctr": 0.03773584905660377,
+      "position": 8.528301886792452
+    },
+    {
+      "query": "mcdonald's sexual harassment lawsuit",
+      "clicks": 2,
+      "impressions": 67,
+      "ctr": 0.029850746268656716,
+      "position": 8.64179104477612
+    },
+    {
+      "query": "nate goldberg",
+      "clicks": 2,
+      "impressions": 80,
+      "ctr": 0.025,
+      "position": 8.6625
+    },
+    {
+      "query": "pertanyaan tentang pelecehan seksual",
+      "clicks": 2,
+      "impressions": 48,
+      "ctr": 0.041666666666666664,
+      "position": 4.666666666666666
+    },
+    {
+      "query": "question about sexual harassment",
+      "clicks": 2,
+      "impressions": 71,
+      "ctr": 0.028169014084507043,
+      "position": 4.267605633802817
+    },
+    {
+      "query": "questions about sexual harassment",
+      "clicks": 2,
+      "impressions": 101,
+      "ctr": 0.019801980198019802,
+      "position": 4.702970297029703
+    },
+    {
+      "query": "roman polanski",
+      "clicks": 2,
+      "impressions": 4241,
+      "ctr": 0.0004715868898844612,
+      "position": 41.929497759962274
+    },
+    {
+      "query": "sexual assault statute of limitations california",
+      "clicks": 2,
+      "impressions": 194,
+      "ctr": 0.010309278350515464,
+      "position": 77.75773195876289
+    },
+    {
+      "query": "tesla sex",
+      "clicks": 2,
+      "impressions": 772,
+      "ctr": 0.0025906735751295338,
+      "position": 7.391191709844559
+    },
+    {
+      "query": "tracy tutor raped",
+      "clicks": 2,
+      "impressions": 2,
+      "ctr": 1,
+      "position": 8.5
+    },
+    {
+      "query": "weinstein appeal",
+      "clicks": 2,
+      "impressions": 92,
+      "ctr": 0.021739130434782608,
+      "position": 7.239130434782608
+    },
+    {
+      "query": "what is the difference between fepa and eeoc",
+      "clicks": 2,
+      "impressions": 59,
+      "ctr": 0.03389830508474576,
+      "position": 7.372881355932203
+    },
+    {
+      "query": "what to do if discriminated at work",
+      "clicks": 2,
+      "impressions": 39,
+      "ctr": 0.05128205128205128,
+      "position": 7.256410256410256
+    },
+    {
+      "query": "what to do if you feel discriminated at work",
+      "clicks": 2,
+      "impressions": 47,
+      "ctr": 0.0425531914893617,
+      "position": 4.425531914893617
+    },
+    {
+      "query": "where does gloria allred live",
+      "clicks": 2,
+      "impressions": 143,
+      "ctr": 0.013986013986013986,
+      "position": 4.832167832167832
+    },
+    {
+      "query": "where does roman polanski currently live",
+      "clicks": 2,
+      "impressions": 6,
+      "ctr": 0.3333333333333333,
+      "position": 2.666666666666667
+    },
+    {
+      "query": "where is roman polanski living now",
+      "clicks": 2,
+      "impressions": 14,
+      "ctr": 0.14285714285714285,
+      "position": 2.428571428571429
+    },
+    {
+      "query": "whistleblower attorney los angeles",
+      "clicks": 2,
+      "impressions": 1082,
+      "ctr": 0.0018484288354898336,
+      "position": 56.60813308687616
+    },
+    {
+      "query": "who is gloria allred",
+      "clicks": 2,
+      "impressions": 332,
+      "ctr": 0.006024096385542169,
+      "position": 7.765060240963855
+    },
+    {
+      "query": "why isn't roman polanski arrested",
+      "clicks": 2,
+      "impressions": 26,
+      "ctr": 0.07692307692307693,
+      "position": 6.1923076923076925
+    },
+    {
+      "query": "why roman polanski can't come to america",
+      "clicks": 2,
+      "impressions": 79,
+      "ctr": 0.02531645569620253,
+      "position": 1.9367088607594938
+    },
+    {
+      "query": "wilson v. csu",
+      "clicks": 2,
+      "impressions": 36,
+      "ctr": 0.05555555555555555,
+      "position": 4.361111111111111
+    },
+    {
+      "query": "women's rights attorney",
+      "clicks": 2,
+      "impressions": 1073,
+      "ctr": 0.001863932898415657,
+      "position": 6.883504193849022
+    },
+    {
+      "query": "work discrimination lawyers",
+      "clicks": 2,
+      "impressions": 804,
+      "ctr": 0.0024875621890547263,
+      "position": 56.146766169154226
+    },
+    {
+      "query": "workplace harassment lawyer los angeles",
+      "clicks": 2,
+      "impressions": 208,
+      "ctr": 0.009615384615384616,
+      "position": 4.822115384615385
+    },
+    {
+      "query": "wrongful termination attorney los angeles",
+      "clicks": 2,
+      "impressions": 2065,
+      "ctr": 0.0009685230024213075,
+      "position": 3.8145278450363196
+    },
+    {
+      "query": "wrongful termination lawyer in los angeles",
+      "clicks": 2,
+      "impressions": 952,
+      "ctr": 0.0021008403361344537,
+      "position": 4.155462184873949
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:22:05.692Z"
 }

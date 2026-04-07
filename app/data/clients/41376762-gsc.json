@@ -1,156 +1,16 @@
 {
   "property": "sc-domain:bruniandcampisi.com",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 3698,
-    "impressions": 675116,
-    "ctr": 0.005477577186735316,
-    "position": 21.836451619240393
+    "clicks": 3748,
+    "impressions": 645692,
+    "ctr": 0.005804625115380088,
+    "position": 20.61953983527601
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 67,
-      "impressions": 8488,
-      "ctr": 0.00789349670122526,
-      "position": 23.574222431668236
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 43,
-      "impressions": 8865,
-      "ctr": 0.00485053581500282,
-      "position": 21.99063733784546
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 40,
-      "impressions": 6346,
-      "ctr": 0.006303183107469272,
-      "position": 20.8183107469272
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 39,
-      "impressions": 7832,
-      "ctr": 0.004979570990806946,
-      "position": 23.294688457609805
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 41,
-      "impressions": 7009,
-      "ctr": 0.005849621914681124,
-      "position": 21.214866600085603
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 21,
-      "impressions": 13187,
-      "ctr": 0.0015924774399029347,
-      "position": 19.50807613558808
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 30,
-      "impressions": 6718,
-      "ctr": 0.004465614766299494,
-      "position": 24.487645132479905
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 35,
-      "impressions": 7107,
-      "ctr": 0.004924722104966934,
-      "position": 22.74757281553398
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 23,
-      "impressions": 7402,
-      "ctr": 0.0031072683058632803,
-      "position": 26.350175628208593
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 22,
-      "impressions": 6853,
-      "ctr": 0.0032102728731942215,
-      "position": 24.871443163577997
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 12,
-      "impressions": 6715,
-      "ctr": 0.0017870439314966492,
-      "position": 21.82144452717796
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 35,
-      "impressions": 7082,
-      "ctr": 0.004942106749505789,
-      "position": 23.305139791019485
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 22,
-      "impressions": 6962,
-      "ctr": 0.003160011490950876,
-      "position": 21.973427176098824
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 30,
-      "impressions": 7212,
-      "ctr": 0.004159733777038269,
-      "position": 22.40099833610649
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 63,
-      "impressions": 8150,
-      "ctr": 0.007730061349693252,
-      "position": 26.40355828220859
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 38,
-      "impressions": 8876,
-      "ctr": 0.004281207751239297,
-      "position": 26.1693330328977
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 32,
-      "impressions": 7459,
-      "ctr": 0.004290119318943558,
-      "position": 23.616704652098136
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 23,
-      "impressions": 8540,
-      "ctr": 0.002693208430913349,
-      "position": 23.089812646370024
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 50,
-      "impressions": 6880,
-      "ctr": 0.007267441860465116,
-      "position": 19.97122093023256
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 25,
-      "impressions": 6052,
-      "ctr": 0.004130865829477859,
-      "position": 22.02379378717779
-    },
     {
       "date": "2026-01-04",
       "clicks": 22,
@@ -640,711 +500,1913 @@
       "impressions": 4811,
       "ctr": 0.0035335689045936395,
       "position": 16.411348991893576
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 15,
+      "impressions": 4642,
+      "ctr": 0.003231365790607497,
+      "position": 16.963593278759156
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 36,
+      "impressions": 5690,
+      "ctr": 0.00632688927943761,
+      "position": 20.25237258347979
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 39,
+      "impressions": 5375,
+      "ctr": 0.007255813953488372,
+      "position": 15.634976744186046
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 41,
+      "impressions": 5662,
+      "ctr": 0.007241257506181561,
+      "position": 18.62151183327446
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 53,
+      "impressions": 5378,
+      "ctr": 0.009854964670881369,
+      "position": 15.806619561175157
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 48,
+      "impressions": 5171,
+      "ctr": 0.009282537226842004,
+      "position": 17.810868304003094
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 15,
+      "impressions": 6716,
+      "ctr": 0.002233472304943419,
+      "position": 17.458457415128052
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 17,
+      "impressions": 6000,
+      "ctr": 0.0028333333333333335,
+      "position": 16.5535
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 42,
+      "impressions": 6453,
+      "ctr": 0.006508600650860065,
+      "position": 20.431737176507053
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 60,
+      "impressions": 6327,
+      "ctr": 0.00948316737790422,
+      "position": 15.920341394025604
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 47,
+      "impressions": 5897,
+      "ctr": 0.007970154315753774,
+      "position": 17.53569611666949
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 38,
+      "impressions": 6889,
+      "ctr": 0.005516040063869938,
+      "position": 22.940049354042678
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 35,
+      "impressions": 6163,
+      "ctr": 0.005679052409540808,
+      "position": 17.50770728541295
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 20,
+      "impressions": 5889,
+      "ctr": 0.0033961623365596876,
+      "position": 17.817795890643573
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 17,
+      "impressions": 5653,
+      "ctr": 0.003007252786131258,
+      "position": 17.662833893507873
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 33,
+      "impressions": 6638,
+      "ctr": 0.004971376920759264,
+      "position": 20.270864718288642
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 47,
+      "impressions": 5882,
+      "ctr": 0.007990479428765726,
+      "position": 16.47075824549473
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 41,
+      "impressions": 7330,
+      "ctr": 0.005593451568894952,
+      "position": 14.960300136425648
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 38,
+      "impressions": 5210,
+      "ctr": 0.007293666026871401,
+      "position": 16.547024952015356
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 43,
+      "impressions": 6112,
+      "ctr": 0.007035340314136125,
+      "position": 16.20435209424084
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 16,
+      "impressions": 5234,
+      "ctr": 0.003056935422239205,
+      "position": 17.359189912113106
     }
   ],
   "topQueries": [
     {
       "query": "bruni and campisi",
-      "clicks": 1061,
-      "impressions": 5552,
-      "ctr": 0.19110230547550433,
-      "position": 1.0967219020172911
+      "clicks": 1084,
+      "impressions": 5595,
+      "ctr": 0.1937444146559428,
+      "position": 1.0841823056300268
     },
     {
       "query": "bruni & campisi",
-      "clicks": 149,
-      "impressions": 509,
-      "ctr": 0.29273084479371314,
-      "position": 1.0333988212180747
+      "clicks": 156,
+      "impressions": 559,
+      "ctr": 0.27906976744186046,
+      "position": 1.0304114490161003
     },
     {
       "query": "bruno and campisi",
-      "clicks": 112,
-      "impressions": 638,
-      "ctr": 0.1755485893416928,
-      "position": 1.6065830721003134
+      "clicks": 106,
+      "impressions": 643,
+      "ctr": 0.16485225505443235,
+      "position": 1.6003110419906688
     },
     {
       "query": "bruni campisi",
-      "clicks": 85,
-      "impressions": 484,
-      "ctr": 0.1756198347107438,
-      "position": 1.3450413223140496
+      "clicks": 101,
+      "impressions": 490,
+      "ctr": 0.20612244897959184,
+      "position": 1.3122448979591836
     },
     {
       "query": "bruni & campisi, inc.",
-      "clicks": 61,
-      "impressions": 543,
-      "ctr": 0.11233885819521179,
-      "position": 1.1031307550644567
+      "clicks": 67,
+      "impressions": 602,
+      "ctr": 0.11129568106312292,
+      "position": 1.089700996677741
     },
     {
       "query": "bruno campisi",
-      "clicks": 43,
-      "impressions": 275,
-      "ctr": 0.15636363636363637,
-      "position": 2.589090909090909
+      "clicks": 38,
+      "impressions": 254,
+      "ctr": 0.14960629921259844,
+      "position": 3.043307086614173
     },
     {
       "query": "bruni and campisi reviews",
-      "clicks": 34,
-      "impressions": 2335,
-      "ctr": 0.014561027837259101,
-      "position": 5.590149892933619
+      "clicks": 35,
+      "impressions": 2296,
+      "ctr": 0.01524390243902439,
+      "position": 4.3671602787456445
     },
     {
       "query": "bruni and campisi plumbing",
-      "clicks": 26,
-      "impressions": 157,
-      "ctr": 0.16560509554140126,
-      "position": 2.1210191082802545
+      "clicks": 27,
+      "impressions": 162,
+      "ctr": 0.16666666666666666,
+      "position": 2.0864197530864197
+    },
+    {
+      "query": "bruni & campisi inc",
+      "clicks": 20,
+      "impressions": 126,
+      "ctr": 0.15873015873015872,
+      "position": 3.857142857142857
     },
     {
       "query": "bruni and campisi jobs",
-      "clicks": 19,
+      "clicks": 20,
       "impressions": 61,
-      "ctr": 0.3114754098360656,
-      "position": 1.7704918032786885
+      "ctr": 0.32786885245901637,
+      "position": 1.8032786885245902
     },
     {
       "query": "bruni & campisi plumbing & heating inc",
       "clicks": 17,
-      "impressions": 34,
-      "ctr": 0.5,
+      "impressions": 39,
+      "ctr": 0.4358974358974359,
       "position": 1
-    },
-    {
-      "query": "bruni & campisi inc",
-      "clicks": 12,
-      "impressions": 102,
-      "ctr": 0.11764705882352941,
-      "position": 1.5980392156862746
-    },
-    {
-      "query": "bruni & campisi, inc.-plumbing",
-      "clicks": 11,
-      "impressions": 29,
-      "ctr": 0.3793103448275862,
-      "position": 1
-    },
-    {
-      "query": "services offered by bruni and campisi",
-      "clicks": 10,
-      "impressions": 63,
-      "ctr": 0.15873015873015872,
-      "position": 1.7142857142857144
     },
     {
       "query": "bruni & campisi electric",
-      "clicks": 8,
-      "impressions": 30,
-      "ctr": 0.26666666666666666,
-      "position": 10.233333333333333
+      "clicks": 14,
+      "impressions": 40,
+      "ctr": 0.35,
+      "position": 7.925
     },
     {
-      "query": "oil to gas conversion kit",
-      "clicks": 8,
-      "impressions": 352,
-      "ctr": 0.022727272727272728,
-      "position": 3.4375
+      "query": "services offered by bruni and campisi",
+      "clicks": 13,
+      "impressions": 76,
+      "ctr": 0.17105263157894737,
+      "position": 1.5394736842105263
+    },
+    {
+      "query": "bruni & campisi, inc.-plumbing",
+      "clicks": 9,
+      "impressions": 20,
+      "ctr": 0.45,
+      "position": 1
     },
     {
       "query": "call the bee",
+      "clicks": 8,
+      "impressions": 1418,
+      "ctr": 0.005641748942172073,
+      "position": 5.920310296191819
+    },
+    {
+      "query": "oil to gas conversion kit",
       "clicks": 7,
-      "impressions": 1697,
-      "ctr": 0.0041249263406010605,
-      "position": 6.058927519151443
+      "impressions": 352,
+      "ctr": 0.019886363636363636,
+      "position": 3.0568181818181817
+    },
+    {
+      "query": "hvac near me",
+      "clicks": 5,
+      "impressions": 958,
+      "ctr": 0.005219206680584551,
+      "position": 8.525052192066806
+    },
+    {
+      "query": "hvac westchester",
+      "clicks": 5,
+      "impressions": 576,
+      "ctr": 0.008680555555555556,
+      "position": 10.350694444444445
     },
     {
       "query": "hvac westchester ny",
       "clicks": 5,
-      "impressions": 454,
-      "ctr": 0.011013215859030838,
-      "position": 3.9008810572687223
+      "impressions": 459,
+      "ctr": 0.010893246187363835,
+      "position": 4.076252723311547
     },
     {
-      "query": "bruni & campisi, inc. reviews",
+      "query": "bruni plumbing",
       "clicks": 4,
-      "impressions": 434,
-      "ctr": 0.009216589861751152,
-      "position": 3.30184331797235
+      "impressions": 40,
+      "ctr": 0.1,
+      "position": 7.75
     },
     {
       "query": "converting from oil to natural gas",
       "clicks": 4,
-      "impressions": 243,
-      "ctr": 0.01646090534979424,
-      "position": 3.3786008230452675
+      "impressions": 302,
+      "ctr": 0.013245033112582781,
+      "position": 4.162251655629139
     },
     {
-      "query": "hvac near me",
+      "query": "drywell tank",
       "clicks": 4,
-      "impressions": 814,
-      "ctr": 0.004914004914004914,
-      "position": 8.912776412776413
+      "impressions": 322,
+      "ctr": 0.012422360248447204,
+      "position": 1.2546583850931676
     },
     {
-      "query": "hvac westchester",
+      "query": "westchester plumbers",
       "clicks": 4,
-      "impressions": 578,
-      "ctr": 0.006920415224913495,
-      "position": 12.512110726643598
+      "impressions": 115,
+      "ctr": 0.034782608695652174,
+      "position": 9.252173913043478
     },
     {
       "query": "call the bee plumbing",
       "clicks": 3,
-      "impressions": 135,
-      "ctr": 0.022222222222222223,
-      "position": 8.674074074074074
+      "impressions": 132,
+      "ctr": 0.022727272727272728,
+      "position": 8.666666666666668
     },
     {
-      "query": "chimney sweep westchester ny",
+      "query": "converting oil furnace to gas",
       "clicks": 3,
-      "impressions": 40,
-      "ctr": 0.075,
-      "position": 8.725
+      "impressions": 503,
+      "ctr": 0.005964214711729622,
+      "position": 4.9105367793240555
     },
     {
       "query": "how can i get a new gas pipeline connection? what should i do to make the process easier?",
       "clicks": 3,
-      "impressions": 48,
-      "ctr": 0.0625,
-      "position": 11.375
+      "impressions": 44,
+      "ctr": 0.06818181818181818,
+      "position": 11.159090909090908
     },
     {
-      "query": "hvac companies in westchester county ny",
+      "query": "hvac companies westchester",
       "clicks": 3,
-      "impressions": 406,
-      "ctr": 0.007389162561576354,
-      "position": 3.4876847290640396
+      "impressions": 298,
+      "ctr": 0.010067114093959731,
+      "position": 4.570469798657719
     },
     {
       "query": "hvac greenwich ct",
       "clicks": 3,
-      "impressions": 261,
-      "ctr": 0.011494252873563218,
-      "position": 14.877394636015326
+      "impressions": 193,
+      "ctr": 0.015544041450777202,
+      "position": 17.77720207253886
     },
     {
-      "query": "hvac white plains",
+      "query": "hvac rockland county",
       "clicks": 3,
-      "impressions": 248,
-      "ctr": 0.012096774193548387,
-      "position": 7.903225806451613
+      "impressions": 179,
+      "ctr": 0.01675977653631285,
+      "position": 9.061452513966481
     },
     {
       "query": "oil to gas conversion",
       "clicks": 3,
-      "impressions": 3384,
-      "ctr": 0.0008865248226950354,
-      "position": 5.282210401891253
+      "impressions": 3203,
+      "ctr": 0.0009366219169528567,
+      "position": 5.534811114580081
     },
     {
       "query": "ac repair in new york",
       "clicks": 2,
-      "impressions": 170,
-      "ctr": 0.011764705882352941,
-      "position": 32.62352941176471
+      "impressions": 164,
+      "ctr": 0.012195121951219513,
+      "position": 30.170731707317074
     },
     {
       "query": "ac turns on but not blowing air",
       "clicks": 2,
-      "impressions": 43,
-      "ctr": 0.046511627906976744,
-      "position": 6.348837209302325
+      "impressions": 41,
+      "ctr": 0.04878048780487805,
+      "position": 7.414634146341464
     },
     {
-      "query": "air duct cleaning near me",
+      "query": "air conditioner installation near me",
       "clicks": 2,
-      "impressions": 1083,
-      "ctr": 0.0018467220683287165,
-      "position": 11.809787626962143
-    },
-    {
-      "query": "air duct cleaning westchester ny",
-      "clicks": 2,
-      "impressions": 24,
-      "ctr": 0.08333333333333333,
-      "position": 4.625
+      "impressions": 194,
+      "ctr": 0.010309278350515464,
+      "position": 9.15979381443299
     },
     {
       "query": "aqueduct heating services",
       "clicks": 2,
-      "impressions": 8,
-      "ctr": 0.25,
-      "position": 11.625
+      "impressions": 7,
+      "ctr": 0.2857142857142857,
+      "position": 8.857142857142858
     },
     {
       "query": "boiler cleaning service",
       "clicks": 2,
-      "impressions": 66,
-      "ctr": 0.030303030303030304,
-      "position": 25.40909090909091
+      "impressions": 69,
+      "ctr": 0.028985507246376812,
+      "position": 24.956521739130434
     },
     {
       "query": "boiler conversion from oil to gas",
       "clicks": 2,
-      "impressions": 231,
-      "ctr": 0.008658008658008658,
-      "position": 6.588744588744588
+      "impressions": 237,
+      "ctr": 0.008438818565400843,
+      "position": 7.29957805907173
     },
     {
-      "query": "boiler service near me",
+      "query": "bruni & campisi, inc. reviews",
       "clicks": 2,
-      "impressions": 103,
-      "ctr": 0.019417475728155338,
-      "position": 6.980582524271845
+      "impressions": 444,
+      "ctr": 0.0045045045045045045,
+      "position": 3.0427927927927927
+    },
+    {
+      "query": "bruni & campisi, inc.-hvac",
+      "clicks": 2,
+      "impressions": 3,
+      "ctr": 0.6666666666666666,
+      "position": 1
     },
     {
       "query": "bruni electrical services",
       "clicks": 2,
-      "impressions": 53,
-      "ctr": 0.03773584905660377,
-      "position": 9.320754716981131
+      "impressions": 55,
+      "ctr": 0.03636363636363636,
+      "position": 9.145454545454545
     },
     {
-      "query": "bruni plumbing",
+      "query": "bruno and campisi plumbing",
       "clicks": 2,
-      "impressions": 50,
-      "ctr": 0.04,
-      "position": 7.24
-    },
-    {
-      "query": "call the bee heating and air",
-      "clicks": 2,
-      "impressions": 66,
-      "ctr": 0.030303030303030304,
-      "position": 7.878787878787879
+      "impressions": 17,
+      "ctr": 0.11764705882352941,
+      "position": 13.058823529411764
     },
     {
       "query": "campisi electrical",
       "clicks": 2,
-      "impressions": 29,
-      "ctr": 0.06896551724137931,
-      "position": 4.137931034482758
+      "impressions": 26,
+      "ctr": 0.07692307692307693,
+      "position": 3.423076923076923
     },
     {
       "query": "convert oil to gas",
       "clicks": 2,
-      "impressions": 392,
-      "ctr": 0.00510204081632653,
-      "position": 5.533163265306122
+      "impressions": 431,
+      "ctr": 0.004640371229698376,
+      "position": 5.2877030162412995
     },
     {
       "query": "converting oil to gas",
       "clicks": 2,
-      "impressions": 643,
-      "ctr": 0.003110419906687403,
-      "position": 4.183514774494556
-    },
-    {
-      "query": "drain cleaning",
-      "clicks": 2,
-      "impressions": 2347,
-      "ctr": 0.0008521516829995739,
-      "position": 9.411163187047295
+      "impressions": 718,
+      "ctr": 0.002785515320334262,
+      "position": 4.864902506963788
     },
     {
       "query": "duct cleaning near me",
       "clicks": 2,
-      "impressions": 121,
-      "ctr": 0.01652892561983471,
-      "position": 65.08264462809917
-    },
-    {
-      "query": "emergency boiler repair",
-      "clicks": 2,
-      "impressions": 316,
-      "ctr": 0.006329113924050633,
-      "position": 26.329113924050635
+      "impressions": 122,
+      "ctr": 0.01639344262295082,
+      "position": 65.00819672131148
     },
     {
       "query": "heating and plumbing companies near me",
       "clicks": 2,
+      "impressions": 41,
+      "ctr": 0.04878048780487805,
+      "position": 20.75609756097561
+    },
+    {
+      "query": "how to change from oil to gas",
+      "clicks": 2,
+      "impressions": 8,
+      "ctr": 0.25,
+      "position": 6.25
+    },
+    {
+      "query": "hvac companies in westchester county ny",
+      "clicks": 2,
+      "impressions": 325,
+      "ctr": 0.006153846153846154,
+      "position": 4.107692307692307
+    },
+    {
+      "query": "hvac companies stamford ct",
+      "clicks": 2,
       "impressions": 38,
       "ctr": 0.05263157894736842,
-      "position": 21.18421052631579
+      "position": 11.394736842105264
     },
     {
-      "query": "heating repair near me",
+      "query": "hvac duct cleaning services near me",
       "clicks": 2,
-      "impressions": 116,
-      "ctr": 0.017241379310344827,
-      "position": 9.21551724137931
+      "impressions": 2,
+      "ctr": 1,
+      "position": 5
     },
     {
-      "query": "home insulation westchester ny",
+      "query": "hvac westchester county",
       "clicks": 2,
-      "impressions": 83,
-      "ctr": 0.024096385542168676,
-      "position": 7.626506024096385
+      "impressions": 402,
+      "ctr": 0.004975124378109453,
+      "position": 8.53731343283582
     },
     {
-      "query": "hvac apprentice jobs",
+      "query": "hvac white plains",
       "clicks": 2,
+      "impressions": 242,
+      "ctr": 0.008264462809917356,
+      "position": 8.68595041322314
+    },
+    {
+      "query": "peekskill plumber",
+      "clicks": 2,
+      "impressions": 79,
+      "ctr": 0.02531645569620253,
+      "position": 4.1265822784810124
+    },
+    {
+      "query": "plumber mamaroneck",
+      "clicks": 2,
+      "impressions": 365,
+      "ctr": 0.005479452054794521,
+      "position": 7.879452054794521
+    },
+    {
+      "query": "plumbers in westchester county",
+      "clicks": 2,
+      "impressions": 23,
+      "ctr": 0.08695652173913043,
+      "position": 4
+    },
+    {
+      "query": "plumbers near me",
+      "clicks": 2,
+      "impressions": 325,
+      "ctr": 0.006153846153846154,
+      "position": 8.68
+    },
+    {
+      "query": "plumbers peekskill",
+      "clicks": 2,
+      "impressions": 81,
+      "ctr": 0.024691358024691357,
+      "position": 4.333333333333334
+    },
+    {
+      "query": "plumbing near me",
+      "clicks": 2,
+      "impressions": 42,
+      "ctr": 0.047619047619047616,
+      "position": 32.66666666666667
+    },
+    {
+      "query": "100 grasslands road, elmsford, ny 10523",
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 6.1
+    },
+    {
+      "query": "ac turns on but doesn't blow air",
+      "clicks": 1,
+      "impressions": 168,
+      "ctr": 0.005952380952380952,
+      "position": 2.7261904761904763
+    },
+    {
+      "query": "ac unit not blowing air",
+      "clicks": 1,
+      "impressions": 92,
+      "ctr": 0.010869565217391304,
+      "position": 9.51086956521739
+    },
+    {
+      "query": "ac vent cleaners near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 5
+    },
+    {
+      "query": "ai thermostat",
+      "clicks": 1,
+      "impressions": 151,
+      "ctr": 0.006622516556291391,
+      "position": 4.039735099337749
+    },
+    {
+      "query": "air conditioner noise at night",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 12
+    },
+    {
+      "query": "air conditioner repair companies",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "air conditioner service near me",
+      "clicks": 1,
+      "impressions": 272,
+      "ctr": 0.003676470588235294,
+      "position": 11.279411764705882
+    },
+    {
+      "query": "air duct cleaning",
+      "clicks": 1,
+      "impressions": 299,
+      "ctr": 0.0033444816053511705,
+      "position": 7.1003344481605355
+    },
+    {
+      "query": "air duct cleaning near me",
+      "clicks": 1,
+      "impressions": 928,
+      "ctr": 0.0010775862068965517,
+      "position": 11.327586206896552
+    },
+    {
+      "query": "air duct cleaning westchester ny",
+      "clicks": 1,
       "impressions": 18,
-      "ctr": 0.1111111111111111,
+      "ctr": 0.05555555555555555,
+      "position": 4.833333333333334
+    },
+    {
+      "query": "apprenticeship",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
       "position": 1
     },
     {
-      "query": "hvac companies near me",
-      "clicks": 2,
-      "impressions": 655,
-      "ctr": 0.0030534351145038168,
-      "position": 8.054961832061068
+      "query": "aqueduct plumbing westchester",
+      "clicks": 1,
+      "impressions": 86,
+      "ctr": 0.011627906976744186,
+      "position": 11.023255813953488
+    },
+    {
+      "query": "baseboard heater cleaning service",
+      "clicks": 1,
+      "impressions": 38,
+      "ctr": 0.02631578947368421,
+      "position": 9.052631578947368
+    },
+    {
+      "query": "baseboard heater cleaning service near me",
+      "clicks": 1,
+      "impressions": 33,
+      "ctr": 0.030303030303030304,
+      "position": 12.363636363636363
+    },
+    {
+      "query": "baseboard heating installation",
+      "clicks": 1,
+      "impressions": 60,
+      "ctr": 0.016666666666666666,
+      "position": 13.633333333333333
+    },
+    {
+      "query": "best duct cleaners near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "best hvac near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 9.333333333333334
+    },
+    {
+      "query": "best plumbers in my area",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "best plumbing and heating services near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "boiler company near me",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 10.333333333333334
+    },
+    {
+      "query": "boiler contractor near me",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 49.2
+    },
+    {
+      "query": "boiler repair",
+      "clicks": 1,
+      "impressions": 2059,
+      "ctr": 0.00048567265662943174,
+      "position": 13.895094706168043
+    },
+    {
+      "query": "boiler repair ny",
+      "clicks": 1,
+      "impressions": 409,
+      "ctr": 0.0024449877750611247,
+      "position": 11.916870415647923
+    },
+    {
+      "query": "boiler repair stamford",
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 6.35
+    },
+    {
+      "query": "boiler replacement",
+      "clicks": 1,
+      "impressions": 68,
+      "ctr": 0.014705882352941176,
+      "position": 40.5
+    },
+    {
+      "query": "boiler service near me",
+      "clicks": 1,
+      "impressions": 66,
+      "ctr": 0.015151515151515152,
+      "position": 7.303030303030303
+    },
+    {
+      "query": "bruni",
+      "clicks": 1,
+      "impressions": 257,
+      "ctr": 0.0038910505836575876,
+      "position": 4.038910505836576
+    },
+    {
+      "query": "bruni and campisi electric",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 19
+    },
+    {
+      "query": "bruni and campisi photos",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2
+    },
+    {
+      "query": "buderus service near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 1.75
+    },
+    {
+      "query": "call the bee heating and air",
+      "clicks": 1,
+      "impressions": 68,
+      "ctr": 0.014705882352941176,
+      "position": 7.985294117647059
+    },
+    {
+      "query": "can an oil furnace be converted to propane",
+      "clicks": 1,
+      "impressions": 89,
+      "ctr": 0.011235955056179775,
+      "position": 7.292134831460674
+    },
+    {
+      "query": "can you change oil heating to gas",
+      "clicks": 1,
+      "impressions": 28,
+      "ctr": 0.03571428571428571,
+      "position": 5.285714285714286
+    },
+    {
+      "query": "can you convert a oil furnace to natural gas",
+      "clicks": 1,
+      "impressions": 49,
+      "ctr": 0.02040816326530612,
+      "position": 1.469387755102041
+    },
+    {
+      "query": "can you convert oil boiler to natural gas",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 2.1875
+    },
+    {
+      "query": "carmel ny plumbers",
+      "clicks": 1,
+      "impressions": 133,
+      "ctr": 0.007518796992481203,
+      "position": 8.180451127819548
+    },
+    {
+      "query": "change oil heating to gas",
+      "clicks": 1,
+      "impressions": 22,
+      "ctr": 0.045454545454545456,
+      "position": 8.181818181818182
+    },
+    {
+      "query": "clim ne souffle plus",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "clim s'allume mais ne souffle pas",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 2
+    },
+    {
+      "query": "convert oil boiler to gas",
+      "clicks": 1,
+      "impressions": 488,
+      "ctr": 0.0020491803278688526,
+      "position": 4.620901639344263
+    },
+    {
+      "query": "convert oil burner to gas",
+      "clicks": 1,
+      "impressions": 33,
+      "ctr": 0.030303030303030304,
+      "position": 3.6666666666666665
+    },
+    {
+      "query": "convert oil furnace to natural gas",
+      "clicks": 1,
+      "impressions": 55,
+      "ctr": 0.01818181818181818,
+      "position": 2.8
+    },
+    {
+      "query": "convert oil heat to gas",
+      "clicks": 1,
+      "impressions": 196,
+      "ctr": 0.00510204081632653,
+      "position": 5.295918367346939
+    },
+    {
+      "query": "convert to gas from oil",
+      "clicks": 1,
+      "impressions": 333,
+      "ctr": 0.003003003003003003,
+      "position": 4.93993993993994
+    },
+    {
+      "query": "converting oil furnace to natural gas",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 4
+    },
+    {
+      "query": "converting oil heat to gas",
+      "clicks": 1,
+      "impressions": 382,
+      "ctr": 0.002617801047120419,
+      "position": 5.149214659685864
+    },
+    {
+      "query": "converting oil heat to natural gas",
+      "clicks": 1,
+      "impressions": 260,
+      "ctr": 0.0038461538461538464,
+      "position": 2.9615384615384617
+    },
+    {
+      "query": "converting to natural gas from oil",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 4.083333333333334
+    },
+    {
+      "query": "drain cleaning new york",
+      "clicks": 1,
+      "impressions": 151,
+      "ctr": 0.006622516556291391,
+      "position": 10.496688741721854
+    },
+    {
+      "query": "dry well installation near me",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 17.3
+    },
+    {
+      "query": "dry well tank",
+      "clicks": 1,
+      "impressions": 156,
+      "ctr": 0.00641025641025641,
+      "position": 1.3461538461538463
+    },
+    {
+      "query": "drywell installation near me",
+      "clicks": 1,
+      "impressions": 305,
+      "ctr": 0.003278688524590164,
+      "position": 43.459016393442624
+    },
+    {
+      "query": "duct cleaning westchester ny",
+      "clicks": 1,
+      "impressions": 29,
+      "ctr": 0.034482758620689655,
+      "position": 3.9655172413793105
+    },
+    {
+      "query": "ductless mini split air conditioner",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "ductless mini-split installation white plains ny",
+      "clicks": 1,
+      "impressions": 227,
+      "ctr": 0.004405286343612335,
+      "position": 12.577092511013216
+    },
+    {
+      "query": "ejector pump service near me",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 7.625
+    },
+    {
+      "query": "electric baseboard heater installation near me",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 4.333333333333334
+    },
+    {
+      "query": "emergency boiler repair",
+      "clicks": 1,
+      "impressions": 305,
+      "ctr": 0.003278688524590164,
+      "position": 27.367213114754097
+    },
+    {
+      "query": "emergency hvac near me",
+      "clicks": 1,
+      "impressions": 27,
+      "ctr": 0.037037037037037035,
+      "position": 7.62962962962963
+    },
+    {
+      "query": "entry level hvac apprentice jobs",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "find plumber",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 12
+    },
+    {
+      "query": "frozen pipe plumber near me",
+      "clicks": 1,
+      "impressions": 35,
+      "ctr": 0.02857142857142857,
+      "position": 29.37142857142857
+    },
+    {
+      "query": "gas furnace repair",
+      "clicks": 1,
+      "impressions": 175,
+      "ctr": 0.005714285714285714,
+      "position": 7.474285714285714
+    },
+    {
+      "query": "gas furnace repair near me",
+      "clicks": 1,
+      "impressions": 293,
+      "ctr": 0.0034129692832764505,
+      "position": 9.979522184300341
+    },
+    {
+      "query": "heat company near me",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 7
+    },
+    {
+      "query": "heat pump installers near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 5
+    },
+    {
+      "query": "heating and air conditioner maintenance",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "heating and air conditioning service",
+      "clicks": 1,
+      "impressions": 108,
+      "ctr": 0.009259259259259259,
+      "position": 16.842592592592595
+    },
+    {
+      "query": "heating and cooling near me",
+      "clicks": 1,
+      "impressions": 214,
+      "ctr": 0.004672897196261682,
+      "position": 19.55140186915888
+    },
+    {
+      "query": "heating and cooling westchester",
+      "clicks": 1,
+      "impressions": 103,
+      "ctr": 0.009708737864077669,
+      "position": 10.766990291262136
+    },
+    {
+      "query": "heating and plumbing near me",
+      "clicks": 1,
+      "impressions": 228,
+      "ctr": 0.0043859649122807015,
+      "position": 37.36842105263158
+    },
+    {
+      "query": "heating company near me",
+      "clicks": 1,
+      "impressions": 78,
+      "ctr": 0.01282051282051282,
+      "position": 7.089743589743589
+    },
+    {
+      "query": "heating company westchester",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 28
+    },
+    {
+      "query": "heating repair near me",
+      "clicks": 1,
+      "impressions": 118,
+      "ctr": 0.00847457627118644,
+      "position": 9.228813559322035
+    },
+    {
+      "query": "heating service near me",
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 10.2
+    },
+    {
+      "query": "home insulation westchester ny",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 7.285714285714286
+    },
+    {
+      "query": "hot water heat",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "hot water heater",
+      "clicks": 1,
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 2.03125
+    },
+    {
+      "query": "hot water radiator repair",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "how do i know if my heater is broken",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 1
+    },
+    {
+      "query": "how to convert from oil to gas heat",
+      "clicks": 1,
+      "impressions": 78,
+      "ctr": 0.01282051282051282,
+      "position": 2.5128205128205128
+    },
+    {
+      "query": "how to convert oil heat to gas",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 4.882352941176471
+    },
+    {
+      "query": "how to convert oil to gas",
+      "clicks": 1,
+      "impressions": 100,
+      "ctr": 0.01,
+      "position": 4.05
+    },
+    {
+      "query": "hvac apprentice jobs",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 1
+    },
+    {
+      "query": "hvac apprenticeship",
+      "clicks": 1,
+      "impressions": 118,
+      "ctr": 0.00847457627118644,
+      "position": 7.059322033898305
+    },
+    {
+      "query": "hvac company westchester",
+      "clicks": 1,
+      "impressions": 268,
+      "ctr": 0.0037313432835820895,
+      "position": 6.391791044776119
+    },
+    {
+      "query": "hvac contractors",
+      "clicks": 1,
+      "impressions": 227,
+      "ctr": 0.004405286343612335,
+      "position": 15.894273127753303
+    },
+    {
+      "query": "hvac contractors near me",
+      "clicks": 1,
+      "impressions": 116,
+      "ctr": 0.008620689655172414,
+      "position": 9.663793103448276
+    },
+    {
+      "query": "hvac guys near me",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 21.166666666666668
+    },
+    {
+      "query": "hvac ossining",
+      "clicks": 1,
+      "impressions": 288,
+      "ctr": 0.003472222222222222,
+      "position": 9.649305555555555
+    },
+    {
+      "query": "hvac peekskill",
+      "clicks": 1,
+      "impressions": 72,
+      "ctr": 0.013888888888888888,
+      "position": 6.555555555555555
+    },
+    {
+      "query": "hvac person near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 10
+    },
+    {
+      "query": "hvac plumber",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 17.5
+    },
+    {
+      "query": "hvac repair near",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 7.333333333333333
+    },
+    {
+      "query": "hvac service stamford ct",
+      "clicks": 1,
+      "impressions": 25,
+      "ctr": 0.04,
+      "position": 15.76
+    },
+    {
+      "query": "hvac services near me",
+      "clicks": 1,
+      "impressions": 245,
+      "ctr": 0.004081632653061225,
+      "position": 8.43673469387755
+    },
+    {
+      "query": "hvac services rye ny",
+      "clicks": 1,
+      "impressions": 28,
+      "ctr": 0.03571428571428571,
+      "position": 12.714285714285714
+    },
+    {
+      "query": "hvac stamford ct",
+      "clicks": 1,
+      "impressions": 201,
+      "ctr": 0.004975124378109453,
+      "position": 10.875621890547263
+    },
+    {
+      "query": "hvac technician near me",
+      "clicks": 1,
+      "impressions": 306,
+      "ctr": 0.0032679738562091504,
+      "position": 8.022875816993464
+    },
+    {
+      "query": "large drywell",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 1.6
+    },
+    {
+      "query": "leave a review",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "licensed natural gas plumber near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 10
+    },
+    {
+      "query": "lng process flow diagram",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "my ac is turning on but not blowing air",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 3.0714285714285716
+    },
+    {
+      "query": "oil boiler repair near me",
+      "clicks": 1,
+      "impressions": 52,
+      "ctr": 0.019230769230769232,
+      "position": 29.346153846153847
+    },
+    {
+      "query": "oil boiler repair service near me",
+      "clicks": 1,
+      "impressions": 68,
+      "ctr": 0.014705882352941176,
+      "position": 47.205882352941174
+    },
+    {
+      "query": "oil boiler to gas conversion",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 2.1764705882352944
+    },
+    {
+      "query": "oil burner repairs",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 36
+    },
+    {
+      "query": "oil to gas",
+      "clicks": 1,
+      "impressions": 611,
+      "ctr": 0.0016366612111292963,
+      "position": 5.728314238952537
+    },
+    {
+      "query": "oil to gas burner conversion",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 3.625
+    },
+    {
+      "query": "oil to gas conversion companies near me",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 11.875
+    },
+    {
+      "query": "ossining plumber",
+      "clicks": 1,
+      "impressions": 66,
+      "ctr": 0.015151515151515152,
+      "position": 8.287878787878789
+    },
+    {
+      "query": "permit",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "pipe thawing service",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 4.75
+    },
+    {
+      "query": "plumber",
+      "clicks": 1,
+      "impressions": 1070,
+      "ctr": 0.0009345794392523365,
+      "position": 4.535514018691589
+    },
+    {
+      "query": "plumber apprentice jobs",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "plumber mount kisco",
+      "clicks": 1,
+      "impressions": 216,
+      "ctr": 0.004629629629629629,
+      "position": 6.62037037037037
+    },
+    {
+      "query": "plumber scarsdale ny",
+      "clicks": 1,
+      "impressions": 40,
+      "ctr": 0.025,
+      "position": 7.575
+    },
+    {
+      "query": "plumber westchester ny",
+      "clicks": 1,
+      "impressions": 172,
+      "ctr": 0.005813953488372093,
+      "position": 9.186046511627907
+    },
+    {
+      "query": "plumbers in rockland county ny",
+      "clicks": 1,
+      "impressions": 52,
+      "ctr": 0.019230769230769232,
+      "position": 16.346153846153847
+    },
+    {
+      "query": "plumbers mamaroneck ny",
+      "clicks": 1,
+      "impressions": 160,
+      "ctr": 0.00625,
+      "position": 6.79375
+    },
+    {
+      "query": "plumbers westchester ny",
+      "clicks": 1,
+      "impressions": 91,
+      "ctr": 0.01098901098901099,
+      "position": 8.043956043956044
+    },
+    {
+      "query": "plumbing and electrical contractors",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 32
+    },
+    {
+      "query": "plumbing and heating companies near me",
+      "clicks": 1,
+      "impressions": 257,
+      "ctr": 0.0038910505836575876,
+      "position": 47.568093385214006
+    },
+    {
+      "query": "plumbing companies near me",
+      "clicks": 1,
+      "impressions": 1270,
+      "ctr": 0.0007874015748031496,
+      "position": 63.14015748031496
+    },
+    {
+      "query": "plumbing jobs new york",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "plumbing services near me",
+      "clicks": 1,
+      "impressions": 5376,
+      "ctr": 0.00018601190476190475,
+      "position": 34.14825148809524
+    },
+    {
+      "query": "plumbing union near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "radiant heat contractors",
+      "clicks": 1,
+      "impressions": 27,
+      "ctr": 0.037037037037037035,
+      "position": 25.59259259259259
+    },
+    {
+      "query": "radiator companies near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 7
+    },
+    {
+      "query": "radiator installation near me",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 14.428571428571429
+    },
+    {
+      "query": "radiator refurbishment near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 10
+    },
+    {
+      "query": "rye plumber",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 5.666666666666667
+    },
+    {
+      "query": "scarsdale plumber",
+      "clicks": 1,
+      "impressions": 28,
+      "ctr": 0.03571428571428571,
+      "position": 7.892857142857143
+    },
+    {
+      "query": "steam heat repair near me",
+      "clicks": 1,
+      "impressions": 66,
+      "ctr": 0.015151515151515152,
+      "position": 43.86363636363637
+    },
+    {
+      "query": "steam heat specialist near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 12.25
+    },
+    {
+      "query": "steam radiator cleaning",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "steam radiator repair",
+      "clicks": 1,
+      "impressions": 134,
+      "ctr": 0.007462686567164179,
+      "position": 31.91044776119403
+    },
+    {
+      "query": "steam radiator service near me",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 10.666666666666666
+    },
+    {
+      "query": "steam shower repair near me",
+      "clicks": 1,
+      "impressions": 22,
+      "ctr": 0.045454545454545456,
+      "position": 8.136363636363637
+    },
+    {
+      "query": "stormwater dry well",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 20.22222222222222
+    },
+    {
+      "query": "sump pump pit cleaning services",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 9
     }
   ],
   "topPages": [
     {
       "page": "https://www.bruniandcampisi.com/",
-      "clicks": 1022,
-      "impressions": 23327,
-      "ctr": 0.04381189179920264,
-      "position": 12.3023534959489
+      "clicks": 1092,
+      "impressions": 23036,
+      "ctr": 0.04740406320541761,
+      "position": 10.349887133182845
     },
     {
       "page": "https://www.bruniandcampisi.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*285*bruni-campisi-elmsford",
-      "clicks": 901,
-      "impressions": 40012,
-      "ctr": 0.022518244526642008,
-      "position": 4.345946216135159
+      "clicks": 927,
+      "impressions": 42126,
+      "ctr": 0.022005412334425295,
+      "position": 4.49859943977591
     },
     {
       "page": "https://www.bruniandcampisi.com/career-opportunities/",
-      "clicks": 211,
-      "impressions": 9373,
-      "ctr": 0.02251146911341086,
-      "position": 2.5688680251787046
+      "clicks": 218,
+      "impressions": 9222,
+      "ctr": 0.023639123834309262,
+      "position": 2.527109086965951
     },
     {
       "page": "https://www.bruniandcampisi.com/contact/",
-      "clicks": 208,
-      "impressions": 13256,
-      "ctr": 0.015691007845503924,
-      "position": 5.9453832226916115
-    },
-    {
-      "page": "https://www.bruniandcampisi.com/blog/the-complete-guide-to-oil-to-gas-conversions/",
-      "clicks": 130,
-      "impressions": 46502,
-      "ctr": 0.002795578684787751,
-      "position": 11.63504795492667
+      "clicks": 199,
+      "impressions": 12808,
+      "ctr": 0.015537164272329793,
+      "position": 5.953622735790131
     },
     {
       "page": "https://www.bruniandcampisi.com/the-complete-guide-to-oil-to-gas-conversions/",
-      "clicks": 75,
-      "impressions": 20538,
-      "ctr": 0.003651767455448437,
-      "position": 11.289512123867953
+      "clicks": 127,
+      "impressions": 37530,
+      "ctr": 0.0033839594990674126,
+      "position": 10.777591260325073
     },
     {
-      "page": "https://www.bruniandcampisi.com/blog/why-is-my-air-conditioner-making-noise-but-not-blowing-any-air-2/",
-      "clicks": 69,
-      "impressions": 38521,
-      "ctr": 0.0017912307572492926,
-      "position": 16.6171438955375
-    },
-    {
-      "page": "https://www.bruniandcampisi.com/exciting-news/",
-      "clicks": 56,
-      "impressions": 6833,
-      "ctr": 0.008195521732767452,
-      "position": 5.641445924191424
+      "page": "https://www.bruniandcampisi.com/blog/the-complete-guide-to-oil-to-gas-conversions/",
+      "clicks": 96,
+      "impressions": 32165,
+      "ctr": 0.0029846106015855743,
+      "position": 11.630778796828851
     },
     {
       "page": "https://www.bruniandcampisi.com/about/westchester-county-ny/",
-      "clicks": 55,
-      "impressions": 29923,
-      "ctr": 0.001838050997560405,
-      "position": 13.438625806236006
+      "clicks": 62,
+      "impressions": 30860,
+      "ctr": 0.0020090732339598186,
+      "position": 12.66454957874271
     },
     {
       "page": "https://www.bruniandcampisi.com/reviews/",
-      "clicks": 50,
-      "impressions": 3707,
-      "ctr": 0.013487995683841382,
-      "position": 4.191529538710547
+      "clicks": 53,
+      "impressions": 3927,
+      "ctr": 0.013496307613954673,
+      "position": 4.059842118665648
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/exciting-news/",
+      "clicks": 52,
+      "impressions": 6289,
+      "ctr": 0.008268405151852442,
+      "position": 5.673716012084592
     },
     {
       "page": "https://www.bruniandcampisi.com/maintenance-plans/",
-      "clicks": 41,
-      "impressions": 11570,
-      "ctr": 0.003543647363872083,
-      "position": 19.239585133967157
+      "clicks": 44,
+      "impressions": 11457,
+      "ctr": 0.0038404468883651917,
+      "position": 14.819237147595356
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/blog/why-is-my-air-conditioner-making-noise-but-not-blowing-any-air-2/",
+      "clicks": 43,
+      "impressions": 26245,
+      "ctr": 0.001638407315679177,
+      "position": 15.24404648504477
     },
     {
       "page": "https://www.bruniandcampisi.com/frozen-pipe-and-burst-pipe-repair/",
       "clicks": 39,
-      "impressions": 9217,
-      "ctr": 0.004231311706629055,
-      "position": 22.46153846153846
-    },
-    {
-      "page": "https://www.bruniandcampisi.com/steam-radiator-system-repair/",
-      "clicks": 39,
-      "impressions": 8510,
-      "ctr": 0.004582843713278496,
-      "position": 27.85616921269095
-    },
-    {
-      "page": "https://www.bruniandcampisi.com/air-duct-cleaning/",
-      "clicks": 35,
-      "impressions": 11569,
-      "ctr": 0.0030253263030512578,
-      "position": 30.676808712939753
+      "impressions": 8928,
+      "ctr": 0.004368279569892473,
+      "position": 20.69948476702509
     },
     {
       "page": "https://www.bruniandcampisi.com/plumbing-repair-and-installation/",
       "clicks": 33,
-      "impressions": 17222,
-      "ctr": 0.0019161537568226686,
-      "position": 16.772209963999536
+      "impressions": 16692,
+      "ctr": 0.001976994967649173,
+      "position": 16.507368799424874
     },
     {
       "page": "https://www.bruniandcampisi.com/about/",
+      "clicks": 32,
+      "impressions": 12547,
+      "ctr": 0.0025504104566828724,
+      "position": 3.7235992667569935
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/steam-radiator-system-repair/",
       "clicks": 30,
-      "impressions": 12874,
-      "ctr": 0.0023302780798508623,
-      "position": 3.7720211278545905
-    },
-    {
-      "page": "https://www.bruniandcampisi.com/boiler-repair/",
-      "clicks": 29,
-      "impressions": 22928,
-      "ctr": 0.0012648290300069783,
-      "position": 27.544007327285414
-    },
-    {
-      "page": "https://www.bruniandcampisi.com/blog/gas-leak-in-home/",
-      "clicks": 28,
-      "impressions": 8233,
-      "ctr": 0.003400947406777602,
-      "position": 8.668893477468725
-    },
-    {
-      "page": "https://www.bruniandcampisi.com/oil-to-gas-conversions/",
-      "clicks": 26,
-      "impressions": 9756,
-      "ctr": 0.0026650266502665026,
-      "position": 34.12341123411234
+      "impressions": 6519,
+      "ctr": 0.004601932811780948,
+      "position": 27.589967786470318
     },
     {
       "page": "https://www.bruniandcampisi.com/about/stamford-ct/",
-      "clicks": 25,
-      "impressions": 17125,
-      "ctr": 0.00145985401459854,
-      "position": 14.73956204379562
+      "clicks": 27,
+      "impressions": 16566,
+      "ctr": 0.0016298442593263311,
+      "position": 14.319570204032356
     },
     {
-      "page": "https://www.bruniandcampisi.com/baseboard-heating/",
-      "clicks": 25,
-      "impressions": 4376,
-      "ctr": 0.005712979890310786,
-      "position": 15.343464351005485
+      "page": "https://www.bruniandcampisi.com/air-duct-cleaning/",
+      "clicks": 26,
+      "impressions": 11548,
+      "ctr": 0.0022514721163837893,
+      "position": 29.918687218565985
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/boiler-repair/",
+      "clicks": 26,
+      "impressions": 25708,
+      "ctr": 0.0010113583320367201,
+      "position": 27.542749338727244
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/dry-well-installation/",
+      "clicks": 22,
+      "impressions": 5401,
+      "ctr": 0.004073319755600814,
+      "position": 18.261803369746342
     },
     {
       "page": "https://www.bruniandcampisi.com/rye-ny-plumbing-hvac/",
-      "clicks": 21,
-      "impressions": 9913,
-      "ctr": 0.0021184303439927368,
-      "position": 8.225461515182083
+      "clicks": 22,
+      "impressions": 8550,
+      "ctr": 0.0025730994152046785,
+      "position": 8.13625730994152
     },
     {
-      "page": "https://www.bruniandcampisi.com/baseboard-heating-repair/",
+      "page": "https://www.bruniandcampisi.com/baseboard-heating/",
       "clicks": 20,
-      "impressions": 2828,
-      "ctr": 0.007072135785007072,
-      "position": 17.607496463932108
+      "impressions": 3517,
+      "ctr": 0.005686664771111743,
+      "position": 15.829400056866648
     },
     {
-      "page": "https://www.bruniandcampisi.com/steam-and-radiator-installation/",
+      "page": "https://www.bruniandcampisi.com/blog/gas-leak-in-home/",
       "clicks": 20,
-      "impressions": 2008,
-      "ctr": 0.0099601593625498,
-      "position": 16.78735059760956
+      "impressions": 5757,
+      "ctr": 0.0034740316136876847,
+      "position": 8.524057668924787
     },
     {
-      "page": "https://www.bruniandcampisi.com/peekskill-ny-plumbing-hvac/",
-      "clicks": 17,
-      "impressions": 6114,
-      "ctr": 0.002780503761858031,
-      "position": 13.329898593392215
+      "page": "https://www.bruniandcampisi.com/oil-to-gas-conversions/",
+      "clicks": 20,
+      "impressions": 8602,
+      "ctr": 0.0023250406882120438,
+      "position": 33.61939083933969
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/about/rockland-county-ny/",
+      "clicks": 18,
+      "impressions": 5285,
+      "ctr": 0.0034058656575212867,
+      "position": 28.04124881740776
     },
     {
       "page": "https://www.bruniandcampisi.com/electrical-services/",
       "clicks": 16,
-      "impressions": 7753,
-      "ctr": 0.0020637172707339093,
-      "position": 4.723074938733394
+      "impressions": 7485,
+      "ctr": 0.0021376085504342017,
+      "position": 4.253707414829659
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/steam-and-radiator-installation/",
+      "clicks": 16,
+      "impressions": 1809,
+      "ctr": 0.008844665561083471,
+      "position": 17.01934770591487
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/sump-pumps/",
+      "clicks": 16,
+      "impressions": 8717,
+      "ctr": 0.001835493862567397,
+      "position": 35.62154410921188
     },
     {
       "page": "https://www.bruniandcampisi.com/yonkers-ny-plumbing-hvac/",
       "clicks": 16,
-      "impressions": 11062,
-      "ctr": 0.001446393057313325,
-      "position": 19.857982281685047
+      "impressions": 10978,
+      "ctr": 0.0014574603752960467,
+      "position": 19.187739114592823
     },
     {
-      "page": "https://www.bruniandcampisi.com/blog/hvac-technician-jobs-westchester/",
+      "page": "https://www.bruniandcampisi.com/baseboard-heating-repair/",
       "clicks": 15,
-      "impressions": 1091,
-      "ctr": 0.013748854262144821,
-      "position": 19.703024747937672
+      "impressions": 2077,
+      "ctr": 0.007221954742416947,
+      "position": 19.32883967260472
     },
     {
-      "page": "https://www.bruniandcampisi.com/boiler-installation/",
+      "page": "https://www.bruniandcampisi.com/peekskill-ny-plumbing-hvac/",
       "clicks": 15,
-      "impressions": 4335,
-      "ctr": 0.0034602076124567475,
-      "position": 30.61522491349481
-    },
-    {
-      "page": "https://www.bruniandcampisi.com/drain-cleaning/",
-      "clicks": 14,
-      "impressions": 28390,
-      "ctr": 0.000493131384290243,
-      "position": 23.971891511095457
+      "impressions": 6671,
+      "ctr": 0.0022485384500074953,
+      "position": 15.089491830310298
     },
     {
       "page": "https://www.bruniandcampisi.com/chappaqua-ny-plumbing-hvac/",
+      "clicks": 14,
+      "impressions": 23662,
+      "ctr": 0.0005916659623024258,
+      "position": 38.52945651255177
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/blog/is-a-tankless-water-heater-right-for-your-new-york-or-connecticut-home/",
       "clicks": 13,
-      "impressions": 24384,
-      "ctr": 0.0005331364829396325,
-      "position": 39.696686351706035
+      "impressions": 1756,
+      "ctr": 0.007403189066059226,
+      "position": 17.568337129840547
     },
     {
-      "page": "https://www.bruniandcampisi.com/about/rockland-county-ny/",
+      "page": "https://www.bruniandcampisi.com/boiler-installation/",
+      "clicks": 13,
+      "impressions": 3895,
+      "ctr": 0.003337612323491656,
+      "position": 32.2002567394095
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/mount-kisco-ny-plumbing-hvac/",
+      "clicks": 13,
+      "impressions": 3886,
+      "ctr": 0.0033453422542460112,
+      "position": 8.70586721564591
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/pound-ridge-ny-plumbing-hvac/",
+      "clicks": 13,
+      "impressions": 852,
+      "ctr": 0.015258215962441314,
+      "position": 15.816901408450704
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/drain-cleaning/",
       "clicks": 12,
-      "impressions": 5729,
-      "ctr": 0.0020946063885494853,
-      "position": 31.35276662593821
-    },
-    {
-      "page": "https://www.bruniandcampisi.com/blog/installing-air-conditioning-in-townhouses-homes/",
-      "clicks": 12,
-      "impressions": 1337,
-      "ctr": 0.008975317875841436,
-      "position": 4.949139865370231
-    },
-    {
-      "page": "http://www.bruniandcampisi.com/",
-      "clicks": 11,
-      "impressions": 201,
-      "ctr": 0.05472636815920398,
-      "position": 1.3333333333333333
+      "impressions": 28044,
+      "ctr": 0.0004278990158322636,
+      "position": 23.251854229068606
     },
     {
       "page": "https://www.bruniandcampisi.com/about/greenwich-ct/",
       "clicks": 11,
-      "impressions": 10300,
-      "ctr": 0.0010679611650485437,
-      "position": 17.84611650485437
+      "impressions": 9365,
+      "ctr": 0.0011745862253069942,
+      "position": 17.07261078483716
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/blog/hvac-technician-jobs-westchester/",
+      "clicks": 11,
+      "impressions": 777,
+      "ctr": 0.014157014157014158,
+      "position": 18.922779922779924
     },
     {
       "page": "https://www.bruniandcampisi.com/larchmont-ny-plumbing-hvac/",
       "clicks": 11,
-      "impressions": 1777,
-      "ctr": 0.0061902082160945416,
-      "position": 8.35846933033202
-    },
-    {
-      "page": "https://www.bruniandcampisi.com/pound-ridge-ny-plumbing-hvac/",
-      "clicks": 11,
-      "impressions": 766,
-      "ctr": 0.014360313315926894,
-      "position": 16.22976501305483
-    },
-    {
-      "page": "https://www.bruniandcampisi.com/refer-a-friend/",
-      "clicks": 11,
-      "impressions": 158,
-      "ctr": 0.06962025316455696,
-      "position": 18.481012658227847
+      "impressions": 2012,
+      "ctr": 0.0054671968190854875,
+      "position": 8.409542743538768
     },
     {
       "page": "https://www.bruniandcampisi.com/about/stamford-ct/heating-repair-stamford-ct/",
       "clicks": 10,
-      "impressions": 4355,
-      "ctr": 0.002296211251435132,
-      "position": 23.880826636050518
+      "impressions": 4040,
+      "ctr": 0.0024752475247524753,
+      "position": 25.96262376237624
     },
     {
-      "page": "https://www.bruniandcampisi.com/mount-kisco-ny-plumbing-hvac/",
+      "page": "https://www.bruniandcampisi.com/blog/installing-air-conditioning-in-townhouses-homes/",
       "clicks": 10,
-      "impressions": 4457,
-      "ctr": 0.002243661655822302,
-      "position": 8.80771819609603
+      "impressions": 1009,
+      "ctr": 0.009910802775024777,
+      "position": 4.7482656095143705
     },
     {
       "page": "https://www.bruniandcampisi.com/sewer-ejector-pump-services/",
       "clicks": 10,
-      "impressions": 1683,
-      "ctr": 0.0059417706476530005,
-      "position": 34.00415923945336
+      "impressions": 1838,
+      "ctr": 0.00544069640914037,
+      "position": 31.374863982589773
     },
     {
-      "page": "https://www.bruniandcampisi.com/blog/is-a-tankless-water-heater-right-for-your-new-york-or-connecticut-home/",
+      "page": "https://www.bruniandcampisi.com/air-conditioning-repair/",
       "clicks": 9,
-      "impressions": 1727,
-      "ctr": 0.0052113491603937466,
-      "position": 19.901563404748117
+      "impressions": 32069,
+      "ctr": 0.0002806448595216564,
+      "position": 25.76859272194331
     },
     {
-      "page": "https://www.bruniandcampisi.com/dry-well-installation/",
-      "clicks": 9,
-      "impressions": 3917,
-      "ctr": 0.002297676793464386,
-      "position": 24.456982384477918
-    },
-    {
-      "page": "https://www.bruniandcampisi.com/blog/air-conditioning-preventive-maintenance-checklist/",
+      "page": "https://www.bruniandcampisi.com/about/stamford-ct/heating-installation-in-stamford-ct/",
       "clicks": 8,
-      "impressions": 4146,
-      "ctr": 0.001929570670525808,
-      "position": 29.596237337192473
+      "impressions": 2659,
+      "ctr": 0.003008649868371568,
+      "position": 30.90071455434374
     },
     {
-      "page": "https://www.bruniandcampisi.com/croton-on-hudson-ny-plumbing-hvac/",
+      "page": "https://www.bruniandcampisi.com/scarsdale-ny-plumbing-hvac/",
       "clicks": 8,
-      "impressions": 2299,
-      "ctr": 0.0034797738147020443,
-      "position": 30.705959112657677
+      "impressions": 1248,
+      "ctr": 0.00641025641025641,
+      "position": 18.62099358974359
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/harrison-ny-plumbing-hvac/",
+      "clicks": 7,
+      "impressions": 4238,
+      "ctr": 0.0016517225106182161,
+      "position": 12.349929211892402
     },
     {
       "page": "https://www.bruniandcampisi.com/ossining-ny-plumbing-hvac/",
-      "clicks": 8,
-      "impressions": 5559,
-      "ctr": 0.0014391077531930203,
-      "position": 8.907717215326498
+      "clicks": 7,
+      "impressions": 5039,
+      "ctr": 0.0013891645167692002,
+      "position": 8.55129986108355
     },
     {
       "page": "https://www.bruniandcampisi.com/radiant-floor-heating-systems/",
-      "clicks": 8,
-      "impressions": 1275,
-      "ctr": 0.006274509803921568,
-      "position": 34.305098039215686
-    },
-    {
-      "page": "https://www.bruniandcampisi.com/sump-pumps/",
-      "clicks": 8,
-      "impressions": 8286,
-      "ctr": 0.0009654839488293508,
-      "position": 38.21530292058895
-    },
-    {
-      "page": "https://www.bruniandcampisi.com/about/greenwich-ct/heating-installation-in-greenwich-connecticut/",
       "clicks": 7,
-      "impressions": 1546,
-      "ctr": 0.004527813712807244,
-      "position": 25.40103492884864
+      "impressions": 1323,
+      "ctr": 0.005291005291005291,
+      "position": 31.705215419501133
     },
     {
-      "page": "https://www.bruniandcampisi.com/about/westchester-county-ny/heating-repair/",
+      "page": "https://www.bruniandcampisi.com/refer-a-friend/",
       "clicks": 7,
-      "impressions": 3989,
-      "ctr": 0.0017548257708698922,
-      "position": 36.97217347706192
+      "impressions": 160,
+      "ctr": 0.04375,
+      "position": 17.9375
+    },
+    {
+      "page": "https://www.bruniandcampisi.com/the-role-of-ai-and-smart-thermostats-in-optimizing-your-homes-climate-control/",
+      "clicks": 7,
+      "impressions": 3408,
+      "ctr": 0.0020539906103286387,
+      "position": 5.875586854460094
     }
   ],
-  "fetchedAt": "2026-03-18T13:07:46.798Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [],
+  "fetchedAt": "2026-04-07T16:22:15.759Z"
 }

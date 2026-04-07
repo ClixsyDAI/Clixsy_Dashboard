@@ -2,132 +2,18 @@
   "propertyId": "properties/320157654",
   "displayName": "www.oversonroofing.com - GA4",
   "dateRange": {
-    "start": "2025-12-17",
-    "end": "2026-03-17"
+    "start": "2026-01-06",
+    "end": "2026-04-06"
   },
   "totals": {
     "sessions": 0,
-    "users": 1493,
+    "users": 1570,
     "screenPageViews": 0,
     "organicSessions": 0,
     "bounceRate": 0,
     "avgSessionDuration": 0
   },
   "dailyData": [
-    {
-      "date": "2025-12-17",
-      "sessions": 0,
-      "users": 19,
-      "screenPageViews": 0
-    },
-    {
-      "date": "2025-12-18",
-      "sessions": 0,
-      "users": 22,
-      "screenPageViews": 0
-    },
-    {
-      "date": "2025-12-19",
-      "sessions": 0,
-      "users": 14,
-      "screenPageViews": 0
-    },
-    {
-      "date": "2025-12-20",
-      "sessions": 0,
-      "users": 6,
-      "screenPageViews": 0
-    },
-    {
-      "date": "2025-12-21",
-      "sessions": 0,
-      "users": 4,
-      "screenPageViews": 0
-    },
-    {
-      "date": "2025-12-22",
-      "sessions": 0,
-      "users": 25,
-      "screenPageViews": 0
-    },
-    {
-      "date": "2025-12-23",
-      "sessions": 0,
-      "users": 25,
-      "screenPageViews": 0
-    },
-    {
-      "date": "2025-12-24",
-      "sessions": 0,
-      "users": 3,
-      "screenPageViews": 0
-    },
-    {
-      "date": "2025-12-26",
-      "sessions": 0,
-      "users": 11,
-      "screenPageViews": 0
-    },
-    {
-      "date": "2025-12-27",
-      "sessions": 0,
-      "users": 9,
-      "screenPageViews": 0
-    },
-    {
-      "date": "2025-12-28",
-      "sessions": 0,
-      "users": 3,
-      "screenPageViews": 0
-    },
-    {
-      "date": "2025-12-29",
-      "sessions": 0,
-      "users": 32,
-      "screenPageViews": 0
-    },
-    {
-      "date": "2025-12-30",
-      "sessions": 0,
-      "users": 15,
-      "screenPageViews": 0
-    },
-    {
-      "date": "2025-12-31",
-      "sessions": 0,
-      "users": 12,
-      "screenPageViews": 0
-    },
-    {
-      "date": "2026-01-01",
-      "sessions": 0,
-      "users": 3,
-      "screenPageViews": 0
-    },
-    {
-      "date": "2026-01-02",
-      "sessions": 0,
-      "users": 18,
-      "screenPageViews": 0
-    },
-    {
-      "date": "2026-01-03",
-      "sessions": 0,
-      "users": 7,
-      "screenPageViews": 0
-    },
-    {
-      "date": "2026-01-04",
-      "sessions": 0,
-      "users": 5,
-      "screenPageViews": 0
-    },
-    {
-      "date": "2026-01-05",
-      "sessions": 0,
-      "users": 20,
-      "screenPageViews": 0
-    },
     {
       "date": "2026-01-06",
       "sessions": 0,
@@ -551,7 +437,127 @@
     {
       "date": "2026-03-17",
       "sessions": 0,
+      "users": 24,
+      "screenPageViews": 0
+    },
+    {
+      "date": "2026-03-18",
+      "sessions": 0,
+      "users": 36,
+      "screenPageViews": 0
+    },
+    {
+      "date": "2026-03-19",
+      "sessions": 0,
+      "users": 23,
+      "screenPageViews": 0
+    },
+    {
+      "date": "2026-03-20",
+      "sessions": 0,
+      "users": 14,
+      "screenPageViews": 0
+    },
+    {
+      "date": "2026-03-21",
+      "sessions": 0,
+      "users": 8,
+      "screenPageViews": 0
+    },
+    {
+      "date": "2026-03-22",
+      "sessions": 0,
+      "users": 1,
+      "screenPageViews": 0
+    },
+    {
+      "date": "2026-03-23",
+      "sessions": 0,
+      "users": 17,
+      "screenPageViews": 0
+    },
+    {
+      "date": "2026-03-24",
+      "sessions": 0,
+      "users": 30,
+      "screenPageViews": 0
+    },
+    {
+      "date": "2026-03-25",
+      "sessions": 0,
+      "users": 18,
+      "screenPageViews": 0
+    },
+    {
+      "date": "2026-03-26",
+      "sessions": 0,
+      "users": 20,
+      "screenPageViews": 0
+    },
+    {
+      "date": "2026-03-27",
+      "sessions": 0,
+      "users": 20,
+      "screenPageViews": 0
+    },
+    {
+      "date": "2026-03-28",
+      "sessions": 0,
+      "users": 6,
+      "screenPageViews": 0
+    },
+    {
+      "date": "2026-03-29",
+      "sessions": 0,
+      "users": 1,
+      "screenPageViews": 0
+    },
+    {
+      "date": "2026-03-30",
+      "sessions": 0,
+      "users": 16,
+      "screenPageViews": 0
+    },
+    {
+      "date": "2026-03-31",
+      "sessions": 0,
       "users": 21,
+      "screenPageViews": 0
+    },
+    {
+      "date": "2026-04-01",
+      "sessions": 0,
+      "users": 17,
+      "screenPageViews": 0
+    },
+    {
+      "date": "2026-04-02",
+      "sessions": 0,
+      "users": 25,
+      "screenPageViews": 0
+    },
+    {
+      "date": "2026-04-03",
+      "sessions": 0,
+      "users": 21,
+      "screenPageViews": 0
+    },
+    {
+      "date": "2026-04-04",
+      "sessions": 0,
+      "users": 5,
+      "screenPageViews": 0
+    },
+    {
+      "date": "2026-04-05",
+      "sessions": 0,
+      "users": 2,
+      "screenPageViews": 0
+    },
+    {
+      "date": "2026-04-06",
+      "sessions": 0,
+      "users": 26,
       "screenPageViews": 0
     }
   ],
@@ -559,9 +565,17 @@
     {
       "channel": "Unassigned",
       "sessions": 0,
-      "users": 1259
+      "users": 1335
+    }
+  ],
+  "keyEventsByChannel": [
+    {
+      "channel": "Unassigned",
+      "sessions": 0,
+      "keyEvents": 1881,
+      "conversionRate": 0
     }
   ],
   "topPages": [],
-  "fetchedAt": "2026-03-18T13:08:13.432Z"
+  "fetchedAt": "2026-04-07T16:22:45.139Z"
 }

@@ -1,156 +1,16 @@
 {
   "property": "sc-domain:precisiontoday.com",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 9017,
-    "impressions": 3049494,
-    "ctr": 0.002956883994524993,
-    "position": 17.14746848123488
+    "clicks": 9656,
+    "impressions": 3153500,
+    "ctr": 0.0030619946091644205,
+    "position": 15.615536657636092
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 87,
-      "impressions": 33358,
-      "ctr": 0.0026080700281791475,
-      "position": 16.098776905090233
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 90,
-      "impressions": 26355,
-      "ctr": 0.003414911781445646,
-      "position": 18.800341491178145
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 78,
-      "impressions": 22345,
-      "ctr": 0.003490713806220631,
-      "position": 19.119221302304766
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 69,
-      "impressions": 22174,
-      "ctr": 0.0031117525029313612,
-      "position": 17.955984486335346
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 80,
-      "impressions": 27493,
-      "ctr": 0.0029098315934965265,
-      "position": 22.947295675262794
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 60,
-      "impressions": 30653,
-      "ctr": 0.0019573940560467166,
-      "position": 22.20966952663687
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 53,
-      "impressions": 25418,
-      "ctr": 0.002085136517428594,
-      "position": 21.196907703202456
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 68,
-      "impressions": 24418,
-      "ctr": 0.0027848308624784995,
-      "position": 21.18748464247686
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 62,
-      "impressions": 23714,
-      "ctr": 0.002614489331196761,
-      "position": 21.65674285232352
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 53,
-      "impressions": 22993,
-      "ctr": 0.002305049362849563,
-      "position": 22.472013221415214
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 32,
-      "impressions": 20603,
-      "ctr": 0.0015531718681745378,
-      "position": 23.101926903848955
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 53,
-      "impressions": 23975,
-      "ctr": 0.002210636079249218,
-      "position": 20.61201251303441
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 55,
-      "impressions": 23128,
-      "ctr": 0.002378069872016603,
-      "position": 19.937651331719128
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 84,
-      "impressions": 26540,
-      "ctr": 0.0031650339110776186,
-      "position": 19.105727204220045
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 77,
-      "impressions": 27953,
-      "ctr": 0.0027546238328623046,
-      "position": 19.588702464851714
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 99,
-      "impressions": 26916,
-      "ctr": 0.0036781096745430227,
-      "position": 19.769319363947094
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 51,
-      "impressions": 24428,
-      "ctr": 0.0020877681349271327,
-      "position": 21.099803504175537
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 65,
-      "impressions": 26156,
-      "ctr": 0.002485089463220676,
-      "position": 19.402125707294694
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 61,
-      "impressions": 24461,
-      "ctr": 0.0024937655860349127,
-      "position": 19.161808593270923
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 85,
-      "impressions": 24769,
-      "ctr": 0.0034317089910775567,
-      "position": 18.284508861883808
-    },
     {
       "date": "2026-01-04",
       "clicks": 72,
@@ -640,711 +500,3314 @@
       "impressions": 29915,
       "ctr": 0.0036770850743774027,
       "position": 12.195453785726224
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 106,
+      "impressions": 30851,
+      "ctr": 0.0034358691776603676,
+      "position": 12.44186574179119
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 135,
+      "impressions": 38980,
+      "ctr": 0.0034633145202668035,
+      "position": 11.455643919958954
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 116,
+      "impressions": 28673,
+      "ctr": 0.004045617828619259,
+      "position": 11.724165591322848
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 98,
+      "impressions": 25437,
+      "ctr": 0.00385265558045367,
+      "position": 13.020875103196131
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 93,
+      "impressions": 25928,
+      "ctr": 0.0035868559086701633,
+      "position": 14.415303918543659
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 79,
+      "impressions": 27939,
+      "ctr": 0.002827588675328394,
+      "position": 14.598017108701098
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 94,
+      "impressions": 27007,
+      "ctr": 0.003480579109119858,
+      "position": 13.742585255674454
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 91,
+      "impressions": 27914,
+      "ctr": 0.0032600128967543167,
+      "position": 12.177760263666977
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 102,
+      "impressions": 32527,
+      "ctr": 0.003135856365480985,
+      "position": 14.941648476650167
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 101,
+      "impressions": 28904,
+      "ctr": 0.0034943260448380845,
+      "position": 12.458344865762525
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 86,
+      "impressions": 38677,
+      "ctr": 0.002223543708146961,
+      "position": 12.491015332109523
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 122,
+      "impressions": 31457,
+      "ctr": 0.0038783100740693646,
+      "position": 14.627014654925771
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 85,
+      "impressions": 31552,
+      "ctr": 0.0026939655172413795,
+      "position": 14.359977180527384
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 89,
+      "impressions": 33156,
+      "ctr": 0.0026842803715767887,
+      "position": 13.467275907829654
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 82,
+      "impressions": 33643,
+      "ctr": 0.002437356953898285,
+      "position": 13.10965133906013
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 114,
+      "impressions": 33885,
+      "ctr": 0.0033643204957945995,
+      "position": 14.526958831341302
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 90,
+      "impressions": 26708,
+      "ctr": 0.003369776845888872,
+      "position": 13.285457540811741
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 86,
+      "impressions": 25519,
+      "ctr": 0.0033700380108938437,
+      "position": 13.408401583134136
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 85,
+      "impressions": 22014,
+      "ctr": 0.0038611792495684564,
+      "position": 14.323385118560916
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 75,
+      "impressions": 19981,
+      "ctr": 0.0037535658875932137,
+      "position": 14.127571192633
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 72,
+      "impressions": 21104,
+      "ctr": 0.003411675511751327,
+      "position": 12.74677786201668
     }
   ],
   "topQueries": [
     {
       "query": "precision today",
-      "clicks": 967,
-      "impressions": 4716,
-      "ctr": 0.20504664970313824,
-      "position": 1.1278625954198473
+      "clicks": 1044,
+      "impressions": 4842,
+      "ctr": 0.21561338289962825,
+      "position": 1.0954151177199505
     },
     {
       "query": "precision today plumbing",
       "clicks": 93,
-      "impressions": 447,
-      "ctr": 0.2080536912751678,
-      "position": 1.5436241610738255
+      "impressions": 479,
+      "ctr": 0.1941544885177453,
+      "position": 1.4008350730688934
+    },
+    {
+      "query": "toilet won't stop running",
+      "clicks": 93,
+      "impressions": 17592,
+      "ctr": 0.005286493860845839,
+      "position": 2.721293769895407
     },
     {
       "query": "precision plumbing",
       "clicks": 91,
-      "impressions": 1308,
-      "ctr": 0.06957186544342507,
-      "position": 10.418195718654435
-    },
-    {
-      "query": "toilet won't stop running",
-      "clicks": 86,
-      "impressions": 17029,
-      "ctr": 0.005050208467907687,
-      "position": 2.4252745316812496
+      "impressions": 1343,
+      "ctr": 0.06775874906924795,
+      "position": 10.320923306031274
     },
     {
       "query": "dykstra heating and cooling",
-      "clicks": 72,
-      "impressions": 326,
-      "ctr": 0.22085889570552147,
-      "position": 2.604294478527607
+      "clicks": 76,
+      "impressions": 300,
+      "ctr": 0.25333333333333335,
+      "position": 2.15
     },
     {
       "query": "precision today electric",
-      "clicks": 46,
-      "impressions": 141,
-      "ctr": 0.3262411347517731,
-      "position": 2.4113475177304964
-    },
-    {
-      "query": "precision today plumbing heating cooling electrical",
-      "clicks": 40,
-      "impressions": 801,
-      "ctr": 0.049937578027465665,
-      "position": 1.2908863920099876
-    },
-    {
-      "query": "precision today heating and cooling",
-      "clicks": 33,
-      "impressions": 139,
-      "ctr": 0.23741007194244604,
-      "position": 1.2661870503597124
+      "clicks": 55,
+      "impressions": 154,
+      "ctr": 0.35714285714285715,
+      "position": 2.292207792207792
     },
     {
       "query": "precision today franklin park il",
+      "clicks": 44,
+      "impressions": 218,
+      "ctr": 0.2018348623853211,
+      "position": 2.9862385321100917
+    },
+    {
+      "query": "precision today plumbing heating cooling electrical",
+      "clicks": 42,
+      "impressions": 732,
+      "ctr": 0.05737704918032787,
+      "position": 1.349726775956284
+    },
+    {
+      "query": "precision today heating and cooling",
+      "clicks": 32,
+      "impressions": 136,
+      "ctr": 0.23529411764705882,
+      "position": 1.2426470588235294
+    },
+    {
+      "query": "precision today heating & air",
       "clicks": 30,
-      "impressions": 186,
-      "ctr": 0.16129032258064516,
-      "position": 3.327956989247312
+      "impressions": 54,
+      "ctr": 0.5555555555555556,
+      "position": 1.074074074074074
     },
     {
       "query": "precision heating and cooling",
-      "clicks": 26,
-      "impressions": 1127,
-      "ctr": 0.023070097604259095,
-      "position": 10.26885536823425
+      "clicks": 25,
+      "impressions": 1101,
+      "ctr": 0.022706630336058128,
+      "position": 10.086285195277021
     },
     {
-      "query": "precision today chicago",
-      "clicks": 22,
-      "impressions": 46,
-      "ctr": 0.4782608695652174,
-      "position": 1.0217391304347827
-    },
-    {
-      "query": "precision today franklin park",
-      "clicks": 22,
-      "impressions": 194,
-      "ctr": 0.1134020618556701,
-      "position": 3.1288659793814433
+      "query": "sump pump short cycling",
+      "clicks": 25,
+      "impressions": 346,
+      "ctr": 0.07225433526011561,
+      "position": 1.5549132947976878
     },
     {
       "query": "rusty water",
       "clicks": 21,
-      "impressions": 2558,
-      "ctr": 0.008209538702111024,
-      "position": 3.462470680218921
+      "impressions": 2477,
+      "ctr": 0.008477997577714978,
+      "position": 3.2620104965684296
     },
     {
-      "query": "sump pump short cycling",
-      "clicks": 18,
-      "impressions": 273,
-      "ctr": 0.06593406593406594,
-      "position": 1.73992673992674
+      "query": "precision today chicago",
+      "clicks": 20,
+      "impressions": 47,
+      "ctr": 0.425531914893617,
+      "position": 1.0212765957446808
     },
     {
-      "query": "afci vs gfci",
-      "clicks": 16,
-      "impressions": 5276,
-      "ctr": 0.003032600454890068,
-      "position": 1.582827899924185
-    },
-    {
-      "query": "precision today heating & air",
-      "clicks": 16,
-      "impressions": 31,
-      "ctr": 0.5161290322580645,
-      "position": 1.129032258064516
-    },
-    {
-      "query": "precision today reviews",
-      "clicks": 16,
-      "impressions": 525,
-      "ctr": 0.030476190476190476,
-      "position": 5.053333333333334
-    },
-    {
-      "query": "why are my drains gurgling",
-      "clicks": 16,
-      "impressions": 427,
-      "ctr": 0.03747072599531616,
-      "position": 2.428571428571429
-    },
-    {
-      "query": "gurgling drains in house",
-      "clicks": 15,
-      "impressions": 390,
-      "ctr": 0.038461538461538464,
-      "position": 3.982051282051282
+      "query": "precision today franklin park",
+      "clicks": 19,
+      "impressions": 168,
+      "ctr": 0.1130952380952381,
+      "position": 2.3154761904761907
     },
     {
       "query": "precision today grayslake",
-      "clicks": 15,
-      "impressions": 84,
-      "ctr": 0.17857142857142858,
-      "position": 6.5
-    },
-    {
-      "query": "what is afci outlet",
-      "clicks": 15,
-      "impressions": 776,
-      "ctr": 0.019329896907216496,
-      "position": 2.306701030927835
+      "clicks": 19,
+      "impressions": 100,
+      "ctr": 0.19,
+      "position": 10.28
     },
     {
       "query": "dykstra home services",
-      "clicks": 14,
-      "impressions": 96,
-      "ctr": 0.14583333333333334,
-      "position": 1.9791666666666665
-    },
-    {
-      "query": "outlet stopped working",
-      "clicks": 13,
-      "impressions": 2391,
-      "ctr": 0.005437055625261397,
-      "position": 6.112923462986198
+      "clicks": 18,
+      "impressions": 108,
+      "ctr": 0.16666666666666666,
+      "position": 1.7777777777777777
     },
     {
       "query": "drain gurgling",
-      "clicks": 12,
-      "impressions": 459,
-      "ctr": 0.026143790849673203,
-      "position": 3.065359477124183
+      "clicks": 17,
+      "impressions": 474,
+      "ctr": 0.035864978902953586,
+      "position": 2.9493670886075947
+    },
+    {
+      "query": "precision today reviews",
+      "clicks": 17,
+      "impressions": 488,
+      "ctr": 0.03483606557377049,
+      "position": 3.5163934426229506
+    },
+    {
+      "query": "what is afci outlet",
+      "clicks": 17,
+      "impressions": 880,
+      "ctr": 0.019318181818181818,
+      "position": 2.5465909090909093
+    },
+    {
+      "query": "afci vs gfci",
+      "clicks": 14,
+      "impressions": 4505,
+      "ctr": 0.0031076581576026637,
+      "position": 1.73496115427303
+    },
+    {
+      "query": "gurgling drains in house",
+      "clicks": 13,
+      "impressions": 386,
+      "ctr": 0.03367875647668394,
+      "position": 4.041450777202073
+    },
+    {
+      "query": "precision hvac",
+      "clicks": 13,
+      "impressions": 380,
+      "ctr": 0.034210526315789476,
+      "position": 12.271052631578947
     },
     {
       "query": "precision today hvac",
-      "clicks": 12,
+      "clicks": 13,
       "impressions": 53,
-      "ctr": 0.22641509433962265,
+      "ctr": 0.24528301886792453,
       "position": 1.0377358490566038
     },
     {
       "query": "precision today plumbing & drains",
       "clicks": 12,
-      "impressions": 27,
-      "ctr": 0.4444444444444444,
-      "position": 1.3333333333333333
+      "impressions": 29,
+      "ctr": 0.41379310344827586,
+      "position": 1.3103448275862069
     },
     {
-      "query": "why does my drain gurgle",
+      "query": "rust in water",
       "clicks": 12,
-      "impressions": 346,
-      "ctr": 0.03468208092485549,
-      "position": 2.5289017341040463
+      "impressions": 822,
+      "ctr": 0.014598540145985401,
+      "position": 3.6265206812652067
+    },
+    {
+      "query": "sump pump keeps turning on and off",
+      "clicks": 12,
+      "impressions": 219,
+      "ctr": 0.0547945205479452,
+      "position": 1.187214611872146
+    },
+    {
+      "query": "toilet wont stop running",
+      "clicks": 12,
+      "impressions": 2823,
+      "ctr": 0.004250797024442083,
+      "position": 2.985830676585193
+    },
+    {
+      "query": "why are my drains gurgling",
+      "clicks": 12,
+      "impressions": 400,
+      "ctr": 0.03,
+      "position": 2.76
     },
     {
       "query": "drains gurgling",
       "clicks": 11,
-      "impressions": 213,
-      "ctr": 0.051643192488262914,
-      "position": 1.9248826291079812
+      "impressions": 201,
+      "ctr": 0.05472636815920398,
+      "position": 2.009950248756219
     },
     {
-      "query": "gurgling drain",
+      "query": "outlet stopped working",
       "clicks": 11,
-      "impressions": 537,
-      "ctr": 0.020484171322160148,
-      "position": 4.256983240223464
+      "impressions": 2505,
+      "ctr": 0.004391217564870259,
+      "position": 6.334930139720559
     },
     {
-      "query": "precision hvac",
+      "query": "percision today",
       "clicks": 11,
-      "impressions": 378,
-      "ctr": 0.0291005291005291,
-      "position": 13.322751322751323
+      "impressions": 35,
+      "ctr": 0.3142857142857143,
+      "position": 1.3714285714285714
     },
     {
-      "query": "precision today plumbing heating cooling electrical reviews",
+      "query": "precision today oak brook il",
       "clicks": 11,
-      "impressions": 102,
-      "ctr": 0.10784313725490197,
-      "position": 2.5098039215686274
-    },
-    {
-      "query": "rust in water",
-      "clicks": 11,
-      "impressions": 792,
-      "ctr": 0.013888888888888888,
-      "position": 4.4141414141414135
-    },
-    {
-      "query": "services offered by precision today",
-      "clicks": 11,
-      "impressions": 29,
-      "ctr": 0.3793103448275862,
-      "position": 1.9310344827586206
-    },
-    {
-      "query": "home remedy for gurgling sink",
-      "clicks": 10,
-      "impressions": 370,
-      "ctr": 0.02702702702702703,
-      "position": 3.9864864864864864
-    },
-    {
-      "query": "toilet wont stop running",
-      "clicks": 10,
-      "impressions": 2733,
-      "ctr": 0.003658982802780827,
-      "position": 2.695938529088913
-    },
-    {
-      "query": "miller heating grayslake",
-      "clicks": 9,
-      "impressions": 45,
-      "ctr": 0.2,
-      "position": 2.533333333333333
+      "impressions": 68,
+      "ctr": 0.16176470588235295,
+      "position": 1
     },
     {
       "query": "shower drain clogged",
-      "clicks": 9,
-      "impressions": 5406,
-      "ctr": 0.001664816870144284,
-      "position": 10.514428412874583
+      "clicks": 11,
+      "impressions": 6148,
+      "ctr": 0.0017891997397527651,
+      "position": 9.35344827586207
+    },
+    {
+      "query": "gurgling drain",
+      "clicks": 10,
+      "impressions": 519,
+      "ctr": 0.019267822736030827,
+      "position": 4.315992292870906
+    },
+    {
+      "query": "precision today plumbing heating cooling electrical reviews",
+      "clicks": 10,
+      "impressions": 103,
+      "ctr": 0.0970873786407767,
+      "position": 2.407766990291262
+    },
+    {
+      "query": "services offered by precision today",
+      "clicks": 10,
+      "impressions": 25,
+      "ctr": 0.4,
+      "position": 1.96
+    },
+    {
+      "query": "what causes gurgling in drain pipes",
+      "clicks": 10,
+      "impressions": 129,
+      "ctr": 0.07751937984496124,
+      "position": 2.937984496124031
+    },
+    {
+      "query": "what causes rusty water",
+      "clicks": 10,
+      "impressions": 93,
+      "ctr": 0.10752688172043011,
+      "position": 1.956989247311828
     },
     {
       "query": "sump pump turns on and off quickly",
       "clicks": 9,
-      "impressions": 134,
-      "ctr": 0.06716417910447761,
-      "position": 1.1567164179104479
+      "impressions": 202,
+      "ctr": 0.04455445544554455,
+      "position": 1.1633663366336633
     },
     {
-      "query": "what causes gurgling in drain pipes",
+      "query": "why does my drain gurgle",
       "clicks": 9,
-      "impressions": 137,
-      "ctr": 0.06569343065693431,
-      "position": 3.240875912408759
+      "impressions": 339,
+      "ctr": 0.02654867256637168,
+      "position": 2.905604719764012
     },
     {
       "query": "afci outlet",
       "clicks": 8,
-      "impressions": 2149,
-      "ctr": 0.0037226617031177293,
-      "position": 7.430898092135877
-    },
-    {
-      "query": "precision today oak brook il",
-      "clicks": 8,
-      "impressions": 56,
-      "ctr": 0.14285714285714285,
-      "position": 1
-    },
-    {
-      "query": "precision today plumbing heating cooling electrical franklin park",
-      "clicks": 8,
-      "impressions": 43,
-      "ctr": 0.18604651162790697,
-      "position": 1.069767441860465
-    },
-    {
-      "query": "sump pump keeps turning on and off",
-      "clicks": 8,
-      "impressions": 143,
-      "ctr": 0.055944055944055944,
-      "position": 1.2447552447552448
+      "impressions": 2701,
+      "ctr": 0.002961865975564606,
+      "position": 7.728989263235839
     },
     {
       "query": "clogged shower drain",
-      "clicks": 7,
-      "impressions": 40952,
-      "ctr": 0.00017093182262160577,
-      "position": 20.391165266653644
+      "clicks": 8,
+      "impressions": 41988,
+      "ctr": 0.0001905306277984186,
+      "position": 19.952724587977517
     },
     {
-      "query": "gfci vs afci",
+      "query": "miller heating grayslake",
+      "clicks": 8,
+      "impressions": 53,
+      "ctr": 0.1509433962264151,
+      "position": 3
+    },
+    {
+      "query": "my toilet won't stop running",
+      "clicks": 8,
+      "impressions": 2688,
+      "ctr": 0.002976190476190476,
+      "position": 2.866071428571429
+    },
+    {
+      "query": "why is my shower drain clogged",
+      "clicks": 8,
+      "impressions": 354,
+      "ctr": 0.022598870056497175,
+      "position": 3.7288135593220337
+    },
+    {
+      "query": "home remedy for gurgling sink",
       "clicks": 7,
-      "impressions": 2074,
-      "ctr": 0.0033751205400192863,
-      "position": 4.476374156219865
+      "impressions": 385,
+      "ctr": 0.01818181818181818,
+      "position": 3.6077922077922078
     },
     {
       "query": "miller area heating",
       "clicks": 7,
-      "impressions": 31,
-      "ctr": 0.22580645161290322,
-      "position": 1.064516129032258
+      "impressions": 36,
+      "ctr": 0.19444444444444445,
+      "position": 1.0555555555555556
     },
     {
-      "query": "my toilet won't stop running",
+      "query": "precision plumbing near me",
       "clicks": 7,
-      "impressions": 2394,
-      "ctr": 0.0029239766081871343,
-      "position": 2.74937343358396
+      "impressions": 96,
+      "ctr": 0.07291666666666667,
+      "position": 2.708333333333333
+    },
+    {
+      "query": "what is an afci outlet",
+      "clicks": 7,
+      "impressions": 462,
+      "ctr": 0.015151515151515152,
+      "position": 2.536796536796537
+    },
+    {
+      "query": "why is my outlet buzzing",
+      "clicks": 7,
+      "impressions": 1096,
+      "ctr": 0.006386861313868613,
+      "position": 2.658759124087591
+    },
+    {
+      "query": "dykstra plumbing",
+      "clicks": 6,
+      "impressions": 98,
+      "ctr": 0.061224489795918366,
+      "position": 1.9183673469387754
     },
     {
       "query": "outlet not working",
-      "clicks": 7,
-      "impressions": 3221,
-      "ctr": 0.002173238124805961,
-      "position": 4.787643588947532
+      "clicks": 6,
+      "impressions": 2956,
+      "ctr": 0.0020297699594046007,
+      "position": 5.437077131258458
     },
     {
-      "query": "percision today",
-      "clicks": 7,
-      "impressions": 28,
-      "ctr": 0.25,
-      "position": 1.8214285714285714
+      "query": "plumbers near me",
+      "clicks": 6,
+      "impressions": 248,
+      "ctr": 0.024193548387096774,
+      "position": 11.278225806451612
+    },
+    {
+      "query": "drain is gurgling",
+      "clicks": 5,
+      "impressions": 222,
+      "ctr": 0.02252252252252252,
+      "position": 3.1666666666666665
+    },
+    {
+      "query": "dykstra hvac",
+      "clicks": 5,
+      "impressions": 41,
+      "ctr": 0.12195121951219512,
+      "position": 16.29268292682927
+    },
+    {
+      "query": "gfci vs afci",
+      "clicks": 5,
+      "impressions": 1871,
+      "ctr": 0.002672367717797969,
+      "position": 4.792624265098878
+    },
+    {
+      "query": "millers heating and air",
+      "clicks": 5,
+      "impressions": 66,
+      "ctr": 0.07575757575757576,
+      "position": 11.681818181818182
+    },
+    {
+      "query": "outlet making buzzing noise",
+      "clicks": 5,
+      "impressions": 483,
+      "ctr": 0.010351966873706004,
+      "position": 2.7763975155279503
+    },
+    {
+      "query": "precision electric",
+      "clicks": 5,
+      "impressions": 191,
+      "ctr": 0.02617801047120419,
+      "position": 7.842931937172775
     },
     {
       "query": "precisiontoday.com",
-      "clicks": 7,
-      "impressions": 51,
-      "ctr": 0.13725490196078433,
+      "clicks": 5,
+      "impressions": 48,
+      "ctr": 0.10416666666666667,
       "position": 1
+    },
+    {
+      "query": "prises électriques ne fonctionnent plus pourtant fusible ok",
+      "clicks": 5,
+      "impressions": 30,
+      "ctr": 0.16666666666666666,
+      "position": 2.033333333333333
+    },
+    {
+      "query": "short cycling sump pump",
+      "clicks": 5,
+      "impressions": 79,
+      "ctr": 0.06329113924050633,
+      "position": 1.6582278481012658
+    },
+    {
+      "query": "shower drain clogged but no hair",
+      "clicks": 5,
+      "impressions": 669,
+      "ctr": 0.007473841554559043,
+      "position": 4.309417040358744
+    },
+    {
+      "query": "what does it mean when your drains gurgle",
+      "clicks": 5,
+      "impressions": 55,
+      "ctr": 0.09090909090909091,
+      "position": 2.8545454545454545
+    },
+    {
+      "query": "why do drains gurgle",
+      "clicks": 5,
+      "impressions": 153,
+      "ctr": 0.032679738562091505,
+      "position": 3.4640522875816995
+    },
+    {
+      "query": "why do my drains gurgle",
+      "clicks": 5,
+      "impressions": 190,
+      "ctr": 0.02631578947368421,
+      "position": 2.8157894736842106
+    },
+    {
+      "query": "why does my sump pump keep going off",
+      "clicks": 5,
+      "impressions": 245,
+      "ctr": 0.02040816326530612,
+      "position": 1.306122448979592
+    },
+    {
+      "query": "why would an outlet stop working",
+      "clicks": 5,
+      "impressions": 899,
+      "ctr": 0.0055617352614015575,
+      "position": 4.575083426028921
+    },
+    {
+      "query": "difference between afci and gfci",
+      "clicks": 4,
+      "impressions": 1845,
+      "ctr": 0.002168021680216802,
+      "position": 10.957181571815719
+    },
+    {
+      "query": "drains making gurgling sounds",
+      "clicks": 4,
+      "impressions": 128,
+      "ctr": 0.03125,
+      "position": 2.84375
+    },
+    {
+      "query": "ev charging station contractors naperville",
+      "clicks": 4,
+      "impressions": 108,
+      "ctr": 0.037037037037037035,
+      "position": 69.21296296296296
+    },
+    {
+      "query": "percision plumbing",
+      "clicks": 4,
+      "impressions": 18,
+      "ctr": 0.2222222222222222,
+      "position": 1.9444444444444444
+    },
+    {
+      "query": "precision",
+      "clicks": 4,
+      "impressions": 439,
+      "ctr": 0.009111617312072893,
+      "position": 2.9726651480637813
+    },
+    {
+      "query": "precision today plumbing heating cooling electrical franklin park",
+      "clicks": 4,
+      "impressions": 32,
+      "ctr": 0.125,
+      "position": 1.0625
+    },
+    {
+      "query": "precisiontoday",
+      "clicks": 4,
+      "impressions": 7,
+      "ctr": 0.5714285714285714,
+      "position": 1
+    },
+    {
+      "query": "sump pump turning on and off",
+      "clicks": 4,
+      "impressions": 115,
+      "ctr": 0.034782608695652174,
+      "position": 1.1739130434782608
+    },
+    {
+      "query": "wall outlet not working",
+      "clicks": 4,
+      "impressions": 608,
+      "ctr": 0.006578947368421052,
+      "position": 3.4572368421052633
+    },
+    {
+      "query": "water tech filtration systems",
+      "clicks": 4,
+      "impressions": 97,
+      "ctr": 0.041237113402061855,
+      "position": 5.876288659793815
+    },
+    {
+      "query": "what causes rust in water",
+      "clicks": 4,
+      "impressions": 75,
+      "ctr": 0.05333333333333334,
+      "position": 1.9066666666666667
+    },
+    {
+      "query": "why is my drain gurgling",
+      "clicks": 4,
+      "impressions": 519,
+      "ctr": 0.007707129094412331,
+      "position": 2.7360308285163777
+    },
+    {
+      "query": "why is my outlet not working",
+      "clicks": 4,
+      "impressions": 921,
+      "ctr": 0.004343105320304018,
+      "position": 5.479913137893594
+    },
+    {
+      "query": "buzzing electrical outlet",
+      "clicks": 3,
+      "impressions": 149,
+      "ctr": 0.020134228187919462,
+      "position": 3.214765100671141
+    },
+    {
+      "query": "buzzing outlet",
+      "clicks": 3,
+      "impressions": 314,
+      "ctr": 0.009554140127388535,
+      "position": 2.598726114649682
+    },
+    {
+      "query": "does conditioner clog drains",
+      "clicks": 3,
+      "impressions": 97,
+      "ctr": 0.030927835051546393,
+      "position": 2.65979381443299
+    },
+    {
+      "query": "does running furnace fan reduce humidity in winter",
+      "clicks": 3,
+      "impressions": 41,
+      "ctr": 0.07317073170731707,
+      "position": 10.268292682926829
+    },
+    {
+      "query": "drain bubbling",
+      "clicks": 3,
+      "impressions": 177,
+      "ctr": 0.01694915254237288,
+      "position": 1.807909604519774
+    },
+    {
+      "query": "drains are gurgling",
+      "clicks": 3,
+      "impressions": 87,
+      "ctr": 0.034482758620689655,
+      "position": 2.6206896551724137
+    },
+    {
+      "query": "drains gurgling in house",
+      "clicks": 3,
+      "impressions": 130,
+      "ctr": 0.023076923076923078,
+      "position": 3.5153846153846153
+    },
+    {
+      "query": "electric furnace vs gas furnace",
+      "clicks": 3,
+      "impressions": 488,
+      "ctr": 0.006147540983606557,
+      "position": 11.069672131147541
+    },
+    {
+      "query": "electrical outlet buzzing sound",
+      "clicks": 3,
+      "impressions": 104,
+      "ctr": 0.028846153846153848,
+      "position": 2.9711538461538463
+    },
+    {
+      "query": "electrical outlet not working",
+      "clicks": 3,
+      "impressions": 1409,
+      "ctr": 0.0021291696238466998,
+      "position": 7.9865152590489705
+    },
+    {
+      "query": "ev charger installation harwood heights",
+      "clicks": 3,
+      "impressions": 406,
+      "ctr": 0.007389162561576354,
+      "position": 29.029556650246306
+    },
+    {
+      "query": "gurgling drain pipes",
+      "clicks": 3,
+      "impressions": 83,
+      "ctr": 0.03614457831325301,
+      "position": 2.4578313253012047
+    },
+    {
+      "query": "gurgling drains",
+      "clicks": 3,
+      "impressions": 468,
+      "ctr": 0.00641025641025641,
+      "position": 7.482905982905983
+    },
+    {
+      "query": "gurgling in drain pipes",
+      "clicks": 3,
+      "impressions": 61,
+      "ctr": 0.04918032786885246,
+      "position": 2.6557377049180326
+    },
+    {
+      "query": "how long do furnace blower motors last",
+      "clicks": 3,
+      "impressions": 129,
+      "ctr": 0.023255813953488372,
+      "position": 5.767441860465116
+    },
+    {
+      "query": "how to fix a clogged shower drain",
+      "clicks": 3,
+      "impressions": 1233,
+      "ctr": 0.0024330900243309003,
+      "position": 14.313868613138686
+    },
+    {
+      "query": "how to fix a gurgling bathtub",
+      "clicks": 3,
+      "impressions": 83,
+      "ctr": 0.03614457831325301,
+      "position": 4.445783132530121
+    },
+    {
+      "query": "how to fix clogged shower drain",
+      "clicks": 3,
+      "impressions": 746,
+      "ctr": 0.004021447721179625,
+      "position": 11.154155495978552
+    },
+    {
+      "query": "how to get rid of rusty water",
+      "clicks": 3,
+      "impressions": 169,
+      "ctr": 0.01775147928994083,
+      "position": 6.254437869822485
+    },
+    {
+      "query": "how to remove rust from water pipes",
+      "clicks": 3,
+      "impressions": 70,
+      "ctr": 0.04285714285714286,
+      "position": 3.3857142857142857
+    },
+    {
+      "query": "is a buzzing plug socket dangerous",
+      "clicks": 3,
+      "impressions": 706,
+      "ctr": 0.00424929178470255,
+      "position": 4.460339943342776
+    },
+    {
+      "query": "kitchen sink keeps clogging",
+      "clicks": 3,
+      "impressions": 420,
+      "ctr": 0.007142857142857143,
+      "position": 4.378571428571428
+    },
+    {
+      "query": "my outlet is buzzing",
+      "clicks": 3,
+      "impressions": 161,
+      "ctr": 0.018633540372670808,
+      "position": 3.0745341614906834
+    },
+    {
+      "query": "outlet buzzing",
+      "clicks": 3,
+      "impressions": 610,
+      "ctr": 0.004918032786885246,
+      "position": 2.3934426229508197
+    },
+    {
+      "query": "outlet sparking",
+      "clicks": 3,
+      "impressions": 475,
+      "ctr": 0.00631578947368421,
+      "position": 3.7642105263157895
+    },
+    {
+      "query": "plumber near me",
+      "clicks": 3,
+      "impressions": 2459,
+      "ctr": 0.0012200081333875558,
+      "position": 3.6331842212281416
+    },
+    {
+      "query": "precision heating",
+      "clicks": 3,
+      "impressions": 220,
+      "ctr": 0.013636363636363636,
+      "position": 12.504545454545454
+    },
+    {
+      "query": "precision today carol stream",
+      "clicks": 3,
+      "impressions": 23,
+      "ctr": 0.13043478260869565,
+      "position": 2
+    },
+    {
+      "query": "precision today plumbing heating cooling electrical (miller's area heating)",
+      "clicks": 3,
+      "impressions": 62,
+      "ctr": 0.04838709677419355,
+      "position": 1.4838709677419355
+    },
+    {
+      "query": "precision water heater",
+      "clicks": 3,
+      "impressions": 23,
+      "ctr": 0.13043478260869565,
+      "position": 15
+    },
+    {
+      "query": "rust in water lines",
+      "clicks": 3,
+      "impressions": 62,
+      "ctr": 0.04838709677419355,
+      "position": 3.5161290322580645
+    },
+    {
+      "query": "shower drain keeps clogging",
+      "clicks": 3,
+      "impressions": 312,
+      "ctr": 0.009615384615384616,
+      "position": 4.836538461538462
+    },
+    {
+      "query": "sink keeps clogging",
+      "clicks": 3,
+      "impressions": 454,
+      "ctr": 0.006607929515418502,
+      "position": 2.5330396475770924
+    },
+    {
+      "query": "sump pump going off every 30 seconds",
+      "clicks": 3,
+      "impressions": 332,
+      "ctr": 0.009036144578313253,
+      "position": 2.0451807228915664
+    },
+    {
+      "query": "sump pump running every 2 minutes",
+      "clicks": 3,
+      "impressions": 146,
+      "ctr": 0.02054794520547945,
+      "position": 2.883561643835616
+    },
+    {
+      "query": "sump pump running every 30 seconds",
+      "clicks": 3,
+      "impressions": 267,
+      "ctr": 0.011235955056179775,
+      "position": 2.044943820224719
+    },
+    {
+      "query": "sump pump running every 5 minutes",
+      "clicks": 3,
+      "impressions": 367,
+      "ctr": 0.008174386920980926,
+      "position": 1.9346049046321525
+    },
+    {
+      "query": "toilet wont stop flushing",
+      "clicks": 3,
+      "impressions": 498,
+      "ctr": 0.006024096385542169,
+      "position": 2.9156626506024095
+    },
+    {
+      "query": "wall outlet stopped working",
+      "clicks": 3,
+      "impressions": 212,
+      "ctr": 0.014150943396226415,
+      "position": 7.938679245283019
+    },
+    {
+      "query": "what causes drain pipes to gurgle",
+      "clicks": 3,
+      "impressions": 64,
+      "ctr": 0.046875,
+      "position": 2.8125
+    },
+    {
+      "query": "what is a afci outlet",
+      "clicks": 3,
+      "impressions": 233,
+      "ctr": 0.012875536480686695,
+      "position": 2.1373390557939915
+    },
+    {
+      "query": "what is an afci receptacle",
+      "clicks": 3,
+      "impressions": 97,
+      "ctr": 0.030927835051546393,
+      "position": 4.896907216494846
+    },
+    {
+      "query": "when to get a new toilet",
+      "clicks": 3,
+      "impressions": 64,
+      "ctr": 0.046875,
+      "position": 3.390625
+    },
+    {
+      "query": "why are my drain pipes gurgling",
+      "clicks": 3,
+      "impressions": 39,
+      "ctr": 0.07692307692307693,
+      "position": 1.7948717948717947
+    },
+    {
+      "query": "why does my sump pump keep turning on and off",
+      "clicks": 3,
+      "impressions": 145,
+      "ctr": 0.020689655172413793,
+      "position": 1.1655172413793102
+    },
+    {
+      "query": "why is my shower clogged",
+      "clicks": 3,
+      "impressions": 140,
+      "ctr": 0.02142857142857143,
+      "position": 3.0214285714285714
+    },
+    {
+      "query": "why is my shower drain clogged with no hair",
+      "clicks": 3,
+      "impressions": 93,
+      "ctr": 0.03225806451612903,
+      "position": 2.935483870967742
+    },
+    {
+      "query": "why is my water bill so high",
+      "clicks": 3,
+      "impressions": 841,
+      "ctr": 0.0035671819262782403,
+      "position": 9.071343638525565
+    },
+    {
+      "query": "why would outlet stop working",
+      "clicks": 3,
+      "impressions": 187,
+      "ctr": 0.016042780748663103,
+      "position": 3.4705882352941178
+    },
+    {
+      "query": "afci receptacle",
+      "clicks": 2,
+      "impressions": 293,
+      "ctr": 0.006825938566552901,
+      "position": 2.873720136518771
+    },
+    {
+      "query": "best heating and cooling companies near me",
+      "clicks": 2,
+      "impressions": 2,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "bruit prise électrique",
+      "clicks": 2,
+      "impressions": 21,
+      "ctr": 0.09523809523809523,
+      "position": 2.238095238095238
+    },
+    {
+      "query": "bubbling drain",
+      "clicks": 2,
+      "impressions": 238,
+      "ctr": 0.008403361344537815,
+      "position": 2.159663865546219
+    },
+    {
+      "query": "buzzing from outlet",
+      "clicks": 2,
+      "impressions": 239,
+      "ctr": 0.008368200836820083,
+      "position": 3.3221757322175733
+    },
+    {
+      "query": "buzzing noise coming from outlet",
+      "clicks": 2,
+      "impressions": 82,
+      "ctr": 0.024390243902439025,
+      "position": 1.8780487804878048
+    },
+    {
+      "query": "buzzing sound from outlet when plugged in",
+      "clicks": 2,
+      "impressions": 40,
+      "ctr": 0.05,
+      "position": 3.525
+    },
+    {
+      "query": "buzzing sound from socket",
+      "clicks": 2,
+      "impressions": 83,
+      "ctr": 0.024096385542168676,
+      "position": 4.0843373493975905
+    },
+    {
+      "query": "can a bad water heater raise water bill",
+      "clicks": 2,
+      "impressions": 78,
+      "ctr": 0.02564102564102564,
+      "position": 2.0897435897435894
+    },
+    {
+      "query": "can soap scum clog a drain",
+      "clicks": 2,
+      "impressions": 63,
+      "ctr": 0.031746031746031744,
+      "position": 5.936507936507937
+    },
+    {
+      "query": "difference between gfci and afci",
+      "clicks": 2,
+      "impressions": 570,
+      "ctr": 0.0035087719298245615,
+      "position": 2.196491228070175
+    },
+    {
+      "query": "does body wash clog drains",
+      "clicks": 2,
+      "impressions": 96,
+      "ctr": 0.020833333333333332,
+      "position": 3.5104166666666665
+    },
+    {
+      "query": "drain pipe making gurgling noise",
+      "clicks": 2,
+      "impressions": 38,
+      "ctr": 0.05263157894736842,
+      "position": 3.1052631578947367
+    },
+    {
+      "query": "electric furnace chicago",
+      "clicks": 2,
+      "impressions": 19,
+      "ctr": 0.10526315789473684,
+      "position": 12.368421052631579
+    },
+    {
+      "query": "electrical buzzing sound in wall dangerous",
+      "clicks": 2,
+      "impressions": 219,
+      "ctr": 0.0091324200913242,
+      "position": 4.105022831050228
+    },
+    {
+      "query": "electrical outlet is buzzing",
+      "clicks": 2,
+      "impressions": 61,
+      "ctr": 0.03278688524590164,
+      "position": 2.163934426229508
+    },
+    {
+      "query": "furnace pilot light keeps going out",
+      "clicks": 2,
+      "impressions": 484,
+      "ctr": 0.004132231404958678,
+      "position": 6.946280991735537
+    },
+    {
+      "query": "gebläsemotor heizung",
+      "clicks": 2,
+      "impressions": 2,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "glouglou dans les tuyaux",
+      "clicks": 2,
+      "impressions": 2,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "gluckern im abfluss mehrfamilienhaus",
+      "clicks": 2,
+      "impressions": 3,
+      "ctr": 0.6666666666666666,
+      "position": 3
+    },
+    {
+      "query": "gurgling pipes",
+      "clicks": 2,
+      "impressions": 220,
+      "ctr": 0.00909090909090909,
+      "position": 8.072727272727272
+    },
+    {
+      "query": "gurgling sound from drain",
+      "clicks": 2,
+      "impressions": 110,
+      "ctr": 0.01818181818181818,
+      "position": 2.7818181818181817
+    },
+    {
+      "query": "how do you know when a toilet needs to be replaced",
+      "clicks": 2,
+      "impressions": 36,
+      "ctr": 0.05555555555555555,
+      "position": 3
+    },
+    {
+      "query": "how long do furnace motors last",
+      "clicks": 2,
+      "impressions": 46,
+      "ctr": 0.043478260869565216,
+      "position": 4.1521739130434785
+    },
+    {
+      "query": "how long should a furnace stay off between cycles",
+      "clicks": 2,
+      "impressions": 229,
+      "ctr": 0.008733624454148471,
+      "position": 49.082969432314414
+    },
+    {
+      "query": "how often do blower motors go out",
+      "clicks": 2,
+      "impressions": 32,
+      "ctr": 0.0625,
+      "position": 3.625
+    },
+    {
+      "query": "how to fix a buzzing outlet",
+      "clicks": 2,
+      "impressions": 112,
+      "ctr": 0.017857142857142856,
+      "position": 2.321428571428571
+    },
+    {
+      "query": "how to fix frozen pipes",
+      "clicks": 2,
+      "impressions": 3979,
+      "ctr": 0.0005026388539834129,
+      "position": 10.049509927117366
+    },
+    {
+      "query": "how to fix gurgling kitchen sink",
+      "clicks": 2,
+      "impressions": 191,
+      "ctr": 0.010471204188481676,
+      "position": 7.010471204188482
+    },
+    {
+      "query": "how to get rid of rust in water pipes",
+      "clicks": 2,
+      "impressions": 53,
+      "ctr": 0.03773584905660377,
+      "position": 5.283018867924528
+    },
+    {
+      "query": "how to get rust out of water pipes",
+      "clicks": 2,
+      "impressions": 54,
+      "ctr": 0.037037037037037035,
+      "position": 3.259259259259259
+    },
+    {
+      "query": "how to unclog shower drain",
+      "clicks": 2,
+      "impressions": 2422,
+      "ctr": 0.0008257638315441783,
+      "position": 6.443022295623452
+    },
+    {
+      "query": "hvac grayslake",
+      "clicks": 2,
+      "impressions": 40,
+      "ctr": 0.05,
+      "position": 10.15
+    },
+    {
+      "query": "kitchen drain keeps clogging",
+      "clicks": 2,
+      "impressions": 55,
+      "ctr": 0.03636363636363636,
+      "position": 3.8
+    },
+    {
+      "query": "kitchen sink always clogged",
+      "clicks": 2,
+      "impressions": 57,
+      "ctr": 0.03508771929824561,
+      "position": 2.666666666666667
+    },
+    {
+      "query": "light switch making buzzing noise",
+      "clicks": 2,
+      "impressions": 82,
+      "ctr": 0.024390243902439025,
+      "position": 1.7439024390243902
+    },
+    {
+      "query": "local plumber near me",
+      "clicks": 2,
+      "impressions": 9,
+      "ctr": 0.2222222222222222,
+      "position": 5.777777777777778
+    },
+    {
+      "query": "miller heating",
+      "clicks": 2,
+      "impressions": 63,
+      "ctr": 0.031746031746031744,
+      "position": 8.492063492063492
+    },
+    {
+      "query": "miller heating and cooling",
+      "clicks": 2,
+      "impressions": 235,
+      "ctr": 0.00851063829787234,
+      "position": 10.591489361702127
+    },
+    {
+      "query": "millers heating & cooling",
+      "clicks": 2,
+      "impressions": 19,
+      "ctr": 0.10526315789473684,
+      "position": 8.263157894736842
+    },
+    {
+      "query": "multiple drains gurgling",
+      "clicks": 2,
+      "impressions": 61,
+      "ctr": 0.03278688524590164,
+      "position": 1.278688524590164
+    },
+    {
+      "query": "my drains are gurgling",
+      "clicks": 2,
+      "impressions": 51,
+      "ctr": 0.0392156862745098,
+      "position": 2.6470588235294117
+    },
+    {
+      "query": "my toilet wont stop running",
+      "clicks": 2,
+      "impressions": 230,
+      "ctr": 0.008695652173913044,
+      "position": 3.3043478260869565
+    },
+    {
+      "query": "outlet buzzing noise",
+      "clicks": 2,
+      "impressions": 132,
+      "ctr": 0.015151515151515152,
+      "position": 2.2045454545454546
+    },
+    {
+      "query": "outlet buzzing nothing plugged in",
+      "clicks": 2,
+      "impressions": 171,
+      "ctr": 0.011695906432748537,
+      "position": 2.912280701754386
+    },
+    {
+      "query": "outlet buzzing sound",
+      "clicks": 2,
+      "impressions": 182,
+      "ctr": 0.01098901098901099,
+      "position": 1.945054945054945
+    },
+    {
+      "query": "outlet buzzing when something plugged in",
+      "clicks": 2,
+      "impressions": 141,
+      "ctr": 0.014184397163120567,
+      "position": 3.4184397163120566
+    },
+    {
+      "query": "outlet doesn't work",
+      "clicks": 2,
+      "impressions": 132,
+      "ctr": 0.015151515151515152,
+      "position": 5.568181818181818
+    },
+    {
+      "query": "outlet is buzzing",
+      "clicks": 2,
+      "impressions": 234,
+      "ctr": 0.008547008547008548,
+      "position": 2.7735042735042734
+    },
+    {
+      "query": "outlet is not working",
+      "clicks": 2,
+      "impressions": 164,
+      "ctr": 0.012195121951219513,
+      "position": 4.615853658536585
+    },
+    {
+      "query": "outlet making a buzzing noise",
+      "clicks": 2,
+      "impressions": 383,
+      "ctr": 0.005221932114882507,
+      "position": 1.9947780678851175
+    },
+    {
+      "query": "outlet making noise",
+      "clicks": 2,
+      "impressions": 398,
+      "ctr": 0.005025125628140704,
+      "position": 2.520100502512563
+    },
+    {
+      "query": "outlet making noise when something is plugged in",
+      "clicks": 2,
+      "impressions": 28,
+      "ctr": 0.07142857142857142,
+      "position": 2.607142857142857
+    },
+    {
+      "query": "outlet stopped working randomly",
+      "clicks": 2,
+      "impressions": 188,
+      "ctr": 0.010638297872340425,
+      "position": 3.154255319148936
+    },
+    {
+      "query": "outlet suddenly not working",
+      "clicks": 2,
+      "impressions": 308,
+      "ctr": 0.006493506493506494,
+      "position": 4.805194805194805
+    },
+    {
+      "query": "outlet suddenly stopped working",
+      "clicks": 2,
+      "impressions": 245,
+      "ctr": 0.00816326530612245,
+      "position": 6.183673469387755
+    },
+    {
+      "query": "pipes gurgle when water drains",
+      "clicks": 2,
+      "impressions": 78,
+      "ctr": 0.02564102564102564,
+      "position": 2.4615384615384617
+    },
+    {
+      "query": "plumber",
+      "clicks": 2,
+      "impressions": 3002,
+      "ctr": 0.0006662225183211193,
+      "position": 2.175216522318454
+    },
+    {
+      "query": "plumber palos heights",
+      "clicks": 2,
+      "impressions": 1285,
+      "ctr": 0.0015564202334630351,
+      "position": 2.898054474708171
+    },
+    {
+      "query": "plumbers palos heights",
+      "clicks": 2,
+      "impressions": 370,
+      "ctr": 0.005405405405405406,
+      "position": 3.924324324324324
+    },
+    {
+      "query": "plumbing",
+      "clicks": 2,
+      "impressions": 267,
+      "ctr": 0.00749063670411985,
+      "position": 3.4906367041198503
+    },
+    {
+      "query": "plumbing electrical hvac",
+      "clicks": 2,
+      "impressions": 15,
+      "ctr": 0.13333333333333333,
+      "position": 1.6666666666666665
+    },
+    {
+      "query": "plumbing near me",
+      "clicks": 2,
+      "impressions": 277,
+      "ctr": 0.007220216606498195,
+      "position": 2.7075812274368234
+    },
+    {
+      "query": "power outlet not working",
+      "clicks": 2,
+      "impressions": 667,
+      "ctr": 0.0029985007496251873,
+      "position": 4.935532233883059
+    },
+    {
+      "query": "precision home services",
+      "clicks": 2,
+      "impressions": 27,
+      "ctr": 0.07407407407407407,
+      "position": 4.777777777777778
+    },
+    {
+      "query": "precision plumbing and heating",
+      "clicks": 2,
+      "impressions": 277,
+      "ctr": 0.007220216606498195,
+      "position": 25.15523465703971
+    },
+    {
+      "query": "precision plumbing heating and air",
+      "clicks": 2,
+      "impressions": 11,
+      "ctr": 0.18181818181818182,
+      "position": 7.090909090909091
+    },
+    {
+      "query": "precision today careers",
+      "clicks": 2,
+      "impressions": 4,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "precision today plumbing heating cooling electrical franklin park reviews",
+      "clicks": 2,
+      "impressions": 99,
+      "ctr": 0.020202020202020204,
+      "position": 3.1818181818181817
     }
   ],
   "topPages": [
     {
       "page": "https://precisiontoday.com/",
-      "clicks": 945,
-      "impressions": 38949,
-      "ctr": 0.024262497111607488,
-      "position": 22.27248453105343
+      "clicks": 1022,
+      "impressions": 38219,
+      "ctr": 0.026740626390015437,
+      "position": 18.960595515319607
     },
     {
       "page": "https://precisiontoday.com/blog/what-to-do-when-your-drain-starts-to-gurgle/",
-      "clicks": 939,
-      "impressions": 101285,
-      "ctr": 0.009270869329120798,
-      "position": 4.487436441723848
-    },
-    {
-      "page": "https://precisiontoday.com/blog/what-does-a-buzzing-electrical-outlet-mean/",
-      "clicks": 813,
-      "impressions": 246700,
-      "ctr": 0.0032955006080259423,
-      "position": 2.9773165788406972
+      "clicks": 1005,
+      "impressions": 107618,
+      "ctr": 0.00933858648181531,
+      "position": 4.3498113698451935
     },
     {
       "page": "https://precisiontoday.com/carol-stream/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*160*precision-today-carol-stream",
-      "clicks": 812,
-      "impressions": 27091,
-      "ctr": 0.02997305378169872,
-      "position": 5.963456498468126
+      "clicks": 863,
+      "impressions": 30290,
+      "ctr": 0.028491251238032353,
+      "position": 5.519610432485969
+    },
+    {
+      "page": "https://precisiontoday.com/blog/what-does-a-buzzing-electrical-outlet-mean/",
+      "clicks": 842,
+      "impressions": 238335,
+      "ctr": 0.003532842427675331,
+      "position": 3.1151320620135525
     },
     {
       "page": "https://precisiontoday.com/blog/what-should-i-do-if-my-sump-pump-keeps-cycling/",
-      "clicks": 554,
-      "impressions": 47545,
-      "ctr": 0.011652119045115154,
-      "position": 4.067998738037648
+      "clicks": 633,
+      "impressions": 57088,
+      "ctr": 0.01108814461883408,
+      "position": 3.7996601737668163
     },
     {
       "page": "https://precisiontoday.com/blog/what-to-do-if-your-shower-drain-keeps-clogging/",
-      "clicks": 495,
-      "impressions": 211378,
-      "ctr": 0.0023417763438011523,
-      "position": 11.76041972201459
+      "clicks": 551,
+      "impressions": 223162,
+      "ctr": 0.0024690583522284258,
+      "position": 11.158194495478622
     },
     {
       "page": "https://precisiontoday.com/blog/what-causes-rusty-water-and-how-to-fix-it/",
-      "clicks": 465,
-      "impressions": 70217,
-      "ctr": 0.0066223279262856575,
-      "position": 4.741800418702024
+      "clicks": 546,
+      "impressions": 74920,
+      "ctr": 0.007287773625200214,
+      "position": 4.532621462893753
     },
     {
       "page": "https://precisiontoday.com/blog/why-did-my-electrical-outlet-suddenly-stop-working/",
-      "clicks": 420,
-      "impressions": 135540,
-      "ctr": 0.003098716246126605,
-      "position": 6.33933894053416
+      "clicks": 454,
+      "impressions": 139066,
+      "ctr": 0.0032646369349805127,
+      "position": 6.052313290092474
     },
     {
       "page": "https://precisiontoday.com/blog/what-to-do-if-your-toilet-wont-stop-running/",
-      "clicks": 302,
-      "impressions": 102475,
-      "ctr": 0.0029470602585996587,
-      "position": 5.3805513539887775
+      "clicks": 342,
+      "impressions": 108342,
+      "ctr": 0.0031566705432796147,
+      "position": 5.121467205700467
     },
     {
       "page": "https://precisiontoday.com/blog/signs-its-time-to-replace-your-furnace-blower-motor/",
-      "clicks": 260,
-      "impressions": 48051,
-      "ctr": 0.005410917566751993,
-      "position": 6.02776216936172
+      "clicks": 269,
+      "impressions": 47694,
+      "ctr": 0.005640122447268,
+      "position": 5.784564096112718
     },
     {
       "page": "https://precisiontoday.com/blog/what-causes-furnace-short-cycling/",
-      "clicks": 217,
-      "impressions": 40698,
-      "ctr": 0.005331957344341246,
-      "position": 7.483094992382918
-    },
-    {
-      "page": "https://precisiontoday.com/blog/how-humidity-levels-affect-your-furnace-performance/",
-      "clicks": 180,
-      "impressions": 17804,
-      "ctr": 0.01011008762075938,
-      "position": 5.281172770164008
+      "clicks": 214,
+      "impressions": 40089,
+      "ctr": 0.005338122677043578,
+      "position": 7.2913517423732195
     },
     {
       "page": "https://precisiontoday.com/blog/why-is-my-electrical-outlet-sparking/",
-      "clicks": 163,
-      "impressions": 66487,
-      "ctr": 0.0024516070810835203,
-      "position": 4.082918465263886
+      "clicks": 212,
+      "impressions": 85736,
+      "ctr": 0.0024727069142483904,
+      "position": 3.9581739292712514
+    },
+    {
+      "page": "https://precisiontoday.com/blog/how-humidity-levels-affect-your-furnace-performance/",
+      "clicks": 159,
+      "impressions": 16878,
+      "ctr": 0.009420547458229648,
+      "position": 5.300805782675672
     },
     {
       "page": "https://precisiontoday.com/blog/why-is-water-coming-out-of-my-drain/",
-      "clicks": 147,
-      "impressions": 40096,
-      "ctr": 0.003666201117318436,
-      "position": 5.536262968874701
+      "clicks": 144,
+      "impressions": 39090,
+      "ctr": 0.003683806600153492,
+      "position": 5.499667434126375
     },
     {
       "page": "https://precisiontoday.com/blog/whats-the-difference-between-gfci-and-afci-outlets/",
-      "clicks": 146,
-      "impressions": 38579,
-      "ctr": 0.0037844423131755617,
-      "position": 4.540838279893206
-    },
-    {
-      "page": "https://precisiontoday.com/blog/why-is-my-water-bill-so-high-common-plumbing-problems-that-could-be-the-cause/",
-      "clicks": 128,
-      "impressions": 25386,
-      "ctr": 0.0050421492161033645,
-      "position": 6.827621523674466
-    },
-    {
-      "page": "https://precisiontoday.com/palos-heights/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*161*precision-today-palos-heights",
-      "clicks": 113,
-      "impressions": 19716,
-      "ctr": 0.005731385676607831,
-      "position": 4.588658957192129
+      "clicks": 135,
+      "impressions": 38733,
+      "ctr": 0.0034854000464720008,
+      "position": 4.962615857279323
     },
     {
       "page": "https://precisiontoday.com/blog/why-does-my-kitchen-sink-keep-clogging/",
-      "clicks": 109,
-      "impressions": 40424,
-      "ctr": 0.0026964179695230556,
-      "position": 15.74079754601227
+      "clicks": 123,
+      "impressions": 41404,
+      "ctr": 0.0029707274659453195,
+      "position": 15.258549898560526
+    },
+    {
+      "page": "https://precisiontoday.com/blog/why-is-my-water-bill-so-high-common-plumbing-problems-that-could-be-the-cause/",
+      "clicks": 119,
+      "impressions": 25518,
+      "ctr": 0.004663374872638922,
+      "position": 6.855474566972333
+    },
+    {
+      "page": "https://precisiontoday.com/palos-heights/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*161*precision-today-palos-heights",
+      "clicks": 111,
+      "impressions": 21731,
+      "ctr": 0.005107910358474069,
+      "position": 4.382218949887258
     },
     {
       "page": "https://precisiontoday.com/franklin-park/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*351*precision-today-franklin-park",
-      "clicks": 106,
-      "impressions": 9237,
-      "ctr": 0.011475587311897802,
-      "position": 5.458482191187615
-    },
-    {
-      "page": "https://precisiontoday.com/grayslake/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*162*precision-today-grayslake",
-      "clicks": 91,
-      "impressions": 17587,
-      "ctr": 0.005174276454199125,
-      "position": 7.132541081480639
+      "clicks": 109,
+      "impressions": 12456,
+      "ctr": 0.008750802825947335,
+      "position": 4.617774566473988
     },
     {
       "page": "https://precisiontoday.com/about/formerly-dykstra-home-services/",
-      "clicks": 88,
-      "impressions": 4561,
-      "ctr": 0.019294014470510854,
-      "position": 6.9953957465468095
+      "clicks": 100,
+      "impressions": 3777,
+      "ctr": 0.026476039184537992,
+      "position": 7.355043685464654
+    },
+    {
+      "page": "https://precisiontoday.com/grayslake/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*162*precision-today-grayslake",
+      "clicks": 97,
+      "impressions": 21206,
+      "ctr": 0.0045741771196831085,
+      "position": 5.825049514288409
     },
     {
       "page": "https://precisiontoday.com/careers/",
-      "clicks": 81,
-      "impressions": 1514,
-      "ctr": 0.053500660501981503,
-      "position": 14.540951122853368
+      "clicks": 83,
+      "impressions": 1652,
+      "ctr": 0.050242130750605324,
+      "position": 13.212469733656174
     },
     {
       "page": "https://precisiontoday.com/contact/",
-      "clicks": 73,
-      "impressions": 12253,
-      "ctr": 0.0059577246388639515,
-      "position": 11.001305802660573
-    },
-    {
-      "page": "https://precisiontoday.com/blog/how-to-know-when-its-time-for-a-new-toilet/",
-      "clicks": 66,
-      "impressions": 16885,
-      "ctr": 0.003908794788273616,
-      "position": 6.452235712170566
+      "clicks": 76,
+      "impressions": 12033,
+      "ctr": 0.006315964431147677,
+      "position": 10.311726086595197
     },
     {
       "page": "https://precisiontoday.com/oak-brook/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*340*precision-today-oak-brook",
-      "clicks": 65,
-      "impressions": 12799,
-      "ctr": 0.0050785217595124615,
-      "position": 5.60801625126963
-    },
-    {
-      "page": "https://precisiontoday.com/blog/gas-vs-electric-furnaces-whats-better-for-homes-in-chicagoland/",
-      "clicks": 64,
-      "impressions": 13361,
-      "ctr": 0.004790060624204775,
-      "position": 10.288526307911084
-    },
-    {
-      "page": "https://precisiontoday.com/grayslake/",
-      "clicks": 53,
-      "impressions": 26421,
-      "ctr": 0.002005980091593808,
-      "position": 19.756708678702548
-    },
-    {
-      "page": "https://precisiontoday.com/about/",
-      "clicks": 51,
-      "impressions": 9486,
-      "ctr": 0.005376344086021506,
-      "position": 5.097828378663293
+      "clicks": 66,
+      "impressions": 15313,
+      "ctr": 0.004310063344870371,
+      "position": 4.957878926402403
     },
     {
       "page": "https://precisiontoday.com/blog/how-to-handle-sump-pump-odors/",
-      "clicks": 48,
-      "impressions": 11191,
-      "ctr": 0.004289160932892503,
-      "position": 5.740237691001698
+      "clicks": 63,
+      "impressions": 12368,
+      "ctr": 0.00509379042690815,
+      "position": 5.558699870633894
+    },
+    {
+      "page": "https://precisiontoday.com/blog/how-to-know-when-its-time-for-a-new-toilet/",
+      "clicks": 63,
+      "impressions": 19995,
+      "ctr": 0.003150787696924231,
+      "position": 5.59904976244061
+    },
+    {
+      "page": "https://precisiontoday.com/blog/gas-vs-electric-furnaces-whats-better-for-homes-in-chicagoland/",
+      "clicks": 62,
+      "impressions": 12989,
+      "ctr": 0.00477326968973747,
+      "position": 9.878435599353299
+    },
+    {
+      "page": "https://precisiontoday.com/about/",
+      "clicks": 57,
+      "impressions": 9743,
+      "ctr": 0.0058503541003797595,
+      "position": 4.586164425741558
+    },
+    {
+      "page": "https://precisiontoday.com/grayslake/",
+      "clicks": 57,
+      "impressions": 23675,
+      "ctr": 0.0024076029567053855,
+      "position": 18.355227032734952
     },
     {
       "page": "https://precisiontoday.com/blog/why-your-furnace-pilot-light-keeps-going-out/",
-      "clicks": 48,
-      "impressions": 22649,
-      "ctr": 0.002119298865292066,
-      "position": 7.326062960837123
+      "clicks": 50,
+      "impressions": 22210,
+      "ctr": 0.0022512381809995496,
+      "position": 6.833093201260693
     },
     {
       "page": "https://precisiontoday.com/franklin-park/",
-      "clicks": 47,
-      "impressions": 11415,
-      "ctr": 0.004117389399912396,
-      "position": 11.064564169951817
+      "clicks": 50,
+      "impressions": 12429,
+      "ctr": 0.0040228497867889615,
+      "position": 10.422881969587255
+    },
+    {
+      "page": "https://precisiontoday.com/service-area/",
+      "clicks": 44,
+      "impressions": 6471,
+      "ctr": 0.006799567300262711,
+      "position": 6.504713336424046
     },
     {
       "page": "https://precisiontoday.com/blog/why-is-there-sewage-coming-up-through-the-bathtub/",
-      "clicks": 42,
-      "impressions": 16772,
-      "ctr": 0.0025041736227045075,
-      "position": 6.716491772000954
+      "clicks": 38,
+      "impressions": 15402,
+      "ctr": 0.002467212050383067,
+      "position": 6.721205038306714
     },
     {
       "page": "https://precisiontoday.com/blog/what-your-furnace-noises-are-telling-you/",
-      "clicks": 41,
-      "impressions": 9448,
-      "ctr": 0.004339542760372565,
-      "position": 10.520956816257408
+      "clicks": 37,
+      "impressions": 9009,
+      "ctr": 0.004107004107004107,
+      "position": 10.112554112554113
     },
     {
       "page": "https://precisiontoday.com/about/formerly-millers-area-heating-and-cooling/",
-      "clicks": 38,
-      "impressions": 11677,
-      "ctr": 0.0032542605121178383,
-      "position": 33.22505780594331
+      "clicks": 36,
+      "impressions": 11647,
+      "ctr": 0.0030909247016399073,
+      "position": 31.145015883918607
     },
     {
       "page": "https://precisiontoday.com/about/reviews/",
       "clicks": 35,
-      "impressions": 3530,
-      "ctr": 0.009915014164305949,
-      "position": 6.98356940509915
+      "impressions": 3754,
+      "ctr": 0.009323388385721897,
+      "position": 6.854821523708044
     },
     {
       "page": "https://precisiontoday.com/blog/why-do-my-drains-smell-so-bad/",
-      "clicks": 35,
-      "impressions": 14746,
-      "ctr": 0.0023735250237352503,
-      "position": 11.994371354943713
-    },
-    {
-      "page": "https://precisiontoday.com/blog/how-do-you-give-a-dog-a-bath-without-clogging-the-drain/",
-      "clicks": 32,
-      "impressions": 6252,
-      "ctr": 0.005118362124120281,
-      "position": 5.080134357005758
-    },
-    {
-      "page": "https://precisiontoday.com/blog/how-to-identify-and-prevent-hard-water-stains/",
-      "clicks": 32,
-      "impressions": 28128,
-      "ctr": 0.0011376564277588168,
-      "position": 9.208973265073947
-    },
-    {
-      "page": "https://precisiontoday.com/offers/",
-      "clicks": 32,
-      "impressions": 1804,
-      "ctr": 0.017738359201773836,
-      "position": 6.278824833702883
-    },
-    {
-      "page": "https://precisiontoday.com/service-area/",
-      "clicks": 32,
-      "impressions": 6881,
-      "ctr": 0.004650486847841883,
-      "position": 7.117860776049993
-    },
-    {
-      "page": "https://precisiontoday.com/blog/what-to-do-when-your-toilet-wont-flush/",
-      "clicks": 30,
-      "impressions": 17870,
-      "ctr": 0.0016787912702853946,
-      "position": 12.82288752098489
+      "clicks": 34,
+      "impressions": 15275,
+      "ctr": 0.0022258592471358428,
+      "position": 10.6549263502455
     },
     {
       "page": "https://precisiontoday.com/electrical/",
-      "clicks": 29,
-      "impressions": 8258,
-      "ctr": 0.0035117461855170744,
-      "position": 21.700653911358682
+      "clicks": 34,
+      "impressions": 9858,
+      "ctr": 0.003448975451410022,
+      "position": 21.974234124568877
     },
     {
-      "page": "https://precisiontoday.com/blog/common-issues-with-furnace-during-winter/",
-      "clicks": 24,
-      "impressions": 4814,
-      "ctr": 0.004985459077690071,
-      "position": 7.743456584960532
+      "page": "https://precisiontoday.com/blog/how-do-you-give-a-dog-a-bath-without-clogging-the-drain/",
+      "clicks": 33,
+      "impressions": 6618,
+      "ctr": 0.004986400725294651,
+      "position": 4.992293744333636
+    },
+    {
+      "page": "https://precisiontoday.com/offers/",
+      "clicks": 33,
+      "impressions": 1789,
+      "ctr": 0.0184460592509782,
+      "position": 6.157629960871995
     },
     {
       "page": "https://precisiontoday.com/maintenance-plan/",
-      "clicks": 24,
-      "impressions": 1973,
-      "ctr": 0.012164216928535226,
-      "position": 10.89863152559554
+      "clicks": 29,
+      "impressions": 1849,
+      "ctr": 0.01568415359653867,
+      "position": 10.447809626825311
     },
     {
-      "page": "https://precisiontoday.com/blog/the-pros-and-cons-of-installing-a-tankless-water-heater/",
-      "clicks": 21,
-      "impressions": 9653,
-      "ctr": 0.002175489485134155,
-      "position": 26.514865844815084
+      "page": "https://precisiontoday.com/blog/how-to-identify-and-prevent-hard-water-stains/",
+      "clicks": 28,
+      "impressions": 29230,
+      "ctr": 0.0009579199452617174,
+      "position": 8.671091344509065
     },
     {
-      "page": "https://precisiontoday.com/plumbing/water-filtration/watertech/",
-      "clicks": 19,
-      "impressions": 5041,
-      "ctr": 0.0037690934338424917,
-      "position": 12.239634993056933
+      "page": "https://precisiontoday.com/blog/what-to-do-when-your-toilet-wont-flush/",
+      "clicks": 27,
+      "impressions": 18206,
+      "ctr": 0.0014830275733274745,
+      "position": 11.793309897835877
     },
     {
       "page": "https://precisiontoday.com/blog/how-to-safely-unclog-a-toilet-without-a-plumber/",
-      "clicks": 17,
-      "impressions": 15230,
-      "ctr": 0.0011162179908076166,
-      "position": 9.742284963887066
+      "clicks": 22,
+      "impressions": 23886,
+      "ctr": 0.0009210416143347567,
+      "position": 6.259566273130704
+    },
+    {
+      "page": "https://precisiontoday.com/palos-heights/",
+      "clicks": 22,
+      "impressions": 27269,
+      "ctr": 0.0008067769261799112,
+      "position": 26.090652389159853
+    },
+    {
+      "page": "https://precisiontoday.com/blog/the-pros-and-cons-of-installing-a-tankless-water-heater/",
+      "clicks": 20,
+      "impressions": 8903,
+      "ctr": 0.002246433786364147,
+      "position": 22.846456250702012
     },
     {
       "page": "https://precisiontoday.com/plumbing/",
+      "clicks": 20,
+      "impressions": 18902,
+      "ctr": 0.0010580890911014707,
+      "position": 22.526928367368534
+    },
+    {
+      "page": "https://precisiontoday.com/blog/common-issues-with-furnace-during-winter/",
+      "clicks": 19,
+      "impressions": 4517,
+      "ctr": 0.00420633163604162,
+      "position": 7.353774629178658
+    },
+    {
+      "page": "https://precisiontoday.com/plumbing/water-filtration/watertech/",
       "clicks": 17,
-      "impressions": 19141,
-      "ctr": 0.0008881458648973408,
-      "position": 25.211065252599134
+      "impressions": 4914,
+      "ctr": 0.0034595034595034596,
+      "position": 11.763736263736265
     },
     {
-      "page": "https://precisiontoday.com/blog/how-does-a-whole-house-surge-protector-work/",
+      "page": "https://precisiontoday.com/blog/how-to-tell-if-your-home-needs-complete-rewiring/",
       "clicks": 16,
-      "impressions": 18540,
-      "ctr": 0.0008629989212513484,
-      "position": 27.197950377562027
-    },
-    {
-      "page": "https://precisiontoday.com/electrical/smoke-detectors/",
-      "clicks": 16,
-      "impressions": 4555,
-      "ctr": 0.003512623490669594,
-      "position": 32.356970362239295
+      "impressions": 2958,
+      "ctr": 0.005409060175794456,
+      "position": 8.519945909398242
     }
   ],
-  "fetchedAt": "2026-03-18T13:07:03.979Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "precision today",
+      "clicks": 838,
+      "impressions": 4195,
+      "ctr": 0.199761620977354,
+      "position": 1.033134684147795
+    },
+    {
+      "query": "precision today plumbing",
+      "clicks": 168,
+      "impressions": 649,
+      "ctr": 0.2588597842835131,
+      "position": 1.0107858243451464
+    },
+    {
+      "query": "precision plumbing",
+      "clicks": 115,
+      "impressions": 2066,
+      "ctr": 0.055663117134559535,
+      "position": 15.259922555663117
+    },
+    {
+      "query": "precision today plumbing, heating, cooling, electrical llc",
+      "clicks": 76,
+      "impressions": 131,
+      "ctr": 0.5801526717557252,
+      "position": 1.0534351145038168
+    },
+    {
+      "query": "precision today franklin park",
+      "clicks": 61,
+      "impressions": 222,
+      "ctr": 0.2747747747747748,
+      "position": 1.0045045045045045
+    },
+    {
+      "query": "precision today plumbing heating cooling electrical",
+      "clicks": 50,
+      "impressions": 561,
+      "ctr": 0.08912655971479501,
+      "position": 1.2816399286987523
+    },
+    {
+      "query": "dykstra home services",
+      "clicks": 48,
+      "impressions": 266,
+      "ctr": 0.18045112781954886,
+      "position": 1.4473684210526316
+    },
+    {
+      "query": "heat pump repair grayslake il",
+      "clicks": 38,
+      "impressions": 392,
+      "ctr": 0.09693877551020408,
+      "position": 6.459183673469388
+    },
+    {
+      "query": "air filters grayslake il",
+      "clicks": 36,
+      "impressions": 376,
+      "ctr": 0.09574468085106383,
+      "position": 13.082446808510639
+    },
+    {
+      "query": "sump pump short cycling",
+      "clicks": 36,
+      "impressions": 259,
+      "ctr": 0.138996138996139,
+      "position": 1.3552123552123552
+    },
+    {
+      "query": "dykstra heating and cooling",
+      "clicks": 33,
+      "impressions": 245,
+      "ctr": 0.1346938775510204,
+      "position": 1.306122448979592
+    },
+    {
+      "query": "furnace repair grayslake il",
+      "clicks": 33,
+      "impressions": 496,
+      "ctr": 0.06653225806451613,
+      "position": 6.118951612903226
+    },
+    {
+      "query": "precision heating and cooling",
+      "clicks": 32,
+      "impressions": 1082,
+      "ctr": 0.029574861367837338,
+      "position": 13.426987060998151
+    },
+    {
+      "query": "duct cleaning palos heights il",
+      "clicks": 31,
+      "impressions": 329,
+      "ctr": 0.09422492401215805,
+      "position": 4.31306990881459
+    },
+    {
+      "query": "air filters palos heights il",
+      "clicks": 30,
+      "impressions": 334,
+      "ctr": 0.08982035928143713,
+      "position": 7.37125748502994
+    },
+    {
+      "query": "furnace service grayslake il",
+      "clicks": 28,
+      "impressions": 453,
+      "ctr": 0.06181015452538632,
+      "position": 6.211920529801325
+    },
+    {
+      "query": "grayslake furnace replacement",
+      "clicks": 28,
+      "impressions": 271,
+      "ctr": 0.1033210332103321,
+      "position": 1.8007380073800738
+    },
+    {
+      "query": "furnace service palos heights il",
+      "clicks": 27,
+      "impressions": 338,
+      "ctr": 0.07988165680473373,
+      "position": 4.523668639053255
+    },
+    {
+      "query": "heat pump installation grayslake il",
+      "clicks": 27,
+      "impressions": 353,
+      "ctr": 0.0764872521246459,
+      "position": 4.223796033994335
+    },
+    {
+      "query": "heat pump replacement grayslake il",
+      "clicks": 27,
+      "impressions": 397,
+      "ctr": 0.06801007556675064,
+      "position": 7.204030226700252
+    },
+    {
+      "query": "plumbers grayslake",
+      "clicks": 27,
+      "impressions": 95,
+      "ctr": 0.28421052631578947,
+      "position": 6.747368421052632
+    },
+    {
+      "query": "miller area heating",
+      "clicks": 26,
+      "impressions": 104,
+      "ctr": 0.25,
+      "position": 1.0288461538461537
+    },
+    {
+      "query": "furnace repair palos heights il",
+      "clicks": 25,
+      "impressions": 428,
+      "ctr": 0.05841121495327103,
+      "position": 3.9976635514018692
+    },
+    {
+      "query": "heat pump service grayslake il",
+      "clicks": 25,
+      "impressions": 396,
+      "ctr": 0.06313131313131314,
+      "position": 6.467171717171717
+    },
+    {
+      "query": "heat pump service palos heights il",
+      "clicks": 25,
+      "impressions": 407,
+      "ctr": 0.06142506142506143,
+      "position": 4.5503685503685505
+    },
+    {
+      "query": "heating and cooling grayslake il",
+      "clicks": 25,
+      "impressions": 409,
+      "ctr": 0.061124694376528114,
+      "position": 3.430317848410758
+    },
+    {
+      "query": "plumber near grayslake",
+      "clicks": 25,
+      "impressions": 87,
+      "ctr": 0.28735632183908044,
+      "position": 4.275862068965518
+    },
+    {
+      "query": "furnace repair carol stream il",
+      "clicks": 24,
+      "impressions": 249,
+      "ctr": 0.0963855421686747,
+      "position": 14.004016064257028
+    },
+    {
+      "query": "furnace replacement grayslake il",
+      "clicks": 24,
+      "impressions": 434,
+      "ctr": 0.055299539170506916,
+      "position": 5.631336405529954
+    },
+    {
+      "query": "dryer vent cleaning carol stream",
+      "clicks": 22,
+      "impressions": 206,
+      "ctr": 0.10679611650485436,
+      "position": 48.383495145631066
+    },
+    {
+      "query": "furnace replacement palos heights il",
+      "clicks": 22,
+      "impressions": 320,
+      "ctr": 0.06875,
+      "position": 4.003125
+    },
+    {
+      "query": "plumber carol stream il",
+      "clicks": 22,
+      "impressions": 305,
+      "ctr": 0.07213114754098361,
+      "position": 16.285245901639342
+    },
+    {
+      "query": "ac repair palos heights il",
+      "clicks": 21,
+      "impressions": 307,
+      "ctr": 0.06840390879478828,
+      "position": 8.990228013029316
+    },
+    {
+      "query": "commercial plumbing company grayslake il",
+      "clicks": 21,
+      "impressions": 113,
+      "ctr": 0.18584070796460178,
+      "position": 1.911504424778761
+    },
+    {
+      "query": "duct cleaning grayslake il",
+      "clicks": 21,
+      "impressions": 365,
+      "ctr": 0.057534246575342465,
+      "position": 29.54794520547945
+    },
+    {
+      "query": "furnace installation grayslake il",
+      "clicks": 21,
+      "impressions": 441,
+      "ctr": 0.047619047619047616,
+      "position": 5.587301587301587
+    },
+    {
+      "query": "furnace installation palos heights il",
+      "clicks": 21,
+      "impressions": 310,
+      "ctr": 0.06774193548387097,
+      "position": 3.803225806451613
+    },
+    {
+      "query": "heat pump installation palos heights il",
+      "clicks": 21,
+      "impressions": 400,
+      "ctr": 0.0525,
+      "position": 2.8525
+    },
+    {
+      "query": "heat pump repair carol stream",
+      "clicks": 21,
+      "impressions": 155,
+      "ctr": 0.13548387096774195,
+      "position": 7.348387096774194
+    },
+    {
+      "query": "heat pump repair palos heights il",
+      "clicks": 21,
+      "impressions": 456,
+      "ctr": 0.046052631578947366,
+      "position": 4.684210526315789
+    },
+    {
+      "query": "carol stream heat pump replacement",
+      "clicks": 20,
+      "impressions": 294,
+      "ctr": 0.06802721088435375,
+      "position": 3.5952380952380953
+    },
+    {
+      "query": "precision today heating and cooling",
+      "clicks": 20,
+      "impressions": 76,
+      "ctr": 0.2631578947368421,
+      "position": 1
+    },
+    {
+      "query": "furnace repair grayslake",
+      "clicks": 19,
+      "impressions": 322,
+      "ctr": 0.059006211180124224,
+      "position": 3.717391304347826
+    },
+    {
+      "query": "furnace replacement carol stream il",
+      "clicks": 19,
+      "impressions": 200,
+      "ctr": 0.095,
+      "position": 14.375
+    },
+    {
+      "query": "new furnace carol stream il",
+      "clicks": 19,
+      "impressions": 172,
+      "ctr": 0.11046511627906977,
+      "position": 16.854651162790695
+    },
+    {
+      "query": "residential plumbing company grayslake il",
+      "clicks": 19,
+      "impressions": 99,
+      "ctr": 0.1919191919191919,
+      "position": 7.424242424242424
+    },
+    {
+      "query": "ductless mini splits grayslake il",
+      "clicks": 18,
+      "impressions": 429,
+      "ctr": 0.04195804195804196,
+      "position": 3.641025641025641
+    },
+    {
+      "query": "boiler repair carol stream",
+      "clicks": 17,
+      "impressions": 136,
+      "ctr": 0.125,
+      "position": 3.4558823529411766
+    },
+    {
+      "query": "heat pump replacement palos heights il",
+      "clicks": 17,
+      "impressions": 318,
+      "ctr": 0.05345911949685535,
+      "position": 6.144654088050315
+    },
+    {
+      "query": "heating and cooling palos heights il",
+      "clicks": 17,
+      "impressions": 356,
+      "ctr": 0.047752808988764044,
+      "position": 7.477528089887641
+    },
+    {
+      "query": "plumber carol stream",
+      "clicks": 17,
+      "impressions": 196,
+      "ctr": 0.08673469387755102,
+      "position": 38.28061224489796
+    },
+    {
+      "query": "air conditioning repair grayslake",
+      "clicks": 16,
+      "impressions": 93,
+      "ctr": 0.17204301075268819,
+      "position": 1.096774193548387
+    },
+    {
+      "query": "plumber grayslake il",
+      "clicks": 16,
+      "impressions": 188,
+      "ctr": 0.0851063829787234,
+      "position": 5.867021276595745
+    },
+    {
+      "query": "plumbers carol stream",
+      "clicks": 16,
+      "impressions": 58,
+      "ctr": 0.27586206896551724,
+      "position": 1.0344827586206897
+    },
+    {
+      "query": "ac repair grayslake il",
+      "clicks": 15,
+      "impressions": 463,
+      "ctr": 0.032397408207343416,
+      "position": 6.941684665226782
+    },
+    {
+      "query": "carol stream plumber",
+      "clicks": 15,
+      "impressions": 166,
+      "ctr": 0.09036144578313253,
+      "position": 1.6144578313253013
+    },
+    {
+      "query": "commercial plumber grayslake il",
+      "clicks": 15,
+      "impressions": 81,
+      "ctr": 0.18518518518518517,
+      "position": 8.950617283950617
+    },
+    {
+      "query": "furnace repair carol stream",
+      "clicks": 15,
+      "impressions": 176,
+      "ctr": 0.08522727272727272,
+      "position": 10.75
+    },
+    {
+      "query": "miller heating",
+      "clicks": 15,
+      "impressions": 119,
+      "ctr": 0.12605042016806722,
+      "position": 11.361344537815127
+    },
+    {
+      "query": "new furnace grayslake il",
+      "clicks": 15,
+      "impressions": 81,
+      "ctr": 0.18518518518518517,
+      "position": 4.938271604938272
+    },
+    {
+      "query": "palos heights water heater service",
+      "clicks": 15,
+      "impressions": 46,
+      "ctr": 0.32608695652173914,
+      "position": 12.826086956521738
+    },
+    {
+      "query": "sump pump turning on and off",
+      "clicks": 15,
+      "impressions": 172,
+      "ctr": 0.0872093023255814,
+      "position": 3.011627906976744
+    },
+    {
+      "query": "air conditioning repair grayslake il",
+      "clicks": 14,
+      "impressions": 306,
+      "ctr": 0.0457516339869281,
+      "position": 6.69281045751634
+    },
+    {
+      "query": "precision plumbing naperville",
+      "clicks": 14,
+      "impressions": 75,
+      "ctr": 0.18666666666666668,
+      "position": 1.1066666666666667
+    },
+    {
+      "query": "precision today reviews",
+      "clicks": 14,
+      "impressions": 732,
+      "ctr": 0.01912568306010929,
+      "position": 3.3128415300546448
+    },
+    {
+      "query": "residential plumber grayslake il",
+      "clicks": 14,
+      "impressions": 63,
+      "ctr": 0.2222222222222222,
+      "position": 8.3015873015873
+    },
+    {
+      "query": "air duct cleaning carol stream il",
+      "clicks": 13,
+      "impressions": 164,
+      "ctr": 0.07926829268292683,
+      "position": 7.189024390243903
+    },
+    {
+      "query": "carol stream furnace tune up",
+      "clicks": 13,
+      "impressions": 238,
+      "ctr": 0.0546218487394958,
+      "position": 4.331932773109244
+    },
+    {
+      "query": "drain cleaning palos heights",
+      "clicks": 13,
+      "impressions": 206,
+      "ctr": 0.06310679611650485,
+      "position": 25.689320388349515
+    },
+    {
+      "query": "garbage collection carol stream",
+      "clicks": 13,
+      "impressions": 31,
+      "ctr": 0.41935483870967744,
+      "position": 89.03225806451613
+    },
+    {
+      "query": "why does my sump pump keep turning on and off",
+      "clicks": 13,
+      "impressions": 135,
+      "ctr": 0.0962962962962963,
+      "position": 2.111111111111111
+    },
+    {
+      "query": "air duct cleaning grayslake",
+      "clicks": 12,
+      "impressions": 85,
+      "ctr": 0.1411764705882353,
+      "position": 32.04705882352941
+    },
+    {
+      "query": "carol stream furnace replacement",
+      "clicks": 12,
+      "impressions": 37,
+      "ctr": 0.32432432432432434,
+      "position": 11.08108108108108
+    },
+    {
+      "query": "carol stream outdoor lighting",
+      "clicks": 12,
+      "impressions": 77,
+      "ctr": 0.15584415584415584,
+      "position": 60.02597402597402
+    },
+    {
+      "query": "dryer vent cleaning cost carol stream",
+      "clicks": 12,
+      "impressions": 153,
+      "ctr": 0.0784313725490196,
+      "position": 34.38562091503268
+    },
+    {
+      "query": "heat pump service carol stream il",
+      "clicks": 12,
+      "impressions": 74,
+      "ctr": 0.16216216216216217,
+      "position": 9.445945945945946
+    },
+    {
+      "query": "heating repair palos heights il",
+      "clicks": 12,
+      "impressions": 45,
+      "ctr": 0.26666666666666666,
+      "position": 4.288888888888889
+    },
+    {
+      "query": "indoor air quality grayslake il",
+      "clicks": 12,
+      "impressions": 337,
+      "ctr": 0.03560830860534125,
+      "position": 4.845697329376854
+    },
+    {
+      "query": "plumber near carol stream",
+      "clicks": 12,
+      "impressions": 51,
+      "ctr": 0.23529411764705882,
+      "position": 1
+    },
+    {
+      "query": "sump pump keeps going off",
+      "clicks": 12,
+      "impressions": 275,
+      "ctr": 0.04363636363636364,
+      "position": 4.134545454545455
+    },
+    {
+      "query": "ac services palos heights",
+      "clicks": 11,
+      "impressions": 91,
+      "ctr": 0.12087912087912088,
+      "position": 8.153846153846153
+    },
+    {
+      "query": "air conditioning replacement grayslake il",
+      "clicks": 11,
+      "impressions": 313,
+      "ctr": 0.03514376996805112,
+      "position": 7.226837060702875
+    },
+    {
+      "query": "carol stream garbage service",
+      "clicks": 11,
+      "impressions": 37,
+      "ctr": 0.2972972972972973,
+      "position": 90.56756756756756
+    },
+    {
+      "query": "carol stream heating maintenance",
+      "clicks": 11,
+      "impressions": 27,
+      "ctr": 0.4074074074074074,
+      "position": 12.296296296296296
+    },
+    {
+      "query": "furnace service carol stream il",
+      "clicks": 11,
+      "impressions": 99,
+      "ctr": 0.1111111111111111,
+      "position": 9.282828282828282
+    },
+    {
+      "query": "grayslake heat pump tune up",
+      "clicks": 11,
+      "impressions": 243,
+      "ctr": 0.04526748971193416,
+      "position": 1.123456790123457
+    },
+    {
+      "query": "mini split repair carol stream",
+      "clicks": 11,
+      "impressions": 111,
+      "ctr": 0.0990990990990991,
+      "position": 21.306306306306308
+    },
+    {
+      "query": "palos heights furnace installation",
+      "clicks": 11,
+      "impressions": 31,
+      "ctr": 0.3548387096774194,
+      "position": 4.129032258064516
+    },
+    {
+      "query": "plumber grayslake",
+      "clicks": 11,
+      "impressions": 181,
+      "ctr": 0.06077348066298342,
+      "position": 6.502762430939226
+    },
+    {
+      "query": "plumbing company grayslake il",
+      "clicks": 11,
+      "impressions": 53,
+      "ctr": 0.20754716981132076,
+      "position": 5.660377358490566
+    },
+    {
+      "query": "plumbing palos heights",
+      "clicks": 11,
+      "impressions": 85,
+      "ctr": 0.12941176470588237,
+      "position": 17.788235294117648
+    },
+    {
+      "query": "precision hvac",
+      "clicks": 11,
+      "impressions": 668,
+      "ctr": 0.016467065868263474,
+      "position": 8.279940119760479
+    },
+    {
+      "query": "sump pump keeps turning on and off",
+      "clicks": 11,
+      "impressions": 192,
+      "ctr": 0.057291666666666664,
+      "position": 2.713541666666667
+    },
+    {
+      "query": "water heater installation grayslake il",
+      "clicks": 11,
+      "impressions": 112,
+      "ctr": 0.09821428571428571,
+      "position": 2.883928571428571
+    },
+    {
+      "query": "air conditioner repair grayslake il",
+      "clicks": 10,
+      "impressions": 316,
+      "ctr": 0.03164556962025317,
+      "position": 8.098101265822784
+    },
+    {
+      "query": "air conditioning installation palos heights il",
+      "clicks": 10,
+      "impressions": 332,
+      "ctr": 0.030120481927710843,
+      "position": 6.286144578313253
+    },
+    {
+      "query": "air conditioning repair palos heights il",
+      "clicks": 10,
+      "impressions": 340,
+      "ctr": 0.029411764705882353,
+      "position": 8.405882352941177
+    },
+    {
+      "query": "air duct cleaning grayslake il",
+      "clicks": 10,
+      "impressions": 74,
+      "ctr": 0.13513513513513514,
+      "position": 20.527027027027028
+    },
+    {
+      "query": "drain cleaning carol stream il",
+      "clicks": 10,
+      "impressions": 64,
+      "ctr": 0.15625,
+      "position": 5.921875
+    },
+    {
+      "query": "drain cleaning services carol stream il",
+      "clicks": 10,
+      "impressions": 58,
+      "ctr": 0.1724137931034483,
+      "position": 4.5
+    },
+    {
+      "query": "furnace installation carol stream il",
+      "clicks": 10,
+      "impressions": 51,
+      "ctr": 0.19607843137254902,
+      "position": 17.88235294117647
+    },
+    {
+      "query": "grayslake garbage service",
+      "clicks": 10,
+      "impressions": 42,
+      "ctr": 0.23809523809523808,
+      "position": 58.476190476190474
+    },
+    {
+      "query": "grayslake heat pump install",
+      "clicks": 10,
+      "impressions": 238,
+      "ctr": 0.04201680672268908,
+      "position": 1.0714285714285714
+    },
+    {
+      "query": "hvac grayslake",
+      "clicks": 10,
+      "impressions": 94,
+      "ctr": 0.10638297872340426,
+      "position": 2.6914893617021276
+    },
+    {
+      "query": "hvac grayslake il",
+      "clicks": 10,
+      "impressions": 130,
+      "ctr": 0.07692307692307693,
+      "position": 1.0461538461538462
+    },
+    {
+      "query": "mini split installation carol stream",
+      "clicks": 10,
+      "impressions": 70,
+      "ctr": 0.14285714285714285,
+      "position": 12.32857142857143
+    },
+    {
+      "query": "palos heights garbage company",
+      "clicks": 10,
+      "impressions": 41,
+      "ctr": 0.24390243902439024,
+      "position": 58.609756097560975
+    },
+    {
+      "query": "palos heights heating repair",
+      "clicks": 10,
+      "impressions": 36,
+      "ctr": 0.2777777777777778,
+      "position": 3.6944444444444446
+    },
+    {
+      "query": "plumber palos heights",
+      "clicks": 10,
+      "impressions": 211,
+      "ctr": 0.04739336492890995,
+      "position": 44.199052132701425
+    },
+    {
+      "query": "plumbing repair carol stream il",
+      "clicks": 10,
+      "impressions": 58,
+      "ctr": 0.1724137931034483,
+      "position": 22.086206896551722
+    },
+    {
+      "query": "precision today grayslake",
+      "clicks": 10,
+      "impressions": 56,
+      "ctr": 0.17857142857142858,
+      "position": 1
+    },
+    {
+      "query": "water heater repair grayslake il",
+      "clicks": 10,
+      "impressions": 86,
+      "ctr": 0.11627906976744186,
+      "position": 3.686046511627907
+    },
+    {
+      "query": "ac installation carol stream il",
+      "clicks": 9,
+      "impressions": 111,
+      "ctr": 0.08108108108108109,
+      "position": 62.630630630630634
+    },
+    {
+      "query": "air conditioner repair palos heights",
+      "clicks": 9,
+      "impressions": 81,
+      "ctr": 0.1111111111111111,
+      "position": 7.308641975308642
+    },
+    {
+      "query": "air conditioning replacement palos heights il",
+      "clicks": 9,
+      "impressions": 396,
+      "ctr": 0.022727272727272728,
+      "position": 6.393939393939394
+    },
+    {
+      "query": "carol stream furnace maintenance",
+      "clicks": 9,
+      "impressions": 27,
+      "ctr": 0.3333333333333333,
+      "position": 7.481481481481482
+    },
+    {
+      "query": "carol stream heat pump installation",
+      "clicks": 9,
+      "impressions": 305,
+      "ctr": 0.029508196721311476,
+      "position": 1.2622950819672132
+    },
+    {
+      "query": "carol stream plumbers",
+      "clicks": 9,
+      "impressions": 145,
+      "ctr": 0.06206896551724138,
+      "position": 1
+    },
+    {
+      "query": "emergency plumber carol stream",
+      "clicks": 9,
+      "impressions": 27,
+      "ctr": 0.3333333333333333,
+      "position": 4.444444444444445
+    },
+    {
+      "query": "emergency plumbing carol stream",
+      "clicks": 9,
+      "impressions": 50,
+      "ctr": 0.18,
+      "position": 2.58
+    },
+    {
+      "query": "furnace maintenance grayslake il",
+      "clicks": 9,
+      "impressions": 66,
+      "ctr": 0.13636363636363635,
+      "position": 1.0606060606060606
+    },
+    {
+      "query": "garage heater repair carol stream",
+      "clicks": 9,
+      "impressions": 121,
+      "ctr": 0.0743801652892562,
+      "position": 2.4545454545454546
+    },
+    {
+      "query": "grayslake garbage company",
+      "clicks": 9,
+      "impressions": 35,
+      "ctr": 0.2571428571428571,
+      "position": 50.8
+    },
+    {
+      "query": "grayslake hvac",
+      "clicks": 9,
+      "impressions": 241,
+      "ctr": 0.03734439834024896,
+      "position": 1.6804979253112033
+    },
+    {
+      "query": "heating repair carol stream",
+      "clicks": 9,
+      "impressions": 130,
+      "ctr": 0.06923076923076923,
+      "position": 8.384615384615385
+    },
+    {
+      "query": "how does a sump pump work",
+      "clicks": 9,
+      "impressions": 116,
+      "ctr": 0.07758620689655173,
+      "position": 2.637931034482759
+    },
+    {
+      "query": "hvac service grayslake il",
+      "clicks": 9,
+      "impressions": 355,
+      "ctr": 0.02535211267605634,
+      "position": 7.076056338028169
+    },
+    {
+      "query": "palos heights furnace maintenance",
+      "clicks": 9,
+      "impressions": 25,
+      "ctr": 0.36,
+      "position": 1.92
+    },
+    {
+      "query": "palos heights il garbage service",
+      "clicks": 9,
+      "impressions": 61,
+      "ctr": 0.14754098360655737,
+      "position": 58.377049180327866
+    },
+    {
+      "query": "plumbing repair grayslake il",
+      "clicks": 9,
+      "impressions": 72,
+      "ctr": 0.125,
+      "position": 4.375
+    },
+    {
+      "query": "ac company palos heights",
+      "clicks": 8,
+      "impressions": 82,
+      "ctr": 0.0975609756097561,
+      "position": 7.439024390243903
+    },
+    {
+      "query": "carol stream boiler installation",
+      "clicks": 8,
+      "impressions": 32,
+      "ctr": 0.25,
+      "position": 1.34375
+    },
+    {
+      "query": "carol stream boiler repair",
+      "clicks": 8,
+      "impressions": 37,
+      "ctr": 0.21621621621621623,
+      "position": 1.1081081081081081
+    },
+    {
+      "query": "dryer vent cleaning repair carol stream",
+      "clicks": 8,
+      "impressions": 117,
+      "ctr": 0.06837606837606838,
+      "position": 35.598290598290596
+    },
+    {
+      "query": "ductless installation carol stream il",
+      "clicks": 8,
+      "impressions": 71,
+      "ctr": 0.11267605633802817,
+      "position": 9.95774647887324
+    },
+    {
+      "query": "ductless mini splits palos heights il",
+      "clicks": 8,
+      "impressions": 348,
+      "ctr": 0.022988505747126436,
+      "position": 4.89367816091954
+    },
+    {
+      "query": "furnace maintenance carol stream il",
+      "clicks": 8,
+      "impressions": 94,
+      "ctr": 0.0851063829787234,
+      "position": 9.297872340425531
+    },
+    {
+      "query": "grayslake ac repair",
+      "clicks": 8,
+      "impressions": 207,
+      "ctr": 0.03864734299516908,
+      "position": 1.2028985507246377
+    },
+    {
+      "query": "mini split ac palos heights",
+      "clicks": 8,
+      "impressions": 87,
+      "ctr": 0.09195402298850575,
+      "position": 4.379310344827586
+    },
+    {
+      "query": "plumbing services grayslake il",
+      "clicks": 8,
+      "impressions": 66,
+      "ctr": 0.12121212121212122,
+      "position": 4.318181818181818
+    },
+    {
+      "query": "sump pump turns on and off quickly",
+      "clicks": 8,
+      "impressions": 114,
+      "ctr": 0.07017543859649122,
+      "position": 2.1315789473684212
+    },
+    {
+      "query": "water heater replacement grayslake il",
+      "clicks": 8,
+      "impressions": 131,
+      "ctr": 0.061068702290076333,
+      "position": 3.4656488549618323
+    },
+    {
+      "query": "ac repair palos heights",
+      "clicks": 7,
+      "impressions": 85,
+      "ctr": 0.08235294117647059,
+      "position": 7.729411764705882
+    },
+    {
+      "query": "air conditioner repair palos heights il",
+      "clicks": 7,
+      "impressions": 351,
+      "ctr": 0.019943019943019943,
+      "position": 7.3247863247863245
+    },
+    {
+      "query": "air conditioner replacement palos heights",
+      "clicks": 7,
+      "impressions": 84,
+      "ctr": 0.08333333333333333,
+      "position": 8.345238095238095
+    },
+    {
+      "query": "air conditioning service palos heights il",
+      "clicks": 7,
+      "impressions": 441,
+      "ctr": 0.015873015873015872,
+      "position": 8.285714285714285
+    },
+    {
+      "query": "carol stream furnace repair",
+      "clicks": 7,
+      "impressions": 51,
+      "ctr": 0.13725490196078433,
+      "position": 7.784313725490196
+    },
+    {
+      "query": "carol stream garbage company",
+      "clicks": 7,
+      "impressions": 30,
+      "ctr": 0.23333333333333334,
+      "position": 74.96666666666667
+    },
+    {
+      "query": "commercial plumbing services grayslake il",
+      "clicks": 7,
+      "impressions": 54,
+      "ctr": 0.12962962962962962,
+      "position": 2.2962962962962963
+    },
+    {
+      "query": "grayslake plumbers",
+      "clicks": 7,
+      "impressions": 56,
+      "ctr": 0.125,
+      "position": 15.321428571428571
+    },
+    {
+      "query": "how often should a sump pump run",
+      "clicks": 7,
+      "impressions": 78,
+      "ctr": 0.08974358974358974,
+      "position": 4.615384615384615
+    },
+    {
+      "query": "hydro jetting palos heights",
+      "clicks": 7,
+      "impressions": 73,
+      "ctr": 0.0958904109589041,
+      "position": 13.547945205479452
+    },
+    {
+      "query": "mini split air conditioner palos heights",
+      "clicks": 7,
+      "impressions": 82,
+      "ctr": 0.08536585365853659,
+      "position": 5.902439024390244
+    },
+    {
+      "query": "palos heights furnace replacement",
+      "clicks": 7,
+      "impressions": 19,
+      "ctr": 0.3684210526315789,
+      "position": 1.631578947368421
+    },
+    {
+      "query": "palos heights garbage service",
+      "clicks": 7,
+      "impressions": 37,
+      "ctr": 0.1891891891891892,
+      "position": 58.83783783783784
+    },
+    {
+      "query": "precision heating",
+      "clicks": 7,
+      "impressions": 273,
+      "ctr": 0.02564102564102564,
+      "position": 18.373626373626372
+    },
+    {
+      "query": "precision today franklin park, il",
+      "clicks": 7,
+      "impressions": 26,
+      "ctr": 0.2692307692307692,
+      "position": 1
+    },
+    {
+      "query": "residential plumbing services grayslake il",
+      "clicks": 7,
+      "impressions": 74,
+      "ctr": 0.0945945945945946,
+      "position": 8.891891891891891
+    },
+    {
+      "query": "water heater installation carol stream il",
+      "clicks": 7,
+      "impressions": 54,
+      "ctr": 0.12962962962962962,
+      "position": 16.666666666666664
+    },
+    {
+      "query": "water heater repair carol stream il",
+      "clicks": 7,
+      "impressions": 70,
+      "ctr": 0.1,
+      "position": 6.442857142857143
+    },
+    {
+      "query": "water heater service grayslake il",
+      "clicks": 7,
+      "impressions": 60,
+      "ctr": 0.11666666666666667,
+      "position": 2.9833333333333334
+    },
+    {
+      "query": "air conditioning installation grayslake il",
+      "clicks": 6,
+      "impressions": 316,
+      "ctr": 0.0189873417721519,
+      "position": 7.563291139240507
+    },
+    {
+      "query": "disposal of garbage carol stream il",
+      "clicks": 6,
+      "impressions": 24,
+      "ctr": 0.25,
+      "position": 93.95833333333333
+    },
+    {
+      "query": "furnace replacement palos heights",
+      "clicks": 6,
+      "impressions": 76,
+      "ctr": 0.07894736842105263,
+      "position": 2.052631578947368
+    },
+    {
+      "query": "garbage service grayslake",
+      "clicks": 6,
+      "impressions": 18,
+      "ctr": 0.3333333333333333,
+      "position": 50
+    },
+    {
+      "query": "grayslake il garbage collection services",
+      "clicks": 6,
+      "impressions": 29,
+      "ctr": 0.20689655172413793,
+      "position": 55.758620689655174
+    },
+    {
+      "query": "palos heights furnace repair",
+      "clicks": 6,
+      "impressions": 27,
+      "ctr": 0.2222222222222222,
+      "position": 1.5925925925925926
+    },
+    {
+      "query": "sump pump running every 30 seconds",
+      "clicks": 6,
+      "impressions": 90,
+      "ctr": 0.06666666666666667,
+      "position": 7.588888888888889
+    },
+    {
+      "query": "water heater repair grayslake",
+      "clicks": 6,
+      "impressions": 95,
+      "ctr": 0.06315789473684211,
+      "position": 6.831578947368421
+    },
+    {
+      "query": "water heater replacement carol stream il",
+      "clicks": 6,
+      "impressions": 59,
+      "ctr": 0.1016949152542373,
+      "position": 11.457627118644067
+    },
+    {
+      "query": "carol stream heating repair",
+      "clicks": 5,
+      "impressions": 26,
+      "ctr": 0.19230769230769232,
+      "position": 6.653846153846154
+    },
+    {
+      "query": "garbage dumpster grayslake",
+      "clicks": 5,
+      "impressions": 31,
+      "ctr": 0.16129032258064516,
+      "position": 71.96774193548387
+    },
+    {
+      "query": "grayslake il garbage",
+      "clicks": 5,
+      "impressions": 19,
+      "ctr": 0.2631578947368421,
+      "position": 60.68421052631579
+    },
+    {
+      "query": "grayslake il garbage company",
+      "clicks": 5,
+      "impressions": 36,
+      "ctr": 0.1388888888888889,
+      "position": 57.611111111111114
+    },
+    {
+      "query": "mini split heat pumps palos heights",
+      "clicks": 5,
+      "impressions": 72,
+      "ctr": 0.06944444444444445,
+      "position": 5.444444444444445
+    },
+    {
+      "query": "precision furnace",
+      "clicks": 5,
+      "impressions": 64,
+      "ctr": 0.078125,
+      "position": 10.09375
+    },
+    {
+      "query": "precision plumbing near me",
+      "clicks": 5,
+      "impressions": 131,
+      "ctr": 0.03816793893129771,
+      "position": 9.435114503816793
+    },
+    {
+      "query": "sump pump only runs for a few seconds",
+      "clicks": 5,
+      "impressions": 52,
+      "ctr": 0.09615384615384616,
+      "position": 1.9423076923076923
+    },
+    {
+      "query": "sump pump runs every 30 seconds during rain",
+      "clicks": 5,
+      "impressions": 59,
+      "ctr": 0.0847457627118644,
+      "position": 4.983050847457627
+    },
+    {
+      "query": "why does sump pump keep going off",
+      "clicks": 5,
+      "impressions": 119,
+      "ctr": 0.04201680672268908,
+      "position": 4.773109243697479
+    },
+    {
+      "query": "abortfliege",
+      "clicks": 4,
+      "impressions": 30,
+      "ctr": 0.13333333333333333,
+      "position": 2.1333333333333333
+    },
+    {
+      "query": "air conditioner installation palos heights",
+      "clicks": 4,
+      "impressions": 117,
+      "ctr": 0.03418803418803419,
+      "position": 6.461538461538462
+    },
+    {
+      "query": "carol stream boiler maintenance",
+      "clicks": 4,
+      "impressions": 25,
+      "ctr": 0.16,
+      "position": 1.8399999999999999
+    },
+    {
+      "query": "drain gurgling",
+      "clicks": 4,
+      "impressions": 269,
+      "ctr": 0.01486988847583643,
+      "position": 13.806691449814126
+    },
+    {
+      "query": "grayslake garbage collection services",
+      "clicks": 4,
+      "impressions": 16,
+      "ctr": 0.25,
+      "position": 64.8125
+    },
+    {
+      "query": "grayslake heating installation",
+      "clicks": 4,
+      "impressions": 18,
+      "ctr": 0.2222222222222222,
+      "position": 1
+    },
+    {
+      "query": "heating and cooling grayslake",
+      "clicks": 4,
+      "impressions": 115,
+      "ctr": 0.034782608695652174,
+      "position": 1.1478260869565218
+    },
+    {
+      "query": "hvac service palos heights il",
+      "clicks": 4,
+      "impressions": 347,
+      "ctr": 0.011527377521613832,
+      "position": 11.132564841498558
+    },
+    {
+      "query": "miller heating and cooling",
+      "clicks": 4,
+      "impressions": 312,
+      "ctr": 0.01282051282051282,
+      "position": 23.814102564102566
+    },
+    {
+      "query": "millers heating and air",
+      "clicks": 4,
+      "impressions": 118,
+      "ctr": 0.03389830508474576,
+      "position": 19.872881355932204
+    },
+    {
+      "query": "plumber near me",
+      "clicks": 4,
+      "impressions": 223,
+      "ctr": 0.017937219730941704,
+      "position": 16.51121076233184
+    },
+    {
+      "query": "plumbers near me",
+      "clicks": 4,
+      "impressions": 98,
+      "ctr": 0.04081632653061224,
+      "position": 10.357142857142858
+    },
+    {
+      "query": "plumbing company palos heights",
+      "clicks": 4,
+      "impressions": 175,
+      "ctr": 0.022857142857142857,
+      "position": 25.034285714285716
+    },
+    {
+      "query": "sump pump cycling",
+      "clicks": 4,
+      "impressions": 31,
+      "ctr": 0.12903225806451613,
+      "position": 1.6451612903225805
+    },
+    {
+      "query": "sump pump going off every 30 seconds",
+      "clicks": 4,
+      "impressions": 136,
+      "ctr": 0.029411764705882353,
+      "position": 6
+    },
+    {
+      "query": "sump pump keeps running every 5 minutes",
+      "clicks": 4,
+      "impressions": 478,
+      "ctr": 0.008368200836820083,
+      "position": 4.633891213389122
+    },
+    {
+      "query": "sump pump keeps turning on",
+      "clicks": 4,
+      "impressions": 61,
+      "ctr": 0.06557377049180328,
+      "position": 3.1639344262295084
+    },
+    {
+      "query": "water heater service carol stream il",
+      "clicks": 4,
+      "impressions": 74,
+      "ctr": 0.05405405405405406,
+      "position": 6.972972972972973
+    },
+    {
+      "query": "why is my outlet buzzing",
+      "clicks": 4,
+      "impressions": 357,
+      "ctr": 0.011204481792717087,
+      "position": 5.46218487394958
+    },
+    {
+      "query": "ac repair carol stream il",
+      "clicks": 3,
+      "impressions": 146,
+      "ctr": 0.02054794520547945,
+      "position": 48.74657534246575
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:21:53.676Z"
 }

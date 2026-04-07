@@ -1,156 +1,16 @@
 {
   "property": "https://www.christianhvac.com/",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 12169,
-    "impressions": 3328752,
-    "ctr": 0.0036557244276533667,
-    "position": 12.391908734480424
+    "clicks": 13620,
+    "impressions": 3604791,
+    "ctr": 0.0037783050390438723,
+    "position": 11.45200248206343
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 96,
-      "impressions": 32329,
-      "ctr": 0.002969470135172755,
-      "position": 11.144730737109096
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 109,
-      "impressions": 32585,
-      "ctr": 0.003345097437471229,
-      "position": 13.923185514807427
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 109,
-      "impressions": 29716,
-      "ctr": 0.0036680576120608427,
-      "position": 15.309597523219814
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 100,
-      "impressions": 28858,
-      "ctr": 0.0034652436066255456,
-      "position": 14.157807193845727
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 86,
-      "impressions": 35819,
-      "ctr": 0.0024009603841536613,
-      "position": 16.496300845919762
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 97,
-      "impressions": 31357,
-      "ctr": 0.003093408170424467,
-      "position": 13.773607169053163
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 80,
-      "impressions": 28029,
-      "ctr": 0.0028541867351671484,
-      "position": 14.424381890185165
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 100,
-      "impressions": 28538,
-      "ctr": 0.003504099796762212,
-      "position": 11.171420562057607
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 114,
-      "impressions": 28852,
-      "ctr": 0.003951199223624012,
-      "position": 14.214543185914321
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 83,
-      "impressions": 30677,
-      "ctr": 0.0027056100661733548,
-      "position": 18.048081624669948
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 54,
-      "impressions": 24500,
-      "ctr": 0.002204081632653061,
-      "position": 14.83538775510204
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 82,
-      "impressions": 26712,
-      "ctr": 0.0030697813716681643,
-      "position": 12.778601377657981
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 77,
-      "impressions": 25347,
-      "ctr": 0.0030378348522507597,
-      "position": 11.084664851856235
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 101,
-      "impressions": 27504,
-      "ctr": 0.003672193135543921,
-      "position": 12.870055264688773
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 122,
-      "impressions": 28121,
-      "ctr": 0.004338394793926247,
-      "position": 12.72920593151026
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 110,
-      "impressions": 33593,
-      "ctr": 0.0032744917095823534,
-      "position": 15.100765040335784
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 63,
-      "impressions": 32189,
-      "ctr": 0.0019571903445276336,
-      "position": 18.074124700984807
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 64,
-      "impressions": 30529,
-      "ctr": 0.0020963673883848143,
-      "position": 14.196206885256641
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 122,
-      "impressions": 26321,
-      "ctr": 0.004635082253713765,
-      "position": 11.176057140686144
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 93,
-      "impressions": 25448,
-      "ctr": 0.003654511160012575,
-      "position": 11.09375982395473
-    },
     {
       "date": "2026-01-04",
       "clicks": 101,
@@ -640,711 +500,3314 @@
       "impressions": 35192,
       "ctr": 0.003495112525573994,
       "position": 15.323425778586042
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 133,
+      "impressions": 35421,
+      "ctr": 0.003754834702577567,
+      "position": 12.666694898506536
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 158,
+      "impressions": 35684,
+      "ctr": 0.004427754736016142,
+      "position": 10.2577065351418
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 158,
+      "impressions": 38631,
+      "ctr": 0.00408997955010225,
+      "position": 9.351065206699284
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 173,
+      "impressions": 41303,
+      "ctr": 0.004188557731883882,
+      "position": 10.893760743771638
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 186,
+      "impressions": 48186,
+      "ctr": 0.003860042335948201,
+      "position": 8.249782094384262
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 150,
+      "impressions": 40251,
+      "ctr": 0.0037266154878139676,
+      "position": 8.594370326203077
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 182,
+      "impressions": 42391,
+      "ctr": 0.0042933641574862584,
+      "position": 8.442829845957869
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 183,
+      "impressions": 45154,
+      "ctr": 0.004052797094388094,
+      "position": 8.902157062497231
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 162,
+      "impressions": 62031,
+      "ctr": 0.002611597427092905,
+      "position": 6.7751769276652
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 153,
+      "impressions": 41240,
+      "ctr": 0.0037099903006789525,
+      "position": 9.37766731328807
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 149,
+      "impressions": 42921,
+      "ctr": 0.0034714941403974743,
+      "position": 11.82346636844435
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 165,
+      "impressions": 44443,
+      "ctr": 0.0037126206601714555,
+      "position": 13.792498256193326
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 141,
+      "impressions": 37383,
+      "ctr": 0.0037717679158976005,
+      "position": 9.806248829681941
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 123,
+      "impressions": 32285,
+      "ctr": 0.0038098188013009136,
+      "position": 10.034629084714263
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 120,
+      "impressions": 35209,
+      "ctr": 0.0034082194893351133,
+      "position": 11.060865119713709
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 168,
+      "impressions": 38129,
+      "ctr": 0.004406095098219203,
+      "position": 8.880878071808858
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 182,
+      "impressions": 40223,
+      "ctr": 0.004524774382815802,
+      "position": 8.694925788727843
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 173,
+      "impressions": 51044,
+      "ctr": 0.0033892328187446123,
+      "position": 9.2170088551054
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 171,
+      "impressions": 38295,
+      "ctr": 0.004465334900117509,
+      "position": 9.81216869042956
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 151,
+      "impressions": 37332,
+      "ctr": 0.004044787313832637,
+      "position": 8.593324761598629
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 132,
+      "impressions": 35507,
+      "ctr": 0.0037175768158391304,
+      "position": 8.235700002816346
     }
   ],
   "topQueries": [
     {
       "query": "low water pressure in house",
-      "clicks": 319,
-      "impressions": 16569,
-      "ctr": 0.019252821534190355,
-      "position": 2.445229042187217
-    },
-    {
-      "query": "christian heating",
-      "clicks": 279,
-      "impressions": 1597,
-      "ctr": 0.17470256731371323,
-      "position": 2.3631809643080777
+      "clicks": 357,
+      "impressions": 16772,
+      "ctr": 0.021285475792988316,
+      "position": 2.2960290961125684
     },
     {
       "query": "christian hvac",
-      "clicks": 262,
-      "impressions": 1398,
-      "ctr": 0.18741058655221746,
-      "position": 1.5758226037195995
+      "clicks": 268,
+      "impressions": 1447,
+      "ctr": 0.1852107809260539,
+      "position": 1.731859018659295
+    },
+    {
+      "query": "christian heating",
+      "clicks": 265,
+      "impressions": 1639,
+      "ctr": 0.16168395363026236,
+      "position": 2.2489322757779133
     },
     {
       "query": "water pressure low in house",
-      "clicks": 101,
-      "impressions": 7234,
-      "ctr": 0.013961846834393143,
-      "position": 2.794581144594968
+      "clicks": 143,
+      "impressions": 8088,
+      "ctr": 0.01768051434223541,
+      "position": 2.238996043521266
     },
     {
       "query": "christian heating and cooling",
-      "clicks": 95,
-      "impressions": 752,
-      "ctr": 0.12632978723404256,
-      "position": 1.622340425531915
+      "clicks": 110,
+      "impressions": 886,
+      "ctr": 0.12415349887133183,
+      "position": 1.6512415349887133
     },
     {
-      "query": "christian home services",
-      "clicks": 68,
-      "impressions": 421,
-      "ctr": 0.16152019002375298,
-      "position": 4.225653206650831
-    },
-    {
-      "query": "christian plumbing and heating",
-      "clicks": 60,
-      "impressions": 332,
-      "ctr": 0.18072289156626506,
-      "position": 2.6987951807228914
-    },
-    {
-      "query": "aprilaire 8145 manual",
-      "clicks": 59,
-      "impressions": 407,
-      "ctr": 0.14496314496314497,
-      "position": 2.1203931203931203
-    },
-    {
-      "query": "christian plumbing",
-      "clicks": 59,
-      "impressions": 1074,
-      "ctr": 0.05493482309124767,
-      "position": 8.893854748603353
+      "query": "why is my water pressure low",
+      "clicks": 71,
+      "impressions": 5845,
+      "ctr": 0.012147134302822925,
+      "position": 2.70846877673225
     },
     {
       "query": "christian heating and air",
-      "clicks": 58,
-      "impressions": 461,
-      "ctr": 0.12581344902386118,
-      "position": 3.314533622559653
+      "clicks": 70,
+      "impressions": 468,
+      "ctr": 0.14957264957264957,
+      "position": 3.7222222222222223
+    },
+    {
+      "query": "aprilaire 8145 manual",
+      "clicks": 68,
+      "impressions": 415,
+      "ctr": 0.163855421686747,
+      "position": 2.0096385542168678
+    },
+    {
+      "query": "christian plumbing and heating",
+      "clicks": 64,
+      "impressions": 328,
+      "ctr": 0.1951219512195122,
+      "position": 2.5213414634146343
+    },
+    {
+      "query": "christian home services",
+      "clicks": 63,
+      "impressions": 431,
+      "ctr": 0.14617169373549885,
+      "position": 4.619489559164734
     },
     {
       "query": "christian heating, cooling, plumbing and electrical",
-      "clicks": 53,
-      "impressions": 1761,
-      "ctr": 0.030096536059057353,
-      "position": 1.0607609312890403
+      "clicks": 55,
+      "impressions": 1739,
+      "ctr": 0.03162737205290397,
+      "position": 1.0655549166187464
+    },
+    {
+      "query": "no water pressure in house",
+      "clicks": 50,
+      "impressions": 5744,
+      "ctr": 0.008704735376044569,
+      "position": 3.2042130919220058
+    },
+    {
+      "query": "ac capacitor",
+      "clicks": 49,
+      "impressions": 26123,
+      "ctr": 0.001875741683573862,
+      "position": 7.8453470122114615
+    },
+    {
+      "query": "christian plumbing",
+      "clicks": 46,
+      "impressions": 1159,
+      "ctr": 0.03968938740293356,
+      "position": 10.715271786022432
     },
     {
       "query": "christian heating cooling plumbing and electrical",
       "clicks": 45,
-      "impressions": 229,
-      "ctr": 0.1965065502183406,
-      "position": 2.6200873362445414
+      "impressions": 226,
+      "ctr": 0.19911504424778761,
+      "position": 2.606194690265487
     },
     {
       "query": "ray litwin",
-      "clicks": 43,
-      "impressions": 140,
-      "ctr": 0.30714285714285716,
-      "position": 1.7428571428571429
+      "clicks": 38,
+      "impressions": 131,
+      "ctr": 0.2900763358778626,
+      "position": 1.8167938931297711
     },
     {
-      "query": "why is my water pressure low",
-      "clicks": 42,
-      "impressions": 5614,
-      "ctr": 0.007481296758104738,
-      "position": 2.449768436052725
-    },
-    {
-      "query": "no water pressure in house",
-      "clicks": 39,
-      "impressions": 6060,
-      "ctr": 0.006435643564356435,
-      "position": 3.026897689768977
-    },
-    {
-      "query": "christian heating and plumbing",
-      "clicks": 34,
-      "impressions": 152,
-      "ctr": 0.2236842105263158,
-      "position": 4.065789473684211
-    },
-    {
-      "query": "ac capacitor",
-      "clicks": 32,
-      "impressions": 21202,
-      "ctr": 0.00150929157626639,
-      "position": 7.429817941703613
+      "query": "what causes low water pressure",
+      "clicks": 33,
+      "impressions": 2025,
+      "ctr": 0.016296296296296295,
+      "position": 3.66962962962963
     },
     {
       "query": "christian heating and air conditioning",
-      "clicks": 31,
-      "impressions": 204,
-      "ctr": 0.15196078431372548,
-      "position": 3.4019607843137254
+      "clicks": 32,
+      "impressions": 205,
+      "ctr": 0.15609756097560976,
+      "position": 3.8146341463414632
+    },
+    {
+      "query": "aprilaire 8145 installation manual",
+      "clicks": 30,
+      "impressions": 208,
+      "ctr": 0.14423076923076922,
+      "position": 2.8173076923076925
+    },
+    {
+      "query": "christian heating and plumbing",
+      "clicks": 30,
+      "impressions": 122,
+      "ctr": 0.2459016393442623,
+      "position": 4.827868852459016
     },
     {
       "query": "morevent",
       "clicks": 29,
-      "impressions": 231,
-      "ctr": 0.12554112554112554,
-      "position": 2.896103896103896
+      "impressions": 256,
+      "ctr": 0.11328125,
+      "position": 3.046875
     },
     {
       "query": "ac smells bad when first turned on",
-      "clicks": 23,
-      "impressions": 876,
-      "ctr": 0.026255707762557076,
-      "position": 2.0422374429223744
-    },
-    {
-      "query": "ac smells musty when first turned on",
-      "clicks": 23,
-      "impressions": 380,
-      "ctr": 0.060526315789473685,
-      "position": 1.9473684210526314
-    },
-    {
-      "query": "christian hvac west chester",
-      "clicks": 22,
-      "impressions": 128,
-      "ctr": 0.171875,
-      "position": 1.171875
+      "clicks": 26,
+      "impressions": 1030,
+      "ctr": 0.02524271844660194,
+      "position": 2.1893203883495147
     },
     {
       "query": "house water pressure",
-      "clicks": 22,
-      "impressions": 2632,
-      "ctr": 0.008358662613981762,
-      "position": 6.190349544072948
-    },
-    {
-      "query": "christian brothers hvac",
-      "clicks": 21,
-      "impressions": 143,
-      "ctr": 0.14685314685314685,
-      "position": 9.76923076923077
-    },
-    {
-      "query": "what causes low water pressure",
-      "clicks": 21,
-      "impressions": 1630,
-      "ctr": 0.012883435582822086,
-      "position": 4.546625766871166
-    },
-    {
-      "query": "aprilaire 8145 installation manual",
-      "clicks": 17,
-      "impressions": 188,
-      "ctr": 0.09042553191489362,
-      "position": 3.175531914893617
-    },
-    {
-      "query": "hvac near me",
-      "clicks": 17,
-      "impressions": 6154,
-      "ctr": 0.0027624309392265192,
-      "position": 9.753331166720832
+      "clicks": 23,
+      "impressions": 2776,
+      "ctr": 0.008285302593659942,
+      "position": 5.32528818443804
     },
     {
       "query": "what causes low water pressure in a house",
-      "clicks": 17,
-      "impressions": 3269,
-      "ctr": 0.005200367084735393,
-      "position": 4.938513306821658
+      "clicks": 23,
+      "impressions": 3786,
+      "ctr": 0.006075013206550449,
+      "position": 4.444532488114104
     },
     {
-      "query": "capacitor for ac",
+      "query": "christian hvac west chester",
+      "clicks": 21,
+      "impressions": 129,
+      "ctr": 0.16279069767441862,
+      "position": 1.1627906976744187
+    },
+    {
+      "query": "christian brothers hvac",
+      "clicks": 18,
+      "impressions": 125,
+      "ctr": 0.144,
+      "position": 7.208
+    },
+    {
+      "query": "hvac near me",
       "clicks": 16,
-      "impressions": 5428,
-      "ctr": 0.0029476787030213707,
-      "position": 4.19620486366986
-    },
-    {
-      "query": "how to fix low water pressure in house",
-      "clicks": 16,
-      "impressions": 2513,
-      "ctr": 0.006366892160764027,
-      "position": 2.4222045364106646
-    },
-    {
-      "query": "morevent heating cooling plumbing",
-      "clicks": 16,
-      "impressions": 97,
-      "ctr": 0.16494845360824742,
-      "position": 9.463917525773196
-    },
-    {
-      "query": "christian heating, cooling, plumbing & electrical",
-      "clicks": 13,
-      "impressions": 544,
-      "ctr": 0.02389705882352941,
-      "position": 1.1176470588235294
-    },
-    {
-      "query": "more vent",
-      "clicks": 12,
-      "impressions": 95,
-      "ctr": 0.12631578947368421,
-      "position": 2.2526315789473683
+      "impressions": 6349,
+      "ctr": 0.0025200819026618363,
+      "position": 9.995747361789258
     },
     {
       "query": "water pressure in house is low",
-      "clicks": 12,
-      "impressions": 1163,
-      "ctr": 0.010318142734307825,
-      "position": 2.7085124677558037
+      "clicks": 16,
+      "impressions": 1262,
+      "ctr": 0.012678288431061807,
+      "position": 2.351822503961965
     },
     {
-      "query": "aprilaire 8145 manual pdf download",
-      "clicks": 11,
-      "impressions": 57,
-      "ctr": 0.19298245614035087,
-      "position": 1.5789473684210527
+      "query": "capacitor for ac",
+      "clicks": 15,
+      "impressions": 6617,
+      "ctr": 0.002266888317968868,
+      "position": 4.752304669789935
+    },
+    {
+      "query": "ac smells musty when first turned on",
+      "clicks": 13,
+      "impressions": 333,
+      "ctr": 0.03903903903903904,
+      "position": 2.075075075075075
+    },
+    {
+      "query": "christian brothers heating",
+      "clicks": 13,
+      "impressions": 112,
+      "ctr": 0.11607142857142858,
+      "position": 5.785714285714286
+    },
+    {
+      "query": "ac capacitor symptoms",
+      "clicks": 12,
+      "impressions": 409,
+      "ctr": 0.029339853300733496,
+      "position": 2.3447432762836184
+    },
+    {
+      "query": "ac stinks when first turned on",
+      "clicks": 12,
+      "impressions": 277,
+      "ctr": 0.04332129963898917,
+      "position": 1.5631768953068592
+    },
+    {
+      "query": "christian brothers plumbing",
+      "clicks": 12,
+      "impressions": 432,
+      "ctr": 0.027777777777777776,
+      "position": 21.59027777777778
+    },
+    {
+      "query": "christian heating, cooling, plumbing & electrical",
+      "clicks": 12,
+      "impressions": 508,
+      "ctr": 0.023622047244094488,
+      "position": 1.1535433070866141
+    },
+    {
+      "query": "christian hvac reviews",
+      "clicks": 12,
+      "impressions": 201,
+      "ctr": 0.05970149253731343,
+      "position": 5
+    },
+    {
+      "query": "how to fix low water pressure",
+      "clicks": 12,
+      "impressions": 1165,
+      "ctr": 0.010300429184549357,
+      "position": 3.3819742489270386
+    },
+    {
+      "query": "how to fix low water pressure in house",
+      "clicks": 12,
+      "impressions": 2512,
+      "ctr": 0.004777070063694267,
+      "position": 2.796576433121019
+    },
+    {
+      "query": "hvac capacitor",
+      "clicks": 12,
+      "impressions": 3948,
+      "ctr": 0.00303951367781155,
+      "position": 7.121327254305978
+    },
+    {
+      "query": "morevent heating cooling plumbing",
+      "clicks": 12,
+      "impressions": 100,
+      "ctr": 0.12,
+      "position": 6.04
+    },
+    {
+      "query": "morvent",
+      "clicks": 12,
+      "impressions": 143,
+      "ctr": 0.08391608391608392,
+      "position": 2.916083916083916
     },
     {
       "query": "aprilaire model 8145 manual",
       "clicks": 11,
-      "impressions": 50,
-      "ctr": 0.22,
-      "position": 1.8199999999999998
-    },
-    {
-      "query": "christian brothers hvac pa",
-      "clicks": 11,
-      "impressions": 78,
-      "ctr": 0.14102564102564102,
-      "position": 1
+      "impressions": 56,
+      "ctr": 0.19642857142857142,
+      "position": 1.625
     },
     {
       "query": "christian electric",
       "clicks": 11,
-      "impressions": 272,
-      "ctr": 0.04044117647058824,
-      "position": 9.227941176470589
+      "impressions": 302,
+      "ctr": 0.03642384105960265,
+      "position": 9.804635761589404
     },
     {
-      "query": "christian heating & air conditioning",
-      "clicks": 11,
-      "impressions": 65,
-      "ctr": 0.16923076923076924,
-      "position": 5.907692307692308
-    },
-    {
-      "query": "how to fix low water pressure",
-      "clicks": 11,
-      "impressions": 887,
-      "ctr": 0.012401352874859075,
-      "position": 3.648252536640361
-    },
-    {
-      "query": "ac capacitor symptoms",
+      "query": "christian brothers hvac pa",
       "clicks": 10,
-      "impressions": 328,
-      "ctr": 0.03048780487804878,
-      "position": 2.1554878048780486
+      "impressions": 63,
+      "ctr": 0.15873015873015872,
+      "position": 1
     },
     {
-      "query": "ac smells when first turned on",
+      "query": "hvac for beginners",
       "clicks": 10,
-      "impressions": 121,
-      "ctr": 0.08264462809917356,
-      "position": 2.3801652892561984
+      "impressions": 622,
+      "ctr": 0.01607717041800643,
+      "position": 5.260450160771704
     },
     {
-      "query": "christian brothers plumbing",
+      "query": "low water pressure in home",
       "clicks": 10,
-      "impressions": 429,
-      "ctr": 0.023310023310023312,
-      "position": 20.56177156177156
+      "impressions": 1108,
+      "ctr": 0.009025270758122744,
+      "position": 4.194945848375451
     },
     {
-      "query": "christian heating reviews",
+      "query": "what causes low water pressure in the whole house",
       "clicks": 10,
-      "impressions": 292,
-      "ctr": 0.03424657534246575,
-      "position": 3.9726027397260273
+      "impressions": 1199,
+      "ctr": 0.008340283569641367,
+      "position": 3.8990825688073394
+    },
+    {
+      "query": "why ac smells bad when i turn it on",
+      "clicks": 10,
+      "impressions": 319,
+      "ctr": 0.03134796238244514,
+      "position": 1.8934169278996866
     },
     {
       "query": "why is water pressure low in house",
       "clicks": 10,
-      "impressions": 1133,
-      "ctr": 0.0088261253309797,
-      "position": 3.8976169461606354
+      "impressions": 1030,
+      "ctr": 0.009708737864077669,
+      "position": 3.358252427184466
     },
     {
-      "query": "ac stinks when first turned on",
+      "query": "a c capacitor symptoms",
       "clicks": 9,
-      "impressions": 163,
-      "ctr": 0.05521472392638037,
-      "position": 1.7300613496932515
+      "impressions": 303,
+      "ctr": 0.0297029702970297,
+      "position": 1.891089108910891
     },
     {
-      "query": "christian brothers heating",
+      "query": "ac compressor making noise",
       "clicks": 9,
-      "impressions": 139,
-      "ctr": 0.06474820143884892,
-      "position": 5.0647482014388485
+      "impressions": 474,
+      "ctr": 0.0189873417721519,
+      "position": 1.7531645569620253
+    },
+    {
+      "query": "air conditioner smells musty when first turned on",
+      "clicks": 9,
+      "impressions": 232,
+      "ctr": 0.03879310344827586,
+      "position": 2.521551724137931
+    },
+    {
+      "query": "christian heating & air conditioning",
+      "clicks": 9,
+      "impressions": 64,
+      "ctr": 0.140625,
+      "position": 5.875
     },
     {
       "query": "hvac companies in pennsylvania",
       "clicks": 9,
-      "impressions": 244,
-      "ctr": 0.036885245901639344,
-      "position": 1.9221311475409837
+      "impressions": 260,
+      "ctr": 0.03461538461538462,
+      "position": 2.088461538461538
+    },
+    {
+      "query": "more vent",
+      "clicks": 9,
+      "impressions": 90,
+      "ctr": 0.1,
+      "position": 2.2222222222222223
+    },
+    {
+      "query": "signs of a bad ac capacitor",
+      "clicks": 9,
+      "impressions": 274,
+      "ctr": 0.032846715328467155,
+      "position": 2.091240875912409
+    },
+    {
+      "query": "water pressure",
+      "clicks": 9,
+      "impressions": 8903,
+      "ctr": 0.001010895203863866,
+      "position": 9.255307199820285
+    },
+    {
+      "query": "water pressure is low in house",
+      "clicks": 9,
+      "impressions": 784,
+      "ctr": 0.011479591836734694,
+      "position": 2.607142857142857
+    },
+    {
+      "query": "ac smells when first turned on",
+      "clicks": 8,
+      "impressions": 125,
+      "ctr": 0.064,
+      "position": 1.768
+    },
+    {
+      "query": "bad smell when ac turns on",
+      "clicks": 8,
+      "impressions": 137,
+      "ctr": 0.058394160583941604,
+      "position": 2.437956204379562
+    },
+    {
+      "query": "christian electrician near me",
+      "clicks": 8,
+      "impressions": 92,
+      "ctr": 0.08695652173913043,
+      "position": 7.0978260869565215
+    },
+    {
+      "query": "how to calibrate thermostat",
+      "clicks": 8,
+      "impressions": 640,
+      "ctr": 0.0125,
+      "position": 1.6453125
     },
     {
       "query": "hvac companies near me",
-      "clicks": 9,
-      "impressions": 3279,
-      "ctr": 0.0027447392497712718,
-      "position": 10.502592253735894
+      "clicks": 8,
+      "impressions": 3467,
+      "ctr": 0.0023074704355350445,
+      "position": 10.518892414190944
     },
     {
-      "query": "hvac for beginners",
-      "clicks": 9,
-      "impressions": 647,
-      "ctr": 0.013910355486862442,
-      "position": 5.802163833075734
+      "query": "aprilaire 8145 manual pdf download",
+      "clicks": 7,
+      "impressions": 49,
+      "ctr": 0.14285714285714285,
+      "position": 1.346938775510204
+    },
+    {
+      "query": "bad capacitor symptoms",
+      "clicks": 7,
+      "impressions": 862,
+      "ctr": 0.008120649651972157,
+      "position": 2.3967517401392113
+    },
+    {
+      "query": "christian heating reviews",
+      "clicks": 7,
+      "impressions": 305,
+      "ctr": 0.022950819672131147,
+      "position": 5.160655737704918
+    },
+    {
+      "query": "hvac",
+      "clicks": 7,
+      "impressions": 4151,
+      "ctr": 0.0016863406408094434,
+      "position": 11.083112503011323
+    },
+    {
+      "query": "hvac west chester pa",
+      "clicks": 7,
+      "impressions": 790,
+      "ctr": 0.008860759493670886,
+      "position": 6.554430379746836
+    },
+    {
+      "query": "morevent heating and cooling",
+      "clicks": 7,
+      "impressions": 53,
+      "ctr": 0.1320754716981132,
+      "position": 6.452830188679245
+    },
+    {
+      "query": "my water pressure is low",
+      "clicks": 7,
+      "impressions": 800,
+      "ctr": 0.00875,
+      "position": 2.92625
+    },
+    {
+      "query": "what causes water pressure to drop",
+      "clicks": 7,
+      "impressions": 405,
+      "ctr": 0.01728395061728395,
+      "position": 4.879012345679012
+    },
+    {
+      "query": "who owns christian heating and air conditioning",
+      "clicks": 7,
+      "impressions": 79,
+      "ctr": 0.08860759493670886,
+      "position": 1.810126582278481
+    },
+    {
+      "query": "why is my water pressure low in my house",
+      "clicks": 7,
+      "impressions": 731,
+      "ctr": 0.009575923392612859,
+      "position": 4.634746922024624
+    },
+    {
+      "query": "why water pressure is low",
+      "clicks": 7,
+      "impressions": 454,
+      "ctr": 0.015418502202643172,
+      "position": 3.1343612334801763
+    },
+    {
+      "query": "air conditioner smells when first turned on",
+      "clicks": 6,
+      "impressions": 128,
+      "ctr": 0.046875,
+      "position": 2.0234375
+    },
+    {
+      "query": "bad ac capacitor symptoms",
+      "clicks": 6,
+      "impressions": 667,
+      "ctr": 0.008995502248875561,
+      "position": 2.8080959520239883
+    },
+    {
+      "query": "bad capacitor",
+      "clicks": 6,
+      "impressions": 1400,
+      "ctr": 0.004285714285714286,
+      "position": 5.585
+    },
+    {
+      "query": "capacitor",
+      "clicks": 6,
+      "impressions": 443,
+      "ctr": 0.013544018058690745,
+      "position": 2.5011286681715577
+    },
+    {
+      "query": "home ac smells when first turned on",
+      "clicks": 6,
+      "impressions": 52,
+      "ctr": 0.11538461538461539,
+      "position": 3.3846153846153846
+    },
+    {
+      "query": "how to calibrate a thermostat",
+      "clicks": 6,
+      "impressions": 608,
+      "ctr": 0.009868421052631578,
+      "position": 1.838815789473684
+    },
+    {
+      "query": "my ac smells bad when i turn it on",
+      "clicks": 6,
+      "impressions": 143,
+      "ctr": 0.04195804195804196,
+      "position": 2.244755244755245
+    },
+    {
+      "query": "no water pressure",
+      "clicks": 6,
+      "impressions": 1445,
+      "ctr": 0.004152249134948097,
+      "position": 4.563321799307959
+    },
+    {
+      "query": "turned on ac and it smells",
+      "clicks": 6,
+      "impressions": 107,
+      "ctr": 0.056074766355140186,
+      "position": 2.2990654205607477
+    },
+    {
+      "query": "water pressure issues in house",
+      "clicks": 6,
+      "impressions": 361,
+      "ctr": 0.01662049861495845,
+      "position": 2.152354570637119
+    },
+    {
+      "query": "ac capacitor failure symptoms",
+      "clicks": 5,
+      "impressions": 129,
+      "ctr": 0.03875968992248062,
+      "position": 2.2248062015503876
+    },
+    {
+      "query": "ac compressor loud",
+      "clicks": 5,
+      "impressions": 410,
+      "ctr": 0.012195121951219513,
+      "position": 2.84390243902439
+    },
+    {
+      "query": "ac compressor noise",
+      "clicks": 5,
+      "impressions": 951,
+      "ctr": 0.005257623554153523,
+      "position": 2.271293375394322
+    },
+    {
+      "query": "aprilaire 8145 settings",
+      "clicks": 5,
+      "impressions": 37,
+      "ctr": 0.13513513513513514,
+      "position": 1.7027027027027026
+    },
+    {
+      "query": "bad smell when turning on ac in house",
+      "clicks": 5,
+      "impressions": 76,
+      "ctr": 0.06578947368421052,
+      "position": 2.355263157894737
+    },
+    {
+      "query": "christian brothers heating and air",
+      "clicks": 5,
+      "impressions": 104,
+      "ctr": 0.04807692307692308,
+      "position": 12.625
+    },
+    {
+      "query": "do you use humidifier in winter or summer",
+      "clicks": 5,
+      "impressions": 601,
+      "ctr": 0.008319467554076539,
+      "position": 2.4442595673876872
+    },
+    {
+      "query": "faulty capacitor",
+      "clicks": 5,
+      "impressions": 760,
+      "ctr": 0.006578947368421052,
+      "position": 3.293421052631579
+    },
+    {
+      "query": "humidifier in winter",
+      "clicks": 5,
+      "impressions": 766,
+      "ctr": 0.006527415143603133,
+      "position": 4.228459530026109
+    },
+    {
+      "query": "loss of water pressure in house",
+      "clicks": 5,
+      "impressions": 742,
+      "ctr": 0.006738544474393531,
+      "position": 4.098382749326145
+    },
+    {
+      "query": "low pressure water in house",
+      "clicks": 5,
+      "impressions": 330,
+      "ctr": 0.015151515151515152,
+      "position": 3.0393939393939395
+    },
+    {
+      "query": "low water pressure throughout house",
+      "clicks": 5,
+      "impressions": 227,
+      "ctr": 0.022026431718061675,
+      "position": 4.2687224669603525
+    },
+    {
+      "query": "morevent hvac",
+      "clicks": 5,
+      "impressions": 20,
+      "ctr": 0.25,
+      "position": 1
+    },
+    {
+      "query": "should i run a humidifier in the winter",
+      "clicks": 5,
+      "impressions": 279,
+      "ctr": 0.017921146953405017,
+      "position": 4.774193548387097
+    },
+    {
+      "query": "symptoms of bad ac capacitor",
+      "clicks": 5,
+      "impressions": 135,
+      "ctr": 0.037037037037037035,
+      "position": 2.0814814814814815
+    },
+    {
+      "query": "thermostat reads higher than actual temperature",
+      "clicks": 5,
+      "impressions": 325,
+      "ctr": 0.015384615384615385,
+      "position": 5.024615384615385
+    },
+    {
+      "query": "thermostat replacement",
+      "clicks": 5,
+      "impressions": 7710,
+      "ctr": 0.0006485084306095979,
+      "position": 1.0260700389105057
+    },
+    {
+      "query": "what can cause low water pressure in a home",
+      "clicks": 5,
+      "impressions": 321,
+      "ctr": 0.01557632398753894,
+      "position": 4.8566978193146415
+    },
+    {
+      "query": "what causes low water pressure in house",
+      "clicks": 5,
+      "impressions": 278,
+      "ctr": 0.017985611510791366,
+      "position": 3.7805755395683454
+    },
+    {
+      "query": "a/c capacitor",
+      "clicks": 4,
+      "impressions": 1684,
+      "ctr": 0.0023752969121140144,
+      "position": 7.609263657957245
+    },
+    {
+      "query": "ac compressor making loud noise",
+      "clicks": 4,
+      "impressions": 575,
+      "ctr": 0.006956521739130435,
+      "position": 1.5634782608695652
+    },
+    {
+      "query": "ac fan outside not spinning",
+      "clicks": 4,
+      "impressions": 245,
+      "ctr": 0.0163265306122449,
+      "position": 4.763265306122449
+    },
+    {
+      "query": "ac not turning on",
+      "clicks": 4,
+      "impressions": 4502,
+      "ctr": 0.000888494002665482,
+      "position": 8.213238560639716
+    },
+    {
+      "query": "ac smells",
+      "clicks": 4,
+      "impressions": 693,
+      "ctr": 0.005772005772005772,
+      "position": 10.083694083694084
+    },
+    {
+      "query": "ac smells musty",
+      "clicks": 4,
+      "impressions": 1320,
+      "ctr": 0.0030303030303030303,
+      "position": 7.881818181818182
+    },
+    {
+      "query": "ac unit fan not spinning",
+      "clicks": 4,
+      "impressions": 1719,
+      "ctr": 0.002326934264107039,
+      "position": 8.165794066317627
+    },
+    {
+      "query": "air conditioner stinks when i turn it on",
+      "clicks": 4,
+      "impressions": 160,
+      "ctr": 0.025,
+      "position": 2.63125
+    },
+    {
+      "query": "aircon smells when first turned on",
+      "clicks": 4,
+      "impressions": 88,
+      "ctr": 0.045454545454545456,
+      "position": 2.4318181818181817
+    },
+    {
+      "query": "aprilaire 8145",
+      "clicks": 4,
+      "impressions": 1277,
+      "ctr": 0.0031323414252153485,
+      "position": 8.013312451057164
+    },
+    {
+      "query": "bad water pressure in house",
+      "clicks": 4,
+      "impressions": 479,
+      "ctr": 0.008350730688935281,
+      "position": 4.586638830897703
+    },
+    {
+      "query": "calibrate thermostat",
+      "clicks": 4,
+      "impressions": 484,
+      "ctr": 0.008264462809917356,
+      "position": 4.185950413223141
+    },
+    {
+      "query": "causes of low water pressure",
+      "clicks": 4,
+      "impressions": 532,
+      "ctr": 0.007518796992481203,
+      "position": 5.152255639097745
+    },
+    {
+      "query": "causes of low water pressure in house",
+      "clicks": 4,
+      "impressions": 633,
+      "ctr": 0.00631911532385466,
+      "position": 4.377567140600316
+    },
+    {
+      "query": "christian ac",
+      "clicks": 4,
+      "impressions": 30,
+      "ctr": 0.13333333333333333,
+      "position": 4.733333333333333
+    },
+    {
+      "query": "christian electrical",
+      "clicks": 4,
+      "impressions": 61,
+      "ctr": 0.06557377049180328,
+      "position": 6.180327868852459
+    },
+    {
+      "query": "christian hvac southampton pa",
+      "clicks": 4,
+      "impressions": 35,
+      "ctr": 0.11428571428571428,
+      "position": 1.0285714285714285
+    },
+    {
+      "query": "do plumbers work on gas lines",
+      "clicks": 4,
+      "impressions": 1182,
+      "ctr": 0.00338409475465313,
+      "position": 2.3722504230118444
+    },
+    {
+      "query": "furnace circuit breaker",
+      "clicks": 4,
+      "impressions": 448,
+      "ctr": 0.008928571428571428,
+      "position": 5.928571428571429
+    },
+    {
+      "query": "how do you calibrate a thermostat",
+      "clicks": 4,
+      "impressions": 166,
+      "ctr": 0.024096385542168676,
+      "position": 1.8072289156626506
+    },
+    {
+      "query": "humidifier during winter",
+      "clicks": 4,
+      "impressions": 342,
+      "ctr": 0.011695906432748537,
+      "position": 6.470760233918129
+    },
+    {
+      "query": "hvac collegeville pa",
+      "clicks": 4,
+      "impressions": 161,
+      "ctr": 0.024844720496894408,
+      "position": 4.819875776397516
+    },
+    {
+      "query": "hvac companies",
+      "clicks": 4,
+      "impressions": 2199,
+      "ctr": 0.0018190086402910413,
+      "position": 13.193269668030924
+    },
+    {
+      "query": "hvac in pennsylvania",
+      "clicks": 4,
+      "impressions": 140,
+      "ctr": 0.02857142857142857,
+      "position": 7.15
+    },
+    {
+      "query": "hvac plumbing",
+      "clicks": 4,
+      "impressions": 124,
+      "ctr": 0.03225806451612903,
+      "position": 37.645161290322584
+    },
+    {
+      "query": "losing water pressure in house",
+      "clicks": 4,
+      "impressions": 399,
+      "ctr": 0.010025062656641603,
+      "position": 3.3483709273182956
+    },
+    {
+      "query": "low house water pressure",
+      "clicks": 4,
+      "impressions": 112,
+      "ctr": 0.03571428571428571,
+      "position": 4.017857142857142
+    },
+    {
+      "query": "low water pressure causes",
+      "clicks": 4,
+      "impressions": 498,
+      "ctr": 0.008032128514056224,
+      "position": 4.847389558232932
+    },
+    {
+      "query": "marco giancroce",
+      "clicks": 4,
+      "impressions": 37,
+      "ctr": 0.10810810810810811,
+      "position": 7.324324324324325
+    },
+    {
+      "query": "plumbers near me",
+      "clicks": 4,
+      "impressions": 254,
+      "ctr": 0.015748031496062992,
+      "position": 25.031496062992126
+    },
+    {
+      "query": "poor water pressure in house",
+      "clicks": 4,
+      "impressions": 423,
+      "ctr": 0.009456264775413711,
+      "position": 4.791962174940899
+    },
+    {
+      "query": "ray litwin's heating & air conditioning",
+      "clicks": 4,
+      "impressions": 10,
+      "ctr": 0.4,
+      "position": 1.2
+    },
+    {
+      "query": "reasons for low water pressure",
+      "clicks": 4,
+      "impressions": 442,
+      "ctr": 0.00904977375565611,
+      "position": 4.843891402714933
+    },
+    {
+      "query": "reasons for low water pressure in house",
+      "clicks": 4,
+      "impressions": 416,
+      "ctr": 0.009615384615384616,
+      "position": 3.860576923076923
+    },
+    {
+      "query": "signs ac capacitor is bad",
+      "clicks": 4,
+      "impressions": 19,
+      "ctr": 0.21052631578947367,
+      "position": 2.8421052631578947
+    },
+    {
+      "query": "signs of bad ac capacitor",
+      "clicks": 4,
+      "impressions": 163,
+      "ctr": 0.024539877300613498,
+      "position": 2.042944785276074
+    },
+    {
+      "query": "water heater running out of hot water quickly",
+      "clicks": 4,
+      "impressions": 33,
+      "ctr": 0.12121212121212122,
+      "position": 1
+    },
+    {
+      "query": "water pressure decreased in house",
+      "clicks": 4,
+      "impressions": 124,
+      "ctr": 0.03225806451612903,
+      "position": 3
+    },
+    {
+      "query": "water pressure drop in house",
+      "clicks": 4,
+      "impressions": 308,
+      "ctr": 0.012987012987012988,
+      "position": 3.8279220779220777
+    },
+    {
+      "query": "water pressure in house low",
+      "clicks": 4,
+      "impressions": 169,
+      "ctr": 0.023668639053254437,
+      "position": 3.408284023668639
+    },
+    {
+      "query": "weird smell when ac turns on",
+      "clicks": 4,
+      "impressions": 86,
+      "ctr": 0.046511627906976744,
+      "position": 2.302325581395349
+    },
+    {
+      "query": "why do i have low water pressure",
+      "clicks": 4,
+      "impressions": 431,
+      "ctr": 0.009280742459396751,
+      "position": 3.7053364269141533
+    },
+    {
+      "query": "why does my ac have a weird smell",
+      "clicks": 4,
+      "impressions": 172,
+      "ctr": 0.023255813953488372,
+      "position": 3.552325581395349
+    },
+    {
+      "query": "why does my ac smell bad when i first turn it on",
+      "clicks": 4,
+      "impressions": 99,
+      "ctr": 0.04040404040404041,
+      "position": 2.383838383838384
+    },
+    {
+      "query": "why is the water pressure low in my house",
+      "clicks": 4,
+      "impressions": 1246,
+      "ctr": 0.0032102728731942215,
+      "position": 4.08346709470305
+    },
+    {
+      "query": "why is water pressure low",
+      "clicks": 4,
+      "impressions": 386,
+      "ctr": 0.010362694300518135,
+      "position": 4.165803108808291
+    },
+    {
+      "query": "why my ac smells bad when i turn it on",
+      "clicks": 4,
+      "impressions": 284,
+      "ctr": 0.014084507042253521,
+      "position": 1.9753521126760565
+    },
+    {
+      "query": "ac capacitor going bad symptoms",
+      "clicks": 3,
+      "impressions": 79,
+      "ctr": 0.0379746835443038,
+      "position": 2.5443037974683547
+    },
+    {
+      "query": "ac compressor is loud",
+      "clicks": 3,
+      "impressions": 385,
+      "ctr": 0.007792207792207792,
+      "position": 1.807792207792208
+    },
+    {
+      "query": "ac compressor making rattling noise",
+      "clicks": 3,
+      "impressions": 232,
+      "ctr": 0.01293103448275862,
+      "position": 3.2370689655172415
+    },
+    {
+      "query": "ac condenser capacitor",
+      "clicks": 3,
+      "impressions": 308,
+      "ctr": 0.00974025974025974,
+      "position": 6.113636363636363
+    },
+    {
+      "query": "ac smell when turned on",
+      "clicks": 3,
+      "impressions": 118,
+      "ctr": 0.025423728813559324,
+      "position": 1.9152542372881356
+    },
+    {
+      "query": "ac smells bad",
+      "clicks": 3,
+      "impressions": 903,
+      "ctr": 0.0033222591362126247,
+      "position": 5.6843853820598005
+    },
+    {
+      "query": "ac smells weird when first turned on",
+      "clicks": 3,
+      "impressions": 83,
+      "ctr": 0.03614457831325301,
+      "position": 2.433734939759036
+    },
+    {
+      "query": "air conditioner capacitor",
+      "clicks": 3,
+      "impressions": 2584,
+      "ctr": 0.0011609907120743034,
+      "position": 7.323529411764706
+    },
+    {
+      "query": "air conditioner compressor noise",
+      "clicks": 3,
+      "impressions": 224,
+      "ctr": 0.013392857142857142,
+      "position": 4.290178571428571
+    },
+    {
+      "query": "aircon smells bad when turned on",
+      "clicks": 3,
+      "impressions": 223,
+      "ctr": 0.013452914798206279,
+      "position": 2.304932735426009
+    },
+    {
+      "query": "causes of low water pressure in a house",
+      "clicks": 3,
+      "impressions": 211,
+      "ctr": 0.014218009478672985,
+      "position": 3.933649289099526
+    },
+    {
+      "query": "chester county hvac",
+      "clicks": 3,
+      "impressions": 90,
+      "ctr": 0.03333333333333333,
+      "position": 11.61111111111111
+    },
+    {
+      "query": "christian air",
+      "clicks": 3,
+      "impressions": 88,
+      "ctr": 0.03409090909090909,
+      "position": 3.397727272727273
+    },
+    {
+      "query": "christian air conditioning",
+      "clicks": 3,
+      "impressions": 131,
+      "ctr": 0.022900763358778626,
+      "position": 7.793893129770993
+    },
+    {
+      "query": "christian brothers",
+      "clicks": 3,
+      "impressions": 333,
+      "ctr": 0.009009009009009009,
+      "position": 1.12012012012012
+    },
+    {
+      "query": "christian hvac companies",
+      "clicks": 3,
+      "impressions": 52,
+      "ctr": 0.057692307692307696,
+      "position": 3.980769230769231
+    },
+    {
+      "query": "christian plumbing company near me",
+      "clicks": 3,
+      "impressions": 85,
+      "ctr": 0.03529411764705882,
+      "position": 13.423529411764706
+    },
+    {
+      "query": "christians plumbing and heating",
+      "clicks": 3,
+      "impressions": 28,
+      "ctr": 0.10714285714285714,
+      "position": 11
+    },
+    {
+      "query": "christianson plumbing and heating",
+      "clicks": 3,
+      "impressions": 26,
+      "ctr": 0.11538461538461539,
+      "position": 29.384615384615383
+    },
+    {
+      "query": "compressor making noise",
+      "clicks": 3,
+      "impressions": 186,
+      "ctr": 0.016129032258064516,
+      "position": 2.510752688172043
+    },
+    {
+      "query": "daikin dx20vc",
+      "clicks": 3,
+      "impressions": 121,
+      "ctr": 0.024793388429752067,
+      "position": 5.198347107438017
+    },
+    {
+      "query": "do you need a humidifier in the winter",
+      "clicks": 3,
+      "impressions": 405,
+      "ctr": 0.007407407407407408,
+      "position": 4.738271604938271
+    },
+    {
+      "query": "funny smell when ac turns on",
+      "clicks": 3,
+      "impressions": 45,
+      "ctr": 0.06666666666666667,
+      "position": 2.666666666666667
+    },
+    {
+      "query": "furnace breaker keeps tripping",
+      "clicks": 3,
+      "impressions": 520,
+      "ctr": 0.0057692307692307696,
+      "position": 7.901923076923077
+    },
+    {
+      "query": "heat pump capacitor symptoms",
+      "clicks": 3,
+      "impressions": 125,
+      "ctr": 0.024,
+      "position": 3.184
+    },
+    {
+      "query": "heater breaker keeps tripping",
+      "clicks": 3,
+      "impressions": 86,
+      "ctr": 0.03488372093023256,
+      "position": 8.197674418604652
+    },
+    {
+      "query": "heater making loud noise",
+      "clicks": 3,
+      "impressions": 420,
+      "ctr": 0.007142857142857143,
+      "position": 4.014285714285714
+    },
+    {
+      "query": "heater repair near me",
+      "clicks": 3,
+      "impressions": 6869,
+      "ctr": 0.00043674479545785413,
+      "position": 9.863298879021691
+    },
+    {
+      "query": "heating and air conditioning service near me",
+      "clicks": 3,
+      "impressions": 503,
+      "ctr": 0.005964214711729622,
+      "position": 13.214711729622266
+    },
+    {
+      "query": "home water pressure",
+      "clicks": 3,
+      "impressions": 285,
+      "ctr": 0.010526315789473684,
+      "position": 1.8736842105263158
+    },
+    {
+      "query": "house has low water pressure",
+      "clicks": 3,
+      "impressions": 328,
+      "ctr": 0.009146341463414634,
+      "position": 3
+    },
+    {
+      "query": "house water pressure low",
+      "clicks": 3,
+      "impressions": 2319,
+      "ctr": 0.00129366106080207,
+      "position": 4.715825786977145
+    },
+    {
+      "query": "how to fix water pressure in house",
+      "clicks": 3,
+      "impressions": 1136,
+      "ctr": 0.002640845070422535,
+      "position": 2.75
+    },
+    {
+      "query": "how to know if a capacitor is bad",
+      "clicks": 3,
+      "impressions": 209,
+      "ctr": 0.014354066985645933,
+      "position": 5.253588516746412
+    },
+    {
+      "query": "how to solve low water pressure in house",
+      "clicks": 3,
+      "impressions": 519,
+      "ctr": 0.005780346820809248,
+      "position": 2.3294797687861273
+    },
+    {
+      "query": "how to tell if ac capacitor is bad",
+      "clicks": 3,
+      "impressions": 467,
+      "ctr": 0.006423982869379015,
+      "position": 4.732334047109208
+    },
+    {
+      "query": "humidifiers in winter",
+      "clicks": 3,
+      "impressions": 48,
+      "ctr": 0.0625,
+      "position": 5.791666666666667
+    },
+    {
+      "query": "hvac bad capacitor symptoms",
+      "clicks": 3,
+      "impressions": 76,
+      "ctr": 0.039473684210526314,
+      "position": 3.013157894736842
+    },
+    {
+      "query": "hvac basics for beginners",
+      "clicks": 3,
+      "impressions": 289,
+      "ctr": 0.010380622837370242,
+      "position": 5.647058823529412
+    },
+    {
+      "query": "hvac company near me",
+      "clicks": 3,
+      "impressions": 3903,
+      "ctr": 0.0007686395080707148,
+      "position": 9.425570074301818
+    },
+    {
+      "query": "hvac repairs near me",
+      "clicks": 3,
+      "impressions": 143,
+      "ctr": 0.02097902097902098,
+      "position": 11.377622377622378
+    },
+    {
+      "query": "hvac service near me",
+      "clicks": 3,
+      "impressions": 1557,
+      "ctr": 0.0019267822736030828,
+      "position": 14.271034039820167
+    },
+    {
+      "query": "lost water pressure in house",
+      "clicks": 3,
+      "impressions": 549,
+      "ctr": 0.00546448087431694,
+      "position": 2.7941712204007283
+    },
+    {
+      "query": "loud ac compressor",
+      "clicks": 3,
+      "impressions": 490,
+      "ctr": 0.006122448979591836,
+      "position": 1.9061224489795918
+    },
+    {
+      "query": "low cold water pressure in house",
+      "clicks": 3,
+      "impressions": 146,
+      "ctr": 0.02054794520547945,
+      "position": 2.082191780821918
+    },
+    {
+      "query": "low water pressure",
+      "clicks": 3,
+      "impressions": 5591,
+      "ctr": 0.0005365766410302271,
+      "position": 8.837953854408871
+    },
+    {
+      "query": "low water pressure in house but not outside",
+      "clicks": 3,
+      "impressions": 380,
+      "ctr": 0.007894736842105263,
+      "position": 2.086842105263158
+    },
+    {
+      "query": "low water pressure in the house",
+      "clicks": 3,
+      "impressions": 210,
+      "ctr": 0.014285714285714285,
+      "position": 2.9714285714285715
+    },
+    {
+      "query": "low water pressure in whole house",
+      "clicks": 3,
+      "impressions": 175,
+      "ctr": 0.017142857142857144,
+      "position": 4.502857142857143
+    },
+    {
+      "query": "low water pressure whole house",
+      "clicks": 3,
+      "impressions": 180,
+      "ctr": 0.016666666666666666,
+      "position": 4.488888888888889
     }
   ],
   "topPages": [
     {
       "page": "https://www.christianhvac.com/blog/what-causes-low-water-pressure-in-the-house/",
-      "clicks": 1926,
-      "impressions": 389398,
-      "ctr": 0.004946096281953169,
-      "position": 5.125185542812239
+      "clicks": 2364,
+      "impressions": 423664,
+      "ctr": 0.005579893500509838,
+      "position": 4.976058857962914
     },
     {
       "page": "https://www.christianhvac.com/blog/what-are-the-symptoms-of-a-bad-ac-capacitor/",
-      "clicks": 1540,
-      "impressions": 326863,
-      "ctr": 0.004711454034259001,
-      "position": 4.677660059413271
+      "clicks": 1816,
+      "impressions": 363426,
+      "ctr": 0.004996890701270685,
+      "position": 4.752486063187554
     },
     {
       "page": "https://www.christianhvac.com/blog/why-your-air-conditioner-smells-bad-when-its-turned-on/",
-      "clicks": 1509,
-      "impressions": 198649,
-      "ctr": 0.007596313094956431,
-      "position": 5.8067948995464365
+      "clicks": 1651,
+      "impressions": 237618,
+      "ctr": 0.0069481268254088496,
+      "position": 5.435249013121902
     },
     {
       "page": "https://www.christianhvac.com/",
-      "clicks": 942,
-      "impressions": 279242,
-      "ctr": 0.0033734180388336997,
-      "position": 20.643384591143167
+      "clicks": 978,
+      "impressions": 290001,
+      "ctr": 0.0033724021641304684,
+      "position": 21.19953034644708
     },
     {
       "page": "https://www.christianhvac.com/southampton/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*66*christian-heating-air-southampton",
-      "clicks": 697,
-      "impressions": 44694,
-      "ctr": 0.015594934443101982,
-      "position": 4.162728777912024
+      "clicks": 684,
+      "impressions": 49698,
+      "ctr": 0.013763129300977906,
+      "position": 4.055998229305002
     },
     {
       "page": "https://www.christianhvac.com/blog/why-is-my-ac-compressor-making-a-loud-noise/",
-      "clicks": 411,
-      "impressions": 103715,
-      "ctr": 0.003962782625464012,
-      "position": 4.554673865882466
+      "clicks": 554,
+      "impressions": 122532,
+      "ctr": 0.004521267913687853,
+      "position": 4.187363301015245
     },
     {
       "page": "https://www.christianhvac.com/wp-content/uploads/products/aprilaire/aprilaire-8145-8145nc.pdf",
-      "clicks": 378,
-      "impressions": 12789,
-      "ctr": 0.029556650246305417,
-      "position": 5.38814606302291
+      "clicks": 436,
+      "impressions": 14246,
+      "ctr": 0.03060508212831672,
+      "position": 5.0251298610136175
     },
     {
       "page": "https://www.christianhvac.com/blog/why-is-my-heating-system-so-loud/",
-      "clicks": 342,
-      "impressions": 60599,
-      "ctr": 0.00564365748609713,
-      "position": 3.30228221587815
-    },
-    {
-      "page": "https://www.christianhvac.com/blog/why-is-my-furnace-tripping-the-circuit-breaker/",
-      "clicks": 279,
-      "impressions": 71873,
-      "ctr": 0.0038818471470510483,
-      "position": 5.419309059034687
-    },
-    {
-      "page": "https://www.christianhvac.com/blog/the-importance-of-a-humidifier-during-winter/",
-      "clicks": 270,
-      "impressions": 62067,
-      "ctr": 0.004350137754362222,
-      "position": 5.243720495593472
-    },
-    {
-      "page": "https://www.christianhvac.com/blog/why-is-my-outdoor-ac-fan-not-spinning/",
-      "clicks": 255,
-      "impressions": 92170,
-      "ctr": 0.0027666268851036127,
-      "position": 6.6650211565585336
-    },
-    {
-      "page": "https://www.christianhvac.com/west-chester/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*146*christian-heating-cooling-plumbing-electrical-west-chester",
-      "clicks": 254,
-      "impressions": 53582,
-      "ctr": 0.0047403978948154235,
-      "position": 3.1512821469896606
-    },
-    {
-      "page": "https://www.christianhvac.com/blog/5-reasons-why-dust-is-accumulating-in-your-home/",
-      "clicks": 229,
-      "impressions": 43038,
-      "ctr": 0.005320879223012222,
-      "position": 4.533435568567313
+      "clicks": 356,
+      "impressions": 59808,
+      "ctr": 0.005952380952380952,
+      "position": 3.397221107544141
     },
     {
       "page": "https://www.christianhvac.com/blog/how-to-calibrate-a-home-thermostat-step-by-step-guide/",
-      "clicks": 216,
-      "impressions": 33027,
-      "ctr": 0.006540103551639568,
-      "position": 3.5562721409755653
+      "clicks": 339,
+      "impressions": 42994,
+      "ctr": 0.007884821137833186,
+      "position": 3.371912359864167
     },
     {
-      "page": "https://www.christianhvac.com/blog/why-your-thermostat-might-be-lying-to-you/",
-      "clicks": 168,
-      "impressions": 36791,
-      "ctr": 0.004566334157810334,
-      "position": 8.69658340354978
+      "page": "https://www.christianhvac.com/blog/why-is-my-outdoor-ac-fan-not-spinning/",
+      "clicks": 287,
+      "impressions": 104474,
+      "ctr": 0.0027470949709975686,
+      "position": 6.138532074966021
     },
     {
-      "page": "https://www.christianhvac.com/welcome-morevent/",
-      "clicks": 168,
-      "impressions": 7079,
-      "ctr": 0.02373216556010736,
-      "position": 17.270659697697415
+      "page": "https://www.christianhvac.com/blog/why-is-my-furnace-tripping-the-circuit-breaker/",
+      "clicks": 266,
+      "impressions": 68139,
+      "ctr": 0.003903784910256975,
+      "position": 5.481559752858129
+    },
+    {
+      "page": "https://www.christianhvac.com/west-chester/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*146*christian-heating-cooling-plumbing-electrical-west-chester",
+      "clicks": 260,
+      "impressions": 64291,
+      "ctr": 0.004044111928574762,
+      "position": 2.8093201225677
+    },
+    {
+      "page": "https://www.christianhvac.com/blog/5-reasons-why-dust-is-accumulating-in-your-home/",
+      "clicks": 225,
+      "impressions": 43548,
+      "ctr": 0.005166712593000827,
+      "position": 4.756245981445761
     },
     {
       "page": "https://www.christianhvac.com/blog/how-much-does-it-cost-to-fix-a-thermostat/",
+      "clicks": 199,
+      "impressions": 89796,
+      "ctr": 0.002216134348968774,
+      "position": 3.58933582787652
+    },
+    {
+      "page": "https://www.christianhvac.com/blog/the-importance-of-a-humidifier-during-winter/",
+      "clicks": 194,
+      "impressions": 48397,
+      "ctr": 0.0040085129243548154,
+      "position": 5.3622951835857595
+    },
+    {
+      "page": "https://www.christianhvac.com/welcome-morevent/",
+      "clicks": 160,
+      "impressions": 6854,
+      "ctr": 0.023344032681645754,
+      "position": 15.381674934344908
+    },
+    {
+      "page": "https://www.christianhvac.com/blog/why-your-thermostat-might-be-lying-to-you/",
       "clicks": 158,
-      "impressions": 72566,
-      "ctr": 0.0021773282253396906,
-      "position": 3.5807816332717803
-    },
-    {
-      "page": "https://www.christianhvac.com/blog/do-plumbers-work-on-gas-lines/",
-      "clicks": 135,
-      "impressions": 67036,
-      "ctr": 0.002013843308073274,
-      "position": 2.756712811026911
-    },
-    {
-      "page": "https://www.christianhvac.com/welcome-ray-litwin/",
-      "clicks": 131,
-      "impressions": 12635,
-      "ctr": 0.01036802532647408,
-      "position": 21.094420261179263
-    },
-    {
-      "page": "https://www.christianhvac.com/contact/",
-      "clicks": 105,
-      "impressions": 24202,
-      "ctr": 0.0043384844227749774,
-      "position": 11.592182464259151
-    },
-    {
-      "page": "https://www.christianhvac.com/blog/what-is-the-average-lifespan-of-a-home-thermostat/",
-      "clicks": 97,
-      "impressions": 31764,
-      "ctr": 0.0030537715652940436,
-      "position": 4.085222264198464
+      "impressions": 38095,
+      "ctr": 0.004147525922037013,
+      "position": 8.582149888436803
     },
     {
       "page": "https://www.christianhvac.com/blog/why-is-my-home-air-conditioner-leaking-water-inside/",
-      "clicks": 94,
-      "impressions": 91450,
-      "ctr": 0.0010278840896664845,
-      "position": 9.345740841990159
+      "clicks": 140,
+      "impressions": 110278,
+      "ctr": 0.0012695188523549575,
+      "position": 7.701381961950706
     },
     {
-      "page": "https://www.christianhvac.com/blog/my-air-conditioner-is-not-turning-on/",
-      "clicks": 76,
-      "impressions": 58787,
-      "ctr": 0.0012928028305577764,
-      "position": 6.4776396142004184
+      "page": "https://www.christianhvac.com/blog/do-plumbers-work-on-gas-lines/",
+      "clicks": 132,
+      "impressions": 60754,
+      "ctr": 0.002172696447970504,
+      "position": 2.880337097145867
+    },
+    {
+      "page": "https://www.christianhvac.com/welcome-ray-litwin/",
+      "clicks": 122,
+      "impressions": 13381,
+      "ctr": 0.009117405276137807,
+      "position": 22.820715940512667
+    },
+    {
+      "page": "https://www.christianhvac.com/blog/what-is-the-average-lifespan-of-a-home-thermostat/",
+      "clicks": 120,
+      "impressions": 35887,
+      "ctr": 0.0033438292417867195,
+      "position": 3.737230752082927
     },
     {
       "page": "https://www.christianhvac.com/blog/where-is-the-calibration-screw-on-a-thermostat/",
-      "clicks": 75,
-      "impressions": 4171,
-      "ctr": 0.017981299448573483,
-      "position": 4.877247662431072
+      "clicks": 105,
+      "impressions": 5788,
+      "ctr": 0.018140981340704906,
+      "position": 4.099170697995854
     },
     {
-      "page": "https://www.christianhvac.com/pennsylvania/bucks-county/doylestown/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*418*christian-doylestown",
-      "clicks": 72,
-      "impressions": 36101,
-      "ctr": 0.0019944045871305503,
-      "position": 2.009279521342899
+      "page": "https://www.christianhvac.com/blog/my-air-conditioner-is-not-turning-on/",
+      "clicks": 100,
+      "impressions": 72372,
+      "ctr": 0.0013817498480075167,
+      "position": 5.683330569833637
+    },
+    {
+      "page": "https://www.christianhvac.com/contact/",
+      "clicks": 97,
+      "impressions": 15521,
+      "ctr": 0.006249597319760325,
+      "position": 12.719670124347658
     },
     {
       "page": "https://www.christianhvac.com/heating-cooling-service/",
-      "clicks": 67,
-      "impressions": 9560,
-      "ctr": 0.00700836820083682,
-      "position": 11.3586820083682
-    },
-    {
-      "page": "https://www.christianhvac.com/blog/what-are-the-different-types-of-hvac-filters/",
-      "clicks": 63,
-      "impressions": 23115,
-      "ctr": 0.0027255029201817002,
-      "position": 17.746355180618647
+      "clicks": 94,
+      "impressions": 7235,
+      "ctr": 0.012992398064961991,
+      "position": 11.484727021423636
     },
     {
       "page": "https://www.christianhvac.com/about-us/careers/",
-      "clicks": 62,
-      "impressions": 847,
-      "ctr": 0.07319952774498228,
-      "position": 9.77331759149941
+      "clicks": 72,
+      "impressions": 912,
+      "ctr": 0.07894736842105263,
+      "position": 9.87719298245614
     },
     {
       "page": "https://www.christianhvac.com/blog/how-to-know-if-your-air-conditioner-is-low-on-refrigerant/",
-      "clicks": 55,
-      "impressions": 25056,
-      "ctr": 0.0021950830140485315,
-      "position": 8.34881864623244
+      "clicks": 60,
+      "impressions": 32937,
+      "ctr": 0.0018216595318335004,
+      "position": 7.074900567750554
     },
     {
       "page": "https://www.christianhvac.com/west-chester/",
-      "clicks": 48,
-      "impressions": 41351,
-      "ctr": 0.001160794176682547,
-      "position": 18.07204178859036
+      "clicks": 59,
+      "impressions": 48265,
+      "ctr": 0.0012224179011706205,
+      "position": 16.05473945923547
+    },
+    {
+      "page": "https://www.christianhvac.com/blog/what-are-the-different-types-of-hvac-filters/",
+      "clicks": 57,
+      "impressions": 18974,
+      "ctr": 0.0030041108885843788,
+      "position": 18.01159481395594
+    },
+    {
+      "page": "https://www.christianhvac.com/pennsylvania/bucks-county/doylestown/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*418*christian-doylestown",
+      "clicks": 54,
+      "impressions": 27314,
+      "ctr": 0.0019770081277000807,
+      "position": 2.0314856849967047
     },
     {
       "page": "https://www.christianhvac.com/plumbing/gas-dryer-hookup/",
-      "clicks": 46,
-      "impressions": 16430,
-      "ctr": 0.002799756542909312,
-      "position": 12.579367011564212
-    },
-    {
-      "page": "https://www.christianhvac.com/blog/10-questions-to-ask-an-hvac-company-when-replacing-your-heating-system/",
-      "clicks": 44,
-      "impressions": 4373,
-      "ctr": 0.010061742510862108,
-      "position": 15.043677109535787
-    },
-    {
-      "page": "https://www.christianhvac.com/pennsylvania/chester-county/",
-      "clicks": 41,
-      "impressions": 71772,
-      "ctr": 0.0005712534135874714,
-      "position": 13.219695703059688
+      "clicks": 51,
+      "impressions": 15815,
+      "ctr": 0.0032247865950047424,
+      "position": 11.782295289282327
     },
     {
       "page": "https://www.christianhvac.com/blog/how-long-does-a-furnace-filter-last/",
-      "clicks": 39,
-      "impressions": 15083,
-      "ctr": 0.002585692501491746,
-      "position": 4.147782271431413
-    },
-    {
-      "page": "https://www.christianhvac.com/about-us/",
-      "clicks": 37,
-      "impressions": 15214,
-      "ctr": 0.0024319705534376233,
-      "position": 9.254831076639936
-    },
-    {
-      "page": "https://www.christianhvac.com/about-us/customer-reviews/",
-      "clicks": 37,
-      "impressions": 3461,
-      "ctr": 0.01069055186362323,
-      "position": 10.201386882403929
-    },
-    {
-      "page": "https://www.christianhvac.com/pennsylvania/bucks-county/doylestown/",
-      "clicks": 34,
-      "impressions": 75289,
-      "ctr": 0.00045159319422491997,
-      "position": 20.55231175868985
-    },
-    {
-      "page": "https://www.christianhvac.com/pennsylvania/bucks-county/",
-      "clicks": 33,
-      "impressions": 45932,
-      "ctr": 0.0007184533658451624,
-      "position": 28.40257336932857
-    },
-    {
-      "page": "https://www.christianhvac.com/blog/christians-acquisition-of-comfort-control-corporation/",
-      "clicks": 30,
-      "impressions": 2794,
-      "ctr": 0.010737294201861132,
-      "position": 7.749821045096636
-    },
-    {
-      "page": "https://www.christianhvac.com/blog/hvac-basics-for-beginners/",
-      "clicks": 26,
-      "impressions": 5757,
-      "ctr": 0.00451624109779399,
-      "position": 10.903769324300852
-    },
-    {
-      "page": "https://www.christianhvac.com/blog/what-are-the-benefits-of-a-dehumidifier/",
-      "clicks": 25,
-      "impressions": 45141,
-      "ctr": 0.0005538202520989787,
-      "position": 8.07224031368379
-    },
-    {
-      "page": "https://www.christianhvac.com/wayne/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*489*christian-wayne",
-      "clicks": 25,
-      "impressions": 28323,
-      "ctr": 0.0008826748578893478,
-      "position": 2.3392649083783494
-    },
-    {
-      "page": "https://www.christianhvac.com/wp-content/uploads/products/carrier/24SCA5.pdf",
-      "clicks": 25,
-      "impressions": 1270,
-      "ctr": 0.01968503937007874,
-      "position": 10.09291338582677
+      "clicks": 48,
+      "impressions": 16860,
+      "ctr": 0.0028469750889679717,
+      "position": 3.6265717674970346
     },
     {
       "page": "https://www.christianhvac.com/blog/what-is-the-ideal-temperature-setting-for-the-ac/",
-      "clicks": 24,
-      "impressions": 32620,
-      "ctr": 0.0007357449417535254,
-      "position": 15.925720416922134
+      "clicks": 46,
+      "impressions": 53627,
+      "ctr": 0.0008577768661308669,
+      "position": 11.128573293303747
     },
     {
-      "page": "https://www.christianhvac.com/villanova/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*391*christian-villanova",
-      "clicks": 24,
-      "impressions": 43630,
-      "ctr": 0.000550080220032088,
-      "position": 2.0090534036213614
+      "page": "https://www.christianhvac.com/blog/10-questions-to-ask-an-hvac-company-when-replacing-your-heating-system/",
+      "clicks": 43,
+      "impressions": 4600,
+      "ctr": 0.009347826086956522,
+      "position": 13.818478260869565
     },
     {
-      "page": "https://www.christianhvac.com/family-plan/",
-      "clicks": 23,
-      "impressions": 618,
-      "ctr": 0.0372168284789644,
-      "position": 9.699029126213592
+      "page": "https://www.christianhvac.com/about-us/customer-reviews/",
+      "clicks": 40,
+      "impressions": 3787,
+      "ctr": 0.010562450488513335,
+      "position": 10.054924742540269
     },
     {
-      "page": "https://www.christianhvac.com/blog/4-reasons-why-your-hvac-unit-is-overheating/",
-      "clicks": 21,
-      "impressions": 6555,
-      "ctr": 0.003203661327231121,
-      "position": 5.0376811594202895
+      "page": "https://www.christianhvac.com/pennsylvania/chester-county/",
+      "clicks": 38,
+      "impressions": 79398,
+      "ctr": 0.00047860147610771054,
+      "position": 13.949608302476133
     },
     {
-      "page": "https://www.christianhvac.com/blog/best-heating-cooling-option-for-a-finished-basement/",
-      "clicks": 21,
-      "impressions": 5257,
-      "ctr": 0.0039946737683089215,
-      "position": 17.388814913448734
+      "page": "https://www.christianhvac.com/about-us/",
+      "clicks": 32,
+      "impressions": 8228,
+      "ctr": 0.003889158969372873,
+      "position": 10.744287797763734
     },
     {
-      "page": "https://www.christianhvac.com/blog/how-often-should-you-have-a-plumbing-inspection/",
-      "clicks": 20,
-      "impressions": 25142,
-      "ctr": 0.0007954816641476414,
-      "position": 10.848460742979874
+      "page": "https://www.christianhvac.com/pennsylvania/bucks-county/",
+      "clicks": 32,
+      "impressions": 49234,
+      "ctr": 0.0006499573465491328,
+      "position": 27.45348742738758
     },
     {
       "page": "https://www.christianhvac.com/doylestown/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*418*christian-doylestown",
-      "clicks": 20,
-      "impressions": 17971,
-      "ctr": 0.001112904123309777,
-      "position": 1.7670691669912637
+      "clicks": 31,
+      "impressions": 35701,
+      "ctr": 0.0008683230161620123,
+      "position": 1.60340046497297
+    },
+    {
+      "page": "https://www.christianhvac.com/wp-content/uploads/products/carrier/24SCA5.pdf",
+      "clicks": 30,
+      "impressions": 1338,
+      "ctr": 0.02242152466367713,
+      "position": 8.325859491778775
+    },
+    {
+      "page": "https://www.christianhvac.com/wp-content/uploads/products/lennox/lennox-el16xp1-manual.pdf",
+      "clicks": 30,
+      "impressions": 1592,
+      "ctr": 0.018844221105527637,
+      "position": 6.298366834170854
+    },
+    {
+      "page": "https://www.christianhvac.com/blog/best-heating-cooling-option-for-a-finished-basement/",
+      "clicks": 28,
+      "impressions": 5355,
+      "ctr": 0.00522875816993464,
+      "position": 15.45172735760971
+    },
+    {
+      "page": "https://www.christianhvac.com/family-plan/",
+      "clicks": 27,
+      "impressions": 613,
+      "ctr": 0.04404567699836868,
+      "position": 9.453507340946166
+    },
+    {
+      "page": "https://www.christianhvac.com/pennsylvania/bucks-county/doylestown/",
+      "clicks": 27,
+      "impressions": 61520,
+      "ctr": 0.0004388816644993498,
+      "position": 20.083273732119636
+    },
+    {
+      "page": "https://www.christianhvac.com/wayne/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*489*christian-wayne",
+      "clicks": 27,
+      "impressions": 35331,
+      "ctr": 0.0007642014095270443,
+      "position": 2.1300557583991395
+    },
+    {
+      "page": "https://www.christianhvac.com/blog/christians-acquisition-of-comfort-control-corporation/",
+      "clicks": 26,
+      "impressions": 1525,
+      "ctr": 0.017049180327868854,
+      "position": 7.895737704918033
+    },
+    {
+      "page": "https://www.christianhvac.com/blog/hvac-basics-for-beginners/",
+      "clicks": 25,
+      "impressions": 6345,
+      "ctr": 0.003940110323089046,
+      "position": 9.853270291568164
+    },
+    {
+      "page": "https://www.christianhvac.com/pennsylvania/montgomery-county/",
+      "clicks": 24,
+      "impressions": 44675,
+      "ctr": 0.0005372132064913262,
+      "position": 29.160537213206492
+    },
+    {
+      "page": "https://www.christianhvac.com/blog/how-often-should-you-have-a-plumbing-inspection/",
+      "clicks": 22,
+      "impressions": 23457,
+      "ctr": 0.0009378863452274374,
+      "position": 12.720893549899817
+    },
+    {
+      "page": "https://www.christianhvac.com/blog/what-are-the-benefits-of-a-dehumidifier/",
+      "clicks": 21,
+      "impressions": 35748,
+      "ctr": 0.0005874454514937899,
+      "position": 8.735173995748013
     }
   ],
-  "fetchedAt": "2026-03-18T13:06:51.584Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "christian heating",
+      "clicks": 604,
+      "impressions": 2265,
+      "ctr": 0.26666666666666666,
+      "position": 1.2022075055187638
+    },
+    {
+      "query": "christian hvac",
+      "clicks": 406,
+      "impressions": 1415,
+      "ctr": 0.28692579505300353,
+      "position": 1.2628975265017668
+    },
+    {
+      "query": "christian home services",
+      "clicks": 191,
+      "impressions": 898,
+      "ctr": 0.21269487750556793,
+      "position": 3.415367483296214
+    },
+    {
+      "query": "christian heating and air",
+      "clicks": 125,
+      "impressions": 676,
+      "ctr": 0.1849112426035503,
+      "position": 2.113905325443787
+    },
+    {
+      "query": "christian heating and cooling",
+      "clicks": 84,
+      "impressions": 324,
+      "ctr": 0.25925925925925924,
+      "position": 1.5123456790123457
+    },
+    {
+      "query": "christian heating & air conditioning llc",
+      "clicks": 80,
+      "impressions": 419,
+      "ctr": 0.1909307875894988,
+      "position": 1.2577565632458234
+    },
+    {
+      "query": "christian plumbing and heating",
+      "clicks": 66,
+      "impressions": 295,
+      "ctr": 0.22372881355932203,
+      "position": 1.311864406779661
+    },
+    {
+      "query": "christian plumbing",
+      "clicks": 53,
+      "impressions": 829,
+      "ctr": 0.06393244873341375,
+      "position": 6.83956574185766
+    },
+    {
+      "query": "air conditioner smells musty when first turned on",
+      "clicks": 50,
+      "impressions": 559,
+      "ctr": 0.08944543828264759,
+      "position": 2.8926654740608226
+    },
+    {
+      "query": "dehumidifier",
+      "clicks": 50,
+      "impressions": 9911,
+      "ctr": 0.0050448996064978305,
+      "position": 28.11643628291797
+    },
+    {
+      "query": "inverter ac unit",
+      "clicks": 48,
+      "impressions": 1761,
+      "ctr": 0.027257240204429302,
+      "position": 3.826802952867689
+    },
+    {
+      "query": "humidifier in winter",
+      "clicks": 42,
+      "impressions": 1776,
+      "ctr": 0.02364864864864865,
+      "position": 3.9600225225225225
+    },
+    {
+      "query": "types of hvac filters",
+      "clicks": 42,
+      "impressions": 253,
+      "ctr": 0.16600790513833993,
+      "position": 3.205533596837945
+    },
+    {
+      "query": "ac capacitor",
+      "clicks": 35,
+      "impressions": 17124,
+      "ctr": 0.0020439149731371173,
+      "position": 14.584968465311842
+    },
+    {
+      "query": "christian heating cooling and plumbing",
+      "clicks": 35,
+      "impressions": 58,
+      "ctr": 0.603448275862069,
+      "position": 1.103448275862069
+    },
+    {
+      "query": "southampton heating",
+      "clicks": 34,
+      "impressions": 287,
+      "ctr": 0.11846689895470383,
+      "position": 1.1777003484320558
+    },
+    {
+      "query": "ac smells bad when first turned on",
+      "clicks": 33,
+      "impressions": 527,
+      "ctr": 0.06261859582542695,
+      "position": 2.9487666034155597
+    },
+    {
+      "query": "christian heating and air conditioning",
+      "clicks": 32,
+      "impressions": 165,
+      "ctr": 0.19393939393939394,
+      "position": 1.4242424242424243
+    },
+    {
+      "query": "plumber southampton",
+      "clicks": 31,
+      "impressions": 891,
+      "ctr": 0.03479236812570146,
+      "position": 25.143658810325476
+    },
+    {
+      "query": "christian heating & air conditioning",
+      "clicks": 30,
+      "impressions": 73,
+      "ctr": 0.410958904109589,
+      "position": 1.191780821917808
+    },
+    {
+      "query": "christian heating, cooling & plumbing",
+      "clicks": 30,
+      "impressions": 70,
+      "ctr": 0.42857142857142855,
+      "position": 1.0142857142857142
+    },
+    {
+      "query": "southampton plumbing",
+      "clicks": 29,
+      "impressions": 281,
+      "ctr": 0.10320284697508897,
+      "position": 42.19217081850534
+    },
+    {
+      "query": "should i use a humidifier in the winter",
+      "clicks": 27,
+      "impressions": 964,
+      "ctr": 0.028008298755186723,
+      "position": 2.641078838174274
+    },
+    {
+      "query": "hvac for beginners",
+      "clicks": 26,
+      "impressions": 650,
+      "ctr": 0.04,
+      "position": 3.546153846153846
+    },
+    {
+      "query": "southampton plumbing company",
+      "clicks": 26,
+      "impressions": 352,
+      "ctr": 0.07386363636363637,
+      "position": 34.49715909090909
+    },
+    {
+      "query": "christian brothers hvac",
+      "clicks": 25,
+      "impressions": 103,
+      "ctr": 0.24271844660194175,
+      "position": 5
+    },
+    {
+      "query": "christian heating reviews",
+      "clicks": 25,
+      "impressions": 448,
+      "ctr": 0.05580357142857143,
+      "position": 2.736607142857143
+    },
+    {
+      "query": "dehumidifier purpose",
+      "clicks": 25,
+      "impressions": 9174,
+      "ctr": 0.0027250926531502072,
+      "position": 5.9905166775670375
+    },
+    {
+      "query": "southampton plumber",
+      "clicks": 25,
+      "impressions": 333,
+      "ctr": 0.07507507507507508,
+      "position": 25.35135135135135
+    },
+    {
+      "query": "water heater repair southampton",
+      "clicks": 25,
+      "impressions": 510,
+      "ctr": 0.049019607843137254,
+      "position": 15.27843137254902
+    },
+    {
+      "query": "southampton plumbing repair",
+      "clicks": 23,
+      "impressions": 271,
+      "ctr": 0.08487084870848709,
+      "position": 26.634686346863468
+    },
+    {
+      "query": "christian heating cooling plumbing",
+      "clicks": 22,
+      "impressions": 65,
+      "ctr": 0.3384615384615385,
+      "position": 1
+    },
+    {
+      "query": "southampton boiler repair",
+      "clicks": 22,
+      "impressions": 253,
+      "ctr": 0.08695652173913043,
+      "position": 9.003952569169961
+    },
+    {
+      "query": "southampton heating repair",
+      "clicks": 22,
+      "impressions": 291,
+      "ctr": 0.07560137457044673,
+      "position": 4.70446735395189
+    },
+    {
+      "query": "christian heating and air conditioning reviews",
+      "clicks": 21,
+      "impressions": 82,
+      "ctr": 0.25609756097560976,
+      "position": 1.7804878048780488
+    },
+    {
+      "query": "emergency plumber service in southampton",
+      "clicks": 21,
+      "impressions": 266,
+      "ctr": 0.07894736842105263,
+      "position": 51.44736842105263
+    },
+    {
+      "query": "humidifier winter",
+      "clicks": 21,
+      "impressions": 361,
+      "ctr": 0.05817174515235457,
+      "position": 4.124653739612189
+    },
+    {
+      "query": "christian brothers heating",
+      "clicks": 20,
+      "impressions": 66,
+      "ctr": 0.30303030303030304,
+      "position": 1.393939393939394
+    },
+    {
+      "query": "christian heating and plumbing",
+      "clicks": 20,
+      "impressions": 90,
+      "ctr": 0.2222222222222222,
+      "position": 1.7666666666666666
+    },
+    {
+      "query": "emergency boiler repair southampton",
+      "clicks": 20,
+      "impressions": 253,
+      "ctr": 0.07905138339920949,
+      "position": 12.438735177865613
+    },
+    {
+      "query": "morevent",
+      "clicks": 20,
+      "impressions": 788,
+      "ctr": 0.025380710659898477,
+      "position": 5.477157360406092
+    },
+    {
+      "query": "ray litwins",
+      "clicks": 20,
+      "impressions": 169,
+      "ctr": 0.11834319526627218,
+      "position": 5.828402366863905
+    },
+    {
+      "query": "southampton heat pump installation",
+      "clicks": 20,
+      "impressions": 242,
+      "ctr": 0.08264462809917356,
+      "position": 31.107438016528924
+    },
+    {
+      "query": "humidifier during winter",
+      "clicks": 19,
+      "impressions": 668,
+      "ctr": 0.02844311377245509,
+      "position": 2.934131736526946
+    },
+    {
+      "query": "hvac filters",
+      "clicks": 19,
+      "impressions": 5362,
+      "ctr": 0.0035434539350988436,
+      "position": 29.378590078328983
+    },
+    {
+      "query": "plumber in southampton area",
+      "clicks": 19,
+      "impressions": 228,
+      "ctr": 0.08333333333333333,
+      "position": 68.20175438596492
+    },
+    {
+      "query": "should you use a humidifier in the winter",
+      "clicks": 19,
+      "impressions": 711,
+      "ctr": 0.026722925457102673,
+      "position": 2.7215189873417724
+    },
+    {
+      "query": "southampton boiler replacement",
+      "clicks": 19,
+      "impressions": 231,
+      "ctr": 0.08225108225108226,
+      "position": 15.108225108225108
+    },
+    {
+      "query": "why does my ac stink when i turn it on",
+      "clicks": 19,
+      "impressions": 333,
+      "ctr": 0.057057057057057055,
+      "position": 1.93993993993994
+    },
+    {
+      "query": "christian heating photos",
+      "clicks": 18,
+      "impressions": 213,
+      "ctr": 0.08450704225352113,
+      "position": 1.943661971830986
+    },
+    {
+      "query": "bad smell when ac turns on",
+      "clicks": 17,
+      "impressions": 189,
+      "ctr": 0.08994708994708994,
+      "position": 1.9682539682539684
+    },
+    {
+      "query": "hvac filter types",
+      "clicks": 17,
+      "impressions": 522,
+      "ctr": 0.032567049808429116,
+      "position": 4.873563218390805
+    },
+    {
+      "query": "southampton residential plumbing",
+      "clicks": 17,
+      "impressions": 116,
+      "ctr": 0.14655172413793102,
+      "position": 43.86206896551724
+    },
+    {
+      "query": "ac smells musty when first turned on",
+      "clicks": 16,
+      "impressions": 163,
+      "ctr": 0.09815950920245399,
+      "position": 2.2208588957055215
+    },
+    {
+      "query": "heat pump maintenance services southampton",
+      "clicks": 16,
+      "impressions": 192,
+      "ctr": 0.08333333333333333,
+      "position": 50.8125
+    },
+    {
+      "query": "inverter air conditioner",
+      "clicks": 16,
+      "impressions": 7525,
+      "ctr": 0.00212624584717608,
+      "position": 24.008504983388704
+    },
+    {
+      "query": "what is a dehumidifier used for",
+      "clicks": 16,
+      "impressions": 4161,
+      "ctr": 0.0038452295121365054,
+      "position": 5.22422494592646
+    },
+    {
+      "query": "ac tune up southampton pa",
+      "clicks": 15,
+      "impressions": 79,
+      "ctr": 0.189873417721519,
+      "position": 1.3670886075949367
+    },
+    {
+      "query": "do you need a humidifier in the winter",
+      "clicks": 15,
+      "impressions": 593,
+      "ctr": 0.025295109612141653,
+      "position": 2.4435075885328836
+    },
+    {
+      "query": "plumbing & hvac service southampton",
+      "clicks": 15,
+      "impressions": 123,
+      "ctr": 0.12195121951219512,
+      "position": 3.048780487804878
+    },
+    {
+      "query": "smell when ac turns on",
+      "clicks": 15,
+      "impressions": 188,
+      "ctr": 0.0797872340425532,
+      "position": 2.617021276595745
+    },
+    {
+      "query": "ac repair southampton",
+      "clicks": 14,
+      "impressions": 1027,
+      "ctr": 0.013631937682570594,
+      "position": 25.80817916260954
+    },
+    {
+      "query": "drain cleaning southampton",
+      "clicks": 14,
+      "impressions": 337,
+      "ctr": 0.04154302670623145,
+      "position": 34.13353115727003
+    },
+    {
+      "query": "heater repair southampton",
+      "clicks": 14,
+      "impressions": 518,
+      "ctr": 0.02702702702702703,
+      "position": 13.50965250965251
+    },
+    {
+      "query": "hvac filter",
+      "clicks": 14,
+      "impressions": 3232,
+      "ctr": 0.004331683168316832,
+      "position": 24.375
+    },
+    {
+      "query": "plumbers southampton",
+      "clicks": 14,
+      "impressions": 145,
+      "ctr": 0.09655172413793103,
+      "position": 32.19310344827586
+    },
+    {
+      "query": "southampton emergency plumber",
+      "clicks": 14,
+      "impressions": 200,
+      "ctr": 0.07,
+      "position": 78.535
+    },
+    {
+      "query": "southampton hot water systems",
+      "clicks": 14,
+      "impressions": 240,
+      "ctr": 0.058333333333333334,
+      "position": 29.333333333333332
+    },
+    {
+      "query": "southampton plumbers",
+      "clicks": 14,
+      "impressions": 248,
+      "ctr": 0.056451612903225805,
+      "position": 26.983870967741936
+    },
+    {
+      "query": "who owns christian heating and air conditioning",
+      "clicks": 14,
+      "impressions": 54,
+      "ctr": 0.25925925925925924,
+      "position": 1.574074074074074
+    },
+    {
+      "query": "christian hvac reviews",
+      "clicks": 13,
+      "impressions": 115,
+      "ctr": 0.11304347826086956,
+      "position": 1.4086956521739131
+    },
+    {
+      "query": "commercial plumbing services in southampton",
+      "clicks": 13,
+      "impressions": 221,
+      "ctr": 0.058823529411764705,
+      "position": 27.84162895927602
+    },
+    {
+      "query": "electric heaters southampton",
+      "clicks": 13,
+      "impressions": 68,
+      "ctr": 0.19117647058823528,
+      "position": 1.6617647058823528
+    },
+    {
+      "query": "humidifier for winter",
+      "clicks": 13,
+      "impressions": 791,
+      "ctr": 0.01643489254108723,
+      "position": 7.142857142857143
+    },
+    {
+      "query": "plumber southampton pa",
+      "clicks": 13,
+      "impressions": 106,
+      "ctr": 0.12264150943396226,
+      "position": 9.10377358490566
+    },
+    {
+      "query": "plumbing southampton",
+      "clicks": 13,
+      "impressions": 65,
+      "ctr": 0.2,
+      "position": 30.092307692307692
+    },
+    {
+      "query": "should i run a humidifier in the winter",
+      "clicks": 13,
+      "impressions": 279,
+      "ctr": 0.04659498207885305,
+      "position": 2.2222222222222223
+    },
+    {
+      "query": "southampton local plumber",
+      "clicks": 13,
+      "impressions": 139,
+      "ctr": 0.09352517985611511,
+      "position": 69.64748201438849
+    },
+    {
+      "query": "weird smell when ac turns on",
+      "clicks": 13,
+      "impressions": 232,
+      "ctr": 0.05603448275862069,
+      "position": 3.1810344827586206
+    },
+    {
+      "query": "what does a dehumidifier do",
+      "clicks": 13,
+      "impressions": 3973,
+      "ctr": 0.0032720865844450037,
+      "position": 17.793355147243897
+    },
+    {
+      "query": "why does my ac smell when i turn it on",
+      "clicks": 13,
+      "impressions": 171,
+      "ctr": 0.07602339181286549,
+      "position": 2.321637426900585
+    },
+    {
+      "query": "ac smells when first turned on",
+      "clicks": 12,
+      "impressions": 233,
+      "ctr": 0.05150214592274678,
+      "position": 2.476394849785408
+    },
+    {
+      "query": "ac stinks when first turned on",
+      "clicks": 12,
+      "impressions": 210,
+      "ctr": 0.05714285714285714,
+      "position": 2.1714285714285717
+    },
+    {
+      "query": "bad smell when turning on ac in house",
+      "clicks": 12,
+      "impressions": 128,
+      "ctr": 0.09375,
+      "position": 3.6015625
+    },
+    {
+      "query": "boiler repair southampton",
+      "clicks": 12,
+      "impressions": 181,
+      "ctr": 0.06629834254143646,
+      "position": 15.243093922651934
+    },
+    {
+      "query": "christian air",
+      "clicks": 12,
+      "impressions": 139,
+      "ctr": 0.08633093525179857,
+      "position": 4.525179856115107
+    },
+    {
+      "query": "christian heating and ac",
+      "clicks": 12,
+      "impressions": 48,
+      "ctr": 0.25,
+      "position": 1.1875
+    },
+    {
+      "query": "humidifier",
+      "clicks": 12,
+      "impressions": 1104,
+      "ctr": 0.010869565217391304,
+      "position": 2.5516304347826084
+    },
+    {
+      "query": "should you run a humidifier in the winter",
+      "clicks": 12,
+      "impressions": 309,
+      "ctr": 0.038834951456310676,
+      "position": 2.168284789644013
+    },
+    {
+      "query": "air conditioner stinks when i turn it on",
+      "clicks": 11,
+      "impressions": 142,
+      "ctr": 0.07746478873239436,
+      "position": 3.0140845070422535
+    },
+    {
+      "query": "boiler replacement southampton",
+      "clicks": 11,
+      "impressions": 59,
+      "ctr": 0.1864406779661017,
+      "position": 6.677966101694915
+    },
+    {
+      "query": "christian air conditioning",
+      "clicks": 11,
+      "impressions": 154,
+      "ctr": 0.07142857142857142,
+      "position": 5.012987012987013
+    },
+    {
+      "query": "inverter ac system",
+      "clicks": 11,
+      "impressions": 205,
+      "ctr": 0.05365853658536585,
+      "position": 3.204878048780488
+    },
+    {
+      "query": "local plumber in southampton",
+      "clicks": 11,
+      "impressions": 140,
+      "ctr": 0.07857142857142857,
+      "position": 83.47857142857143
+    },
+    {
+      "query": "turned on ac and it smells",
+      "clicks": 11,
+      "impressions": 117,
+      "ctr": 0.09401709401709402,
+      "position": 2.5128205128205128
+    },
+    {
+      "query": "using a humidifier in winter",
+      "clicks": 11,
+      "impressions": 239,
+      "ctr": 0.04602510460251046,
+      "position": 3.8451882845188283
+    },
+    {
+      "query": "when to use a humidifier winter or summer",
+      "clicks": 11,
+      "impressions": 247,
+      "ctr": 0.044534412955465584,
+      "position": 2.465587044534413
+    },
+    {
+      "query": "air conditioner smells bad when turned on",
+      "clicks": 10,
+      "impressions": 505,
+      "ctr": 0.019801980198019802,
+      "position": 4.778217821782178
+    },
+    {
+      "query": "do i need a humidifier in winter",
+      "clicks": 10,
+      "impressions": 300,
+      "ctr": 0.03333333333333333,
+      "position": 1.8966666666666665
+    },
+    {
+      "query": "furnace maintenance services southampton",
+      "clicks": 10,
+      "impressions": 196,
+      "ctr": 0.05102040816326531,
+      "position": 5.107142857142857
+    },
+    {
+      "query": "heat pump southampton",
+      "clicks": 10,
+      "impressions": 74,
+      "ctr": 0.13513513513513514,
+      "position": 6.675675675675675
+    },
+    {
+      "query": "ray litwin",
+      "clicks": 10,
+      "impressions": 94,
+      "ctr": 0.10638297872340426,
+      "position": 4.542553191489361
+    },
+    {
+      "query": "southampton hvac",
+      "clicks": 10,
+      "impressions": 62,
+      "ctr": 0.16129032258064516,
+      "position": 8.403225806451612
+    },
+    {
+      "query": "types of hvac air filters",
+      "clicks": 10,
+      "impressions": 62,
+      "ctr": 0.16129032258064516,
+      "position": 2.6129032258064515
+    },
+    {
+      "query": "air conditioner smells when first turned on",
+      "clicks": 9,
+      "impressions": 90,
+      "ctr": 0.1,
+      "position": 2.2111111111111112
+    },
+    {
+      "query": "air conditioning repair southampton",
+      "clicks": 9,
+      "impressions": 212,
+      "ctr": 0.04245283018867924,
+      "position": 24.735849056603772
+    },
+    {
+      "query": "air conditioning southampton",
+      "clicks": 9,
+      "impressions": 187,
+      "ctr": 0.0481283422459893,
+      "position": 1.1283422459893049
+    },
+    {
+      "query": "boiler installers southampton",
+      "clicks": 9,
+      "impressions": 89,
+      "ctr": 0.10112359550561797,
+      "position": 3.5730337078651684
+    },
+    {
+      "query": "christian brothers heating and air",
+      "clicks": 9,
+      "impressions": 69,
+      "ctr": 0.13043478260869565,
+      "position": 9.797101449275363
+    },
+    {
+      "query": "christian hvac company",
+      "clicks": 9,
+      "impressions": 74,
+      "ctr": 0.12162162162162163,
+      "position": 2.1756756756756754
+    },
+    {
+      "query": "emergency plumbers southampton",
+      "clicks": 9,
+      "impressions": 36,
+      "ctr": 0.25,
+      "position": 27.305555555555557
+    },
+    {
+      "query": "hvac basics for beginners",
+      "clicks": 9,
+      "impressions": 199,
+      "ctr": 0.04522613065326633,
+      "position": 3.5326633165829144
+    },
+    {
+      "query": "hvac information for beginners",
+      "clicks": 9,
+      "impressions": 93,
+      "ctr": 0.0967741935483871,
+      "position": 2.139784946236559
+    },
+    {
+      "query": "hvac installation southampton",
+      "clicks": 9,
+      "impressions": 71,
+      "ctr": 0.1267605633802817,
+      "position": 38.394366197183096
+    },
+    {
+      "query": "hvac southampton",
+      "clicks": 9,
+      "impressions": 97,
+      "ctr": 0.09278350515463918,
+      "position": 15.845360824742269
+    },
+    {
+      "query": "plumbing company southampton",
+      "clicks": 9,
+      "impressions": 96,
+      "ctr": 0.09375,
+      "position": 17.104166666666668
+    },
+    {
+      "query": "recommended plumbers southampton",
+      "clicks": 9,
+      "impressions": 53,
+      "ctr": 0.16981132075471697,
+      "position": 52.924528301886795
+    },
+    {
+      "query": "southampton ac repair",
+      "clicks": 9,
+      "impressions": 288,
+      "ctr": 0.03125,
+      "position": 7.9375
+    },
+    {
+      "query": "carrier 24sca5 price",
+      "clicks": 8,
+      "impressions": 86,
+      "ctr": 0.09302325581395349,
+      "position": 8.441860465116278
+    },
+    {
+      "query": "christian plumbing company near me",
+      "clicks": 8,
+      "impressions": 126,
+      "ctr": 0.06349206349206349,
+      "position": 5.817460317460317
+    },
+    {
+      "query": "do you use humidifier in winter or summer",
+      "clicks": 8,
+      "impressions": 942,
+      "ctr": 0.008492569002123142,
+      "position": 4.126326963906582
+    },
+    {
+      "query": "heating maintenance services southampton",
+      "clicks": 8,
+      "impressions": 171,
+      "ctr": 0.04678362573099415,
+      "position": 37.666666666666664
+    },
+    {
+      "query": "heating repair southampton",
+      "clicks": 8,
+      "impressions": 113,
+      "ctr": 0.07079646017699115,
+      "position": 5.823008849557522
+    },
+    {
+      "query": "merv 5 vs merv 8",
+      "clicks": 8,
+      "impressions": 1525,
+      "ctr": 0.005245901639344262,
+      "position": 7.754754098360656
+    },
+    {
+      "query": "plumber in southampton",
+      "clicks": 8,
+      "impressions": 96,
+      "ctr": 0.08333333333333333,
+      "position": 23.09375
+    },
+    {
+      "query": "smell when turning on ac",
+      "clicks": 8,
+      "impressions": 61,
+      "ctr": 0.13114754098360656,
+      "position": 3.442622950819672
+    },
+    {
+      "query": "southampton plumbing and heating",
+      "clicks": 8,
+      "impressions": 138,
+      "ctr": 0.057971014492753624,
+      "position": 2.4782608695652173
+    },
+    {
+      "query": "what is dehumidifier used for",
+      "clicks": 8,
+      "impressions": 2201,
+      "ctr": 0.003634711494775102,
+      "position": 4.384825079509314
+    },
+    {
+      "query": "why use a humidifier in winter",
+      "clicks": 8,
+      "impressions": 317,
+      "ctr": 0.025236593059936908,
+      "position": 2.6529968454258674
+    },
+    {
+      "query": "ac contractors southampton",
+      "clicks": 7,
+      "impressions": 324,
+      "ctr": 0.021604938271604937,
+      "position": 20.54320987654321
+    },
+    {
+      "query": "air conditioning heating southampton",
+      "clicks": 7,
+      "impressions": 36,
+      "ctr": 0.19444444444444445,
+      "position": 1.7222222222222223
+    },
+    {
+      "query": "bad capacitor symptoms",
+      "clicks": 7,
+      "impressions": 709,
+      "ctr": 0.009873060648801129,
+      "position": 8.447108603667136
+    },
+    {
+      "query": "boilers southampton",
+      "clicks": 7,
+      "impressions": 28,
+      "ctr": 0.25,
+      "position": 8.928571428571429
+    },
+    {
+      "query": "christian hvac companies",
+      "clicks": 7,
+      "impressions": 38,
+      "ctr": 0.18421052631578946,
+      "position": 3.4210526315789473
+    },
+    {
+      "query": "heater repair southampton, pa",
+      "clicks": 7,
+      "impressions": 163,
+      "ctr": 0.04294478527607362,
+      "position": 7.024539877300613
+    },
+    {
+      "query": "humidifier in cold weather",
+      "clicks": 7,
+      "impressions": 117,
+      "ctr": 0.05982905982905983,
+      "position": 3.5555555555555554
+    },
+    {
+      "query": "hvac services southampton",
+      "clicks": 7,
+      "impressions": 129,
+      "ctr": 0.05426356589147287,
+      "position": 7.023255813953488
+    },
+    {
+      "query": "musty smell when ac first turns on",
+      "clicks": 7,
+      "impressions": 31,
+      "ctr": 0.22580645161290322,
+      "position": 1.6129032258064515
+    },
+    {
+      "query": "plumbing southampton pa",
+      "clicks": 7,
+      "impressions": 50,
+      "ctr": 0.14,
+      "position": 11.64
+    },
+    {
+      "query": "when to use humidifier in winter",
+      "clicks": 7,
+      "impressions": 258,
+      "ctr": 0.027131782945736434,
+      "position": 4.054263565891473
+    },
+    {
+      "query": "why does my ac smell musty when i first turn it on",
+      "clicks": 7,
+      "impressions": 120,
+      "ctr": 0.058333333333333334,
+      "position": 3.183333333333333
+    },
+    {
+      "query": "ac inverter for home",
+      "clicks": 6,
+      "impressions": 277,
+      "ctr": 0.021660649819494584,
+      "position": 5.281588447653429
+    },
+    {
+      "query": "christian home services hvac",
+      "clicks": 6,
+      "impressions": 12,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "do i need a humidifier in the winter",
+      "clicks": 6,
+      "impressions": 102,
+      "ctr": 0.058823529411764705,
+      "position": 1.8235294117647058
+    },
+    {
+      "query": "do you need humidifier in winter",
+      "clicks": 6,
+      "impressions": 365,
+      "ctr": 0.01643835616438356,
+      "position": 2.6191780821917807
+    },
+    {
+      "query": "do you use a humidifier in the winter",
+      "clicks": 6,
+      "impressions": 317,
+      "ctr": 0.01892744479495268,
+      "position": 2.9747634069400632
+    },
+    {
+      "query": "emergency plumber in southampton",
+      "clicks": 6,
+      "impressions": 67,
+      "ctr": 0.08955223880597014,
+      "position": 58.73134328358209
+    },
+    {
+      "query": "heating and cooling near me",
+      "clicks": 6,
+      "impressions": 9688,
+      "ctr": 0.0006193228736581337,
+      "position": 54.18507431874484
+    },
+    {
+      "query": "humidifier in the winter",
+      "clicks": 6,
+      "impressions": 299,
+      "ctr": 0.020066889632107024,
+      "position": 4.4682274247491645
+    },
+    {
+      "query": "humidifier in winter or summer",
+      "clicks": 6,
+      "impressions": 237,
+      "ctr": 0.02531645569620253,
+      "position": 3.9071729957805905
+    },
+    {
+      "query": "hvac beginner",
+      "clicks": 6,
+      "impressions": 102,
+      "ctr": 0.058823529411764705,
+      "position": 3.6470588235294117
+    },
+    {
+      "query": "hvac filters types",
+      "clicks": 6,
+      "impressions": 101,
+      "ctr": 0.0594059405940594,
+      "position": 4.811881188118812
+    },
+    {
+      "query": "hvac near me",
+      "clicks": 6,
+      "impressions": 644,
+      "ctr": 0.009316770186335404,
+      "position": 14.590062111801242
+    },
+    {
+      "query": "hvac repair contractor southampton",
+      "clicks": 6,
+      "impressions": 153,
+      "ctr": 0.0392156862745098,
+      "position": 14.313725490196079
+    },
+    {
+      "query": "hvac repair southampton",
+      "clicks": 6,
+      "impressions": 162,
+      "ctr": 0.037037037037037035,
+      "position": 7.265432098765432
+    },
+    {
+      "query": "inverter central air conditioner",
+      "clicks": 6,
+      "impressions": 178,
+      "ctr": 0.033707865168539325,
+      "position": 5.303370786516854
+    },
+    {
+      "query": "inverter condenser",
+      "clicks": 6,
+      "impressions": 180,
+      "ctr": 0.03333333333333333,
+      "position": 4.277777777777778
+    },
+    {
+      "query": "inverter hvac",
+      "clicks": 6,
+      "impressions": 415,
+      "ctr": 0.014457831325301205,
+      "position": 9.007228915662651
+    },
+    {
+      "query": "need humidifier in winter",
+      "clicks": 6,
+      "impressions": 61,
+      "ctr": 0.09836065573770492,
+      "position": 2.639344262295082
+    },
+    {
+      "query": "southampton commercial plumbing",
+      "clicks": 6,
+      "impressions": 85,
+      "ctr": 0.07058823529411765,
+      "position": 35.95294117647059
+    },
+    {
+      "query": "types of ac filters",
+      "clicks": 6,
+      "impressions": 192,
+      "ctr": 0.03125,
+      "position": 5.75
+    },
+    {
+      "query": "what is the use of dehumidifier",
+      "clicks": 6,
+      "impressions": 409,
+      "ctr": 0.014669926650366748,
+      "position": 4.6112469437652805
+    },
+    {
+      "query": "when i turn on my ac it smells",
+      "clicks": 6,
+      "impressions": 111,
+      "ctr": 0.05405405405405406,
+      "position": 3.0720720720720722
+    },
+    {
+      "query": "why do i need a humidifier in winter",
+      "clicks": 6,
+      "impressions": 86,
+      "ctr": 0.06976744186046512,
+      "position": 2.302325581395349
+    },
+    {
+      "query": "winter humidifier",
+      "clicks": 6,
+      "impressions": 250,
+      "ctr": 0.024,
+      "position": 8.548
+    },
+    {
+      "query": "basement hvac system",
+      "clicks": 5,
+      "impressions": 102,
+      "ctr": 0.049019607843137254,
+      "position": 7.892156862745098
+    },
+    {
+      "query": "christian brothers heating & air conditioning",
+      "clicks": 5,
+      "impressions": 22,
+      "ctr": 0.22727272727272727,
+      "position": 11.818181818181818
+    },
+    {
+      "query": "christian brothers heating and cooling",
+      "clicks": 5,
+      "impressions": 111,
+      "ctr": 0.04504504504504504,
+      "position": 15.063063063063064
+    },
+    {
+      "query": "christian brothers plumbing",
+      "clicks": 5,
+      "impressions": 215,
+      "ctr": 0.023255813953488372,
+      "position": 20.037209302325582
+    },
+    {
+      "query": "christian hvac jobs",
+      "clicks": 5,
+      "impressions": 7,
+      "ctr": 0.7142857142857143,
+      "position": 1.8571428571428572
+    },
+    {
+      "query": "christian mechanical",
+      "clicks": 5,
+      "impressions": 24,
+      "ctr": 0.20833333333333334,
+      "position": 5
+    },
+    {
+      "query": "christian plumbers near me",
+      "clicks": 5,
+      "impressions": 1120,
+      "ctr": 0.004464285714285714,
+      "position": 4.540178571428571
+    },
+    {
+      "query": "dehumidifier uses",
+      "clicks": 5,
+      "impressions": 1449,
+      "ctr": 0.003450655624568668,
+      "position": 6.694271911663216
+    },
+    {
+      "query": "different types of hvac filters",
+      "clicks": 5,
+      "impressions": 22,
+      "ctr": 0.22727272727272727,
+      "position": 1.7727272727272727
+    },
+    {
+      "query": "do i need humidifier in winter",
+      "clicks": 5,
+      "impressions": 233,
+      "ctr": 0.02145922746781116,
+      "position": 2.1587982832618025
+    },
+    {
+      "query": "do we need humidifier in winter",
+      "clicks": 5,
+      "impressions": 275,
+      "ctr": 0.01818181818181818,
+      "position": 2.1490909090909094
+    },
+    {
+      "query": "filters in hvac system",
+      "clicks": 5,
+      "impressions": 166,
+      "ctr": 0.030120481927710843,
+      "position": 6.4397590361445785
+    },
+    {
+      "query": "home ac smells when first turned on",
+      "clicks": 5,
+      "impressions": 54,
+      "ctr": 0.09259259259259259,
+      "position": 2.8703703703703702
+    },
+    {
+      "query": "humidifier use in winter",
+      "clicks": 5,
+      "impressions": 296,
+      "ctr": 0.016891891891891893,
+      "position": 3.983108108108108
+    },
+    {
+      "query": "inverter condenser unit",
+      "clicks": 5,
+      "impressions": 51,
+      "ctr": 0.09803921568627451,
+      "position": 3.176470588235294
+    },
+    {
+      "query": "is a humidifier good in the winter",
+      "clicks": 5,
+      "impressions": 92,
+      "ctr": 0.05434782608695652,
+      "position": 2.3369565217391304
+    },
+    {
+      "query": "is it good to run a humidifier in the winter",
+      "clicks": 5,
+      "impressions": 120,
+      "ctr": 0.041666666666666664,
+      "position": 3.1
+    },
+    {
+      "query": "running a humidifier in the winter",
+      "clicks": 5,
+      "impressions": 168,
+      "ctr": 0.02976190476190476,
+      "position": 4.339285714285714
+    },
+    {
+      "query": "smell when hvac turns on",
+      "clicks": 5,
+      "impressions": 33,
+      "ctr": 0.15151515151515152,
+      "position": 2.4545454545454546
+    },
+    {
+      "query": "types of air filters for hvac",
+      "clicks": 5,
+      "impressions": 327,
+      "ctr": 0.01529051987767584,
+      "position": 6.981651376146789
+    },
+    {
+      "query": "when do you use humidifier summer or winter",
+      "clicks": 5,
+      "impressions": 212,
+      "ctr": 0.02358490566037736,
+      "position": 3.481132075471698
+    },
+    {
+      "query": "why does it smell when i turn on my ac",
+      "clicks": 5,
+      "impressions": 78,
+      "ctr": 0.0641025641025641,
+      "position": 3.5128205128205128
+    },
+    {
+      "query": "why use humidifier in winter",
+      "clicks": 5,
+      "impressions": 170,
+      "ctr": 0.029411764705882353,
+      "position": 2.388235294117647
+    },
+    {
+      "query": "ac weird smell",
+      "clicks": 4,
+      "impressions": 95,
+      "ctr": 0.042105263157894736,
+      "position": 6.2105263157894735
+    },
+    {
+      "query": "air conditioning installation southampton",
+      "clicks": 4,
+      "impressions": 41,
+      "ctr": 0.0975609756097561,
+      "position": 1
+    },
+    {
+      "query": "benefits of humidifier in winter",
+      "clicks": 4,
+      "impressions": 2288,
+      "ctr": 0.0017482517482517483,
+      "position": 12.156031468531468
+    },
+    {
+      "query": "boiler servicing southampton",
+      "clicks": 4,
+      "impressions": 26,
+      "ctr": 0.15384615384615385,
+      "position": 4.3076923076923075
+    },
+    {
+      "query": "car ac smells bad when first turned on",
+      "clicks": 4,
+      "impressions": 174,
+      "ctr": 0.022988505747126436,
+      "position": 16.28735632183908
+    },
+    {
+      "query": "christian electrical",
+      "clicks": 4,
+      "impressions": 39,
+      "ctr": 0.10256410256410256,
+      "position": 5.230769230769231
+    },
+    {
+      "query": "christian hvac west chester pa",
+      "clicks": 4,
+      "impressions": 5,
+      "ctr": 0.8,
+      "position": 1
+    },
+    {
+      "query": "daikin dm80sn",
+      "clicks": 4,
+      "impressions": 68,
+      "ctr": 0.058823529411764705,
+      "position": 4.852941176470589
+    },
+    {
+      "query": "do humidifiers help in winter",
+      "clicks": 4,
+      "impressions": 52,
+      "ctr": 0.07692307692307693,
+      "position": 3.0576923076923075
+    },
+    {
+      "query": "how to get rid of bad smell from air conditioner",
+      "clicks": 4,
+      "impressions": 406,
+      "ctr": 0.009852216748768473,
+      "position": 14.450738916256158
+    },
+    {
+      "query": "how to use humidifier in winter",
+      "clicks": 4,
+      "impressions": 177,
+      "ctr": 0.022598870056497175,
+      "position": 4.84180790960452
+    },
+    {
+      "query": "humidifier uses in winter",
+      "clicks": 4,
+      "impressions": 338,
+      "ctr": 0.011834319526627219,
+      "position": 4.103550295857988
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:21:40.909Z"
 }

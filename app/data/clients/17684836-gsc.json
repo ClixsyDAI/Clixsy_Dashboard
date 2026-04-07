@@ -1,156 +1,16 @@
 {
   "property": "https://hillmoin.com/",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 2336,
-    "impressions": 1752140,
-    "ctr": 0.0013332267969454496,
-    "position": 16.41473193048463
+    "clicks": 2419,
+    "impressions": 2019612,
+    "ctr": 0.0011977548162716402,
+    "position": 13.578129451624315
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 23,
-      "impressions": 20939,
-      "ctr": 0.0010984287692822007,
-      "position": 19.928267825588616
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 31,
-      "impressions": 22750,
-      "ctr": 0.0013626373626373627,
-      "position": 22.097538461538463
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 53,
-      "impressions": 18678,
-      "ctr": 0.0028375629082342865,
-      "position": 20.582396402184386
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 33,
-      "impressions": 23548,
-      "ctr": 0.0014013928996093087,
-      "position": 19.473670800067946
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 26,
-      "impressions": 22728,
-      "ctr": 0.0011439633931714186,
-      "position": 22.486976416754665
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 17,
-      "impressions": 19696,
-      "ctr": 0.0008631194151096669,
-      "position": 20.240048740861088
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 16,
-      "impressions": 21183,
-      "ctr": 0.0007553226644006986,
-      "position": 21.24689609592598
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 35,
-      "impressions": 27313,
-      "ctr": 0.0012814410720169882,
-      "position": 17.54508841943397
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 24,
-      "impressions": 21892,
-      "ctr": 0.0010962908825141605,
-      "position": 21.612141421523845
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 17,
-      "impressions": 19455,
-      "ctr": 0.0008738113595476741,
-      "position": 21.35851966075559
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 8,
-      "impressions": 18064,
-      "ctr": 0.0004428697962798937,
-      "position": 19.737046058458812
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 24,
-      "impressions": 17462,
-      "ctr": 0.0013744130111098384,
-      "position": 17.369602565570954
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 18,
-      "impressions": 18042,
-      "ctr": 0.0009976720984369804,
-      "position": 19.58053430883494
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 16,
-      "impressions": 19388,
-      "ctr": 0.0008252527336496802,
-      "position": 20.849391376108933
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 24,
-      "impressions": 20872,
-      "ctr": 0.0011498658489842851,
-      "position": 19.267104254503643
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 39,
-      "impressions": 21112,
-      "ctr": 0.0018472906403940886,
-      "position": 22.52666729821902
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 19,
-      "impressions": 23890,
-      "ctr": 0.000795311845960653,
-      "position": 23.41079949769778
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 16,
-      "impressions": 22156,
-      "ctr": 0.0007221520129987362,
-      "position": 23.337154721068785
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 26,
-      "impressions": 16039,
-      "ctr": 0.001621048693808841,
-      "position": 18.296090778726853
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 17,
-      "impressions": 12076,
-      "ctr": 0.0014077509108976483,
-      "position": 14.581897979463399
-    },
     {
       "date": "2026-01-04",
       "clicks": 21,
@@ -640,711 +500,3314 @@
       "impressions": 21754,
       "ctr": 0.0008734025926266434,
       "position": 9.337409212098924
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 8,
+      "impressions": 27424,
+      "ctr": 0.00029171528588098014,
+      "position": 8.508350350058343
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 22,
+      "impressions": 31293,
+      "ctr": 0.0007030326271051033,
+      "position": 8.636212571501613
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 32,
+      "impressions": 28872,
+      "ctr": 0.0011083402604599613,
+      "position": 7.987981435300637
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 44,
+      "impressions": 32141,
+      "ctr": 0.0013689679848169006,
+      "position": 7.220341619738029
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 34,
+      "impressions": 28164,
+      "ctr": 0.0012072148842493964,
+      "position": 6.671460019883539
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 28,
+      "impressions": 26721,
+      "ctr": 0.0010478649751132069,
+      "position": 7.0977882564275285
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 9,
+      "impressions": 25413,
+      "ctr": 0.00035414945106835086,
+      "position": 7.988391767992759
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 15,
+      "impressions": 35394,
+      "ctr": 0.0004238006441769792,
+      "position": 6.56368311013166
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 33,
+      "impressions": 23826,
+      "ctr": 0.0013850415512465374,
+      "position": 8.86938638462184
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 24,
+      "impressions": 29054,
+      "ctr": 0.0008260480484614855,
+      "position": 8.731052522888415
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 34,
+      "impressions": 28462,
+      "ctr": 0.0011945752231044902,
+      "position": 9.287716955941255
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 31,
+      "impressions": 32247,
+      "ctr": 0.0009613297360994822,
+      "position": 9.38878035166062
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 32,
+      "impressions": 26741,
+      "ctr": 0.0011966642982685763,
+      "position": 8.310609176919337
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 14,
+      "impressions": 27918,
+      "ctr": 0.0005014685865749695,
+      "position": 9.078229099505695
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 18,
+      "impressions": 41807,
+      "ctr": 0.0004305499079101586,
+      "position": 7.553974214844404
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 33,
+      "impressions": 46002,
+      "ctr": 0.0007173601147776184,
+      "position": 7.123168557888787
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 48,
+      "impressions": 40985,
+      "ctr": 0.0011711601805538612,
+      "position": 6.8414541905575215
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 35,
+      "impressions": 42841,
+      "ctr": 0.0008169743936882893,
+      "position": 6.728461053663547
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 34,
+      "impressions": 36270,
+      "ctr": 0.0009374138406396471,
+      "position": 6.448359525778881
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 23,
+      "impressions": 31442,
+      "ctr": 0.0007315056294128872,
+      "position": 8.288594873099676
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 14,
+      "impressions": 31738,
+      "ctr": 0.0004411116012351125,
+      "position": 6.487743399079967
     }
   ],
   "topQueries": [
     {
       "query": "hill and moin",
       "clicks": 95,
-      "impressions": 378,
-      "ctr": 0.25132275132275134,
-      "position": 1.7751322751322751
+      "impressions": 347,
+      "ctr": 0.2737752161383285,
+      "position": 1.8443804034582132
     },
     {
       "query": "hill & moin",
       "clicks": 57,
-      "impressions": 191,
-      "ctr": 0.29842931937172773,
-      "position": 1.6963350785340314
+      "impressions": 167,
+      "ctr": 0.3413173652694611,
+      "position": 1.7964071856287425
     },
     {
       "query": "hill & moin llp",
-      "clicks": 44,
-      "impressions": 163,
-      "ctr": 0.26993865030674846,
-      "position": 1
-    },
-    {
-      "query": "hill and moin llp",
-      "clicks": 16,
-      "impressions": 53,
-      "ctr": 0.3018867924528302,
+      "clicks": 43,
+      "impressions": 156,
+      "ctr": 0.27564102564102566,
       "position": 1
     },
     {
       "query": "jewel perez",
-      "clicks": 16,
-      "impressions": 333,
-      "ctr": 0.04804804804804805,
-      "position": 5.48048048048048
+      "clicks": 27,
+      "impressions": 779,
+      "ctr": 0.03465982028241335,
+      "position": 5.2439024390243905
     },
     {
       "query": "david zwerin",
-      "clicks": 14,
-      "impressions": 71,
-      "ctr": 0.19718309859154928,
-      "position": 4.19718309859155
+      "clicks": 17,
+      "impressions": 78,
+      "ctr": 0.21794871794871795,
+      "position": 4.012820512820513
+    },
+    {
+      "query": "hill and moin llp",
+      "clicks": 16,
+      "impressions": 62,
+      "ctr": 0.25806451612903225,
+      "position": 1
     },
     {
       "query": "frank amico accident",
       "clicks": 10,
-      "impressions": 66,
-      "ctr": 0.15151515151515152,
-      "position": 6.257575757575758
-    },
-    {
-      "query": "personal injury law firms in new york",
-      "clicks": 8,
-      "impressions": 157,
-      "ctr": 0.050955414012738856,
-      "position": 2.484076433121019
+      "impressions": 79,
+      "ctr": 0.12658227848101267,
+      "position": 6.189873417721519
     },
     {
       "query": "hill & moin llp - accident attorneys",
+      "clicks": 8,
+      "impressions": 77,
+      "ctr": 0.1038961038961039,
+      "position": 2.5194805194805197
+    },
+    {
+      "query": "construction accident attorney new york",
       "clicks": 7,
-      "impressions": 88,
-      "ctr": 0.07954545454545454,
-      "position": 1.3181818181818181
+      "impressions": 1697,
+      "ctr": 0.0041249263406010605,
+      "position": 12.546847377725397
     },
     {
       "query": "dental malpractice lawyer nyc",
       "clicks": 6,
-      "impressions": 616,
-      "ctr": 0.00974025974025974,
-      "position": 10.771103896103897
+      "impressions": 700,
+      "ctr": 0.008571428571428572,
+      "position": 10.618571428571428
     },
     {
-      "query": "ethan felder",
+      "query": "personal injury law firms in new york",
       "clicks": 6,
-      "impressions": 142,
-      "ctr": 0.04225352112676056,
-      "position": 4.02112676056338
-    },
-    {
-      "query": "new york truck accident lawyer",
-      "clicks": 6,
-      "impressions": 2843,
-      "ctr": 0.002110446711220542,
-      "position": 14.904678156876539
+      "impressions": 119,
+      "ctr": 0.05042016806722689,
+      "position": 2.815126050420168
     },
     {
       "query": "personal injury lawyer nyc",
       "clicks": 6,
-      "impressions": 2546,
-      "ctr": 0.002356637863315004,
-      "position": 19.908483896307935
+      "impressions": 2807,
+      "ctr": 0.0021375133594584966,
+      "position": 17.237263982899893
     },
     {
-      "query": "mta notice of claim",
+      "query": "new york truck accident lawyer",
       "clicks": 5,
-      "impressions": 83,
-      "ctr": 0.060240963855421686,
-      "position": 6.650602409638554
-    },
-    {
-      "query": "jason araujo",
-      "clicks": 4,
-      "impressions": 120,
-      "ctr": 0.03333333333333333,
-      "position": 7.058333333333334
-    },
-    {
-      "query": "out of state driver cases",
-      "clicks": 4,
-      "impressions": 46,
-      "ctr": 0.08695652173913043,
-      "position": 3.3260869565217392
+      "impressions": 3025,
+      "ctr": 0.001652892561983471,
+      "position": 14.943140495867768
     },
     {
       "query": "personal injury lawyer",
-      "clicks": 4,
-      "impressions": 6418,
-      "ctr": 0.0006232471174820816,
-      "position": 3.380803988781552
+      "clicks": 5,
+      "impressions": 54154,
+      "ctr": 0.00009232928315544559,
+      "position": 6.288492078147505
     },
     {
       "query": "personal injury lawyer new york",
-      "clicks": 4,
-      "impressions": 3156,
-      "ctr": 0.0012674271229404308,
-      "position": 25.120722433460077
+      "clicks": 5,
+      "impressions": 3262,
+      "ctr": 0.0015328019619865114,
+      "position": 23.49202942979767
     },
     {
-      "query": "what do ime doctors look for",
+      "query": "ethan felder",
       "clicks": 4,
-      "impressions": 204,
-      "ctr": 0.0196078431372549,
-      "position": 6.102941176470588
+      "impressions": 127,
+      "ctr": 0.031496062992125984,
+      "position": 4.062992125984252
+    },
+    {
+      "query": "personal injury lawyers in new york",
+      "clicks": 4,
+      "impressions": 770,
+      "ctr": 0.005194805194805195,
+      "position": 4.966233766233766
     },
     {
       "query": "are ime doctors fair",
       "clicks": 3,
-      "impressions": 176,
-      "ctr": 0.017045454545454544,
-      "position": 4.181818181818182
+      "impressions": 192,
+      "ctr": 0.015625,
+      "position": 3.421875
     },
     {
-      "query": "deposition hearing",
+      "query": "car accident lawyer",
       "clicks": 3,
-      "impressions": 520,
-      "ctr": 0.0057692307692307696,
-      "position": 2.3826923076923077
+      "impressions": 129165,
+      "ctr": 0.000023226106143305074,
+      "position": 1.134603027135834
     },
     {
-      "query": "doctor malpractice lawyer",
+      "query": "hill moin",
       "clicks": 3,
-      "impressions": 45,
-      "ctr": 0.06666666666666667,
-      "position": 5
+      "impressions": 26,
+      "ctr": 0.11538461538461539,
+      "position": 17.692307692307693
     },
     {
-      "query": "hill and moin reviews",
+      "query": "jason araujo",
       "clicks": 3,
-      "impressions": 88,
-      "ctr": 0.03409090909090909,
-      "position": 2.0227272727272725
+      "impressions": 127,
+      "ctr": 0.023622047244094488,
+      "position": 7.062992125984252
     },
     {
       "query": "mta claims",
       "clicks": 3,
-      "impressions": 63,
-      "ctr": 0.047619047619047616,
-      "position": 6.492063492063492
+      "impressions": 64,
+      "ctr": 0.046875,
+      "position": 6.0625
+    },
+    {
+      "query": "mta notice of claim",
+      "clicks": 3,
+      "impressions": 102,
+      "ctr": 0.029411764705882353,
+      "position": 5.666666666666667
+    },
+    {
+      "query": "personal injury attorney new york",
+      "clicks": 3,
+      "impressions": 2620,
+      "ctr": 0.0011450381679389313,
+      "position": 18.214503816793894
     },
     {
       "query": "personal injury lawyer brooklyn",
       "clicks": 3,
-      "impressions": 2001,
-      "ctr": 0.0014992503748125937,
-      "position": 27.794602698650674
+      "impressions": 2223,
+      "ctr": 0.001349527665317139,
+      "position": 25.514619883040936
     },
     {
-      "query": "personal injury lawyers in new york",
+      "query": "top 10 medical malpractice lawyers in nyc",
       "clicks": 3,
-      "impressions": 735,
-      "ctr": 0.004081632653061225,
-      "position": 5.555102040816327
+      "impressions": 88,
+      "ctr": 0.03409090909090909,
+      "position": 4.681818181818182
     },
     {
-      "query": "aggravation of a pre existing condition settlement",
-      "clicks": 2,
-      "impressions": 203,
-      "ctr": 0.009852216748768473,
-      "position": 1.5812807881773399
+      "query": "what do ime doctors look for",
+      "clicks": 3,
+      "impressions": 212,
+      "ctr": 0.014150943396226415,
+      "position": 6.4245283018867925
     },
     {
-      "query": "car accident lawyer",
+      "query": "david caldwell colts",
       "clicks": 2,
-      "impressions": 10322,
-      "ctr": 0.00019376089905057158,
-      "position": 2.30333268746367
+      "impressions": 85,
+      "ctr": 0.023529411764705882,
+      "position": 7.364705882352941
     },
     {
-      "query": "construction accident attorney new york",
+      "query": "hill and moin reviews",
       "clicks": 2,
-      "impressions": 1750,
-      "ctr": 0.001142857142857143,
-      "position": 13.406857142857143
+      "impressions": 77,
+      "ctr": 0.025974025974025976,
+      "position": 2.0649350649350646
     },
     {
-      "query": "hill & moin llp accident attorneys",
+      "query": "hit and run nyc",
       "clicks": 2,
-      "impressions": 35,
-      "ctr": 0.05714285714285714,
-      "position": 1
-    },
-    {
-      "query": "hill and moin accident attorneys ny",
-      "clicks": 2,
-      "impressions": 36,
-      "ctr": 0.05555555555555555,
-      "position": 1
+      "impressions": 143,
+      "ctr": 0.013986013986013986,
+      "position": 1.4685314685314685
     },
     {
       "query": "how to file a lawsuit against nycha",
       "clicks": 2,
-      "impressions": 83,
-      "ctr": 0.024096385542168676,
-      "position": 5.024096385542169
+      "impressions": 86,
+      "ctr": 0.023255813953488372,
+      "position": 4.953488372093023
     },
     {
       "query": "how to sue nycha",
       "clicks": 2,
       "impressions": 35,
       "ctr": 0.05714285714285714,
-      "position": 2.8285714285714283
+      "position": 2.1714285714285717
     },
     {
-      "query": "motorcycle crash bar",
+      "query": "injury law firm new york",
       "clicks": 2,
-      "impressions": 105,
-      "ctr": 0.01904761904761905,
-      "position": 9.942857142857143
+      "impressions": 312,
+      "ctr": 0.00641025641025641,
+      "position": 5.714743589743589
+    },
+    {
+      "query": "mta no fault claims department",
+      "clicks": 2,
+      "impressions": 166,
+      "ctr": 0.012048192771084338,
+      "position": 14.74698795180723
+    },
+    {
+      "query": "new york city car accident lawyer",
+      "clicks": 2,
+      "impressions": 2698,
+      "ctr": 0.0007412898443291327,
+      "position": 9.245366938472943
+    },
+    {
+      "query": "new york city transit authority claims department",
+      "clicks": 2,
+      "impressions": 47,
+      "ctr": 0.0425531914893617,
+      "position": 4.680851063829787
     },
     {
       "query": "new york personal injury law firm",
       "clicks": 2,
-      "impressions": 535,
-      "ctr": 0.003738317757009346,
-      "position": 23.97196261682243
+      "impressions": 665,
+      "ctr": 0.0030075187969924814,
+      "position": 20.254135338345865
     },
     {
-      "query": "nyc car accident lawyer",
+      "query": "out of state driver cases",
       "clicks": 2,
-      "impressions": 2265,
-      "ctr": 0.0008830022075055188,
-      "position": 9.298896247240618
+      "impressions": 26,
+      "ctr": 0.07692307692307693,
+      "position": 3.6538461538461537
     },
     {
       "query": "pedestrian accident lawyer nyc",
       "clicks": 2,
-      "impressions": 598,
-      "ctr": 0.0033444816053511705,
-      "position": 8.9247491638796
+      "impressions": 623,
+      "ctr": 0.0032102728731942215,
+      "position": 6.725521669341894
     },
     {
       "query": "personal injury attorney queens ny",
       "clicks": 2,
-      "impressions": 54,
-      "ctr": 0.037037037037037035,
-      "position": 42.18518518518518
+      "impressions": 48,
+      "ctr": 0.041666666666666664,
+      "position": 40.020833333333336
     },
     {
       "query": "personal injury attorneys nyc",
       "clicks": 2,
-      "impressions": 435,
-      "ctr": 0.004597701149425287,
-      "position": 8.068965517241379
+      "impressions": 441,
+      "ctr": 0.0045351473922902496,
+      "position": 8.866213151927438
     },
     {
       "query": "personal injury lawyer in new york",
       "clicks": 2,
-      "impressions": 1218,
-      "ctr": 0.0016420361247947454,
-      "position": 17.360426929392446
+      "impressions": 1363,
+      "ctr": 0.001467351430667645,
+      "position": 17.112986060161408
+    },
+    {
+      "query": "personal injury lawyer new york city",
+      "clicks": 2,
+      "impressions": 868,
+      "ctr": 0.002304147465437788,
+      "position": 10.539170506912443
     },
     {
       "query": "slip and fall lawyers",
       "clicks": 2,
-      "impressions": 3283,
-      "ctr": 0.0006091989034419738,
-      "position": 7.459640572646969
-    },
-    {
-      "query": "top 10 medical malpractice lawyers in nyc",
-      "clicks": 2,
-      "impressions": 95,
-      "ctr": 0.021052631578947368,
-      "position": 3.2421052631578946
+      "impressions": 2791,
+      "ctr": 0.0007165890361877463,
+      "position": 6.419562880687925
     },
     {
       "query": "what are crash bars",
       "clicks": 2,
-      "impressions": 269,
-      "ctr": 0.007434944237918215,
-      "position": 2.3977695167286246
+      "impressions": 217,
+      "ctr": 0.009216589861751152,
+      "position": 2.889400921658986
+    },
+    {
+      "query": "what are crash bars on a motorcycle",
+      "clicks": 2,
+      "impressions": 157,
+      "ctr": 0.012738853503184714,
+      "position": 4.012738853503185
     },
     {
       "query": "what is a crash bar on a motorcycle",
       "clicks": 2,
-      "impressions": 78,
-      "ctr": 0.02564102564102564,
-      "position": 3.6794871794871793
+      "impressions": 89,
+      "ctr": 0.02247191011235955,
+      "position": 2.9325842696629216
+    },
+    {
+      "query": "what to do after a hit and run",
+      "clicks": 2,
+      "impressions": 19,
+      "ctr": 0.10526315789473684,
+      "position": 2.6315789473684212
     },
     {
       "query": "accident attorneys new york",
       "clicks": 1,
-      "impressions": 411,
-      "ctr": 0.0024330900243309003,
-      "position": 7.48661800486618
+      "impressions": 409,
+      "ctr": 0.0024449877750611247,
+      "position": 7.30562347188264
     },
     {
       "query": "accident lawyer new york",
       "clicks": 1,
-      "impressions": 2033,
-      "ctr": 0.0004918839153959665,
-      "position": 7.041810132808657
+      "impressions": 1924,
+      "ctr": 0.0005197505197505198,
+      "position": 6.856548856548857
     },
     {
-      "query": "accident lawyer ny",
+      "query": "aggravation of a pre existing condition settlement",
       "clicks": 1,
-      "impressions": 504,
-      "ctr": 0.001984126984126984,
-      "position": 10.595238095238095
-    },
-    {
-      "query": "accident lawyer nyc",
-      "clicks": 1,
-      "impressions": 1351,
-      "ctr": 0.0007401924500370096,
-      "position": 11.794226498889712
-    },
-    {
-      "query": "accident on the belt parkway",
-      "clicks": 1,
-      "impressions": 10,
-      "ctr": 0.1,
-      "position": 17
+      "impressions": 180,
+      "ctr": 0.005555555555555556,
+      "position": 1.7777777777777777
     },
     {
       "query": "amelia ortiz",
       "clicks": 1,
+      "impressions": 83,
+      "ctr": 0.012048192771084338,
+      "position": 9.012048192771084
+    },
+    {
+      "query": "back injury settlement without surgery",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "bad ime report",
+      "clicks": 1,
+      "impressions": 155,
+      "ctr": 0.0064516129032258064,
+      "position": 5.058064516129032
+    },
+    {
+      "query": "bay ridge lawyers",
+      "clicks": 1,
+      "impressions": 33,
+      "ctr": 0.030303030303030304,
+      "position": 7.212121212121212
+    },
+    {
+      "query": "benjamin berman",
+      "clicks": 1,
+      "impressions": 73,
+      "ctr": 0.0136986301369863,
+      "position": 13.753424657534246
+    },
+    {
+      "query": "best accident lawyer nyc",
+      "clicks": 1,
+      "impressions": 260,
+      "ctr": 0.0038461538461538464,
+      "position": 8.192307692307693
+    },
+    {
+      "query": "best car accident lawyers in nyc",
+      "clicks": 1,
+      "impressions": 394,
+      "ctr": 0.0025380710659898475,
+      "position": 6.606598984771574
+    },
+    {
+      "query": "best medical malpractice lawyers",
+      "clicks": 1,
+      "impressions": 173,
+      "ctr": 0.005780346820809248,
+      "position": 2.0520231213872835
+    },
+    {
+      "query": "best personal injury attorney new york",
+      "clicks": 1,
+      "impressions": 645,
+      "ctr": 0.0015503875968992248,
+      "position": 8.393798449612403
+    },
+    {
+      "query": "biggest personal injury law firms",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 22.833333333333332
+    },
+    {
+      "query": "bike crash bar",
+      "clicks": 1,
+      "impressions": 36,
+      "ctr": 0.027777777777777776,
+      "position": 17.416666666666668
+    },
+    {
+      "query": "brooklyn slip and fall accident lawyer",
+      "clicks": 1,
+      "impressions": 449,
+      "ctr": 0.0022271714922048997,
+      "position": 10.097995545657016
+    },
+    {
+      "query": "can you sue someone for their dog attacking you",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 4.666666666666666
+    },
+    {
+      "query": "car accident aggravated pre existing condition settlement",
+      "clicks": 1,
+      "impressions": 120,
+      "ctr": 0.008333333333333333,
+      "position": 49.333333333333336
+    },
+    {
+      "query": "car accident lawyer detroit",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 11
+    },
+    {
+      "query": "car accident nj lawyer",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "carbon monoxide compensation",
+      "clicks": 1,
+      "impressions": 28,
+      "ctr": 0.03571428571428571,
+      "position": 70.17857142857143
+    },
+    {
+      "query": "construction accident attorney in new york city",
+      "clicks": 1,
+      "impressions": 94,
+      "ctr": 0.010638297872340425,
+      "position": 22.606382978723403
+    },
+    {
+      "query": "construction accident lawyers nyc",
+      "clicks": 1,
+      "impressions": 944,
+      "ctr": 0.001059322033898305,
+      "position": 9.73728813559322
+    },
+    {
+      "query": "crane accident lawyer",
+      "clicks": 1,
+      "impressions": 953,
+      "ctr": 0.001049317943336831,
+      "position": 40.660020986358866
+    },
+    {
+      "query": "crash bar motorcycle",
+      "clicks": 1,
+      "impressions": 401,
+      "ctr": 0.0024937655860349127,
+      "position": 3.0448877805486285
+    },
+    {
+      "query": "curis law pllc",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 50
+    },
+    {
+      "query": "dental malpractice attorney nyc",
+      "clicks": 1,
+      "impressions": 364,
+      "ctr": 0.0027472527472527475,
+      "position": 10.458791208791208
+    },
+    {
+      "query": "dental malpractice attorneys",
+      "clicks": 1,
+      "impressions": 111,
+      "ctr": 0.009009009009009009,
+      "position": 9.126126126126126
+    },
+    {
+      "query": "dental medical malpractice attorney",
+      "clicks": 1,
+      "impressions": 33,
+      "ctr": 0.030303030303030304,
+      "position": 6.757575757575758
+    },
+    {
+      "query": "deposition hearing",
+      "clicks": 1,
+      "impressions": 530,
+      "ctr": 0.0018867924528301887,
+      "position": 2.3566037735849057
+    },
+    {
+      "query": "dog bite nyc",
+      "clicks": 1,
+      "impressions": 42,
+      "ctr": 0.023809523809523808,
+      "position": 11.452380952380953
+    },
+    {
+      "query": "dog bite sue",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 13.428571428571429
+    },
+    {
+      "query": "elderly abuse lawyers",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 8.428571428571429
+    },
+    {
+      "query": "escalator accident lawyer",
+      "clicks": 1,
+      "impressions": 119,
+      "ctr": 0.008403361344537815,
+      "position": 57.45378151260504
+    },
+    {
+      "query": "fire damage attorney new york",
+      "clicks": 1,
+      "impressions": 124,
+      "ctr": 0.008064516129032258,
+      "position": 14.951612903225806
+    },
+    {
+      "query": "genex",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 3.25
+    },
+    {
+      "query": "glk nyc truck accident lawyer",
+      "clicks": 1,
+      "impressions": 125,
+      "ctr": 0.008,
+      "position": 3.856
+    },
+    {
+      "query": "hill & moin accident attorneys",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 1
+    },
+    {
+      "query": "hill & moin llp accident attorneys",
+      "clicks": 1,
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 1
+    },
+    {
+      "query": "hill and moin llp accident attorneys",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 1
+    },
+    {
+      "query": "hill and moin new york",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 1
+    },
+    {
+      "query": "hotel shower slip and fall settlements",
+      "clicks": 1,
+      "impressions": 124,
+      "ctr": 0.008064516129032258,
+      "position": 9.741935483870968
+    },
+    {
+      "query": "how long does a deposition usually take",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 1.4583333333333333
+    },
+    {
+      "query": "how to get more than policy limits car accident settlement",
+      "clicks": 1,
+      "impressions": 54,
+      "ctr": 0.018518518518518517,
+      "position": 1.462962962962963
+    },
+    {
+      "query": "how to negotiate a car accident settlement without a lawyer",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 1.1
+    },
+    {
+      "query": "if your dog bites someone can they sue you",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "injury attorney brooklyn ny",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 29.2
+    },
+    {
+      "query": "injury attorney new york",
+      "clicks": 1,
+      "impressions": 526,
+      "ctr": 0.0019011406844106464,
+      "position": 6.747148288973384
+    },
+    {
+      "query": "injury attorneys nyc",
+      "clicks": 1,
+      "impressions": 202,
+      "ctr": 0.0049504950495049506,
+      "position": 2.6584158415841586
+    },
+    {
+      "query": "jewel pérez",
+      "clicks": 1,
+      "impressions": 46,
+      "ctr": 0.021739130434782608,
+      "position": 6.565217391304348
+    },
+    {
+      "query": "krasner family law",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 7.818181818181818
+    },
+    {
+      "query": "krasner law reviews",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 10.058823529411764
+    },
+    {
+      "query": "krasner law, pllc",
+      "clicks": 1,
+      "impressions": 215,
+      "ctr": 0.004651162790697674,
+      "position": 4
+    },
+    {
+      "query": "law firms in new york",
+      "clicks": 1,
+      "impressions": 25,
+      "ctr": 0.04,
+      "position": 46.92
+    },
+    {
+      "query": "law firms in new york city",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 35.5
+    },
+    {
+      "query": "law firms new york city",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 21
+    },
+    {
+      "query": "law firms nyc",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 46.333333333333336
+    },
+    {
+      "query": "lead poisoning lawyers",
+      "clicks": 1,
+      "impressions": 544,
+      "ctr": 0.001838235294117647,
+      "position": 29.93198529411765
+    },
+    {
+      "query": "leona krasner",
+      "clicks": 1,
+      "impressions": 336,
+      "ctr": 0.002976190476190476,
+      "position": 6.895833333333333
+    },
+    {
+      "query": "leona krasner reviews",
+      "clicks": 1,
+      "impressions": 102,
+      "ctr": 0.00980392156862745,
+      "position": 8.941176470588236
+    },
+    {
+      "query": "long island motorcycle accident lawyer",
+      "clicks": 1,
+      "impressions": 1382,
+      "ctr": 0.000723589001447178,
+      "position": 32.84442836468885
+    },
+    {
+      "query": "malpractice attorneys near me",
+      "clicks": 1,
+      "impressions": 102,
+      "ctr": 0.00980392156862745,
+      "position": 1
+    },
+    {
+      "query": "malpractice lawyer nyc",
+      "clicks": 1,
+      "impressions": 177,
+      "ctr": 0.005649717514124294,
+      "position": 12.435028248587571
+    },
+    {
+      "query": "manhattan car accident lawyer",
+      "clicks": 1,
+      "impressions": 2279,
+      "ctr": 0.00043878894251864854,
+      "position": 8.45151382185169
+    },
+    {
+      "query": "med mal law firm",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "medical malpractice attorneys in new york",
+      "clicks": 1,
+      "impressions": 200,
+      "ctr": 0.005,
+      "position": 11.2
+    },
+    {
+      "query": "medical malpractice lawyer",
+      "clicks": 1,
+      "impressions": 112295,
+      "ctr": 0.000008905115989135758,
+      "position": 1.2997907297742552
+    },
+    {
+      "query": "medical malpractice lawyer nyc",
+      "clicks": 1,
+      "impressions": 1332,
+      "ctr": 0.0007507507507507507,
+      "position": 13.385885885885886
+    },
+    {
+      "query": "medical malpractice lawyers in new york",
+      "clicks": 1,
+      "impressions": 431,
+      "ctr": 0.002320185614849188,
+      "position": 4.146171693735498
+    },
+    {
+      "query": "moin law",
+      "clicks": 1,
+      "impressions": 29,
+      "ctr": 0.034482758620689655,
+      "position": 7.586206896551724
+    },
+    {
+      "query": "motorcycle crash bar",
+      "clicks": 1,
+      "impressions": 116,
+      "ctr": 0.008620689655172414,
+      "position": 9.172413793103448
+    },
+    {
+      "query": "mta claims department telephone number",
+      "clicks": 1,
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 8.944444444444445
+    },
+    {
+      "query": "mta claims phone number",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 8.363636363636363
+    },
+    {
+      "query": "mta no fault claims department phone number",
+      "clicks": 1,
+      "impressions": 94,
+      "ctr": 0.010638297872340425,
+      "position": 8.659574468085108
+    },
+    {
+      "query": "neil a weinrib",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 9.181818181818182
+    },
+    {
+      "query": "new york car accident lawyers",
+      "clicks": 1,
+      "impressions": 1013,
+      "ctr": 0.0009871668311944718,
+      "position": 9.764067127344521
+    },
+    {
+      "query": "new york city car accident attorneys",
+      "clicks": 1,
+      "impressions": 649,
+      "ctr": 0.0015408320493066256,
+      "position": 11.608628659476118
+    },
+    {
+      "query": "new york city injury lawyers",
+      "clicks": 1,
+      "impressions": 387,
+      "ctr": 0.002583979328165375,
+      "position": 9.635658914728682
+    },
+    {
+      "query": "new york city personal injury law firm",
+      "clicks": 1,
+      "impressions": 211,
+      "ctr": 0.004739336492890996,
+      "position": 23.14691943127962
+    },
+    {
+      "query": "new york city social security disability lawyer",
+      "clicks": 1,
+      "impressions": 496,
+      "ctr": 0.0020161290322580645,
+      "position": 34.80846774193548
+    },
+    {
+      "query": "new york city transit authority claims phone numbers",
+      "clicks": 1,
+      "impressions": 51,
+      "ctr": 0.0196078431372549,
+      "position": 7.490196078431373
+    },
+    {
+      "query": "new york construction accident lawyer",
+      "clicks": 1,
+      "impressions": 5040,
+      "ctr": 0.0001984126984126984,
+      "position": 12.392261904761904
+    },
+    {
+      "query": "new york crane accident lawyers",
+      "clicks": 1,
+      "impressions": 138,
+      "ctr": 0.007246376811594203,
+      "position": 13.971014492753623
+    },
+    {
+      "query": "new york cruise ship attorney",
+      "clicks": 1,
+      "impressions": 29,
+      "ctr": 0.034482758620689655,
+      "position": 9.172413793103448
+    },
+    {
+      "query": "new york elevator accident lawyer",
+      "clicks": 1,
+      "impressions": 380,
+      "ctr": 0.002631578947368421,
+      "position": 11.06578947368421
+    },
+    {
+      "query": "new york law firms",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 39.733333333333334
+    },
+    {
+      "query": "new york medical malpractice attorney",
+      "clicks": 1,
+      "impressions": 1593,
+      "ctr": 0.0006277463904582549,
+      "position": 19.412429378531073
+    },
+    {
+      "query": "new york personal injury attorneys",
+      "clicks": 1,
+      "impressions": 1883,
+      "ctr": 0.0005310674455655868,
+      "position": 3.8438661710037176
+    },
+    {
+      "query": "new york personal injury law firms",
+      "clicks": 1,
+      "impressions": 112,
+      "ctr": 0.008928571428571428,
+      "position": 4.464285714285714
+    },
+    {
+      "query": "new york serious injury threshold",
+      "clicks": 1,
+      "impressions": 22,
+      "ctr": 0.045454545454545456,
+      "position": 49.86363636363637
+    },
+    {
+      "query": "new york workers compensation attorneys",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 20.208333333333332
+    },
+    {
+      "query": "new york workers compensation lawyer",
+      "clicks": 1,
+      "impressions": 1511,
+      "ctr": 0.0006618133686300463,
+      "position": 21.98742554599603
+    },
+    {
+      "query": "new york wrongful death lawyer",
+      "clicks": 1,
+      "impressions": 777,
+      "ctr": 0.001287001287001287,
+      "position": 46.82754182754183
+    },
+    {
+      "query": "noah jason thompson",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 9.842105263157896
+    },
+    {
+      "query": "noah thompson crosses",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 7.5
+    },
+    {
+      "query": "notice of claim mta",
+      "clicks": 1,
+      "impressions": 39,
+      "ctr": 0.02564102564102564,
+      "position": 5.256410256410256
+    },
+    {
+      "query": "nursing home abuse attorney new york",
+      "clicks": 1,
+      "impressions": 479,
+      "ctr": 0.0020876826722338203,
+      "position": 19.985386221294362
+    },
+    {
+      "query": "ny injury lawyers",
+      "clicks": 1,
+      "impressions": 93,
+      "ctr": 0.010752688172043012,
+      "position": 6.645161290322581
+    },
+    {
+      "query": "nyc car accident lawyer",
+      "clicks": 1,
+      "impressions": 2184,
+      "ctr": 0.0004578754578754579,
+      "position": 7.483516483516484
+    },
+    {
+      "query": "nyc construction injury lawyer",
+      "clicks": 1,
+      "impressions": 410,
+      "ctr": 0.0024390243902439024,
+      "position": 11.507317073170732
+    },
+    {
+      "query": "nyc malpractice attorneys",
+      "clicks": 1,
+      "impressions": 25,
+      "ctr": 0.04,
+      "position": 10.84
+    },
+    {
+      "query": "nyc medical malpractice lawyer",
+      "clicks": 1,
+      "impressions": 923,
+      "ctr": 0.0010834236186348862,
+      "position": 9.774647887323944
+    },
+    {
+      "query": "nyc medical malpractice lawyers",
+      "clicks": 1,
+      "impressions": 297,
+      "ctr": 0.003367003367003367,
+      "position": 11.575757575757576
+    },
+    {
+      "query": "nyc motorcycle accident lawyer",
+      "clicks": 1,
+      "impressions": 374,
+      "ctr": 0.00267379679144385,
+      "position": 6.561497326203209
+    },
+    {
+      "query": "nyc personal injury lawyers",
+      "clicks": 1,
+      "impressions": 914,
+      "ctr": 0.0010940919037199124,
+      "position": 21.2253829321663
+    },
+    {
+      "query": "nyc ssdi lawyer",
+      "clicks": 1,
+      "impressions": 192,
+      "ctr": 0.005208333333333333,
+      "position": 37.286458333333336
+    },
+    {
+      "query": "nyc transit authority claims phone number",
+      "clicks": 1,
       "impressions": 97,
       "ctr": 0.010309278350515464,
-      "position": 8.75257731958763
+      "position": 7.494845360824742
+    },
+    {
+      "query": "nys no fault insurance law",
+      "clicks": 1,
+      "impressions": 39,
+      "ctr": 0.02564102564102564,
+      "position": 6.6923076923076925
+    },
+    {
+      "query": "pedestrian accident attorney",
+      "clicks": 1,
+      "impressions": 3436,
+      "ctr": 0.0002910360884749709,
+      "position": 23.05675203725262
+    },
+    {
+      "query": "personal injury attorney",
+      "clicks": 1,
+      "impressions": 5914,
+      "ctr": 0.00016909029421711193,
+      "position": 3.066114305038891
+    },
+    {
+      "query": "personal injury attorney in new york",
+      "clicks": 1,
+      "impressions": 894,
+      "ctr": 0.0011185682326621924,
+      "position": 4.360178970917226
+    },
+    {
+      "query": "personal injury attorney manhattan ny",
+      "clicks": 1,
+      "impressions": 172,
+      "ctr": 0.005813953488372093,
+      "position": 37.424418604651166
+    },
+    {
+      "query": "personal injury attorneys in new york",
+      "clicks": 1,
+      "impressions": 473,
+      "ctr": 0.0021141649048625794,
+      "position": 5.429175475687104
+    },
+    {
+      "query": "personal injury attorneys in nyc",
+      "clicks": 1,
+      "impressions": 262,
+      "ctr": 0.003816793893129771,
+      "position": 32.270992366412216
+    },
+    {
+      "query": "personal injury law",
+      "clicks": 1,
+      "impressions": 2394,
+      "ctr": 0.0004177109440267335,
+      "position": 3.0246449456975775
+    },
+    {
+      "query": "personal injury law firm ny",
+      "clicks": 1,
+      "impressions": 200,
+      "ctr": 0.005,
+      "position": 7.055
+    },
+    {
+      "query": "personal injury law firms in new york city",
+      "clicks": 1,
+      "impressions": 46,
+      "ctr": 0.021739130434782608,
+      "position": 1.1304347826086956
+    },
+    {
+      "query": "personal injury law firms new york",
+      "clicks": 1,
+      "impressions": 100,
+      "ctr": 0.01,
+      "position": 3.8
+    },
+    {
+      "query": "personal injury law firms new york city",
+      "clicks": 1,
+      "impressions": 35,
+      "ctr": 0.02857142857142857,
+      "position": 14.514285714285714
+    },
+    {
+      "query": "personal injury law firms nyc",
+      "clicks": 1,
+      "impressions": 196,
+      "ctr": 0.00510204081632653,
+      "position": 11.821428571428571
+    },
+    {
+      "query": "personal injury new york",
+      "clicks": 1,
+      "impressions": 169,
+      "ctr": 0.005917159763313609,
+      "position": 8.325443786982248
+    },
+    {
+      "query": "personal injury nyc",
+      "clicks": 1,
+      "impressions": 131,
+      "ctr": 0.007633587786259542,
+      "position": 6.862595419847328
+    },
+    {
+      "query": "plastic surgery attorney",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 21
+    },
+    {
+      "query": "pre existing conditions personal injury case",
+      "clicks": 1,
+      "impressions": 100,
+      "ctr": 0.01,
+      "position": 9.84
+    },
+    {
+      "query": "premises liability attorney",
+      "clicks": 1,
+      "impressions": 4540,
+      "ctr": 0.00022026431718061675,
+      "position": 21.111013215859032
+    },
+    {
+      "query": "premises liability lawyer nyc",
+      "clicks": 1,
+      "impressions": 533,
+      "ctr": 0.001876172607879925,
+      "position": 9.951219512195122
+    },
+    {
+      "query": "realistic settlement calculator",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "reporting a hit and run accident",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 1
+    },
+    {
+      "query": "scaffolding law new york",
+      "clicks": 1,
+      "impressions": 33,
+      "ctr": 0.030303030303030304,
+      "position": 14.757575757575758
+    },
+    {
+      "query": "slip and fall at hotel",
+      "clicks": 1,
+      "impressions": 2153,
+      "ctr": 0.00046446818392940084,
+      "position": 7.808174640037158
+    },
+    {
+      "query": "slip and fall attorney nyc",
+      "clicks": 1,
+      "impressions": 710,
+      "ctr": 0.0014084507042253522,
+      "position": 3.5338028169014084
+    },
+    {
+      "query": "slip and fall lawyer nyc",
+      "clicks": 1,
+      "impressions": 1270,
+      "ctr": 0.0007874015748031496,
+      "position": 8.69763779527559
+    },
+    {
+      "query": "slip and fall lawyers new york",
+      "clicks": 1,
+      "impressions": 292,
+      "ctr": 0.003424657534246575,
+      "position": 20.164383561643834
+    },
+    {
+      "query": "slip and fall on government property",
+      "clicks": 1,
+      "impressions": 381,
+      "ctr": 0.0026246719160104987,
+      "position": 12.32283464566929
+    },
+    {
+      "query": "social security disability lawyer new york city",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 23.75
+    },
+    {
+      "query": "social security lawyers in new york",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 22
+    },
+    {
+      "query": "staten island medical malpractice lawyer",
+      "clicks": 1,
+      "impressions": 679,
+      "ctr": 0.0014727540500736377,
+      "position": 16.76141384388807
+    },
+    {
+      "query": "suing nycha for negligence",
+      "clicks": 1,
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 2.625
+    },
+    {
+      "query": "texas medical malpractice lawyers",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "truck accident attorney hill moin",
+      "clicks": 1,
+      "impressions": 31,
+      "ctr": 0.03225806451612903,
+      "position": 1
+    },
+    {
+      "query": "truck accident attorney in new york",
+      "clicks": 1,
+      "impressions": 67,
+      "ctr": 0.014925373134328358,
+      "position": 19.70149253731343
+    },
+    {
+      "query": "truck accident lawyer",
+      "clicks": 1,
+      "impressions": 14047,
+      "ctr": 0.00007118957784580338,
+      "position": 11.34776108777675
+    },
+    {
+      "query": "truck accident lawyer in usa",
+      "clicks": 1,
+      "impressions": 44,
+      "ctr": 0.022727272727272728,
+      "position": 12.068181818181818
+    },
+    {
+      "query": "truck accident lawyer new york",
+      "clicks": 1,
+      "impressions": 2868,
+      "ctr": 0.0003486750348675035,
+      "position": 8.03207810320781
+    },
+    {
+      "query": "truck accident lawyer nyc",
+      "clicks": 1,
+      "impressions": 1950,
+      "ctr": 0.0005128205128205128,
+      "position": 11.53948717948718
+    },
+    {
+      "query": "truck insurance lawyer",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 10.5
+    },
+    {
+      "query": "uber accident lawyer in new york",
+      "clicks": 1,
+      "impressions": 26,
+      "ctr": 0.038461538461538464,
+      "position": 3.269230769230769
+    },
+    {
+      "query": "unfavorable ime report",
+      "clicks": 1,
+      "impressions": 52,
+      "ctr": 0.019230769230769232,
+      "position": 4.730769230769231
+    },
+    {
+      "query": "usps car accident settlement",
+      "clicks": 1,
+      "impressions": 39,
+      "ctr": 0.02564102564102564,
+      "position": 27.846153846153847
+    },
+    {
+      "query": "vicarious liability new york",
+      "clicks": 1,
+      "impressions": 484,
+      "ctr": 0.002066115702479339,
+      "position": 3.4297520661157024
+    },
+    {
+      "query": "what are motorcycle crash bars",
+      "clicks": 1,
+      "impressions": 87,
+      "ctr": 0.011494252873563218,
+      "position": 3.8735632183908044
+    },
+    {
+      "query": "what happens at a deposition",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 19.416666666666668
+    },
+    {
+      "query": "what happens if i get in an accident out-of-state",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 42.5
     }
   ],
   "topPages": [
     {
       "page": "https://hillmoin.com/",
-      "clicks": 503,
-      "impressions": 896386,
-      "ctr": 0.0005611421865133994,
-      "position": 9.827535235936304
+      "clicks": 504,
+      "impressions": 1114538,
+      "ctr": 0.00045220530838787016,
+      "position": 4.997795499121609
     },
     {
       "page": "https://hillmoin.com/what-to-do-when-the-settlement-first-offer-seems-too-low/",
-      "clicks": 139,
-      "impressions": 26884,
-      "ctr": 0.005170361553340276,
-      "position": 2.00576551108466
+      "clicks": 149,
+      "impressions": 26527,
+      "ctr": 0.005616918611226298,
+      "position": 2.1371809854110904
     },
     {
       "page": "https://hillmoin.com/independent-medical-examinations-can-affect-your-injury-claim/",
-      "clicks": 98,
-      "impressions": 12434,
-      "ctr": 0.007881614926813576,
-      "position": 4.625864564902686
+      "clicks": 109,
+      "impressions": 13486,
+      "ctr": 0.00808245588017203,
+      "position": 4.578674180631767
     },
     {
       "page": "https://hillmoin.com/mta-bus-accidents-filing-a-notice-of-claim/",
-      "clicks": 98,
-      "impressions": 8780,
-      "ctr": 0.011161731207289294,
-      "position": 6.9818906605922555
+      "clicks": 103,
+      "impressions": 8557,
+      "ctr": 0.0120369288301975,
+      "position": 6.40867126329321
     },
     {
       "page": "https://hillmoin.com/how-pre-existing-conditions-affect-personal-injury-settlements/",
-      "clicks": 88,
-      "impressions": 16107,
-      "ctr": 0.005463463090581735,
-      "position": 5.89712547339666
+      "clicks": 90,
+      "impressions": 16247,
+      "ctr": 0.005539484212469995,
+      "position": 5.8757309041669235
     },
     {
       "page": "https://hillmoin.com/filing-a-claim-against-nycha-or-dot/",
-      "clicks": 67,
-      "impressions": 3282,
-      "ctr": 0.020414381474710544,
-      "position": 5.270871419865935
-    },
-    {
-      "page": "https://hillmoin.com/dealing-with-out-of-state-drivers-in-nyc-car-accidents/",
-      "clicks": 57,
-      "impressions": 3362,
-      "ctr": 0.016954193932183226,
-      "position": 7.216240333135039
+      "clicks": 88,
+      "impressions": 3826,
+      "ctr": 0.02300052273915316,
+      "position": 5.101411395713539
     },
     {
       "page": "https://hillmoin.com/latest-news/a-fatal-crash-on-the-belt-parkway-noah-thompson-jewel-perez/",
-      "clicks": 57,
-      "impressions": 1806,
-      "ctr": 0.03156146179401993,
-      "position": 8.734772978959025
+      "clicks": 67,
+      "impressions": 2027,
+      "ctr": 0.03305377405032067,
+      "position": 7.273803650715343
+    },
+    {
+      "page": "https://hillmoin.com/dealing-with-out-of-state-drivers-in-nyc-car-accidents/",
+      "clicks": 47,
+      "impressions": 3562,
+      "ctr": 0.013194834362717574,
+      "position": 6.762773722627737
     },
     {
       "page": "https://hillmoin.com/nyc-dog-bite-laws-when-can-you-sue-the-dog-owner/",
-      "clicks": 40,
-      "impressions": 6526,
-      "ctr": 0.006129328838492185,
-      "position": 21.48620901011339
+      "clicks": 45,
+      "impressions": 6690,
+      "ctr": 0.006726457399103139,
+      "position": 19.494020926756352
     },
     {
       "page": "https://hillmoin.com/our-team/",
-      "clicks": 40,
-      "impressions": 4582,
-      "ctr": 0.008729812309035356,
-      "position": 5.177869925796595
+      "clicks": 44,
+      "impressions": 25732,
+      "ctr": 0.001709933157158402,
+      "position": 9.773200683973263
     },
     {
       "page": "https://hillmoin.com/can-you-file-a-lawsuit-for-carbon-monoxide-poisoning-in-an-apartment/",
-      "clicks": 36,
-      "impressions": 6993,
-      "ctr": 0.005148005148005148,
-      "position": 6.142857142857143
+      "clicks": 34,
+      "impressions": 6640,
+      "ctr": 0.0051204819277108436,
+      "position": 5.899849397590361
     },
     {
-      "page": "https://hillmoin.com/what-to-expect-in-a-deposition-for-a-personal-injury-case/",
-      "clicks": 35,
-      "impressions": 7092,
-      "ctr": 0.004935138183869149,
-      "position": 5.674985899605189
+      "page": "https://hillmoin.com/cheryl-eisberg-moin/",
+      "clicks": 33,
+      "impressions": 1266,
+      "ctr": 0.026066350710900472,
+      "position": 11.842022116903633
+    },
+    {
+      "page": "https://hillmoin.com/david-zwerin/",
+      "clicks": 33,
+      "impressions": 277,
+      "ctr": 0.11913357400722022,
+      "position": 4.368231046931408
+    },
+    {
+      "page": "https://hillmoin.com/what-to-do-after-a-hit-and-run-in-new-york-city/",
+      "clicks": 33,
+      "impressions": 2353,
+      "ctr": 0.014024649383765405,
+      "position": 5.67318317042074
     },
     {
       "page": "https://hillmoin.com/legal-options-for-victims-of-assault-in-apartment-complexes/",
       "clicks": 32,
-      "impressions": 3287,
-      "ctr": 0.009735320961362945,
-      "position": 6.164283541223
+      "impressions": 3225,
+      "ctr": 0.00992248062015504,
+      "position": 6.069147286821705
     },
     {
       "page": "https://hillmoin.com/time-limits-for-filing-a-claim-against-a-government-entity-in-ny/",
+      "clicks": 32,
+      "impressions": 6614,
+      "ctr": 0.004838221953432114,
+      "position": 7.203205322044149
+    },
+    {
+      "page": "https://hillmoin.com/what-to-expect-in-a-deposition-for-a-personal-injury-case/",
       "clicks": 31,
-      "impressions": 6172,
-      "ctr": 0.005022683084899547,
-      "position": 7.336033700583279
+      "impressions": 6770,
+      "ctr": 0.004579025110782866,
+      "position": 5.615805022156573
     },
     {
       "page": "https://hillmoin.com/understanding-vicarious-liability-in-new-york-personal-injury-cases/",
-      "clicks": 31,
-      "impressions": 8932,
-      "ctr": 0.003470667263770712,
-      "position": 5.655620241827139
-    },
-    {
-      "page": "https://hillmoin.com/david-zwerin/",
-      "clicks": 29,
-      "impressions": 559,
-      "ctr": 0.0518783542039356,
-      "position": 6.542039355992844
-    },
-    {
-      "page": "https://hillmoin.com/matrimonial-law-mediation-and-marital-assets-with-sheera-gefen/",
-      "clicks": 27,
-      "impressions": 513,
-      "ctr": 0.05263157894736842,
-      "position": 14.701754385964913
-    },
-    {
-      "page": "https://hillmoin.com/cheryl-eisberg-moin/",
-      "clicks": 26,
-      "impressions": 6417,
-      "ctr": 0.004051737572074178,
-      "position": 9.901823281907433
+      "clicks": 28,
+      "impressions": 9766,
+      "ctr": 0.0028670899037476962,
+      "position": 5.425046078230596
     },
     {
       "page": "https://hillmoin.com/eric-wittels/",
-      "clicks": 24,
-      "impressions": 537,
-      "ctr": 0.0446927374301676,
-      "position": 7.8975791433891995
+      "clicks": 26,
+      "impressions": 178,
+      "ctr": 0.14606741573033707,
+      "position": 8.235955056179776
+    },
+    {
+      "page": "https://hillmoin.com/medical-malpractice-lawyer/dental/",
+      "clicks": 25,
+      "impressions": 6657,
+      "ctr": 0.003755445395823945,
+      "position": 15.640979420159232
     },
     {
       "page": "https://hillmoin.com/motorcycle-accident-lawyer/crash-bar/",
       "clicks": 24,
-      "impressions": 12306,
-      "ctr": 0.0019502681618722574,
-      "position": 6.441329432797009
-    },
-    {
-      "page": "https://hillmoin.com/medical-malpractice-lawyer/dental/",
-      "clicks": 21,
-      "impressions": 5853,
-      "ctr": 0.0035879036391594054,
-      "position": 17.01110541602597
-    },
-    {
-      "page": "https://hillmoin.com/suing-for-injuries-from-a-collapsing-ceiling-or-building-structure/",
-      "clicks": 21,
-      "impressions": 5392,
-      "ctr": 0.003894658753709199,
-      "position": 12.010942136498516
-    },
-    {
-      "page": "https://hillmoin.com/slip-and-fall-on-public-transportation-in-nyc/",
-      "clicks": 19,
-      "impressions": 1712,
-      "ctr": 0.011098130841121495,
-      "position": 8.468457943925234
-    },
-    {
-      "page": "https://hillmoin.com/a-rising-voice-for-democracy-in-queens-with-ethan-felder/",
-      "clicks": 18,
-      "impressions": 424,
-      "ctr": 0.04245283018867924,
-      "position": 8.023584905660378
+      "impressions": 11690,
+      "ctr": 0.002053036783575706,
+      "position": 5.934131736526946
     },
     {
       "page": "https://hillmoin.com/ime-vs-treating-doctor/",
-      "clicks": 18,
-      "impressions": 1754,
-      "ctr": 0.010262257696693273,
-      "position": 6.349486887115165
+      "clicks": 23,
+      "impressions": 2961,
+      "ctr": 0.007767646065518406,
+      "position": 4.7592029719689295
     },
     {
-      "page": "https://hillmoin.com/navigating-personal-injury-claims-involving-public-transportation-in-new-york/",
-      "clicks": 18,
-      "impressions": 2990,
-      "ctr": 0.006020066889632107,
-      "position": 10.36923076923077
+      "page": "https://hillmoin.com/matrimonial-law-mediation-and-marital-assets-with-sheera-gefen/",
+      "clicks": 23,
+      "impressions": 492,
+      "ctr": 0.046747967479674794,
+      "position": 13.298780487804878
     },
     {
-      "page": "https://hillmoin.com/what-to-do-after-a-hit-and-run-in-new-york-city/",
+      "page": "https://hillmoin.com/suing-for-injuries-from-a-collapsing-ceiling-or-building-structure/",
+      "clicks": 22,
+      "impressions": 5481,
+      "ctr": 0.0040138660828316,
+      "position": 11.31837255975187
+    },
+    {
+      "page": "https://hillmoin.com/contact/",
+      "clicks": 21,
+      "impressions": 4397,
+      "ctr": 0.0047759836251989995,
+      "position": 7.6399818057766655
+    },
+    {
+      "page": "https://hillmoin.com/a-rising-voice-for-democracy-in-queens-with-ethan-felder/",
+      "clicks": 19,
+      "impressions": 383,
+      "ctr": 0.04960835509138381,
+      "position": 8.078328981723239
+    },
+    {
+      "page": "https://hillmoin.com/medical-malpractice-lawyer/cosmetic/",
       "clicks": 18,
-      "impressions": 1154,
-      "ctr": 0.01559792027729636,
-      "position": 6.857019064124783
+      "impressions": 2751,
+      "ctr": 0.006543075245365322,
+      "position": 32.858960378044344
+    },
+    {
+      "page": "https://hillmoin.com/melisande-hill/",
+      "clicks": 17,
+      "impressions": 408,
+      "ctr": 0.041666666666666664,
+      "position": 8.345588235294118
+    },
+    {
+      "page": "https://hillmoin.com/quantifying-emotional-distress-in-ny/",
+      "clicks": 17,
+      "impressions": 2889,
+      "ctr": 0.005884389061959155,
+      "position": 13.330564209068882
+    },
+    {
+      "page": "https://hillmoin.com/slip-and-fall-on-public-transportation-in-nyc/",
+      "clicks": 17,
+      "impressions": 1540,
+      "ctr": 0.01103896103896104,
+      "position": 8.71103896103896
+    },
+    {
+      "page": "https://hillmoin.com/when-hotel-leaks-cause-slip-and-fall-injuries/",
+      "clicks": 17,
+      "impressions": 5727,
+      "ctr": 0.002968395320412083,
+      "position": 7.252837436703335
     },
     {
       "page": "https://hillmoin.com/are-nursing-home-falls-neglect-or-accidents/",
       "clicks": 16,
-      "impressions": 3831,
-      "ctr": 0.004176455233620465,
-      "position": 15.024797702949622
-    },
-    {
-      "page": "https://hillmoin.com/contact/",
-      "clicks": 16,
-      "impressions": 10621,
-      "ctr": 0.0015064494868656435,
-      "position": 8.777233782129743
-    },
-    {
-      "page": "https://hillmoin.com/medical-malpractice-lawyer/cosmetic/",
-      "clicks": 16,
-      "impressions": 2964,
-      "ctr": 0.005398110661268556,
-      "position": 40.68184885290148
+      "impressions": 4032,
+      "ctr": 0.003968253968253968,
+      "position": 13.37673611111111
     },
     {
       "page": "https://hillmoin.com/social-security-disability-lawyer/",
       "clicks": 16,
-      "impressions": 18534,
-      "ctr": 0.0008632782993417503,
-      "position": 36.461260386317036
+      "impressions": 21889,
+      "ctr": 0.000730960756544383,
+      "position": 34.514048152039834
+    },
+    {
+      "page": "https://hillmoin.com/navigating-personal-injury-claims-involving-public-transportation-in-new-york/",
+      "clicks": 14,
+      "impressions": 2717,
+      "ctr": 0.005152741994847258,
+      "position": 10.313213102686786
     },
     {
       "page": "https://hillmoin.com/ben-berman/",
-      "clicks": 14,
-      "impressions": 398,
-      "ctr": 0.035175879396984924,
-      "position": 9.605527638190955
-    },
-    {
-      "page": "https://hillmoin.com/how-to-document-evidence-after-a-dog-bite-in-nyc/",
-      "clicks": 14,
-      "impressions": 2389,
-      "ctr": 0.0058601925491837585,
-      "position": 8.240267894516535
+      "clicks": 13,
+      "impressions": 383,
+      "ctr": 0.033942558746736295,
+      "position": 10.2088772845953
     },
     {
       "page": "https://hillmoin.com/nassau-county-ny-medical-malpractice-lawyer/",
-      "clicks": 14,
-      "impressions": 12056,
-      "ctr": 0.001161247511612475,
-      "position": 34.70587259455873
-    },
-    {
-      "page": "https://hillmoin.com/quantifying-emotional-distress-in-ny/",
-      "clicks": 14,
-      "impressions": 2787,
-      "ctr": 0.005023322569070686,
-      "position": 14.846071044133478
+      "clicks": 13,
+      "impressions": 16903,
+      "ctr": 0.0007690942436253919,
+      "position": 29.557829971011063
     },
     {
       "page": "https://hillmoin.com/truck-accidents-lawyer/",
-      "clicks": 14,
-      "impressions": 63429,
-      "ctr": 0.0002207192293745763,
-      "position": 29.064544608932824
-    },
-    {
-      "page": "https://hillmoin.com/wrongful-death-beneficiaries-in-new-york/",
       "clicks": 13,
-      "impressions": 543,
-      "ctr": 0.02394106813996317,
-      "position": 5.705340699815838
-    },
-    {
-      "page": "https://hillmoin.com/melisande-hill/",
-      "clicks": 12,
-      "impressions": 2385,
-      "ctr": 0.005031446540880503,
-      "position": 7.484696016771489
+      "impressions": 80314,
+      "ctr": 0.0001618646811265782,
+      "position": 25.4651368379112
     },
     {
       "page": "https://hillmoin.com/surveillance-personal-injury-cases-what-you-need-to-know/",
       "clicks": 12,
-      "impressions": 1853,
-      "ctr": 0.0064759848893685915,
-      "position": 6.593631948192121
+      "impressions": 2032,
+      "ctr": 0.005905511811023622,
+      "position": 5.8577755905511815
     },
     {
       "page": "https://hillmoin.com/the-importance-of-uninsured-motorist-coverage-in-new-york/",
-      "clicks": 12,
-      "impressions": 5314,
-      "ctr": 0.002258185923974407,
-      "position": 16.586940158073013
-    },
-    {
-      "page": "https://hillmoin.com/go-to-doctor-after-slip-and-fall/",
       "clicks": 11,
-      "impressions": 1735,
-      "ctr": 0.006340057636887608,
-      "position": 10.236887608069164
+      "impressions": 4442,
+      "ctr": 0.002476361999099505,
+      "position": 14.30121566861774
     },
     {
       "page": "https://hillmoin.com/driver-involved-in-auto-collision-accident-with-a-usps-truck-receives-590000-settlement-in-federal-court/",
       "clicks": 10,
-      "impressions": 516,
-      "ctr": 0.01937984496124031,
-      "position": 17.872093023255815
+      "impressions": 506,
+      "ctr": 0.019762845849802372,
+      "position": 15.814229249011857
+    },
+    {
+      "page": "https://hillmoin.com/how-to-document-evidence-after-a-dog-bite-in-nyc/",
+      "clicks": 10,
+      "impressions": 1946,
+      "ctr": 0.0051387461459403904,
+      "position": 9.034943473792394
     },
     {
       "page": "https://hillmoin.com/no-fault-auto-insurance-in-new-york-what-it-means-for-your-injury-claim/",
       "clicks": 10,
-      "impressions": 1584,
-      "ctr": 0.006313131313131313,
-      "position": 16.196338383838384
+      "impressions": 2494,
+      "ctr": 0.00400962309542903,
+      "position": 16.598235765838012
     },
     {
       "page": "https://hillmoin.com/salon-receptionist-suffers-serious-injuries-when-vehicle-crashes-through-storefront-is-awarded-750000/",
       "clicks": 10,
-      "impressions": 92,
-      "ctr": 0.10869565217391304,
-      "position": 7.119565217391305
+      "impressions": 103,
+      "ctr": 0.0970873786407767,
+      "position": 6.980582524271845
     },
     {
-      "page": "https://hillmoin.com/understanding-no-fault-insurance-laws-in-new-york/",
+      "page": "https://hillmoin.com/vision-zero-and-pedestrian-safety-on-new-york-city-streets/",
       "clicks": 10,
-      "impressions": 7906,
-      "ctr": 0.0012648621300278269,
-      "position": 17.180116367315964
+      "impressions": 8239,
+      "ctr": 0.001213739531496541,
+      "position": 6.680058259497512
+    },
+    {
+      "page": "https://hillmoin.com/what-to-do-immediately-after-a-car-accident-in-nyc/",
+      "clicks": 10,
+      "impressions": 4376,
+      "ctr": 0.0022851919561243145,
+      "position": 18.615402193784277
+    },
+    {
+      "page": "https://hillmoin.com/construction-accidents-lawyer/",
+      "clicks": 9,
+      "impressions": 87230,
+      "ctr": 0.00010317551301157859,
+      "position": 21.4882150636249
     },
     {
       "page": "https://hillmoin.com/family-law-mindfulness-and-growing-a-law-firm-with-leona-krasner/",
       "clicks": 9,
-      "impressions": 3678,
-      "ctr": 0.0024469820554649264,
-      "position": 7.561990212071779
+      "impressions": 3583,
+      "ctr": 0.0025118615685180016,
+      "position": 7.548702204856266
     },
     {
       "page": "https://hillmoin.com/how-weather-conditions-affect-slip-and-fall-cases/",
       "clicks": 9,
-      "impressions": 1463,
-      "ctr": 0.006151742993848257,
-      "position": 7.8386876281613125
+      "impressions": 1444,
+      "ctr": 0.006232686980609419,
+      "position": 7.61218836565097
     },
     {
-      "page": "https://hillmoin.com/jason-araujo/",
+      "page": "https://hillmoin.com/wrongful-death-beneficiaries-in-new-york/",
       "clicks": 9,
-      "impressions": 229,
-      "ctr": 0.039301310043668124,
-      "position": 8.397379912663755
+      "impressions": 788,
+      "ctr": 0.011421319796954314,
+      "position": 6.33502538071066
     },
     {
-      "page": "https://hillmoin.com/vision-zero-and-pedestrian-safety-on-new-york-city-streets/",
-      "clicks": 9,
-      "impressions": 6793,
-      "ctr": 0.001324893272486383,
-      "position": 6.62991314588547
-    },
-    {
-      "page": "https://hillmoin.com/what-to-do-immediately-after-a-car-accident-in-nyc/",
-      "clicks": 9,
-      "impressions": 4615,
-      "ctr": 0.0019501625135427952,
-      "position": 20.890574214517876
+      "page": "https://hillmoin.com/hand-and-wrist-injury-lawyer/",
+      "clicks": 8,
+      "impressions": 1363,
+      "ctr": 0.00586940572267058,
+      "position": 18.99853264856933
     }
   ],
-  "fetchedAt": "2026-03-18T13:06:23.394Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "car accident lawyer in long island hill and moin",
+      "clicks": 88,
+      "impressions": 171,
+      "ctr": 0.5146198830409356,
+      "position": 1.0467836257309941
+    },
+    {
+      "query": "car accident lawyer long island ny hill and moin",
+      "clicks": 85,
+      "impressions": 163,
+      "ctr": 0.5214723926380368,
+      "position": 1.0368098159509203
+    },
+    {
+      "query": "hill and moin",
+      "clicks": 82,
+      "impressions": 427,
+      "ctr": 0.1920374707259953,
+      "position": 1.0046838407494145
+    },
+    {
+      "query": "car accident lawyer new york hill and moin",
+      "clicks": 70,
+      "impressions": 79,
+      "ctr": 0.8860759493670886,
+      "position": 1.0253164556962024
+    },
+    {
+      "query": "new york car accident lawyer hill and moin",
+      "clicks": 55,
+      "impressions": 61,
+      "ctr": 0.9016393442622951,
+      "position": 1
+    },
+    {
+      "query": "new york city car accident lawyer hill and moin",
+      "clicks": 48,
+      "impressions": 50,
+      "ctr": 0.96,
+      "position": 1
+    },
+    {
+      "query": "hill & moin",
+      "clicks": 35,
+      "impressions": 119,
+      "ctr": 0.29411764705882354,
+      "position": 1
+    },
+    {
+      "query": "construction accident attorney new york",
+      "clicks": 33,
+      "impressions": 1882,
+      "ctr": 0.01753453772582359,
+      "position": 69.42986184909671
+    },
+    {
+      "query": "hill & moin llp",
+      "clicks": 26,
+      "impressions": 214,
+      "ctr": 0.12149532710280374,
+      "position": 1.0046728971962617
+    },
+    {
+      "query": "david zwerin",
+      "clicks": 13,
+      "impressions": 89,
+      "ctr": 0.14606741573033707,
+      "position": 3.662921348314607
+    },
+    {
+      "query": "slip and fall accident lawyer",
+      "clicks": 12,
+      "impressions": 3779,
+      "ctr": 0.0031754432389521038,
+      "position": 54.667372320719764
+    },
+    {
+      "query": "hill & moin llp - accident attorneys",
+      "clicks": 11,
+      "impressions": 363,
+      "ctr": 0.030303030303030304,
+      "position": 1.0743801652892562
+    },
+    {
+      "query": "hill and moin reviews",
+      "clicks": 10,
+      "impressions": 131,
+      "ctr": 0.07633587786259542,
+      "position": 2.6946564885496183
+    },
+    {
+      "query": "new york personal injury lawyer",
+      "clicks": 10,
+      "impressions": 1968,
+      "ctr": 0.00508130081300813,
+      "position": 6.475101626016261
+    },
+    {
+      "query": "personal injury attorneys in nyc",
+      "clicks": 8,
+      "impressions": 241,
+      "ctr": 0.03319502074688797,
+      "position": 49.93775933609958
+    },
+    {
+      "query": "new york car accident lawyer",
+      "clicks": 7,
+      "impressions": 4932,
+      "ctr": 0.001419302514193025,
+      "position": 16.52595296025953
+    },
+    {
+      "query": "car accident lawyer new york ny",
+      "clicks": 6,
+      "impressions": 526,
+      "ctr": 0.011406844106463879,
+      "position": 20.488593155893536
+    },
+    {
+      "query": "slip and fall lawyer",
+      "clicks": 6,
+      "impressions": 19661,
+      "ctr": 0.0003051726768729973,
+      "position": 67.57820049844871
+    },
+    {
+      "query": "car accident lawyer ny",
+      "clicks": 5,
+      "impressions": 855,
+      "ctr": 0.005847953216374269,
+      "position": 1.4923976608187135
+    },
+    {
+      "query": "new york car accident lawyer hill",
+      "clicks": 5,
+      "impressions": 85,
+      "ctr": 0.058823529411764705,
+      "position": 1
+    },
+    {
+      "query": "new york ny car accident lawyer",
+      "clicks": 5,
+      "impressions": 70,
+      "ctr": 0.07142857142857142,
+      "position": 1.3142857142857143
+    },
+    {
+      "query": "new york personal injury attorney",
+      "clicks": 5,
+      "impressions": 2316,
+      "ctr": 0.002158894645941278,
+      "position": 2.4322107081174438
+    },
+    {
+      "query": "nyc injury lawyer",
+      "clicks": 5,
+      "impressions": 370,
+      "ctr": 0.013513513513513514,
+      "position": 17.594594594594593
+    },
+    {
+      "query": "nyc personal injury lawyer",
+      "clicks": 5,
+      "impressions": 696,
+      "ctr": 0.007183908045977011,
+      "position": 10.50287356321839
+    },
+    {
+      "query": "auto accident attorney hill moin",
+      "clicks": 4,
+      "impressions": 95,
+      "ctr": 0.042105263157894736,
+      "position": 1
+    },
+    {
+      "query": "car accident lawyer manhatten",
+      "clicks": 4,
+      "impressions": 131,
+      "ctr": 0.030534351145038167,
+      "position": 3.946564885496183
+    },
+    {
+      "query": "car accident lawyer new york",
+      "clicks": 4,
+      "impressions": 2483,
+      "ctr": 0.0016109544905356424,
+      "position": 14.171566653242046
+    },
+    {
+      "query": "construction accident attorneys",
+      "clicks": 4,
+      "impressions": 900,
+      "ctr": 0.0044444444444444444,
+      "position": 16.52
+    },
+    {
+      "query": "ethan felder",
+      "clicks": 4,
+      "impressions": 114,
+      "ctr": 0.03508771929824561,
+      "position": 8.307017543859649
+    },
+    {
+      "query": "accident lawyer hill moin",
+      "clicks": 3,
+      "impressions": 73,
+      "ctr": 0.0410958904109589,
+      "position": 1
+    },
+    {
+      "query": "auto lawyers hill moin",
+      "clicks": 3,
+      "impressions": 64,
+      "ctr": 0.046875,
+      "position": 1
+    },
+    {
+      "query": "car accident lawyer manhattan",
+      "clicks": 3,
+      "impressions": 740,
+      "ctr": 0.004054054054054054,
+      "position": 8.327027027027027
+    },
+    {
+      "query": "east price hill car accident lawyer",
+      "clicks": 3,
+      "impressions": 6,
+      "ctr": 0.5,
+      "position": 1.5
+    },
+    {
+      "query": "hill & moin llp accident attorneys",
+      "clicks": 3,
+      "impressions": 84,
+      "ctr": 0.03571428571428571,
+      "position": 1
+    },
+    {
+      "query": "car accident injury lawyer new york",
+      "clicks": 2,
+      "impressions": 160,
+      "ctr": 0.0125,
+      "position": 15.9
+    },
+    {
+      "query": "car accident lawyer in new york state",
+      "clicks": 2,
+      "impressions": 62,
+      "ctr": 0.03225806451612903,
+      "position": 1.2096774193548387
+    },
+    {
+      "query": "car accident lawyer in ny",
+      "clicks": 2,
+      "impressions": 242,
+      "ctr": 0.008264462809917356,
+      "position": 1.0495867768595042
+    },
+    {
+      "query": "car accident lawyer new york 10006",
+      "clicks": 2,
+      "impressions": 87,
+      "ctr": 0.022988505747126436,
+      "position": 1.8505747126436782
+    },
+    {
+      "query": "car accident lawyer nyc",
+      "clicks": 2,
+      "impressions": 3024,
+      "ctr": 0.0006613756613756613,
+      "position": 2.445767195767196
+    },
+    {
+      "query": "leona krasner",
+      "clicks": 2,
+      "impressions": 62,
+      "ctr": 0.03225806451612903,
+      "position": 10.225806451612904
+    },
+    {
+      "query": "new york personal injury attorneys",
+      "clicks": 2,
+      "impressions": 1235,
+      "ctr": 0.0016194331983805667,
+      "position": 1.0170040485829959
+    },
+    {
+      "query": "new your car accident lawyer",
+      "clicks": 2,
+      "impressions": 72,
+      "ctr": 0.027777777777777776,
+      "position": 1
+    },
+    {
+      "query": "newyork car accident lawyer",
+      "clicks": 2,
+      "impressions": 52,
+      "ctr": 0.038461538461538464,
+      "position": 1
+    },
+    {
+      "query": "nyc car accident lawyer",
+      "clicks": 2,
+      "impressions": 2388,
+      "ctr": 0.0008375209380234506,
+      "position": 16.452680067001673
+    },
+    {
+      "query": "park hill car accident lawyer",
+      "clicks": 2,
+      "impressions": 8,
+      "ctr": 0.25,
+      "position": 5.375
+    },
+    {
+      "query": "personal injury lawyer in new york",
+      "clicks": 2,
+      "impressions": 645,
+      "ctr": 0.0031007751937984496,
+      "position": 1.0852713178294573
+    },
+    {
+      "query": "personal injury lawyer near me",
+      "clicks": 2,
+      "impressions": 891,
+      "ctr": 0.002244668911335578,
+      "position": 1.1526374859708193
+    },
+    {
+      "query": "personal injury lawyer new york",
+      "clicks": 2,
+      "impressions": 1221,
+      "ctr": 0.001638001638001638,
+      "position": 1.4905814905814907
+    },
+    {
+      "query": "personal injury lawyer nyc",
+      "clicks": 2,
+      "impressions": 922,
+      "ctr": 0.0021691973969631237,
+      "position": 1.6594360086767896
+    },
+    {
+      "query": "scaffold accident lawyer",
+      "clicks": 2,
+      "impressions": 1890,
+      "ctr": 0.0010582010582010583,
+      "position": 16.128042328042326
+    },
+    {
+      "query": "accident attorney",
+      "clicks": 1,
+      "impressions": 2709,
+      "ctr": 0.00036913990402362494,
+      "position": 1.3285345145810261
+    },
+    {
+      "query": "accident attorney in new york",
+      "clicks": 1,
+      "impressions": 191,
+      "ctr": 0.005235602094240838,
+      "position": 26.638743455497384
+    },
+    {
+      "query": "accident lawyer in new york",
+      "clicks": 1,
+      "impressions": 563,
+      "ctr": 0.0017761989342806395,
+      "position": 19.614564831261102
+    },
+    {
+      "query": "auto accident attorney hillllllll and moin",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 1
+    },
+    {
+      "query": "auto car accident lawyer new york",
+      "clicks": 1,
+      "impressions": 66,
+      "ctr": 0.015151515151515152,
+      "position": 2.8484848484848486
+    },
+    {
+      "query": "best accident lawyers in new york",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 1.8421052631578947
+    },
+    {
+      "query": "best car accident lawyers in nyc",
+      "clicks": 1,
+      "impressions": 436,
+      "ctr": 0.0022935779816513763,
+      "position": 1.2889908256880733
+    },
+    {
+      "query": "best injury lawyer nyc",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 56.470588235294116
+    },
+    {
+      "query": "best malpractice lawyers in new york",
+      "clicks": 1,
+      "impressions": 66,
+      "ctr": 0.015151515151515152,
+      "position": 55.63636363636363
+    },
+    {
+      "query": "best medical malpractice attorneys in new york city",
+      "clicks": 1,
+      "impressions": 73,
+      "ctr": 0.0136986301369863,
+      "position": 38.0958904109589
+    },
+    {
+      "query": "best medical malpractice lawyers in new york",
+      "clicks": 1,
+      "impressions": 171,
+      "ctr": 0.005847953216374269,
+      "position": 3.0994152046783627
+    },
+    {
+      "query": "car accident attorney nyc",
+      "clicks": 1,
+      "impressions": 2373,
+      "ctr": 0.00042140750105351877,
+      "position": 17.84913611462284
+    },
+    {
+      "query": "car accident lawyer brooklyn",
+      "clicks": 1,
+      "impressions": 113,
+      "ctr": 0.008849557522123894,
+      "position": 1.504424778761062
+    },
+    {
+      "query": "car accident lawyer la",
+      "clicks": 1,
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 1.625
+    },
+    {
+      "query": "car accident lawyer near me",
+      "clicks": 1,
+      "impressions": 1508,
+      "ctr": 0.000663129973474801,
+      "position": 1.0484084880636604
+    },
+    {
+      "query": "car accident personal injury lawyer new york",
+      "clicks": 1,
+      "impressions": 39,
+      "ctr": 0.02564102564102564,
+      "position": 1.8717948717948718
+    },
+    {
+      "query": "car crash injury lawyer hill moin",
+      "clicks": 1,
+      "impressions": 60,
+      "ctr": 0.016666666666666666,
+      "position": 1.3333333333333333
+    },
+    {
+      "query": "car injury law firms hill moin",
+      "clicks": 1,
+      "impressions": 54,
+      "ctr": 0.018518518518518517,
+      "position": 1.037037037037037
+    },
+    {
+      "query": "construction accident law firm hill and moin",
+      "clicks": 1,
+      "impressions": 187,
+      "ctr": 0.0053475935828877,
+      "position": 1.0053475935828877
+    },
+    {
+      "query": "construction accident lawyer",
+      "clicks": 1,
+      "impressions": 3481,
+      "ctr": 0.0002872737719046251,
+      "position": 21.85636311404769
+    },
+    {
+      "query": "construction site accident attorneys",
+      "clicks": 1,
+      "impressions": 277,
+      "ctr": 0.0036101083032490976,
+      "position": 4.7075812274368225
+    },
+    {
+      "query": "cosmetic injury lawyers",
+      "clicks": 1,
+      "impressions": 61,
+      "ctr": 0.01639344262295082,
+      "position": 53.278688524590166
+    },
+    {
+      "query": "elevator accident lawyer",
+      "clicks": 1,
+      "impressions": 758,
+      "ctr": 0.0013192612137203166,
+      "position": 46.52506596306068
+    },
+    {
+      "query": "hill moin",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "irina moin",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 23.714285714285715
+    },
+    {
+      "query": "leona krasner lawyer",
+      "clicks": 1,
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 9.666666666666666
+    },
+    {
+      "query": "lost hills motorcycle accident lawyer",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 9.8
+    },
+    {
+      "query": "medical malpractice lawyer nyc",
+      "clicks": 1,
+      "impressions": 1464,
+      "ctr": 0.0006830601092896175,
+      "position": 68.66188524590164
+    },
+    {
+      "query": "medical malpractice lawyers in new york",
+      "clicks": 1,
+      "impressions": 253,
+      "ctr": 0.003952569169960474,
+      "position": 5.158102766798419
+    },
+    {
+      "query": "medical negligence lawyers",
+      "clicks": 1,
+      "impressions": 92,
+      "ctr": 0.010869565217391304,
+      "position": 2.4130434782608696
+    },
+    {
+      "query": "mta no fault claims department",
+      "clicks": 1,
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 13.777777777777779
+    },
+    {
+      "query": "new york accident lawyer",
+      "clicks": 1,
+      "impressions": 1685,
+      "ctr": 0.0005934718100890207,
+      "position": 13.374480712166172
+    },
+    {
+      "query": "new york auto accident lawyer",
+      "clicks": 1,
+      "impressions": 2436,
+      "ctr": 0.00041050903119868636,
+      "position": 14.005747126436782
+    },
+    {
+      "query": "new york city accident lawyer",
+      "clicks": 1,
+      "impressions": 776,
+      "ctr": 0.001288659793814433,
+      "position": 14.150773195876289
+    },
+    {
+      "query": "new york city car accident lawyer",
+      "clicks": 1,
+      "impressions": 4316,
+      "ctr": 0.00023169601482854495,
+      "position": 9.720574606116775
+    },
+    {
+      "query": "new york crane accident lawyer",
+      "clicks": 1,
+      "impressions": 743,
+      "ctr": 0.0013458950201884253,
+      "position": 34.12113055181696
+    },
+    {
+      "query": "new york injury law",
+      "clicks": 1,
+      "impressions": 105,
+      "ctr": 0.009523809523809525,
+      "position": 3.5238095238095237
+    },
+    {
+      "query": "new york injury law firm",
+      "clicks": 1,
+      "impressions": 356,
+      "ctr": 0.0028089887640449437,
+      "position": 1.0308988764044944
+    },
+    {
+      "query": "new york personal injury law firms",
+      "clicks": 1,
+      "impressions": 109,
+      "ctr": 0.009174311926605505,
+      "position": 1.1926605504587156
+    },
+    {
+      "query": "ny car accident lawyer",
+      "clicks": 1,
+      "impressions": 1077,
+      "ctr": 0.0009285051067780873,
+      "position": 18.904363974001857
+    },
+    {
+      "query": "ny injury law firm",
+      "clicks": 1,
+      "impressions": 62,
+      "ctr": 0.016129032258064516,
+      "position": 1
+    },
+    {
+      "query": "nyc car accident lawyers",
+      "clicks": 1,
+      "impressions": 1052,
+      "ctr": 0.0009505703422053232,
+      "position": 15.915399239543726
+    },
+    {
+      "query": "nyc medical malpractice lawyer",
+      "clicks": 1,
+      "impressions": 195,
+      "ctr": 0.005128205128205128,
+      "position": 6.21025641025641
+    },
+    {
+      "query": "pedestrian accident lawyer new york",
+      "clicks": 1,
+      "impressions": 379,
+      "ctr": 0.002638522427440633,
+      "position": 22.17414248021108
+    },
+    {
+      "query": "personal injury attorney new york",
+      "clicks": 1,
+      "impressions": 2018,
+      "ctr": 0.0004955401387512388,
+      "position": 1.0530227948463826
+    },
+    {
+      "query": "personal injury attorney ny",
+      "clicks": 1,
+      "impressions": 896,
+      "ctr": 0.0011160714285714285,
+      "position": 1.0189732142857142
+    },
+    {
+      "query": "personal injury attorney nyc",
+      "clicks": 1,
+      "impressions": 732,
+      "ctr": 0.001366120218579235,
+      "position": 1.1530054644808743
+    },
+    {
+      "query": "personal injury law firms in new york",
+      "clicks": 1,
+      "impressions": 70,
+      "ctr": 0.014285714285714285,
+      "position": 2.5428571428571427
+    },
+    {
+      "query": "personal injury lawyer usa",
+      "clicks": 1,
+      "impressions": 85,
+      "ctr": 0.011764705882352941,
+      "position": 20.894117647058824
+    },
+    {
+      "query": "personal injury lawyers",
+      "clicks": 1,
+      "impressions": 1179,
+      "ctr": 0.0008481764206955047,
+      "position": 1.275657336726039
+    },
+    {
+      "query": "personal injury lawyers usa",
+      "clicks": 1,
+      "impressions": 23,
+      "ctr": 0.043478260869565216,
+      "position": 14.695652173913043
+    },
+    {
+      "query": "premises liability lawyer",
+      "clicks": 1,
+      "impressions": 1658,
+      "ctr": 0.0006031363088057901,
+      "position": 4.700241254523522
+    },
+    {
+      "query": "premises liability lawyer nyc",
+      "clicks": 1,
+      "impressions": 591,
+      "ctr": 0.001692047377326565,
+      "position": 17.341793570219966
+    },
+    {
+      "query": "product liability lawyer nyc",
+      "clicks": 1,
+      "impressions": 364,
+      "ctr": 0.0027472527472527475,
+      "position": 32.19230769230769
+    },
+    {
+      "query": "slip and fall attorney brooklyn",
+      "clicks": 1,
+      "impressions": 214,
+      "ctr": 0.004672897196261682,
+      "position": 26.94859813084112
+    },
+    {
+      "query": "the law offices of michael s. lamonsoff, pllc",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "top 10 personal injury attorneys in new york city",
+      "clicks": 1,
+      "impressions": 110,
+      "ctr": 0.00909090909090909,
+      "position": 2.745454545454545
+    },
+    {
+      "query": "top accident attorneys",
+      "clicks": 1,
+      "impressions": 35,
+      "ctr": 0.02857142857142857,
+      "position": 2.3714285714285714
+    },
+    {
+      "query": "top car accident lawyer nyc",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 5
+    },
+    {
+      "query": "top personal injury lawyers nyc",
+      "clicks": 1,
+      "impressions": 123,
+      "ctr": 0.008130081300813009,
+      "position": 3.7398373983739837
+    },
+    {
+      "query": "truck accident lawyer",
+      "clicks": 1,
+      "impressions": 6284,
+      "ctr": 0.00015913430935709738,
+      "position": 14.177912157861234
+    },
+    {
+      "query": "truck accident lawyer for wrecks caused by ignoring traffic signals",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 2.7777777777777777
+    },
+    {
+      "query": "truck accident lawyer nyc",
+      "clicks": 1,
+      "impressions": 2519,
+      "ctr": 0.0003969829297340214,
+      "position": 27.29416435093291
+    },
+    {
+      "query": "truck accident lawyers",
+      "clicks": 1,
+      "impressions": 1076,
+      "ctr": 0.0009293680297397769,
+      "position": 26.355947955390334
+    },
+    {
+      "query": "usps car accident settlement",
+      "clicks": 1,
+      "impressions": 45,
+      "ctr": 0.022222222222222223,
+      "position": 45.6
+    },
+    {
+      "query": "workers compensation lawyer nyc",
+      "clicks": 1,
+      "impressions": 697,
+      "ctr": 0.0014347202295552368,
+      "position": 67.25251076040172
+    },
+    {
+      "query": "york motorcycle accident lawyer",
+      "clicks": 1,
+      "impressions": 40,
+      "ctr": 0.025,
+      "position": 42.8
+    },
+    {
+      "query": "\"(212) 668-6000\" hill & moin llp - accident attorneys",
+      "clicks": 0,
+      "impressions": 57,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"(646) 452-3663\" nyc injury attorneys p.c.",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "\"accident attorney\"",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"accident attorneys\"",
+      "clicks": 0,
+      "impressions": 32,
+      "ctr": 0,
+      "position": 1.03125
+    },
+    {
+      "query": "\"accident compensation lawyers\"",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 1.1764705882352942
+    },
+    {
+      "query": "\"accidents lawyers\"",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"accidents\"",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 4.666666666666666
+    },
+    {
+      "query": "\"auto accident law\"",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 9.75
+    },
+    {
+      "query": "\"auto accident lawyers near me\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"ben burman avocat eurl\" ben-burman-4a40651",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 8.666666666666668
+    },
+    {
+      "query": "\"bodily injury lawyers\"",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"car accident lawyer\"",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"injuries lawyer\"",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"injury claim lawyer\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"medical personal injury lawyer near me\"",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"personal injury claim lawyer\"",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"personal injury claim lawyers\"",
+      "clicks": 0,
+      "impressions": 157,
+      "ctr": 0,
+      "position": 42.98089171974522
+    },
+    {
+      "query": "\"personal injury claims\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 42
+    },
+    {
+      "query": "\"personal injury firm\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"personal injury lawyer near me\"",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"truck accident lawyer\"",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"work injury lawyer\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"worker lawyer\"",
+      "clicks": 0,
+      "impressions": 133,
+      "ctr": 0,
+      "position": 62.43609022556391
+    },
+    {
+      "query": "\"workplace injury lawyers near me\"",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "$1.05 million",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 11.333333333333334
+    },
+    {
+      "query": "$300,000 settlement",
+      "clicks": 0,
+      "impressions": 39,
+      "ctr": 0,
+      "position": 50.794871794871796
+    },
+    {
+      "query": "$300,000 settlement attorney",
+      "clicks": 0,
+      "impressions": 33,
+      "ctr": 0,
+      "position": 69.81818181818181
+    },
+    {
+      "query": "+accident +injury +lawyer",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "+accident +lawyer",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 2.75
+    },
+    {
+      "query": "+auto +accident +attorney",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 1.1428571428571428
+    },
+    {
+      "query": "+car +accident +lawyer",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 6.75
+    },
+    {
+      "query": "+car +accident +lawyers",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "+car +crash +attorney",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 1.0666666666666667
+    },
+    {
+      "query": "+car accident +lawyer",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 8.666666666666668
+    },
+    {
+      "query": "+injury +lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 45
+    },
+    {
+      "query": "+motor +vehicle +accident +lawyer",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 11.3125
+    },
+    {
+      "query": "+personal +injury +attorney",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 10.4
+    },
+    {
+      "query": "+personal +injury +firm",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "+personal +injury +lawyer",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "+personal +injury +lawyer +near",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "+personal +injury +lawyers",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 3.75
+    },
+    {
+      "query": "1.7million dollars",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 41
+    },
+    {
+      "query": "10004 car accident lawyer",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 2.4444444444444446
+    },
+    {
+      "query": "10005 car accident lawyer",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 1.875
+    },
+    {
+      "query": "10006 car accident lawyer",
+      "clicks": 0,
+      "impressions": 72,
+      "ctr": 0,
+      "position": 1.9305555555555556
+    },
+    {
+      "query": "10011 car accident lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "10115 car accident lawyer",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "10118 car accident lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "10271 car accident lawyer",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "111 n hill",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 33
+    },
+    {
+      "query": "18 wheelefer accident attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "18 wheeler accident attorney",
+      "clicks": 0,
+      "impressions": 494,
+      "ctr": 0,
+      "position": 5.6417004048583
+    },
+    {
+      "query": "18 wheeler accident attorney mobile",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 31
+    },
+    {
+      "query": "18 wheeler accident attorney nassau county",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 12.3
+    },
+    {
+      "query": "18 wheeler accident attorney near me",
+      "clicks": 0,
+      "impressions": 67,
+      "ctr": 0,
+      "position": 6.2388059701492535
+    },
+    {
+      "query": "18 wheeler accident attorney new york",
+      "clicks": 0,
+      "impressions": 200,
+      "ctr": 0,
+      "position": 58.875
+    },
+    {
+      "query": "18 wheeler accident attorney nyc",
+      "clicks": 0,
+      "impressions": 84,
+      "ctr": 0,
+      "position": 50.345238095238095
+    },
+    {
+      "query": "18 wheeler accident attorney queens",
+      "clicks": 0,
+      "impressions": 151,
+      "ctr": 0,
+      "position": 28.94039735099338
+    },
+    {
+      "query": "18 wheeler accident attorneys",
+      "clicks": 0,
+      "impressions": 86,
+      "ctr": 0,
+      "position": 9.930232558139535
+    },
+    {
+      "query": "18 wheeler accident attorneys near me",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 14.333333333333334
+    },
+    {
+      "query": "18 wheeler accident attorneys new york",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 34
+    },
+    {
+      "query": "18 wheeler accident injury lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 31
+    },
+    {
+      "query": "18 wheeler accident law firm",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 31.77777777777778
+    },
+    {
+      "query": "18 wheeler accident law firms",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 31
+    },
+    {
+      "query": "18 wheeler accident lawyer",
+      "clicks": 0,
+      "impressions": 1296,
+      "ctr": 0,
+      "position": 30.358796296296298
+    },
+    {
+      "query": "18 wheeler accident lawyer elmont",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 75
+    },
+    {
+      "query": "18 wheeler accident lawyer nassau county",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 12.090909090909092
+    },
+    {
+      "query": "18 wheeler accident lawyer near me",
+      "clicks": 0,
+      "impressions": 48,
+      "ctr": 0,
+      "position": 17.875
+    },
+    {
+      "query": "18 wheeler accident lawyer new york",
+      "clicks": 0,
+      "impressions": 86,
+      "ctr": 0,
+      "position": 52.348837209302324
+    },
+    {
+      "query": "18 wheeler accident lawyer nyc",
+      "clicks": 0,
+      "impressions": 45,
+      "ctr": 0,
+      "position": 52.2
+    },
+    {
+      "query": "18 wheeler accident lawyer queens",
+      "clicks": 0,
+      "impressions": 140,
+      "ctr": 0,
+      "position": 30.464285714285715
+    },
+    {
+      "query": "18 wheeler accident lawyers",
+      "clicks": 0,
+      "impressions": 152,
+      "ctr": 0,
+      "position": 22.394736842105264
+    },
+    {
+      "query": "18 wheeler accident lawyers near me",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 4.125
+    },
+    {
+      "query": "18 wheeler accidents attorney",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 27.166666666666668
+    },
+    {
+      "query": "18 wheeler accidents lawyer",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 24.5
+    },
+    {
+      "query": "18 wheeler accidet attorney",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 1.75
+    },
+    {
+      "query": "18 wheeler attorney",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 8.25
+    },
+    {
+      "query": "18 wheeler attorneys",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "18 wheeler collision attorney",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 12.666666666666666
+    },
+    {
+      "query": "18 wheeler collision lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 20
+    },
+    {
+      "query": "18 wheeler crash attorney",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 33.666666666666664
+    },
+    {
+      "query": "18 wheeler crash law firm",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 34.5
+    },
+    {
+      "query": "18 wheeler crash lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 42
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:21:20.742Z"
 }

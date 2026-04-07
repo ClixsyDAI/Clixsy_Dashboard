@@ -2,138 +2,18 @@
   "propertyId": "properties/437792914",
   "displayName": "(new)johnsonattorneysgroup.com",
   "dateRange": {
-    "start": "2025-12-17",
-    "end": "2026-03-17"
+    "start": "2026-01-06",
+    "end": "2026-04-06"
   },
   "totals": {
-    "sessions": 10663,
-    "users": 10507,
-    "screenPageViews": 14588,
-    "organicSessions": 2293,
-    "bounceRate": 0.6778687286879786,
-    "avgSessionDuration": 73.55433775112921
+    "sessions": 8810,
+    "users": 8651,
+    "screenPageViews": 12186,
+    "organicSessions": 2168,
+    "bounceRate": 0.7077357341336683,
+    "avgSessionDuration": 64.06452557473469
   },
   "dailyData": [
-    {
-      "date": "2025-12-17",
-      "sessions": 191,
-      "users": 191,
-      "screenPageViews": 235
-    },
-    {
-      "date": "2025-12-18",
-      "sessions": 169,
-      "users": 168,
-      "screenPageViews": 216
-    },
-    {
-      "date": "2025-12-19",
-      "sessions": 183,
-      "users": 182,
-      "screenPageViews": 219
-    },
-    {
-      "date": "2025-12-20",
-      "sessions": 180,
-      "users": 180,
-      "screenPageViews": 232
-    },
-    {
-      "date": "2025-12-21",
-      "sessions": 171,
-      "users": 171,
-      "screenPageViews": 219
-    },
-    {
-      "date": "2025-12-22",
-      "sessions": 194,
-      "users": 191,
-      "screenPageViews": 238
-    },
-    {
-      "date": "2025-12-23",
-      "sessions": 185,
-      "users": 182,
-      "screenPageViews": 251
-    },
-    {
-      "date": "2025-12-24",
-      "sessions": 158,
-      "users": 156,
-      "screenPageViews": 199
-    },
-    {
-      "date": "2025-12-25",
-      "sessions": 177,
-      "users": 177,
-      "screenPageViews": 221
-    },
-    {
-      "date": "2025-12-26",
-      "sessions": 161,
-      "users": 159,
-      "screenPageViews": 229
-    },
-    {
-      "date": "2025-12-27",
-      "sessions": 181,
-      "users": 181,
-      "screenPageViews": 222
-    },
-    {
-      "date": "2025-12-28",
-      "sessions": 161,
-      "users": 161,
-      "screenPageViews": 202
-    },
-    {
-      "date": "2025-12-29",
-      "sessions": 181,
-      "users": 179,
-      "screenPageViews": 242
-    },
-    {
-      "date": "2025-12-30",
-      "sessions": 177,
-      "users": 176,
-      "screenPageViews": 247
-    },
-    {
-      "date": "2025-12-31",
-      "sessions": 146,
-      "users": 146,
-      "screenPageViews": 158
-    },
-    {
-      "date": "2026-01-01",
-      "sessions": 97,
-      "users": 97,
-      "screenPageViews": 109
-    },
-    {
-      "date": "2026-01-02",
-      "sessions": 108,
-      "users": 108,
-      "screenPageViews": 117
-    },
-    {
-      "date": "2026-01-03",
-      "sessions": 98,
-      "users": 97,
-      "screenPageViews": 100
-    },
-    {
-      "date": "2026-01-04",
-      "sessions": 109,
-      "users": 109,
-      "screenPageViews": 109
-    },
-    {
-      "date": "2026-01-05",
-      "sessions": 144,
-      "users": 143,
-      "screenPageViews": 150
-    },
     {
       "date": "2026-01-06",
       "sessions": 176,
@@ -559,191 +439,349 @@
       "sessions": 86,
       "users": 82,
       "screenPageViews": 102
+    },
+    {
+      "date": "2026-03-18",
+      "sessions": 92,
+      "users": 91,
+      "screenPageViews": 98
+    },
+    {
+      "date": "2026-03-19",
+      "sessions": 110,
+      "users": 107,
+      "screenPageViews": 120
+    },
+    {
+      "date": "2026-03-20",
+      "sessions": 147,
+      "users": 145,
+      "screenPageViews": 177
+    },
+    {
+      "date": "2026-03-21",
+      "sessions": 51,
+      "users": 51,
+      "screenPageViews": 53
+    },
+    {
+      "date": "2026-03-22",
+      "sessions": 43,
+      "users": 43,
+      "screenPageViews": 45
+    },
+    {
+      "date": "2026-03-23",
+      "sessions": 51,
+      "users": 48,
+      "screenPageViews": 61
+    },
+    {
+      "date": "2026-03-24",
+      "sessions": 69,
+      "users": 66,
+      "screenPageViews": 77
+    },
+    {
+      "date": "2026-03-25",
+      "sessions": 60,
+      "users": 59,
+      "screenPageViews": 69
+    },
+    {
+      "date": "2026-03-26",
+      "sessions": 70,
+      "users": 69,
+      "screenPageViews": 80
+    },
+    {
+      "date": "2026-03-27",
+      "sessions": 67,
+      "users": 67,
+      "screenPageViews": 75
+    },
+    {
+      "date": "2026-03-28",
+      "sessions": 54,
+      "users": 53,
+      "screenPageViews": 53
+    },
+    {
+      "date": "2026-03-29",
+      "sessions": 55,
+      "users": 53,
+      "screenPageViews": 59
+    },
+    {
+      "date": "2026-03-30",
+      "sessions": 73,
+      "users": 72,
+      "screenPageViews": 92
+    },
+    {
+      "date": "2026-03-31",
+      "sessions": 64,
+      "users": 63,
+      "screenPageViews": 72
+    },
+    {
+      "date": "2026-04-01",
+      "sessions": 49,
+      "users": 49,
+      "screenPageViews": 52
+    },
+    {
+      "date": "2026-04-02",
+      "sessions": 53,
+      "users": 53,
+      "screenPageViews": 56
+    },
+    {
+      "date": "2026-04-03",
+      "sessions": 53,
+      "users": 53,
+      "screenPageViews": 60
+    },
+    {
+      "date": "2026-04-04",
+      "sessions": 45,
+      "users": 45,
+      "screenPageViews": 97
+    },
+    {
+      "date": "2026-04-05",
+      "sessions": 56,
+      "users": 55,
+      "screenPageViews": 58
+    },
+    {
+      "date": "2026-04-06",
+      "sessions": 56,
+      "users": 56,
+      "screenPageViews": 59
     }
   ],
   "channelData": [
     {
       "channel": "Direct",
-      "sessions": 6552,
-      "users": 6676
+      "sessions": 4887,
+      "users": 4948
     },
     {
       "channel": "Organic Search",
-      "sessions": 2293,
-      "users": 2168
+      "sessions": 2168,
+      "users": 2028
     },
     {
       "channel": "Unassigned",
-      "sessions": 1234,
-      "users": 1229
+      "sessions": 1215,
+      "users": 1206
     },
     {
       "channel": "Referral",
-      "sessions": 365,
-      "users": 255
+      "sessions": 331,
+      "users": 221
     },
     {
       "channel": "Organic Social",
-      "sessions": 60,
-      "users": 47
+      "sessions": 61,
+      "users": 48
     },
     {
       "channel": "Organic Video",
-      "sessions": 3,
-      "users": 3
+      "sessions": 4,
+      "users": 4
+    }
+  ],
+  "keyEventsByChannel": [
+    {
+      "channel": "Direct",
+      "sessions": 4887,
+      "keyEvents": 1328,
+      "conversionRate": 0.2717413546142828
+    },
+    {
+      "channel": "Organic Search",
+      "sessions": 2168,
+      "keyEvents": 512,
+      "conversionRate": 0.23616236162361623
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": 1215,
+      "keyEvents": 54,
+      "conversionRate": 0.044444444444444446
+    },
+    {
+      "channel": "Referral",
+      "sessions": 331,
+      "keyEvents": 208,
+      "conversionRate": 0.6283987915407855
+    },
+    {
+      "channel": "Organic Social",
+      "sessions": 61,
+      "keyEvents": 34,
+      "conversionRate": 0.5573770491803278
+    },
+    {
+      "channel": "Organic Video",
+      "sessions": 4,
+      "keyEvents": 5,
+      "conversionRate": 1.25
     }
   ],
   "topPages": [
     {
       "page": "/",
-      "screenPageViews": 3683,
-      "sessions": 3518
+      "screenPageViews": 3614,
+      "sessions": 3437
     },
     {
       "page": "/personal-injury-attorney-bakersfield/",
-      "screenPageViews": 843,
-      "sessions": 822
+      "screenPageViews": 682,
+      "sessions": 660
     },
     {
       "page": "/contact/",
-      "screenPageViews": 427,
-      "sessions": 350
+      "screenPageViews": 374,
+      "sessions": 287
     },
     {
       "page": "/about/",
-      "screenPageViews": 355,
-      "sessions": 327
+      "screenPageViews": 348,
+      "sessions": 318
     },
     {
       "page": "/locations/",
-      "screenPageViews": 341,
-      "sessions": 281
+      "screenPageViews": 274,
+      "sessions": 219
     },
     {
       "page": "/motorcycle-accident-lawyer/",
-      "screenPageViews": 304,
-      "sessions": 245
+      "screenPageViews": 214,
+      "sessions": 155
     },
     {
       "page": "/truck-accident-lawyer/",
-      "screenPageViews": 289,
-      "sessions": 262
+      "screenPageViews": 191,
+      "sessions": 168
     },
     {
       "page": "/car-accident-lawyer/",
-      "screenPageViews": 283,
-      "sessions": 262
+      "screenPageViews": 173,
+      "sessions": 157
     },
     {
       "page": "/2024-scholarship-page/",
-      "screenPageViews": 199,
-      "sessions": 187
+      "screenPageViews": 165,
+      "sessions": 153
     },
     {
       "page": "/ridesharing-accident-lawyer/",
-      "screenPageViews": 199,
-      "sessions": 170
+      "screenPageViews": 124,
+      "sessions": 96
     },
     {
       "page": "/pedestrian-accidents-attorney/",
-      "screenPageViews": 194,
-      "sessions": 192
+      "screenPageViews": 115,
+      "sessions": 114
     },
     {
       "page": "/taxi-accident-lawyer/",
-      "screenPageViews": 182,
-      "sessions": 182
-    },
-    {
-      "page": "/catastrophic-injury-attorney/",
-      "screenPageViews": 181,
-      "sessions": 180
-    },
-    {
-      "page": "/sitemap/",
-      "screenPageViews": 166,
-      "sessions": 151
-    },
-    {
-      "page": "/practice-area/personal-injury-accidents/",
-      "screenPageViews": 160,
-      "sessions": 147
-    },
-    {
-      "page": "/disclaimer/",
-      "screenPageViews": 149,
-      "sessions": 138
-    },
-    {
-      "page": "/wrongful-death/",
-      "screenPageViews": 149,
-      "sessions": 130
-    },
-    {
-      "page": "/practice-area/",
-      "screenPageViews": 143,
-      "sessions": 139
-    },
-    {
-      "page": "/case-results/",
-      "screenPageViews": 120,
+      "screenPageViews": 112,
       "sessions": 111
     },
     {
-      "page": "/traumatic-brain-injury-lawyer/",
-      "screenPageViews": 120,
-      "sessions": 130
+      "page": "/disclaimer/",
+      "screenPageViews": 111,
+      "sessions": 101
     },
     {
-      "page": "/slip-and-fall-accident-attorney/",
-      "screenPageViews": 118,
-      "sessions": 105
+      "page": "/sitemap/",
+      "screenPageViews": 107,
+      "sessions": 98
+    },
+    {
+      "page": "/case-results/",
+      "screenPageViews": 97,
+      "sessions": 87
+    },
+    {
+      "page": "/practice-area/",
+      "screenPageViews": 96,
+      "sessions": 91
+    },
+    {
+      "page": "/practice-area/personal-injury-accidents/",
+      "screenPageViews": 95,
+      "sessions": 85
+    },
+    {
+      "page": "/catastrophic-injury-attorney/",
+      "screenPageViews": 91,
+      "sessions": 90
     },
     {
       "page": "/how-to-prove-fault-in-a-slip-and-fall-accident/",
-      "screenPageViews": 116,
-      "sessions": 97
-    },
-    {
-      "page": "/personal-injury-attorney-los-angeles/",
-      "screenPageViews": 109,
-      "sessions": 119
-    },
-    {
-      "page": "/premises-liability-attorney/",
-      "screenPageViews": 108,
-      "sessions": 107
+      "screenPageViews": 78,
+      "sessions": 54
     },
     {
       "page": "/blog/",
-      "screenPageViews": 106,
-      "sessions": 100
+      "screenPageViews": 76,
+      "sessions": 72
     },
     {
-      "page": "/food-poisoning-lawyer/",
-      "screenPageViews": 103,
-      "sessions": 109
+      "page": "/traumatic-brain-injury-lawyer/",
+      "screenPageViews": 76,
+      "sessions": 79
     },
     {
-      "page": "/bedsore-lawyer/",
-      "screenPageViews": 99,
-      "sessions": 107
-    },
-    {
-      "page": "/personal-injury-attorney-oxnard/",
-      "screenPageViews": 98,
-      "sessions": 108
-    },
-    {
-      "page": "/personal-injury-claims-when-you-need-a-lawyer/",
-      "screenPageViews": 97,
-      "sessions": 103
+      "page": "/wrongful-death/",
+      "screenPageViews": 72,
+      "sessions": 74
     },
     {
       "page": "/privacy-policy/",
-      "screenPageViews": 97,
-      "sessions": 97
+      "screenPageViews": 69,
+      "sessions": 69
+    },
+    {
+      "page": "/personal-injury-attorney-los-angeles/",
+      "screenPageViews": 66,
+      "sessions": 72
+    },
+    {
+      "page": "/premises-liability-attorney/",
+      "screenPageViews": 64,
+      "sessions": 62
+    },
+    {
+      "page": "/personal-injury-attorney-oxnard/",
+      "screenPageViews": 61,
+      "sessions": 63
+    },
+    {
+      "page": "/food-poisoning-lawyer/",
+      "screenPageViews": 59,
+      "sessions": 61
+    },
+    {
+      "page": "/slip-and-fall-accident-attorney/",
+      "screenPageViews": 58,
+      "sessions": 62
+    },
+    {
+      "page": "/bedsore-lawyer/",
+      "screenPageViews": 56,
+      "sessions": 60
+    },
+    {
+      "page": "/personal-injury-attorney-san-francisco/",
+      "screenPageViews": 54,
+      "sessions": 57
     }
   ],
-  "fetchedAt": "2026-03-18T13:06:30.222Z"
+  "fetchedAt": "2026-04-07T16:21:27.349Z"
 }

@@ -1,156 +1,16 @@
 {
   "property": "sc-domain:bassettservices.com",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 2815,
-    "impressions": 896257,
-    "ctr": 0.0031408401831171193,
-    "position": 27.791733401750953
+    "clicks": 3034,
+    "impressions": 952620,
+    "ctr": 0.003184900589951922,
+    "position": 26.6196718154311
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 45,
-      "impressions": 31793,
-      "ctr": 0.0014154059069606518,
-      "position": 6.863649230962791
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 38,
-      "impressions": 7688,
-      "ctr": 0.004942767950052029,
-      "position": 31.34560353798127
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 34,
-      "impressions": 5492,
-      "ctr": 0.006190823015294974,
-      "position": 32.19956300072833
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 19,
-      "impressions": 7533,
-      "ctr": 0.0025222354971458916,
-      "position": 29.17575998938006
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 33,
-      "impressions": 9601,
-      "ctr": 0.0034371419643787105,
-      "position": 32.1005103635038
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 18,
-      "impressions": 7005,
-      "ctr": 0.002569593147751606,
-      "position": 34.6412562455389
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 6,
-      "impressions": 5771,
-      "ctr": 0.0010396811644429042,
-      "position": 29.396465084040894
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 22,
-      "impressions": 13133,
-      "ctr": 0.0016751694205436687,
-      "position": 15.628340820833015
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 19,
-      "impressions": 7045,
-      "ctr": 0.0026969481902058196,
-      "position": 31.377998580553584
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 8,
-      "impressions": 5991,
-      "ctr": 0.0013353363378400935,
-      "position": 35.70756134201302
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 12,
-      "impressions": 4820,
-      "ctr": 0.0024896265560165973,
-      "position": 36.64356846473029
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 17,
-      "impressions": 6865,
-      "ctr": 0.0024763292061179896,
-      "position": 37.69133284777859
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 10,
-      "impressions": 4662,
-      "ctr": 0.002145002145002145,
-      "position": 32.08108108108108
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 16,
-      "impressions": 6175,
-      "ctr": 0.002591093117408907,
-      "position": 29.091336032388664
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 31,
-      "impressions": 6668,
-      "ctr": 0.004649070185962808,
-      "position": 33.160767846430716
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 39,
-      "impressions": 6647,
-      "ctr": 0.005867308560252746,
-      "position": 33.960132390552126
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 25,
-      "impressions": 7054,
-      "ctr": 0.0035440884604479726,
-      "position": 29.9264247235611
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 21,
-      "impressions": 12336,
-      "ctr": 0.0017023346303501946,
-      "position": 20.25689040207523
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 26,
-      "impressions": 5580,
-      "ctr": 0.004659498207885305,
-      "position": 30.419713261648745
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 19,
-      "impressions": 4703,
-      "ctr": 0.004039974484371677,
-      "position": 31.02913034233468
-    },
     {
       "date": "2026-01-04",
       "clicks": 13,
@@ -640,351 +500,498 @@
       "impressions": 9094,
       "ctr": 0.002419177479656917,
       "position": 23.85583901473499
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 16,
+      "impressions": 8492,
+      "ctr": 0.0018841262364578427,
+      "position": 22.982218558643428
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 52,
+      "impressions": 38954,
+      "ctr": 0.0013349078400164297,
+      "position": 7.19972274991015
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 39,
+      "impressions": 8429,
+      "ctr": 0.004626883378811247,
+      "position": 27.054336220192194
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 54,
+      "impressions": 7973,
+      "ctr": 0.006772858397090179,
+      "position": 25.190392574940425
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 39,
+      "impressions": 8178,
+      "ctr": 0.004768892149669846,
+      "position": 23.997065297138665
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 16,
+      "impressions": 7730,
+      "ctr": 0.002069857697283312,
+      "position": 25.64489003880983
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 20,
+      "impressions": 8420,
+      "ctr": 0.0023752969121140144,
+      "position": 25.043586698337293
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 23,
+      "impressions": 8981,
+      "ctr": 0.0025609620309542365,
+      "position": 23.210555617414542
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 40,
+      "impressions": 9314,
+      "ctr": 0.004294610264118532,
+      "position": 28.1231479493236
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 30,
+      "impressions": 7732,
+      "ctr": 0.0038799793067770304,
+      "position": 25.974392136575272
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 38,
+      "impressions": 31563,
+      "ctr": 0.0012039413237018028,
+      "position": 7.931977315210848
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 24,
+      "impressions": 9397,
+      "ctr": 0.002554006597850378,
+      "position": 28.675109077365118
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 43,
+      "impressions": 7194,
+      "ctr": 0.005977203224909647,
+      "position": 27.944398109535726
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 15,
+      "impressions": 6879,
+      "ctr": 0.002180549498473615,
+      "position": 28.174007849978196
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 16,
+      "impressions": 7539,
+      "ctr": 0.002122297386921342,
+      "position": 26.72953972675421
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 41,
+      "impressions": 8951,
+      "ctr": 0.004580493799575466,
+      "position": 30.0871411015529
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 52,
+      "impressions": 7069,
+      "ctr": 0.007356061677747913,
+      "position": 26.783420568680153
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 50,
+      "impressions": 14299,
+      "ctr": 0.0034967480243373664,
+      "position": 14.76222113434506
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 38,
+      "impressions": 6021,
+      "ctr": 0.006311243979405415,
+      "position": 28.971599402092675
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 24,
+      "impressions": 5146,
+      "ctr": 0.004663816556548776,
+      "position": 29.968130586863584
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 7,
+      "impressions": 4664,
+      "ctr": 0.0015008576329331046,
+      "position": 29.38336192109777
     }
   ],
   "topQueries": [
     {
       "query": "bassett services",
-      "clicks": 556,
-      "impressions": 3876,
-      "ctr": 0.1434468524251806,
-      "position": 1.6153250773993808
-    },
-    {
-      "query": "bassett heating and cooling",
-      "clicks": 64,
-      "impressions": 551,
-      "ctr": 0.1161524500907441,
-      "position": 5.94010889292196
+      "clicks": 621,
+      "impressions": 4011,
+      "ctr": 0.15482423335826478,
+      "position": 1.5275492395911243
     },
     {
       "query": "bassett plumbing",
-      "clicks": 61,
-      "impressions": 833,
-      "ctr": 0.07322929171668667,
-      "position": 5.206482593037215
+      "clicks": 73,
+      "impressions": 904,
+      "ctr": 0.08075221238938053,
+      "position": 5.185840707964601
+    },
+    {
+      "query": "bassett heating and cooling",
+      "clicks": 71,
+      "impressions": 551,
+      "ctr": 0.12885662431941924,
+      "position": 5.526315789473684
     },
     {
       "query": "bassett electric",
       "clicks": 60,
-      "impressions": 342,
-      "ctr": 0.17543859649122806,
-      "position": 5.1608187134502925
+      "impressions": 349,
+      "ctr": 0.17191977077363896,
+      "position": 4.30945558739255
     },
     {
       "query": "bassett heating and air",
-      "clicks": 58,
-      "impressions": 376,
-      "ctr": 0.15425531914893617,
-      "position": 4.664893617021276
-    },
-    {
-      "query": "bassett services eaton ohio",
-      "clicks": 36,
-      "impressions": 169,
-      "ctr": 0.21301775147928995,
-      "position": 6.372781065088757
+      "clicks": 48,
+      "impressions": 309,
+      "ctr": 0.1553398058252427,
+      "position": 3.6375404530744335
     },
     {
       "query": "bassett services plainfield indiana",
-      "clicks": 35,
-      "impressions": 261,
-      "ctr": 0.13409961685823754,
-      "position": 2.812260536398467
+      "clicks": 42,
+      "impressions": 300,
+      "ctr": 0.14,
+      "position": 1.5966666666666667
     },
     {
       "query": "bassett",
-      "clicks": 33,
-      "impressions": 1831,
-      "ctr": 0.018022938285090113,
-      "position": 10.886400873839433
+      "clicks": 39,
+      "impressions": 1866,
+      "ctr": 0.02090032154340836,
+      "position": 11.570739549839228
+    },
+    {
+      "query": "bassett services eaton ohio",
+      "clicks": 35,
+      "impressions": 180,
+      "ctr": 0.19444444444444445,
+      "position": 8.572222222222223
     },
     {
       "query": "basset services",
-      "clicks": 32,
-      "impressions": 189,
-      "ctr": 0.1693121693121693,
-      "position": 2.174603174603175
+      "clicks": 33,
+      "impressions": 198,
+      "ctr": 0.16666666666666666,
+      "position": 3.2676767676767677
     },
     {
       "query": "bassett home services",
-      "clicks": 30,
-      "impressions": 114,
-      "ctr": 0.2631578947368421,
-      "position": 5.2894736842105265
+      "clicks": 29,
+      "impressions": 141,
+      "ctr": 0.20567375886524822,
+      "position": 5.432624113475177
     },
     {
       "query": "bassett services: heating, cooling, plumbing, & electrical",
-      "clicks": 26,
-      "impressions": 1270,
-      "ctr": 0.02047244094488189,
-      "position": 1.2826771653543307
+      "clicks": 23,
+      "impressions": 1219,
+      "ctr": 0.018867924528301886,
+      "position": 1.2789171452009844
+    },
+    {
+      "query": "drake heating and air",
+      "clicks": 22,
+      "impressions": 174,
+      "ctr": 0.12643678160919541,
+      "position": 3.7988505747126435
     },
     {
       "query": "bassett heating and air eaton ohio",
-      "clicks": 22,
+      "clicks": 21,
+      "impressions": 156,
+      "ctr": 0.1346153846153846,
+      "position": 1.044871794871795
+    },
+    {
+      "query": "bassett services columbus ohio",
+      "clicks": 21,
       "impressions": 138,
-      "ctr": 0.15942028985507245,
-      "position": 1.0144927536231885
+      "ctr": 0.15217391304347827,
+      "position": 9.246376811594203
+    },
+    {
+      "query": "dowdy electric",
+      "clicks": 21,
+      "impressions": 95,
+      "ctr": 0.22105263157894736,
+      "position": 2.757894736842105
+    },
+    {
+      "query": "basset hvac",
+      "clicks": 19,
+      "impressions": 108,
+      "ctr": 0.17592592592592593,
+      "position": 6.694444444444445
     },
     {
       "query": "bassett hvac",
       "clicks": 19,
       "impressions": 178,
       "ctr": 0.10674157303370786,
-      "position": 7.584269662921348
-    },
-    {
-      "query": "bassett services columbus ohio",
-      "clicks": 19,
-      "impressions": 126,
-      "ctr": 0.15079365079365079,
-      "position": 6.388888888888889
-    },
-    {
-      "query": "bassett services inc",
-      "clicks": 18,
-      "impressions": 99,
-      "ctr": 0.18181818181818182,
-      "position": 1.1111111111111112
-    },
-    {
-      "query": "dowdy electric",
-      "clicks": 17,
-      "impressions": 82,
-      "ctr": 0.2073170731707317,
-      "position": 2.951219512195122
-    },
-    {
-      "query": "basset hvac",
-      "clicks": 15,
-      "impressions": 98,
-      "ctr": 0.15306122448979592,
-      "position": 7.438775510204081
-    },
-    {
-      "query": "bassett services indianapolis",
-      "clicks": 15,
-      "impressions": 150,
-      "ctr": 0.1,
-      "position": 6.26
+      "position": 5.432584269662922
     },
     {
       "query": "bassett services electrical",
-      "clicks": 13,
-      "impressions": 65,
-      "ctr": 0.2,
-      "position": 4.584615384615384
+      "clicks": 17,
+      "impressions": 80,
+      "ctr": 0.2125,
+      "position": 2.9625
     },
     {
-      "query": "drake heating and air",
+      "query": "bassett services indianapolis",
+      "clicks": 16,
+      "impressions": 173,
+      "ctr": 0.09248554913294797,
+      "position": 6.213872832369942
+    },
+    {
+      "query": "bassett services cincinnati",
+      "clicks": 15,
+      "impressions": 73,
+      "ctr": 0.2054794520547945,
+      "position": 7.821917808219178
+    },
+    {
+      "query": "bassett services inc",
+      "clicks": 15,
+      "impressions": 97,
+      "ctr": 0.15463917525773196,
+      "position": 1.1855670103092784
+    },
+    {
+      "query": "bassett electrical",
       "clicks": 13,
-      "impressions": 118,
-      "ctr": 0.11016949152542373,
-      "position": 3.9915254237288136
+      "impressions": 75,
+      "ctr": 0.17333333333333334,
+      "position": 6.48
+    },
+    {
+      "query": "bassett services dayton ohio",
+      "clicks": 12,
+      "impressions": 71,
+      "ctr": 0.16901408450704225,
+      "position": 7.802816901408451
+    },
+    {
+      "query": "dowdy electric indianapolis",
+      "clicks": 12,
+      "impressions": 130,
+      "ctr": 0.09230769230769231,
+      "position": 2.430769230769231
     },
     {
       "query": "basset heating",
       "clicks": 11,
-      "impressions": 115,
-      "ctr": 0.09565217391304348,
-      "position": 17.93913043478261
-    },
-    {
-      "query": "bassett electrical",
-      "clicks": 10,
-      "impressions": 78,
-      "ctr": 0.1282051282051282,
-      "position": 8.333333333333332
-    },
-    {
-      "query": "dowdy electric indianapolis",
-      "clicks": 10,
-      "impressions": 117,
-      "ctr": 0.08547008547008547,
-      "position": 2.47008547008547
+      "impressions": 112,
+      "ctr": 0.09821428571428571,
+      "position": 12.919642857142858
     },
     {
       "query": "basset electric",
-      "clicks": 9,
-      "impressions": 50,
-      "ctr": 0.18,
-      "position": 4.02
+      "clicks": 10,
+      "impressions": 58,
+      "ctr": 0.1724137931034483,
+      "position": 5.362068965517241
     },
     {
       "query": "basset plumbing",
       "clicks": 9,
-      "impressions": 121,
-      "ctr": 0.0743801652892562,
-      "position": 7.68595041322314
-    },
-    {
-      "query": "bassett services cincinnati",
-      "clicks": 9,
-      "impressions": 70,
-      "ctr": 0.12857142857142856,
-      "position": 14.685714285714285
-    },
-    {
-      "query": "bassett services dayton ohio",
-      "clicks": 9,
-      "impressions": 66,
-      "ctr": 0.13636363636363635,
-      "position": 8.318181818181818
-    },
-    {
-      "query": "bassett electrical services",
-      "clicks": 8,
-      "impressions": 76,
-      "ctr": 0.10526315789473684,
-      "position": 6.802631578947368
-    },
-    {
-      "query": "bassett services: heating, cooling, plumbing, electrical",
-      "clicks": 8,
-      "impressions": 382,
-      "ctr": 0.020942408376963352,
-      "position": 1.2722513089005236
-    },
-    {
-      "query": "basset",
-      "clicks": 7,
-      "impressions": 145,
-      "ctr": 0.04827586206896552,
-      "position": 2.089655172413793
-    },
-    {
-      "query": "discount drains",
-      "clicks": 7,
-      "impressions": 125,
-      "ctr": 0.056,
-      "position": 3.48
-    },
-    {
-      "query": "what does rough in mean for toilets",
-      "clicks": 7,
-      "impressions": 863,
-      "ctr": 0.008111239860950173,
-      "position": 1.295480880648899
-    },
-    {
-      "query": "basset heating and cooling",
-      "clicks": 6,
-      "impressions": 54,
-      "ctr": 0.1111111111111111,
-      "position": 15.685185185185185
+      "impressions": 122,
+      "ctr": 0.07377049180327869,
+      "position": 8.065573770491802
     },
     {
       "query": "bassett heating and air conditioning",
-      "clicks": 5,
-      "impressions": 56,
-      "ctr": 0.08928571428571429,
-      "position": 11.642857142857142
+      "clicks": 7,
+      "impressions": 67,
+      "ctr": 0.1044776119402985,
+      "position": 17
     },
     {
-      "query": "bassett plumbing and heating",
-      "clicks": 5,
-      "impressions": 115,
-      "ctr": 0.043478260869565216,
-      "position": 8.295652173913044
+      "query": "bassett services: heating, cooling, plumbing, electrical",
+      "clicks": 7,
+      "impressions": 403,
+      "ctr": 0.017369727047146403,
+      "position": 1.272952853598015
     },
     {
-      "query": "bassett services: heating, cooling, plumbing & electrical",
-      "clicks": 5,
-      "impressions": 259,
-      "ctr": 0.019305019305019305,
-      "position": 1.2316602316602316
+      "query": "bassett electrical services",
+      "clicks": 6,
+      "impressions": 62,
+      "ctr": 0.0967741935483871,
+      "position": 8
     },
     {
       "query": "electrical contractors in ohio",
-      "clicks": 5,
-      "impressions": 16,
-      "ctr": 0.3125,
-      "position": 44.75
+      "clicks": 6,
+      "impressions": 19,
+      "ctr": 0.3157894736842105,
+      "position": 47.31578947368421
     },
     {
-      "query": "electrician near me",
+      "query": "what does rough in mean for toilets",
+      "clicks": 6,
+      "impressions": 618,
+      "ctr": 0.009708737864077669,
+      "position": 1.3915857605177995
+    },
+    {
+      "query": "basset",
       "clicks": 5,
-      "impressions": 1571,
-      "ctr": 0.003182686187141948,
-      "position": 2.3176320814767664
+      "impressions": 140,
+      "ctr": 0.03571428571428571,
+      "position": 1.6928571428571428
+    },
+    {
+      "query": "basset heating and cooling",
+      "clicks": 5,
+      "impressions": 67,
+      "ctr": 0.07462686567164178,
+      "position": 22.402985074626866
     },
     {
       "query": "gpf toilet",
       "clicks": 5,
-      "impressions": 779,
-      "ctr": 0.006418485237483954,
-      "position": 4.741976893453145
+      "impressions": 755,
+      "ctr": 0.006622516556291391,
+      "position": 4.7298013245033115
     },
     {
       "query": "hvac near me",
       "clicks": 5,
-      "impressions": 1239,
-      "ctr": 0.004035512510088781,
-      "position": 6.875706214689266
+      "impressions": 1092,
+      "ctr": 0.004578754578754579,
+      "position": 6.742673992673993
     },
     {
-      "query": "electrician columbus ohio",
+      "query": "ac fan",
       "clicks": 4,
-      "impressions": 121,
-      "ctr": 0.03305785123966942,
-      "position": 4.793388429752066
+      "impressions": 11417,
+      "ctr": 0.00035035473416834546,
+      "position": 6.721993518437418
     },
     {
-      "query": "hvac",
+      "query": "bassett plumbing and heating",
       "clicks": 4,
-      "impressions": 452,
-      "ctr": 0.008849557522123894,
-      "position": 8.623893805309734
+      "impressions": 128,
+      "ctr": 0.03125,
+      "position": 10.7421875
     },
     {
-      "query": "hvac eaton ohio",
+      "query": "bassett services: heating, cooling, plumbing & electrical",
       "clicks": 4,
-      "impressions": 39,
-      "ctr": 0.10256410256410256,
-      "position": 1.205128205128205
+      "impressions": 263,
+      "ctr": 0.015209125475285171,
+      "position": 1.231939163498099
     },
     {
-      "query": "plumbers near me",
+      "query": "columbus ohio hvac companies",
       "clicks": 4,
-      "impressions": 1387,
-      "ctr": 0.002883922134102379,
-      "position": 5.813266041816871
+      "impressions": 35,
+      "ctr": 0.11428571428571428,
+      "position": 13.371428571428572
     },
     {
-      "query": "what does rough in toilet mean",
+      "query": "discount drains",
       "clicks": 4,
-      "impressions": 311,
-      "ctr": 0.012861736334405145,
-      "position": 1.122186495176849
+      "impressions": 127,
+      "ctr": 0.031496062992125984,
+      "position": 2.9291338582677167
+    },
+    {
+      "query": "electrician near me",
+      "clicks": 4,
+      "impressions": 1921,
+      "ctr": 0.002082248828735034,
+      "position": 1.9318063508589276
+    },
+    {
+      "query": "hvac companies in ohio",
+      "clicks": 4,
+      "impressions": 8,
+      "ctr": 0.5,
+      "position": 41.25
+    },
+    {
+      "query": "toilet gpf",
+      "clicks": 4,
+      "impressions": 345,
+      "ctr": 0.011594202898550725,
+      "position": 3.217391304347826
+    },
+    {
+      "query": "basset heating & air conditioning inc",
+      "clicks": 3,
+      "impressions": 34,
+      "ctr": 0.08823529411764706,
+      "position": 23.264705882352942
     },
     {
       "query": "bassett heating",
       "clicks": 3,
-      "impressions": 102,
-      "ctr": 0.029411764705882353,
-      "position": 10.22549019607843
+      "impressions": 92,
+      "ctr": 0.03260869565217391,
+      "position": 9.206521739130435
     },
     {
       "query": "bassett services: heating, cooling, plumbing & electrical (discount drains)",
       "clicks": 3,
-      "impressions": 100,
-      "ctr": 0.03,
-      "position": 1.38
+      "impressions": 55,
+      "ctr": 0.05454545454545454,
+      "position": 1.5454545454545454
     },
     {
       "query": "best plumbing cincinnati",
       "clicks": 3,
-      "impressions": 358,
-      "ctr": 0.008379888268156424,
-      "position": 12.918994413407821
+      "impressions": 356,
+      "ctr": 0.008426966292134831,
+      "position": 14.705056179775282
     },
     {
       "query": "drake heating and air eaton ohio",
       "clicks": 3,
-      "impressions": 21,
-      "ctr": 0.14285714285714285,
-      "position": 3.857142857142857
+      "impressions": 32,
+      "ctr": 0.09375,
+      "position": 3.59375
     },
     {
       "query": "electrical companies in ohio",
@@ -992,359 +999,2815 @@
       "impressions": 6,
       "ctr": 0.5,
       "position": 44.333333333333336
+    },
+    {
+      "query": "electrician columbus ohio",
+      "clicks": 3,
+      "impressions": 140,
+      "ctr": 0.02142857142857143,
+      "position": 4.442857142857143
+    },
+    {
+      "query": "hvac",
+      "clicks": 3,
+      "impressions": 378,
+      "ctr": 0.007936507936507936,
+      "position": 7.026455026455026
+    },
+    {
+      "query": "hvac companies near me",
+      "clicks": 3,
+      "impressions": 807,
+      "ctr": 0.0037174721189591076,
+      "position": 30.57001239157373
+    },
+    {
+      "query": "plumbing services in ohio",
+      "clicks": 3,
+      "impressions": 18,
+      "ctr": 0.16666666666666666,
+      "position": 46.22222222222222
+    },
+    {
+      "query": "what does gpf mean on a toilet",
+      "clicks": 3,
+      "impressions": 410,
+      "ctr": 0.007317073170731708,
+      "position": 4.224390243902439
+    },
+    {
+      "query": "what does rough in toilet mean",
+      "clicks": 3,
+      "impressions": 310,
+      "ctr": 0.00967741935483871,
+      "position": 1.1225806451612903
+    },
+    {
+      "query": "what is gpf toilet",
+      "clicks": 3,
+      "impressions": 226,
+      "ctr": 0.01327433628318584,
+      "position": 3.106194690265487
+    },
+    {
+      "query": "basset electrical",
+      "clicks": 2,
+      "impressions": 16,
+      "ctr": 0.125,
+      "position": 7.0625
+    },
+    {
+      "query": "basset heating & air conditioning",
+      "clicks": 2,
+      "impressions": 17,
+      "ctr": 0.11764705882352941,
+      "position": 4.764705882352941
+    },
+    {
+      "query": "basset heating and air",
+      "clicks": 2,
+      "impressions": 23,
+      "ctr": 0.08695652173913043,
+      "position": 8.434782608695652
+    },
+    {
+      "query": "bassett plumbing and drainage",
+      "clicks": 2,
+      "impressions": 6,
+      "ctr": 0.3333333333333333,
+      "position": 9
+    },
+    {
+      "query": "electrical and plumbing services",
+      "clicks": 2,
+      "impressions": 2,
+      "ctr": 1,
+      "position": 10.5
+    },
+    {
+      "query": "electrical contractors in cincinnati",
+      "clicks": 2,
+      "impressions": 2,
+      "ctr": 1,
+      "position": 51
+    },
+    {
+      "query": "electrician",
+      "clicks": 2,
+      "impressions": 2850,
+      "ctr": 0.0007017543859649122,
+      "position": 1.1856140350877193
+    },
+    {
+      "query": "electricians columbus ohio",
+      "clicks": 2,
+      "impressions": 77,
+      "ctr": 0.025974025974025976,
+      "position": 3.103896103896104
+    },
+    {
+      "query": "gpf toilet meaning",
+      "clicks": 2,
+      "impressions": 295,
+      "ctr": 0.006779661016949152,
+      "position": 2.5118644067796607
+    },
+    {
+      "query": "heating and air eaton ohio",
+      "clicks": 2,
+      "impressions": 54,
+      "ctr": 0.037037037037037035,
+      "position": 1.9074074074074074
+    },
+    {
+      "query": "heating and cooling near me",
+      "clicks": 2,
+      "impressions": 402,
+      "ctr": 0.004975124378109453,
+      "position": 19.1592039800995
+    },
+    {
+      "query": "hvac companies columbus ohio",
+      "clicks": 2,
+      "impressions": 172,
+      "ctr": 0.011627906976744186,
+      "position": 2.5930232558139537
+    },
+    {
+      "query": "hvac companies in columbus ohio",
+      "clicks": 2,
+      "impressions": 119,
+      "ctr": 0.01680672268907563,
+      "position": 2.4117647058823533
+    },
+    {
+      "query": "hvac contractors columbus ohio",
+      "clicks": 2,
+      "impressions": 63,
+      "ctr": 0.031746031746031744,
+      "position": 3.4761904761904763
+    },
+    {
+      "query": "hvac eaton ohio",
+      "clicks": 2,
+      "impressions": 42,
+      "ctr": 0.047619047619047616,
+      "position": 1.3333333333333333
+    },
+    {
+      "query": "ohio plumbers",
+      "clicks": 2,
+      "impressions": 8,
+      "ctr": 0.25,
+      "position": 39.375
+    },
+    {
+      "query": "plumber columbus ohio",
+      "clicks": 2,
+      "impressions": 123,
+      "ctr": 0.016260162601626018,
+      "position": 10.227642276422765
+    },
+    {
+      "query": "plumber lewis center",
+      "clicks": 2,
+      "impressions": 881,
+      "ctr": 0.0022701475595913734,
+      "position": 1
+    },
+    {
+      "query": "plumber near me",
+      "clicks": 2,
+      "impressions": 3180,
+      "ctr": 0.0006289308176100629,
+      "position": 8.349685534591195
+    },
+    {
+      "query": "plumbers",
+      "clicks": 2,
+      "impressions": 6488,
+      "ctr": 0.00030826140567200987,
+      "position": 2.3242909987669544
+    },
+    {
+      "query": "plumbers near me",
+      "clicks": 2,
+      "impressions": 1484,
+      "ctr": 0.0013477088948787063,
+      "position": 5.138814016172507
+    },
+    {
+      "query": "plumbing companies in columbus ohio",
+      "clicks": 2,
+      "impressions": 22,
+      "ctr": 0.09090909090909091,
+      "position": 24.363636363636363
+    },
+    {
+      "query": "smoke alarm blinking red",
+      "clicks": 2,
+      "impressions": 783,
+      "ctr": 0.002554278416347382,
+      "position": 3.2822477650063857
+    },
+    {
+      "query": "true north hvac",
+      "clicks": 2,
+      "impressions": 8,
+      "ctr": 0.25,
+      "position": 5.625
+    },
+    {
+      "query": "water heater installation",
+      "clicks": 2,
+      "impressions": 362,
+      "ctr": 0.0055248618784530384,
+      "position": 39.27624309392265
+    },
+    {
+      "query": "what does toilet rough in size mean",
+      "clicks": 2,
+      "impressions": 92,
+      "ctr": 0.021739130434782608,
+      "position": 2.7717391304347827
+    },
+    {
+      "query": "what is gfp in toilets",
+      "clicks": 2,
+      "impressions": 67,
+      "ctr": 0.029850746268656716,
+      "position": 1.4925373134328357
+    },
+    {
+      "query": "what is gpf in toilets",
+      "clicks": 2,
+      "impressions": 584,
+      "ctr": 0.003424657534246575,
+      "position": 2.297945205479452
+    },
+    {
+      "query": "what is the best gpf for a toilet",
+      "clicks": 2,
+      "impressions": 60,
+      "ctr": 0.03333333333333333,
+      "position": 2.6166666666666667
+    },
+    {
+      "query": "what is toilet gpf",
+      "clicks": 2,
+      "impressions": 63,
+      "ctr": 0.031746031746031744,
+      "position": 3.888888888888889
+    },
+    {
+      "query": "1.28 gpf toilet meaning",
+      "clicks": 1,
+      "impressions": 137,
+      "ctr": 0.0072992700729927005,
+      "position": 5.693430656934306
+    },
+    {
+      "query": "12 inch rough in toilet meaning",
+      "clicks": 1,
+      "impressions": 158,
+      "ctr": 0.006329113924050633,
+      "position": 2.0949367088607596
+    },
+    {
+      "query": "ac fan unit",
+      "clicks": 1,
+      "impressions": 65,
+      "ctr": 0.015384615384615385,
+      "position": 4.446153846153846
+    },
+    {
+      "query": "ac ventilator",
+      "clicks": 1,
+      "impressions": 212,
+      "ctr": 0.0047169811320754715,
+      "position": 4.943396226415095
+    },
+    {
+      "query": "air conditioner fan outside",
+      "clicks": 1,
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 5.277777777777778
+    },
+    {
+      "query": "american standard furnace near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "appliance repair eaton ohio",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 3.263157894736842
+    },
+    {
+      "query": "bad light switch",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 73.75
+    },
+    {
+      "query": "basset home services",
+      "clicks": 1,
+      "impressions": 72,
+      "ctr": 0.013888888888888888,
+      "position": 6.819444444444445
+    },
+    {
+      "query": "bassetr",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1.5
+    },
+    {
+      "query": "bassett company",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 11.5
+    },
+    {
+      "query": "bassett electrical contracting",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 2.916666666666667
+    },
+    {
+      "query": "bassett electronics",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2.5
+    },
+    {
+      "query": "bassett furniture",
+      "clicks": 1,
+      "impressions": 510,
+      "ctr": 0.00196078431372549,
+      "position": 2.0588235294117645
+    },
+    {
+      "query": "bassett hours",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2
+    },
+    {
+      "query": "bassett inc",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 10.636363636363637
+    },
+    {
+      "query": "bassett mechanical",
+      "clicks": 1,
+      "impressions": 33,
+      "ctr": 0.030303030303030304,
+      "position": 27.575757575757574
+    },
+    {
+      "query": "bassett plumbing reviews",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 1.125
+    },
+    {
+      "query": "bassett service",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 1.5
+    },
+    {
+      "query": "bassett services heating cooling plumbing & electrical",
+      "clicks": 1,
+      "impressions": 38,
+      "ctr": 0.02631578947368421,
+      "position": 15.578947368421053
+    },
+    {
+      "query": "bassett services indiana",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "bassett services reviews",
+      "clicks": 1,
+      "impressions": 112,
+      "ctr": 0.008928571428571428,
+      "position": 9.133928571428571
+    },
+    {
+      "query": "bassettservices.com",
+      "clicks": 1,
+      "impressions": 35,
+      "ctr": 0.02857142857142857,
+      "position": 1
+    },
+    {
+      "query": "best hvac near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 3.3333333333333335
+    },
+    {
+      "query": "boiler repair near me",
+      "clicks": 1,
+      "impressions": 416,
+      "ctr": 0.002403846153846154,
+      "position": 14.257211538461538
+    },
+    {
+      "query": "bosch heat pump installers near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "buzzing noise from outlet",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 16.25
+    },
+    {
+      "query": "columbus electrician",
+      "clicks": 1,
+      "impressions": 168,
+      "ctr": 0.005952380952380952,
+      "position": 1.2976190476190477
+    },
+    {
+      "query": "columbus ohio plumbers",
+      "clicks": 1,
+      "impressions": 28,
+      "ctr": 0.03571428571428571,
+      "position": 22
+    },
+    {
+      "query": "dehumidifier repair",
+      "clicks": 1,
+      "impressions": 792,
+      "ctr": 0.0012626262626262627,
+      "position": 74.97222222222223
+    },
+    {
+      "query": "dehumidifier repair near me",
+      "clicks": 1,
+      "impressions": 97,
+      "ctr": 0.010309278350515464,
+      "position": 12.1340206185567
+    },
+    {
+      "query": "delaware ohio electrician",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "difference between 1.28 and 1.6 toilet",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 1.6666666666666665
+    },
+    {
+      "query": "dryer repair near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "eaton plumbing",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 52.25
+    },
+    {
+      "query": "electric companies columbus ohio",
+      "clicks": 1,
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 13.38888888888889
+    },
+    {
+      "query": "electrical companies columbus ohio",
+      "clicks": 1,
+      "impressions": 23,
+      "ctr": 0.043478260869565216,
+      "position": 5.173913043478261
+    },
+    {
+      "query": "electrical contractors columbus ohio",
+      "clicks": 1,
+      "impressions": 44,
+      "ctr": 0.022727272727272728,
+      "position": 4.681818181818182
+    },
+    {
+      "query": "electrical contractors ohio",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 41
+    },
+    {
+      "query": "electrical outlet buzzing",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 28.714285714285715
+    },
+    {
+      "query": "electrician apprenticeship",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 16.333333333333336
+    },
+    {
+      "query": "electrician companies near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "electrician in indianapolis",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 77.66666666666667
+    },
+    {
+      "query": "electrician ohio",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "electricians cleveland",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "emergency furnace repair near me",
+      "clicks": 1,
+      "impressions": 49,
+      "ctr": 0.02040816326530612,
+      "position": 31.918367346938776
+    },
+    {
+      "query": "emergency propane delivery near me 24 hours",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "fire alarm red light",
+      "clicks": 1,
+      "impressions": 34,
+      "ctr": 0.029411764705882353,
+      "position": 23.441176470588236
+    },
+    {
+      "query": "furnace cleaning",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 8.5
+    },
+    {
+      "query": "gas line installer near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 7.75
+    },
+    {
+      "query": "generac sales and service",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "generator repair near me",
+      "clicks": 1,
+      "impressions": 54,
+      "ctr": 0.018518518518518517,
+      "position": 18.74074074074074
+    },
+    {
+      "query": "heating and air financing near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 57
+    },
+    {
+      "query": "hot water tank electric",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 8
+    },
+    {
+      "query": "how do i stop my sink from gurgling when i flush the toilet",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 6.0625
+    },
+    {
+      "query": "how does a plumbing snake work",
+      "clicks": 1,
+      "impressions": 23,
+      "ctr": 0.043478260869565216,
+      "position": 38.26086956521739
+    },
+    {
+      "query": "how to clear grease clog in kitchen sink",
+      "clicks": 1,
+      "impressions": 95,
+      "ctr": 0.010526315789473684,
+      "position": 1.6210526315789475
+    },
+    {
+      "query": "how to fix dimming lights in house",
+      "clicks": 1,
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 10.90625
+    },
+    {
+      "query": "how to prevent kitchen sink from clogging",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 29.428571428571427
+    },
+    {
+      "query": "hvac apprenticeship",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 14
+    },
+    {
+      "query": "hvac companies indianapolis",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 56.94736842105263
+    },
+    {
+      "query": "hvac companies that finance",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 8
+    },
+    {
+      "query": "hvac contractors near me",
+      "clicks": 1,
+      "impressions": 140,
+      "ctr": 0.007142857142857143,
+      "position": 25.27857142857143
+    },
+    {
+      "query": "hvac in columbus, oh",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 12.8
+    },
+    {
+      "query": "hvac installers near me",
+      "clicks": 1,
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 31.055555555555557
+    },
+    {
+      "query": "hvac repair near me within 20 mi",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 12
+    },
+    {
+      "query": "hvac/electrical",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "indianapolis plumbing services",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 28.833333333333332
+    },
+    {
+      "query": "jones home services",
+      "clicks": 1,
+      "impressions": 26,
+      "ctr": 0.038461538461538464,
+      "position": 8.153846153846153
+    },
+    {
+      "query": "kitchen grease clog",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 8.375
+    },
+    {
+      "query": "kitchen sink clogged past trap",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 40.666666666666664
+    },
+    {
+      "query": "lebanon electrician",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "local electric companies",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 141
+    },
+    {
+      "query": "local furnace repair",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 13.5
+    },
+    {
+      "query": "local plumbing companies",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 11.5
+    },
+    {
+      "query": "ohio electricians",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 41
+    },
+    {
+      "query": "ohio hvac companies",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 81
+    },
+    {
+      "query": "ohio plumber",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 60.22222222222222
+    },
+    {
+      "query": "oil furnace service",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "outdoor ac fan",
+      "clicks": 1,
+      "impressions": 180,
+      "ctr": 0.005555555555555556,
+      "position": 9.316666666666666
+    },
+    {
+      "query": "outdoor faucet leaking at base",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 14
+    },
+    {
+      "query": "plumber",
+      "clicks": 1,
+      "impressions": 5779,
+      "ctr": 0.00017304031839418584,
+      "position": 6.383284305243122
+    },
+    {
+      "query": "plumber in lebanon",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 1
+    },
+    {
+      "query": "plumber in this area",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "plumbers and electricians near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "plumbers columbus ohio",
+      "clicks": 1,
+      "impressions": 178,
+      "ctr": 0.0056179775280898875,
+      "position": 10.01685393258427
+    },
+    {
+      "query": "plumbers eaton ohio",
+      "clicks": 1,
+      "impressions": 43,
+      "ctr": 0.023255813953488372,
+      "position": 20.697674418604652
+    },
+    {
+      "query": "plumbers in cincinnati ohio",
+      "clicks": 1,
+      "impressions": 193,
+      "ctr": 0.0051813471502590676,
+      "position": 72.58031088082902
+    },
+    {
+      "query": "plumbers in columbus",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 31
+    },
+    {
+      "query": "plumbers in columbus ohio",
+      "clicks": 1,
+      "impressions": 35,
+      "ctr": 0.02857142857142857,
+      "position": 24.057142857142857
+    },
+    {
+      "query": "plumbers in hilliard ohio",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 21
+    },
+    {
+      "query": "plumbers in indianapolis indiana",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 101
+    },
+    {
+      "query": "plumbing and electric",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 5.142857142857143
+    },
+    {
+      "query": "plumbing columbus",
+      "clicks": 1,
+      "impressions": 31,
+      "ctr": 0.03225806451612903,
+      "position": 24.06451612903226
+    },
+    {
+      "query": "plumbing columbus ohio",
+      "clicks": 1,
+      "impressions": 77,
+      "ctr": 0.012987012987012988,
+      "position": 33.42857142857143
+    },
+    {
+      "query": "plumbing companies",
+      "clicks": 1,
+      "impressions": 326,
+      "ctr": 0.003067484662576687,
+      "position": 27.33128834355828
+    },
+    {
+      "query": "plumbing companies columbus ohio",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 9.333333333333334
+    },
+    {
+      "query": "plumbing companies in cincinnati ohio",
+      "clicks": 1,
+      "impressions": 53,
+      "ctr": 0.018867924528301886,
+      "position": 77.43396226415095
+    },
+    {
+      "query": "plumbing companies in indiana",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 81
+    },
+    {
+      "query": "plumbing companies in ohio",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 16.8
+    },
+    {
+      "query": "plumbing companies near me",
+      "clicks": 1,
+      "impressions": 138,
+      "ctr": 0.007246376811594203,
+      "position": 27.956521739130434
+    },
+    {
+      "query": "plumbing companies plainfield",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "plumbing company near me",
+      "clicks": 1,
+      "impressions": 150,
+      "ctr": 0.006666666666666667,
+      "position": 29.466666666666665
+    },
+    {
+      "query": "plumbing in cincinnati",
+      "clicks": 1,
+      "impressions": 113,
+      "ctr": 0.008849557522123894,
+      "position": 68.54867256637168
+    },
+    {
+      "query": "plumbing near me",
+      "clicks": 1,
+      "impressions": 439,
+      "ctr": 0.002277904328018223,
+      "position": 9.241457858769932
+    },
+    {
+      "query": "plumbing services columbus ohio",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 24.2
+    },
+    {
+      "query": "propane companies near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "red light flashing on smoke alarm",
+      "clicks": 1,
+      "impressions": 61,
+      "ctr": 0.01639344262295082,
+      "position": 18.19672131147541
+    },
+    {
+      "query": "rough in meaning toilet",
+      "clicks": 1,
+      "impressions": 50,
+      "ctr": 0.02,
+      "position": 1.32
+    },
+    {
+      "query": "rough in toilet meaning",
+      "clicks": 1,
+      "impressions": 176,
+      "ctr": 0.005681818181818182,
+      "position": 1.6704545454545454
+    },
+    {
+      "query": "septic motor repair",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "septic system installers near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "sewer line inspection near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
     }
   ],
   "topPages": [
     {
       "page": "https://bassettservices.com/plainfield/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*38*bassett-services-plainfield",
-      "clicks": 521,
-      "impressions": 30640,
-      "ctr": 0.01700391644908616,
-      "position": 12.918309399477806
+      "clicks": 559,
+      "impressions": 35811,
+      "ctr": 0.015609728854262657,
+      "position": 10.732037642065286
     },
     {
       "page": "https://bassettservices.com/",
-      "clicks": 298,
-      "impressions": 17549,
-      "ctr": 0.01698102455980398,
-      "position": 16.237620377229472
+      "clicks": 337,
+      "impressions": 18945,
+      "ctr": 0.01778833465294273,
+      "position": 17.115386645552917
     },
     {
       "page": "https://bassettservices.com/columbus/",
-      "clicks": 144,
-      "impressions": 5822,
-      "ctr": 0.024733768464445208,
-      "position": 24.740810717966333
-    },
-    {
-      "page": "https://bassettservices.com/eaton/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*35*bassett-services-eaton",
-      "clicks": 138,
-      "impressions": 36830,
-      "ctr": 0.0037469454249253326,
-      "position": 24.567797990768394
+      "clicks": 160,
+      "impressions": 6017,
+      "ctr": 0.02659132458035566,
+      "position": 33.03872361642014
     },
     {
       "page": "https://bassettservices.com/indianapolis/",
-      "clicks": 133,
-      "impressions": 8811,
-      "ctr": 0.015094767903756667,
-      "position": 16.07184201566224
+      "clicks": 139,
+      "impressions": 9026,
+      "ctr": 0.015399955683580767,
+      "position": 17.879791712829604
     },
     {
       "page": "https://bassettservices.com/columbus/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*041*bassett-services-columbus",
-      "clicks": 122,
-      "impressions": 26679,
-      "ctr": 0.004572885040668691,
-      "position": 17.736271974211927
+      "clicks": 138,
+      "impressions": 30117,
+      "ctr": 0.004582129694192649,
+      "position": 16.00634193312747
+    },
+    {
+      "page": "https://bassettservices.com/eaton/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*35*bassett-services-eaton",
+      "clicks": 136,
+      "impressions": 46132,
+      "ctr": 0.0029480620827191536,
+      "position": 19.855870111852944
     },
     {
       "page": "https://bassettservices.com/columbus/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*042*bassett-services-columbus",
-      "clicks": 116,
-      "impressions": 29100,
-      "ctr": 0.003986254295532646,
-      "position": 9.518831615120275
+      "clicks": 126,
+      "impressions": 34290,
+      "ctr": 0.003674540682414698,
+      "position": 7.899154272382619
     },
     {
       "page": "https://bassettservices.com/indianapolis/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*044*bassett-services-indianapolis",
-      "clicks": 116,
-      "impressions": 25346,
-      "ctr": 0.004576659038901602,
-      "position": 16.166732423262054
+      "clicks": 118,
+      "impressions": 27412,
+      "ctr": 0.004304684079964979,
+      "position": 13.789179921202393
     },
     {
       "page": "https://bassettservices.com/lewis-center/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*036*bassett-services-lewis-center",
-      "clicks": 82,
-      "impressions": 21022,
-      "ctr": 0.0039006754828275142,
-      "position": 6.729949576634002
-    },
-    {
-      "page": "https://bassettservices.com/blog/why-is-my-smoke-detector-blinking-red/",
-      "clicks": 81,
-      "impressions": 76835,
-      "ctr": 0.00105420706709182,
-      "position": 4.442597774451747
+      "clicks": 88,
+      "impressions": 23601,
+      "ctr": 0.0037286555654421423,
+      "position": 6.2069403838820385
     },
     {
       "page": "https://bassettservices.com/ohio/dayton/",
-      "clicks": 71,
-      "impressions": 7751,
-      "ctr": 0.009160108373113146,
-      "position": 29.214165914075604
+      "clicks": 83,
+      "impressions": 7374,
+      "ctr": 0.01125576349335503,
+      "position": 31.775155953349607
+    },
+    {
+      "page": "https://bassettservices.com/blog/why-is-my-smoke-detector-blinking-red/",
+      "clicks": 82,
+      "impressions": 80769,
+      "ctr": 0.001015240995926655,
+      "position": 4.129368941054118
     },
     {
       "page": "https://bassettservices.com/cincinnati/",
-      "clicks": 67,
-      "impressions": 5821,
-      "ctr": 0.011510049819618623,
-      "position": 22.62205806562446
-    },
-    {
-      "page": "https://bassettservices.com/loveland/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*043*bassett-services-loveland",
-      "clicks": 64,
-      "impressions": 36646,
-      "ctr": 0.0017464389019265405,
-      "position": 12.383943677345412
+      "clicks": 74,
+      "impressions": 6101,
+      "ctr": 0.01212915915423701,
+      "position": 29.272906080970333
     },
     {
       "page": "https://bassettservices.com/blog/toilet-sizes-and-function-gpf/",
-      "clicks": 58,
-      "impressions": 12542,
-      "ctr": 0.004624461808324031,
-      "position": 5.5707223728273005
-    },
-    {
-      "page": "https://bassettservices.com/blog/toilet-rough-in-size-explained/",
-      "clicks": 51,
-      "impressions": 12701,
-      "ctr": 0.004015431855759389,
-      "position": 9.920793638296198
+      "clicks": 69,
+      "impressions": 13729,
+      "ctr": 0.005025857673537767,
+      "position": 5.223031539077865
     },
     {
       "page": "https://bassettservices.com/cincinnati/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*040*bassett-services-cincinnati",
-      "clicks": 51,
-      "impressions": 24555,
-      "ctr": 0.0020769700671960903,
-      "position": 11.04479739360619
-    },
-    {
-      "page": "https://bassettservices.com/ohio/huber-heights/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*352*bassett-dayton",
-      "clicks": 48,
-      "impressions": 1567,
-      "ctr": 0.03063178047223995,
-      "position": 18.136566687938735
+      "clicks": 56,
+      "impressions": 24359,
+      "ctr": 0.0022989449484790017,
+      "position": 10.64752247629213
     },
     {
       "page": "https://bassettservices.com/contact-us/home-service-maintenance-plans/",
-      "clicks": 41,
-      "impressions": 1308,
-      "ctr": 0.03134556574923547,
-      "position": 22.222477064220183
+      "clicks": 54,
+      "impressions": 1438,
+      "ctr": 0.037552155771905425,
+      "position": 20.818497913769125
     },
     {
-      "page": "https://bassettservices.com/lebanon/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*037*bassett-services-lebanon",
-      "clicks": 36,
-      "impressions": 37813,
-      "ctr": 0.0009520535265649379,
-      "position": 4.426361304313332
+      "page": "https://bassettservices.com/blog/toilet-rough-in-size-explained/",
+      "clicks": 49,
+      "impressions": 12449,
+      "ctr": 0.003936059121214555,
+      "position": 9.853883846092055
+    },
+    {
+      "page": "https://bassettservices.com/loveland/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*043*bassett-services-loveland",
+      "clicks": 48,
+      "impressions": 34217,
+      "ctr": 0.0014028114679837508,
+      "position": 11.68664698833913
+    },
+    {
+      "page": "https://bassettservices.com/ohio/huber-heights/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*352*bassett-dayton",
+      "clicks": 44,
+      "impressions": 1327,
+      "ctr": 0.033157498116051246,
+      "position": 18.77467972871138
     },
     {
       "page": "https://bassettservices.com/dowdy-is-now-bassett/",
-      "clicks": 34,
-      "impressions": 934,
-      "ctr": 0.03640256959314775,
-      "position": 19.426124197002142
+      "clicks": 43,
+      "impressions": 1178,
+      "ctr": 0.0365025466893039,
+      "position": 21.44482173174873
     },
     {
       "page": "https://bassettservices.com/eaton/",
-      "clicks": 32,
-      "impressions": 4471,
-      "ctr": 0.007157235517781257,
-      "position": 22.74099753970029
-    },
-    {
-      "page": "https://bassettservices.com/blog/understanding-why-your-furnaces-high-limit-switch-keeps-tripping/",
-      "clicks": 29,
-      "impressions": 6590,
-      "ctr": 0.004400606980273141,
-      "position": 5.770561456752656
-    },
-    {
-      "page": "https://bassettservices.com/contact-us/",
-      "clicks": 29,
-      "impressions": 4606,
-      "ctr": 0.006296135475466783,
-      "position": 14.040382110290924
+      "clicks": 34,
+      "impressions": 4470,
+      "ctr": 0.007606263982102908,
+      "position": 22.093288590604026
     },
     {
       "page": "https://bassettservices.com/drake-heating-air-is-now-bassett-services/",
-      "clicks": 22,
-      "impressions": 1022,
-      "ctr": 0.021526418786692758,
-      "position": 15.974559686888455
+      "clicks": 33,
+      "impressions": 1412,
+      "ctr": 0.023371104815864022,
+      "position": 15.88172804532578
+    },
+    {
+      "page": "https://bassettservices.com/lebanon/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*037*bassett-services-lebanon",
+      "clicks": 33,
+      "impressions": 39737,
+      "ctr": 0.0008304602763167828,
+      "position": 4.169967536552835
+    },
+    {
+      "page": "https://bassettservices.com/contact-us/",
+      "clicks": 32,
+      "impressions": 4699,
+      "ctr": 0.006809959565865078,
+      "position": 15.133219834007235
     },
     {
       "page": "https://bassettservices.com/plainfield/",
-      "clicks": 22,
-      "impressions": 6503,
-      "ctr": 0.0033830539750884206,
-      "position": 13.54451791480855
+      "clicks": 28,
+      "impressions": 6486,
+      "ctr": 0.004316990440949738,
+      "position": 15.560283687943262
     },
     {
-      "page": "https://bassettservices.com/blog/drain-snakes-demystified-a-complete-guide/",
+      "page": "https://bassettservices.com/blog/understanding-why-your-furnaces-high-limit-switch-keeps-tripping/",
+      "clicks": 24,
+      "impressions": 6415,
+      "ctr": 0.0037412314886983633,
+      "position": 5.681839438815277
+    },
+    {
+      "page": "https://bassettservices.com/blog/what-causes-flickering-or-dimming-lights-and-what-to-do-next/",
+      "clicks": 24,
+      "impressions": 6205,
+      "ctr": 0.0038678485092667205,
+      "position": 8.117969379532635
+    },
+    {
+      "page": "https://bassettservices.com/lewis-center/",
       "clicks": 20,
-      "impressions": 11490,
-      "ctr": 0.0017406440382941688,
-      "position": 15.897040905134899
+      "impressions": 8148,
+      "ctr": 0.002454590083456063,
+      "position": 47.81504663721159
     },
     {
       "page": "https://bassettservices.com/ohio/springfield/",
       "clicks": 20,
-      "impressions": 680,
-      "ctr": 0.029411764705882353,
-      "position": 45.154411764705884
+      "impressions": 625,
+      "ctr": 0.032,
+      "position": 39.9664
     },
     {
-      "page": "https://bassettservices.com/blog/what-causes-flickering-or-dimming-lights-and-what-to-do-next/",
-      "clicks": 19,
-      "impressions": 6285,
-      "ctr": 0.003023070803500398,
-      "position": 8.97708830548926
-    },
-    {
-      "page": "https://bassettservices.com/blog/why-does-my-sink-gurgle-when-i-flush/",
-      "clicks": 19,
-      "impressions": 9240,
-      "ctr": 0.0020562770562770564,
-      "position": 4.382467532467532
-    },
-    {
-      "page": "https://bassettservices.com/lewis-center/",
-      "clicks": 17,
-      "impressions": 5424,
-      "ctr": 0.0031342182890855457,
-      "position": 44.17809734513274
-    },
-    {
-      "page": "https://bassettservices.com/newark/",
-      "clicks": 12,
-      "impressions": 2115,
-      "ctr": 0.005673758865248227,
-      "position": 27.556028368794326
-    },
-    {
-      "page": "https://bassettservices.com/lafayette/",
-      "clicks": 11,
-      "impressions": 525,
-      "ctr": 0.02095238095238095,
-      "position": 34.31428571428572
-    },
-    {
-      "page": "https://bassettservices.com/offers/",
-      "clicks": 11,
-      "impressions": 1406,
-      "ctr": 0.007823613086770981,
-      "position": 6.10099573257468
+      "page": "https://bassettservices.com/blog/drain-snakes-demystified-a-complete-guide/",
+      "clicks": 16,
+      "impressions": 12016,
+      "ctr": 0.0013315579227696406,
+      "position": 13.78245672436751
     },
     {
       "page": "https://bassettservices.com/blog/why-does-my-sump-pump-run-in-dry-weather/",
+      "clicks": 16,
+      "impressions": 3641,
+      "ctr": 0.004394397143641857,
+      "position": 9.378467453996155
+    },
+    {
+      "page": "https://bassettservices.com/blog/why-does-my-sink-gurgle-when-i-flush/",
+      "clicks": 15,
+      "impressions": 8681,
+      "ctr": 0.0017279115309296164,
+      "position": 4.248243289943555
+    },
+    {
+      "page": "https://bassettservices.com/lafayette/",
+      "clicks": 13,
+      "impressions": 688,
+      "ctr": 0.0188953488372093,
+      "position": 34.082848837209305
+    },
+    {
+      "page": "https://bassettservices.com/blog/why-is-my-outdoor-ac-unit-fan-not-spinning/",
+      "clicks": 11,
+      "impressions": 17364,
+      "ctr": 0.0006334945865008062,
+      "position": 9.163211241649389
+    },
+    {
+      "page": "https://bassettservices.com/cincinnati/plumbing/",
       "clicks": 10,
-      "impressions": 3537,
-      "ctr": 0.0028272547356516823,
-      "position": 9.864009047215154
+      "impressions": 9828,
+      "ctr": 0.0010175010175010174,
+      "position": 49.99287749287749
+    },
+    {
+      "page": "https://bassettservices.com/newark/",
+      "clicks": 10,
+      "impressions": 2129,
+      "ctr": 0.004697040864255519,
+      "position": 28.46547674964772
     },
     {
       "page": "https://bassettservices.com/plumbing-services/",
       "clicks": 10,
-      "impressions": 2350,
-      "ctr": 0.00425531914893617,
-      "position": 19.882978723404257
+      "impressions": 2136,
+      "ctr": 0.0046816479400749065,
+      "position": 22.375936329588015
     },
     {
-      "page": "https://bassettservices.com/lebanon/",
+      "page": "https://bassettservices.com/greencastle/",
       "clicks": 9,
-      "impressions": 2999,
-      "ctr": 0.0030010003334444814,
-      "position": 16.484494831610537
+      "impressions": 1077,
+      "ctr": 0.008356545961002786,
+      "position": 25.44289693593315
     },
     {
-      "page": "https://bassettservices.com/loveland/",
+      "page": "https://bassettservices.com/heating-services/air-duct-cleaning/",
       "clicks": 9,
-      "impressions": 1323,
-      "ctr": 0.006802721088435374,
-      "position": 27.823885109599395
+      "impressions": 2904,
+      "ctr": 0.0030991735537190084,
+      "position": 33.85433884297521
     },
     {
-      "page": "https://bassettservices.com/blog/why-is-my-outdoor-water-spigot-leaking-or-dripping/",
-      "clicks": 7,
-      "impressions": 2657,
-      "ctr": 0.0026345502446368085,
-      "position": 16.628904779826872
+      "page": "https://bassettservices.com/offers/",
+      "clicks": 9,
+      "impressions": 1418,
+      "ctr": 0.006346967559943582,
+      "position": 6.703102961918194
     },
     {
       "page": "https://bassettservices.com/carmel/",
-      "clicks": 7,
-      "impressions": 2117,
-      "ctr": 0.0033065658951346244,
-      "position": 35.852621634388285
+      "clicks": 8,
+      "impressions": 2356,
+      "ctr": 0.003395585738539898,
+      "position": 36.75297113752122
     },
     {
-      "page": "https://bassettservices.com/cincinnati/plumbing/",
-      "clicks": 7,
-      "impressions": 7693,
-      "ctr": 0.0009099181073703367,
-      "position": 50.39009489145977
+      "page": "https://bassettservices.com/loveland/",
+      "clicks": 8,
+      "impressions": 1310,
+      "ctr": 0.0061068702290076335,
+      "position": 25.270992366412212
+    },
+    {
+      "page": "https://bassettservices.com/sponsorship/",
+      "clicks": 8,
+      "impressions": 124,
+      "ctr": 0.06451612903225806,
+      "position": 19.072580645161292
     },
     {
       "page": "https://bassettservices.com/about-us/our-service-area/indiana/",
       "clicks": 6,
-      "impressions": 635,
-      "ctr": 0.009448818897637795,
-      "position": 14.096062992125985
-    },
-    {
-      "page": "https://bassettservices.com/blog/why-is-my-circuit-breaker-hot/",
-      "clicks": 6,
-      "impressions": 3796,
-      "ctr": 0.0015806111696522655,
-      "position": 6.8890937829293994
+      "impressions": 792,
+      "ctr": 0.007575757575757576,
+      "position": 21.9229797979798
     },
     {
       "page": "https://bassettservices.com/blog/why-is-my-electrical-outlet-buzzing/",
       "clicks": 6,
-      "impressions": 5226,
-      "ctr": 0.001148105625717566,
-      "position": 6.293340987370838
+      "impressions": 5231,
+      "ctr": 0.0011470082202255784,
+      "position": 5.676352513859682
     },
     {
-      "page": "https://bassettservices.com/greencastle/",
+      "page": "https://bassettservices.com/blog/why-is-my-outdoor-water-spigot-leaking-or-dripping/",
       "clicks": 6,
-      "impressions": 1084,
-      "ctr": 0.005535055350553505,
-      "position": 23.093173431734318
+      "impressions": 3331,
+      "ctr": 0.0018012608826178324,
+      "position": 11.849294506154308
     },
     {
-      "page": "https://bassettservices.com/heating-services/air-duct-cleaning/",
+      "page": "https://bassettservices.com/greenwood/",
       "clicks": 6,
-      "impressions": 3172,
-      "ctr": 0.0018915510718789407,
-      "position": 32.428121059268605
+      "impressions": 1839,
+      "ctr": 0.0032626427406199023,
+      "position": 34.76237085372485
     },
     {
-      "page": "https://bassettservices.com/about-us/financing-options-plans/",
-      "clicks": 5,
-      "impressions": 483,
-      "ctr": 0.010351966873706004,
-      "position": 8.064182194616977
+      "page": "https://bassettservices.com/ohio/plumbing/",
+      "clicks": 6,
+      "impressions": 302,
+      "ctr": 0.019867549668874173,
+      "position": 15.983443708609272
     },
     {
-      "page": "https://bassettservices.com/blog/why-is-my-outdoor-ac-unit-fan-not-spinning/",
+      "page": "https://bassettservices.com/blog/how-to-prevent-and-clear-a-grease-clog-in-your-kitchen-sink/",
       "clicks": 5,
-      "impressions": 6324,
-      "ctr": 0.0007906388361796331,
-      "position": 14.364800759013283
+      "impressions": 5363,
+      "ctr": 0.0009323140033563305,
+      "position": 12.813350736528063
     },
     {
-      "page": "https://bassettservices.com/contact-us/?utm_source=gmb&utm_medium=organic",
+      "page": "https://bassettservices.com/blog/why-is-my-ac-not-blowing-cold-air-after-a-power-outage/",
       "clicks": 5,
-      "impressions": 2370,
-      "ctr": 0.002109704641350211,
-      "position": 10.566666666666666
+      "impressions": 5285,
+      "ctr": 0.000946073793755913,
+      "position": 14.525827814569537
     },
     {
       "page": "https://bassettservices.com/contact-us/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*044*bassett-services-indianapolis",
       "clicks": 5,
-      "impressions": 803,
-      "ctr": 0.0062266500622665,
-      "position": 6.129514321295143
-    },
-    {
-      "page": "https://bassettservices.com/greenwood/",
-      "clicks": 5,
-      "impressions": 1928,
-      "ctr": 0.0025933609958506223,
-      "position": 34.71369294605809
+      "impressions": 744,
+      "ctr": 0.006720430107526882,
+      "position": 5.89247311827957
     }
   ],
-  "fetchedAt": "2026-03-18T13:06:48.201Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "bassett services",
+      "clicks": 745,
+      "impressions": 4572,
+      "ctr": 0.16294838145231846,
+      "position": 1.1828521434820647
+    },
+    {
+      "query": "bassett plumbing",
+      "clicks": 91,
+      "impressions": 1019,
+      "ctr": 0.08930323846908735,
+      "position": 4.414131501472031
+    },
+    {
+      "query": "bassett services: heating, cooling, plumbing, & electrical",
+      "clicks": 53,
+      "impressions": 2053,
+      "ctr": 0.025815879201169022,
+      "position": 1.2878714076960547
+    },
+    {
+      "query": "water heater repair columbus oh",
+      "clicks": 53,
+      "impressions": 939,
+      "ctr": 0.05644302449414271,
+      "position": 19.321618743343983
+    },
+    {
+      "query": "granville duct cleaning",
+      "clicks": 51,
+      "impressions": 302,
+      "ctr": 0.16887417218543047,
+      "position": 21.06953642384106
+    },
+    {
+      "query": "hvac repair columbus",
+      "clicks": 50,
+      "impressions": 1674,
+      "ctr": 0.02986857825567503,
+      "position": 52.456989247311824
+    },
+    {
+      "query": "furnace installation columbus",
+      "clicks": 49,
+      "impressions": 972,
+      "ctr": 0.050411522633744855,
+      "position": 36.32098765432099
+    },
+    {
+      "query": "furnace repair columbus oh",
+      "clicks": 48,
+      "impressions": 844,
+      "ctr": 0.05687203791469194,
+      "position": 33.175355450236964
+    },
+    {
+      "query": "bassett services columbus ohio",
+      "clicks": 43,
+      "impressions": 208,
+      "ctr": 0.20673076923076922,
+      "position": 1.2067307692307692
+    },
+    {
+      "query": "plumbing columbus",
+      "clicks": 43,
+      "impressions": 929,
+      "ctr": 0.04628632938643703,
+      "position": 46.89451022604952
+    },
+    {
+      "query": "bassett electrical services",
+      "clicks": 42,
+      "impressions": 197,
+      "ctr": 0.2131979695431472,
+      "position": 1.532994923857868
+    },
+    {
+      "query": "bassett heating and cooling",
+      "clicks": 42,
+      "impressions": 612,
+      "ctr": 0.06862745098039216,
+      "position": 4.357843137254902
+    },
+    {
+      "query": "bassett services cincinnati",
+      "clicks": 42,
+      "impressions": 241,
+      "ctr": 0.17427385892116182,
+      "position": 1.008298755186722
+    },
+    {
+      "query": "furnace service columbus, oh",
+      "clicks": 42,
+      "impressions": 559,
+      "ctr": 0.07513416815742398,
+      "position": 31.983899821109123
+    },
+    {
+      "query": "heating contractor granville oh",
+      "clicks": 42,
+      "impressions": 201,
+      "ctr": 0.208955223880597,
+      "position": 34.333333333333336
+    },
+    {
+      "query": "heat pump service columbus, oh",
+      "clicks": 41,
+      "impressions": 510,
+      "ctr": 0.0803921568627451,
+      "position": 15.615686274509804
+    },
+    {
+      "query": "bassett electric",
+      "clicks": 40,
+      "impressions": 525,
+      "ctr": 0.0761904761904762,
+      "position": 5.6761904761904765
+    },
+    {
+      "query": "bassett home services",
+      "clicks": 40,
+      "impressions": 185,
+      "ctr": 0.21621621621621623,
+      "position": 2.4
+    },
+    {
+      "query": "ductless mini splits columbus, oh",
+      "clicks": 40,
+      "impressions": 482,
+      "ctr": 0.08298755186721991,
+      "position": 20.759336099585063
+    },
+    {
+      "query": "water heater repair cincinnati",
+      "clicks": 40,
+      "impressions": 1997,
+      "ctr": 0.020030045067601403,
+      "position": 16.86179268903355
+    },
+    {
+      "query": "bassett hvac",
+      "clicks": 38,
+      "impressions": 246,
+      "ctr": 0.15447154471544716,
+      "position": 2.4674796747967482
+    },
+    {
+      "query": "plumber eaton oh",
+      "clicks": 38,
+      "impressions": 1039,
+      "ctr": 0.03657362848893166,
+      "position": 7.739172281039461
+    },
+    {
+      "query": "drain cleaning cincinnati",
+      "clicks": 37,
+      "impressions": 2284,
+      "ctr": 0.016199649737302976,
+      "position": 6.609894921190893
+    },
+    {
+      "query": "basset services",
+      "clicks": 35,
+      "impressions": 184,
+      "ctr": 0.19021739130434784,
+      "position": 1.2771739130434783
+    },
+    {
+      "query": "eaton oh plumber",
+      "clicks": 35,
+      "impressions": 534,
+      "ctr": 0.06554307116104868,
+      "position": 6.668539325842697
+    },
+    {
+      "query": "furnace repair indianapolis in",
+      "clicks": 35,
+      "impressions": 697,
+      "ctr": 0.05021520803443329,
+      "position": 40.42754662840746
+    },
+    {
+      "query": "bassett services eaton ohio",
+      "clicks": 34,
+      "impressions": 281,
+      "ctr": 0.12099644128113879,
+      "position": 1.00355871886121
+    },
+    {
+      "query": "sewer line repair indianapolis",
+      "clicks": 34,
+      "impressions": 1157,
+      "ctr": 0.029386343993085567,
+      "position": 13.82800345721694
+    },
+    {
+      "query": "plumber eaton",
+      "clicks": 33,
+      "impressions": 358,
+      "ctr": 0.09217877094972067,
+      "position": 39.00558659217877
+    },
+    {
+      "query": "plumber indianapolis, in",
+      "clicks": 33,
+      "impressions": 302,
+      "ctr": 0.10927152317880795,
+      "position": 77.23509933774834
+    },
+    {
+      "query": "bassett heating and air conditioning",
+      "clicks": 32,
+      "impressions": 201,
+      "ctr": 0.15920398009950248,
+      "position": 3.442786069651741
+    },
+    {
+      "query": "bassett services electrical",
+      "clicks": 32,
+      "impressions": 91,
+      "ctr": 0.3516483516483517,
+      "position": 1.032967032967033
+    },
+    {
+      "query": "heat pump repair columbus",
+      "clicks": 32,
+      "impressions": 653,
+      "ctr": 0.04900459418070444,
+      "position": 14.240428790199081
+    },
+    {
+      "query": "cincinnati plumbers",
+      "clicks": 31,
+      "impressions": 1991,
+      "ctr": 0.0155700652938222,
+      "position": 46.83676544450025
+    },
+    {
+      "query": "furnace repair columbus, oh",
+      "clicks": 31,
+      "impressions": 501,
+      "ctr": 0.06187624750499002,
+      "position": 33.2814371257485
+    },
+    {
+      "query": "furnace replacement columbus, oh",
+      "clicks": 31,
+      "impressions": 503,
+      "ctr": 0.061630218687872766,
+      "position": 24.294234592445328
+    },
+    {
+      "query": "heater repair columbus",
+      "clicks": 31,
+      "impressions": 204,
+      "ctr": 0.15196078431372548,
+      "position": 10.627450980392156
+    },
+    {
+      "query": "hot water heater repair cincinnati",
+      "clicks": 31,
+      "impressions": 1095,
+      "ctr": 0.028310502283105023,
+      "position": 17.947945205479453
+    },
+    {
+      "query": "plumbers eaton oh",
+      "clicks": 31,
+      "impressions": 536,
+      "ctr": 0.05783582089552239,
+      "position": 9.514925373134329
+    },
+    {
+      "query": "water heater installation columbus",
+      "clicks": 31,
+      "impressions": 1038,
+      "ctr": 0.029865125240847785,
+      "position": 31.108863198458575
+    },
+    {
+      "query": "ac repair granville oh",
+      "clicks": 30,
+      "impressions": 132,
+      "ctr": 0.22727272727272727,
+      "position": 7.121212121212121
+    },
+    {
+      "query": "eaton oh plumbers",
+      "clicks": 30,
+      "impressions": 558,
+      "ctr": 0.053763440860215055,
+      "position": 7.272401433691757
+    },
+    {
+      "query": "plumbers columbus",
+      "clicks": 30,
+      "impressions": 310,
+      "ctr": 0.0967741935483871,
+      "position": 96.10967741935484
+    },
+    {
+      "query": "water heater repair columbus",
+      "clicks": 30,
+      "impressions": 965,
+      "ctr": 0.031088082901554404,
+      "position": 29.728497409326426
+    },
+    {
+      "query": "what is gpf toilet",
+      "clicks": 30,
+      "impressions": 606,
+      "ctr": 0.04950495049504951,
+      "position": 2.18976897689769
+    },
+    {
+      "query": "furnace installation columbus, oh",
+      "clicks": 29,
+      "impressions": 460,
+      "ctr": 0.06304347826086956,
+      "position": 26.056521739130435
+    },
+    {
+      "query": "furnace repair columbus ohio",
+      "clicks": 29,
+      "impressions": 565,
+      "ctr": 0.05132743362831858,
+      "position": 31.842477876106194
+    },
+    {
+      "query": "heating repair columbus",
+      "clicks": 29,
+      "impressions": 850,
+      "ctr": 0.03411764705882353,
+      "position": 34.84117647058824
+    },
+    {
+      "query": "plumbers eaton",
+      "clicks": 29,
+      "impressions": 195,
+      "ctr": 0.14871794871794872,
+      "position": 21.784615384615385
+    },
+    {
+      "query": "water heater replacement columbus",
+      "clicks": 29,
+      "impressions": 625,
+      "ctr": 0.0464,
+      "position": 39.8336
+    },
+    {
+      "query": "bassett services plainfield indiana",
+      "clicks": 28,
+      "impressions": 100,
+      "ctr": 0.28,
+      "position": 1
+    },
+    {
+      "query": "furnace repair cincinnati",
+      "clicks": 28,
+      "impressions": 2032,
+      "ctr": 0.013779527559055118,
+      "position": 29.41732283464567
+    },
+    {
+      "query": "furnace repair columbus",
+      "clicks": 28,
+      "impressions": 1627,
+      "ctr": 0.017209588199139522,
+      "position": 37.089121081745546
+    },
+    {
+      "query": "furnace replacement columbus",
+      "clicks": 28,
+      "impressions": 547,
+      "ctr": 0.051188299817184646,
+      "position": 29.265082266910422
+    },
+    {
+      "query": "heat pump replacement columbus, oh",
+      "clicks": 28,
+      "impressions": 471,
+      "ctr": 0.059447983014861996,
+      "position": 18.133757961783438
+    },
+    {
+      "query": "bassett heating and air",
+      "clicks": 27,
+      "impressions": 247,
+      "ctr": 0.10931174089068826,
+      "position": 2.1902834008097165
+    },
+    {
+      "query": "heat pump installation indianapolis in",
+      "clicks": 27,
+      "impressions": 650,
+      "ctr": 0.04153846153846154,
+      "position": 14.543076923076923
+    },
+    {
+      "query": "plumbing services columbus",
+      "clicks": 27,
+      "impressions": 518,
+      "ctr": 0.052123552123552123,
+      "position": 40.71042471042471
+    },
+    {
+      "query": "bassett",
+      "clicks": 26,
+      "impressions": 11243,
+      "ctr": 0.002312550031130481,
+      "position": 5.309525927243619
+    },
+    {
+      "query": "bassett services dayton ohio",
+      "clicks": 26,
+      "impressions": 103,
+      "ctr": 0.2524271844660194,
+      "position": 1.1553398058252426
+    },
+    {
+      "query": "columbus heating repair",
+      "clicks": 26,
+      "impressions": 507,
+      "ctr": 0.05128205128205128,
+      "position": 26.761341222879686
+    },
+    {
+      "query": "heating and cooling in indianapolis",
+      "clicks": 26,
+      "impressions": 915,
+      "ctr": 0.02841530054644809,
+      "position": 57.350819672131145
+    },
+    {
+      "query": "best plumbing cincinnati",
+      "clicks": 25,
+      "impressions": 1012,
+      "ctr": 0.024703557312252964,
+      "position": 14.120553359683795
+    },
+    {
+      "query": "columbus ohio plumbing",
+      "clicks": 25,
+      "impressions": 355,
+      "ctr": 0.07042253521126761,
+      "position": 50.17183098591549
+    },
+    {
+      "query": "heating installation columbus",
+      "clicks": 25,
+      "impressions": 647,
+      "ctr": 0.03863987635239567,
+      "position": 23.84080370942813
+    },
+    {
+      "query": "heating repair lewis center oh",
+      "clicks": 25,
+      "impressions": 569,
+      "ctr": 0.043936731107205626,
+      "position": 5.418277680140598
+    },
+    {
+      "query": "plumber indianapolis",
+      "clicks": 25,
+      "impressions": 1550,
+      "ctr": 0.016129032258064516,
+      "position": 49.39806451612903
+    },
+    {
+      "query": "plumbing repair eaton",
+      "clicks": 25,
+      "impressions": 169,
+      "ctr": 0.14792899408284024,
+      "position": 20.266272189349113
+    },
+    {
+      "query": "furnace maintenance columbus",
+      "clicks": 24,
+      "impressions": 684,
+      "ctr": 0.03508771929824561,
+      "position": 28.06578947368421
+    },
+    {
+      "query": "heat pump installation columbus, oh",
+      "clicks": 24,
+      "impressions": 487,
+      "ctr": 0.049281314168377825,
+      "position": 21.8911704312115
+    },
+    {
+      "query": "heating and cooling loveland, oh",
+      "clicks": 24,
+      "impressions": 277,
+      "ctr": 0.08664259927797834,
+      "position": 7.335740072202166
+    },
+    {
+      "query": "indianapolis furnace repair",
+      "clicks": 24,
+      "impressions": 1199,
+      "ctr": 0.020016680567139282,
+      "position": 41.79316096747289
+    },
+    {
+      "query": "bassett heating and cooling plainfield indiana",
+      "clicks": 23,
+      "impressions": 74,
+      "ctr": 0.3108108108108108,
+      "position": 1
+    },
+    {
+      "query": "drain cleaning plainfield",
+      "clicks": 23,
+      "impressions": 191,
+      "ctr": 0.12041884816753927,
+      "position": 15.806282722513089
+    },
+    {
+      "query": "eaton heating and cooling",
+      "clicks": 23,
+      "impressions": 108,
+      "ctr": 0.21296296296296297,
+      "position": 5.657407407407407
+    },
+    {
+      "query": "electrical repair columbus",
+      "clicks": 23,
+      "impressions": 436,
+      "ctr": 0.052752293577981654,
+      "position": 26.915137614678898
+    },
+    {
+      "query": "furnace installation lebanon",
+      "clicks": 23,
+      "impressions": 327,
+      "ctr": 0.07033639143730887,
+      "position": 31.363914373088686
+    },
+    {
+      "query": "furnace maintenance lewis center",
+      "clicks": 23,
+      "impressions": 272,
+      "ctr": 0.08455882352941177,
+      "position": 6.709558823529412
+    },
+    {
+      "query": "furnace service loveland, oh",
+      "clicks": 23,
+      "impressions": 312,
+      "ctr": 0.07371794871794872,
+      "position": 6.346153846153846
+    },
+    {
+      "query": "heat pump repair indianapolis, in",
+      "clicks": 23,
+      "impressions": 416,
+      "ctr": 0.055288461538461536,
+      "position": 8.673076923076923
+    },
+    {
+      "query": "heat pump repair lewis center",
+      "clicks": 23,
+      "impressions": 279,
+      "ctr": 0.08243727598566308,
+      "position": 7.351254480286738
+    },
+    {
+      "query": "heat pump repair loveland, oh",
+      "clicks": 23,
+      "impressions": 272,
+      "ctr": 0.08455882352941177,
+      "position": 12.654411764705882
+    },
+    {
+      "query": "heat pump replacement loveland, oh",
+      "clicks": 23,
+      "impressions": 277,
+      "ctr": 0.08303249097472924,
+      "position": 6.76173285198556
+    },
+    {
+      "query": "heat pump service loveland, oh",
+      "clicks": 23,
+      "impressions": 297,
+      "ctr": 0.07744107744107744,
+      "position": 8.43097643097643
+    },
+    {
+      "query": "heating and cooling columbus, oh",
+      "clicks": 23,
+      "impressions": 444,
+      "ctr": 0.0518018018018018,
+      "position": 43.887387387387385
+    },
+    {
+      "query": "plumber loveland ohio",
+      "clicks": 23,
+      "impressions": 526,
+      "ctr": 0.043726235741444866,
+      "position": 5.699619771863118
+    },
+    {
+      "query": "plumbers cincinnati",
+      "clicks": 23,
+      "impressions": 1829,
+      "ctr": 0.012575177692728267,
+      "position": 46.12903225806452
+    },
+    {
+      "query": "plumbing eaton estates oh",
+      "clicks": 23,
+      "impressions": 104,
+      "ctr": 0.22115384615384615,
+      "position": 6.134615384615385
+    },
+    {
+      "query": "water heater replacement cincinnati",
+      "clicks": 23,
+      "impressions": 654,
+      "ctr": 0.035168195718654434,
+      "position": 24.856269113149846
+    },
+    {
+      "query": "ac repair columbus, oh",
+      "clicks": 22,
+      "impressions": 518,
+      "ctr": 0.04247104247104247,
+      "position": 33.27606177606177
+    },
+    {
+      "query": "furnace installation columbus oh",
+      "clicks": 22,
+      "impressions": 365,
+      "ctr": 0.06027397260273973,
+      "position": 25.816438356164383
+    },
+    {
+      "query": "lebanon in plumber",
+      "clicks": 22,
+      "impressions": 265,
+      "ctr": 0.0830188679245283,
+      "position": 44.92075471698113
+    },
+    {
+      "query": "water heater installation columbus, oh",
+      "clicks": 22,
+      "impressions": 254,
+      "ctr": 0.08661417322834646,
+      "position": 24.04724409448819
+    },
+    {
+      "query": "columbus heating and cooling",
+      "clicks": 21,
+      "impressions": 441,
+      "ctr": 0.047619047619047616,
+      "position": 51.16326530612245
+    },
+    {
+      "query": "duct cleaning loveland, oh",
+      "clicks": 21,
+      "impressions": 286,
+      "ctr": 0.07342657342657342,
+      "position": 50.76573426573427
+    },
+    {
+      "query": "furnace installation columbus ohio",
+      "clicks": 21,
+      "impressions": 393,
+      "ctr": 0.05343511450381679,
+      "position": 33.17811704834605
+    },
+    {
+      "query": "plumber columbus",
+      "clicks": 21,
+      "impressions": 543,
+      "ctr": 0.03867403314917127,
+      "position": 93.67403314917127
+    },
+    {
+      "query": "plumbers in cincinnati",
+      "clicks": 21,
+      "impressions": 1141,
+      "ctr": 0.018404907975460124,
+      "position": 43.28133216476775
+    },
+    {
+      "query": "water heater cincinnati",
+      "clicks": 21,
+      "impressions": 907,
+      "ctr": 0.023153252480705624,
+      "position": 23.7045203969129
+    },
+    {
+      "query": "columbus furnace repair",
+      "clicks": 20,
+      "impressions": 667,
+      "ctr": 0.029985007496251874,
+      "position": 32.48425787106447
+    },
+    {
+      "query": "furnace installation cincinnati",
+      "clicks": 20,
+      "impressions": 965,
+      "ctr": 0.02072538860103627,
+      "position": 25.208290155440416
+    },
+    {
+      "query": "furnace repair lebanon",
+      "clicks": 20,
+      "impressions": 629,
+      "ctr": 0.03179650238473768,
+      "position": 48.4483306836248
+    },
+    {
+      "query": "heat pump installation columbus oh",
+      "clicks": 20,
+      "impressions": 476,
+      "ctr": 0.04201680672268908,
+      "position": 22.72689075630252
+    },
+    {
+      "query": "heat pump replacement services columbus oh",
+      "clicks": 20,
+      "impressions": 781,
+      "ctr": 0.02560819462227913,
+      "position": 12.407170294494238
+    },
+    {
+      "query": "heating and cooling cincinnati",
+      "clicks": 20,
+      "impressions": 1337,
+      "ctr": 0.014958863126402393,
+      "position": 53.60882572924458
+    },
+    {
+      "query": "heating and cooling columbus oh",
+      "clicks": 20,
+      "impressions": 576,
+      "ctr": 0.034722222222222224,
+      "position": 41.869791666666664
+    },
+    {
+      "query": "heating and cooling columbus ohio",
+      "clicks": 20,
+      "impressions": 759,
+      "ctr": 0.026350461133069828,
+      "position": 41.72068511198946
+    },
+    {
+      "query": "plainfield in plumbers",
+      "clicks": 20,
+      "impressions": 421,
+      "ctr": 0.047505938242280284,
+      "position": 25.06650831353919
+    },
+    {
+      "query": "replace water heater in columbus",
+      "clicks": 20,
+      "impressions": 303,
+      "ctr": 0.066006600660066,
+      "position": 32.14191419141915
+    },
+    {
+      "query": "septic tank cleaning indianapolis",
+      "clicks": 20,
+      "impressions": 343,
+      "ctr": 0.05830903790087463,
+      "position": 29.21865889212828
+    },
+    {
+      "query": "septic tank services plainfield",
+      "clicks": 20,
+      "impressions": 120,
+      "ctr": 0.16666666666666666,
+      "position": 29.933333333333334
+    },
+    {
+      "query": "tankless water heater installation cincinnati",
+      "clicks": 20,
+      "impressions": 532,
+      "ctr": 0.03759398496240601,
+      "position": 18.55263157894737
+    },
+    {
+      "query": "types of drain snakes",
+      "clicks": 20,
+      "impressions": 346,
+      "ctr": 0.057803468208092484,
+      "position": 2.2196531791907512
+    },
+    {
+      "query": "water heater columbus",
+      "clicks": 20,
+      "impressions": 297,
+      "ctr": 0.06734006734006734,
+      "position": 45.14478114478114
+    },
+    {
+      "query": "bassett services: heating, cooling, plumbing & electrical",
+      "clicks": 19,
+      "impressions": 280,
+      "ctr": 0.06785714285714285,
+      "position": 1.3464285714285715
+    },
+    {
+      "query": "cincinnati sewer line repair",
+      "clicks": 19,
+      "impressions": 906,
+      "ctr": 0.02097130242825607,
+      "position": 11.766004415011038
+    },
+    {
+      "query": "columbus water heater repair",
+      "clicks": 19,
+      "impressions": 419,
+      "ctr": 0.045346062052505964,
+      "position": 28.529832935560858
+    },
+    {
+      "query": "drain cleaning lebanon",
+      "clicks": 19,
+      "impressions": 1202,
+      "ctr": 0.015806988352745424,
+      "position": 55.89933444259567
+    },
+    {
+      "query": "ductless mini splits loveland, oh",
+      "clicks": 19,
+      "impressions": 258,
+      "ctr": 0.07364341085271318,
+      "position": 16.821705426356587
+    },
+    {
+      "query": "furnace repair plainfield",
+      "clicks": 19,
+      "impressions": 367,
+      "ctr": 0.051771117166212535,
+      "position": 43.67302452316076
+    },
+    {
+      "query": "heat pump service lewis center",
+      "clicks": 19,
+      "impressions": 209,
+      "ctr": 0.09090909090909091,
+      "position": 5.952153110047847
+    },
+    {
+      "query": "heater repair mount eaton",
+      "clicks": 19,
+      "impressions": 128,
+      "ctr": 0.1484375,
+      "position": 7.703125
+    },
+    {
+      "query": "heating and air eaton ohio",
+      "clicks": 19,
+      "impressions": 101,
+      "ctr": 0.18811881188118812,
+      "position": 1.4257425742574257
+    },
+    {
+      "query": "heating repair lewis center",
+      "clicks": 19,
+      "impressions": 246,
+      "ctr": 0.07723577235772358,
+      "position": 7.227642276422764
+    },
+    {
+      "query": "indianapolis heating and cooling",
+      "clicks": 19,
+      "impressions": 1131,
+      "ctr": 0.016799292661361626,
+      "position": 63.63306808134394
+    },
+    {
+      "query": "plumber lebanon",
+      "clicks": 19,
+      "impressions": 471,
+      "ctr": 0.040339702760084924,
+      "position": 17.28874734607219
+    },
+    {
+      "query": "plumbers in plainfield",
+      "clicks": 19,
+      "impressions": 414,
+      "ctr": 0.04589371980676329,
+      "position": 58.393719806763286
+    },
+    {
+      "query": "plumbing services columbus oh",
+      "clicks": 19,
+      "impressions": 410,
+      "ctr": 0.046341463414634146,
+      "position": 40.37317073170732
+    },
+    {
+      "query": "residential heating and air conditioning service lewis center oh",
+      "clicks": 19,
+      "impressions": 411,
+      "ctr": 0.046228710462287104,
+      "position": 9.496350364963504
+    },
+    {
+      "query": "water heater replacement columbus oh",
+      "clicks": 19,
+      "impressions": 361,
+      "ctr": 0.05263157894736842,
+      "position": 27.257617728531855
+    },
+    {
+      "query": "ac tune up granville",
+      "clicks": 18,
+      "impressions": 82,
+      "ctr": 0.21951219512195122,
+      "position": 3.5609756097560976
+    },
+    {
+      "query": "drain repair indianapolis, in",
+      "clicks": 18,
+      "impressions": 323,
+      "ctr": 0.05572755417956656,
+      "position": 20.78018575851393
+    },
+    {
+      "query": "duct cleaning indianapolis",
+      "clicks": 18,
+      "impressions": 835,
+      "ctr": 0.02155688622754491,
+      "position": 35.6814371257485
+    },
+    {
+      "query": "furnace installation lewis center",
+      "clicks": 18,
+      "impressions": 228,
+      "ctr": 0.07894736842105263,
+      "position": 6.934210526315789
+    },
+    {
+      "query": "furnace repair loveland, oh",
+      "clicks": 18,
+      "impressions": 233,
+      "ctr": 0.07725321888412018,
+      "position": 8.098712446351932
+    },
+    {
+      "query": "heat pump installation columbus",
+      "clicks": 18,
+      "impressions": 426,
+      "ctr": 0.04225352112676056,
+      "position": 34.237089201877936
+    },
+    {
+      "query": "hvac columbus ohio",
+      "clicks": 18,
+      "impressions": 1052,
+      "ctr": 0.017110266159695818,
+      "position": 39.036121673003805
+    },
+    {
+      "query": "plumber cincinnati",
+      "clicks": 18,
+      "impressions": 3195,
+      "ctr": 0.005633802816901409,
+      "position": 70.13082942097027
+    },
+    {
+      "query": "plumber cincinnati oh",
+      "clicks": 18,
+      "impressions": 1076,
+      "ctr": 0.016728624535315983,
+      "position": 60.68494423791822
+    },
+    {
+      "query": "plumber plainfield",
+      "clicks": 18,
+      "impressions": 674,
+      "ctr": 0.026706231454005934,
+      "position": 44.89317507418398
+    },
+    {
+      "query": "plumber plainfield in",
+      "clicks": 18,
+      "impressions": 602,
+      "ctr": 0.029900332225913623,
+      "position": 13.069767441860465
+    },
+    {
+      "query": "plumber west columbus",
+      "clicks": 18,
+      "impressions": 223,
+      "ctr": 0.08071748878923767,
+      "position": 52.426008968609864
+    },
+    {
+      "query": "sewer line repair lebanon",
+      "clicks": 18,
+      "impressions": 955,
+      "ctr": 0.018848167539267015,
+      "position": 63.59371727748691
+    },
+    {
+      "query": "water heater repair eaton oh",
+      "clicks": 18,
+      "impressions": 515,
+      "ctr": 0.03495145631067961,
+      "position": 3.4174757281553396
+    },
+    {
+      "query": "water heater repair plainfield in",
+      "clicks": 18,
+      "impressions": 245,
+      "ctr": 0.07346938775510205,
+      "position": 2.391836734693878
+    },
+    {
+      "query": "best plumbers in cincinnati",
+      "clicks": 17,
+      "impressions": 764,
+      "ctr": 0.02225130890052356,
+      "position": 43.04319371727749
+    },
+    {
+      "query": "furnace installation loveland, oh",
+      "clicks": 17,
+      "impressions": 264,
+      "ctr": 0.06439393939393939,
+      "position": 8.382575757575758
+    },
+    {
+      "query": "heating and cooling columbus",
+      "clicks": 17,
+      "impressions": 778,
+      "ctr": 0.021850899742930592,
+      "position": 60.53341902313625
+    },
+    {
+      "query": "lewis center furnace installation",
+      "clicks": 17,
+      "impressions": 144,
+      "ctr": 0.11805555555555555,
+      "position": 5.736111111111111
+    },
+    {
+      "query": "plainfield in plumber",
+      "clicks": 17,
+      "impressions": 460,
+      "ctr": 0.03695652173913044,
+      "position": 14.732608695652173
+    },
+    {
+      "query": "plumber granville",
+      "clicks": 17,
+      "impressions": 153,
+      "ctr": 0.1111111111111111,
+      "position": 62.77777777777778
+    },
+    {
+      "query": "plumbers lebanon in",
+      "clicks": 17,
+      "impressions": 459,
+      "ctr": 0.037037037037037035,
+      "position": 35.92374727668845
+    },
+    {
+      "query": "plumbers loveland ohio",
+      "clicks": 17,
+      "impressions": 146,
+      "ctr": 0.11643835616438356,
+      "position": 6.123287671232877
+    },
+    {
+      "query": "plumbing installation lebanon",
+      "clicks": 17,
+      "impressions": 356,
+      "ctr": 0.047752808988764044,
+      "position": 43.4747191011236
+    },
+    {
+      "query": "septic services plainfield",
+      "clicks": 17,
+      "impressions": 112,
+      "ctr": 0.15178571428571427,
+      "position": 32.24107142857143
+    },
+    {
+      "query": "top plumbers eaton",
+      "clicks": 17,
+      "impressions": 98,
+      "ctr": 0.17346938775510204,
+      "position": 17.29591836734694
+    },
+    {
+      "query": "water heater installation cincinnati",
+      "clicks": 17,
+      "impressions": 1054,
+      "ctr": 0.016129032258064516,
+      "position": 25.321631878557874
+    },
+    {
+      "query": "1.28 vs 1.6 gpf",
+      "clicks": 16,
+      "impressions": 788,
+      "ctr": 0.02030456852791878,
+      "position": 2.963197969543147
+    },
+    {
+      "query": "ac repair indianapolis",
+      "clicks": 16,
+      "impressions": 1316,
+      "ctr": 0.0121580547112462,
+      "position": 30.38145896656535
+    },
+    {
+      "query": "air conditioning service columbus, oh",
+      "clicks": 16,
+      "impressions": 420,
+      "ctr": 0.0380952380952381,
+      "position": 42.523809523809526
+    },
+    {
+      "query": "bassett services: heating, cooling, plumbing, electrical",
+      "clicks": 16,
+      "impressions": 749,
+      "ctr": 0.021361815754339118,
+      "position": 1.129506008010681
+    },
+    {
+      "query": "columbus oh plumber",
+      "clicks": 16,
+      "impressions": 438,
+      "ctr": 0.0365296803652968,
+      "position": 81.44292237442923
+    },
+    {
+      "query": "discount drains",
+      "clicks": 16,
+      "impressions": 187,
+      "ctr": 0.0855614973262032,
+      "position": 9.882352941176471
+    },
+    {
+      "query": "eaton plumbing inc",
+      "clicks": 16,
+      "impressions": 62,
+      "ctr": 0.25806451612903225,
+      "position": 31.43548387096774
+    },
+    {
+      "query": "emergency furnace repair lewis center",
+      "clicks": 16,
+      "impressions": 95,
+      "ctr": 0.16842105263157894,
+      "position": 29.378947368421052
+    },
+    {
+      "query": "furnace installation plainfield in",
+      "clicks": 16,
+      "impressions": 112,
+      "ctr": 0.14285714285714285,
+      "position": 3.5714285714285716
+    },
+    {
+      "query": "heat pump installation indianapolis",
+      "clicks": 16,
+      "impressions": 298,
+      "ctr": 0.053691275167785234,
+      "position": 14.09731543624161
+    },
+    {
+      "query": "heat pump repair indianapolis in",
+      "clicks": 16,
+      "impressions": 530,
+      "ctr": 0.03018867924528302,
+      "position": 8.647169811320754
+    },
+    {
+      "query": "heater repair cincinnati",
+      "clicks": 16,
+      "impressions": 342,
+      "ctr": 0.04678362573099415,
+      "position": 30.99122807017544
+    },
+    {
+      "query": "heating and cooling granville",
+      "clicks": 16,
+      "impressions": 98,
+      "ctr": 0.16326530612244897,
+      "position": 25.877551020408163
+    },
+    {
+      "query": "heating maintenance plainfield",
+      "clicks": 16,
+      "impressions": 84,
+      "ctr": 0.19047619047619047,
+      "position": 30.511904761904763
+    },
+    {
+      "query": "hvac maintenance plainfield",
+      "clicks": 16,
+      "impressions": 428,
+      "ctr": 0.037383177570093455,
+      "position": 66.39018691588785
+    },
+    {
+      "query": "plumbers eaton ohio",
+      "clicks": 16,
+      "impressions": 74,
+      "ctr": 0.21621621621621623,
+      "position": 5.905405405405405
+    },
+    {
+      "query": "plumbers lebanon indiana",
+      "clicks": 16,
+      "impressions": 213,
+      "ctr": 0.07511737089201878,
+      "position": 15.737089201877934
+    },
+    {
+      "query": "plumbing columbus oh",
+      "clicks": 16,
+      "impressions": 451,
+      "ctr": 0.03547671840354767,
+      "position": 38.95787139689579
+    },
+    {
+      "query": "plumbing indianapolis",
+      "clicks": 16,
+      "impressions": 644,
+      "ctr": 0.024844720496894408,
+      "position": 50.30590062111801
+    },
+    {
+      "query": "plumbing services eaton",
+      "clicks": 16,
+      "impressions": 128,
+      "ctr": 0.125,
+      "position": 20.0234375
+    },
+    {
+      "query": "water heater installation loveland oh",
+      "clicks": 16,
+      "impressions": 141,
+      "ctr": 0.11347517730496454,
+      "position": 13.836879432624114
+    },
+    {
+      "query": "water heater repair loveland",
+      "clicks": 16,
+      "impressions": 282,
+      "ctr": 0.05673758865248227,
+      "position": 10.50709219858156
+    },
+    {
+      "query": "water heater replacement lebanon",
+      "clicks": 16,
+      "impressions": 899,
+      "ctr": 0.017797552836484983,
+      "position": 44.7285873192436
+    },
+    {
+      "query": "water lines in lewis center",
+      "clicks": 16,
+      "impressions": 122,
+      "ctr": 0.13114754098360656,
+      "position": 1.1639344262295082
+    },
+    {
+      "query": "ac repair lewis center oh",
+      "clicks": 15,
+      "impressions": 779,
+      "ctr": 0.019255455712451863,
+      "position": 10.78818998716303
+    },
+    {
+      "query": "air conditioning installation columbus, oh",
+      "clicks": 15,
+      "impressions": 409,
+      "ctr": 0.03667481662591687,
+      "position": 40.98533007334963
+    },
+    {
+      "query": "best plumbers cincinnati",
+      "clicks": 15,
+      "impressions": 819,
+      "ctr": 0.018315018315018316,
+      "position": 29.144078144078144
+    },
+    {
+      "query": "cincinnati electrical repair",
+      "clicks": 15,
+      "impressions": 701,
+      "ctr": 0.021398002853067047,
+      "position": 16.288159771754636
+    },
+    {
+      "query": "electrician loveland ohio",
+      "clicks": 15,
+      "impressions": 406,
+      "ctr": 0.03694581280788178,
+      "position": 42.022167487684726
+    },
+    {
+      "query": "electrician plainfield",
+      "clicks": 15,
+      "impressions": 274,
+      "ctr": 0.05474452554744526,
+      "position": 22.354014598540147
+    },
+    {
+      "query": "granville hvac",
+      "clicks": 15,
+      "impressions": 72,
+      "ctr": 0.20833333333333334,
+      "position": 23.36111111111111
+    },
+    {
+      "query": "heat pump installation loveland oh",
+      "clicks": 15,
+      "impressions": 104,
+      "ctr": 0.14423076923076922,
+      "position": 8.471153846153847
+    },
+    {
+      "query": "heat pump repair columbus, oh",
+      "clicks": 15,
+      "impressions": 455,
+      "ctr": 0.03296703296703297,
+      "position": 14.406593406593407
+    },
+    {
+      "query": "heat pump service indianapolis in",
+      "clicks": 15,
+      "impressions": 521,
+      "ctr": 0.028790786948176585,
+      "position": 10.959692898272554
+    },
+    {
+      "query": "heat pump service lebanon",
+      "clicks": 15,
+      "impressions": 244,
+      "ctr": 0.06147540983606557,
+      "position": 29.90983606557377
+    },
+    {
+      "query": "heating repairs columbus ohio",
+      "clicks": 15,
+      "impressions": 405,
+      "ctr": 0.037037037037037035,
+      "position": 15.683950617283951
+    },
+    {
+      "query": "heating services loveland oh",
+      "clicks": 15,
+      "impressions": 102,
+      "ctr": 0.14705882352941177,
+      "position": 4.598039215686274
+    },
+    {
+      "query": "hvac service columbus, oh",
+      "clicks": 15,
+      "impressions": 428,
+      "ctr": 0.035046728971962614,
+      "position": 40.37850467289719
+    },
+    {
+      "query": "leaking pipes in granville",
+      "clicks": 15,
+      "impressions": 64,
+      "ctr": 0.234375,
+      "position": 52.578125
+    },
+    {
+      "query": "plainfield plumber",
+      "clicks": 15,
+      "impressions": 438,
+      "ctr": 0.03424657534246575,
+      "position": 72.53652968036529
+    },
+    {
+      "query": "plumber granville oh",
+      "clicks": 15,
+      "impressions": 61,
+      "ctr": 0.2459016393442623,
+      "position": 68.52459016393442
+    },
+    {
+      "query": "plumbing eaton",
+      "clicks": 15,
+      "impressions": 136,
+      "ctr": 0.11029411764705882,
+      "position": 25.441176470588236
+    },
+    {
+      "query": "plumbing repair columbus oh",
+      "clicks": 15,
+      "impressions": 364,
+      "ctr": 0.04120879120879121,
+      "position": 48.31868131868132
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:21:36.274Z"
 }

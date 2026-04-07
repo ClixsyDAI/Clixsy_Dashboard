@@ -2,138 +2,18 @@
   "propertyId": "properties/307905618",
   "displayName": "Hauptman O'Brien - GA4",
   "dateRange": {
-    "start": "2025-12-17",
-    "end": "2026-03-17"
+    "start": "2026-01-06",
+    "end": "2026-04-06"
   },
   "totals": {
-    "sessions": 41450,
-    "users": 39232,
-    "screenPageViews": 61729,
-    "organicSessions": 13740,
-    "bounceRate": 0.6153880013755717,
-    "avgSessionDuration": 109.60468360224243
+    "sessions": 28556,
+    "users": 28649,
+    "screenPageViews": 39372,
+    "organicSessions": 10420,
+    "bounceRate": 0.625587252125769,
+    "avgSessionDuration": 106.5475005838299
   },
   "dailyData": [
-    {
-      "date": "2025-12-17",
-      "sessions": 604,
-      "users": 585,
-      "screenPageViews": 887
-    },
-    {
-      "date": "2025-12-18",
-      "sessions": 581,
-      "users": 555,
-      "screenPageViews": 830
-    },
-    {
-      "date": "2025-12-19",
-      "sessions": 670,
-      "users": 620,
-      "screenPageViews": 1048
-    },
-    {
-      "date": "2025-12-20",
-      "sessions": 960,
-      "users": 835,
-      "screenPageViews": 1433
-    },
-    {
-      "date": "2025-12-21",
-      "sessions": 560,
-      "users": 485,
-      "screenPageViews": 777
-    },
-    {
-      "date": "2025-12-22",
-      "sessions": 520,
-      "users": 494,
-      "screenPageViews": 765
-    },
-    {
-      "date": "2025-12-23",
-      "sessions": 636,
-      "users": 571,
-      "screenPageViews": 1253
-    },
-    {
-      "date": "2025-12-24",
-      "sessions": 480,
-      "users": 419,
-      "screenPageViews": 756
-    },
-    {
-      "date": "2025-12-25",
-      "sessions": 529,
-      "users": 454,
-      "screenPageViews": 903
-    },
-    {
-      "date": "2025-12-26",
-      "sessions": 527,
-      "users": 467,
-      "screenPageViews": 805
-    },
-    {
-      "date": "2025-12-27",
-      "sessions": 642,
-      "users": 553,
-      "screenPageViews": 1038
-    },
-    {
-      "date": "2025-12-28",
-      "sessions": 485,
-      "users": 416,
-      "screenPageViews": 756
-    },
-    {
-      "date": "2025-12-29",
-      "sessions": 689,
-      "users": 637,
-      "screenPageViews": 1060
-    },
-    {
-      "date": "2025-12-30",
-      "sessions": 915,
-      "users": 828,
-      "screenPageViews": 1405
-    },
-    {
-      "date": "2025-12-31",
-      "sessions": 7019,
-      "users": 5938,
-      "screenPageViews": 12253
-    },
-    {
-      "date": "2026-01-01",
-      "sessions": 1683,
-      "users": 1413,
-      "screenPageViews": 2552
-    },
-    {
-      "date": "2026-01-02",
-      "sessions": 507,
-      "users": 479,
-      "screenPageViews": 684
-    },
-    {
-      "date": "2026-01-03",
-      "sessions": 366,
-      "users": 356,
-      "screenPageViews": 428
-    },
-    {
-      "date": "2026-01-04",
-      "sessions": 341,
-      "users": 329,
-      "screenPageViews": 415
-    },
-    {
-      "date": "2026-01-05",
-      "sessions": 403,
-      "users": 406,
-      "screenPageViews": 492
-    },
     {
       "date": "2026-01-06",
       "sessions": 415,
@@ -556,224 +436,418 @@
     },
     {
       "date": "2026-03-17",
-      "sessions": 686,
+      "sessions": 685,
       "users": 628,
       "screenPageViews": 1167
+    },
+    {
+      "date": "2026-03-18",
+      "sessions": 387,
+      "users": 391,
+      "screenPageViews": 552
+    },
+    {
+      "date": "2026-03-19",
+      "sessions": 380,
+      "users": 393,
+      "screenPageViews": 502
+    },
+    {
+      "date": "2026-03-20",
+      "sessions": 375,
+      "users": 387,
+      "screenPageViews": 508
+    },
+    {
+      "date": "2026-03-21",
+      "sessions": 177,
+      "users": 178,
+      "screenPageViews": 239
+    },
+    {
+      "date": "2026-03-22",
+      "sessions": 178,
+      "users": 172,
+      "screenPageViews": 223
+    },
+    {
+      "date": "2026-03-23",
+      "sessions": 298,
+      "users": 291,
+      "screenPageViews": 484
+    },
+    {
+      "date": "2026-03-24",
+      "sessions": 344,
+      "users": 350,
+      "screenPageViews": 586
+    },
+    {
+      "date": "2026-03-25",
+      "sessions": 265,
+      "users": 265,
+      "screenPageViews": 466
+    },
+    {
+      "date": "2026-03-26",
+      "sessions": 858,
+      "users": 879,
+      "screenPageViews": 982
+    },
+    {
+      "date": "2026-03-27",
+      "sessions": 392,
+      "users": 401,
+      "screenPageViews": 442
+    },
+    {
+      "date": "2026-03-28",
+      "sessions": 189,
+      "users": 188,
+      "screenPageViews": 208
+    },
+    {
+      "date": "2026-03-29",
+      "sessions": 246,
+      "users": 234,
+      "screenPageViews": 301
+    },
+    {
+      "date": "2026-03-30",
+      "sessions": 277,
+      "users": 285,
+      "screenPageViews": 423
+    },
+    {
+      "date": "2026-03-31",
+      "sessions": 282,
+      "users": 281,
+      "screenPageViews": 326
+    },
+    {
+      "date": "2026-04-01",
+      "sessions": 305,
+      "users": 303,
+      "screenPageViews": 353
+    },
+    {
+      "date": "2026-04-02",
+      "sessions": 247,
+      "users": 261,
+      "screenPageViews": 307
+    },
+    {
+      "date": "2026-04-03",
+      "sessions": 265,
+      "users": 264,
+      "screenPageViews": 355
+    },
+    {
+      "date": "2026-04-04",
+      "sessions": 242,
+      "users": 224,
+      "screenPageViews": 291
+    },
+    {
+      "date": "2026-04-05",
+      "sessions": 247,
+      "users": 235,
+      "screenPageViews": 283
+    },
+    {
+      "date": "2026-04-06",
+      "sessions": 270,
+      "users": 275,
+      "screenPageViews": 352
     }
   ],
   "channelData": [
     {
-      "channel": "Direct",
-      "sessions": 16841,
-      "users": 13531
+      "channel": "Organic Search",
+      "sessions": 10420,
+      "users": 8318
     },
     {
-      "channel": "Organic Search",
-      "sessions": 13740,
-      "users": 10106
+      "channel": "Direct",
+      "sessions": 9986,
+      "users": 9094
     },
     {
       "channel": "Display",
-      "sessions": 3828,
-      "users": 3345
-    },
-    {
-      "channel": "Organic Social",
-      "sessions": 3007,
-      "users": 2717
+      "sessions": 4270,
+      "users": 3744
     },
     {
       "channel": "Paid Search",
-      "sessions": 1676,
-      "users": 1195
+      "sessions": 1160,
+      "users": 886
     },
     {
       "channel": "Referral",
-      "sessions": 1057,
-      "users": 937
+      "sessions": 1001,
+      "users": 897
     },
     {
-      "channel": "Paid Social",
-      "sessions": 687,
-      "users": 647
+      "channel": "Organic Social",
+      "sessions": 662,
+      "users": 584
     },
     {
       "channel": "Unassigned",
-      "sessions": 643,
-      "users": 1946
+      "sessions": 550,
+      "users": 1897
+    },
+    {
+      "channel": "Paid Social",
+      "sessions": 398,
+      "users": 370
     },
     {
       "channel": "Organic Shopping",
-      "sessions": 177,
-      "users": 177
+      "sessions": 186,
+      "users": 186
     },
     {
       "channel": "Cross-network",
-      "sessions": 131,
-      "users": 121
+      "sessions": 56,
+      "users": 56
     },
     {
       "channel": "Paid Video",
-      "sessions": 9,
-      "users": 7
+      "sessions": 15,
+      "users": 11
     },
     {
       "channel": "Organic Video",
-      "sessions": 1,
-      "users": 1
+      "sessions": 7,
+      "users": 7
+    }
+  ],
+  "keyEventsByChannel": [
+    {
+      "channel": "Organic Search",
+      "sessions": 10420,
+      "keyEvents": 6928,
+      "conversionRate": 0.6648752399232246
+    },
+    {
+      "channel": "Direct",
+      "sessions": 9986,
+      "keyEvents": 5424,
+      "conversionRate": 0.5431604245944323
+    },
+    {
+      "channel": "Display",
+      "sessions": 4270,
+      "keyEvents": 929,
+      "conversionRate": 0.21756440281030445
+    },
+    {
+      "channel": "Paid Search",
+      "sessions": 1160,
+      "keyEvents": 358,
+      "conversionRate": 0.3086206896551724
+    },
+    {
+      "channel": "Referral",
+      "sessions": 1001,
+      "keyEvents": 235,
+      "conversionRate": 0.23476523476523475
+    },
+    {
+      "channel": "Organic Social",
+      "sessions": 662,
+      "keyEvents": 372,
+      "conversionRate": 0.5619335347432024
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": 550,
+      "keyEvents": 2519,
+      "conversionRate": 4.58
+    },
+    {
+      "channel": "Paid Social",
+      "sessions": 398,
+      "keyEvents": 9,
+      "conversionRate": 0.022613065326633167
+    },
+    {
+      "channel": "Organic Shopping",
+      "sessions": 186,
+      "keyEvents": 99,
+      "conversionRate": 0.532258064516129
+    },
+    {
+      "channel": "Cross-network",
+      "sessions": 56,
+      "keyEvents": 18,
+      "conversionRate": 0.32142857142857145
+    },
+    {
+      "channel": "Paid Video",
+      "sessions": 15,
+      "keyEvents": 4,
+      "conversionRate": 0.26666666666666666
+    },
+    {
+      "channel": "Organic Video",
+      "sessions": 7,
+      "keyEvents": 1,
+      "conversionRate": 0.14285714285714285
     }
   ],
   "topPages": [
     {
-      "page": "/safe-ride-home/",
-      "screenPageViews": 15455,
-      "sessions": 12245
-    },
-    {
       "page": "/",
-      "screenPageViews": 14057,
-      "sessions": 12244
+      "screenPageViews": 13441,
+      "sessions": 11924
     },
     {
-      "page": "/thank-you-safe-ride-home/",
-      "screenPageViews": 8336,
-      "sessions": 6777
+      "page": "/safe-ride-home/",
+      "screenPageViews": 2206,
+      "sessions": 1854
     },
     {
       "page": "/contact-us/",
-      "screenPageViews": 2038,
-      "sessions": 1828
+      "screenPageViews": 1878,
+      "sessions": 1702
     },
     {
       "page": "/council-bluffs/",
-      "screenPageViews": 1842,
-      "sessions": 1533
+      "screenPageViews": 1877,
+      "sessions": 1579
     },
     {
       "page": "/attorneys/",
-      "screenPageViews": 1712,
-      "sessions": 1418
+      "screenPageViews": 1774,
+      "sessions": 1429
+    },
+    {
+      "page": "/thank-you-safe-ride-home/",
+      "screenPageViews": 800,
+      "sessions": 710
     },
     {
       "page": "/medical-malpractice-intake/",
-      "screenPageViews": 642,
-      "sessions": 543
+      "screenPageViews": 656,
+      "sessions": 552
     },
     {
       "page": "/blog/how-to-write-an-auto-accident-demand-letter/",
-      "screenPageViews": 565,
-      "sessions": 556
-    },
-    {
-      "page": "/south-omaha/",
-      "screenPageViews": 543,
-      "sessions": 387
-    },
-    {
-      "page": "/practice-areas/car-accidents/",
-      "screenPageViews": 504,
-      "sessions": 466
+      "screenPageViews": 574,
+      "sessions": 560
     },
     {
       "page": "/practice-areas/medical-malpractice/",
-      "screenPageViews": 462,
-      "sessions": 384
+      "screenPageViews": 495,
+      "sessions": 416
+    },
+    {
+      "page": "/practice-areas/car-accidents/",
+      "screenPageViews": 433,
+      "sessions": 394
     },
     {
       "page": "/practice-areas/",
-      "screenPageViews": 457,
-      "sessions": 437
-    },
-    {
-      "page": "/bellevue/",
-      "screenPageViews": 397,
-      "sessions": 383
+      "screenPageViews": 408,
+      "sessions": 393
     },
     {
       "page": "/blog/herniated-disc-car-accident/",
-      "screenPageViews": 394,
-      "sessions": 382
+      "screenPageViews": 385,
+      "sessions": 375
     },
     {
-      "page": "/practice-areas/truck-accidents/",
-      "screenPageViews": 332,
-      "sessions": 316
+      "page": "/bellevue/",
+      "screenPageViews": 366,
+      "sessions": 355
     },
     {
-      "page": "/testimonials/",
-      "screenPageViews": 326,
-      "sessions": 301
+      "page": "/south-omaha/",
+      "screenPageViews": 336,
+      "sessions": 325
     },
     {
       "page": "/attorneys/steven-m-lathrop/",
-      "screenPageViews": 301,
-      "sessions": 276
+      "screenPageViews": 325,
+      "sessions": 289
     },
     {
-      "page": "/attorneys/kathryn-hartnett/",
-      "screenPageViews": 294,
-      "sessions": 275
+      "page": "/testimonials/",
+      "screenPageViews": 323,
+      "sessions": 298
+    },
+    {
+      "page": "/practice-areas/truck-accidents/",
+      "screenPageViews": 304,
+      "sessions": 294
     },
     {
       "page": "/attorneys/kyle-mcginn/",
-      "screenPageViews": 281,
-      "sessions": 272
+      "screenPageViews": 285,
+      "sessions": 273
     },
     {
-      "page": "/blog/recovering-spinal-cord-injury/",
-      "screenPageViews": 249,
-      "sessions": 249
-    },
-    {
-      "page": "/blog/long-term-effects-whiplash/",
-      "screenPageViews": 244,
-      "sessions": 235
-    },
-    {
-      "page": "/Safe-Ride-Home/",
-      "screenPageViews": 237,
-      "sessions": 208
-    },
-    {
-      "page": "/practice-areas/wrongful-death/",
-      "screenPageViews": 231,
-      "sessions": 210
-    },
-    {
-      "page": "/privacy-policy/",
-      "screenPageViews": 213,
-      "sessions": 201
-    },
-    {
-      "page": "/blog/",
-      "screenPageViews": 212,
-      "sessions": 184
+      "page": "/attorneys/kathryn-hartnett/",
+      "screenPageViews": 283,
+      "sessions": 262
     },
     {
       "page": "/attorneys/daniel-hartnett/",
-      "screenPageViews": 203,
-      "sessions": 191
+      "screenPageViews": 236,
+      "sessions": 219
     },
     {
-      "page": "/attorneys/timothy-r-obrien/",
-      "screenPageViews": 199,
-      "sessions": 188
+      "page": "/blog/",
+      "screenPageViews": 224,
+      "sessions": 182
     },
     {
-      "page": "/attorneys/david-j-cripe/",
-      "screenPageViews": 198,
-      "sessions": 185
+      "page": "/practice-areas/wrongful-death/",
+      "screenPageViews": 219,
+      "sessions": 199
     },
     {
       "page": "/attorneys/david-m-oneill/",
-      "screenPageViews": 198,
-      "sessions": 188
+      "screenPageViews": 216,
+      "sessions": 206
+    },
+    {
+      "page": "/blog/recovering-spinal-cord-injury/",
+      "screenPageViews": 214,
+      "sessions": 214
+    },
+    {
+      "page": "/attorneys/timothy-r-obrien/",
+      "screenPageViews": 211,
+      "sessions": 198
+    },
+    {
+      "page": "/blog/long-term-effects-whiplash/",
+      "screenPageViews": 208,
+      "sessions": 205
+    },
+    {
+      "page": "/attorneys/david-j-cripe/",
+      "screenPageViews": 205,
+      "sessions": 192
+    },
+    {
+      "page": "/blog/crash-data-recorders-in-cars-how-they-influence-accident-cases/",
+      "screenPageViews": 197,
+      "sessions": 201
+    },
+    {
+      "page": "/practice-areas/job-related-injuries/",
+      "screenPageViews": 183,
+      "sessions": 168
     },
     {
       "page": "/blog/nebraska-healthy-families-and-workplace-act-2025/",
-      "screenPageViews": 198,
-      "sessions": 200
+      "screenPageViews": 181,
+      "sessions": 183
     }
   ],
-  "fetchedAt": "2026-03-18T13:06:56.694Z"
+  "fetchedAt": "2026-04-07T16:21:45.462Z"
 }

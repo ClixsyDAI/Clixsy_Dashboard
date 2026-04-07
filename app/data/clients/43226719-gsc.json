@@ -1,156 +1,16 @@
 {
   "property": "https://gdmedics.com/",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 4147,
-    "impressions": 1077220,
-    "ctr": 0.0038497242903028166,
-    "position": 12.622560443341866
+    "clicks": 3869,
+    "impressions": 1014892,
+    "ctr": 0.003812228296212799,
+    "position": 12.202132633776175
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 75,
-      "impressions": 14917,
-      "ctr": 0.005027820607360729,
-      "position": 12.4006837836026
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 51,
-      "impressions": 14182,
-      "ctr": 0.003596107742208433,
-      "position": 13.052954449301932
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 76,
-      "impressions": 13585,
-      "ctr": 0.005594405594405594,
-      "position": 11.37062937062937
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 63,
-      "impressions": 13791,
-      "ctr": 0.004568196649989123,
-      "position": 12.35515916177217
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 63,
-      "impressions": 14924,
-      "ctr": 0.004221388367729831,
-      "position": 12.244572500670062
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 60,
-      "impressions": 14110,
-      "ctr": 0.004252303330970942,
-      "position": 12.547058823529412
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 68,
-      "impressions": 13880,
-      "ctr": 0.004899135446685879,
-      "position": 13.242435158501442
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 59,
-      "impressions": 15188,
-      "ctr": 0.0038846457729786676,
-      "position": 13.199828812220174
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 49,
-      "impressions": 13389,
-      "ctr": 0.003659720666218538,
-      "position": 14.339756516543432
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 29,
-      "impressions": 11865,
-      "ctr": 0.002444163506110409,
-      "position": 13.652423093131057
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 51,
-      "impressions": 10239,
-      "ctr": 0.004980955171403457,
-      "position": 14.520851645668522
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 40,
-      "impressions": 11168,
-      "ctr": 0.0035816618911174787,
-      "position": 11.544949856733524
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 41,
-      "impressions": 12138,
-      "ctr": 0.003377821716922063,
-      "position": 12.539133300378975
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 36,
-      "impressions": 13207,
-      "ctr": 0.002725827212841675,
-      "position": 13.72264708109336
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 73,
-      "impressions": 14654,
-      "ctr": 0.004981574996587962,
-      "position": 12.564009826668487
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 48,
-      "impressions": 13301,
-      "ctr": 0.0036087512217126533,
-      "position": 13.034959777460342
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 46,
-      "impressions": 12516,
-      "ctr": 0.0036752956216043464,
-      "position": 12.612016618728028
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 43,
-      "impressions": 12507,
-      "ctr": 0.003438074678180219,
-      "position": 12.852322699288399
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 52,
-      "impressions": 14452,
-      "ctr": 0.0035981179075560477,
-      "position": 11.50131469692776
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 43,
-      "impressions": 11058,
-      "ctr": 0.003888587448001447,
-      "position": 11.564116476758908
-    },
     {
       "date": "2026-01-04",
       "clicks": 42,
@@ -640,711 +500,3314 @@
       "impressions": 9129,
       "ctr": 0.0069010844561288205,
       "position": 10.498192573118633
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 57,
+      "impressions": 8455,
+      "ctr": 0.006741573033707865,
+      "position": 11.320993494973388
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 53,
+      "impressions": 10644,
+      "ctr": 0.004979331078541901,
+      "position": 11.748684704998121
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 59,
+      "impressions": 8731,
+      "ctr": 0.006757530637956706,
+      "position": 11.197571870347039
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 38,
+      "impressions": 7877,
+      "ctr": 0.004824171638948839,
+      "position": 11.514409038974229
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 41,
+      "impressions": 11617,
+      "ctr": 0.0035293104932426615,
+      "position": 14.765688215546183
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 40,
+      "impressions": 7623,
+      "ctr": 0.005247277974550702,
+      "position": 10.768988587170405
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 45,
+      "impressions": 7985,
+      "ctr": 0.005635566687539136,
+      "position": 11.29455228553538
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 34,
+      "impressions": 8831,
+      "ctr": 0.003850073604348318,
+      "position": 12.762427811119919
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 34,
+      "impressions": 29016,
+      "ctr": 0.0011717673007995589,
+      "position": 4.357009925558312
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 39,
+      "impressions": 8147,
+      "ctr": 0.00478703817356082,
+      "position": 10.728857248066774
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 23,
+      "impressions": 8107,
+      "ctr": 0.0028370543974343162,
+      "position": 11.84914271617121
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 41,
+      "impressions": 7652,
+      "ctr": 0.0053580763199163614,
+      "position": 11.021824359644537
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 39,
+      "impressions": 8160,
+      "ctr": 0.004779411764705883,
+      "position": 11.325
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 30,
+      "impressions": 7336,
+      "ctr": 0.004089422028353326,
+      "position": 10.75381679389313
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 25,
+      "impressions": 8235,
+      "ctr": 0.0030358227079538553,
+      "position": 11.220886460230723
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 31,
+      "impressions": 9577,
+      "ctr": 0.003236921791792837,
+      "position": 11.429466429988514
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 32,
+      "impressions": 9208,
+      "ctr": 0.0034752389226759338,
+      "position": 9.848501303214595
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 33,
+      "impressions": 9113,
+      "ctr": 0.003621200482826731,
+      "position": 9.990562932075058
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 31,
+      "impressions": 9516,
+      "ctr": 0.003257671290458176,
+      "position": 8.60844892812106
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 33,
+      "impressions": 9866,
+      "ctr": 0.0033448205959862153,
+      "position": 12.178390431785932
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 30,
+      "impressions": 7047,
+      "ctr": 0.004257130693912303,
+      "position": 10.540229885057471
     }
   ],
   "topQueries": [
     {
       "query": "garage door medics",
-      "clicks": 328,
-      "impressions": 1853,
-      "ctr": 0.1770102536427415,
-      "position": 1.9541284403669725
+      "clicks": 330,
+      "impressions": 1950,
+      "ctr": 0.16923076923076924,
+      "position": 1.8425641025641024
     },
     {
       "query": "garage door medics san diego",
-      "clicks": 41,
-      "impressions": 171,
-      "ctr": 0.23976608187134502,
-      "position": 1.1111111111111112
+      "clicks": 48,
+      "impressions": 183,
+      "ctr": 0.26229508196721313,
+      "position": 1.1092896174863387
     },
     {
       "query": "how to reset garage door",
-      "clicks": 35,
-      "impressions": 1727,
-      "ctr": 0.02026635784597568,
-      "position": 5.4163288940359005
+      "clicks": 28,
+      "impressions": 1547,
+      "ctr": 0.01809954751131222,
+      "position": 5.570782159017453
     },
     {
       "query": "best type of garage door opener",
-      "clicks": 29,
-      "impressions": 514,
-      "ctr": 0.05642023346303502,
-      "position": 4.752918287937743
+      "clicks": 27,
+      "impressions": 468,
+      "ctr": 0.057692307692307696,
+      "position": 4.944444444444445
     },
     {
       "query": "garage medics",
-      "clicks": 28,
-      "impressions": 118,
-      "ctr": 0.23728813559322035,
-      "position": 2.4661016949152543
+      "clicks": 25,
+      "impressions": 116,
+      "ctr": 0.21551724137931033,
+      "position": 3.7586206896551726
     },
     {
       "query": "garage door medic",
-      "clicks": 22,
-      "impressions": 321,
-      "ctr": 0.06853582554517133,
-      "position": 7.1526479750778815
+      "clicks": 23,
+      "impressions": 332,
+      "ctr": 0.06927710843373494,
+      "position": 8.638554216867469
     },
     {
       "query": "garage door with pedestrian door price",
-      "clicks": 20,
-      "impressions": 860,
-      "ctr": 0.023255813953488372,
-      "position": 10.532558139534883
+      "clicks": 23,
+      "impressions": 878,
+      "ctr": 0.02619589977220957,
+      "position": 9.578587699316628
     },
     {
       "query": "garage door repair san diego",
-      "clicks": 17,
-      "impressions": 4411,
-      "ctr": 0.003854001360235774,
-      "position": 5.683291770573566
-    },
-    {
-      "query": "garage door opener",
-      "clicks": 15,
-      "impressions": 643,
-      "ctr": 0.02332814930015552,
-      "position": 5.440124416796268
-    },
-    {
-      "query": "do you have to reset garage door opener after power outage",
-      "clicks": 14,
-      "impressions": 206,
-      "ctr": 0.06796116504854369,
-      "position": 3.8689320388349513
-    },
-    {
-      "query": "aluminum vs steel garage doors",
-      "clicks": 12,
-      "impressions": 111,
-      "ctr": 0.10810810810810811,
-      "position": 2.7477477477477477
-    },
-    {
-      "query": "garage door repair temecula",
-      "clicks": 12,
-      "impressions": 1489,
-      "ctr": 0.008059100067159167,
-      "position": 5.376091336467428
+      "clicks": 20,
+      "impressions": 4713,
+      "ctr": 0.004243581582855931,
+      "position": 5.608317419902398
     },
     {
       "query": "garage door with pedestrian door",
-      "clicks": 12,
-      "impressions": 1032,
-      "ctr": 0.011627906976744186,
-      "position": 12.083333333333334
+      "clicks": 16,
+      "impressions": 1041,
+      "ctr": 0.01536983669548511,
+      "position": 11.818443804034581
+    },
+    {
+      "query": "do you have to reset garage door opener after power outage",
+      "clicks": 15,
+      "impressions": 230,
+      "ctr": 0.06521739130434782,
+      "position": 3.9956521739130433
     },
     {
       "query": "garage door medics murrieta",
-      "clicks": 11,
-      "impressions": 48,
-      "ctr": 0.22916666666666666,
-      "position": 1.0625
-    },
-    {
-      "query": "garage door medics reviews",
-      "clicks": 11,
-      "impressions": 386,
-      "ctr": 0.02849740932642487,
-      "position": 4.917098445595855
-    },
-    {
-      "query": "garage door repair near me",
-      "clicks": 11,
-      "impressions": 7284,
-      "ctr": 0.0015101592531576056,
-      "position": 6.659253157605711
+      "clicks": 13,
+      "impressions": 58,
+      "ctr": 0.22413793103448276,
+      "position": 1.0862068965517242
     },
     {
       "query": "steel vs aluminum garage doors",
-      "clicks": 10,
-      "impressions": 188,
-      "ctr": 0.05319148936170213,
-      "position": 6.441489361702128
+      "clicks": 13,
+      "impressions": 217,
+      "ctr": 0.059907834101382486,
+      "position": 5.571428571428571
     },
     {
-      "query": "fire rated pet door for garage",
-      "clicks": 9,
-      "impressions": 116,
-      "ctr": 0.07758620689655173,
-      "position": 7.413793103448276
+      "query": "garage door medics reviews",
+      "clicks": 12,
+      "impressions": 467,
+      "ctr": 0.02569593147751606,
+      "position": 5.381156316916488
     },
     {
-      "query": "garage door not working after power outage",
-      "clicks": 9,
-      "impressions": 377,
-      "ctr": 0.023872679045092837,
-      "position": 4.395225464190982
-    },
-    {
-      "query": "garage door repair",
-      "clicks": 9,
-      "impressions": 9330,
-      "ctr": 0.0009646302250803858,
-      "position": 6.156698821007502
-    },
-    {
-      "query": "reset garage door",
-      "clicks": 9,
-      "impressions": 468,
-      "ctr": 0.019230769230769232,
-      "position": 5.177350427350428
-    },
-    {
-      "query": "steel vs aluminum garage door",
-      "clicks": 9,
-      "impressions": 49,
-      "ctr": 0.1836734693877551,
-      "position": 2.0816326530612246
-    },
-    {
-      "query": "garage door opener repair",
-      "clicks": 8,
-      "impressions": 2200,
-      "ctr": 0.0036363636363636364,
-      "position": 2.332727272727273
-    },
-    {
-      "query": "garage door repair arlington tx",
-      "clicks": 8,
-      "impressions": 951,
-      "ctr": 0.008412197686645636,
-      "position": 6.47844374342797
+      "query": "garage door repair near me",
+      "clicks": 12,
+      "impressions": 7639,
+      "ctr": 0.0015708862416546668,
+      "position": 6.400706898808744
     },
     {
       "query": "garage medic",
-      "clicks": 8,
+      "clicks": 12,
       "impressions": 165,
-      "ctr": 0.048484848484848485,
-      "position": 6.36969696969697
+      "ctr": 0.07272727272727272,
+      "position": 7.6
     },
     {
-      "query": "garage door alignment",
+      "query": "garage door repair temecula",
+      "clicks": 11,
+      "impressions": 1584,
+      "ctr": 0.006944444444444444,
+      "position": 5.523358585858586
+    },
+    {
+      "query": "aluminum vs steel garage doors",
+      "clicks": 10,
+      "impressions": 121,
+      "ctr": 0.08264462809917356,
+      "position": 2.991735537190083
+    },
+    {
+      "query": "garage door repair",
+      "clicks": 10,
+      "impressions": 10111,
+      "ctr": 0.000989021857383048,
+      "position": 6.007813272673326
+    },
+    {
+      "query": "garage door repair arlington tx",
+      "clicks": 10,
+      "impressions": 878,
+      "ctr": 0.011389521640091117,
+      "position": 6.400911161731207
+    },
+    {
+      "query": "garage door not working after power outage",
+      "clicks": 8,
+      "impressions": 368,
+      "ctr": 0.021739130434782608,
+      "position": 4.630434782608695
+    },
+    {
+      "query": "garage door opener",
+      "clicks": 8,
+      "impressions": 474,
+      "ctr": 0.016877637130801686,
+      "position": 5.569620253164557
+    },
+    {
+      "query": "reset garage door",
+      "clicks": 8,
+      "impressions": 442,
+      "ctr": 0.01809954751131222,
+      "position": 5.289592760180995
+    },
+    {
+      "query": "steel vs aluminum garage door",
       "clicks": 7,
-      "impressions": 1217,
-      "ctr": 0.005751848808545604,
-      "position": 5.750205423171733
+      "impressions": 59,
+      "ctr": 0.11864406779661017,
+      "position": 2.169491525423729
     },
     {
-      "query": "garage door not opening after power outage",
-      "clicks": 7,
-      "impressions": 220,
-      "ctr": 0.031818181818181815,
-      "position": 4.463636363636364
-    },
-    {
-      "query": "where to see christmas lights san diego",
-      "clicks": 7,
-      "impressions": 430,
-      "ctr": 0.01627906976744186,
-      "position": 9.353488372093024
-    },
-    {
-      "query": "christmas lights san diego",
+      "query": "fire rated pet door for garage",
       "clicks": 6,
-      "impressions": 1983,
-      "ctr": 0.0030257186081694403,
-      "position": 13.904689863842663
+      "impressions": 137,
+      "ctr": 0.043795620437956206,
+      "position": 7.4963503649635035
     },
     {
-      "query": "garage door tune up near me",
+      "query": "garage door opener not working after power outage",
       "clicks": 6,
-      "impressions": 181,
-      "ctr": 0.03314917127071823,
-      "position": 4.696132596685083
+      "impressions": 256,
+      "ctr": 0.0234375,
+      "position": 4.3125
     },
     {
-      "query": "how to reset a garage door",
-      "clicks": 6,
-      "impressions": 432,
-      "ctr": 0.013888888888888888,
-      "position": 5.835648148148148
-    },
-    {
-      "query": "best kind of garage door opener",
+      "query": "do insulated garage doors make a difference",
       "clicks": 5,
-      "impressions": 41,
-      "ctr": 0.12195121951219512,
-      "position": 3.4390243902439024
-    },
-    {
-      "query": "does an insulated garage door make a difference",
-      "clicks": 5,
-      "impressions": 126,
-      "ctr": 0.03968253968253968,
-      "position": 6.619047619047619
+      "impressions": 156,
+      "ctr": 0.03205128205128205,
+      "position": 6.410256410256411
     },
     {
       "query": "dog door for garage door",
       "clicks": 5,
-      "impressions": 533,
-      "ctr": 0.009380863039399626,
-      "position": 2.8198874296435275
+      "impressions": 499,
+      "ctr": 0.01002004008016032,
+      "position": 2.603206412825651
     },
     {
       "query": "dog door in garage door",
       "clicks": 5,
-      "impressions": 99,
-      "ctr": 0.050505050505050504,
-      "position": 1.393939393939394
+      "impressions": 97,
+      "ctr": 0.05154639175257732,
+      "position": 1.5154639175257731
     },
     {
-      "query": "garage door openers",
+      "query": "garage door opener repair",
       "clicks": 5,
-      "impressions": 241,
-      "ctr": 0.02074688796680498,
-      "position": 16.601659751037346
+      "impressions": 2569,
+      "ctr": 0.001946282600233554,
+      "position": 2.068119891008174
     },
     {
-      "query": "garage door won't open after power outage",
+      "query": "garage door tune up",
       "clicks": 5,
-      "impressions": 205,
-      "ctr": 0.024390243902439025,
-      "position": 4.634146341463415
+      "impressions": 4529,
+      "ctr": 0.001103996467211305,
+      "position": 10.33892691543387
     },
     {
-      "query": "how to reset garage door after power outage",
+      "query": "garage door tune up near me",
       "clicks": 5,
-      "impressions": 197,
-      "ctr": 0.025380710659898477,
-      "position": 4.593908629441625
+      "impressions": 196,
+      "ctr": 0.025510204081632654,
+      "position": 5.948979591836735
     },
     {
-      "query": "how to tell if garage door spring is broken",
+      "query": "garage door wont open after power outage",
       "clicks": 5,
-      "impressions": 786,
-      "ctr": 0.006361323155216285,
-      "position": 6.021628498727735
+      "impressions": 126,
+      "ctr": 0.03968253968253968,
+      "position": 4.642857142857142
+    },
+    {
+      "query": "garage doors san diego",
+      "clicks": 5,
+      "impressions": 1024,
+      "ctr": 0.0048828125,
+      "position": 12.826171875
+    },
+    {
+      "query": "how to reset a garage door",
+      "clicks": 5,
+      "impressions": 419,
+      "ctr": 0.011933174224343675,
+      "position": 5.825775656324582
+    },
+    {
+      "query": "liftmaster garage door opener",
+      "clicks": 5,
+      "impressions": 187,
+      "ctr": 0.026737967914438502,
+      "position": 4.86096256684492
+    },
+    {
+      "query": "san diego garage door repair",
+      "clicks": 5,
+      "impressions": 970,
+      "ctr": 0.005154639175257732,
+      "position": 7.93298969072165
     },
     {
       "query": "best garage door opener drive type",
       "clicks": 4,
-      "impressions": 92,
-      "ctr": 0.043478260869565216,
-      "position": 4.771739130434783
+      "impressions": 100,
+      "ctr": 0.04,
+      "position": 5.21
     },
     {
-      "query": "clairemont christmas lights",
+      "query": "best kind of garage door opener",
       "clicks": 4,
-      "impressions": 706,
-      "ctr": 0.0056657223796034,
-      "position": 9.907932011331445
+      "impressions": 43,
+      "ctr": 0.09302325581395349,
+      "position": 3.6511627906976742
     },
     {
-      "query": "do insulated garage doors make a difference",
+      "query": "garage door alignment",
       "clicks": 4,
-      "impressions": 162,
-      "ctr": 0.024691358024691357,
-      "position": 6.808641975308642
+      "impressions": 1163,
+      "ctr": 0.0034393809114359416,
+      "position": 6.320722269991402
     },
     {
       "query": "garage door opener light flashing",
       "clicks": 4,
-      "impressions": 573,
-      "ctr": 0.006980802792321117,
-      "position": 8.429319371727749
+      "impressions": 553,
+      "ctr": 0.007233273056057866,
+      "position": 7.5840867992766725
     },
     {
-      "query": "garage door opener not working after power outage",
+      "query": "garage door repair murrieta",
       "clicks": 4,
-      "impressions": 250,
-      "ctr": 0.016,
-      "position": 4.316
+      "impressions": 1724,
+      "ctr": 0.002320185614849188,
+      "position": 5.207656612529003
     },
     {
-      "query": "garage door tune up",
+      "query": "garage door repair oceanside",
       "clicks": 4,
-      "impressions": 4322,
-      "ctr": 0.0009254974548819991,
-      "position": 9.804951411383618
+      "impressions": 793,
+      "ctr": 0.005044136191677175,
+      "position": 7.598991172761664
     },
     {
       "query": "garage door tune up specials near me",
       "clicks": 4,
-      "impressions": 59,
-      "ctr": 0.06779661016949153,
-      "position": 3.4237288135593222
+      "impressions": 61,
+      "ctr": 0.06557377049180328,
+      "position": 3.4918032786885247
+    },
+    {
+      "query": "garage door won't open after power outage",
+      "clicks": 4,
+      "impressions": 174,
+      "ctr": 0.022988505747126436,
+      "position": 4.741379310344827
     },
     {
       "query": "garage door won't work after power outage",
       "clicks": 4,
-      "impressions": 52,
-      "ctr": 0.07692307692307693,
-      "position": 4.826923076923077
-    },
-    {
-      "query": "garage doors san diego",
-      "clicks": 4,
-      "impressions": 1063,
-      "ctr": 0.0037629350893697085,
-      "position": 13.635936030103482
+      "impressions": 76,
+      "ctr": 0.05263157894736842,
+      "position": 4.644736842105264
     },
     {
       "query": "how to realign garage door",
       "clicks": 4,
-      "impressions": 113,
-      "ctr": 0.035398230088495575,
-      "position": 6.3097345132743365
+      "impressions": 97,
+      "ctr": 0.041237113402061855,
+      "position": 6.453608247422681
+    },
+    {
+      "query": "how to reset garage door after power outage",
+      "clicks": 4,
+      "impressions": 195,
+      "ctr": 0.020512820512820513,
+      "position": 4.589743589743589
+    },
+    {
+      "query": "how to tell if garage door spring is broken",
+      "clicks": 4,
+      "impressions": 734,
+      "ctr": 0.005449591280653951,
+      "position": 5.737057220708447
+    },
+    {
+      "query": "how to tell if garage door springs are bad",
+      "clicks": 4,
+      "impressions": 83,
+      "ctr": 0.04819277108433735,
+      "position": 3
+    },
+    {
+      "query": "liftmaster light blinking",
+      "clicks": 4,
+      "impressions": 251,
+      "ctr": 0.01593625498007968,
+      "position": 3.904382470119522
+    },
+    {
+      "query": "resetting garage door",
+      "clicks": 4,
+      "impressions": 94,
+      "ctr": 0.0425531914893617,
+      "position": 8.904255319148936
+    },
+    {
+      "query": "types of garage door openers",
+      "clicks": 4,
+      "impressions": 820,
+      "ctr": 0.004878048780487805,
+      "position": 19.715853658536584
+    },
+    {
+      "query": "walk through garage door",
+      "clicks": 4,
+      "impressions": 281,
+      "ctr": 0.014234875444839857,
+      "position": 9.608540925266905
+    },
+    {
+      "query": "what is the best type of garage door opener",
+      "clicks": 4,
+      "impressions": 119,
+      "ctr": 0.03361344537815126,
+      "position": 2.9075630252100844
+    },
+    {
+      "query": "which type of garage door opener is best",
+      "clicks": 4,
+      "impressions": 45,
+      "ctr": 0.08888888888888889,
+      "position": 4.911111111111111
+    },
+    {
+      "query": "adding garage door to carport",
+      "clicks": 3,
+      "impressions": 70,
+      "ctr": 0.04285714285714286,
+      "position": 8.82857142857143
+    },
+    {
+      "query": "automatisation porte garage",
+      "clicks": 3,
+      "impressions": 9,
+      "ctr": 0.3333333333333333,
+      "position": 2.5555555555555554
+    },
+    {
+      "query": "can you put a dog door in a garage door",
+      "clicks": 3,
+      "impressions": 49,
+      "ctr": 0.061224489795918366,
+      "position": 2.8775510204081636
+    },
+    {
+      "query": "direct drive garage door opener",
+      "clicks": 3,
+      "impressions": 743,
+      "ctr": 0.004037685060565276,
+      "position": 1.1507402422611037
+    },
+    {
+      "query": "does an insulated garage door make a difference",
+      "clicks": 3,
+      "impressions": 122,
+      "ctr": 0.02459016393442623,
+      "position": 6.565573770491803
+    },
+    {
+      "query": "fire rated cat door for garage",
+      "clicks": 3,
+      "impressions": 61,
+      "ctr": 0.04918032786885246,
+      "position": 8.524590163934427
+    },
+    {
+      "query": "fire rated dog door",
+      "clicks": 3,
+      "impressions": 91,
+      "ctr": 0.03296703296703297,
+      "position": 9.87912087912088
+    },
+    {
+      "query": "garage door not opening after power outage",
+      "clicks": 3,
+      "impressions": 186,
+      "ctr": 0.016129032258064516,
+      "position": 4.575268817204301
+    },
+    {
+      "query": "garage door opener installation",
+      "clicks": 3,
+      "impressions": 259,
+      "ctr": 0.011583011583011582,
+      "position": 4.397683397683398
+    },
+    {
+      "query": "garage door tune up cost",
+      "clicks": 3,
+      "impressions": 135,
+      "ctr": 0.022222222222222223,
+      "position": 19.733333333333334
+    },
+    {
+      "query": "garage door with pedestrian door cost",
+      "clicks": 3,
+      "impressions": 68,
+      "ctr": 0.04411764705882353,
+      "position": 8.632352941176471
+    },
+    {
+      "query": "how do wall mount garage door openers work",
+      "clicks": 3,
+      "impressions": 73,
+      "ctr": 0.0410958904109589,
+      "position": 4.260273972602739
+    },
+    {
+      "query": "how does a wall mount garage door opener work",
+      "clicks": 3,
+      "impressions": 95,
+      "ctr": 0.031578947368421054,
+      "position": 4.557894736842105
+    },
+    {
+      "query": "how to convert manual garage door to automatic",
+      "clicks": 3,
+      "impressions": 57,
+      "ctr": 0.05263157894736842,
+      "position": 5.754385964912281
     },
     {
       "query": "how to reset chamberlain garage door opener after power outage",
-      "clicks": 4,
-      "impressions": 201,
-      "ctr": 0.01990049751243781,
-      "position": 5.417910447761194
+      "clicks": 3,
+      "impressions": 165,
+      "ctr": 0.01818181818181818,
+      "position": 6.212121212121212
+    },
+    {
+      "query": "how to reset liftmaster garage door after power outage",
+      "clicks": 3,
+      "impressions": 235,
+      "ctr": 0.01276595744680851,
+      "position": 8.16595744680851
+    },
+    {
+      "query": "liftmaster garage door troubleshooting",
+      "clicks": 3,
+      "impressions": 359,
+      "ctr": 0.008356545961002786,
+      "position": 5.442896935933148
+    },
+    {
+      "query": "temecula garage door repair",
+      "clicks": 3,
+      "impressions": 261,
+      "ctr": 0.011494252873563218,
+      "position": 2.3065134099616857
+    },
+    {
+      "query": "what type of garage door opener is best",
+      "clicks": 3,
+      "impressions": 149,
+      "ctr": 0.020134228187919462,
+      "position": 3.6912751677852347
+    },
+    {
+      "query": "why is garage door light blinking and not opening",
+      "clicks": 3,
+      "impressions": 230,
+      "ctr": 0.013043478260869565,
+      "position": 3.282608695652174
+    },
+    {
+      "query": "best direct drive garage door opener",
+      "clicks": 2,
+      "impressions": 75,
+      "ctr": 0.02666666666666667,
+      "position": 11.653333333333334
+    },
+    {
+      "query": "best garage door openers",
+      "clicks": 2,
+      "impressions": 314,
+      "ctr": 0.006369426751592357,
+      "position": 11.385350318471337
+    },
+    {
+      "query": "best type garage door opener",
+      "clicks": 2,
+      "impressions": 31,
+      "ctr": 0.06451612903225806,
+      "position": 3.2903225806451615
+    },
+    {
+      "query": "can you convert a manual garage door to electric",
+      "clicks": 2,
+      "impressions": 33,
+      "ctr": 0.06060606060606061,
+      "position": 6.333333333333333
+    },
+    {
+      "query": "can you put a garage door on a carport",
+      "clicks": 2,
+      "impressions": 85,
+      "ctr": 0.023529411764705882,
+      "position": 8.141176470588235
+    },
+    {
+      "query": "carport garage door",
+      "clicks": 2,
+      "impressions": 214,
+      "ctr": 0.009345794392523364,
+      "position": 14.271028037383177
+    },
+    {
+      "query": "chamberlain 10 flashes",
+      "clicks": 2,
+      "impressions": 55,
+      "ctr": 0.03636363636363636,
+      "position": 4.018181818181818
+    },
+    {
+      "query": "chamberlain garage door opener blinking lights",
+      "clicks": 2,
+      "impressions": 8,
+      "ctr": 0.25,
+      "position": 2.375
+    },
+    {
+      "query": "chamberlain garage door opener blinks 10 times",
+      "clicks": 2,
+      "impressions": 133,
+      "ctr": 0.015037593984962405,
+      "position": 2.947368421052632
+    },
+    {
+      "query": "commercial garage door repair san diego",
+      "clicks": 2,
+      "impressions": 184,
+      "ctr": 0.010869565217391304,
+      "position": 12.065217391304348
+    },
+    {
+      "query": "direct drive opener",
+      "clicks": 2,
+      "impressions": 16,
+      "ctr": 0.125,
+      "position": 1.5
+    },
+    {
+      "query": "does insulated garage door make difference",
+      "clicks": 2,
+      "impressions": 74,
+      "ctr": 0.02702702702702703,
+      "position": 6.621621621621622
+    },
+    {
+      "query": "escondido garage door repair",
+      "clicks": 2,
+      "impressions": 98,
+      "ctr": 0.02040816326530612,
+      "position": 11.714285714285714
+    },
+    {
+      "query": "fire rated cat door",
+      "clicks": 2,
+      "impressions": 1750,
+      "ctr": 0.001142857142857143,
+      "position": 10.690285714285714
+    },
+    {
+      "query": "garage door",
+      "clicks": 2,
+      "impressions": 920,
+      "ctr": 0.002173913043478261,
+      "position": 6.131521739130434
+    },
+    {
+      "query": "garage door after power outage",
+      "clicks": 2,
+      "impressions": 44,
+      "ctr": 0.045454545454545456,
+      "position": 4.977272727272727
+    },
+    {
+      "query": "garage door companies near me",
+      "clicks": 2,
+      "impressions": 369,
+      "ctr": 0.005420054200542005,
+      "position": 8.661246612466124
+    },
+    {
+      "query": "garage door medics palm desert",
+      "clicks": 2,
+      "impressions": 30,
+      "ctr": 0.06666666666666667,
+      "position": 1.1333333333333333
+    },
+    {
+      "query": "garage door not closing blinking light",
+      "clicks": 2,
+      "impressions": 94,
+      "ctr": 0.02127659574468085,
+      "position": 3.6595744680851063
+    },
+    {
+      "query": "garage door opener flashing lights",
+      "clicks": 2,
+      "impressions": 108,
+      "ctr": 0.018518518518518517,
+      "position": 3.925925925925926
+    },
+    {
+      "query": "garage door openers",
+      "clicks": 2,
+      "impressions": 185,
+      "ctr": 0.010810810810810811,
+      "position": 17.167567567567566
+    },
+    {
+      "query": "garage door parts near me",
+      "clicks": 2,
+      "impressions": 55,
+      "ctr": 0.03636363636363636,
+      "position": 7.2727272727272725
+    },
+    {
+      "query": "garage door parts supplier near me",
+      "clicks": 2,
+      "impressions": 40,
+      "ctr": 0.05,
+      "position": 15.15
+    },
+    {
+      "query": "garage door pet door",
+      "clicks": 2,
+      "impressions": 199,
+      "ctr": 0.010050251256281407,
+      "position": 1.8040201005025125
+    },
+    {
+      "query": "garage door repair california",
+      "clicks": 2,
+      "impressions": 487,
+      "ctr": 0.004106776180698152,
+      "position": 10.646817248459959
+    },
+    {
+      "query": "garage door repair in arlington tx",
+      "clicks": 2,
+      "impressions": 285,
+      "ctr": 0.007017543859649123,
+      "position": 10.589473684210526
+    },
+    {
+      "query": "garage door repair in california",
+      "clicks": 2,
+      "impressions": 93,
+      "ctr": 0.021505376344086023,
+      "position": 13.75268817204301
+    },
+    {
+      "query": "garage door repair in usa",
+      "clicks": 2,
+      "impressions": 27,
+      "ctr": 0.07407407407407407,
+      "position": 8.25925925925926
+    },
+    {
+      "query": "garage door repair san diego ca",
+      "clicks": 2,
+      "impressions": 1137,
+      "ctr": 0.001759014951627089,
+      "position": 7.958663148636764
+    },
+    {
+      "query": "garage door reset",
+      "clicks": 2,
+      "impressions": 295,
+      "ctr": 0.006779661016949152,
+      "position": 5.271186440677966
+    },
+    {
+      "query": "garage door stuck closed",
+      "clicks": 2,
+      "impressions": 142,
+      "ctr": 0.014084507042253521,
+      "position": 7.112676056338028
+    },
+    {
+      "query": "garage door temecula",
+      "clicks": 2,
+      "impressions": 66,
+      "ctr": 0.030303030303030304,
+      "position": 4.636363636363637
+    },
+    {
+      "query": "garage door won t close light flashes 10 times",
+      "clicks": 2,
+      "impressions": 246,
+      "ctr": 0.008130081300813009,
+      "position": 4.528455284552845
+    },
+    {
+      "query": "garage door wont close light blinks",
+      "clicks": 2,
+      "impressions": 167,
+      "ctr": 0.011976047904191617,
+      "position": 6.467065868263473
+    },
+    {
+      "query": "garage doors",
+      "clicks": 2,
+      "impressions": 1038,
+      "ctr": 0.0019267822736030828,
+      "position": 12.76204238921002
+    },
+    {
+      "query": "garage light flickering",
+      "clicks": 2,
+      "impressions": 19,
+      "ctr": 0.10526315789473684,
+      "position": 6.7894736842105265
+    },
+    {
+      "query": "garage repair near me",
+      "clicks": 2,
+      "impressions": 235,
+      "ctr": 0.00851063829787234,
+      "position": 5.804255319148936
+    },
+    {
+      "query": "garage tune up",
+      "clicks": 2,
+      "impressions": 328,
+      "ctr": 0.006097560975609756,
+      "position": 6.923780487804878
+    },
+    {
+      "query": "garagentor öffnen ohne schlüssel",
+      "clicks": 2,
+      "impressions": 5,
+      "ctr": 0.4,
+      "position": 2.2
+    },
+    {
+      "query": "gd services",
+      "clicks": 2,
+      "impressions": 15,
+      "ctr": 0.13333333333333333,
+      "position": 10.2
+    },
+    {
+      "query": "genie garage door opener",
+      "clicks": 2,
+      "impressions": 19,
+      "ctr": 0.10526315789473684,
+      "position": 5.421052631578948
+    },
+    {
+      "query": "how to align a garage door",
+      "clicks": 2,
+      "impressions": 76,
+      "ctr": 0.02631578947368421,
+      "position": 5.7631578947368425
+    },
+    {
+      "query": "how to fix garage door after power outage",
+      "clicks": 2,
+      "impressions": 66,
+      "ctr": 0.030303030303030304,
+      "position": 4.636363636363637
+    },
+    {
+      "query": "how to make a manual garage door automatic",
+      "clicks": 2,
+      "impressions": 42,
+      "ctr": 0.047619047619047616,
+      "position": 5.928571428571429
+    },
+    {
+      "query": "how to make garage door automatic",
+      "clicks": 2,
+      "impressions": 64,
+      "ctr": 0.03125,
+      "position": 5.578125
+    },
+    {
+      "query": "how to reset genie garage door opener after power outage",
+      "clicks": 2,
+      "impressions": 47,
+      "ctr": 0.0425531914893617,
+      "position": 9.659574468085106
+    },
+    {
+      "query": "how to reset linear garage door opener",
+      "clicks": 2,
+      "impressions": 11,
+      "ctr": 0.18181818181818182,
+      "position": 2.1818181818181817
+    },
+    {
+      "query": "how to tell if your garage door spring is broken",
+      "clicks": 2,
+      "impressions": 376,
+      "ctr": 0.005319148936170213,
+      "position": 8.191489361702128
+    },
+    {
+      "query": "how to tune up garage door",
+      "clicks": 2,
+      "impressions": 124,
+      "ctr": 0.016129032258064516,
+      "position": 6.387096774193548
+    },
+    {
+      "query": "liftmaster garage door opener light flashing",
+      "clicks": 2,
+      "impressions": 129,
+      "ctr": 0.015503875968992248,
+      "position": 3.643410852713178
+    },
+    {
+      "query": "liftmaster garage door openers",
+      "clicks": 2,
+      "impressions": 13,
+      "ctr": 0.15384615384615385,
+      "position": 6.538461538461538
+    },
+    {
+      "query": "lubricating garage door",
+      "clicks": 2,
+      "impressions": 906,
+      "ctr": 0.002207505518763797,
+      "position": 11.788079470198676
+    },
+    {
+      "query": "make garage door automatic",
+      "clicks": 2,
+      "impressions": 31,
+      "ctr": 0.06451612903225806,
+      "position": 7.580645161290323
+    },
+    {
+      "query": "manual garage door to automatic",
+      "clicks": 2,
+      "impressions": 52,
+      "ctr": 0.038461538461538464,
+      "position": 6.865384615384615
+    },
+    {
+      "query": "overhead door odyssey 1000 reset after power outage",
+      "clicks": 2,
+      "impressions": 63,
+      "ctr": 0.031746031746031744,
+      "position": 6.841269841269841
+    },
+    {
+      "query": "pedestrian door in garage door",
+      "clicks": 2,
+      "impressions": 92,
+      "ctr": 0.021739130434782608,
+      "position": 9.217391304347826
+    },
+    {
+      "query": "pedestrian entry garage doors",
+      "clicks": 2,
+      "impressions": 26,
+      "ctr": 0.07692307692307693,
+      "position": 8.653846153846153
+    },
+    {
+      "query": "reset garage door opener after power outage",
+      "clicks": 2,
+      "impressions": 100,
+      "ctr": 0.02,
+      "position": 4.33
+    },
+    {
+      "query": "roll up doors",
+      "clicks": 2,
+      "impressions": 118,
+      "ctr": 0.01694915254237288,
+      "position": 8.47457627118644
+    },
+    {
+      "query": "rolling steel garage door",
+      "clicks": 2,
+      "impressions": 520,
+      "ctr": 0.0038461538461538464,
+      "position": 4.396153846153846
+    },
+    {
+      "query": "troubleshooting liftmaster garage door opener",
+      "clicks": 2,
+      "impressions": 199,
+      "ctr": 0.010050251256281407,
+      "position": 7.577889447236181
+    },
+    {
+      "query": "walk through garage doors",
+      "clicks": 2,
+      "impressions": 218,
+      "ctr": 0.009174311926605505,
+      "position": 10.105504587155963
+    },
+    {
+      "query": "where to lubricate garage door",
+      "clicks": 2,
+      "impressions": 260,
+      "ctr": 0.007692307692307693,
+      "position": 5.957692307692308
+    },
+    {
+      "query": "why is the light on my garage door opener blinking",
+      "clicks": 2,
+      "impressions": 53,
+      "ctr": 0.03773584905660377,
+      "position": 3
+    },
+    {
+      "query": "1950s garage door opener",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 14
+    },
+    {
+      "query": "adding window to garage door",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 13.4
+    },
+    {
+      "query": "aligning garage door",
+      "clicks": 1,
+      "impressions": 25,
+      "ctr": 0.04,
+      "position": 7.92
+    },
+    {
+      "query": "aluminum garage door vs steel",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2
+    },
+    {
+      "query": "aluminum garage doors",
+      "clicks": 1,
+      "impressions": 599,
+      "ctr": 0.001669449081803005,
+      "position": 28.85475792988314
+    },
+    {
+      "query": "are insulated garage doors worth it",
+      "clicks": 1,
+      "impressions": 112,
+      "ctr": 0.008928571428571428,
+      "position": 17.151785714285715
+    },
+    {
+      "query": "auto garage door opener installation",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3
+    },
+    {
+      "query": "automatic garage door opener",
+      "clicks": 1,
+      "impressions": 76,
+      "ctr": 0.013157894736842105,
+      "position": 1.618421052631579
+    },
+    {
+      "query": "automatic garage door vs manual",
+      "clicks": 1,
+      "impressions": 48,
+      "ctr": 0.020833333333333332,
+      "position": 10.25
+    },
+    {
+      "query": "automatic gate contractors",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 7.666666666666667
+    },
+    {
+      "query": "automatic roller door",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 3
+    },
+    {
+      "query": "automatisk garageportsöppnare",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2.5
+    },
+    {
+      "query": "automatisme de porte de garage",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 5
+    },
+    {
+      "query": "automatisme porte de garage",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 4.428571428571429
+    },
+    {
+      "query": "automatizar puerta garaje",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 3.5
+    },
+    {
+      "query": "best garage door companies near me",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 2.166666666666667
+    },
+    {
+      "query": "best garage door opener type",
+      "clicks": 1,
+      "impressions": 26,
+      "ctr": 0.038461538461538464,
+      "position": 6.230769230769231
+    },
+    {
+      "query": "best garage door repair company near me",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 3
+    },
+    {
+      "query": "best lubricant for garage door opener chain",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 46.5
+    },
+    {
+      "query": "best new garage door openers",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 10.368421052631579
+    },
+    {
+      "query": "bills garage door service reviews",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 8
+    },
+    {
+      "query": "blinking light on garage door motor",
+      "clicks": 1,
+      "impressions": 42,
+      "ctr": 0.023809523809523808,
+      "position": 4.309523809523809
+    },
+    {
+      "query": "blinking light on garage door opener",
+      "clicks": 1,
+      "impressions": 76,
+      "ctr": 0.013157894736842105,
+      "position": 5.5394736842105265
+    },
+    {
+      "query": "boudin caoutchouc pour porte de garage",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 8
+    },
+    {
+      "query": "branchement schema electrique porte garage sectionnelle",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "broken garage door spring",
+      "clicks": 1,
+      "impressions": 4494,
+      "ctr": 0.00022251891410769915,
+      "position": 13.999554962171784
+    },
+    {
+      "query": "broken garage door spring symptoms",
+      "clicks": 1,
+      "impressions": 51,
+      "ctr": 0.0196078431372549,
+      "position": 5.431372549019608
+    },
+    {
+      "query": "california garage door repair",
+      "clicks": 1,
+      "impressions": 433,
+      "ctr": 0.0023094688221709007,
+      "position": 8.681293302540416
+    },
+    {
+      "query": "can you add a garage door to a carport",
+      "clicks": 1,
+      "impressions": 49,
+      "ctr": 0.02040816326530612,
+      "position": 9.306122448979592
+    },
+    {
+      "query": "can you make a manual garage door automatic",
+      "clicks": 1,
+      "impressions": 40,
+      "ctr": 0.025,
+      "position": 6.65
+    },
+    {
+      "query": "carport mit garagentor",
+      "clicks": 1,
+      "impressions": 25,
+      "ctr": 0.04,
+      "position": 2.4
+    },
+    {
+      "query": "carport mit garagentor erlaubt",
+      "clicks": 1,
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 1.9444444444444444
+    },
+    {
+      "query": "chamberlain 10 blinks",
+      "clicks": 1,
+      "impressions": 133,
+      "ctr": 0.007518796992481203,
+      "position": 1.6541353383458648
+    },
+    {
+      "query": "chamberlain belt drive garage door opener",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3.5
+    },
+    {
+      "query": "chamberlain garage door 10 flashes",
+      "clicks": 1,
+      "impressions": 72,
+      "ctr": 0.013888888888888888,
+      "position": 2.4722222222222223
+    },
+    {
+      "query": "chamberlain garage door blinks 10 times",
+      "clicks": 1,
+      "impressions": 133,
+      "ctr": 0.007518796992481203,
+      "position": 2.338345864661654
+    },
+    {
+      "query": "chamberlain garage door offline",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "chamberlain garage door opener light blinking 10 times",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 2.894736842105263
+    },
+    {
+      "query": "chamberlain garage door opener light flashes 10 times",
+      "clicks": 1,
+      "impressions": 27,
+      "ctr": 0.037037037037037035,
+      "position": 5.851851851851852
+    },
+    {
+      "query": "chamberlain garage door won't close blinks 10 times",
+      "clicks": 1,
+      "impressions": 31,
+      "ctr": 0.03225806451612903,
+      "position": 3.096774193548387
+    },
+    {
+      "query": "chamberlain keypad reset",
+      "clicks": 1,
+      "impressions": 23,
+      "ctr": 0.043478260869565216,
+      "position": 1
+    },
+    {
+      "query": "chamberlain liftmaster formula 1 troubleshooting",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 10.1
+    },
+    {
+      "query": "changing manual garage door to automatic",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 6.416666666666667
+    },
+    {
+      "query": "clopay aluminum garage doors",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3
+    },
+    {
+      "query": "comment ajuster porte de garage",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "comment graisser une porte de garage sectionnelle",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "comment motoriser une porte de garage basculante",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 2.2
+    },
+    {
+      "query": "comment ouvrir une porte de garage électrique de lextérieur",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "common garage door problems and solutions",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 10.75
+    },
+    {
+      "query": "control remoto para puertas de garaje",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "craftsman garage door opener",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 3.090909090909091
+    },
+    {
+      "query": "craftsman garage door opener light blinking",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 10.933333333333334
+    },
+    {
+      "query": "craftsman garage door opener parts near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 1
+    },
+    {
+      "query": "csi",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "different types of garage door openers",
+      "clicks": 1,
+      "impressions": 105,
+      "ctr": 0.009523809523809525,
+      "position": 12.933333333333334
+    },
+    {
+      "query": "direct drive garage door",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 2.6363636363636367
+    },
+    {
+      "query": "direct drive garage door openers",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 5.785714285714286
+    },
+    {
+      "query": "disjoncteur porte de garage",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "do garage door openers need a dedicated circuit",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 9.692307692307692
+    },
+    {
+      "query": "dog door to garage",
+      "clicks": 1,
+      "impressions": 55,
+      "ctr": 0.01818181818181818,
+      "position": 5.363636363636363
+    },
+    {
+      "query": "doggie door for garage door",
+      "clicks": 1,
+      "impressions": 125,
+      "ctr": 0.008,
+      "position": 2.56
     }
   ],
   "topPages": [
     {
       "page": "https://gdmedics.com/blog/garage-opener-light-blinking/",
-      "clicks": 565,
-      "impressions": 118828,
-      "ctr": 0.004754771602652573,
-      "position": 5.028638031440401
+      "clicks": 546,
+      "impressions": 107977,
+      "ctr": 0.005056632430980671,
+      "position": 5.122674273224853
     },
     {
       "page": "https://gdmedics.com/blog/how-reset-garage-door-after-power-outage/",
-      "clicks": 498,
-      "impressions": 47358,
-      "ctr": 0.010515646775623971,
-      "position": 8.535347776510832
+      "clicks": 446,
+      "impressions": 43523,
+      "ctr": 0.01024745536842589,
+      "position": 8.294212255588999
     },
     {
       "page": "https://gdmedics.com/san-diego-ca-garage-door-service/?utm_campaign=gmb",
-      "clicks": 271,
-      "impressions": 56209,
-      "ctr": 0.004821291963920369,
-      "position": 3.4747638278567488
+      "clicks": 307,
+      "impressions": 61610,
+      "ctr": 0.004982957312124655,
+      "position": 3.428355786398312
     },
     {
       "page": "https://gdmedics.com/",
-      "clicks": 250,
-      "impressions": 63820,
-      "ctr": 0.003917267314321529,
-      "position": 16.101331870886867
+      "clicks": 256,
+      "impressions": 59327,
+      "ctr": 0.004315067338648507,
+      "position": 15.312016451194228
     },
     {
       "page": "https://gdmedics.com/blog/types-garage-door-openers/",
-      "clicks": 205,
-      "impressions": 25630,
-      "ctr": 0.007998439328911432,
-      "position": 11.219820522824815
-    },
-    {
-      "page": "https://gdmedics.com/blog/dog-door-for-garage-door/",
-      "clicks": 175,
-      "impressions": 17602,
-      "ctr": 0.00994205203954096,
-      "position": 9.074423360981706
-    },
-    {
-      "page": "https://gdmedics.com/blog/walkthrough-garage-door/",
-      "clicks": 153,
-      "impressions": 17046,
-      "ctr": 0.00897571277719113,
-      "position": 14.313328640150182
+      "clicks": 178,
+      "impressions": 25014,
+      "ctr": 0.007116015031582314,
+      "position": 11.075597665307427
     },
     {
       "page": "https://gdmedics.com/blog/how-change-manual-garage-door-to-automatic/",
-      "clicks": 148,
-      "impressions": 12718,
-      "ctr": 0.01163704985060544,
-      "position": 7.85972637207108
+      "clicks": 171,
+      "impressions": 11659,
+      "ctr": 0.014666781027532378,
+      "position": 7.555965348657689
+    },
+    {
+      "page": "https://gdmedics.com/blog/walkthrough-garage-door/",
+      "clicks": 170,
+      "impressions": 17726,
+      "ctr": 0.009590432133589078,
+      "position": 13.341927112715785
+    },
+    {
+      "page": "https://gdmedics.com/blog/dog-door-for-garage-door/",
+      "clicks": 151,
+      "impressions": 16910,
+      "ctr": 0.008929627439384979,
+      "position": 8.440922531046718
     },
     {
       "page": "https://gdmedics.com/blog/steel-vs-aluminum-garage-doors/",
-      "clicks": 129,
-      "impressions": 10132,
-      "ctr": 0.012731938412949072,
-      "position": 9.597907619423609
+      "clicks": 124,
+      "impressions": 9263,
+      "ctr": 0.01338659181690597,
+      "position": 9.207600129547663
     },
     {
       "page": "https://gdmedics.com/blog/locked-out-of-garage-what-to-do/",
-      "clicks": 123,
-      "impressions": 22614,
-      "ctr": 0.0054391085168479705,
-      "position": 7.591801538869727
+      "clicks": 110,
+      "impressions": 21661,
+      "ctr": 0.005078251234938369,
+      "position": 6.805456811781543
     },
     {
       "page": "https://gdmedics.com/blog/know-garage-door-spring-bad-broken/",
-      "clicks": 113,
-      "impressions": 32574,
-      "ctr": 0.003469024375268619,
-      "position": 14.86836126972432
-    },
-    {
-      "page": "https://gdmedics.com/blog/best-christmas-lights-san-diego-area/",
-      "clicks": 88,
-      "impressions": 18132,
-      "ctr": 0.004853298036620339,
-      "position": 11.714813589234502
-    },
-    {
-      "page": "https://gdmedics.com/blog/garage-door-opener-electrical-requirements/",
-      "clicks": 87,
-      "impressions": 27270,
-      "ctr": 0.00319031903190319,
-      "position": 7.018665199853318
-    },
-    {
-      "page": "https://gdmedics.com/temecula-and-murrieta-garage-door-repair/?utm_campaign=gmb&utm_medium=organic&utm_source=google",
-      "clicks": 84,
-      "impressions": 21911,
-      "ctr": 0.0038336908402172424,
-      "position": 2.815982839669572
-    },
-    {
-      "page": "https://gdmedics.com/blog/garage-door-alignment/",
-      "clicks": 77,
-      "impressions": 11348,
-      "ctr": 0.0067853366231935145,
-      "position": 10.675801903419105
+      "clicks": 94,
+      "impressions": 29209,
+      "ctr": 0.0032181861754938547,
+      "position": 14.040124619124242
     },
     {
       "page": "https://gdmedics.com/dallas-fort-worth-garage-door-repair/?utm_campaign=gmb&utm_medium=organic&utm_source=google",
-      "clicks": 67,
-      "impressions": 16105,
-      "ctr": 0.0041601986960571255,
-      "position": 3.495312014902204
+      "clicks": 82,
+      "impressions": 22090,
+      "ctr": 0.0037120869171570845,
+      "position": 3.8698506111362607
     },
     {
-      "page": "https://gdmedics.com/blog/common-garage-door-opener-problems/",
-      "clicks": 52,
-      "impressions": 14825,
-      "ctr": 0.0035075885328836424,
-      "position": 11.788465430016863
+      "page": "https://gdmedics.com/temecula-and-murrieta-garage-door-repair/?utm_campaign=gmb&utm_medium=organic&utm_source=google",
+      "clicks": 75,
+      "impressions": 28281,
+      "ctr": 0.002651957144372547,
+      "position": 2.6465117923694352
     },
     {
-      "page": "https://gdmedics.com/blog/how-to-replace-the-garage-door-bottom-seal/",
-      "clicks": 51,
-      "impressions": 19946,
-      "ctr": 0.0025569036398275344,
-      "position": 6.409956883585681
+      "page": "https://gdmedics.com/blog/garage-door-opener-electrical-requirements/",
+      "clicks": 74,
+      "impressions": 25167,
+      "ctr": 0.0029403584058489292,
+      "position": 6.71510311121707
     },
     {
-      "page": "https://gdmedics.com/blog/how-lubricate-garage-door/",
-      "clicks": 50,
-      "impressions": 43823,
-      "ctr": 0.0011409533806448669,
-      "position": 12.368025922460808
+      "page": "https://gdmedics.com/blog/garage-door-alignment/",
+      "clicks": 64,
+      "impressions": 10662,
+      "ctr": 0.006002626148940161,
+      "position": 10.721815794410054
     },
     {
       "page": "https://gdmedics.com/blog/install-garage-door-on-carport/",
-      "clicks": 47,
-      "impressions": 5550,
-      "ctr": 0.008468468468468469,
-      "position": 11.122342342342343
+      "clicks": 49,
+      "impressions": 6254,
+      "ctr": 0.007834985609210105,
+      "position": 10.248321074512312
     },
     {
-      "page": "https://gdmedics.com/blog/troubleshoot-liftmaster-garage-door/",
-      "clicks": 43,
-      "impressions": 16055,
-      "ctr": 0.002678293366552476,
-      "position": 8.242229834942385
+      "page": "https://gdmedics.com/blog/how-to-replace-the-garage-door-bottom-seal/",
+      "clicks": 47,
+      "impressions": 16447,
+      "ctr": 0.0028576640116738613,
+      "position": 7.535903204231775
     },
     {
       "page": "https://gdmedics.com/blog/garage-door-uneven/",
-      "clicks": 34,
-      "impressions": 9048,
-      "ctr": 0.003757736516357206,
-      "position": 10.493037135278515
+      "clicks": 43,
+      "impressions": 9214,
+      "ctr": 0.004666811373996093,
+      "position": 9.267310614282614
+    },
+    {
+      "page": "https://gdmedics.com/blog/troubleshoot-liftmaster-garage-door/",
+      "clicks": 38,
+      "impressions": 15181,
+      "ctr": 0.0025031289111389237,
+      "position": 8.16724853435215
     },
     {
       "page": "https://gdmedics.com/san-diego-ca-garage-door-service/",
-      "clicks": 34,
-      "impressions": 10178,
-      "ctr": 0.003340538416191786,
-      "position": 16.0671055217135
+      "clicks": 37,
+      "impressions": 6831,
+      "ctr": 0.005416483677353243,
+      "position": 23.000878348704436
     },
     {
-      "page": "https://gdmedics.com/blog/garage-door-insulation/",
-      "clicks": 32,
-      "impressions": 10945,
-      "ctr": 0.002923709456372773,
-      "position": 13.287163088168112
+      "page": "https://gdmedics.com/blog/how-lubricate-garage-door/",
+      "clicks": 35,
+      "impressions": 34572,
+      "ctr": 0.0010123799606618071,
+      "position": 13.14289020016198
+    },
+    {
+      "page": "https://gdmedics.com/blog/common-garage-door-opener-problems/",
+      "clicks": 31,
+      "impressions": 10275,
+      "ctr": 0.0030170316301703164,
+      "position": 13.836009732360097
     },
     {
       "page": "https://gdmedics.com/blog/perform-garage-door-tune/",
       "clicks": 29,
-      "impressions": 10677,
-      "ctr": 0.002716118759951297,
-      "position": 10.727451531329026
+      "impressions": 10612,
+      "ctr": 0.0027327553712777988,
+      "position": 10.531191104410102
     },
     {
       "page": "https://gdmedics.com/areas-we-serve/oceanside-ca-garage-door-service/",
-      "clicks": 25,
-      "impressions": 8595,
-      "ctr": 0.0029086678301337987,
-      "position": 10.462478184991275
+      "clicks": 28,
+      "impressions": 8071,
+      "ctr": 0.003469210754553339,
+      "position": 10.70561268739933
     },
     {
       "page": "https://gdmedics.com/blog/how-does-wall-mount-garage-door-opener-work/",
-      "clicks": 25,
-      "impressions": 2703,
-      "ctr": 0.00924898261191269,
-      "position": 14.196448390677025
-    },
-    {
-      "page": "https://gdmedics.com/blog/insulated-garage-doors-pros-cons/",
-      "clicks": 25,
-      "impressions": 4455,
-      "ctr": 0.005611672278338945,
-      "position": 14.12053872053872
-    },
-    {
-      "page": "https://gdmedics.com/blog/6-reasons-why-your-garage-door-closes-unevenly/",
-      "clicks": 24,
-      "impressions": 3048,
-      "ctr": 0.007874015748031496,
-      "position": 9.688648293963254
+      "clicks": 23,
+      "impressions": 2562,
+      "ctr": 0.00897736143637783,
+      "position": 13.387978142076502
     },
     {
       "page": "https://gdmedics.com/blog/often-perform-garage-door-tune/",
-      "clicks": 24,
-      "impressions": 3605,
-      "ctr": 0.00665742024965326,
-      "position": 8.771151178918169
-    },
-    {
-      "page": "https://gdmedics.com/blog/can-sun-affect-garage-door-sensor/",
-      "clicks": 22,
-      "impressions": 7511,
-      "ctr": 0.0029290374117960324,
-      "position": 8.154440154440154
-    },
-    {
-      "page": "https://gdmedics.com/blog/garage-door-auto-reverse-adjustment/",
-      "clicks": 21,
-      "impressions": 10452,
-      "ctr": 0.0020091848450057405,
-      "position": 7.346345197091466
+      "clicks": 23,
+      "impressions": 3582,
+      "ctr": 0.0064209938581797875,
+      "position": 8.334729201563373
     },
     {
       "page": "https://gdmedics.com/blog/4-things-check-garage-door-stuck/",
-      "clicks": 20,
-      "impressions": 9710,
-      "ctr": 0.0020597322348094747,
-      "position": 11.325746652935118
+      "clicks": 22,
+      "impressions": 8605,
+      "ctr": 0.002556653108657757,
+      "position": 12.07821034282394
     },
     {
-      "page": "https://gdmedics.com/blog/garage-doors-with-pedestrian-door/",
-      "clicks": 19,
-      "impressions": 3352,
-      "ctr": 0.0056682577565632455,
-      "position": 16.696002386634845
-    },
-    {
-      "page": "https://gdmedics.com/blog/how-reset-garage-door-code/",
-      "clicks": 19,
-      "impressions": 21171,
-      "ctr": 0.0008974540645222238,
-      "position": 13.921685324264324
-    },
-    {
-      "page": "https://gdmedics.com/palm-springs-and-palm-desert-garage-door-repair/?utm_campaign=gmb&utm_medium=organic&utm_source=google",
-      "clicks": 18,
-      "impressions": 18206,
-      "ctr": 0.0009886850488849829,
-      "position": 2.526310007689773
-    },
-    {
-      "page": "https://gdmedics.com/blog/garage-door-wont-open/",
-      "clicks": 17,
-      "impressions": 7601,
-      "ctr": 0.002236547822654914,
-      "position": 25.294566504407314
+      "page": "https://gdmedics.com/blog/6-reasons-why-your-garage-door-closes-unevenly/",
+      "clicks": 22,
+      "impressions": 3016,
+      "ctr": 0.007294429708222812,
+      "position": 9.268236074270558
     },
     {
       "page": "https://gdmedics.com/blog/install-windows-in-garage-door/",
-      "clicks": 17,
-      "impressions": 3352,
-      "ctr": 0.005071599045346062,
-      "position": 15.232696897374701
+      "clicks": 21,
+      "impressions": 3833,
+      "ctr": 0.0054787372815027395,
+      "position": 14.136185755283067
+    },
+    {
+      "page": "https://gdmedics.com/blog/garage-door-auto-reverse-adjustment/",
+      "clicks": 20,
+      "impressions": 10382,
+      "ctr": 0.0019264110961279136,
+      "position": 7.25467154690811
+    },
+    {
+      "page": "https://gdmedics.com/blog/insulated-garage-doors-pros-cons/",
+      "clicks": 20,
+      "impressions": 4764,
+      "ctr": 0.0041981528127623844,
+      "position": 12.608312342569269
+    },
+    {
+      "page": "https://gdmedics.com/blog/garage-door-insulation/",
+      "clicks": 19,
+      "impressions": 8546,
+      "ctr": 0.002223262344956705,
+      "position": 12.52188158202668
+    },
+    {
+      "page": "https://gdmedics.com/blog/can-sun-affect-garage-door-sensor/",
+      "clicks": 18,
+      "impressions": 7779,
+      "ctr": 0.0023139220979560356,
+      "position": 8.079958863607146
     },
     {
       "page": "https://gdmedics.com/contact/",
-      "clicks": 16,
-      "impressions": 4205,
-      "ctr": 0.0038049940546967895,
-      "position": 8.34601664684899
+      "clicks": 18,
+      "impressions": 3958,
+      "ctr": 0.004547751389590703,
+      "position": 7.783729156139464
     },
     {
-      "page": "https://gdmedics.com/palm-springs-and-palm-desert-garage-door-repair/",
+      "page": "https://gdmedics.com/palm-springs-and-palm-desert-garage-door-repair/?utm_campaign=gmb&utm_medium=organic&utm_source=google",
       "clicks": 16,
-      "impressions": 14515,
-      "ctr": 0.0011023079572855666,
-      "position": 19.14667585256631
+      "impressions": 25323,
+      "ctr": 0.0006318366702207479,
+      "position": 2.1650278403032814
     },
     {
-      "page": "https://gdmedics.com/reviews/",
+      "page": "https://gdmedics.com/blog/garage-door-permit/",
       "clicks": 15,
-      "impressions": 6565,
-      "ctr": 0.002284843869002285,
-      "position": 7.724904798172125
+      "impressions": 3266,
+      "ctr": 0.004592774035517453,
+      "position": 8.579608083282302
     },
     {
-      "page": "https://gdmedics.com/dallas-fort-worth-garage-door-repair/",
+      "page": "https://gdmedics.com/blog/garage-doors-with-pedestrian-door/",
+      "clicks": 15,
+      "impressions": 3171,
+      "ctr": 0.004730368968779565,
+      "position": 14.520655944497005
+    },
+    {
+      "page": "https://gdmedics.com/blog/how-reset-garage-door-code/",
       "clicks": 14,
-      "impressions": 20957,
-      "ctr": 0.000668034546929427,
-      "position": 20.08126163095863
-    },
-    {
-      "page": "https://gdmedics.com/temecula-and-murrieta-garage-door-repair/",
-      "clicks": 14,
-      "impressions": 11827,
-      "ctr": 0.0011837321383275556,
-      "position": 10.89151940475184
-    },
-    {
-      "page": "https://gdmedics.com/blog/watch-out-for-fake-google-business-listings/",
-      "clicks": 13,
-      "impressions": 5476,
-      "ctr": 0.0023739956172388606,
-      "position": 7.149926953981008
-    },
-    {
-      "page": "https://gdmedics.com/locked-out-of-garage-what-to-do/",
-      "clicks": 13,
-      "impressions": 1330,
-      "ctr": 0.009774436090225564,
-      "position": 1.6345864661654135
-    },
-    {
-      "page": "https://gdmedics.com/offers/",
-      "clicks": 13,
-      "impressions": 9880,
-      "ctr": 0.0013157894736842105,
-      "position": 8.26002024291498
+      "impressions": 17799,
+      "ctr": 0.000786561042755211,
+      "position": 15.10708466767796
     },
     {
       "page": "https://gdmedics.com/commercial-rolling-sheet-doors/",
+      "clicks": 14,
+      "impressions": 9589,
+      "ctr": 0.0014600062571696736,
+      "position": 20.23985817082073
+    },
+    {
+      "page": "https://gdmedics.com/palm-springs-and-palm-desert-garage-door-repair/",
+      "clicks": 14,
+      "impressions": 13956,
+      "ctr": 0.001003152765835483,
+      "position": 17.594224706219546
+    },
+    {
+      "page": "https://gdmedics.com/reviews/",
+      "clicks": 14,
+      "impressions": 1478,
+      "ctr": 0.009472259810554804,
+      "position": 7.678619756427605
+    },
+    {
+      "page": "https://gdmedics.com/blog/garage-door-summer-care/",
+      "clicks": 13,
+      "impressions": 3786,
+      "ctr": 0.003433703116745906,
+      "position": 6.053354463814052
+    },
+    {
+      "page": "https://gdmedics.com/dallas-fort-worth-garage-door-repair/",
+      "clicks": 13,
+      "impressions": 14161,
+      "ctr": 0.0009180142645293411,
+      "position": 21.526375255984746
+    },
+    {
+      "page": "https://gdmedics.com/temecula-and-murrieta-garage-door-repair/",
+      "clicks": 13,
+      "impressions": 6500,
+      "ctr": 0.002,
+      "position": 11.821846153846154
+    },
+    {
+      "page": "https://gdmedics.com/offers/",
       "clicks": 12,
-      "impressions": 9431,
-      "ctr": 0.0012723995334535045,
-      "position": 19.415756547555933
+      "impressions": 4837,
+      "ctr": 0.0024808765763903247,
+      "position": 8.559851147405418
     },
     {
       "page": "https://gdmedics.com/blog/different-types-of-garage-door-springs/",
       "clicks": 11,
-      "impressions": 6379,
-      "ctr": 0.0017244082144536761,
-      "position": 11.418717667345978
+      "impressions": 5950,
+      "ctr": 0.0018487394957983194,
+      "position": 11.06235294117647
     },
     {
-      "page": "https://gdmedics.com/blog/garage-door-summer-care/",
+      "page": "https://gdmedics.com/blog/garage-door-wont-open/",
       "clicks": 11,
-      "impressions": 3491,
-      "ctr": 0.003150959610426812,
-      "position": 6.648811228874248
+      "impressions": 6188,
+      "ctr": 0.001777634130575307,
+      "position": 28.24563671622495
     },
     {
       "page": "https://gdmedics.com/blog/how-childproof-garage-door/",
       "clicks": 11,
-      "impressions": 1982,
-      "ctr": 0.005549949545913219,
-      "position": 8.521695257315843
+      "impressions": 1936,
+      "ctr": 0.005681818181818182,
+      "position": 8.521177685950413
+    },
+    {
+      "page": "https://gdmedics.com/garage-door-weatherstripping-and-trim/",
+      "clicks": 11,
+      "impressions": 828,
+      "ctr": 0.013285024154589372,
+      "position": 19.35024154589372
+    },
+    {
+      "page": "https://gdmedics.com/?utm_source=google&utm_medium=organic&utm_campaign=phoenix-website-url",
+      "clicks": 10,
+      "impressions": 1511,
+      "ctr": 0.0066181336863004635,
+      "position": 32.875579086697556
     }
   ],
-  "fetchedAt": "2026-03-18T13:07:51.470Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "garage door medics",
+      "clicks": 365,
+      "impressions": 1294,
+      "ctr": 0.2820710973724884,
+      "position": 1.3840803709428129
+    },
+    {
+      "query": "garage door insulation",
+      "clicks": 64,
+      "impressions": 76593,
+      "ctr": 0.0008355854973692113,
+      "position": 50.64948493987701
+    },
+    {
+      "query": "how to reset garage door",
+      "clicks": 51,
+      "impressions": 1876,
+      "ctr": 0.027185501066098083,
+      "position": 8.03411513859275
+    },
+    {
+      "query": "garage door repair san diego",
+      "clicks": 50,
+      "impressions": 3567,
+      "ctr": 0.014017381553125876,
+      "position": 3.5562097000280346
+    },
+    {
+      "query": "garage door spring types",
+      "clicks": 50,
+      "impressions": 1053,
+      "ctr": 0.04748338081671415,
+      "position": 3.4235517568850904
+    },
+    {
+      "query": "garage door not working after power outage",
+      "clicks": 49,
+      "impressions": 421,
+      "ctr": 0.1163895486935867,
+      "position": 1.8812351543942993
+    },
+    {
+      "query": "best type of garage door opener",
+      "clicks": 39,
+      "impressions": 513,
+      "ctr": 0.07602339181286549,
+      "position": 4.113060428849902
+    },
+    {
+      "query": "garage door medic",
+      "clicks": 37,
+      "impressions": 395,
+      "ctr": 0.09367088607594937,
+      "position": 6.250632911392405
+    },
+    {
+      "query": "garage door repair",
+      "clicks": 35,
+      "impressions": 18104,
+      "ctr": 0.0019332744144940344,
+      "position": 27.095338046840478
+    },
+    {
+      "query": "liftmaster light blinking",
+      "clicks": 31,
+      "impressions": 712,
+      "ctr": 0.04353932584269663,
+      "position": 2.9733146067415728
+    },
+    {
+      "query": "garage medics",
+      "clicks": 30,
+      "impressions": 88,
+      "ctr": 0.3409090909090909,
+      "position": 1.625
+    },
+    {
+      "query": "types of garage door springs",
+      "clicks": 30,
+      "impressions": 2055,
+      "ctr": 0.014598540145985401,
+      "position": 4.981995133819952
+    },
+    {
+      "query": "garage door opener not working after power outage",
+      "clicks": 29,
+      "impressions": 271,
+      "ctr": 0.1070110701107011,
+      "position": 1.933579335793358
+    },
+    {
+      "query": "garage door repair near me",
+      "clicks": 29,
+      "impressions": 6129,
+      "ctr": 0.004731603850546582,
+      "position": 10.508402675803557
+    },
+    {
+      "query": "garage door medics san diego",
+      "clicks": 27,
+      "impressions": 88,
+      "ctr": 0.3068181818181818,
+      "position": 1.0113636363636365
+    },
+    {
+      "query": "garage door won't open after power outage",
+      "clicks": 27,
+      "impressions": 236,
+      "ctr": 0.11440677966101695,
+      "position": 2.0593220338983054
+    },
+    {
+      "query": "garage door not opening after power outage",
+      "clicks": 24,
+      "impressions": 145,
+      "ctr": 0.16551724137931034,
+      "position": 1.8413793103448275
+    },
+    {
+      "query": "how to reset garage door after power outage",
+      "clicks": 24,
+      "impressions": 426,
+      "ctr": 0.056338028169014086,
+      "position": 2.607981220657277
+    },
+    {
+      "query": "overhead door odyssey 1000 reset after power outage",
+      "clicks": 24,
+      "impressions": 99,
+      "ctr": 0.24242424242424243,
+      "position": 1.3636363636363638
+    },
+    {
+      "query": "steel vs aluminum garage doors",
+      "clicks": 23,
+      "impressions": 291,
+      "ctr": 0.07903780068728522,
+      "position": 2.8900343642611683
+    },
+    {
+      "query": "how to reset chamberlain garage door opener after power outage",
+      "clicks": 19,
+      "impressions": 265,
+      "ctr": 0.07169811320754717,
+      "position": 2.4150943396226414
+    },
+    {
+      "query": "reset garage door after power outage",
+      "clicks": 18,
+      "impressions": 280,
+      "ctr": 0.06428571428571428,
+      "position": 2.075
+    },
+    {
+      "query": "garage door repair temecula",
+      "clicks": 17,
+      "impressions": 1213,
+      "ctr": 0.014014839241549877,
+      "position": 2.780708985985161
+    },
+    {
+      "query": "garage door after power outage",
+      "clicks": 16,
+      "impressions": 91,
+      "ctr": 0.17582417582417584,
+      "position": 1.901098901098901
+    },
+    {
+      "query": "garage medic",
+      "clicks": 16,
+      "impressions": 148,
+      "ctr": 0.10810810810810811,
+      "position": 4.608108108108108
+    },
+    {
+      "query": "chamberlain garage door opener manual",
+      "clicks": 14,
+      "impressions": 111,
+      "ctr": 0.12612612612612611,
+      "position": 2.126126126126126
+    },
+    {
+      "query": "garage door alignment",
+      "clicks": 14,
+      "impressions": 789,
+      "ctr": 0.017743979721166033,
+      "position": 6.467680608365019
+    },
+    {
+      "query": "garage door repair murrieta",
+      "clicks": 14,
+      "impressions": 703,
+      "ctr": 0.01991465149359886,
+      "position": 3.5049786628733997
+    },
+    {
+      "query": "garage door spring styles",
+      "clicks": 14,
+      "impressions": 55,
+      "ctr": 0.2545454545454545,
+      "position": 1.0727272727272728
+    },
+    {
+      "query": "reset garage door",
+      "clicks": 14,
+      "impressions": 591,
+      "ctr": 0.023688663282571912,
+      "position": 5.873096446700508
+    },
+    {
+      "query": "best garage door insulation",
+      "clicks": 13,
+      "impressions": 456,
+      "ctr": 0.02850877192982456,
+      "position": 17.56140350877193
+    },
+    {
+      "query": "craftsman garage door opener",
+      "clicks": 13,
+      "impressions": 154,
+      "ctr": 0.08441558441558442,
+      "position": 2.409090909090909
+    },
+    {
+      "query": "do you have to reset garage door opener after power outage",
+      "clicks": 13,
+      "impressions": 391,
+      "ctr": 0.03324808184143223,
+      "position": 3.721227621483376
+    },
+    {
+      "query": "dog door in garage door",
+      "clicks": 13,
+      "impressions": 122,
+      "ctr": 0.10655737704918032,
+      "position": 3.057377049180328
+    },
+    {
+      "query": "garage door spring type",
+      "clicks": 13,
+      "impressions": 113,
+      "ctr": 0.11504424778761062,
+      "position": 3.3716814159292037
+    },
+    {
+      "query": "how to reset liftmaster garage door after power outage",
+      "clicks": 13,
+      "impressions": 283,
+      "ctr": 0.045936395759717315,
+      "position": 3.639575971731449
+    },
+    {
+      "query": "garage door insulation kit",
+      "clicks": 12,
+      "impressions": 269,
+      "ctr": 0.04460966542750929,
+      "position": 3.62453531598513
+    },
+    {
+      "query": "garage door light flashes 10 times",
+      "clicks": 12,
+      "impressions": 393,
+      "ctr": 0.030534351145038167,
+      "position": 2.989821882951654
+    },
+    {
+      "query": "manual garage door to automatic",
+      "clicks": 12,
+      "impressions": 91,
+      "ctr": 0.13186813186813187,
+      "position": 2.868131868131868
+    },
+    {
+      "query": "pet door for garage door",
+      "clicks": 12,
+      "impressions": 381,
+      "ctr": 0.031496062992125984,
+      "position": 5.115485564304462
+    },
+    {
+      "query": "what type of garage door opener is best",
+      "clicks": 12,
+      "impressions": 153,
+      "ctr": 0.0784313725490196,
+      "position": 4.96078431372549
+    },
+    {
+      "query": "aluminum vs steel garage doors",
+      "clicks": 11,
+      "impressions": 649,
+      "ctr": 0.01694915254237288,
+      "position": 3.057010785824345
+    },
+    {
+      "query": "chamberlain garage door opener",
+      "clicks": 11,
+      "impressions": 153,
+      "ctr": 0.0718954248366013,
+      "position": 3.0980392156862746
+    },
+    {
+      "query": "convert manual garage door to automatic",
+      "clicks": 11,
+      "impressions": 148,
+      "ctr": 0.07432432432432433,
+      "position": 2.5472972972972974
+    },
+    {
+      "query": "dog door for garage door",
+      "clicks": 11,
+      "impressions": 431,
+      "ctr": 0.025522041763341066,
+      "position": 3.1392111368909514
+    },
+    {
+      "query": "garage door reset after power outage",
+      "clicks": 11,
+      "impressions": 103,
+      "ctr": 0.10679611650485436,
+      "position": 2.2524271844660193
+    },
+    {
+      "query": "garage door won't work after power outage",
+      "clicks": 11,
+      "impressions": 75,
+      "ctr": 0.14666666666666667,
+      "position": 1.6933333333333334
+    },
+    {
+      "query": "liftmaster blinks 10 times",
+      "clicks": 11,
+      "impressions": 291,
+      "ctr": 0.037800687285223365,
+      "position": 2.2577319587628866
+    },
+    {
+      "query": "locked out of garage",
+      "clicks": 11,
+      "impressions": 185,
+      "ctr": 0.05945945945945946,
+      "position": 4.021621621621621
+    },
+    {
+      "query": "garage door opener",
+      "clicks": 10,
+      "impressions": 615,
+      "ctr": 0.016260162601626018,
+      "position": 4.082926829268293
+    },
+    {
+      "query": "garage door san diego",
+      "clicks": 10,
+      "impressions": 443,
+      "ctr": 0.022573363431151242,
+      "position": 4.1038374717832955
+    },
+    {
+      "query": "garage door won't close light flashes 10 times",
+      "clicks": 10,
+      "impressions": 358,
+      "ctr": 0.027932960893854747,
+      "position": 4.053072625698324
+    },
+    {
+      "query": "how to reset a garage door",
+      "clicks": 10,
+      "impressions": 402,
+      "ctr": 0.024875621890547265,
+      "position": 7.251243781094527
+    },
+    {
+      "query": "how to reset garage door opener after power outage",
+      "clicks": 10,
+      "impressions": 204,
+      "ctr": 0.049019607843137254,
+      "position": 2.372549019607843
+    },
+    {
+      "query": "garage door blinks 10 times",
+      "clicks": 9,
+      "impressions": 254,
+      "ctr": 0.03543307086614173,
+      "position": 2.059055118110236
+    },
+    {
+      "query": "garage door medics reviews",
+      "clicks": 9,
+      "impressions": 212,
+      "ctr": 0.04245283018867924,
+      "position": 2.9622641509433962
+    },
+    {
+      "query": "garage door opener types",
+      "clicks": 9,
+      "impressions": 719,
+      "ctr": 0.012517385257301807,
+      "position": 10.066759388038943
+    },
+    {
+      "query": "garage door rubber seal bottom",
+      "clicks": 9,
+      "impressions": 128,
+      "ctr": 0.0703125,
+      "position": 4.671875
+    },
+    {
+      "query": "garage won't open after power outage",
+      "clicks": 9,
+      "impressions": 85,
+      "ctr": 0.10588235294117647,
+      "position": 1.9294117647058824
+    },
+    {
+      "query": "san diego garage door repair",
+      "clicks": 9,
+      "impressions": 945,
+      "ctr": 0.009523809523809525,
+      "position": 3.3015873015873014
+    },
+    {
+      "query": "types of garage door openers",
+      "clicks": 9,
+      "impressions": 1616,
+      "ctr": 0.005569306930693069,
+      "position": 12.045173267326733
+    },
+    {
+      "query": "best garage door opener type",
+      "clicks": 8,
+      "impressions": 140,
+      "ctr": 0.05714285714285714,
+      "position": 3.807142857142857
+    },
+    {
+      "query": "chamberlain garage door opener troubleshooting",
+      "clicks": 8,
+      "impressions": 234,
+      "ctr": 0.03418803418803419,
+      "position": 38.76068376068376
+    },
+    {
+      "query": "child proof garage door opener",
+      "clicks": 8,
+      "impressions": 77,
+      "ctr": 0.1038961038961039,
+      "position": 2.4805194805194803
+    },
+    {
+      "query": "garage door medics palm desert",
+      "clicks": 8,
+      "impressions": 41,
+      "ctr": 0.1951219512195122,
+      "position": 1.170731707317073
+    },
+    {
+      "query": "garage door opener blinks 10 times",
+      "clicks": 8,
+      "impressions": 166,
+      "ctr": 0.04819277108433735,
+      "position": 1.855421686746988
+    },
+    {
+      "query": "garage door opener won't work after power outage",
+      "clicks": 8,
+      "impressions": 41,
+      "ctr": 0.1951219512195122,
+      "position": 1.975609756097561
+    },
+    {
+      "query": "how does a wall mount garage door opener work",
+      "clicks": 8,
+      "impressions": 70,
+      "ctr": 0.11428571428571428,
+      "position": 3.3714285714285714
+    },
+    {
+      "query": "how to reconnect garage door after power outage",
+      "clicks": 8,
+      "impressions": 199,
+      "ctr": 0.04020100502512563,
+      "position": 3.201005025125628
+    },
+    {
+      "query": "how to reset liftmaster garage door opener after power outage",
+      "clicks": 8,
+      "impressions": 317,
+      "ctr": 0.025236593059936908,
+      "position": 3.826498422712934
+    },
+    {
+      "query": "liftmaster 10 blinks",
+      "clicks": 8,
+      "impressions": 567,
+      "ctr": 0.014109347442680775,
+      "position": 1.691358024691358
+    },
+    {
+      "query": "liftmaster flashing light",
+      "clicks": 8,
+      "impressions": 287,
+      "ctr": 0.027874564459930314,
+      "position": 2.8292682926829267
+    },
+    {
+      "query": "merlin garage door not working after power outage",
+      "clicks": 8,
+      "impressions": 134,
+      "ctr": 0.05970149253731343,
+      "position": 4.574626865671641
+    },
+    {
+      "query": "re engage garage door after power outage",
+      "clicks": 8,
+      "impressions": 74,
+      "ctr": 0.10810810810810811,
+      "position": 4.04054054054054
+    },
+    {
+      "query": "reconnecting garage door after power outage",
+      "clicks": 8,
+      "impressions": 99,
+      "ctr": 0.08080808080808081,
+      "position": 2.595959595959596
+    },
+    {
+      "query": "reengage garage door after power outage",
+      "clicks": 8,
+      "impressions": 142,
+      "ctr": 0.056338028169014086,
+      "position": 2.711267605633803
+    },
+    {
+      "query": "craftsman garage door opener troubleshooting",
+      "clicks": 7,
+      "impressions": 57,
+      "ctr": 0.12280701754385964,
+      "position": 27.859649122807017
+    },
+    {
+      "query": "garage door bottom seal replacement",
+      "clicks": 7,
+      "impressions": 209,
+      "ctr": 0.03349282296650718,
+      "position": 10.16267942583732
+    },
+    {
+      "query": "garage door dog door",
+      "clicks": 7,
+      "impressions": 382,
+      "ctr": 0.01832460732984293,
+      "position": 2.8534031413612566
+    },
+    {
+      "query": "garage door seal",
+      "clicks": 7,
+      "impressions": 85,
+      "ctr": 0.08235294117647059,
+      "position": 3.9411764705882355
+    },
+    {
+      "query": "garage door spring options",
+      "clicks": 7,
+      "impressions": 17,
+      "ctr": 0.4117647058823529,
+      "position": 1
+    },
+    {
+      "query": "garage doors san diego",
+      "clicks": 7,
+      "impressions": 1003,
+      "ctr": 0.006979062811565304,
+      "position": 3.6470588235294117
+    },
+    {
+      "query": "how to make garage door automatic",
+      "clicks": 7,
+      "impressions": 120,
+      "ctr": 0.058333333333333334,
+      "position": 4.1
+    },
+    {
+      "query": "how to reset merlin garage door after power outage",
+      "clicks": 7,
+      "impressions": 111,
+      "ctr": 0.06306306306306306,
+      "position": 3.324324324324324
+    },
+    {
+      "query": "j-type garage door bottom seal",
+      "clicks": 7,
+      "impressions": 325,
+      "ctr": 0.021538461538461538,
+      "position": 10.71076923076923
+    },
+    {
+      "query": "liftmaster garage door opener light blinking",
+      "clicks": 7,
+      "impressions": 313,
+      "ctr": 0.022364217252396165,
+      "position": 4.194888178913738
+    },
+    {
+      "query": "resetting garage door",
+      "clicks": 7,
+      "impressions": 167,
+      "ctr": 0.041916167664670656,
+      "position": 5.868263473053892
+    },
+    {
+      "query": "screw drive garage door opener",
+      "clicks": 7,
+      "impressions": 112,
+      "ctr": 0.0625,
+      "position": 4.848214285714286
+    },
+    {
+      "query": "steel vs aluminum garage door",
+      "clicks": 7,
+      "impressions": 109,
+      "ctr": 0.06422018348623854,
+      "position": 2.376146788990826
+    },
+    {
+      "query": "walk through garage door",
+      "clicks": 7,
+      "impressions": 398,
+      "ctr": 0.017587939698492462,
+      "position": 11.93467336683417
+    },
+    {
+      "query": "walk through garage doors",
+      "clicks": 7,
+      "impressions": 191,
+      "ctr": 0.03664921465968586,
+      "position": 10.460732984293193
+    },
+    {
+      "query": "best garage door opener for heavy doors",
+      "clicks": 6,
+      "impressions": 325,
+      "ctr": 0.018461538461538463,
+      "position": 11.307692307692308
+    },
+    {
+      "query": "chamberlain garage door blinks 10 times",
+      "clicks": 6,
+      "impressions": 158,
+      "ctr": 0.0379746835443038,
+      "position": 2.556962025316456
+    },
+    {
+      "query": "chamberlain garage door opener not working after power outage",
+      "clicks": 6,
+      "impressions": 103,
+      "ctr": 0.05825242718446602,
+      "position": 2.1359223300970873
+    },
+    {
+      "query": "chamberlain garage door opener troubleshooting blinking light",
+      "clicks": 6,
+      "impressions": 233,
+      "ctr": 0.02575107296137339,
+      "position": 9.819742489270386
+    },
+    {
+      "query": "direct drive garage door opener",
+      "clicks": 6,
+      "impressions": 140,
+      "ctr": 0.04285714285714286,
+      "position": 5.328571428571428
+    },
+    {
+      "query": "garage door",
+      "clicks": 6,
+      "impressions": 1828,
+      "ctr": 0.0032822757111597373,
+      "position": 15.146061269146609
+    },
+    {
+      "query": "garage door doggie door",
+      "clicks": 6,
+      "impressions": 234,
+      "ctr": 0.02564102564102564,
+      "position": 2.376068376068376
+    },
+    {
+      "query": "garage door flashes 10 times",
+      "clicks": 6,
+      "impressions": 143,
+      "ctr": 0.04195804195804196,
+      "position": 2.265734265734266
+    },
+    {
+      "query": "garage door light blinking",
+      "clicks": 6,
+      "impressions": 1246,
+      "ctr": 0.004815409309791332,
+      "position": 8.480738362760835
+    },
+    {
+      "query": "garage door opener installation",
+      "clicks": 6,
+      "impressions": 581,
+      "ctr": 0.010327022375215147,
+      "position": 16.259896729776248
+    },
+    {
+      "query": "garage door reset",
+      "clicks": 6,
+      "impressions": 384,
+      "ctr": 0.015625,
+      "position": 7.229166666666667
+    },
+    {
+      "query": "garage light blinks 10 times",
+      "clicks": 6,
+      "impressions": 87,
+      "ctr": 0.06896551724137931,
+      "position": 1.8160919540229885
+    },
+    {
+      "query": "garage not working after power outage",
+      "clicks": 6,
+      "impressions": 58,
+      "ctr": 0.10344827586206896,
+      "position": 1.7241379310344827
+    },
+    {
+      "query": "how to convert manual garage door to automatic",
+      "clicks": 6,
+      "impressions": 103,
+      "ctr": 0.05825242718446602,
+      "position": 3.2233009708737863
+    },
+    {
+      "query": "jack shaft opener",
+      "clicks": 6,
+      "impressions": 56,
+      "ctr": 0.10714285714285714,
+      "position": 2.071428571428571
+    },
+    {
+      "query": "liftmaster flashes 10 times",
+      "clicks": 6,
+      "impressions": 121,
+      "ctr": 0.049586776859504134,
+      "position": 1.6198347107438016
+    },
+    {
+      "query": "liftmaster garage door opener blinking light",
+      "clicks": 6,
+      "impressions": 326,
+      "ctr": 0.018404907975460124,
+      "position": 4.95398773006135
+    },
+    {
+      "query": "locked out of garage from outside",
+      "clicks": 6,
+      "impressions": 415,
+      "ctr": 0.014457831325301205,
+      "position": 6.313253012048193
+    },
+    {
+      "query": "pedestrian garage door",
+      "clicks": 6,
+      "impressions": 224,
+      "ctr": 0.026785714285714284,
+      "position": 19.571428571428573
+    },
+    {
+      "query": "best screw drive garage door opener",
+      "clicks": 5,
+      "impressions": 153,
+      "ctr": 0.032679738562091505,
+      "position": 20.359477124183005
+    },
+    {
+      "query": "cat door for garage door",
+      "clicks": 5,
+      "impressions": 681,
+      "ctr": 0.007342143906020558,
+      "position": 12.06754772393539
+    },
+    {
+      "query": "chamberlain garage door opener blinks 10 times",
+      "clicks": 5,
+      "impressions": 151,
+      "ctr": 0.033112582781456956,
+      "position": 2.178807947019868
+    },
+    {
+      "query": "different types of garage door springs",
+      "clicks": 5,
+      "impressions": 661,
+      "ctr": 0.007564296520423601,
+      "position": 6.376701966717095
+    },
+    {
+      "query": "doggie door for garage door",
+      "clicks": 5,
+      "impressions": 121,
+      "ctr": 0.04132231404958678,
+      "position": 2.677685950413223
+    },
+    {
+      "query": "garage dog door",
+      "clicks": 5,
+      "impressions": 421,
+      "ctr": 0.011876484560570071,
+      "position": 3.2969121140142517
+    },
+    {
+      "query": "garage door 10 blinks",
+      "clicks": 5,
+      "impressions": 103,
+      "ctr": 0.04854368932038835,
+      "position": 2.0970873786407767
+    },
+    {
+      "query": "garage door installation",
+      "clicks": 5,
+      "impressions": 3708,
+      "ctr": 0.001348435814455232,
+      "position": 22.31984897518878
+    },
+    {
+      "query": "garage door light blinking continuously",
+      "clicks": 5,
+      "impressions": 784,
+      "ctr": 0.006377551020408163,
+      "position": 9.55484693877551
+    },
+    {
+      "query": "garage door not closing light blinking",
+      "clicks": 5,
+      "impressions": 512,
+      "ctr": 0.009765625,
+      "position": 5.78125
+    },
+    {
+      "query": "garage door opener light flashing",
+      "clicks": 5,
+      "impressions": 562,
+      "ctr": 0.008896797153024912,
+      "position": 6.393238434163701
+    },
+    {
+      "query": "garage door opener stopped working after power outage",
+      "clicks": 5,
+      "impressions": 36,
+      "ctr": 0.1388888888888889,
+      "position": 1.8888888888888888
+    },
+    {
+      "query": "garage door pet door",
+      "clicks": 5,
+      "impressions": 199,
+      "ctr": 0.02512562814070352,
+      "position": 2.532663316582915
+    },
+    {
+      "query": "garage door power outage",
+      "clicks": 5,
+      "impressions": 287,
+      "ctr": 0.017421602787456445,
+      "position": 8.61672473867596
+    },
+    {
+      "query": "garage door tune up",
+      "clicks": 5,
+      "impressions": 3540,
+      "ctr": 0.0014124293785310734,
+      "position": 15.646892655367232
+    },
+    {
+      "query": "garage door won't close because of sun",
+      "clicks": 5,
+      "impressions": 64,
+      "ctr": 0.078125,
+      "position": 2.234375
+    },
+    {
+      "query": "garage spring types",
+      "clicks": 5,
+      "impressions": 182,
+      "ctr": 0.027472527472527472,
+      "position": 4.362637362637363
+    },
+    {
+      "query": "gliderol garage doors manual",
+      "clicks": 5,
+      "impressions": 19,
+      "ctr": 0.2631578947368421,
+      "position": 2.3157894736842106
+    },
+    {
+      "query": "how to fix garage door after power outage",
+      "clicks": 5,
+      "impressions": 61,
+      "ctr": 0.08196721311475409,
+      "position": 2.19672131147541
+    },
+    {
+      "query": "how to get into garage when locked out",
+      "clicks": 5,
+      "impressions": 177,
+      "ctr": 0.02824858757062147,
+      "position": 6.728813559322034
+    },
+    {
+      "query": "how to make manual garage door automatic",
+      "clicks": 5,
+      "impressions": 81,
+      "ctr": 0.06172839506172839,
+      "position": 3.259259259259259
+    },
+    {
+      "query": "how to reset your garage door",
+      "clicks": 5,
+      "impressions": 158,
+      "ctr": 0.03164556962025317,
+      "position": 6.405063291139241
+    },
+    {
+      "query": "liftmaster error codes 10 flashes",
+      "clicks": 5,
+      "impressions": 241,
+      "ctr": 0.02074688796680498,
+      "position": 2.3568464730290457
+    },
+    {
+      "query": "liftmaster garage door opener troubleshooting",
+      "clicks": 5,
+      "impressions": 540,
+      "ctr": 0.009259259259259259,
+      "position": 23.066666666666666
+    },
+    {
+      "query": "liftmaster light blinking 10 times",
+      "clicks": 5,
+      "impressions": 191,
+      "ctr": 0.02617801047120419,
+      "position": 1.6858638743455496
+    },
+    {
+      "query": "pet door in garage door",
+      "clicks": 5,
+      "impressions": 62,
+      "ctr": 0.08064516129032258,
+      "position": 3.064516129032258
+    },
+    {
+      "query": "type of garage door springs",
+      "clicks": 5,
+      "impressions": 152,
+      "ctr": 0.03289473684210526,
+      "position": 4.743421052631579
+    },
+    {
+      "query": "what is the best lubricant for garage door tracks",
+      "clicks": 5,
+      "impressions": 322,
+      "ctr": 0.015527950310559006,
+      "position": 9.493788819875776
+    },
+    {
+      "query": "what is the best type of garage door opener",
+      "clicks": 5,
+      "impressions": 138,
+      "ctr": 0.036231884057971016,
+      "position": 5.463768115942029
+    },
+    {
+      "query": "best direct drive garage door opener",
+      "clicks": 4,
+      "impressions": 64,
+      "ctr": 0.0625,
+      "position": 11.390625
+    },
+    {
+      "query": "best type garage door opener",
+      "clicks": 4,
+      "impressions": 60,
+      "ctr": 0.06666666666666667,
+      "position": 3.7
+    },
+    {
+      "query": "can you put a dog door in a garage door",
+      "clicks": 4,
+      "impressions": 96,
+      "ctr": 0.041666666666666664,
+      "position": 1.5416666666666665
+    },
+    {
+      "query": "carport garage doors",
+      "clicks": 4,
+      "impressions": 34,
+      "ctr": 0.11764705882352941,
+      "position": 15.235294117647058
+    },
+    {
+      "query": "chamberlain 10 flashes",
+      "clicks": 4,
+      "impressions": 166,
+      "ctr": 0.024096385542168676,
+      "position": 2.7710843373493974
+    },
+    {
+      "query": "chamberlain garage door opener 10 flashes",
+      "clicks": 4,
+      "impressions": 139,
+      "ctr": 0.02877697841726619,
+      "position": 1.985611510791367
+    },
+    {
+      "query": "chamberlain garage door opener flashes 10 times",
+      "clicks": 4,
+      "impressions": 97,
+      "ctr": 0.041237113402061855,
+      "position": 2.3608247422680413
+    },
+    {
+      "query": "doggy door for garage door",
+      "clicks": 4,
+      "impressions": 147,
+      "ctr": 0.027210884353741496,
+      "position": 2.292517006802721
+    },
+    {
+      "query": "garage doctor",
+      "clicks": 4,
+      "impressions": 118,
+      "ctr": 0.03389830508474576,
+      "position": 29.228813559322035
+    },
+    {
+      "query": "garage door light flashing won't close",
+      "clicks": 4,
+      "impressions": 94,
+      "ctr": 0.0425531914893617,
+      "position": 5.117021276595745
+    },
+    {
+      "query": "garage door locked out",
+      "clicks": 4,
+      "impressions": 181,
+      "ctr": 0.022099447513812154,
+      "position": 5.718232044198895
+    },
+    {
+      "query": "garage door opener blinking",
+      "clicks": 4,
+      "impressions": 394,
+      "ctr": 0.01015228426395939,
+      "position": 7.644670050761421
+    },
+    {
+      "query": "garage door openers",
+      "clicks": 4,
+      "impressions": 376,
+      "ctr": 0.010638297872340425,
+      "position": 34.66489361702128
+    },
+    {
+      "query": "garage door out of alignment",
+      "clicks": 4,
+      "impressions": 234,
+      "ctr": 0.017094017094017096,
+      "position": 4.837606837606838
+    },
+    {
+      "query": "garage door repair arlington tx",
+      "clicks": 4,
+      "impressions": 751,
+      "ctr": 0.005326231691078562,
+      "position": 9.089214380825567
+    },
+    {
+      "query": "garage door repair palm desert",
+      "clicks": 4,
+      "impressions": 984,
+      "ctr": 0.0040650406504065045,
+      "position": 7.489837398373984
+    },
+    {
+      "query": "garage door rubber seal",
+      "clicks": 4,
+      "impressions": 96,
+      "ctr": 0.041666666666666664,
+      "position": 5.229166666666667
+    },
+    {
+      "query": "garage door seal bottom",
+      "clicks": 4,
+      "impressions": 220,
+      "ctr": 0.01818181818181818,
+      "position": 3.109090909090909
+    },
+    {
+      "query": "garage door spring systems",
+      "clicks": 4,
+      "impressions": 74,
+      "ctr": 0.05405405405405406,
+      "position": 8.527027027027028
+    },
+    {
+      "query": "garage door springs",
+      "clicks": 4,
+      "impressions": 12388,
+      "ctr": 0.00032289312237649337,
+      "position": 44.20108169195996
+    },
+    {
+      "query": "garage door stopped working after power outage",
+      "clicks": 4,
+      "impressions": 54,
+      "ctr": 0.07407407407407407,
+      "position": 1.7592592592592593
+    },
+    {
+      "query": "garage door sunlight interference",
+      "clicks": 4,
+      "impressions": 52,
+      "ctr": 0.07692307692307693,
+      "position": 1.7884615384615383
+    },
+    {
+      "query": "garage door with dog door",
+      "clicks": 4,
+      "impressions": 260,
+      "ctr": 0.015384615384615385,
+      "position": 1.7576923076923077
+    },
+    {
+      "query": "garage doors",
+      "clicks": 4,
+      "impressions": 565,
+      "ctr": 0.007079646017699115,
+      "position": 19.102654867256636
+    },
+    {
+      "query": "garage doors with windows",
+      "clicks": 4,
+      "impressions": 2516,
+      "ctr": 0.001589825119236884,
+      "position": 33.78219395866455
+    },
+    {
+      "query": "garage repair san diego",
+      "clicks": 4,
+      "impressions": 383,
+      "ctr": 0.010443864229765013,
+      "position": 4.579634464751958
+    },
+    {
+      "query": "garagentor öffnet nach stromausfall nicht mehr",
+      "clicks": 4,
+      "impressions": 6,
+      "ctr": 0.6666666666666666,
+      "position": 2
+    },
+    {
+      "query": "gliderol garage doors",
+      "clicks": 4,
+      "impressions": 36,
+      "ctr": 0.1111111111111111,
+      "position": 2.9444444444444446
+    },
+    {
+      "query": "how do wall mount garage door openers work",
+      "clicks": 4,
+      "impressions": 74,
+      "ctr": 0.05405405405405406,
+      "position": 2.918918918918919
+    },
+    {
+      "query": "how to clean garage door tracks",
+      "clicks": 4,
+      "impressions": 303,
+      "ctr": 0.013201320132013201,
+      "position": 10.871287128712872
+    },
+    {
+      "query": "how to engage garage door after power outage",
+      "clicks": 4,
+      "impressions": 144,
+      "ctr": 0.027777777777777776,
+      "position": 3.7569444444444446
+    },
+    {
+      "query": "how to lubricate garage door tracks",
+      "clicks": 4,
+      "impressions": 182,
+      "ctr": 0.02197802197802198,
+      "position": 7.071428571428571
+    },
+    {
+      "query": "how to make a manual garage door automatic",
+      "clicks": 4,
+      "impressions": 60,
+      "ctr": 0.06666666666666667,
+      "position": 2
+    },
+    {
+      "query": "how to reset craftsman garage door opener after power outage",
+      "clicks": 4,
+      "impressions": 42,
+      "ctr": 0.09523809523809523,
+      "position": 2.4523809523809526
+    },
+    {
+      "query": "how to reset electric garage door after power outage",
+      "clicks": 4,
+      "impressions": 11,
+      "ctr": 0.36363636363636365,
+      "position": 2.3636363636363633
+    },
+    {
+      "query": "how to tell if garage door spring is bad",
+      "clicks": 4,
+      "impressions": 62,
+      "ctr": 0.06451612903225806,
+      "position": 3.3225806451612905
+    },
+    {
+      "query": "liftmaster blinking light",
+      "clicks": 4,
+      "impressions": 186,
+      "ctr": 0.021505376344086023,
+      "position": 3.3010752688172045
+    },
+    {
+      "query": "liftmaster garage door blinking 10 times",
+      "clicks": 4,
+      "impressions": 68,
+      "ctr": 0.058823529411764705,
+      "position": 1.9117647058823528
+    },
+    {
+      "query": "liftmaster garage door not working after power outage",
+      "clicks": 4,
+      "impressions": 55,
+      "ctr": 0.07272727272727272,
+      "position": 4.272727272727273
+    },
+    {
+      "query": "liftmaster garage door opener 10 flashes",
+      "clicks": 4,
+      "impressions": 65,
+      "ctr": 0.06153846153846154,
+      "position": 2.7846153846153845
+    },
+    {
+      "query": "liftmaster light flashes 10 times",
+      "clicks": 4,
+      "impressions": 84,
+      "ctr": 0.047619047619047616,
+      "position": 1.7619047619047619
+    },
+    {
+      "query": "locked out of my garage",
+      "clicks": 4,
+      "impressions": 63,
+      "ctr": 0.06349206349206349,
+      "position": 3.6825396825396823
+    },
+    {
+      "query": "make garage door automatic",
+      "clicks": 4,
+      "impressions": 94,
+      "ctr": 0.0425531914893617,
+      "position": 4.74468085106383
+    },
+    {
+      "query": "merlin garage door",
+      "clicks": 4,
+      "impressions": 53,
+      "ctr": 0.07547169811320754,
+      "position": 2.169811320754717
+    },
+    {
+      "query": "pedestrian door garage",
+      "clicks": 4,
+      "impressions": 92,
+      "ctr": 0.043478260869565216,
+      "position": 12.043478260869565
+    },
+    {
+      "query": "reset garage door opener after power outage",
+      "clicks": 4,
+      "impressions": 41,
+      "ctr": 0.0975609756097561,
+      "position": 1.9024390243902438
+    },
+    {
+      "query": "auto reverse garage door",
+      "clicks": 3,
+      "impressions": 78,
+      "ctr": 0.038461538461538464,
+      "position": 2.1923076923076925
+    },
+    {
+      "query": "best garage door repair san diego",
+      "clicks": 3,
+      "impressions": 107,
+      "ctr": 0.028037383177570093,
+      "position": 3.9065420560747666
+    },
+    {
+      "query": "best insulation for garage door",
+      "clicks": 3,
+      "impressions": 176,
+      "ctr": 0.017045454545454544,
+      "position": 16.397727272727273
+    },
+    {
+      "query": "best material to insulate garage door",
+      "clicks": 3,
+      "impressions": 33,
+      "ctr": 0.09090909090909091,
+      "position": 8.454545454545453
+    },
+    {
+      "query": "broken garage door spring",
+      "clicks": 3,
+      "impressions": 7193,
+      "ctr": 0.0004170721534825525,
+      "position": 45.12595579035173
+    },
+    {
+      "query": "can sunlight affect garage door sensors",
+      "clicks": 3,
+      "impressions": 147,
+      "ctr": 0.02040816326530612,
+      "position": 1.9795918367346939
+    },
+    {
+      "query": "can you convert a manual garage door to electric",
+      "clicks": 3,
+      "impressions": 332,
+      "ctr": 0.009036144578313253,
+      "position": 7.382530120481928
+    },
+    {
+      "query": "carport door",
+      "clicks": 3,
+      "impressions": 565,
+      "ctr": 0.005309734513274336,
+      "position": 46.20530973451327
+    },
+    {
+      "query": "carports with garage doors",
+      "clicks": 3,
+      "impressions": 34,
+      "ctr": 0.08823529411764706,
+      "position": 35.088235294117645
+    },
+    {
+      "query": "chamberlain blinks 10 times",
+      "clicks": 3,
+      "impressions": 49,
+      "ctr": 0.061224489795918366,
+      "position": 1.836734693877551
+    },
+    {
+      "query": "chamberlain garage door opener blinking 10 times",
+      "clicks": 3,
+      "impressions": 76,
+      "ctr": 0.039473684210526314,
+      "position": 2.276315789473684
+    },
+    {
+      "query": "chamberlain garage door openers manual",
+      "clicks": 3,
+      "impressions": 5,
+      "ctr": 0.6,
+      "position": 2.2
+    },
+    {
+      "query": "cleaning garage door tracks",
+      "clicks": 3,
+      "impressions": 269,
+      "ctr": 0.011152416356877323,
+      "position": 8.914498141263941
+    },
+    {
+      "query": "converting manual garage doors to automatic",
+      "clicks": 3,
+      "impressions": 23,
+      "ctr": 0.13043478260869565,
+      "position": 1.8695652173913042
+    },
+    {
+      "query": "craftsman garage door opener 10 flashes",
+      "clicks": 3,
+      "impressions": 105,
+      "ctr": 0.02857142857142857,
+      "position": 1.8095238095238095
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:22:20.728Z"
 }

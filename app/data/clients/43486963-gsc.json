@@ -1,156 +1,16 @@
 {
   "property": "sc-domain:maverickelectricalservices.com",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 4038,
-    "impressions": 5473644,
-    "ctr": 0.0007377169578438057,
-    "position": 10.275202293360875
+    "clicks": 3806,
+    "impressions": 5426712,
+    "ctr": 0.0007013454924455177,
+    "position": 9.202727424864339
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 21,
-      "impressions": 8098,
-      "ctr": 0.002593232897011608,
-      "position": 16.73005680414917
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 20,
-      "impressions": 7428,
-      "ctr": 0.0026925148088314485,
-      "position": 13.170301561658588
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 37,
-      "impressions": 7631,
-      "ctr": 0.004848643690210982,
-      "position": 11.998427466911282
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 23,
-      "impressions": 8189,
-      "ctr": 0.002808645744291122,
-      "position": 12.593479057271951
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 33,
-      "impressions": 8463,
-      "ctr": 0.0038993264799716413,
-      "position": 13.229823939501358
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 19,
-      "impressions": 18543,
-      "ctr": 0.001024645418756404,
-      "position": 18.29617645472685
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 23,
-      "impressions": 11025,
-      "ctr": 0.0020861678004535146,
-      "position": 10.215328798185942
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 30,
-      "impressions": 9011,
-      "ctr": 0.003329264232604594,
-      "position": 14.616912662301631
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 22,
-      "impressions": 7770,
-      "ctr": 0.0028314028314028314,
-      "position": 14.194208494208494
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 15,
-      "impressions": 7188,
-      "ctr": 0.002086811352253756,
-      "position": 16.968976071229825
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 13,
-      "impressions": 6964,
-      "ctr": 0.0018667432510051695,
-      "position": 16.356691556576678
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 28,
-      "impressions": 7870,
-      "ctr": 0.0035578144853875477,
-      "position": 14.470902160101652
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 23,
-      "impressions": 7654,
-      "ctr": 0.003004964724327149,
-      "position": 11.681865691141887
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 31,
-      "impressions": 9056,
-      "ctr": 0.0034231448763250884,
-      "position": 12.520428445229681
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 31,
-      "impressions": 10134,
-      "ctr": 0.0030590092757055458,
-      "position": 14.319913163607657
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 30,
-      "impressions": 8685,
-      "ctr": 0.0034542314335060447,
-      "position": 12.398733448474381
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 23,
-      "impressions": 8488,
-      "ctr": 0.002709707822808671,
-      "position": 13.988689915174364
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 30,
-      "impressions": 10009,
-      "ctr": 0.0029973024278149665,
-      "position": 13.535218303526825
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 24,
-      "impressions": 8059,
-      "ctr": 0.002978036977292468,
-      "position": 11.439136369276586
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 19,
-      "impressions": 6947,
-      "ctr": 0.0027349935223837628,
-      "position": 12.769684756009788
-    },
     {
       "date": "2026-01-04",
       "clicks": 21,
@@ -640,253 +500,421 @@
       "impressions": 25134,
       "ctr": 0.0016312564653457467,
       "position": 8.046033261717195
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 36,
+      "impressions": 28118,
+      "ctr": 0.0012803186570879864,
+      "position": 6.58485667543922
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 44,
+      "impressions": 33753,
+      "ctr": 0.0013035878292299943,
+      "position": 7.735845702604213
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 33,
+      "impressions": 15744,
+      "ctr": 0.002096036585365854,
+      "position": 6.419016768292683
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 22,
+      "impressions": 7010,
+      "ctr": 0.003138373751783167,
+      "position": 7.175463623395149
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 23,
+      "impressions": 10085,
+      "ctr": 0.002280614774417452,
+      "position": 8.978383738225087
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 9,
+      "impressions": 7480,
+      "ctr": 0.0012032085561497327,
+      "position": 7.163502673796791
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 11,
+      "impressions": 3576,
+      "ctr": 0.003076062639821029,
+      "position": 10.208892617449665
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 7,
+      "impressions": 2839,
+      "ctr": 0.0024656569214512153,
+      "position": 8.132441000352237
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 19,
+      "impressions": 3668,
+      "ctr": 0.005179934569247546,
+      "position": 11.616957470010906
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 15,
+      "impressions": 4002,
+      "ctr": 0.0037481259370314842,
+      "position": 7.703898050974512
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 11,
+      "impressions": 3138,
+      "ctr": 0.003505417463352454,
+      "position": 8.791586998087954
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 7,
+      "impressions": 2352,
+      "ctr": 0.002976190476190476,
+      "position": 9.985544217687075
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 11,
+      "impressions": 1702,
+      "ctr": 0.006462984723854289,
+      "position": 11.686251468860165
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 2,
+      "impressions": 1132,
+      "ctr": 0.0017667844522968198,
+      "position": 13.717314487632509
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 3,
+      "impressions": 799,
+      "ctr": 0.0037546933667083854,
+      "position": 9.526908635794744
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 4,
+      "impressions": 1996,
+      "ctr": 0.002004008016032064,
+      "position": 7.69689378757515
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 3,
+      "impressions": 741,
+      "ctr": 0.004048582995951417,
+      "position": 8.02834008097166
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 0,
+      "impressions": 848,
+      "ctr": 0,
+      "position": 8.966981132075471
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 1,
+      "impressions": 407,
+      "ctr": 0.002457002457002457,
+      "position": 9.25061425061425
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 1,
+      "impressions": 459,
+      "ctr": 0.002178649237472767,
+      "position": 9.81917211328976
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 1,
+      "impressions": 431,
+      "ctr": 0.002320185614849188,
+      "position": 8.986078886310905
     }
   ],
   "topQueries": [
     {
       "query": "maverick heating and air",
-      "clicks": 99,
-      "impressions": 526,
-      "ctr": 0.188212927756654,
-      "position": 2.498098859315589
-    },
-    {
-      "query": "lights flickering in house",
-      "clicks": 83,
-      "impressions": 13726,
-      "ctr": 0.0060469182573218705,
-      "position": 4.361430861139443
-    },
-    {
-      "query": "maverick electric",
-      "clicks": 81,
-      "impressions": 938,
-      "ctr": 0.08635394456289978,
-      "position": 5.651385927505331
+      "clicks": 88,
+      "impressions": 559,
+      "ctr": 0.15742397137745975,
+      "position": 3.558139534883721
     },
     {
       "query": "maverick electric heating and air",
-      "clicks": 79,
-      "impressions": 380,
-      "ctr": 0.20789473684210527,
-      "position": 1.6894736842105265
+      "clicks": 80,
+      "impressions": 407,
+      "ctr": 0.19656019656019655,
+      "position": 1.7395577395577395
+    },
+    {
+      "query": "maverick electric",
+      "clicks": 75,
+      "impressions": 870,
+      "ctr": 0.08620689655172414,
+      "position": 4.749425287356322
+    },
+    {
+      "query": "lights flickering in house",
+      "clicks": 74,
+      "impressions": 11411,
+      "ctr": 0.006484970642362632,
+      "position": 3.803172377530453
     },
     {
       "query": "maverick electrical services",
-      "clicks": 57,
-      "impressions": 288,
-      "ctr": 0.19791666666666666,
-      "position": 2.6215277777777777
+      "clicks": 50,
+      "impressions": 291,
+      "ctr": 0.1718213058419244,
+      "position": 3.9347079037800685
+    },
+    {
+      "query": "maverick electric, heating and air",
+      "clicks": 36,
+      "impressions": 653,
+      "ctr": 0.055130168453292494,
+      "position": 1.4272588055130169
     },
     {
       "query": "maverick electric plumbing heating and air",
       "clicks": 29,
-      "impressions": 123,
-      "ctr": 0.23577235772357724,
-      "position": 3.292682926829268
-    },
-    {
-      "query": "maverick electric, heating and air",
-      "clicks": 27,
-      "impressions": 491,
-      "ctr": 0.054989816700611,
-      "position": 1.2566191446028514
+      "impressions": 136,
+      "ctr": 0.21323529411764705,
+      "position": 5.6838235294117645
     },
     {
       "query": "multiple lights flickering in house",
-      "clicks": 27,
-      "impressions": 4011,
-      "ctr": 0.006731488406881077,
-      "position": 5.1742707554225875
-    },
-    {
-      "query": "maverick electric, plumbing, heating and air",
-      "clicks": 25,
-      "impressions": 137,
-      "ctr": 0.18248175182481752,
-      "position": 2.021897810218978
-    },
-    {
-      "query": "flickering lights in house",
-      "clicks": 24,
-      "impressions": 4768,
-      "ctr": 0.0050335570469798654,
-      "position": 4.028313758389261
+      "clicks": 29,
+      "impressions": 3127,
+      "ctr": 0.00927406459865686,
+      "position": 5.244643428205948
     },
     {
       "query": "what size generator to run a house",
       "clicks": 21,
-      "impressions": 5628,
-      "ctr": 0.0037313432835820895,
-      "position": 2.2199715707178393
+      "impressions": 5729,
+      "ctr": 0.003665561179961599,
+      "position": 1.939256414732065
     },
     {
-      "query": "maverick hvac",
+      "query": "flickering lights in house",
       "clicks": 18,
-      "impressions": 179,
-      "ctr": 0.1005586592178771,
-      "position": 6.905027932960894
-    },
-    {
-      "query": "maverick electrical",
-      "clicks": 17,
-      "impressions": 256,
-      "ctr": 0.06640625,
-      "position": 6.77734375
+      "impressions": 3675,
+      "ctr": 0.004897959183673469,
+      "position": 3.8424489795918366
     },
     {
       "query": "how many watt generator to run a house",
-      "clicks": 16,
-      "impressions": 4676,
-      "ctr": 0.003421727972626176,
-      "position": 7.156757912745936
+      "clicks": 17,
+      "impressions": 4757,
+      "ctr": 0.0035736808913180576,
+      "position": 6.999789783476981
+    },
+    {
+      "query": "maverick hvac",
+      "clicks": 17,
+      "impressions": 172,
+      "ctr": 0.09883720930232558,
+      "position": 7.087209302325581
     },
     {
       "query": "whole house generator",
       "clicks": 16,
-      "impressions": 4417,
-      "ctr": 0.003622368123160516,
-      "position": 1.0233189947928458
+      "impressions": 4416,
+      "ctr": 0.0036231884057971015,
+      "position": 1.0203804347826086
+    },
+    {
+      "query": "maverick electric, plumbing, heating and air",
+      "clicks": 14,
+      "impressions": 47,
+      "ctr": 0.2978723404255319,
+      "position": 3.765957446808511
     },
     {
       "query": "generator",
       "clicks": 13,
-      "impressions": 6919,
-      "ctr": 0.0018788842318254082,
-      "position": 1.7756901286313052
+      "impressions": 6839,
+      "ctr": 0.0019008626992250328,
+      "position": 1.7572744553297266
+    },
+    {
+      "query": "maverick electrical",
+      "clicks": 13,
+      "impressions": 243,
+      "ctr": 0.053497942386831275,
+      "position": 6.341563786008231
     },
     {
       "query": "what size generator will run a house",
       "clicks": 13,
-      "impressions": 1227,
-      "ctr": 0.010594947025264874,
-      "position": 2.60880195599022
-    },
-    {
-      "query": "why are my lights flickering in my house",
-      "clicks": 13,
-      "impressions": 2592,
-      "ctr": 0.005015432098765432,
-      "position": 2.590663580246914
+      "impressions": 1226,
+      "ctr": 0.010603588907014683,
+      "position": 2.4779771615008155
     },
     {
       "query": "light flickering in house",
-      "clicks": 11,
-      "impressions": 1280,
-      "ctr": 0.00859375,
-      "position": 4.30390625
+      "clicks": 12,
+      "impressions": 1072,
+      "ctr": 0.011194029850746268,
+      "position": 3.900186567164179
+    },
+    {
+      "query": "why are my lights flickering in my house",
+      "clicks": 12,
+      "impressions": 2072,
+      "ctr": 0.005791505791505791,
+      "position": 2.5526061776061777
     },
     {
       "query": "flickering lights",
-      "clicks": 10,
-      "impressions": 4679,
-      "ctr": 0.0021372088053002777,
-      "position": 6.216712972857448
-    },
-    {
-      "query": "what causes lights to flicker in a house",
-      "clicks": 10,
-      "impressions": 1166,
-      "ctr": 0.008576329331046312,
-      "position": 2.3627787307032593
+      "clicks": 11,
+      "impressions": 4934,
+      "ctr": 0.0022294284556141062,
+      "position": 5.925618159708147
     },
     {
       "query": "what size generator do i need",
-      "clicks": 10,
-      "impressions": 4409,
-      "ctr": 0.0022680880018144706,
-      "position": 5.437967793150374
+      "clicks": 11,
+      "impressions": 4931,
+      "ctr": 0.0022307848306631515,
+      "position": 4.2693165686473336
     },
     {
       "query": "8000 watt generator will run what",
       "clicks": 9,
-      "impressions": 337,
-      "ctr": 0.026706231454005934,
-      "position": 6.605341246290801
+      "impressions": 308,
+      "ctr": 0.02922077922077922,
+      "position": 6.616883116883117
     },
     {
       "query": "electrician near me",
+      "clicks": 9,
+      "impressions": 1644,
+      "ctr": 0.005474452554744526,
+      "position": 12.737834549878345
+    },
+    {
+      "query": "what causes lights to flicker in a house",
+      "clicks": 9,
+      "impressions": 901,
+      "ctr": 0.009988901220865706,
+      "position": 2.1731409544950058
+    },
+    {
+      "query": "house lights flickering",
       "clicks": 8,
-      "impressions": 1962,
-      "ctr": 0.004077471967380225,
-      "position": 13.32059123343527
+      "impressions": 1084,
+      "ctr": 0.007380073800738007,
+      "position": 3.9022140221402215
     },
     {
       "query": "how to replace light switch",
       "clicks": 8,
-      "impressions": 1063,
-      "ctr": 0.007525870178739417,
-      "position": 9.116650987770461
-    },
-    {
-      "query": "what causes flickering lights",
-      "clicks": 8,
-      "impressions": 645,
-      "ctr": 0.012403100775193798,
-      "position": 3.0790697674418603
+      "impressions": 1257,
+      "ctr": 0.006364359586316627,
+      "position": 8.66030230708035
     },
     {
       "query": "what will a 10000 watt generator run",
       "clicks": 8,
-      "impressions": 535,
-      "ctr": 0.014953271028037384,
-      "position": 1.6056074766355142
-    },
-    {
-      "query": "house lights flickering",
-      "clicks": 7,
-      "impressions": 1258,
-      "ctr": 0.005564387917329093,
-      "position": 4.332273449920509
+      "impressions": 517,
+      "ctr": 0.015473887814313346,
+      "position": 1.5473887814313345
     },
     {
       "query": "what causes flickering lights in a house",
       "clicks": 7,
-      "impressions": 313,
-      "ctr": 0.022364217252396165,
-      "position": 3.246006389776358
+      "impressions": 261,
+      "ctr": 0.02681992337164751,
+      "position": 3.6206896551724137
     },
     {
       "query": "why are the lights in my house flickering all of a sudden",
       "clicks": 7,
-      "impressions": 296,
-      "ctr": 0.02364864864864865,
-      "position": 2.4695945945945947
+      "impressions": 352,
+      "ctr": 0.019886363636363636,
+      "position": 2.3579545454545454
     },
     {
       "query": "8000 watt generator",
       "clicks": 6,
-      "impressions": 1729,
-      "ctr": 0.003470213996529786,
-      "position": 1.1879699248120301
+      "impressions": 1655,
+      "ctr": 0.0036253776435045317,
+      "position": 1.1963746223564955
     },
     {
       "query": "generators",
       "clicks": 6,
-      "impressions": 916,
-      "ctr": 0.006550218340611353,
-      "position": 2.212882096069869
+      "impressions": 815,
+      "ctr": 0.007361963190184049,
+      "position": 2.1533742331288344
     },
     {
       "query": "groupe électrogène",
       "clicks": 6,
-      "impressions": 147,
-      "ctr": 0.04081632653061224,
-      "position": 4.4557823129251695
+      "impressions": 148,
+      "ctr": 0.04054054054054054,
+      "position": 4.445945945945946
+    },
+    {
+      "query": "lights flickering throughout house",
+      "clicks": 6,
+      "impressions": 533,
+      "ctr": 0.01125703564727955,
+      "position": 2.8424015009380863
+    },
+    {
+      "query": "what causes flickering lights",
+      "clicks": 6,
+      "impressions": 529,
+      "ctr": 0.011342155009451797,
+      "position": 2.9659735349716447
     },
     {
       "query": "why are my lights flickering",
       "clicks": 6,
-      "impressions": 5440,
-      "ctr": 0.0011029411764705882,
-      "position": 5.445404411764706
+      "impressions": 4516,
+      "ctr": 0.001328609388839681,
+      "position": 4.6718334809565985
     },
     {
       "query": "why do my lights flicker in my house",
       "clicks": 6,
-      "impressions": 1373,
-      "ctr": 0.004369992716678805,
-      "position": 1.928623452294246
+      "impressions": 1117,
+      "ctr": 0.005371530886302597,
+      "position": 1.9203222918531782
+    },
+    {
+      "query": "all lights in house flickering",
+      "clicks": 5,
+      "impressions": 617,
+      "ctr": 0.008103727714748784,
+      "position": 4.448946515397083
+    },
+    {
+      "query": "how big of a generator do i need",
+      "clicks": 5,
+      "impressions": 3391,
+      "ctr": 0.001474491300501327,
+      "position": 3.6216455322913594
     },
     {
       "query": "how much will a 10000 watt generator run",
@@ -898,72 +926,23 @@
     {
       "query": "lights flickering",
       "clicks": 5,
-      "impressions": 2803,
-      "ctr": 0.0017838030681412772,
-      "position": 5.408490902604353
-    },
-    {
-      "query": "lights flickering in one room",
-      "clicks": 5,
-      "impressions": 674,
-      "ctr": 0.00741839762611276,
-      "position": 3.7611275964391693
-    },
-    {
-      "query": "lights flickering throughout house",
-      "clicks": 5,
-      "impressions": 792,
-      "ctr": 0.006313131313131313,
-      "position": 3.4835858585858586
-    },
-    {
-      "query": "lights in house flickering",
-      "clicks": 5,
-      "impressions": 1017,
-      "ctr": 0.004916420845624385,
-      "position": 2.580137659783677
-    },
-    {
-      "query": "maverick heating and cooling",
-      "clicks": 5,
-      "impressions": 242,
-      "ctr": 0.02066115702479339,
-      "position": 9.454545454545455
-    },
-    {
-      "query": "mavericks roseville",
-      "clicks": 5,
-      "impressions": 73,
-      "ctr": 0.0684931506849315,
-      "position": 2
+      "impressions": 2838,
+      "ctr": 0.0017618040873854828,
+      "position": 5.324524312896406
     },
     {
       "query": "what causes lights to flicker",
       "clicks": 5,
-      "impressions": 1735,
-      "ctr": 0.002881844380403458,
-      "position": 3.0835734870317
+      "impressions": 1394,
+      "ctr": 0.003586800573888092,
+      "position": 3.5408895265423244
     },
     {
       "query": "why do lights flicker in my house",
       "clicks": 5,
-      "impressions": 753,
-      "ctr": 0.006640106241699867,
-      "position": 2.136786188579017
-    },
-    {
-      "query": "will a 10000 watt generator run a house",
-      "clicks": 5,
-      "impressions": 438,
-      "ctr": 0.01141552511415525,
-      "position": 3.143835616438356
-    },
-    {
-      "query": "all lights in house flickering",
-      "clicks": 4,
-      "impressions": 768,
-      "ctr": 0.005208333333333333,
-      "position": 4.483072916666666
+      "impressions": 602,
+      "ctr": 0.008305647840531562,
+      "position": 2.079734219269103
     },
     {
       "query": "groupe électrogène 10000w",
@@ -982,369 +961,2853 @@
     {
       "query": "house lights flickering causes",
       "clicks": 4,
-      "impressions": 374,
-      "ctr": 0.0106951871657754,
-      "position": 3.9545454545454546
+      "impressions": 326,
+      "ctr": 0.012269938650306749,
+      "position": 3.8865030674846626
     },
     {
       "query": "how big a generator to run a house",
       "clicks": 4,
-      "impressions": 571,
-      "ctr": 0.0070052539404553416,
-      "position": 2.0735551663747813
+      "impressions": 572,
+      "ctr": 0.006993006993006993,
+      "position": 2.013986013986014
+    },
+    {
+      "query": "how big of a generator to run a house",
+      "clicks": 4,
+      "impressions": 2689,
+      "ctr": 0.0014875418371141688,
+      "position": 1.7467460022313128
+    },
+    {
+      "query": "how many watts generator to power a house",
+      "clicks": 4,
+      "impressions": 1435,
+      "ctr": 0.0027874564459930314,
+      "position": 7.251567944250871
+    },
+    {
+      "query": "how many watts to run a house",
+      "clicks": 4,
+      "impressions": 687,
+      "ctr": 0.005822416302765648,
+      "position": 3.660844250363901
+    },
+    {
+      "query": "how to replace a light switch",
+      "clicks": 4,
+      "impressions": 3087746,
+      "ctr": 0.0000012954433428138195,
+      "position": 8.154602418722266
+    },
+    {
+      "query": "is a 5000 watt generator enough for a house",
+      "clicks": 4,
+      "impressions": 210,
+      "ctr": 0.01904761904761905,
+      "position": 3.2523809523809524
+    },
+    {
+      "query": "lights flashing in house",
+      "clicks": 4,
+      "impressions": 493,
+      "ctr": 0.008113590263691683,
+      "position": 4.880324543610548
+    },
+    {
+      "query": "lights flickering in one room",
+      "clicks": 4,
+      "impressions": 653,
+      "ctr": 0.006125574272588055,
+      "position": 4.07197549770291
+    },
+    {
+      "query": "lights in house flickering",
+      "clicks": 4,
+      "impressions": 859,
+      "ctr": 0.004656577415599534,
+      "position": 2.456344586728754
+    },
+    {
+      "query": "mavericks heating and air",
+      "clicks": 4,
+      "impressions": 78,
+      "ctr": 0.05128205128205128,
+      "position": 12.35897435897436
+    },
+    {
+      "query": "maverik electric",
+      "clicks": 4,
+      "impressions": 36,
+      "ctr": 0.1111111111111111,
+      "position": 6.5
+    },
+    {
+      "query": "mini split repair near me",
+      "clicks": 4,
+      "impressions": 351,
+      "ctr": 0.011396011396011397,
+      "position": 23.188034188034187
+    },
+    {
+      "query": "my lights are flickering",
+      "clicks": 4,
+      "impressions": 497,
+      "ctr": 0.008048289738430584,
+      "position": 4.770623742454728
+    },
+    {
+      "query": "porque parpadean las luces de mi casa",
+      "clicks": 4,
+      "impressions": 76,
+      "ctr": 0.05263157894736842,
+      "position": 2.197368421052632
+    },
+    {
+      "query": "what can a 8000 watt generator run",
+      "clicks": 4,
+      "impressions": 301,
+      "ctr": 0.013289036544850499,
+      "position": 5.9335548172757475
+    },
+    {
+      "query": "what watt generator to run a house",
+      "clicks": 4,
+      "impressions": 1405,
+      "ctr": 0.0028469750889679717,
+      "position": 7.539501779359431
+    },
+    {
+      "query": "whole home generator",
+      "clicks": 4,
+      "impressions": 822,
+      "ctr": 0.004866180048661801,
+      "position": 1.0912408759124088
+    },
+    {
+      "query": "why are the lights in my house flickering",
+      "clicks": 4,
+      "impressions": 845,
+      "ctr": 0.004733727810650888,
+      "position": 2.184615384615385
+    },
+    {
+      "query": "will 8000 watts run a house",
+      "clicks": 4,
+      "impressions": 183,
+      "ctr": 0.02185792349726776,
+      "position": 2.4262295081967213
+    },
+    {
+      "query": "will a 10000 watt generator run a house",
+      "clicks": 4,
+      "impressions": 403,
+      "ctr": 0.009925558312655087,
+      "position": 3.1215880893300247
+    },
+    {
+      "query": "5000 watt generator",
+      "clicks": 3,
+      "impressions": 1857,
+      "ctr": 0.0016155088852988692,
+      "position": 1.070543887991384
+    },
+    {
+      "query": "8000w generator",
+      "clicks": 3,
+      "impressions": 99,
+      "ctr": 0.030303030303030304,
+      "position": 1.6868686868686869
+    },
+    {
+      "query": "ac needs freon",
+      "clicks": 3,
+      "impressions": 124,
+      "ctr": 0.024193548387096774,
+      "position": 4.483870967741936
+    },
+    {
+      "query": "causes of flickering lights",
+      "clicks": 3,
+      "impressions": 140,
+      "ctr": 0.02142857142857143,
+      "position": 3.3285714285714287
+    },
+    {
+      "query": "causes of flickering lights in home",
+      "clicks": 3,
+      "impressions": 131,
+      "ctr": 0.022900763358778626,
+      "position": 4.358778625954198
+    },
+    {
+      "query": "flackerndes licht",
+      "clicks": 3,
+      "impressions": 15,
+      "ctr": 0.2,
+      "position": 2.333333333333333
+    },
+    {
+      "query": "groupe electrogene",
+      "clicks": 3,
+      "impressions": 80,
+      "ctr": 0.0375,
+      "position": 4.55
+    },
+    {
+      "query": "groupe electrogene silencieux",
+      "clicks": 3,
+      "impressions": 37,
+      "ctr": 0.08108108108108109,
+      "position": 3.324324324324324
+    },
+    {
+      "query": "how big of a generator do i need for a 2,000 sq ft house",
+      "clicks": 3,
+      "impressions": 163,
+      "ctr": 0.018404907975460124,
+      "position": 1.3865030674846626
+    },
+    {
+      "query": "how big of a generator do i need for a 2000 sq ft house",
+      "clicks": 3,
+      "impressions": 747,
+      "ctr": 0.004016064257028112,
+      "position": 1.5783132530120483
+    },
+    {
+      "query": "how many watt generator to power a house",
+      "clicks": 3,
+      "impressions": 351,
+      "ctr": 0.008547008547008548,
+      "position": 5.293447293447294
+    },
+    {
+      "query": "how many watts to power a house",
+      "clicks": 3,
+      "impressions": 168,
+      "ctr": 0.017857142857142856,
+      "position": 1.4226190476190477
+    },
+    {
+      "query": "light bulbs flickering in house",
+      "clicks": 3,
+      "impressions": 131,
+      "ctr": 0.022900763358778626,
+      "position": 5.099236641221374
+    },
+    {
+      "query": "light fixture flickering",
+      "clicks": 3,
+      "impressions": 189,
+      "ctr": 0.015873015873015872,
+      "position": 4.116402116402116
+    },
+    {
+      "query": "lights are flickering in my house",
+      "clicks": 3,
+      "impressions": 177,
+      "ctr": 0.01694915254237288,
+      "position": 3.152542372881356
+    },
+    {
+      "query": "lights blinking in house",
+      "clicks": 3,
+      "impressions": 620,
+      "ctr": 0.004838709677419355,
+      "position": 3.2903225806451615
+    },
+    {
+      "query": "lights dimming and flickering",
+      "clicks": 3,
+      "impressions": 96,
+      "ctr": 0.03125,
+      "position": 2.78125
+    },
+    {
+      "query": "lights flicker in house",
+      "clicks": 3,
+      "impressions": 292,
+      "ctr": 0.010273972602739725,
+      "position": 4.784246575342466
+    },
+    {
+      "query": "lights keep flickering in house",
+      "clicks": 3,
+      "impressions": 671,
+      "ctr": 0.004470938897168405,
+      "position": 1.9865871833084947
+    },
+    {
+      "query": "lights pulsing in house",
+      "clicks": 3,
+      "impressions": 257,
+      "ctr": 0.011673151750972763,
+      "position": 2.529182879377432
+    },
+    {
+      "query": "lights started flickering in house",
+      "clicks": 3,
+      "impressions": 93,
+      "ctr": 0.03225806451612903,
+      "position": 2.935483870967742
+    },
+    {
+      "query": "maverick air conditioning",
+      "clicks": 3,
+      "impressions": 136,
+      "ctr": 0.022058823529411766,
+      "position": 6.5
+    },
+    {
+      "query": "maverick electric kalispell",
+      "clicks": 3,
+      "impressions": 27,
+      "ctr": 0.1111111111111111,
+      "position": 5.703703703703703
+    },
+    {
+      "query": "maverick heating and cooling",
+      "clicks": 3,
+      "impressions": 188,
+      "ctr": 0.015957446808510637,
+      "position": 9.803191489361701
+    },
+    {
+      "query": "mavericks roseville",
+      "clicks": 3,
+      "impressions": 69,
+      "ctr": 0.043478260869565216,
+      "position": 2.2753623188405796
+    },
+    {
+      "query": "what can an 8000 watt generator run",
+      "clicks": 3,
+      "impressions": 186,
+      "ctr": 0.016129032258064516,
+      "position": 6.67741935483871
+    },
+    {
+      "query": "what can cause lights to flicker in a house",
+      "clicks": 3,
+      "impressions": 157,
+      "ctr": 0.01910828025477707,
+      "position": 2.980891719745223
+    },
+    {
+      "query": "what will a 10,000 watt generator run in a house",
+      "clicks": 3,
+      "impressions": 167,
+      "ctr": 0.017964071856287425,
+      "position": 5.802395209580839
+    },
+    {
+      "query": "why are lights flickering",
+      "clicks": 3,
+      "impressions": 533,
+      "ctr": 0.005628517823639775,
+      "position": 3.99249530956848
+    },
+    {
+      "query": "why do house lights flicker",
+      "clicks": 3,
+      "impressions": 147,
+      "ctr": 0.02040816326530612,
+      "position": 2.9863945578231292
+    },
+    {
+      "query": "why lights flicker in house",
+      "clicks": 3,
+      "impressions": 462,
+      "ctr": 0.006493506493506494,
+      "position": 2.266233766233766
+    },
+    {
+      "query": "will a 10k generator run a house",
+      "clicks": 3,
+      "impressions": 134,
+      "ctr": 0.022388059701492536,
+      "position": 1.7761194029850746
+    },
+    {
+      "query": "aggregaat 8000 watt",
+      "clicks": 2,
+      "impressions": 10,
+      "ctr": 0.2,
+      "position": 2.5
+    },
+    {
+      "query": "all lights flickering in house",
+      "clicks": 2,
+      "impressions": 1500,
+      "ctr": 0.0013333333333333333,
+      "position": 4.593999999999999
+    },
+    {
+      "query": "avr",
+      "clicks": 2,
+      "impressions": 2,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "blinking lights in house",
+      "clicks": 2,
+      "impressions": 231,
+      "ctr": 0.008658008658008658,
+      "position": 8.96103896103896
+    },
+    {
+      "query": "can 10000 watts power a house",
+      "clicks": 2,
+      "impressions": 46,
+      "ctr": 0.043478260869565216,
+      "position": 2.6739130434782608
+    },
+    {
+      "query": "can a 8000 watt generator run a house",
+      "clicks": 2,
+      "impressions": 154,
+      "ctr": 0.012987012987012988,
+      "position": 4.337662337662337
+    },
+    {
+      "query": "cause of lights flickering in house",
+      "clicks": 2,
+      "impressions": 55,
+      "ctr": 0.03636363636363636,
+      "position": 3.2363636363636363
+    },
+    {
+      "query": "dewalt 8000 watt generator",
+      "clicks": 2,
+      "impressions": 27,
+      "ctr": 0.07407407407407407,
+      "position": 3.111111111111111
+    },
+    {
+      "query": "dual fuel generator",
+      "clicks": 2,
+      "impressions": 25,
+      "ctr": 0.08,
+      "position": 2.6
+    },
+    {
+      "query": "electric generator",
+      "clicks": 2,
+      "impressions": 501,
+      "ctr": 0.003992015968063872,
+      "position": 2.6167664670658684
+    },
+    {
+      "query": "electrical companies near me",
+      "clicks": 2,
+      "impressions": 17,
+      "ctr": 0.11764705882352941,
+      "position": 6.882352941176471
+    },
+    {
+      "query": "electrician",
+      "clicks": 2,
+      "impressions": 1991,
+      "ctr": 0.0010045203415369162,
+      "position": 1.5685585133098945
+    },
+    {
+      "query": "electrician roseville ca",
+      "clicks": 2,
+      "impressions": 257,
+      "ctr": 0.007782101167315175,
+      "position": 6.424124513618677
+    },
+    {
+      "query": "electricians lincoln ca",
+      "clicks": 2,
+      "impressions": 15,
+      "ctr": 0.13333333333333333,
+      "position": 7.6
+    },
+    {
+      "query": "electricity flickering in house",
+      "clicks": 2,
+      "impressions": 192,
+      "ctr": 0.010416666666666666,
+      "position": 4.567708333333334
+    },
+    {
+      "query": "flickering light bulbs",
+      "clicks": 2,
+      "impressions": 55,
+      "ctr": 0.03636363636363636,
+      "position": 1.3636363636363638
+    },
+    {
+      "query": "flickering lights house",
+      "clicks": 2,
+      "impressions": 48,
+      "ctr": 0.041666666666666664,
+      "position": 10.3125
+    },
+    {
+      "query": "flickering lights in house causes",
+      "clicks": 2,
+      "impressions": 37,
+      "ctr": 0.05405405405405406,
+      "position": 4.297297297297297
+    },
+    {
+      "query": "freon aircon",
+      "clicks": 2,
+      "impressions": 594,
+      "ctr": 0.003367003367003367,
+      "position": 2.0774410774410774
+    },
+    {
+      "query": "generators for sale",
+      "clicks": 2,
+      "impressions": 372,
+      "ctr": 0.005376344086021506,
+      "position": 2.954301075268817
+    },
+    {
+      "query": "groupe electrogene pour maison",
+      "clicks": 2,
+      "impressions": 11,
+      "ctr": 0.18181818181818182,
+      "position": 2.090909090909091
+    },
+    {
+      "query": "home generator size calculator",
+      "clicks": 2,
+      "impressions": 44,
+      "ctr": 0.045454545454545456,
+      "position": 1.1818181818181819
+    },
+    {
+      "query": "how big generator to run house",
+      "clicks": 2,
+      "impressions": 770,
+      "ctr": 0.0025974025974025974,
+      "position": 1.7701298701298702
+    },
+    {
+      "query": "how big of generator do i need",
+      "clicks": 2,
+      "impressions": 428,
+      "ctr": 0.004672897196261682,
+      "position": 3.3878504672897196
+    },
+    {
+      "query": "how big of generator to run a house",
+      "clicks": 2,
+      "impressions": 678,
+      "ctr": 0.0029498525073746312,
+      "position": 2.1533923303834808
+    },
+    {
+      "query": "how is electricity measured",
+      "clicks": 2,
+      "impressions": 550,
+      "ctr": 0.0036363636363636364,
+      "position": 4.287272727272727
+    },
+    {
+      "query": "how large of a generator to run a house",
+      "clicks": 2,
+      "impressions": 146,
+      "ctr": 0.0136986301369863,
+      "position": 2.1095890410958904
+    },
+    {
+      "query": "how many watt generator does it take to run a house",
+      "clicks": 2,
+      "impressions": 85,
+      "ctr": 0.023529411764705882,
+      "position": 5.952941176470588
+    },
+    {
+      "query": "how many watt generator needed to run a house",
+      "clicks": 2,
+      "impressions": 15,
+      "ctr": 0.13333333333333333,
+      "position": 5.6
+    },
+    {
+      "query": "how many watt generator to run house",
+      "clicks": 2,
+      "impressions": 475,
+      "ctr": 0.004210526315789474,
+      "position": 7.494736842105263
+    },
+    {
+      "query": "how many watt generator to run whole house",
+      "clicks": 2,
+      "impressions": 286,
+      "ctr": 0.006993006993006993,
+      "position": 7.444055944055944
+    },
+    {
+      "query": "how many watts does a house need",
+      "clicks": 2,
+      "impressions": 23,
+      "ctr": 0.08695652173913043,
+      "position": 1.5652173913043477
+    },
+    {
+      "query": "how many watts does a normal house use",
+      "clicks": 2,
+      "impressions": 27,
+      "ctr": 0.07407407407407407,
+      "position": 1.4444444444444444
+    },
+    {
+      "query": "how many watts generator to run a house",
+      "clicks": 2,
+      "impressions": 345,
+      "ctr": 0.005797101449275362,
+      "position": 7.6521739130434785
+    },
+    {
+      "query": "how much can you run on a 10000 watt generator",
+      "clicks": 2,
+      "impressions": 23,
+      "ctr": 0.08695652173913043,
+      "position": 6.521739130434782
+    },
+    {
+      "query": "how much will a 8000 watt generator run",
+      "clicks": 2,
+      "impressions": 100,
+      "ctr": 0.02,
+      "position": 7.67
+    },
+    {
+      "query": "how often should you get your furnace serviced",
+      "clicks": 2,
+      "impressions": 346,
+      "ctr": 0.005780346820809248,
+      "position": 5.465317919075145
+    },
+    {
+      "query": "how to change light switch",
+      "clicks": 2,
+      "impressions": 380,
+      "ctr": 0.005263157894736842,
+      "position": 12.389473684210527
+    },
+    {
+      "query": "how to determine what size generator i need",
+      "clicks": 2,
+      "impressions": 36,
+      "ctr": 0.05555555555555555,
+      "position": 4.055555555555555
+    },
+    {
+      "query": "hydro-jetting sacramento",
+      "clicks": 2,
+      "impressions": 162,
+      "ctr": 0.012345679012345678,
+      "position": 7.407407407407407
+    },
+    {
+      "query": "inverter stromerzeuger 5000w",
+      "clicks": 2,
+      "impressions": 36,
+      "ctr": 0.05555555555555555,
+      "position": 2.9444444444444446
+    },
+    {
+      "query": "lampen flikkeren in huis",
+      "clicks": 2,
+      "impressions": 24,
+      "ctr": 0.08333333333333333,
+      "position": 2.375
+    },
+    {
+      "query": "lampen in huis flikkeren",
+      "clicks": 2,
+      "impressions": 10,
+      "ctr": 0.2,
+      "position": 2.9
+    },
+    {
+      "query": "licht flackert im haus",
+      "clicks": 2,
+      "impressions": 22,
+      "ctr": 0.09090909090909091,
+      "position": 2.7727272727272725
+    },
+    {
+      "query": "light flickering",
+      "clicks": 2,
+      "impressions": 1301,
+      "ctr": 0.0015372790161414297,
+      "position": 4.392774788624135
+    },
+    {
+      "query": "lights flicker in house randomly",
+      "clicks": 2,
+      "impressions": 53,
+      "ctr": 0.03773584905660377,
+      "position": 2.716981132075472
+    },
+    {
+      "query": "lights flickering in entire house",
+      "clicks": 2,
+      "impressions": 28,
+      "ctr": 0.07142857142857142,
+      "position": 4.25
+    },
+    {
+      "query": "lights flickering in multiple rooms",
+      "clicks": 2,
+      "impressions": 72,
+      "ctr": 0.027777777777777776,
+      "position": 3.888888888888889
+    },
+    {
+      "query": "lights flickering throughout whole house",
+      "clicks": 2,
+      "impressions": 33,
+      "ctr": 0.06060606060606061,
+      "position": 6.0606060606060606
+    },
+    {
+      "query": "lights glitching in house",
+      "clicks": 2,
+      "impressions": 30,
+      "ctr": 0.06666666666666667,
+      "position": 2.533333333333333
+    },
+    {
+      "query": "lights in house flickering and dim",
+      "clicks": 2,
+      "impressions": 389,
+      "ctr": 0.005141388174807198,
+      "position": 2.244215938303342
+    },
+    {
+      "query": "maverick electric heating and air roseville reviews",
+      "clicks": 2,
+      "impressions": 260,
+      "ctr": 0.007692307692307693,
+      "position": 8.884615384615385
+    },
+    {
+      "query": "maverick plumbing",
+      "clicks": 2,
+      "impressions": 457,
+      "ctr": 0.00437636761487965,
+      "position": 9.956236323851204
+    },
+    {
+      "query": "maverick sewer camera",
+      "clicks": 2,
+      "impressions": 150,
+      "ctr": 0.013333333333333334,
+      "position": 11.173333333333334
+    },
+    {
+      "query": "mavericks plumbing",
+      "clicks": 2,
+      "impressions": 47,
+      "ctr": 0.0425531914893617,
+      "position": 7
+    },
+    {
+      "query": "meilleur groupe electrogene",
+      "clicks": 2,
+      "impressions": 25,
+      "ctr": 0.08,
+      "position": 2
+    },
+    {
+      "query": "mini generator price under 5000",
+      "clicks": 2,
+      "impressions": 57,
+      "ctr": 0.03508771929824561,
+      "position": 3.3157894736842106
+    },
+    {
+      "query": "my lights are flickering in my house",
+      "clicks": 2,
+      "impressions": 153,
+      "ctr": 0.013071895424836602,
+      "position": 3.3398692810457518
+    },
+    {
+      "query": "porque los focos de mi casa parpadean",
+      "clicks": 2,
+      "impressions": 11,
+      "ctr": 0.18181818181818182,
+      "position": 2.2727272727272725
+    },
+    {
+      "query": "porque parpadea la luz de mi casa",
+      "clicks": 2,
+      "impressions": 33,
+      "ctr": 0.06060606060606061,
+      "position": 2.5454545454545454
+    },
+    {
+      "query": "quel groupe électrogène choisir pour alimenter une maison",
+      "clicks": 2,
+      "impressions": 8,
+      "ctr": 0.25,
+      "position": 2
+    },
+    {
+      "query": "replacing a light switch",
+      "clicks": 2,
+      "impressions": 479,
+      "ctr": 0.0041753653444676405,
+      "position": 8.964509394572026
+    },
+    {
+      "query": "what causes flickering lights in house",
+      "clicks": 2,
+      "impressions": 49,
+      "ctr": 0.04081632653061224,
+      "position": 4.5102040816326525
+    },
+    {
+      "query": "what causes lights in house to flicker",
+      "clicks": 2,
+      "impressions": 66,
+      "ctr": 0.030303030303030304,
+      "position": 1.9242424242424243
+    },
+    {
+      "query": "what makes lights flicker in a house",
+      "clicks": 2,
+      "impressions": 201,
+      "ctr": 0.009950248756218905,
+      "position": 2.243781094527363
+    },
+    {
+      "query": "what size generator do i need for 2000 sq ft house",
+      "clicks": 2,
+      "impressions": 93,
+      "ctr": 0.021505376344086023,
+      "position": 1.5806451612903225
+    },
+    {
+      "query": "what size generator do i need for my house",
+      "clicks": 2,
+      "impressions": 872,
+      "ctr": 0.0022935779816513763,
+      "position": 5.5745412844036695
+    },
+    {
+      "query": "what size generator do you need to run a house",
+      "clicks": 2,
+      "impressions": 181,
+      "ctr": 0.011049723756906077,
+      "position": 3.701657458563536
+    },
+    {
+      "query": "what will a 8000 watt generator run",
+      "clicks": 2,
+      "impressions": 310,
+      "ctr": 0.0064516129032258064,
+      "position": 5.451612903225806
+    },
+    {
+      "query": "what will a 8000 watt generator run in your home",
+      "clicks": 2,
+      "impressions": 137,
+      "ctr": 0.014598540145985401,
+      "position": 1.686131386861314
+    },
+    {
+      "query": "what will an 8000 watt generator run",
+      "clicks": 2,
+      "impressions": 150,
+      "ctr": 0.013333333333333334,
+      "position": 5.546666666666667
+    },
+    {
+      "query": "when should i be worried about lights flickering in my house",
+      "clicks": 2,
+      "impressions": 210,
+      "ctr": 0.009523809523809525,
+      "position": 4.414285714285715
+    },
+    {
+      "query": "when should i be worried about lights flickering in my house? list common causes of flickering",
+      "clicks": 2,
+      "impressions": 32,
+      "ctr": 0.0625,
+      "position": 2.90625
+    },
+    {
+      "query": "whole house lights flickering",
+      "clicks": 2,
+      "impressions": 336,
+      "ctr": 0.005952380952380952,
+      "position": 3.9017857142857144
+    },
+    {
+      "query": "why are all my lights flickering",
+      "clicks": 2,
+      "impressions": 189,
+      "ctr": 0.010582010582010581,
+      "position": 1.9523809523809523
+    },
+    {
+      "query": "why are all the lights in my house flickering",
+      "clicks": 2,
+      "impressions": 541,
+      "ctr": 0.0036968576709796672,
+      "position": 3.253234750462107
+    },
+    {
+      "query": "why are my lights flickering in my whole house",
+      "clicks": 2,
+      "impressions": 94,
+      "ctr": 0.02127659574468085,
+      "position": 4.297872340425532
+    },
+    {
+      "query": "why are some of my lights flickering",
+      "clicks": 2,
+      "impressions": 78,
+      "ctr": 0.02564102564102564,
+      "position": 2.9743589743589745
+    },
+    {
+      "query": "why are the lights flickering in my house",
+      "clicks": 2,
+      "impressions": 555,
+      "ctr": 0.0036036036036036037,
+      "position": 3.2972972972972974
+    },
+    {
+      "query": "why do lights flicker",
+      "clicks": 2,
+      "impressions": 1526,
+      "ctr": 0.001310615989515072,
+      "position": 4.2208387942332894
+    },
+    {
+      "query": "why do lights flicker in the house",
+      "clicks": 2,
+      "impressions": 203,
+      "ctr": 0.009852216748768473,
+      "position": 2.137931034482759
+    },
+    {
+      "query": "why do lights in my house flicker",
+      "clicks": 2,
+      "impressions": 77,
+      "ctr": 0.025974025974025976,
+      "position": 2.5584415584415585
+    },
+    {
+      "query": "why do my house lights flicker",
+      "clicks": 2,
+      "impressions": 529,
+      "ctr": 0.003780718336483932,
+      "position": 2.7977315689981097
+    },
+    {
+      "query": "why do my lights flicker",
+      "clicks": 2,
+      "impressions": 1080,
+      "ctr": 0.001851851851851852,
+      "position": 4.612037037037037
+    },
+    {
+      "query": "why do my lights flicker sometimes",
+      "clicks": 2,
+      "impressions": 132,
+      "ctr": 0.015151515151515152,
+      "position": 4.4393939393939394
+    },
+    {
+      "query": "will 10000 watts run a house",
+      "clicks": 2,
+      "impressions": 227,
+      "ctr": 0.00881057268722467,
+      "position": 1.4185022026431717
+    },
+    {
+      "query": "will an 8,000 watt generator run a house",
+      "clicks": 2,
+      "impressions": 58,
+      "ctr": 0.034482758620689655,
+      "position": 5.879310344827586
+    },
+    {
+      "query": "لمبات البيت ترمش",
+      "clicks": 2,
+      "impressions": 36,
+      "ctr": 0.05555555555555555,
+      "position": 1.8611111111111112
+    },
+    {
+      "query": "10000 watt en ampere",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "10000 watt generator",
+      "clicks": 1,
+      "impressions": 590,
+      "ctr": 0.001694915254237288,
+      "position": 1.3627118644067797
+    },
+    {
+      "query": "10000 watt generator price",
+      "clicks": 1,
+      "impressions": 21,
+      "ctr": 0.047619047619047616,
+      "position": 2
+    },
+    {
+      "query": "10000 watt inverter",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 2.4444444444444446
+    },
+    {
+      "query": "10000 watt solar generator",
+      "clicks": 1,
+      "impressions": 99,
+      "ctr": 0.010101010101010102,
+      "position": 1.121212121212121
+    },
+    {
+      "query": "10k predator generator",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 1.6
+    },
+    {
+      "query": "11 000 watt inverter generator",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 13
+    },
+    {
+      "query": "11000 watt generator",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 1.8571428571428572
+    },
+    {
+      "query": "20000 watt inverter",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 6
+    },
+    {
+      "query": "40000 watt generator",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 2.75
+    },
+    {
+      "query": "5 000 watt generator",
+      "clicks": 1,
+      "impressions": 54,
+      "ctr": 0.018518518518518517,
+      "position": 1.0185185185185186
+    },
+    {
+      "query": "5 ton ac unit price installed",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3
+    },
+    {
+      "query": "5kw generator",
+      "clicks": 1,
+      "impressions": 232,
+      "ctr": 0.004310344827586207,
+      "position": 1.2844827586206897
+    },
+    {
+      "query": "6500 generator",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2.666666666666667
+    },
+    {
+      "query": "8 kw aggregaat",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
     }
   ],
   "topPages": [
     {
       "page": "https://maverickelectricalservices.com/what-causes-flickering-lights-in-your-home/",
-      "clicks": 1497,
-      "impressions": 1525541,
-      "ctr": 0.0009812912271777684,
-      "position": 5.439456560000682
+      "clicks": 1380,
+      "impressions": 1517607,
+      "ctr": 0.0009093263275670183,
+      "position": 5.511426871383698
     },
     {
       "page": "https://maverickelectricalservices.com/what-size-generator-do-i-need/",
-      "clicks": 1250,
-      "impressions": 368699,
-      "ctr": 0.0033902994041209765,
-      "position": 3.1091133960222295
+      "clicks": 1226,
+      "impressions": 359273,
+      "ctr": 0.003412446802292407,
+      "position": 3.0241599006883346
     },
     {
       "page": "https://maverickelectricalservices.com/",
-      "clicks": 310,
-      "impressions": 7696,
-      "ctr": 0.04028066528066528,
-      "position": 8.66995841995842
+      "clicks": 241,
+      "impressions": 6338,
+      "ctr": 0.03802461344272641,
+      "position": 8.35184600820448
     },
     {
       "page": "https://maverickelectricalservices.com/about-us-2/roseville-ca/?utm_source=google&utm_medium=gmb&utm_campaign=GoogleBusinessProfile",
-      "clicks": 243,
-      "impressions": 15090,
-      "ctr": 0.01610337972166998,
-      "position": 5.282239893969516
+      "clicks": 170,
+      "impressions": 12159,
+      "ctr": 0.013981412945143516,
+      "position": 5.3969898840365165
     },
     {
       "page": "https://maverickelectricalservices.com/about-us/roseville-ca/?utm_source=google&utm_medium=gmb&utm_campaign=GoogleBusinessProfile",
-      "clicks": 92,
-      "impressions": 11850,
-      "ctr": 0.007763713080168776,
-      "position": 4.619493670886076
+      "clicks": 162,
+      "impressions": 15098,
+      "ctr": 0.010729897999735064,
+      "position": 4.6963173930321895
     },
     {
       "page": "https://maverickelectricalservices.com/how-to-clean-ac-coils/",
-      "clicks": 66,
-      "impressions": 24956,
-      "ctr": 0.0026446545920820646,
-      "position": 7.781575573008495
-    },
-    {
-      "page": "https://maverickelectricalservices.com/about-us-2/",
-      "clicks": 38,
-      "impressions": 4279,
-      "ctr": 0.008880579574666978,
-      "position": 7.160084131806497
-    },
-    {
-      "page": "https://maverickelectricalservices.com/how-to-replace-light-switch/",
-      "clicks": 32,
-      "impressions": 3081727,
-      "ctr": 0.00001038378805131019,
-      "position": 8.236827272500127
-    },
-    {
-      "page": "https://maverickelectricalservices.com/careers/",
-      "clicks": 30,
-      "impressions": 1003,
-      "ctr": 0.02991026919242273,
-      "position": 7.931206380857428
+      "clicks": 52,
+      "impressions": 15273,
+      "ctr": 0.0034047011065278594,
+      "position": 10.569763635173182
     },
     {
       "page": "https://maverickelectricalservices.com/how-do-i-know-if-my-ac-needs-freon/",
-      "clicks": 29,
-      "impressions": 14348,
-      "ctr": 0.0020211876219682185,
-      "position": 4.122943964315584
+      "clicks": 43,
+      "impressions": 17180,
+      "ctr": 0.0025029103608847497,
+      "position": 3.5732828870779976
+    },
+    {
+      "page": "https://maverickelectricalservices.com/how-to-replace-light-switch/",
+      "clicks": 33,
+      "impressions": 3108341,
+      "ctr": 0.000010616595798208756,
+      "position": 8.211768592956822
     },
     {
       "page": "https://maverickelectricalservices.com/furnace-service-frequency/",
-      "clicks": 28,
-      "impressions": 19102,
-      "ctr": 0.0014658150978955084,
-      "position": 13.284054025756465
+      "clicks": 29,
+      "impressions": 17228,
+      "ctr": 0.0016833062456466218,
+      "position": 12.170071975853261
     },
     {
-      "page": "https://maverickelectricalservices.com/contact-us/",
-      "clicks": 27,
-      "impressions": 3543,
-      "ctr": 0.007620660457239628,
-      "position": 8.63053909116568
-    },
-    {
-      "page": "https://maverickelectricalservices.com/about-us/",
+      "page": "https://maverickelectricalservices.com/careers/",
       "clicks": 26,
-      "impressions": 3409,
-      "ctr": 0.007626870049867997,
-      "position": 5.762393663831036
+      "impressions": 650,
+      "ctr": 0.04,
+      "position": 9.418461538461539
     },
     {
-      "page": "https://maverickelectricalservices.com/ductless-mini-split-repair-when-to-repair-replace-and-why-professional-service-matters/",
-      "clicks": 24,
-      "impressions": 12892,
-      "ctr": 0.001861619609059882,
-      "position": 9.743174061433447
+      "page": "https://maverickelectricalservices.com/about-us-2/",
+      "clicks": 25,
+      "impressions": 3195,
+      "ctr": 0.00782472613458529,
+      "position": 7.151486697965571
     },
     {
       "page": "https://maverickelectricalservices.com/what-should-i-do-if-blown-fuse/",
-      "clicks": 24,
-      "impressions": 5363,
-      "ctr": 0.004475107216110386,
-      "position": 10.877866865560321
+      "clicks": 25,
+      "impressions": 4849,
+      "ctr": 0.005155702206640545,
+      "position": 6.762837698494535
     },
     {
-      "page": "https://maverickelectricalservices.com/trustworthy-electrician-how-to-verify-credentials/",
+      "page": "https://maverickelectricalservices.com/about-us/",
+      "clicks": 24,
+      "impressions": 3675,
+      "ctr": 0.006530612244897959,
+      "position": 5.823401360544218
+    },
+    {
+      "page": "https://maverickelectricalservices.com/ductless-mini-split-repair-when-to-repair-replace-and-why-professional-service-matters/",
       "clicks": 23,
-      "impressions": 7989,
-      "ctr": 0.002878958568031043,
-      "position": 5.563149330329202
+      "impressions": 12056,
+      "ctr": 0.0019077637690776378,
+      "position": 9.715826144658262
+    },
+    {
+      "page": "https://maverickelectricalservices.com/contact-us/",
+      "clicks": 19,
+      "impressions": 3029,
+      "ctr": 0.006272697259821723,
+      "position": 9.880158468141301
     },
     {
       "page": "https://maverickelectricalservices.com/contact/",
-      "clicks": 17,
-      "impressions": 2474,
-      "ctr": 0.0068714632174616,
-      "position": 14.022635408245756
-    },
-    {
-      "page": "https://maverickelectricalservices.com/sacramento-electrician/",
-      "clicks": 17,
-      "impressions": 12197,
-      "ctr": 0.0013937853570550136,
-      "position": 23.441747970812497
+      "clicks": 19,
+      "impressions": 2709,
+      "ctr": 0.0070136581764488745,
+      "position": 13.490586932447398
     },
     {
       "page": "https://maverickelectricalservices.com/electrical-permits-explained-when-you-need-one-and-what-happens-if-you-skip-it/",
-      "clicks": 16,
-      "impressions": 2361,
-      "ctr": 0.006776789495976281,
-      "position": 6.0952986022871665
+      "clicks": 19,
+      "impressions": 2640,
+      "ctr": 0.007196969696969697,
+      "position": 5.839015151515151
+    },
+    {
+      "page": "https://maverickelectricalservices.com/trustworthy-electrician-how-to-verify-credentials/",
+      "clicks": 18,
+      "impressions": 7189,
+      "ctr": 0.0025038252886354154,
+      "position": 5.5491723466407015
+    },
+    {
+      "page": "https://maverickelectricalservices.com/sacramento-electrician/",
+      "clicks": 14,
+      "impressions": 9940,
+      "ctr": 0.0014084507042253522,
+      "position": 22.579778672032194
     },
     {
       "page": "https://maverickelectricalservices.com/sacramento-ca/",
-      "clicks": 14,
-      "impressions": 4868,
-      "ctr": 0.002875924404272802,
-      "position": 29.264379622021362
-    },
-    {
-      "page": "https://maverickelectricalservices.com/lincoln-ca/",
-      "clicks": 12,
-      "impressions": 5194,
-      "ctr": 0.0023103581055063534,
-      "position": 15.390065460146323
-    },
-    {
-      "page": "https://maverickelectricalservices.com/guide-to-measuring-power/",
-      "clicks": 11,
-      "impressions": 24566,
-      "ctr": 0.00044777334527395585,
-      "position": 8.39440690385085
+      "clicks": 13,
+      "impressions": 4367,
+      "ctr": 0.002976871994504236,
+      "position": 29.075108770322878
     },
     {
       "page": "https://maverickelectricalservices.com/roseville-electric-services/",
-      "clicks": 10,
-      "impressions": 6328,
-      "ctr": 0.0015802781289506952,
-      "position": 13.65960809102402
+      "clicks": 12,
+      "impressions": 6622,
+      "ctr": 0.001812141347025068,
+      "position": 12.892328601630927
     },
     {
       "page": "https://maverickelectricalservices.com/ac-installation-time-span/",
-      "clicks": 8,
-      "impressions": 13416,
-      "ctr": 0.0005963029218843172,
-      "position": 25.481067382230172
+      "clicks": 10,
+      "impressions": 14592,
+      "ctr": 0.0006853070175438596,
+      "position": 21.007401315789473
     },
     {
-      "page": "https://maverickelectricalservices.com/ev-charger-installation/",
-      "clicks": 8,
-      "impressions": 4498,
-      "ctr": 0.0017785682525566918,
-      "position": 30.792796798577147
-    },
-    {
-      "page": "https://maverickelectricalservices.com/plumbing/sewer-lines/",
-      "clicks": 8,
-      "impressions": 7466,
-      "ctr": 0.0010715242432360033,
-      "position": 26.046611304580765
-    },
-    {
-      "page": "https://maverickelectricalservices.com/rancho-cordova-ca/",
-      "clicks": 8,
-      "impressions": 13872,
-      "ctr": 0.0005767012687427913,
-      "position": 23.646698385236448
-    },
-    {
-      "page": "https://maverickelectricalservices.com/financing/",
-      "clicks": 7,
-      "impressions": 1448,
-      "ctr": 0.004834254143646409,
-      "position": 6.661602209944752
+      "page": "https://maverickelectricalservices.com/guide-to-measuring-power/",
+      "clicks": 10,
+      "impressions": 21982,
+      "ctr": 0.00045491765990355747,
+      "position": 7.6906104994995905
     },
     {
       "page": "https://maverickelectricalservices.com/west-sacramento-ca/",
-      "clicks": 7,
-      "impressions": 5784,
-      "ctr": 0.0012102351313969572,
-      "position": 11.576417704011066
+      "clicks": 9,
+      "impressions": 4659,
+      "ctr": 0.0019317450096587251,
+      "position": 11.151534664091006
     },
     {
-      "page": "https://maverickelectricalservices.com/wingman/",
-      "clicks": 7,
-      "impressions": 1167,
-      "ctr": 0.005998286203941731,
-      "position": 10.873179091688089
+      "page": "https://maverickelectricalservices.com/lincoln-ca/",
+      "clicks": 8,
+      "impressions": 4162,
+      "ctr": 0.0019221528111484864,
+      "position": 14.518500720807305
     },
     {
       "page": "https://maverickelectricalservices.com/electrical-or-mechanical-ac-issue/",
+      "clicks": 7,
+      "impressions": 2228,
+      "ctr": 0.0031418312387791743,
+      "position": 3.526032315978456
+    },
+    {
+      "page": "https://maverickelectricalservices.com/ev-charger-installation/",
+      "clicks": 7,
+      "impressions": 4163,
+      "ctr": 0.0016814797021378813,
+      "position": 31.163343742493396
+    },
+    {
+      "page": "https://maverickelectricalservices.com/hvac-and-electrical-services-in-contra-costa-county-ca/",
+      "clicks": 7,
+      "impressions": 1832,
+      "ctr": 0.003820960698689956,
+      "position": 20.96069868995633
+    },
+    {
+      "page": "https://maverickelectricalservices.com/hvac-services/",
+      "clicks": 7,
+      "impressions": 1465,
+      "ctr": 0.00477815699658703,
+      "position": 24.222525597269623
+    },
+    {
+      "page": "https://maverickelectricalservices.com/rancho-cordova-ca/",
+      "clicks": 7,
+      "impressions": 11854,
+      "ctr": 0.000590517968618188,
+      "position": 21.45512063438502
+    },
+    {
+      "page": "https://maverickelectricalservices.com/plumbing/sewer-lines/",
       "clicks": 6,
-      "impressions": 2414,
-      "ctr": 0.0024855012427506215,
-      "position": 3.540182270091135
+      "impressions": 6527,
+      "ctr": 0.0009192584648383637,
+      "position": 26.379653745978246
+    },
+    {
+      "page": "https://maverickelectricalservices.com/wingman/",
+      "clicks": 6,
+      "impressions": 1004,
+      "ctr": 0.00597609561752988,
+      "position": 11.128486055776893
     },
     {
       "page": "https://maverickelectricalservices.com/attic-insulation/",
       "clicks": 5,
-      "impressions": 1971,
-      "ctr": 0.0025367833587011668,
-      "position": 10.701166920345003
-    },
-    {
-      "page": "https://maverickelectricalservices.com/electrical/",
-      "clicks": 5,
-      "impressions": 3577,
-      "ctr": 0.0013978194017332962,
-      "position": 7.713167458764327
+      "impressions": 1526,
+      "ctr": 0.00327653997378768,
+      "position": 10.634993446920053
     },
     {
       "page": "https://maverickelectricalservices.com/electrical/electrical-inspections/",
       "clicks": 5,
-      "impressions": 2306,
-      "ctr": 0.002168256721595837,
-      "position": 33.941890719861235
+      "impressions": 2335,
+      "ctr": 0.0021413276231263384,
+      "position": 34.31434689507495
     },
     {
-      "page": "https://maverickelectricalservices.com/plumbing/",
+      "page": "https://maverickelectricalservices.com/financing/",
       "clicks": 5,
-      "impressions": 3867,
-      "ctr": 0.0012929919834497026,
-      "position": 17.660977501939488
+      "impressions": 1499,
+      "ctr": 0.00333555703802535,
+      "position": 6.695797198132088
+    },
+    {
+      "page": "https://maverickelectricalservices.com/plumbing/hydro-jetting/",
+      "clicks": 5,
+      "impressions": 16216,
+      "ctr": 0.00030833744449926,
+      "position": 13.76208682782437
     },
     {
       "page": "https://maverickelectricalservices.com/understanding-the-causes-of-ac-failures/",
       "clicks": 5,
-      "impressions": 750,
-      "ctr": 0.006666666666666667,
-      "position": 7.334666666666666
+      "impressions": 742,
+      "ctr": 0.006738544474393531,
+      "position": 7.583557951482479
     },
     {
       "page": "https://maverickelectricalservices.com/about-us-2/fair-oaks-ca/electrician/",
       "clicks": 4,
-      "impressions": 520,
-      "ctr": 0.007692307692307693,
-      "position": 14.798076923076923
+      "impressions": 531,
+      "ctr": 0.007532956685499058,
+      "position": 14.615819209039548
+    },
+    {
+      "page": "https://maverickelectricalservices.com/about-us/el-dorado-hills-ca/",
+      "clicks": 4,
+      "impressions": 1372,
+      "ctr": 0.0029154518950437317,
+      "position": 14.07798833819242
     },
     {
       "page": "https://maverickelectricalservices.com/cooling/ductless-mini-split-install-replacement/",
       "clicks": 4,
-      "impressions": 3564,
-      "ctr": 0.001122334455667789,
-      "position": 29.1307519640853
+      "impressions": 3385,
+      "ctr": 0.0011816838995568684,
+      "position": 29.872378138847857
     },
     {
-      "page": "https://maverickelectricalservices.com/electrical/electrical-home-security-systems/",
+      "page": "https://maverickelectricalservices.com/electrical/",
       "clicks": 4,
-      "impressions": 722,
-      "ctr": 0.00554016620498615,
-      "position": 18.22714681440443
+      "impressions": 3025,
+      "ctr": 0.001322314049586777,
+      "position": 7.4284297520661156
     },
     {
-      "page": "https://maverickelectricalservices.com/hvac-and-electrical-services-in-contra-costa-county-ca/",
+      "page": "https://maverickelectricalservices.com/how-to-fix-a-power-outage-in-my-house/",
       "clicks": 4,
-      "impressions": 1615,
-      "ctr": 0.002476780185758514,
-      "position": 23.33065015479876
+      "impressions": 3858,
+      "ctr": 0.0010368066355624676,
+      "position": 3.6524105754276825
     },
     {
-      "page": "https://maverickelectricalservices.com/hvac-services/",
+      "page": "https://maverickelectricalservices.com/plumbing/",
       "clicks": 4,
-      "impressions": 1332,
-      "ctr": 0.003003003003003003,
-      "position": 28.98273273273273
-    },
-    {
-      "page": "https://maverickelectricalservices.com/plumbing/commercial-plumbing/",
-      "clicks": 4,
-      "impressions": 10251,
-      "ctr": 0.000390205833577212,
-      "position": 26.296166227685102
-    },
-    {
-      "page": "https://maverickelectricalservices.com/plumbing/hydro-jetting/",
-      "clicks": 4,
-      "impressions": 16348,
-      "ctr": 0.00024467824810374357,
-      "position": 14.292696354294103
-    },
-    {
-      "page": "https://maverickelectricalservices.com/plumbing/sump-pumps/",
-      "clicks": 4,
-      "impressions": 2274,
-      "ctr": 0.001759014951627089,
-      "position": 21.154793315743184
+      "impressions": 3725,
+      "ctr": 0.0010738255033557046,
+      "position": 17.438657718120805
     },
     {
       "page": "https://maverickelectricalservices.com/smart-home-services/",
       "clicks": 4,
-      "impressions": 1319,
-      "ctr": 0.003032600454890068,
-      "position": 34.090978013646705
-    },
-    {
-      "page": "https://maverickelectricalservices.com/about-us-2/auburn-ca/",
-      "clicks": 3,
-      "impressions": 2111,
-      "ctr": 0.0014211274277593558,
-      "position": 19.534817621980103
-    },
-    {
-      "page": "https://maverickelectricalservices.com/about-us-2/citrus-heights-ca/",
-      "clicks": 3,
-      "impressions": 8177,
-      "ctr": 0.0003668827198238963,
-      "position": 18.703069585422526
+      "impressions": 1300,
+      "ctr": 0.003076923076923077,
+      "position": 33.30307692307692
     },
     {
       "page": "https://maverickelectricalservices.com/about-us-2/roseville-ca/",
       "clicks": 3,
-      "impressions": 916,
-      "ctr": 0.0032751091703056767,
-      "position": 22.573144104803493
+      "impressions": 769,
+      "ctr": 0.0039011703511053317,
+      "position": 24.123537061118334
     },
     {
       "page": "https://maverickelectricalservices.com/about-us/roseville-ca/",
       "clicks": 3,
-      "impressions": 890,
-      "ctr": 0.0033707865168539327,
-      "position": 22.95056179775281
+      "impressions": 1242,
+      "ctr": 0.0024154589371980675,
+      "position": 18.74074074074074
     },
     {
       "page": "https://maverickelectricalservices.com/cooling/ac-tune-up/",
       "clicks": 3,
-      "impressions": 4019,
-      "ctr": 0.0007464543418760885,
-      "position": 28.58745956705648
+      "impressions": 2917,
+      "ctr": 0.0010284538909838875,
+      "position": 27.899554336647242
+    },
+    {
+      "page": "https://maverickelectricalservices.com/electrical/electrical-home-security-systems/",
+      "clicks": 3,
+      "impressions": 637,
+      "ctr": 0.004709576138147566,
+      "position": 18.67032967032967
+    },
+    {
+      "page": "https://maverickelectricalservices.com/electrical/emergency-electrical-services/",
+      "clicks": 3,
+      "impressions": 2296,
+      "ctr": 0.0013066202090592336,
+      "position": 28.94294425087108
+    },
+    {
+      "page": "https://maverickelectricalservices.com/heating/",
+      "clicks": 3,
+      "impressions": 2877,
+      "ctr": 0.0010427528675703858,
+      "position": 12.798748696558915
     }
   ],
-  "fetchedAt": "2026-03-18T13:07:54.562Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "maverick heating and air",
+      "clicks": 390,
+      "impressions": 1401,
+      "ctr": 0.278372591006424,
+      "position": 1.1420413990007137
+    },
+    {
+      "query": "maverick electric",
+      "clicks": 203,
+      "impressions": 1149,
+      "ctr": 0.17667536988685814,
+      "position": 3.8746736292428197
+    },
+    {
+      "query": "maverick electrical services",
+      "clicks": 64,
+      "impressions": 254,
+      "ctr": 0.25196850393700787,
+      "position": 2.8700787401574805
+    },
+    {
+      "query": "maverick electric heating and air",
+      "clicks": 60,
+      "impressions": 177,
+      "ctr": 0.3389830508474576,
+      "position": 1.0056497175141244
+    },
+    {
+      "query": "maverick electrical",
+      "clicks": 38,
+      "impressions": 195,
+      "ctr": 0.19487179487179487,
+      "position": 4.282051282051282
+    },
+    {
+      "query": "maverick electric plumbing heating and air",
+      "clicks": 32,
+      "impressions": 74,
+      "ctr": 0.43243243243243246,
+      "position": 1.3108108108108107
+    },
+    {
+      "query": "maverick hvac",
+      "clicks": 31,
+      "impressions": 342,
+      "ctr": 0.09064327485380116,
+      "position": 2.4853801169590644
+    },
+    {
+      "query": "maverick plumbing",
+      "clicks": 28,
+      "impressions": 398,
+      "ctr": 0.07035175879396985,
+      "position": 8.178391959798995
+    },
+    {
+      "query": "maverick electric heating & air",
+      "clicks": 27,
+      "impressions": 70,
+      "ctr": 0.38571428571428573,
+      "position": 1.0142857142857142
+    },
+    {
+      "query": "maverick electric, plumbing, heating and air",
+      "clicks": 22,
+      "impressions": 217,
+      "ctr": 0.10138248847926268,
+      "position": 1.2857142857142856
+    },
+    {
+      "query": "maverick",
+      "clicks": 16,
+      "impressions": 127,
+      "ctr": 0.12598425196850394,
+      "position": 3.440944881889764
+    },
+    {
+      "query": "maverick electric, heating and air",
+      "clicks": 13,
+      "impressions": 40,
+      "ctr": 0.325,
+      "position": 1.275
+    },
+    {
+      "query": "maverick electric heating and air roseville",
+      "clicks": 10,
+      "impressions": 57,
+      "ctr": 0.17543859649122806,
+      "position": 1.3859649122807016
+    },
+    {
+      "query": "maverik electric",
+      "clicks": 10,
+      "impressions": 72,
+      "ctr": 0.1388888888888889,
+      "position": 4.055555555555555
+    },
+    {
+      "query": "maverick heating",
+      "clicks": 9,
+      "impressions": 62,
+      "ctr": 0.14516129032258066,
+      "position": 3.8548387096774195
+    },
+    {
+      "query": "maverick heating and cooling",
+      "clicks": 6,
+      "impressions": 340,
+      "ctr": 0.01764705882352941,
+      "position": 5.864705882352941
+    },
+    {
+      "query": "maverick plumbing and heating",
+      "clicks": 6,
+      "impressions": 122,
+      "ctr": 0.04918032786885246,
+      "position": 6.631147540983607
+    },
+    {
+      "query": "maverick electric heating and air roseville reviews",
+      "clicks": 5,
+      "impressions": 198,
+      "ctr": 0.025252525252525252,
+      "position": 5.181818181818182
+    },
+    {
+      "query": "hvac lincoln ca",
+      "clicks": 4,
+      "impressions": 138,
+      "ctr": 0.028985507246376812,
+      "position": 3.6231884057971016
+    },
+    {
+      "query": "maverick ac",
+      "clicks": 4,
+      "impressions": 49,
+      "ctr": 0.08163265306122448,
+      "position": 4.4897959183673475
+    },
+    {
+      "query": "maverick heating and air commercial",
+      "clicks": 4,
+      "impressions": 51,
+      "ctr": 0.0784313725490196,
+      "position": 1.6470588235294117
+    },
+    {
+      "query": "maverick heating and air photos",
+      "clicks": 4,
+      "impressions": 46,
+      "ctr": 0.08695652173913043,
+      "position": 2.0869565217391304
+    },
+    {
+      "query": "maverick insulation",
+      "clicks": 4,
+      "impressions": 41,
+      "ctr": 0.0975609756097561,
+      "position": 7.365853658536586
+    },
+    {
+      "query": "mavericks heating and air",
+      "clicks": 4,
+      "impressions": 91,
+      "ctr": 0.04395604395604396,
+      "position": 8.12087912087912
+    },
+    {
+      "query": "generator installation sacramento",
+      "clicks": 3,
+      "impressions": 226,
+      "ctr": 0.01327433628318584,
+      "position": 11.084070796460177
+    },
+    {
+      "query": "how to replace a light switch",
+      "clicks": 3,
+      "impressions": 693,
+      "ctr": 0.004329004329004329,
+      "position": 13.64069264069264
+    },
+    {
+      "query": "mavericks roseville",
+      "clicks": 3,
+      "impressions": 100,
+      "ctr": 0.03,
+      "position": 4.33
+    },
+    {
+      "query": "call maverick",
+      "clicks": 2,
+      "impressions": 18,
+      "ctr": 0.1111111111111111,
+      "position": 10.333333333333334
+    },
+    {
+      "query": "electrician near me",
+      "clicks": 2,
+      "impressions": 703,
+      "ctr": 0.002844950213371266,
+      "position": 17.24466571834993
+    },
+    {
+      "query": "ev charger installation near me",
+      "clicks": 2,
+      "impressions": 1136,
+      "ctr": 0.0017605633802816902,
+      "position": 21.779929577464788
+    },
+    {
+      "query": "leaking air conditioner",
+      "clicks": 2,
+      "impressions": 28,
+      "ctr": 0.07142857142857142,
+      "position": 37.107142857142854
+    },
+    {
+      "query": "roseville electrician",
+      "clicks": 2,
+      "impressions": 364,
+      "ctr": 0.005494505494505495,
+      "position": 5.541208791208791
+    },
+    {
+      "query": "whole house fan repair",
+      "clicks": 2,
+      "impressions": 4,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "24 hour electrician near me",
+      "clicks": 1,
+      "impressions": 137,
+      "ctr": 0.0072992700729927005,
+      "position": 19.437956204379564
+    },
+    {
+      "query": "240v outlet installation near me",
+      "clicks": 1,
+      "impressions": 65,
+      "ctr": 0.015384615384615385,
+      "position": 13.36923076923077
+    },
+    {
+      "query": "a/c cleaner",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "ac coil cleaner",
+      "clicks": 1,
+      "impressions": 191,
+      "ctr": 0.005235602094240838,
+      "position": 16.774869109947645
+    },
+    {
+      "query": "ac for 1200 sq ft house",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "ac leaking water",
+      "clicks": 1,
+      "impressions": 22,
+      "ctr": 0.045454545454545456,
+      "position": 6.590909090909091
+    },
+    {
+      "query": "actron air conditioner leaking water",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "air con leaking",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "air conditioner cleaners",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "air conditioner fin comb",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "air conditioner foaming coil cleaner",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 2.142857142857143
+    },
+    {
+      "query": "air conditioner leaking",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 36
+    },
+    {
+      "query": "air conditioning coil cleaner spray",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "aircon is leaking water",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 2.142857142857143
+    },
+    {
+      "query": "aircon leaking water inside",
+      "clicks": 1,
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 2.5
+    },
+    {
+      "query": "best local hvac companies near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 12
+    },
+    {
+      "query": "blog buy polar breeze",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "businesses near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "buy polar breeze",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "charger installation",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "clean central air unit",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 2.5
+    },
+    {
+      "query": "cleaning condenser coils",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 55.81818181818182
+    },
+    {
+      "query": "coil cleaning hvac",
+      "clicks": 1,
+      "impressions": 173,
+      "ctr": 0.005780346820809248,
+      "position": 37.75722543352601
+    },
+    {
+      "query": "daikin mini split 24 000 btu",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 41
+    },
+    {
+      "query": "dirty evaporator coil",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "dishwasher tripping fuse",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 2.6
+    },
+    {
+      "query": "electric",
+      "clicks": 1,
+      "impressions": 22,
+      "ctr": 0.045454545454545456,
+      "position": 5.636363636363637
+    },
+    {
+      "query": "electric rate measured in watts",
+      "clicks": 1,
+      "impressions": 1065,
+      "ctr": 0.0009389671361502347,
+      "position": 6.3953051643192484
+    },
+    {
+      "query": "electrical and plumbing near me",
+      "clicks": 1,
+      "impressions": 42,
+      "ctr": 0.023809523809523808,
+      "position": 60.69047619047619
+    },
+    {
+      "query": "electrical companies hiring",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 14
+    },
+    {
+      "query": "electrical companies near me",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 24.2
+    },
+    {
+      "query": "electrical companies sacramento",
+      "clicks": 1,
+      "impressions": 117,
+      "ctr": 0.008547008547008548,
+      "position": 41.75213675213675
+    },
+    {
+      "query": "electrical power is measured in",
+      "clicks": 1,
+      "impressions": 1055,
+      "ctr": 0.0009478672985781991,
+      "position": 9.927014218009479
+    },
+    {
+      "query": "electrical repair",
+      "clicks": 1,
+      "impressions": 3015,
+      "ctr": 0.0003316749585406302,
+      "position": 57.88590381426202
+    },
+    {
+      "query": "electrical repair services",
+      "clicks": 1,
+      "impressions": 3853,
+      "ctr": 0.0002595380223202699,
+      "position": 58.700752660264726
+    },
+    {
+      "query": "electrical service",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 12
+    },
+    {
+      "query": "electrical services near me",
+      "clicks": 1,
+      "impressions": 246,
+      "ctr": 0.0040650406504065045,
+      "position": 12.66260162601626
+    },
+    {
+      "query": "electrical services sacramento",
+      "clicks": 1,
+      "impressions": 139,
+      "ctr": 0.007194244604316547,
+      "position": 14.136690647482014
+    },
+    {
+      "query": "electrical system services",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 8
+    },
+    {
+      "query": "electrican",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "electrician citrus heights",
+      "clicks": 1,
+      "impressions": 197,
+      "ctr": 0.005076142131979695,
+      "position": 45.3756345177665
+    },
+    {
+      "query": "electrician lincoln ca",
+      "clicks": 1,
+      "impressions": 64,
+      "ctr": 0.015625,
+      "position": 22.578125
+    },
+    {
+      "query": "electrician repairs near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 8
+    },
+    {
+      "query": "electrician rocklin",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 12.266666666666667
+    },
+    {
+      "query": "electrician roseville",
+      "clicks": 1,
+      "impressions": 435,
+      "ctr": 0.0022988505747126436,
+      "position": 20.96551724137931
+    },
+    {
+      "query": "electrician roseville ca",
+      "clicks": 1,
+      "impressions": 159,
+      "ctr": 0.006289308176100629,
+      "position": 3.2327044025157234
+    },
+    {
+      "query": "electrician sacramento",
+      "clicks": 1,
+      "impressions": 1204,
+      "ctr": 0.0008305647840531562,
+      "position": 28.114617940199334
+    },
+    {
+      "query": "ev charger installers near me",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 22.533333333333335
+    },
+    {
+      "query": "flickering lights in house",
+      "clicks": 1,
+      "impressions": 195,
+      "ctr": 0.005128205128205128,
+      "position": 41.83076923076923
+    },
+    {
+      "query": "fridge tripping main switch",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "fuses blown in house",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "generator service",
+      "clicks": 1,
+      "impressions": 93,
+      "ctr": 0.010752688172043012,
+      "position": 21.655913978494624
+    },
+    {
+      "query": "heating and air in my area",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 5
+    },
+    {
+      "query": "heating and air sacramento ca",
+      "clicks": 1,
+      "impressions": 349,
+      "ctr": 0.0028653295128939827,
+      "position": 40.51002865329513
+    },
+    {
+      "query": "how much time it takes to install ac",
+      "clicks": 1,
+      "impressions": 72,
+      "ctr": 0.013888888888888888,
+      "position": 9.916666666666666
+    },
+    {
+      "query": "how to clean a heat pump coil",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2.5
+    },
+    {
+      "query": "how to clean central air unit",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "how to clean central air unit inside",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 1.6666666666666665
+    },
+    {
+      "query": "how to clean evaporator coil",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 2
+    },
+    {
+      "query": "how to clean heat pump outdoor unit",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "how to clean window ac coils",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "how to fix power outage",
+      "clicks": 1,
+      "impressions": 31,
+      "ctr": 0.03225806451612903,
+      "position": 18.193548387096776
+    },
+    {
+      "query": "hvac and electrical near me",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 37.875
+    },
+    {
+      "query": "hvac companies",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 45.36363636363637
+    },
+    {
+      "query": "hvac companies near me",
+      "clicks": 1,
+      "impressions": 262,
+      "ctr": 0.003816793893129771,
+      "position": 15.526717557251908
+    },
+    {
+      "query": "hvac companies sacramento",
+      "clicks": 1,
+      "impressions": 494,
+      "ctr": 0.0020242914979757085,
+      "position": 52.479757085020246
+    },
+    {
+      "query": "hvac repairs",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 5
+    },
+    {
+      "query": "hvac sacramento",
+      "clicks": 1,
+      "impressions": 1101,
+      "ctr": 0.0009082652134423251,
+      "position": 51.92188919164396
+    },
+    {
+      "query": "hvac services fair oaks",
+      "clicks": 1,
+      "impressions": 92,
+      "ctr": 0.010869565217391304,
+      "position": 8.380434782608695
+    },
+    {
+      "query": "installing new light switch",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 10
+    },
+    {
+      "query": "lights flickering in house",
+      "clicks": 1,
+      "impressions": 308,
+      "ctr": 0.003246753246753247,
+      "position": 53.65909090909091
+    },
+    {
+      "query": "local electricians near me",
+      "clicks": 1,
+      "impressions": 101,
+      "ctr": 0.009900990099009901,
+      "position": 24.92079207920792
+    },
+    {
+      "query": "maverick air conditioning",
+      "clicks": 1,
+      "impressions": 345,
+      "ctr": 0.002898550724637681,
+      "position": 4.628985507246377
+    },
+    {
+      "query": "maverick electric kalispell",
+      "clicks": 1,
+      "impressions": 22,
+      "ctr": 0.045454545454545456,
+      "position": 9.636363636363637
+    },
+    {
+      "query": "maverick electric, heating and air roseville, ca",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "maverick roseville",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 3.2666666666666666
+    },
+    {
+      "query": "maverick sacramento",
+      "clicks": 1,
+      "impressions": 129,
+      "ctr": 0.007751937984496124,
+      "position": 6.945736434108527
+    },
+    {
+      "query": "mavericks electric",
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 3.466666666666667
+    },
+    {
+      "query": "mavericks plumbing",
+      "clicks": 1,
+      "impressions": 35,
+      "ctr": 0.02857142857142857,
+      "position": 8.028571428571428
+    },
+    {
+      "query": "maverik ev charging",
+      "clicks": 1,
+      "impressions": 21,
+      "ctr": 0.047619047619047616,
+      "position": 5.571428571428571
+    },
+    {
+      "query": "microwave fuse keeps blowing",
+      "clicks": 1,
+      "impressions": 28,
+      "ctr": 0.03571428571428571,
+      "position": 2.7857142857142856
+    },
+    {
+      "query": "microwave is blowing fuses",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "mini split repair",
+      "clicks": 1,
+      "impressions": 8274,
+      "ctr": 0.00012086052695189751,
+      "position": 22.70123277737491
+    },
+    {
+      "query": "mini split replacement cost",
+      "clicks": 1,
+      "impressions": 83,
+      "ctr": 0.012048192771084338,
+      "position": 36.08433734939759
+    },
+    {
+      "query": "plumbing heating and electrical services",
+      "clicks": 1,
+      "impressions": 21,
+      "ctr": 0.047619047619047616,
+      "position": 78.80952380952381
+    },
+    {
+      "query": "polar breeze cleaner",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2
+    },
+    {
+      "query": "power cut in my house only",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 19
+    },
+    {
+      "query": "sacramento electrician",
+      "clicks": 1,
+      "impressions": 435,
+      "ctr": 0.0022988505747126436,
+      "position": 33.80689655172414
+    },
+    {
+      "query": "simple green coil cleaner review",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 4.2
+    },
+    {
+      "query": "split system repairs",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 6
+    },
+    {
+      "query": "tumble dryer keeps blowing fuse in plug",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "washing machine trips circuit breaker on spin cycle",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "water leakage in ac indoor unit",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 2.571428571428571
+    },
+    {
+      "query": "web coil cleaner",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 6
+    },
+    {
+      "query": "what causes my lights to flicker in my house",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 1.6666666666666665
+    },
+    {
+      "query": "what maintenance is required on a heat pump?",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "what size generator do i need",
+      "clicks": 1,
+      "impressions": 923,
+      "ctr": 0.0010834236186348862,
+      "position": 36.11375947995666
+    },
+    {
+      "query": "what size portable generator is needed to power a house?",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "why does an appliance keep tripping",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "why is my ac dripping water",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 2.25
+    },
+    {
+      "query": "why is my ac leaking water inside the house",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 7.5
+    },
+    {
+      "query": "why is my aircon leaking water",
+      "clicks": 1,
+      "impressions": 36,
+      "ctr": 0.027777777777777776,
+      "position": 2.5
+    },
+    {
+      "query": "why is my microwave blowing fuses",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 2.833333333333333
+    },
+    {
+      "query": "\"cooling\" \"com\" inurl:contact \"916\" -gov -edu -org -news -91 -uganda -92",
+      "clicks": 0,
+      "impressions": 54,
+      "ctr": 0,
+      "position": 5.166666666666667
+    },
+    {
+      "query": "\"eaton\" and \"ev charger\" and (\"consulting\" or \"installation\" or \"planning\" or \"advisory\") and after:2025-01-06 and after:2025-01-01",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 84
+    },
+    {
+      "query": "\"eaton\" and \"ev charger\" and (\"planning\" or \"maintenance\" or \"operational services\" or \"grid integration\") and after:2025-01-06 and after:2025-01-01",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 86.83333333333333
+    },
+    {
+      "query": "\"security system installation\"",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 54.25
+    },
+    {
+      "query": "10 interesting facts about electricity",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 23
+    },
+    {
+      "query": "134a stop leak",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "2 pipe fan coil thermostat",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "2 ton ac unit",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "24 7 electricians",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 17
+    },
+    {
+      "query": "24 7 generator repair in california",
+      "clicks": 0,
+      "impressions": 65,
+      "ctr": 0,
+      "position": 39.12307692307692
+    },
+    {
+      "query": "24 hour electrician",
+      "clicks": 0,
+      "impressions": 152,
+      "ctr": 0,
+      "position": 26.06578947368421
+    },
+    {
+      "query": "24 hour electrician roseville",
+      "clicks": 0,
+      "impressions": 82,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hour electricians mabank",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 28
+    },
+    {
+      "query": "24 hour hvac repair",
+      "clicks": 0,
+      "impressions": 82,
+      "ctr": 0,
+      "position": 40.292682926829265
+    },
+    {
+      "query": "24 hour hvac repair near me",
+      "clicks": 0,
+      "impressions": 71,
+      "ctr": 0,
+      "position": 37.394366197183096
+    },
+    {
+      "query": "24/7 electrician citrus heights",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24/7 electrician granite bay",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24/7 electrician napa",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 48.90909090909091
+    },
+    {
+      "query": "24/7 electrician rocklin",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 4.846153846153847
+    },
+    {
+      "query": "24/7 electrician roseville",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24/7 electrician sacramento",
+      "clicks": 0,
+      "impressions": 137,
+      "ctr": 0,
+      "position": 64.5036496350365
+    },
+    {
+      "query": "24/7 heater",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 19
+    },
+    {
+      "query": "24hour electrician",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 66.8
+    },
+    {
+      "query": "250 amp fuse",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "3 ton ac condenser unit",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "3 ton evaporator coil replacement cost",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 14
+    },
+    {
+      "query": "7500 watt generator",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "9070 xt where to buy",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "9166557744",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "_____ is measured in watts, and you can compute wattage by multiplying amperes and volts.",
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 10.631578947368421
+    },
+    {
+      "query": "____________________ are units of measure for electrical power.",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 8.333333333333332
+    },
+    {
+      "query": "a blown fuse",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "a c blowing hot air",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 56.25
+    },
+    {
+      "query": "a c cleaning",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 64.33333333333334
+    },
+    {
+      "query": "a c coil cleaner",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 80.5
+    },
+    {
+      "query": "a c coil cleaning",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 38
+    },
+    {
+      "query": "a c company near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 78
+    },
+    {
+      "query": "a c install",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 70
+    },
+    {
+      "query": "a c unit cleaning",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 48
+    },
+    {
+      "query": "a coil cleaner",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "a coil cleaning",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 48.666666666666664
+    },
+    {
+      "query": "a coil furnace cleaning",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 79
+    },
+    {
+      "query": "a flickering light",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 86
+    },
+    {
+      "query": "a good way to measure your power is",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 14
+    },
+    {
+      "query": "a heating and air conditioning repair",
+      "clicks": 0,
+      "impressions": 85,
+      "ctr": 0,
+      "position": 7.08235294117647
+    },
+    {
+      "query": "a measure of electrical power",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 14.25
+    },
+    {
+      "query": "a measure of how much electrical energy is",
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 7.894736842105263
+    },
+    {
+      "query": "a measure of how strong the available electricity is.",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 3.5
+    },
+    {
+      "query": "a measure of power consumed per second.",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 5.25
+    },
+    {
+      "query": "a unit for measuring electric power.",
+      "clicks": 0,
+      "impressions": 73,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "a whole house surge protector is installed",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 99
+    },
+    {
+      "query": "a/c blows warm air",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 92.5
+    },
+    {
+      "query": "a/c clean",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 71
+    },
+    {
+      "query": "a/c cleaner spray",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "a/c cleaning",
+      "clicks": 0,
+      "impressions": 23,
+      "ctr": 0,
+      "position": 44.43478260869565
+    },
+    {
+      "query": "a/c coil cleaner",
+      "clicks": 0,
+      "impressions": 31,
+      "ctr": 0,
+      "position": 2.032258064516129
+    },
+    {
+      "query": "a/c coil cleaning",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 58.42857142857143
+    },
+    {
+      "query": "a/c coil replacement",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "a/c condenser cleaner",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "a/c evaporator coil cleaner",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "a/c failure",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "a/c foam cleaner",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "a/c install",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 79
+    },
+    {
+      "query": "a/c installation near me",
+      "clicks": 0,
+      "impressions": 42,
+      "ctr": 0,
+      "position": 29.952380952380953
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:22:25.184Z"
 }

@@ -1,156 +1,16 @@
 {
   "property": "https://www.gatorgaragedoorrepair.com/",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 1442,
-    "impressions": 292129,
-    "ctr": 0.004936175456733156,
-    "position": 17.94103443815087
+    "clicks": 1531,
+    "impressions": 330905,
+    "ctr": 0.004626705549931249,
+    "position": 16.898868031510844
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 21,
-      "impressions": 3963,
-      "ctr": 0.005299015897047691,
-      "position": 13.370426444612667
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 13,
-      "impressions": 2167,
-      "ctr": 0.005999077065066913,
-      "position": 14.10613751730503
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 17,
-      "impressions": 2203,
-      "ctr": 0.007716749886518384,
-      "position": 13.688606445755788
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 24,
-      "impressions": 2312,
-      "ctr": 0.010380622837370242,
-      "position": 20.391868512110726
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 11,
-      "impressions": 2241,
-      "ctr": 0.0049085229808121375,
-      "position": 15.238732708612227
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 12,
-      "impressions": 1977,
-      "ctr": 0.006069802731411229,
-      "position": 16.616084977238238
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 11,
-      "impressions": 2572,
-      "ctr": 0.0042768273716951785,
-      "position": 20.790435458786938
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 12,
-      "impressions": 4185,
-      "ctr": 0.002867383512544803,
-      "position": 14.779928315412187
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 7,
-      "impressions": 1741,
-      "ctr": 0.00402067777139575,
-      "position": 16.749569213095924
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 3,
-      "impressions": 1970,
-      "ctr": 0.0015228426395939086,
-      "position": 23.018274111675126
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 3,
-      "impressions": 1328,
-      "ctr": 0.002259036144578313,
-      "position": 20.97816265060241
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 3,
-      "impressions": 1742,
-      "ctr": 0.001722158438576349,
-      "position": 18.58553386911596
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 4,
-      "impressions": 2235,
-      "ctr": 0.0017897091722595079,
-      "position": 21.37897091722595
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 9,
-      "impressions": 6462,
-      "ctr": 0.001392757660167131,
-      "position": 33.04828226555246
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 22,
-      "impressions": 4363,
-      "ctr": 0.0050424020169608065,
-      "position": 14.497364198945679
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 13,
-      "impressions": 2481,
-      "ctr": 0.005239822652156389,
-      "position": 13.612656187021363
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 12,
-      "impressions": 2133,
-      "ctr": 0.005625879043600563,
-      "position": 24.06375996249414
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 6,
-      "impressions": 2065,
-      "ctr": 0.0029055690072639223,
-      "position": 16.914285714285715
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 13,
-      "impressions": 1967,
-      "ctr": 0.0066090493136756485,
-      "position": 16.53584138281647
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 12,
-      "impressions": 1787,
-      "ctr": 0.006715165081141578,
-      "position": 16.26804700615557
-    },
     {
       "date": "2026-01-04",
       "clicks": 11,
@@ -640,295 +500,477 @@
       "impressions": 3949,
       "ctr": 0.0032919726513041276,
       "position": 17.506457330969866
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 6,
+      "impressions": 3922,
+      "ctr": 0.0015298317185109638,
+      "position": 17.771035186129527
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 16,
+      "impressions": 6163,
+      "ctr": 0.0025961382443615124,
+      "position": 13.503813078046406
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 15,
+      "impressions": 3978,
+      "ctr": 0.003770739064856712,
+      "position": 14.351935646053294
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 19,
+      "impressions": 4294,
+      "ctr": 0.004424778761061947,
+      "position": 17.273870517000464
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 12,
+      "impressions": 4486,
+      "ctr": 0.0026749888542131075,
+      "position": 14.688809629959875
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 14,
+      "impressions": 2285,
+      "ctr": 0.00612691466083151,
+      "position": 12.913347921225382
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 11,
+      "impressions": 4960,
+      "ctr": 0.002217741935483871,
+      "position": 17.445564516129032
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 17,
+      "impressions": 6390,
+      "ctr": 0.0026604068857589984,
+      "position": 21.764632237871673
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 19,
+      "impressions": 5325,
+      "ctr": 0.003568075117370892,
+      "position": 9.974647887323943
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 8,
+      "impressions": 3213,
+      "ctr": 0.0024898848428260194,
+      "position": 14.757547463429816
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 29,
+      "impressions": 14320,
+      "ctr": 0.0020251396648044693,
+      "position": 4.510195530726257
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 15,
+      "impressions": 2430,
+      "ctr": 0.006172839506172839,
+      "position": 13.72798353909465
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 23,
+      "impressions": 2369,
+      "ctr": 0.009708737864077669,
+      "position": 13.736175601519628
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 10,
+      "impressions": 2759,
+      "ctr": 0.003624501631025734,
+      "position": 16.3098948894527
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 15,
+      "impressions": 2693,
+      "ctr": 0.005569996286669142,
+      "position": 13.53806164129224
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 20,
+      "impressions": 6083,
+      "ctr": 0.003287851389117212,
+      "position": 11.160118362650008
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 16,
+      "impressions": 2880,
+      "ctr": 0.005555555555555556,
+      "position": 10.982986111111112
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 12,
+      "impressions": 3008,
+      "ctr": 0.003989361702127659,
+      "position": 12.22938829787234
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 14,
+      "impressions": 3065,
+      "ctr": 0.004567699836867863,
+      "position": 12.086133768352365
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 15,
+      "impressions": 2955,
+      "ctr": 0.005076142131979695,
+      "position": 12.949915397631134
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 11,
+      "impressions": 3092,
+      "ctr": 0.0035575679172056922,
+      "position": 12.060802069857697
     }
   ],
   "topQueries": [
     {
       "query": "gator garage doors",
-      "clicks": 384,
-      "impressions": 1820,
-      "ctr": 0.210989010989011,
-      "position": 1.8483516483516484
+      "clicks": 437,
+      "impressions": 1926,
+      "ctr": 0.2268951194184839,
+      "position": 1.7938733125649013
     },
     {
       "query": "gator garage door repair",
-      "clicks": 75,
-      "impressions": 621,
-      "ctr": 0.12077294685990338,
-      "position": 1.9210950080515299
+      "clicks": 78,
+      "impressions": 612,
+      "ctr": 0.12745098039215685,
+      "position": 1.9313725490196079
     },
     {
       "query": "gator garage door",
-      "clicks": 60,
+      "clicks": 61,
       "impressions": 229,
-      "ctr": 0.26200873362445415,
-      "position": 3.663755458515284
+      "ctr": 0.2663755458515284,
+      "position": 3.567685589519651
     },
     {
       "query": "gator garage doors austin",
-      "clicks": 52,
-      "impressions": 152,
-      "ctr": 0.34210526315789475,
-      "position": 1.486842105263158
+      "clicks": 50,
+      "impressions": 163,
+      "ctr": 0.3067484662576687,
+      "position": 1.521472392638037
     },
     {
       "query": "gator garage",
-      "clicks": 44,
-      "impressions": 304,
-      "ctr": 0.14473684210526316,
-      "position": 5.8256578947368425
+      "clicks": 46,
+      "impressions": 330,
+      "ctr": 0.1393939393939394,
+      "position": 4.903030303030302
     },
     {
       "query": "garage door repair round rock",
       "clicks": 16,
-      "impressions": 1790,
-      "ctr": 0.008938547486033519,
-      "position": 9.884916201117319
+      "impressions": 2201,
+      "ctr": 0.007269422989550204,
+      "position": 7.462062698773285
     },
     {
       "query": "high cycle garage door springs",
-      "clicks": 13,
-      "impressions": 351,
-      "ctr": 0.037037037037037035,
-      "position": 6.096866096866097
-    },
-    {
-      "query": "gator garage door repair austin",
-      "clicks": 11,
-      "impressions": 44,
-      "ctr": 0.25,
-      "position": 1.5909090909090908
-    },
-    {
-      "query": "garage door repair georgetown tx",
-      "clicks": 10,
-      "impressions": 1121,
-      "ctr": 0.008920606601248885,
-      "position": 14.131132917038359
+      "clicks": 14,
+      "impressions": 387,
+      "ctr": 0.03617571059431524,
+      "position": 6.5090439276485785
     },
     {
       "query": "garage door repair austin",
-      "clicks": 9,
-      "impressions": 3296,
-      "ctr": 0.0027305825242718447,
-      "position": 16.367111650485437
+      "clicks": 13,
+      "impressions": 3957,
+      "ctr": 0.0032853171594642407,
+      "position": 14.282537275713924
     },
     {
-      "query": "garage door repair near me",
-      "clicks": 8,
-      "impressions": 5168,
-      "ctr": 0.0015479876160990713,
-      "position": 7.885835913312693
+      "query": "garage door repair georgetown tx",
+      "clicks": 12,
+      "impressions": 1180,
+      "ctr": 0.010169491525423728,
+      "position": 12.349152542372881
+    },
+    {
+      "query": "gator garage door repair austin",
+      "clicks": 12,
+      "impressions": 52,
+      "ctr": 0.23076923076923078,
+      "position": 1.5192307692307692
     },
     {
       "query": "gator garage door repair reviews",
       "clicks": 8,
-      "impressions": 101,
-      "ctr": 0.07920792079207921,
-      "position": 10.445544554455445
+      "impressions": 107,
+      "ctr": 0.07476635514018691,
+      "position": 5.738317757009346
+    },
+    {
+      "query": "garage door repair near me",
+      "clicks": 7,
+      "impressions": 5678,
+      "ctr": 0.0012328284607256077,
+      "position": 6.833568157802043
     },
     {
       "query": "garage doors",
-      "clicks": 6,
-      "impressions": 805,
-      "ctr": 0.007453416149068323,
-      "position": 3.1813664596273292
+      "clicks": 7,
+      "impressions": 1075,
+      "ctr": 0.0065116279069767444,
+      "position": 3.2027906976744185
     },
     {
       "query": "austin garage door repair",
       "clicks": 5,
-      "impressions": 1350,
-      "ctr": 0.003703703703703704,
-      "position": 13.65925925925926
-    },
-    {
-      "query": "garage door repair",
-      "clicks": 5,
-      "impressions": 5109,
-      "ctr": 0.0009786651008025053,
-      "position": 2.7739283617146215
+      "impressions": 1507,
+      "ctr": 0.0033178500331785005,
+      "position": 13.122760451227604
     },
     {
       "query": "garage door austin",
-      "clicks": 4,
-      "impressions": 274,
-      "ctr": 0.014598540145985401,
-      "position": 7.828467153284672
+      "clicks": 5,
+      "impressions": 314,
+      "ctr": 0.01592356687898089,
+      "position": 7.614649681528663
     },
     {
       "query": "gator garage doors georgetown",
+      "clicks": 5,
+      "impressions": 258,
+      "ctr": 0.01937984496124031,
+      "position": 1.1472868217054264
+    },
+    {
+      "query": "garage door repair",
       "clicks": 4,
-      "impressions": 243,
-      "ctr": 0.01646090534979424,
-      "position": 1.123456790123457
+      "impressions": 5728,
+      "ctr": 0.0006983240223463687,
+      "position": 2.6010824022346366
     },
     {
       "query": "50,000 cycle garage door springs",
       "clicks": 3,
-      "impressions": 61,
-      "ctr": 0.04918032786885246,
-      "position": 2.459016393442623
+      "impressions": 62,
+      "ctr": 0.04838709677419355,
+      "position": 2.82258064516129
     },
     {
       "query": "garage door",
       "clicks": 3,
-      "impressions": 377,
-      "ctr": 0.007957559681697613,
-      "position": 2.1511936339522544
+      "impressions": 371,
+      "ctr": 0.008086253369272238,
+      "position": 2.2991913746630726
     },
     {
-      "query": "garage door beeping and not opening",
+      "query": "garage door repair in austin",
       "clicks": 3,
-      "impressions": 127,
-      "ctr": 0.023622047244094488,
-      "position": 3.0551181102362204
+      "impressions": 573,
+      "ctr": 0.005235602094240838,
+      "position": 15.434554973821989
     },
     {
-      "query": "garage door repair austin tx",
+      "query": "garage door repair pflugerville",
       "clicks": 3,
-      "impressions": 1493,
-      "ctr": 0.0020093770931011385,
-      "position": 17.781647689216342
+      "impressions": 458,
+      "ctr": 0.006550218340611353,
+      "position": 20.467248908296945
     },
     {
       "query": "garage door repair round rock tx",
       "clicks": 3,
-      "impressions": 822,
-      "ctr": 0.0036496350364963502,
-      "position": 8.570559610705596
-    },
-    {
-      "query": "garage gator",
-      "clicks": 3,
-      "impressions": 4,
-      "ctr": 0.75,
-      "position": 9.75
-    },
-    {
-      "query": "gator door",
-      "clicks": 3,
-      "impressions": 25,
-      "ctr": 0.12,
-      "position": 10.6
+      "impressions": 825,
+      "ctr": 0.0036363636363636364,
+      "position": 8.68
     },
     {
       "query": "gator garage door services",
       "clicks": 3,
-      "impressions": 224,
-      "ctr": 0.013392857142857142,
-      "position": 6.870535714285714
+      "impressions": 231,
+      "ctr": 0.012987012987012988,
+      "position": 6.623376623376624
+    },
+    {
+      "query": "50000 cycle garage door springs",
+      "clicks": 2,
+      "impressions": 73,
+      "ctr": 0.0273972602739726,
+      "position": 4.808219178082192
+    },
+    {
+      "query": "austin garage door mechanics",
+      "clicks": 2,
+      "impressions": 189,
+      "ctr": 0.010582010582010581,
+      "position": 16.465608465608465
     },
     {
       "query": "emergency garage door repair austin",
       "clicks": 2,
-      "impressions": 772,
-      "ctr": 0.0025906735751295338,
-      "position": 33.27979274611399
+      "impressions": 778,
+      "ctr": 0.002570694087403599,
+      "position": 31.020565552699228
     },
     {
-      "query": "garage door repair in austin",
+      "query": "garage door beeping and not opening",
       "clicks": 2,
-      "impressions": 461,
-      "ctr": 0.004338394793926247,
-      "position": 16.48373101952278
+      "impressions": 122,
+      "ctr": 0.01639344262295082,
+      "position": 3.2295081967213113
+    },
+    {
+      "query": "garage door cable diagram",
+      "clicks": 2,
+      "impressions": 208,
+      "ctr": 0.009615384615384616,
+      "position": 9.677884615384615
+    },
+    {
+      "query": "garage door maintenance near me",
+      "clicks": 2,
+      "impressions": 181,
+      "ctr": 0.011049723756906077,
+      "position": 13.11049723756906
+    },
+    {
+      "query": "garage door repair austin tx",
+      "clicks": 2,
+      "impressions": 1626,
+      "ctr": 0.0012300123001230013,
+      "position": 16.11070110701107
     },
     {
       "query": "garage door repair lakeway",
       "clicks": 2,
-      "impressions": 334,
-      "ctr": 0.005988023952095809,
-      "position": 7.344311377245509
+      "impressions": 376,
+      "ctr": 0.005319148936170213,
+      "position": 7.2712765957446805
     },
     {
-      "query": "garage door repair pflugerville",
+      "query": "garage door repair round rock texas",
       "clicks": 2,
-      "impressions": 400,
-      "ctr": 0.005,
-      "position": 20.33
+      "impressions": 312,
+      "ctr": 0.00641025641025641,
+      "position": 6.1506410256410255
     },
     {
-      "query": "garage doors near me",
+      "query": "garage door service near me",
       "clicks": 2,
-      "impressions": 56,
-      "ctr": 0.03571428571428571,
-      "position": 8
+      "impressions": 546,
+      "ctr": 0.003663003663003663,
+      "position": 5.225274725274725
     },
     {
       "query": "garage doors with windows",
       "clicks": 2,
-      "impressions": 23,
-      "ctr": 0.08695652173913043,
-      "position": 6.130434782608695
+      "impressions": 21,
+      "ctr": 0.09523809523809523,
+      "position": 5.809523809523809
     },
     {
-      "query": "genie 3142 reviews",
+      "query": "garage repair austin",
       "clicks": 2,
-      "impressions": 6,
-      "ctr": 0.3333333333333333,
-      "position": 9.333333333333334
+      "impressions": 226,
+      "ctr": 0.008849557522123894,
+      "position": 7.446902654867257
+    },
+    {
+      "query": "gator doors",
+      "clicks": 2,
+      "impressions": 8,
+      "ctr": 0.25,
+      "position": 3.125
     },
     {
       "query": "guild garage group",
       "clicks": 2,
-      "impressions": 44,
-      "ctr": 0.045454545454545456,
-      "position": 12.272727272727273
+      "impressions": 47,
+      "ctr": 0.0425531914893617,
+      "position": 12.297872340425531
     },
     {
       "query": "high cycle garage door torsion springs",
       "clicks": 2,
-      "impressions": 58,
-      "ctr": 0.034482758620689655,
-      "position": 4.224137931034482
+      "impressions": 59,
+      "ctr": 0.03389830508474576,
+      "position": 3.9491525423728815
     },
     {
-      "query": "why is my garage door opener beeping",
+      "query": "round rock garage doors",
       "clicks": 2,
-      "impressions": 1540,
-      "ctr": 0.0012987012987012987,
-      "position": 3.9506493506493507
+      "impressions": 72,
+      "ctr": 0.027777777777777776,
+      "position": 4.458333333333334
     },
     {
-      "query": "50000 cycle garage door springs",
+      "query": "alladin garage door",
       "clicks": 1,
-      "impressions": 70,
-      "ctr": 0.014285714285714285,
-      "position": 4.271428571428571
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
     },
     {
       "query": "alligator garage doors",
       "clicks": 1,
-      "impressions": 19,
-      "ctr": 0.05263157894736842,
-      "position": 8.789473684210527
-    },
-    {
-      "query": "austin garage door mechanics",
-      "clicks": 1,
-      "impressions": 194,
-      "ctr": 0.005154639175257732,
-      "position": 17.81958762886598
+      "impressions": 21,
+      "ctr": 0.047619047619047616,
+      "position": 9.19047619047619
     },
     {
       "query": "austin tx garage door repair",
       "clicks": 1,
-      "impressions": 241,
-      "ctr": 0.004149377593360996,
-      "position": 15.103734439834025
+      "impressions": 298,
+      "ctr": 0.003355704697986577,
+      "position": 14.966442953020135
     },
     {
       "query": "bee cave garage door repair",
       "clicks": 1,
-      "impressions": 57,
-      "ctr": 0.017543859649122806,
-      "position": 3.456140350877193
+      "impressions": 89,
+      "ctr": 0.011235955056179775,
+      "position": 5.179775280898877
     },
     {
       "query": "best garage door repair",
       "clicks": 1,
-      "impressions": 12,
-      "ctr": 0.08333333333333333,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
       "position": 1
+    },
+    {
+      "query": "best garage door repair austin",
+      "clicks": 1,
+      "impressions": 192,
+      "ctr": 0.005208333333333333,
+      "position": 15.458333333333334
+    },
+    {
+      "query": "best garage door repair near me",
+      "clicks": 1,
+      "impressions": 86,
+      "ctr": 0.011627906976744186,
+      "position": 13
     },
     {
       "query": "best garage door service near me",
@@ -940,16 +982,16 @@
     {
       "query": "chamberlain garage door opener beeping",
       "clicks": 1,
-      "impressions": 587,
-      "ctr": 0.0017035775127768314,
-      "position": 2.361158432708688
+      "impressions": 488,
+      "ctr": 0.0020491803278688526,
+      "position": 3.1987704918032787
     },
     {
       "query": "commercial door repair austin",
       "clicks": 1,
-      "impressions": 622,
-      "ctr": 0.001607717041800643,
-      "position": 20.368167202572348
+      "impressions": 651,
+      "ctr": 0.0015360983102918587,
+      "position": 20.274961597542244
     },
     {
       "query": "do garage door springs wear out",
@@ -961,9 +1003,9 @@
     {
       "query": "emergency garage door repair",
       "clicks": 1,
-      "impressions": 1150,
-      "ctr": 0.0008695652173913044,
-      "position": 7.511304347826087
+      "impressions": 1672,
+      "ctr": 0.0005980861244019139,
+      "position": 5.136961722488039
     },
     {
       "query": "front door replacement",
@@ -982,369 +1024,2790 @@
     {
       "query": "garage door beeping",
       "clicks": 1,
-      "impressions": 828,
-      "ctr": 0.0012077294685990338,
-      "position": 1.9384057971014492
+      "impressions": 718,
+      "ctr": 0.001392757660167131,
+      "position": 2.084958217270195
     },
     {
-      "query": "garage door cable diagram",
+      "query": "garage door beeps and won't open",
       "clicks": 1,
-      "impressions": 131,
-      "ctr": 0.007633587786259542,
-      "position": 10.320610687022901
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 1.7142857142857144
+    },
+    {
+      "query": "garage door cable drum install",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 16
+    },
+    {
+      "query": "garage door closes by itself",
+      "clicks": 1,
+      "impressions": 31,
+      "ctr": 0.03225806451612903,
+      "position": 9.32258064516129
+    },
+    {
+      "query": "garage door companies in austin tx",
+      "clicks": 1,
+      "impressions": 52,
+      "ctr": 0.019230769230769232,
+      "position": 13.673076923076923
+    },
+    {
+      "query": "garage door company",
+      "clicks": 1,
+      "impressions": 2066,
+      "ctr": 0.000484027105517909,
+      "position": 2.0319457889641823
+    },
+    {
+      "query": "garage door financing",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 26.285714285714285
+    },
+    {
+      "query": "garage door financing no credit check",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 31
+    },
+    {
+      "query": "garage door gets stuck going up when cold",
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 1.7666666666666666
+    },
+    {
+      "query": "garage door in texas",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 16
+    },
+    {
+      "query": "garage door installation",
+      "clicks": 1,
+      "impressions": 4135,
+      "ctr": 0.0002418379685610641,
+      "position": 1.958162031438936
+    },
+    {
+      "query": "garage door installation austin",
+      "clicks": 1,
+      "impressions": 1309,
+      "ctr": 0.0007639419404125286,
+      "position": 15.619556913674561
+    },
+    {
+      "query": "garage door installation austin tx",
+      "clicks": 1,
+      "impressions": 664,
+      "ctr": 0.0015060240963855422,
+      "position": 15.018072289156626
+    },
+    {
+      "query": "garage door installation round rock",
+      "clicks": 1,
+      "impressions": 375,
+      "ctr": 0.0026666666666666666,
+      "position": 7.144
+    },
+    {
+      "query": "garage door installation texas",
+      "clicks": 1,
+      "impressions": 26,
+      "ctr": 0.038461538461538464,
+      "position": 53.5
+    },
+    {
+      "query": "garage door not opening but motor running",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 57.90909090909091
+    },
+    {
+      "query": "garage door opener repair austin",
+      "clicks": 1,
+      "impressions": 810,
+      "ctr": 0.0012345679012345679,
+      "position": 19.164197530864197
+    },
+    {
+      "query": "garage door opener sticks in cold weather",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 1
+    },
+    {
+      "query": "garage door panels for sale",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3.5
+    },
+    {
+      "query": "garage door parts",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 1.1176470588235294
+    },
+    {
+      "query": "garage door parts near me",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 1.4444444444444444
+    },
+    {
+      "query": "garage door repair buda",
+      "clicks": 1,
+      "impressions": 778,
+      "ctr": 0.0012853470437017994,
+      "position": 8.952442159383033
+    },
+    {
+      "query": "garage door repair buda tx",
+      "clicks": 1,
+      "impressions": 103,
+      "ctr": 0.009708737864077669,
+      "position": 8.844660194174757
+    },
+    {
+      "query": "garage door repair free estimate",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "garage door repair hutto",
+      "clicks": 1,
+      "impressions": 108,
+      "ctr": 0.009259259259259259,
+      "position": 13.675925925925926
+    },
+    {
+      "query": "garage door repair in round rock",
+      "clicks": 1,
+      "impressions": 318,
+      "ctr": 0.0031446540880503146,
+      "position": 8.015723270440251
+    },
+    {
+      "query": "garage door repair in texas",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 23.09090909090909
+    },
+    {
+      "query": "garage door repair leander",
+      "clicks": 1,
+      "impressions": 280,
+      "ctr": 0.0035714285714285713,
+      "position": 13.189285714285715
+    },
+    {
+      "query": "garage door repair manor tx",
+      "clicks": 1,
+      "impressions": 135,
+      "ctr": 0.007407407407407408,
+      "position": 8.148148148148149
+    },
+    {
+      "query": "garage door repair service near me",
+      "clicks": 1,
+      "impressions": 137,
+      "ctr": 0.0072992700729927005,
+      "position": 12.503649635036496
+    },
+    {
+      "query": "garage door repairs",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 1
+    },
+    {
+      "query": "garage door replacement",
+      "clicks": 1,
+      "impressions": 2223,
+      "ctr": 0.000449842555105713,
+      "position": 1.3454790823211875
+    },
+    {
+      "query": "garage door service",
+      "clicks": 1,
+      "impressions": 543,
+      "ctr": 0.001841620626151013,
+      "position": 1.9300184162062615
+    },
+    {
+      "query": "garage door service georgetown tx",
+      "clicks": 1,
+      "impressions": 51,
+      "ctr": 0.0196078431372549,
+      "position": 11.058823529411764
+    },
+    {
+      "query": "garage door spring repair near me",
+      "clicks": 1,
+      "impressions": 399,
+      "ctr": 0.002506265664160401,
+      "position": 1.4360902255639099
+    },
+    {
+      "query": "garage door spring replacement nearby",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "garage door springs",
+      "clicks": 1,
+      "impressions": 105,
+      "ctr": 0.009523809523809525,
+      "position": 14.142857142857142
+    },
+    {
+      "query": "garage door springs austin tx",
+      "clicks": 1,
+      "impressions": 162,
+      "ctr": 0.006172839506172839,
+      "position": 22.765432098765434
+    },
+    {
+      "query": "garage door springs life expectancy",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 14.272727272727273
+    },
+    {
+      "query": "garage door springs near me",
+      "clicks": 1,
+      "impressions": 33,
+      "ctr": 0.030303030303030304,
+      "position": 20.575757575757574
+    },
+    {
+      "query": "garage door sticks when cold",
+      "clicks": 1,
+      "impressions": 92,
+      "ctr": 0.010869565217391304,
+      "position": 3.0434782608695654
+    },
+    {
+      "query": "garage door tune up near me",
+      "clicks": 1,
+      "impressions": 72,
+      "ctr": 0.013888888888888888,
+      "position": 7.277777777777778
+    },
+    {
+      "query": "garage doors austin",
+      "clicks": 1,
+      "impressions": 439,
+      "ctr": 0.002277904328018223,
+      "position": 16.0250569476082
+    },
+    {
+      "query": "garage doors near me",
+      "clicks": 1,
+      "impressions": 39,
+      "ctr": 0.02564102564102564,
+      "position": 1.5897435897435899
+    },
+    {
+      "query": "garage gator",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 12.5
+    },
+    {
+      "query": "garage service near me",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 1.8571428571428572
+    },
+    {
+      "query": "garage tune up",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "gargae",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 2
+    },
+    {
+      "query": "gator",
+      "clicks": 1,
+      "impressions": 136,
+      "ctr": 0.007352941176470588,
+      "position": 6.764705882352941
+    },
+    {
+      "query": "gator door",
+      "clicks": 1,
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 13.444444444444445
+    },
+    {
+      "query": "gator door repair",
+      "clicks": 1,
+      "impressions": 56,
+      "ctr": 0.017857142857142856,
+      "position": 5.035714285714286
+    },
+    {
+      "query": "gator service",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "genie 3142 garage door opener",
+      "clicks": 1,
+      "impressions": 49,
+      "ctr": 0.02040816326530612,
+      "position": 9.10204081632653
+    },
+    {
+      "query": "georgetown garage door repair",
+      "clicks": 1,
+      "impressions": 298,
+      "ctr": 0.003355704697986577,
+      "position": 12.697986577181208
+    },
+    {
+      "query": "glass garage doors austin tx",
+      "clicks": 1,
+      "impressions": 114,
+      "ctr": 0.008771929824561403,
+      "position": 20.394736842105264
+    },
+    {
+      "query": "high cycle springs",
+      "clicks": 1,
+      "impressions": 41,
+      "ctr": 0.024390243902439025,
+      "position": 6.560975609756097
+    },
+    {
+      "query": "high cycle torsion springs",
+      "clicks": 1,
+      "impressions": 42,
+      "ctr": 0.023809523809523808,
+      "position": 4.523809523809524
+    },
+    {
+      "query": "hormann garage door cable replacement instructions",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 46
+    },
+    {
+      "query": "how long does a garage door spring last",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 38.07142857142857
+    },
+    {
+      "query": "how to cut garage door cable",
+      "clicks": 1,
+      "impressions": 33,
+      "ctr": 0.030303030303030304,
+      "position": 7.03030303030303
+    },
+    {
+      "query": "how to replace garage door cables",
+      "clicks": 1,
+      "impressions": 83,
+      "ctr": 0.012048192771084338,
+      "position": 13.831325301204819
+    },
+    {
+      "query": "industrial garage door service",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 23
+    },
+    {
+      "query": "industrial garage door sizes",
+      "clicks": 1,
+      "impressions": 133,
+      "ctr": 0.007518796992481203,
+      "position": 41.68421052631579
+    },
+    {
+      "query": "liftmaster garage door repair",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 49.53333333333333
+    },
+    {
+      "query": "liftmaster garage door service near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "linear garage door opener beeping",
+      "clicks": 1,
+      "impressions": 21,
+      "ctr": 0.047619047619047616,
+      "position": 22.571428571428573
+    },
+    {
+      "query": "online estimates garage door repair",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 4.6
+    },
+    {
+      "query": "overhead doors austin tx",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 26.466666666666665
+    },
+    {
+      "query": "residential garage door repair austin",
+      "clicks": 1,
+      "impressions": 209,
+      "ctr": 0.004784688995215311,
+      "position": 24.698564593301434
+    },
+    {
+      "query": "residential garage repair near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "round rock garage door companies",
+      "clicks": 1,
+      "impressions": 80,
+      "ctr": 0.0125,
+      "position": 7.95
+    },
+    {
+      "query": "round rock garage door repair",
+      "clicks": 1,
+      "impressions": 425,
+      "ctr": 0.002352941176470588,
+      "position": 6.689411764705882
+    },
+    {
+      "query": "running on battery operated lights disabled",
+      "clicks": 1,
+      "impressions": 23,
+      "ctr": 0.043478260869565216,
+      "position": 1.8695652173913042
+    },
+    {
+      "query": "sizes",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "where to buy garage door track",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "why is my garage door opener beeping",
+      "clicks": 1,
+      "impressions": 1636,
+      "ctr": 0.0006112469437652812,
+      "position": 4.709657701711492
+    },
+    {
+      "query": "why is my roller door beeping",
+      "clicks": 1,
+      "impressions": 28,
+      "ctr": 0.03571428571428571,
+      "position": 1.5
+    },
+    {
+      "query": "wood garage doors",
+      "clicks": 1,
+      "impressions": 77,
+      "ctr": 0.012987012987012988,
+      "position": 8.7012987012987
+    },
+    {
+      "query": "\"a1 garage door service\" \"round rock\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 44
+    },
+    {
+      "query": "\"garage door repair solutions\" 32210",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"gator garage door repair\" \"(512) 518-5544\"",
+      "clicks": 0,
+      "impressions": 41,
+      "ctr": 0,
+      "position": 22.29268292682927
+    },
+    {
+      "query": "\"gator garage door repair\" \"(512) 524-7703\"",
+      "clicks": 0,
+      "impressions": 38,
+      "ctr": 0,
+      "position": 21.36842105263158
+    },
+    {
+      "query": "\"gator garage door repair\" \"16713 joe barbee dr\"",
+      "clicks": 0,
+      "impressions": 46,
+      "ctr": 0,
+      "position": 22.043478260869566
+    },
+    {
+      "query": "\"gator garage door repair\" \"3100 scott dr suite 201\"",
+      "clicks": 0,
+      "impressions": 43,
+      "ctr": 0,
+      "position": 22.209302325581394
+    },
+    {
+      "query": "\"gator garage door repair\" \"78664\"",
+      "clicks": 0,
+      "impressions": 62,
+      "ctr": 0,
+      "position": 23.274193548387096
+    },
+    {
+      "query": "\"gator garage door repair\" \"78734\"",
+      "clicks": 0,
+      "impressions": 56,
+      "ctr": 0,
+      "position": 21.267857142857142
+    },
+    {
+      "query": "\"gator garage door repair\" \"austin\"",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 1.4
+    },
+    {
+      "query": "\"gator garage door repair\" \"gatorgaragedoorrepair.com\"",
+      "clicks": 0,
+      "impressions": 91,
+      "ctr": 0,
+      "position": 21.406593406593405
+    },
+    {
+      "query": "\"gator garage door repair\" \"round rock\"",
+      "clicks": 0,
+      "impressions": 50,
+      "ctr": 0,
+      "position": 23.74
+    },
+    {
+      "query": "\"gator garage doors georgetown\" \"georgetown\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"gator garage doors\" \"78738\"",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 6.8
+    },
+    {
+      "query": "\"gator garage doors\" \"bee cave\"",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 25.666666666666668
+    },
+    {
+      "query": "\"leave a comment\" website garage door services",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 110
+    },
+    {
+      "query": "\"round rock overhead pros\" \"78681\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "1 car garage door size",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 71.6
+    },
+    {
+      "query": "10 ft garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "10ft tall garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "10x10 garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "10x10 garage door kit",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "10x10 insulated garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "10x10 roll up garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "10x10 shop door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "10x7 garage doors for sale",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "12x12 garage door for sale",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "18 inch garage door torsion spring winding bars",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "2 1/2 car garage",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "2 car garage door height",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 50
+    },
+    {
+      "query": "2 car garage door replacement cost near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "2 car garage door sizes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "2 car garage door sizes standard",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 61
+    },
+    {
+      "query": "2 car garage door standard size",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 75
+    },
+    {
+      "query": "2-car garage door replacement cost near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 99
+    },
+    {
+      "query": "2016 honda odyssey sliding door not working",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hour door repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hour emergency door repair near me",
+      "clicks": 0,
+      "impressions": 70,
+      "ctr": 0,
+      "position": 62.65714285714286
+    },
+    {
+      "query": "24 hour emergency garage door repair blue tx",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hour emergency garage door repair cedar park tx",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hour emergency garage door repair giddings tx",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hour emergency garage door repair lexington tx",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 5.5
+    },
+    {
+      "query": "24 hour emergency garage door repair thrall tx",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hour garage",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hour garage door repair",
+      "clicks": 0,
+      "impressions": 447,
+      "ctr": 0,
+      "position": 5.769574944071588
+    },
+    {
+      "query": "24 hour garage door repair austin",
+      "clicks": 0,
+      "impressions": 156,
+      "ctr": 0,
+      "position": 42.8525641025641
+    },
+    {
+      "query": "24 hour garage door repair austin tx",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 43.18181818181818
+    },
+    {
+      "query": "24 hour garage door repair jonestown tx",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 24.933333333333334
+    },
+    {
+      "query": "24 hour garage door repair liberty",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 45.6
+    },
+    {
+      "query": "24 hour garage door service and repair, garage door service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "24-hour garage repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24/7 emergency garage door services",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 59
+    },
+    {
+      "query": "24/7 garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24/7 garage door repair",
+      "clicks": 0,
+      "impressions": 170,
+      "ctr": 0,
+      "position": 63.85294117647059
+    },
+    {
+      "query": "24/7 garage door repair austin",
+      "clicks": 0,
+      "impressions": 211,
+      "ctr": 0,
+      "position": 36.26066350710901
+    },
+    {
+      "query": "24/7 garage door repair in austin",
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 16.38888888888889
+    },
+    {
+      "query": "24/7 garage door service",
+      "clicks": 0,
+      "impressions": 72,
+      "ctr": 0,
+      "position": 79.22222222222223
+    },
+    {
+      "query": "24/7 garage door services",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "24/7 garage doors repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 92
+    },
+    {
+      "query": "247 garage door repair reviews",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 90.57142857142857
+    },
+    {
+      "query": "24hr sliding door repair",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24x36 garage cost",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "25000 cycle garage door springs",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "3 car garage",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "3 car garage dimensions",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "3 car garage door dimensions",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 45.5
+    },
+    {
+      "query": "3 car garage door size",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 40
+    },
+    {
+      "query": "512 garage doors",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 27.166666666666668
+    },
+    {
+      "query": "7055 genie",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "7055d",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 7.8
     }
   ],
   "topPages": [
     {
       "page": "https://www.gatorgaragedoorrepair.com/",
-      "clicks": 441,
-      "impressions": 36111,
-      "ctr": 0.012212345268754672,
-      "position": 15.952369084212567
+      "clicks": 478,
+      "impressions": 40432,
+      "ctr": 0.011822318955282945,
+      "position": 15.304288682231896
     },
     {
       "page": "https://www.gatorgaragedoorrepair.com/service-area/round-rock-tx/?utm_source=google&utm_medium=organic&utm_campaign=GMB%20-%2078664",
-      "clicks": 293,
-      "impressions": 26848,
-      "ctr": 0.010913289630512515,
-      "position": 3.8363751489868894
+      "clicks": 335,
+      "impressions": 34168,
+      "ctr": 0.009804495434324514,
+      "position": 3.742888082416296
     },
     {
       "page": "https://www.gatorgaragedoorrepair.com/blog/high-cycle-garage-door-springs-vs-10000-cycle-springs-austin-cost-difference/",
-      "clicks": 113,
-      "impressions": 5932,
-      "ctr": 0.019049224544841536,
-      "position": 7.442852326365475
+      "clicks": 111,
+      "impressions": 6432,
+      "ctr": 0.017257462686567165,
+      "position": 6.937810945273632
     },
     {
       "page": "https://www.gatorgaragedoorrepair.com/service-area/austin-tx/?utm_source=google&utm_medium=organic&utm_campaign=GMB%2078734",
-      "clicks": 90,
-      "impressions": 13868,
-      "ctr": 0.0064897605999423135,
-      "position": 5.780573983270839
+      "clicks": 86,
+      "impressions": 21027,
+      "ctr": 0.00408997955010225,
+      "position": 4.625101060541208
     },
     {
       "page": "https://www.gatorgaragedoorrepair.com/blog/garage-door-opener-making-beeping-sound/",
-      "clicks": 66,
-      "impressions": 37094,
-      "ctr": 0.0017792634927481534,
-      "position": 3.8276001509678115
+      "clicks": 65,
+      "impressions": 37570,
+      "ctr": 0.0017301038062283738,
+      "position": 4.156774021825925
     },
     {
       "page": "https://www.gatorgaragedoorrepair.com/service-area/georgetown-tx/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
-      "clicks": 55,
-      "impressions": 12103,
-      "ctr": 0.004544327852598529,
-      "position": 3.4332810047095763
+      "clicks": 48,
+      "impressions": 9411,
+      "ctr": 0.005100414408670704,
+      "position": 3.4098395494633937
     },
     {
       "page": "https://www.gatorgaragedoorrepair.com/service-area/round-rock-tx/",
-      "clicks": 46,
-      "impressions": 12958,
-      "ctr": 0.003549930544837166,
-      "position": 10.610433708905695
+      "clicks": 48,
+      "impressions": 15312,
+      "ctr": 0.003134796238244514,
+      "position": 8.935932601880879
     },
     {
       "page": "https://www.gatorgaragedoorrepair.com/service-area/bee-cave-tx/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
-      "clicks": 43,
-      "impressions": 12565,
-      "ctr": 0.0034222045364106645,
-      "position": 4.361878233187426
+      "clicks": 41,
+      "impressions": 18187,
+      "ctr": 0.0022543575081101887,
+      "position": 3.382745917413537
     },
     {
       "page": "https://www.gatorgaragedoorrepair.com/service-area/austin-tx/",
-      "clicks": 27,
-      "impressions": 10732,
-      "ctr": 0.0025158404770778977,
-      "position": 25.80721207603429
-    },
-    {
-      "page": "https://www.gatorgaragedoorrepair.com/blog/guide-to-garage-door-cable-replacement/",
-      "clicks": 22,
-      "impressions": 56264,
-      "ctr": 0.0003910137921228494,
-      "position": 35.464915398834066
+      "clicks": 32,
+      "impressions": 10884,
+      "ctr": 0.002940095553105476,
+      "position": 25.36135611907387
     },
     {
       "page": "https://www.gatorgaragedoorrepair.com/service-area/georgetown-tx/",
-      "clicks": 20,
-      "impressions": 5613,
-      "ctr": 0.0035631569570639585,
-      "position": 13.507928024229468
+      "clicks": 31,
+      "impressions": 9331,
+      "ctr": 0.0033222591362126247,
+      "position": 8.933018969027971
+    },
+    {
+      "page": "https://www.gatorgaragedoorrepair.com/blog/guide-to-garage-door-cable-replacement/",
+      "clicks": 28,
+      "impressions": 67491,
+      "ctr": 0.0004148701308322591,
+      "position": 32.25278926079032
     },
     {
       "page": "https://www.gatorgaragedoorrepair.com/contact/",
-      "clicks": 19,
-      "impressions": 3958,
-      "ctr": 0.004800404244567963,
-      "position": 5.974229408792319
+      "clicks": 26,
+      "impressions": 4287,
+      "ctr": 0.006064847212502915,
+      "position": 5.773501282948449
     },
     {
       "page": "https://www.gatorgaragedoorrepair.com/blog/how-do-i-know-if-the-sensors-on-my-garage-door-are-misaligned/",
-      "clicks": 18,
-      "impressions": 4129,
-      "ctr": 0.004359409057883265,
-      "position": 8.06708646161298
+      "clicks": 19,
+      "impressions": 4515,
+      "ctr": 0.004208194905869324,
+      "position": 9.180066445182725
     },
     {
-      "page": "https://www.gatorgaragedoorrepair.com/blog/common-garage-door-opener-problems-and-how-to-fix-them/",
-      "clicks": 13,
-      "impressions": 2823,
-      "ctr": 0.004605030109812256,
-      "position": 22.616011335458733
+      "page": "https://www.gatorgaragedoorrepair.com/blog/garage-door-spring-replacement-frequency/",
+      "clicks": 11,
+      "impressions": 2487,
+      "ctr": 0.004422999597909127,
+      "position": 14.957378367511058
     },
     {
       "page": "https://www.gatorgaragedoorrepair.com/products/full-view-glass-garage-doors/",
-      "clicks": 12,
-      "impressions": 1755,
-      "ctr": 0.006837606837606838,
-      "position": 56.35042735042735
-    },
-    {
-      "page": "https://www.gatorgaragedoorrepair.com/blog/my-garage-door-sticks-during-cold-weather-can-this-be-fixed/",
-      "clicks": 10,
-      "impressions": 3493,
-      "ctr": 0.0028628685943315204,
-      "position": 7.454623532779846
-    },
-    {
-      "page": "https://www.gatorgaragedoorrepair.com/guild-garage-group/",
-      "clicks": 10,
-      "impressions": 933,
-      "ctr": 0.010718113612004287,
-      "position": 9.508038585209004
+      "clicks": 11,
+      "impressions": 1566,
+      "ctr": 0.0070242656449553,
+      "position": 52.427841634738186
     },
     {
       "page": "https://www.gatorgaragedoorrepair.com/services/",
       "clicks": 10,
-      "impressions": 2242,
-      "ctr": 0.0044603033006244425,
-      "position": 6.86128456735058
+      "impressions": 2230,
+      "ctr": 0.004484304932735426,
+      "position": 6.566367713004484
+    },
+    {
+      "page": "https://www.gatorgaragedoorrepair.com/blog/common-garage-door-opener-problems-and-how-to-fix-them/",
+      "clicks": 9,
+      "impressions": 2975,
+      "ctr": 0.0030252100840336134,
+      "position": 21.236974789915966
     },
     {
       "page": "https://www.gatorgaragedoorrepair.com/blog/garage-door-open-close-by-itself/",
       "clicks": 9,
-      "impressions": 5008,
-      "ctr": 0.0017971246006389776,
-      "position": 15.627595846645367
+      "impressions": 5899,
+      "ctr": 0.0015256823190371248,
+      "position": 13.989998304797423
     },
     {
-      "page": "https://www.gatorgaragedoorrepair.com/service-area/bee-cave-tx/",
+      "page": "https://www.gatorgaragedoorrepair.com/blog/my-garage-door-opener-is-making-noise-but-not-working/",
       "clicks": 8,
-      "impressions": 1674,
-      "ctr": 0.0047789725209080045,
-      "position": 8.537634408602152
+      "impressions": 3963,
+      "ctr": 0.0020186727226848347,
+      "position": 8.033560434014635
+    },
+    {
+      "page": "https://www.gatorgaragedoorrepair.com/blog/my-garage-door-sticks-during-cold-weather-can-this-be-fixed/",
+      "clicks": 8,
+      "impressions": 3273,
+      "ctr": 0.002444240757714635,
+      "position": 7.203483043079744
+    },
+    {
+      "page": "https://www.gatorgaragedoorrepair.com/specials/",
+      "clicks": 8,
+      "impressions": 169,
+      "ctr": 0.047337278106508875,
+      "position": 24.952662721893493
+    },
+    {
+      "page": "https://www.gatorgaragedoorrepair.com/testimonials/",
+      "clicks": 8,
+      "impressions": 514,
+      "ctr": 0.01556420233463035,
+      "position": 9.346303501945526
+    },
+    {
+      "page": "https://www.gatorgaragedoorrepair.com/blog/5-signs-of-a-broken-garage-door-spring/",
+      "clicks": 7,
+      "impressions": 2074,
+      "ctr": 0.0033751205400192863,
+      "position": 22.41417550626808
     },
     {
       "page": "https://www.gatorgaragedoorrepair.com/blog/effects-of-winter-on-garage-door-springs/",
       "clicks": 7,
-      "impressions": 857,
-      "ctr": 0.008168028004667444,
-      "position": 8.69078179696616
+      "impressions": 814,
+      "ctr": 0.0085995085995086,
+      "position": 9.25061425061425
     },
     {
-      "page": "https://www.gatorgaragedoorrepair.com/blog/garage-door-spring-replacement-frequency/",
+      "page": "https://www.gatorgaragedoorrepair.com/financing/",
       "clicks": 7,
-      "impressions": 1805,
-      "ctr": 0.003878116343490305,
-      "position": 16.760664819944598
-    },
-    {
-      "page": "https://www.gatorgaragedoorrepair.com/blog/my-garage-door-opener-is-making-noise-but-not-working/",
-      "clicks": 7,
-      "impressions": 3158,
-      "ctr": 0.002216592780240659,
-      "position": 8.753324889170361
-    },
-    {
-      "page": "https://www.gatorgaragedoorrepair.com/brands/genie/model-3142/",
-      "clicks": 7,
-      "impressions": 322,
-      "ctr": 0.021739130434782608,
-      "position": 9.01552795031056
+      "impressions": 257,
+      "ctr": 0.027237354085603113,
+      "position": 16.71206225680934
     },
     {
       "page": "https://www.gatorgaragedoorrepair.com/gator-family-club/",
       "clicks": 7,
-      "impressions": 1243,
-      "ctr": 0.0056315366049879325,
-      "position": 7.596138374899437
+      "impressions": 899,
+      "ctr": 0.00778642936596218,
+      "position": 9.058954393770856
+    },
+    {
+      "page": "https://www.gatorgaragedoorrepair.com/guild-garage-group/",
+      "clicks": 6,
+      "impressions": 328,
+      "ctr": 0.018292682926829267,
+      "position": 14.24390243902439
+    },
+    {
+      "page": "https://www.gatorgaragedoorrepair.com/service-area/bee-cave-tx/",
+      "clicks": 6,
+      "impressions": 1934,
+      "ctr": 0.0031023784901758012,
+      "position": 8.089968976215097
     },
     {
       "page": "https://www.gatorgaragedoorrepair.com/service-area/pflugerville-tx/",
-      "clicks": 7,
-      "impressions": 6210,
-      "ctr": 0.0011272141706924316,
-      "position": 15.998711755233494
-    },
-    {
-      "page": "https://www.gatorgaragedoorrepair.com/specials/",
-      "clicks": 7,
-      "impressions": 174,
-      "ctr": 0.040229885057471264,
-      "position": 32.44827586206897
-    },
-    {
-      "page": "https://www.gatorgaragedoorrepair.com/testimonials/",
-      "clicks": 7,
-      "impressions": 508,
-      "ctr": 0.013779527559055118,
-      "position": 8.496062992125985
-    },
-    {
-      "page": "https://www.gatorgaragedoorrepair.com/blog/5-signs-of-a-broken-garage-door-spring/",
       "clicks": 6,
-      "impressions": 1924,
-      "ctr": 0.0031185031185031187,
-      "position": 25.471933471933472
+      "impressions": 8144,
+      "ctr": 0.0007367387033398821,
+      "position": 15.386665029469548
     },
     {
       "page": "https://www.gatorgaragedoorrepair.com/services/garage-door-repair/",
       "clicks": 6,
-      "impressions": 5517,
-      "ctr": 0.001087547580206634,
-      "position": 15.028276237085372
-    },
-    {
-      "page": "https://www.gatorgaragedoorrepair.com/blog/emergency-garage-door-repairs-you-should-leave-to-the-pros/",
-      "clicks": 5,
-      "impressions": 1433,
-      "ctr": 0.0034891835310537334,
-      "position": 20.15840893230984
+      "impressions": 5959,
+      "ctr": 0.0010068803490518544,
+      "position": 12.842423225373384
     },
     {
       "page": "https://www.gatorgaragedoorrepair.com/blog/garage-door-rollers-ensuring-smooth-and-quiet-operation/",
       "clicks": 5,
-      "impressions": 1279,
-      "ctr": 0.003909304143862392,
-      "position": 15.030492572322126
+      "impressions": 1432,
+      "ctr": 0.0034916201117318434,
+      "position": 14.16131284916201
     },
     {
       "page": "https://www.gatorgaragedoorrepair.com/blog/garage-door-torsion-spring-life-expectancy/",
       "clicks": 5,
-      "impressions": 2231,
-      "ctr": 0.0022411474675033617,
-      "position": 21.332138054684
+      "impressions": 2518,
+      "ctr": 0.0019857029388403494,
+      "position": 20.933677521842732
     },
     {
-      "page": "https://www.gatorgaragedoorrepair.com/financing/",
+      "page": "https://www.gatorgaragedoorrepair.com/service-area/buda-tx/",
       "clicks": 5,
-      "impressions": 228,
-      "ctr": 0.021929824561403508,
-      "position": 15.719298245614034
-    },
-    {
-      "page": "https://www.gatorgaragedoorrepair.com/services/commercial-dock-door/",
-      "clicks": 5,
-      "impressions": 1888,
-      "ctr": 0.0026483050847457626,
-      "position": 26.252648305084747
+      "impressions": 1702,
+      "ctr": 0.002937720329024677,
+      "position": 15.414806110458285
     },
     {
       "page": "https://www.gatorgaragedoorrepair.com/blog/did-you-know-your-garage-door-opener-needs-regular-servicing/",
       "clicks": 4,
-      "impressions": 1798,
-      "ctr": 0.002224694104560623,
-      "position": 20.109566184649612
+      "impressions": 1894,
+      "ctr": 0.0021119324181626186,
+      "position": 17.84846884899683
     },
     {
-      "page": "https://www.gatorgaragedoorrepair.com/blog/introducing-the-gator-family-club-maintenance-program-austin/",
+      "page": "https://www.gatorgaragedoorrepair.com/blog/emergency-garage-door-repairs-you-should-leave-to-the-pros/",
       "clicks": 4,
-      "impressions": 91,
-      "ctr": 0.04395604395604396,
-      "position": 18.747252747252748
+      "impressions": 1385,
+      "ctr": 0.002888086642599278,
+      "position": 18.783393501805055
+    },
+    {
+      "page": "https://www.gatorgaragedoorrepair.com/service-area/cedar-park-tx/",
+      "clicks": 4,
+      "impressions": 4697,
+      "ctr": 0.0008516074089844582,
+      "position": 26.161592505854802
     },
     {
       "page": "https://www.gatorgaragedoorrepair.com/terms-and-conditions/",
       "clicks": 4,
-      "impressions": 135,
-      "ctr": 0.02962962962962963,
-      "position": 17.2
+      "impressions": 141,
+      "ctr": 0.028368794326241134,
+      "position": 15.177304964539006
+    },
+    {
+      "page": "https://www.gatorgaragedoorrepair.com/blog/industrial-commercial-garage-door-sizing-guide/",
+      "clicks": 3,
+      "impressions": 2470,
+      "ctr": 0.0012145748987854252,
+      "position": 22.45587044534413
+    },
+    {
+      "page": "https://www.gatorgaragedoorrepair.com/blog/introducing-the-gator-family-club-maintenance-program-austin/",
+      "clicks": 3,
+      "impressions": 113,
+      "ctr": 0.02654867256637168,
+      "position": 17.964601769911503
     },
     {
       "page": "https://www.gatorgaragedoorrepair.com/blog/my-garage-door-opener-is-not-opening-or-closing/",
       "clicks": 3,
-      "impressions": 806,
-      "ctr": 0.0037220843672456576,
-      "position": 43.21960297766749
+      "impressions": 858,
+      "ctr": 0.0034965034965034965,
+      "position": 42.12354312354312
     },
     {
-      "page": "https://www.gatorgaragedoorrepair.com/blog/the-most-common-garage-door-opener-problems-and-how-to-fix-them/",
+      "page": "https://www.gatorgaragedoorrepair.com/brands/genie/model-3142/",
       "clicks": 3,
-      "impressions": 2154,
-      "ctr": 0.001392757660167131,
-      "position": 20.633240482822657
+      "impressions": 280,
+      "ctr": 0.010714285714285714,
+      "position": 9.057142857142857
     },
     {
-      "page": "https://www.gatorgaragedoorrepair.com/products/garage-door-springs/",
+      "page": "https://www.gatorgaragedoorrepair.com/services/commercial-dock-door/",
       "clicks": 3,
-      "impressions": 3943,
-      "ctr": 0.000760841998478316,
-      "position": 18.64138980471722
+      "impressions": 1791,
+      "ctr": 0.0016750418760469012,
+      "position": 25.0106085985483
+    },
+    {
+      "page": "https://www.gatorgaragedoorrepair.com/austin-garage-door-mechanics/",
+      "clicks": 2,
+      "impressions": 639,
+      "ctr": 0.003129890453834116,
+      "position": 17.492957746478872
     },
     {
       "page": "https://www.gatorgaragedoorrepair.com/blog/8-essential-garage-door-maintenance-tips-for-longevity/",
       "clicks": 2,
-      "impressions": 1793,
-      "ctr": 0.0011154489682097045,
-      "position": 34.74846625766871
-    },
-    {
-      "page": "https://www.gatorgaragedoorrepair.com/blog/industrial-commercial-garage-door-sizing-guide/",
-      "clicks": 2,
-      "impressions": 1874,
-      "ctr": 0.0010672358591248667,
-      "position": 22.993062966915687
+      "impressions": 1804,
+      "ctr": 0.0011086474501108647,
+      "position": 32.38137472283814
     },
     {
       "page": "https://www.gatorgaragedoorrepair.com/blog/risks-of-repairing-garage-door-spring/",
       "clicks": 2,
-      "impressions": 380,
-      "ctr": 0.005263157894736842,
-      "position": 22.044736842105262
+      "impressions": 448,
+      "ctr": 0.004464285714285714,
+      "position": 20.84375
+    },
+    {
+      "page": "https://www.gatorgaragedoorrepair.com/blog/the-most-common-garage-door-opener-problems-and-how-to-fix-them/",
+      "clicks": 2,
+      "impressions": 2594,
+      "ctr": 0.0007710100231303007,
+      "position": 17.689668465690055
     },
     {
       "page": "https://www.gatorgaragedoorrepair.com/brands/genie/",
       "clicks": 2,
-      "impressions": 1744,
-      "ctr": 0.0011467889908256881,
-      "position": 38.85378440366973
+      "impressions": 1724,
+      "ctr": 0.001160092807424594,
+      "position": 34.614849187935036
     },
     {
       "page": "https://www.gatorgaragedoorrepair.com/products/commercial-garage-doors/",
       "clicks": 2,
-      "impressions": 4208,
-      "ctr": 0.0004752851711026616,
-      "position": 15.548716730038024
+      "impressions": 5142,
+      "ctr": 0.00038895371450797355,
+      "position": 16.27362893815636
     },
     {
-      "page": "https://www.gatorgaragedoorrepair.com/products/garage-door-openers/",
+      "page": "https://www.gatorgaragedoorrepair.com/products/garage-door-springs/",
       "clicks": 2,
-      "impressions": 1155,
-      "ctr": 0.0017316017316017316,
-      "position": 32.19307359307359
+      "impressions": 5032,
+      "ctr": 0.000397456279809221,
+      "position": 16.822138314785374
     },
     {
-      "page": "https://www.gatorgaragedoorrepair.com/service-area/buda-tx/",
+      "page": "https://www.gatorgaragedoorrepair.com/service-area/",
       "clicks": 2,
-      "impressions": 1620,
-      "ctr": 0.0012345679012345679,
-      "position": 14.596913580246914
-    },
-    {
-      "page": "https://www.gatorgaragedoorrepair.com/service-area/cedar-park-tx/",
-      "clicks": 2,
-      "impressions": 4425,
-      "ctr": 0.0004519774011299435,
-      "position": 29.817853107344632
-    },
-    {
-      "page": "https://www.gatorgaragedoorrepair.com/service-area/dripping-springs-tx/",
-      "clicks": 2,
-      "impressions": 604,
-      "ctr": 0.0033112582781456954,
-      "position": 13.331125827814569
+      "impressions": 886,
+      "ctr": 0.002257336343115124,
+      "position": 22.636568848758465
     }
   ],
-  "fetchedAt": "2026-03-18T13:08:13.847Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "gator garage doors",
+      "clicks": 540,
+      "impressions": 1594,
+      "ctr": 0.33877038895859474,
+      "position": 1.4077791718946049
+    },
+    {
+      "query": "gator garage door repair",
+      "clicks": 84,
+      "impressions": 952,
+      "ctr": 0.08823529411764706,
+      "position": 1.5609243697478992
+    },
+    {
+      "query": "gator garage",
+      "clicks": 54,
+      "impressions": 207,
+      "ctr": 0.2608695652173913,
+      "position": 3.318840579710145
+    },
+    {
+      "query": "gator garage door",
+      "clicks": 54,
+      "impressions": 262,
+      "ctr": 0.20610687022900764,
+      "position": 1.4198473282442747
+    },
+    {
+      "query": "gator garage doors austin",
+      "clicks": 44,
+      "impressions": 126,
+      "ctr": 0.3492063492063492,
+      "position": 1.4126984126984126
+    },
+    {
+      "query": "garage door repair round rock",
+      "clicks": 17,
+      "impressions": 745,
+      "ctr": 0.022818791946308724,
+      "position": 4.434899328859061
+    },
+    {
+      "query": "garage door repair",
+      "clicks": 15,
+      "impressions": 4267,
+      "ctr": 0.003515350363252871,
+      "position": 8.01195219123506
+    },
+    {
+      "query": "garage door repair austin",
+      "clicks": 10,
+      "impressions": 3650,
+      "ctr": 0.0027397260273972603,
+      "position": 10.706027397260273
+    },
+    {
+      "query": "torquemaster to torsion spring conversion cost",
+      "clicks": 10,
+      "impressions": 63,
+      "ctr": 0.15873015873015872,
+      "position": 1.4603174603174602
+    },
+    {
+      "query": "garage door",
+      "clicks": 8,
+      "impressions": 617,
+      "ctr": 0.012965964343598054,
+      "position": 16.55267423014587
+    },
+    {
+      "query": "gator garage door repair reviews",
+      "clicks": 8,
+      "impressions": 191,
+      "ctr": 0.041884816753926704,
+      "position": 2.3350785340314135
+    },
+    {
+      "query": "wayne dalton garage door spring replacement cost",
+      "clicks": 8,
+      "impressions": 104,
+      "ctr": 0.07692307692307693,
+      "position": 4.740384615384615
+    },
+    {
+      "query": "garage door repair pflugerville",
+      "clicks": 7,
+      "impressions": 279,
+      "ctr": 0.025089605734767026,
+      "position": 9.867383512544803
+    },
+    {
+      "query": "garage doors austin",
+      "clicks": 5,
+      "impressions": 407,
+      "ctr": 0.012285012285012284,
+      "position": 13.712530712530713
+    },
+    {
+      "query": "gator door",
+      "clicks": 5,
+      "impressions": 40,
+      "ctr": 0.125,
+      "position": 14.775
+    },
+    {
+      "query": "gator garage austin",
+      "clicks": 5,
+      "impressions": 14,
+      "ctr": 0.35714285714285715,
+      "position": 1
+    },
+    {
+      "query": "gator garage door services",
+      "clicks": 5,
+      "impressions": 85,
+      "ctr": 0.058823529411764705,
+      "position": 5.988235294117647
+    },
+    {
+      "query": "cost to replace wayne dalton torquemaster springs",
+      "clicks": 4,
+      "impressions": 60,
+      "ctr": 0.06666666666666667,
+      "position": 2.1
+    },
+    {
+      "query": "garage doors",
+      "clicks": 4,
+      "impressions": 442,
+      "ctr": 0.00904977375565611,
+      "position": 15.47737556561086
+    },
+    {
+      "query": "torquemaster spring replacement cost",
+      "clicks": 4,
+      "impressions": 83,
+      "ctr": 0.04819277108433735,
+      "position": 4.120481927710843
+    },
+    {
+      "query": "50,000 cycle garage door springs",
+      "clicks": 3,
+      "impressions": 153,
+      "ctr": 0.0196078431372549,
+      "position": 7.287581699346405
+    },
+    {
+      "query": "commercial garage door repair",
+      "clicks": 3,
+      "impressions": 4481,
+      "ctr": 0.0006694934166480696,
+      "position": 51.89511269805847
+    },
+    {
+      "query": "dr garage door",
+      "clicks": 3,
+      "impressions": 14,
+      "ctr": 0.21428571428571427,
+      "position": 6.357142857142857
+    },
+    {
+      "query": "garage door austin",
+      "clicks": 3,
+      "impressions": 79,
+      "ctr": 0.0379746835443038,
+      "position": 11.025316455696203
+    },
+    {
+      "query": "garage door repair round rock tx",
+      "clicks": 3,
+      "impressions": 526,
+      "ctr": 0.005703422053231939,
+      "position": 4.273764258555133
+    },
+    {
+      "query": "gator garage door repair photos",
+      "clicks": 3,
+      "impressions": 13,
+      "ctr": 0.23076923076923078,
+      "position": 2
+    },
+    {
+      "query": "wayne dalton spring replacement cost",
+      "clicks": 3,
+      "impressions": 74,
+      "ctr": 0.04054054054054054,
+      "position": 3.689189189189189
+    },
+    {
+      "query": "austin garage door",
+      "clicks": 2,
+      "impressions": 164,
+      "ctr": 0.012195121951219513,
+      "position": 12.658536585365853
+    },
+    {
+      "query": "austin garage door repair",
+      "clicks": 2,
+      "impressions": 1301,
+      "ctr": 0.0015372790161414297,
+      "position": 10.315910837817064
+    },
+    {
+      "query": "convert wayne dalton torquemaster to torsion spring",
+      "clicks": 2,
+      "impressions": 48,
+      "ctr": 0.041666666666666664,
+      "position": 8.083333333333332
+    },
+    {
+      "query": "garage door repair near me",
+      "clicks": 2,
+      "impressions": 2531,
+      "ctr": 0.0007902015013828526,
+      "position": 8.137495061240617
+    },
+    {
+      "query": "garage door repair south austin",
+      "clicks": 2,
+      "impressions": 301,
+      "ctr": 0.006644518272425249,
+      "position": 14.252491694352159
+    },
+    {
+      "query": "garage door spring repair",
+      "clicks": 2,
+      "impressions": 540,
+      "ctr": 0.003703703703703704,
+      "position": 34.43703703703704
+    },
+    {
+      "query": "garage door spring repair austin",
+      "clicks": 2,
+      "impressions": 536,
+      "ctr": 0.0037313432835820895,
+      "position": 10.951492537313433
+    },
+    {
+      "query": "genie garage door repair",
+      "clicks": 2,
+      "impressions": 592,
+      "ctr": 0.0033783783783783786,
+      "position": 30.344594594594593
+    },
+    {
+      "query": "high cycle garage door springs",
+      "clicks": 2,
+      "impressions": 49,
+      "ctr": 0.04081632653061224,
+      "position": 16.081632653061224
+    },
+    {
+      "query": "24 hour garage door repair",
+      "clicks": 1,
+      "impressions": 35,
+      "ctr": 0.02857142857142857,
+      "position": 54.4
+    },
+    {
+      "query": "50000 cycle garage door springs",
+      "clicks": 1,
+      "impressions": 70,
+      "ctr": 0.014285714285714285,
+      "position": 7.885714285714286
+    },
+    {
+      "query": "austin commercial garage door repair",
+      "clicks": 1,
+      "impressions": 45,
+      "ctr": 0.022222222222222223,
+      "position": 5.066666666666666
+    },
+    {
+      "query": "austin garage conversion",
+      "clicks": 1,
+      "impressions": 53,
+      "ctr": 0.018867924528301886,
+      "position": 72.30188679245283
+    },
+    {
+      "query": "austin garage door contractor",
+      "clicks": 1,
+      "impressions": 308,
+      "ctr": 0.003246753246753247,
+      "position": 10.016233766233766
+    },
+    {
+      "query": "austin garage doors",
+      "clicks": 1,
+      "impressions": 276,
+      "ctr": 0.0036231884057971015,
+      "position": 12.184782608695652
+    },
+    {
+      "query": "beeping noise in garage",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 10.5
+    },
+    {
+      "query": "best garage door installers near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "cedar park garage doors",
+      "clicks": 1,
+      "impressions": 134,
+      "ctr": 0.007462686567164179,
+      "position": 21.37313432835821
+    },
+    {
+      "query": "clopay garage door",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "commercial garage door repair austin",
+      "clicks": 1,
+      "impressions": 1079,
+      "ctr": 0.0009267840593141798,
+      "position": 5.749768303985172
+    },
+    {
+      "query": "commercial garage door size",
+      "clicks": 1,
+      "impressions": 66,
+      "ctr": 0.015151515151515152,
+      "position": 34.15151515151515
+    },
+    {
+      "query": "commerical door repair",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 11
+    },
+    {
+      "query": "cost to replace garage door",
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 21.266666666666666
+    },
+    {
+      "query": "dock door repair",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 49.9
+    },
+    {
+      "query": "door gators reviews",
+      "clicks": 1,
+      "impressions": 34,
+      "ctr": 0.029411764705882353,
+      "position": 9.441176470588236
+    },
+    {
+      "query": "dr. garage door",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 4.25
+    },
+    {
+      "query": "emergency garage door repair",
+      "clicks": 1,
+      "impressions": 2822,
+      "ctr": 0.00035435861091424523,
+      "position": 19.137136782423813
+    },
+    {
+      "query": "fix door",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "garage dent repair",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "garage door austin texas",
+      "clicks": 1,
+      "impressions": 62,
+      "ctr": 0.016129032258064516,
+      "position": 8.35483870967742
+    },
+    {
+      "query": "garage door austin tx",
+      "clicks": 1,
+      "impressions": 97,
+      "ctr": 0.010309278350515464,
+      "position": 8.793814432989691
+    },
+    {
+      "query": "garage door cable diagram",
+      "clicks": 1,
+      "impressions": 46,
+      "ctr": 0.021739130434782608,
+      "position": 19.630434782608695
+    },
+    {
+      "query": "garage door cable replacement",
+      "clicks": 1,
+      "impressions": 307490,
+      "ctr": 0.0000032521382809197047,
+      "position": 36.94371849491041
+    },
+    {
+      "query": "garage door conversion near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3.5
+    },
+    {
+      "query": "garage door glass replacement",
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 47.45
+    },
+    {
+      "query": "garage door guide wire",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 17.714285714285715
+    },
+    {
+      "query": "garage door installation",
+      "clicks": 1,
+      "impressions": 4681,
+      "ctr": 0.00021362956633198035,
+      "position": 45.85580004272591
+    },
+    {
+      "query": "garage door installation near me",
+      "clicks": 1,
+      "impressions": 686,
+      "ctr": 0.0014577259475218659,
+      "position": 22.03061224489796
+    },
+    {
+      "query": "garage door installers near me",
+      "clicks": 1,
+      "impressions": 130,
+      "ctr": 0.007692307692307693,
+      "position": 10.146153846153846
+    },
+    {
+      "query": "garage door maintenance near me",
+      "clicks": 1,
+      "impressions": 347,
+      "ctr": 0.002881844380403458,
+      "position": 5.665706051873199
+    },
+    {
+      "query": "garage door opener installation",
+      "clicks": 1,
+      "impressions": 551,
+      "ctr": 0.0018148820326678765,
+      "position": 14.023593466424682
+    },
+    {
+      "query": "garage door opener installation austin tx",
+      "clicks": 1,
+      "impressions": 177,
+      "ctr": 0.005649717514124294,
+      "position": 16.016949152542374
+    },
+    {
+      "query": "garage door opener replacement",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 2.25
+    },
+    {
+      "query": "garage door openers austin",
+      "clicks": 1,
+      "impressions": 169,
+      "ctr": 0.005917159763313609,
+      "position": 19.97041420118343
+    },
+    {
+      "query": "garage door repair austin tx",
+      "clicks": 1,
+      "impressions": 1024,
+      "ctr": 0.0009765625,
+      "position": 11.798828125
+    },
+    {
+      "query": "garage door repair buda",
+      "clicks": 1,
+      "impressions": 101,
+      "ctr": 0.009900990099009901,
+      "position": 42.76237623762376
+    },
+    {
+      "query": "garage door repair dripping springs",
+      "clicks": 1,
+      "impressions": 81,
+      "ctr": 0.012345679012345678,
+      "position": 11.481481481481481
+    },
+    {
+      "query": "garage door repair georgetown tx",
+      "clicks": 1,
+      "impressions": 227,
+      "ctr": 0.004405286343612335,
+      "position": 15.722466960352422
+    },
+    {
+      "query": "garage door repair hutto tx",
+      "clicks": 1,
+      "impressions": 134,
+      "ctr": 0.007462686567164179,
+      "position": 13.388059701492537
+    },
+    {
+      "query": "garage door repair in austin",
+      "clicks": 1,
+      "impressions": 620,
+      "ctr": 0.0016129032258064516,
+      "position": 12.233870967741936
+    },
+    {
+      "query": "garage door repair in round rock",
+      "clicks": 1,
+      "impressions": 242,
+      "ctr": 0.004132231404958678,
+      "position": 1.3099173553719008
+    },
+    {
+      "query": "garage door repair lakeway",
+      "clicks": 1,
+      "impressions": 96,
+      "ctr": 0.010416666666666666,
+      "position": 4.864583333333334
+    },
+    {
+      "query": "garage door repair texas",
+      "clicks": 1,
+      "impressions": 129,
+      "ctr": 0.007751937984496124,
+      "position": 2.6279069767441863
+    },
+    {
+      "query": "garage door repairs",
+      "clicks": 1,
+      "impressions": 283,
+      "ctr": 0.0035335689045936395,
+      "position": 9.045936395759718
+    },
+    {
+      "query": "garage door replacement",
+      "clicks": 1,
+      "impressions": 533,
+      "ctr": 0.001876172607879925,
+      "position": 13.938086303939963
+    },
+    {
+      "query": "garage door sales near me",
+      "clicks": 1,
+      "impressions": 50,
+      "ctr": 0.02,
+      "position": 81.34
+    },
+    {
+      "query": "garage door service",
+      "clicks": 1,
+      "impressions": 577,
+      "ctr": 0.0017331022530329288,
+      "position": 12.49740034662045
+    },
+    {
+      "query": "garage door service austin",
+      "clicks": 1,
+      "impressions": 597,
+      "ctr": 0.0016750418760469012,
+      "position": 15.850921273031826
+    },
+    {
+      "query": "garage door service austin tx",
+      "clicks": 1,
+      "impressions": 293,
+      "ctr": 0.0034129692832764505,
+      "position": 17.423208191126278
+    },
+    {
+      "query": "garage door spring cycle life",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 33
+    },
+    {
+      "query": "garage door spring replacement",
+      "clicks": 1,
+      "impressions": 228,
+      "ctr": 0.0043859649122807015,
+      "position": 14.263157894736842
+    },
+    {
+      "query": "garage door spring replacement near me",
+      "clicks": 1,
+      "impressions": 129,
+      "ctr": 0.007751937984496124,
+      "position": 9.666666666666666
+    },
+    {
+      "query": "garage door springs austin",
+      "clicks": 1,
+      "impressions": 215,
+      "ctr": 0.004651162790697674,
+      "position": 8.637209302325582
+    },
+    {
+      "query": "garage door torsion spring replacement near me",
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 41.86666666666667
+    },
+    {
+      "query": "garage door torsion springs repair",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 59.333333333333336
+    },
+    {
+      "query": "garage door tune up",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 5.111111111111111
+    },
+    {
+      "query": "garage doors austin tx",
+      "clicks": 1,
+      "impressions": 358,
+      "ctr": 0.002793296089385475,
+      "position": 9.304469273743017
+    },
+    {
+      "query": "garage doors cedar park",
+      "clicks": 1,
+      "impressions": 101,
+      "ctr": 0.009900990099009901,
+      "position": 13.871287128712872
+    },
+    {
+      "query": "garage doors near me",
+      "clicks": 1,
+      "impressions": 349,
+      "ctr": 0.0028653295128939827,
+      "position": 13.653295128939828
+    },
+    {
+      "query": "garage repair near me",
+      "clicks": 1,
+      "impressions": 195,
+      "ctr": 0.005128205128205128,
+      "position": 7.041025641025641
+    },
+    {
+      "query": "garage repairs",
+      "clicks": 1,
+      "impressions": 212,
+      "ctr": 0.0047169811320754715,
+      "position": 43.52358490566038
+    },
+    {
+      "query": "garage screen door installation near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 18
+    },
+    {
+      "query": "garage service near me",
+      "clicks": 1,
+      "impressions": 49,
+      "ctr": 0.02040816326530612,
+      "position": 3.816326530612245
+    },
+    {
+      "query": "garage spring replacement",
+      "clicks": 1,
+      "impressions": 31,
+      "ctr": 0.03225806451612903,
+      "position": 8.193548387096774
+    },
+    {
+      "query": "guaranteed garage doors",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 14
+    },
+    {
+      "query": "high cycle garage door springs cost",
+      "clicks": 1,
+      "impressions": 39,
+      "ctr": 0.02564102564102564,
+      "position": 9.692307692307692
+    },
+    {
+      "query": "high cycle torsion springs",
+      "clicks": 1,
+      "impressions": 23,
+      "ctr": 0.043478260869565216,
+      "position": 43.608695652173914
+    },
+    {
+      "query": "how much to replace wayne dalton torquemaster springs",
+      "clicks": 1,
+      "impressions": 65,
+      "ctr": 0.015384615384615385,
+      "position": 3.0923076923076924
+    },
+    {
+      "query": "how to quiet garage door rollers",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 19.4
+    },
+    {
+      "query": "liftmaster garage door opener for sale near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "pflugerville garage door repair",
+      "clicks": 1,
+      "impressions": 21,
+      "ctr": 0.047619047619047616,
+      "position": 6.333333333333333
+    },
+    {
+      "query": "round rock garage door repair",
+      "clicks": 1,
+      "impressions": 370,
+      "ctr": 0.002702702702702703,
+      "position": 1.554054054054054
+    },
+    {
+      "query": "shop door repair",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2.5
+    },
+    {
+      "query": "smart garage door service",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 37.294117647058826
+    },
+    {
+      "query": "top rated garage door companies",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 6
+    },
+    {
+      "query": "torquemaster garage door spring",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 15.375
+    },
+    {
+      "query": "torquemaster torsion spring replacement",
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 15.7
+    },
+    {
+      "query": "wayne dalton garage door spring",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 20
+    },
+    {
+      "query": "1 car garage door dimensions",
+      "clicks": 0,
+      "impressions": 45,
+      "ctr": 0,
+      "position": 71.55555555555556
+    },
+    {
+      "query": "1 car garage door size",
+      "clicks": 0,
+      "impressions": 41,
+      "ctr": 0,
+      "position": 72.41463414634147
+    },
+    {
+      "query": "1 car garage door width",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 58.875
+    },
+    {
+      "query": "10000 cycle",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 23.333333333333332
+    },
+    {
+      "query": "10000 springs",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 30.75
+    },
+    {
+      "query": "10k springs",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 77
+    },
+    {
+      "query": "18 foot garage door",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 66.16666666666667
+    },
+    {
+      "query": "18 foot garage doors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 76
+    },
+    {
+      "query": "2 car garage door dimensions",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 67
+    },
+    {
+      "query": "2 car garage door height",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 66
+    },
+    {
+      "query": "2 car garage door measurements",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 78
+    },
+    {
+      "query": "2 car garage door size",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 74.5
+    },
+    {
+      "query": "2 car garage door standard size",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 57
+    },
+    {
+      "query": "2 car garage door width",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 58
+    },
+    {
+      "query": "2 car garage single door size",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 56
+    },
+    {
+      "query": "24 emergency garage door repair services",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 57
+    },
+    {
+      "query": "24 hour door repair",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 51
+    },
+    {
+      "query": "24 hour emergency door repair",
+      "clicks": 0,
+      "impressions": 78,
+      "ctr": 0,
+      "position": 21.205128205128204
+    },
+    {
+      "query": "24 hour emergency door repair near me",
+      "clicks": 0,
+      "impressions": 162,
+      "ctr": 0,
+      "position": 16.71604938271605
+    },
+    {
+      "query": "24 hour garage door service",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 45
+    },
+    {
+      "query": "24 hour garage door service and repair",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "24 hour garage door service near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hour garage door services",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 95.33333333333333
+    },
+    {
+      "query": "24 hour stores",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 18
+    },
+    {
+      "query": "24 hr garage door repair",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 72.25
+    },
+    {
+      "query": "24 hr garage door service",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 78.5
+    },
+    {
+      "query": "24-hour garage door repair",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 79.5
+    },
+    {
+      "query": "24-hour garage door service",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 43.5
+    },
+    {
+      "query": "24/7 emergency garage door repair",
+      "clicks": 0,
+      "impressions": 59,
+      "ctr": 0,
+      "position": 69.49152542372882
+    },
+    {
+      "query": "24/7 emergency garage door services",
+      "clicks": 0,
+      "impressions": 20,
+      "ctr": 0,
+      "position": 92.3
+    },
+    {
+      "query": "24/7 garage door repair",
+      "clicks": 0,
+      "impressions": 113,
+      "ctr": 0,
+      "position": 8.327433628318584
+    },
+    {
+      "query": "24/7 garage door repair austin",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 14.2
+    },
+    {
+      "query": "24/7 garage door repair austin tx",
+      "clicks": 0,
+      "impressions": 110,
+      "ctr": 0,
+      "position": 13.127272727272727
+    },
+    {
+      "query": "24/7 garage door repair near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "3 car garage door dimensions",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 46.666666666666664
+    },
+    {
+      "query": "3 car garage door size",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 45.666666666666664
+    },
+    {
+      "query": "3053 tkv",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 83
+    },
+    {
+      "query": "314973",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "3155d",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 10.4
+    },
+    {
+      "query": "4 garage door repairs",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 31
+    },
+    {
+      "query": "512 garage doors",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 33.5
+    },
+    {
+      "query": "7 feet garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 66
+    },
+    {
+      "query": "7 foot garage doors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 73
+    },
+    {
+      "query": "7055d",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 19
+    },
+    {
+      "query": "7155ld",
+      "clicks": 0,
+      "impressions": 61,
+      "ctr": 0,
+      "position": 10.295081967213115
+    },
+    {
+      "query": "8 foot wide garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 77
+    },
+    {
+      "query": "8 ft tall double garage door",
+      "clicks": 0,
+      "impressions": 30,
+      "ctr": 0,
+      "position": 85.23333333333333
+    },
+    {
+      "query": "81602 chain drive garage door opener",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 81.41666666666667
+    },
+    {
+      "query": "81602 chain garage door opener",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 88.75
+    },
+    {
+      "query": "81602 garage door opener",
+      "clicks": 0,
+      "impressions": 23,
+      "ctr": 0,
+      "position": 94.47826086956522
+    },
+    {
+      "query": "81602 liftmaster",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 34.5
+    },
+    {
+      "query": "84504 liftmaster",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 42.5
+    },
+    {
+      "query": "84504r",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 29
+    },
+    {
+      "query": "84504r liftmaster",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 42
+    },
+    {
+      "query": "87504 garage door opener",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 79
+    },
+    {
+      "query": "87802",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 40.666666666666664
+    },
+    {
+      "query": "87802 liftmaster",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 43.333333333333336
+    },
+    {
+      "query": "87802 liftmaster price",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 43.5
+    },
+    {
+      "query": "9 foot tall garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 65
+    },
+    {
+      "query": "a 1 garage",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 86
+    },
+    {
+      "query": "a 1 garage door near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 79
+    },
+    {
+      "query": "a 1 garage door service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 67
+    },
+    {
+      "query": "a 1 garage doors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 88
+    },
+    {
+      "query": "a garage door service",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "a-1 garage",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 69
+    },
+    {
+      "query": "a-1 garage door",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 92
+    },
+    {
+      "query": "a-1 garage door services",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 136
+    },
+    {
+      "query": "a-1 garage doors",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 87
+    },
+    {
+      "query": "a-1 garage service",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 81
+    },
+    {
+      "query": "a1 garage door austin",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 55
+    },
+    {
+      "query": "a1 garage door service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "a1 garage door service austin reviews",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "aaa garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "aaa garage door repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "above all garage door",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 80.66666666666667
+    },
+    {
+      "query": "access point installer cedar park tx",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 62
+    },
+    {
+      "query": "accident garage door spring injury",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 81
+    },
+    {
+      "query": "adjust garage door cable",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 68.66666666666667
+    },
+    {
+      "query": "adjusting garage door cables",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 49
+    },
+    {
+      "query": "advanced garage door repair",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 92.5
+    },
+    {
+      "query": "advertising garag door repair",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 83
+    },
+    {
+      "query": "affordable door company",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 49.5
+    },
+    {
+      "query": "affordable door replacement austin",
+      "clicks": 0,
+      "impressions": 130,
+      "ctr": 0,
+      "position": 27.584615384615386
+    },
+    {
+      "query": "affordable garage door",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 55.5
+    },
+    {
+      "query": "affordable garage door company austin",
+      "clicks": 0,
+      "impressions": 107,
+      "ctr": 0,
+      "position": 28.177570093457945
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:22:45.657Z"
 }

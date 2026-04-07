@@ -2,138 +2,18 @@
   "propertyId": "properties/359411237",
   "displayName": "Harker Injury Law - GA4",
   "dateRange": {
-    "start": "2025-12-17",
-    "end": "2026-03-17"
+    "start": "2026-01-06",
+    "end": "2026-04-06"
   },
   "totals": {
-    "sessions": 1991,
-    "users": 1924,
-    "screenPageViews": 2977,
-    "organicSessions": 1159,
-    "bounceRate": 0.5637113641742326,
-    "avgSessionDuration": 100.9476728821952
+    "sessions": 1720,
+    "users": 1645,
+    "screenPageViews": 2672,
+    "organicSessions": 997,
+    "bounceRate": 0.5045949594752231,
+    "avgSessionDuration": 111.94995480548515
   },
   "dailyData": [
-    {
-      "date": "2025-12-17",
-      "sessions": 43,
-      "users": 42,
-      "screenPageViews": 67
-    },
-    {
-      "date": "2025-12-18",
-      "sessions": 52,
-      "users": 51,
-      "screenPageViews": 86
-    },
-    {
-      "date": "2025-12-19",
-      "sessions": 44,
-      "users": 44,
-      "screenPageViews": 71
-    },
-    {
-      "date": "2025-12-20",
-      "sessions": 35,
-      "users": 35,
-      "screenPageViews": 55
-    },
-    {
-      "date": "2025-12-21",
-      "sessions": 62,
-      "users": 61,
-      "screenPageViews": 93
-    },
-    {
-      "date": "2025-12-22",
-      "sessions": 69,
-      "users": 69,
-      "screenPageViews": 117
-    },
-    {
-      "date": "2025-12-23",
-      "sessions": 45,
-      "users": 44,
-      "screenPageViews": 68
-    },
-    {
-      "date": "2025-12-24",
-      "sessions": 22,
-      "users": 22,
-      "screenPageViews": 25
-    },
-    {
-      "date": "2025-12-25",
-      "sessions": 11,
-      "users": 11,
-      "screenPageViews": 13
-    },
-    {
-      "date": "2025-12-26",
-      "sessions": 21,
-      "users": 21,
-      "screenPageViews": 25
-    },
-    {
-      "date": "2025-12-27",
-      "sessions": 19,
-      "users": 19,
-      "screenPageViews": 22
-    },
-    {
-      "date": "2025-12-28",
-      "sessions": 17,
-      "users": 17,
-      "screenPageViews": 23
-    },
-    {
-      "date": "2025-12-29",
-      "sessions": 33,
-      "users": 31,
-      "screenPageViews": 42
-    },
-    {
-      "date": "2025-12-30",
-      "sessions": 37,
-      "users": 37,
-      "screenPageViews": 45
-    },
-    {
-      "date": "2025-12-31",
-      "sessions": 23,
-      "users": 23,
-      "screenPageViews": 25
-    },
-    {
-      "date": "2026-01-01",
-      "sessions": 26,
-      "users": 26,
-      "screenPageViews": 31
-    },
-    {
-      "date": "2026-01-02",
-      "sessions": 15,
-      "users": 15,
-      "screenPageViews": 19
-    },
-    {
-      "date": "2026-01-03",
-      "sessions": 15,
-      "users": 15,
-      "screenPageViews": 16
-    },
-    {
-      "date": "2026-01-04",
-      "sessions": 8,
-      "users": 8,
-      "screenPageViews": 8
-    },
-    {
-      "date": "2026-01-05",
-      "sessions": 21,
-      "users": 20,
-      "screenPageViews": 26
-    },
     {
       "date": "2026-01-06",
       "sessions": 17,
@@ -559,186 +439,338 @@
       "sessions": 67,
       "users": 67,
       "screenPageViews": 132
+    },
+    {
+      "date": "2026-03-18",
+      "sessions": 79,
+      "users": 78,
+      "screenPageViews": 154
+    },
+    {
+      "date": "2026-03-19",
+      "sessions": 60,
+      "users": 59,
+      "screenPageViews": 110
+    },
+    {
+      "date": "2026-03-20",
+      "sessions": 37,
+      "users": 37,
+      "screenPageViews": 75
+    },
+    {
+      "date": "2026-03-21",
+      "sessions": 14,
+      "users": 12,
+      "screenPageViews": 16
+    },
+    {
+      "date": "2026-03-22",
+      "sessions": 7,
+      "users": 6,
+      "screenPageViews": 7
+    },
+    {
+      "date": "2026-03-23",
+      "sessions": 13,
+      "users": 12,
+      "screenPageViews": 17
+    },
+    {
+      "date": "2026-03-24",
+      "sessions": 14,
+      "users": 11,
+      "screenPageViews": 18
+    },
+    {
+      "date": "2026-03-25",
+      "sessions": 20,
+      "users": 17,
+      "screenPageViews": 21
+    },
+    {
+      "date": "2026-03-26",
+      "sessions": 11,
+      "users": 11,
+      "screenPageViews": 10
+    },
+    {
+      "date": "2026-03-27",
+      "sessions": 8,
+      "users": 8,
+      "screenPageViews": 8
+    },
+    {
+      "date": "2026-03-28",
+      "sessions": 4,
+      "users": 4,
+      "screenPageViews": 5
+    },
+    {
+      "date": "2026-03-29",
+      "sessions": 2,
+      "users": 2,
+      "screenPageViews": 2
+    },
+    {
+      "date": "2026-03-30",
+      "sessions": 9,
+      "users": 8,
+      "screenPageViews": 9
+    },
+    {
+      "date": "2026-03-31",
+      "sessions": 8,
+      "users": 8,
+      "screenPageViews": 19
+    },
+    {
+      "date": "2026-04-01",
+      "sessions": 11,
+      "users": 11,
+      "screenPageViews": 23
+    },
+    {
+      "date": "2026-04-02",
+      "sessions": 11,
+      "users": 11,
+      "screenPageViews": 13
+    },
+    {
+      "date": "2026-04-03",
+      "sessions": 12,
+      "users": 12,
+      "screenPageViews": 15
+    },
+    {
+      "date": "2026-04-04",
+      "sessions": 2,
+      "users": 2,
+      "screenPageViews": 3
+    },
+    {
+      "date": "2026-04-05",
+      "sessions": 7,
+      "users": 7,
+      "screenPageViews": 15
+    },
+    {
+      "date": "2026-04-06",
+      "sessions": 18,
+      "users": 16,
+      "screenPageViews": 32
     }
   ],
   "channelData": [
     {
       "channel": "Organic Search",
-      "sessions": 1159,
-      "users": 1075
+      "sessions": 997,
+      "users": 903
     },
     {
       "channel": "Direct",
-      "sessions": 718,
-      "users": 690
+      "sessions": 618,
+      "users": 586
     },
     {
       "channel": "Referral",
-      "sessions": 81,
-      "users": 67
+      "sessions": 78,
+      "users": 66
     },
     {
       "channel": "Organic Social",
-      "sessions": 13,
+      "sessions": 14,
       "users": 12
     },
     {
       "channel": "Unassigned",
-      "sessions": 10,
+      "sessions": 7,
       "users": 18
+    }
+  ],
+  "keyEventsByChannel": [
+    {
+      "channel": "Organic Search",
+      "sessions": 997,
+      "keyEvents": 303,
+      "conversionRate": 0.3039117352056169
+    },
+    {
+      "channel": "Direct",
+      "sessions": 618,
+      "keyEvents": 148,
+      "conversionRate": 0.23948220064724918
+    },
+    {
+      "channel": "Referral",
+      "sessions": 78,
+      "keyEvents": 35,
+      "conversionRate": 0.44871794871794873
+    },
+    {
+      "channel": "Organic Social",
+      "sessions": 14,
+      "keyEvents": 5,
+      "conversionRate": 0.35714285714285715
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": 7,
+      "keyEvents": 15,
+      "conversionRate": 2.142857142857143
     }
   ],
   "topPages": [
     {
       "page": "/",
-      "screenPageViews": 1281,
-      "sessions": 1243
+      "screenPageViews": 1018,
+      "sessions": 983
     },
     {
       "page": "/contact-us/",
-      "screenPageViews": 156,
-      "sessions": 138
+      "screenPageViews": 145,
+      "sessions": 127
     },
     {
       "page": "/our-firm/",
-      "screenPageViews": 107,
-      "sessions": 101
+      "screenPageViews": 99,
+      "sessions": 93
     },
     {
       "page": "/car-accident-lawyer/",
-      "screenPageViews": 89,
-      "sessions": 87
+      "screenPageViews": 96,
+      "sessions": 95
     },
     {
       "page": "/motorcycle-accident-lawyer/",
-      "screenPageViews": 73,
-      "sessions": 72
+      "screenPageViews": 81,
+      "sessions": 80
     },
     {
       "page": "/truck-accident-lawyer/",
-      "screenPageViews": 62,
-      "sessions": 62
+      "screenPageViews": 75,
+      "sessions": 75
     },
     {
       "page": "/bronson-harker-esq/",
-      "screenPageViews": 51,
-      "sessions": 51
-    },
-    {
-      "page": "/locations/",
-      "screenPageViews": 39,
-      "sessions": 29
-    },
-    {
-      "page": "/cases-we-take/",
-      "screenPageViews": 36,
-      "sessions": 31
-    },
-    {
-      "page": "/legal-guidance/",
-      "screenPageViews": 31,
-      "sessions": 33
-    },
-    {
-      "page": "/testimonials/",
-      "screenPageViews": 30,
-      "sessions": 28
+      "screenPageViews": 55,
+      "sessions": 50
     },
     {
       "page": "/legal-guidance/social-media-surveillance/",
-      "screenPageViews": 28,
-      "sessions": 29
-    },
-    {
-      "page": "/legal-guidance/locations/escondido/",
-      "screenPageViews": 26,
-      "sessions": 30
-    },
-    {
-      "page": "/legal-guidance/motorcycle-lane-splitting-laws-in-california/",
-      "screenPageViews": 26,
-      "sessions": 31
-    },
-    {
-      "page": "/legal-guidance/teen-driver-accidents-parental-liability-and-protection/",
-      "screenPageViews": 26,
-      "sessions": 25
-    },
-    {
-      "page": "/legal-guidance/locations/san-diego/",
-      "screenPageViews": 25,
-      "sessions": 25
+      "screenPageViews": 40,
+      "sessions": 41
     },
     {
       "page": "/legal-guidance/tenant-injuries-caused-by-landlord-negligence/",
-      "screenPageViews": 24,
-      "sessions": 22
+      "screenPageViews": 35,
+      "sessions": 32
     },
     {
-      "page": "/personal-injury-lawyer-national-city/",
-      "screenPageViews": 24,
-      "sessions": 22
+      "page": "/locations/",
+      "screenPageViews": 33,
+      "sessions": 23
     },
     {
-      "page": "/workers-compensation-lawyer/",
-      "screenPageViews": 24,
-      "sessions": 24
+      "page": "/cases-we-take/",
+      "screenPageViews": 31,
+      "sessions": 26
     },
     {
-      "page": "/distracted-driving-lawyer/",
-      "screenPageViews": 17,
-      "sessions": 18
+      "page": "/testimonials/",
+      "screenPageViews": 31,
+      "sessions": 27
     },
     {
-      "page": "/case-results/",
-      "screenPageViews": 16,
-      "sessions": 16
+      "page": "/legal-guidance/motorcycle-lane-splitting-laws-in-california/",
+      "screenPageViews": 27,
+      "sessions": 32
+    },
+    {
+      "page": "/legal-guidance/teen-driver-accidents-parental-liability-and-protection/",
+      "screenPageViews": 27,
+      "sessions": 27
+    },
+    {
+      "page": "/legal-guidance/",
+      "screenPageViews": 26,
+      "sessions": 29
     },
     {
       "page": "/personal-injury-lawyer-escondido/",
-      "screenPageViews": 16,
-      "sessions": 12
-    },
-    {
-      "page": "/personal-injury-lawyer-spring-valley/",
-      "screenPageViews": 16,
+      "screenPageViews": 21,
       "sessions": 17
     },
     {
-      "page": "/privacy-policy/",
+      "page": "/workers-compensation-lawyer/",
+      "screenPageViews": 20,
+      "sessions": 20
+    },
+    {
+      "page": "/legal-guidance/locations/san-diego/",
+      "screenPageViews": 19,
+      "sessions": 19
+    },
+    {
+      "page": "/legal-guidance/accidents-involving-minors/",
+      "screenPageViews": 18,
+      "sessions": 18
+    },
+    {
+      "page": "/personal-injury-lawyer-national-city/",
+      "screenPageViews": 18,
+      "sessions": 17
+    },
+    {
+      "page": "/case-results/",
+      "screenPageViews": 17,
+      "sessions": 17
+    },
+    {
+      "page": "/legal-guidance/locations/escondido/",
+      "screenPageViews": 16,
+      "sessions": 19
+    },
+    {
+      "page": "/nursing-home-abuse-lawyer/",
       "screenPageViews": 16,
       "sessions": 16
-    },
-    {
-      "page": "/product-liability-lawyer/",
-      "screenPageViews": 16,
-      "sessions": 14
-    },
-    {
-      "page": "/whiplash-neck-injury-lawyer/",
-      "screenPageViews": 16,
-      "sessions": 16
-    },
-    {
-      "page": "/legal-guidance/holiday-decorations-trip-injuries/",
-      "screenPageViews": 15,
-      "sessions": 15
-    },
-    {
-      "page": "/bicycle-accident-lawyer/",
-      "screenPageViews": 14,
-      "sessions": 14
     },
     {
       "page": "/legal-guidance/locations/riverside/",
-      "screenPageViews": 14,
+      "screenPageViews": 15,
       "sessions": 14
     },
     {
-      "page": "/pedestrian-accident-lawyer/",
+      "page": "/personal-injury-lawyer-spring-valley/",
+      "screenPageViews": 15,
+      "sessions": 16
+    },
+    {
+      "page": "/distracted-driving-lawyer/",
       "screenPageViews": 14,
       "sessions": 15
+    },
+    {
+      "page": "/legal-guidance/ada-violations-and-accessibility-injuries/",
+      "screenPageViews": 14,
+      "sessions": 12
+    },
+    {
+      "page": "/legal-guidance/injuries-caused-by-falling-trees-or-branches/",
+      "screenPageViews": 13,
+      "sessions": 12
+    },
+    {
+      "page": "/personal-injury-lawyer-harmony-grove/",
+      "screenPageViews": 13,
+      "sessions": 13
+    },
+    {
+      "page": "/personal-injury-lawyer-san-diego/",
+      "screenPageViews": 13,
+      "sessions": 10
     }
   ],
-  "fetchedAt": "2026-03-18T13:06:41.823Z"
+  "fetchedAt": "2026-04-07T16:21:30.738Z"
 }

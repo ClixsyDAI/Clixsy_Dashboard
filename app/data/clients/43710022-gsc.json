@@ -1,156 +1,16 @@
 {
   "property": "https://www.taylorheatingonline.com/",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 1586,
-    "impressions": 509521,
-    "ctr": 0.00311272744401114,
-    "position": 18.23525667101021
+    "clicks": 1674,
+    "impressions": 516582,
+    "ctr": 0.003240531028955713,
+    "position": 16.818655932705028
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 23,
-      "impressions": 5268,
-      "ctr": 0.0043659832953682615,
-      "position": 15.919324221716021
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 11,
-      "impressions": 4332,
-      "ctr": 0.0025392428439519853,
-      "position": 16.586103416435826
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 10,
-      "impressions": 3382,
-      "ctr": 0.0029568302779420462,
-      "position": 14.902720283855707
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 22,
-      "impressions": 7383,
-      "ctr": 0.0029798185019639712,
-      "position": 42.4862522010023
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 11,
-      "impressions": 4014,
-      "ctr": 0.0027404085700049826,
-      "position": 17.05256601893373
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 6,
-      "impressions": 4494,
-      "ctr": 0.0013351134846461949,
-      "position": 17.427903871829105
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 2,
-      "impressions": 3974,
-      "ctr": 0.0005032712632108706,
-      "position": 16.641922496225465
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 15,
-      "impressions": 6058,
-      "ctr": 0.0024760647078243643,
-      "position": 24.56091119181248
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 13,
-      "impressions": 5033,
-      "ctr": 0.0025829525134114842,
-      "position": 18.02622690244387
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 10,
-      "impressions": 9191,
-      "ctr": 0.001088020890001088,
-      "position": 30.134588184093136
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 1,
-      "impressions": 8479,
-      "ctr": 0.00011793843613633684,
-      "position": 28.43825922868263
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 21,
-      "impressions": 8108,
-      "ctr": 0.002590034533793784,
-      "position": 29.52910705476073
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 12,
-      "impressions": 4249,
-      "ctr": 0.002824193927983055,
-      "position": 17.453047775947283
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 14,
-      "impressions": 3981,
-      "ctr": 0.0035167043456417984,
-      "position": 16.419241396634014
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 39,
-      "impressions": 4980,
-      "ctr": 0.00783132530120482,
-      "position": 17.718875502008032
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 15,
-      "impressions": 5238,
-      "ctr": 0.0028636884306987398,
-      "position": 17.4217258495609
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 15,
-      "impressions": 4229,
-      "ctr": 0.0035469378103570584,
-      "position": 18.60699929061244
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 12,
-      "impressions": 5925,
-      "ctr": 0.0020253164556962027,
-      "position": 13.761856540084388
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 19,
-      "impressions": 4228,
-      "ctr": 0.004493850520340586,
-      "position": 14.945600756859035
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 14,
-      "impressions": 4010,
-      "ctr": 0.003491271820448878,
-      "position": 15.703241895261845
-    },
     {
       "date": "2026-01-04",
       "clicks": 13,
@@ -640,211 +500,407 @@
       "impressions": 4727,
       "ctr": 0.0031732599957689867,
       "position": 14.553204992595727
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 16,
+      "impressions": 4202,
+      "ctr": 0.0038077106139933364,
+      "position": 13.736316039980961
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 23,
+      "impressions": 5480,
+      "ctr": 0.004197080291970803,
+      "position": 14.204744525547445
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 16,
+      "impressions": 6973,
+      "ctr": 0.002294564749749032,
+      "position": 18.431808403843394
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 17,
+      "impressions": 5670,
+      "ctr": 0.002998236331569665,
+      "position": 12.505467372134039
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 18,
+      "impressions": 4881,
+      "ctr": 0.0036877688998156115,
+      "position": 12.996517107150174
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 16,
+      "impressions": 5515,
+      "ctr": 0.002901178603807797,
+      "position": 11.693019038984588
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 9,
+      "impressions": 6295,
+      "ctr": 0.0014297061159650516,
+      "position": 12.679269261318506
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 10,
+      "impressions": 4779,
+      "ctr": 0.002092487968194183,
+      "position": 13.444862942038084
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 29,
+      "impressions": 5927,
+      "ctr": 0.0048928631685507,
+      "position": 14.17175636915809
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 20,
+      "impressions": 6006,
+      "ctr": 0.00333000333000333,
+      "position": 13.030303030303031
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 22,
+      "impressions": 5339,
+      "ctr": 0.004120621839295748,
+      "position": 14.731784978460386
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 21,
+      "impressions": 5189,
+      "ctr": 0.004047022547697052,
+      "position": 17.81537868568125
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 14,
+      "impressions": 5410,
+      "ctr": 0.002587800369685767,
+      "position": 14.521441774491683
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 9,
+      "impressions": 5050,
+      "ctr": 0.0017821782178217822,
+      "position": 13.987128712871288
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 19,
+      "impressions": 4478,
+      "ctr": 0.004242965609647164,
+      "position": 12.693166592228673
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 31,
+      "impressions": 8849,
+      "ctr": 0.003503220702904283,
+      "position": 16.36105774663804
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 13,
+      "impressions": 4647,
+      "ctr": 0.002797503765870454,
+      "position": 12.134495373359156
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 22,
+      "impressions": 5872,
+      "ctr": 0.003746594005449591,
+      "position": 10.92200272479564
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 22,
+      "impressions": 4154,
+      "ctr": 0.005296100144439095,
+      "position": 13.26600866634569
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 15,
+      "impressions": 5070,
+      "ctr": 0.0029585798816568047,
+      "position": 16.201775147928995
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 11,
+      "impressions": 3831,
+      "ctr": 0.0028713129731140694,
+      "position": 13.532759070738711
     }
   ],
   "topQueries": [
     {
       "query": "taylor heating and air",
-      "clicks": 220,
-      "impressions": 1421,
-      "ctr": 0.15482054890921887,
-      "position": 3.17100633356791
-    },
-    {
-      "query": "taylor electric",
-      "clicks": 68,
-      "impressions": 356,
-      "ctr": 0.19101123595505617,
-      "position": 2.48876404494382
+      "clicks": 209,
+      "impressions": 1343,
+      "ctr": 0.15562174236783322,
+      "position": 3.7505584512285925
     },
     {
       "query": "taylor heating",
-      "clicks": 63,
-      "impressions": 518,
-      "ctr": 0.12162162162162163,
-      "position": 5.357142857142857
+      "clicks": 85,
+      "impressions": 583,
+      "ctr": 0.1457975986277873,
+      "position": 5.95368782161235
+    },
+    {
+      "query": "taylor electric",
+      "clicks": 74,
+      "impressions": 400,
+      "ctr": 0.185,
+      "position": 2.2800000000000002
+    },
+    {
+      "query": "taylor heating and cooling",
+      "clicks": 58,
+      "impressions": 737,
+      "ctr": 0.07869742198100407,
+      "position": 5.462686567164179
     },
     {
       "query": "taylor heating & air conditioning",
-      "clicks": 54,
-      "impressions": 147,
-      "ctr": 0.3673469387755102,
-      "position": 3.2448979591836733
+      "clicks": 55,
+      "impressions": 145,
+      "ctr": 0.3793103448275862,
+      "position": 2.4551724137931035
     },
     {
       "query": "taylor heating and air conditioning",
-      "clicks": 45,
-      "impressions": 338,
-      "ctr": 0.13313609467455623,
-      "position": 5.668639053254438
+      "clicks": 44,
+      "impressions": 332,
+      "ctr": 0.13253012048192772,
+      "position": 5.804216867469879
     },
     {
       "query": "taylor heating and ac",
       "clicks": 29,
-      "impressions": 112,
-      "ctr": 0.25892857142857145,
-      "position": 4.741071428571429
+      "impressions": 121,
+      "ctr": 0.2396694214876033,
+      "position": 4.5123966942148765
     },
     {
-      "query": "taylor heating and cooling",
-      "clicks": 28,
-      "impressions": 607,
-      "ctr": 0.04612850082372323,
-      "position": 6.538714991762768
+      "query": "taylor electric puyallup",
+      "clicks": 12,
+      "impressions": 53,
+      "ctr": 0.22641509433962265,
+      "position": 1
+    },
+    {
+      "query": "taylor hvac",
+      "clicks": 12,
+      "impressions": 178,
+      "ctr": 0.06741573033707865,
+      "position": 7.477528089887641
+    },
+    {
+      "query": "taylor plumbing",
+      "clicks": 10,
+      "impressions": 197,
+      "ctr": 0.050761421319796954,
+      "position": 7.822335025380711
     },
     {
       "query": "hvac puyallup",
       "clicks": 9,
-      "impressions": 624,
-      "ctr": 0.014423076923076924,
-      "position": 9.568910256410257
-    },
-    {
-      "query": "taylor plumbing",
-      "clicks": 9,
-      "impressions": 188,
-      "ctr": 0.047872340425531915,
-      "position": 8.170212765957448
+      "impressions": 649,
+      "ctr": 0.01386748844375963,
+      "position": 10.214175654853621
     },
     {
       "query": "furnace repair near me",
       "clicks": 8,
-      "impressions": 658,
-      "ctr": 0.0121580547112462,
-      "position": 6.145896656534954
+      "impressions": 699,
+      "ctr": 0.011444921316165951,
+      "position": 6.969957081545064
+    },
+    {
+      "query": "hvac companies near me",
+      "clicks": 8,
+      "impressions": 165,
+      "ctr": 0.048484848484848485,
+      "position": 5.709090909090909
     },
     {
       "query": "taylor heating and plumbing",
       "clicks": 8,
-      "impressions": 50,
-      "ctr": 0.16,
-      "position": 11.86
-    },
-    {
-      "query": "taylor heating & air conditioning (now a gene johnson company)",
-      "clicks": 7,
-      "impressions": 188,
-      "ctr": 0.03723404255319149,
-      "position": 1.0904255319148937
-    },
-    {
-      "query": "taylor hvac",
-      "clicks": 7,
-      "impressions": 175,
-      "ctr": 0.04,
-      "position": 8.92
-    },
-    {
-      "query": "hvac companies near me",
-      "clicks": 6,
-      "impressions": 126,
-      "ctr": 0.047619047619047616,
-      "position": 5.365079365079365
-    },
-    {
-      "query": "taylor heating & air conditioning (now a gene johnson company) puyallup",
-      "clicks": 6,
-      "impressions": 34,
-      "ctr": 0.17647058823529413,
-      "position": 1
+      "impressions": 56,
+      "ctr": 0.14285714285714285,
+      "position": 11.517857142857142
     },
     {
       "query": "taylor plumbing and heating",
-      "clicks": 6,
-      "impressions": 209,
-      "ctr": 0.028708133971291867,
-      "position": 19.818181818181817
-    },
-    {
-      "query": "furnace repair",
-      "clicks": 4,
-      "impressions": 13430,
-      "ctr": 0.0002978406552494416,
-      "position": 47.95621742367833
-    },
-    {
-      "query": "furnace repair puyallup wa",
-      "clicks": 4,
-      "impressions": 1174,
-      "ctr": 0.0034071550255536627,
-      "position": 10.013628620102214
-    },
-    {
-      "query": "taylor electric puyallup",
-      "clicks": 4,
-      "impressions": 21,
-      "ctr": 0.19047619047619047,
-      "position": 1
-    },
-    {
-      "query": "hvac",
-      "clicks": 3,
-      "impressions": 414,
-      "ctr": 0.007246376811594203,
-      "position": 2.4082125603864735
+      "clicks": 7,
+      "impressions": 266,
+      "ctr": 0.02631578947368421,
+      "position": 23.304511278195488
     },
     {
       "query": "hvac near me",
-      "clicks": 3,
-      "impressions": 408,
-      "ctr": 0.007352941176470588,
-      "position": 5.578431372549019
+      "clicks": 6,
+      "impressions": 372,
+      "ctr": 0.016129032258064516,
+      "position": 3.0591397849462365
     },
     {
-      "query": "hvac tacoma",
-      "clicks": 3,
-      "impressions": 383,
-      "ctr": 0.007832898172323759,
-      "position": 19.56135770234987
-    },
-    {
-      "query": "taylor furnace",
-      "clicks": 3,
-      "impressions": 15,
-      "ctr": 0.2,
-      "position": 1
-    },
-    {
-      "query": "taylor heating puyallup",
-      "clicks": 3,
-      "impressions": 37,
-      "ctr": 0.08108108108108109,
+      "query": "taylor heating, cooling, plumbing & electrical puyallup",
+      "clicks": 6,
+      "impressions": 41,
+      "ctr": 0.14634146341463414,
       "position": 1
     },
     {
       "query": "taylor heating, cooling, plumbing & electrical",
-      "clicks": 3,
-      "impressions": 542,
-      "ctr": 0.005535055350553505,
-      "position": 1.0645756457564575
+      "clicks": 5,
+      "impressions": 723,
+      "ctr": 0.006915629322268326,
+      "position": 1.0733056708160442
     },
     {
-      "query": "taylor heating, cooling, plumbing & electrical puyallup",
-      "clicks": 3,
-      "impressions": 32,
-      "ctr": 0.09375,
+      "query": "furnace repair puyallup wa",
+      "clicks": 4,
+      "impressions": 1175,
+      "ctr": 0.003404255319148936,
+      "position": 10.371063829787234
+    },
+    {
+      "query": "hvac repair near me",
+      "clicks": 4,
+      "impressions": 359,
+      "ctr": 0.011142061281337047,
+      "position": 13.657381615598887
+    },
+    {
+      "query": "hvac tacoma",
+      "clicks": 4,
+      "impressions": 306,
+      "ctr": 0.013071895424836602,
+      "position": 19.415032679738562
+    },
+    {
+      "query": "taylor furnace",
+      "clicks": 4,
+      "impressions": 12,
+      "ctr": 0.3333333333333333,
       "position": 1
+    },
+    {
+      "query": "taylor heating & air conditioning (now a gene johnson company)",
+      "clicks": 4,
+      "impressions": 55,
+      "ctr": 0.07272727272727272,
+      "position": 1.2545454545454544
+    },
+    {
+      "query": "furnace repair",
+      "clicks": 3,
+      "impressions": 13569,
+      "ctr": 0.00022109219544550078,
+      "position": 47.449627828137665
+    },
+    {
+      "query": "furnace service near me",
+      "clicks": 3,
+      "impressions": 99,
+      "ctr": 0.030303030303030304,
+      "position": 2.090909090909091
+    },
+    {
+      "query": "hvac",
+      "clicks": 3,
+      "impressions": 436,
+      "ctr": 0.006880733944954129,
+      "position": 2.1536697247706424
+    },
+    {
+      "query": "intermittent insect buzzing sound in wall",
+      "clicks": 3,
+      "impressions": 182,
+      "ctr": 0.016483516483516484,
+      "position": 4.802197802197802
+    },
+    {
+      "query": "taylor air conditioning",
+      "clicks": 3,
+      "impressions": 55,
+      "ctr": 0.05454545454545454,
+      "position": 11.981818181818182
+    },
+    {
+      "query": "taylor electric company",
+      "clicks": 3,
+      "impressions": 23,
+      "ctr": 0.13043478260869565,
+      "position": 3
+    },
+    {
+      "query": "taylors electric",
+      "clicks": 3,
+      "impressions": 13,
+      "ctr": 0.23076923076923078,
+      "position": 11.307692307692308
     },
     {
       "query": "taylors heating and cooling",
       "clicks": 3,
-      "impressions": 34,
-      "ctr": 0.08823529411764706,
-      "position": 6.764705882352941
+      "impressions": 53,
+      "ctr": 0.05660377358490566,
+      "position": 7.320754716981132
     },
     {
       "query": "furnace replacement near me",
       "clicks": 2,
-      "impressions": 112,
-      "ctr": 0.017857142857142856,
-      "position": 9.625
+      "impressions": 116,
+      "ctr": 0.017241379310344827,
+      "position": 10
+    },
+    {
+      "query": "heat pump capacitor symptoms",
+      "clicks": 2,
+      "impressions": 69,
+      "ctr": 0.028985507246376812,
+      "position": 9.623188405797102
+    },
+    {
+      "query": "heat pump service near me",
+      "clicks": 2,
+      "impressions": 57,
+      "ctr": 0.03508771929824561,
+      "position": 6.7368421052631575
     },
     {
       "query": "heat pump start capacitor",
       "clicks": 2,
-      "impressions": 45,
-      "ctr": 0.044444444444444446,
-      "position": 2.1555555555555554
+      "impressions": 53,
+      "ctr": 0.03773584905660377,
+      "position": 2.5283018867924527
+    },
+    {
+      "query": "heating and air conditioning",
+      "clicks": 2,
+      "impressions": 430,
+      "ctr": 0.004651162790697674,
+      "position": 62.11162790697674
     },
     {
       "query": "hvac careers near me",
@@ -856,93 +912,72 @@
     {
       "query": "hvac maintenance",
       "clicks": 2,
-      "impressions": 252,
-      "ctr": 0.007936507936507936,
-      "position": 2.5436507936507935
-    },
-    {
-      "query": "hvac repair near me",
-      "clicks": 2,
-      "impressions": 365,
-      "ctr": 0.005479452054794521,
-      "position": 14.808219178082192
+      "impressions": 142,
+      "ctr": 0.014084507042253521,
+      "position": 3.1056338028169015
     },
     {
       "query": "hvac service bonney lake wa",
       "clicks": 2,
-      "impressions": 20,
-      "ctr": 0.1,
-      "position": 8.35
-    },
-    {
-      "query": "intermittent insect buzzing sound in wall",
-      "clicks": 2,
-      "impressions": 180,
-      "ctr": 0.011111111111111112,
-      "position": 4.844444444444445
+      "impressions": 40,
+      "ctr": 0.05,
+      "position": 9
     },
     {
       "query": "oil furnace repair",
       "clicks": 2,
-      "impressions": 48,
-      "ctr": 0.041666666666666664,
-      "position": 9.166666666666666
-    },
-    {
-      "query": "taylor electric company",
-      "clicks": 2,
-      "impressions": 28,
-      "ctr": 0.07142857142857142,
-      "position": 3.8214285714285716
+      "impressions": 47,
+      "ctr": 0.0425531914893617,
+      "position": 10
     },
     {
       "query": "taylor electrical",
       "clicks": 2,
-      "impressions": 40,
-      "ctr": 0.05,
-      "position": 16.325
+      "impressions": 42,
+      "ctr": 0.047619047619047616,
+      "position": 14.142857142857142
     },
     {
-      "query": "taylor heating & cooling",
+      "query": "taylor heating puyallup",
       "clicks": 2,
-      "impressions": 72,
-      "ctr": 0.027777777777777776,
-      "position": 15.180555555555555
+      "impressions": 33,
+      "ctr": 0.06060606060606061,
+      "position": 1
     },
     {
-      "query": "taylor heating and air conditioning reviews",
+      "query": "taylor's heating and air",
       "clicks": 2,
-      "impressions": 533,
-      "ctr": 0.00375234521575985,
-      "position": 6.632270168855535
+      "impressions": 45,
+      "ctr": 0.044444444444444446,
+      "position": 10.044444444444444
     },
     {
       "query": "taylor's heating and air conditioning",
       "clicks": 2,
-      "impressions": 18,
-      "ctr": 0.1111111111111111,
-      "position": 5.166666666666667
+      "impressions": 20,
+      "ctr": 0.1,
+      "position": 5.55
     },
     {
-      "query": "taylors electric",
+      "query": "taylors hvac",
       "clicks": 2,
-      "impressions": 14,
-      "ctr": 0.14285714285714285,
-      "position": 12.857142857142858
+      "impressions": 10,
+      "ctr": 0.2,
+      "position": 8.3
     },
     {
       "query": "taylors plumbing",
       "clicks": 2,
-      "impressions": 28,
-      "ctr": 0.07142857142857142,
-      "position": 9.357142857142858
+      "impressions": 32,
+      "ctr": 0.0625,
+      "position": 9.4375
     },
     {
-      "query": "trane installers near me",
-      "clicks": 2,
-      "impressions": 5,
-      "ctr": 0.4,
-      "position": 2
+      "query": "1960s electrical wiring",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
     },
     {
       "query": "24 hour heating and air",
@@ -968,9 +1003,16 @@
     {
       "query": "ac installation near me",
       "clicks": 1,
-      "impressions": 50,
-      "ctr": 0.02,
-      "position": 15.52
+      "impressions": 54,
+      "ctr": 0.018518518518518517,
+      "position": 12.37037037037037
+    },
+    {
+      "query": "ac technician",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 8
     },
     {
       "query": "air conditioner companies near me",
@@ -980,371 +1022,2792 @@
       "position": 1
     },
     {
-      "query": "airconditioning near me",
-      "clicks": 1,
-      "impressions": 2,
-      "ctr": 0.5,
-      "position": 7.5
-    },
-    {
       "query": "best rated hvac companies near me",
       "clicks": 1,
       "impressions": 2,
       "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "boiler repair services",
+      "clicks": 1,
+      "impressions": 42,
+      "ctr": 0.023809523809523808,
+      "position": 44.5
+    },
+    {
+      "query": "bruit dans les murs que faire",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "bruit régulier dans les murs",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2
+    },
+    {
+      "query": "bruits dans les murs la nuit",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 2
+    },
+    {
+      "query": "buzzing noise in wall at night",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 11.538461538461538
+    },
+    {
+      "query": "buzzing sound in wall at night",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 10.625
+    },
+    {
+      "query": "capacitor for heat pump",
+      "clicks": 1,
+      "impressions": 82,
+      "ctr": 0.012195121951219513,
+      "position": 2.8292682926829267
+    },
+    {
+      "query": "ceiling fan capacitor replacement",
+      "clicks": 1,
+      "impressions": 26,
+      "ctr": 0.038461538461538464,
+      "position": 2.3846153846153846
+    },
+    {
+      "query": "commercial hvac",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 3.3333333333333335
+    },
+    {
+      "query": "electric and heating company",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "electric furnace capacitor",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "electrician puyallup",
+      "clicks": 1,
+      "impressions": 38,
+      "ctr": 0.02631578947368421,
+      "position": 54.526315789473685
+    },
+    {
+      "query": "furnace and air conditioning",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 1
+    },
+    {
+      "query": "furnace check up",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "furnace cleaning",
+      "clicks": 1,
+      "impressions": 57,
+      "ctr": 0.017543859649122806,
+      "position": 4.666666666666666
+    },
+    {
+      "query": "furnace companies",
+      "clicks": 1,
+      "impressions": 43,
+      "ctr": 0.023255813953488372,
+      "position": 2.8604651162790695
+    },
+    {
+      "query": "furnace company near me",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 8.444444444444445
+    },
+    {
+      "query": "furnace inspection",
+      "clicks": 1,
+      "impressions": 70,
+      "ctr": 0.014285714285714285,
+      "position": 3.2
+    },
+    {
+      "query": "furnace maintenance",
+      "clicks": 1,
+      "impressions": 320,
+      "ctr": 0.003125,
+      "position": 11.39375
+    },
+    {
+      "query": "furnace repair people",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 6
+    },
+    {
+      "query": "furnace repair puyallup",
+      "clicks": 1,
+      "impressions": 431,
+      "ctr": 0.002320185614849188,
+      "position": 12.719257540603248
+    },
+    {
+      "query": "furnace replacement",
+      "clicks": 1,
+      "impressions": 833,
+      "ctr": 0.0012004801920768306,
+      "position": 3.6122448979591835
+    },
+    {
+      "query": "furnace service puyallup wa",
+      "clicks": 1,
+      "impressions": 306,
+      "ctr": 0.0032679738562091504,
+      "position": 8.480392156862745
+    },
+    {
+      "query": "furnace stores near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 1
+    },
+    {
+      "query": "gene johnson",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 1.5294117647058822
+    },
+    {
+      "query": "gene johnson family of brands",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 8.5
+    },
+    {
+      "query": "havc company",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "heat and air company",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 6.5
+    },
+    {
+      "query": "heat and air near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "heat pump capacitor",
+      "clicks": 1,
+      "impressions": 121,
+      "ctr": 0.008264462809917356,
+      "position": 7.454545454545454
+    },
+    {
+      "query": "heat pump capacitor failure symptoms",
+      "clicks": 1,
+      "impressions": 52,
+      "ctr": 0.019230769230769232,
+      "position": 6.923076923076923
+    },
+    {
+      "query": "heat pump capacitor replacement",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3
+    },
+    {
+      "query": "heat pump installation",
+      "clicks": 1,
+      "impressions": 360,
+      "ctr": 0.002777777777777778,
+      "position": 2.075
+    },
+    {
+      "query": "heat pump installer",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 1
+    },
+    {
+      "query": "heat pump installer near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "heat pump installers near me",
+      "clicks": 1,
+      "impressions": 55,
+      "ctr": 0.01818181818181818,
+      "position": 33.472727272727276
+    },
+    {
+      "query": "heat pump maintenance",
+      "clicks": 1,
+      "impressions": 172,
+      "ctr": 0.005813953488372093,
+      "position": 22.52906976744186
+    },
+    {
+      "query": "heat pump tacoma",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 9.642857142857142
+    },
+    {
+      "query": "heat pump technician near me",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 48.38461538461539
+    },
+    {
+      "query": "heat repair near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 6
+    },
+    {
+      "query": "heater company",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 1.6666666666666665
+    },
+    {
+      "query": "heater duct cleaning",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 11.5
+    },
+    {
+      "query": "heater service maintenance",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 4
+    },
+    {
+      "query": "heating and ac maintenance near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "heating and air",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 4.529411764705882
+    },
+    {
+      "query": "heating and air conditioning company near me",
+      "clicks": 1,
+      "impressions": 26,
+      "ctr": 0.038461538461538464,
+      "position": 2.8461538461538463
+    },
+    {
+      "query": "heating and air conditioning maintenance near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "heating and air servicing",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "heating and cooling",
+      "clicks": 1,
+      "impressions": 320,
+      "ctr": 0.003125,
+      "position": 6.425
+    },
+    {
+      "query": "heating and cooling bonney lake",
+      "clicks": 1,
+      "impressions": 84,
+      "ctr": 0.011904761904761904,
+      "position": 11.69047619047619
+    },
+    {
+      "query": "heating and cooling businesses",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "heating and cooling companies in my area",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2.666666666666667
+    },
+    {
+      "query": "heating and cooling companies near me with financing",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "heating and cooling maintenance",
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 3.05
+    },
+    {
+      "query": "heating and cooling near me",
+      "clicks": 1,
+      "impressions": 203,
+      "ctr": 0.0049261083743842365,
+      "position": 13.083743842364532
+    },
+    {
+      "query": "heating and cooling puyallup",
+      "clicks": 1,
+      "impressions": 377,
+      "ctr": 0.002652519893899204,
+      "position": 7.925729442970822
+    },
+    {
+      "query": "heating and cooling repair near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "heating contractors near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3.5
+    },
+    {
+      "query": "heating repair graham wa",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 14.090909090909092
+    },
+    {
+      "query": "heating services near me",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 5.666666666666667
+    },
+    {
+      "query": "hoe te herkennen",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "hot water coming out of cold faucet",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 17.166666666666668
+    },
+    {
+      "query": "hot water heater replacement",
+      "clicks": 1,
+      "impressions": 69,
+      "ctr": 0.014492753623188406,
+      "position": 2.942028985507246
+    },
+    {
+      "query": "hot water heater service",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "hvac and plumbing near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 3.25
+    },
+    {
+      "query": "hvac business near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "hvac businesses",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 1
+    },
+    {
+      "query": "hvac cleaning near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "hvac companies",
+      "clicks": 1,
+      "impressions": 109,
+      "ctr": 0.009174311926605505,
+      "position": 1.7981651376146788
+    },
+    {
+      "query": "hvac company near me",
+      "clicks": 1,
+      "impressions": 85,
+      "ctr": 0.011764705882352941,
+      "position": 11.91764705882353
+    },
+    {
+      "query": "hvac contractor near me",
+      "clicks": 1,
+      "impressions": 186,
+      "ctr": 0.005376344086021506,
+      "position": 2.118279569892473
+    },
+    {
+      "query": "hvac driver jobs near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 7
+    },
+    {
+      "query": "hvac duct fabrication near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "hvac electrician",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 2.666666666666667
+    },
+    {
+      "query": "hvac inspection near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "hvac install near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 6.25
+    },
+    {
+      "query": "hvac near me.",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "hvac puyallup wa",
+      "clicks": 1,
+      "impressions": 201,
+      "ctr": 0.004975124378109453,
+      "position": 11.537313432835822
+    },
+    {
+      "query": "hvac replacement near me",
+      "clicks": 1,
+      "impressions": 84,
+      "ctr": 0.011904761904761904,
+      "position": 11.44047619047619
+    },
+    {
+      "query": "hvac service puyallup",
+      "clicks": 1,
+      "impressions": 247,
+      "ctr": 0.004048582995951417,
+      "position": 6.825910931174089
+    },
+    {
+      "query": "hvac service technician",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 1.75
+    },
+    {
+      "query": "hvac services near me",
+      "clicks": 1,
+      "impressions": 46,
+      "ctr": 0.021739130434782608,
+      "position": 13.695652173913043
+    },
+    {
+      "query": "install gas line for stove near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 6
+    },
+    {
+      "query": "intermittent buzzing noise in wall",
+      "clicks": 1,
+      "impressions": 44,
+      "ctr": 0.022727272727272728,
+      "position": 10.636363636363637
+    },
+    {
+      "query": "intermittent buzzing sound in house",
+      "clicks": 1,
+      "impressions": 131,
+      "ctr": 0.007633587786259542,
+      "position": 10.465648854961833
+    },
+    {
+      "query": "intermittent humming noise in house",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 7.882352941176471
+    },
+    {
+      "query": "intermittent humming sound in house",
+      "clicks": 1,
+      "impressions": 36,
+      "ctr": 0.027777777777777776,
+      "position": 8.444444444444445
+    },
+    {
+      "query": "intermittent vibration noise in house",
+      "clicks": 1,
+      "impressions": 36,
+      "ctr": 0.027777777777777776,
+      "position": 2.388888888888889
+    },
+    {
+      "query": "light switch tester",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 11
+    },
+    {
+      "query": "low refrigerant in heat pump",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 9.571428571428571
+    },
+    {
+      "query": "mana gambarnya",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 31
+    },
+    {
+      "query": "mechanical contractors near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 11.5
+    },
+    {
+      "query": "mini split ac near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "nivåkärl köldbärare",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 13
+    },
+    {
+      "query": "oil furnace repair near me",
+      "clicks": 1,
+      "impressions": 76,
+      "ctr": 0.013157894736842105,
+      "position": 49.55263157894737
+    },
+    {
+      "query": "olympia furnace repair",
+      "clicks": 1,
+      "impressions": 97,
+      "ctr": 0.010309278350515464,
+      "position": 16.711340206185568
+    },
+    {
+      "query": "outlet isn't working",
+      "clicks": 1,
+      "impressions": 69,
+      "ctr": 0.014492753623188406,
+      "position": 18.855072463768117
+    },
+    {
+      "query": "outlet not working breaker not tripped",
+      "clicks": 1,
+      "impressions": 22,
+      "ctr": 0.045454545454545456,
+      "position": 29.045454545454547
+    },
+    {
+      "query": "plumbing and heating services near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "pool heater capacitor replacement",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 1
+    },
+    {
+      "query": "porque se baja la luz de mi casa cuando conecto algo",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "refrigeration companies near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 35.5
+    },
+    {
+      "query": "replace hot water heater",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "ruud furnace repair near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "seer rating heat pump",
+      "clicks": 1,
+      "impressions": 213,
+      "ctr": 0.004694835680751174,
+      "position": 1.0093896713615023
+    },
+    {
+      "query": "sump pump installation puyallup",
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 5.366666666666666
+    },
+    {
+      "query": "sump pump services",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 13.642857142857142
+    },
+    {
+      "query": "taylor",
+      "clicks": 1,
+      "impressions": 41,
+      "ctr": 0.024390243902439025,
+      "position": 5.512195121951219
+    },
+    {
+      "query": "taylor electrician",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 4.75
+    },
+    {
+      "query": "taylor eletric",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 3.2
+    },
+    {
+      "query": "taylor employment",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "taylor heat",
+      "clicks": 1,
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 5.9375
+    },
+    {
+      "query": "taylor heating & air conditioning (now a gene johnson company) puyallup",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 1
+    },
+    {
+      "query": "taylor heating and air conditioning reviews",
+      "clicks": 1,
+      "impressions": 523,
+      "ctr": 0.0019120458891013384,
+      "position": 6.466539196940727
+    },
+    {
+      "query": "taylor heating inc",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 35.705882352941174
+    },
+    {
+      "query": "taylor home services",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 18.692307692307693
+    },
+    {
+      "query": "taylor hvac inc",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "taylor service",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "taylors",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 1
+    },
+    {
+      "query": "taylors heating",
+      "clicks": 1,
+      "impressions": 36,
+      "ctr": 0.027777777777777776,
+      "position": 3.5
+    },
+    {
+      "query": "taylors heating and air",
+      "clicks": 1,
+      "impressions": 34,
+      "ctr": 0.029411764705882353,
+      "position": 9.676470588235293
+    },
+    {
+      "query": "trane heat pump capacitor",
+      "clicks": 1,
+      "impressions": 27,
+      "ctr": 0.037037037037037035,
+      "position": 1.037037037037037
+    },
+    {
+      "query": "trane installers near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "troy heating and air",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "vibrating noise in wall at night",
+      "clicks": 1,
+      "impressions": 27,
+      "ctr": 0.037037037037037035,
+      "position": 12.666666666666666
+    },
+    {
+      "query": "water heater quotes",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "what is a seer rating",
+      "clicks": 1,
+      "impressions": 181,
+      "ctr": 0.0055248618784530384,
+      "position": 55.806629834254146
+    },
+    {
+      "query": "what is the seer rating on a heat pump",
+      "clicks": 1,
+      "impressions": 44,
+      "ctr": 0.022727272727272728,
+      "position": 1
+    },
+    {
+      "query": "wärmepumpe kondensator defekt",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 3
+    },
+    {
+      "query": "\"ac",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "\"heat pump installation\"",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 50.5
+    },
+    {
+      "query": "\"heat pump repair\"",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 31.5
+    },
+    {
+      "query": "#draincleaning",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "$59 ac tune up",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "-site:facebook.com -site:fb.me -site:youtube.com -site:youtu.be -site:youtube.be -site:twitter.com -site:instagram.com -site:tiktok.com -site:vm.tiktok.com -site:t.co -site:x.com -site:reddit.com \"taylor water technologies\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "100 amp electrical panel",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "13 seer vs 15 seer",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "13 vs 15 seer",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "15 seer heat pump efficiency",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "15 seer vs 13 seer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "16 seer heat pump",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 2.2
+    },
+    {
+      "query": "16 seer heat pump efficiency",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "16 seer heat pump temperature range",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "16 seer meaning",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "19 seer heat pump",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "19 seer vs 23 seer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
       "position": 1
     }
   ],
   "topPages": [
     {
       "page": "https://www.taylorheatingonline.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*199*taylor-heating-puyallup",
-      "clicks": 679,
-      "impressions": 80939,
-      "ctr": 0.008389033716749652,
-      "position": 8.05359591791349
+      "clicks": 745,
+      "impressions": 82429,
+      "ctr": 0.009038081257809751,
+      "position": 7.993169879532688
     },
     {
       "page": "https://www.taylorheatingonline.com/",
-      "clicks": 299,
-      "impressions": 14918,
-      "ctr": 0.020042901193189435,
-      "position": 17.835768869821692
+      "clicks": 333,
+      "impressions": 16152,
+      "ctr": 0.02061664190193165,
+      "position": 17.50123823675087
     },
     {
       "page": "https://www.taylorheatingonline.com/blog/why-is-there-an-intermittent-buzzing-sound-in-my-wall/",
-      "clicks": 122,
-      "impressions": 24848,
-      "ctr": 0.0049098518995492595,
-      "position": 6.2727382485511916
+      "clicks": 123,
+      "impressions": 25355,
+      "ctr": 0.004851114178662986,
+      "position": 6.0849536580556105
     },
     {
       "page": "https://www.taylorheatingonline.com/heat-pump/the-signs-of-a-weak-or-dying-heat-pump-capacitor/",
-      "clicks": 51,
-      "impressions": 6734,
-      "ctr": 0.007573507573507573,
-      "position": 4.382536382536383
+      "clicks": 63,
+      "impressions": 11608,
+      "ctr": 0.0054272915230875254,
+      "position": 4.163077188146106
+    },
+    {
+      "page": "https://www.taylorheatingonline.com/heat-pump/heat-pump-problems-that-may-arise-due-to-low-refrigerant/",
+      "clicks": 31,
+      "impressions": 7022,
+      "ctr": 0.004414696667616064,
+      "position": 6.22429507262888
     },
     {
       "page": "https://www.taylorheatingonline.com/team/",
       "clicks": 29,
-      "impressions": 2629,
-      "ctr": 0.01103081019399011,
-      "position": 9.256751616584253
-    },
-    {
-      "page": "https://www.taylorheatingonline.com/hvac/uv-lights-humidifiers-and-purifiers-do-you-need-them/",
-      "clicks": 28,
-      "impressions": 4369,
-      "ctr": 0.006408789196612497,
-      "position": 7.56420233463035
-    },
-    {
-      "page": "https://www.taylorheatingonline.com/heat-pump/heat-pump-problems-that-may-arise-due-to-low-refrigerant/",
-      "clicks": 25,
-      "impressions": 4347,
-      "ctr": 0.005751092707614446,
-      "position": 6.1525189786059356
+      "impressions": 2223,
+      "ctr": 0.013045434098065677,
+      "position": 10.269455690508321
     },
     {
       "page": "https://www.taylorheatingonline.com/olympia/",
-      "clicks": 22,
-      "impressions": 20622,
-      "ctr": 0.0010668218407525944,
-      "position": 19.90776840267675
-    },
-    {
-      "page": "https://www.taylorheatingonline.com/heating/furnace-repair/",
-      "clicks": 21,
-      "impressions": 21268,
-      "ctr": 0.0009873989091593004,
-      "position": 40.88701335339477
+      "clicks": 24,
+      "impressions": 19398,
+      "ctr": 0.0012372409526755336,
+      "position": 20.267398700897
     },
     {
       "page": "https://www.taylorheatingonline.com/bremerton/",
       "clicks": 18,
-      "impressions": 16565,
-      "ctr": 0.0010866284334440084,
-      "position": 20.92912767884093
+      "impressions": 18602,
+      "ctr": 0.0009676378883990968,
+      "position": 21.046500376303623
     },
     {
-      "page": "https://www.taylorheatingonline.com/careers/",
-      "clicks": 17,
-      "impressions": 118,
-      "ctr": 0.1440677966101695,
-      "position": 7.4491525423728815
+      "page": "https://www.taylorheatingonline.com/heating/furnace-repair/",
+      "clicks": 18,
+      "impressions": 20065,
+      "ctr": 0.0008970844754547719,
+      "position": 42.8746573635684
     },
     {
       "page": "https://www.taylorheatingonline.com/blog/why-does-hot-water-come-out-of-the-cold-faucet/",
-      "clicks": 15,
-      "impressions": 8452,
-      "ctr": 0.0017747278750591575,
-      "position": 8.68812115475627
+      "clicks": 16,
+      "impressions": 7656,
+      "ctr": 0.0020898641588296763,
+      "position": 8.559299895506793
+    },
+    {
+      "page": "https://www.taylorheatingonline.com/careers/",
+      "clicks": 16,
+      "impressions": 130,
+      "ctr": 0.12307692307692308,
+      "position": 6.6692307692307695
+    },
+    {
+      "page": "https://www.taylorheatingonline.com/hvac/uv-lights-humidifiers-and-purifiers-do-you-need-them/",
+      "clicks": 16,
+      "impressions": 3797,
+      "ctr": 0.004213853041875165,
+      "position": 7.462470371345799
     },
     {
       "page": "https://www.taylorheatingonline.com/blog/what-causes-the-power-to-go-out-in-one-room-of-a-home/",
       "clicks": 13,
-      "impressions": 8632,
-      "ctr": 0.0015060240963855422,
-      "position": 11.275834105653383
+      "impressions": 8033,
+      "ctr": 0.0016183244118013196,
+      "position": 11.505166189468442
     },
     {
       "page": "https://www.taylorheatingonline.com/contact/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*199*taylor-heating-puyallup",
-      "clicks": 13,
-      "impressions": 3172,
-      "ctr": 0.004098360655737705,
-      "position": 8.796658259773015
+      "clicks": 12,
+      "impressions": 2962,
+      "ctr": 0.004051316677920324,
+      "position": 8.900742741390953
     },
     {
-      "page": "https://www.taylorheatingonline.com/blog/how-to-tell-if-a-light-switch-is-worn-out/",
-      "clicks": 11,
-      "impressions": 6540,
-      "ctr": 0.0016819571865443425,
-      "position": 5.239602446483181
-    },
-    {
-      "page": "https://www.taylorheatingonline.com/blog/reasons-why-an-electrical-outlet-stopped-working/",
+      "page": "https://www.taylorheatingonline.com/lacey/",
       "clicks": 10,
-      "impressions": 9359,
-      "ctr": 0.0010684902233144566,
-      "position": 19.747408911208463
-    },
-    {
-      "page": "https://www.taylorheatingonline.com/tacoma/",
-      "clicks": 10,
-      "impressions": 12251,
-      "ctr": 0.000816259897151253,
-      "position": 24.144151497836912
-    },
-    {
-      "page": "https://www.taylorheatingonline.com/about-us/",
-      "clicks": 9,
-      "impressions": 1312,
-      "ctr": 0.006859756097560976,
-      "position": 10.259908536585366
+      "impressions": 8266,
+      "ctr": 0.0012097749818533753,
+      "position": 16.62605855310912
     },
     {
       "page": "https://www.taylorheatingonline.com/electrical/why-do-my-light-bulbs-keep-burning-out/",
       "clicks": 9,
-      "impressions": 6898,
-      "ctr": 0.001304726007538417,
-      "position": 12.82966077123804
+      "impressions": 5376,
+      "ctr": 0.0016741071428571428,
+      "position": 11.647879464285714
     },
     {
-      "page": "https://www.taylorheatingonline.com/blog/why-is-my-water-taking-too-long-to-heat/",
-      "clicks": 8,
-      "impressions": 4748,
-      "ctr": 0.0016849199663016006,
-      "position": 12.518534119629317
+      "page": "https://www.taylorheatingonline.com/tacoma/",
+      "clicks": 9,
+      "impressions": 11918,
+      "ctr": 0.0007551602617888907,
+      "position": 24.202886390333948
     },
     {
-      "page": "https://www.taylorheatingonline.com/service-areas/",
+      "page": "https://www.taylorheatingonline.com/about-us/",
       "clicks": 8,
-      "impressions": 6711,
-      "ctr": 0.0011920727164357026,
-      "position": 48.564148413053196
+      "impressions": 972,
+      "ctr": 0.00823045267489712,
+      "position": 12.344650205761317
+    },
+    {
+      "page": "https://www.taylorheatingonline.com/blog/how-to-tell-if-a-light-switch-is-worn-out/",
+      "clicks": 8,
+      "impressions": 5458,
+      "ctr": 0.0014657383657017222,
+      "position": 5.4382557713448145
+    },
+    {
+      "page": "https://www.taylorheatingonline.com/blog/reasons-why-an-electrical-outlet-stopped-working/",
+      "clicks": 8,
+      "impressions": 8710,
+      "ctr": 0.0009184845005740528,
+      "position": 17.35223880597015
     },
     {
       "page": "https://www.taylorheatingonline.com/contact/",
-      "clicks": 7,
-      "impressions": 1720,
-      "ctr": 0.004069767441860465,
-      "position": 12.966279069767442
+      "clicks": 8,
+      "impressions": 1921,
+      "ctr": 0.004164497657470068,
+      "position": 12.031233732431026
+    },
+    {
+      "page": "https://www.taylorheatingonline.com/hvac/can-i-replace-hvac-capacitor-myself/",
+      "clicks": 8,
+      "impressions": 3260,
+      "ctr": 0.00245398773006135,
+      "position": 3.35
     },
     {
       "page": "https://www.taylorheatingonline.com/products/",
       "clicks": 7,
-      "impressions": 1207,
-      "ctr": 0.00579950289975145,
-      "position": 7.867439933719967
+      "impressions": 1247,
+      "ctr": 0.0056134723336006415,
+      "position": 8.227746591820368
     },
     {
-      "page": "https://www.taylorheatingonline.com/blog/what-to-do-when-an-electrical-outlet-isnt-working-but-the-breaker-hasnt-tripped/",
+      "page": "https://www.taylorheatingonline.com/blog/why-is-my-water-taking-too-long-to-heat/",
       "clicks": 6,
-      "impressions": 4312,
-      "ctr": 0.0013914656771799629,
-      "position": 16.338589981447125
+      "impressions": 4517,
+      "ctr": 0.0013283152534868275,
+      "position": 12.881115784812929
     },
     {
-      "page": "https://www.taylorheatingonline.com/cooling/",
-      "clicks": 5,
-      "impressions": 3657,
-      "ctr": 0.0013672409078479629,
-      "position": 12.121957888980038
+      "page": "https://www.taylorheatingonline.com/electrical-installations-upgrades-repairs/",
+      "clicks": 6,
+      "impressions": 3308,
+      "ctr": 0.0018137847642079807,
+      "position": 14.954957678355502
     },
     {
       "page": "https://www.taylorheatingonline.com/electrical/electrical-panel-upgrades-in-puyallup-western-washington-cost-code-and-safety/",
-      "clicks": 5,
-      "impressions": 1652,
-      "ctr": 0.003026634382566586,
-      "position": 20.89225181598063
+      "clicks": 6,
+      "impressions": 2283,
+      "ctr": 0.002628120893561104,
+      "position": 18.95137976346912
     },
     {
-      "page": "https://www.taylorheatingonline.com/lacey/",
-      "clicks": 5,
-      "impressions": 7895,
-      "ctr": 0.0006333122229259025,
-      "position": 17.63685877137429
+      "page": "https://www.taylorheatingonline.com/service-areas/",
+      "clicks": 6,
+      "impressions": 3013,
+      "ctr": 0.0019913707268503153,
+      "position": 36.037172253567874
     },
     {
-      "page": "https://www.taylorheatingonline.com/lakewood/",
+      "page": "https://www.taylorheatingonline.com/blog/types-of-ac-air-filters-a-comprehensive-guide/",
       "clicks": 5,
-      "impressions": 3154,
-      "ctr": 0.0015852885225110971,
-      "position": 18.542485732403296
+      "impressions": 3015,
+      "ctr": 0.001658374792703151,
+      "position": 21.86766169154229
     },
     {
-      "page": "https://www.taylorheatingonline.com/plumbing/sump-pumps/",
+      "page": "https://www.taylorheatingonline.com/blog/what-to-do-when-an-electrical-outlet-isnt-working-but-the-breaker-hasnt-tripped/",
       "clicks": 5,
-      "impressions": 6169,
-      "ctr": 0.0008105041335710813,
-      "position": 48.603339277030315
+      "impressions": 3959,
+      "ctr": 0.001262945188178833,
+      "position": 16.696893154837078
     },
     {
-      "page": "https://www.taylorheatingonline.com/spanaway/",
+      "page": "https://www.taylorheatingonline.com/plumbing/hidden-plumbing-leaks-how-to-spot-them-before-they-damage-your-home/",
       "clicks": 5,
-      "impressions": 3188,
-      "ctr": 0.0015683814303638645,
-      "position": 23.432873274780427
-    },
-    {
-      "page": "https://www.taylorheatingonline.com/tumwater/",
-      "clicks": 5,
-      "impressions": 8849,
-      "ctr": 0.0005650355972426263,
-      "position": 16.581986665159903
-    },
-    {
-      "page": "https://www.taylorheatingonline.com/auburn/",
-      "clicks": 4,
-      "impressions": 4742,
-      "ctr": 0.0008435259384226065,
-      "position": 32.028890763390976
+      "impressions": 2678,
+      "ctr": 0.0018670649738610904,
+      "position": 10.007094846900673
     },
     {
       "page": "https://www.taylorheatingonline.com/blog/ac-air-filter-location/",
       "clicks": 4,
-      "impressions": 2587,
-      "ctr": 0.0015461925009663702,
-      "position": 19.323540780827212
-    },
-    {
-      "page": "https://www.taylorheatingonline.com/blog/types-of-ac-air-filters-a-comprehensive-guide/",
-      "clicks": 4,
-      "impressions": 3133,
-      "ctr": 0.0012767315671879987,
-      "position": 23.302266198531758
-    },
-    {
-      "page": "https://www.taylorheatingonline.com/electrical-installations-upgrades-repairs/",
-      "clicks": 4,
-      "impressions": 3212,
-      "ctr": 0.0012453300124533001,
-      "position": 15.931506849315069
-    },
-    {
-      "page": "https://www.taylorheatingonline.com/heat-pump/hybrid-heating-systems-combining-furnaces-and-heat-pumps-for-efficiency/",
-      "clicks": 4,
-      "impressions": 914,
-      "ctr": 0.00437636761487965,
-      "position": 17.532822757111596
-    },
-    {
-      "page": "https://www.taylorheatingonline.com/heating/",
-      "clicks": 4,
-      "impressions": 2894,
-      "ctr": 0.00138217000691085,
-      "position": 10.301313061506566
-    },
-    {
-      "page": "https://www.taylorheatingonline.com/hvac/can-i-replace-hvac-capacitor-myself/",
-      "clicks": 4,
-      "impressions": 569,
-      "ctr": 0.007029876977152899,
-      "position": 5.042179261862917
-    },
-    {
-      "page": "https://www.taylorheatingonline.com/plumbing/hidden-plumbing-leaks-how-to-spot-them-before-they-damage-your-home/",
-      "clicks": 4,
-      "impressions": 2039,
-      "ctr": 0.00196174595389897,
-      "position": 11.10544384502207
-    },
-    {
-      "page": "https://www.taylorheatingonline.com/blog/exclusive-deals-in-puyallup-you-cant-miss/",
-      "clicks": 3,
-      "impressions": 49,
-      "ctr": 0.061224489795918366,
-      "position": 19.897959183673468
+      "impressions": 2640,
+      "ctr": 0.0015151515151515152,
+      "position": 19.03219696969697
     },
     {
       "page": "https://www.taylorheatingonline.com/blog/how-to-turn-on-ac-after-winter/",
+      "clicks": 4,
+      "impressions": 1599,
+      "ctr": 0.0025015634771732333,
+      "position": 14.893683552220137
+    },
+    {
+      "page": "https://www.taylorheatingonline.com/blog/why-is-my-toilet-leaking-at-the-base/",
+      "clicks": 4,
+      "impressions": 4882,
+      "ctr": 0.0008193363375665711,
+      "position": 14.742523555919705
+    },
+    {
+      "page": "https://www.taylorheatingonline.com/cooling/",
+      "clicks": 4,
+      "impressions": 3625,
+      "ctr": 0.001103448275862069,
+      "position": 13.108689655172414
+    },
+    {
+      "page": "https://www.taylorheatingonline.com/lakewood/",
+      "clicks": 4,
+      "impressions": 4004,
+      "ctr": 0.000999000999000999,
+      "position": 18.816433566433567
+    },
+    {
+      "page": "https://www.taylorheatingonline.com/auburn/",
       "clicks": 3,
-      "impressions": 1380,
-      "ctr": 0.002173913043478261,
-      "position": 18.701449275362318
+      "impressions": 3882,
+      "ctr": 0.0007727975270479134,
+      "position": 30.817619783616692
     },
     {
       "page": "https://www.taylorheatingonline.com/blog/what-is-seer-rating/",
       "clicks": 3,
-      "impressions": 3715,
-      "ctr": 0.0008075370121130552,
-      "position": 11.989232839838493
+      "impressions": 4425,
+      "ctr": 0.0006779661016949153,
+      "position": 12.606553672316384
     },
     {
-      "page": "https://www.taylorheatingonline.com/blog/why-is-my-toilet-leaking-at-the-base/",
+      "page": "https://www.taylorheatingonline.com/heat-pump/hybrid-heating-systems-combining-furnaces-and-heat-pumps-for-efficiency/",
       "clicks": 3,
-      "impressions": 5262,
-      "ctr": 0.0005701254275940707,
-      "position": 15.995819080197643
+      "impressions": 1043,
+      "ctr": 0.0028763183125599234,
+      "position": 15.21476510067114
     },
     {
-      "page": "https://www.taylorheatingonline.com/plumbing/toilets/",
+      "page": "https://www.taylorheatingonline.com/heating/",
       "clicks": 3,
-      "impressions": 1871,
-      "ctr": 0.0016034206306787815,
-      "position": 25.608230892570816
+      "impressions": 2619,
+      "ctr": 0.001145475372279496,
+      "position": 10.416571210385642
+    },
+    {
+      "page": "https://www.taylorheatingonline.com/heating/boiler-repair/",
+      "clicks": 3,
+      "impressions": 2047,
+      "ctr": 0.0014655593551538837,
+      "position": 34.80752320468979
+    },
+    {
+      "page": "https://www.taylorheatingonline.com/heating/furnace-maintenance/",
+      "clicks": 3,
+      "impressions": 1530,
+      "ctr": 0.00196078431372549,
+      "position": 28.205882352941178
+    },
+    {
+      "page": "https://www.taylorheatingonline.com/plumbing/sump-pumps/",
+      "clicks": 3,
+      "impressions": 6186,
+      "ctr": 0.00048496605237633366,
+      "position": 48.16294859359845
+    },
+    {
+      "page": "https://www.taylorheatingonline.com/tumwater/",
+      "clicks": 3,
+      "impressions": 7549,
+      "ctr": 0.00039740362961981717,
+      "position": 15.788448801165718
+    },
+    {
+      "page": "https://www.taylorheatingonline.com/blog/exclusive-deals-in-puyallup-you-cant-miss/",
+      "clicks": 2,
+      "impressions": 52,
+      "ctr": 0.038461538461538464,
+      "position": 13.01923076923077
     },
     {
       "page": "https://www.taylorheatingonline.com/blog/how-do-i-know-if-my-sewer-line-is-clogged/",
       "clicks": 2,
-      "impressions": 1438,
-      "ctr": 0.0013908205841446453,
-      "position": 13.860222531293463
+      "impressions": 1419,
+      "ctr": 0.0014094432699083862,
+      "position": 9.788583509513742
+    },
+    {
+      "page": "https://www.taylorheatingonline.com/blog/how-to-clean-ac-air-filter/",
+      "clicks": 2,
+      "impressions": 6785,
+      "ctr": 0.0002947678703021371,
+      "position": 28.818275607958732
     },
     {
       "page": "https://www.taylorheatingonline.com/blog/how-to-turn-off-furnace-after-the-heating-season/",
       "clicks": 2,
-      "impressions": 3575,
-      "ctr": 0.0005594405594405594,
-      "position": 16.923916083916083
-    },
-    {
-      "page": "https://www.taylorheatingonline.com/blog/what-is-causing-a-backup-in-my-shower/",
-      "clicks": 2,
-      "impressions": 4631,
-      "ctr": 0.0004318721658389117,
-      "position": 5.00798963506802
+      "impressions": 3347,
+      "ctr": 0.0005975500448162533,
+      "position": 15.804601135345084
     },
     {
       "page": "https://www.taylorheatingonline.com/bonney-lake/",
       "clicks": 2,
-      "impressions": 5774,
-      "ctr": 0.00034638032559750607,
-      "position": 14.20696224454451
+      "impressions": 8214,
+      "ctr": 0.00024348672997321646,
+      "position": 13.953128804480157
     },
     {
       "page": "https://www.taylorheatingonline.com/bremerton/furnace-repair/",
       "clicks": 2,
-      "impressions": 305,
-      "ctr": 0.006557377049180328,
-      "position": 18.977049180327867
+      "impressions": 254,
+      "ctr": 0.007874015748031496,
+      "position": 17.783464566929133
     },
     {
-      "page": "https://www.taylorheatingonline.com/financing/",
+      "page": "https://www.taylorheatingonline.com/electrical/why-old-aluminum-wiring-puts-your-home-at-risk/",
       "clicks": 2,
-      "impressions": 236,
-      "ctr": 0.00847457627118644,
-      "position": 8.364406779661017
+      "impressions": 896,
+      "ctr": 0.002232142857142857,
+      "position": 5.146205357142857
     }
   ],
-  "fetchedAt": "2026-03-18T13:07:56.290Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "taylor heating and air",
+      "clicks": 308,
+      "impressions": 1279,
+      "ctr": 0.24081313526192338,
+      "position": 2.09773260359656
+    },
+    {
+      "query": "taylor electric",
+      "clicks": 83,
+      "impressions": 538,
+      "ctr": 0.15427509293680297,
+      "position": 4.306691449814126
+    },
+    {
+      "query": "taylor heating",
+      "clicks": 79,
+      "impressions": 645,
+      "ctr": 0.12248062015503876,
+      "position": 2.6170542635658913
+    },
+    {
+      "query": "taylor heating & air conditioning (now a gene johnson company)",
+      "clicks": 35,
+      "impressions": 837,
+      "ctr": 0.04181600955794504,
+      "position": 1.140979689366786
+    },
+    {
+      "query": "taylor heating and cooling",
+      "clicks": 35,
+      "impressions": 622,
+      "ctr": 0.05627009646302251,
+      "position": 7.062700964630225
+    },
+    {
+      "query": "plumber puyallup",
+      "clicks": 33,
+      "impressions": 1467,
+      "ctr": 0.022494887525562373,
+      "position": 61.120654396728014
+    },
+    {
+      "query": "drain cleaning puyallup",
+      "clicks": 29,
+      "impressions": 407,
+      "ctr": 0.07125307125307126,
+      "position": 11.547911547911548
+    },
+    {
+      "query": "heat pump repair puyallup wa",
+      "clicks": 27,
+      "impressions": 498,
+      "ctr": 0.05421686746987952,
+      "position": 5.353413654618474
+    },
+    {
+      "query": "heating and cooling puyallup",
+      "clicks": 26,
+      "impressions": 338,
+      "ctr": 0.07692307692307693,
+      "position": 16.201183431952664
+    },
+    {
+      "query": "puyallup plumbing services",
+      "clicks": 26,
+      "impressions": 157,
+      "ctr": 0.16560509554140126,
+      "position": 64.7452229299363
+    },
+    {
+      "query": "furnace installation puyallup wa",
+      "clicks": 24,
+      "impressions": 645,
+      "ctr": 0.037209302325581395,
+      "position": 19.65891472868217
+    },
+    {
+      "query": "taylor heating and air conditioning",
+      "clicks": 24,
+      "impressions": 224,
+      "ctr": 0.10714285714285714,
+      "position": 4.299107142857142
+    },
+    {
+      "query": "furnace repair puyallup, wa",
+      "clicks": 23,
+      "impressions": 281,
+      "ctr": 0.08185053380782918,
+      "position": 22.604982206405694
+    },
+    {
+      "query": "plumber puyallup wa",
+      "clicks": 23,
+      "impressions": 554,
+      "ctr": 0.04151624548736462,
+      "position": 73.25992779783394
+    },
+    {
+      "query": "furnace repair puyallup wa",
+      "clicks": 22,
+      "impressions": 606,
+      "ctr": 0.036303630363036306,
+      "position": 23.28052805280528
+    },
+    {
+      "query": "taylor electric company",
+      "clicks": 22,
+      "impressions": 172,
+      "ctr": 0.12790697674418605,
+      "position": 3.395348837209302
+    },
+    {
+      "query": "emergency commercial plumbing puyallup wa",
+      "clicks": 21,
+      "impressions": 80,
+      "ctr": 0.2625,
+      "position": 42.625
+    },
+    {
+      "query": "indoor air quality puyallup wa",
+      "clicks": 21,
+      "impressions": 206,
+      "ctr": 0.10194174757281553,
+      "position": 66.48058252427184
+    },
+    {
+      "query": "puyallup wa plumbers",
+      "clicks": 21,
+      "impressions": 334,
+      "ctr": 0.06287425149700598,
+      "position": 76.32934131736526
+    },
+    {
+      "query": "heat pump service puyallup wa",
+      "clicks": 20,
+      "impressions": 400,
+      "ctr": 0.05,
+      "position": 4.87
+    },
+    {
+      "query": "heating and cooling puyallup wa",
+      "clicks": 20,
+      "impressions": 424,
+      "ctr": 0.04716981132075472,
+      "position": 19.349056603773583
+    },
+    {
+      "query": "plumbers in puyallup",
+      "clicks": 20,
+      "impressions": 457,
+      "ctr": 0.0437636761487965,
+      "position": 57.86652078774617
+    },
+    {
+      "query": "repipe services puyallup wa",
+      "clicks": 20,
+      "impressions": 162,
+      "ctr": 0.12345679012345678,
+      "position": 5.253086419753086
+    },
+    {
+      "query": "water leak detection company near me puyallup",
+      "clicks": 20,
+      "impressions": 136,
+      "ctr": 0.14705882352941177,
+      "position": 7.073529411764706
+    },
+    {
+      "query": "furnace replacement puyallup wa",
+      "clicks": 19,
+      "impressions": 390,
+      "ctr": 0.04871794871794872,
+      "position": 22.661538461538463
+    },
+    {
+      "query": "heat pump installation puyallup wa",
+      "clicks": 19,
+      "impressions": 431,
+      "ctr": 0.04408352668213457,
+      "position": 3.1160092807424595
+    },
+    {
+      "query": "heat pump installation puyallup, wa",
+      "clicks": 19,
+      "impressions": 258,
+      "ctr": 0.07364341085271318,
+      "position": 3.87984496124031
+    },
+    {
+      "query": "heat pump repair puyallup",
+      "clicks": 19,
+      "impressions": 377,
+      "ctr": 0.050397877984084884,
+      "position": 5.610079575596817
+    },
+    {
+      "query": "heat pump replacement puyallup wa",
+      "clicks": 19,
+      "impressions": 323,
+      "ctr": 0.058823529411764705,
+      "position": 2.489164086687307
+    },
+    {
+      "query": "plumbers puyallup wa",
+      "clicks": 19,
+      "impressions": 485,
+      "ctr": 0.03917525773195876,
+      "position": 74.32783505154639
+    },
+    {
+      "query": "furnace service puyallup wa",
+      "clicks": 18,
+      "impressions": 423,
+      "ctr": 0.0425531914893617,
+      "position": 23.328605200945628
+    },
+    {
+      "query": "plumbers in puyallup wa",
+      "clicks": 18,
+      "impressions": 365,
+      "ctr": 0.049315068493150684,
+      "position": 65.44657534246575
+    },
+    {
+      "query": "furnace repair puyallup",
+      "clicks": 17,
+      "impressions": 649,
+      "ctr": 0.026194144838212634,
+      "position": 24.18798151001541
+    },
+    {
+      "query": "puyallup wa furnace installation",
+      "clicks": 17,
+      "impressions": 115,
+      "ctr": 0.14782608695652175,
+      "position": 4.6521739130434785
+    },
+    {
+      "query": "water leak detection company puyallup",
+      "clicks": 17,
+      "impressions": 121,
+      "ctr": 0.14049586776859505,
+      "position": 5.31404958677686
+    },
+    {
+      "query": "heating repair puyallup",
+      "clicks": 16,
+      "impressions": 261,
+      "ctr": 0.06130268199233716,
+      "position": 20.95402298850575
+    },
+    {
+      "query": "plumbing services puyallup",
+      "clicks": 16,
+      "impressions": 266,
+      "ctr": 0.06015037593984962,
+      "position": 69.69548872180451
+    },
+    {
+      "query": "puyallup wa furnace tune-up",
+      "clicks": 16,
+      "impressions": 95,
+      "ctr": 0.16842105263157894,
+      "position": 6.905263157894737
+    },
+    {
+      "query": "taylor heating & air conditioning",
+      "clicks": 16,
+      "impressions": 74,
+      "ctr": 0.21621621621621623,
+      "position": 2.4864864864864864
+    },
+    {
+      "query": "puyallup kitchen remodels",
+      "clicks": 15,
+      "impressions": 84,
+      "ctr": 0.17857142857142858,
+      "position": 82.48809523809524
+    },
+    {
+      "query": "puyallup plumber",
+      "clicks": 15,
+      "impressions": 384,
+      "ctr": 0.0390625,
+      "position": 62.432291666666664
+    },
+    {
+      "query": "puyallup wa heating repair",
+      "clicks": 15,
+      "impressions": 106,
+      "ctr": 0.14150943396226415,
+      "position": 4.471698113207547
+    },
+    {
+      "query": "taylor electric seattle",
+      "clicks": 15,
+      "impressions": 96,
+      "ctr": 0.15625,
+      "position": 2.229166666666667
+    },
+    {
+      "query": "furnace installation puyallup, wa",
+      "clicks": 14,
+      "impressions": 236,
+      "ctr": 0.059322033898305086,
+      "position": 23.635593220338983
+    },
+    {
+      "query": "leaking pipe repair puyallup wa",
+      "clicks": 14,
+      "impressions": 55,
+      "ctr": 0.2545454545454545,
+      "position": 16.145454545454545
+    },
+    {
+      "query": "plumber services puyallup wa",
+      "clicks": 14,
+      "impressions": 102,
+      "ctr": 0.13725490196078433,
+      "position": 53.53921568627451
+    },
+    {
+      "query": "plumbing leak detection near me puyallup",
+      "clicks": 14,
+      "impressions": 116,
+      "ctr": 0.1206896551724138,
+      "position": 7.827586206896552
+    },
+    {
+      "query": "puyallup plumbing",
+      "clicks": 14,
+      "impressions": 199,
+      "ctr": 0.07035175879396985,
+      "position": 81.58793969849246
+    },
+    {
+      "query": "furnace service puyallup, wa",
+      "clicks": 13,
+      "impressions": 281,
+      "ctr": 0.046263345195729534,
+      "position": 18.78291814946619
+    },
+    {
+      "query": "heat pump installation puyallup",
+      "clicks": 13,
+      "impressions": 129,
+      "ctr": 0.10077519379844961,
+      "position": 3.0697674418604652
+    },
+    {
+      "query": "plumbers puyallup",
+      "clicks": 13,
+      "impressions": 624,
+      "ctr": 0.020833333333333332,
+      "position": 65.05608974358974
+    },
+    {
+      "query": "puyallup wa plumber",
+      "clicks": 13,
+      "impressions": 217,
+      "ctr": 0.059907834101382486,
+      "position": 74.45622119815668
+    },
+    {
+      "query": "ac repair puyallup wa",
+      "clicks": 12,
+      "impressions": 657,
+      "ctr": 0.0182648401826484,
+      "position": 12.980213089802131
+    },
+    {
+      "query": "emergency plumber puyallup",
+      "clicks": 12,
+      "impressions": 182,
+      "ctr": 0.06593406593406594,
+      "position": 96.16483516483517
+    },
+    {
+      "query": "heat pump replacement puyallup, wa",
+      "clicks": 12,
+      "impressions": 225,
+      "ctr": 0.05333333333333334,
+      "position": 3.1733333333333333
+    },
+    {
+      "query": "heat pump service puyallup, wa",
+      "clicks": 12,
+      "impressions": 257,
+      "ctr": 0.04669260700389105,
+      "position": 4.661478599221789
+    },
+    {
+      "query": "indoor air quality puyallup, wa",
+      "clicks": 12,
+      "impressions": 180,
+      "ctr": 0.06666666666666667,
+      "position": 65.93333333333334
+    },
+    {
+      "query": "air filters puyallup, wa",
+      "clicks": 11,
+      "impressions": 231,
+      "ctr": 0.047619047619047616,
+      "position": 12.454545454545455
+    },
+    {
+      "query": "furnace installation puyallup",
+      "clicks": 11,
+      "impressions": 201,
+      "ctr": 0.05472636815920398,
+      "position": 31.422885572139304
+    },
+    {
+      "query": "plumbing services puyallup wa",
+      "clicks": 11,
+      "impressions": 126,
+      "ctr": 0.0873015873015873,
+      "position": 65.89682539682539
+    },
+    {
+      "query": "puyallup drain cleaning",
+      "clicks": 11,
+      "impressions": 221,
+      "ctr": 0.049773755656108594,
+      "position": 10.97737556561086
+    },
+    {
+      "query": "puyallup wa furnace maintenance",
+      "clicks": 11,
+      "impressions": 79,
+      "ctr": 0.13924050632911392,
+      "position": 3.4430379746835444
+    },
+    {
+      "query": "sewer repair puyallup",
+      "clicks": 11,
+      "impressions": 426,
+      "ctr": 0.025821596244131457,
+      "position": 16.230046948356808
+    },
+    {
+      "query": "taylor heating and ac",
+      "clicks": 11,
+      "impressions": 59,
+      "ctr": 0.1864406779661017,
+      "position": 1.2033898305084745
+    },
+    {
+      "query": "taylor heating and plumbing",
+      "clicks": 11,
+      "impressions": 55,
+      "ctr": 0.2,
+      "position": 3.8545454545454545
+    },
+    {
+      "query": "air conditioning replacement puyallup wa",
+      "clicks": 10,
+      "impressions": 281,
+      "ctr": 0.03558718861209965,
+      "position": 11.864768683274022
+    },
+    {
+      "query": "air filters puyallup wa",
+      "clicks": 10,
+      "impressions": 265,
+      "ctr": 0.03773584905660377,
+      "position": 13.045283018867925
+    },
+    {
+      "query": "bathroom remodeling puyallup wa",
+      "clicks": 10,
+      "impressions": 211,
+      "ctr": 0.04739336492890995,
+      "position": 37.872037914691944
+    },
+    {
+      "query": "commercial plumbing service puyallup wa",
+      "clicks": 10,
+      "impressions": 63,
+      "ctr": 0.15873015873015872,
+      "position": 16.555555555555557
+    },
+    {
+      "query": "heat pump service puyallup",
+      "clicks": 10,
+      "impressions": 141,
+      "ctr": 0.07092198581560284,
+      "position": 4.24113475177305
+    },
+    {
+      "query": "kitchen remodel in puyallup",
+      "clicks": 10,
+      "impressions": 80,
+      "ctr": 0.125,
+      "position": 70.3875
+    },
+    {
+      "query": "puyallup plumbers",
+      "clicks": 10,
+      "impressions": 601,
+      "ctr": 0.016638935108153077,
+      "position": 59.427620632279535
+    },
+    {
+      "query": "puyallup wa heat pump maintenance",
+      "clicks": 10,
+      "impressions": 215,
+      "ctr": 0.046511627906976744,
+      "position": 1.9069767441860463
+    },
+    {
+      "query": "puyallup wa heat pump repair",
+      "clicks": 10,
+      "impressions": 210,
+      "ctr": 0.047619047619047616,
+      "position": 3.138095238095238
+    },
+    {
+      "query": "puyallup wa heating installation",
+      "clicks": 10,
+      "impressions": 64,
+      "ctr": 0.15625,
+      "position": 6.375
+    },
+    {
+      "query": "residential plumbing puyallup wa",
+      "clicks": 10,
+      "impressions": 73,
+      "ctr": 0.136986301369863,
+      "position": 68.17808219178082
+    },
+    {
+      "query": "water heater repair puyallup",
+      "clicks": 10,
+      "impressions": 692,
+      "ctr": 0.014450867052023121,
+      "position": 51.921965317919074
+    },
+    {
+      "query": "water leak detection near me puyallup",
+      "clicks": 10,
+      "impressions": 111,
+      "ctr": 0.09009009009009009,
+      "position": 6.756756756756757
+    },
+    {
+      "query": "bathroom remodel puyallup wa",
+      "clicks": 9,
+      "impressions": 194,
+      "ctr": 0.04639175257731959,
+      "position": 55.3041237113402
+    },
+    {
+      "query": "gene johnson puyallup",
+      "clicks": 9,
+      "impressions": 59,
+      "ctr": 0.15254237288135594,
+      "position": 2.389830508474576
+    },
+    {
+      "query": "kitchen remodel puyallup",
+      "clicks": 9,
+      "impressions": 527,
+      "ctr": 0.017077798861480076,
+      "position": 54.992409867172675
+    },
+    {
+      "query": "kitchen remodel puyallup wa",
+      "clicks": 9,
+      "impressions": 353,
+      "ctr": 0.025495750708215296,
+      "position": 53.91218130311615
+    },
+    {
+      "query": "plumbing companies puyallup",
+      "clicks": 9,
+      "impressions": 142,
+      "ctr": 0.06338028169014084,
+      "position": 73.38732394366197
+    },
+    {
+      "query": "plumbing repair puyallup",
+      "clicks": 9,
+      "impressions": 107,
+      "ctr": 0.08411214953271028,
+      "position": 69.3177570093458
+    },
+    {
+      "query": "bathroom remodeling puyallup",
+      "clicks": 8,
+      "impressions": 365,
+      "ctr": 0.021917808219178082,
+      "position": 36.88767123287671
+    },
+    {
+      "query": "clogged drain puyallup",
+      "clicks": 8,
+      "impressions": 199,
+      "ctr": 0.04020100502512563,
+      "position": 9.924623115577889
+    },
+    {
+      "query": "hvac repair puyallup",
+      "clicks": 8,
+      "impressions": 120,
+      "ctr": 0.06666666666666667,
+      "position": 19.975
+    },
+    {
+      "query": "plumbers in puyallup washington",
+      "clicks": 8,
+      "impressions": 202,
+      "ctr": 0.039603960396039604,
+      "position": 75.86633663366337
+    },
+    {
+      "query": "plumbing puyallup wa",
+      "clicks": 8,
+      "impressions": 181,
+      "ctr": 0.04419889502762431,
+      "position": 73.32044198895028
+    },
+    {
+      "query": "puyallup furnace service",
+      "clicks": 8,
+      "impressions": 112,
+      "ctr": 0.07142857142857142,
+      "position": 26.955357142857142
+    },
+    {
+      "query": "puyallup sewer",
+      "clicks": 8,
+      "impressions": 126,
+      "ctr": 0.06349206349206349,
+      "position": 32.920634920634924
+    },
+    {
+      "query": "puyallup wa heat pump installation",
+      "clicks": 8,
+      "impressions": 199,
+      "ctr": 0.04020100502512563,
+      "position": 2.2613065326633164
+    },
+    {
+      "query": "residential plumbing service puyallup wa",
+      "clicks": 8,
+      "impressions": 55,
+      "ctr": 0.14545454545454545,
+      "position": 59.21818181818182
+    },
+    {
+      "query": "sewer line repair puyallup",
+      "clicks": 8,
+      "impressions": 331,
+      "ctr": 0.02416918429003021,
+      "position": 15.314199395770393
+    },
+    {
+      "query": "sewer line replacement puyallup",
+      "clicks": 8,
+      "impressions": 231,
+      "ctr": 0.03463203463203463,
+      "position": 16.463203463203463
+    },
+    {
+      "query": "taylor hvac",
+      "clicks": 8,
+      "impressions": 120,
+      "ctr": 0.06666666666666667,
+      "position": 11.6
+    },
+    {
+      "query": "air conditioner repair puyallup wa",
+      "clicks": 7,
+      "impressions": 300,
+      "ctr": 0.023333333333333334,
+      "position": 12.276666666666667
+    },
+    {
+      "query": "bathroom remodel puyallup",
+      "clicks": 7,
+      "impressions": 535,
+      "ctr": 0.013084112149532711,
+      "position": 35.99065420560748
+    },
+    {
+      "query": "bathroom renovation in puyallup",
+      "clicks": 7,
+      "impressions": 66,
+      "ctr": 0.10606060606060606,
+      "position": 44
+    },
+    {
+      "query": "commercial pipe lining puyallup",
+      "clicks": 7,
+      "impressions": 118,
+      "ctr": 0.059322033898305086,
+      "position": 4.3559322033898304
+    },
+    {
+      "query": "emergency commercial plumber puyallup wa",
+      "clicks": 7,
+      "impressions": 52,
+      "ctr": 0.1346153846153846,
+      "position": 41.36538461538461
+    },
+    {
+      "query": "furnace replacement puyallup, wa",
+      "clicks": 7,
+      "impressions": 210,
+      "ctr": 0.03333333333333333,
+      "position": 26.985714285714284
+    },
+    {
+      "query": "heating repair puyallup wa",
+      "clicks": 7,
+      "impressions": 202,
+      "ctr": 0.034653465346534656,
+      "position": 16.53960396039604
+    },
+    {
+      "query": "plumbing companies puyallup wa",
+      "clicks": 7,
+      "impressions": 142,
+      "ctr": 0.04929577464788732,
+      "position": 66.99295774647888
+    },
+    {
+      "query": "puyallup plumbing companies",
+      "clicks": 7,
+      "impressions": 128,
+      "ctr": 0.0546875,
+      "position": 79.234375
+    },
+    {
+      "query": "puyallup sewer line repair",
+      "clicks": 7,
+      "impressions": 159,
+      "ctr": 0.0440251572327044,
+      "position": 22.10691823899371
+    },
+    {
+      "query": "heat pump repair puyallup, wa",
+      "clicks": 6,
+      "impressions": 227,
+      "ctr": 0.02643171806167401,
+      "position": 7.581497797356828
+    },
+    {
+      "query": "heating and cooling puyallup, wa",
+      "clicks": 6,
+      "impressions": 196,
+      "ctr": 0.030612244897959183,
+      "position": 22.739795918367346
+    },
+    {
+      "query": "plumber in puyallup",
+      "clicks": 6,
+      "impressions": 72,
+      "ctr": 0.08333333333333333,
+      "position": 77.73611111111111
+    },
+    {
+      "query": "plumbing companies in puyallup",
+      "clicks": 6,
+      "impressions": 112,
+      "ctr": 0.05357142857142857,
+      "position": 61.99107142857143
+    },
+    {
+      "query": "toilet leaking at base",
+      "clicks": 6,
+      "impressions": 1032,
+      "ctr": 0.005813953488372093,
+      "position": 58.36821705426357
+    },
+    {
+      "query": "water heater replacement puyallup",
+      "clicks": 6,
+      "impressions": 278,
+      "ctr": 0.02158273381294964,
+      "position": 72.96043165467626
+    },
+    {
+      "query": "air conditioning installation puyallup wa",
+      "clicks": 5,
+      "impressions": 580,
+      "ctr": 0.008620689655172414,
+      "position": 7.536206896551724
+    },
+    {
+      "query": "commercial plumbing puyallup wa",
+      "clicks": 5,
+      "impressions": 77,
+      "ctr": 0.06493506493506493,
+      "position": 17.16883116883117
+    },
+    {
+      "query": "drain cleaning puyallup wa",
+      "clicks": 5,
+      "impressions": 140,
+      "ctr": 0.03571428571428571,
+      "position": 10.457142857142857
+    },
+    {
+      "query": "emergency plumbing puyallup",
+      "clicks": 5,
+      "impressions": 70,
+      "ctr": 0.07142857142857142,
+      "position": 99.78571428571429
+    },
+    {
+      "query": "heat pump installation tumwater wa",
+      "clicks": 5,
+      "impressions": 357,
+      "ctr": 0.014005602240896359,
+      "position": 5.2521008403361344
+    },
+    {
+      "query": "heat pump service tumwater wa",
+      "clicks": 5,
+      "impressions": 333,
+      "ctr": 0.015015015015015015,
+      "position": 5.8258258258258255
+    },
+    {
+      "query": "hvac puyallup",
+      "clicks": 5,
+      "impressions": 584,
+      "ctr": 0.008561643835616438,
+      "position": 21.83219178082192
+    },
+    {
+      "query": "olympia ac repair",
+      "clicks": 5,
+      "impressions": 96,
+      "ctr": 0.052083333333333336,
+      "position": 19.03125
+    },
+    {
+      "query": "plumbing company puyallup",
+      "clicks": 5,
+      "impressions": 142,
+      "ctr": 0.035211267605633804,
+      "position": 84.88028169014085
+    },
+    {
+      "query": "repiping services puyallup",
+      "clicks": 5,
+      "impressions": 162,
+      "ctr": 0.030864197530864196,
+      "position": 7.7407407407407405
+    },
+    {
+      "query": "taylor plumbing",
+      "clicks": 5,
+      "impressions": 61,
+      "ctr": 0.08196721311475409,
+      "position": 8.655737704918032
+    },
+    {
+      "query": "duct cleaning tumwater wa",
+      "clicks": 4,
+      "impressions": 343,
+      "ctr": 0.011661807580174927,
+      "position": 28.34402332361516
+    },
+    {
+      "query": "electrical safety devices",
+      "clicks": 4,
+      "impressions": 1523,
+      "ctr": 0.0026263952724885093,
+      "position": 28.871963230466186
+    },
+    {
+      "query": "heater repair puyallup",
+      "clicks": 4,
+      "impressions": 186,
+      "ctr": 0.021505376344086023,
+      "position": 17.978494623655912
+    },
+    {
+      "query": "how to turn off furnace",
+      "clicks": 4,
+      "impressions": 1299,
+      "ctr": 0.003079291762894534,
+      "position": 5.655119322555812
+    },
+    {
+      "query": "sump pump replacement puyallup",
+      "clicks": 4,
+      "impressions": 96,
+      "ctr": 0.041666666666666664,
+      "position": 4.40625
+    },
+    {
+      "query": "water heater installation puyallup",
+      "clicks": 4,
+      "impressions": 217,
+      "ctr": 0.018433179723502304,
+      "position": 74.70967741935483
+    },
+    {
+      "query": "water leak detection services near me puyallup",
+      "clicks": 4,
+      "impressions": 134,
+      "ctr": 0.029850746268656716,
+      "position": 7.664179104477612
+    },
+    {
+      "query": "ac installation puyallup wa",
+      "clicks": 3,
+      "impressions": 167,
+      "ctr": 0.017964071856287425,
+      "position": 7.2395209580838324
+    },
+    {
+      "query": "air conditioner repair lacey wa",
+      "clicks": 3,
+      "impressions": 308,
+      "ctr": 0.00974025974025974,
+      "position": 33.08766233766234
+    },
+    {
+      "query": "air conditioning installation puyallup, wa",
+      "clicks": 3,
+      "impressions": 230,
+      "ctr": 0.013043478260869565,
+      "position": 9.513043478260869
+    },
+    {
+      "query": "air conditioning replacement tumwater wa",
+      "clicks": 3,
+      "impressions": 302,
+      "ctr": 0.009933774834437087,
+      "position": 5.506622516556291
+    },
+    {
+      "query": "air conditioning service tumwater wa",
+      "clicks": 3,
+      "impressions": 318,
+      "ctr": 0.009433962264150943,
+      "position": 6.022012578616352
+    },
+    {
+      "query": "furnace installation lacey wa",
+      "clicks": 3,
+      "impressions": 457,
+      "ctr": 0.006564551422319475,
+      "position": 13.934354485776804
+    },
+    {
+      "query": "furnace service puyallup",
+      "clicks": 3,
+      "impressions": 230,
+      "ctr": 0.013043478260869565,
+      "position": 28.782608695652176
+    },
+    {
+      "query": "heat pump repair olympia wa",
+      "clicks": 3,
+      "impressions": 667,
+      "ctr": 0.004497751124437781,
+      "position": 9.667166416791604
+    },
+    {
+      "query": "heating and cooling near me",
+      "clicks": 3,
+      "impressions": 52,
+      "ctr": 0.057692307692307696,
+      "position": 11.076923076923077
+    },
+    {
+      "query": "hvac companies near me",
+      "clicks": 3,
+      "impressions": 163,
+      "ctr": 0.018404907975460124,
+      "position": 18.233128834355828
+    },
+    {
+      "query": "plumbing installation puyallup",
+      "clicks": 3,
+      "impressions": 23,
+      "ctr": 0.13043478260869565,
+      "position": 90.3913043478261
+    },
+    {
+      "query": "plumbing puyallup",
+      "clicks": 3,
+      "impressions": 200,
+      "ctr": 0.015,
+      "position": 67.615
+    },
+    {
+      "query": "puyallup wa furnace repair",
+      "clicks": 3,
+      "impressions": 60,
+      "ctr": 0.05,
+      "position": 1.7
+    },
+    {
+      "query": "taylor electrical",
+      "clicks": 3,
+      "impressions": 38,
+      "ctr": 0.07894736842105263,
+      "position": 20.92105263157895
+    },
+    {
+      "query": "taylor heating & air conditioning inc",
+      "clicks": 3,
+      "impressions": 16,
+      "ctr": 0.1875,
+      "position": 3.875
+    },
+    {
+      "query": "taylor heating puyallup",
+      "clicks": 3,
+      "impressions": 32,
+      "ctr": 0.09375,
+      "position": 1
+    },
+    {
+      "query": "taylor plumbing and heating",
+      "clicks": 3,
+      "impressions": 69,
+      "ctr": 0.043478260869565216,
+      "position": 21.10144927536232
+    },
+    {
+      "query": "taylors electric",
+      "clicks": 3,
+      "impressions": 8,
+      "ctr": 0.375,
+      "position": 4.375
+    },
+    {
+      "query": "water leak detection services puyallup",
+      "clicks": 3,
+      "impressions": 178,
+      "ctr": 0.016853932584269662,
+      "position": 7.825842696629214
+    },
+    {
+      "query": "air conditioner filter",
+      "clicks": 2,
+      "impressions": 3310,
+      "ctr": 0.0006042296072507553,
+      "position": 20.32749244712991
+    },
+    {
+      "query": "air conditioner repair tumwater wa",
+      "clicks": 2,
+      "impressions": 319,
+      "ctr": 0.006269592476489028,
+      "position": 4.868338557993731
+    },
+    {
+      "query": "air conditioning installation olympia wa",
+      "clicks": 2,
+      "impressions": 578,
+      "ctr": 0.0034602076124567475,
+      "position": 23.024221453287197
+    },
+    {
+      "query": "air conditioning repair lacey wa",
+      "clicks": 2,
+      "impressions": 392,
+      "ctr": 0.00510204081632653,
+      "position": 31.948979591836736
+    },
+    {
+      "query": "air conditioning repair olympia",
+      "clicks": 2,
+      "impressions": 103,
+      "ctr": 0.019417475728155338,
+      "position": 20.16504854368932
+    },
+    {
+      "query": "air conditioning repair olympia wa",
+      "clicks": 2,
+      "impressions": 707,
+      "ctr": 0.002828854314002829,
+      "position": 17.912305516265913
+    },
+    {
+      "query": "air conditioning replacement olympia wa",
+      "clicks": 2,
+      "impressions": 604,
+      "ctr": 0.0033112582781456954,
+      "position": 22.56788079470199
+    },
+    {
+      "query": "air duct cleaning olympia wa",
+      "clicks": 2,
+      "impressions": 154,
+      "ctr": 0.012987012987012988,
+      "position": 52.75974025974026
+    },
+    {
+      "query": "air duct cleaning puyallup",
+      "clicks": 2,
+      "impressions": 16,
+      "ctr": 0.125,
+      "position": 4.4375
+    },
+    {
+      "query": "air duct cleaning tumwater",
+      "clicks": 2,
+      "impressions": 188,
+      "ctr": 0.010638297872340425,
+      "position": 23.29255319148936
+    },
+    {
+      "query": "best seer rating for heat pump",
+      "clicks": 2,
+      "impressions": 163,
+      "ctr": 0.012269938650306749,
+      "position": 4.337423312883436
+    },
+    {
+      "query": "emergency plumber puyallup wa",
+      "clicks": 2,
+      "impressions": 24,
+      "ctr": 0.08333333333333333,
+      "position": 101.20833333333333
+    },
+    {
+      "query": "emergency plumbing service puyallup wa",
+      "clicks": 2,
+      "impressions": 38,
+      "ctr": 0.05263157894736842,
+      "position": 98.39473684210526
+    },
+    {
+      "query": "furnace installation olympia wa",
+      "clicks": 2,
+      "impressions": 683,
+      "ctr": 0.0029282576866764276,
+      "position": 14.97510980966325
+    },
+    {
+      "query": "furnace repair lacey wa",
+      "clicks": 2,
+      "impressions": 571,
+      "ctr": 0.0035026269702276708,
+      "position": 18.714535901926446
+    },
+    {
+      "query": "furnace repair olympia wa",
+      "clicks": 2,
+      "impressions": 730,
+      "ctr": 0.0027397260273972603,
+      "position": 12.256164383561643
+    },
+    {
+      "query": "furnace replacement tumwater wa",
+      "clicks": 2,
+      "impressions": 405,
+      "ctr": 0.0049382716049382715,
+      "position": 4.575308641975308
+    },
+    {
+      "query": "gene johnson",
+      "clicks": 2,
+      "impressions": 13,
+      "ctr": 0.15384615384615385,
+      "position": 2.9230769230769234
+    },
+    {
+      "query": "heat pump installation olympia wa",
+      "clicks": 2,
+      "impressions": 522,
+      "ctr": 0.0038314176245210726,
+      "position": 28.5
+    },
+    {
+      "query": "heat pump replacement olympia wa",
+      "clicks": 2,
+      "impressions": 406,
+      "ctr": 0.0049261083743842365,
+      "position": 14.214285714285714
+    },
+    {
+      "query": "heat pump replacement tumwater wa",
+      "clicks": 2,
+      "impressions": 315,
+      "ctr": 0.006349206349206349,
+      "position": 4.390476190476191
+    },
+    {
+      "query": "heating and cooling olympia",
+      "clicks": 2,
+      "impressions": 163,
+      "ctr": 0.012269938650306749,
+      "position": 12.049079754601227
+    },
+    {
+      "query": "heating and cooling tacoma",
+      "clicks": 2,
+      "impressions": 126,
+      "ctr": 0.015873015873015872,
+      "position": 56.92857142857143
+    },
+    {
+      "query": "heating and cooling tumwater wa",
+      "clicks": 2,
+      "impressions": 313,
+      "ctr": 0.006389776357827476,
+      "position": 8.083067092651756
+    },
+    {
+      "query": "home automation companies olympia wa",
+      "clicks": 2,
+      "impressions": 65,
+      "ctr": 0.03076923076923077,
+      "position": 49.61538461538461
+    },
+    {
+      "query": "how to turn furnace off",
+      "clicks": 2,
+      "impressions": 356,
+      "ctr": 0.0056179775280898875,
+      "position": 5.570224719101123
+    },
+    {
+      "query": "how to turn off gas heater",
+      "clicks": 2,
+      "impressions": 135,
+      "ctr": 0.014814814814814815,
+      "position": 9.829629629629629
+    },
+    {
+      "query": "how to turn off gas heater in house",
+      "clicks": 2,
+      "impressions": 112,
+      "ctr": 0.017857142857142856,
+      "position": 8.294642857142858
+    },
+    {
+      "query": "how to turn off heater",
+      "clicks": 2,
+      "impressions": 541,
+      "ctr": 0.0036968576709796672,
+      "position": 7.961182994454713
+    },
+    {
+      "query": "hvac contractors olympia wa",
+      "clicks": 2,
+      "impressions": 106,
+      "ctr": 0.018867924528301886,
+      "position": 28.09433962264151
+    },
+    {
+      "query": "hvac near me",
+      "clicks": 2,
+      "impressions": 439,
+      "ctr": 0.004555808656036446,
+      "position": 11.790432801822323
+    },
+    {
+      "query": "hvac repair olympia wa",
+      "clicks": 2,
+      "impressions": 116,
+      "ctr": 0.017241379310344827,
+      "position": 20.32758620689655
+    },
+    {
+      "query": "olympia heating and cooling",
+      "clicks": 2,
+      "impressions": 421,
+      "ctr": 0.004750593824228029,
+      "position": 10.634204275534442
+    },
+    {
+      "query": "plumber services puyallup",
+      "clicks": 2,
+      "impressions": 15,
+      "ctr": 0.13333333333333333,
+      "position": 89.13333333333334
+    },
+    {
+      "query": "taylor electrician",
+      "clicks": 2,
+      "impressions": 22,
+      "ctr": 0.09090909090909091,
+      "position": 10.409090909090908
+    },
+    {
+      "query": "taylor eletric",
+      "clicks": 2,
+      "impressions": 5,
+      "ctr": 0.4,
+      "position": 4.4
+    },
+    {
+      "query": "taylor heating & air",
+      "clicks": 2,
+      "impressions": 25,
+      "ctr": 0.08,
+      "position": 6.84
+    },
+    {
+      "query": "taylor heating & air conditioning photos",
+      "clicks": 2,
+      "impressions": 23,
+      "ctr": 0.08695652173913043,
+      "position": 2.5652173913043477
+    },
+    {
+      "query": "taylor heating and cooling reviews",
+      "clicks": 2,
+      "impressions": 15,
+      "ctr": 0.13333333333333333,
+      "position": 5.4
+    },
+    {
+      "query": "taylor plumbing & heating",
+      "clicks": 2,
+      "impressions": 5,
+      "ctr": 0.4,
+      "position": 11.2
+    },
+    {
+      "query": "taylor's plumbing",
+      "clicks": 2,
+      "impressions": 32,
+      "ctr": 0.0625,
+      "position": 10.125
+    },
+    {
+      "query": "toilet leaking at the base",
+      "clicks": 2,
+      "impressions": 74,
+      "ctr": 0.02702702702702703,
+      "position": 57.554054054054056
+    },
+    {
+      "query": "tumwater water heater",
+      "clicks": 2,
+      "impressions": 91,
+      "ctr": 0.02197802197802198,
+      "position": 19.505494505494507
+    },
+    {
+      "query": "turn off furnace",
+      "clicks": 2,
+      "impressions": 188,
+      "ctr": 0.010638297872340425,
+      "position": 4.51063829787234
+    },
+    {
+      "query": "turn off gas furnace",
+      "clicks": 2,
+      "impressions": 57,
+      "ctr": 0.03508771929824561,
+      "position": 3.789473684210526
+    },
+    {
+      "query": "turning off furnace",
+      "clicks": 2,
+      "impressions": 72,
+      "ctr": 0.027777777777777776,
+      "position": 4.291666666666666
+    },
+    {
+      "query": "19 seer ac unit",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2
+    },
+    {
+      "query": "24 seer heat pump",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "5 safety devices at home",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "ac air filter",
+      "clicks": 1,
+      "impressions": 3222,
+      "ctr": 0.00031036623215394165,
+      "position": 24.46772191185599
+    },
+    {
+      "query": "ac estimates",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:22:27.566Z"
 }

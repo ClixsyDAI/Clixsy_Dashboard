@@ -1,156 +1,16 @@
 {
   "property": "sc-domain:arroofing.com",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 707,
-    "impressions": 214159,
-    "ctr": 0.003301285493488483,
-    "position": 21.747831707059902
+    "clicks": 835,
+    "impressions": 220131,
+    "ctr": 0.003793195869732114,
+    "position": 19.78839473989596
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 13,
-      "impressions": 1989,
-      "ctr": 0.006535947712418301,
-      "position": 19.67420814479638
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 11,
-      "impressions": 2063,
-      "ctr": 0.005332040717401842,
-      "position": 31.03829374697043
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 5,
-      "impressions": 2869,
-      "ctr": 0.001742767514813524,
-      "position": 28.241547577553156
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 9,
-      "impressions": 2727,
-      "ctr": 0.0033003300330033004,
-      "position": 20.884855152181885
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 5,
-      "impressions": 1227,
-      "ctr": 0.004074979625101874,
-      "position": 27.272208638956805
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 2,
-      "impressions": 2804,
-      "ctr": 0.0007132667617689016,
-      "position": 25.560984308131243
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 1,
-      "impressions": 1341,
-      "ctr": 0.0007457121551081282,
-      "position": 25.901565995525726
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 4,
-      "impressions": 1700,
-      "ctr": 0.002352941176470588,
-      "position": 20.696470588235293
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 2,
-      "impressions": 2401,
-      "ctr": 0.0008329862557267805,
-      "position": 31.593086214077466
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 1,
-      "impressions": 2761,
-      "ctr": 0.0003621876131836291,
-      "position": 30.180007243752264
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 0,
-      "impressions": 1181,
-      "ctr": 0,
-      "position": 31.779847586790854
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 3,
-      "impressions": 1255,
-      "ctr": 0.002390438247011952,
-      "position": 26.542629482071714
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 2,
-      "impressions": 1662,
-      "ctr": 0.0012033694344163659,
-      "position": 29.888688327316487
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 3,
-      "impressions": 1589,
-      "ctr": 0.0018879798615481435,
-      "position": 26.40591567023285
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 5,
-      "impressions": 3640,
-      "ctr": 0.0013736263736263737,
-      "position": 10.727197802197802
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 10,
-      "impressions": 2323,
-      "ctr": 0.004304778303917348,
-      "position": 30.000860955660784
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 4,
-      "impressions": 3053,
-      "ctr": 0.0013101867016049786,
-      "position": 28.191287258434325
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 2,
-      "impressions": 1499,
-      "ctr": 0.00133422281521014,
-      "position": 29.791194129419612
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 2,
-      "impressions": 1382,
-      "ctr": 0.001447178002894356,
-      "position": 23.5123010130246
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 1,
-      "impressions": 1675,
-      "ctr": 0.0005970149253731343,
-      "position": 28.875820895522388
-    },
     {
       "date": "2026-01-04",
       "clicks": 2,
@@ -640,43 +500,197 @@
       "impressions": 2065,
       "ctr": 0.0009685230024213075,
       "position": 20.025665859564164
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 7,
+      "impressions": 2146,
+      "ctr": 0.0032618825722274,
+      "position": 22.370922646784717
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 21,
+      "impressions": 2706,
+      "ctr": 0.007760532150776054,
+      "position": 17.975609756097562
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 13,
+      "impressions": 3802,
+      "ctr": 0.0034192530247238295,
+      "position": 18.754602840610204
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 14,
+      "impressions": 2213,
+      "ctr": 0.0063262539539087215,
+      "position": 24.80659737912336
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 16,
+      "impressions": 1996,
+      "ctr": 0.008016032064128256,
+      "position": 18.01302605210421
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 5,
+      "impressions": 1997,
+      "ctr": 0.0025037556334501754,
+      "position": 19.32348522784176
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 0,
+      "impressions": 1793,
+      "ctr": 0,
+      "position": 17.959286112660347
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 2,
+      "impressions": 2046,
+      "ctr": 0.0009775171065493646,
+      "position": 18.678885630498534
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 6,
+      "impressions": 1973,
+      "ctr": 0.0030410542321338066,
+      "position": 16.12164216928535
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 16,
+      "impressions": 3557,
+      "ctr": 0.004498172617374192,
+      "position": 16.444756817542874
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 14,
+      "impressions": 2234,
+      "ctr": 0.006266786034019696,
+      "position": 13.802596239928379
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 12,
+      "impressions": 1878,
+      "ctr": 0.006389776357827476,
+      "position": 14.940894568690096
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 13,
+      "impressions": 2136,
+      "ctr": 0.006086142322097378,
+      "position": 14.285112359550562
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 1,
+      "impressions": 1877,
+      "ctr": 0.0005327650506126798,
+      "position": 17.190197123068728
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 1,
+      "impressions": 1695,
+      "ctr": 0.0005899705014749262,
+      "position": 20.974041297935102
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 12,
+      "impressions": 2116,
+      "ctr": 0.005671077504725898,
+      "position": 14.560491493383743
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 12,
+      "impressions": 3502,
+      "ctr": 0.0034266133637921186,
+      "position": 19.193889206167903
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 14,
+      "impressions": 1903,
+      "ctr": 0.007356805044666317,
+      "position": 20.2459274829217
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 15,
+      "impressions": 1778,
+      "ctr": 0.00843644544431946,
+      "position": 14.2710911136108
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 11,
+      "impressions": 1527,
+      "ctr": 0.007203667321545514,
+      "position": 18.88015717092338
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 8,
+      "impressions": 2238,
+      "ctr": 0.0035746201966041107,
+      "position": 11.404825737265416
     }
   ],
   "topQueries": [
     {
       "query": "ar roofing",
-      "clicks": 106,
-      "impressions": 1588,
-      "ctr": 0.06675062972292191,
-      "position": 9.075566750629722
+      "clicks": 112,
+      "impressions": 1686,
+      "ctr": 0.066429418742586,
+      "position": 7.995255041518386
     },
     {
       "query": "ar roofing wichita ks",
-      "clicks": 66,
-      "impressions": 393,
-      "ctr": 0.16793893129770993,
-      "position": 11.21882951653944
+      "clicks": 72,
+      "impressions": 459,
+      "ctr": 0.1568627450980392,
+      "position": 5.592592592592593
     },
     {
       "query": "a-r roofing & exteriors",
-      "clicks": 31,
-      "impressions": 248,
-      "ctr": 0.125,
-      "position": 2
+      "clicks": 34,
+      "impressions": 280,
+      "ctr": 0.12142857142857143,
+      "position": 1.9107142857142856
     },
     {
       "query": "a-r roofing",
-      "clicks": 23,
-      "impressions": 151,
-      "ctr": 0.152317880794702,
-      "position": 4.940397350993377
+      "clicks": 27,
+      "impressions": 157,
+      "ctr": 0.17197452229299362,
+      "position": 4.159235668789809
     },
     {
       "query": "ar roofing llc",
+      "clicks": 14,
+      "impressions": 82,
+      "ctr": 0.17073170731707318,
+      "position": 2.6219512195121952
+    },
+    {
+      "query": "a&r roofing",
       "clicks": 12,
-      "impressions": 63,
-      "ctr": 0.19047619047619047,
-      "position": 3.2063492063492065
+      "impressions": 150,
+      "ctr": 0.08,
+      "position": 5.953333333333333
     },
     {
       "query": "ar roofing pratt ks",
@@ -686,193 +700,235 @@
       "position": 2.125
     },
     {
-      "query": "a&r roofing",
-      "clicks": 9,
-      "impressions": 150,
-      "ctr": 0.06,
-      "position": 8.913333333333334
+      "query": "a-r roofing and exteriors wichita",
+      "clicks": 11,
+      "impressions": 67,
+      "ctr": 0.16417910447761194,
+      "position": 1.0597014925373134
     },
     {
-      "query": "a-r roofing and exteriors wichita",
+      "query": "a-r roofing wichita ks",
       "clicks": 9,
-      "impressions": 69,
-      "ctr": 0.13043478260869565,
-      "position": 1.0579710144927537
+      "impressions": 24,
+      "ctr": 0.375,
+      "position": 1.0416666666666667
     },
     {
       "query": "emergency roof repair near me",
-      "clicks": 7,
-      "impressions": 161,
-      "ctr": 0.043478260869565216,
-      "position": 15.819875776397515
+      "clicks": 9,
+      "impressions": 303,
+      "ctr": 0.0297029702970297,
+      "position": 35.95379537953795
+    },
+    {
+      "query": "a r roofing",
+      "clicks": 6,
+      "impressions": 195,
+      "ctr": 0.03076923076923077,
+      "position": 17.05128205128205
+    },
+    {
+      "query": "ar roofing wichita",
+      "clicks": 6,
+      "impressions": 101,
+      "ctr": 0.0594059405940594,
+      "position": 37.79207920792079
+    },
+    {
+      "query": "roof leak repair near me",
+      "clicks": 6,
+      "impressions": 881,
+      "ctr": 0.00681044267877412,
+      "position": 43.862656072644725
     },
     {
       "query": "shingle roof repair near me",
       "clicks": 6,
-      "impressions": 91,
-      "ctr": 0.06593406593406594,
-      "position": 10.186813186813186
-    },
-    {
-      "query": "a r roofing",
-      "clicks": 5,
-      "impressions": 218,
-      "ctr": 0.022935779816513763,
-      "position": 22.192660550458715
-    },
-    {
-      "query": "ar roofing wichita",
-      "clicks": 5,
-      "impressions": 149,
-      "ctr": 0.03355704697986577,
-      "position": 39.23489932885906
-    },
-    {
-      "query": "roof leak repair near me",
-      "clicks": 5,
-      "impressions": 536,
-      "ctr": 0.009328358208955223,
-      "position": 32.501865671641795
-    },
-    {
-      "query": "a & r roofing",
-      "clicks": 3,
-      "impressions": 47,
-      "ctr": 0.06382978723404255,
-      "position": 4.76595744680851
+      "impressions": 140,
+      "ctr": 0.04285714285714286,
+      "position": 19.67142857142857
     },
     {
       "query": "a and r roofing",
-      "clicks": 3,
-      "impressions": 119,
-      "ctr": 0.025210084033613446,
-      "position": 8.77310924369748
+      "clicks": 5,
+      "impressions": 120,
+      "ctr": 0.041666666666666664,
+      "position": 8.366666666666667
+    },
+    {
+      "query": "a & r roofing",
+      "clicks": 4,
+      "impressions": 47,
+      "ctr": 0.0851063829787234,
+      "position": 4.425531914893617
     },
     {
       "query": "flat roof repair near me",
-      "clicks": 3,
+      "clicks": 4,
       "impressions": 117,
-      "ctr": 0.02564102564102564,
-      "position": 4.675213675213675
+      "ctr": 0.03418803418803419,
+      "position": 5.0256410256410255
     },
     {
-      "query": "roofing contractors in kansas",
-      "clicks": 3,
-      "impressions": 22,
-      "ctr": 0.13636363636363635,
-      "position": 19.045454545454547
+      "query": "roofing wichita ks",
+      "clicks": 4,
+      "impressions": 655,
+      "ctr": 0.0061068702290076335,
+      "position": 9.90381679389313
     },
     {
-      "query": "wichita roofing",
+      "query": "roofing companies in kansas",
       "clicks": 3,
-      "impressions": 278,
-      "ctr": 0.01079136690647482,
-      "position": 12.37410071942446
+      "impressions": 49,
+      "ctr": 0.061224489795918366,
+      "position": 11.53061224489796
     },
     {
       "query": "downspout installer near me",
       "clicks": 2,
-      "impressions": 13,
-      "ctr": 0.15384615384615385,
+      "impressions": 16,
+      "ctr": 0.125,
       "position": 7
     },
     {
       "query": "gutter installation wichita ks",
       "clicks": 2,
-      "impressions": 345,
-      "ctr": 0.005797101449275362,
-      "position": 10.336231884057971
+      "impressions": 325,
+      "ctr": 0.006153846153846154,
+      "position": 10.864615384615385
+    },
+    {
+      "query": "roofing companies",
+      "clicks": 2,
+      "impressions": 332,
+      "ctr": 0.006024096385542169,
+      "position": 20.382530120481928
     },
     {
       "query": "roofing company wichita kansas",
       "clicks": 2,
-      "impressions": 10,
-      "ctr": 0.2,
-      "position": 7.4
+      "impressions": 20,
+      "ctr": 0.1,
+      "position": 8.25
+    },
+    {
+      "query": "roofing contractors in kansas",
+      "clicks": 2,
+      "impressions": 23,
+      "ctr": 0.08695652173913043,
+      "position": 14.08695652173913
     },
     {
       "query": "roofing contractors in wichita ks",
       "clicks": 2,
-      "impressions": 119,
-      "ctr": 0.01680672268907563,
-      "position": 15.899159663865547
+      "impressions": 120,
+      "ctr": 0.016666666666666666,
+      "position": 16.8
     },
     {
       "query": "roofing in kansas",
       "clicks": 2,
-      "impressions": 30,
-      "ctr": 0.06666666666666667,
-      "position": 7.766666666666667
+      "impressions": 32,
+      "ctr": 0.0625,
+      "position": 7.53125
     },
     {
       "query": "roofing kansas",
       "clicks": 2,
       "impressions": 122,
       "ctr": 0.01639344262295082,
-      "position": 6.049180327868853
+      "position": 6.475409836065574
     },
     {
-      "query": "roofing wichita ks",
+      "query": "siding companies near me",
       "clicks": 2,
-      "impressions": 603,
-      "ctr": 0.003316749585406302,
-      "position": 10.008291873963516
+      "impressions": 129,
+      "ctr": 0.015503875968992248,
+      "position": 10.713178294573643
     },
     {
-      "query": "siding contractor wichita ks",
+      "query": "siding repair wichita ks",
       "clicks": 2,
-      "impressions": 281,
-      "ctr": 0.0071174377224199285,
-      "position": 12.555160142348754
+      "impressions": 351,
+      "ctr": 0.005698005698005698,
+      "position": 14.698005698005698
+    },
+    {
+      "query": "siding wichita ks",
+      "clicks": 2,
+      "impressions": 325,
+      "ctr": 0.006153846153846154,
+      "position": 10.175384615384615
+    },
+    {
+      "query": "wichita roofing",
+      "clicks": 2,
+      "impressions": 284,
+      "ctr": 0.007042253521126761,
+      "position": 12.915492957746478
     },
     {
       "query": "wichita roofing companies",
       "clicks": 2,
-      "impressions": 199,
-      "ctr": 0.010050251256281407,
-      "position": 13.768844221105528
+      "impressions": 274,
+      "ctr": 0.0072992700729927005,
+      "position": 11.733576642335766
     },
     {
       "query": "a&r roofing and building specialists",
       "clicks": 1,
-      "impressions": 4,
-      "ctr": 0.25,
-      "position": 6
-    },
-    {
-      "query": "a-r roofing and exteriors creve coeur",
-      "clicks": 1,
-      "impressions": 5,
-      "ctr": 0.2,
-      "position": 1
-    },
-    {
-      "query": "a-r roofing and exteriors creve coeur reviews",
-      "clicks": 1,
-      "impressions": 22,
-      "ctr": 0.045454545454545456,
-      "position": 2.5
-    },
-    {
-      "query": "a1 roofing near me",
-      "clicks": 1,
-      "impressions": 3,
-      "ctr": 0.3333333333333333,
-      "position": 1.6666666666666665
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 3.857142857142857
     },
     {
       "query": "aar roofing",
       "clicks": 1,
-      "impressions": 30,
-      "ctr": 0.03333333333333333,
-      "position": 52.63333333333333
+      "impressions": 22,
+      "ctr": 0.045454545454545456,
+      "position": 46.09090909090909
+    },
+    {
+      "query": "anr roofing",
+      "clicks": 1,
+      "impressions": 26,
+      "ctr": 0.038461538461538464,
+      "position": 43.38461538461539
+    },
+    {
+      "query": "ar commercial roofing",
+      "clicks": 1,
+      "impressions": 50,
+      "ctr": 0.02,
+      "position": 11.8
+    },
+    {
+      "query": "ar construction",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 3.857142857142857
+    },
+    {
+      "query": "ar exteriors",
+      "clicks": 1,
+      "impressions": 91,
+      "ctr": 0.01098901098901099,
+      "position": 15.340659340659341
     },
     {
       "query": "ar roofing & remodeling",
       "clicks": 1,
-      "impressions": 48,
-      "ctr": 0.020833333333333332,
-      "position": 15.270833333333334
+      "impressions": 42,
+      "ctr": 0.023809523809523808,
+      "position": 13.476190476190476
+    },
+    {
+      "query": "ar roofing reviews",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 4.125
     },
     {
       "query": "aresroofing",
@@ -882,53 +938,60 @@
       "position": 2.1
     },
     {
-      "query": "arr roofing",
-      "clicks": 1,
-      "impressions": 13,
-      "ctr": 0.07692307692307693,
-      "position": 5.615384615384615
-    },
-    {
       "query": "best roofing companies in wichita ks",
       "clicks": 1,
-      "impressions": 17,
-      "ctr": 0.058823529411764705,
-      "position": 17.41176470588235
-    },
-    {
-      "query": "best roofing company wichita ks",
-      "clicks": 1,
-      "impressions": 21,
-      "ctr": 0.047619047619047616,
-      "position": 12.19047619047619
+      "impressions": 22,
+      "ctr": 0.045454545454545456,
+      "position": 17.90909090909091
     },
     {
       "query": "cheap windows near me for sale",
       "clicks": 1,
-      "impressions": 1,
-      "ctr": 1,
-      "position": 13
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 19.5
     },
     {
       "query": "commercial roofing wichita ks",
       "clicks": 1,
-      "impressions": 731,
-      "ctr": 0.0013679890560875513,
-      "position": 17.051983584131328
+      "impressions": 697,
+      "ctr": 0.0014347202295552368,
+      "position": 12.345767575322812
     },
     {
       "query": "commercial roofing york, ne",
       "clicks": 1,
-      "impressions": 15,
-      "ctr": 0.06666666666666667,
-      "position": 8.6
+      "impressions": 1,
+      "ctr": 1,
+      "position": 6
+    },
+    {
+      "query": "commercial siding installers",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
     },
     {
       "query": "compañías de roofing comercial",
       "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 38.5
+    },
+    {
+      "query": "construction hastings",
+      "clicks": 1,
       "impressions": 1,
       "ctr": 1,
-      "position": 10
+      "position": 80
+    },
+    {
+      "query": "emergency roof leak repair",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 41
     },
     {
       "query": "full roof replacement",
@@ -940,9 +1003,9 @@
     {
       "query": "gutter company wichita",
       "clicks": 1,
-      "impressions": 33,
-      "ctr": 0.030303030303030304,
-      "position": 12.727272727272727
+      "impressions": 36,
+      "ctr": 0.027777777777777776,
+      "position": 12.25
     },
     {
       "query": "gutters and downspouts",
@@ -954,15 +1017,22 @@
     {
       "query": "kansas roofers",
       "clicks": 1,
-      "impressions": 54,
-      "ctr": 0.018518518518518517,
-      "position": 12
+      "impressions": 49,
+      "ctr": 0.02040816326530612,
+      "position": 12.448979591836734
+    },
+    {
+      "query": "leaking roof repair near me",
+      "clicks": 1,
+      "impressions": 41,
+      "ctr": 0.024390243902439025,
+      "position": 46.58536585365854
     },
     {
       "query": "metal roofers near me",
       "clicks": 1,
-      "impressions": 6,
-      "ctr": 0.16666666666666666,
+      "impressions": 10,
+      "ctr": 0.1,
       "position": 1
     },
     {
@@ -973,378 +1043,1370 @@
       "position": 4
     },
     {
-      "query": "ok roofing wichita ks",
-      "clicks": 1,
-      "impressions": 43,
-      "ctr": 0.023255813953488372,
-      "position": 2.488372093023256
-    },
-    {
       "query": "online estimates roofer near me",
       "clicks": 1,
-      "impressions": 22,
-      "ctr": 0.045454545454545456,
-      "position": 3.909090909090909
+      "impressions": 23,
+      "ctr": 0.043478260869565216,
+      "position": 4
     },
     {
       "query": "pratt roofing",
       "clicks": 1,
-      "impressions": 11,
-      "ctr": 0.09090909090909091,
-      "position": 21.181818181818183
-    }
-  ],
-  "topPages": [
-    {
-      "page": "https://arroofing.com/",
-      "clicks": 262,
-      "impressions": 60573,
-      "ctr": 0.004325359483598303,
-      "position": 24.639063609198818
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 21.083333333333332
     },
     {
-      "page": "https://arroofing.com/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-Wichita-AR",
-      "clicks": 211,
-      "impressions": 42257,
-      "ctr": 0.004993255555292614,
-      "position": 2.168350805783657
-    },
-    {
-      "page": "https://arroofing.com/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-Pratt-AR",
-      "clicks": 41,
-      "impressions": 6646,
-      "ctr": 0.006169124285284382,
-      "position": 3.7148660848630755
-    },
-    {
-      "page": "https://arroofing.com/contact/",
-      "clicks": 28,
-      "impressions": 7553,
-      "ctr": 0.0037071362372567192,
-      "position": 9.203230504435323
-    },
-    {
-      "page": "https://arroofing.com/service-area/wichita-ks/roof-repair/",
-      "clicks": 25,
-      "impressions": 13271,
-      "ctr": 0.0018838067967749228,
-      "position": 24.02283173837691
-    },
-    {
-      "page": "https://arroofing.com/service-area/st-louis-mo/",
-      "clicks": 22,
-      "impressions": 3258,
-      "ctr": 0.006752608962553714,
-      "position": 35.84775936157152
-    },
-    {
-      "page": "https://arroofing.com/?utm_source=https://arroofing.com/&utm_medium=google&utm_campaign=organic&utm_content=GMBListing-Creve-Coeur-MO",
-      "clicks": 19,
-      "impressions": 4797,
-      "ctr": 0.003960808838857619,
-      "position": 3.9703981655201166
-    },
-    {
-      "page": "https://arroofing.com/roofing/residential/",
-      "clicks": 16,
-      "impressions": 7766,
-      "ctr": 0.0020602626834921455,
-      "position": 26.96806592840587
-    },
-    {
-      "page": "https://arroofing.com/siding/",
-      "clicks": 15,
-      "impressions": 24859,
-      "ctr": 0.0006034031940142403,
-      "position": 21.948871636027192
-    },
-    {
-      "page": "https://arroofing.com/blog/why-your-roof-needs-to-breathe-a-simple-guide-to-ventilation/",
-      "clicks": 11,
-      "impressions": 1654,
-      "ctr": 0.006650544135429262,
-      "position": 4.917775090689238
-    },
-    {
-      "page": "https://arroofing.com/roofing/commercial/",
-      "clicks": 9,
-      "impressions": 4657,
-      "ctr": 0.001932574618853339,
-      "position": 28.38307923555937
-    },
-    {
-      "page": "https://arroofing.com/blog/ice-dams-the-silent-winter-threat-that-can-wreck-your-roof-and-your-home/",
-      "clicks": 7,
-      "impressions": 449,
-      "ctr": 0.015590200445434299,
-      "position": 5.472160356347438
-    },
-    {
-      "page": "https://arroofing.com/gutters/",
-      "clicks": 6,
-      "impressions": 14332,
-      "ctr": 0.0004186435947530003,
-      "position": 25.28998046329891
-    },
-    {
-      "page": "https://arroofing.com/about/",
-      "clicks": 5,
-      "impressions": 8115,
-      "ctr": 0.0006161429451632779,
-      "position": 40.88638324091189
-    },
-    {
-      "page": "https://arroofing.com/service-area/",
-      "clicks": 5,
-      "impressions": 826,
-      "ctr": 0.006053268765133172,
-      "position": 9.658595641646489
-    },
-    {
-      "page": "https://arroofing.com/gallery/",
-      "clicks": 4,
-      "impressions": 1136,
-      "ctr": 0.0035211267605633804,
-      "position": 15.148767605633802
-    },
-    {
-      "page": "https://arroofing.com/service-area/pratt-ks/",
-      "clicks": 4,
-      "impressions": 2345,
-      "ctr": 0.0017057569296375266,
-      "position": 15.850319829424308
-    },
-    {
-      "page": "https://arroofing.com/service-area/wichita-ks/",
-      "clicks": 4,
-      "impressions": 4453,
-      "ctr": 0.0008982708286548395,
-      "position": 32.63575117898046
-    },
-    {
-      "page": "https://arroofing.com/windows/",
-      "clicks": 4,
-      "impressions": 14329,
-      "ctr": 0.00027915416288645404,
-      "position": 17.958754972433525
-    },
-    {
-      "page": "https://arroofing.com/blog/insurance-education-tips-what-kansas-missouri-homeowners-need-to-know/",
-      "clicks": 3,
-      "impressions": 629,
-      "ctr": 0.0047694753577106515,
-      "position": 5.233704292527822
-    },
-    {
-      "page": "https://arroofing.com/blog/why-winter-is-the-best-time-to-schedule-roof-repairs-in-kansas-missouri/",
-      "clicks": 3,
-      "impressions": 124,
-      "ctr": 0.024193548387096774,
-      "position": 14.588709677419354
-    },
-    {
-      "page": "https://arroofing.com/contact/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-Wichita-AR",
-      "clicks": 3,
-      "impressions": 998,
-      "ctr": 0.003006012024048096,
-      "position": 11.819639278557114
-    },
-    {
-      "page": "https://arroofing.com/service-area/garden-city-ks/",
-      "clicks": 3,
-      "impressions": 524,
-      "ctr": 0.0057251908396946565,
-      "position": 5.748091603053435
-    },
-    {
-      "page": "http://www.arroofing.com/",
-      "clicks": 2,
-      "impressions": 305,
-      "ctr": 0.006557377049180328,
-      "position": 33.131147540983605
-    },
-    {
-      "page": "https://arroofing.com/blog/5-factors-that-really-determine-your-roofs-final-price/",
-      "clicks": 2,
-      "impressions": 514,
-      "ctr": 0.0038910505836575876,
-      "position": 5.844357976653696
-    },
-    {
-      "page": "https://arroofing.com/blog/how-to-prepare-for-day-of-roof-installation/",
-      "clicks": 2,
-      "impressions": 87,
-      "ctr": 0.022988505747126436,
-      "position": 6.0344827586206895
-    },
-    {
-      "page": "https://arroofing.com/reviews/",
-      "clicks": 2,
-      "impressions": 1162,
-      "ctr": 0.0017211703958691911,
-      "position": 14.250430292598967
-    },
-    {
-      "page": "https://arroofing.com/roofing/storm-damage/",
-      "clicks": 2,
-      "impressions": 8912,
-      "ctr": 0.0002244165170556553,
-      "position": 38.38375224416517
-    },
-    {
-      "page": "https://arroofing.com/service-area/dodge-city-ks/",
-      "clicks": 2,
-      "impressions": 91,
-      "ctr": 0.02197802197802198,
-      "position": 8.252747252747252
-    },
-    {
-      "page": "https://arroofing.com/service-area/grand-island-ne/",
-      "clicks": 2,
-      "impressions": 373,
-      "ctr": 0.005361930294906166,
-      "position": 8.766756032171582
-    },
-    {
-      "page": "https://arroofing.com/service-area/great-bend-ks/",
-      "clicks": 2,
-      "impressions": 508,
-      "ctr": 0.003937007874015748,
-      "position": 14.354330708661417
-    },
-    {
-      "page": "https://arroofing.com/blog/storm-damage-roof-signs/",
+      "query": "residential roofing companies wichita ks",
       "clicks": 1,
-      "impressions": 545,
-      "ctr": 0.001834862385321101,
-      "position": 10.297247706422018
+      "impressions": 21,
+      "ctr": 0.047619047619047616,
+      "position": 30.80952380952381
     },
     {
-      "page": "https://arroofing.com/blog/the-homeowners-shield-why-licensed-insured-is-a-non-negotiable/",
+      "query": "residential roofing services",
       "clicks": 1,
-      "impressions": 260,
-      "ctr": 0.0038461538461538464,
-      "position": 12.05
+      "impressions": 4163,
+      "ctr": 0.00024021138601969732,
+      "position": 46.046120586115784
     },
     {
-      "page": "https://arroofing.com/financing/",
+      "query": "roof doctors",
       "clicks": 1,
-      "impressions": 2022,
-      "ctr": 0.0004945598417408506,
-      "position": 14.090009891196836
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 6.5
     },
     {
-      "page": "https://arroofing.com/privacy-policy/",
+      "query": "roof repair kansas",
       "clicks": 1,
-      "impressions": 164,
-      "ctr": 0.006097560975609756,
-      "position": 8.286585365853657
+      "impressions": 41,
+      "ctr": 0.024390243902439025,
+      "position": 18.585365853658537
     },
     {
-      "page": "https://arroofing.com/roofing/repair/",
+      "query": "roof repair wichita ks",
       "clicks": 1,
-      "impressions": 7669,
-      "ctr": 0.00013039509714434736,
-      "position": 31.19168079280219
+      "impressions": 421,
+      "ctr": 0.0023752969121140144,
+      "position": 15.779097387173397
     },
     {
-      "page": "https://arroofing.com/roofing/replacement/",
+      "query": "roof sealing",
       "clicks": 1,
-      "impressions": 748,
-      "ctr": 0.001336898395721925,
-      "position": 19.50668449197861
+      "impressions": 1,
+      "ctr": 1,
+      "position": 5
     },
     {
-      "page": "https://arroofing.com/service-area/owasso-ok/",
+      "query": "roofer kansas",
       "clicks": 1,
-      "impressions": 8097,
-      "ctr": 0.00012350253180190194,
-      "position": 10.632085957762134
+      "impressions": 21,
+      "ctr": 0.047619047619047616,
+      "position": 8.857142857142858
     },
     {
-      "page": "https://arroofing.com/terms-and-conditions/",
+      "query": "roofers in wichita kansas",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 12.833333333333334
+    },
+    {
+      "query": "roofers in wichita ks",
+      "clicks": 1,
+      "impressions": 85,
+      "ctr": 0.011764705882352941,
+      "position": 14.729411764705882
+    },
+    {
+      "query": "roofers near me",
+      "clicks": 1,
+      "impressions": 890,
+      "ctr": 0.0011235955056179776,
+      "position": 2.852808988764045
+    },
+    {
+      "query": "roofers that finance",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3
+    },
+    {
+      "query": "roofers wichita ks",
       "clicks": 1,
       "impressions": 259,
       "ctr": 0.003861003861003861,
-      "position": 7.185328185328185
+      "position": 16.57915057915058
     },
     {
-      "page": "https://arroofing.com/blog/",
+      "query": "roofing",
+      "clicks": 1,
+      "impressions": 1696,
+      "ctr": 0.0005896226415094339,
+      "position": 20.527122641509433
+    },
+    {
+      "query": "roofing & exteriors",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 10.666666666666666
+    },
+    {
+      "query": "roofing companies in usa",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 2.25
+    },
+    {
+      "query": "roofing companies in wichita ks",
+      "clicks": 1,
+      "impressions": 134,
+      "ctr": 0.007462686567164179,
+      "position": 9.723880597014926
+    },
+    {
+      "query": "roofing companies near me",
+      "clicks": 1,
+      "impressions": 397,
+      "ctr": 0.0025188916876574307,
+      "position": 8.77329974811083
+    },
+    {
+      "query": "roofing companies wichita kansas",
+      "clicks": 1,
+      "impressions": 128,
+      "ctr": 0.0078125,
+      "position": 10.75
+    },
+    {
+      "query": "roofing companies wichita ks",
+      "clicks": 1,
+      "impressions": 618,
+      "ctr": 0.0016181229773462784,
+      "position": 10.936893203883495
+    },
+    {
+      "query": "roofing company",
+      "clicks": 1,
+      "impressions": 2383,
+      "ctr": 0.000419639110365086,
+      "position": 7.960553923625682
+    },
+    {
+      "query": "roofing company wichita ks",
+      "clicks": 1,
+      "impressions": 291,
+      "ctr": 0.003436426116838488,
+      "position": 8.20274914089347
+    },
+    {
+      "query": "roofing contractors wichita kansas",
+      "clicks": 1,
+      "impressions": 56,
+      "ctr": 0.017857142857142856,
+      "position": 4.482142857142858
+    },
+    {
+      "query": "roofing estimate near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "roofing services",
+      "clicks": 1,
+      "impressions": 3079,
+      "ctr": 0.0003247807729782397,
+      "position": 4.488470282559272
+    },
+    {
+      "query": "roofing wichita",
+      "clicks": 1,
+      "impressions": 468,
+      "ctr": 0.002136752136752137,
+      "position": 22.30128205128205
+    },
+    {
+      "query": "siding and gutter repair near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "siding contractor wichita ks",
+      "clicks": 1,
+      "impressions": 278,
+      "ctr": 0.0035971223021582736,
+      "position": 9.589928057553957
+    },
+    {
+      "query": "siding doctor",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "siding repairs near me",
+      "clicks": 1,
+      "impressions": 71,
+      "ctr": 0.014084507042253521,
+      "position": 30.661971830985916
+    },
+    {
+      "query": "storm damage repair contractors near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 7
+    },
+    {
+      "query": "wichita commercial roofing",
+      "clicks": 1,
+      "impressions": 191,
+      "ctr": 0.005235602094240838,
+      "position": 19.98952879581152
+    },
+    {
+      "query": "wichita gutter installation",
+      "clicks": 1,
+      "impressions": 59,
+      "ctr": 0.01694915254237288,
+      "position": 9.508474576271187
+    },
+    {
+      "query": "wichita ks roofing companies",
+      "clicks": 1,
+      "impressions": 118,
+      "ctr": 0.00847457627118644,
+      "position": 8.610169491525424
+    },
+    {
+      "query": "wichita roof repair",
+      "clicks": 1,
+      "impressions": 309,
+      "ctr": 0.003236245954692557,
+      "position": 24.13915857605178
+    },
+    {
+      "query": "wichita siding repair",
+      "clicks": 1,
+      "impressions": 84,
+      "ctr": 0.011904761904761904,
+      "position": 7.404761904761905
+    },
+    {
+      "query": "window installers",
+      "clicks": 1,
+      "impressions": 33,
+      "ctr": 0.030303030303030304,
+      "position": 16
+    },
+    {
+      "query": "\"residential roofing experts\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 63
+    },
+    {
+      "query": "\"residential roofing services\"",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 41.7
+    },
+    {
+      "query": "\"roof repair expert\"",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 73.8
+    },
+    {
+      "query": "\"roof repair services\" reviews",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "\"roof repair\"",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 18
+    },
+    {
+      "query": "\"roof replacement contractors\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 100
+    },
+    {
+      "query": "\"roofing \"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 47
+    },
+    {
+      "query": "\"roofing repair services\"",
+      "clicks": 0,
+      "impressions": 105,
+      "ctr": 0,
+      "position": 30.266666666666666
+    },
+    {
+      "query": "\"roofing\"",
+      "clicks": 0,
+      "impressions": 56,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "query": "\"same-day approval\" roof repair",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "\"stormlock roofing\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "\"top notch roof\" commercial roofing reviews",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "\"top notch roof\" roofing company service area",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "\"water damage roof repair\"",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 55.5
+    },
+    {
+      "query": "\"wind damage roof repair\"",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 89
+    },
+    {
+      "query": "#roofer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "#roofing",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 20.46153846153846
+    },
+    {
+      "query": "#roofrepairs",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 3.5
+    },
+    {
+      "query": "1 stop roofing and exteriors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 97
+    },
+    {
+      "query": "1% roofing",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "10dlc for roofers",
+      "clicks": 0,
+      "impressions": 52,
+      "ctr": 0,
+      "position": 5.230769230769231
+    },
+    {
+      "query": "24 7 emergency roof repair service",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 3.5
+    },
+    {
+      "query": "24 hour commercial roof repair",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 86.2
+    },
+    {
+      "query": "24 hour emergency roof repair",
+      "clicks": 0,
+      "impressions": 31,
+      "ctr": 0,
+      "position": 7.258064516129032
+    },
+    {
+      "query": "24 hour emergency roof repair near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "24 hour emergency roof repair services",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "24 hour emergency roof repair st. louis mo",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 96.85714285714286
+    },
+    {
+      "query": "24 hour emergency roofing contractors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "24 hour roofers near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "24/7 emergency roof repair near me",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "24/7 emergency roof repair services",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 4.142857142857142
+    },
+    {
+      "query": "24/7 emergency roof repair services near me",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "24/7 emergency roofing services",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "24/7 emergency roofing services near me",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "24/7 roof repair services near me",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 5.166666666666667
+    },
+    {
+      "query": "5 star roofing and restoration",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "5 star roofing companies near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "620-522-8321",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 4.333333333333334
+    },
+    {
+      "query": "800 gutters",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 66
+    },
+    {
+      "query": "[emergency roofers near me]",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 56.5
+    },
+    {
+      "query": "[residential roofing services]",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 48.5
+    },
+    {
+      "query": "[roofing company around me]",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 14.375
+    },
+    {
+      "query": "a & a roofing",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "a & b roofing and construction",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "a & e roofing",
       "clicks": 0,
       "impressions": 1,
       "ctr": 0,
       "position": 1
     },
     {
+      "query": "a & g roofing",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "a & l roofing",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "a & r construction",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "a + roofing",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 12.5
+    },
+    {
+      "query": "a and a roofing",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "query": "a and b exteriors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "a and i roofing",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "a and l roofing",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "a and r",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "a and t roofing",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "a better exterior",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "a line roofing",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 52
+    },
+    {
+      "query": "a plus roofing",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "a plus roofing and construction",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "a plus roofing key west",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 60
+    },
+    {
+      "query": "a r service company",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 11.2
+    },
+    {
+      "query": "a roof",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 3.5
+    },
+    {
+      "query": "a roofing",
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 21.541666666666668
+    },
+    {
+      "query": "a roofing company",
+      "clicks": 0,
+      "impressions": 20,
+      "ctr": 0,
+      "position": 23.45
+    },
+    {
+      "query": "a siding",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 65.71428571428571
+    },
+    {
+      "query": "a star roofing",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 46.333333333333336
+    },
+    {
+      "query": "a t roofing",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 36.5
+    },
+    {
+      "query": "a to z roofing",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 25
+    },
+    {
+      "query": "a town roofing",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "a&a roofing & exteriors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "a&e roofing",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10.5
+    },
+    {
+      "query": "a&g roofing",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "a&m roofing",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 14
+    },
+    {
+      "query": "a&r",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1.3333333333333333
+    },
+    {
+      "query": "a&r building",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2.5
+    },
+    {
+      "query": "a&r construction",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "a&r construction llc",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "a&r construction services llc",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "a&r development",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 26
+    },
+    {
+      "query": "a&r exteriors llc, home improvement, wichita",
+      "clicks": 0,
+      "impressions": 82,
+      "ctr": 0,
+      "position": 8.439024390243903
+    },
+    {
+      "query": "a&r fabrication",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 79
+    },
+    {
+      "query": "a&r general contracting",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "a&r group",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "a&r paving",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "a&r roof construction chemicals & services",
+      "clicks": 0,
+      "impressions": 25,
+      "ctr": 0,
+      "position": 3.28
+    },
+    {
+      "query": "a&r roof construction chemicals services",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 15.538461538461538
+    },
+    {
+      "query": "a&r roofing and building",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 4.5
+    },
+    {
+      "query": "a&r services",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 14
+    },
+    {
+      "query": "a+roofing+company",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 67.5
+    },
+    {
+      "query": "a-1 roofing",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 11.75
+    },
+    {
+      "query": "a-1 roofing and construction",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 16
+    },
+    {
+      "query": "a-best roofing",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 19
+    },
+    {
+      "query": "a-best roofing, roofing service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 17
+    },
+    {
+      "query": "a-r roofing & exteriors reviews",
+      "clicks": 0,
+      "impressions": 40,
+      "ctr": 0,
+      "position": 6.675
+    },
+    {
+      "query": "a-r roofing and exteriors creve coeur reviews",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "a-r roofing, contractor, wichita",
+      "clicks": 0,
+      "impressions": 68,
+      "ctr": 0,
+      "position": 1.25
+    },
+    {
+      "query": "a-r roofing, contratista, wichita",
+      "clicks": 0,
+      "impressions": 116,
+      "ctr": 0,
+      "position": 7.172413793103448
+    },
+    {
+      "query": "a.r. enterprises",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "a/r",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "a/r contact",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "a1 gutters",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 12.333333333333334
+    },
+    {
+      "query": "a1 roofing",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 3.4
+    },
+    {
+      "query": "a1 roofing and construction",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 23
+    },
+    {
+      "query": "a1 roofing company",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "a1 roofing near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "aaa roofing company",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    }
+  ],
+  "topPages": [
+    {
+      "page": "https://arroofing.com/",
+      "clicks": 285,
+      "impressions": 57960,
+      "ctr": 0.004917184265010352,
+      "position": 21.932505175983437
+    },
+    {
+      "page": "https://arroofing.com/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-Wichita-AR",
+      "clicks": 235,
+      "impressions": 44772,
+      "ctr": 0.00524881622442598,
+      "position": 2.2402617707495756
+    },
+    {
+      "page": "https://arroofing.com/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-Pratt-AR",
+      "clicks": 48,
+      "impressions": 6493,
+      "ctr": 0.007392576620976436,
+      "position": 3.8587709841367626
+    },
+    {
+      "page": "https://arroofing.com/?utm_source=https://arroofing.com/&utm_medium=google&utm_campaign=organic&utm_content=GMBListing-Creve-Coeur-MO",
+      "clicks": 35,
+      "impressions": 5699,
+      "ctr": 0.006141428320758028,
+      "position": 4.231444113002281
+    },
+    {
+      "page": "https://arroofing.com/contact/",
+      "clicks": 33,
+      "impressions": 5777,
+      "ctr": 0.005712307425999654,
+      "position": 8.246321620218106
+    },
+    {
+      "page": "https://arroofing.com/service-area/wichita-ks/roof-repair/",
+      "clicks": 32,
+      "impressions": 15958,
+      "ctr": 0.0020052638175209925,
+      "position": 24.041671888707857
+    },
+    {
+      "page": "https://arroofing.com/service-area/st-louis-mo/",
+      "clicks": 29,
+      "impressions": 3539,
+      "ctr": 0.008194405199208816,
+      "position": 34.346990675332016
+    },
+    {
+      "page": "https://arroofing.com/siding/",
+      "clicks": 22,
+      "impressions": 26168,
+      "ctr": 0.000840721491898502,
+      "position": 22.597752980739834
+    },
+    {
+      "page": "https://arroofing.com/roofing/residential/",
+      "clicks": 18,
+      "impressions": 7940,
+      "ctr": 0.0022670025188916876,
+      "position": 28.358438287153653
+    },
+    {
+      "page": "https://arroofing.com/blog/why-your-roof-needs-to-breathe-a-simple-guide-to-ventilation/",
+      "clicks": 17,
+      "impressions": 1918,
+      "ctr": 0.008863399374348279,
+      "position": 5.1089676746611055
+    },
+    {
+      "page": "https://arroofing.com/blog/ice-dams-the-silent-winter-threat-that-can-wreck-your-roof-and-your-home/",
+      "clicks": 9,
+      "impressions": 1177,
+      "ctr": 0.0076465590484282074,
+      "position": 5.672047578589635
+    },
+    {
+      "page": "https://arroofing.com/roofing/commercial/",
+      "clicks": 9,
+      "impressions": 2725,
+      "ctr": 0.0033027522935779817,
+      "position": 33.426788990825685
+    },
+    {
+      "page": "https://arroofing.com/gutters/",
+      "clicks": 7,
+      "impressions": 12821,
+      "ctr": 0.000545979252788394,
+      "position": 22.538881522502145
+    },
+    {
+      "page": "https://arroofing.com/service-area/wichita-ks/",
+      "clicks": 7,
+      "impressions": 4753,
+      "ctr": 0.0014727540500736377,
+      "position": 30.2688828108563
+    },
+    {
+      "page": "https://arroofing.com/reviews/",
+      "clicks": 6,
+      "impressions": 852,
+      "ctr": 0.007042253521126761,
+      "position": 12.683098591549296
+    },
+    {
+      "page": "https://arroofing.com/contact/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-Wichita-AR",
+      "clicks": 5,
+      "impressions": 1080,
+      "ctr": 0.004629629629629629,
+      "position": 11.575
+    },
+    {
+      "page": "https://arroofing.com/service-area/",
+      "clicks": 5,
+      "impressions": 904,
+      "ctr": 0.0055309734513274336,
+      "position": 9.358407079646017
+    },
+    {
+      "page": "http://www.arroofing.com/",
+      "clicks": 4,
+      "impressions": 409,
+      "ctr": 0.009779951100244499,
+      "position": 43.743276283618584
+    },
+    {
+      "page": "https://arroofing.com/about/",
+      "clicks": 4,
+      "impressions": 7436,
+      "ctr": 0.0005379236148466917,
+      "position": 34.074905863367405
+    },
+    {
+      "page": "https://arroofing.com/blog/insurance-education-tips-what-kansas-missouri-homeowners-need-to-know/",
+      "clicks": 4,
+      "impressions": 814,
+      "ctr": 0.004914004914004914,
+      "position": 5.316953316953317
+    },
+    {
+      "page": "https://arroofing.com/gallery/",
+      "clicks": 4,
+      "impressions": 1019,
+      "ctr": 0.003925417075564278,
+      "position": 13.543670264965652
+    },
+    {
+      "page": "https://arroofing.com/service-area/garden-city-ks/",
+      "clicks": 4,
+      "impressions": 469,
+      "ctr": 0.008528784648187633,
+      "position": 5.99360341151386
+    },
+    {
+      "page": "https://arroofing.com/service-area/pratt-ks/",
+      "clicks": 4,
+      "impressions": 2004,
+      "ctr": 0.001996007984031936,
+      "position": 14.341317365269461
+    },
+    {
+      "page": "https://arroofing.com/windows/",
+      "clicks": 4,
+      "impressions": 14645,
+      "ctr": 0.00027313076135199724,
+      "position": 16.982587913963812
+    },
+    {
+      "page": "https://arroofing.com/blog/why-winter-is-the-best-time-to-schedule-roof-repairs-in-kansas-missouri/",
+      "clicks": 3,
+      "impressions": 153,
+      "ctr": 0.0196078431372549,
+      "position": 12.718954248366012
+    },
+    {
+      "page": "https://arroofing.com/financing/",
+      "clicks": 3,
+      "impressions": 1032,
+      "ctr": 0.0029069767441860465,
+      "position": 16.123062015503876
+    },
+    {
+      "page": "https://arroofing.com/roofing/storm-damage/",
+      "clicks": 3,
+      "impressions": 8479,
+      "ctr": 0.0003538153084090105,
+      "position": 37.55584384951055
+    },
+    {
+      "page": "https://arroofing.com/blog/5-factors-that-really-determine-your-roofs-final-price/",
+      "clicks": 2,
+      "impressions": 621,
+      "ctr": 0.00322061191626409,
+      "position": 5.62962962962963
+    },
+    {
+      "page": "https://arroofing.com/blog/how-to-prepare-for-day-of-roof-installation/",
+      "clicks": 2,
+      "impressions": 96,
+      "ctr": 0.020833333333333332,
+      "position": 6.1875
+    },
+    {
+      "page": "https://arroofing.com/blog/the-homeowners-shield-why-licensed-insured-is-a-non-negotiable/",
+      "clicks": 2,
+      "impressions": 228,
+      "ctr": 0.008771929824561403,
+      "position": 10.780701754385966
+    },
+    {
+      "page": "https://arroofing.com/roofing/replacement/",
+      "clicks": 2,
+      "impressions": 732,
+      "ctr": 0.00273224043715847,
+      "position": 19.311475409836067
+    },
+    {
+      "page": "https://arroofing.com/service-area/chesterfield-mo/",
+      "clicks": 2,
+      "impressions": 925,
+      "ctr": 0.002162162162162162,
+      "position": 10.874594594594594
+    },
+    {
+      "page": "https://arroofing.com/service-area/dodge-city-ks/",
+      "clicks": 2,
+      "impressions": 101,
+      "ctr": 0.019801980198019802,
+      "position": 9.01980198019802
+    },
+    {
+      "page": "https://arroofing.com/service-area/grand-island-ne/",
+      "clicks": 2,
+      "impressions": 258,
+      "ctr": 0.007751937984496124,
+      "position": 10.077519379844961
+    },
+    {
+      "page": "https://arroofing.com/service-area/great-bend-ks/",
+      "clicks": 2,
+      "impressions": 356,
+      "ctr": 0.0056179775280898875,
+      "position": 13.612359550561798
+    },
+    {
+      "page": "https://arroofing.com/service-area/owasso-ok/",
+      "clicks": 2,
+      "impressions": 6766,
+      "ctr": 0.0002955956251847473,
+      "position": 9.764558084540349
+    },
+    {
+      "page": "https://arroofing.com/blog/a-r-roofing-expands-to-st-louis-join-us-for-our-grand-opening-in-creve-coeur/",
+      "clicks": 1,
+      "impressions": 65,
+      "ctr": 0.015384615384615385,
+      "position": 7.6923076923076925
+    },
+    {
+      "page": "https://arroofing.com/blog/storm-damage-roof-signs/",
+      "clicks": 1,
+      "impressions": 586,
+      "ctr": 0.0017064846416382253,
+      "position": 10.303754266211604
+    },
+    {
+      "page": "https://arroofing.com/contact/?utm_source=https://arroofing.com/&utm_medium=google&utm_campaign=organic&utm_content=GMBListing-Creve-Coeur-MO",
+      "clicks": 1,
+      "impressions": 265,
+      "ctr": 0.0037735849056603774,
+      "position": 13.233962264150943
+    },
+    {
+      "page": "https://arroofing.com/privacy-policy/",
+      "clicks": 1,
+      "impressions": 160,
+      "ctr": 0.00625,
+      "position": 8.675
+    },
+    {
+      "page": "https://arroofing.com/roofing/repair/",
+      "clicks": 1,
+      "impressions": 6146,
+      "ctr": 0.00016270745200130165,
+      "position": 35.53904978848031
+    },
+    {
+      "page": "https://arroofing.com/service-area/ballwin-mo/",
+      "clicks": 1,
+      "impressions": 1365,
+      "ctr": 0.0007326007326007326,
+      "position": 7.877655677655678
+    },
+    {
+      "page": "https://arroofing.com/terms-and-conditions/",
+      "clicks": 1,
+      "impressions": 254,
+      "ctr": 0.003937007874015748,
+      "position": 7.578740157480315
+    },
+    {
+      "page": "https://arroofing.com/blog/",
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 25.27777777777778
+    },
+    {
+      "page": "https://arroofing.com/blog/class-4-impact-resistant-shingles-are-they-worth-it/",
+      "clicks": 0,
+      "impressions": 143,
+      "ctr": 0,
+      "position": 24.426573426573427
+    },
+    {
       "page": "https://arroofing.com/blog/decoding-your-estimate-how-your-old-roofs-condition-dictates-your-new-roofs-price/",
       "clicks": 0,
-      "impressions": 26,
+      "impressions": 40,
       "ctr": 0,
-      "position": 8.653846153846153
+      "position": 7.55
     },
     {
       "page": "https://arroofing.com/blog/more-than-shingles-the-critical-role-of-your-roofs-decking-and-why-we-replace-it/",
       "clicks": 0,
-      "impressions": 32,
+      "impressions": 43,
       "ctr": 0,
-      "position": 5.8125
+      "position": 5.4186046511627906
     },
     {
       "page": "https://arroofing.com/blog/spring-is-coming-is-your-roof-ready-for-midwest-weather/",
       "clicks": 0,
-      "impressions": 75,
+      "impressions": 115,
       "ctr": 0,
-      "position": 7.546666666666667
+      "position": 7.304347826086956
     },
     {
       "page": "https://arroofing.com/blog/spring-roof-inspections-why-march-is-the-most-important-month-for-kansas-missouri-homeowners/",
       "clicks": 0,
-      "impressions": 31,
+      "impressions": 53,
       "ctr": 0,
-      "position": 7.741935483870968
+      "position": 7.830188679245283
     },
     {
       "page": "https://arroofing.com/blog/stone-coated-steel-roofing-why-it-may-be-the-best-upgrade-youll-ever-make-for-your-home/",
       "clicks": 0,
-      "impressions": 103,
+      "impressions": 108,
       "ctr": 0,
-      "position": 25.446601941747574
-    },
-    {
-      "page": "https://arroofing.com/contact/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-Pratt-AR",
-      "clicks": 0,
-      "impressions": 163,
-      "ctr": 0,
-      "position": 12.83435582822086
-    },
-    {
-      "page": "https://arroofing.com/contact/?utm_source=https://arroofing.com/&utm_medium=google&utm_campaign=organic&utm_content=GMBListing-Creve-Coeur-MO",
-      "clicks": 0,
-      "impressions": 157,
-      "ctr": 0,
-      "position": 13.662420382165605
-    },
-    {
-      "page": "https://arroofing.com/gallery/page/2/",
-      "clicks": 0,
-      "impressions": 717,
-      "ctr": 0,
-      "position": 22.00976290097629
-    },
-    {
-      "page": "https://arroofing.com/gallery/page/3/",
-      "clicks": 0,
-      "impressions": 15,
-      "ctr": 0,
-      "position": 11.466666666666667
-    },
-    {
-      "page": "https://arroofing.com/gallery/page/4/",
-      "clicks": 0,
-      "impressions": 4,
-      "ctr": 0,
-      "position": 6.5
+      "position": 24.685185185185187
     }
   ],
-  "fetchedAt": "2026-03-18T13:08:09.424Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [],
+  "fetchedAt": "2026-04-07T16:22:43.382Z"
 }

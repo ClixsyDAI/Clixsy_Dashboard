@@ -1,156 +1,16 @@
 {
   "property": "sc-domain:wilshirelawfirm.com",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 30998,
-    "impressions": 8504301,
-    "ctr": 0.0036449791699517693,
-    "position": 20.604654718036944
+    "clicks": 29774,
+    "impressions": 10023500,
+    "ctr": 0.0029704195141417667,
+    "position": 18.862493664042486
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 481,
-      "impressions": 111389,
-      "ctr": 0.004318200181346453,
-      "position": 19.704064135596873
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 571,
-      "impressions": 116240,
-      "ctr": 0.004912250516173435,
-      "position": 20.754619752236753
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 505,
-      "impressions": 94107,
-      "ctr": 0.005366232055001222,
-      "position": 18.969651566833498
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 507,
-      "impressions": 117096,
-      "ctr": 0.004329780692764911,
-      "position": 20.480366536858646
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 413,
-      "impressions": 119763,
-      "ctr": 0.003448477409550529,
-      "position": 20.93884588729407
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 208,
-      "impressions": 104780,
-      "ctr": 0.0019851116625310174,
-      "position": 20.95694789081886
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 227,
-      "impressions": 100767,
-      "ctr": 0.0022527216251352128,
-      "position": 20.647394484305376
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 436,
-      "impressions": 113148,
-      "ctr": 0.0038533602007989535,
-      "position": 17.382896737017003
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 401,
-      "impressions": 124962,
-      "ctr": 0.0032089755285606824,
-      "position": 19.569597157535892
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 201,
-      "impressions": 110697,
-      "ctr": 0.0018157673649692404,
-      "position": 19.32233935879021
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 142,
-      "impressions": 93211,
-      "ctr": 0.0015234253467938334,
-      "position": 18.795732263359476
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 275,
-      "impressions": 93252,
-      "ctr": 0.0029489984129026725,
-      "position": 18.39363230815425
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 205,
-      "impressions": 86680,
-      "ctr": 0.0023650207660359944,
-      "position": 19.52793031841255
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 226,
-      "impressions": 89861,
-      "ctr": 0.002514995381756268,
-      "position": 20.838461624063832
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 491,
-      "impressions": 114313,
-      "ctr": 0.004295224515147009,
-      "position": 16.922983387716183
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 470,
-      "impressions": 115102,
-      "ctr": 0.004083334781324391,
-      "position": 21.218858056332643
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 278,
-      "impressions": 119349,
-      "ctr": 0.0023293031361804454,
-      "position": 20.879094085413367
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 182,
-      "impressions": 130439,
-      "ctr": 0.0013952882190142518,
-      "position": 21.83455101618381
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 374,
-      "impressions": 99671,
-      "ctr": 0.00375234521575985,
-      "position": 20.50052673295141
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 189,
-      "impressions": 83925,
-      "ctr": 0.00225201072386059,
-      "position": 21.915007447125408
-    },
     {
       "date": "2026-01-04",
       "clicks": 227,
@@ -640,381 +500,1578 @@
       "impressions": 74774,
       "ctr": 0.00179206676117367,
       "position": 17.08048252066226
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 135,
+      "impressions": 72156,
+      "ctr": 0.0018709462830533844,
+      "position": 16.29438993292311
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 335,
+      "impressions": 82580,
+      "ctr": 0.004056672317752482,
+      "position": 14.74613707919593
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 308,
+      "impressions": 75434,
+      "ctr": 0.0040830394782193705,
+      "position": 14.910451520534506
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 312,
+      "impressions": 88071,
+      "ctr": 0.003542596314337296,
+      "position": 13.49567962212306
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 338,
+      "impressions": 149861,
+      "ctr": 0.002255423358979321,
+      "position": 10.537458044454528
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 302,
+      "impressions": 178899,
+      "ctr": 0.0016881033432271841,
+      "position": 10.774822665302768
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 114,
+      "impressions": 171372,
+      "ctr": 0.000665219522442406,
+      "position": 12.360642345307285
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 136,
+      "impressions": 217694,
+      "ctr": 0.0006247301257728739,
+      "position": 10.922533464404165
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 353,
+      "impressions": 181381,
+      "ctr": 0.0019461795888213208,
+      "position": 12.13595139512959
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 362,
+      "impressions": 262628,
+      "ctr": 0.001378375496900559,
+      "position": 10.06572033446548
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 350,
+      "impressions": 202972,
+      "ctr": 0.001724375775969099,
+      "position": 11.695903868513884
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 313,
+      "impressions": 186936,
+      "ctr": 0.0016743698378054522,
+      "position": 13.568301450763897
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 287,
+      "impressions": 125437,
+      "ctr": 0.0022880011479866386,
+      "position": 15.4191187608122
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 139,
+      "impressions": 113319,
+      "ctr": 0.0012266257203116865,
+      "position": 16.689610744888324
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 116,
+      "impressions": 275709,
+      "ctr": 0.00042073345447555215,
+      "position": 11.499174854647473
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 288,
+      "impressions": 324346,
+      "ctr": 0.0008879406559661596,
+      "position": 11.368350465243907
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 338,
+      "impressions": 220734,
+      "ctr": 0.0015312548134859153,
+      "position": 10.684312339739234
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 329,
+      "impressions": 218979,
+      "ctr": 0.0015024271733819225,
+      "position": 10.304239219285867
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 318,
+      "impressions": 198639,
+      "ctr": 0.0016008940842432754,
+      "position": 10.49476688867745
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 257,
+      "impressions": 149977,
+      "ctr": 0.0017135960847329925,
+      "position": 12.547403935270074
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 128,
+      "impressions": 160827,
+      "ctr": 0.0007958862628787455,
+      "position": 11.106530619858606
     }
   ],
   "topQueries": [
     {
       "query": "wilshire law firm",
-      "clicks": 6259,
-      "impressions": 20788,
-      "ctr": 0.3010871656725034,
-      "position": 1.4043679045603232
+      "clicks": 6104,
+      "impressions": 21960,
+      "ctr": 0.277959927140255,
+      "position": 1.359153005464481
     },
     {
       "query": "wilshire law",
-      "clicks": 652,
-      "impressions": 1879,
-      "ctr": 0.3469930814262906,
-      "position": 1.5614688664183076
+      "clicks": 643,
+      "impressions": 2025,
+      "ctr": 0.31753086419753085,
+      "position": 1.4148148148148147
     },
     {
       "query": "wilshire law firm los angeles",
-      "clicks": 515,
-      "impressions": 2848,
-      "ctr": 0.18082865168539325,
-      "position": 7.517907303370786
+      "clicks": 492,
+      "impressions": 2957,
+      "ctr": 0.16638484950963814,
+      "position": 6.685830233344606
     },
     {
       "query": "wilshire law firm plc",
-      "clicks": 350,
-      "impressions": 1124,
-      "ctr": 0.3113879003558719,
-      "position": 1.6708185053380782
+      "clicks": 335,
+      "impressions": 1139,
+      "ctr": 0.29411764705882354,
+      "position": 1.5285338015803336
     },
     {
       "query": "wilshire law firm careers",
-      "clicks": 174,
-      "impressions": 527,
-      "ctr": 0.3301707779886148,
-      "position": 3.935483870967742
+      "clicks": 159,
+      "impressions": 550,
+      "ctr": 0.28909090909090907,
+      "position": 4.030909090909091
     },
     {
       "query": "wilshire law group",
-      "clicks": 132,
-      "impressions": 409,
-      "ctr": 0.32273838630806845,
-      "position": 1.8533007334963325
+      "clicks": 134,
+      "impressions": 446,
+      "ctr": 0.3004484304932735,
+      "position": 1.984304932735426
     },
     {
       "query": "wilshire law firm, plc",
-      "clicks": 90,
-      "impressions": 179,
-      "ctr": 0.5027932960893855,
-      "position": 1.229050279329609
-    },
-    {
-      "query": "willshire law firm",
-      "clicks": 77,
-      "impressions": 280,
-      "ctr": 0.275,
-      "position": 1.1892857142857143
+      "clicks": 97,
+      "impressions": 204,
+      "ctr": 0.47549019607843135,
+      "position": 1.2058823529411764
     },
     {
       "query": "wilshire law firm locations",
-      "clicks": 75,
-      "impressions": 221,
-      "ctr": 0.3393665158371041,
-      "position": 3.0361990950226243
+      "clicks": 79,
+      "impressions": 265,
+      "ctr": 0.2981132075471698,
+      "position": 2.69811320754717
+    },
+    {
+      "query": "willshire law firm",
+      "clicks": 68,
+      "impressions": 281,
+      "ctr": 0.24199288256227758,
+      "position": 1.1530249110320285
     },
     {
       "query": "the wilshire law firm",
-      "clicks": 66,
-      "impressions": 176,
-      "ctr": 0.375,
-      "position": 2.8636363636363633
-    },
-    {
-      "query": "dexcom class action lawsuit",
-      "clicks": 57,
-      "impressions": 743,
-      "ctr": 0.07671601615074024,
-      "position": 2.5114401076716018
-    },
-    {
-      "query": "wilshirelawfirm",
-      "clicks": 56,
-      "impressions": 224,
-      "ctr": 0.25,
-      "position": 1.3794642857142856
+      "clicks": 64,
+      "impressions": 188,
+      "ctr": 0.3404255319148936,
+      "position": 2.74468085106383
     },
     {
       "query": "213-381-9988",
-      "clicks": 51,
-      "impressions": 202,
-      "ctr": 0.2524752475247525,
-      "position": 1.004950495049505
+      "clicks": 59,
+      "impressions": 230,
+      "ctr": 0.2565217391304348,
+      "position": 1.0043478260869565
     },
     {
-      "query": "dexcom g7 lawsuit",
-      "clicks": 50,
-      "impressions": 1297,
-      "ctr": 0.03855050115651504,
-      "position": 2.3114880493446415
+      "query": "wilshire law firm attorneys",
+      "clicks": 59,
+      "impressions": 112,
+      "ctr": 0.5267857142857143,
+      "position": 7.053571428571429
     },
     {
-      "query": "dexcom lawsuit",
-      "clicks": 50,
-      "impressions": 1528,
-      "ctr": 0.032722513089005235,
-      "position": 2.50065445026178
+      "query": "thiago coelho",
+      "clicks": 52,
+      "impressions": 179,
+      "ctr": 0.2905027932960894,
+      "position": 2.871508379888268
+    },
+    {
+      "query": "valen hermiz",
+      "clicks": 52,
+      "impressions": 111,
+      "ctr": 0.46846846846846846,
+      "position": 1
+    },
+    {
+      "query": "wilshirelawfirm",
+      "clicks": 52,
+      "impressions": 214,
+      "ctr": 0.24299065420560748,
+      "position": 2.2196261682242993
+    },
+    {
+      "query": "toxic work environment",
+      "clicks": 49,
+      "impressions": 6774,
+      "ctr": 0.00723354000590493,
+      "position": 10.020962503690582
     },
     {
       "query": "whilshire law firm",
       "clicks": 49,
-      "impressions": 124,
-      "ctr": 0.3951612903225806,
-      "position": 4.814516129032258
-    },
-    {
-      "query": "thiago coelho",
-      "clicks": 47,
-      "impressions": 158,
-      "ctr": 0.2974683544303797,
-      "position": 2.9556962025316453
+      "impressions": 120,
+      "ctr": 0.4083333333333333,
+      "position": 4.9
     },
     {
       "query": "wilshire law firm san diego",
-      "clicks": 47,
-      "impressions": 274,
-      "ctr": 0.17153284671532848,
-      "position": 2.1058394160583944
-    },
-    {
-      "query": "wilshire law firm attorneys",
-      "clicks": 46,
-      "impressions": 93,
-      "ctr": 0.4946236559139785,
-      "position": 12.268817204301076
-    },
-    {
-      "query": "consumer protection lawyer",
-      "clicks": 45,
-      "impressions": 3630,
-      "ctr": 0.012396694214876033,
-      "position": 19.782920110192837
-    },
-    {
-      "query": "wilshire law firm irvine",
-      "clicks": 45,
-      "impressions": 214,
-      "ctr": 0.2102803738317757,
-      "position": 5.0607476635514015
+      "clicks": 49,
+      "impressions": 345,
+      "ctr": 0.14202898550724638,
+      "position": 3.026086956521739
     },
     {
       "query": "john yslas",
-      "clicks": 44,
-      "impressions": 87,
-      "ctr": 0.5057471264367817,
-      "position": 1.9540229885057472
+      "clicks": 48,
+      "impressions": 103,
+      "ctr": 0.46601941747572817,
+      "position": 1.8058252427184467
     },
     {
-      "query": "alivia abreu",
-      "clicks": 43,
-      "impressions": 139,
-      "ctr": 0.30935251798561153,
-      "position": 1.2805755395683454
+      "query": "consumer protection lawyer",
+      "clicks": 47,
+      "impressions": 3742,
+      "ctr": 0.012560128273650455,
+      "position": 19.297167290219136
     },
     {
-      "query": "nicol hajjar",
-      "clicks": 41,
-      "impressions": 85,
-      "ctr": 0.4823529411764706,
-      "position": 4.364705882352942
+      "query": "dexcom class action lawsuit",
+      "clicks": 46,
+      "impressions": 731,
+      "ctr": 0.06292749658002736,
+      "position": 2.9931600547195623
     },
     {
       "query": "nathan kingery",
-      "clicks": 40,
-      "impressions": 104,
-      "ctr": 0.38461538461538464,
-      "position": 1.1057692307692308
+      "clicks": 45,
+      "impressions": 123,
+      "ctr": 0.36585365853658536,
+      "position": 1.1544715447154472
     },
     {
-      "query": "valen hermiz",
-      "clicks": 40,
-      "impressions": 81,
-      "ctr": 0.49382716049382713,
-      "position": 1
+      "query": "alivia abreu",
+      "clicks": 44,
+      "impressions": 157,
+      "ctr": 0.2802547770700637,
+      "position": 1.3821656050955413
     },
     {
-      "query": "toxic work environment",
+      "query": "dexcom lawsuit",
+      "clicks": 41,
+      "impressions": 1490,
+      "ctr": 0.027516778523489934,
+      "position": 2.910738255033557
+    },
+    {
+      "query": "wilshire",
+      "clicks": 40,
+      "impressions": 7208,
+      "ctr": 0.005549389567147614,
+      "position": 4.887208657047725
+    },
+    {
+      "query": "wilshire law firm irvine",
+      "clicks": 40,
+      "impressions": 223,
+      "ctr": 0.17937219730941703,
+      "position": 3.0807174887892375
+    },
+    {
+      "query": "wilshire law firm jobs",
       "clicks": 39,
-      "impressions": 5336,
-      "ctr": 0.007308845577211395,
-      "position": 12.270989505247377
+      "impressions": 383,
+      "ctr": 0.10182767624020887,
+      "position": 5.629242819843342
     },
     {
       "query": "wilshire law firm riverside",
       "clicks": 39,
-      "impressions": 224,
-      "ctr": 0.17410714285714285,
-      "position": 4.428571428571429
+      "impressions": 250,
+      "ctr": 0.156,
+      "position": 5.584
     },
     {
-      "query": "california employment lawyer",
+      "query": "nicol hajjar",
       "clicks": 38,
-      "impressions": 2646,
-      "ctr": 0.01436130007558579,
-      "position": 5.616780045351474
+      "impressions": 82,
+      "ctr": 0.4634146341463415,
+      "position": 4.487804878048781
+    },
+    {
+      "query": "ryan casey attorney",
+      "clicks": 38,
+      "impressions": 69,
+      "ctr": 0.5507246376811594,
+      "position": 1.463768115942029
     },
     {
       "query": "2133819988",
-      "clicks": 37,
-      "impressions": 190,
-      "ctr": 0.19473684210526315,
-      "position": 1.0157894736842106
-    },
-    {
-      "query": "california dog bite law",
-      "clicks": 36,
-      "impressions": 905,
-      "ctr": 0.039779005524861875,
-      "position": 4.099447513812155
-    },
-    {
-      "query": "chumahan bowen",
       "clicks": 35,
-      "impressions": 66,
-      "ctr": 0.5303030303030303,
-      "position": 1.9545454545454546
-    },
-    {
-      "query": "wilshire",
-      "clicks": 34,
-      "impressions": 6934,
-      "ctr": 0.00490337467551197,
-      "position": 5.644361119123161
-    },
-    {
-      "query": "colin jones attorney",
-      "clicks": 33,
-      "impressions": 143,
-      "ctr": 0.23076923076923078,
-      "position": 2.5034965034965033
-    },
-    {
-      "query": "willshire law",
-      "clicks": 32,
-      "impressions": 87,
-      "ctr": 0.367816091954023,
-      "position": 1.3908045977011494
-    },
-    {
-      "query": "wilshire law firm jobs",
-      "clicks": 31,
-      "impressions": 341,
-      "ctr": 0.09090909090909091,
-      "position": 6.073313782991202
-    },
-    {
-      "query": "wilshire lawfirm",
-      "clicks": 31,
-      "impressions": 142,
-      "ctr": 0.21830985915492956,
-      "position": 1.0140845070422535
-    },
-    {
-      "query": "auto accident attorney california",
-      "clicks": 29,
-      "impressions": 2761,
-      "ctr": 0.010503440782325244,
-      "position": 6.2122419413256065
+      "impressions": 213,
+      "ctr": 0.1643192488262911,
+      "position": 1.0704225352112675
     },
     {
       "query": "disability discrimination",
-      "clicks": 29,
-      "impressions": 4700,
-      "ctr": 0.006170212765957447,
-      "position": 8.686808510638297
+      "clicks": 35,
+      "impressions": 5273,
+      "ctr": 0.006637587710980467,
+      "position": 7.991086667930969
     },
     {
-      "query": "reckless driving",
-      "clicks": 29,
-      "impressions": 3822,
-      "ctr": 0.007587650444793302,
-      "position": 10.46807953950811
+      "query": "california employment lawyer",
+      "clicks": 34,
+      "impressions": 2734,
+      "ctr": 0.012435991221653255,
+      "position": 5.2055596196049745
     },
     {
-      "query": "sutton shapiro",
+      "query": "wilshire lawfirm",
+      "clicks": 33,
+      "impressions": 154,
+      "ctr": 0.21428571428571427,
+      "position": 1.077922077922078
+    },
+    {
+      "query": "chumahan bowen",
+      "clicks": 31,
+      "impressions": 73,
+      "ctr": 0.4246575342465753,
+      "position": 1.8493150684931505
+    },
+    {
+      "query": "colin jones attorney",
+      "clicks": 31,
+      "impressions": 134,
+      "ctr": 0.23134328358208955,
+      "position": 3.925373134328358
+    },
+    {
+      "query": "willshire law",
+      "clicks": 31,
+      "impressions": 96,
+      "ctr": 0.3229166666666667,
+      "position": 1.65625
+    },
+    {
+      "query": "wilshire law firm oakland",
+      "clicks": 31,
+      "impressions": 149,
+      "ctr": 0.2080536912751678,
+      "position": 6.899328859060403
+    },
+    {
+      "query": "colin jones wilshire law firm",
+      "clicks": 30,
+      "impressions": 51,
+      "ctr": 0.5882352941176471,
+      "position": 1.7647058823529411
+    },
+    {
+      "query": "tyler woods attorney",
       "clicks": 29,
-      "impressions": 57,
-      "ctr": 0.5087719298245614,
-      "position": 1.3508771929824561
+      "impressions": 50,
+      "ctr": 0.58,
+      "position": 1.12
+    },
+    {
+      "query": "wilshire firm",
+      "clicks": 29,
+      "impressions": 84,
+      "ctr": 0.34523809523809523,
+      "position": 5.785714285714286
+    },
+    {
+      "query": "dexcom g7 lawsuit",
+      "clicks": 28,
+      "impressions": 1303,
+      "ctr": 0.021488871834228703,
+      "position": 2.3323100537221793
+    },
+    {
+      "query": "mary caruso",
+      "clicks": 28,
+      "impressions": 330,
+      "ctr": 0.08484848484848485,
+      "position": 2.209090909090909
+    },
+    {
+      "query": "employment lawyer california",
+      "clicks": 27,
+      "impressions": 1475,
+      "ctr": 0.01830508474576271,
+      "position": 5.889491525423729
     },
     {
       "query": "law firms los angeles",
       "clicks": 27,
-      "impressions": 941,
-      "ctr": 0.028692879914984058,
-      "position": 3.22422954303932
-    },
-    {
-      "query": "mary caruso",
-      "clicks": 27,
-      "impressions": 320,
-      "ctr": 0.084375,
-      "position": 2.196875
+      "impressions": 915,
+      "ctr": 0.029508196721311476,
+      "position": 2.8437158469945354
     },
     {
       "query": "rene ucros",
-      "clicks": 27,
+      "clicks": 26,
       "impressions": 63,
-      "ctr": 0.42857142857142855,
-      "position": 1.0158730158730158
+      "ctr": 0.4126984126984127,
+      "position": 1.507936507936508
     },
     {
-      "query": "tyler woods attorney",
-      "clicks": 27,
-      "impressions": 42,
-      "ctr": 0.6428571428571429,
-      "position": 1.0714285714285714
-    },
-    {
-      "query": "wilshire law firm sacramento",
-      "clicks": 27,
-      "impressions": 150,
-      "ctr": 0.18,
-      "position": 2.6866666666666665
-    },
-    {
-      "query": "employment lawyer california",
+      "query": "sutton shapiro",
       "clicks": 26,
-      "impressions": 1432,
-      "ctr": 0.018156424581005588,
-      "position": 7.631284916201118
+      "impressions": 55,
+      "ctr": 0.4727272727272727,
+      "position": 1.3636363636363638
     },
     {
-      "query": "wilshire firm",
-      "clicks": 26,
-      "impressions": 61,
-      "ctr": 0.4262295081967213,
-      "position": 2.819672131147541
-    },
-    {
-      "query": "colin jones wilshire law firm",
+      "query": "california dog bite law",
       "clicks": 25,
-      "impressions": 40,
-      "ctr": 0.625,
-      "position": 1.975
+      "impressions": 837,
+      "ctr": 0.02986857825567503,
+      "position": 4.792114695340501
+    },
+    {
+      "query": "reckless driving",
+      "clicks": 25,
+      "impressions": 2595,
+      "ctr": 0.009633911368015413,
+      "position": 16.8504816955684
+    },
+    {
+      "query": "wilshire law firm california",
+      "clicks": 25,
+      "impressions": 47,
+      "ctr": 0.5319148936170213,
+      "position": 1
+    },
+    {
+      "query": "disability discrimination examples",
+      "clicks": 24,
+      "impressions": 1178,
+      "ctr": 0.02037351443123939,
+      "position": 7.8217317487266556
+    },
+    {
+      "query": "employment lawyer",
+      "clicks": 24,
+      "impressions": 805495,
+      "ctr": 0.000029795343236146718,
+      "position": 4.405811333403683
     },
     {
       "query": "sean paisan",
-      "clicks": 25,
-      "impressions": 42,
-      "ctr": 0.5952380952380952,
+      "clicks": 24,
+      "impressions": 46,
+      "ctr": 0.5217391304347826,
       "position": 1
+    },
+    {
+      "query": "wilshire law firm class action lawsuit",
+      "clicks": 24,
+      "impressions": 280,
+      "ctr": 0.08571428571428572,
+      "position": 3.482142857142857
+    },
+    {
+      "query": "auto accident attorney california",
+      "clicks": 22,
+      "impressions": 2716,
+      "ctr": 0.008100147275405008,
+      "position": 5.708762886597938
+    },
+    {
+      "query": "megan koster",
+      "clicks": 22,
+      "impressions": 146,
+      "ctr": 0.1506849315068493,
+      "position": 1.8835616438356164
+    },
+    {
+      "query": "wilshire law firm sacramento",
+      "clicks": 22,
+      "impressions": 147,
+      "ctr": 0.14965986394557823,
+      "position": 2.0068027210884356
+    },
+    {
+      "query": "defense attorney for car accident",
+      "clicks": 21,
+      "impressions": 287,
+      "ctr": 0.07317073170731707,
+      "position": 4.459930313588851
+    },
+    {
+      "query": "wilshirelawfirm.com",
+      "clicks": 21,
+      "impressions": 290,
+      "ctr": 0.07241379310344828,
+      "position": 2.2517241379310344
+    },
+    {
+      "query": "andrew attia",
+      "clicks": 20,
+      "impressions": 145,
+      "ctr": 0.13793103448275862,
+      "position": 2.048275862068966
+    },
+    {
+      "query": "arrash fattahi",
+      "clicks": 20,
+      "impressions": 44,
+      "ctr": 0.45454545454545453,
+      "position": 1.0454545454545454
+    },
+    {
+      "query": "mohamed bholat",
+      "clicks": 20,
+      "impressions": 31,
+      "ctr": 0.6451612903225806,
+      "position": 1.2580645161290323
+    },
+    {
+      "query": "(213) 381-9988",
+      "clicks": 19,
+      "impressions": 70,
+      "ctr": 0.2714285714285714,
+      "position": 1.0285714285714285
+    },
+    {
+      "query": "consumer protection attorney",
+      "clicks": 19,
+      "impressions": 1858,
+      "ctr": 0.01022604951560818,
+      "position": 19.68675995694295
+    },
+    {
+      "query": "disability harassment examples",
+      "clicks": 19,
+      "impressions": 417,
+      "ctr": 0.045563549160671464,
+      "position": 3.592326139088729
+    },
+    {
+      "query": "gavin long attorney",
+      "clicks": 19,
+      "impressions": 166,
+      "ctr": 0.1144578313253012,
+      "position": 6.9156626506024095
+    },
+    {
+      "query": "rachel vinson",
+      "clicks": 19,
+      "impressions": 205,
+      "ctr": 0.09268292682926829,
+      "position": 3.765853658536585
+    },
+    {
+      "query": "stephan chichportich",
+      "clicks": 19,
+      "impressions": 34,
+      "ctr": 0.5588235294117647,
+      "position": 1.1470588235294117
+    },
+    {
+      "query": "wilshire law firm phone number",
+      "clicks": 19,
+      "impressions": 304,
+      "ctr": 0.0625,
+      "position": 4.2631578947368425
+    },
+    {
+      "query": "law firms in los angeles",
+      "clicks": 18,
+      "impressions": 877,
+      "ctr": 0.020524515393386546,
+      "position": 2.3306727480045613
+    },
+    {
+      "query": "medi-cal liens on settlements",
+      "clicks": 18,
+      "impressions": 172,
+      "ctr": 0.10465116279069768,
+      "position": 1.244186046511628
+    },
+    {
+      "query": "personal injury lawyer los angeles",
+      "clicks": 18,
+      "impressions": 17779,
+      "ctr": 0.0010124303954103155,
+      "position": 5.844873164969909
+    },
+    {
+      "query": "wilshire law firm beverly hills",
+      "clicks": 18,
+      "impressions": 103,
+      "ctr": 0.17475728155339806,
+      "position": 1.6601941747572817
+    },
+    {
+      "query": "wilshire law group los angeles",
+      "clicks": 18,
+      "impressions": 40,
+      "ctr": 0.45,
+      "position": 1
+    },
+    {
+      "query": "consumer protection lawyer california",
+      "clicks": 17,
+      "impressions": 453,
+      "ctr": 0.037527593818984545,
+      "position": 2.0110375275938193
+    },
+    {
+      "query": "jennifer leinbach",
+      "clicks": 17,
+      "impressions": 111,
+      "ctr": 0.15315315315315314,
+      "position": 4.594594594594595
+    },
+    {
+      "query": "shervin ghanoongooi",
+      "clicks": 17,
+      "impressions": 31,
+      "ctr": 0.5483870967741935,
+      "position": 3.193548387096774
+    },
+    {
+      "query": "wilshire law firm torrance",
+      "clicks": 17,
+      "impressions": 84,
+      "ctr": 0.20238095238095238,
+      "position": 6.535714285714286
+    },
+    {
+      "query": "california employment attorney",
+      "clicks": 16,
+      "impressions": 1674,
+      "ctr": 0.009557945041816009,
+      "position": 5.720430107526882
+    },
+    {
+      "query": "dog bite laws in california",
+      "clicks": 16,
+      "impressions": 286,
+      "ctr": 0.055944055944055944,
+      "position": 1.6433566433566433
+    },
+    {
+      "query": "emily borman",
+      "clicks": 16,
+      "impressions": 117,
+      "ctr": 0.13675213675213677,
+      "position": 1.3333333333333333
+    },
+    {
+      "query": "law firm",
+      "clicks": 16,
+      "impressions": 6690,
+      "ctr": 0.002391629297458894,
+      "position": 23.44783258594918
+    },
+    {
+      "query": "law firm los angeles",
+      "clicks": 16,
+      "impressions": 3990,
+      "ctr": 0.0040100250626566416,
+      "position": 14.398496240601503
+    },
+    {
+      "query": "leon lam",
+      "clicks": 16,
+      "impressions": 148,
+      "ctr": 0.10810810810810811,
+      "position": 3.074324324324324
+    },
+    {
+      "query": "reckless driving meaning",
+      "clicks": 16,
+      "impressions": 437,
+      "ctr": 0.036613272311212815,
+      "position": 2.668192219679634
+    },
+    {
+      "query": "arman salehi",
+      "clicks": 15,
+      "impressions": 102,
+      "ctr": 0.14705882352941177,
+      "position": 6.2254901960784315
+    },
+    {
+      "query": "car accident defense attorney",
+      "clicks": 15,
+      "impressions": 604,
+      "ctr": 0.024834437086092714,
+      "position": 7.506622516556291
+    },
+    {
+      "query": "car accident lawyer",
+      "clicks": 15,
+      "impressions": 842469,
+      "ctr": 0.000017804809435124617,
+      "position": 7.050895641263952
+    },
+    {
+      "query": "dexcom g7 class action lawsuit",
+      "clicks": 15,
+      "impressions": 277,
+      "ctr": 0.05415162454873646,
+      "position": 2.231046931407942
+    },
+    {
+      "query": "marisstella marinkovic",
+      "clicks": 15,
+      "impressions": 41,
+      "ctr": 0.36585365853658536,
+      "position": 3.048780487804878
+    },
+    {
+      "query": "ben haber",
+      "clicks": 14,
+      "impressions": 326,
+      "ctr": 0.04294478527607362,
+      "position": 5.0030674846625764
+    },
+    {
+      "query": "car accident defense attorney los angeles",
+      "clicks": 14,
+      "impressions": 109,
+      "ctr": 0.12844036697247707,
+      "position": 4.045871559633028
+    },
+    {
+      "query": "diego aviles",
+      "clicks": 14,
+      "impressions": 538,
+      "ctr": 0.026022304832713755,
+      "position": 5.838289962825279
+    },
+    {
+      "query": "law firms near me",
+      "clicks": 14,
+      "impressions": 1261,
+      "ctr": 0.011102299762093577,
+      "position": 15.616970658207771
+    },
+    {
+      "query": "pain and suffering",
+      "clicks": 14,
+      "impressions": 5171,
+      "ctr": 0.002707406691162251,
+      "position": 6.2672597176561595
+    },
+    {
+      "query": "carlos perez attorney",
+      "clicks": 13,
+      "impressions": 38,
+      "ctr": 0.34210526315789475,
+      "position": 6.868421052631579
+    },
+    {
+      "query": "dexcom lawsuit g7",
+      "clicks": 13,
+      "impressions": 169,
+      "ctr": 0.07692307692307693,
+      "position": 1.7396449704142012
+    },
+    {
+      "query": "disability discrimination in the workplace",
+      "clicks": 13,
+      "impressions": 849,
+      "ctr": 0.015312131919905771,
+      "position": 27.765606595995287
+    },
+    {
+      "query": "john rofael",
+      "clicks": 13,
+      "impressions": 29,
+      "ctr": 0.4482758620689655,
+      "position": 1.1724137931034484
+    },
+    {
+      "query": "nareh terzian",
+      "clicks": 13,
+      "impressions": 18,
+      "ctr": 0.7222222222222222,
+      "position": 1
+    },
+    {
+      "query": "rachel vinson attorney",
+      "clicks": 13,
+      "impressions": 26,
+      "ctr": 0.5,
+      "position": 2.1923076923076925
+    },
+    {
+      "query": "wilshire law firm la",
+      "clicks": 13,
+      "impressions": 91,
+      "ctr": 0.14285714285714285,
+      "position": 5.912087912087912
+    },
+    {
+      "query": "wiltshire law firm",
+      "clicks": 13,
+      "impressions": 45,
+      "ctr": 0.28888888888888886,
+      "position": 1.1333333333333333
+    },
+    {
+      "query": "3055 wilshire blvd fl 12, los angeles, ca 90010",
+      "clicks": 12,
+      "impressions": 297,
+      "ctr": 0.04040404040404041,
+      "position": 2.5218855218855216
+    },
+    {
+      "query": "disability discrimination act",
+      "clicks": 12,
+      "impressions": 227,
+      "ctr": 0.05286343612334802,
+      "position": 2.8237885462555066
+    },
+    {
+      "query": "personal injury attorney los angeles",
+      "clicks": 12,
+      "impressions": 14980,
+      "ctr": 0.0008010680907877169,
+      "position": 7.950600801068091
+    },
+    {
+      "query": "wilshire law firm photos",
+      "clicks": 12,
+      "impressions": 80,
+      "ctr": 0.15,
+      "position": 2.8125
+    },
+    {
+      "query": "wilshire law firm reviews",
+      "clicks": 12,
+      "impressions": 1731,
+      "ctr": 0.006932409012131715,
+      "position": 7.723281340265743
+    },
+    {
+      "query": "wrongful termination lawyer",
+      "clicks": 12,
+      "impressions": 13189,
+      "ctr": 0.0009098491166881492,
+      "position": 16.59413147319736
+    },
+    {
+      "query": "accident defense attorney",
+      "clicks": 11,
+      "impressions": 272,
+      "ctr": 0.04044117647058824,
+      "position": 8.889705882352942
+    },
+    {
+      "query": "compensatory damages",
+      "clicks": 11,
+      "impressions": 6498,
+      "ctr": 0.001692828562634657,
+      "position": 4.317328408741151
+    },
+    {
+      "query": "dario sarmiento",
+      "clicks": 11,
+      "impressions": 163,
+      "ctr": 0.06748466257668712,
+      "position": 8.006134969325153
+    },
+    {
+      "query": "lawyers in los angeles",
+      "clicks": 11,
+      "impressions": 1297,
+      "ctr": 0.008481110254433308,
+      "position": 1.500385505011565
+    },
+    {
+      "query": "los angeles law firms",
+      "clicks": 11,
+      "impressions": 950,
+      "ctr": 0.011578947368421053,
+      "position": 4.114736842105263
+    },
+    {
+      "query": "matthew biernat",
+      "clicks": 11,
+      "impressions": 28,
+      "ctr": 0.39285714285714285,
+      "position": 1.2857142857142856
+    },
+    {
+      "query": "samantha costa",
+      "clicks": 11,
+      "impressions": 150,
+      "ctr": 0.07333333333333333,
+      "position": 6.38
+    },
+    {
+      "query": "services offered by wilshire law firm plc",
+      "clicks": 11,
+      "impressions": 40,
+      "ctr": 0.275,
+      "position": 1.65
+    },
+    {
+      "query": "wilshirelaw",
+      "clicks": 11,
+      "impressions": 65,
+      "ctr": 0.16923076923076924,
+      "position": 6.7384615384615385
+    },
+    {
+      "query": "worst freeway in california",
+      "clicks": 11,
+      "impressions": 64,
+      "ctr": 0.171875,
+      "position": 1.78125
+    },
+    {
+      "query": "ariella perry",
+      "clicks": 10,
+      "impressions": 40,
+      "ctr": 0.25,
+      "position": 1.275
+    },
+    {
+      "query": "auto accident defense attorney",
+      "clicks": 10,
+      "impressions": 280,
+      "ctr": 0.03571428571428571,
+      "position": 12.153571428571428
+    },
+    {
+      "query": "california auto accident laywer",
+      "clicks": 10,
+      "impressions": 151,
+      "ctr": 0.06622516556291391,
+      "position": 4.205298013245033
+    },
+    {
+      "query": "california car accident lawyer",
+      "clicks": 10,
+      "impressions": 5150,
+      "ctr": 0.001941747572815534,
+      "position": 5.76757281553398
+    },
+    {
+      "query": "gabriella sole",
+      "clicks": 10,
+      "impressions": 21,
+      "ctr": 0.47619047619047616,
+      "position": 1
+    },
+    {
+      "query": "law firms",
+      "clicks": 10,
+      "impressions": 517,
+      "ctr": 0.019342359767891684,
+      "position": 7.029013539651838
+    },
+    {
+      "query": "lawyer los angeles",
+      "clicks": 10,
+      "impressions": 1194,
+      "ctr": 0.008375209380234505,
+      "position": 4.7621440536013395
+    },
+    {
+      "query": "mary caruso attorney",
+      "clicks": 10,
+      "impressions": 12,
+      "ctr": 0.8333333333333334,
+      "position": 1.0833333333333333
+    },
+    {
+      "query": "personal injury lawyer california",
+      "clicks": 10,
+      "impressions": 7419,
+      "ctr": 0.0013478905512872355,
+      "position": 6.643617738239655
+    },
+    {
+      "query": "premises liability california",
+      "clicks": 10,
+      "impressions": 508,
+      "ctr": 0.01968503937007874,
+      "position": 33.81496062992126
+    },
+    {
+      "query": "raisa rosa",
+      "clicks": 10,
+      "impressions": 35,
+      "ctr": 0.2857142857142857,
+      "position": 1.0857142857142856
+    },
+    {
+      "query": "thiago m. coelho",
+      "clicks": 10,
+      "impressions": 17,
+      "ctr": 0.5882352941176471,
+      "position": 1
+    },
+    {
+      "query": "what to do after a car accident",
+      "clicks": 10,
+      "impressions": 1166,
+      "ctr": 0.008576329331046312,
+      "position": 3.3970840480274442
+    },
+    {
+      "query": "whilshire law",
+      "clicks": 10,
+      "impressions": 29,
+      "ctr": 0.3448275862068966,
+      "position": 1.0689655172413792
+    },
+    {
+      "query": "wrongful termination lawyer california",
+      "clicks": 10,
+      "impressions": 1009,
+      "ctr": 0.009910802775024777,
+      "position": 5.199207135777998
+    },
+    {
+      "query": "wrongfully terminated",
+      "clicks": 10,
+      "impressions": 1551,
+      "ctr": 0.006447453255963894,
+      "position": 1.513217279174726
+    },
+    {
+      "query": "3 examples of disability discrimination at work",
+      "clicks": 9,
+      "impressions": 696,
+      "ctr": 0.01293103448275862,
+      "position": 5.781609195402299
+    },
+    {
+      "query": "anup mehta",
+      "clicks": 9,
+      "impressions": 127,
+      "ctr": 0.07086614173228346,
+      "position": 3.2913385826771653
+    },
+    {
+      "query": "benjamin haber",
+      "clicks": 9,
+      "impressions": 308,
+      "ctr": 0.02922077922077922,
+      "position": 4.607142857142858
+    },
+    {
+      "query": "california auto accident lawyer",
+      "clicks": 9,
+      "impressions": 2385,
+      "ctr": 0.0037735849056603774,
+      "position": 5.30230607966457
+    },
+    {
+      "query": "california dog bite laws",
+      "clicks": 9,
+      "impressions": 174,
+      "ctr": 0.05172413793103448,
+      "position": 2.954022988505747
+    },
+    {
+      "query": "charity rieck",
+      "clicks": 9,
+      "impressions": 23,
+      "ctr": 0.391304347826087,
+      "position": 2.0869565217391304
+    },
+    {
+      "query": "disability discrimination in the workplace examples",
+      "clicks": 9,
+      "impressions": 217,
+      "ctr": 0.041474654377880185,
+      "position": 2.1566820276497696
+    },
+    {
+      "query": "examples of disability discrimination in the workplace",
+      "clicks": 9,
+      "impressions": 245,
+      "ctr": 0.036734693877551024,
+      "position": 11.204081632653061
+    },
+    {
+      "query": "heriberto ponce",
+      "clicks": 9,
+      "impressions": 53,
+      "ctr": 0.16981132075471697,
+      "position": 1.2452830188679245
+    },
+    {
+      "query": "jason lieber",
+      "clicks": 9,
+      "impressions": 142,
+      "ctr": 0.06338028169014084,
+      "position": 1.9929577464788732
+    },
+    {
+      "query": "jesenia martinez",
+      "clicks": 9,
+      "impressions": 61,
+      "ctr": 0.14754098360655737,
+      "position": 2.6557377049180326
+    },
+    {
+      "query": "rita mims",
+      "clicks": 9,
+      "impressions": 30,
+      "ctr": 0.3,
+      "position": 1.3333333333333333
+    },
+    {
+      "query": "what happens if someone sues you for more than your insurance covers",
+      "clicks": 9,
+      "impressions": 896,
+      "ctr": 0.010044642857142858,
+      "position": 3.478794642857143
+    },
+    {
+      "query": "yes",
+      "clicks": 9,
+      "impressions": 140,
+      "ctr": 0.06428571428571428,
+      "position": 3.9357142857142855
+    },
+    {
+      "query": "ambulance chaser",
+      "clicks": 8,
+      "impressions": 3169,
+      "ctr": 0.0025244556642473968,
+      "position": 3.267907857368255
+    },
+    {
+      "query": "california employment lawyers",
+      "clicks": 8,
+      "impressions": 1502,
+      "ctr": 0.005326231691078562,
+      "position": 8.005992010652463
+    },
+    {
+      "query": "dog bite laws california",
+      "clicks": 8,
+      "impressions": 692,
+      "ctr": 0.011560693641618497,
+      "position": 2.75
+    },
+    {
+      "query": "edwin salguero",
+      "clicks": 8,
+      "impressions": 35,
+      "ctr": 0.22857142857142856,
+      "position": 1.5714285714285714
+    },
+    {
+      "query": "facts about sexual harassment",
+      "clicks": 8,
+      "impressions": 178,
+      "ctr": 0.0449438202247191,
+      "position": 5.808988764044944
+    },
+    {
+      "query": "how to join dexcom g7 lawsuit",
+      "clicks": 8,
+      "impressions": 248,
+      "ctr": 0.03225806451612903,
+      "position": 3.975806451612903
+    },
+    {
+      "query": "jon teller attorney",
+      "clicks": 8,
+      "impressions": 53,
+      "ctr": 0.1509433962264151,
+      "position": 6.584905660377358
+    },
+    {
+      "query": "julie lu",
+      "clicks": 8,
+      "impressions": 284,
+      "ctr": 0.028169014084507043,
+      "position": 1.6161971830985915
+    },
+    {
+      "query": "la film school lawsuit",
+      "clicks": 8,
+      "impressions": 106,
+      "ctr": 0.07547169811320754,
+      "position": 1.8867924528301887
+    },
+    {
+      "query": "lauren lendzion",
+      "clicks": 8,
+      "impressions": 75,
+      "ctr": 0.10666666666666667,
+      "position": 4.493333333333333
+    },
+    {
+      "query": "los angeles motorcycle accident lawyer",
+      "clicks": 8,
+      "impressions": 9977,
+      "ctr": 0.0008018442417560389,
+      "position": 2.0651498446426784
+    },
+    {
+      "query": "matt biernat",
+      "clicks": 8,
+      "impressions": 34,
+      "ctr": 0.23529411764705882,
+      "position": 1.2941176470588236
+    },
+    {
+      "query": "nicole hajjar",
+      "clicks": 8,
+      "impressions": 100,
+      "ctr": 0.08,
+      "position": 3.03
+    },
+    {
+      "query": "personal injury law firm",
+      "clicks": 8,
+      "impressions": 17991,
+      "ctr": 0.0004446667778333611,
+      "position": 36.073647935078654
+    },
+    {
+      "query": "uber driver lawsuit",
+      "clicks": 8,
+      "impressions": 290,
+      "ctr": 0.027586206896551724,
+      "position": 4.751724137931035
+    },
+    {
+      "query": "wilshire law firm plc photos",
+      "clicks": 8,
+      "impressions": 60,
+      "ctr": 0.13333333333333333,
+      "position": 15.533333333333333
+    },
+    {
+      "query": "wilshire law firm wrongful termination",
+      "clicks": 8,
+      "impressions": 53,
+      "ctr": 0.1509433962264151,
+      "position": 1
+    },
+    {
+      "query": "auto repair negligence attorney",
+      "clicks": 7,
+      "impressions": 274,
+      "ctr": 0.025547445255474453,
+      "position": 10.372262773722628
+    },
+    {
+      "query": "ca employment lawyer",
+      "clicks": 7,
+      "impressions": 157,
+      "ctr": 0.044585987261146494,
+      "position": 4.159235668789809
+    },
+    {
+      "query": "california consumer protection attorney",
+      "clicks": 7,
+      "impressions": 215,
+      "ctr": 0.03255813953488372,
+      "position": 3.66046511627907
+    },
+    {
+      "query": "california premises liability",
+      "clicks": 7,
+      "impressions": 438,
+      "ctr": 0.01598173515981735,
+      "position": 30.335616438356166
+    },
+    {
+      "query": "class action attorneys",
+      "clicks": 7,
+      "impressions": 1594,
+      "ctr": 0.00439146800501882,
+      "position": 37.31367628607277
+    },
+    {
+      "query": "data breach attorney california",
+      "clicks": 7,
+      "impressions": 44,
+      "ctr": 0.1590909090909091,
+      "position": 1.5454545454545454
+    },
+    {
+      "query": "examples of disability discrimination",
+      "clicks": 7,
+      "impressions": 147,
+      "ctr": 0.047619047619047616,
+      "position": 6.204081632653061
+    },
+    {
+      "query": "g7 lawsuit",
+      "clicks": 7,
+      "impressions": 89,
+      "ctr": 0.07865168539325842,
+      "position": 2.426966292134831
+    },
+    {
+      "query": "how much can medi-cal take from a settlement",
+      "clicks": 7,
+      "impressions": 54,
+      "ctr": 0.12962962962962962,
+      "position": 1.7222222222222223
+    },
+    {
+      "query": "how to describe a car accident",
+      "clicks": 7,
+      "impressions": 79,
+      "ctr": 0.08860759493670886,
+      "position": 1.4430379746835442
+    },
+    {
+      "query": "jesus torres",
+      "clicks": 7,
+      "impressions": 1481,
+      "ctr": 0.004726536124240378,
+      "position": 4.888588791357192
+    },
+    {
+      "query": "jon teller",
+      "clicks": 7,
+      "impressions": 222,
+      "ctr": 0.03153153153153153,
+      "position": 8.076576576576578
+    },
+    {
+      "query": "kamaria davis",
+      "clicks": 7,
+      "impressions": 45,
+      "ctr": 0.15555555555555556,
+      "position": 1.2222222222222223
+    },
+    {
+      "query": "law firm california",
+      "clicks": 7,
+      "impressions": 4002,
+      "ctr": 0.0017491254372813594,
+      "position": 29.430284857571216
+    },
+    {
+      "query": "law office los angeles",
+      "clicks": 7,
+      "impressions": 170,
+      "ctr": 0.041176470588235294,
+      "position": 4.658823529411764
+    },
+    {
+      "query": "los angeles lawyer",
+      "clicks": 7,
+      "impressions": 2189,
+      "ctr": 0.0031978072179077205,
+      "position": 7.3481041571493835
+    },
+    {
+      "query": "personal injury lawyer",
+      "clicks": 7,
+      "impressions": 590385,
+      "ctr": 0.000011856669800215113,
+      "position": 9.64367827773402
+    },
+    {
+      "query": "rockrose data breach",
+      "clicks": 7,
+      "impressions": 61,
+      "ctr": 0.11475409836065574,
+      "position": 5.049180327868853
+    },
+    {
+      "query": "toxic work environment legal definition",
+      "clicks": 7,
+      "impressions": 91,
+      "ctr": 0.07692307692307693,
+      "position": 3.230769230769231
+    },
+    {
+      "query": "what happens if i'm at fault in a car accident california",
+      "clicks": 7,
+      "impressions": 294,
+      "ctr": 0.023809523809523808,
+      "position": 7.98639455782313
+    },
+    {
+      "query": "what happens if your dog bites someone in california",
+      "clicks": 7,
+      "impressions": 114,
+      "ctr": 0.06140350877192982,
+      "position": 1.8508771929824561
+    },
+    {
+      "query": "wilshire law firm address",
+      "clicks": 7,
+      "impressions": 116,
+      "ctr": 0.0603448275862069,
+      "position": 10.810344827586206
+    },
+    {
+      "query": "auto repair negligence lawyer",
+      "clicks": 6,
+      "impressions": 145,
+      "ctr": 0.041379310344827586,
+      "position": 3.3655172413793104
+    },
+    {
+      "query": "best class action lawsuit website",
+      "clicks": 6,
+      "impressions": 177,
+      "ctr": 0.03389830508474576,
+      "position": 16.502824858757062
+    },
+    {
+      "query": "best class action lawyers in california",
+      "clicks": 6,
+      "impressions": 120,
+      "ctr": 0.05,
+      "position": 2.783333333333333
+    },
+    {
+      "query": "california personal injury lawyers",
+      "clicks": 6,
+      "impressions": 2453,
+      "ctr": 0.0024459845087647777,
+      "position": 13.41744802282919
+    },
+    {
+      "query": "car accident lawyer california",
+      "clicks": 6,
+      "impressions": 4455,
+      "ctr": 0.0013468013468013469,
+      "position": 6.91739618406285
+    },
+    {
+      "query": "class action lawsuit lawyers",
+      "clicks": 6,
+      "impressions": 1434,
+      "ctr": 0.0041841004184100415,
+      "position": 9.259414225941423
+    },
+    {
+      "query": "daniel kramer attorney",
+      "clicks": 6,
+      "impressions": 164,
+      "ctr": 0.036585365853658534,
+      "position": 7.640243902439025
+    },
+    {
+      "query": "data breach lawyer",
+      "clicks": 6,
+      "impressions": 1025,
+      "ctr": 0.005853658536585366,
+      "position": 25.177560975609754
+    },
+    {
+      "query": "defense lawyer car accident",
+      "clicks": 6,
+      "impressions": 211,
+      "ctr": 0.02843601895734597,
+      "position": 15.696682464454977
+    },
+    {
+      "query": "dexcom class action",
+      "clicks": 6,
+      "impressions": 47,
+      "ctr": 0.1276595744680851,
+      "position": 2.404255319148936
+    },
+    {
+      "query": "disability discrimination act 1992",
+      "clicks": 6,
+      "impressions": 145,
+      "ctr": 0.041379310344827586,
+      "position": 2.8413793103448275
+    },
+    {
+      "query": "dog bites in california",
+      "clicks": 6,
+      "impressions": 68,
+      "ctr": 0.08823529411764706,
+      "position": 2.2205882352941178
     }
   ],
   "topPages": [
     {
       "page": "https://wilshirelawfirm.com/",
-      "clicks": 6378,
-      "impressions": 439825,
-      "ctr": 0.014501222076962429,
-      "position": 22.745150912294662
+      "clicks": 6196,
+      "impressions": 615569,
+      "ctr": 0.010065484129317754,
+      "position": 15.249582093965095
     },
     {
       "page": "https://wilshirelawfirm.com/our-legal-team/",
-      "clicks": 1674,
-      "impressions": 152583,
-      "ctr": 0.010971078036216355,
-      "position": 16.629008474076404
+      "clicks": 1731,
+      "impressions": 141046,
+      "ctr": 0.012272591920366406,
+      "position": 17.246586220098408
     },
     {
       "page": "https://wilshirelawfirm.com/blog/california-dog-bite-faq/",
-      "clicks": 1027,
-      "impressions": 107786,
-      "ctr": 0.009528139090419906,
-      "position": 7.402408476054404
+      "clicks": 857,
+      "impressions": 104981,
+      "ctr": 0.008163381945304388,
+      "position": 7.08864461188215
     },
     {
       "page": "https://wilshirelawfirm.com/locations/los-angeles-california/?utm_campaign=organic&utm_medium=gbp&utm_source=GBP_Los_Angeles",
@@ -1024,228 +2081,193 @@
       "position": 3.231294043524604
     },
     {
-      "page": "https://wilshirelawfirm.com/locations/los-angeles-california/?utm_campaign=gmb&utm_source=gmb",
-      "clicks": 743,
-      "impressions": 187094,
-      "ctr": 0.00397126578083744,
-      "position": 3.557447058697767
+      "page": "https://wilshirelawfirm.com/blog/5-examples-disability-discrimination-workers-applicants/",
+      "clicks": 804,
+      "impressions": 90544,
+      "ctr": 0.008879660717441245,
+      "position": 7.786358013783354
     },
     {
-      "page": "https://wilshirelawfirm.com/blog/5-examples-disability-discrimination-workers-applicants/",
-      "clicks": 722,
-      "impressions": 78546,
-      "ctr": 0.009192065795839382,
-      "position": 8.33534489343824
+      "page": "https://wilshirelawfirm.com/locations/los-angeles-california/?utm_campaign=gmb&utm_source=gmb",
+      "clicks": 691,
+      "impressions": 163734,
+      "ctr": 0.004220259689496378,
+      "position": 3.535594317612713
     },
     {
       "page": "https://wilshirelawfirm.com/contact-us/",
-      "clicks": 680,
-      "impressions": 64975,
-      "ctr": 0.010465563678337822,
-      "position": 7.840184686417853
+      "clicks": 666,
+      "impressions": 59039,
+      "ctr": 0.01128067887328715,
+      "position": 7.819390572333543
     },
     {
       "page": "https://wilshirelawfirm.com/blog/6-examples-pregnancy-accommodations-at-work/",
-      "clicks": 602,
-      "impressions": 53105,
-      "ctr": 0.011336032388663968,
-      "position": 6.2410319178985025
-    },
-    {
-      "page": "https://wilshirelawfirm.com/dexcom-class-action-lawsuit/",
-      "clicks": 520,
-      "impressions": 23416,
-      "ctr": 0.022207037922787838,
-      "position": 3.8969508028698328
-    },
-    {
-      "page": "https://wilshirelawfirm.com/locations/los-angeles-california/",
-      "clicks": 504,
-      "impressions": 158102,
-      "ctr": 0.0031878154609049853,
-      "position": 24.99197353607165
-    },
-    {
-      "page": "https://wilshirelawfirm.com/los-angeles/?utm_campaign=organic&utm_medium=gbp&utm_source=GBP_Los_Angeles",
-      "clicks": 502,
-      "impressions": 182083,
-      "ctr": 0.00275698445214545,
-      "position": 3.028349708649352
+      "clicks": 578,
+      "impressions": 56716,
+      "ctr": 0.01019112772409902,
+      "position": 5.997690246138656
     },
     {
       "page": "https://wilshirelawfirm.com/blog/importance-filing-police-report/",
-      "clicks": 495,
-      "impressions": 87162,
-      "ctr": 0.005679080333172713,
-      "position": 2.60252174112572
+      "clicks": 574,
+      "impressions": 104991,
+      "ctr": 0.005467135278261946,
+      "position": 2.6827061367164804
     },
     {
-      "page": "https://wilshirelawfirm.com/?utm_source=google&utm_medium=cpc&utm_campaign=GMB",
-      "clicks": 476,
-      "impressions": 78664,
-      "ctr": 0.006051052578053493,
-      "position": 8.81141309874911
+      "page": "https://wilshirelawfirm.com/los-angeles/?utm_campaign=organic&utm_medium=gbp&utm_source=GBP_Los_Angeles",
+      "clicks": 564,
+      "impressions": 205581,
+      "ctr": 0.0027434441898813605,
+      "position": 3.0267145310121073
+    },
+    {
+      "page": "https://wilshirelawfirm.com/locations/los-angeles-california/",
+      "clicks": 444,
+      "impressions": 116374,
+      "ctr": 0.0038152852011617716,
+      "position": 26.032464296148625
     },
     {
       "page": "https://wilshirelawfirm.com/blog/can-personal-injury-settlement-affect-medi-cal-medicaid/",
-      "clicks": 393,
-      "impressions": 29223,
-      "ctr": 0.013448311261677446,
-      "position": 7.23775793039729
+      "clicks": 415,
+      "impressions": 29640,
+      "ctr": 0.014001349527665317,
+      "position": 7.2220310391363025
     },
     {
-      "page": "https://wilshirelawfirm.com/locations/los-angeles-california/?utm_source=gmb",
-      "clicks": 388,
-      "impressions": 96915,
-      "ctr": 0.0040035082288603415,
-      "position": 3.8731362534179437
+      "page": "https://wilshirelawfirm.com/los-angeles/?utm_source=google&utm_medium=organic&utm_campaign=gbp_los_angeles",
+      "clicks": 406,
+      "impressions": 184347,
+      "ctr": 0.0022023683596695365,
+      "position": 3.1719691668429646
     },
     {
-      "page": "https://wilshirelawfirm.com/blog/overtime-pay-during-federal-holidays/",
-      "clicks": 305,
-      "impressions": 278197,
-      "ctr": 0.0010963453955290675,
-      "position": 4.33640909139926
+      "page": "https://wilshirelawfirm.com/dexcom-class-action-lawsuit/",
+      "clicks": 383,
+      "impressions": 22011,
+      "ctr": 0.017400390713734042,
+      "position": 3.966607605288265
     },
     {
       "page": "https://wilshirelawfirm.com/consumer-protection-lawyer/",
-      "clicks": 277,
-      "impressions": 34122,
-      "ctr": 0.008117929781372721,
-      "position": 24.349070980599027
-    },
-    {
-      "page": "https://wilshirelawfirm.com/blog/5-deadliest-freeways-los-angeles/",
-      "clicks": 262,
-      "impressions": 42275,
-      "ctr": 0.0061975162625665286,
-      "position": 5.227983441750443
-    },
-    {
-      "page": "https://wilshirelawfirm.com/blog/what-to-do-if-debris-hits-your-car-on-the-freeway/",
-      "clicks": 260,
-      "impressions": 40753,
-      "ctr": 0.0063798984123868184,
-      "position": 5.756901332417246
-    },
-    {
-      "page": "https://wilshirelawfirm.com/blog/toxic-work-environment-five-signs/",
-      "clicks": 253,
-      "impressions": 29988,
-      "ctr": 0.00843670801653995,
-      "position": 8.017607042817126
-    },
-    {
-      "page": "https://wilshirelawfirm.com/blog/can-you-sue-a-company-for-false-advertising/",
-      "clicks": 249,
-      "impressions": 101945,
-      "ctr": 0.0024424935013978126,
-      "position": 5.289636568738045
+      "clicks": 360,
+      "impressions": 46516,
+      "ctr": 0.007739272508384212,
+      "position": 23.511501418866626
     },
     {
       "page": "https://wilshirelawfirm.com/blog/negligent-repair-claim/",
-      "clicks": 248,
-      "impressions": 32535,
-      "ctr": 0.0076225603196557554,
-      "position": 5.899861687413555
+      "clicks": 353,
+      "impressions": 38701,
+      "ctr": 0.009121211338208314,
+      "position": 5.877238314255446
     },
     {
-      "page": "https://wilshirelawfirm.com/locations/",
-      "clicks": 244,
-      "impressions": 36504,
-      "ctr": 0.0066841989918913,
-      "position": 4.3277449046679815
+      "page": "https://wilshirelawfirm.com/?utm_source=google&utm_medium=cpc&utm_campaign=GMB",
+      "clicks": 313,
+      "impressions": 43804,
+      "ctr": 0.00714546616747329,
+      "position": 9.43354488174596
     },
     {
-      "page": "https://wilshirelawfirm.com/blog/how-to-describe-car-accident/",
-      "clicks": 237,
-      "impressions": 60529,
-      "ctr": 0.003915478530952105,
-      "position": 4.81950800442763
-    },
-    {
-      "page": "https://wilshirelawfirm.com/blog/car-accident-claims-defenses/",
-      "clicks": 228,
-      "impressions": 12417,
-      "ctr": 0.01836192316984779,
-      "position": 15.412096319561892
-    },
-    {
-      "page": "https://wilshirelawfirm.com/about-us/",
-      "clicks": 224,
-      "impressions": 43023,
-      "ctr": 0.0052065174441577764,
-      "position": 5.181158914998954
-    },
-    {
-      "page": "https://wilshirelawfirm.com/blog/can-my-employer-fire-me-for-tattoos-piercings-or-hairstyle-in-california/",
-      "clicks": 221,
-      "impressions": 50059,
-      "ctr": 0.0044147905471543574,
-      "position": 3.7869114444954954
+      "page": "https://wilshirelawfirm.com/blog/toxic-work-environment-five-signs/",
+      "clicks": 295,
+      "impressions": 34478,
+      "ctr": 0.008556180752943907,
+      "position": 6.704362201983874
     },
     {
       "page": "https://wilshirelawfirm.com/employment-lawyer/",
-      "clicks": 214,
-      "impressions": 102431,
-      "ctr": 0.0020892112739307436,
-      "position": 33.87126943991565
+      "clicks": 290,
+      "impressions": 925676,
+      "ctr": 0.0003132845617689127,
+      "position": 8.839268815438663
     },
     {
-      "page": "https://wilshirelawfirm.com/car-accident-lawyers/",
-      "clicks": 174,
-      "impressions": 505577,
-      "ctr": 0.0003441612256886686,
-      "position": 22.48705736218222
+      "page": "https://wilshirelawfirm.com/blog/how-to-describe-car-accident/",
+      "clicks": 289,
+      "impressions": 65897,
+      "ctr": 0.0043856321228584,
+      "position": 3.800552377194713
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/can-my-employer-fire-me-for-tattoos-piercings-or-hairstyle-in-california/",
+      "clicks": 266,
+      "impressions": 53276,
+      "ctr": 0.004992867332382311,
+      "position": 3.5121067647721302
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/5-deadliest-freeways-los-angeles/",
+      "clicks": 253,
+      "impressions": 42192,
+      "ctr": 0.005996397421312097,
+      "position": 4.901497914296549
+    },
+    {
+      "page": "https://wilshirelawfirm.com/locations/",
+      "clicks": 250,
+      "impressions": 32173,
+      "ctr": 0.00777049078419793,
+      "position": 3.953159481552855
+    },
+    {
+      "page": "https://wilshirelawfirm.com/about-us/",
+      "clicks": 245,
+      "impressions": 46984,
+      "ctr": 0.005214541120381407,
+      "position": 5.197748169589648
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/what-to-do-if-debris-hits-your-car-on-the-freeway/",
+      "clicks": 240,
+      "impressions": 37683,
+      "ctr": 0.006368919672000637,
+      "position": 5.990446620491999
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/car-accident-claims-defenses/",
+      "clicks": 233,
+      "impressions": 12804,
+      "ctr": 0.018197438300531082,
+      "position": 13.69181505779444
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/can-you-sue-a-company-for-false-advertising/",
+      "clicks": 217,
+      "impressions": 93871,
+      "ctr": 0.0023116830544044485,
+      "position": 5.150866614822469
+    },
+    {
+      "page": "https://wilshirelawfirm.com/class-action-lawyer/",
+      "clicks": 179,
+      "impressions": 41954,
+      "ctr": 0.004266577680316537,
+      "position": 20.71747628354865
     },
     {
       "page": "https://wilshirelawfirm.com/executive-team/",
-      "clicks": 165,
-      "impressions": 14214,
-      "ctr": 0.011608273533136345,
-      "position": 8.629871957225271
+      "clicks": 178,
+      "impressions": 8990,
+      "ctr": 0.019799777530589546,
+      "position": 8.520133481646273
     },
     {
       "page": "https://wilshirelawfirm.com/blog/how-do-you-prove-a-traumatic-brain-injury-in-court/",
       "clicks": 163,
-      "impressions": 30632,
-      "ctr": 0.005321232697832332,
-      "position": 8.273243666753721
+      "impressions": 29056,
+      "ctr": 0.005609856828193833,
+      "position": 7.5554102422907485
     },
     {
-      "page": "https://wilshirelawfirm.com/legalteam/thiago-coelho-esq/",
-      "clicks": 162,
-      "impressions": 1311,
-      "ctr": 0.12356979405034325,
-      "position": 6.478260869565218
-    },
-    {
-      "page": "https://wilshirelawfirm.com/locations/orange-california/?utm_source=gmb",
-      "clicks": 156,
-      "impressions": 56392,
-      "ctr": 0.0027663498368562917,
-      "position": 6.171620087955739
-    },
-    {
-      "page": "https://wilshirelawfirm.com/blog/what-to-do-when-you-get-fired-unfairly/",
-      "clicks": 151,
-      "impressions": 41303,
-      "ctr": 0.0036559087717599205,
-      "position": 6.725056291310558
-    },
-    {
-      "page": "https://wilshirelawfirm.com/california-employment-lawyer/",
-      "clicks": 151,
-      "impressions": 62466,
-      "ctr": 0.0024173150193705375,
-      "position": 34.72650721992764
-    },
-    {
-      "page": "https://wilshirelawfirm.com/blog/what-is-considered-reckless-driving/",
-      "clicks": 150,
-      "impressions": 35122,
-      "ctr": 0.0042708274016286085,
-      "position": 6.085046409657765
+      "page": "https://wilshirelawfirm.com/blog/pain-and-suffering/",
+      "clicks": 157,
+      "impressions": 63997,
+      "ctr": 0.0024532399956247947,
+      "position": 6.5266965639014325
     },
     {
       "page": "https://wilshirelawfirm.com/locations/oakland-california?utm_campaign=organic&utm_medium=gbp&utm_source=GBP_Oakland",
@@ -1255,96 +2277,1537 @@
       "position": 4.819862268938021
     },
     {
-      "page": "https://wilshirelawfirm.com/california-consumer-protection-lawyer/",
-      "clicks": 146,
-      "impressions": 17660,
-      "ctr": 0.00826727066817667,
-      "position": 26.0257644394111
-    },
-    {
-      "page": "https://wilshirelawfirm.com/blog/injury-compensation/",
-      "clicks": 145,
-      "impressions": 106508,
-      "ctr": 0.0013614000826229016,
-      "position": 6.051667480377061
+      "page": "https://wilshirelawfirm.com/blog/what-is-considered-reckless-driving/",
+      "clicks": 149,
+      "impressions": 33446,
+      "ctr": 0.004454942295042756,
+      "position": 6.723345093583687
     },
     {
       "page": "https://wilshirelawfirm.com/settlements/",
-      "clicks": 132,
-      "impressions": 10104,
-      "ctr": 0.013064133016627079,
-      "position": 6.4126088677751385
+      "clicks": 149,
+      "impressions": 13508,
+      "ctr": 0.011030500444181225,
+      "position": 6.064628368374296
     },
     {
-      "page": "https://wilshirelawfirm.com/los-angeles-film-school-lawsuit/",
-      "clicks": 126,
-      "impressions": 11017,
-      "ctr": 0.011436870291367886,
-      "position": 4.572388127439412
-    },
-    {
-      "page": "https://wilshirelawfirm.com/class-action-lawyer/",
-      "clicks": 124,
-      "impressions": 30046,
-      "ctr": 0.004127005258603475,
-      "position": 21.282500166411502
-    },
-    {
-      "page": "https://wilshirelawfirm.com/blog/uber-class-action-lawsuit-update/",
-      "clicks": 120,
-      "impressions": 8884,
-      "ctr": 0.0135074290859973,
-      "position": 12.744371904547501
+      "page": "https://wilshirelawfirm.com/car-accident-lawyers/",
+      "clicks": 147,
+      "impressions": 1248641,
+      "ctr": 0.00011772799387494084,
+      "position": 12.145643143225314
     },
     {
       "page": "https://wilshirelawfirm.com/data-privacy-lawyer/",
-      "clicks": 113,
-      "impressions": 15032,
-      "ctr": 0.00751729643427355,
-      "position": 32.960883448642896
+      "clicks": 146,
+      "impressions": 19899,
+      "ctr": 0.007337052113171517,
+      "position": 31.74159505502789
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/what-happens-if-someone-sues-you-for-more-than-your-insurance-covers/",
+      "clicks": 141,
+      "impressions": 13996,
+      "ctr": 0.010074306944841384,
+      "position": 4.672692197770791
+    },
+    {
+      "page": "https://wilshirelawfirm.com/legalteam/thiago-coelho-esq/",
+      "clicks": 138,
+      "impressions": 898,
+      "ctr": 0.15367483296213807,
+      "position": 6.310690423162583
+    },
+    {
+      "page": "https://wilshirelawfirm.com/legal-team/colin-m-jones-esq/",
+      "clicks": 136,
+      "impressions": 3200,
+      "ctr": 0.0425,
+      "position": 10.5021875
+    },
+    {
+      "page": "https://wilshirelawfirm.com/blog/what-to-do-when-you-get-fired-unfairly/",
+      "clicks": 128,
+      "impressions": 41896,
+      "ctr": 0.003055184265801031,
+      "position": 6.366455031506588
+    },
+    {
+      "page": "https://wilshirelawfirm.com/los-angeles-film-school-lawsuit/",
+      "clicks": 127,
+      "impressions": 11503,
+      "ctr": 0.011040598104842215,
+      "position": 4.420238198730766
+    },
+    {
+      "page": "https://wilshirelawfirm.com/locations/orange-california/?utm_source=gmb",
+      "clicks": 125,
+      "impressions": 44865,
+      "ctr": 0.0027861361863367883,
+      "position": 6.413574055499833
     },
     {
       "page": "https://wilshirelawfirm.com/contact/?utm_source=google&utm_medium=organic&utm_campaign=mapsappointments",
       "clicks": 112,
-      "impressions": 18070,
-      "ctr": 0.006198118428334256,
-      "position": 11.649086884338683
+      "impressions": 20276,
+      "ctr": 0.005523771947129611,
+      "position": 11.858847898993885
     },
     {
-      "page": "https://wilshirelawfirm.com/blog/what-happens-if-someone-sues-you-for-more-than-your-insurance-covers/",
-      "clicks": 111,
-      "impressions": 12024,
-      "ctr": 0.009231536926147704,
-      "position": 4.889637391882901
+      "page": "https://wilshirelawfirm.com/blog/overtime-pay-during-federal-holidays/",
+      "clicks": 105,
+      "impressions": 103779,
+      "ctr": 0.0010117653860607638,
+      "position": 4.703591285327475
     },
     {
       "page": "https://wilshirelawfirm.com/blog/12-most-important-bike-laws-in-california/",
-      "clicks": 97,
-      "impressions": 43549,
-      "ctr": 0.00222737605915176,
-      "position": 9.771705435256838
+      "clicks": 102,
+      "impressions": 44590,
+      "ctr": 0.0022875084099573894,
+      "position": 9.989840771473425
     },
     {
-      "page": "https://wilshirelawfirm.com/legal-team/colin-m-jones-esq/",
+      "page": "https://wilshirelawfirm.com/legal-team/ryan-casey/",
+      "clicks": 98,
+      "impressions": 756,
+      "ctr": 0.12962962962962962,
+      "position": 6.501322751322752
+    },
+    {
+      "page": "https://wilshirelawfirm.com/legal-team/john-g-yslas-esq/",
       "clicks": 95,
-      "impressions": 2267,
-      "ctr": 0.04190560211733568,
-      "position": 10.745037494486105
+      "impressions": 1311,
+      "ctr": 0.07246376811594203,
+      "position": 9.276125095347064
     },
     {
-      "page": "https://wilshirelawfirm.com/blog/express-lanes-can-motorcyclist-use-free/",
-      "clicks": 92,
-      "impressions": 8427,
-      "ctr": 0.010917289664174677,
-      "position": 7.864720541117835
+      "page": "https://wilshirelawfirm.com/legal-team/thiago-coelho-esq/",
+      "clicks": 89,
+      "impressions": 1398,
+      "ctr": 0.06366237482117311,
+      "position": 7.571530758226038
     },
     {
-      "page": "https://wilshirelawfirm.com/es/abogados-de-demandas-colectivas/demanda-colectiva-uber/",
-      "clicks": 87,
-      "impressions": 3987,
-      "ctr": 0.0218209179834462,
-      "position": 7.330323551542513
+      "page": "https://wilshirelawfirm.com/wrongful-termination-lawyer/",
+      "clicks": 81,
+      "impressions": 51340,
+      "ctr": 0.0015777171795870665,
+      "position": 18.400895987534085
+    },
+    {
+      "page": "https://wilshirelawfirm.com/legal-team/mary-lee-caruso-esq/",
+      "clicks": 80,
+      "impressions": 1222,
+      "ctr": 0.06546644844517185,
+      "position": 9.215220949263502
     }
   ],
-  "fetchedAt": "2026-03-18T13:07:59.847Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "wilshire law firm",
+      "clicks": 6426,
+      "impressions": 22947,
+      "ctr": 0.28003660609229963,
+      "position": 1.1223253584346538
+    },
+    {
+      "query": "wilshire law",
+      "clicks": 387,
+      "impressions": 1324,
+      "ctr": 0.29229607250755285,
+      "position": 1.1638972809667674
+    },
+    {
+      "query": "wilshire law firm plc",
+      "clicks": 324,
+      "impressions": 1149,
+      "ctr": 0.2819843342036554,
+      "position": 1.0156657963446476
+    },
+    {
+      "query": "wilshire law firm los angeles",
+      "clicks": 318,
+      "impressions": 2208,
+      "ctr": 0.14402173913043478,
+      "position": 1.0122282608695652
+    },
+    {
+      "query": "car accident lawyer los angeles los angeles motorcycle accident attorneys",
+      "clicks": 160,
+      "impressions": 186,
+      "ctr": 0.8602150537634409,
+      "position": 1.1666666666666667
+    },
+    {
+      "query": "consumer protection lawyer",
+      "clicks": 134,
+      "impressions": 7985,
+      "ctr": 0.01678146524733876,
+      "position": 33.86662492172824
+    },
+    {
+      "query": "wilshire law group",
+      "clicks": 133,
+      "impressions": 369,
+      "ctr": 0.3604336043360434,
+      "position": 1.056910569105691
+    },
+    {
+      "query": "wilshire law firm careers",
+      "clicks": 117,
+      "impressions": 332,
+      "ctr": 0.35240963855421686,
+      "position": 2.129518072289157
+    },
+    {
+      "query": "motorcycle accident injury lawyer in california",
+      "clicks": 97,
+      "impressions": 266,
+      "ctr": 0.36466165413533835,
+      "position": 2.048872180451128
+    },
+    {
+      "query": "daniel desantis",
+      "clicks": 95,
+      "impressions": 507,
+      "ctr": 0.1873767258382643,
+      "position": 1.8717948717948718
+    },
+    {
+      "query": "motorcycle accident injury lawyer california",
+      "clicks": 90,
+      "impressions": 102,
+      "ctr": 0.8823529411764706,
+      "position": 2
+    },
+    {
+      "query": "wilshire law firm locations",
+      "clicks": 88,
+      "impressions": 218,
+      "ctr": 0.4036697247706422,
+      "position": 1.0642201834862386
+    },
+    {
+      "query": "los angeles motorcycle accident injury lawyer",
+      "clicks": 87,
+      "impressions": 94,
+      "ctr": 0.925531914893617,
+      "position": 1.2340425531914894
+    },
+    {
+      "query": "top los angeles motorcycle accident lawyer",
+      "clicks": 86,
+      "impressions": 113,
+      "ctr": 0.7610619469026548,
+      "position": 1.5486725663716814
+    },
+    {
+      "query": "motorcycle accident attorney los angeles personal injury lawyer",
+      "clicks": 79,
+      "impressions": 103,
+      "ctr": 0.7669902912621359,
+      "position": 1.1650485436893203
+    },
+    {
+      "query": "california motorcycle accident lawyer",
+      "clicks": 78,
+      "impressions": 4497,
+      "ctr": 0.01734489659773182,
+      "position": 5.484322881921281
+    },
+    {
+      "query": "the wilshire law firm",
+      "clicks": 78,
+      "impressions": 202,
+      "ctr": 0.38613861386138615,
+      "position": 1.0495049504950495
+    },
+    {
+      "query": "consumer protection attorney",
+      "clicks": 76,
+      "impressions": 4338,
+      "ctr": 0.01751959428307976,
+      "position": 29.34439834024896
+    },
+    {
+      "query": "facts about sexual harassment",
+      "clicks": 75,
+      "impressions": 418,
+      "ctr": 0.17942583732057416,
+      "position": 1.7248803827751196
+    },
+    {
+      "query": "motorcycle accident lawyer southern california",
+      "clicks": 75,
+      "impressions": 108,
+      "ctr": 0.6944444444444444,
+      "position": 1.6944444444444444
+    },
+    {
+      "query": "wilshire law firm, plc",
+      "clicks": 75,
+      "impressions": 175,
+      "ctr": 0.42857142857142855,
+      "position": 1
+    },
+    {
+      "query": "john yslas",
+      "clicks": 71,
+      "impressions": 118,
+      "ctr": 0.6016949152542372,
+      "position": 1
+    },
+    {
+      "query": "molly desario",
+      "clicks": 68,
+      "impressions": 132,
+      "ctr": 0.5151515151515151,
+      "position": 1
+    },
+    {
+      "query": "willshire law firm",
+      "clicks": 68,
+      "impressions": 200,
+      "ctr": 0.34,
+      "position": 1.18
+    },
+    {
+      "query": "best los angeles motorcycle accident lawyer",
+      "clicks": 67,
+      "impressions": 100,
+      "ctr": 0.67,
+      "position": 1.26
+    },
+    {
+      "query": "wilshire law firm class action lawsuit",
+      "clicks": 67,
+      "impressions": 365,
+      "ctr": 0.18356164383561643,
+      "position": 1.3205479452054796
+    },
+    {
+      "query": "wilshirelawfirm",
+      "clicks": 67,
+      "impressions": 139,
+      "ctr": 0.48201438848920863,
+      "position": 1.2158273381294964
+    },
+    {
+      "query": "wilshire law firm attorneys",
+      "clicks": 65,
+      "impressions": 106,
+      "ctr": 0.6132075471698113,
+      "position": 1
+    },
+    {
+      "query": "fawn bekam",
+      "clicks": 63,
+      "impressions": 94,
+      "ctr": 0.6702127659574468,
+      "position": 1
+    },
+    {
+      "query": "best motorcycle accident lawyer la",
+      "clicks": 62,
+      "impressions": 103,
+      "ctr": 0.6019417475728155,
+      "position": 1.29126213592233
+    },
+    {
+      "query": "disability discrimination examples",
+      "clicks": 62,
+      "impressions": 2177,
+      "ctr": 0.02847955902618282,
+      "position": 6.176389526871842
+    },
+    {
+      "query": "motorcycle accident lawyer in ca",
+      "clicks": 59,
+      "impressions": 150,
+      "ctr": 0.3933333333333333,
+      "position": 1.96
+    },
+    {
+      "query": "wilshire law firm reviews",
+      "clicks": 58,
+      "impressions": 1615,
+      "ctr": 0.03591331269349845,
+      "position": 3.7139318885448915
+    },
+    {
+      "query": "law firm",
+      "clicks": 56,
+      "impressions": 28058,
+      "ctr": 0.001995865706750303,
+      "position": 49.31363603963219
+    },
+    {
+      "query": "motorcycle accident lawyer ca",
+      "clicks": 55,
+      "impressions": 371,
+      "ctr": 0.14824797843665768,
+      "position": 6.226415094339623
+    },
+    {
+      "query": "nathan kingery",
+      "clicks": 55,
+      "impressions": 93,
+      "ctr": 0.5913978494623656,
+      "position": 1
+    },
+    {
+      "query": "213-381-9988",
+      "clicks": 52,
+      "impressions": 175,
+      "ctr": 0.29714285714285715,
+      "position": 1.022857142857143
+    },
+    {
+      "query": "thiago coelho",
+      "clicks": 51,
+      "impressions": 126,
+      "ctr": 0.40476190476190477,
+      "position": 2.253968253968254
+    },
+    {
+      "query": "whilshire law firm",
+      "clicks": 51,
+      "impressions": 128,
+      "ctr": 0.3984375,
+      "position": 1.0390625
+    },
+    {
+      "query": "car accident lawyer wilshire law firm",
+      "clicks": 49,
+      "impressions": 67,
+      "ctr": 0.7313432835820896,
+      "position": 1.0149253731343284
+    },
+    {
+      "query": "angeles motorcycle accident lawyer",
+      "clicks": 47,
+      "impressions": 92,
+      "ctr": 0.5108695652173914,
+      "position": 1.3478260869565217
+    },
+    {
+      "query": "compensatory damages",
+      "clicks": 47,
+      "impressions": 7884,
+      "ctr": 0.005961440892947742,
+      "position": 6.667047184170472
+    },
+    {
+      "query": "california employment lawyer",
+      "clicks": 46,
+      "impressions": 2272,
+      "ctr": 0.020246478873239437,
+      "position": 3.921654929577465
+    },
+    {
+      "query": "gavin long attorney",
+      "clicks": 46,
+      "impressions": 158,
+      "ctr": 0.2911392405063291,
+      "position": 3.4430379746835444
+    },
+    {
+      "query": "data privacy lawyer",
+      "clicks": 45,
+      "impressions": 2192,
+      "ctr": 0.02052919708029197,
+      "position": 53.92837591240876
+    },
+    {
+      "query": "car accident person injury lawyer california",
+      "clicks": 43,
+      "impressions": 107,
+      "ctr": 0.40186915887850466,
+      "position": 1.8130841121495327
+    },
+    {
+      "query": "best motorcycle accident lawyer in la",
+      "clicks": 42,
+      "impressions": 76,
+      "ctr": 0.5526315789473685,
+      "position": 1.3947368421052633
+    },
+    {
+      "query": "can you sue for false advertising",
+      "clicks": 42,
+      "impressions": 2293,
+      "ctr": 0.01831661578717837,
+      "position": 3.1351940689053643
+    },
+    {
+      "query": "wilshire law firm jobs",
+      "clicks": 42,
+      "impressions": 279,
+      "ctr": 0.15053763440860216,
+      "position": 3.1792114695340503
+    },
+    {
+      "query": "false advertising lawsuit",
+      "clicks": 41,
+      "impressions": 2198,
+      "ctr": 0.0186533212010919,
+      "position": 4.034576888080073
+    },
+    {
+      "query": "find the best motorcycle accident lawyer in la",
+      "clicks": 41,
+      "impressions": 92,
+      "ctr": 0.44565217391304346,
+      "position": 1.5652173913043477
+    },
+    {
+      "query": "california dog bite law",
+      "clicks": 40,
+      "impressions": 1146,
+      "ctr": 0.034904013961605584,
+      "position": 3.5113438045375216
+    },
+    {
+      "query": "class action lawsuit california",
+      "clicks": 38,
+      "impressions": 2169,
+      "ctr": 0.01751959428307976,
+      "position": 7.774089442139235
+    },
+    {
+      "query": "daniel desantis attorney",
+      "clicks": 38,
+      "impressions": 55,
+      "ctr": 0.6909090909090909,
+      "position": 1.1818181818181819
+    },
+    {
+      "query": "wilshire lawfirm",
+      "clicks": 37,
+      "impressions": 155,
+      "ctr": 0.23870967741935484,
+      "position": 1.167741935483871
+    },
+    {
+      "query": "southern california motorcycle accident lawyer",
+      "clicks": 35,
+      "impressions": 329,
+      "ctr": 0.10638297872340426,
+      "position": 3.3799392097264436
+    },
+    {
+      "query": "2133819988",
+      "clicks": 34,
+      "impressions": 141,
+      "ctr": 0.24113475177304963,
+      "position": 1
+    },
+    {
+      "query": "cyrus wilkes",
+      "clicks": 34,
+      "impressions": 46,
+      "ctr": 0.7391304347826086,
+      "position": 1.2173913043478262
+    },
+    {
+      "query": "employment lawyer california",
+      "clicks": 33,
+      "impressions": 1349,
+      "ctr": 0.02446256486286138,
+      "position": 3.971830985915493
+    },
+    {
+      "query": "josh teller",
+      "clicks": 33,
+      "impressions": 161,
+      "ctr": 0.20496894409937888,
+      "position": 1.0124223602484472
+    },
+    {
+      "query": "motorcycle accident lawyer california",
+      "clicks": 33,
+      "impressions": 2294,
+      "ctr": 0.014385353095030515,
+      "position": 2.020052310374891
+    },
+    {
+      "query": "motorcycle accident lawyer los angeles ca",
+      "clicks": 33,
+      "impressions": 314,
+      "ctr": 0.10509554140127389,
+      "position": 1.3853503184713376
+    },
+    {
+      "query": "nicol hajjar",
+      "clicks": 33,
+      "impressions": 52,
+      "ctr": 0.6346153846153846,
+      "position": 1
+    },
+    {
+      "query": "wilshire law firm oakland",
+      "clicks": 33,
+      "impressions": 141,
+      "ctr": 0.23404255319148937,
+      "position": 1.0141843971631206
+    },
+    {
+      "query": "is it illegal to hire undocumented workers in california",
+      "clicks": 32,
+      "impressions": 554,
+      "ctr": 0.05776173285198556,
+      "position": 2.268953068592058
+    },
+    {
+      "query": "rene ucros",
+      "clicks": 32,
+      "impressions": 48,
+      "ctr": 0.6666666666666666,
+      "position": 1
+    },
+    {
+      "query": "what happens if i'm at fault in a car accident california",
+      "clicks": 32,
+      "impressions": 1538,
+      "ctr": 0.02080624187256177,
+      "position": 3.954486345903771
+    },
+    {
+      "query": "arman salehi",
+      "clicks": 31,
+      "impressions": 53,
+      "ctr": 0.5849056603773585,
+      "position": 2.7924528301886795
+    },
+    {
+      "query": "disability discrimination in the workplace",
+      "clicks": 31,
+      "impressions": 1297,
+      "ctr": 0.023901310717039322,
+      "position": 17.25751734772552
+    },
+    {
+      "query": "wrongfully terminated",
+      "clicks": 31,
+      "impressions": 3713,
+      "ctr": 0.008349043899811474,
+      "position": 10.665768920010773
+    },
+    {
+      "query": "arsine grigoryan",
+      "clicks": 30,
+      "impressions": 44,
+      "ctr": 0.6818181818181818,
+      "position": 1
+    },
+    {
+      "query": "motorcycle accident lawyer in california",
+      "clicks": 30,
+      "impressions": 269,
+      "ctr": 0.11152416356877323,
+      "position": 2.130111524163569
+    },
+    {
+      "query": "my dog bit someone",
+      "clicks": 30,
+      "impressions": 1070,
+      "ctr": 0.028037383177570093,
+      "position": 15.451401869158879
+    },
+    {
+      "query": "shams naimi",
+      "clicks": 30,
+      "impressions": 52,
+      "ctr": 0.5769230769230769,
+      "position": 1.9038461538461537
+    },
+    {
+      "query": "ada discrimination",
+      "clicks": 29,
+      "impressions": 64,
+      "ctr": 0.453125,
+      "position": 2.4375
+    },
+    {
+      "query": "can undocumented immigrants work in california",
+      "clicks": 29,
+      "impressions": 1074,
+      "ctr": 0.027001862197392923,
+      "position": 4.123836126629422
+    },
+    {
+      "query": "motorcycle collision lawyer motorcycle accident attorney california",
+      "clicks": 29,
+      "impressions": 80,
+      "ctr": 0.3625,
+      "position": 2.975
+    },
+    {
+      "query": "personal injury lawyer",
+      "clicks": 29,
+      "impressions": 124357,
+      "ctr": 0.0002331995786324855,
+      "position": 42.949878173323576
+    },
+    {
+      "query": "personal injury lawyer california",
+      "clicks": 29,
+      "impressions": 4927,
+      "ctr": 0.005885934645829105,
+      "position": 3.409376902780597
+    },
+    {
+      "query": "wilshire law firm sacramento",
+      "clicks": 29,
+      "impressions": 81,
+      "ctr": 0.35802469135802467,
+      "position": 1
+    },
+    {
+      "query": "mary caruso attorney",
+      "clicks": 28,
+      "impressions": 37,
+      "ctr": 0.7567567567567568,
+      "position": 1.054054054054054
+    },
+    {
+      "query": "valen hermiz",
+      "clicks": 28,
+      "impressions": 47,
+      "ctr": 0.5957446808510638,
+      "position": 1.0638297872340425
+    },
+    {
+      "query": "car accident lawyer",
+      "clicks": 27,
+      "impressions": 60872,
+      "ctr": 0.0004435536864239716,
+      "position": 32.63911157839401
+    },
+    {
+      "query": "justin marquez attorney",
+      "clicks": 27,
+      "impressions": 144,
+      "ctr": 0.1875,
+      "position": 3.4722222222222223
+    },
+    {
+      "query": "sexual harassment facts",
+      "clicks": 27,
+      "impressions": 185,
+      "ctr": 0.14594594594594595,
+      "position": 1.6810810810810812
+    },
+    {
+      "query": "what are compensatory damages",
+      "clicks": 27,
+      "impressions": 3235,
+      "ctr": 0.008346213292117466,
+      "position": 5.1258114374034
+    },
+    {
+      "query": "wilshire law firm irvine",
+      "clicks": 27,
+      "impressions": 98,
+      "ctr": 0.2755102040816326,
+      "position": 1.010204081632653
+    },
+    {
+      "query": "(213) 381-9988",
+      "clicks": 26,
+      "impressions": 74,
+      "ctr": 0.35135135135135137,
+      "position": 1
+    },
+    {
+      "query": "andrew attia",
+      "clicks": 26,
+      "impressions": 99,
+      "ctr": 0.26262626262626265,
+      "position": 2.333333333333333
+    },
+    {
+      "query": "can you sue a company for false advertising",
+      "clicks": 26,
+      "impressions": 1002,
+      "ctr": 0.02594810379241517,
+      "position": 2.693612774451098
+    },
+    {
+      "query": "colin jones attorney",
+      "clicks": 26,
+      "impressions": 43,
+      "ctr": 0.6046511627906976,
+      "position": 1.0232558139534884
+    },
+    {
+      "query": "sean paisan",
+      "clicks": 26,
+      "impressions": 31,
+      "ctr": 0.8387096774193549,
+      "position": 1
+    },
+    {
+      "query": "shervin ghanoongooi",
+      "clicks": 26,
+      "impressions": 39,
+      "ctr": 0.6666666666666666,
+      "position": 1
+    },
+    {
+      "query": "stephan chichportich",
+      "clicks": 26,
+      "impressions": 35,
+      "ctr": 0.7428571428571429,
+      "position": 1.0285714285714285
+    },
+    {
+      "query": "abogados de trabajo",
+      "clicks": 25,
+      "impressions": 9738,
+      "ctr": 0.0025672622715136578,
+      "position": 17.696754980488805
+    },
+    {
+      "query": "disability harassment examples",
+      "clicks": 25,
+      "impressions": 947,
+      "ctr": 0.026399155227032733,
+      "position": 4.466737064413939
+    },
+    {
+      "query": "elizabeth votra",
+      "clicks": 25,
+      "impressions": 38,
+      "ctr": 0.6578947368421053,
+      "position": 1
+    },
+    {
+      "query": "mary caruso",
+      "clicks": 25,
+      "impressions": 246,
+      "ctr": 0.1016260162601626,
+      "position": 1.7601626016260163
+    },
+    {
+      "query": "wilshire firm",
+      "clicks": 25,
+      "impressions": 61,
+      "ctr": 0.4098360655737705,
+      "position": 1.098360655737705
+    },
+    {
+      "query": "wilshire law firm california",
+      "clicks": 25,
+      "impressions": 54,
+      "ctr": 0.46296296296296297,
+      "position": 1
+    },
+    {
+      "query": "wilshire law firm san diego",
+      "clicks": 25,
+      "impressions": 94,
+      "ctr": 0.26595744680851063,
+      "position": 1.0425531914893618
+    },
+    {
+      "query": "benjamin haber",
+      "clicks": 24,
+      "impressions": 268,
+      "ctr": 0.08955223880597014,
+      "position": 4.701492537313433
+    },
+    {
+      "query": "consumer rights attorney",
+      "clicks": 24,
+      "impressions": 3779,
+      "ctr": 0.0063508864779042076,
+      "position": 52.09261709446944
+    },
+    {
+      "query": "how much can i sue for false advertising",
+      "clicks": 24,
+      "impressions": 1257,
+      "ctr": 0.01909307875894988,
+      "position": 4.4319809069212415
+    },
+    {
+      "query": "riverside motorcycle accident lawyer",
+      "clicks": 24,
+      "impressions": 2847,
+      "ctr": 0.008429926238145416,
+      "position": 3.048472075869336
+    },
+    {
+      "query": "uber class action lawsuit sign up",
+      "clicks": 24,
+      "impressions": 353,
+      "ctr": 0.0679886685552408,
+      "position": 4.263456090651558
+    },
+    {
+      "query": "wilshire",
+      "clicks": 24,
+      "impressions": 5117,
+      "ctr": 0.004690248192300176,
+      "position": 11.081102208325191
+    },
+    {
+      "query": "ada violations",
+      "clicks": 23,
+      "impressions": 61,
+      "ctr": 0.3770491803278688,
+      "position": 2.180327868852459
+    },
+    {
+      "query": "megan koster",
+      "clicks": 23,
+      "impressions": 90,
+      "ctr": 0.25555555555555554,
+      "position": 2.2555555555555555
+    },
+    {
+      "query": "motorcycle accident injury lawyer los angeles",
+      "clicks": 23,
+      "impressions": 158,
+      "ctr": 0.14556962025316456,
+      "position": 1.7848101265822784
+    },
+    {
+      "query": "nima shamtoub",
+      "clicks": 23,
+      "impressions": 28,
+      "ctr": 0.8214285714285714,
+      "position": 1.1428571428571428
+    },
+    {
+      "query": "uber class action lawsuit california",
+      "clicks": 23,
+      "impressions": 230,
+      "ctr": 0.1,
+      "position": 3.2217391304347824
+    },
+    {
+      "query": "wilshire law firm los angeles ca",
+      "clicks": 23,
+      "impressions": 48,
+      "ctr": 0.4791666666666667,
+      "position": 1
+    },
+    {
+      "query": "abogado de defensa del consumidor",
+      "clicks": 22,
+      "impressions": 170,
+      "ctr": 0.12941176470588237,
+      "position": 5.488235294117647
+    },
+    {
+      "query": "examples of disability discrimination",
+      "clicks": 22,
+      "impressions": 756,
+      "ctr": 0.0291005291005291,
+      "position": 5.567460317460317
+    },
+    {
+      "query": "what happens if your dog bites someone in california",
+      "clicks": 22,
+      "impressions": 147,
+      "ctr": 0.14965986394557823,
+      "position": 1.5170068027210886
+    },
+    {
+      "query": "alivia abreu",
+      "clicks": 21,
+      "impressions": 61,
+      "ctr": 0.3442622950819672,
+      "position": 1.3934426229508197
+    },
+    {
+      "query": "emily borman",
+      "clicks": 21,
+      "impressions": 89,
+      "ctr": 0.23595505617977527,
+      "position": 1.50561797752809
+    },
+    {
+      "query": "examples of disability discrimination in the workplace",
+      "clicks": 21,
+      "impressions": 422,
+      "ctr": 0.04976303317535545,
+      "position": 5.708530805687204
+    },
+    {
+      "query": "jon teller",
+      "clicks": 21,
+      "impressions": 259,
+      "ctr": 0.08108108108108109,
+      "position": 1.5482625482625483
+    },
+    {
+      "query": "what happens if someone sues you for more than your insurance covers?",
+      "clicks": 21,
+      "impressions": 1077,
+      "ctr": 0.019498607242339833,
+      "position": 4.6991643454039
+    },
+    {
+      "query": "wilshire law firm riverside",
+      "clicks": 21,
+      "impressions": 74,
+      "ctr": 0.28378378378378377,
+      "position": 1.0135135135135136
+    },
+    {
+      "query": "3 examples of disability discrimination at work",
+      "clicks": 20,
+      "impressions": 1620,
+      "ctr": 0.012345679012345678,
+      "position": 8.453086419753086
+    },
+    {
+      "query": "ariella perry",
+      "clicks": 20,
+      "impressions": 41,
+      "ctr": 0.4878048780487805,
+      "position": 1.6585365853658538
+    },
+    {
+      "query": "how to sue a company for false advertising",
+      "clicks": 20,
+      "impressions": 396,
+      "ctr": 0.050505050505050504,
+      "position": 2.224747474747475
+    },
+    {
+      "query": "jennifer leinbach",
+      "clicks": 20,
+      "impressions": 36,
+      "ctr": 0.5555555555555556,
+      "position": 2.0277777777777777
+    },
+    {
+      "query": "lane friedman",
+      "clicks": 20,
+      "impressions": 75,
+      "ctr": 0.26666666666666666,
+      "position": 1.8399999999999999
+    },
+    {
+      "query": "ambulance chaser meaning",
+      "clicks": 19,
+      "impressions": 5674,
+      "ctr": 0.0033486076841734227,
+      "position": 7.850546351780049
+    },
+    {
+      "query": "consumer law attorney",
+      "clicks": 19,
+      "impressions": 2633,
+      "ctr": 0.0072161033042157235,
+      "position": 42.777440182301554
+    },
+    {
+      "query": "rita mims",
+      "clicks": 19,
+      "impressions": 31,
+      "ctr": 0.6129032258064516,
+      "position": 1.032258064516129
+    },
+    {
+      "query": "wilshirelaw",
+      "clicks": 19,
+      "impressions": 29,
+      "ctr": 0.6551724137931034,
+      "position": 1
+    },
+    {
+      "query": "can a volunteer sue for wrongful termination",
+      "clicks": 18,
+      "impressions": 58,
+      "ctr": 0.3103448275862069,
+      "position": 2.7241379310344827
+    },
+    {
+      "query": "defense lawyer for car accident",
+      "clicks": 18,
+      "impressions": 445,
+      "ctr": 0.04044943820224719,
+      "position": 11.238202247191012
+    },
+    {
+      "query": "law firms near me",
+      "clicks": 18,
+      "impressions": 4912,
+      "ctr": 0.0036644951140065146,
+      "position": 54.77890879478827
+    },
+    {
+      "query": "los angeles motorcycle truck accident lawyer",
+      "clicks": 18,
+      "impressions": 220,
+      "ctr": 0.08181818181818182,
+      "position": 1.7863636363636364
+    },
+    {
+      "query": "wiltshire law firm",
+      "clicks": 18,
+      "impressions": 41,
+      "ctr": 0.43902439024390244,
+      "position": 2.4390243902439024
+    },
+    {
+      "query": "accident lawyer",
+      "clicks": 17,
+      "impressions": 61051,
+      "ctr": 0.00027845571735106715,
+      "position": 53.88142700365268
+    },
+    {
+      "query": "ca motorcycle accident lawyer",
+      "clicks": 17,
+      "impressions": 102,
+      "ctr": 0.16666666666666666,
+      "position": 1.5980392156862746
+    },
+    {
+      "query": "car accident lawyer ca",
+      "clicks": 17,
+      "impressions": 852,
+      "ctr": 0.01995305164319249,
+      "position": 5.449530516431925
+    },
+    {
+      "query": "examples of reasonable accommodations for pregnant workers",
+      "clicks": 17,
+      "impressions": 106,
+      "ctr": 0.16037735849056603,
+      "position": 2.566037735849057
+    },
+    {
+      "query": "puedo demandar a uber por bloquear mi cuenta",
+      "clicks": 17,
+      "impressions": 310,
+      "ctr": 0.054838709677419356,
+      "position": 4.916129032258064
+    },
+    {
+      "query": "uber class action lawsuit",
+      "clicks": 17,
+      "impressions": 2326,
+      "ctr": 0.007308684436801376,
+      "position": 9.40713671539123
+    },
+    {
+      "query": "whilshire law",
+      "clicks": 17,
+      "impressions": 19,
+      "ctr": 0.8947368421052632,
+      "position": 1.0526315789473684
+    },
+    {
+      "query": "wilshire law firm address",
+      "clicks": 17,
+      "impressions": 97,
+      "ctr": 0.17525773195876287,
+      "position": 1.670103092783505
+    },
+    {
+      "query": "ada complaint",
+      "clicks": 16,
+      "impressions": 19,
+      "ctr": 0.8421052631578947,
+      "position": 2.2105263157894735
+    },
+    {
+      "query": "contoh diskriminasi disabilitas",
+      "clicks": 16,
+      "impressions": 107,
+      "ctr": 0.14953271028037382,
+      "position": 1.6822429906542056
+    },
+    {
+      "query": "demanda a uber",
+      "clicks": 16,
+      "impressions": 34,
+      "ctr": 0.47058823529411764,
+      "position": 1.9411764705882353
+    },
+    {
+      "query": "la motorcycle accident lawyer",
+      "clicks": 16,
+      "impressions": 103,
+      "ctr": 0.1553398058252427,
+      "position": 1.5339805825242718
+    },
+    {
+      "query": "megan koster attorney",
+      "clicks": 16,
+      "impressions": 21,
+      "ctr": 0.7619047619047619,
+      "position": 1.0476190476190477
+    },
+    {
+      "query": "personal injury attorney",
+      "clicks": 16,
+      "impressions": 106498,
+      "ctr": 0.00015023756314672576,
+      "position": 38.80592123795752
+    },
+    {
+      "query": "ada discrimination complaint",
+      "clicks": 15,
+      "impressions": 21,
+      "ctr": 0.7142857142857143,
+      "position": 2.0476190476190474
+    },
+    {
+      "query": "auto accident attorney california",
+      "clicks": 15,
+      "impressions": 1911,
+      "ctr": 0.007849293563579277,
+      "position": 3.399267399267399
+    },
+    {
+      "query": "california employment attorney",
+      "clicks": 15,
+      "impressions": 1512,
+      "ctr": 0.00992063492063492,
+      "position": 3.3981481481481484
+    },
+    {
+      "query": "class action lawsuit lawyers",
+      "clicks": 15,
+      "impressions": 2037,
+      "ctr": 0.007363770250368188,
+      "position": 43.76435935198822
+    },
+    {
+      "query": "dog bite law california",
+      "clicks": 15,
+      "impressions": 450,
+      "ctr": 0.03333333333333333,
+      "position": 3.2111111111111112
+    },
+    {
+      "query": "justin marquez wilshire law firm",
+      "clicks": 15,
+      "impressions": 22,
+      "ctr": 0.6818181818181818,
+      "position": 1.8636363636363638
+    },
+    {
+      "query": "law firm in california",
+      "clicks": 15,
+      "impressions": 857,
+      "ctr": 0.01750291715285881,
+      "position": 7.05950991831972
+    },
+    {
+      "query": "lawyer los angeles",
+      "clicks": 15,
+      "impressions": 1166,
+      "ctr": 0.012864493996569469,
+      "position": 3.030017152658662
+    },
+    {
+      "query": "pregnancy accommodation examples",
+      "clicks": 15,
+      "impressions": 58,
+      "ctr": 0.25862068965517243,
+      "position": 2.706896551724138
+    },
+    {
+      "query": "pregnancy work accommodations",
+      "clicks": 15,
+      "impressions": 198,
+      "ctr": 0.07575757575757576,
+      "position": 5.287878787878788
+    },
+    {
+      "query": "tina petrosian",
+      "clicks": 15,
+      "impressions": 56,
+      "ctr": 0.26785714285714285,
+      "position": 1
+    },
+    {
+      "query": "uber lawsuit",
+      "clicks": 15,
+      "impressions": 8070,
+      "ctr": 0.0018587360594795538,
+      "position": 12.192193308550186
+    },
+    {
+      "query": "aram boyadjian",
+      "clicks": 14,
+      "impressions": 38,
+      "ctr": 0.3684210526315789,
+      "position": 1.2105263157894737
+    },
+    {
+      "query": "arnold reed attorney",
+      "clicks": 14,
+      "impressions": 95,
+      "ctr": 0.14736842105263157,
+      "position": 3.9894736842105263
+    },
+    {
+      "query": "best class action lawyers in california",
+      "clicks": 14,
+      "impressions": 327,
+      "ctr": 0.04281345565749235,
+      "position": 2.4067278287461775
+    },
+    {
+      "query": "bobby saadian",
+      "clicks": 14,
+      "impressions": 785,
+      "ctr": 0.017834394904458598,
+      "position": 9.40764331210191
+    },
+    {
+      "query": "california employment lawyers",
+      "clicks": 14,
+      "impressions": 2063,
+      "ctr": 0.0067862336403296175,
+      "position": 4.136694134755211
+    },
+    {
+      "query": "diego aviles",
+      "clicks": 14,
+      "impressions": 444,
+      "ctr": 0.03153153153153153,
+      "position": 8.25
+    },
+    {
+      "query": "employment attorney california",
+      "clicks": 14,
+      "impressions": 1271,
+      "ctr": 0.011014948859166011,
+      "position": 3.6058221872541307
+    },
+    {
+      "query": "eugene zinovyev",
+      "clicks": 14,
+      "impressions": 17,
+      "ctr": 0.8235294117647058,
+      "position": 1
+    },
+    {
+      "query": "jonathan teller",
+      "clicks": 14,
+      "impressions": 609,
+      "ctr": 0.022988505747126436,
+      "position": 5.8686371100164205
+    },
+    {
+      "query": "lauren lendzion",
+      "clicks": 14,
+      "impressions": 295,
+      "ctr": 0.04745762711864407,
+      "position": 4.6440677966101696
+    },
+    {
+      "query": "law firm los angeles",
+      "clicks": 14,
+      "impressions": 1801,
+      "ctr": 0.007773459189339256,
+      "position": 6.726818434203221
+    },
+    {
+      "query": "medi-cal liens on settlements",
+      "clicks": 14,
+      "impressions": 107,
+      "ctr": 0.1308411214953271,
+      "position": 1.9439252336448598
+    },
+    {
+      "query": "reasonable accommodation pregnancy",
+      "clicks": 14,
+      "impressions": 170,
+      "ctr": 0.08235294117647059,
+      "position": 6.9941176470588236
+    },
+    {
+      "query": "toxic work environment legal definition",
+      "clicks": 14,
+      "impressions": 174,
+      "ctr": 0.08045977011494253,
+      "position": 4.977011494252873
+    },
+    {
+      "query": "wilshire law firm la",
+      "clicks": 14,
+      "impressions": 35,
+      "ctr": 0.4,
+      "position": 1
+    },
+    {
+      "query": "wrongful termination lawyer",
+      "clicks": 14,
+      "impressions": 22717,
+      "ctr": 0.0006162785579081745,
+      "position": 46.875247611920585
+    },
+    {
+      "query": "abogados para despidos injustificados",
+      "clicks": 13,
+      "impressions": 545,
+      "ctr": 0.023853211009174313,
+      "position": 17.893577981651376
+    },
+    {
+      "query": "california car door accident lawyer",
+      "clicks": 13,
+      "impressions": 98,
+      "ctr": 0.1326530612244898,
+      "position": 5.010204081632653
+    },
+    {
+      "query": "can i sue for false advertising",
+      "clicks": 13,
+      "impressions": 642,
+      "ctr": 0.020249221183800622,
+      "position": 3.0638629283489096
+    },
+    {
+      "query": "car accident defense attorney los angeles",
+      "clicks": 13,
+      "impressions": 280,
+      "ctr": 0.04642857142857143,
+      "position": 4.035714285714286
+    },
+    {
+      "query": "data breach attorney",
+      "clicks": 13,
+      "impressions": 1924,
+      "ctr": 0.006756756756756757,
+      "position": 23.95945945945946
+    },
+    {
+      "query": "edwin salguero",
+      "clicks": 13,
+      "impressions": 40,
+      "ctr": 0.325,
+      "position": 1.525
+    },
+    {
+      "query": "how to sue for false advertising",
+      "clicks": 13,
+      "impressions": 696,
+      "ctr": 0.01867816091954023,
+      "position": 4.024425287356322
+    },
+    {
+      "query": "law firm california",
+      "clicks": 13,
+      "impressions": 927,
+      "ctr": 0.014023732470334413,
+      "position": 7.237324703344121
+    },
+    {
+      "query": "personal injury lawyers near me",
+      "clicks": 13,
+      "impressions": 7700,
+      "ctr": 0.0016883116883116883,
+      "position": 54.55987012987013
+    },
+    {
+      "query": "sue for false advertising",
+      "clicks": 13,
+      "impressions": 650,
+      "ctr": 0.02,
+      "position": 3.712307692307692
+    },
+    {
+      "query": "wilshire law firm employment law",
+      "clicks": 13,
+      "impressions": 19,
+      "ctr": 0.6842105263157895,
+      "position": 1
+    },
+    {
+      "query": "wilshire law firm phone number",
+      "clicks": 13,
+      "impressions": 153,
+      "ctr": 0.08496732026143791,
+      "position": 1.9477124183006536
+    },
+    {
+      "query": "wilshire law firm plc photos",
+      "clicks": 13,
+      "impressions": 403,
+      "ctr": 0.03225806451612903,
+      "position": 2.861042183622829
+    },
+    {
+      "query": "कंपनी निकाल दे तो क्या करे",
+      "clicks": 13,
+      "impressions": 336,
+      "ctr": 0.03869047619047619,
+      "position": 5.598214285714286
+    },
+    {
+      "query": "abogados de despido injustificado en california",
+      "clicks": 12,
+      "impressions": 520,
+      "ctr": 0.023076923076923078,
+      "position": 4.342307692307692
+    },
+    {
+      "query": "abogados laborales",
+      "clicks": 12,
+      "impressions": 7983,
+      "ctr": 0.001503194287861706,
+      "position": 17.53789302267318
+    },
+    {
+      "query": "andrea alberico",
+      "clicks": 12,
+      "impressions": 34,
+      "ctr": 0.35294117647058826,
+      "position": 2.7058823529411766
+    },
+    {
+      "query": "arrash fattahi",
+      "clicks": 12,
+      "impressions": 17,
+      "ctr": 0.7058823529411765,
+      "position": 1
+    },
+    {
+      "query": "ben haber",
+      "clicks": 12,
+      "impressions": 147,
+      "ctr": 0.08163265306122448,
+      "position": 3.7687074829931975
+    },
+    {
+      "query": "car accident defense attorney",
+      "clicks": 12,
+      "impressions": 1114,
+      "ctr": 0.010771992818671455,
+      "position": 31.864452423698385
+    },
+    {
+      "query": "class action lawsuit attorneys",
+      "clicks": 12,
+      "impressions": 1429,
+      "ctr": 0.008397480755773267,
+      "position": 35.697690692792165
+    },
+    {
+      "query": "defense attorney for car accident",
+      "clicks": 12,
+      "impressions": 466,
+      "ctr": 0.02575107296137339,
+      "position": 15.98068669527897
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:22:32.473Z"
 }

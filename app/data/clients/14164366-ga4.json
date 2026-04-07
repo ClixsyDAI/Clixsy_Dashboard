@@ -2,132 +2,18 @@
   "propertyId": "properties/514397956",
   "displayName": "Mike Morse Mini Site",
   "dateRange": {
-    "start": "2025-12-17",
-    "end": "2026-03-17"
+    "start": "2026-01-06",
+    "end": "2026-04-06"
   },
   "totals": {
-    "sessions": 342,
-    "users": 325,
-    "screenPageViews": 357,
-    "organicSessions": 129,
-    "bounceRate": 0.5535943468296408,
-    "avgSessionDuration": 108.93653397560055
+    "sessions": 345,
+    "users": 324,
+    "screenPageViews": 377,
+    "organicSessions": 147,
+    "bounceRate": 0.5450464194440099,
+    "avgSessionDuration": 123.90061016999252
   },
   "dailyData": [
-    {
-      "date": "2025-12-17",
-      "sessions": 4,
-      "users": 4,
-      "screenPageViews": 3
-    },
-    {
-      "date": "2025-12-18",
-      "sessions": 4,
-      "users": 2,
-      "screenPageViews": 4
-    },
-    {
-      "date": "2025-12-19",
-      "sessions": 4,
-      "users": 4,
-      "screenPageViews": 3
-    },
-    {
-      "date": "2025-12-20",
-      "sessions": 1,
-      "users": 1,
-      "screenPageViews": 1
-    },
-    {
-      "date": "2025-12-21",
-      "sessions": 4,
-      "users": 4,
-      "screenPageViews": 4
-    },
-    {
-      "date": "2025-12-22",
-      "sessions": 6,
-      "users": 6,
-      "screenPageViews": 6
-    },
-    {
-      "date": "2025-12-23",
-      "sessions": 5,
-      "users": 5,
-      "screenPageViews": 6
-    },
-    {
-      "date": "2025-12-24",
-      "sessions": 1,
-      "users": 1,
-      "screenPageViews": 1
-    },
-    {
-      "date": "2025-12-25",
-      "sessions": 2,
-      "users": 2,
-      "screenPageViews": 2
-    },
-    {
-      "date": "2025-12-26",
-      "sessions": 11,
-      "users": 10,
-      "screenPageViews": 11
-    },
-    {
-      "date": "2025-12-27",
-      "sessions": 6,
-      "users": 6,
-      "screenPageViews": 6
-    },
-    {
-      "date": "2025-12-29",
-      "sessions": 1,
-      "users": 1,
-      "screenPageViews": 1
-    },
-    {
-      "date": "2025-12-30",
-      "sessions": 11,
-      "users": 10,
-      "screenPageViews": 11
-    },
-    {
-      "date": "2025-12-31",
-      "sessions": 10,
-      "users": 10,
-      "screenPageViews": 11
-    },
-    {
-      "date": "2026-01-01",
-      "sessions": 2,
-      "users": 2,
-      "screenPageViews": 2
-    },
-    {
-      "date": "2026-01-02",
-      "sessions": 2,
-      "users": 2,
-      "screenPageViews": 2
-    },
-    {
-      "date": "2026-01-03",
-      "sessions": 2,
-      "users": 2,
-      "screenPageViews": 2
-    },
-    {
-      "date": "2026-01-04",
-      "sessions": 3,
-      "users": 3,
-      "screenPageViews": 3
-    },
-    {
-      "date": "2026-01-05",
-      "sessions": 2,
-      "users": 2,
-      "screenPageViews": 2
-    },
     {
       "date": "2026-01-06",
       "sessions": 3,
@@ -522,41 +408,175 @@
       "date": "2026-03-17",
       "sessions": 12,
       "users": 12,
-      "screenPageViews": 14
+      "screenPageViews": 15
+    },
+    {
+      "date": "2026-03-18",
+      "sessions": 15,
+      "users": 15,
+      "screenPageViews": 18
+    },
+    {
+      "date": "2026-03-19",
+      "sessions": 15,
+      "users": 14,
+      "screenPageViews": 21
+    },
+    {
+      "date": "2026-03-20",
+      "sessions": 4,
+      "users": 3,
+      "screenPageViews": 3
+    },
+    {
+      "date": "2026-03-21",
+      "sessions": 2,
+      "users": 2,
+      "screenPageViews": 2
+    },
+    {
+      "date": "2026-03-23",
+      "sessions": 4,
+      "users": 4,
+      "screenPageViews": 6
+    },
+    {
+      "date": "2026-03-24",
+      "sessions": 2,
+      "users": 2,
+      "screenPageViews": 2
+    },
+    {
+      "date": "2026-03-25",
+      "sessions": 8,
+      "users": 8,
+      "screenPageViews": 11
+    },
+    {
+      "date": "2026-03-26",
+      "sessions": 6,
+      "users": 5,
+      "screenPageViews": 6
+    },
+    {
+      "date": "2026-03-27",
+      "sessions": 8,
+      "users": 5,
+      "screenPageViews": 9
+    },
+    {
+      "date": "2026-03-28",
+      "sessions": 2,
+      "users": 2,
+      "screenPageViews": 2
+    },
+    {
+      "date": "2026-03-29",
+      "sessions": 1,
+      "users": 1,
+      "screenPageViews": 1
+    },
+    {
+      "date": "2026-03-30",
+      "sessions": 6,
+      "users": 4,
+      "screenPageViews": 5
+    },
+    {
+      "date": "2026-03-31",
+      "sessions": 3,
+      "users": 3,
+      "screenPageViews": 4
+    },
+    {
+      "date": "2026-04-01",
+      "sessions": 3,
+      "users": 3,
+      "screenPageViews": 4
+    },
+    {
+      "date": "2026-04-02",
+      "sessions": 1,
+      "users": 1,
+      "screenPageViews": 1
+    },
+    {
+      "date": "2026-04-04",
+      "sessions": 1,
+      "users": 1,
+      "screenPageViews": 1
+    },
+    {
+      "date": "2026-04-06",
+      "sessions": 3,
+      "users": 3,
+      "screenPageViews": 4
     }
   ],
   "channelData": [
     {
       "channel": "Direct",
-      "sessions": 195,
-      "users": 163
+      "sessions": 178,
+      "users": 150
     },
     {
       "channel": "Organic Search",
-      "sessions": 129,
-      "users": 112
+      "sessions": 147,
+      "users": 126
     },
     {
       "channel": "Email",
-      "sessions": 11,
+      "sessions": 15,
+      "users": 4
+    },
+    {
+      "channel": "Referral",
+      "sessions": 4,
       "users": 4
     },
     {
       "channel": "Unassigned",
-      "sessions": 7,
-      "users": 7
+      "sessions": 1,
+      "users": 1
+    }
+  ],
+  "keyEventsByChannel": [
+    {
+      "channel": "Direct",
+      "sessions": 178,
+      "keyEvents": 73,
+      "conversionRate": 0.4101123595505618
+    },
+    {
+      "channel": "Organic Search",
+      "sessions": 147,
+      "keyEvents": 127,
+      "conversionRate": 0.8639455782312925
+    },
+    {
+      "channel": "Email",
+      "sessions": 15,
+      "keyEvents": 3,
+      "conversionRate": 0.2
     },
     {
       "channel": "Referral",
-      "sessions": 6,
-      "users": 5
+      "sessions": 4,
+      "keyEvents": 1,
+      "conversionRate": 0.25
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": 1,
+      "keyEvents": 1,
+      "conversionRate": 1
     }
   ],
   "topPages": [
     {
       "page": "/",
-      "screenPageViews": 338,
-      "sessions": 325
+      "screenPageViews": 360,
+      "sessions": 331
     },
     {
       "page": "/about/fees/",
@@ -569,14 +589,14 @@
       "sessions": 3
     },
     {
-      "page": "/privacy-policy/",
+      "page": "/bracket",
       "screenPageViews": 2,
       "sessions": 2
     },
     {
-      "page": "/rideshare",
+      "page": "/privacy-policy/",
       "screenPageViews": 2,
-      "sessions": 1
+      "sessions": 2
     },
     {
       "page": "/verdicts-settlements/",
@@ -594,25 +614,10 @@
       "sessions": 1
     },
     {
-      "page": "/nye",
-      "screenPageViews": 1,
-      "sessions": 1
-    },
-    {
       "page": "/our-team/attorneys/",
       "screenPageViews": 1,
       "sessions": 1
-    },
-    {
-      "page": "/ridefreenye",
-      "screenPageViews": 1,
-      "sessions": 1
-    },
-    {
-      "page": "/bracket",
-      "screenPageViews": 0,
-      "sessions": 1
     }
   ],
-  "fetchedAt": "2026-03-18T13:06:19.679Z"
+  "fetchedAt": "2026-04-07T16:21:16.423Z"
 }

@@ -1,156 +1,16 @@
 {
   "property": "sc-domain:harkerinjurylaw.com",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 300,
-    "impressions": 265608,
-    "ctr": 0.0011294840516851902,
-    "position": 33.53898189962833
+    "clicks": 368,
+    "impressions": 358068,
+    "ctr": 0.0010277377481372253,
+    "position": 29.952639008844965
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 1,
-      "impressions": 1577,
-      "ctr": 0.0006341154090044388,
-      "position": 34.6575776791376
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 6,
-      "impressions": 4652,
-      "ctr": 0.0012897678417884782,
-      "position": 13.596732588134136
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 2,
-      "impressions": 1243,
-      "ctr": 0.0016090104585679806,
-      "position": 38.90345937248592
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 2,
-      "impressions": 1415,
-      "ctr": 0.0014134275618374558,
-      "position": 44.18374558303887
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 0,
-      "impressions": 1191,
-      "ctr": 0,
-      "position": 42.008396305625524
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 0,
-      "impressions": 1451,
-      "ctr": 0,
-      "position": 34.36526533425224
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 0,
-      "impressions": 1244,
-      "ctr": 0,
-      "position": 43.332797427652736
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 1,
-      "impressions": 1142,
-      "ctr": 0.0008756567425569177,
-      "position": 39.012259194395796
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 3,
-      "impressions": 1475,
-      "ctr": 0.002033898305084746,
-      "position": 42.00474576271186
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 1,
-      "impressions": 1266,
-      "ctr": 0.0007898894154818325,
-      "position": 46.24723538704581
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 1,
-      "impressions": 1084,
-      "ctr": 0.0009225092250922509,
-      "position": 41.858856088560884
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 1,
-      "impressions": 1060,
-      "ctr": 0.0009433962264150943,
-      "position": 40.67169811320755
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 2,
-      "impressions": 1246,
-      "ctr": 0.0016051364365971107,
-      "position": 42.203049759229536
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 2,
-      "impressions": 993,
-      "ctr": 0.002014098690835851,
-      "position": 41.21651560926485
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 1,
-      "impressions": 1406,
-      "ctr": 0.0007112375533428165,
-      "position": 31.87126600284495
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 5,
-      "impressions": 1344,
-      "ctr": 0.003720238095238095,
-      "position": 39.063988095238095
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 1,
-      "impressions": 1485,
-      "ctr": 0.0006734006734006734,
-      "position": 44.86060606060606
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 2,
-      "impressions": 1965,
-      "ctr": 0.0010178117048346056,
-      "position": 34.23104325699745
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 0,
-      "impressions": 1376,
-      "ctr": 0,
-      "position": 32.91351744186046
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 0,
-      "impressions": 955,
-      "ctr": 0,
-      "position": 35.665968586387436
-    },
     {
       "date": "2026-01-04",
       "clicks": 0,
@@ -640,57 +500,197 @@
       "impressions": 4766,
       "ctr": 0.000419639110365086,
       "position": 27.326898866974403
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 4,
+      "impressions": 4728,
+      "ctr": 0.0008460236886632825,
+      "position": 27.123307952622675
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 6,
+      "impressions": 5665,
+      "ctr": 0.001059135039717564,
+      "position": 28.76434245366284
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 6,
+      "impressions": 5560,
+      "ctr": 0.001079136690647482,
+      "position": 24.802158273381295
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 3,
+      "impressions": 5185,
+      "ctr": 0.0005785920925747348,
+      "position": 25.098360655737704
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 8,
+      "impressions": 4921,
+      "ctr": 0.001625685836212152,
+      "position": 24.254013411908147
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 3,
+      "impressions": 5757,
+      "ctr": 0.0005211047420531526,
+      "position": 20.505297898210873
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 2,
+      "impressions": 5029,
+      "ctr": 0.00039769337840524953,
+      "position": 26.275402664545634
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 1,
+      "impressions": 4477,
+      "ctr": 0.00022336385972749609,
+      "position": 26.05450078177351
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 6,
+      "impressions": 5437,
+      "ctr": 0.001103549751701306,
+      "position": 22.135368769542026
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 4,
+      "impressions": 5934,
+      "ctr": 0.0006740815638692282,
+      "position": 21.821199865183686
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 7,
+      "impressions": 5630,
+      "ctr": 0.0012433392539964476,
+      "position": 23.360746003552396
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 5,
+      "impressions": 5938,
+      "ctr": 0.000842034355001684,
+      "position": 22.947457056247895
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 8,
+      "impressions": 6065,
+      "ctr": 0.0013190436933223414,
+      "position": 21.576092333058533
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 4,
+      "impressions": 5952,
+      "ctr": 0.0006720430107526882,
+      "position": 24.733702956989248
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 2,
+      "impressions": 5891,
+      "ctr": 0.00033950093362756747,
+      "position": 21.9470378543541
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 2,
+      "impressions": 6933,
+      "ctr": 0.0002884754074715131,
+      "position": 19.080484638684553
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 5,
+      "impressions": 12303,
+      "ctr": 0.0004064049418840933,
+      "position": 10.363732422986264
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 4,
+      "impressions": 5461,
+      "ctr": 0.0007324665812122322,
+      "position": 17.87053653177074
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 9,
+      "impressions": 5514,
+      "ctr": 0.001632208922742111,
+      "position": 19.141820819731592
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 9,
+      "impressions": 4591,
+      "ctr": 0.001960357220649096,
+      "position": 22.79742975386626
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 1,
+      "impressions": 5059,
+      "ctr": 0.000197667523225934,
+      "position": 19.397509389207354
     }
   ],
   "topQueries": [
     {
       "query": "harker injury law",
-      "clicks": 18,
-      "impressions": 180,
-      "ctr": 0.1,
-      "position": 2.5444444444444443
+      "clicks": 22,
+      "impressions": 149,
+      "ctr": 0.1476510067114094,
+      "position": 2.7583892617449663
     },
     {
       "query": "harker injury law escondido",
-      "clicks": 11,
-      "impressions": 81,
-      "ctr": 0.13580246913580246,
-      "position": 1.4567901234567902
+      "clicks": 12,
+      "impressions": 59,
+      "ctr": 0.2033898305084746,
+      "position": 1.6271186440677967
     },
     {
       "query": "harker injury law escondido ca",
       "clicks": 4,
-      "impressions": 30,
-      "ctr": 0.13333333333333333,
+      "impressions": 10,
+      "ctr": 0.4,
       "position": 1
     },
     {
-      "query": "bronson harker",
+      "query": "car accident lawyer",
       "clicks": 2,
-      "impressions": 53,
-      "ctr": 0.03773584905660377,
-      "position": 4.6415094339622645
-    },
-    {
-      "query": "workers comp lawyers near me",
-      "clicks": 2,
-      "impressions": 7,
-      "ctr": 0.2857142857142857,
-      "position": 7.714285714285714
+      "impressions": 11714,
+      "ctr": 0.00017073587160662456,
+      "position": 1.940413180809288
     },
     {
       "query": "workman comp lawyers",
       "clicks": 2,
-      "impressions": 4,
-      "ctr": 0.5,
-      "position": 4
+      "impressions": 3,
+      "ctr": 0.6666666666666666,
+      "position": 1
     },
     {
       "query": "accident lawyer",
       "clicks": 1,
-      "impressions": 838,
-      "ctr": 0.0011933174224343676,
-      "position": 1.6730310262529833
+      "impressions": 1069,
+      "ctr": 0.0009354536950420954,
+      "position": 1.9298409728718429
     },
     {
       "query": "attorney specializing in landlord tenant law",
@@ -700,6 +700,13 @@
       "position": 2
     },
     {
+      "query": "bronson harker",
+      "clicks": 1,
+      "impressions": 46,
+      "ctr": 0.021739130434782608,
+      "position": 4.630434782608695
+    },
+    {
       "query": "california medical malpractice lawyers",
       "clicks": 1,
       "impressions": 1,
@@ -707,32 +714,25 @@
       "position": 27
     },
     {
-      "query": "car accident lawyer",
-      "clicks": 1,
-      "impressions": 3014,
-      "ctr": 0.00033178500331785003,
-      "position": 4.129064366290644
-    },
-    {
       "query": "car accident lawyers near me",
       "clicks": 1,
-      "impressions": 118,
-      "ctr": 0.00847457627118644,
-      "position": 66.6864406779661
+      "impressions": 135,
+      "ctr": 0.007407407407407408,
+      "position": 59.6
     },
     {
       "query": "car accident lawyers san diego",
       "clicks": 1,
       "impressions": 218,
       "ctr": 0.0045871559633027525,
-      "position": 76
+      "position": 71.89449541284404
     },
     {
       "query": "car injury lawyers",
       "clicks": 1,
-      "impressions": 9,
-      "ctr": 0.1111111111111111,
-      "position": 10.444444444444445
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 10.55
     },
     {
       "query": "dental malpractice lawyer san diego",
@@ -749,18 +749,25 @@
       "position": 23.857142857142858
     },
     {
-      "query": "harker injury law california",
-      "clicks": 1,
-      "impressions": 98,
-      "ctr": 0.01020408163265306,
-      "position": 6.326530612244898
-    },
-    {
       "query": "harker injury law san diego ca",
       "clicks": 1,
-      "impressions": 38,
-      "ctr": 0.02631578947368421,
-      "position": 1.0263157894736843
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 1
+    },
+    {
+      "query": "harker law",
+      "clicks": 1,
+      "impressions": 66,
+      "ctr": 0.015151515151515152,
+      "position": 6.46969696969697
+    },
+    {
+      "query": "how to determine liability in a car accident",
+      "clicks": 1,
+      "impressions": 43,
+      "ctr": 0.023255813953488372,
+      "position": 20.6046511627907
     },
     {
       "query": "how to report my landlord",
@@ -779,37 +786,30 @@
     {
       "query": "la mesa car accident lawyer",
       "clicks": 1,
-      "impressions": 32,
-      "ctr": 0.03125,
-      "position": 30.375
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 28.208333333333332
     },
     {
-      "query": "malpractice attorney",
+      "query": "legal malpractice attorney contingency",
       "clicks": 1,
-      "impressions": 4,
-      "ctr": 0.25,
-      "position": 4.25
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 1
     },
     {
       "query": "malpractice lawyer",
       "clicks": 1,
-      "impressions": 38,
-      "ctr": 0.02631578947368421,
-      "position": 1.6052631578947367
-    },
-    {
-      "query": "malpractice lawyers near me",
-      "clicks": 1,
-      "impressions": 6,
-      "ctr": 0.16666666666666666,
-      "position": 6.166666666666667
+      "impressions": 36,
+      "ctr": 0.027777777777777776,
+      "position": 1.5277777777777777
     },
     {
       "query": "medical malpractice attorney",
       "clicks": 1,
-      "impressions": 24,
-      "ctr": 0.041666666666666664,
-      "position": 6.5
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 4.533333333333333
     },
     {
       "query": "medical malpractice attorney in ca",
@@ -840,13 +840,6 @@
       "position": 11
     },
     {
-      "query": "personal injury attorneys",
-      "clicks": 1,
-      "impressions": 163,
-      "ctr": 0.006134969325153374,
-      "position": 16.828220858895705
-    },
-    {
       "query": "personal injury attorneys in california",
       "clicks": 1,
       "impressions": 1,
@@ -854,32 +847,53 @@
       "position": 41
     },
     {
+      "query": "personal injury attorneys san diego ca",
+      "clicks": 1,
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 46.72222222222222
+    },
+    {
+      "query": "personal injury law firms san diego",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 33
+    },
+    {
       "query": "personal injury lawyer san diego",
       "clicks": 1,
-      "impressions": 354,
-      "ctr": 0.002824858757062147,
-      "position": 35.71186440677966
+      "impressions": 547,
+      "ctr": 0.0018281535648994515,
+      "position": 30.241316270566728
     },
     {
       "query": "personal injury lawyer san diego ca",
       "clicks": 1,
-      "impressions": 133,
-      "ctr": 0.007518796992481203,
-      "position": 50.99248120300752
+      "impressions": 222,
+      "ctr": 0.0045045045045045045,
+      "position": 48.166666666666664
     },
     {
       "query": "personal injury lawyers in california",
       "clicks": 1,
       "impressions": 5,
       "ctr": 0.2,
-      "position": 17
+      "position": 21
     },
     {
       "query": "personal injury lawyers in san diego",
       "clicks": 1,
-      "impressions": 105,
-      "ctr": 0.009523809523809525,
-      "position": 49.38095238095238
+      "impressions": 147,
+      "ctr": 0.006802721088435374,
+      "position": 39.265306122448976
+    },
+    {
+      "query": "personal injury lawyers near me",
+      "clicks": 1,
+      "impressions": 78,
+      "ctr": 0.01282051282051282,
+      "position": 39.52564102564103
     },
     {
       "query": "pet injury lawyer",
@@ -891,9 +905,9 @@
     {
       "query": "product liability attorney near me",
       "clicks": 1,
-      "impressions": 24,
-      "ctr": 0.041666666666666664,
-      "position": 11.291666666666666
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 13.9375
     },
     {
       "query": "property damage lawyers near me",
@@ -910,25 +924,11 @@
       "position": 4
     },
     {
-      "query": "san diego injury attorney",
-      "clicks": 1,
-      "impressions": 366,
-      "ctr": 0.00273224043715847,
-      "position": 36.48087431693989
-    },
-    {
       "query": "san diego personal injury lawyer",
       "clicks": 1,
-      "impressions": 1377,
-      "ctr": 0.0007262164124909223,
-      "position": 43.77124183006536
-    },
-    {
-      "query": "san diego truck accident attorney",
-      "clicks": 1,
-      "impressions": 1226,
-      "ctr": 0.0008156606851549756,
-      "position": 32.99347471451876
+      "impressions": 2094,
+      "ctr": 0.0004775549188156638,
+      "position": 36.58309455587393
     },
     {
       "query": "tenant rights attorney",
@@ -961,249 +961,1355 @@
     {
       "query": "what to do if someone sues you for a car accident in california",
       "clicks": 1,
-      "impressions": 127,
-      "ctr": 0.007874015748031496,
-      "position": 10.291338582677165
-    },
-    {
-      "query": "work comp attorney",
-      "clicks": 1,
-      "impressions": 7,
-      "ctr": 0.14285714285714285,
-      "position": 1
+      "impressions": 180,
+      "ctr": 0.005555555555555556,
+      "position": 9.96111111111111
     },
     {
       "query": "work injury lawyer",
       "clicks": 1,
-      "impressions": 431,
-      "ctr": 0.002320185614849188,
-      "position": 1.8839907192575405
+      "impressions": 434,
+      "ctr": 0.002304147465437788,
+      "position": 1.7396313364055298
     },
     {
-      "query": "workers comp attorney near me",
+      "query": "workers comp lawyers near me",
       "clicks": 1,
-      "impressions": 190,
-      "ctr": 0.005263157894736842,
-      "position": 1.0105263157894737
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 12.75
     },
     {
-      "query": "workers comp lawyers",
+      "query": "workman comp lawyers near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "wrongful death lawsuit consultation",
       "clicks": 1,
       "impressions": 15,
       "ctr": 0.06666666666666667,
-      "position": 4.333333333333334
+      "position": 18
+    },
+    {
+      "query": "\"49 am. jur. 2d landlord and tenant\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "\"accident left a lasting mark on them\"",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "\"accident left a lasting mark\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "\"car wreck attorney\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"catastrophic injury\" \"elevator\"",
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 5.791666666666667
+    },
+    {
+      "query": "\"farmers market\" \"solicitor\" \"uk\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "\"farmers market\" \"solicitor\" ireland",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "\"including the teen's father and the driver\" car accident",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "\"injury lawyer\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"injury\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "\"lump sum fund\" \"settlement\" \"death proceeds\"",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 6.818181818181818
+    },
+    {
+      "query": "\"number one settlement landlord-tenant firm\"",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "\"personal injury\" \"california\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "\"personal injury\" \"california\" -site:reddit.com -site:twitter.com -site:x.com -site:wykop.pl -site:tripadvisor.com -site:youtube.com -site:yelp.com -site:booking.com -site:facebook.com -site:instagram.com -site:tiktok.com",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "\"personal injury\" \"san diego\" (law or legal challenge or risk or policy)",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "\"protect california drivers act\" enactment date insurance requirements",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 17
+    },
+    {
+      "query": "\"the term \"telemedicine\" refers to\"",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 24.454545454545453
+    },
+    {
+      "query": "#personalinjurylaw",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "+motor +vehicle +accident +lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "+personal +injury +attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "1) in california there are ____ forms of financial responsibility. a) two b) three c) four d) five 2) the responsibility for damages that occur in an accident when someone else is driving your vehicle, and they have your permission, falls with the owner of the vehicle. a) true b) false 3) a ________ bond with a company licensed in california is one of the four types of financial responsibility. a) $15,000 b) $25,000 c) $35,000 d) $45,000 4) not having insurance in the event of an accident may mean you lose your license for up to __ years. a) 1 b) 2 c) 3 d) 4 5) bodily injury and personal property are two important aspects included with ________ coverage. a) collision b) liability c) financial d) your",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "11801 pierce st second floor riverside ca 92505",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 23.5
+    },
+    {
+      "query": "12 year old driver supervision laws",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "13800 heacock",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 69
+    },
+    {
+      "query": "13800 heacock st moreno valley ca",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 58
+    },
+    {
+      "query": "14-day pay or vacate notice washington state",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "18 wheeler accident attorney",
+      "clicks": 0,
+      "impressions": 36,
+      "ctr": 0,
+      "position": 14.88888888888889
+    },
+    {
+      "query": "18 wheeler accident attorney san diego",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 19.9
+    },
+    {
+      "query": "18 wheeler accident lawyer",
+      "clicks": 0,
+      "impressions": 51,
+      "ctr": 0,
+      "position": 9.941176470588236
+    },
+    {
+      "query": "18 wheeler accident lawyer near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 25.5
+    },
+    {
+      "query": "18 wheeler accident lawyer san deigo",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 91.75
+    },
+    {
+      "query": "18 wheeler accident lawyer san diego",
+      "clicks": 0,
+      "impressions": 70,
+      "ctr": 0,
+      "position": 67.45714285714286
+    },
+    {
+      "query": "18 wheeler accident lawyers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "18 wheeler wrongful death lawyer san diego",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 19
+    },
+    {
+      "query": "2) the liability of a minor for any damages occured from a negligent or wrongful act, whether licensed or not, is imposed upon ________.",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "220 w broadway san diego ca",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 49
+    },
+    {
+      "query": "220 west broadway san diego",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 52
+    },
+    {
+      "query": "24 hour personal injury lawyer",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24/7 lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24600 cvc",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "4100 main st riverside",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 65
+    },
+    {
+      "query": "4100 main street riverside ca 92501",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 74
+    },
+    {
+      "query": "5 year statute of limitations california",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 75
+    },
+    {
+      "query": "5) should anything happen, the financial consequences fall with parents or guardians.",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 7.833333333333333
+    },
+    {
+      "query": "5-year statute of limitations california",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 79.66666666666667
+    },
+    {
+      "query": "50 percent rule",
+      "clicks": 0,
+      "impressions": 39,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "50 percent rule law",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "6264 w 700 n, fair oaks, in",
+      "clicks": 0,
+      "impressions": 42,
+      "ctr": 0,
+      "position": 31.19047619047619
+    },
+    {
+      "query": "7477 mission blvd",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 23
+    },
+    {
+      "query": "8779553463",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 7.416666666666667
+    },
+    {
+      "query": "9-year-old blamed car for no-show",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "951-275-5076",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 9.25
+    },
+    {
+      "query": "9512755076",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "[car accidents lawyer]",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "a bicyclist differs from a motorist",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "a formal request by a policyholder to their insurance company for compensation for a covered loss",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 11.333333333333334
+    },
+    {
+      "query": "a motorcyclist may share (travel side by side in) their lane with another vehicle. true false",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "a parent may be held liable for injuries cause by his 15-year old child under all of the following circumstances, except:",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "query": "a parent may be held liable for injuries cause by his 15-year old child under all of the following circumstances, except: the child’s permissive operation of the parent’s car. the child’s permissive use of a bb gun. all injuries resulting from negligent supervision of the child by the parent. the child’s deliberate destruction of private property.",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "a person who investigates and settles insurance claims",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 11.5
+    },
+    {
+      "query": "a personal injury lawyer",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 1.75
+    },
+    {
+      "query": "a state court would have jurisdiction in which of the following cases?",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "abogado",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "abogado civil cerca de mi",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "abogado de accidente de autobús en san diego",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 46
+    },
+    {
+      "query": "abogado de accidente de bicicleta near me",
+      "clicks": 0,
+      "impressions": 20,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "abogado de accidente de bus en san diego",
+      "clicks": 0,
+      "impressions": 44,
+      "ctr": 0,
+      "position": 22.25
+    },
+    {
+      "query": "abogado de accidente de camión en san diego",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 62
+    },
+    {
+      "query": "abogado de accidente de coche en san diego",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 59.5
+    },
+    {
+      "query": "abogado de accidente de motocicleta en san diego",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 73.5
+    },
+    {
+      "query": "abogado de accidente de peatón en san diego",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 67
+    },
+    {
+      "query": "abogado de accidente en san diego",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 50
+    },
+    {
+      "query": "abogado de accidente en un local",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 23.5
+    },
+    {
+      "query": "abogado de accidentes",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 41
+    },
+    {
+      "query": "abogado de accidentes en san diego",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 76.9
+    },
+    {
+      "query": "abogado de accidentes near me",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 27.153846153846153
+    },
+    {
+      "query": "abogado de accidentes personales en san diego",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 50
+    },
+    {
+      "query": "abogado de lesion personal en san diego",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 54
+    },
+    {
+      "query": "abogado de lesiones",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "abogado de lesiones escondido",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 5.5
+    },
+    {
+      "query": "abogado de lesiones personales",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 30.5
+    },
+    {
+      "query": "abogado de lesiones personales cerca de mí",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "abogado de lesiones personales en san diego",
+      "clicks": 0,
+      "impressions": 127,
+      "ctr": 0,
+      "position": 23.330708661417322
+    },
+    {
+      "query": "abogado de lesiones san diego",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 30.333333333333332
+    },
+    {
+      "query": "abogado de lesión en san diego",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 65
+    },
+    {
+      "query": "abogado de lesión personal en san diego",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 60.666666666666664
+    },
+    {
+      "query": "abogado de lesiónes catastróficas en san diego",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 89
+    },
+    {
+      "query": "abogado de mordida de perro en san diego",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 99
+    },
+    {
+      "query": "abogado de muerte injusta en san diego",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 49.5
+    },
+    {
+      "query": "abogado de muerte por negligencia en san diego",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 70.5
+    },
+    {
+      "query": "abogado de resbalón y caída en san diego",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 55.666666666666664
+    },
+    {
+      "query": "abogado de workers comp",
+      "clicks": 0,
+      "impressions": 747,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "abogado in english",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "abogados",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 4.5
+    },
+    {
+      "query": "abogados accidentes san diego",
+      "clicks": 0,
+      "impressions": 32,
+      "ctr": 0,
+      "position": 57.40625
+    },
+    {
+      "query": "abogados de accidente",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 41
+    },
+    {
+      "query": "abogados de accidente de auto",
+      "clicks": 0,
+      "impressions": 364,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "abogados de accidente de carro cerca de mi",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "abogados de accidentes",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 21
+    },
+    {
+      "query": "abogados de accidentes ahora",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 41
+    },
+    {
+      "query": "abogados de accidentes cerca de mi",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 41
+    },
+    {
+      "query": "abogados de accidentes chula vista",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 35
+    },
+    {
+      "query": "abogados de accidentes de autos",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "abogados de accidentes de trabajo",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 1.5
+    },
+    {
+      "query": "abogados de accidentes de trabajo near me",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 37
+    },
+    {
+      "query": "abogados de accidentes en escondido",
+      "clicks": 0,
+      "impressions": 52,
+      "ctr": 0,
+      "position": 1.8653846153846154
+    },
+    {
+      "query": "abogados de accidentes en san diego",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 51.416666666666664
+    },
+    {
+      "query": "abogados de accidentes near me",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 25.705882352941178
+    },
+    {
+      "query": "abogados de accidentes san diego",
+      "clicks": 0,
+      "impressions": 272,
+      "ctr": 0,
+      "position": 61.6764705882353
+    },
+    {
+      "query": "abogados de lesiones",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 41
+    },
+    {
+      "query": "abogados de lesiones en hayward",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 91
+    },
+    {
+      "query": "abogados de lesiones en san diego",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 39
+    },
+    {
+      "query": "abogados de lesiones personales",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 28
+    },
+    {
+      "query": "abogados de mordeduras de perro en riverside",
+      "clicks": 0,
+      "impressions": 26,
+      "ctr": 0,
+      "position": 83.11538461538461
+    },
+    {
+      "query": "abogados de workers comp",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 2.571428571428571
+    },
+    {
+      "query": "abogados de workers compensation",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 21
+    },
+    {
+      "query": "abogados para accidentes",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 41
+    },
+    {
+      "query": "accessibility violations",
+      "clicks": 0,
+      "impressions": 28,
+      "ctr": 0,
+      "position": 50.107142857142854
+    },
+    {
+      "query": "accident & injury lawyers",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10.5
+    },
+    {
+      "query": "accident and injury attorney",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "accident and injury attorney near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "accident and injury attorneys",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 10.428571428571429
+    },
+    {
+      "query": "accident and injury lawyers",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 10.8
+    },
+    {
+      "query": "accident and injury lawyers near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "accident and personal injury lawyers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "accident at fault no insurance",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 29.333333333333332
+    },
+    {
+      "query": "accident attorney",
+      "clicks": 0,
+      "impressions": 1137,
+      "ctr": 0,
+      "position": 1.5576077396657872
+    },
+    {
+      "query": "accident attorney california",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "accident attorney carlsbad",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 41
+    },
+    {
+      "query": "accident attorney escondido",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 3.7777777777777777
+    },
+    {
+      "query": "accident attorney fairfield county",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 89
+    },
+    {
+      "query": "accident attorney free consultation 92101",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 80.33333333333333
+    },
+    {
+      "query": "accident attorney free consultation san diego",
+      "clicks": 0,
+      "impressions": 44,
+      "ctr": 0,
+      "position": 81.95454545454545
+    },
+    {
+      "query": "accident attorney in san diego",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 53
+    },
+    {
+      "query": "accident attorney national city, ca",
+      "clicks": 0,
+      "impressions": 61,
+      "ctr": 0,
+      "position": 28.0327868852459
+    },
+    {
+      "query": "accident attorney near me",
+      "clicks": 0,
+      "impressions": 98,
+      "ctr": 0,
+      "position": 16.306122448979593
+    },
+    {
+      "query": "accident attorney near me samer habbas",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 47.666666666666664
+    },
+    {
+      "query": "accident attorney riverside",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 54.666666666666664
+    },
+    {
+      "query": "accident attorney riverside ca",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 98.5
+    },
+    {
+      "query": "accident attorney san diego",
+      "clicks": 0,
+      "impressions": 77,
+      "ctr": 0,
+      "position": 58.25974025974026
+    },
+    {
+      "query": "accident attorney san diego ca",
+      "clicks": 0,
+      "impressions": 22,
+      "ctr": 0,
+      "position": 56.27272727272727
+    },
+    {
+      "query": "accident attorney san diego, ca",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 66.66666666666667
+    },
+    {
+      "query": "accident attorney sd",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 24.545454545454547
+    },
+    {
+      "query": "accident attorneys",
+      "clicks": 0,
+      "impressions": 42,
+      "ctr": 0,
+      "position": 24.404761904761905
+    },
+    {
+      "query": "accident attorneys in san diego",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 99
+    },
+    {
+      "query": "accident attorneys near me",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 12.2
+    },
+    {
+      "query": "accident attorneys san diego",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 82
+    },
+    {
+      "query": "accident auto attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "accident causes multiple vehicles involved",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "accident claim san diego ca",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 16
+    },
+    {
+      "query": "accident claims attorney riverside",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 84
     }
   ],
   "topPages": [
     {
       "page": "https://www.harkerinjurylaw.com/",
-      "clicks": 143,
-      "impressions": 86660,
-      "ctr": 0.0016501269328409879,
-      "position": 15.473482575582738
-    },
-    {
-      "page": "https://www.harkerinjurylaw.com/legal-guidance/tenant-injuries-caused-by-landlord-negligence/",
-      "clicks": 23,
-      "impressions": 4349,
-      "ctr": 0.005288572085536905,
-      "position": 4.186709588411129
+      "clicks": 138,
+      "impressions": 117448,
+      "ctr": 0.0011749880798310741,
+      "position": 14.629895783665964
     },
     {
       "page": "https://www.harkerinjurylaw.com/legal-guidance/social-media-surveillance/",
-      "clicks": 19,
-      "impressions": 6762,
-      "ctr": 0.0028098195800059155,
-      "position": 7.456965394853594
+      "clicks": 28,
+      "impressions": 11586,
+      "ctr": 0.002416709822199206,
+      "position": 7.150353875366822
     },
     {
       "page": "https://www.harkerinjurylaw.com/legal-guidance/teen-driver-accidents-parental-liability-and-protection/",
-      "clicks": 18,
-      "impressions": 6119,
-      "ctr": 0.002941657133518549,
-      "position": 6.031377676090864
+      "clicks": 28,
+      "impressions": 9404,
+      "ctr": 0.0029774564015312634,
+      "position": 5.7771161207996595
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/tenant-injuries-caused-by-landlord-negligence/",
+      "clicks": 28,
+      "impressions": 6328,
+      "ctr": 0.004424778761061947,
+      "position": 4.686472819216182
     },
     {
       "page": "https://www.harkerinjurylaw.com/legal-guidance/accidents-involving-minors/",
+      "clicks": 15,
+      "impressions": 3226,
+      "ctr": 0.0046497210167389955,
+      "position": 15.218536887786733
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/the-role-of-insurance-adjusters-in-personal-injury-claims/",
+      "clicks": 8,
+      "impressions": 2431,
+      "ctr": 0.003290826820238585,
+      "position": 7.649526943644591
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/understanding-californias-liability-laws/",
+      "clicks": 8,
+      "impressions": 1085,
+      "ctr": 0.007373271889400922,
+      "position": 13.990783410138249
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/car-accident-while-driving-for-work/",
+      "clicks": 7,
+      "impressions": 1773,
+      "ctr": 0.003948110547095319,
+      "position": 26.927241962774957
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/ada-violations-and-accessibility-injuries/",
       "clicks": 6,
-      "impressions": 1775,
-      "ctr": 0.0033802816901408453,
-      "position": 18.737464788732396
+      "impressions": 724,
+      "ctr": 0.008287292817679558,
+      "position": 9.243093922651934
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/elevator-and-escalator-accidents-owner-negligence/",
+      "clicks": 6,
+      "impressions": 2181,
+      "ctr": 0.002751031636863824,
+      "position": 13.203576341127922
     },
     {
       "page": "https://www.harkerinjurylaw.com/legal-guidance/getting-sued-car-accident-california/",
       "clicks": 5,
-      "impressions": 1570,
-      "ctr": 0.0031847133757961785,
-      "position": 39.91656050955414
+      "impressions": 3618,
+      "ctr": 0.0013819789939192924,
+      "position": 45.48535102266445
     },
     {
-      "page": "https://www.harkerinjurylaw.com/legal-guidance/understanding-californias-liability-laws/",
-      "clicks": 5,
-      "impressions": 781,
-      "ctr": 0.006402048655569782,
-      "position": 17.90653008962868
+      "page": "https://www.harkerinjurylaw.com/bronson-harker-esq/",
+      "clicks": 4,
+      "impressions": 716,
+      "ctr": 0.00558659217877095,
+      "position": 7.262569832402234
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/factors-that-determine-liability-in-car-accidents/",
+      "clicks": 4,
+      "impressions": 3367,
+      "ctr": 0.001188001188001188,
+      "position": 10.984258984258984
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/ptsd-and-mental-health-claims-after-an-accident-in-california/",
+      "clicks": 4,
+      "impressions": 1531,
+      "ctr": 0.002612671456564337,
+      "position": 15.225996080992815
     },
     {
       "page": "https://www.harkerinjurylaw.com/legal-guidance/the-impact-of-wearable-technology-on-injury-claims/",
       "clicks": 4,
-      "impressions": 367,
-      "ctr": 0.010899182561307902,
-      "position": 8.937329700272478
-    },
-    {
-      "page": "https://www.harkerinjurylaw.com/legal-guidance/the-role-of-insurance-adjusters-in-personal-injury-claims/",
-      "clicks": 4,
-      "impressions": 1524,
-      "ctr": 0.0026246719160104987,
-      "position": 8.036745406824146
-    },
-    {
-      "page": "https://www.harkerinjurylaw.com/bronson-harker-esq/",
-      "clicks": 3,
-      "impressions": 667,
-      "ctr": 0.004497751124437781,
-      "position": 7.263868065967016
-    },
-    {
-      "page": "https://www.harkerinjurylaw.com/legal-guidance/car-accident-while-driving-for-work/",
-      "clicks": 3,
-      "impressions": 1289,
-      "ctr": 0.0023273855702094647,
-      "position": 29.65166795965865
-    },
-    {
-      "page": "https://www.harkerinjurylaw.com/legal-guidance/ptsd-and-mental-health-claims-after-an-accident-in-california/",
-      "clicks": 3,
-      "impressions": 744,
-      "ctr": 0.004032258064516129,
-      "position": 16.600806451612904
+      "impressions": 534,
+      "ctr": 0.00749063670411985,
+      "position": 8.151685393258427
     },
     {
       "page": "https://www.harkerinjurylaw.com/legal-guidance/the-role-of-police-reports-in-car-accident-cases/",
-      "clicks": 3,
-      "impressions": 2161,
-      "ctr": 0.0013882461823229986,
-      "position": 7.7403979639055995
+      "clicks": 4,
+      "impressions": 2877,
+      "ctr": 0.0013903371567605145,
+      "position": 7.473757386166145
     },
     {
       "page": "https://www.harkerinjurylaw.com/our-firm/",
+      "clicks": 4,
+      "impressions": 659,
+      "ctr": 0.006069802731411229,
+      "position": 8.238239757207891
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/personal-injury-trial-process/",
       "clicks": 3,
-      "impressions": 716,
-      "ctr": 0.004189944134078212,
-      "position": 6.175977653631285
+      "impressions": 750,
+      "ctr": 0.004,
+      "position": 30.954666666666668
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/what-happens-if-a-driver-leaves-the-scene-of-an-accident-in-california/",
+      "clicks": 3,
+      "impressions": 829,
+      "ctr": 0.0036188178528347406,
+      "position": 7.893848009650181
     },
     {
       "page": "https://www.harkerinjurylaw.com/early-action-steps-after-a-fatal-accident/",
       "clicks": 2,
-      "impressions": 26,
-      "ctr": 0.07692307692307693,
-      "position": 7.461538461538462
+      "impressions": 41,
+      "ctr": 0.04878048780487805,
+      "position": 7.439024390243903
     },
     {
       "page": "https://www.harkerinjurylaw.com/legal-guidance/appealing-a-denied-injury-claim/",
       "clicks": 2,
-      "impressions": 206,
-      "ctr": 0.009708737864077669,
-      "position": 13.20388349514563
+      "impressions": 309,
+      "ctr": 0.006472491909385114,
+      "position": 11.870550161812298
     },
     {
       "page": "https://www.harkerinjurylaw.com/legal-guidance/dog-bite-injuries-in-california-owner-liability-and-compensation/",
       "clicks": 2,
-      "impressions": 2419,
-      "ctr": 0.0008267879288962381,
-      "position": 25.594460520876396
-    },
-    {
-      "page": "https://www.harkerinjurylaw.com/legal-guidance/elevator-and-escalator-accidents-owner-negligence/",
-      "clicks": 2,
-      "impressions": 1718,
-      "ctr": 0.0011641443538998836,
-      "position": 14.757275902211875
+      "impressions": 4264,
+      "ctr": 0.00046904315196998124,
+      "position": 23.74343339587242
     },
     {
       "page": "https://www.harkerinjurylaw.com/legal-guidance/fight-personal-injury-lawsuit/",
       "clicks": 2,
-      "impressions": 420,
-      "ctr": 0.004761904761904762,
-      "position": 16.173809523809524
+      "impressions": 791,
+      "ctr": 0.0025284450063211127,
+      "position": 12.064475347661189
     },
     {
-      "page": "https://www.harkerinjurylaw.com/legal-guidance/personal-injury-trial-process/",
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/how-weather-conditions-affect-personal-injury-claims/",
       "clicks": 2,
-      "impressions": 429,
-      "ctr": 0.004662004662004662,
-      "position": 31.685314685314687
+      "impressions": 977,
+      "ctr": 0.0020470829068577278,
+      "position": 6.9109518935516885
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/locations/escondido/",
+      "clicks": 2,
+      "impressions": 2171,
+      "ctr": 0.0009212344541685859,
+      "position": 20.88438507600184
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/medical-malpractice-in-the-age-of-telemedicine/",
+      "clicks": 2,
+      "impressions": 955,
+      "ctr": 0.0020942408376963353,
+      "position": 14.25130890052356
     },
     {
       "page": "https://www.harkerinjurylaw.com/legal-guidance/structured-settlements-vs-lump-sum-payouts-in-wrongful-death-cases/",
       "clicks": 2,
-      "impressions": 1029,
-      "ctr": 0.001943634596695821,
-      "position": 18.93586005830904
+      "impressions": 1561,
+      "ctr": 0.0012812299807815502,
+      "position": 18.64445868033312
     },
     {
       "page": "https://www.harkerinjurylaw.com/legal-guidance/the-hidden-costs-of-car-accidents/",
       "clicks": 2,
-      "impressions": 606,
-      "ctr": 0.0033003300330033004,
-      "position": 14.358085808580858
+      "impressions": 662,
+      "ctr": 0.0030211480362537764,
+      "position": 13.776435045317221
     },
     {
       "page": "https://www.harkerinjurylaw.com/legal-guidance/the-role-of-surveillance-footage-in-slip-and-fall-claims/",
       "clicks": 2,
-      "impressions": 826,
-      "ctr": 0.002421307506053269,
-      "position": 9.835351089588377
+      "impressions": 940,
+      "ctr": 0.002127659574468085,
+      "position": 9.426595744680851
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/when-to-consult-a-lawyer-for-a-truck-accident/",
+      "clicks": 2,
+      "impressions": 663,
+      "ctr": 0.0030165912518853697,
+      "position": 20.369532428355956
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/wrongful-death-consultation-questions/",
+      "clicks": 2,
+      "impressions": 1122,
+      "ctr": 0.0017825311942959,
+      "position": 6.769162210338681
     },
     {
       "page": "https://www.harkerinjurylaw.com/locations/",
       "clicks": 2,
-      "impressions": 858,
-      "ctr": 0.002331002331002331,
-      "position": 3.769230769230769
+      "impressions": 209,
+      "ctr": 0.009569377990430622,
+      "position": 5.315789473684211
     },
     {
       "page": "https://www.harkerinjurylaw.com/medical-malpractice-lawyer/",
       "clicks": 2,
-      "impressions": 2654,
-      "ctr": 0.0007535795026375283,
-      "position": 50.06405425772419
+      "impressions": 3023,
+      "ctr": 0.0006615944426066821,
+      "position": 45.349652662917634
     },
     {
       "page": "https://www.harkerinjurylaw.com/nursing-home-abuse-lawyer/",
       "clicks": 2,
-      "impressions": 4769,
-      "ctr": 0.0004193751310547285,
-      "position": 31.42398825749633
+      "impressions": 6234,
+      "ctr": 0.0003208213025344883,
+      "position": 27.306705165222972
     },
     {
       "page": "https://www.harkerinjurylaw.com/the-impact-of-wearable-technology-on-injury-claims/",
       "clicks": 2,
-      "impressions": 61,
-      "ctr": 0.03278688524590164,
-      "position": 8.21311475409836
-    },
-    {
-      "page": "https://www.harkerinjurylaw.com/blog/",
-      "clicks": 1,
-      "impressions": 15,
-      "ctr": 0.06666666666666667,
-      "position": 2.2666666666666666
+      "impressions": 52,
+      "ctr": 0.038461538461538464,
+      "position": 8.173076923076923
     },
     {
       "page": "https://www.harkerinjurylaw.com/car-crash-escondido-southbound-15-near-via-rancho-pkwy/",
       "clicks": 1,
-      "impressions": 59,
-      "ctr": 0.01694915254237288,
-      "position": 16.74576271186441
+      "impressions": 56,
+      "ctr": 0.017857142857142856,
+      "position": 15.517857142857142
     },
     {
       "page": "https://www.harkerinjurylaw.com/dog-bite-lawyer/",
       "clicks": 1,
-      "impressions": 5378,
-      "ctr": 0.0001859427296392711,
-      "position": 44.648568240981774
+      "impressions": 7188,
+      "ctr": 0.0001391207568169171,
+      "position": 36.70283806343907
     },
     {
       "page": "https://www.harkerinjurylaw.com/impact-of-covid-19-on-wrongful-death-cases-in-california/",
@@ -1213,138 +2319,1495 @@
       "position": 4.5
     },
     {
-      "page": "https://www.harkerinjurylaw.com/legal-guidance/ada-violations-and-accessibility-injuries/",
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/2018-02-12-fatal-accident-la-mesa-freeway-crash/",
       "clicks": 1,
-      "impressions": 403,
-      "ctr": 0.0024813895781637717,
-      "position": 12.069478908188586
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 28.666666666666668
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/accidents-caused-by-road-debris-who-is-responsible/",
+      "clicks": 1,
+      "impressions": 214,
+      "ctr": 0.004672897196261682,
+      "position": 6.785046728971962
     },
     {
       "page": "https://www.harkerinjurylaw.com/legal-guidance/after-personal-injury-case-deposition/",
       "clicks": 1,
-      "impressions": 4365,
-      "ctr": 0.0002290950744558992,
-      "position": 62.401832760595646
+      "impressions": 5628,
+      "ctr": 0.00017768301350390902,
+      "position": 59.01581378820185
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/california-tenant-rights/",
+      "clicks": 1,
+      "impressions": 276,
+      "ctr": 0.0036231884057971015,
+      "position": 7.478260869565218
+    },
+    {
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/can-you-settle-a-personal-injury-case-without-going-to-court/",
+      "clicks": 1,
+      "impressions": 287,
+      "ctr": 0.003484320557491289,
+      "position": 19.226480836236934
     },
     {
       "page": "https://www.harkerinjurylaw.com/legal-guidance/compensating-emotional-and-psychological-injuries-in-pi-cases/",
       "clicks": 1,
-      "impressions": 317,
-      "ctr": 0.0031545741324921135,
-      "position": 9.993690851735016
+      "impressions": 465,
+      "ctr": 0.002150537634408602,
+      "position": 9.193548387096774
     },
     {
       "page": "https://www.harkerinjurylaw.com/legal-guidance/distracted-driving-accidents-and-personal-injury-claims/",
       "clicks": 1,
-      "impressions": 234,
-      "ctr": 0.004273504273504274,
-      "position": 16.60683760683761
+      "impressions": 411,
+      "ctr": 0.0024330900243309003,
+      "position": 18.515815085158152
     },
     {
       "page": "https://www.harkerinjurylaw.com/legal-guidance/essential-evidence-you-need-to-win-your-slip-and-fall-case/",
       "clicks": 1,
-      "impressions": 406,
-      "ctr": 0.0024630541871921183,
-      "position": 9.5
-    },
-    {
-      "page": "https://www.harkerinjurylaw.com/legal-guidance/factors-that-determine-liability-in-car-accidents/",
-      "clicks": 1,
-      "impressions": 2570,
-      "ctr": 0.0003891050583657588,
-      "position": 12.341634241245137
+      "impressions": 686,
+      "ctr": 0.0014577259475218659,
+      "position": 8.23469387755102
     },
     {
       "page": "https://www.harkerinjurylaw.com/legal-guidance/file-wrongful-death-lawsuit/",
       "clicks": 1,
-      "impressions": 858,
-      "ctr": 0.0011655011655011655,
-      "position": 57.425407925407924
-    },
-    {
-      "page": "https://www.harkerinjurylaw.com/legal-guidance/how-weather-conditions-affect-personal-injury-claims/",
-      "clicks": 1,
-      "impressions": 482,
-      "ctr": 0.002074688796680498,
-      "position": 8.022821576763485
+      "impressions": 1147,
+      "ctr": 0.0008718395815170009,
+      "position": 53.20052310374891
     },
     {
       "page": "https://www.harkerinjurylaw.com/legal-guidance/importance-of-timely-medical-treatment-in-personal-injury-cases/",
       "clicks": 1,
-      "impressions": 296,
-      "ctr": 0.0033783783783783786,
-      "position": 22.466216216216218
+      "impressions": 433,
+      "ctr": 0.0023094688221709007,
+      "position": 20.369515011547342
     },
     {
-      "page": "https://www.harkerinjurylaw.com/legal-guidance/locations/escondido/",
+      "page": "https://www.harkerinjurylaw.com/legal-guidance/injuries-caused-by-defective-safety-equipment/",
       "clicks": 1,
-      "impressions": 1465,
-      "ctr": 0.0006825938566552901,
-      "position": 21.662798634812287
-    },
-    {
-      "page": "https://www.harkerinjurylaw.com/legal-guidance/medical-malpractice-in-the-age-of-telemedicine/",
-      "clicks": 1,
-      "impressions": 730,
-      "ctr": 0.0013698630136986301,
-      "position": 14.85068493150685
+      "impressions": 506,
+      "ctr": 0.001976284584980237,
+      "position": 11.9901185770751
     },
     {
       "page": "https://www.harkerinjurylaw.com/legal-guidance/motorcycle-lane-splitting-laws-in-california/",
       "clicks": 1,
-      "impressions": 631,
-      "ctr": 0.001584786053882726,
-      "position": 6.974643423137876
-    },
-    {
-      "page": "https://www.harkerinjurylaw.com/legal-guidance/navigating-insurance-claims-in-california/",
-      "clicks": 1,
-      "impressions": 1521,
-      "ctr": 0.0006574621959237344,
-      "position": 47.18211702827087
-    },
-    {
-      "page": "https://www.harkerinjurylaw.com/legal-guidance/swimming-pool-slip-cases-proving-negligence/",
-      "clicks": 1,
-      "impressions": 366,
-      "ctr": 0.00273224043715847,
-      "position": 11.03825136612022
-    },
-    {
-      "page": "https://www.harkerinjurylaw.com/legal-guidance/the-impact-of-autonomous-vehicles-on-personal-injury-law/",
-      "clicks": 1,
-      "impressions": 429,
-      "ctr": 0.002331002331002331,
-      "position": 5.174825174825175
-    },
-    {
-      "page": "https://www.harkerinjurylaw.com/legal-guidance/what-to-do-car-accident-caused-by-defective-vehicle-part/",
-      "clicks": 1,
-      "impressions": 921,
-      "ctr": 0.0010857763300760044,
-      "position": 11.416938110749186
-    },
-    {
-      "page": "https://www.harkerinjurylaw.com/legal-guidance/when-to-consult-a-lawyer-for-a-truck-accident/",
-      "clicks": 1,
-      "impressions": 483,
-      "ctr": 0.002070393374741201,
-      "position": 20.03312629399586
-    },
-    {
-      "page": "https://www.harkerinjurylaw.com/legal-guidance/who-can-be-liable-in-a-truck-accident-in-california/",
-      "clicks": 1,
-      "impressions": 666,
-      "ctr": 0.0015015015015015015,
-      "position": 24.153153153153152
-    },
-    {
-      "page": "https://www.harkerinjurylaw.com/legal-guidance/witnesses-sought-car-crash-palomar-airport-road-yarrow-december-12-2017/",
-      "clicks": 1,
-      "impressions": 23,
-      "ctr": 0.043478260869565216,
-      "position": 13.434782608695652
+      "impressions": 1087,
+      "ctr": 0.0009199632014719411,
+      "position": 7.206991720331187
     }
   ],
-  "fetchedAt": "2026-03-18T13:06:40.257Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "truck accident attorney san diego",
+      "clicks": 211,
+      "impressions": 1139,
+      "ctr": 0.18525021949078138,
+      "position": 84.32045654082529
+    },
+    {
+      "query": "san diego truck accident attorneys",
+      "clicks": 202,
+      "impressions": 873,
+      "ctr": 0.2313860252004582,
+      "position": 96.8430698739977
+    },
+    {
+      "query": "truck accident attorney in san diego",
+      "clicks": 192,
+      "impressions": 842,
+      "ctr": 0.22802850356294538,
+      "position": 93.46912114014252
+    },
+    {
+      "query": "truck accident lawyers",
+      "clicks": 176,
+      "impressions": 1164,
+      "ctr": 0.15120274914089346,
+      "position": 39.10996563573883
+    },
+    {
+      "query": "san diego car accident lawyers",
+      "clicks": 118,
+      "impressions": 1571,
+      "ctr": 0.07511139401654997,
+      "position": 76.45130490133673
+    },
+    {
+      "query": "san diego car accident attorneys",
+      "clicks": 117,
+      "impressions": 1518,
+      "ctr": 0.07707509881422925,
+      "position": 75.3866930171278
+    },
+    {
+      "query": "auto accident lawyers san diego",
+      "clicks": 107,
+      "impressions": 759,
+      "ctr": 0.14097496706192358,
+      "position": 85.29644268774703
+    },
+    {
+      "query": "auto accident lawyer in san diego",
+      "clicks": 94,
+      "impressions": 783,
+      "ctr": 0.12005108556832694,
+      "position": 84.2375478927203
+    },
+    {
+      "query": "escondido car accident attorney",
+      "clicks": 61,
+      "impressions": 790,
+      "ctr": 0.07721518987341772,
+      "position": 12.343037974683543
+    },
+    {
+      "query": "san diego car crash lawyer",
+      "clicks": 56,
+      "impressions": 477,
+      "ctr": 0.11740041928721175,
+      "position": 79.07756813417191
+    },
+    {
+      "query": "san diego car accident attorney",
+      "clicks": 54,
+      "impressions": 2379,
+      "ctr": 0.02269861286254729,
+      "position": 78.93190416141236
+    },
+    {
+      "query": "san diego car accident lawyer",
+      "clicks": 52,
+      "impressions": 2872,
+      "ctr": 0.018105849582172703,
+      "position": 81.37639275766017
+    },
+    {
+      "query": "car crash lawyer san diego",
+      "clicks": 38,
+      "impressions": 494,
+      "ctr": 0.07692307692307693,
+      "position": 85.9089068825911
+    },
+    {
+      "query": "san diego truck accident lawyer",
+      "clicks": 36,
+      "impressions": 1798,
+      "ctr": 0.020022246941045607,
+      "position": 78.27030033370411
+    },
+    {
+      "query": "car accident injury attorney san diego",
+      "clicks": 34,
+      "impressions": 312,
+      "ctr": 0.10897435897435898,
+      "position": 95.57051282051282
+    },
+    {
+      "query": "san diego wrongful death attorney",
+      "clicks": 24,
+      "impressions": 1592,
+      "ctr": 0.01507537688442211,
+      "position": 86.35615577889448
+    },
+    {
+      "query": "harker injury law",
+      "clicks": 22,
+      "impressions": 302,
+      "ctr": 0.0728476821192053,
+      "position": 1.2582781456953642
+    },
+    {
+      "query": "san diego car accident lawyers | harker injury law",
+      "clicks": 22,
+      "impressions": 260,
+      "ctr": 0.08461538461538462,
+      "position": 1.4692307692307693
+    },
+    {
+      "query": "motorcycle accident attorneys san diego",
+      "clicks": 21,
+      "impressions": 442,
+      "ctr": 0.04751131221719457,
+      "position": 59.90723981900452
+    },
+    {
+      "query": "san diego dog bite attorney",
+      "clicks": 21,
+      "impressions": 964,
+      "ctr": 0.021784232365145227,
+      "position": 83.00622406639005
+    },
+    {
+      "query": "motorcycle accident law firm san diego",
+      "clicks": 20,
+      "impressions": 436,
+      "ctr": 0.045871559633027525,
+      "position": 52.09403669724771
+    },
+    {
+      "query": "san diego motorcycle accident law firm",
+      "clicks": 20,
+      "impressions": 573,
+      "ctr": 0.034904013961605584,
+      "position": 54.047120418848166
+    },
+    {
+      "query": "san diego motorcycle accident lawyer",
+      "clicks": 19,
+      "impressions": 4471,
+      "ctr": 0.004249608588682621,
+      "position": 50.56273764258555
+    },
+    {
+      "query": "car accident attorney san diego",
+      "clicks": 18,
+      "impressions": 1995,
+      "ctr": 0.009022556390977444,
+      "position": 86.50275689223058
+    },
+    {
+      "query": "car accident lawyer in san diego",
+      "clicks": 16,
+      "impressions": 377,
+      "ctr": 0.042440318302387266,
+      "position": 69.23076923076923
+    },
+    {
+      "query": "auto accident attorney in san diego",
+      "clicks": 15,
+      "impressions": 174,
+      "ctr": 0.08620689655172414,
+      "position": 98.28735632183908
+    },
+    {
+      "query": "auto accident attorney san diego",
+      "clicks": 15,
+      "impressions": 414,
+      "ctr": 0.036231884057971016,
+      "position": 89.73671497584542
+    },
+    {
+      "query": "san diego motorcycle accident attorneys",
+      "clicks": 15,
+      "impressions": 363,
+      "ctr": 0.04132231404958678,
+      "position": 59.20385674931129
+    },
+    {
+      "query": "san diego wrongful death lawyer",
+      "clicks": 15,
+      "impressions": 2152,
+      "ctr": 0.006970260223048327,
+      "position": 80.39451672862454
+    },
+    {
+      "query": "truck accident lawyer san diego",
+      "clicks": 15,
+      "impressions": 941,
+      "ctr": 0.015940488841657812,
+      "position": 75.80233793836344
+    },
+    {
+      "query": "truck accident lawyer",
+      "clicks": 14,
+      "impressions": 3592,
+      "ctr": 0.0038975501113585748,
+      "position": 34.72800668151448
+    },
+    {
+      "query": "motorcycle accident lawyer in san diego",
+      "clicks": 11,
+      "impressions": 614,
+      "ctr": 0.017915309446254073,
+      "position": 40.995114006514655
+    },
+    {
+      "query": "san diego auto accident attorney",
+      "clicks": 11,
+      "impressions": 885,
+      "ctr": 0.012429378531073447,
+      "position": 82.0587570621469
+    },
+    {
+      "query": "san diego truck accident attorney",
+      "clicks": 11,
+      "impressions": 1112,
+      "ctr": 0.009892086330935251,
+      "position": 78.98471223021583
+    },
+    {
+      "query": "san diego personal injury lawyers",
+      "clicks": 10,
+      "impressions": 254,
+      "ctr": 0.03937007874015748,
+      "position": 88.06692913385827
+    },
+    {
+      "query": "truck accident attorney",
+      "clicks": 10,
+      "impressions": 3040,
+      "ctr": 0.003289473684210526,
+      "position": 40.02368421052632
+    },
+    {
+      "query": "motorcycle accident attorney san diego ca",
+      "clicks": 9,
+      "impressions": 630,
+      "ctr": 0.014285714285714285,
+      "position": 52.492063492063494
+    },
+    {
+      "query": "san diego dog bite lawyer",
+      "clicks": 9,
+      "impressions": 782,
+      "ctr": 0.011508951406649617,
+      "position": 84.90281329923273
+    },
+    {
+      "query": "san diego motorcycle accident attorney",
+      "clicks": 8,
+      "impressions": 2931,
+      "ctr": 0.002729443875810304,
+      "position": 64.27226202661208
+    },
+    {
+      "query": "personal injury lawyer attorney",
+      "clicks": 5,
+      "impressions": 46,
+      "ctr": 0.10869565217391304,
+      "position": 9.956521739130435
+    },
+    {
+      "query": "san diego personal injury lawyer",
+      "clicks": 5,
+      "impressions": 537,
+      "ctr": 0.00931098696461825,
+      "position": 94.6145251396648
+    },
+    {
+      "query": "top rated personal injury lawyer",
+      "clicks": 5,
+      "impressions": 40,
+      "ctr": 0.125,
+      "position": 20.375
+    },
+    {
+      "query": "car accident lawyer escondido",
+      "clicks": 4,
+      "impressions": 1251,
+      "ctr": 0.0031974420463629096,
+      "position": 6.265387689848121
+    },
+    {
+      "query": "personal injury attorney",
+      "clicks": 4,
+      "impressions": 2011,
+      "ctr": 0.001989060169070114,
+      "position": 16.565887618100447
+    },
+    {
+      "query": "accident attorney",
+      "clicks": 3,
+      "impressions": 412,
+      "ctr": 0.007281553398058253,
+      "position": 9.060679611650485
+    },
+    {
+      "query": "auto accident attorney",
+      "clicks": 3,
+      "impressions": 558,
+      "ctr": 0.005376344086021506,
+      "position": 12.245519713261649
+    },
+    {
+      "query": "car accident lawyer escondido ca",
+      "clicks": 3,
+      "impressions": 222,
+      "ctr": 0.013513513513513514,
+      "position": 16.83783783783784
+    },
+    {
+      "query": "escondido car accident lawyer",
+      "clicks": 3,
+      "impressions": 1029,
+      "ctr": 0.0029154518950437317,
+      "position": 14.613216715257531
+    },
+    {
+      "query": "harker injury law escondido",
+      "clicks": 3,
+      "impressions": 182,
+      "ctr": 0.016483516483516484,
+      "position": 1
+    },
+    {
+      "query": "harker injury law escondido ca",
+      "clicks": 3,
+      "impressions": 146,
+      "ctr": 0.02054794520547945,
+      "position": 1
+    },
+    {
+      "query": "accident lawyer",
+      "clicks": 2,
+      "impressions": 113,
+      "ctr": 0.017699115044247787,
+      "position": 4.628318584070796
+    },
+    {
+      "query": "car accident lawyer",
+      "clicks": 2,
+      "impressions": 1514,
+      "ctr": 0.001321003963011889,
+      "position": 7.294583883751652
+    },
+    {
+      "query": "car accident lawyer guys escondido",
+      "clicks": 2,
+      "impressions": 65,
+      "ctr": 0.03076923076923077,
+      "position": 1.0615384615384615
+    },
+    {
+      "query": "car accident lawyer san diego gatewayinjurylaw",
+      "clicks": 2,
+      "impressions": 61,
+      "ctr": 0.03278688524590164,
+      "position": 1.2459016393442623
+    },
+    {
+      "query": "car crash lawyer",
+      "clicks": 2,
+      "impressions": 240,
+      "ctr": 0.008333333333333333,
+      "position": 12.1625
+    },
+    {
+      "query": "escondido truck accident lawyer",
+      "clicks": 2,
+      "impressions": 385,
+      "ctr": 0.005194805194805195,
+      "position": 8.254545454545454
+    },
+    {
+      "query": "malpractice lawyer",
+      "clicks": 2,
+      "impressions": 13,
+      "ctr": 0.15384615384615385,
+      "position": 6.461538461538462
+    },
+    {
+      "query": "motorcycle accident lawyers san diego",
+      "clicks": 2,
+      "impressions": 869,
+      "ctr": 0.0023014959723820483,
+      "position": 50.915995397008054
+    },
+    {
+      "query": "workers comp lawyer",
+      "clicks": 2,
+      "impressions": 28,
+      "ctr": 0.07142857142857142,
+      "position": 8.428571428571429
+    },
+    {
+      "query": "workmans comp lawyer",
+      "clicks": 2,
+      "impressions": 7,
+      "ctr": 0.2857142857142857,
+      "position": 3.142857142857143
+    },
+    {
+      "query": "abogado de accidente de carro cerca de mi",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 1.125
+    },
+    {
+      "query": "abogado de workers compensation",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "accident lawyers near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 1
+    },
+    {
+      "query": "attorney",
+      "clicks": 1,
+      "impressions": 60,
+      "ctr": 0.016666666666666666,
+      "position": 1.6333333333333333
+    },
+    {
+      "query": "best medical malpractice lawyers in southern california",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 18
+    },
+    {
+      "query": "best workers comp attorney near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 17.5
+    },
+    {
+      "query": "car accident lawyers",
+      "clicks": 1,
+      "impressions": 144,
+      "ctr": 0.006944444444444444,
+      "position": 12.340277777777779
+    },
+    {
+      "query": "car accident lawyers near me",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 2.3636363636363633
+    },
+    {
+      "query": "car wreck attorney",
+      "clicks": 1,
+      "impressions": 114,
+      "ctr": 0.008771929824561403,
+      "position": 10.921052631578947
+    },
+    {
+      "query": "employment law attorneys near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 30
+    },
+    {
+      "query": "harker injury law ca",
+      "clicks": 1,
+      "impressions": 147,
+      "ctr": 0.006802721088435374,
+      "position": 1.0136054421768708
+    },
+    {
+      "query": "harker injury law escondido, ca",
+      "clicks": 1,
+      "impressions": 71,
+      "ctr": 0.014084507042253521,
+      "position": 1
+    },
+    {
+      "query": "harker injury law in san diego ca",
+      "clicks": 1,
+      "impressions": 128,
+      "ctr": 0.0078125,
+      "position": 1.125
+    },
+    {
+      "query": "harker injury law san diego",
+      "clicks": 1,
+      "impressions": 143,
+      "ctr": 0.006993006993006993,
+      "position": 1
+    },
+    {
+      "query": "harker injury law san diego california",
+      "clicks": 1,
+      "impressions": 131,
+      "ctr": 0.007633587786259542,
+      "position": 1
+    },
+    {
+      "query": "lawyers specializing in mold cases",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 13
+    },
+    {
+      "query": "malpractice lawyer near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "medical malpractice attorney san diego",
+      "clicks": 1,
+      "impressions": 566,
+      "ctr": 0.0017667844522968198,
+      "position": 58.8356890459364
+    },
+    {
+      "query": "medical malpractice lawyer san diego",
+      "clicks": 1,
+      "impressions": 392,
+      "ctr": 0.002551020408163265,
+      "position": 55.67857142857143
+    },
+    {
+      "query": "medical malpractive lawyer",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "medical negligence attorney near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "nursing home abuse attorneys",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "pedestrian accident lawyer",
+      "clicks": 1,
+      "impressions": 485,
+      "ctr": 0.002061855670103093,
+      "position": 24.36082474226804
+    },
+    {
+      "query": "pedestrian lawyer",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "personal injury lawyer",
+      "clicks": 1,
+      "impressions": 1932,
+      "ctr": 0.0005175983436853002,
+      "position": 20.276915113871635
+    },
+    {
+      "query": "personal injury lawyers in san diego",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 61
+    },
+    {
+      "query": "personal injury lawyers san diego",
+      "clicks": 1,
+      "impressions": 22,
+      "ctr": 0.045454545454545456,
+      "position": 85.86363636363636
+    },
+    {
+      "query": "personal injury plaintiff",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "property damage attorney san diego",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 5
+    },
+    {
+      "query": "toxic mold lawyers near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 6
+    },
+    {
+      "query": "truck accident lawyer escondido",
+      "clicks": 1,
+      "impressions": 54,
+      "ctr": 0.018518518518518517,
+      "position": 6.037037037037037
+    },
+    {
+      "query": "work comp attorneys near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 6.25
+    },
+    {
+      "query": "workers comp lawyers in san diego",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 74.77777777777777
+    },
+    {
+      "query": "workers compensation attorney",
+      "clicks": 1,
+      "impressions": 670,
+      "ctr": 0.0014925373134328358,
+      "position": 6.582089552238806
+    },
+    {
+      "query": "workers compensation attorneys near me",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 2
+    },
+    {
+      "query": "workers compensation lawyer",
+      "clicks": 1,
+      "impressions": 633,
+      "ctr": 0.001579778830963665,
+      "position": 7.453396524486572
+    },
+    {
+      "query": "workers compensation lawyer near me",
+      "clicks": 1,
+      "impressions": 171,
+      "ctr": 0.005847953216374269,
+      "position": 2.175438596491228
+    },
+    {
+      "query": "\"injury claim lawyer\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "+car +crash +attorney",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "+personal +injury +law +firm",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 22
+    },
+    {
+      "query": "11801 pierce st suite 200 riverside ca 92505",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 66
+    },
+    {
+      "query": "18 wheeler accident attorney",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 28
+    },
+    {
+      "query": "18 wheeler accident attorney near me",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 26.833333333333332
+    },
+    {
+      "query": "18 wheeler accident attorney san diego",
+      "clicks": 0,
+      "impressions": 30,
+      "ctr": 0,
+      "position": 74.56666666666666
+    },
+    {
+      "query": "18 wheeler accident attorneys",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 24
+    },
+    {
+      "query": "18 wheeler accident lawyer",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 26.333333333333332
+    },
+    {
+      "query": "18 wheeler accident lawyer riverside",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 157
+    },
+    {
+      "query": "18 wheeler accident lawyer san diego",
+      "clicks": 0,
+      "impressions": 29,
+      "ctr": 0,
+      "position": 90.44827586206897
+    },
+    {
+      "query": "18 wheeler accident lawyers",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 23.333333333333332
+    },
+    {
+      "query": "18 wheeler wreck lawyers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "220 west broadway san diego",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 77.33333333333333
+    },
+    {
+      "query": "24 hour car accident lawyer",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "325 south melrose drive",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 68
+    },
+    {
+      "query": "4100 main street riverside ca",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 91
+    },
+    {
+      "query": "4102 orange ave",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 61.5
+    },
+    {
+      "query": "4102 orange st riverside ca 92501",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 47
+    },
+    {
+      "query": "450/5400",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "500 la terraza blvd escondido ca 92025",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 77
+    },
+    {
+      "query": "500 la terraza blvd suite 150",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 59.75
+    },
+    {
+      "query": "5215 gaines st",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 19
+    },
+    {
+      "query": "6195163000",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "6195273500",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 8.75
+    },
+    {
+      "query": "6264 w 700 n, fair oaks, in",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 58.2
+    },
+    {
+      "query": "8584957900",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "92074 lawyer car accident injury",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 2.857142857142857
+    },
+    {
+      "query": "951-222-0384",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 35.666666666666664
+    },
+    {
+      "query": "951-275-5076",
+      "clicks": 0,
+      "impressions": 27,
+      "ctr": 0,
+      "position": 9.11111111111111
+    },
+    {
+      "query": "951-777-3147",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 63.666666666666664
+    },
+    {
+      "query": "9512755076",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 9.285714285714286
+    },
+    {
+      "query": "a deposition is taken in what phase of a lawsuit",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 75
+    },
+    {
+      "query": "a deposition may be taken in which phase of the lawsuit",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 81
+    },
+    {
+      "query": "a deposition may be taken in which phase of the lawsuit?",
+      "clicks": 0,
+      "impressions": 28,
+      "ctr": 0,
+      "position": 80.14285714285714
+    },
+    {
+      "query": "a lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "a lawyer for car accident",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "a personal injury lawyer",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 1.1111111111111112
+    },
+    {
+      "query": "abogado",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "abogado de",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "abogado de accidene de camion en san diego",
+      "clicks": 0,
+      "impressions": 34,
+      "ctr": 0,
+      "position": 82.79411764705883
+    },
+    {
+      "query": "abogado de accidente",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "abogado de accidente de bus en san diego",
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 82.47368421052632
+    },
+    {
+      "query": "abogado de accidente de camión en san diego",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 80.06666666666666
+    },
+    {
+      "query": "abogado de accidente de coche en san diego",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 90.75
+    },
+    {
+      "query": "abogado de accidente de motocicleta en san diego",
+      "clicks": 0,
+      "impressions": 22,
+      "ctr": 0,
+      "position": 93.5
+    },
+    {
+      "query": "abogado de accidente de peatón en san diego",
+      "clicks": 0,
+      "impressions": 21,
+      "ctr": 0,
+      "position": 88.28571428571429
+    },
+    {
+      "query": "abogado de accidentes personales en san diego",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 87
+    },
+    {
+      "query": "abogado de lesion personal en san diego",
+      "clicks": 0,
+      "impressions": 48,
+      "ctr": 0,
+      "position": 75.875
+    },
+    {
+      "query": "abogado de lesiones personales en san diego",
+      "clicks": 0,
+      "impressions": 278,
+      "ctr": 0,
+      "position": 67.26258992805755
+    },
+    {
+      "query": "abogado de lesión en san diego",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 87.42857142857143
+    },
+    {
+      "query": "abogado de lesión personal en san diego",
+      "clicks": 0,
+      "impressions": 60,
+      "ctr": 0,
+      "position": 72.63333333333334
+    },
+    {
+      "query": "abogado de mordedura de perro en san diego",
+      "clicks": 0,
+      "impressions": 232,
+      "ctr": 0,
+      "position": 74.46982758620689
+    },
+    {
+      "query": "abogado de mordida de perro en san diego",
+      "clicks": 0,
+      "impressions": 46,
+      "ctr": 0,
+      "position": 71.06521739130434
+    },
+    {
+      "query": "abogado de muerte injusta en san diego",
+      "clicks": 0,
+      "impressions": 40,
+      "ctr": 0,
+      "position": 69.475
+    },
+    {
+      "query": "abogado de muerte por negligencia en san diego",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 88
+    },
+    {
+      "query": "abogado de resbalón y caída en san diego",
+      "clicks": 0,
+      "impressions": 31,
+      "ctr": 0,
+      "position": 58.58064516129032
+    },
+    {
+      "query": "abogado de trabajo cerca de mi",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "abogado legal",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 19
+    },
+    {
+      "query": "abogado malpractice",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "abogado near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "abogado por muerte injusta en san diego",
+      "clicks": 0,
+      "impressions": 50,
+      "ctr": 0,
+      "position": 66.64
+    },
+    {
+      "query": "abogados",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "abogados de accidentes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "abogados de accidentes en escondido",
+      "clicks": 0,
+      "impressions": 83,
+      "ctr": 0,
+      "position": 8.891566265060241
+    },
+    {
+      "query": "abogados de accidentes en san diego",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 96
+    },
+    {
+      "query": "abogados de accidentes san diego",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 87
+    },
+    {
+      "query": "abogados de lesiones personales",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "abogados de lesiones personales en san diego",
+      "clicks": 0,
+      "impressions": 33,
+      "ctr": 0,
+      "position": 53.72727272727273
+    },
+    {
+      "query": "abogados de workers comp",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 28
+    },
+    {
+      "query": "abogados de workers compensation",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 35
+    },
+    {
+      "query": "abogados familiares near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 15
+    },
+    {
+      "query": "abogados near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 11.5
+    },
+    {
+      "query": "abogados para accidentes de carro near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "accident and injury attorneys",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 25.5
+    },
+    {
+      "query": "accident and injury lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "accident and injury lawyers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "accident and injury lawyers coachella valley",
+      "clicks": 0,
+      "impressions": 31,
+      "ctr": 0,
+      "position": 74.35483870967742
+    },
+    {
+      "query": "accident attorney car",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 50.5
+    },
+    {
+      "query": "accident attorney del mar ca",
+      "clicks": 0,
+      "impressions": 129,
+      "ctr": 0,
+      "position": 42.69767441860465
+    },
+    {
+      "query": "accident attorney escondido",
+      "clicks": 0,
+      "impressions": 93,
+      "ctr": 0,
+      "position": 2.4946236559139785
+    },
+    {
+      "query": "accident attorney free consultation",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "accident attorney hemet ca",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 87
+    },
+    {
+      "query": "accident attorney in san diego",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "accident attorney lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "accident attorney national city, ca",
+      "clicks": 0,
+      "impressions": 130,
+      "ctr": 0,
+      "position": 12.7
+    },
+    {
+      "query": "accident attorney near me",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 13.375
+    },
+    {
+      "query": "accident attorney san diego",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 29
+    },
+    {
+      "query": "accident attorney san diego ca",
+      "clicks": 0,
+      "impressions": 48,
+      "ctr": 0,
+      "position": 79.58333333333333
+    },
+    {
+      "query": "accident attorney san diego, ca",
+      "clicks": 0,
+      "impressions": 50,
+      "ctr": 0,
+      "position": 80.84
+    },
+    {
+      "query": "accident attorneys",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 11.461538461538462
+    },
+    {
+      "query": "accident attorneys com",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "accident attorneys del mar ca",
+      "clicks": 0,
+      "impressions": 125,
+      "ctr": 0,
+      "position": 44.984
+    },
+    {
+      "query": "accident attorneys in my area",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "accident attorneys in my area coachella valley",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 96.85714285714286
+    },
+    {
+      "query": "accident attorneys near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "accident car lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "accident claims lawyers",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "accident claims lawyers coachella valley",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 72
+    },
+    {
+      "query": "accident costs",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 94.52941176470588
+    },
+    {
+      "query": "accident defense lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "accident injury attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "accident injury attorneys",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:21:29.690Z"
 }

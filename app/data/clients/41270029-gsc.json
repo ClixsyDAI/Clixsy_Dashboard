@@ -1,156 +1,16 @@
 {
   "property": "https://www.injury-attorneys.com/",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 14388,
-    "impressions": 5529574,
-    "ctr": 0.002602008762338654,
-    "position": 23.02141840500527
+    "clicks": 13837,
+    "impressions": 5954105,
+    "ctr": 0.0023239428931804192,
+    "position": 22.088731496498486
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 161,
-      "impressions": 48495,
-      "ctr": 0.0033199298896793485,
-      "position": 22.209939168986494
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 173,
-      "impressions": 50204,
-      "ctr": 0.00344594056250498,
-      "position": 21.92263564656203
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 175,
-      "impressions": 44758,
-      "ctr": 0.00390991554582421,
-      "position": 20.568702801733767
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 168,
-      "impressions": 52294,
-      "ctr": 0.0032126056526561365,
-      "position": 25.965560102497417
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 156,
-      "impressions": 55372,
-      "ctr": 0.002817308386910352,
-      "position": 26.86054323484794
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 131,
-      "impressions": 46573,
-      "ctr": 0.002812788525540549,
-      "position": 24.384621991282504
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 152,
-      "impressions": 49039,
-      "ctr": 0.0030995738086013174,
-      "position": 25.918636187524214
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 166,
-      "impressions": 59206,
-      "ctr": 0.002803769888187008,
-      "position": 20.382967942438267
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 143,
-      "impressions": 55149,
-      "ctr": 0.0025929753939328004,
-      "position": 26.853179568079202
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 116,
-      "impressions": 44181,
-      "ctr": 0.002625563024829678,
-      "position": 26.68914239152577
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 103,
-      "impressions": 39279,
-      "ctr": 0.0026222663509763485,
-      "position": 24.574301789760433
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 151,
-      "impressions": 45218,
-      "ctr": 0.0033393781237560263,
-      "position": 20.709872174797646
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 140,
-      "impressions": 43685,
-      "ctr": 0.0032047613597344627,
-      "position": 21.752798443401627
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 138,
-      "impressions": 48665,
-      "ctr": 0.002835713551833967,
-      "position": 24.15249152368232
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 182,
-      "impressions": 57853,
-      "ctr": 0.003145904274627072,
-      "position": 19.320899521200282
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 178,
-      "impressions": 57993,
-      "ctr": 0.0030693359543393166,
-      "position": 24.14920766299381
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 130,
-      "impressions": 52901,
-      "ctr": 0.0024574204646415003,
-      "position": 23.75894595565301
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 133,
-      "impressions": 53343,
-      "ctr": 0.002493298089721238,
-      "position": 25.55289353804623
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 221,
-      "impressions": 49759,
-      "ctr": 0.004441407584557568,
-      "position": 19.76848409332985
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 130,
-      "impressions": 44005,
-      "ctr": 0.0029542097488921715,
-      "position": 22.029337575275537
-    },
     {
       "date": "2026-01-04",
       "clicks": 159,
@@ -640,274 +500,358 @@
       "impressions": 61127,
       "ctr": 0.0019140478021169042,
       "position": 21.564791336070805
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 104,
+      "impressions": 63992,
+      "ctr": 0.0016252031503937992,
+      "position": 21.92122452806601
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 130,
+      "impressions": 76298,
+      "ctr": 0.0017038454481113528,
+      "position": 22.033198773231277
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 137,
+      "impressions": 69743,
+      "ctr": 0.001964354845647592,
+      "position": 21.273131353684242
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 132,
+      "impressions": 69328,
+      "ctr": 0.0019039926148165243,
+      "position": 21.556456265866604
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 147,
+      "impressions": 69406,
+      "ctr": 0.0021179725095813043,
+      "position": 20.940034002823964
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 146,
+      "impressions": 64727,
+      "ctr": 0.002255627481576467,
+      "position": 20.30413892193366
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 98,
+      "impressions": 57069,
+      "ctr": 0.0017172195062117787,
+      "position": 22.891815171108657
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 80,
+      "impressions": 60861,
+      "ctr": 0.0013144706790884145,
+      "position": 21.232710602849114
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 154,
+      "impressions": 60371,
+      "ctr": 0.0025508936409865666,
+      "position": 20.427075913932185
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 131,
+      "impressions": 71758,
+      "ctr": 0.001825580423088715,
+      "position": 19.15535550043201
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 121,
+      "impressions": 65388,
+      "ctr": 0.0018504924450969597,
+      "position": 21.168440692481802
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 105,
+      "impressions": 67961,
+      "ctr": 0.0015450037521519695,
+      "position": 20.992260266917793
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 122,
+      "impressions": 61052,
+      "ctr": 0.001998296534102077,
+      "position": 20.3587269868309
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 84,
+      "impressions": 58326,
+      "ctr": 0.0014401810513321675,
+      "position": 21.936220553441004
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 92,
+      "impressions": 75165,
+      "ctr": 0.0012239739240337924,
+      "position": 19.58670923967272
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 114,
+      "impressions": 84114,
+      "ctr": 0.001355303516655967,
+      "position": 17.341179827377132
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 121,
+      "impressions": 72621,
+      "ctr": 0.0016661847124110106,
+      "position": 13.57096432161496
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 136,
+      "impressions": 71763,
+      "ctr": 0.0018951270153142984,
+      "position": 13.867132087566016
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 134,
+      "impressions": 72318,
+      "ctr": 0.0018529273486545535,
+      "position": 14.590019082386128
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 127,
+      "impressions": 65667,
+      "ctr": 0.00193400033502368,
+      "position": 16.08538535337384
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 81,
+      "impressions": 64575,
+      "ctr": 0.0012543554006968641,
+      "position": 14.43989159891599
     }
   ],
   "topQueries": [
     {
       "query": "demas law group",
-      "clicks": 508,
-      "impressions": 1904,
-      "ctr": 0.2668067226890756,
-      "position": 1.1675420168067228
+      "clicks": 571,
+      "impressions": 2124,
+      "ctr": 0.2688323917137476,
+      "position": 1.14924670433145
     },
     {
       "query": "can a 16 year old drive with passengers in california",
-      "clicks": 71,
-      "impressions": 1888,
-      "ctr": 0.03760593220338983,
-      "position": 1.829978813559322
+      "clicks": 53,
+      "impressions": 1695,
+      "ctr": 0.03126843657817109,
+      "position": 2.23716814159292
     },
     {
       "query": "demas law group sacramento",
-      "clicks": 53,
-      "impressions": 143,
-      "ctr": 0.3706293706293706,
-      "position": 1.0419580419580419
+      "clicks": 48,
+      "impressions": 149,
+      "ctr": 0.3221476510067114,
+      "position": 1.348993288590604
     },
     {
       "query": "john demas",
-      "clicks": 47,
-      "impressions": 336,
-      "ctr": 0.13988095238095238,
-      "position": 3.3660714285714284
+      "clicks": 42,
+      "impressions": 367,
+      "ctr": 0.11444141689373297,
+      "position": 4.3732970027247955
     },
     {
       "query": "can a 17 year old drive with passengers in california",
-      "clicks": 43,
-      "impressions": 924,
-      "ctr": 0.046536796536796536,
-      "position": 1.7088744588744589
-    },
-    {
-      "query": "lyft deactivation lawyer",
-      "clicks": 39,
-      "impressions": 633,
-      "ctr": 0.061611374407582936,
-      "position": 2.5323854660347553
+      "clicks": 40,
+      "impressions": 968,
+      "ctr": 0.04132231404958678,
+      "position": 1.9927685950413223
     },
     {
       "query": "demas law",
-      "clicks": 28,
-      "impressions": 105,
-      "ctr": 0.26666666666666666,
-      "position": 1.019047619047619
+      "clicks": 31,
+      "impressions": 103,
+      "ctr": 0.30097087378640774,
+      "position": 1.0388349514563107
+    },
+    {
+      "query": "lyft deactivation lawyer",
+      "clicks": 30,
+      "impressions": 601,
+      "ctr": 0.04991680532445923,
+      "position": 2.843594009983361
     },
     {
       "query": "demas law group, p.c.",
-      "clicks": 26,
-      "impressions": 86,
-      "ctr": 0.3023255813953488,
-      "position": 1.0813953488372092
-    },
-    {
-      "query": "john demas attorney",
-      "clicks": 21,
-      "impressions": 107,
-      "ctr": 0.19626168224299065,
-      "position": 7.579439252336448
-    },
-    {
-      "query": "demas law firm",
-      "clicks": 19,
-      "impressions": 46,
-      "ctr": 0.41304347826086957,
-      "position": 1.0217391304347827
-    },
-    {
-      "query": "kate ebert",
-      "clicks": 18,
-      "impressions": 74,
-      "ctr": 0.24324324324324326,
-      "position": 1.689189189189189
-    },
-    {
-      "query": "property damage lawyer",
-      "clicks": 17,
-      "impressions": 417,
-      "ctr": 0.0407673860911271,
-      "position": 14.002398081534773
+      "clicks": 28,
+      "impressions": 96,
+      "ctr": 0.2916666666666667,
+      "position": 1.0729166666666667
     },
     {
       "query": "statute of limitations",
-      "clicks": 15,
-      "impressions": 110226,
-      "ctr": 0.0001360840455065048,
-      "position": 6.839838150708545
+      "clicks": 26,
+      "impressions": 179256,
+      "ctr": 0.00014504395947694917,
+      "position": 8.387401258535279
     },
     {
-      "query": "who can be in the car with a permit driver in california",
-      "clicks": 15,
-      "impressions": 90,
-      "ctr": 0.16666666666666666,
-      "position": 1.8333333333333335
+      "query": "demas law firm",
+      "clicks": 22,
+      "impressions": 57,
+      "ctr": 0.38596491228070173,
+      "position": 1.1754385964912282
     },
     {
-      "query": "can minors drive other minors",
-      "clicks": 13,
-      "impressions": 151,
-      "ctr": 0.08609271523178808,
-      "position": 2.6158940397350996
+      "query": "john demas attorney",
+      "clicks": 22,
+      "impressions": 115,
+      "ctr": 0.19130434782608696,
+      "position": 7.226086956521739
     },
     {
-      "query": "demas law group reviews",
-      "clicks": 13,
-      "impressions": 512,
-      "ctr": 0.025390625,
-      "position": 4.98828125
+      "query": "kate ebert",
+      "clicks": 16,
+      "impressions": 76,
+      "ctr": 0.21052631578947367,
+      "position": 1.868421052631579
     },
     {
       "query": "personal injury law firms in california",
-      "clicks": 13,
-      "impressions": 611,
-      "ctr": 0.02127659574468085,
-      "position": 8.039279869067103
+      "clicks": 15,
+      "impressions": 662,
+      "ctr": 0.022658610271903322,
+      "position": 8.190332326283988
+    },
+    {
+      "query": "who can be in the car with a permit driver in california",
+      "clicks": 14,
+      "impressions": 83,
+      "ctr": 0.1686746987951807,
+      "position": 1.9759036144578315
     },
     {
       "query": "demas law group, p.c., personal injury attorneys",
-      "clicks": 12,
-      "impressions": 244,
-      "ctr": 0.04918032786885246,
-      "position": 1.7131147540983607
+      "clicks": 13,
+      "impressions": 272,
+      "ctr": 0.04779411764705882,
+      "position": 1.7242647058823528
     },
     {
-      "query": "can a 16 year old drive with siblings in california",
-      "clicks": 11,
-      "impressions": 245,
-      "ctr": 0.044897959183673466,
-      "position": 2.7346938775510203
+      "query": "personal injury attorney sacramento",
+      "clicks": 13,
+      "impressions": 6514,
+      "ctr": 0.0019957015658581515,
+      "position": 7.809487258213079
     },
     {
-      "query": "injury lawyers sacramento",
-      "clicks": 11,
-      "impressions": 1731,
-      "ctr": 0.006354708261120739,
-      "position": 4.537261698440208
-    },
-    {
-      "query": "what is a dui checkpoint",
+      "query": "sacramento personal injury lawyer",
       "clicks": 10,
-      "impressions": 655,
-      "ctr": 0.015267175572519083,
-      "position": 1.4946564885496183
+      "impressions": 8995,
+      "ctr": 0.0011117287381878821,
+      "position": 6.152862701500834
     },
     {
-      "query": "how to sue lyft for deactivation",
+      "query": "can minors drive other minors",
       "clicks": 9,
-      "impressions": 99,
-      "ctr": 0.09090909090909091,
-      "position": 3.6565656565656566
+      "impressions": 144,
+      "ctr": 0.0625,
+      "position": 2.861111111111111
     },
     {
       "query": "ni young driver passenger restrictions",
       "clicks": 9,
-      "impressions": 2590,
-      "ctr": 0.0034749034749034747,
-      "position": 2.9335907335907336
+      "impressions": 2591,
+      "ctr": 0.0034735623311462757,
+      "position": 2.933230412967966
     },
     {
-      "query": "personal injury attorney sacramento",
-      "clicks": 9,
-      "impressions": 6668,
-      "ctr": 0.0013497300539892022,
-      "position": 8.363227354529094
-    },
-    {
-      "query": "sacramento personal injury lawyer",
-      "clicks": 9,
-      "impressions": 8211,
-      "ctr": 0.0010960906101571063,
-      "position": 6.854707100231397
-    },
-    {
-      "query": "california dash cam laws",
+      "query": "can a 16 year old drive with siblings in california",
       "clicks": 8,
-      "impressions": 328,
-      "ctr": 0.024390243902439025,
-      "position": 9.106707317073171
-    },
-    {
-      "query": "california total loss formula",
-      "clicks": 8,
-      "impressions": 181,
-      "ctr": 0.04419889502762431,
-      "position": 4.143646408839778
+      "impressions": 237,
+      "ctr": 0.03375527426160337,
+      "position": 2.928270042194093
     },
     {
       "query": "can a minor drive another minor in california",
       "clicks": 8,
-      "impressions": 90,
-      "ctr": 0.08888888888888889,
-      "position": 5.0777777777777775
+      "impressions": 110,
+      "ctr": 0.07272727272727272,
+      "position": 5.163636363636364
     },
     {
-      "query": "car accident attorney sacramento",
+      "query": "demas law group reviews",
       "clicks": 8,
-      "impressions": 3313,
-      "ctr": 0.0024147298520977964,
-      "position": 10.732266827648656
+      "impressions": 557,
+      "ctr": 0.01436265709156194,
+      "position": 2.81508078994614
     },
     {
-      "query": "dui checkpoint",
+      "query": "injury lawyers sacramento",
       "clicks": 8,
-      "impressions": 1491,
-      "ctr": 0.0053655264922870555,
-      "position": 3.58953722334004
-    },
-    {
-      "query": "new rules for young motorists",
-      "clicks": 8,
-      "impressions": 759,
-      "ctr": 0.010540184453227932,
-      "position": 3.399209486166008
-    },
-    {
-      "query": "who can you drive with a permit",
-      "clicks": 8,
-      "impressions": 342,
-      "ctr": 0.023391812865497075,
-      "position": 3.8567251461988303
-    },
-    {
-      "query": "can an 18 year old drive minors in california",
-      "clicks": 7,
-      "impressions": 583,
-      "ctr": 0.012006861063464836,
-      "position": 3.420240137221269
-    },
-    {
-      "query": "lyft deactivation lawyer phone number",
-      "clicks": 7,
-      "impressions": 68,
-      "ctr": 0.10294117647058823,
-      "position": 2.3382352941176467
+      "impressions": 1607,
+      "ctr": 0.004978220286247666,
+      "position": 4.904791537025513
     },
     {
       "query": "personal injury lawyer sacramento",
-      "clicks": 7,
-      "impressions": 7521,
-      "ctr": 0.0009307272969020078,
-      "position": 7.0586358197048265
-    },
-    {
-      "query": "provisional license california",
-      "clicks": 7,
-      "impressions": 1928,
-      "ctr": 0.0036307053941908715,
-      "position": 8.345435684647303
+      "clicks": 8,
+      "impressions": 8506,
+      "ctr": 0.0009405125793557489,
+      "position": 5.835057606395486
     },
     {
       "query": "sample permission letter to drive sibling california",
-      "clicks": 7,
-      "impressions": 85,
-      "ctr": 0.08235294117647059,
-      "position": 4.858823529411765
+      "clicks": 8,
+      "impressions": 96,
+      "ctr": 0.08333333333333333,
+      "position": 4.833333333333334
     },
     {
-      "query": "tim spangler",
+      "query": "california total loss formula",
       "clicks": 7,
-      "impressions": 215,
-      "ctr": 0.03255813953488372,
-      "position": 2.9720930232558143
+      "impressions": 168,
+      "ctr": 0.041666666666666664,
+      "position": 4.648809523809524
+    },
+    {
+      "query": "how to sue lyft for deactivation",
+      "clicks": 7,
+      "impressions": 91,
+      "ctr": 0.07692307692307693,
+      "position": 4.131868131868131
+    },
+    {
+      "query": "property damage lawyer",
+      "clicks": 7,
+      "impressions": 360,
+      "ctr": 0.019444444444444445,
+      "position": 24.791666666666668
+    },
+    {
+      "query": "sacramento personal injury attorney",
+      "clicks": 7,
+      "impressions": 4826,
+      "ctr": 0.0014504765851636966,
+      "position": 9.20907583920431
     },
     {
       "query": "young driver restrictions northern ireland",
@@ -917,434 +861,2953 @@
       "position": 2.252016129032258
     },
     {
-      "query": "17 year old driving restrictions california",
+      "query": "can a minor drive another minor",
       "clicks": 6,
-      "impressions": 205,
-      "ctr": 0.02926829268292683,
-      "position": 2.3219512195121954
+      "impressions": 170,
+      "ctr": 0.03529411764705882,
+      "position": 3.388235294117647
     },
     {
-      "query": "can 16 year old drive siblings",
+      "query": "can a permit driver have passengers",
       "clicks": 6,
-      "impressions": 96,
-      "ctr": 0.0625,
-      "position": 3.4479166666666665
+      "impressions": 374,
+      "ctr": 0.016042780748663103,
+      "position": 10.81283422459893
     },
     {
-      "query": "can you drive with a permit in california",
+      "query": "can an 18 year old drive minors in california",
       "clicks": 6,
-      "impressions": 292,
-      "ctr": 0.02054794520547945,
-      "position": 4.5
+      "impressions": 528,
+      "ctr": 0.011363636363636364,
+      "position": 3.962121212121212
+    },
+    {
+      "query": "car accident attorney sacramento",
+      "clicks": 6,
+      "impressions": 3323,
+      "ctr": 0.0018055973517905506,
+      "position": 10.849533554017453
     },
     {
       "query": "driving age in california",
       "clicks": 6,
-      "impressions": 1218,
-      "ctr": 0.0049261083743842365,
-      "position": 7.174055829228243
+      "impressions": 877,
+      "ctr": 0.0068415051311288486,
+      "position": 6.534777651083238
     },
     {
-      "query": "dui checkpoints",
+      "query": "law firms in sacramento",
       "clicks": 6,
-      "impressions": 4024,
-      "ctr": 0.0014910536779324055,
-      "position": 4.9286779324055665
+      "impressions": 162,
+      "ctr": 0.037037037037037035,
+      "position": 2.765432098765432
+    },
+    {
+      "query": "lyft deactivation lawyer phone number",
+      "clicks": 6,
+      "impressions": 78,
+      "ctr": 0.07692307692307693,
+      "position": 3.1153846153846154
+    },
+    {
+      "query": "provisional license california",
+      "clicks": 6,
+      "impressions": 1970,
+      "ctr": 0.003045685279187817,
+      "position": 8.571573604060914
+    },
+    {
+      "query": "when can a minor drive other minors",
+      "clicks": 6,
+      "impressions": 84,
+      "ctr": 0.07142857142857142,
+      "position": 1.8214285714285714
+    },
+    {
+      "query": "when can you drive other people in california",
+      "clicks": 6,
+      "impressions": 116,
+      "ctr": 0.05172413793103448,
+      "position": 1.9137931034482758
+    },
+    {
+      "query": "17 year old driving restrictions california",
+      "clicks": 5,
+      "impressions": 202,
+      "ctr": 0.024752475247524754,
+      "position": 3.5445544554455446
+    },
+    {
+      "query": "california dash cam laws",
+      "clicks": 5,
+      "impressions": 288,
+      "ctr": 0.017361111111111112,
+      "position": 9.211805555555555
+    },
+    {
+      "query": "can you drive with a permit",
+      "clicks": 5,
+      "impressions": 1044,
+      "ctr": 0.004789272030651341,
+      "position": 4.8486590038314175
+    },
+    {
+      "query": "can you drive with a permit in california",
+      "clicks": 5,
+      "impressions": 318,
+      "ctr": 0.015723270440251572,
+      "position": 4.827044025157233
+    },
+    {
+      "query": "how old do you have to be to drive other people in california",
+      "clicks": 5,
+      "impressions": 52,
+      "ctr": 0.09615384615384616,
+      "position": 2.2115384615384617
+    },
+    {
+      "query": "is lyft deactivation permanent",
+      "clicks": 5,
+      "impressions": 277,
+      "ctr": 0.018050541516245487,
+      "position": 5.722021660649819
+    },
+    {
+      "query": "jacqueline siemens",
+      "clicks": 5,
+      "impressions": 77,
+      "ctr": 0.06493506493506493,
+      "position": 2.012987012987013
+    },
+    {
+      "query": "john demas sacramento",
+      "clicks": 5,
+      "impressions": 14,
+      "ctr": 0.35714285714285715,
+      "position": 1.0714285714285714
+    },
+    {
+      "query": "law internships sacramento",
+      "clicks": 5,
+      "impressions": 25,
+      "ctr": 0.2,
+      "position": 7.4
+    },
+    {
+      "query": "learner permit",
+      "clicks": 5,
+      "impressions": 141,
+      "ctr": 0.03546099290780142,
+      "position": 3.0709219858156027
+    },
+    {
+      "query": "legal internships sacramento",
+      "clicks": 5,
+      "impressions": 26,
+      "ctr": 0.19230769230769232,
+      "position": 9
+    },
+    {
+      "query": "lien on settlement proceeds",
+      "clicks": 5,
+      "impressions": 166,
+      "ctr": 0.030120481927710843,
+      "position": 11.759036144578314
     },
     {
       "query": "matthew bradley attorney",
-      "clicks": 6,
-      "impressions": 36,
+      "clicks": 5,
+      "impressions": 30,
       "ctr": 0.16666666666666666,
-      "position": 5.388888888888889
+      "position": 5.3
     },
     {
-      "query": "property damage lawyers near me",
-      "clicks": 6,
-      "impressions": 106,
-      "ctr": 0.05660377358490566,
-      "position": 6.849056603773585
+      "query": "most dangerous dog breeds",
+      "clicks": 5,
+      "impressions": 440,
+      "ctr": 0.011363636363636364,
+      "position": 10.404545454545454
     },
     {
-      "query": "provisional license",
-      "clicks": 6,
-      "impressions": 1685,
-      "ctr": 0.0035608308605341245,
-      "position": 4.423145400593471
+      "query": "tim spangler",
+      "clicks": 5,
+      "impressions": 218,
+      "ctr": 0.022935779816513763,
+      "position": 2.8256880733944953
     },
     {
-      "query": "sacramento personal injury attorney",
-      "clicks": 6,
-      "impressions": 4948,
-      "ctr": 0.0012126111560226355,
-      "position": 9.688358932902183
+      "query": "who can be in the car with a permit driver over 18 in california",
+      "clicks": 5,
+      "impressions": 205,
+      "ctr": 0.024390243902439025,
+      "position": 4.2975609756097555
+    },
+    {
+      "query": "who can drive with a permit driver",
+      "clicks": 5,
+      "impressions": 158,
+      "ctr": 0.03164556962025317,
+      "position": 10.626582278481013
+    },
+    {
+      "query": "who can you drive with when you have a permit",
+      "clicks": 5,
+      "impressions": 167,
+      "ctr": 0.029940119760479042,
+      "position": 4.083832335329341
+    },
+    {
+      "query": "act of god defense",
+      "clicks": 4,
+      "impressions": 137,
+      "ctr": 0.029197080291970802,
+      "position": 3.9635036496350367
     },
     {
       "query": "bad faith insurance attorney near me",
-      "clicks": 5,
-      "impressions": 33,
-      "ctr": 0.15151515151515152,
-      "position": 9.545454545454545
+      "clicks": 4,
+      "impressions": 28,
+      "ctr": 0.14285714285714285,
+      "position": 13.035714285714286
+    },
+    {
+      "query": "best personal injury lawyer sacramento",
+      "clicks": 4,
+      "impressions": 1211,
+      "ctr": 0.0033030553261767133,
+      "position": 8.167630057803468
+    },
+    {
+      "query": "ca dmv provisional license rules",
+      "clicks": 4,
+      "impressions": 41,
+      "ctr": 0.0975609756097561,
+      "position": 7.560975609756097
     },
     {
       "query": "ca teen driver restrictions",
-      "clicks": 5,
-      "impressions": 73,
-      "ctr": 0.0684931506849315,
-      "position": 1.589041095890411
+      "clicks": 4,
+      "impressions": 67,
+      "ctr": 0.05970149253731343,
+      "position": 2.8507462686567164
+    },
+    {
+      "query": "california subrogation statute of limitations",
+      "clicks": 4,
+      "impressions": 99,
+      "ctr": 0.04040404040404041,
+      "position": 2.7777777777777777
+    },
+    {
+      "query": "can a 18 year old drive with passengers in california",
+      "clicks": 4,
+      "impressions": 402,
+      "ctr": 0.009950248756218905,
+      "position": 4.169154228855721
+    },
+    {
+      "query": "can a minor with a license drive with another minor",
+      "clicks": 4,
+      "impressions": 64,
+      "ctr": 0.0625,
+      "position": 1.828125
+    },
+    {
+      "query": "can a new driver drive siblings in california",
+      "clicks": 4,
+      "impressions": 105,
+      "ctr": 0.0380952380952381,
+      "position": 2.7142857142857144
+    },
+    {
+      "query": "can minors drive other minors in california",
+      "clicks": 4,
+      "impressions": 60,
+      "ctr": 0.06666666666666667,
+      "position": 3.433333333333333
+    },
+    {
+      "query": "can you drive minors when you get your license",
+      "clicks": 4,
+      "impressions": 55,
+      "ctr": 0.07272727272727272,
+      "position": 2.7272727272727275
+    },
+    {
+      "query": "can you drive siblings with a provisional license in california",
+      "clicks": 4,
+      "impressions": 341,
+      "ctr": 0.011730205278592375,
+      "position": 4.483870967741936
+    },
+    {
+      "query": "car accident lawyer",
+      "clicks": 4,
+      "impressions": 136188,
+      "ctr": 0.000029371163391781947,
+      "position": 10.675536758010985
+    },
+    {
+      "query": "car accident physical therapy settlement",
+      "clicks": 4,
+      "impressions": 805,
+      "ctr": 0.004968944099378882,
+      "position": 7.515527950310559
+    },
+    {
+      "query": "demas",
+      "clicks": 4,
+      "impressions": 1833,
+      "ctr": 0.002182214948172395,
+      "position": 9.296781232951446
+    },
+    {
+      "query": "driving restrictions",
+      "clicks": 4,
+      "impressions": 2590,
+      "ctr": 0.0015444015444015444,
+      "position": 6.783397683397683
+    },
+    {
+      "query": "dui checkpoint",
+      "clicks": 4,
+      "impressions": 828,
+      "ctr": 0.004830917874396135,
+      "position": 4.452898550724638
+    },
+    {
+      "query": "dui checkpoints",
+      "clicks": 4,
+      "impressions": 1765,
+      "ctr": 0.0022662889518413596,
+      "position": 5.530878186968838
+    },
+    {
+      "query": "folsom accident",
+      "clicks": 4,
+      "impressions": 455,
+      "ctr": 0.008791208791208791,
+      "position": 8.428571428571429
+    },
+    {
+      "query": "folsom car accident today",
+      "clicks": 4,
+      "impressions": 322,
+      "ctr": 0.012422360248447204,
+      "position": 7.950310559006211
+    },
+    {
+      "query": "hwy 160 sacramento motorcycle accident",
+      "clicks": 4,
+      "impressions": 121,
+      "ctr": 0.03305785123966942,
+      "position": 5.363636363636363
+    },
+    {
+      "query": "insurance companies ranked by customer satisfaction",
+      "clicks": 4,
+      "impressions": 47,
+      "ctr": 0.0851063829787234,
+      "position": 3.0638297872340425
+    },
+    {
+      "query": "kingsburg car accident today",
+      "clicks": 4,
+      "impressions": 81,
+      "ctr": 0.04938271604938271,
+      "position": 6.320987654320987
+    },
+    {
+      "query": "lien on personal injury settlement",
+      "clicks": 4,
+      "impressions": 48,
+      "ctr": 0.08333333333333333,
+      "position": 2.625
+    },
+    {
+      "query": "lyft deactivation",
+      "clicks": 4,
+      "impressions": 163,
+      "ctr": 0.024539877300613498,
+      "position": 7.134969325153374
+    },
+    {
+      "query": "malpractice attorney sacramento",
+      "clicks": 4,
+      "impressions": 72,
+      "ctr": 0.05555555555555555,
+      "position": 3.8194444444444446
+    },
+    {
+      "query": "personal injury attorney california",
+      "clicks": 4,
+      "impressions": 1391,
+      "ctr": 0.002875629043853343,
+      "position": 20.800143781452192
+    },
+    {
+      "query": "personal injury lawyer",
+      "clicks": 4,
+      "impressions": 99534,
+      "ctr": 0.000040187272690738845,
+      "position": 1.93840295778327
+    },
+    {
+      "query": "premises liability california",
+      "clicks": 4,
+      "impressions": 340,
+      "ctr": 0.011764705882352941,
+      "position": 48.81470588235294
+    },
+    {
+      "query": "provisional license",
+      "clicks": 4,
+      "impressions": 1898,
+      "ctr": 0.002107481559536354,
+      "position": 5.092729188619599
+    },
+    {
+      "query": "rideshare deactivation lawyer",
+      "clicks": 4,
+      "impressions": 32,
+      "ctr": 0.125,
+      "position": 5.5625
+    },
+    {
+      "query": "rules for 16 year old drivers in california",
+      "clicks": 4,
+      "impressions": 325,
+      "ctr": 0.012307692307692308,
+      "position": 4.667692307692308
+    },
+    {
+      "query": "what are the rules for driving with a permit in california",
+      "clicks": 4,
+      "impressions": 65,
+      "ctr": 0.06153846153846154,
+      "position": 4.292307692307692
+    },
+    {
+      "query": "what happens after discovery in a lawsuit",
+      "clicks": 4,
+      "impressions": 559,
+      "ctr": 0.007155635062611807,
+      "position": 5.4078711985688726
+    },
+    {
+      "query": "what is a dui checkpoint",
+      "clicks": 4,
+      "impressions": 358,
+      "ctr": 0.0111731843575419,
+      "position": 1.8910614525139664
+    },
+    {
+      "query": "when can you drive your friends in california",
+      "clicks": 4,
+      "impressions": 65,
+      "ctr": 0.06153846153846154,
+      "position": 1.676923076923077
+    },
+    {
+      "query": "16 year old driving with passengers penalty california",
+      "clicks": 3,
+      "impressions": 46,
+      "ctr": 0.06521739130434782,
+      "position": 2.5652173913043477
+    },
+    {
+      "query": "accident attorney sacramento",
+      "clicks": 3,
+      "impressions": 2232,
+      "ctr": 0.0013440860215053765,
+      "position": 10.822132616487455
+    },
+    {
+      "query": "after discovery what happens",
+      "clicks": 3,
+      "impressions": 54,
+      "ctr": 0.05555555555555555,
+      "position": 3.1481481481481484
+    },
+    {
+      "query": "are dash cams legal",
+      "clicks": 3,
+      "impressions": 729,
+      "ctr": 0.00411522633744856,
+      "position": 30.227709190672154
+    },
+    {
+      "query": "auto accident lawyers",
+      "clicks": 3,
+      "impressions": 2743,
+      "ctr": 0.001093693036820999,
+      "position": 52.43456069996354
+    },
+    {
+      "query": "beanie bishop dui",
+      "clicks": 3,
+      "impressions": 6,
+      "ctr": 0.5,
+      "position": 4
+    },
+    {
+      "query": "before and after witness deposition outline",
+      "clicks": 3,
+      "impressions": 62,
+      "ctr": 0.04838709677419355,
+      "position": 1.4193548387096775
+    },
+    {
+      "query": "best workers comp attorney sacramento",
+      "clicks": 3,
+      "impressions": 67,
+      "ctr": 0.04477611940298507,
+      "position": 6.313432835820896
+    },
+    {
+      "query": "california instruction permit (over 18)",
+      "clicks": 3,
+      "impressions": 793,
+      "ctr": 0.0037831021437578815,
+      "position": 8.384615384615385
+    },
+    {
+      "query": "california laws for new drivers under 18",
+      "clicks": 3,
+      "impressions": 42,
+      "ctr": 0.07142857142857142,
+      "position": 4.071428571428571
+    },
+    {
+      "query": "california provisional license",
+      "clicks": 3,
+      "impressions": 473,
+      "ctr": 0.006342494714587738,
+      "position": 8.490486257928119
+    },
+    {
+      "query": "california teen driver restrictions",
+      "clicks": 3,
+      "impressions": 39,
+      "ctr": 0.07692307692307693,
+      "position": 3.3076923076923075
+    },
+    {
+      "query": "can 16 year old drive siblings",
+      "clicks": 3,
+      "impressions": 76,
+      "ctr": 0.039473684210526314,
+      "position": 3.3947368421052633
+    },
+    {
+      "query": "can a 16 year old drive other minors in ca",
+      "clicks": 3,
+      "impressions": 37,
+      "ctr": 0.08108108108108109,
+      "position": 3.27027027027027
+    },
+    {
+      "query": "can a minor with a permit drive with another minor",
+      "clicks": 3,
+      "impressions": 25,
+      "ctr": 0.12,
+      "position": 1.8399999999999999
+    },
+    {
+      "query": "can teenagers drive other teenagers",
+      "clicks": 3,
+      "impressions": 27,
+      "ctr": 0.1111111111111111,
+      "position": 4.962962962962963
+    },
+    {
+      "query": "can teens drive with other teens",
+      "clicks": 3,
+      "impressions": 42,
+      "ctr": 0.07142857142857142,
+      "position": 5.619047619047619
+    },
+    {
+      "query": "can you drive with passengers with a permit",
+      "clicks": 3,
+      "impressions": 58,
+      "ctr": 0.05172413793103448,
+      "position": 11.206896551724139
+    },
+    {
+      "query": "car accident folsom",
+      "clicks": 3,
+      "impressions": 188,
+      "ctr": 0.015957446808510637,
+      "position": 7.7712765957446805
+    },
+    {
+      "query": "car accident lawyer sacramento",
+      "clicks": 3,
+      "impressions": 8343,
+      "ctr": 0.0003595828838547285,
+      "position": 6.961764353350114
+    },
+    {
+      "query": "ciara clement",
+      "clicks": 3,
+      "impressions": 9,
+      "ctr": 0.3333333333333333,
+      "position": 5
+    },
+    {
+      "query": "cvc 12814.6",
+      "clicks": 3,
+      "impressions": 84,
+      "ctr": 0.03571428571428571,
+      "position": 1.2261904761904763
+    },
+    {
+      "query": "dangerous dog breeds",
+      "clicks": 3,
+      "impressions": 762,
+      "ctr": 0.003937007874015748,
+      "position": 8.065616797900262
+    },
+    {
+      "query": "driving with a permit rules",
+      "clicks": 3,
+      "impressions": 37,
+      "ctr": 0.08108108108108109,
+      "position": 8.18918918918919
+    },
+    {
+      "query": "folsom car accident",
+      "clicks": 3,
+      "impressions": 378,
+      "ctr": 0.007936507936507936,
+      "position": 7.965608465608466
+    },
+    {
+      "query": "how long after discovery is settlement",
+      "clicks": 3,
+      "impressions": 243,
+      "ctr": 0.012345679012345678,
+      "position": 6.02880658436214
+    },
+    {
+      "query": "how long does discovery take in a lawsuit",
+      "clicks": 3,
+      "impressions": 199,
+      "ctr": 0.01507537688442211,
+      "position": 4.060301507537688
+    },
+    {
+      "query": "if i have a permit who can i drive with",
+      "clicks": 3,
+      "impressions": 242,
+      "ctr": 0.012396694214876033,
+      "position": 6.037190082644628
+    },
+    {
+      "query": "injury attorney",
+      "clicks": 3,
+      "impressions": 10318,
+      "ctr": 0.0002907540220973057,
+      "position": 26.196549718937778
+    },
+    {
+      "query": "injury lawyers",
+      "clicks": 3,
+      "impressions": 2389,
+      "ctr": 0.0012557555462536626,
+      "position": 12.982838007534534
+    },
+    {
+      "query": "law firms in sacramento ca",
+      "clicks": 3,
+      "impressions": 104,
+      "ctr": 0.028846153846153848,
+      "position": 1.8653846153846154
+    },
+    {
+      "query": "lawyers in sacramento",
+      "clicks": 3,
+      "impressions": 378,
+      "ctr": 0.007936507936507936,
+      "position": 2.2486772486772484
+    },
+    {
+      "query": "log book violation",
+      "clicks": 3,
+      "impressions": 52,
+      "ctr": 0.057692307692307696,
+      "position": 2.3653846153846154
+    },
+    {
+      "query": "log book violation penalties",
+      "clicks": 3,
+      "impressions": 125,
+      "ctr": 0.024,
+      "position": 6.384
+    },
+    {
+      "query": "malpractice attorney near me",
+      "clicks": 3,
+      "impressions": 72,
+      "ctr": 0.041666666666666664,
+      "position": 25.875
+    },
+    {
+      "query": "most dangerous cars of all time",
+      "clicks": 3,
+      "impressions": 130,
+      "ctr": 0.023076923076923078,
+      "position": 4.9
+    },
+    {
+      "query": "penalty for driving minors with provisional license in california",
+      "clicks": 3,
+      "impressions": 124,
+      "ctr": 0.024193548387096774,
+      "position": 4.879032258064516
+    },
+    {
+      "query": "permit drivers can drive with who",
+      "clicks": 3,
+      "impressions": 45,
+      "ctr": 0.06666666666666667,
+      "position": 11.555555555555555
+    },
+    {
+      "query": "personal injury law firm sacramento",
+      "clicks": 3,
+      "impressions": 1080,
+      "ctr": 0.002777777777777778,
+      "position": 4.707407407407407
+    },
+    {
+      "query": "personal injury lawyer california",
+      "clicks": 3,
+      "impressions": 3014,
+      "ctr": 0.0009953550099535502,
+      "position": 11.310882548108825
+    },
+    {
+      "query": "personal injury lawyer in california",
+      "clicks": 3,
+      "impressions": 550,
+      "ctr": 0.005454545454545455,
+      "position": 6.225454545454546
+    },
+    {
+      "query": "personal injury lawyers in california",
+      "clicks": 3,
+      "impressions": 587,
+      "ctr": 0.005110732538330494,
+      "position": 4.945485519591141
+    },
+    {
+      "query": "personal injury sacramento",
+      "clicks": 3,
+      "impressions": 79,
+      "ctr": 0.0379746835443038,
+      "position": 2
+    },
+    {
+      "query": "provisional license restrictions california",
+      "clicks": 3,
+      "impressions": 175,
+      "ctr": 0.017142857142857144,
+      "position": 8.662857142857142
+    },
+    {
+      "query": "radmila divac",
+      "clicks": 3,
+      "impressions": 107,
+      "ctr": 0.028037383177570093,
+      "position": 4.261682242990654
+    },
+    {
+      "query": "sacramento bicycle accident lawyer",
+      "clicks": 3,
+      "impressions": 2903,
+      "ctr": 0.0010334137099552187,
+      "position": 18.153634171546678
+    },
+    {
+      "query": "sacramento car accident lawyer",
+      "clicks": 3,
+      "impressions": 8319,
+      "ctr": 0.0003606202668589975,
+      "position": 11.031854790239212
+    },
+    {
+      "query": "sacramento injury attorney",
+      "clicks": 3,
+      "impressions": 2030,
+      "ctr": 0.001477832512315271,
+      "position": 10.472413793103449
+    },
+    {
+      "query": "sacramento personal injury",
+      "clicks": 3,
+      "impressions": 265,
+      "ctr": 0.011320754716981131,
+      "position": 9.132075471698114
+    },
+    {
+      "query": "statue of limitations",
+      "clicks": 3,
+      "impressions": 8094,
+      "ctr": 0.00037064492216456633,
+      "position": 5.941438102297998
+    },
+    {
+      "query": "sue lyft for deactivation",
+      "clicks": 3,
+      "impressions": 29,
+      "ctr": 0.10344827586206896,
+      "position": 3.1379310344827585
+    },
+    {
+      "query": "teen license restrictions",
+      "clicks": 3,
+      "impressions": 10,
+      "ctr": 0.3,
+      "position": 2
+    },
+    {
+      "query": "total loss formula california",
+      "clicks": 3,
+      "impressions": 26,
+      "ctr": 0.11538461538461539,
+      "position": 4.653846153846153
+    },
+    {
+      "query": "ups truck",
+      "clicks": 3,
+      "impressions": 1161,
+      "ctr": 0.002583979328165375,
+      "position": 1.458225667527993
+    },
+    {
+      "query": "what happens after discovery",
+      "clicks": 3,
+      "impressions": 52,
+      "ctr": 0.057692307692307696,
+      "position": 3.3846153846153846
+    },
+    {
+      "query": "what happens after discovery in a personal injury case",
+      "clicks": 3,
+      "impressions": 661,
+      "ctr": 0.0045385779122541605,
+      "position": 5.062027231467473
+    },
+    {
+      "query": "what happens if a school bus hits your car",
+      "clicks": 3,
+      "impressions": 467,
+      "ctr": 0.006423982869379015,
+      "position": 3.1670235546038543
+    },
+    {
+      "query": "what happens if you get caught driving friends before 6 months california",
+      "clicks": 3,
+      "impressions": 322,
+      "ctr": 0.009316770186335404,
+      "position": 3.279503105590062
+    },
+    {
+      "query": "when can a 16 year old drive with friends in california",
+      "clicks": 3,
+      "impressions": 77,
+      "ctr": 0.03896103896103896,
+      "position": 2.207792207792208
+    },
+    {
+      "query": "when can i drive other people in my car",
+      "clicks": 3,
+      "impressions": 46,
+      "ctr": 0.06521739130434782,
+      "position": 2.9782608695652173
+    },
+    {
+      "query": "when can you drive other people",
+      "clicks": 3,
+      "impressions": 72,
+      "ctr": 0.041666666666666664,
+      "position": 2.541666666666667
+    },
+    {
+      "query": "when can you drive other people with a license",
+      "clicks": 3,
+      "impressions": 76,
+      "ctr": 0.039473684210526314,
+      "position": 8.118421052631579
+    },
+    {
+      "query": "when can you legally drive other people in california",
+      "clicks": 3,
+      "impressions": 33,
+      "ctr": 0.09090909090909091,
+      "position": 1.4545454545454546
+    },
+    {
+      "query": "when can you start driving other people in california",
+      "clicks": 3,
+      "impressions": 60,
+      "ctr": 0.05,
+      "position": 2.583333333333333
+    },
+    {
+      "query": "who can be in the car with a permit driver over 18",
+      "clicks": 3,
+      "impressions": 253,
+      "ctr": 0.011857707509881422,
+      "position": 4.557312252964427
+    },
+    {
+      "query": "workers compensation lawyers near me",
+      "clicks": 3,
+      "impressions": 20,
+      "ctr": 0.15,
+      "position": 1.05
+    },
+    {
+      "query": "916-444-0100",
+      "clicks": 2,
+      "impressions": 5,
+      "ctr": 0.4,
+      "position": 1
+    },
+    {
+      "query": "alejandro arroyo",
+      "clicks": 2,
+      "impressions": 23,
+      "ctr": 0.08695652173913043,
+      "position": 11.08695652173913
+    },
+    {
+      "query": "are dalmatians aggressive dogs",
+      "clicks": 2,
+      "impressions": 105,
+      "ctr": 0.01904761904761905,
+      "position": 13.504761904761905
+    },
+    {
+      "query": "are dash cameras legal in california",
+      "clicks": 2,
+      "impressions": 97,
+      "ctr": 0.020618556701030927,
+      "position": 3.11340206185567
+    },
+    {
+      "query": "are u turns illegal",
+      "clicks": 2,
+      "impressions": 602,
+      "ctr": 0.0033222591362126247,
+      "position": 12.553156146179402
+    },
+    {
+      "query": "auto accident lawyer",
+      "clicks": 2,
+      "impressions": 12313,
+      "ctr": 0.00016242995208316414,
+      "position": 54.88841062291887
+    },
+    {
+      "query": "brad schultz",
+      "clicks": 2,
+      "impressions": 77,
+      "ctr": 0.025974025974025976,
+      "position": 8.974025974025974
+    },
+    {
+      "query": "brain injury attorneys in sacramento",
+      "clicks": 2,
+      "impressions": 132,
+      "ctr": 0.015151515151515152,
+      "position": 19.363636363636363
+    },
+    {
+      "query": "ca drivers permit rules",
+      "clicks": 2,
+      "impressions": 71,
+      "ctr": 0.028169014084507043,
+      "position": 7.394366197183099
+    },
+    {
+      "query": "ca provisional license restrictions",
+      "clicks": 2,
+      "impressions": 261,
+      "ctr": 0.007662835249042145,
+      "position": 6.233716475095785
+    },
+    {
+      "query": "ca total loss threshold",
+      "clicks": 2,
+      "impressions": 62,
+      "ctr": 0.03225806451612903,
+      "position": 8.048387096774194
+    },
+    {
+      "query": "ca under 18 driving restrictions",
+      "clicks": 2,
+      "impressions": 56,
+      "ctr": 0.03571428571428571,
+      "position": 2.3392857142857144
+    },
+    {
+      "query": "california criminal statute of limitations chart",
+      "clicks": 2,
+      "impressions": 585,
+      "ctr": 0.003418803418803419,
+      "position": 4.75042735042735
+    },
+    {
+      "query": "california dash cam laws 30 seconds",
+      "clicks": 2,
+      "impressions": 45,
+      "ctr": 0.044444444444444446,
+      "position": 2.5555555555555554
+    },
+    {
+      "query": "california dash cam placement",
+      "clicks": 2,
+      "impressions": 181,
+      "ctr": 0.011049723756906077,
+      "position": 11.3646408839779
+    },
+    {
+      "query": "california dashcam laws",
+      "clicks": 2,
+      "impressions": 20,
+      "ctr": 0.1,
+      "position": 4.65
+    },
+    {
+      "query": "california driving age",
+      "clicks": 2,
+      "impressions": 678,
+      "ctr": 0.0029498525073746312,
+      "position": 5.588495575221239
+    },
+    {
+      "query": "california driving permit rules",
+      "clicks": 2,
+      "impressions": 110,
+      "ctr": 0.01818181818181818,
+      "position": 6.6454545454545455
+    },
+    {
+      "query": "california learner's permit",
+      "clicks": 2,
+      "impressions": 843,
+      "ctr": 0.002372479240806643,
+      "position": 7.432977461447212
+    },
+    {
+      "query": "california learner's permit rules",
+      "clicks": 2,
+      "impressions": 165,
+      "ctr": 0.012121212121212121,
+      "position": 6.775757575757575
+    },
+    {
+      "query": "california permit rules",
+      "clicks": 2,
+      "impressions": 143,
+      "ctr": 0.013986013986013986,
+      "position": 6.27972027972028
+    },
+    {
+      "query": "california premises liability",
+      "clicks": 2,
+      "impressions": 192,
+      "ctr": 0.010416666666666666,
+      "position": 50.322916666666664
+    },
+    {
+      "query": "california premises liability law",
+      "clicks": 2,
+      "impressions": 273,
+      "ctr": 0.007326007326007326,
+      "position": 66.0989010989011
+    },
+    {
+      "query": "california total loss threshold",
+      "clicks": 2,
+      "impressions": 400,
+      "ctr": 0.005,
+      "position": 9.615
+    },
+    {
+      "query": "can 16 year olds drive minors",
+      "clicks": 2,
+      "impressions": 31,
+      "ctr": 0.06451612903225806,
+      "position": 4.612903225806452
+    },
+    {
+      "query": "can 16 year olds drive with friends",
+      "clicks": 2,
+      "impressions": 84,
+      "ctr": 0.023809523809523808,
+      "position": 8.392857142857142
+    },
+    {
+      "query": "can 17 year olds drive with passengers",
+      "clicks": 2,
+      "impressions": 36,
+      "ctr": 0.05555555555555555,
+      "position": 6.638888888888889
+    },
+    {
+      "query": "can a 16 year old drive",
+      "clicks": 2,
+      "impressions": 300,
+      "ctr": 0.006666666666666667,
+      "position": 6.28
+    },
+    {
+      "query": "can a 16 year old drive their siblings to school",
+      "clicks": 2,
+      "impressions": 60,
+      "ctr": 0.03333333333333333,
+      "position": 5.25
+    },
+    {
+      "query": "can a 17 year old drive",
+      "clicks": 2,
+      "impressions": 39,
+      "ctr": 0.05128205128205128,
+      "position": 1.717948717948718
+    },
+    {
+      "query": "can a 17 year old drive a minor in california",
+      "clicks": 2,
+      "impressions": 18,
+      "ctr": 0.1111111111111111,
+      "position": 3
+    },
+    {
+      "query": "can a driver with a learner's permit drive with passengers",
+      "clicks": 2,
+      "impressions": 11,
+      "ctr": 0.18181818181818182,
+      "position": 7.545454545454546
+    },
+    {
+      "query": "can a minor drive with other minors in the car",
+      "clicks": 2,
+      "impressions": 26,
+      "ctr": 0.07692307692307693,
+      "position": 4.576923076923077
+    },
+    {
+      "query": "can a new driver have passengers",
+      "clicks": 2,
+      "impressions": 62,
+      "ctr": 0.03225806451612903,
+      "position": 5.596774193548387
+    },
+    {
+      "query": "can a person with a permit drive with a person with a license",
+      "clicks": 2,
+      "impressions": 75,
+      "ctr": 0.02666666666666667,
+      "position": 7.226666666666667
+    },
+    {
+      "query": "can i drive with a permit",
+      "clicks": 2,
+      "impressions": 735,
+      "ctr": 0.0027210884353741495,
+      "position": 6.151020408163265
+    },
+    {
+      "query": "can i drive with my permit by myself",
+      "clicks": 2,
+      "impressions": 14,
+      "ctr": 0.14285714285714285,
+      "position": 9.214285714285714
+    },
+    {
+      "query": "can i sue lyft for deactivating my account",
+      "clicks": 2,
+      "impressions": 17,
+      "ctr": 0.11764705882352941,
+      "position": 4
+    },
+    {
+      "query": "can u drive by yourself with your permit",
+      "clicks": 2,
+      "impressions": 275,
+      "ctr": 0.007272727272727273,
+      "position": 11.12
+    },
+    {
+      "query": "can you drive minors when you turn 18",
+      "clicks": 2,
+      "impressions": 21,
+      "ctr": 0.09523809523809523,
+      "position": 4.428571428571429
     }
   ],
   "topPages": [
     {
       "page": "https://www.injury-attorneys.com/sacramento-car-accident-lawyers/can-teenager-drive-minors-california/",
-      "clicks": 5212,
-      "impressions": 824683,
-      "ctr": 0.00632000417129976,
-      "position": 6.009021648318202
+      "clicks": 4645,
+      "impressions": 796159,
+      "ctr": 0.005834261749223459,
+      "position": 6.246300048105969
     },
     {
       "page": "https://www.injury-attorneys.com/blog/who-can-ride-in-the-car-with-a-learners-permit-driver-in-california/",
-      "clicks": 1465,
-      "impressions": 287656,
-      "ctr": 0.005092888728203132,
-      "position": 7.9365909280529525
+      "clicks": 1330,
+      "impressions": 304684,
+      "ctr": 0.004365178348715391,
+      "position": 7.901327276785128
     },
     {
       "page": "https://www.injury-attorneys.com/",
-      "clicks": 754,
-      "impressions": 665057,
-      "ctr": 0.0011337374089739677,
-      "position": 35.32990104607575
+      "clicks": 736,
+      "impressions": 627260,
+      "ctr": 0.0011733571405796639,
+      "position": 34.17955074450786
     },
     {
       "page": "https://www.injury-attorneys.com/?utm_source=local&utm_medium=organic&utm_campaign=gmb",
-      "clicks": 669,
-      "impressions": 340127,
-      "ctr": 0.001966912359207002,
-      "position": 2.798507616272745
+      "clicks": 736,
+      "impressions": 543201,
+      "ctr": 0.0013549312317171728,
+      "position": 2.283079375774345
     },
     {
       "page": "https://www.injury-attorneys.com/blog/california-total-loss-law/",
-      "clicks": 659,
-      "impressions": 210914,
-      "ctr": 0.00312449624017372,
-      "position": 20.174113619769194
+      "clicks": 628,
+      "impressions": 199838,
+      "ctr": 0.0031425454618240773,
+      "position": 19.201243006835536
     },
     {
       "page": "https://www.injury-attorneys.com/driving-with-a-provisional-license-rules/",
-      "clicks": 289,
-      "impressions": 159789,
-      "ctr": 0.0018086351375876937,
-      "position": 6.303694246787952
-    },
-    {
-      "page": "https://www.injury-attorneys.com/blog/what-happens-in-the-discovery-phase/",
-      "clicks": 260,
-      "impressions": 49828,
-      "ctr": 0.005217949747130127,
-      "position": 7.323352332022156
+      "clicks": 304,
+      "impressions": 156720,
+      "ctr": 0.0019397651863195507,
+      "position": 6.782893057682491
     },
     {
       "page": "https://www.injury-attorneys.com/sacramento-car-accident-lawyers/california-dash-cam-laws/",
-      "clicks": 231,
-      "impressions": 54576,
-      "ctr": 0.004232629727352682,
-      "position": 8.184018616241572
+      "clicks": 245,
+      "impressions": 65359,
+      "ctr": 0.003748527364249759,
+      "position": 7.558377576156306
+    },
+    {
+      "page": "https://www.injury-attorneys.com/blog/what-happens-in-the-discovery-phase/",
+      "clicks": 223,
+      "impressions": 49651,
+      "ctr": 0.004491349620350043,
+      "position": 7.134921753841816
     },
     {
       "page": "https://www.injury-attorneys.com/sacramento-car-accident-lawyers/rideshare-accident-lawyers/lyft/changes-to-lyfts-decision-process-on-safety/",
-      "clicks": 218,
-      "impressions": 16555,
-      "ctr": 0.013168227121715493,
-      "position": 7.153669586227726
+      "clicks": 183,
+      "impressions": 17484,
+      "ctr": 0.010466712422786548,
+      "position": 7.253603294440631
     },
     {
       "page": "https://www.injury-attorneys.com/blog/are-u-turns-legal-in-california/",
-      "clicks": 159,
-      "impressions": 62583,
-      "ctr": 0.0025406260486074495,
-      "position": 5.537158653308406
+      "clicks": 169,
+      "impressions": 67803,
+      "ctr": 0.0024925150804536674,
+      "position": 5.449272156099288
     },
     {
       "page": "https://www.injury-attorneys.com/blog/soft-tissue-injury-vs-broken-bone/",
-      "clicks": 159,
-      "impressions": 47733,
-      "ctr": 0.0033310288479668155,
-      "position": 5.805229086795299
-    },
-    {
-      "page": "https://www.injury-attorneys.com/attorneys/john-demas/",
-      "clicks": 120,
-      "impressions": 18238,
-      "ctr": 0.006579668823335892,
-      "position": 19.094637569908983
+      "clicks": 145,
+      "impressions": 47495,
+      "ctr": 0.003052952942414991,
+      "position": 5.759174649963154
     },
     {
       "page": "https://www.injury-attorneys.com/blog/claim-adjuster-came-house/",
-      "clicks": 120,
-      "impressions": 7574,
-      "ctr": 0.015843675732770002,
-      "position": 6.229733298125165
+      "clicks": 141,
+      "impressions": 8317,
+      "ctr": 0.016953228327521944,
+      "position": 6.203438739930263
     },
     {
-      "page": "https://www.injury-attorneys.com/sacramento-car-accident-lawyers/property-damage-settlement/",
-      "clicks": 107,
-      "impressions": 12524,
-      "ctr": 0.008543596295113382,
-      "position": 9.402986266368572
-    },
-    {
-      "page": "https://www.injury-attorneys.com/faqs/types-liens-can-placed-settlement/",
-      "clicks": 103,
-      "impressions": 11907,
-      "ctr": 0.008650373729738809,
-      "position": 10.41840933904426
-    },
-    {
-      "page": "https://www.injury-attorneys.com/attorneys/",
-      "clicks": 100,
-      "impressions": 10054,
-      "ctr": 0.009946290033817386,
-      "position": 9.027252834692659
-    },
-    {
-      "page": "https://www.injury-attorneys.com/blog/settle-case-still-therapy/",
-      "clicks": 81,
-      "impressions": 8644,
-      "ctr": 0.009370661730680241,
-      "position": 6.186950485886164
-    },
-    {
-      "page": "https://www.injury-attorneys.com/blog/what-dui-checkpoint/",
-      "clicks": 80,
-      "impressions": 29741,
-      "ctr": 0.0026898893782993176,
-      "position": 5.957768736760701
-    },
-    {
-      "page": "https://www.injury-attorneys.com/about-us/employment-opportunities/",
-      "clicks": 79,
-      "impressions": 2608,
-      "ctr": 0.030291411042944784,
-      "position": 8.9670245398773
-    },
-    {
-      "page": "https://www.injury-attorneys.com/blog/i-was-hit-by-a-school-bus/",
-      "clicks": 79,
-      "impressions": 15793,
-      "ctr": 0.0050022161717216485,
-      "position": 6.557652124358893
+      "page": "https://www.injury-attorneys.com/attorneys/john-demas/",
+      "clicks": 121,
+      "impressions": 12019,
+      "ctr": 0.010067393293951244,
+      "position": 22.528496547133706
     },
     {
       "page": "https://www.injury-attorneys.com/sacramento-personal-injury-lawyers/personal-injury-lawsuit-timeline/",
-      "clicks": 79,
-      "impressions": 19453,
-      "ctr": 0.004061070271937491,
-      "position": 9.331465583714595
+      "clicks": 105,
+      "impressions": 23987,
+      "ctr": 0.0043773710759995,
+      "position": 8.189936215450036
     },
     {
-      "page": "https://www.injury-attorneys.com/blog/confidential-settlements-personal-injury-claims/",
-      "clicks": 75,
-      "impressions": 13729,
-      "ctr": 0.005462888775584529,
-      "position": 8.083618617524948
+      "page": "https://www.injury-attorneys.com/faqs/types-liens-can-placed-settlement/",
+      "clicks": 104,
+      "impressions": 13028,
+      "ctr": 0.007982806263432606,
+      "position": 10.245778323610685
     },
     {
-      "page": "https://www.injury-attorneys.com/sacramento-car-accident-lawyers/how-can-physical-therapy-maximize-your-car-accident-settlement-amount/",
-      "clicks": 75,
-      "impressions": 13546,
-      "ctr": 0.005536689797726266,
-      "position": 11.798390668832127
-    },
-    {
-      "page": "https://www.injury-attorneys.com/faqs/unresolved-liens-hold-settlement/",
-      "clicks": 67,
-      "impressions": 7225,
-      "ctr": 0.009273356401384082,
-      "position": 5.908650519031142
+      "page": "https://www.injury-attorneys.com/attorneys/",
+      "clicks": 102,
+      "impressions": 6639,
+      "ctr": 0.015363759602349751,
+      "position": 9.254104533815333
     },
     {
       "page": "https://www.injury-attorneys.com/about-us/employment-opportunities/personal-injury-file-clerk-intern/",
-      "clicks": 63,
-      "impressions": 1056,
-      "ctr": 0.05965909090909091,
-      "position": 13.803030303030303
+      "clicks": 91,
+      "impressions": 1308,
+      "ctr": 0.06957186544342507,
+      "position": 11.814984709480122
+    },
+    {
+      "page": "https://www.injury-attorneys.com/blog/confidential-settlements-personal-injury-claims/",
+      "clicks": 84,
+      "impressions": 15195,
+      "ctr": 0.005528134254689042,
+      "position": 7.686673247778875
+    },
+    {
+      "page": "https://www.injury-attorneys.com/about-us/employment-opportunities/",
+      "clicks": 80,
+      "impressions": 2799,
+      "ctr": 0.0285816362986781,
+      "position": 8.498035012504467
+    },
+    {
+      "page": "https://www.injury-attorneys.com/blog/i-was-hit-by-a-school-bus/",
+      "clicks": 77,
+      "impressions": 15660,
+      "ctr": 0.00491698595146871,
+      "position": 6.480012771392082
+    },
+    {
+      "page": "https://www.injury-attorneys.com/blog/settle-case-still-therapy/",
+      "clicks": 76,
+      "impressions": 8597,
+      "ctr": 0.0088402931255089,
+      "position": 6.16924508549494
+    },
+    {
+      "page": "https://www.injury-attorneys.com/sacramento-car-accident-lawyers/property-damage-settlement/",
+      "clicks": 70,
+      "impressions": 11142,
+      "ctr": 0.006282534553940047,
+      "position": 10.48276790522348
+    },
+    {
+      "page": "https://www.injury-attorneys.com/faqs/unresolved-liens-hold-settlement/",
+      "clicks": 69,
+      "impressions": 8628,
+      "ctr": 0.007997218358831711,
+      "position": 5.403685674547983
+    },
+    {
+      "page": "https://www.injury-attorneys.com/sacramento-car-accident-lawyers/how-can-physical-therapy-maximize-your-car-accident-settlement-amount/",
+      "clicks": 69,
+      "impressions": 13708,
+      "ctr": 0.0050335570469798654,
+      "position": 11.580974613364459
     },
     {
       "page": "https://www.injury-attorneys.com/sacramento-dog-bite-lawyers/dog-bites-which-are-the-most-dangerous-breeds/",
-      "clicks": 57,
-      "impressions": 30198,
-      "ctr": 0.0018875422213391615,
-      "position": 10.248095900390755
+      "clicks": 60,
+      "impressions": 32582,
+      "ctr": 0.0018415075808728746,
+      "position": 9.024584126204653
     },
     {
       "page": "https://www.injury-attorneys.com/blog/rear-ended-police-officer/",
-      "clicks": 56,
-      "impressions": 4013,
-      "ctr": 0.01395464739596312,
-      "position": 5.490406179915276
-    },
-    {
-      "page": "https://www.injury-attorneys.com/blog/responsibilities-social-host-serving-alcohol/",
-      "clicks": 54,
-      "impressions": 7733,
-      "ctr": 0.006983059614638562,
-      "position": 7.898228371912582
-    },
-    {
-      "page": "https://www.injury-attorneys.com/sacramento-electric-scooter-accident-lawyer/sacramento-electric-scooter-laws-explained/",
-      "clicks": 54,
-      "impressions": 4803,
-      "ctr": 0.011242973141786383,
-      "position": 13.97001873828857
-    },
-    {
-      "page": "https://www.injury-attorneys.com/blog/act-of-god-or-negligence/",
-      "clicks": 49,
-      "impressions": 7205,
-      "ctr": 0.006800832755031228,
-      "position": 5.848577376821652
-    },
-    {
-      "page": "https://www.injury-attorneys.com/sacramento-personal-injury-lawyers/insurance-bad-faith/",
-      "clicks": 48,
-      "impressions": 6147,
-      "ctr": 0.007808687164470474,
-      "position": 25.344721002114852
+      "clicks": 57,
+      "impressions": 3944,
+      "ctr": 0.014452332657200811,
+      "position": 5.539300202839756
     },
     {
       "page": "https://www.injury-attorneys.com/sacramento-personal-injury-lawyers/statute-of-limitations/",
-      "clicks": 47,
-      "impressions": 156761,
-      "ctr": 0.00029981947040399077,
-      "position": 7.306728076498619
+      "clicks": 57,
+      "impressions": 230931,
+      "ctr": 0.000246826974291022,
+      "position": 8.463177312703795
+    },
+    {
+      "page": "https://www.injury-attorneys.com/blog/act-of-god-or-negligence/",
+      "clicks": 54,
+      "impressions": 7806,
+      "ctr": 0.006917755572636433,
+      "position": 5.713681783243659
+    },
+    {
+      "page": "https://www.injury-attorneys.com/blog/juan-gonzalez-brian-law-killed-kingsburg-crash/",
+      "clicks": 51,
+      "impressions": 1668,
+      "ctr": 0.030575539568345324,
+      "position": 14.41906474820144
+    },
+    {
+      "page": "https://www.injury-attorneys.com/sacramento-electric-scooter-accident-lawyer/sacramento-electric-scooter-laws-explained/",
+      "clicks": 49,
+      "impressions": 4755,
+      "ctr": 0.010304942166140904,
+      "position": 12.324710830704522
+    },
+    {
+      "page": "https://www.injury-attorneys.com/blog/responsibilities-social-host-serving-alcohol/",
+      "clicks": 48,
+      "impressions": 9377,
+      "ctr": 0.005118907966300523,
+      "position": 7.410259144715794
+    },
+    {
+      "page": "https://www.injury-attorneys.com/settling-your-personal-injury-claim-after-physical-therapy/",
+      "clicks": 48,
+      "impressions": 7695,
+      "ctr": 0.006237816764132553,
+      "position": 11.342300194931774
+    },
+    {
+      "page": "https://www.injury-attorneys.com/blog/teenager-killed-in-sacramento-hit-and-run-crash/",
+      "clicks": 44,
+      "impressions": 1793,
+      "ctr": 0.024539877300613498,
+      "position": 9.583379810373675
+    },
+    {
+      "page": "https://www.injury-attorneys.com/blog/customers-rank-insurance-companies-coverage-service/",
+      "clicks": 43,
+      "impressions": 78953,
+      "ctr": 0.0005446278165490862,
+      "position": 8.054310792496802
+    },
+    {
+      "page": "https://www.injury-attorneys.com/sacramento-personal-injury-lawyers/insurance-bad-faith/",
+      "clicks": 43,
+      "impressions": 5997,
+      "ctr": 0.007170251792562948,
+      "position": 25.708854427213605
     },
     {
       "page": "https://www.injury-attorneys.com/blog/the-importance-of-car-insurance-for-instruction-permit-drivers/",
       "clicks": 41,
-      "impressions": 32232,
-      "ctr": 0.0012720277984611566,
-      "position": 12.00428145941921
+      "impressions": 31741,
+      "ctr": 0.0012917047352005292,
+      "position": 10.921741596042972
     },
     {
-      "page": "https://www.injury-attorneys.com/settling-your-personal-injury-claim-after-physical-therapy/",
+      "page": "https://www.injury-attorneys.com/blog/what-dui-checkpoint/",
       "clicks": 41,
-      "impressions": 6544,
-      "ctr": 0.006265281173594132,
-      "position": 12.583588019559903
-    },
-    {
-      "page": "https://www.injury-attorneys.com/blog/five-people-injured-folsom-car-accident/",
-      "clicks": 40,
-      "impressions": 2611,
-      "ctr": 0.015319800842589047,
-      "position": 8.50976637303715
-    },
-    {
-      "page": "https://www.injury-attorneys.com/blog/juan-gonzalez-brian-law-killed-kingsburg-crash/",
-      "clicks": 40,
-      "impressions": 1606,
-      "ctr": 0.024906600249066,
-      "position": 13.627646326276464
+      "impressions": 18325,
+      "ctr": 0.002237380627557981,
+      "position": 6.4620463847203276
     },
     {
       "page": "https://www.injury-attorneys.com/about-us/attorney-fees/",
-      "clicks": 39,
-      "impressions": 17379,
-      "ctr": 0.00224408769204212,
-      "position": 9.972553081305023
-    },
-    {
-      "page": "https://www.injury-attorneys.com/attorneys/kate-ebert/",
-      "clicks": 39,
-      "impressions": 793,
-      "ctr": 0.04918032786885246,
-      "position": 8.6078184110971
-    },
-    {
-      "page": "https://www.injury-attorneys.com/blog/customers-rank-insurance-companies-coverage-service/",
-      "clicks": 39,
-      "impressions": 78092,
-      "ctr": 0.0004994109511857809,
-      "position": 8.00083235158531
-    },
-    {
-      "page": "https://www.injury-attorneys.com/attorneys/ciara-clement/",
-      "clicks": 37,
-      "impressions": 587,
-      "ctr": 0.06303236797274275,
-      "position": 12.8381601362862
-    },
-    {
-      "page": "https://www.injury-attorneys.com/case-results/10-millon-dollar-bicycle-accident-verdict/",
-      "clicks": 36,
-      "impressions": 2507,
-      "ctr": 0.014359792580773833,
-      "position": 21.56761069006781
-    },
-    {
-      "page": "https://www.injury-attorneys.com/attorneys/erik-gutierrez/",
-      "clicks": 35,
-      "impressions": 1144,
-      "ctr": 0.030594405594405596,
-      "position": 13.11451048951049
-    },
-    {
-      "page": "https://www.injury-attorneys.com/blog/defense-medical-examination/",
-      "clicks": 35,
-      "impressions": 5503,
-      "ctr": 0.006360167181537343,
-      "position": 7.61820825004543
-    },
-    {
-      "page": "https://www.injury-attorneys.com/blog/rapper-young-jeezy-faces-wrongful-death-lawsuit-in-2014-shooting/",
-      "clicks": 35,
-      "impressions": 2770,
-      "ctr": 0.01263537906137184,
-      "position": 5.172563176895307
-    },
-    {
-      "page": "https://www.injury-attorneys.com/blog/who-gets-the-money-from-a-wrongful-death-lawsuit/",
-      "clicks": 35,
-      "impressions": 12669,
-      "ctr": 0.002762648985713158,
-      "position": 9.45481095587655
-    },
-    {
-      "page": "https://www.injury-attorneys.com/blog/teenager-killed-in-sacramento-hit-and-run-crash/",
-      "clicks": 33,
-      "impressions": 1497,
-      "ctr": 0.022044088176352707,
-      "position": 10.42818971275885
+      "clicks": 40,
+      "impressions": 10145,
+      "ctr": 0.003942828979793002,
+      "position": 11.400591424346969
     },
     {
       "page": "https://www.injury-attorneys.com/blog/importance-beforeafter-witness-personal-injury-cases/",
-      "clicks": 32,
-      "impressions": 2778,
-      "ctr": 0.011519078473722102,
-      "position": 8.751259899208064
+      "clicks": 40,
+      "impressions": 3010,
+      "ctr": 0.013289036544850499,
+      "position": 8.344186046511627
     },
     {
-      "page": "https://www.injury-attorneys.com/attorneys/brad-schultz/",
-      "clicks": 30,
-      "impressions": 2399,
-      "ctr": 0.012505210504376824,
-      "position": 8.0862859524802
+      "page": "https://www.injury-attorneys.com/blog/defense-medical-examination/",
+      "clicks": 39,
+      "impressions": 6393,
+      "ctr": 0.006100422336931018,
+      "position": 7.240575629594869
     },
     {
-      "page": "https://www.injury-attorneys.com/blog/what-are-logbook-violations/",
-      "clicks": 30,
-      "impressions": 7290,
-      "ctr": 0.00411522633744856,
-      "position": 14.8440329218107
+      "page": "https://www.injury-attorneys.com/attorneys/erik-gutierrez/",
+      "clicks": 38,
+      "impressions": 1073,
+      "ctr": 0.035414725069897485,
+      "position": 12.75582479030755
+    },
+    {
+      "page": "https://www.injury-attorneys.com/blog/rapper-young-jeezy-faces-wrongful-death-lawsuit-in-2014-shooting/",
+      "clicks": 38,
+      "impressions": 2916,
+      "ctr": 0.013031550068587106,
+      "position": 4.880315500685871
+    },
+    {
+      "page": "https://www.injury-attorneys.com/blog/can-insurance-company-cancel-car-insurance-policy/",
+      "clicks": 36,
+      "impressions": 27206,
+      "ctr": 0.0013232375211350436,
+      "position": 13.95438506211865
+    },
+    {
+      "page": "https://www.injury-attorneys.com/blog/who-gets-the-money-from-a-wrongful-death-lawsuit/",
+      "clicks": 34,
+      "impressions": 13201,
+      "ctr": 0.002575562457389592,
+      "position": 9.01666540413605
+    },
+    {
+      "page": "https://www.injury-attorneys.com/blog/five-people-injured-folsom-car-accident/",
+      "clicks": 33,
+      "impressions": 2492,
+      "ctr": 0.013242375601926164,
+      "position": 8.715088282504013
     },
     {
       "page": "https://www.injury-attorneys.com/blog/how-to-motorcycle-license-california/",
-      "clicks": 29,
-      "impressions": 17183,
-      "ctr": 0.001687714601641157,
-      "position": 6.847698306465693
+      "clicks": 33,
+      "impressions": 22022,
+      "ctr": 0.0014985014985014985,
+      "position": 5.9149486876759605
+    },
+    {
+      "page": "https://www.injury-attorneys.com/case-results/6680000-record-breaking-jury-verdict-after-an-800k-offer-in-stanislaus-county/",
+      "clicks": 33,
+      "impressions": 3191,
+      "ctr": 0.010341585709808837,
+      "position": 15.554685051707928
+    },
+    {
+      "page": "https://www.injury-attorneys.com/attorneys/kate-ebert/",
+      "clicks": 32,
+      "impressions": 868,
+      "ctr": 0.03686635944700461,
+      "position": 7.741935483870968
+    },
+    {
+      "page": "https://www.injury-attorneys.com/attorneys/ciara-clement/",
+      "clicks": 31,
+      "impressions": 599,
+      "ctr": 0.05175292153589316,
+      "position": 12.70617696160267
+    },
+    {
+      "page": "https://www.injury-attorneys.com/attorneys/jacqueline-siemens/",
+      "clicks": 30,
+      "impressions": 1430,
+      "ctr": 0.02097902097902098,
+      "position": 16.996503496503497
     }
   ],
-  "fetchedAt": "2026-03-18T13:07:32.935Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "demas law group",
+      "clicks": 550,
+      "impressions": 2093,
+      "ctr": 0.26278069756330624,
+      "position": 1.0817009077878643
+    },
+    {
+      "query": "roseville motorcycle accident lawyer",
+      "clicks": 77,
+      "impressions": 588,
+      "ctr": 0.13095238095238096,
+      "position": 6.137755102040816
+    },
+    {
+      "query": "john demas",
+      "clicks": 71,
+      "impressions": 396,
+      "ctr": 0.17929292929292928,
+      "position": 2.015151515151515
+    },
+    {
+      "query": "rosevill motorcycle accident lawyer",
+      "clicks": 64,
+      "impressions": 118,
+      "ctr": 0.5423728813559322,
+      "position": 1.4745762711864407
+    },
+    {
+      "query": "woodland ca car accident lawyer",
+      "clicks": 61,
+      "impressions": 102,
+      "ctr": 0.5980392156862745,
+      "position": 2.313725490196078
+    },
+    {
+      "query": "who can be in the car with a permit driver in california",
+      "clicks": 43,
+      "impressions": 272,
+      "ctr": 0.15808823529411764,
+      "position": 1.4779411764705883
+    },
+    {
+      "query": "can a 16 year old drive with passengers in california",
+      "clicks": 42,
+      "impressions": 2798,
+      "ctr": 0.01501072194424589,
+      "position": 4.383845604002859
+    },
+    {
+      "query": "car accident but no injury lawyer in elk grove ca",
+      "clicks": 38,
+      "impressions": 67,
+      "ctr": 0.5671641791044776,
+      "position": 1.328358208955224
+    },
+    {
+      "query": "dui checkpoint",
+      "clicks": 37,
+      "impressions": 2990,
+      "ctr": 0.012374581939799331,
+      "position": 7.588294314381271
+    },
+    {
+      "query": "property damage lawyer",
+      "clicks": 37,
+      "impressions": 778,
+      "ctr": 0.04755784061696658,
+      "position": 1.9524421593830334
+    },
+    {
+      "query": "demas law",
+      "clicks": 33,
+      "impressions": 123,
+      "ctr": 0.2682926829268293,
+      "position": 1.1219512195121952
+    },
+    {
+      "query": "john demas attorney",
+      "clicks": 32,
+      "impressions": 94,
+      "ctr": 0.3404255319148936,
+      "position": 1.297872340425532
+    },
+    {
+      "query": "motorcycle accident lawyer woodland",
+      "clicks": 31,
+      "impressions": 92,
+      "ctr": 0.33695652173913043,
+      "position": 1.9891304347826086
+    },
+    {
+      "query": "can a 17 year old drive with passengers in california",
+      "clicks": 28,
+      "impressions": 1361,
+      "ctr": 0.020573108008817047,
+      "position": 3.8567229977957385
+    },
+    {
+      "query": "can a minor drive another minor in california",
+      "clicks": 26,
+      "impressions": 213,
+      "ctr": 0.12206572769953052,
+      "position": 1.516431924882629
+    },
+    {
+      "query": "lyft deactivation lawsuit",
+      "clicks": 26,
+      "impressions": 118,
+      "ctr": 0.22033898305084745,
+      "position": 2.7627118644067794
+    },
+    {
+      "query": "california dash cam laws",
+      "clicks": 25,
+      "impressions": 324,
+      "ctr": 0.07716049382716049,
+      "position": 1.7098765432098766
+    },
+    {
+      "query": "car accident lawyer woodland",
+      "clicks": 25,
+      "impressions": 71,
+      "ctr": 0.352112676056338,
+      "position": 2.647887323943662
+    },
+    {
+      "query": "u turns are prohibited",
+      "clicks": 24,
+      "impressions": 1354,
+      "ctr": 0.01772525849335303,
+      "position": 2.872230428360414
+    },
+    {
+      "query": "statute of limitations",
+      "clicks": 23,
+      "impressions": 85238,
+      "ctr": 0.0002698327037236913,
+      "position": 6.546669325887515
+    },
+    {
+      "query": "demas law group, p.c.",
+      "clicks": 22,
+      "impressions": 50,
+      "ctr": 0.44,
+      "position": 1.1
+    },
+    {
+      "query": "dui checkpoints",
+      "clicks": 21,
+      "impressions": 1982,
+      "ctr": 0.010595358224016145,
+      "position": 11.829969727547931
+    },
+    {
+      "query": "dui check",
+      "clicks": 20,
+      "impressions": 684,
+      "ctr": 0.029239766081871343,
+      "position": 4.25
+    },
+    {
+      "query": "can a minor drive another minor",
+      "clicks": 18,
+      "impressions": 158,
+      "ctr": 0.11392405063291139,
+      "position": 2.189873417721519
+    },
+    {
+      "query": "lyft deactivation lawyer",
+      "clicks": 17,
+      "impressions": 460,
+      "ctr": 0.03695652173913044,
+      "position": 6.421739130434783
+    },
+    {
+      "query": "what happens if you get caught driving friends before 6 months california",
+      "clicks": 17,
+      "impressions": 879,
+      "ctr": 0.019340159271899887,
+      "position": 6.27872582480091
+    },
+    {
+      "query": "3 months of physical therapy settlement",
+      "clicks": 16,
+      "impressions": 2102,
+      "ctr": 0.007611798287345386,
+      "position": 9.41103710751665
+    },
+    {
+      "query": "california total loss threshold",
+      "clicks": 16,
+      "impressions": 933,
+      "ctr": 0.01714898177920686,
+      "position": 3.3536977491961415
+    },
+    {
+      "query": "most dangerous cars of all time",
+      "clicks": 16,
+      "impressions": 334,
+      "ctr": 0.04790419161676647,
+      "position": 7.470059880239521
+    },
+    {
+      "query": "17 year-old driving restrictions california",
+      "clicks": 15,
+      "impressions": 403,
+      "ctr": 0.03722084367245657,
+      "position": 2.6004962779156324
+    },
+    {
+      "query": "motorcycle accident lawyer roseville",
+      "clicks": 15,
+      "impressions": 254,
+      "ctr": 0.05905511811023622,
+      "position": 5.25984251968504
+    },
+    {
+      "query": "property damage lawyers near me",
+      "clicks": 15,
+      "impressions": 154,
+      "ctr": 0.09740259740259741,
+      "position": 2.142857142857143
+    },
+    {
+      "query": "who can be in the car with a permit driver over 18",
+      "clicks": 15,
+      "impressions": 545,
+      "ctr": 0.027522935779816515,
+      "position": 5.159633027522935
+    },
+    {
+      "query": "truck accident lawyer woodland",
+      "clicks": 14,
+      "impressions": 38,
+      "ctr": 0.3684210526315789,
+      "position": 2.105263157894737
+    },
+    {
+      "query": "when can you drive other people in your car",
+      "clicks": 14,
+      "impressions": 98,
+      "ctr": 0.14285714285714285,
+      "position": 1.7857142857142856
+    },
+    {
+      "query": "alejandro arroyo san francisco",
+      "clicks": 13,
+      "impressions": 69,
+      "ctr": 0.18840579710144928,
+      "position": 5.202898550724638
+    },
+    {
+      "query": "california total loss formula",
+      "clicks": 13,
+      "impressions": 314,
+      "ctr": 0.041401273885350316,
+      "position": 2.3694267515923566
+    },
+    {
+      "query": "can a 16 year old drive with siblings in california",
+      "clicks": 13,
+      "impressions": 249,
+      "ctr": 0.05220883534136546,
+      "position": 1.9477911646586346
+    },
+    {
+      "query": "how long after discovery is settlement",
+      "clicks": 13,
+      "impressions": 594,
+      "ctr": 0.021885521885521887,
+      "position": 5.232323232323233
+    },
+    {
+      "query": "how long after physical therapy do you get settlement",
+      "clicks": 13,
+      "impressions": 954,
+      "ctr": 0.013626834381551363,
+      "position": 6.5744234800838575
+    },
+    {
+      "query": "when can you drive other people",
+      "clicks": 13,
+      "impressions": 171,
+      "ctr": 0.07602339181286549,
+      "position": 2.2105263157894735
+    },
+    {
+      "query": "you may not make a u-turn",
+      "clicks": 13,
+      "impressions": 1159,
+      "ctr": 0.011216566005176877,
+      "position": 3.3002588438308886
+    },
+    {
+      "query": "6 months of physical therapy settlement",
+      "clicks": 12,
+      "impressions": 693,
+      "ctr": 0.017316017316017316,
+      "position": 3.8585858585858586
+    },
+    {
+      "query": "can an 18 year old drive minors in california",
+      "clicks": 12,
+      "impressions": 544,
+      "ctr": 0.022058823529411766,
+      "position": 5.430147058823529
+    },
+    {
+      "query": "can i donate clothes to fire victims",
+      "clicks": 12,
+      "impressions": 34,
+      "ctr": 0.35294117647058826,
+      "position": 1.9411764705882353
+    },
+    {
+      "query": "can minors drive other minors",
+      "clicks": 12,
+      "impressions": 173,
+      "ctr": 0.06936416184971098,
+      "position": 1.6705202312138727
+    },
+    {
+      "query": "car accident total loss lawyer",
+      "clicks": 12,
+      "impressions": 27,
+      "ctr": 0.4444444444444444,
+      "position": 31.51851851851852
+    },
+    {
+      "query": "when can i drive other people in my car",
+      "clicks": 12,
+      "impressions": 81,
+      "ctr": 0.14814814814814814,
+      "position": 1.925925925925926
+    },
+    {
+      "query": "are dashcams legal in california",
+      "clicks": 11,
+      "impressions": 116,
+      "ctr": 0.09482758620689655,
+      "position": 1.8448275862068966
+    },
+    {
+      "query": "car accident injury lawyer woodland ca",
+      "clicks": 11,
+      "impressions": 121,
+      "ctr": 0.09090909090909091,
+      "position": 2.5702479338842976
+    },
+    {
+      "query": "do cases settle after discovery",
+      "clicks": 11,
+      "impressions": 112,
+      "ctr": 0.09821428571428571,
+      "position": 1.9732142857142856
+    },
+    {
+      "query": "demas law group, p.c., personal injury attorneys",
+      "clicks": 10,
+      "impressions": 252,
+      "ctr": 0.03968253968253968,
+      "position": 1.4404761904761905
+    },
+    {
+      "query": "donate clothes to fire victims",
+      "clicks": 10,
+      "impressions": 259,
+      "ctr": 0.03861003861003861,
+      "position": 8.907335907335908
+    },
+    {
+      "query": "personal injury lawyer sacramento",
+      "clicks": 10,
+      "impressions": 3557,
+      "ctr": 0.0028113578858588698,
+      "position": 6.885015462468372
+    },
+    {
+      "query": "what happens if a minor is caught driving with another minor",
+      "clicks": 10,
+      "impressions": 120,
+      "ctr": 0.08333333333333333,
+      "position": 3.25
+    },
+    {
+      "query": "when can a minor drive other minors",
+      "clicks": 10,
+      "impressions": 59,
+      "ctr": 0.1694915254237288,
+      "position": 1.9322033898305084
+    },
+    {
+      "query": "brad schultz attorney",
+      "clicks": 9,
+      "impressions": 40,
+      "ctr": 0.225,
+      "position": 2.525
+    },
+    {
+      "query": "california dash cam laws 30 seconds",
+      "clicks": 9,
+      "impressions": 95,
+      "ctr": 0.09473684210526316,
+      "position": 1.2210526315789474
+    },
+    {
+      "query": "can you drive siblings with a provisional license in california",
+      "clicks": 9,
+      "impressions": 620,
+      "ctr": 0.014516129032258065,
+      "position": 5.033870967741936
+    },
+    {
+      "query": "car accident lawyer california",
+      "clicks": 9,
+      "impressions": 1193,
+      "ctr": 0.0075440067057837385,
+      "position": 1.8113998323554066
+    },
+    {
+      "query": "clothing donations for fire victims",
+      "clicks": 9,
+      "impressions": 302,
+      "ctr": 0.029801324503311258,
+      "position": 8.619205298013245
+    },
+    {
+      "query": "tim spangler",
+      "clicks": 9,
+      "impressions": 237,
+      "ctr": 0.0379746835443038,
+      "position": 1.8945147679324894
+    },
+    {
+      "query": "truck accident injury lawyer davis ca",
+      "clicks": 9,
+      "impressions": 47,
+      "ctr": 0.19148936170212766,
+      "position": 2.1914893617021276
+    },
+    {
+      "query": "who can you drive with a permit",
+      "clicks": 9,
+      "impressions": 421,
+      "ctr": 0.021377672209026127,
+      "position": 3.4703087885985746
+    },
+    {
+      "query": "california ups truck accident lawyer",
+      "clicks": 8,
+      "impressions": 181,
+      "ctr": 0.04419889502762431,
+      "position": 4.839779005524862
+    },
+    {
+      "query": "can you drive other people at 17",
+      "clicks": 8,
+      "impressions": 43,
+      "ctr": 0.18604651162790697,
+      "position": 1.9767441860465116
+    },
+    {
+      "query": "car accident bodily damage lawyer in elk grove ca",
+      "clicks": 8,
+      "impressions": 58,
+      "ctr": 0.13793103448275862,
+      "position": 2.137931034482759
+    },
+    {
+      "query": "car accident lawyer sacramento",
+      "clicks": 8,
+      "impressions": 3967,
+      "ctr": 0.00201663725737333,
+      "position": 8.757499369800858
+    },
+    {
+      "query": "citrus heights car accident lawyer",
+      "clicks": 8,
+      "impressions": 102,
+      "ctr": 0.0784313725490196,
+      "position": 42.61764705882353
+    },
+    {
+      "query": "demas law group pc",
+      "clicks": 8,
+      "impressions": 59,
+      "ctr": 0.13559322033898305,
+      "position": 1
+    },
+    {
+      "query": "demas law group reviews",
+      "clicks": 8,
+      "impressions": 448,
+      "ctr": 0.017857142857142856,
+      "position": 2.453125
+    },
+    {
+      "query": "folsom truck accident lawyer",
+      "clicks": 8,
+      "impressions": 537,
+      "ctr": 0.0148975791433892,
+      "position": 7.603351955307263
+    },
+    {
+      "query": "how old do you have to be to drive minors",
+      "clicks": 8,
+      "impressions": 64,
+      "ctr": 0.125,
+      "position": 3.578125
+    },
+    {
+      "query": "jacqueline siemens",
+      "clicks": 8,
+      "impressions": 170,
+      "ctr": 0.047058823529411764,
+      "position": 2.5058823529411764
+    },
+    {
+      "query": "learner's permit",
+      "clicks": 8,
+      "impressions": 641,
+      "ctr": 0.0124804992199688,
+      "position": 2.0249609984399375
+    },
+    {
+      "query": "sacramento personal injury lawyer",
+      "clicks": 8,
+      "impressions": 4851,
+      "ctr": 0.0016491445062873633,
+      "position": 5.386930529787673
+    },
+    {
+      "query": "soft tissue injury",
+      "clicks": 8,
+      "impressions": 1254,
+      "ctr": 0.006379585326953748,
+      "position": 2.3293460925039873
+    },
+    {
+      "query": "u-turns are prohibited",
+      "clicks": 8,
+      "impressions": 458,
+      "ctr": 0.017467248908296942,
+      "position": 2.8253275109170306
+    },
+    {
+      "query": "who can be in the car with a permit driver",
+      "clicks": 8,
+      "impressions": 562,
+      "ctr": 0.014234875444839857,
+      "position": 7.779359430604982
+    },
+    {
+      "query": "are dash cameras legal in california",
+      "clicks": 7,
+      "impressions": 98,
+      "ctr": 0.07142857142857142,
+      "position": 1.9183673469387754
+    },
+    {
+      "query": "are dash cams legal",
+      "clicks": 7,
+      "impressions": 1002,
+      "ctr": 0.006986027944111776,
+      "position": 25.74550898203593
+    },
+    {
+      "query": "california uber self-driving car accident lawyer",
+      "clicks": 7,
+      "impressions": 12,
+      "ctr": 0.5833333333333334,
+      "position": 3.5
+    },
+    {
+      "query": "can 16 year olds drive siblings in california",
+      "clicks": 7,
+      "impressions": 146,
+      "ctr": 0.04794520547945205,
+      "position": 1.8835616438356164
+    },
+    {
+      "query": "car accident lawyer total loss",
+      "clicks": 7,
+      "impressions": 17,
+      "ctr": 0.4117647058823529,
+      "position": 53.705882352941174
+    },
+    {
+      "query": "car accident lawyer woodland ca",
+      "clicks": 7,
+      "impressions": 95,
+      "ctr": 0.07368421052631578,
+      "position": 2.831578947368421
+    },
+    {
+      "query": "dash cam laws california",
+      "clicks": 7,
+      "impressions": 151,
+      "ctr": 0.046357615894039736,
+      "position": 1.4569536423841059
+    },
+    {
+      "query": "demas law group sacramento",
+      "clicks": 7,
+      "impressions": 36,
+      "ctr": 0.19444444444444445,
+      "position": 1
+    },
+    {
+      "query": "driving laws for 16 year olds",
+      "clicks": 7,
+      "impressions": 131,
+      "ctr": 0.05343511450381679,
+      "position": 4.557251908396946
+    },
+    {
+      "query": "how old do you have to be to drive other people in california",
+      "clicks": 7,
+      "impressions": 106,
+      "ctr": 0.0660377358490566,
+      "position": 1.320754716981132
+    },
+    {
+      "query": "how to get a motorcycle license",
+      "clicks": 7,
+      "impressions": 890,
+      "ctr": 0.007865168539325843,
+      "position": 11.717977528089888
+    },
+    {
+      "query": "injury lawyers sacramento",
+      "clicks": 7,
+      "impressions": 1247,
+      "ctr": 0.0056134723336006415,
+      "position": 5.417802726543705
+    },
+    {
+      "query": "property damage lawyers",
+      "clicks": 7,
+      "impressions": 75,
+      "ctr": 0.09333333333333334,
+      "position": 3.1866666666666665
+    },
+    {
+      "query": "sample permission letter to drive sibling california",
+      "clicks": 7,
+      "impressions": 137,
+      "ctr": 0.051094890510948905,
+      "position": 9.036496350364963
+    },
+    {
+      "query": "sue lyft for deactivation",
+      "clicks": 7,
+      "impressions": 51,
+      "ctr": 0.13725490196078433,
+      "position": 6.627450980392157
+    },
+    {
+      "query": "what is a dui checkpoint",
+      "clicks": 7,
+      "impressions": 969,
+      "ctr": 0.007223942208462332,
+      "position": 3.3343653250773992
+    },
+    {
+      "query": "when can a 16 year old drive with friends",
+      "clicks": 7,
+      "impressions": 74,
+      "ctr": 0.0945945945945946,
+      "position": 5.945945945945946
+    },
+    {
+      "query": "when can minors drive other minors",
+      "clicks": 7,
+      "impressions": 55,
+      "ctr": 0.12727272727272726,
+      "position": 1.3636363636363638
+    },
+    {
+      "query": "california dash cam placement",
+      "clicks": 6,
+      "impressions": 107,
+      "ctr": 0.056074766355140186,
+      "position": 1.616822429906542
+    },
+    {
+      "query": "california subrogation statute of limitations",
+      "clicks": 6,
+      "impressions": 130,
+      "ctr": 0.046153846153846156,
+      "position": 1.2615384615384615
+    },
+    {
+      "query": "can 16 year olds drive with friends",
+      "clicks": 6,
+      "impressions": 78,
+      "ctr": 0.07692307692307693,
+      "position": 4.384615384615385
+    },
+    {
+      "query": "can a 17 year old drive a minor in california",
+      "clicks": 6,
+      "impressions": 74,
+      "ctr": 0.08108108108108109,
+      "position": 2.3243243243243246
+    },
+    {
+      "query": "can minors drive other minors in california",
+      "clicks": 6,
+      "impressions": 51,
+      "ctr": 0.11764705882352941,
+      "position": 1.3529411764705883
+    },
+    {
+      "query": "can you drive people around at 16",
+      "clicks": 6,
+      "impressions": 128,
+      "ctr": 0.046875,
+      "position": 2.1953125
+    },
+    {
+      "query": "can you drive people under 18",
+      "clicks": 6,
+      "impressions": 54,
+      "ctr": 0.1111111111111111,
+      "position": 1.8703703703703702
+    },
+    {
+      "query": "can you drive with friends at 16",
+      "clicks": 6,
+      "impressions": 58,
+      "ctr": 0.10344827586206896,
+      "position": 3.293103448275862
+    },
+    {
+      "query": "car accident lawyer",
+      "clicks": 6,
+      "impressions": 9815,
+      "ctr": 0.0006113092205807438,
+      "position": 7.15904228222109
+    },
+    {
+      "query": "davis car accident lawyer",
+      "clicks": 6,
+      "impressions": 58,
+      "ctr": 0.10344827586206896,
+      "position": 4.189655172413794
+    },
+    {
+      "query": "how long does discovery take",
+      "clicks": 6,
+      "impressions": 153,
+      "ctr": 0.0392156862745098,
+      "position": 2.980392156862745
+    },
+    {
+      "query": "how long does the discovery process take",
+      "clicks": 6,
+      "impressions": 150,
+      "ctr": 0.04,
+      "position": 2.2866666666666666
+    },
+    {
+      "query": "i just got my license can i drive my friends if i'm 18",
+      "clicks": 6,
+      "impressions": 762,
+      "ctr": 0.007874015748031496,
+      "position": 7.34514435695538
+    },
+    {
+      "query": "motorcycle accident lawyer sacramento",
+      "clicks": 6,
+      "impressions": 1437,
+      "ctr": 0.0041753653444676405,
+      "position": 8.109951287404314
+    },
+    {
+      "query": "personal injury lawyer",
+      "clicks": 6,
+      "impressions": 14090,
+      "ctr": 0.00042583392476933996,
+      "position": 7.782682753726047
+    },
+    {
+      "query": "when can you drive someone else in your car",
+      "clicks": 6,
+      "impressions": 40,
+      "ctr": 0.15,
+      "position": 1.85
+    },
+    {
+      "query": "when can you drive with friends",
+      "clicks": 6,
+      "impressions": 175,
+      "ctr": 0.03428571428571429,
+      "position": 6.525714285714286
+    },
+    {
+      "query": "when can you legally drive others",
+      "clicks": 6,
+      "impressions": 46,
+      "ctr": 0.13043478260869565,
+      "position": 2
+    },
+    {
+      "query": "16 year-old driving with passengers penalty california",
+      "clicks": 5,
+      "impressions": 195,
+      "ctr": 0.02564102564102564,
+      "position": 7.374358974358974
+    },
+    {
+      "query": "are dalmatians dangerous",
+      "clicks": 5,
+      "impressions": 330,
+      "ctr": 0.015151515151515152,
+      "position": 4.848484848484849
+    },
+    {
+      "query": "at 16 can you drive with friends",
+      "clicks": 5,
+      "impressions": 20,
+      "ctr": 0.25,
+      "position": 2.6
+    },
+    {
+      "query": "can you drive other people with a license",
+      "clicks": 5,
+      "impressions": 64,
+      "ctr": 0.078125,
+      "position": 2.375
+    },
+    {
+      "query": "car accident lawyer don't pay unless you win",
+      "clicks": 5,
+      "impressions": 337,
+      "ctr": 0.01483679525222552,
+      "position": 9.032640949554896
+    },
+    {
+      "query": "car accident lawyer sacremento ca",
+      "clicks": 5,
+      "impressions": 61,
+      "ctr": 0.08196721311475409,
+      "position": 1.1311475409836065
+    },
+    {
+      "query": "court approved dash cam",
+      "clicks": 5,
+      "impressions": 16,
+      "ctr": 0.3125,
+      "position": 3
+    },
+    {
+      "query": "dash cam privacy laws",
+      "clicks": 5,
+      "impressions": 78,
+      "ctr": 0.0641025641025641,
+      "position": 21.205128205128204
+    },
+    {
+      "query": "do car insurance adjusters come to your house",
+      "clicks": 5,
+      "impressions": 51,
+      "ctr": 0.09803921568627451,
+      "position": 4.2745098039215685
+    },
+    {
+      "query": "if you get your license at 16 can you drive with friends",
+      "clicks": 5,
+      "impressions": 64,
+      "ctr": 0.078125,
+      "position": 3.28125
+    },
+    {
+      "query": "kate ebert",
+      "clicks": 5,
+      "impressions": 81,
+      "ctr": 0.06172839506172839,
+      "position": 1.5432098765432098
+    },
+    {
+      "query": "medical liens on settlements",
+      "clicks": 5,
+      "impressions": 755,
+      "ctr": 0.006622516556291391,
+      "position": 7.335099337748344
+    },
+    {
+      "query": "personal injury law firms in california",
+      "clicks": 5,
+      "impressions": 918,
+      "ctr": 0.0054466230936819175,
+      "position": 21.984749455337692
+    },
+    {
+      "query": "personal injury lawyer california",
+      "clicks": 5,
+      "impressions": 3541,
+      "ctr": 0.001412030499858797,
+      "position": 22.363739056763627
+    },
+    {
+      "query": "sacramento motorcycle accident lawyer",
+      "clicks": 5,
+      "impressions": 3378,
+      "ctr": 0.0014801657785671995,
+      "position": 8.797809354647722
+    },
+    {
+      "query": "subrogation statute of limitations california",
+      "clicks": 5,
+      "impressions": 86,
+      "ctr": 0.05813953488372093,
+      "position": 1.069767441860465
+    },
+    {
+      "query": "total loss attorney",
+      "clicks": 5,
+      "impressions": 36,
+      "ctr": 0.1388888888888889,
+      "position": 50.083333333333336
+    },
+    {
+      "query": "what are dui checkpoints",
+      "clicks": 5,
+      "impressions": 201,
+      "ctr": 0.024875621890547265,
+      "position": 3.3781094527363185
+    },
+    {
+      "query": "when can a 16 year old drive with friends in california",
+      "clicks": 5,
+      "impressions": 51,
+      "ctr": 0.09803921568627451,
+      "position": 1.5490196078431373
+    },
+    {
+      "query": "when can you drive with other people in the car",
+      "clicks": 5,
+      "impressions": 28,
+      "ctr": 0.17857142857142858,
+      "position": 3.25
+    },
+    {
+      "query": "when can you start driving other people in california",
+      "clicks": 5,
+      "impressions": 62,
+      "ctr": 0.08064516129032258,
+      "position": 2.0483870967741935
+    },
+    {
+      "query": "whiplash settlement with physical therapy",
+      "clicks": 5,
+      "impressions": 429,
+      "ctr": 0.011655011655011656,
+      "position": 10.522144522144522
+    },
+    {
+      "query": "who can be in the car with a permit driver over 18 in california",
+      "clicks": 5,
+      "impressions": 71,
+      "ctr": 0.07042253521126761,
+      "position": 3.4788732394366195
+    },
+    {
+      "query": "woodlawn motorcycle accident lawyer",
+      "clicks": 5,
+      "impressions": 116,
+      "ctr": 0.04310344827586207,
+      "position": 3.6551724137931036
+    },
+    {
+      "query": "16 year old driving restrictions",
+      "clicks": 4,
+      "impressions": 45,
+      "ctr": 0.08888888888888889,
+      "position": 6.622222222222222
+    },
+    {
+      "query": "16 year old driving restrictions illinois",
+      "clicks": 4,
+      "impressions": 41,
+      "ctr": 0.0975609756097561,
+      "position": 2.7317073170731705
+    },
+    {
+      "query": "16 year old license rules",
+      "clicks": 4,
+      "impressions": 108,
+      "ctr": 0.037037037037037035,
+      "position": 4.824074074074074
+    },
+    {
+      "query": "are dash cameras illegal in california",
+      "clicks": 4,
+      "impressions": 60,
+      "ctr": 0.06666666666666667,
+      "position": 2.216666666666667
+    },
+    {
+      "query": "before and after witness deposition outline",
+      "clicks": 4,
+      "impressions": 137,
+      "ctr": 0.029197080291970802,
+      "position": 5.087591240875913
+    },
+    {
+      "query": "best medical malpractice lawyers in sacramento",
+      "clicks": 4,
+      "impressions": 156,
+      "ctr": 0.02564102564102564,
+      "position": 1.8782051282051282
+    },
+    {
+      "query": "best rated insurance companies",
+      "clicks": 4,
+      "impressions": 61,
+      "ctr": 0.06557377049180328,
+      "position": 2
+    },
+    {
+      "query": "california dashcam laws",
+      "clicks": 4,
+      "impressions": 34,
+      "ctr": 0.11764705882352941,
+      "position": 1.2352941176470589
+    },
+    {
+      "query": "california learner's permit",
+      "clicks": 4,
+      "impressions": 1037,
+      "ctr": 0.003857280617164899,
+      "position": 10.274831243972999
+    },
+    {
+      "query": "can 17 year old drive friends",
+      "clicks": 4,
+      "impressions": 25,
+      "ctr": 0.16,
+      "position": 3.24
+    },
+    {
+      "query": "can a 16 year old drive alone in california",
+      "clicks": 4,
+      "impressions": 440,
+      "ctr": 0.00909090909090909,
+      "position": 7.068181818181818
+    },
+    {
+      "query": "can a 18 year old drive with passengers in california",
+      "clicks": 4,
+      "impressions": 937,
+      "ctr": 0.004268943436499467,
+      "position": 6.639274279615795
+    },
+    {
+      "query": "can a new licensed driver have passengers",
+      "clicks": 4,
+      "impressions": 40,
+      "ctr": 0.1,
+      "position": 4.125
+    },
+    {
+      "query": "can my 16 year old drive with friends",
+      "clicks": 4,
+      "impressions": 7,
+      "ctr": 0.5714285714285714,
+      "position": 1.2857142857142856
+    },
+    {
+      "query": "can someone with a permit drive with someone with a license",
+      "clicks": 4,
+      "impressions": 154,
+      "ctr": 0.025974025974025976,
+      "position": 4.766233766233766
+    },
+    {
+      "query": "can you drive your friends around at 16",
+      "clicks": 4,
+      "impressions": 109,
+      "ctr": 0.03669724770642202,
+      "position": 2.0091743119266052
+    },
+    {
+      "query": "can you still sue after signing a waiver",
+      "clicks": 4,
+      "impressions": 112,
+      "ctr": 0.03571428571428571,
+      "position": 4.982142857142858
+    },
+    {
+      "query": "can you sue after signing a waiver",
+      "clicks": 4,
+      "impressions": 692,
+      "ctr": 0.005780346820809248,
+      "position": 6.057803468208093
+    },
+    {
+      "query": "car accident lawyer don t pay unless you win",
+      "clicks": 4,
+      "impressions": 128,
+      "ctr": 0.03125,
+      "position": 4.0625
+    },
+    {
+      "query": "car accident lawyer in california",
+      "clicks": 4,
+      "impressions": 527,
+      "ctr": 0.007590132827324478,
+      "position": 12.667931688804554
+    },
+    {
+      "query": "car accident lawyer northern ca",
+      "clicks": 4,
+      "impressions": 54,
+      "ctr": 0.07407407407407407,
+      "position": 1.3333333333333333
+    },
+    {
+      "query": "car accident lawyer sacramento ca",
+      "clicks": 4,
+      "impressions": 1277,
+      "ctr": 0.0031323414252153485,
+      "position": 9.294440093970243
+    },
+    {
+      "query": "clothing donations for california fire victims",
+      "clicks": 4,
+      "impressions": 29,
+      "ctr": 0.13793103448275862,
+      "position": 16.96551724137931
+    },
+    {
+      "query": "how much is it to buy back a totaled car from insurance",
+      "clicks": 4,
+      "impressions": 34,
+      "ctr": 0.11764705882352941,
+      "position": 7.176470588235294
+    },
+    {
+      "query": "how old do you have to be to drive other people",
+      "clicks": 4,
+      "impressions": 40,
+      "ctr": 0.1,
+      "position": 1.55
+    },
+    {
+      "query": "is soft tissue damage worse than a break",
+      "clicks": 4,
+      "impressions": 251,
+      "ctr": 0.01593625498007968,
+      "position": 1.3705179282868527
+    },
+    {
+      "query": "liberty mutual reviews",
+      "clicks": 4,
+      "impressions": 111,
+      "ctr": 0.036036036036036036,
+      "position": 2.036036036036036
+    },
+    {
+      "query": "motorcycle license",
+      "clicks": 4,
+      "impressions": 1486,
+      "ctr": 0.0026917900403768506,
+      "position": 12.833109017496636
+    },
+    {
+      "query": "north carolina driving laws for 16-year olds",
+      "clicks": 4,
+      "impressions": 31,
+      "ctr": 0.12903225806451613,
+      "position": 2.774193548387097
+    },
+    {
+      "query": "personal injury attorney sacramento",
+      "clicks": 4,
+      "impressions": 3597,
+      "ctr": 0.0011120378092855157,
+      "position": 5.390325271059216
+    },
+    {
+      "query": "property damage insurance claim lawyer",
+      "clicks": 4,
+      "impressions": 122,
+      "ctr": 0.03278688524590164,
+      "position": 1.7131147540983607
+    },
+    {
+      "query": "rules for 16 year old drivers in california",
+      "clicks": 4,
+      "impressions": 431,
+      "ctr": 0.009280742459396751,
+      "position": 5.974477958236659
+    },
+    {
+      "query": "sacramento car accident lawyer",
+      "clicks": 4,
+      "impressions": 5108,
+      "ctr": 0.0007830853563038371,
+      "position": 11.627642913077526
+    },
+    {
+      "query": "school injury lawyer",
+      "clicks": 4,
+      "impressions": 108,
+      "ctr": 0.037037037037037035,
+      "position": 32.5
+    },
+    {
+      "query": "travelers insurance reviews",
+      "clicks": 4,
+      "impressions": 198,
+      "ctr": 0.020202020202020204,
+      "position": 2.106060606060606
+    },
+    {
+      "query": "vehicle property damage lawyer",
+      "clicks": 4,
+      "impressions": 166,
+      "ctr": 0.024096385542168676,
+      "position": 8.843373493975903
+    },
+    {
+      "query": "what are the rules for a 16-year old driver in missouri",
+      "clicks": 4,
+      "impressions": 58,
+      "ctr": 0.06896551724137931,
+      "position": 2.8275862068965516
+    },
+    {
+      "query": "what are the rules for a 16-year-old driver in texas",
+      "clicks": 4,
+      "impressions": 37,
+      "ctr": 0.10810810810810811,
+      "position": 2.6486486486486487
+    },
+    {
+      "query": "what happens if you hit a motorcyclist and they die",
+      "clicks": 4,
+      "impressions": 53,
+      "ctr": 0.07547169811320754,
+      "position": 8.339622641509434
+    },
+    {
+      "query": "when are you allowed to drive other people",
+      "clicks": 4,
+      "impressions": 35,
+      "ctr": 0.11428571428571428,
+      "position": 2.685714285714286
+    },
+    {
+      "query": "when can i drive friends around",
+      "clicks": 4,
+      "impressions": 26,
+      "ctr": 0.15384615384615385,
+      "position": 2
+    },
+    {
+      "query": "when can i drive my friends in california",
+      "clicks": 4,
+      "impressions": 68,
+      "ctr": 0.058823529411764705,
+      "position": 1.9264705882352942
+    },
+    {
+      "query": "when can i drive with other people in the car",
+      "clicks": 4,
+      "impressions": 29,
+      "ctr": 0.13793103448275862,
+      "position": 3.6206896551724137
+    },
+    {
+      "query": "when can you drive other people in california",
+      "clicks": 4,
+      "impressions": 39,
+      "ctr": 0.10256410256410256,
+      "position": 1.4871794871794872
+    },
+    {
+      "query": "when can you drive your friends around",
+      "clicks": 4,
+      "impressions": 64,
+      "ctr": 0.0625,
+      "position": 1.875
+    },
+    {
+      "query": "when you get your license at 16 can you drive with friends",
+      "clicks": 4,
+      "impressions": 32,
+      "ctr": 0.125,
+      "position": 2.40625
+    },
+    {
+      "query": "who can drive with someone with a permit",
+      "clicks": 4,
+      "impressions": 73,
+      "ctr": 0.0547945205479452,
+      "position": 4.835616438356164
+    },
+    {
+      "query": "workers compensation lawyers",
+      "clicks": 4,
+      "impressions": 346,
+      "ctr": 0.011560693641618497,
+      "position": 2.398843930635838
+    },
+    {
+      "query": "16 year old driver restrictions",
+      "clicks": 3,
+      "impressions": 87,
+      "ctr": 0.034482758620689655,
+      "position": 3.5632183908045976
+    },
+    {
+      "query": "18 year old driving restrictions california",
+      "clicks": 3,
+      "impressions": 170,
+      "ctr": 0.01764705882352941,
+      "position": 3.8176470588235296
+    },
+    {
+      "query": "a school bus hit my car",
+      "clicks": 3,
+      "impressions": 28,
+      "ctr": 0.10714285714285714,
+      "position": 3.142857142857143
+    },
+    {
+      "query": "accident attorney sacramento",
+      "clicks": 3,
+      "impressions": 1206,
+      "ctr": 0.0024875621890547263,
+      "position": 10.399668325041459
+    },
+    {
+      "query": "are u turns illegal",
+      "clicks": 3,
+      "impressions": 208,
+      "ctr": 0.014423076923076924,
+      "position": 9.35576923076923
+    },
+    {
+      "query": "at what age can you drive in california",
+      "clicks": 3,
+      "impressions": 94,
+      "ctr": 0.031914893617021274,
+      "position": 10.170212765957446
+    },
+    {
+      "query": "best car accident lawyer sacramento",
+      "clicks": 3,
+      "impressions": 278,
+      "ctr": 0.01079136690647482,
+      "position": 15.287769784172662
+    },
+    {
+      "query": "best car accident lawyers in sacramento",
+      "clicks": 3,
+      "impressions": 562,
+      "ctr": 0.005338078291814947,
+      "position": 2.6868327402135233
+    },
+    {
+      "query": "best home and auto insurance companies",
+      "clicks": 3,
+      "impressions": 60,
+      "ctr": 0.05,
+      "position": 2
+    },
+    {
+      "query": "best insurance companies",
+      "clicks": 3,
+      "impressions": 227,
+      "ctr": 0.013215859030837005,
+      "position": 2.0088105726872247
+    },
+    {
+      "query": "best insurance companies for home and auto",
+      "clicks": 3,
+      "impressions": 70,
+      "ctr": 0.04285714285714286,
+      "position": 2.1
+    },
+    {
+      "query": "best personal injury lawyer sacramento",
+      "clicks": 3,
+      "impressions": 556,
+      "ctr": 0.00539568345323741,
+      "position": 10.787769784172662
+    },
+    {
+      "query": "best workers comp attorney sacramento",
+      "clicks": 3,
+      "impressions": 61,
+      "ctr": 0.04918032786885246,
+      "position": 1.1639344262295082
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:22:11.636Z"
 }

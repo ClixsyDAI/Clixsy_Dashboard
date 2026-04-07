@@ -1,156 +1,16 @@
 {
   "property": "sc-domain:asapcommercialdoors.com",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 11261,
-    "impressions": 191805,
-    "ctr": 0.058710669690571156,
-    "position": 22.92635030166524
+    "clicks": 9367,
+    "impressions": 220018,
+    "ctr": 0.0425737894172295,
+    "position": 21.61922468077887
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 102,
-      "impressions": 3306,
-      "ctr": 0.030852994555353903,
-      "position": 20.79068360556564
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 98,
-      "impressions": 1970,
-      "ctr": 0.049746192893401014,
-      "position": 32.035532994923855
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 114,
-      "impressions": 1934,
-      "ctr": 0.05894519131334023,
-      "position": 27.384177869700103
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 119,
-      "impressions": 1714,
-      "ctr": 0.06942823803967328,
-      "position": 23.77596266044341
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 105,
-      "impressions": 1769,
-      "ctr": 0.059355568117580554,
-      "position": 29.74448841153194
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 92,
-      "impressions": 1297,
-      "ctr": 0.07093292212798766,
-      "position": 32.21434078643023
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 95,
-      "impressions": 1351,
-      "ctr": 0.07031828275351591,
-      "position": 34.267209474463364
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 115,
-      "impressions": 4273,
-      "ctr": 0.02691317575473906,
-      "position": 21.293470629534283
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 101,
-      "impressions": 1771,
-      "ctr": 0.057029926595143984,
-      "position": 31.507622811970638
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 111,
-      "impressions": 1865,
-      "ctr": 0.05951742627345844,
-      "position": 31.567292225201072
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 127,
-      "impressions": 1043,
-      "ctr": 0.12176414189837009,
-      "position": 25.810162991371044
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 129,
-      "impressions": 1617,
-      "ctr": 0.07977736549165121,
-      "position": 33.16697588126159
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 124,
-      "impressions": 1559,
-      "ctr": 0.07953816549069917,
-      "position": 20.86914688903143
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 121,
-      "impressions": 1684,
-      "ctr": 0.07185273159144893,
-      "position": 28.100950118764846
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 131,
-      "impressions": 3961,
-      "ctr": 0.033072456450391315,
-      "position": 20.722292350416563
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 133,
-      "impressions": 1984,
-      "ctr": 0.06703629032258064,
-      "position": 29.592237903225808
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 116,
-      "impressions": 1980,
-      "ctr": 0.05858585858585859,
-      "position": 26.032323232323233
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 101,
-      "impressions": 1483,
-      "ctr": 0.06810519217801753,
-      "position": 27.764666217127445
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 105,
-      "impressions": 1496,
-      "ctr": 0.07018716577540107,
-      "position": 24.071524064171122
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 106,
-      "impressions": 1259,
-      "ctr": 0.08419380460683082,
-      "position": 31.000794281175537
-    },
     {
       "date": "2026-01-04",
       "clicks": 108,
@@ -640,162 +500,295 @@
       "impressions": 1343,
       "ctr": 0.01712583767684289,
       "position": 23.244229337304542
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 15,
+      "impressions": 1353,
+      "ctr": 0.011086474501108648,
+      "position": 21.447154471544714
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 23,
+      "impressions": 4379,
+      "ctr": 0.005252340717058689,
+      "position": 18.379081982187714
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 31,
+      "impressions": 2180,
+      "ctr": 0.014220183486238533,
+      "position": 19.74954128440367
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 28,
+      "impressions": 1763,
+      "ctr": 0.01588201928530913,
+      "position": 19.353374929098127
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 30,
+      "impressions": 2192,
+      "ctr": 0.013686131386861315,
+      "position": 25.037408759124087
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 33,
+      "impressions": 1617,
+      "ctr": 0.02040816326530612,
+      "position": 23.000618429189856
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 28,
+      "impressions": 1193,
+      "ctr": 0.02347024308466052,
+      "position": 26.44677284157586
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 21,
+      "impressions": 1410,
+      "ctr": 0.014893617021276596,
+      "position": 27.165248226950354
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 24,
+      "impressions": 4001,
+      "ctr": 0.005998500374906273,
+      "position": 18.344413896525868
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 8,
+      "impressions": 2298,
+      "ctr": 0.0034812880765883376,
+      "position": 20.874238468233248
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 13,
+      "impressions": 17060,
+      "ctr": 0.0007620164126611958,
+      "position": 36.71113716295428
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 18,
+      "impressions": 1591,
+      "ctr": 0.011313639220615965,
+      "position": 20.695160276555626
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 12,
+      "impressions": 2111,
+      "ctr": 0.005684509711037423,
+      "position": 23.412600663192798
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 2,
+      "impressions": 1431,
+      "ctr": 0.001397624039133473,
+      "position": 22.95527603074773
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 1,
+      "impressions": 1792,
+      "ctr": 0.0005580357142857143,
+      "position": 21.419084821428573
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 13,
+      "impressions": 3766,
+      "ctr": 0.0034519383961763143,
+      "position": 19.109930961232077
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 21,
+      "impressions": 1895,
+      "ctr": 0.01108179419525066,
+      "position": 18.13298153034301
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 7,
+      "impressions": 1442,
+      "ctr": 0.0048543689320388345,
+      "position": 19.926490984743413
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 16,
+      "impressions": 11370,
+      "ctr": 0.001407211961301671,
+      "position": 4.831134564643799
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 5,
+      "impressions": 1467,
+      "ctr": 0.0034083162917518746,
+      "position": 25.44853442399455
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 2,
+      "impressions": 1218,
+      "ctr": 0.0016420361247947454,
+      "position": 23.249589490968802
     }
   ],
   "topQueries": [
     {
       "query": "asap commercial doors",
-      "clicks": 10331,
-      "impressions": 14559,
-      "ctr": 0.709595439247201,
-      "position": 1.663713167113126
+      "clicks": 8394,
+      "impressions": 11986,
+      "ctr": 0.7003170365426331,
+      "position": 1.6963123644251628
     },
     {
       "query": "asap commercial doors phoenix",
-      "clicks": 61,
-      "impressions": 229,
-      "ctr": 0.2663755458515284,
-      "position": 1.2314410480349345
+      "clicks": 64,
+      "impressions": 255,
+      "ctr": 0.25098039215686274,
+      "position": 1.4313725490196079
     },
     {
       "query": "asap doors",
-      "clicks": 43,
-      "impressions": 399,
-      "ctr": 0.10776942355889724,
-      "position": 3.962406015037594
+      "clicks": 53,
+      "impressions": 434,
+      "ctr": 0.12211981566820276,
+      "position": 4.389400921658986
     },
     {
       "query": "asap commercial doors mooresville nc",
-      "clicks": 29,
-      "impressions": 141,
-      "ctr": 0.20567375886524822,
-      "position": 1.6099290780141844
+      "clicks": 36,
+      "impressions": 165,
+      "ctr": 0.21818181818181817,
+      "position": 1.5212121212121212
     },
     {
       "query": "asap commercial",
-      "clicks": 22,
-      "impressions": 125,
-      "ctr": 0.176,
-      "position": 2.792
-    },
-    {
-      "query": "commercial door repair",
-      "clicks": 10,
-      "impressions": 3820,
-      "ctr": 0.002617801047120419,
-      "position": 27.274083769633506
+      "clicks": 24,
+      "impressions": 136,
+      "ctr": 0.17647058823529413,
+      "position": 2.4632352941176467
     },
     {
       "query": "commercial doors near me",
-      "clicks": 7,
-      "impressions": 314,
-      "ctr": 0.022292993630573247,
-      "position": 8.573248407643312
+      "clicks": 8,
+      "impressions": 251,
+      "ctr": 0.03187250996015936,
+      "position": 7.5458167330677295
     },
     {
-      "query": "commercial doors",
-      "clicks": 6,
-      "impressions": 590,
-      "ctr": 0.010169491525423728,
-      "position": 10.605084745762712
+      "query": "commercial door repair",
+      "clicks": 7,
+      "impressions": 9863,
+      "ctr": 0.0007097232079489,
+      "position": 30.152793267768427
     },
     {
       "query": "commercial door repair near me",
-      "clicks": 5,
-      "impressions": 1305,
-      "ctr": 0.0038314176245210726,
-      "position": 7.582375478927203
+      "clicks": 4,
+      "impressions": 6820,
+      "ctr": 0.0005865102639296188,
+      "position": 25.710850439882698
     },
     {
-      "query": "asap door",
+      "query": "commercial doors",
       "clicks": 4,
-      "impressions": 90,
-      "ctr": 0.044444444444444446,
-      "position": 6.655555555555556
+      "impressions": 639,
+      "ctr": 0.006259780907668232,
+      "position": 8.776212832550861
     },
     {
       "query": "asap door repair",
-      "clicks": 4,
-      "impressions": 63,
-      "ctr": 0.06349206349206349,
-      "position": 7.063492063492063
-    },
-    {
-      "query": "asap",
       "clicks": 3,
-      "impressions": 1280,
-      "ctr": 0.00234375,
-      "position": 2.77265625
+      "impressions": 90,
+      "ctr": 0.03333333333333333,
+      "position": 9.61111111111111
     },
     {
       "query": "asap garage door",
       "clicks": 3,
-      "impressions": 54,
-      "ctr": 0.05555555555555555,
-      "position": 13.092592592592593
+      "impressions": 72,
+      "ctr": 0.041666666666666664,
+      "position": 14.944444444444445
     },
     {
       "query": "commercial door",
       "clicks": 3,
-      "impressions": 144,
-      "ctr": 0.020833333333333332,
-      "position": 2.326388888888889
+      "impressions": 128,
+      "ctr": 0.0234375,
+      "position": 2.5703125
     },
     {
-      "query": "commercial door repair charlotte nc",
+      "query": "commercial door company near me",
       "clicks": 3,
-      "impressions": 421,
-      "ctr": 0.007125890736342043,
-      "position": 15.09501187648456
+      "impressions": 245,
+      "ctr": 0.012244897959183673,
+      "position": 29.20408163265306
+    },
+    {
+      "query": "commercial door repair phoenix",
+      "clicks": 3,
+      "impressions": 573,
+      "ctr": 0.005235602094240838,
+      "position": 6.514834205933682
+    },
+    {
+      "query": "commercial door repair service near me",
+      "clicks": 3,
+      "impressions": 113,
+      "ctr": 0.02654867256637168,
+      "position": 14.026548672566372
     },
     {
       "query": "commercial steel doors near me",
       "clicks": 3,
-      "impressions": 26,
-      "ctr": 0.11538461538461539,
-      "position": 56.03846153846154
+      "impressions": 20,
+      "ctr": 0.15,
+      "position": 46.9
     },
     {
       "query": "door repair phoenix",
       "clicks": 3,
-      "impressions": 731,
-      "ctr": 0.004103967168262654,
-      "position": 5.827633378932968
+      "impressions": 886,
+      "ctr": 0.003386004514672686,
+      "position": 5.013544018058691
+    },
+    {
+      "query": "asap",
+      "clicks": 2,
+      "impressions": 1432,
+      "ctr": 0.0013966480446927375,
+      "position": 2.622905027932961
     },
     {
       "query": "asap garage door service",
       "clicks": 2,
-      "impressions": 73,
-      "ctr": 0.0273972602739726,
-      "position": 29.438356164383563
-    },
-    {
-      "query": "charlotte garage door repair",
-      "clicks": 2,
-      "impressions": 44,
-      "ctr": 0.045454545454545456,
-      "position": 90.29545454545455
-    },
-    {
-      "query": "commercial door and windows",
-      "clicks": 2,
-      "impressions": 3,
-      "ctr": 0.6666666666666666,
-      "position": 1
+      "impressions": 66,
+      "ctr": 0.030303030303030304,
+      "position": 20.5
     },
     {
       "query": "commercial door companies",
       "clicks": 2,
-      "impressions": 211,
-      "ctr": 0.009478672985781991,
-      "position": 74.74881516587678
-    },
-    {
-      "query": "commercial door company near me",
-      "clicks": 2,
-      "impressions": 213,
-      "ctr": 0.009389671361502348,
-      "position": 35.7887323943662
+      "impressions": 215,
+      "ctr": 0.009302325581395349,
+      "position": 66.54418604651163
     },
     {
       "query": "commercial door hardware",
@@ -807,100 +800,121 @@
     {
       "query": "commercial door installation near me",
       "clicks": 2,
-      "impressions": 229,
-      "ctr": 0.008733624454148471,
-      "position": 47.624454148471614
+      "impressions": 1121,
+      "ctr": 0.001784121320249777,
+      "position": 37.794826048171274
     },
     {
-      "query": "commercial door installation phoenix",
+      "query": "commercial door repair charlotte nc",
       "clicks": 2,
-      "impressions": 95,
-      "ctr": 0.021052631578947368,
-      "position": 5.536842105263158
-    },
-    {
-      "query": "commercial door repair phoenix",
-      "clicks": 2,
-      "impressions": 539,
-      "ctr": 0.0037105751391465678,
-      "position": 6.107606679035251
-    },
-    {
-      "query": "commercial door repair service near me",
-      "clicks": 2,
-      "impressions": 107,
-      "ctr": 0.018691588785046728,
-      "position": 15.757009345794392
+      "impressions": 463,
+      "ctr": 0.004319654427645789,
+      "position": 16.548596112311017
     },
     {
       "query": "commercial door replacement",
       "clicks": 2,
-      "impressions": 618,
-      "ctr": 0.003236245954692557,
-      "position": 43.54854368932039
+      "impressions": 773,
+      "ctr": 0.00258732212160414,
+      "position": 23.204398447606728
     },
     {
       "query": "commercial door supplier near me",
       "clicks": 2,
       "impressions": 17,
       "ctr": 0.11764705882352941,
-      "position": 4.470588235294118
+      "position": 4.352941176470589
     },
     {
       "query": "commercial doors phoenix",
       "clicks": 2,
-      "impressions": 89,
-      "ctr": 0.02247191011235955,
-      "position": 4.573033707865168
+      "impressions": 101,
+      "ctr": 0.019801980198019802,
+      "position": 5.881188118811881
+    },
+    {
+      "query": "commercial garage door repair phoenix",
+      "clicks": 2,
+      "impressions": 487,
+      "ctr": 0.004106776180698152,
+      "position": 14.41889117043121
+    },
+    {
+      "query": "commercial gate",
+      "clicks": 2,
+      "impressions": 143,
+      "ctr": 0.013986013986013986,
+      "position": 62.05594405594405
+    },
+    {
+      "query": "commercial glass door repair",
+      "clicks": 2,
+      "impressions": 478,
+      "ctr": 0.0041841004184100415,
+      "position": 15.912133891213388
     },
     {
       "query": "commercial glass entry doors",
       "clicks": 2,
-      "impressions": 194,
-      "ctr": 0.010309278350515464,
-      "position": 77.09278350515464
+      "impressions": 152,
+      "ctr": 0.013157894736842105,
+      "position": 76.8157894736842
     },
     {
-      "query": "commercial glass entry doors near me",
+      "query": "commercial window replacement",
       "clicks": 2,
-      "impressions": 71,
-      "ctr": 0.028169014084507043,
-      "position": 18.056338028169016
+      "impressions": 194,
+      "ctr": 0.010309278350515464,
+      "position": 23.015463917525775
     },
     {
       "query": "door companies in phoenix",
       "clicks": 2,
-      "impressions": 148,
-      "ctr": 0.013513513513513514,
-      "position": 11.52027027027027
+      "impressions": 166,
+      "ctr": 0.012048192771084338,
+      "position": 7.445783132530121
     },
     {
       "query": "door companies phoenix",
       "clicks": 2,
-      "impressions": 131,
-      "ctr": 0.015267175572519083,
-      "position": 18.564885496183205
+      "impressions": 135,
+      "ctr": 0.014814814814814815,
+      "position": 17.71851851851852
+    },
+    {
+      "query": "door company near me",
+      "clicks": 2,
+      "impressions": 17,
+      "ctr": 0.11764705882352941,
+      "position": 3.823529411764706
     },
     {
       "query": "door installation near me",
       "clicks": 2,
-      "impressions": 179,
-      "ctr": 0.0111731843575419,
-      "position": 2.7430167597765363
+      "impressions": 178,
+      "ctr": 0.011235955056179775,
+      "position": 1.3595505617977528
     },
     {
-      "query": "garage door repair",
+      "query": "types of commercial doors",
       "clicks": 2,
-      "impressions": 111,
-      "ctr": 0.018018018018018018,
-      "position": 45.88288288288288
+      "impressions": 769,
+      "ctr": 0.002600780234070221,
+      "position": 7.306892067620286
     },
     {
       "query": "asap commercial doors reviews",
       "clicks": 1,
-      "impressions": 114,
-      "ctr": 0.008771929824561403,
-      "position": 8.298245614035087
+      "impressions": 145,
+      "ctr": 0.006896551724137931,
+      "position": 9.862068965517242
+    },
+    {
+      "query": "asap door",
+      "clicks": 1,
+      "impressions": 86,
+      "ctr": 0.011627906976744186,
+      "position": 10.19767441860465
     },
     {
       "query": "asap door services",
@@ -919,51 +933,44 @@
     {
       "query": "automatic door installation companies",
       "clicks": 1,
-      "impressions": 4,
-      "ctr": 0.25,
-      "position": 54.25
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 54.666666666666664
     },
     {
       "query": "automatic door opener installers near me",
       "clicks": 1,
-      "impressions": 59,
-      "ctr": 0.01694915254237288,
-      "position": 77.55932203389831
+      "impressions": 38,
+      "ctr": 0.02631578947368421,
+      "position": 69.86842105263158
     },
     {
       "query": "automatic door repair",
       "clicks": 1,
-      "impressions": 1724,
-      "ctr": 0.000580046403712297,
-      "position": 26.279002320185615
+      "impressions": 1825,
+      "ctr": 0.000547945205479452,
+      "position": 18.820821917808217
     },
     {
       "query": "automatic door service near me",
       "clicks": 1,
-      "impressions": 141,
-      "ctr": 0.0070921985815602835,
-      "position": 24.29078014184397
-    },
-    {
-      "query": "automatic doors",
-      "clicks": 1,
-      "impressions": 9,
-      "ctr": 0.1111111111111111,
-      "position": 2.4444444444444446
+      "impressions": 125,
+      "ctr": 0.008,
+      "position": 20.912
     },
     {
       "query": "automatic sliding door repair near me",
       "clicks": 1,
-      "impressions": 89,
-      "ctr": 0.011235955056179775,
-      "position": 20.382022471910112
+      "impressions": 81,
+      "ctr": 0.012345679012345678,
+      "position": 19.88888888888889
     },
     {
       "query": "automatic sliding door service",
       "clicks": 1,
-      "impressions": 14,
-      "ctr": 0.07142857142857142,
-      "position": 26.785714285714285
+      "impressions": 23,
+      "ctr": 0.043478260869565216,
+      "position": 24.608695652173914
     },
     {
       "query": "best replacement doors near me",
@@ -975,60 +982,1110 @@
     {
       "query": "box truck roll up door repair",
       "clicks": 1,
-      "impressions": 6,
-      "ctr": 0.16666666666666666,
-      "position": 3.3333333333333335
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 4.5
     },
     {
-      "query": "coiling doors phoenix",
+      "query": "box truck roll up door repair near me",
       "clicks": 1,
-      "impressions": 67,
-      "ctr": 0.014925373134328358,
-      "position": 9.73134328358209
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 3.5
     },
     {
       "query": "comercial door repair",
       "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 17
+    },
+    {
+      "query": "commercial door and frame distributors",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "commercial door companies near me",
+      "clicks": 1,
+      "impressions": 117,
+      "ctr": 0.008547008547008548,
+      "position": 19.11965811965812
+    },
+    {
+      "query": "commercial door contractor",
+      "clicks": 1,
+      "impressions": 47,
+      "ctr": 0.02127659574468085,
+      "position": 36.38297872340426
+    },
+    {
+      "query": "commercial door installation phoenix",
+      "clicks": 1,
+      "impressions": 106,
+      "ctr": 0.009433962264150943,
+      "position": 11.00943396226415
+    },
+    {
+      "query": "commercial door installers near me",
+      "clicks": 1,
+      "impressions": 508,
+      "ctr": 0.001968503937007874,
+      "position": 23.60236220472441
+    },
+    {
+      "query": "commercial door lock",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3.5
+    },
+    {
+      "query": "commercial door locks nearby",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "commercial door near me",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 6.125
+    },
+    {
+      "query": "commercial door repair and installation",
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 46
+    },
+    {
+      "query": "commercial door repair tennessee",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "commercial door repairs",
+      "clicks": 1,
+      "impressions": 42,
+      "ctr": 0.023809523809523808,
+      "position": 48.80952380952381
+    },
+    {
+      "query": "commercial door replacement near me",
+      "clicks": 1,
+      "impressions": 146,
+      "ctr": 0.00684931506849315,
+      "position": 23.294520547945204
+    },
+    {
+      "query": "commercial door sales near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 3
+    },
+    {
+      "query": "commercial door service phoenix",
+      "clicks": 1,
+      "impressions": 57,
+      "ctr": 0.017543859649122806,
+      "position": 12.649122807017545
+    },
+    {
+      "query": "commercial door vendors",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 34.5
+    },
+    {
+      "query": "commercial doors and frames",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 21.11111111111111
+    },
+    {
+      "query": "commercial doors charlotte nc",
+      "clicks": 1,
+      "impressions": 29,
+      "ctr": 0.034482758620689655,
+      "position": 7.827586206896552
+    },
+    {
+      "query": "commercial double doors",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 5.090909090909091
+    },
+    {
+      "query": "commercial front doors",
+      "clicks": 1,
       "impressions": 6,
       "ctr": 0.16666666666666666,
-      "position": 5
+      "position": 1
+    },
+    {
+      "query": "commercial garage doors",
+      "clicks": 1,
+      "impressions": 141,
+      "ctr": 0.0070921985815602835,
+      "position": 7.638297872340425
+    },
+    {
+      "query": "commercial glass door company near me",
+      "clicks": 1,
+      "impressions": 54,
+      "ctr": 0.018518518518518517,
+      "position": 26.537037037037038
+    },
+    {
+      "query": "commercial glass door repair near me",
+      "clicks": 1,
+      "impressions": 71,
+      "ctr": 0.014084507042253521,
+      "position": 25.704225352112676
+    },
+    {
+      "query": "commercial glass entry doors near me",
+      "clicks": 1,
+      "impressions": 72,
+      "ctr": 0.013888888888888888,
+      "position": 18.930555555555557
+    },
+    {
+      "query": "commercial glass security doors",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "commercial hollow metal doors near me",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 1
+    },
+    {
+      "query": "commercial metal doors near me",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 18.333333333333332
+    },
+    {
+      "query": "commercial overhead doors",
+      "clicks": 1,
+      "impressions": 67,
+      "ctr": 0.014925373134328358,
+      "position": 8.82089552238806
+    },
+    {
+      "query": "commercial roll up door service near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2.5
+    },
+    {
+      "query": "commercial sliding door repair",
+      "clicks": 1,
+      "impressions": 85,
+      "ctr": 0.011764705882352941,
+      "position": 37.62352941176471
+    },
+    {
+      "query": "commercial steel door installers near me",
+      "clicks": 1,
+      "impressions": 112,
+      "ctr": 0.008928571428571428,
+      "position": 15.473214285714286
+    },
+    {
+      "query": "commercial steel exterior doors with glass",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 6.666666666666667
+    },
+    {
+      "query": "commercial storefront door repair",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 18.791666666666668
+    },
+    {
+      "query": "commercial storefront doors near me",
+      "clicks": 1,
+      "impressions": 248,
+      "ctr": 0.004032258064516129,
+      "position": 22.141129032258064
+    },
+    {
+      "query": "custom storm doors near me",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 1
+    },
+    {
+      "query": "dock door repair",
+      "clicks": 1,
+      "impressions": 180,
+      "ctr": 0.005555555555555556,
+      "position": 63.016666666666666
+    },
+    {
+      "query": "door companies phoenix az",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 31.647058823529413
+    },
+    {
+      "query": "door contractors near me",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 1
+    },
+    {
+      "query": "door install",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 3.4
+    },
+    {
+      "query": "door near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "door repair for business",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "door repair near me",
+      "clicks": 1,
+      "impressions": 250,
+      "ctr": 0.004,
+      "position": 1.104
+    },
+    {
+      "query": "door repair scottsdale",
+      "clicks": 1,
+      "impressions": 267,
+      "ctr": 0.003745318352059925,
+      "position": 15.235955056179776
+    },
+    {
+      "query": "door supplier",
+      "clicks": 1,
+      "impressions": 23,
+      "ctr": 0.043478260869565216,
+      "position": 1.6956521739130435
+    },
+    {
+      "query": "door suppliers near me",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 1
+    },
+    {
+      "query": "doors",
+      "clicks": 1,
+      "impressions": 218,
+      "ctr": 0.0045871559633027525,
+      "position": 3.463302752293578
+    },
+    {
+      "query": "doors and hardware",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2.5
+    },
+    {
+      "query": "doors and windows near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "double commercial doors",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 4
+    },
+    {
+      "query": "entry door replacement",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 1.9230769230769231
+    },
+    {
+      "query": "entry doors near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "exterior commercial doors",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 2
+    },
+    {
+      "query": "exterior door contractors near me",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 24.5
+    },
+    {
+      "query": "front door installation",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 2.75
+    },
+    {
+      "query": "front door repair near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 11.333333333333334
+    },
+    {
+      "query": "front door replacement near me",
+      "clicks": 1,
+      "impressions": 69,
+      "ctr": 0.014492753623188406,
+      "position": 1.0434782608695652
+    },
+    {
+      "query": "front door supplier near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "garage door parts near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 5.666666666666667
+    },
+    {
+      "query": "garage door repair",
+      "clicks": 1,
+      "impressions": 83,
+      "ctr": 0.012048192771084338,
+      "position": 46.42168674698795
+    },
+    {
+      "query": "gate repair phoenix",
+      "clicks": 1,
+      "impressions": 170,
+      "ctr": 0.0058823529411764705,
+      "position": 16.076470588235296
+    },
+    {
+      "query": "glass door commercial",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 23
+    },
+    {
+      "query": "glass door for commercial building",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 50.57142857142857
+    },
+    {
+      "query": "glass doors for office",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "glass garage doors near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "handicap accessible doors",
+      "clicks": 1,
+      "impressions": 31,
+      "ctr": 0.03225806451612903,
+      "position": 33.935483870967744
+    },
+    {
+      "query": "handicap door installation near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "handicap door repair near me",
+      "clicks": 1,
+      "impressions": 81,
+      "ctr": 0.012345679012345678,
+      "position": 46.41975308641975
+    },
+    {
+      "query": "handicap doors for business",
+      "clicks": 1,
+      "impressions": 135,
+      "ctr": 0.007407407407407408,
+      "position": 9.822222222222223
+    },
+    {
+      "query": "highest rated garage door companies near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "hm door meaning",
+      "clicks": 1,
+      "impressions": 56,
+      "ctr": 0.017857142857142856,
+      "position": 1.3035714285714286
+    },
+    {
+      "query": "industrial door companies near me",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 38.6
+    },
+    {
+      "query": "industrial door suppliers",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 1.25
+    },
+    {
+      "query": "interior doors phoenix, az",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "interior metal doors near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "kawneer door repair",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 36
+    },
+    {
+      "query": "outside door replacement",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "phoenix door repair",
+      "clicks": 1,
+      "impressions": 52,
+      "ctr": 0.019230769230769232,
+      "position": 6.115384615384615
+    },
+    {
+      "query": "phoenix door services",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 9.461538461538462
+    },
+    {
+      "query": "replacement entry doors",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 1
+    },
+    {
+      "query": "residential roll up garage doors near me",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 28.384615384615383
+    },
+    {
+      "query": "roll up door problems",
+      "clicks": 1,
+      "impressions": 76,
+      "ctr": 0.013157894736842105,
+      "position": 2.473684210526316
+    },
+    {
+      "query": "roll up doors near me",
+      "clicks": 1,
+      "impressions": 61,
+      "ctr": 0.01639344262295082,
+      "position": 8.688524590163935
+    },
+    {
+      "query": "rolling steel doors",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "security gate company near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 9
+    },
+    {
+      "query": "security gate installation",
+      "clicks": 1,
+      "impressions": 1460,
+      "ctr": 0.0006849315068493151,
+      "position": 11.093150684931507
+    },
+    {
+      "query": "security screens for doors",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "shop door installation",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "sliding door hardware nearby",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "steel commercial doors near me",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 35.666666666666664
+    },
+    {
+      "query": "steel doors",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 2.8
+    },
+    {
+      "query": "steel exterior commercial doors",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 2
+    },
+    {
+      "query": "store front door",
+      "clicks": 1,
+      "impressions": 92,
+      "ctr": 0.010869565217391304,
+      "position": 51.59782608695652
+    },
+    {
+      "query": "store front doors",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 29.375
+    },
+    {
+      "query": "storefront door installation near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 57.5
+    },
+    {
+      "query": "storefront doors",
+      "clicks": 1,
+      "impressions": 323,
+      "ctr": 0.0030959752321981426,
+      "position": 58.85448916408669
+    },
+    {
+      "query": "used commercial glass doors for sale",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 12
+    },
+    {
+      "query": "\"asap commercial doors\" \"asapcommercialdoors.com\"",
+      "clicks": 0,
+      "impressions": 56,
+      "ctr": 0,
+      "position": 20.517857142857142
+    },
+    {
+      "query": "\"asap commercial doors\" \"gilbert\"",
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 16.526315789473685
+    },
+    {
+      "query": "#asap",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "10x10 roll up door near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "12x10 roll up garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "14x10 garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 15
+    },
+    {
+      "query": "14x14 garage door insulated",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "query": "16x7 wood garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "1st commercial door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 84
+    },
+    {
+      "query": "23040 n 11th ave",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 31
+    },
+    {
+      "query": "23040 n 11th ave phoenix az 85027",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 32.5
+    },
+    {
+      "query": "24 hour commercial door repair",
+      "clicks": 0,
+      "impressions": 23,
+      "ctr": 0,
+      "position": 28.47826086956522
+    },
+    {
+      "query": "24 hour commercial garage door repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "24 hour commercial glass",
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 7.916666666666667
+    },
+    {
+      "query": "24 hour door repair",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 6.6
+    },
+    {
+      "query": "24 hour door repair near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "24 hour glass repair charlotte nc",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 72.36363636363636
+    },
+    {
+      "query": "24-hour commercial door repair in arrowhead ranch,, az",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 27.2
+    },
+    {
+      "query": "24-hour commercial door repair in avondale, az",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 48.53333333333333
+    },
+    {
+      "query": "24-hour commercial door repair in deer valley, az",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 46.142857142857146
+    },
+    {
+      "query": "24-hour commercial door repair in peoria, az",
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 66.88888888888889
+    },
+    {
+      "query": "24-hour commercial glass repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "24-hour garage door emergency service phoenix",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 52
+    },
+    {
+      "query": "24/7 door repair charlotte nc",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 37.5
+    },
+    {
+      "query": "24/7 storefront door repair phoenix az",
+      "clicks": 0,
+      "impressions": 142,
+      "ctr": 0,
+      "position": 18.422535211267604
+    },
+    {
+      "query": "3080 doors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "30a ada automatic door opener",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 81
+    },
+    {
+      "query": "36x84 commercial door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "5x6 roll up door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "8x12 roll up door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "query": "a asap address",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "a door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 15
+    },
+    {
+      "query": "a doors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "a person's employer agrees to install an electric door opener",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "a-z doors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "a.s.a.p",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "a.s.a.p garage door repair llc",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 36
+    },
+    {
+      "query": "aaadm certified door installer",
+      "clicks": 0,
+      "impressions": 86,
+      "ctr": 0,
+      "position": 86.86046511627907
+    },
+    {
+      "query": "aaadm certified door service",
+      "clicks": 0,
+      "impressions": 56,
+      "ctr": 0,
+      "position": 77.10714285714286
+    },
+    {
+      "query": "aaadm certified technicians",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 89
+    },
+    {
+      "query": "abc garage doors near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "absolute door services",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "acadiana garage doors lafayette la",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "access control commercial door repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 47
+    },
+    {
+      "query": "access control door repair charlotte",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 21.555555555555557
+    },
+    {
+      "query": "access control door repair phoenix",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 22.176470588235293
+    },
+    {
+      "query": "access control door system repair",
+      "clicks": 0,
+      "impressions": 35,
+      "ctr": 0,
+      "position": 18.17142857142857
+    },
+    {
+      "query": "access control gate installation",
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 25.166666666666668
+    },
+    {
+      "query": "access door",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 8.25
+    },
+    {
+      "query": "access door & glass",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 21
+    },
+    {
+      "query": "access door and glass",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 34
+    },
+    {
+      "query": "access doors",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 4.333333333333334
+    },
+    {
+      "query": "access doors office space fllmdrnsmyhnrf",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "access gate installation",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 34
+    },
+    {
+      "query": "access gates installation",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 18
     }
   ],
   "topPages": [
     {
       "page": "https://asapcommercialdoors.com/",
-      "clicks": 2123,
-      "impressions": 38780,
-      "ctr": 0.05474471376998453,
-      "position": 17.981975244971636
+      "clicks": 1796,
+      "impressions": 40898,
+      "ctr": 0.043914127830211744,
+      "position": 20.09782874468189
     },
     {
       "page": "https://asapcommercialdoors.com/about-us/",
-      "clicks": 1899,
-      "impressions": 15939,
-      "ctr": 0.11914172783738002,
-      "position": 3.02666415709894
+      "clicks": 1565,
+      "impressions": 13404,
+      "ctr": 0.11675619218143837,
+      "position": 3.2375410325276035
     },
     {
       "page": "https://asapcommercialdoors.com/contact-us/",
-      "clicks": 1759,
-      "impressions": 17852,
-      "ctr": 0.0985323773246695,
-      "position": 4.304895809993278
+      "clicks": 1429,
+      "impressions": 15843,
+      "ctr": 0.0901975635927539,
+      "position": 4.965031875276147
     },
     {
       "page": "https://asapcommercialdoors.com/why-us/",
-      "clicks": 1386,
-      "impressions": 13847,
-      "ctr": 0.10009388315158518,
-      "position": 2.6165956524879035
+      "clicks": 1097,
+      "impressions": 10827,
+      "ctr": 0.1013207721437148,
+      "position": 2.7745451186847694
     },
     {
       "page": "https://asapcommercialdoors.com/shop/",
-      "clicks": 1062,
-      "impressions": 9599,
-      "ctr": 0.11063652463798312,
-      "position": 2.6996562141889777
+      "clicks": 750,
+      "impressions": 7229,
+      "ctr": 0.10374878959745469,
+      "position": 3.3698990178447916
     },
     {
       "page": "https://asapcommercialdoors.com/service-areas/phoenix-az-2/",
@@ -1039,312 +2096,1718 @@
     },
     {
       "page": "https://asapcommercialdoors.com/commercial-door-repair-and-installation-what-every-business-owner-should-know/",
-      "clicks": 301,
-      "impressions": 2655,
-      "ctr": 0.11337099811676082,
-      "position": 4.355178907721281
+      "clicks": 305,
+      "impressions": 2765,
+      "ctr": 0.11030741410488246,
+      "position": 5.202893309222423
     },
     {
       "page": "https://asapcommercialdoors.com/faqs/",
-      "clicks": 297,
-      "impressions": 3022,
-      "ctr": 0.09827928524156188,
-      "position": 3.0900066181336863
+      "clicks": 292,
+      "impressions": 2945,
+      "ctr": 0.09915110356536502,
+      "position": 3.0876061120543294
     },
     {
       "page": "https://asapcommercialdoors.com/scottsdale-commercial-doors/",
       "clicks": 259,
-      "impressions": 10128,
-      "ctr": 0.025572669826224328,
-      "position": 34.08965244865719
+      "impressions": 14756,
+      "ctr": 0.017552182163187855,
+      "position": 33.43358633776091
     },
     {
       "page": "https://asapcommercialdoors.com/commercial-door-repair-service/",
-      "clicks": 235,
-      "impressions": 2967,
-      "ctr": 0.07920458375463431,
-      "position": 15.302999662959218
-    },
-    {
-      "page": "https://asapcommercialdoors.com/gallery/",
-      "clicks": 232,
-      "impressions": 2825,
-      "ctr": 0.08212389380530974,
-      "position": 3.742654867256637
+      "clicks": 237,
+      "impressions": 3751,
+      "ctr": 0.06318315115969075,
+      "position": 21.114902692615303
     },
     {
       "page": "https://asapcommercialdoors.com/charlotte/mooresville-automatic-door-installation/",
-      "clicks": 228,
-      "impressions": 3566,
-      "ctr": 0.06393718452047112,
-      "position": 10.502243409983175
+      "clicks": 226,
+      "impressions": 3680,
+      "ctr": 0.06141304347826087,
+      "position": 10.659782608695652
     },
     {
-      "page": "https://asapcommercialdoors.com/radio-ads/",
-      "clicks": 227,
-      "impressions": 1931,
-      "ctr": 0.11755567063697565,
-      "position": 2.549456240290005
-    },
-    {
-      "page": "https://asapcommercialdoors.com/charlotte/storefront-doors/",
-      "clicks": 168,
-      "impressions": 4411,
-      "ctr": 0.03808660167762412,
-      "position": 19.642257991385172
-    },
-    {
-      "page": "https://asapcommercialdoors.com/charlotte/?utm_source=google&utm_medium=GMB&utm_campaign=Google_Business_Profile",
-      "clicks": 143,
-      "impressions": 8791,
-      "ctr": 0.0162666363326129,
-      "position": 6.945853714025708
-    },
-    {
-      "page": "https://asapcommercialdoors.com/commercial-garage-doors/",
-      "clicks": 137,
-      "impressions": 4564,
-      "ctr": 0.03001752848378615,
-      "position": 22.60407537248028
+      "page": "https://asapcommercialdoors.com/gallery/",
+      "clicks": 224,
+      "impressions": 3126,
+      "ctr": 0.07165706973768395,
+      "position": 4.650031989763276
     },
     {
       "page": "https://asapcommercialdoors.com/service-areas/mooresville-nc/",
-      "clicks": 135,
-      "impressions": 13788,
-      "ctr": 0.0097911227154047,
-      "position": 3.807731360603423
+      "clicks": 178,
+      "impressions": 22715,
+      "ctr": 0.007836231565045124,
+      "position": 3.3602905569007264
+    },
+    {
+      "page": "https://asapcommercialdoors.com/commercial-garage-doors/",
+      "clicks": 138,
+      "impressions": 4539,
+      "ctr": 0.03040317250495704,
+      "position": 23.41815377836528
     },
     {
       "page": "https://asapcommercialdoors.com/impact-doors/",
-      "clicks": 125,
-      "impressions": 2590,
-      "ctr": 0.04826254826254826,
-      "position": 10.098069498069497
-    },
-    {
-      "page": "https://asapcommercialdoors.com/dock-equipment/",
-      "clicks": 120,
-      "impressions": 3406,
-      "ctr": 0.03523194362889019,
-      "position": 27.580446271285965
-    },
-    {
-      "page": "http://www.asapcommercialdoors.com/",
-      "clicks": 113,
-      "impressions": 13150,
-      "ctr": 0.008593155893536122,
-      "position": 4.177490494296578
-    },
-    {
-      "page": "https://asapcommercialdoors.com/commercial-roll-up-doors/",
-      "clicks": 65,
-      "impressions": 6673,
-      "ctr": 0.009740746291023528,
-      "position": 22.614865877416456
-    },
-    {
-      "page": "https://asapcommercialdoors.com/charlotte/commercial-door-services-in-huntersville/",
-      "clicks": 62,
-      "impressions": 1595,
-      "ctr": 0.038871473354231974,
-      "position": 10.551724137931034
+      "clicks": 130,
+      "impressions": 2128,
+      "ctr": 0.06109022556390977,
+      "position": 12.676221804511279
     },
     {
       "page": "https://asapcommercialdoors.com/service-areas/phoenix-az/",
+      "clicks": 121,
+      "impressions": 18998,
+      "ctr": 0.006369091483314033,
+      "position": 3.1083798294557323
+    },
+    {
+      "page": "https://asapcommercialdoors.com/charlotte/?utm_source=google&utm_medium=GMB&utm_campaign=Google_Business_Profile",
+      "clicks": 102,
+      "impressions": 5107,
+      "ctr": 0.0199725866457803,
+      "position": 6.48913256314862
+    },
+    {
+      "page": "http://www.asapcommercialdoors.com/",
+      "clicks": 71,
+      "impressions": 7532,
+      "ctr": 0.009426447158789167,
+      "position": 4.251327668613914
+    },
+    {
+      "page": "https://asapcommercialdoors.com/charlotte/storefront-doors/",
+      "clicks": 68,
+      "impressions": 3657,
+      "ctr": 0.018594476346732294,
+      "position": 30.652173913043477
+    },
+    {
+      "page": "https://asapcommercialdoors.com/charlotte/commercial-door-services-in-huntersville/",
       "clicks": 61,
-      "impressions": 7701,
-      "ctr": 0.007921049214387741,
-      "position": 2.1463446305674587
+      "impressions": 1627,
+      "ctr": 0.037492317148125384,
+      "position": 11.465273509526737
     },
     {
       "page": "https://asapcommercialdoors.com/charlotte/hollow-metal-doors/",
-      "clicks": 56,
-      "impressions": 3272,
-      "ctr": 0.017114914425427872,
-      "position": 25.708740831295845
-    },
-    {
-      "page": "https://asapcommercialdoors.com/phoenix-storefront-doors/",
-      "clicks": 50,
-      "impressions": 3844,
-      "ctr": 0.013007284079084287,
-      "position": 30.172476586888656
+      "clicks": 52,
+      "impressions": 4026,
+      "ctr": 0.012916045702930949,
+      "position": 28.395926477893692
     },
     {
       "page": "https://asapcommercialdoors.com/charlotte/",
       "clicks": 48,
-      "impressions": 4432,
-      "ctr": 0.010830324909747292,
-      "position": 18.538583032490976
+      "impressions": 5229,
+      "ctr": 0.009179575444635685,
+      "position": 20.822145725760183
+    },
+    {
+      "page": "https://asapcommercialdoors.com/phoenix-storefront-doors/",
+      "clicks": 48,
+      "impressions": 4082,
+      "ctr": 0.011758941695247428,
+      "position": 29.66340029397354
     },
     {
       "page": "https://asapcommercialdoors.com/charlotte/automatic-doors/",
-      "clicks": 48,
-      "impressions": 7491,
-      "ctr": 0.006407689227072487,
-      "position": 24.58363369376585
+      "clicks": 45,
+      "impressions": 7013,
+      "ctr": 0.006416654783972622,
+      "position": 23.340510480536146
     },
     {
       "page": "https://asapcommercialdoors.com/how-to-choose-the-best-commercial-door-company-for-your-business/",
       "clicks": 40,
-      "impressions": 575,
-      "ctr": 0.06956521739130435,
-      "position": 4.076521739130435
+      "impressions": 572,
+      "ctr": 0.06993006993006994,
+      "position": 4.050699300699301
     },
     {
       "page": "https://asapcommercialdoors.com/automatic-doors/",
-      "clicks": 30,
-      "impressions": 5577,
-      "ctr": 0.0053792361484669175,
-      "position": 35.31468531468531
+      "clicks": 33,
+      "impressions": 5946,
+      "ctr": 0.005549949545913219,
+      "position": 33.10158089471914
+    },
+    {
+      "page": "https://asapcommercialdoors.com/commercial-roll-up-doors/",
+      "clicks": 26,
+      "impressions": 6122,
+      "ctr": 0.004246978111728194,
+      "position": 27.258412283567463
     },
     {
       "page": "https://asapcommercialdoors.com/charlotte/about-us/",
       "clicks": 25,
-      "impressions": 594,
-      "ctr": 0.04208754208754209,
-      "position": 7.828282828282828
-    },
-    {
-      "page": "https://asapcommercialdoors.com/how-to-protect-your-storefront-doors-from-ice-salt-and-snow-damage/",
-      "clicks": 17,
-      "impressions": 823,
-      "ctr": 0.020656136087484813,
-      "position": 7.07411907654921
-    },
-    {
-      "page": "https://www.asapcommercialdoors.com/",
-      "clicks": 15,
-      "impressions": 2080,
-      "ctr": 0.007211538461538462,
-      "position": 6.11875
-    },
-    {
-      "page": "https://asapcommercialdoors.com/charlotte/glass-doors/",
-      "clicks": 14,
-      "impressions": 3530,
-      "ctr": 0.00396600566572238,
-      "position": 20.51586402266289
-    },
-    {
-      "page": "https://asapcommercialdoors.com/phoneix-hollow-metal-doors/",
-      "clicks": 14,
-      "impressions": 4040,
-      "ctr": 0.0034653465346534654,
-      "position": 38.61212871287129
+      "impressions": 584,
+      "ctr": 0.04280821917808219,
+      "position": 7.428082191780822
     },
     {
       "page": "https://asapcommercialdoors.com/service-areas/gilbert-az/",
+      "clicks": 21,
+      "impressions": 7358,
+      "ctr": 0.0028540364229410167,
+      "position": 3.4339494427833652
+    },
+    {
+      "page": "https://asapcommercialdoors.com/how-to-protect-your-storefront-doors-from-ice-salt-and-snow-damage/",
+      "clicks": 16,
+      "impressions": 768,
+      "ctr": 0.020833333333333332,
+      "position": 7.438802083333333
+    },
+    {
+      "page": "https://www.asapcommercialdoors.com/",
       "clicks": 14,
-      "impressions": 3985,
-      "ctr": 0.0035131744040150566,
-      "position": 3.3382685069008784
+      "impressions": 1255,
+      "ctr": 0.011155378486055778,
+      "position": 5.949800796812749
     },
     {
-      "page": "https://asapcommercialdoors.com/commercial-door-maintenance-checklist/",
+      "page": "https://asapcommercialdoors.com/charlotte/glass-doors/",
       "clicks": 13,
-      "impressions": 1436,
-      "ctr": 0.009052924791086351,
-      "position": 8.602367688022284
-    },
-    {
-      "page": "https://asapcommercialdoors.com/glass-doors/",
-      "clicks": 12,
-      "impressions": 3774,
-      "ctr": 0.003179650238473768,
-      "position": 23.533386327503976
+      "impressions": 4275,
+      "ctr": 0.0030409356725146198,
+      "position": 21.851461988304095
     },
     {
       "page": "https://asapcommercialdoors.com/mesa-commercial-roll-up-doors/",
+      "clicks": 13,
+      "impressions": 2891,
+      "ctr": 0.004496713939813214,
+      "position": 32.9066067104808
+    },
+    {
+      "page": "https://asapcommercialdoors.com/commercial-door-maintenance-checklist/",
       "clicks": 12,
-      "impressions": 2247,
-      "ctr": 0.0053404539385847796,
-      "position": 36.92834890965732
+      "impressions": 1377,
+      "ctr": 0.008714596949891068,
+      "position": 9.571532316630355
+    },
+    {
+      "page": "https://asapcommercialdoors.com/gates/",
+      "clicks": 12,
+      "impressions": 6832,
+      "ctr": 0.001756440281030445,
+      "position": 38.34104215456674
+    },
+    {
+      "page": "https://asapcommercialdoors.com/radio-ads/",
+      "clicks": 12,
+      "impressions": 151,
+      "ctr": 0.07947019867549669,
+      "position": 7.225165562913907
     },
     {
       "page": "https://asapcommercialdoors.com/phoenix-commercial-overhead-doors/",
       "clicks": 11,
-      "impressions": 1178,
-      "ctr": 0.00933786078098472,
-      "position": 16.759762308998305
+      "impressions": 1429,
+      "ctr": 0.007697690692792162,
+      "position": 16.52694191742477
     },
     {
-      "page": "https://asapcommercialdoors.com/gates/",
+      "page": "https://asapcommercialdoors.com/glass-doors/",
       "clicks": 9,
-      "impressions": 6542,
-      "ctr": 0.0013757260776520942,
-      "position": 40.77988382757567
+      "impressions": 3089,
+      "ctr": 0.0029135642602784073,
+      "position": 30.354483651667206
+    },
+    {
+      "page": "https://asapcommercialdoors.com/phoneix-hollow-metal-doors/",
+      "clicks": 9,
+      "impressions": 4603,
+      "ctr": 0.001955246578318488,
+      "position": 39.433195741907454
     },
     {
       "page": "https://asapcommercialdoors.com/types-of-commercial-doors-complete-guide-to-styles-uses-pros-cons/",
       "clicks": 9,
-      "impressions": 2186,
-      "ctr": 0.004117108874656907,
-      "position": 12.300548947849954
+      "impressions": 2591,
+      "ctr": 0.0034735623311462757,
+      "position": 11.8039367039753
     },
     {
       "page": "https://asapcommercialdoors.com/what-is-a-hollow-metal-door/",
       "clicks": 8,
-      "impressions": 5066,
-      "ctr": 0.0015791551519936833,
-      "position": 8.670548756415318
+      "impressions": 4919,
+      "ctr": 0.0016263468184590363,
+      "position": 8.26692417157959
     },
     {
       "page": "https://asapcommercialdoors.com/business-door-repair-phoenix/",
       "clicks": 7,
-      "impressions": 5800,
-      "ctr": 0.001206896551724138,
-      "position": 34.45448275862069
+      "impressions": 6789,
+      "ctr": 0.0010310796877301518,
+      "position": 38.75239357784652
     },
     {
-      "page": "https://asapcommercialdoors.com/commercial-handicap-doors/",
+      "page": "https://asapcommercialdoors.com/charlotte/wood-doors/",
       "clicks": 7,
-      "impressions": 1598,
-      "ctr": 0.004380475594493116,
-      "position": 17.982478097622028
+      "impressions": 679,
+      "ctr": 0.010309278350515464,
+      "position": 35.8041237113402
+    },
+    {
+      "page": "https://asapcommercialdoors.com/commercial-gate-installation-tips-selecting-the-best-gate-for-security-style/",
+      "clicks": 7,
+      "impressions": 2866,
+      "ctr": 0.0024424284717376133,
+      "position": 17.19155617585485
     },
     {
       "page": "https://asapcommercialdoors.com/elevate-your-business-security-with-asap-commercial-doors-financing-available-for-commercial-door-projects/",
       "clicks": 7,
       "impressions": 238,
       "ctr": 0.029411764705882353,
-      "position": 9.105042016806722
-    },
-    {
-      "page": "https://asapcommercialdoors.com/charlotte/wood-doors/",
-      "clicks": 6,
-      "impressions": 875,
-      "ctr": 0.006857142857142857,
-      "position": 23.55542857142857
-    },
-    {
-      "page": "https://asapcommercialdoors.com/commercial-gate-installation-tips-selecting-the-best-gate-for-security-style/",
-      "clicks": 6,
-      "impressions": 2602,
-      "ctr": 0.0023059185242121443,
-      "position": 17.16141429669485
+      "position": 8.810924369747898
     },
     {
       "page": "https://asapcommercialdoors.com/vip-membership-program/",
-      "clicks": 6,
-      "impressions": 810,
-      "ctr": 0.007407407407407408,
-      "position": 5.354320987654321
-    },
-    {
-      "page": "https://asapcommercialdoors.com/what-is-the-most-common-problem-with-garage-doors/",
-      "clicks": 5,
-      "impressions": 433,
-      "ctr": 0.011547344110854504,
-      "position": 13.577367205542725
+      "clicks": 7,
+      "impressions": 1125,
+      "ctr": 0.006222222222222222,
+      "position": 5.4
     },
     {
       "page": "https://asapcommercialdoors.com/charlotte/glass-replacement/",
-      "clicks": 4,
-      "impressions": 2153,
-      "ctr": 0.0018578727357176034,
-      "position": 37.91639572689271
+      "clicks": 6,
+      "impressions": 2745,
+      "ctr": 0.002185792349726776,
+      "position": 34.1792349726776
+    },
+    {
+      "page": "https://asapcommercialdoors.com/commercial-handicap-doors/",
+      "clicks": 6,
+      "impressions": 1466,
+      "ctr": 0.004092769440654843,
+      "position": 18.53819918144611
+    },
+    {
+      "page": "https://asapcommercialdoors.com/dock-equipment/",
+      "clicks": 5,
+      "impressions": 2766,
+      "ctr": 0.0018076644974692696,
+      "position": 36.89840925524223
+    },
+    {
+      "page": "https://asapcommercialdoors.com/guide-to-commercial-roll-up-doors/",
+      "clicks": 5,
+      "impressions": 972,
+      "ctr": 0.0051440329218107,
+      "position": 13.722222222222221
     }
   ],
-  "fetchedAt": "2026-03-18T13:08:06.987Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "asap commercial doors",
+      "clicks": 169,
+      "impressions": 971,
+      "ctr": 0.17404737384140062,
+      "position": 1.168898043254377
+    },
+    {
+      "query": "asap doors",
+      "clicks": 83,
+      "impressions": 566,
+      "ctr": 0.14664310954063603,
+      "position": 2.2208480565371023
+    },
+    {
+      "query": "commercial door repair",
+      "clicks": 22,
+      "impressions": 5748,
+      "ctr": 0.003827418232428671,
+      "position": 54.411447459986086
+    },
+    {
+      "query": "commercial door repair phoenix",
+      "clicks": 13,
+      "impressions": 242,
+      "ctr": 0.05371900826446281,
+      "position": 2.6487603305785123
+    },
+    {
+      "query": "commercial garage door repair phoenix",
+      "clicks": 13,
+      "impressions": 420,
+      "ctr": 0.030952380952380953,
+      "position": 5.9714285714285715
+    },
+    {
+      "query": "commercial doors",
+      "clicks": 11,
+      "impressions": 854,
+      "ctr": 0.01288056206088993,
+      "position": 4.572599531615925
+    },
+    {
+      "query": "asap commercial",
+      "clicks": 10,
+      "impressions": 68,
+      "ctr": 0.14705882352941177,
+      "position": 2.264705882352941
+    },
+    {
+      "query": "commercial doors phoenix",
+      "clicks": 8,
+      "impressions": 130,
+      "ctr": 0.06153846153846154,
+      "position": 2.646153846153846
+    },
+    {
+      "query": "asap garage door",
+      "clicks": 7,
+      "impressions": 106,
+      "ctr": 0.0660377358490566,
+      "position": 15.20754716981132
+    },
+    {
+      "query": "commercial door installation",
+      "clicks": 6,
+      "impressions": 1681,
+      "ctr": 0.003569303985722784,
+      "position": 40.10886377156454
+    },
+    {
+      "query": "asap door",
+      "clicks": 5,
+      "impressions": 208,
+      "ctr": 0.02403846153846154,
+      "position": 7.033653846153846
+    },
+    {
+      "query": "asap door repair",
+      "clicks": 5,
+      "impressions": 68,
+      "ctr": 0.07352941176470588,
+      "position": 2.7941176470588234
+    },
+    {
+      "query": "asap garage door service",
+      "clicks": 5,
+      "impressions": 61,
+      "ctr": 0.08196721311475409,
+      "position": 16.83606557377049
+    },
+    {
+      "query": "commercial door repair company near me",
+      "clicks": 5,
+      "impressions": 263,
+      "ctr": 0.019011406844106463,
+      "position": 19.935361216730037
+    },
+    {
+      "query": "commercial door company near me",
+      "clicks": 4,
+      "impressions": 337,
+      "ctr": 0.011869436201780416,
+      "position": 15.480712166172108
+    },
+    {
+      "query": "commercial door installers near me",
+      "clicks": 4,
+      "impressions": 789,
+      "ctr": 0.005069708491761723,
+      "position": 27.930291508238277
+    },
+    {
+      "query": "commercial doors phoenix az",
+      "clicks": 4,
+      "impressions": 98,
+      "ctr": 0.04081632653061224,
+      "position": 1.6224489795918369
+    },
+    {
+      "query": "door repair near me",
+      "clicks": 4,
+      "impressions": 485,
+      "ctr": 0.008247422680412371,
+      "position": 27.08659793814433
+    },
+    {
+      "query": "hollow metal door",
+      "clicks": 4,
+      "impressions": 188,
+      "ctr": 0.02127659574468085,
+      "position": 30.71276595744681
+    },
+    {
+      "query": "asap commercial doors mooresville nc",
+      "clicks": 3,
+      "impressions": 9,
+      "ctr": 0.3333333333333333,
+      "position": 1
+    },
+    {
+      "query": "asap commercial doors reviews",
+      "clicks": 3,
+      "impressions": 252,
+      "ctr": 0.011904761904761904,
+      "position": 3.5634920634920637
+    },
+    {
+      "query": "asap garage doors",
+      "clicks": 3,
+      "impressions": 85,
+      "ctr": 0.03529411764705882,
+      "position": 16.141176470588235
+    },
+    {
+      "query": "commercial door companies near me",
+      "clicks": 3,
+      "impressions": 199,
+      "ctr": 0.01507537688442211,
+      "position": 38.30653266331658
+    },
+    {
+      "query": "commercial door repair companies",
+      "clicks": 3,
+      "impressions": 124,
+      "ctr": 0.024193548387096774,
+      "position": 25.741935483870968
+    },
+    {
+      "query": "commercial steel doors",
+      "clicks": 3,
+      "impressions": 46,
+      "ctr": 0.06521739130434782,
+      "position": 4.108695652173913
+    },
+    {
+      "query": "door repair phoenix",
+      "clicks": 3,
+      "impressions": 749,
+      "ctr": 0.004005340453938585,
+      "position": 4.606141522029373
+    },
+    {
+      "query": "storefront doors near me",
+      "clicks": 3,
+      "impressions": 433,
+      "ctr": 0.006928406466512702,
+      "position": 47.108545034642034
+    },
+    {
+      "query": "asap commercial doors tasha",
+      "clicks": 2,
+      "impressions": 15,
+      "ctr": 0.13333333333333333,
+      "position": 1.4
+    },
+    {
+      "query": "automatic door company near me",
+      "clicks": 2,
+      "impressions": 274,
+      "ctr": 0.0072992700729927005,
+      "position": 25.12773722627737
+    },
+    {
+      "query": "commercial door hardware",
+      "clicks": 2,
+      "impressions": 10,
+      "ctr": 0.2,
+      "position": 2.4
+    },
+    {
+      "query": "commercial door repair charlotte nc",
+      "clicks": 2,
+      "impressions": 277,
+      "ctr": 0.007220216606498195,
+      "position": 4.696750902527076
+    },
+    {
+      "query": "commercial doors charlotte nc",
+      "clicks": 2,
+      "impressions": 233,
+      "ctr": 0.008583690987124463,
+      "position": 5.944206008583691
+    },
+    {
+      "query": "commercial garage door installers near me",
+      "clicks": 2,
+      "impressions": 44,
+      "ctr": 0.045454545454545456,
+      "position": 13.386363636363637
+    },
+    {
+      "query": "commercial interior doors",
+      "clicks": 2,
+      "impressions": 6,
+      "ctr": 0.3333333333333333,
+      "position": 3.3333333333333335
+    },
+    {
+      "query": "commercial overhead door company near me",
+      "clicks": 2,
+      "impressions": 119,
+      "ctr": 0.01680672268907563,
+      "position": 62.260504201680675
+    },
+    {
+      "query": "commercial roll up door repair",
+      "clicks": 2,
+      "impressions": 1100,
+      "ctr": 0.0018181818181818182,
+      "position": 69.24818181818182
+    },
+    {
+      "query": "door companies near me",
+      "clicks": 2,
+      "impressions": 23,
+      "ctr": 0.08695652173913043,
+      "position": 4.6521739130434785
+    },
+    {
+      "query": "door company phoenix",
+      "clicks": 2,
+      "impressions": 27,
+      "ctr": 0.07407407407407407,
+      "position": 9.74074074074074
+    },
+    {
+      "query": "door repair phoenix az",
+      "clicks": 2,
+      "impressions": 230,
+      "ctr": 0.008695652173913044,
+      "position": 5.060869565217391
+    },
+    {
+      "query": "hollow metal doors near me",
+      "clicks": 2,
+      "impressions": 346,
+      "ctr": 0.005780346820809248,
+      "position": 56.164739884393065
+    },
+    {
+      "query": "security doors near me",
+      "clicks": 2,
+      "impressions": 16,
+      "ctr": 0.125,
+      "position": 7.125
+    },
+    {
+      "query": "storefront door repair",
+      "clicks": 2,
+      "impressions": 435,
+      "ctr": 0.004597701149425287,
+      "position": 54.13333333333333
+    },
+    {
+      "query": "ada door installers near me",
+      "clicks": 1,
+      "impressions": 151,
+      "ctr": 0.006622516556291391,
+      "position": 29.70860927152318
+    },
+    {
+      "query": "aluminum door repair near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 6
+    },
+    {
+      "query": "asap",
+      "clicks": 1,
+      "impressions": 297,
+      "ctr": 0.003367003367003367,
+      "position": 6.606060606060606
+    },
+    {
+      "query": "asap doors phoenix",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 1
+    },
+    {
+      "query": "asap glass",
+      "clicks": 1,
+      "impressions": 42,
+      "ctr": 0.023809523809523808,
+      "position": 11.619047619047619
+    },
+    {
+      "query": "asap maintenance",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 4.5
+    },
+    {
+      "query": "automated doorways",
+      "clicks": 1,
+      "impressions": 42,
+      "ctr": 0.023809523809523808,
+      "position": 44.214285714285715
+    },
+    {
+      "query": "automatic door companies",
+      "clicks": 1,
+      "impressions": 157,
+      "ctr": 0.006369426751592357,
+      "position": 77.28025477707007
+    },
+    {
+      "query": "automatic door repair companies",
+      "clicks": 1,
+      "impressions": 305,
+      "ctr": 0.003278688524590164,
+      "position": 43.20983606557377
+    },
+    {
+      "query": "automatic sliding doors commercial",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 4.333333333333334
+    },
+    {
+      "query": "business door repair",
+      "clicks": 1,
+      "impressions": 56,
+      "ctr": 0.017857142857142856,
+      "position": 48.07142857142857
+    },
+    {
+      "query": "business doors for sale",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "comercial door",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 3.2
+    },
+    {
+      "query": "comercial door repair",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 7.714285714285714
+    },
+    {
+      "query": "commercial automatic door",
+      "clicks": 1,
+      "impressions": 26,
+      "ctr": 0.038461538461538464,
+      "position": 26.423076923076923
+    },
+    {
+      "query": "commercial automatic door opener",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 9
+    },
+    {
+      "query": "commercial automatic sliding door repair",
+      "clicks": 1,
+      "impressions": 100,
+      "ctr": 0.01,
+      "position": 30
+    },
+    {
+      "query": "commercial door and hardware",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 1
+    },
+    {
+      "query": "commercial door contractors",
+      "clicks": 1,
+      "impressions": 218,
+      "ctr": 0.0045871559633027525,
+      "position": 19.701834862385322
+    },
+    {
+      "query": "commercial door contractors near me",
+      "clicks": 1,
+      "impressions": 159,
+      "ctr": 0.006289308176100629,
+      "position": 1.2641509433962264
+    },
+    {
+      "query": "commercial door fix near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 4.333333333333334
+    },
+    {
+      "query": "commercial door install",
+      "clicks": 1,
+      "impressions": 45,
+      "ctr": 0.022222222222222223,
+      "position": 1.2
+    },
+    {
+      "query": "commercial door installation companies near me",
+      "clicks": 1,
+      "impressions": 43,
+      "ctr": 0.023255813953488372,
+      "position": 1.1162790697674418
+    },
+    {
+      "query": "commercial door installation contractors",
+      "clicks": 1,
+      "impressions": 22,
+      "ctr": 0.045454545454545456,
+      "position": 9.545454545454545
+    },
+    {
+      "query": "commercial door installation near me",
+      "clicks": 1,
+      "impressions": 366,
+      "ctr": 0.00273224043715847,
+      "position": 17.8551912568306
+    },
+    {
+      "query": "commercial door installer near me",
+      "clicks": 1,
+      "impressions": 177,
+      "ctr": 0.005649717514124294,
+      "position": 2.361581920903955
+    },
+    {
+      "query": "commercial door near me",
+      "clicks": 1,
+      "impressions": 91,
+      "ctr": 0.01098901098901099,
+      "position": 1.5714285714285714
+    },
+    {
+      "query": "commercial door replacement companies",
+      "clicks": 1,
+      "impressions": 83,
+      "ctr": 0.012048192771084338,
+      "position": 3.2289156626506026
+    },
+    {
+      "query": "commercial door service",
+      "clicks": 1,
+      "impressions": 552,
+      "ctr": 0.0018115942028985507,
+      "position": 50.92934782608695
+    },
+    {
+      "query": "commercial door services",
+      "clicks": 1,
+      "impressions": 508,
+      "ctr": 0.001968503937007874,
+      "position": 48.06299212598425
+    },
+    {
+      "query": "commercial door supplier near me",
+      "clicks": 1,
+      "impressions": 42,
+      "ctr": 0.023809523809523808,
+      "position": 5.523809523809524
+    },
+    {
+      "query": "commercial door suppliers",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 6.6
+    },
+    {
+      "query": "commercial door suppliers near me",
+      "clicks": 1,
+      "impressions": 91,
+      "ctr": 0.01098901098901099,
+      "position": 1.5934065934065935
+    },
+    {
+      "query": "commercial doors and windows near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 22.25
+    },
+    {
+      "query": "commercial doors with glass",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "commercial entry door companies near me",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 20.63157894736842
+    },
+    {
+      "query": "commercial entry door repair near me",
+      "clicks": 1,
+      "impressions": 249,
+      "ctr": 0.004016064257028112,
+      "position": 34.325301204819276
+    },
+    {
+      "query": "commercial entry doors near me",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 7.625
+    },
+    {
+      "query": "commercial garage door repair",
+      "clicks": 1,
+      "impressions": 310,
+      "ctr": 0.0032258064516129032,
+      "position": 10.435483870967742
+    },
+    {
+      "query": "commercial garage door service",
+      "clicks": 1,
+      "impressions": 616,
+      "ctr": 0.0016233766233766235,
+      "position": 69.30681818181819
+    },
+    {
+      "query": "commercial garage door service near me",
+      "clicks": 1,
+      "impressions": 243,
+      "ctr": 0.00411522633744856,
+      "position": 65.06172839506173
+    },
+    {
+      "query": "commercial gate companies near me",
+      "clicks": 1,
+      "impressions": 244,
+      "ctr": 0.004098360655737705,
+      "position": 51.15983606557377
+    },
+    {
+      "query": "commercial gate installers near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 38
+    },
+    {
+      "query": "commercial gate repair",
+      "clicks": 1,
+      "impressions": 770,
+      "ctr": 0.0012987012987012987,
+      "position": 61.93636363636364
+    },
+    {
+      "query": "commercial glass door replacement",
+      "clicks": 1,
+      "impressions": 328,
+      "ctr": 0.003048780487804878,
+      "position": 45.81707317073171
+    },
+    {
+      "query": "commercial roll up door repair near me",
+      "clicks": 1,
+      "impressions": 290,
+      "ctr": 0.0034482758620689655,
+      "position": 53.46206896551724
+    },
+    {
+      "query": "commercial roll up door repair phoenix",
+      "clicks": 1,
+      "impressions": 85,
+      "ctr": 0.011764705882352941,
+      "position": 1.3058823529411765
+    },
+    {
+      "query": "commercial roll up door replacement",
+      "clicks": 1,
+      "impressions": 78,
+      "ctr": 0.01282051282051282,
+      "position": 62.243589743589745
+    },
+    {
+      "query": "commercial security door installation",
+      "clicks": 1,
+      "impressions": 84,
+      "ctr": 0.011904761904761904,
+      "position": 77.41666666666667
+    },
+    {
+      "query": "commercial security gates",
+      "clicks": 1,
+      "impressions": 401,
+      "ctr": 0.0024937655860349127,
+      "position": 69.07980049875312
+    },
+    {
+      "query": "commercial sliding door",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 7
+    },
+    {
+      "query": "commercial sliding doors",
+      "clicks": 1,
+      "impressions": 64,
+      "ctr": 0.015625,
+      "position": 14.84375
+    },
+    {
+      "query": "commercial steel doors and frames",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 4.375
+    },
+    {
+      "query": "commercial windows and doors",
+      "clicks": 1,
+      "impressions": 82,
+      "ctr": 0.012195121951219513,
+      "position": 29.841463414634145
+    },
+    {
+      "query": "commercial.door repair",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 20.916666666666668
+    },
+    {
+      "query": "commercial.doors",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "commerical door repair",
+      "clicks": 1,
+      "impressions": 107,
+      "ctr": 0.009345794392523364,
+      "position": 7.392523364485982
+    },
+    {
+      "query": "custom door company",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 6
+    },
+    {
+      "query": "custom doors phoenix",
+      "clicks": 1,
+      "impressions": 98,
+      "ctr": 0.01020408163265306,
+      "position": 43.59183673469388
+    },
+    {
+      "query": "door business",
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 25.5
+    },
+    {
+      "query": "door frame replacement near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "door hinge repair near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 27.333333333333332
+    },
+    {
+      "query": "door replacement near me",
+      "clicks": 1,
+      "impressions": 228,
+      "ctr": 0.0043859649122807015,
+      "position": 24.63157894736842
+    },
+    {
+      "query": "door specialists",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 8
+    },
+    {
+      "query": "door suppliers near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 5.25
+    },
+    {
+      "query": "doors commercial",
+      "clicks": 1,
+      "impressions": 42,
+      "ctr": 0.023809523809523808,
+      "position": 1.1428571428571428
+    },
+    {
+      "query": "emergency exit door repair near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 46.5
+    },
+    {
+      "query": "exterior door replacement",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "fire rated doors near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 6
+    },
+    {
+      "query": "front door repair near me",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 50.26315789473684
+    },
+    {
+      "query": "front doors for sale",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "glass door repair commercial",
+      "clicks": 1,
+      "impressions": 206,
+      "ctr": 0.0048543689320388345,
+      "position": 40.37864077669903
+    },
+    {
+      "query": "glass storefront doors near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 32.25
+    },
+    {
+      "query": "handicap door opener commercial installation near me",
+      "clicks": 1,
+      "impressions": 464,
+      "ctr": 0.0021551724137931034,
+      "position": 34.247844827586206
+    },
+    {
+      "query": "handicap door opener installers near me",
+      "clicks": 1,
+      "impressions": 533,
+      "ctr": 0.001876172607879925,
+      "position": 57.27954971857411
+    },
+    {
+      "query": "handicap doors for business",
+      "clicks": 1,
+      "impressions": 180,
+      "ctr": 0.005555555555555556,
+      "position": 7.655555555555556
+    },
+    {
+      "query": "hm door",
+      "clicks": 1,
+      "impressions": 138,
+      "ctr": 0.007246376811594203,
+      "position": 14.05072463768116
+    },
+    {
+      "query": "hollow core metal doors",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 14.333333333333334
+    },
+    {
+      "query": "hollow core steel door",
+      "clicks": 1,
+      "impressions": 26,
+      "ctr": 0.038461538461538464,
+      "position": 41.46153846153846
+    },
+    {
+      "query": "hollow metal doors",
+      "clicks": 1,
+      "impressions": 132,
+      "ctr": 0.007575757575757576,
+      "position": 58.90909090909091
+    },
+    {
+      "query": "loading dock repair companies near me",
+      "clicks": 1,
+      "impressions": 38,
+      "ctr": 0.02631578947368421,
+      "position": 89.34210526315789
+    },
+    {
+      "query": "metal door supplier near me",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 30.647058823529413
+    },
+    {
+      "query": "metal doors commercial",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 1.6666666666666665
+    },
+    {
+      "query": "phoenix door repair",
+      "clicks": 1,
+      "impressions": 80,
+      "ctr": 0.0125,
+      "position": 4.45
+    },
+    {
+      "query": "restaurant door repair",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 26.5
+    },
+    {
+      "query": "roll up commercial door repair service",
+      "clicks": 1,
+      "impressions": 161,
+      "ctr": 0.006211180124223602,
+      "position": 73.9192546583851
+    },
+    {
+      "query": "roll up commercial doors",
+      "clicks": 1,
+      "impressions": 106,
+      "ctr": 0.009433962264150943,
+      "position": 59.45283018867924
+    },
+    {
+      "query": "roll up door near me",
+      "clicks": 1,
+      "impressions": 169,
+      "ctr": 0.005917159763313609,
+      "position": 40.467455621301774
+    },
+    {
+      "query": "roll up door service near me",
+      "clicks": 1,
+      "impressions": 100,
+      "ctr": 0.01,
+      "position": 10.59
+    },
+    {
+      "query": "roll up doors",
+      "clicks": 1,
+      "impressions": 130,
+      "ctr": 0.007692307692307693,
+      "position": 27.676923076923078
+    },
+    {
+      "query": "roll up doors installed",
+      "clicks": 1,
+      "impressions": 22,
+      "ctr": 0.045454545454545456,
+      "position": 91.31818181818181
+    },
+    {
+      "query": "roll up garage doors phoenix",
+      "clicks": 1,
+      "impressions": 98,
+      "ctr": 0.01020408163265306,
+      "position": 6.887755102040816
+    },
+    {
+      "query": "sliding door manufacturers near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 9
+    },
+    {
+      "query": "sliding doors for sale near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 12
+    },
+    {
+      "query": "steel commercial doors",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 8
+    },
+    {
+      "query": "steel security doors residential",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 12.857142857142858
+    },
+    {
+      "query": "store front door installers",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 39.18181818181818
+    },
+    {
+      "query": "storefront door company",
+      "clicks": 1,
+      "impressions": 42,
+      "ctr": 0.023809523809523808,
+      "position": 68.35714285714286
+    },
+    {
+      "query": "storefront installation near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 54.666666666666664
+    },
+    {
+      "query": "storefront security gate",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 8
+    },
+    {
+      "query": "tasha asap doors",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 1.8461538461538463
+    },
+    {
+      "query": "warehouse door repair",
+      "clicks": 1,
+      "impressions": 269,
+      "ctr": 0.0037174721189591076,
+      "position": 33.67657992565056
+    },
+    {
+      "query": "warehouse roll up door repair",
+      "clicks": 1,
+      "impressions": 257,
+      "ctr": 0.0038910505836575876,
+      "position": 72.53307392996109
+    },
+    {
+      "query": "what are hollow metal doors made of",
+      "clicks": 1,
+      "impressions": 31,
+      "ctr": 0.03225806451612903,
+      "position": 5.967741935483871
+    },
+    {
+      "query": "what is an hm door",
+      "clicks": 1,
+      "impressions": 79,
+      "ctr": 0.012658227848101266,
+      "position": 1.9113924050632911
+    },
+    {
+      "query": "window installer near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "-site:facebook.com -site:fb.me -site:youtube.com -site:youtu.be -site:youtube.be -site:twitter.com -site:instagram.com -site:tiktok.com -site:vm.tiktok.com -site:t.co -site:x.com \"metal retrofit\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 68
+    },
+    {
+      "query": "2 panel interior doors",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "24 hour commercial door repair",
+      "clicks": 0,
+      "impressions": 37,
+      "ctr": 0,
+      "position": 31.486486486486488
+    },
+    {
+      "query": "24 hour door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "24 hour emergency garage door repairs in mesa",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 90
+    },
+    {
+      "query": "24 hour emergency garage door service in mesa",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 100
+    },
+    {
+      "query": "24/7 storefront door repair phoenix az",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 7.769230769230769
+    },
+    {
+      "query": "3x7 hollow metal door",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 80
+    },
+    {
+      "query": "5122",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2.5
+    },
+    {
+      "query": "6x7 roll up door near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "query": "a & r door service inc",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 83
+    },
+    {
+      "query": "a hollow metal",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 21.666666666666668
+    },
+    {
+      "query": "a metal door",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 100
+    },
+    {
+      "query": "a s a p",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "a-z door",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 33.5
+    },
+    {
+      "query": "a.s.a.p",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "a.s.a.p garage door repair",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 14.5
+    },
+    {
+      "query": "aaadm certified technicians",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 57
+    },
+    {
+      "query": "able glass",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "access control repair ft mill",
+      "clicks": 0,
+      "impressions": 20,
+      "ctr": 0,
+      "position": 80.1
+    },
+    {
+      "query": "accessibe commercial",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 99
+    },
+    {
+      "query": "accessibility door",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 84.88888888888889
+    },
+    {
+      "query": "accessibility doors",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 52.857142857142854
+    },
+    {
+      "query": "accessible door",
+      "clicks": 0,
+      "impressions": 29,
+      "ctr": 0,
+      "position": 63.48275862068966
+    },
+    {
+      "query": "accessible doors",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 48.125
+    },
+    {
+      "query": "accessible sliding door",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 96
+    },
+    {
+      "query": "action door service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "action/northshoredoor",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "ada automatic door",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 78.57142857142857
+    },
+    {
+      "query": "ada automatic door sign requirements",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 96
+    },
+    {
+      "query": "ada automatic doors",
+      "clicks": 0,
+      "impressions": 27,
+      "ctr": 0,
+      "position": 55.25925925925926
+    },
+    {
+      "query": "ada compliant aluminum storefront doors",
+      "clicks": 0,
+      "impressions": 75,
+      "ctr": 0,
+      "position": 87.89333333333333
+    },
+    {
+      "query": "ada compliant automatic door repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 43
+    },
+    {
+      "query": "ada compliant automatic doors",
+      "clicks": 0,
+      "impressions": 36,
+      "ctr": 0,
+      "position": 79.27777777777777
+    },
+    {
+      "query": "ada compliant storefront doors near me",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 89.2
+    },
+    {
+      "query": "ada door installation",
+      "clicks": 0,
+      "impressions": 206,
+      "ctr": 0,
+      "position": 75.86893203883496
+    },
+    {
+      "query": "ada door installers",
+      "clicks": 0,
+      "impressions": 347,
+      "ctr": 0,
+      "position": 67.89625360230548
+    },
+    {
+      "query": "ada door opener installers",
+      "clicks": 0,
+      "impressions": 34,
+      "ctr": 0,
+      "position": 68.79411764705883
+    },
+    {
+      "query": "ada door opener installers near me",
+      "clicks": 0,
+      "impressions": 197,
+      "ctr": 0,
+      "position": 37.756345177664976
+    },
+    {
+      "query": "ada door repair",
+      "clicks": 0,
+      "impressions": 58,
+      "ctr": 0,
+      "position": 63.12068965517241
+    },
+    {
+      "query": "ada handicap door opener requirements",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 84
+    },
+    {
+      "query": "ada power assisted door requirements",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 80.78571428571429
+    },
+    {
+      "query": "ada requirements for automatic doors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 100
+    },
+    {
+      "query": "ada wheelchair door width",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 34
+    },
+    {
+      "query": "adams doors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 14
+    },
+    {
+      "query": "ads door repair",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 42
+    },
+    {
+      "query": "ads doors",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 44.285714285714285
+    },
+    {
+      "query": "ads garage door",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 46.5
+    },
+    {
+      "query": "ads garage doors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "ads gates",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 35.333333333333336
+    },
+    {
+      "query": "advanced door service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "advantages of sliding door for business",
+      "clicks": 0,
+      "impressions": 56,
+      "ctr": 0,
+      "position": 79.94642857142857
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:22:40.255Z"
 }

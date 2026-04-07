@@ -1,156 +1,16 @@
 {
   "property": "sc-domain:actiongaragedoor.net",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 1298,
-    "impressions": 265361,
-    "ctr": 0.004891449760891766,
-    "position": 18.678623583700848
+    "clicks": 1423,
+    "impressions": 303004,
+    "ctr": 0.004696307639503109,
+    "position": 16.612428465023466
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 23,
-      "impressions": 3135,
-      "ctr": 0.00733652312599681,
-      "position": 15.196172248803828
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 7,
-      "impressions": 1860,
-      "ctr": 0.003763440860215054,
-      "position": 22.38064516129032
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 22,
-      "impressions": 1533,
-      "ctr": 0.014350945857795172,
-      "position": 20.053489889106327
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 15,
-      "impressions": 1689,
-      "ctr": 0.008880994671403197,
-      "position": 22.970396684428657
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 12,
-      "impressions": 5050,
-      "ctr": 0.002376237623762376,
-      "position": 19.584158415841586
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 6,
-      "impressions": 1900,
-      "ctr": 0.003157894736842105,
-      "position": 21.669473684210526
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 4,
-      "impressions": 1975,
-      "ctr": 0.0020253164556962027,
-      "position": 27.484556962025316
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 14,
-      "impressions": 2837,
-      "ctr": 0.004934790271413465,
-      "position": 17.450123369756785
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 5,
-      "impressions": 1768,
-      "ctr": 0.002828054298642534,
-      "position": 25.047511312217196
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 7,
-      "impressions": 1718,
-      "ctr": 0.004074505238649592,
-      "position": 26.044237485448196
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 1,
-      "impressions": 1647,
-      "ctr": 0.0006071645415907711,
-      "position": 26.406800242865817
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 11,
-      "impressions": 1841,
-      "ctr": 0.005975013579576317,
-      "position": 24.5361216730038
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 7,
-      "impressions": 1865,
-      "ctr": 0.0037533512064343165,
-      "position": 21.31099195710456
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 8,
-      "impressions": 2079,
-      "ctr": 0.003848003848003848,
-      "position": 26.99230399230399
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 14,
-      "impressions": 2657,
-      "ctr": 0.005269100489273617,
-      "position": 16.97478359051562
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 13,
-      "impressions": 3123,
-      "ctr": 0.004162664105027218,
-      "position": 26.62920268972142
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 13,
-      "impressions": 3256,
-      "ctr": 0.003992628992628993,
-      "position": 27.859029484029485
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 2,
-      "impressions": 2250,
-      "ctr": 0.0008888888888888889,
-      "position": 29.78088888888889
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 14,
-      "impressions": 4059,
-      "ctr": 0.0034491254003449125,
-      "position": 25.484848484848484
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 9,
-      "impressions": 1878,
-      "ctr": 0.004792332268370607,
-      "position": 22.192225772097977
-    },
     {
       "date": "2026-01-04",
       "clicks": 9,
@@ -640,351 +500,526 @@
       "impressions": 2060,
       "ctr": 0.005825242718446602,
       "position": 12.952912621359223
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 16,
+      "impressions": 2387,
+      "ctr": 0.006702974444909929,
+      "position": 13.42186845412652
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 19,
+      "impressions": 3898,
+      "ctr": 0.0048742945100051305,
+      "position": 11.308363263211904
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 21,
+      "impressions": 2340,
+      "ctr": 0.008974358974358974,
+      "position": 14.464529914529914
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 18,
+      "impressions": 4325,
+      "ctr": 0.004161849710982659,
+      "position": 14.677919075144509
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 24,
+      "impressions": 2962,
+      "ctr": 0.008102633355840648,
+      "position": 13.355165428764348
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 17,
+      "impressions": 1946,
+      "ctr": 0.008735868448098663,
+      "position": 13.308838643371017
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 16,
+      "impressions": 2176,
+      "ctr": 0.007352941176470588,
+      "position": 14.261029411764707
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 13,
+      "impressions": 2150,
+      "ctr": 0.0060465116279069765,
+      "position": 13.064186046511628
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 27,
+      "impressions": 3985,
+      "ctr": 0.006775407779171894,
+      "position": 10.45094102885822
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 9,
+      "impressions": 2054,
+      "ctr": 0.004381694255111977,
+      "position": 14.936222005842259
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 18,
+      "impressions": 1991,
+      "ctr": 0.009040683073832245,
+      "position": 15.802109492717227
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 9,
+      "impressions": 1656,
+      "ctr": 0.005434782608695652,
+      "position": 15.757246376811594
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 17,
+      "impressions": 1772,
+      "ctr": 0.009593679458239277,
+      "position": 15.227990970654627
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 7,
+      "impressions": 1841,
+      "ctr": 0.0038022813688212928,
+      "position": 15.662683324280282
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 16,
+      "impressions": 2026,
+      "ctr": 0.007897334649555774,
+      "position": 17.96248766041461
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 15,
+      "impressions": 3847,
+      "ctr": 0.003899142188718482,
+      "position": 13.650896802703405
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 14,
+      "impressions": 2486,
+      "ctr": 0.0056315366049879325,
+      "position": 15.668946098149638
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 25,
+      "impressions": 3680,
+      "ctr": 0.006793478260869565,
+      "position": 19.060326086956522
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 9,
+      "impressions": 31558,
+      "ctr": 0.000285189175486406,
+      "position": 3.0523797452310033
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 18,
+      "impressions": 4073,
+      "ctr": 0.00441934691873312,
+      "position": 13.983795727964646
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 4,
+      "impressions": 2610,
+      "ctr": 0.0015325670498084292,
+      "position": 17.624904214559386
     }
   ],
   "topQueries": [
     {
       "query": "action garage door",
-      "clicks": 476,
-      "impressions": 2816,
-      "ctr": 0.1690340909090909,
-      "position": 3.0411931818181817
+      "clicks": 492,
+      "impressions": 2956,
+      "ctr": 0.16644113667117727,
+      "position": 2.9103518267929633
     },
     {
       "query": "action garage door boise",
-      "clicks": 72,
-      "impressions": 291,
-      "ctr": 0.24742268041237114,
-      "position": 1.395189003436426
+      "clicks": 86,
+      "impressions": 286,
+      "ctr": 0.3006993006993007,
+      "position": 1.3566433566433567
     },
     {
       "query": "action garage doors",
       "clicks": 43,
-      "impressions": 733,
-      "ctr": 0.058663028649386086,
-      "position": 13.934515688949523
+      "impressions": 674,
+      "ctr": 0.06379821958456973,
+      "position": 11.862017804154302
     },
     {
       "query": "action garage door meridian",
-      "clicks": 27,
-      "impressions": 138,
-      "ctr": 0.1956521739130435,
-      "position": 1
+      "clicks": 31,
+      "impressions": 169,
+      "ctr": 0.1834319526627219,
+      "position": 1.1715976331360947
     },
     {
       "query": "action garage door meridian idaho",
-      "clicks": 20,
-      "impressions": 84,
-      "ctr": 0.23809523809523808,
+      "clicks": 21,
+      "impressions": 74,
+      "ctr": 0.28378378378378377,
       "position": 1
+    },
+    {
+      "query": "action garage",
+      "clicks": 19,
+      "impressions": 446,
+      "ctr": 0.042600896860986545,
+      "position": 9.026905829596412
     },
     {
       "query": "garage door repair boise",
       "clicks": 18,
-      "impressions": 5045,
-      "ctr": 0.00356788899900892,
-      "position": 6.087611496531219
-    },
-    {
-      "query": "action garage",
-      "clicks": 14,
-      "impressions": 458,
-      "ctr": 0.03056768558951965,
-      "position": 9.864628820960698
+      "impressions": 4854,
+      "ctr": 0.003708281829419036,
+      "position": 6.626905644829007
     },
     {
       "query": "garage door repair",
-      "clicks": 12,
-      "impressions": 18343,
-      "ctr": 0.0006542005124570681,
-      "position": 23.66461320394701
+      "clicks": 14,
+      "impressions": 16201,
+      "ctr": 0.0008641441886303315,
+      "position": 18.405777421146844
+    },
+    {
+      "query": "garage door repair meridian",
+      "clicks": 14,
+      "impressions": 2430,
+      "ctr": 0.005761316872427984,
+      "position": 4.9226337448559665
     },
     {
       "query": "garage doors",
       "clicks": 11,
-      "impressions": 2331,
-      "ctr": 0.004719004719004719,
-      "position": 5.806949806949807
-    },
-    {
-      "query": "garage door repair meridian",
-      "clicks": 10,
-      "impressions": 2277,
-      "ctr": 0.004391743522178305,
-      "position": 6.192797540623627
+      "impressions": 2844,
+      "ctr": 0.003867791842475387,
+      "position": 6.491561181434599
     },
     {
       "query": "garage door",
-      "clicks": 9,
-      "impressions": 706,
-      "ctr": 0.012747875354107648,
-      "position": 7.4872521246458925
+      "clicks": 10,
+      "impressions": 824,
+      "ctr": 0.012135922330097087,
+      "position": 10.33252427184466
     },
     {
       "query": "garage door repair twin falls",
-      "clicks": 9,
-      "impressions": 662,
-      "ctr": 0.013595166163141994,
-      "position": 6.132930513595166
-    },
-    {
-      "query": "action garage door idaho",
-      "clicks": 7,
-      "impressions": 21,
-      "ctr": 0.3333333333333333,
-      "position": 1
+      "clicks": 10,
+      "impressions": 832,
+      "ctr": 0.01201923076923077,
+      "position": 4.038461538461538
     },
     {
       "query": "action door garage",
+      "clicks": 8,
+      "impressions": 53,
+      "ctr": 0.1509433962264151,
+      "position": 4.943396226415095
+    },
+    {
+      "query": "garage door repair near me",
+      "clicks": 8,
+      "impressions": 9586,
+      "ctr": 0.0008345503859795535,
+      "position": 4.828186939286459
+    },
+    {
+      "query": "garage doors boise",
+      "clicks": 7,
+      "impressions": 1606,
+      "ctr": 0.0043586550435865505,
+      "position": 7.333125778331258
+    },
+    {
+      "query": "action door",
       "clicks": 6,
-      "impressions": 49,
-      "ctr": 0.12244897959183673,
-      "position": 8.959183673469388
+      "impressions": 173,
+      "ctr": 0.03468208092485549,
+      "position": 17.491329479768787
     },
     {
       "query": "action garage door boise idaho",
       "clicks": 6,
-      "impressions": 38,
-      "ctr": 0.15789473684210525,
-      "position": 3.763157894736842
+      "impressions": 42,
+      "ctr": 0.14285714285714285,
+      "position": 3.5
+    },
+    {
+      "query": "action garage door idaho",
+      "clicks": 6,
+      "impressions": 14,
+      "ctr": 0.42857142857142855,
+      "position": 1
     },
     {
       "query": "garage door repair caldwell",
       "clicks": 6,
-      "impressions": 1349,
-      "ctr": 0.004447739065974796,
-      "position": 5.515937731653076
-    },
-    {
-      "query": "garage door repair near me",
-      "clicks": 6,
-      "impressions": 8336,
-      "ctr": 0.0007197696737044146,
-      "position": 5.018833973128599
-    },
-    {
-      "query": "garage doors boise",
-      "clicks": 6,
-      "impressions": 1610,
-      "ctr": 0.0037267080745341614,
-      "position": 8.272049689440994
-    },
-    {
-      "query": "action garage door of boise",
-      "clicks": 5,
-      "impressions": 104,
-      "ctr": 0.04807692307692308,
-      "position": 1.6346153846153846
-    },
-    {
-      "query": "garage door companies near me",
-      "clicks": 4,
-      "impressions": 160,
-      "ctr": 0.025,
-      "position": 7.20625
-    },
-    {
-      "query": "action door",
-      "clicks": 3,
-      "impressions": 164,
-      "ctr": 0.018292682926829267,
-      "position": 19.451219512195124
-    },
-    {
-      "query": "action door company",
-      "clicks": 3,
-      "impressions": 129,
-      "ctr": 0.023255813953488372,
-      "position": 33.906976744186046
+      "impressions": 1548,
+      "ctr": 0.003875968992248062,
+      "position": 4.634366925064599
     },
     {
       "query": "action garage door and service",
-      "clicks": 3,
-      "impressions": 64,
-      "ctr": 0.046875,
-      "position": 7.171875
+      "clicks": 5,
+      "impressions": 80,
+      "ctr": 0.0625,
+      "position": 6.3125
+    },
+    {
+      "query": "action garage door reviews",
+      "clicks": 5,
+      "impressions": 112,
+      "ctr": 0.044642857142857144,
+      "position": 3.7410714285714284
+    },
+    {
+      "query": "action door company",
+      "clicks": 4,
+      "impressions": 112,
+      "ctr": 0.03571428571428571,
+      "position": 31.339285714285715
+    },
+    {
+      "query": "action garage door of boise",
+      "clicks": 4,
+      "impressions": 104,
+      "ctr": 0.038461538461538464,
+      "position": 1.6826923076923077
     },
     {
       "query": "action garage door repair",
-      "clicks": 3,
-      "impressions": 354,
-      "ctr": 0.00847457627118644,
-      "position": 15.748587570621469
+      "clicks": 4,
+      "impressions": 360,
+      "ctr": 0.011111111111111112,
+      "position": 15.65
     },
     {
       "query": "garage door boise",
-      "clicks": 3,
-      "impressions": 1673,
-      "ctr": 0.0017931858936043037,
-      "position": 8.27854154213987
+      "clicks": 4,
+      "impressions": 1651,
+      "ctr": 0.0024227740763173833,
+      "position": 7.596608116293155
     },
     {
-      "query": "garage door installation",
-      "clicks": 3,
-      "impressions": 3978,
-      "ctr": 0.0007541478129713424,
-      "position": 3.9270990447461034
+      "query": "garage door repair nampa",
+      "clicks": 4,
+      "impressions": 1795,
+      "ctr": 0.0022284122562674096,
+      "position": 9.860167130919221
+    },
+    {
+      "query": "garage door repair twin falls idaho",
+      "clicks": 4,
+      "impressions": 84,
+      "ctr": 0.047619047619047616,
+      "position": 8.94047619047619
     },
     {
       "query": "garage door installers near me",
       "clicks": 3,
-      "impressions": 123,
-      "ctr": 0.024390243902439025,
-      "position": 5.528455284552845
+      "impressions": 139,
+      "ctr": 0.02158273381294964,
+      "position": 6.697841726618705
     },
     {
-      "query": "garage door repair twin falls idaho",
+      "query": "garage doors twin falls",
       "clicks": 3,
-      "impressions": 77,
-      "ctr": 0.03896103896103896,
-      "position": 12.103896103896103
+      "impressions": 78,
+      "ctr": 0.038461538461538464,
+      "position": 3.2051282051282053
+    },
+    {
+      "query": "garage repair near me",
+      "clicks": 3,
+      "impressions": 166,
+      "ctr": 0.018072289156626505,
+      "position": 10.873493975903614
     },
     {
       "query": "action doors",
       "clicks": 2,
-      "impressions": 51,
-      "ctr": 0.0392156862745098,
-      "position": 10.627450980392156
+      "impressions": 53,
+      "ctr": 0.03773584905660377,
+      "position": 11.283018867924529
     },
     {
       "query": "action garage door company",
       "clicks": 2,
-      "impressions": 60,
-      "ctr": 0.03333333333333333,
+      "impressions": 69,
+      "ctr": 0.028985507246376812,
+      "position": 18.565217391304348
+    },
+    {
+      "query": "action garage door service",
+      "clicks": 2,
+      "impressions": 30,
+      "ctr": 0.06666666666666667,
       "position": 15.266666666666667
     },
     {
-      "query": "action garage door reviews",
+      "query": "garage door companies",
       "clicks": 2,
-      "impressions": 119,
-      "ctr": 0.01680672268907563,
-      "position": 6.512605042016807
+      "impressions": 111,
+      "ctr": 0.018018018018018018,
+      "position": 24.405405405405407
     },
     {
-      "query": "boise garage door repair",
+      "query": "garage door companies near me",
       "clicks": 2,
-      "impressions": 1435,
-      "ctr": 0.0013937282229965157,
-      "position": 10.323344947735192
+      "impressions": 171,
+      "ctr": 0.011695906432748537,
+      "position": 7.87719298245614
     },
     {
       "query": "garage door opener repair",
       "clicks": 2,
-      "impressions": 5146,
-      "ctr": 0.000388651379712398,
-      "position": 39.14477263894287
+      "impressions": 5266,
+      "ctr": 0.00037979491074819596,
+      "position": 22.50265856437524
     },
     {
       "query": "garage door repair boise idaho",
       "clicks": 2,
-      "impressions": 973,
-      "ctr": 0.0020554984583761563,
-      "position": 4.954779033915725
+      "impressions": 997,
+      "ctr": 0.0020060180541624875,
+      "position": 5.141424272818456
     },
     {
       "query": "garage door repair meridian id",
       "clicks": 2,
-      "impressions": 493,
-      "ctr": 0.004056795131845842,
-      "position": 3.8600405679513186
-    },
-    {
-      "query": "garage door repair nampa",
-      "clicks": 2,
-      "impressions": 1570,
-      "ctr": 0.0012738853503184713,
-      "position": 10.336942675159236
+      "impressions": 480,
+      "ctr": 0.004166666666666667,
+      "position": 3.8583333333333334
     },
     {
       "query": "garage door service",
       "clicks": 2,
-      "impressions": 1462,
-      "ctr": 0.0013679890560875513,
-      "position": 9.943912448700411
+      "impressions": 1598,
+      "ctr": 0.0012515644555694619,
+      "position": 10.763454317897372
     },
     {
       "query": "garage door service near me",
       "clicks": 2,
-      "impressions": 152,
-      "ctr": 0.013157894736842105,
-      "position": 8.289473684210527
+      "impressions": 165,
+      "ctr": 0.012121212121212121,
+      "position": 9.012121212121212
+    },
+    {
+      "query": "garage door tune up",
+      "clicks": 2,
+      "impressions": 22,
+      "ctr": 0.09090909090909091,
+      "position": 4.590909090909091
+    },
+    {
+      "query": "garage doors boise idaho",
+      "clicks": 2,
+      "impressions": 56,
+      "ctr": 0.03571428571428571,
+      "position": 6.107142857142857
     },
     {
       "query": "garage doors nampa",
       "clicks": 2,
-      "impressions": 162,
-      "ctr": 0.012345679012345678,
-      "position": 10.925925925925926
+      "impressions": 134,
+      "ctr": 0.014925373134328358,
+      "position": 10.246268656716419
     },
     {
-      "query": "garage doors twin falls",
+      "query": "garage doors near me",
       "clicks": 2,
-      "impressions": 50,
-      "ctr": 0.04,
-      "position": 3.06
+      "impressions": 121,
+      "ctr": 0.01652892561983471,
+      "position": 12.40495867768595
     },
     {
-      "query": "garage repair near me",
+      "query": "garage doors twin falls idaho",
       "clicks": 2,
-      "impressions": 179,
-      "ctr": 0.0111731843575419,
-      "position": 9.810055865921788
+      "impressions": 33,
+      "ctr": 0.06060606060606061,
+      "position": 4.454545454545455
     },
     {
       "query": "mccall garage doors",
       "clicks": 2,
-      "impressions": 22,
-      "ctr": 0.09090909090909091,
-      "position": 5.863636363636363
+      "impressions": 19,
+      "ctr": 0.10526315789473684,
+      "position": 5.421052631578948
     },
     {
       "query": "24 hour garage door repair",
       "clicks": 1,
-      "impressions": 101,
-      "ctr": 0.009900990099009901,
-      "position": 8.871287128712872
+      "impressions": 104,
+      "ctr": 0.009615384615384616,
+      "position": 9.942307692307692
     },
     {
       "query": "action",
       "clicks": 1,
-      "impressions": 756,
-      "ctr": 0.0013227513227513227,
-      "position": 3.695767195767196
+      "impressions": 1160,
+      "ctr": 0.0008620689655172414,
+      "position": 3.670689655172414
     },
     {
       "query": "action door repair",
       "clicks": 1,
-      "impressions": 19,
-      "ctr": 0.05263157894736842,
-      "position": 26.157894736842106
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 25.833333333333332
     },
     {
       "query": "action doors inc",
       "clicks": 1,
-      "impressions": 106,
-      "ctr": 0.009433962264150943,
-      "position": 33.716981132075475
+      "impressions": 90,
+      "ctr": 0.011111111111111112,
+      "position": 33.86666666666667
     },
     {
       "query": "action garage door of mccall",
       "clicks": 1,
-      "impressions": 68,
-      "ctr": 0.014705882352941176,
-      "position": 1.6617647058823528
+      "impressions": 83,
+      "ctr": 0.012048192771084338,
+      "position": 1.6265060240963856
     },
     {
       "query": "action garage door of twin falls",
       "clicks": 1,
-      "impressions": 29,
-      "ctr": 0.034482758620689655,
-      "position": 1.7586206896551724
+      "impressions": 47,
+      "ctr": 0.02127659574468085,
+      "position": 1.7234042553191489
     },
     {
       "query": "action garage door services",
       "clicks": 1,
-      "impressions": 147,
-      "ctr": 0.006802721088435374,
-      "position": 19.034013605442176
+      "impressions": 125,
+      "ctr": 0.008,
+      "position": 19.216
     },
     {
       "query": "angi garage door repair",
@@ -992,359 +1027,2787 @@
       "impressions": 1,
       "ctr": 1,
       "position": 1
+    },
+    {
+      "query": "boise garage door",
+      "clicks": 1,
+      "impressions": 457,
+      "ctr": 0.002188183807439825,
+      "position": 17.179431072210065
+    },
+    {
+      "query": "boise garage door repair",
+      "clicks": 1,
+      "impressions": 1406,
+      "ctr": 0.0007112375533428165,
+      "position": 9.743243243243244
+    },
+    {
+      "query": "boise garage door service",
+      "clicks": 1,
+      "impressions": 26,
+      "ctr": 0.038461538461538464,
+      "position": 12.846153846153847
+    },
+    {
+      "query": "boise garage doors",
+      "clicks": 1,
+      "impressions": 175,
+      "ctr": 0.005714285714285714,
+      "position": 2.24
+    },
+    {
+      "query": "commercial garage door repair",
+      "clicks": 1,
+      "impressions": 3033,
+      "ctr": 0.0003297065611605671,
+      "position": 3.2683811407847014
+    },
+    {
+      "query": "company website",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "do new garage doors add value to a home",
+      "clicks": 1,
+      "impressions": 36,
+      "ctr": 0.027777777777777776,
+      "position": 14.222222222222221
+    },
+    {
+      "query": "fix garage door spring",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 3
+    },
+    {
+      "query": "garage",
+      "clicks": 1,
+      "impressions": 909,
+      "ctr": 0.0011001100110011,
+      "position": 2.2387238723872387
+    },
+    {
+      "query": "garage action",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 4.3
+    },
+    {
+      "query": "garage door boise id",
+      "clicks": 1,
+      "impressions": 66,
+      "ctr": 0.015151515151515152,
+      "position": 26.515151515151516
+    },
+    {
+      "query": "garage door careers",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 8
+    },
+    {
+      "query": "garage door companies boise id",
+      "clicks": 1,
+      "impressions": 130,
+      "ctr": 0.007692307692307693,
+      "position": 26.223076923076924
+    },
+    {
+      "query": "garage door companies in my area",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 6.25
+    },
+    {
+      "query": "garage door company near me",
+      "clicks": 1,
+      "impressions": 1885,
+      "ctr": 0.0005305039787798408,
+      "position": 8.682228116710874
+    },
+    {
+      "query": "garage door installation",
+      "clicks": 1,
+      "impressions": 5089,
+      "ctr": 0.00019650225977598743,
+      "position": 3.8532128119473374
+    },
+    {
+      "query": "garage door installer",
+      "clicks": 1,
+      "impressions": 116,
+      "ctr": 0.008620689655172414,
+      "position": 9.827586206896552
+    },
+    {
+      "query": "garage door insulated",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "garage door near me",
+      "clicks": 1,
+      "impressions": 101,
+      "ctr": 0.009900990099009901,
+      "position": 8.633663366336634
+    },
+    {
+      "query": "garage door opener does not work",
+      "clicks": 1,
+      "impressions": 75,
+      "ctr": 0.013333333333333334,
+      "position": 17.106666666666666
+    },
+    {
+      "query": "garage door opener help",
+      "clicks": 1,
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 8.375
+    },
+    {
+      "query": "garage door opener problems",
+      "clicks": 1,
+      "impressions": 172,
+      "ctr": 0.005813953488372093,
+      "position": 27.86627906976744
+    },
+    {
+      "query": "garage door opener service near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 7
+    },
+    {
+      "query": "garage door parts near me",
+      "clicks": 1,
+      "impressions": 27,
+      "ctr": 0.037037037037037035,
+      "position": 6.296296296296297
+    },
+    {
+      "query": "garage door parts stores near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "garage door repair companies",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 8.5
+    },
+    {
+      "query": "garage door repair company meridian",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 11
+    },
+    {
+      "query": "garage door repair idaho",
+      "clicks": 1,
+      "impressions": 63,
+      "ctr": 0.015873015873015872,
+      "position": 14.285714285714286
+    },
+    {
+      "query": "garage door repair meridian idaho",
+      "clicks": 1,
+      "impressions": 121,
+      "ctr": 0.008264462809917356,
+      "position": 4.471074380165289
+    },
+    {
+      "query": "garage door repair nampa idaho",
+      "clicks": 1,
+      "impressions": 47,
+      "ctr": 0.02127659574468085,
+      "position": 11.76595744680851
+    },
+    {
+      "query": "garage door repair service",
+      "clicks": 1,
+      "impressions": 100,
+      "ctr": 0.01,
+      "position": 10.95
+    },
+    {
+      "query": "garage door replacement",
+      "clicks": 1,
+      "impressions": 4058,
+      "ctr": 0.0002464268112370626,
+      "position": 2.9659931000492854
+    },
+    {
+      "query": "garage door replacement boise",
+      "clicks": 1,
+      "impressions": 1333,
+      "ctr": 0.0007501875468867217,
+      "position": 4.929482370592648
+    },
+    {
+      "query": "garage door replacement near me",
+      "clicks": 1,
+      "impressions": 141,
+      "ctr": 0.0070921985815602835,
+      "position": 9.22695035460993
+    },
+    {
+      "query": "garage door sales near me",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 5.818181818181818
+    },
+    {
+      "query": "garage door service caldwell",
+      "clicks": 1,
+      "impressions": 150,
+      "ctr": 0.006666666666666667,
+      "position": 12.88
+    },
+    {
+      "query": "garage door service company near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 38.333333333333336
+    },
+    {
+      "query": "garage door services near me",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 12.375
+    },
+    {
+      "query": "garage door spring replacement caldwell",
+      "clicks": 1,
+      "impressions": 48,
+      "ctr": 0.020833333333333332,
+      "position": 4.791666666666666
+    },
+    {
+      "query": "garage door spring replacement near me",
+      "clicks": 1,
+      "impressions": 157,
+      "ctr": 0.006369426751592357,
+      "position": 12.598726114649681
+    },
+    {
+      "query": "garage door supply near me",
+      "clicks": 1,
+      "impressions": 21,
+      "ctr": 0.047619047619047616,
+      "position": 6.761904761904762
+    },
+    {
+      "query": "garage door technician jobs",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 8.666666666666668
+    },
+    {
+      "query": "garage doors for sale",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 4.384615384615385
+    },
+    {
+      "query": "garage doors idaho",
+      "clicks": 1,
+      "impressions": 70,
+      "ctr": 0.014285714285714285,
+      "position": 20.62857142857143
+    },
+    {
+      "query": "garage parts store near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "garage spring replacement near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 6.5
+    },
+    {
+      "query": "garage tune up",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "how much value does a new garage door add to your home",
+      "clicks": 1,
+      "impressions": 54,
+      "ctr": 0.018518518518518517,
+      "position": 30.074074074074073
+    },
+    {
+      "query": "liftmaster parts",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "overhead door",
+      "clicks": 1,
+      "impressions": 25,
+      "ctr": 0.04,
+      "position": 7.96
+    },
+    {
+      "query": "overhead door meridian",
+      "clicks": 1,
+      "impressions": 76,
+      "ctr": 0.013157894736842105,
+      "position": 2.776315789473684
+    },
+    {
+      "query": "overhead doors boise",
+      "clicks": 1,
+      "impressions": 57,
+      "ctr": 0.017543859649122806,
+      "position": 11.859649122807017
+    },
+    {
+      "query": "torsion spring garage door replacement",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "troubleshooting garage door opener",
+      "clicks": 1,
+      "impressions": 149,
+      "ctr": 0.006711409395973154,
+      "position": 19.38255033557047
+    },
+    {
+      "query": "two door garage door",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 9
+    },
+    {
+      "query": "\"garage door repair services\"",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 34
+    },
+    {
+      "query": "\"garage doors\" \"garage door repair\" \"garage door openers\"",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 23.5
+    },
+    {
+      "query": "#doors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "#garagedoor",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 4.5
+    },
+    {
+      "query": "14 foot garage door opener",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 1.1428571428571428
+    },
+    {
+      "query": "2 car garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "2 car garage door replacement cost near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "2025 telluride garage door programming",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "query": "208 garage",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 15.125
+    },
+    {
+      "query": "24 7 garage door service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 25
+    },
+    {
+      "query": "24 hour commercial garage door repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 42
+    },
+    {
+      "query": "24 hour door repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "24 hour emergency garage door repair",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 24.7
+    },
+    {
+      "query": "24 hour emergency garage door repair near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 42.5
+    },
+    {
+      "query": "24 hour emergency garage door repair services",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 9.5
+    },
+    {
+      "query": "24 hour emergency garage door service near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "24 hour garage door repair lebanon",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 55
+    },
+    {
+      "query": "24 hour garage door repair near me",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 20.285714285714285
+    },
+    {
+      "query": "24 hour garage door repairs near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 28
+    },
+    {
+      "query": "24 hour garage door service",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 33.166666666666664
+    },
+    {
+      "query": "24 hour garage door service and repair",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 14.142857142857142
+    },
+    {
+      "query": "24 hour garage door service near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "query": "24 hour garage repair",
+      "clicks": 0,
+      "impressions": 50,
+      "ctr": 0,
+      "position": 10.08
+    },
+    {
+      "query": "24 hour garage repair near me",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 16.8
+    },
+    {
+      "query": "24 hour garage service",
+      "clicks": 0,
+      "impressions": 48,
+      "ctr": 0,
+      "position": 9.125
+    },
+    {
+      "query": "24 hour quick care near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hour residential garage door repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "24 hours garage door repair",
+      "clicks": 0,
+      "impressions": 23,
+      "ctr": 0,
+      "position": 53.26086956521739
+    },
+    {
+      "query": "24 hours garage door repair near me",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 34.22222222222222
+    },
+    {
+      "query": "24 hr garage door repair",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 17.75
+    },
+    {
+      "query": "24 hr garage door service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "24 hr garage repair",
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "24-7 garage doors inc.",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 49.5
+    },
+    {
+      "query": "24-hour emergency garage door repair",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 28.833333333333332
+    },
+    {
+      "query": "24-hour emergency garage door repair near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 70
+    },
+    {
+      "query": "24-hour garage door service near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 9.5
+    },
+    {
+      "query": "24-hour garage repair",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 10.11111111111111
+    },
+    {
+      "query": "24-hour garage repair near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 14
+    },
+    {
+      "query": "24/7 emergency garage door repair",
+      "clicks": 0,
+      "impressions": 25,
+      "ctr": 0,
+      "position": 18.72
+    },
+    {
+      "query": "24/7 emergency garage door repair near me",
+      "clicks": 0,
+      "impressions": 63,
+      "ctr": 0,
+      "position": 14
+    },
+    {
+      "query": "24/7 emergency garage door repair service near me",
+      "clicks": 0,
+      "impressions": 40,
+      "ctr": 0,
+      "position": 13.8
+    },
+    {
+      "query": "24/7 emergency garage door repair services",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 16.75
+    },
+    {
+      "query": "24/7 emergency garage door services",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 41
+    },
+    {
+      "query": "24/7 emergency service",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 87.42857142857143
+    },
+    {
+      "query": "24/7 garage",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 25
+    },
+    {
+      "query": "24/7 garage door",
+      "clicks": 0,
+      "impressions": 28,
+      "ctr": 0,
+      "position": 11.357142857142858
+    },
+    {
+      "query": "24/7 garage door opener repair",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 55
+    },
+    {
+      "query": "24/7 garage door repair",
+      "clicks": 0,
+      "impressions": 885,
+      "ctr": 0,
+      "position": 61.75593220338983
+    },
+    {
+      "query": "24/7 garage door repair company",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 18.333333333333332
+    },
+    {
+      "query": "24/7 garage door repair near me",
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 55.77777777777778
+    },
+    {
+      "query": "24/7 garage door repair service near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 27
+    },
+    {
+      "query": "24/7 garage door service",
+      "clicks": 0,
+      "impressions": 293,
+      "ctr": 0,
+      "position": 59.35494880546075
+    },
+    {
+      "query": "24/7 garage door service near me",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 46.666666666666664
+    },
+    {
+      "query": "24/7 garage door services",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 30
+    },
+    {
+      "query": "24/7 garage door spring service",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 14.6
+    },
+    {
+      "query": "24/7 garage doors",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 36
+    },
+    {
+      "query": "24/7 garage doors repair",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 22
+    },
+    {
+      "query": "24/7 repair services",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 56
+    },
+    {
+      "query": "24/7 repairs",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 51
+    },
+    {
+      "query": "24/7+garage+door+repair",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 37
+    },
+    {
+      "query": "2454: rank tracking data",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 15.285714285714286
+    },
+    {
+      "query": "24hr garage door service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "2nd hand garage doors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "3 panel interior doors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "6 garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "6x7 roll up door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "8x10 garage doors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "8x8 garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "911 garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "98002 liftmaster",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "a 1 garage",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "a 1 garage door",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 8.25
+    },
+    {
+      "query": "a 1 garage door near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "a 1 garage door repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "a 1 garage door service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "a action garage door",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 10.2
+    },
+    {
+      "query": "a and e doors",
+      "clicks": 0,
+      "impressions": 83,
+      "ctr": 0,
+      "position": 43.373493975903614
+    },
+    {
+      "query": "a better garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 43
+    },
+    {
+      "query": "a better garage door inc",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 15
+    },
+    {
+      "query": "a class garage doors",
+      "clicks": 0,
+      "impressions": 21,
+      "ctr": 0,
+      "position": 46.095238095238095
+    },
+    {
+      "query": "a door garage doors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 50
+    },
+    {
+      "query": "a door works",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 9.666666666666666
+    },
+    {
+      "query": "a garage",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "a garage door",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 12.25
+    },
+    {
+      "query": "a garage door service",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 5.5
+    },
+    {
+      "query": "a plus garage door repair",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 15
+    },
+    {
+      "query": "a professional garage door service",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 13.666666666666666
+    },
+    {
+      "query": "a tion",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "a-1 garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "a-1 garage service",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 72.66666666666667
+    },
+    {
+      "query": "a-door garage doors",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 83.88888888888889
     }
   ],
   "topPages": [
     {
       "page": "https://actiongaragedoor.net/",
-      "clicks": 513,
-      "impressions": 80626,
-      "ctr": 0.006362711780319004,
-      "position": 14.481891697467319
+      "clicks": 575,
+      "impressions": 86108,
+      "ctr": 0.0066776606122543785,
+      "position": 11.757815766247038
     },
     {
       "page": "https://actiongaragedoor.net/?utm_source=google&utm_medium=gmb&utm_campaign=gbp%20meridian",
-      "clicks": 352,
-      "impressions": 59952,
-      "ctr": 0.005871363757672805,
-      "position": 1.5071056845476383
+      "clicks": 364,
+      "impressions": 82747,
+      "ctr": 0.004398951019372303,
+      "position": 1.4459376170737308
     },
     {
       "page": "https://actiongaragedoor.net/service-area/boise/?utm_source=google&utm_medium=gmb&utm_campaign=gbp%20boise",
-      "clicks": 99,
-      "impressions": 48835,
-      "ctr": 0.0020272345653731955,
-      "position": 1.4775468414047301
+      "clicks": 105,
+      "impressions": 65475,
+      "ctr": 0.0016036655211912943,
+      "position": 1.4718900343642611
     },
     {
       "page": "https://actiongaragedoor.net/service-area/twin-falls-id/?utm_source=google&utm_medium=gmb&utm_campaign=gbp%20twin%20falls",
-      "clicks": 53,
-      "impressions": 7296,
-      "ctr": 0.007264254385964912,
-      "position": 2.3944627192982457
+      "clicks": 69,
+      "impressions": 10815,
+      "ctr": 0.0063800277392510405,
+      "position": 2.2124826629680996
+    },
+    {
+      "page": "https://actiongaragedoor.net/service-area/nampa-id/",
+      "clicks": 32,
+      "impressions": 9137,
+      "ctr": 0.003502243624822152,
+      "position": 10.786363138885848
+    },
+    {
+      "page": "https://actiongaragedoor.net/service-area/boise/",
+      "clicks": 31,
+      "impressions": 25312,
+      "ctr": 0.001224715549936789,
+      "position": 20.90150916561315
+    },
+    {
+      "page": "https://actiongaragedoor.net/service-area/caldwell-id/",
+      "clicks": 29,
+      "impressions": 8047,
+      "ctr": 0.003603827513359016,
+      "position": 8.973033428606934
     },
     {
       "page": "https://actiongaragedoor.net/service-area/twin-falls-id/",
       "clicks": 28,
-      "impressions": 5508,
-      "ctr": 0.005083514887436456,
-      "position": 23.969680464778502
-    },
-    {
-      "page": "https://actiongaragedoor.net/service-area/boise/",
-      "clicks": 26,
-      "impressions": 25727,
-      "ctr": 0.001010611419909045,
-      "position": 21.622264546973994
-    },
-    {
-      "page": "https://actiongaragedoor.net/service-area/caldwell-id/",
-      "clicks": 26,
-      "impressions": 7815,
-      "ctr": 0.003326935380678183,
-      "position": 9.802047344849647
-    },
-    {
-      "page": "https://actiongaragedoor.net/service-area/nampa-id/",
-      "clicks": 24,
-      "impressions": 8714,
-      "ctr": 0.002754188661923342,
-      "position": 10.926554969015378
+      "impressions": 5460,
+      "ctr": 0.005128205128205128,
+      "position": 22.03956043956044
     },
     {
       "page": "https://actiongaragedoor.net/residential-garage-doors/",
-      "clicks": 23,
-      "impressions": 25177,
-      "ctr": 0.0009135321920800731,
-      "position": 16.32339039599635
+      "clicks": 27,
+      "impressions": 16755,
+      "ctr": 0.0016114592658907788,
+      "position": 23.28045359594151
     },
     {
       "page": "https://actiongaragedoor.net/service-area/mccall-id/?utm_source=google&utm_medium=gmb&utm_campaign=gbp%20mccall",
-      "clicks": 19,
-      "impressions": 9746,
-      "ctr": 0.0019495177508721527,
-      "position": 2.01898214652165
+      "clicks": 22,
+      "impressions": 13200,
+      "ctr": 0.0016666666666666668,
+      "position": 1.8734848484848485
     },
     {
       "page": "https://actiongaragedoor.net/service-area/meridian-id/",
-      "clicks": 17,
-      "impressions": 4861,
-      "ctr": 0.003497222793663855,
-      "position": 17.5821847356511
-    },
-    {
-      "page": "https://actiongaragedoor.net/blog/why-a-new-garage-door-is-a-smart-investment-understanding-roi/",
-      "clicks": 16,
-      "impressions": 3155,
-      "ctr": 0.005071315372424723,
-      "position": 14.970522979397781
+      "clicks": 20,
+      "impressions": 5644,
+      "ctr": 0.003543586109142452,
+      "position": 15.865520907158045
     },
     {
       "page": "https://actiongaragedoor.net/blog/troubleshooting-your-garage-door-opener/",
-      "clicks": 15,
-      "impressions": 13935,
-      "ctr": 0.001076426264800861,
-      "position": 21.48345891639756
+      "clicks": 18,
+      "impressions": 16526,
+      "ctr": 0.0010891927871233208,
+      "position": 18.63651216265279
     },
     {
       "page": "https://actiongaragedoor.net/reviews/",
-      "clicks": 13,
-      "impressions": 1466,
-      "ctr": 0.008867667121418827,
-      "position": 8.223055934515688
+      "clicks": 17,
+      "impressions": 1376,
+      "ctr": 0.012354651162790697,
+      "position": 7.922238372093023
+    },
+    {
+      "page": "https://actiongaragedoor.net/blog/why-a-new-garage-door-is-a-smart-investment-understanding-roi/",
+      "clicks": 14,
+      "impressions": 3150,
+      "ctr": 0.0044444444444444444,
+      "position": 14.442222222222222
     },
     {
       "page": "https://actiongaragedoor.net/contact/",
-      "clicks": 12,
-      "impressions": 5769,
-      "ctr": 0.0020800832033281333,
-      "position": 8.499393309065695
+      "clicks": 11,
+      "impressions": 4654,
+      "ctr": 0.002363558229480017,
+      "position": 8.57004727116459
     },
     {
       "page": "https://actiongaragedoor.net/blog/how-seasonal-changes-affect-garage-door-performance/",
-      "clicks": 11,
-      "impressions": 4642,
-      "ctr": 0.002369668246445498,
-      "position": 8.08164584230935
+      "clicks": 10,
+      "impressions": 5027,
+      "ctr": 0.001989258006763477,
+      "position": 8.182812810821563
     },
     {
       "page": "https://actiongaragedoor.net/service-area/eagle-id/",
       "clicks": 10,
-      "impressions": 10499,
-      "ctr": 0.000952471663967997,
-      "position": 23.78388417944566
+      "impressions": 10618,
+      "ctr": 0.0009417969485778867,
+      "position": 24.631663213411187
     },
     {
-      "page": "https://actiongaragedoor.net/garage-door-repair/",
-      "clicks": 7,
-      "impressions": 14170,
-      "ctr": 0.0004940014114326041,
-      "position": 32.46196189131969
-    },
-    {
-      "page": "https://actiongaragedoor.net/careers/",
-      "clicks": 6,
-      "impressions": 69,
-      "ctr": 0.08695652173913043,
-      "position": 6.420289855072464
+      "page": "https://actiongaragedoor.net/service-area/mountain-home-id/",
+      "clicks": 9,
+      "impressions": 2201,
+      "ctr": 0.00408905043162199,
+      "position": 18.622444343480236
     },
     {
       "page": "https://actiongaragedoor.net/service-area/boise/garage-door-openers/",
-      "clicks": 6,
-      "impressions": 27980,
-      "ctr": 0.00021443888491779842,
-      "position": 24.015761258041458
+      "clicks": 7,
+      "impressions": 15263,
+      "ctr": 0.00045862543405621436,
+      "position": 30.64135491056804
     },
     {
-      "page": "https://actiongaragedoor.net/service-area/mccall-id/",
+      "page": "https://actiongaragedoor.net/garage-door-repair/",
       "clicks": 6,
-      "impressions": 1231,
-      "ctr": 0.00487408610885459,
-      "position": 19.685621445978878
+      "impressions": 11161,
+      "ctr": 0.0005375862377923125,
+      "position": 31.248544037272644
+    },
+    {
+      "page": "https://actiongaragedoor.net/careers/",
+      "clicks": 5,
+      "impressions": 102,
+      "ctr": 0.049019607843137254,
+      "position": 6.490196078431373
+    },
+    {
+      "page": "https://actiongaragedoor.net/financing/",
+      "clicks": 5,
+      "impressions": 418,
+      "ctr": 0.011961722488038277,
+      "position": 14.433014354066986
+    },
+    {
+      "page": "https://actiongaragedoor.net/gallery/",
+      "clicks": 5,
+      "impressions": 5330,
+      "ctr": 0.0009380863039399625,
+      "position": 6.174296435272045
     },
     {
       "page": "https://actiongaragedoor.net/parts-products/",
       "clicks": 5,
-      "impressions": 476,
-      "ctr": 0.01050420168067227,
-      "position": 18.558823529411764
+      "impressions": 880,
+      "ctr": 0.005681818181818182,
+      "position": 24.882954545454545
     },
     {
-      "page": "https://actiongaragedoor.net/service-area/mountain-home-id/",
+      "page": "https://actiongaragedoor.net/residential-garage-doors/spring-repair/",
       "clicks": 5,
-      "impressions": 2428,
-      "ctr": 0.002059308072487644,
-      "position": 22.928747940691927
+      "impressions": 4847,
+      "ctr": 0.0010315659170621002,
+      "position": 21.036311120280587
+    },
+    {
+      "page": "https://actiongaragedoor.net/service-area/mccall-id/",
+      "clicks": 5,
+      "impressions": 1196,
+      "ctr": 0.004180602006688963,
+      "position": 18.388795986622075
     },
     {
       "page": "https://actiongaragedoor.net/about/",
       "clicks": 4,
-      "impressions": 1755,
-      "ctr": 0.002279202279202279,
-      "position": 27.384615384615383
-    },
-    {
-      "page": "https://actiongaragedoor.net/commercial-garage-doors/",
-      "clicks": 4,
-      "impressions": 22007,
-      "ctr": 0.00018176034897987003,
-      "position": 18.957877039123915
-    },
-    {
-      "page": "https://actiongaragedoor.net/financing/",
-      "clicks": 4,
-      "impressions": 367,
-      "ctr": 0.010899182561307902,
-      "position": 15.931880108991825
-    },
-    {
-      "page": "https://actiongaragedoor.net/gallery/",
-      "clicks": 4,
-      "impressions": 9935,
-      "ctr": 0.00040261701056869655,
-      "position": 6.429290387518873
-    },
-    {
-      "page": "https://actiongaragedoor.net/amarr/",
-      "clicks": 3,
-      "impressions": 791,
-      "ctr": 0.0037926675094816687,
-      "position": 25.991150442477878
+      "impressions": 2052,
+      "ctr": 0.001949317738791423,
+      "position": 26.20614035087719
     },
     {
       "page": "https://actiongaragedoor.net/residential-garage-doors/garage-door-insulation/",
+      "clicks": 4,
+      "impressions": 879,
+      "ctr": 0.004550625711035267,
+      "position": 35.3481228668942
+    },
+    {
+      "page": "https://actiongaragedoor.net/commercial-garage-doors/",
       "clicks": 3,
-      "impressions": 742,
-      "ctr": 0.004043126684636119,
-      "position": 43.9811320754717
+      "impressions": 11203,
+      "ctr": 0.00026778541462108365,
+      "position": 24.973310720342766
+    },
+    {
+      "page": "https://actiongaragedoor.net/residential-garage-doors/custom-garage-doors/",
+      "clicks": 3,
+      "impressions": 1010,
+      "ctr": 0.0029702970297029703,
+      "position": 20.193069306930692
     },
     {
       "page": "https://actiongaragedoor.net/residential-garage-doors/retrofitting/",
       "clicks": 3,
-      "impressions": 384,
-      "ctr": 0.0078125,
-      "position": 21.5078125
+      "impressions": 381,
+      "ctr": 0.007874015748031496,
+      "position": 21.349081364829395
     },
     {
       "page": "https://actiongaragedoor.net/specials/",
       "clicks": 3,
-      "impressions": 172,
-      "ctr": 0.01744186046511628,
-      "position": 16.348837209302324
+      "impressions": 128,
+      "ctr": 0.0234375,
+      "position": 19.4296875
     },
     {
-      "page": "https://actiongaragedoor.net/residential-garage-doors/custom-garage-doors/",
+      "page": "https://actiongaragedoor.net/24-7-emergency-services/",
       "clicks": 2,
-      "impressions": 965,
-      "ctr": 0.002072538860103627,
-      "position": 23.654922279792746
+      "impressions": 25061,
+      "ctr": 0.000079805275128686,
+      "position": 26.66038865168988
+    },
+    {
+      "page": "https://actiongaragedoor.net/amarr/",
+      "clicks": 2,
+      "impressions": 882,
+      "ctr": 0.0022675736961451248,
+      "position": 23.139455782312925
     },
     {
       "page": "https://actiongaragedoor.net/residential-garage-doors/weatherproofing/",
       "clicks": 2,
-      "impressions": 217,
-      "ctr": 0.009216589861751152,
-      "position": 28.792626728110598
+      "impressions": 236,
+      "ctr": 0.00847457627118644,
+      "position": 26.9364406779661
     },
     {
-      "page": "https://actiongaragedoor.net/service-area/",
-      "clicks": 2,
-      "impressions": 10822,
-      "ctr": 0.00018480872297172427,
-      "position": 9.162816484938089
-    },
-    {
-      "page": "https://actiongaragedoor.net/24-7-emergency-services/",
+      "page": "https://actiongaragedoor.net/blog/",
       "clicks": 1,
-      "impressions": 17611,
-      "ctr": 0.000056782692635284766,
-      "position": 27.956788370904547
+      "impressions": 1011,
+      "ctr": 0.0009891196834817012,
+      "position": 43.00791295746785
     },
     {
-      "page": "https://actiongaragedoor.net/blog/how-commercial-overhead-doors-improve-business-efficiency/",
+      "page": "https://actiongaragedoor.net/blog/insulated-garage-door-boise/",
       "clicks": 1,
-      "impressions": 212,
-      "ctr": 0.0047169811320754715,
-      "position": 5.056603773584905
+      "impressions": 161,
+      "ctr": 0.006211180124223602,
+      "position": 23.757763975155278
+    },
+    {
+      "page": "https://actiongaragedoor.net/blog/residential-garage-door-installation-what-to-know-before-you-buy/",
+      "clicks": 1,
+      "impressions": 151,
+      "ctr": 0.006622516556291391,
+      "position": 5.880794701986755
     },
     {
       "page": "https://actiongaragedoor.net/careers/customer-service-job/",
       "clicks": 1,
-      "impressions": 30,
-      "ctr": 0.03333333333333333,
-      "position": 14.166666666666666
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 14.9375
     },
     {
       "page": "https://actiongaragedoor.net/dependable-door-club/",
       "clicks": 1,
-      "impressions": 208,
-      "ctr": 0.004807692307692308,
-      "position": 11.740384615384615
-    },
-    {
-      "page": "https://actiongaragedoor.net/design-your-door-today/",
-      "clicks": 1,
-      "impressions": 305,
-      "ctr": 0.003278688524590164,
-      "position": 27.80327868852459
-    },
-    {
-      "page": "https://actiongaragedoor.net/garage-door-replacement/",
-      "clicks": 1,
-      "impressions": 1228,
-      "ctr": 0.0008143322475570033,
-      "position": 34.84527687296417
+      "impressions": 188,
+      "ctr": 0.005319148936170213,
+      "position": 12.063829787234043
     },
     {
       "page": "https://actiongaragedoor.net/garage-door-safety-and-security/",
       "clicks": 1,
-      "impressions": 264,
-      "ctr": 0.003787878787878788,
-      "position": 23.261363636363637
+      "impressions": 289,
+      "ctr": 0.0034602076124567475,
+      "position": 21.20069204152249
     },
     {
       "page": "https://actiongaragedoor.net/new-construction/",
       "clicks": 1,
-      "impressions": 5390,
-      "ctr": 0.00018552875695732838,
-      "position": 6.407235621521336
+      "impressions": 4307,
+      "ctr": 0.00023218017181332715,
+      "position": 6.5525888089157185
     },
     {
       "page": "https://actiongaragedoor.net/residential-garage-doors/panel-repair/",
       "clicks": 1,
-      "impressions": 869,
-      "ctr": 0.0011507479861910242,
-      "position": 25.0897583429229
+      "impressions": 889,
+      "ctr": 0.0011248593925759281,
+      "position": 22.797525309336333
     },
     {
-      "page": "https://actiongaragedoor.net/residential-garage-doors/residential-garage-door-openers/",
+      "page": "https://actiongaragedoor.net/service-area/",
       "clicks": 1,
-      "impressions": 1576,
-      "ctr": 0.0006345177664974619,
-      "position": 42.076142131979694
-    },
-    {
-      "page": "https://actiongaragedoor.net/residential-garage-doors/spring-repair/",
-      "clicks": 1,
-      "impressions": 5212,
-      "ctr": 0.0001918649270913277,
-      "position": 23.8207981580967
-    },
-    {
-      "page": "https://actiongaragedoor.net/service-area/boise/garage-door-installation/",
-      "clicks": 1,
-      "impressions": 129,
-      "ctr": 0.007751937984496124,
-      "position": 39.84496124031008
+      "impressions": 7302,
+      "ctr": 0.0001369487811558477,
+      "position": 11.80868255272528
     },
     {
       "page": "https://actiongaragedoor.net/service-area/boise/garage-door-maintenance/",
       "clicks": 1,
-      "impressions": 64,
-      "ctr": 0.015625,
-      "position": 31.640625
+      "impressions": 83,
+      "ctr": 0.012048192771084338,
+      "position": 23.746987951807228
     },
     {
       "page": "https://actiongaragedoor.net/accessibility/",
       "clicks": 0,
-      "impressions": 55,
+      "impressions": 60,
       "ctr": 0,
-      "position": 12.327272727272728
+      "position": 11.783333333333333
     },
     {
       "page": "https://actiongaragedoor.net/areas-we-serve/boise/garage-door-repair/",
       "clicks": 0,
-      "impressions": 20,
+      "impressions": 8,
       "ctr": 0,
-      "position": 57.45
+      "position": 57.125
     },
     {
-      "page": "https://actiongaragedoor.net/blog/",
+      "page": "https://actiongaragedoor.net/blog/how-commercial-overhead-doors-improve-business-efficiency/",
       "clicks": 0,
-      "impressions": 1155,
+      "impressions": 283,
       "ctr": 0,
-      "position": 46.7965367965368
+      "position": 4.6431095406360425
+    },
+    {
+      "page": "https://actiongaragedoor.net/blog/residential-garage-door-repair-diy-fixes-vs-professional-help/",
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 10.842105263157896
+    },
+    {
+      "page": "https://actiongaragedoor.net/blog/winterize-your-garage-door-in-boise/",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 10.5
     }
   ],
-  "fetchedAt": "2026-03-18T13:08:04.004Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "action garage door",
+      "clicks": 574,
+      "impressions": 3541,
+      "ctr": 0.1621011013837899,
+      "position": 3.5639649816436036
+    },
+    {
+      "query": "action garage door boise",
+      "clicks": 59,
+      "impressions": 210,
+      "ctr": 0.28095238095238095,
+      "position": 1.0047619047619047
+    },
+    {
+      "query": "action garage doors",
+      "clicks": 52,
+      "impressions": 515,
+      "ctr": 0.10097087378640776,
+      "position": 6.621359223300971
+    },
+    {
+      "query": "action garage",
+      "clicks": 23,
+      "impressions": 489,
+      "ctr": 0.04703476482617587,
+      "position": 10.231083844580777
+    },
+    {
+      "query": "action garage door meridian",
+      "clicks": 20,
+      "impressions": 87,
+      "ctr": 0.22988505747126436,
+      "position": 1
+    },
+    {
+      "query": "garage door repair",
+      "clicks": 20,
+      "impressions": 139003,
+      "ctr": 0.00014388178672402753,
+      "position": 80.29205844478177
+    },
+    {
+      "query": "action garage door idaho",
+      "clicks": 17,
+      "impressions": 58,
+      "ctr": 0.29310344827586204,
+      "position": 1
+    },
+    {
+      "query": "garage door",
+      "clicks": 14,
+      "impressions": 5467,
+      "ctr": 0.002560819462227913,
+      "position": 56.5244192427291
+    },
+    {
+      "query": "action door",
+      "clicks": 9,
+      "impressions": 335,
+      "ctr": 0.026865671641791045,
+      "position": 18.11044776119403
+    },
+    {
+      "query": "garage doors",
+      "clicks": 8,
+      "impressions": 6607,
+      "ctr": 0.0012108369910700772,
+      "position": 54.742545784773725
+    },
+    {
+      "query": "garage doors boise",
+      "clicks": 8,
+      "impressions": 1130,
+      "ctr": 0.007079646017699115,
+      "position": 3.679646017699115
+    },
+    {
+      "query": "garage door repair boise",
+      "clicks": 6,
+      "impressions": 3403,
+      "ctr": 0.001763150161622098,
+      "position": 8.368204525418747
+    },
+    {
+      "query": "action garage door and service",
+      "clicks": 5,
+      "impressions": 264,
+      "ctr": 0.01893939393939394,
+      "position": 13.287878787878787
+    },
+    {
+      "query": "action garage door reviews",
+      "clicks": 5,
+      "impressions": 198,
+      "ctr": 0.025252525252525252,
+      "position": 7.898989898989899
+    },
+    {
+      "query": "action doors",
+      "clicks": 4,
+      "impressions": 69,
+      "ctr": 0.057971014492753624,
+      "position": 17.507246376811594
+    },
+    {
+      "query": "action garage door company",
+      "clicks": 4,
+      "impressions": 80,
+      "ctr": 0.05,
+      "position": 8.4
+    },
+    {
+      "query": "garage door boise",
+      "clicks": 4,
+      "impressions": 939,
+      "ctr": 0.004259850905218318,
+      "position": 4.5633652822151225
+    },
+    {
+      "query": "garage door repair meridian",
+      "clicks": 4,
+      "impressions": 1254,
+      "ctr": 0.003189792663476874,
+      "position": 4.420255183413078
+    },
+    {
+      "query": "garage door repair meridian idaho",
+      "clicks": 4,
+      "impressions": 68,
+      "ctr": 0.058823529411764705,
+      "position": 3.014705882352941
+    },
+    {
+      "query": "action door garage",
+      "clicks": 3,
+      "impressions": 97,
+      "ctr": 0.030927835051546393,
+      "position": 25.371134020618555
+    },
+    {
+      "query": "garage door replacement",
+      "clicks": 3,
+      "impressions": 2670,
+      "ctr": 0.0011235955056179776,
+      "position": 55.35543071161049
+    },
+    {
+      "query": "garage door company",
+      "clicks": 2,
+      "impressions": 1197,
+      "ctr": 0.001670843776106934,
+      "position": 11.06015037593985
+    },
+    {
+      "query": "garage door local",
+      "clicks": 2,
+      "impressions": 2,
+      "ctr": 1,
+      "position": 2.5
+    },
+    {
+      "query": "garage door repair nampa",
+      "clicks": 2,
+      "impressions": 829,
+      "ctr": 0.0024125452352231603,
+      "position": 14.655006031363088
+    },
+    {
+      "query": "garage door repair near me",
+      "clicks": 2,
+      "impressions": 2849,
+      "ctr": 0.000702000702000702,
+      "position": 8.312039312039312
+    },
+    {
+      "query": "action auction",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 17
+    },
+    {
+      "query": "action door repair",
+      "clicks": 1,
+      "impressions": 123,
+      "ctr": 0.008130081300813009,
+      "position": 49.96747967479675
+    },
+    {
+      "query": "action garage door company, inc",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 5.142857142857143
+    },
+    {
+      "query": "action garage door repair",
+      "clicks": 1,
+      "impressions": 515,
+      "ctr": 0.001941747572815534,
+      "position": 25.114563106796115
+    },
+    {
+      "query": "action garge",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "action overhead door",
+      "clicks": 1,
+      "impressions": 314,
+      "ctr": 0.0031847133757961785,
+      "position": 28.235668789808916
+    },
+    {
+      "query": "acton garage",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "boise garage door",
+      "clicks": 1,
+      "impressions": 95,
+      "ctr": 0.010526315789473684,
+      "position": 5.010526315789473
+    },
+    {
+      "query": "boise garage door repair",
+      "clicks": 1,
+      "impressions": 826,
+      "ctr": 0.0012106537530266344,
+      "position": 8.07869249394673
+    },
+    {
+      "query": "cheap garage doors near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 6
+    },
+    {
+      "query": "country garage doors",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 52
+    },
+    {
+      "query": "garage action",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 7.75
+    },
+    {
+      "query": "garage door and gate services",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 65.61538461538461
+    },
+    {
+      "query": "garage door companies in boise",
+      "clicks": 1,
+      "impressions": 92,
+      "ctr": 0.010869565217391304,
+      "position": 6.815217391304348
+    },
+    {
+      "query": "garage door parts boise",
+      "clicks": 1,
+      "impressions": 638,
+      "ctr": 0.001567398119122257,
+      "position": 14.206896551724139
+    },
+    {
+      "query": "garage door repair boise id",
+      "clicks": 1,
+      "impressions": 682,
+      "ctr": 0.001466275659824047,
+      "position": 8.941348973607038
+    },
+    {
+      "query": "garage door repair caldwell idaho",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 9
+    },
+    {
+      "query": "garage door repair idaho",
+      "clicks": 1,
+      "impressions": 98,
+      "ctr": 0.01020408163265306,
+      "position": 6.020408163265306
+    },
+    {
+      "query": "garage door shop near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 5
+    },
+    {
+      "query": "garage door spring replacement cost near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 5
+    },
+    {
+      "query": "garage door store",
+      "clicks": 1,
+      "impressions": 57,
+      "ctr": 0.017543859649122806,
+      "position": 5.982456140350878
+    },
+    {
+      "query": "garage door tune up near me",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 8.166666666666668
+    },
+    {
+      "query": "garage doors idaho",
+      "clicks": 1,
+      "impressions": 129,
+      "ctr": 0.007751937984496124,
+      "position": 3.7906976744186047
+    },
+    {
+      "query": "garage doors installers near me prices",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 5.666666666666667
+    },
+    {
+      "query": "garage doors near me",
+      "clicks": 1,
+      "impressions": 94,
+      "ctr": 0.010638297872340425,
+      "position": 9.404255319148936
+    },
+    {
+      "query": "garage repair near me",
+      "clicks": 1,
+      "impressions": 45,
+      "ctr": 0.022222222222222223,
+      "position": 6.7555555555555555
+    },
+    {
+      "query": "local garage door repair",
+      "clicks": 1,
+      "impressions": 85,
+      "ctr": 0.011764705882352941,
+      "position": 11.08235294117647
+    },
+    {
+      "query": "new garage door",
+      "clicks": 1,
+      "impressions": 80,
+      "ctr": 0.0125,
+      "position": 17.5
+    },
+    {
+      "query": "overhead door meridian",
+      "clicks": 1,
+      "impressions": 138,
+      "ctr": 0.007246376811594203,
+      "position": 6.065217391304348
+    },
+    {
+      "query": "overhead doors near me",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 5.2
+    },
+    {
+      "query": "\"garage door repair\"",
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 44.333333333333336
+    },
+    {
+      "query": "\"garage doors\"",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 81.78571428571429
+    },
+    {
+      "query": "#1 provider of quality garage doors",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 86
+    },
+    {
+      "query": "1 garage logo",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 83
+    },
+    {
+      "query": "12x10 insulated garage door price near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "12x12 residential garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 99
+    },
+    {
+      "query": "16ft roll up door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 59
+    },
+    {
+      "query": "16x10 commercial garage door",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 55.6
+    },
+    {
+      "query": "16x10 garage door",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 90.25
+    },
+    {
+      "query": "16x10 residential garage door",
+      "clicks": 0,
+      "impressions": 35,
+      "ctr": 0,
+      "position": 74.28571428571429
+    },
+    {
+      "query": "1800 garage doors inc.",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 86.25
+    },
+    {
+      "query": "20 ft garage doors",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 85
+    },
+    {
+      "query": "208 garage doors",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 13.75
+    },
+    {
+      "query": "20ft wide garage door",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 24.5
+    },
+    {
+      "query": "24 ft wide garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 53
+    },
+    {
+      "query": "24 hour commercial door repair",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 98
+    },
+    {
+      "query": "24 hour garage door repair",
+      "clicks": 0,
+      "impressions": 80,
+      "ctr": 0,
+      "position": 12.8875
+    },
+    {
+      "query": "24 hour garage door repair albuquerque",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 53
+    },
+    {
+      "query": "24 hour garage door repair harrisburg",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 80
+    },
+    {
+      "query": "24 hour garage door repair spokane wa",
+      "clicks": 0,
+      "impressions": 142,
+      "ctr": 0,
+      "position": 42.87323943661972
+    },
+    {
+      "query": "24 hour garage door service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "24 hour residential garage door repair",
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 84.84210526315789
+    },
+    {
+      "query": "24 hours garage doors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "24 hr garage door repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 89
+    },
+    {
+      "query": "24/7 garage door repair",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6.5
+    },
+    {
+      "query": "24hr garage door prices",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 67.2
+    },
+    {
+      "query": "24x7 garage doors",
+      "clicks": 0,
+      "impressions": 97,
+      "ctr": 0,
+      "position": 16.52577319587629
+    },
+    {
+      "query": "26 gauge steel roll up doors",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 41
+    },
+    {
+      "query": "28ft steel bar products",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 45.333333333333336
+    },
+    {
+      "query": "42 commercial door",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 62
+    },
+    {
+      "query": "9100 garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "911 garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 15
+    },
+    {
+      "query": "9x7 garage door installed",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 101
+    },
+    {
+      "query": "a + garage doors",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 14.5
+    },
+    {
+      "query": "a 1 garage door",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 58.2
+    },
+    {
+      "query": "a 1 garage door repair",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 57.25
+    },
+    {
+      "query": "a 1 garage door services",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 81
+    },
+    {
+      "query": "a action overhead door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 40
+    },
+    {
+      "query": "a and a garage doors",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 59
+    },
+    {
+      "query": "a and n garage doors",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 49.8
+    },
+    {
+      "query": "a door company",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "a garage door",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 36.69230769230769
+    },
+    {
+      "query": "a garage door service",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 61.92857142857143
+    },
+    {
+      "query": "a garage doors",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 39.285714285714285
+    },
+    {
+      "query": "a one garage door",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 14.666666666666666
+    },
+    {
+      "query": "a&j garage doors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 35
+    },
+    {
+      "query": "a-1 garage door",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 10.25
+    },
+    {
+      "query": "a-1 garage door near me",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "a-1 garage door repair",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 41.25
+    },
+    {
+      "query": "a-1 garage door service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 80
+    },
+    {
+      "query": "a1 garage boise",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 56.875
+    },
+    {
+      "query": "a1 garage door",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 1.125
+    },
+    {
+      "query": "a1 garage door boise",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 29.8
+    },
+    {
+      "query": "a1 garage door reviews",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "a1 garage doors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "aaa action garage doors",
+      "clicks": 0,
+      "impressions": 32,
+      "ctr": 0,
+      "position": 25.5
+    },
+    {
+      "query": "aaction overhead door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 20
+    },
+    {
+      "query": "aaction overhead door inc",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 20
+    },
+    {
+      "query": "ac installation treasure valley area id",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 101.5
+    },
+    {
+      "query": "access door company",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "access garage",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 47.5
+    },
+    {
+      "query": "access garage door",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 14.5
+    },
+    {
+      "query": "access garage door company",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "access garage doors",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "access garage doors boise",
+      "clicks": 0,
+      "impressions": 91,
+      "ctr": 0,
+      "position": 37.23076923076923
+    },
+    {
+      "query": "access garage doors of boise",
+      "clicks": 0,
+      "impressions": 91,
+      "ctr": 0,
+      "position": 37.54945054945055
+    },
+    {
+      "query": "access garage doors of treasure valley",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 22.5
+    },
+    {
+      "query": "acion",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "action",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 5.25
+    },
+    {
+      "query": "action commercial",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 57
+    },
+    {
+      "query": "action commerciales",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 89
+    },
+    {
+      "query": "action company",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "action door and window",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 23.666666666666668
+    },
+    {
+      "query": "action door cleveland oh",
+      "clicks": 0,
+      "impressions": 36,
+      "ctr": 0,
+      "position": 66.22222222222223
+    },
+    {
+      "query": "action door co",
+      "clicks": 0,
+      "impressions": 84,
+      "ctr": 0,
+      "position": 72.23809523809524
+    },
+    {
+      "query": "action door company",
+      "clicks": 0,
+      "impressions": 238,
+      "ctr": 0,
+      "position": 45.97899159663866
+    },
+    {
+      "query": "action door garage door",
+      "clicks": 0,
+      "impressions": 85,
+      "ctr": 0,
+      "position": 23.44705882352941
+    },
+    {
+      "query": "action door locations",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 13.333333333333334
+    },
+    {
+      "query": "action door near me",
+      "clicks": 0,
+      "impressions": 109,
+      "ctr": 0,
+      "position": 35.44954128440367
+    },
+    {
+      "query": "action door ohio",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 18.5
+    },
+    {
+      "query": "action door prior lake",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 88
+    },
+    {
+      "query": "action door reviews",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 17.4
+    },
+    {
+      "query": "action door service",
+      "clicks": 0,
+      "impressions": 57,
+      "ctr": 0,
+      "position": 32.98245614035088
+    },
+    {
+      "query": "action door services",
+      "clicks": 0,
+      "impressions": 100,
+      "ctr": 0,
+      "position": 66.52
+    },
+    {
+      "query": "action door services ltd",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 40
+    },
+    {
+      "query": "action door stow",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 55
+    },
+    {
+      "query": "action doors hastings",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 59
+    },
+    {
+      "query": "action doors inc",
+      "clicks": 0,
+      "impressions": 133,
+      "ctr": 0,
+      "position": 34.045112781954884
+    },
+    {
+      "query": "action garage boise",
+      "clicks": 0,
+      "impressions": 130,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "action garage door and service reviews",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "action garage door near me",
+      "clicks": 0,
+      "impressions": 101,
+      "ctr": 0,
+      "position": 15.514851485148515
+    },
+    {
+      "query": "action garage door photos",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "action garage door prior lake",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 20.5
+    },
+    {
+      "query": "action garage door repair & opener installation",
+      "clicks": 0,
+      "impressions": 54,
+      "ctr": 0,
+      "position": 5.37037037037037
+    },
+    {
+      "query": "action garage door repair houston",
+      "clicks": 0,
+      "impressions": 199,
+      "ctr": 0,
+      "position": 46.22613065326633
+    },
+    {
+      "query": "action garage door repair installation",
+      "clicks": 0,
+      "impressions": 22,
+      "ctr": 0,
+      "position": 8.818181818181818
+    },
+    {
+      "query": "action garage door repair specialists",
+      "clicks": 0,
+      "impressions": 37,
+      "ctr": 0,
+      "position": 26.45945945945946
+    },
+    {
+      "query": "action garage door repair specialists houston tx",
+      "clicks": 0,
+      "impressions": 83,
+      "ctr": 0,
+      "position": 44.31325301204819
+    },
+    {
+      "query": "action garage door repair specialists phone number",
+      "clicks": 0,
+      "impressions": 38,
+      "ctr": 0,
+      "position": 15.921052631578947
+    },
+    {
+      "query": "action garage door repair specialists reviews",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 27.416666666666668
+    },
+    {
+      "query": "action garage door services",
+      "clicks": 0,
+      "impressions": 128,
+      "ctr": 0,
+      "position": 14.890625
+    },
+    {
+      "query": "action garage doors and service",
+      "clicks": 0,
+      "impressions": 51,
+      "ctr": 0,
+      "position": 7.019607843137255
+    },
+    {
+      "query": "action hobbies boise",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 51
+    },
+    {
+      "query": "action hobbies meridian idaho",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 28
+    },
+    {
+      "query": "action ind inc",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 86
+    },
+    {
+      "query": "action industries",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "action installations",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 65.5
+    },
+    {
+      "query": "action lock and door",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 68
+    },
+    {
+      "query": "action locksmith",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "action near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "action opener",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 24
+    },
+    {
+      "query": "action overhead door inc",
+      "clicks": 0,
+      "impressions": 106,
+      "ctr": 0,
+      "position": 41.283018867924525
+    },
+    {
+      "query": "action overhead door louisville",
+      "clicks": 0,
+      "impressions": 76,
+      "ctr": 0,
+      "position": 19.789473684210527
+    },
+    {
+      "query": "action overhead door louisville kentucky",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 46.42857142857143
+    },
+    {
+      "query": "action overhead door louisville ky",
+      "clicks": 0,
+      "impressions": 31,
+      "ctr": 0,
+      "position": 26.741935483870968
+    },
+    {
+      "query": "action overhead doors",
+      "clicks": 0,
+      "impressions": 22,
+      "ctr": 0,
+      "position": 19.681818181818183
+    },
+    {
+      "query": "action overhead garage",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 24.2
+    },
+    {
+      "query": "action overhead garage door",
+      "clicks": 0,
+      "impressions": 357,
+      "ctr": 0,
+      "position": 39.703081232493
+    },
+    {
+      "query": "action overhead garage door company",
+      "clicks": 0,
+      "impressions": 81,
+      "ctr": 0,
+      "position": 44.22222222222222
+    },
+    {
+      "query": "action repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "action services",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "action steel doors",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 33
+    },
+    {
+      "query": "action storage",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "action twin falls idaho",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 8.384615384615385
+    },
+    {
+      "query": "actiondoor",
+      "clicks": 0,
+      "impressions": 78,
+      "ctr": 0,
+      "position": 80.44871794871794
+    },
+    {
+      "query": "actions",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2.5
+    },
+    {
+      "query": "active garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "acton garage door repair",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 43.733333333333334
+    },
+    {
+      "query": "ada door installers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 66
+    },
+    {
+      "query": "ada garage doors",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 30
+    },
+    {
+      "query": "affordable garage door installation coeur d'alene id",
+      "clicks": 0,
+      "impressions": 28,
+      "ctr": 0,
+      "position": 49.857142857142854
+    },
+    {
+      "query": "affordable garage door repair",
+      "clicks": 0,
+      "impressions": 26,
+      "ctr": 0,
+      "position": 47.42307692307692
+    },
+    {
+      "query": "affordable garage door service",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "aim garage doors",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 45
+    },
+    {
+      "query": "aims garage doors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 80
+    },
+    {
+      "query": "alex garage door services",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "all hwy garage door repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 24
+    },
+    {
+      "query": "all idaho door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 41
+    },
+    {
+      "query": "all valley garage door",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 50
+    },
+    {
+      "query": "allied garage door",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "allied garage doors",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "aloha garage door company",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "alpine garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "alpine garage doors",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "amarr commercial",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 77.8
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:22:37.004Z"
 }

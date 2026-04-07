@@ -2,138 +2,18 @@
   "propertyId": "properties/307652149",
   "displayName": "Johnston Law Firm GA4",
   "dateRange": {
-    "start": "2025-12-17",
-    "end": "2026-03-17"
+    "start": "2026-01-06",
+    "end": "2026-04-06"
   },
   "totals": {
-    "sessions": 31315,
-    "users": 31417,
-    "screenPageViews": 62695,
-    "organicSessions": 8614,
-    "bounceRate": 0.24991902079935502,
-    "avgSessionDuration": 62.076718913333956
+    "sessions": 27273,
+    "users": 27394,
+    "screenPageViews": 57801,
+    "organicSessions": 8167,
+    "bounceRate": 0.2514431025624172,
+    "avgSessionDuration": 76.71807933231484
   },
   "dailyData": [
-    {
-      "date": "2025-12-17",
-      "sessions": 664,
-      "users": 661,
-      "screenPageViews": 1187
-    },
-    {
-      "date": "2025-12-18",
-      "sessions": 464,
-      "users": 459,
-      "screenPageViews": 816
-    },
-    {
-      "date": "2025-12-19",
-      "sessions": 311,
-      "users": 306,
-      "screenPageViews": 584
-    },
-    {
-      "date": "2025-12-20",
-      "sessions": 116,
-      "users": 122,
-      "screenPageViews": 215
-    },
-    {
-      "date": "2025-12-21",
-      "sessions": 131,
-      "users": 130,
-      "screenPageViews": 247
-    },
-    {
-      "date": "2025-12-22",
-      "sessions": 281,
-      "users": 288,
-      "screenPageViews": 629
-    },
-    {
-      "date": "2025-12-23",
-      "sessions": 338,
-      "users": 343,
-      "screenPageViews": 583
-    },
-    {
-      "date": "2025-12-24",
-      "sessions": 464,
-      "users": 462,
-      "screenPageViews": 787
-    },
-    {
-      "date": "2025-12-25",
-      "sessions": 522,
-      "users": 520,
-      "screenPageViews": 844
-    },
-    {
-      "date": "2025-12-26",
-      "sessions": 548,
-      "users": 553,
-      "screenPageViews": 911
-    },
-    {
-      "date": "2025-12-27",
-      "sessions": 541,
-      "users": 542,
-      "screenPageViews": 956
-    },
-    {
-      "date": "2025-12-28",
-      "sessions": 543,
-      "users": 542,
-      "screenPageViews": 963
-    },
-    {
-      "date": "2025-12-29",
-      "sessions": 540,
-      "users": 534,
-      "screenPageViews": 1019
-    },
-    {
-      "date": "2025-12-30",
-      "sessions": 344,
-      "users": 348,
-      "screenPageViews": 648
-    },
-    {
-      "date": "2025-12-31",
-      "sessions": 468,
-      "users": 465,
-      "screenPageViews": 875
-    },
-    {
-      "date": "2026-01-01",
-      "sessions": 461,
-      "users": 460,
-      "screenPageViews": 861
-    },
-    {
-      "date": "2026-01-02",
-      "sessions": 348,
-      "users": 339,
-      "screenPageViews": 652
-    },
-    {
-      "date": "2026-01-03",
-      "sessions": 414,
-      "users": 410,
-      "screenPageViews": 754
-    },
-    {
-      "date": "2026-01-04",
-      "sessions": 559,
-      "users": 558,
-      "screenPageViews": 981
-    },
-    {
-      "date": "2026-01-05",
-      "sessions": 548,
-      "users": 552,
-      "screenPageViews": 1033
-    },
     {
       "date": "2026-01-06",
       "sessions": 222,
@@ -556,194 +436,341 @@
     },
     {
       "date": "2026-03-17",
-      "sessions": 152,
+      "sessions": 151,
       "users": 151,
       "screenPageViews": 412
+    },
+    {
+      "date": "2026-03-18",
+      "sessions": 138,
+      "users": 140,
+      "screenPageViews": 284
+    },
+    {
+      "date": "2026-03-19",
+      "sessions": 115,
+      "users": 119,
+      "screenPageViews": 242
+    },
+    {
+      "date": "2026-03-20",
+      "sessions": 120,
+      "users": 118,
+      "screenPageViews": 282
+    },
+    {
+      "date": "2026-03-21",
+      "sessions": 64,
+      "users": 65,
+      "screenPageViews": 140
+    },
+    {
+      "date": "2026-03-22",
+      "sessions": 93,
+      "users": 90,
+      "screenPageViews": 234
+    },
+    {
+      "date": "2026-03-23",
+      "sessions": 138,
+      "users": 142,
+      "screenPageViews": 295
+    },
+    {
+      "date": "2026-03-24",
+      "sessions": 222,
+      "users": 231,
+      "screenPageViews": 636
+    },
+    {
+      "date": "2026-03-25",
+      "sessions": 186,
+      "users": 185,
+      "screenPageViews": 485
+    },
+    {
+      "date": "2026-03-26",
+      "sessions": 230,
+      "users": 223,
+      "screenPageViews": 681
+    },
+    {
+      "date": "2026-03-27",
+      "sessions": 209,
+      "users": 216,
+      "screenPageViews": 362
+    },
+    {
+      "date": "2026-03-28",
+      "sessions": 397,
+      "users": 396,
+      "screenPageViews": 728
+    },
+    {
+      "date": "2026-03-29",
+      "sessions": 204,
+      "users": 202,
+      "screenPageViews": 394
+    },
+    {
+      "date": "2026-03-30",
+      "sessions": 257,
+      "users": 246,
+      "screenPageViews": 598
+    },
+    {
+      "date": "2026-03-31",
+      "sessions": 222,
+      "users": 225,
+      "screenPageViews": 464
+    },
+    {
+      "date": "2026-04-01",
+      "sessions": 223,
+      "users": 226,
+      "screenPageViews": 756
+    },
+    {
+      "date": "2026-04-02",
+      "sessions": 219,
+      "users": 222,
+      "screenPageViews": 558
+    },
+    {
+      "date": "2026-04-03",
+      "sessions": 193,
+      "users": 197,
+      "screenPageViews": 735
+    },
+    {
+      "date": "2026-04-04",
+      "sessions": 397,
+      "users": 398,
+      "screenPageViews": 711
+    },
+    {
+      "date": "2026-04-05",
+      "sessions": 447,
+      "users": 447,
+      "screenPageViews": 787
+    },
+    {
+      "date": "2026-04-06",
+      "sessions": 490,
+      "users": 483,
+      "screenPageViews": 1279
     }
   ],
   "channelData": [
     {
       "channel": "Direct",
-      "sessions": 22664,
-      "users": 21474
+      "sessions": 18647,
+      "users": 17986
     },
     {
       "channel": "Organic Search",
-      "sessions": 8614,
-      "users": 7324
+      "sessions": 8167,
+      "users": 6958
     },
     {
       "channel": "Referral",
-      "sessions": 469,
-      "users": 381
+      "sessions": 320,
+      "users": 237
     },
     {
       "channel": "Unassigned",
-      "sessions": 238,
-      "users": 1187
+      "sessions": 244,
+      "users": 1240
     },
     {
       "channel": "Organic Social",
-      "sessions": 42,
-      "users": 40
+      "sessions": 39,
+      "users": 35
+    }
+  ],
+  "keyEventsByChannel": [
+    {
+      "channel": "Direct",
+      "sessions": 18647,
+      "keyEvents": 2467,
+      "conversionRate": 0.1323001018930659
     },
     {
-      "channel": "Organic Video",
-      "sessions": 1,
-      "users": 1
+      "channel": "Organic Search",
+      "sessions": 8167,
+      "keyEvents": 2258,
+      "conversionRate": 0.2764785110811804
+    },
+    {
+      "channel": "Referral",
+      "sessions": 320,
+      "keyEvents": 173,
+      "conversionRate": 0.540625
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": 244,
+      "keyEvents": 1484,
+      "conversionRate": 6.081967213114754
+    },
+    {
+      "channel": "Organic Social",
+      "sessions": 39,
+      "keyEvents": 14,
+      "conversionRate": 0.358974358974359
     }
   ],
   "topPages": [
     {
       "page": "/long-awaited-pedestrian-improvements-decrease-pedestrian-accident-risks-on-one-of-portlands-most-dangerous-streets/",
-      "screenPageViews": 26803,
-      "sessions": 15258
+      "screenPageViews": 20095,
+      "sessions": 10944
     },
     {
       "page": "/",
-      "screenPageViews": 9715,
-      "sessions": 5295
-    },
-    {
-      "page": "/car-accident/",
-      "screenPageViews": 1872,
-      "sessions": 480
+      "screenPageViews": 9533,
+      "sessions": 4944
     },
     {
       "page": "/contact/",
-      "screenPageViews": 1456,
-      "sessions": 755
+      "screenPageViews": 2156,
+      "sessions": 794
+    },
+    {
+      "page": "/car-accident/",
+      "screenPageViews": 1681,
+      "sessions": 368
     },
     {
       "page": "/tactics-insurance-companies-use-to-deny-car-accident-claims/",
-      "screenPageViews": 1397,
-      "sessions": 812
+      "screenPageViews": 1449,
+      "sessions": 837
     },
     {
       "page": "/practice-areas/",
-      "screenPageViews": 1196,
-      "sessions": 618
+      "screenPageViews": 1243,
+      "sessions": 605
     },
     {
       "page": "/attorneys/",
-      "screenPageViews": 726,
-      "sessions": 392
+      "screenPageViews": 811,
+      "sessions": 444
     },
     {
       "page": "/thank-you/",
-      "screenPageViews": 601,
-      "sessions": 373
-    },
-    {
-      "page": "/oregon-nurse-swapping-fentanyl-tap-water-303m-lawsuit/",
-      "screenPageViews": 550,
-      "sessions": 326
+      "screenPageViews": 584,
+      "sessions": 359
     },
     {
       "page": "/firm-overview/",
-      "screenPageViews": 543,
-      "sessions": 196
+      "screenPageViews": 580,
+      "sessions": 212
     },
     {
-      "page": "/portland/medical-malpractice/",
-      "screenPageViews": 495,
-      "sessions": 288
+      "page": "/oregon-nurse-swapping-fentanyl-tap-water-303m-lawsuit/",
+      "screenPageViews": 555,
+      "sessions": 330
     },
     {
       "page": "/portland/civil-rights/",
-      "screenPageViews": 490,
-      "sessions": 273
+      "screenPageViews": 514,
+      "sessions": 290
     },
     {
       "page": "/attorneys/marc-a-johnston/",
-      "screenPageViews": 453,
-      "sessions": 273
+      "screenPageViews": 513,
+      "sessions": 302
+    },
+    {
+      "page": "/portland/medical-malpractice/",
+      "screenPageViews": 486,
+      "sessions": 287
     },
     {
       "page": "/oregons-good-samaritan-law/",
-      "screenPageViews": 447,
-      "sessions": 271
+      "screenPageViews": 432,
+      "sessions": 260
     },
     {
       "page": "/our-testimonials/",
-      "screenPageViews": 433,
-      "sessions": 244
+      "screenPageViews": 386,
+      "sessions": 216
     },
     {
       "page": "/what-you-should-know-buying-car-oregon/",
-      "screenPageViews": 308,
-      "sessions": 180
+      "screenPageViews": 314,
+      "sessions": 191
     },
     {
       "page": "/careers/",
-      "screenPageViews": 287,
-      "sessions": 169
+      "screenPageViews": 310,
+      "sessions": 184
     },
     {
-      "page": "/how-to-dispute-fault-in-a-police-report-after-a-car-accident/",
-      "screenPageViews": 247,
+      "page": "/portland/",
+      "screenPageViews": 297,
       "sessions": 145
     },
     {
       "page": "/attorneys/rob-kline/",
-      "screenPageViews": 244,
-      "sessions": 143
+      "screenPageViews": 284,
+      "sessions": 167
     },
     {
-      "page": "/portland/",
-      "screenPageViews": 238,
+      "page": "/how-to-dispute-fault-in-a-police-report-after-a-car-accident/",
+      "screenPageViews": 242,
       "sessions": 141
     },
     {
       "page": "/oregons-statute-of-limitations-for-different-types-of-injury-claims/",
-      "screenPageViews": 231,
-      "sessions": 132
-    },
-    {
-      "page": "/new-oregon-labor-and-employment-laws-in-2025-and-2026/",
-      "screenPageViews": 210,
-      "sessions": 112
+      "screenPageViews": 229,
+      "sessions": 135
     },
     {
       "page": "/portland/litigation/",
-      "screenPageViews": 210,
-      "sessions": 120
+      "screenPageViews": 211,
+      "sessions": 117
     },
     {
       "page": "/how-insurance-companies-handle-drunk-driving-accidents/",
-      "screenPageViews": 192,
-      "sessions": 114
+      "screenPageViews": 180,
+      "sessions": 111
     },
     {
       "page": "/portland/sexual-assault/",
-      "screenPageViews": 171,
-      "sessions": 95
-    },
-    {
-      "page": "/portland/pedestrian-accident/",
-      "screenPageViews": 153,
-      "sessions": 73
+      "screenPageViews": 167,
+      "sessions": 93
     },
     {
       "page": "/human-error-in-self-driving-car-accidents/",
-      "screenPageViews": 149,
+      "screenPageViews": 158,
+      "sessions": 93
+    },
+    {
+      "page": "/portland/pedestrian-accident/",
+      "screenPageViews": 158,
+      "sessions": 75
+    },
+    {
+      "page": "/after-girl-falls-60-feet-from-bridge-friend-who-pushed-her-may-be-liable-for-damages/",
+      "screenPageViews": 152,
       "sessions": 89
     },
     {
-      "page": "/portland/wrongful-death/",
-      "screenPageViews": 135,
-      "sessions": 54
-    },
-    {
-      "page": "/blog/",
-      "screenPageViews": 128,
+      "page": "/truck-accident/",
+      "screenPageViews": 151,
       "sessions": 76
     },
     {
-      "page": "/truck-accident/",
-      "screenPageViews": 117,
-      "sessions": 61
+      "page": "/new-oregon-labor-and-employment-laws-in-2025-and-2026/",
+      "screenPageViews": 138,
+      "sessions": 77
+    },
+    {
+      "page": "/blog/",
+      "screenPageViews": 134,
+      "sessions": 79
     }
   ],
-  "fetchedAt": "2026-03-18T13:06:59.614Z"
+  "fetchedAt": "2026-04-07T16:21:48.594Z"
 }

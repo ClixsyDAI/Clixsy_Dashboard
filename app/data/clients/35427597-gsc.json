@@ -1,156 +1,16 @@
 {
   "property": "sc-domain:groverlawfirm.com",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 4669,
-    "impressions": 733023,
-    "ctr": 0.006369513644183061,
-    "position": 14.515852743276305
+    "clicks": 5047,
+    "impressions": 769473,
+    "ctr": 0.006559034560017051,
+    "position": 13.593495611711834
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 58,
-      "impressions": 7168,
-      "ctr": 0.008091517857142858,
-      "position": 14.343889508928571
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 55,
-      "impressions": 7362,
-      "ctr": 0.007470795979353437,
-      "position": 15.02118989405053
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 60,
-      "impressions": 8504,
-      "ctr": 0.0070555032925682035,
-      "position": 11.880291627469425
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 61,
-      "impressions": 9322,
-      "ctr": 0.006543660158764213,
-      "position": 15.007723664449689
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 42,
-      "impressions": 9531,
-      "ctr": 0.004406672961913755,
-      "position": 13.90462700661001
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 30,
-      "impressions": 7862,
-      "ctr": 0.003815822945815314,
-      "position": 19.09196133299415
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 24,
-      "impressions": 7387,
-      "ctr": 0.003248950859618248,
-      "position": 17.391769324488966
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 36,
-      "impressions": 7236,
-      "ctr": 0.004975124378109453,
-      "position": 12.890961857379768
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 41,
-      "impressions": 6953,
-      "ctr": 0.005896735222206242,
-      "position": 16.38184956134043
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 34,
-      "impressions": 6001,
-      "ctr": 0.0056657223796034,
-      "position": 15.613564405932344
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 21,
-      "impressions": 5374,
-      "ctr": 0.003907703758838854,
-      "position": 15.7082247860067
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 27,
-      "impressions": 5680,
-      "ctr": 0.004753521126760563,
-      "position": 12.794718309859155
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 35,
-      "impressions": 6328,
-      "ctr": 0.0055309734513274336,
-      "position": 14.704329962073325
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 16,
-      "impressions": 7047,
-      "ctr": 0.002270469703419895,
-      "position": 17.78430537817511
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 41,
-      "impressions": 6639,
-      "ctr": 0.006175628859768037,
-      "position": 13.776171110106944
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 39,
-      "impressions": 7486,
-      "ctr": 0.005209724819663372,
-      "position": 17.59337429869089
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 34,
-      "impressions": 6277,
-      "ctr": 0.005416600286761192,
-      "position": 16.295204715628486
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 32,
-      "impressions": 6357,
-      "ctr": 0.00503382098474123,
-      "position": 18.62010382255781
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 38,
-      "impressions": 6905,
-      "ctr": 0.005503258508327299,
-      "position": 15.490948587979725
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 25,
-      "impressions": 6335,
-      "ctr": 0.003946329913180742,
-      "position": 15.883504340962904
-    },
     {
       "date": "2026-01-04",
       "clicks": 19,
@@ -640,711 +500,3314 @@
       "impressions": 6167,
       "ctr": 0.004540295119182747,
       "position": 11.704718663856008
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 32,
+      "impressions": 6920,
+      "ctr": 0.004624277456647399,
+      "position": 12.201878612716763
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 87,
+      "impressions": 12019,
+      "ctr": 0.007238538979948415,
+      "position": 9.17597137865047
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 69,
+      "impressions": 8298,
+      "ctr": 0.008315256688358641,
+      "position": 11.45529043142926
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 55,
+      "impressions": 9543,
+      "ctr": 0.005763386775647071,
+      "position": 13.001257466205596
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 60,
+      "impressions": 8041,
+      "ctr": 0.00746175848775028,
+      "position": 10.380425320233801
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 36,
+      "impressions": 7670,
+      "ctr": 0.00469361147327249,
+      "position": 11.51303780964798
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 27,
+      "impressions": 6647,
+      "ctr": 0.004061982849405747,
+      "position": 12.504588536181735
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 28,
+      "impressions": 7391,
+      "ctr": 0.0037883912867000408,
+      "position": 12.401028277634962
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 63,
+      "impressions": 8106,
+      "ctr": 0.007772020725388601,
+      "position": 11.324697754749568
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 56,
+      "impressions": 8037,
+      "ctr": 0.0069677740450416826,
+      "position": 10.766703994027623
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 85,
+      "impressions": 9402,
+      "ctr": 0.009040629653265263,
+      "position": 11.03499255477558
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 62,
+      "impressions": 8417,
+      "ctr": 0.0073660449091125105,
+      "position": 10.839729119638827
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 57,
+      "impressions": 9115,
+      "ctr": 0.006253428414701042,
+      "position": 13.404717498628633
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 31,
+      "impressions": 7334,
+      "ctr": 0.004226888464685029,
+      "position": 12.231660758112898
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 47,
+      "impressions": 7629,
+      "ctr": 0.006160702582251934,
+      "position": 13.820553152444619
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 66,
+      "impressions": 8933,
+      "ctr": 0.007388335385648718,
+      "position": 12.446882346356208
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 73,
+      "impressions": 11094,
+      "ctr": 0.006580133405444384,
+      "position": 7.361186226789256
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 69,
+      "impressions": 8432,
+      "ctr": 0.008183111954459203,
+      "position": 12.270042694497153
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 63,
+      "impressions": 11848,
+      "ctr": 0.005317353139770426,
+      "position": 9.24940918298447
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 37,
+      "impressions": 7078,
+      "ctr": 0.005227465385702176,
+      "position": 11.781294150890082
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 24,
+      "impressions": 6250,
+      "ctr": 0.00384,
+      "position": 11.59472
     }
   ],
   "topQueries": [
     {
       "query": "grover law firm",
       "clicks": 515,
-      "impressions": 2539,
-      "ctr": 0.20283576211106735,
-      "position": 1.7392674281213076
+      "impressions": 2822,
+      "ctr": 0.1824946846208363,
+      "position": 1.7916371367824238
     },
     {
       "query": "grover law firm calgary",
-      "clicks": 156,
-      "impressions": 477,
-      "ctr": 0.3270440251572327,
-      "position": 1.2285115303983227
+      "clicks": 192,
+      "impressions": 554,
+      "ctr": 0.34657039711191334,
+      "position": 1.1805054151624548
     },
     {
       "query": "grover law",
-      "clicks": 134,
-      "impressions": 373,
-      "ctr": 0.35924932975871315,
-      "position": 2.6863270777479893
+      "clicks": 132,
+      "impressions": 383,
+      "ctr": 0.34464751958224543,
+      "position": 2.9347258485639687
     },
     {
       "query": "steve grover",
-      "clicks": 64,
-      "impressions": 1098,
-      "ctr": 0.058287795992714025,
-      "position": 1.8451730418943533
-    },
-    {
-      "query": "steve grover law firm",
-      "clicks": 30,
-      "impressions": 96,
-      "ctr": 0.3125,
-      "position": 1.0104166666666667
+      "clicks": 65,
+      "impressions": 1091,
+      "ctr": 0.05957836846929423,
+      "position": 1.862511457378552
     },
     {
       "query": "personal injury lawyer calgary",
-      "clicks": 28,
-      "impressions": 5786,
-      "ctr": 0.004839267196681645,
-      "position": 8.627722087798134
+      "clicks": 31,
+      "impressions": 6379,
+      "ctr": 0.004859695877096724,
+      "position": 7.09907509013952
     },
     {
       "query": "alberta changes auto insurance to a no-fault system",
       "clicks": 27,
-      "impressions": 2461,
-      "ctr": 0.010971149939049168,
-      "position": 4.264526615197074
+      "impressions": 2463,
+      "ctr": 0.010962241169305725,
+      "position": 4.261875761266747
     },
     {
-      "query": "car accident settlement payouts alberta",
-      "clicks": 24,
-      "impressions": 1332,
-      "ctr": 0.018018018018018018,
-      "position": 6.226726726726727
+      "query": "steve grover law firm",
+      "clicks": 27,
+      "impressions": 96,
+      "ctr": 0.28125,
+      "position": 1.0104166666666667
     },
     {
       "query": "injury lawyer calgary",
-      "clicks": 20,
-      "impressions": 4007,
-      "ctr": 0.0049912652857499375,
-      "position": 7.256800598951834
+      "clicks": 25,
+      "impressions": 4569,
+      "ctr": 0.005471656817684395,
+      "position": 6.336178594878529
+    },
+    {
+      "query": "car accident settlement payouts alberta",
+      "clicks": 21,
+      "impressions": 1339,
+      "ctr": 0.01568334578043316,
+      "position": 6.610156833457804
     },
     {
       "query": "grover law calgary",
-      "clicks": 18,
+      "clicks": 19,
       "impressions": 63,
-      "ctr": 0.2857142857142857,
+      "ctr": 0.30158730158730157,
       "position": 1.9206349206349205
     },
     {
-      "query": "what to do if someone sues you for a car accident in alberta",
-      "clicks": 12,
-      "impressions": 207,
-      "ctr": 0.057971014492753624,
-      "position": 1.0966183574879227
+      "query": "no fault insurance alberta",
+      "clicks": 19,
+      "impressions": 2320,
+      "ctr": 0.008189655172413794,
+      "position": 4.8125
     },
     {
-      "query": "car accident calgary",
-      "clicks": 11,
-      "impressions": 2765,
-      "ctr": 0.003978300180831827,
-      "position": 7.2683544303797465
+      "query": "alberta no fault insurance",
+      "clicks": 18,
+      "impressions": 1130,
+      "ctr": 0.01592920353982301,
+      "position": 5.292920353982301
+    },
+    {
+      "query": "personal injury lawyers calgary",
+      "clicks": 15,
+      "impressions": 3148,
+      "ctr": 0.004764930114358323,
+      "position": 11.768424396442185
+    },
+    {
+      "query": "what to do if someone sues you for a car accident in alberta",
+      "clicks": 15,
+      "impressions": 219,
+      "ctr": 0.0684931506849315,
+      "position": 1.095890410958904
     },
     {
       "query": "grover law firm reviews",
       "clicks": 11,
-      "impressions": 916,
-      "ctr": 0.012008733624454149,
-      "position": 3.361353711790393
+      "impressions": 725,
+      "ctr": 0.015172413793103448,
+      "position": 3.4289655172413793
     },
     {
-      "query": "personal injury lawyers calgary",
-      "clicks": 10,
-      "impressions": 3067,
-      "ctr": 0.0032605151613955006,
-      "position": 13.480925986305836
+      "query": "medical malpractice lawyer calgary",
+      "clicks": 11,
+      "impressions": 355,
+      "ctr": 0.030985915492957747,
+      "position": 6.290140845070423
     },
     {
-      "query": "alberta no fault insurance",
+      "query": "best personal injury lawyer calgary",
       "clicks": 9,
-      "impressions": 1029,
-      "ctr": 0.008746355685131196,
-      "position": 6.001943634596696
+      "impressions": 927,
+      "ctr": 0.009708737864077669,
+      "position": 5.262135922330097
     },
     {
       "query": "law firms calgary",
       "clicks": 9,
-      "impressions": 214,
-      "ctr": 0.04205607476635514,
-      "position": 5.836448598130841
-    },
-    {
-      "query": "no fault insurance alberta",
-      "clicks": 9,
-      "impressions": 2097,
-      "ctr": 0.004291845493562232,
-      "position": 5.462565569861707
-    },
-    {
-      "query": "best personal injury lawyer calgary",
-      "clicks": 8,
-      "impressions": 918,
-      "ctr": 0.008714596949891068,
-      "position": 5.739651416122005
-    },
-    {
-      "query": "medical malpractice lawyer calgary",
-      "clicks": 8,
-      "impressions": 304,
-      "ctr": 0.02631578947368421,
-      "position": 5.7993421052631575
+      "impressions": 211,
+      "ctr": 0.04265402843601896,
+      "position": 5.502369668246446
     },
     {
       "query": "car accident lawyer calgary",
+      "clicks": 8,
+      "impressions": 7676,
+      "ctr": 0.0010422094841063053,
+      "position": 6.852397081813445
+    },
+    {
+      "query": "how long does it take to settle a car accident claim in alberta",
+      "clicks": 8,
+      "impressions": 193,
+      "ctr": 0.04145077720207254,
+      "position": 1.2279792746113989
+    },
+    {
+      "query": "no fault insurance",
+      "clicks": 8,
+      "impressions": 637,
+      "ctr": 0.012558869701726845,
+      "position": 11.436420722135008
+    },
+    {
+      "query": "calgary law firms",
       "clicks": 7,
-      "impressions": 6486,
-      "ctr": 0.0010792476102374346,
-      "position": 9.067067530064755
+      "impressions": 199,
+      "ctr": 0.035175879396984924,
+      "position": 8.56281407035176
+    },
+    {
+      "query": "calgary police accident report online",
+      "clicks": 7,
+      "impressions": 360,
+      "ctr": 0.019444444444444445,
+      "position": 7.7555555555555555
+    },
+    {
+      "query": "car accident calgary",
+      "clicks": 7,
+      "impressions": 2245,
+      "ctr": 0.0031180400890868597,
+      "position": 7.60890868596882
+    },
+    {
+      "query": "accident lawyer calgary",
+      "clicks": 6,
+      "impressions": 2016,
+      "ctr": 0.002976190476190476,
+      "position": 12.124007936507937
     },
     {
       "query": "best injury lawyer calgary",
       "clicks": 6,
-      "impressions": 404,
-      "ctr": 0.01485148514851485,
-      "position": 4.883663366336634
+      "impressions": 406,
+      "ctr": 0.014778325123152709,
+      "position": 4.5763546798029555
     },
     {
-      "query": "calgary law firms",
+      "query": "how does no fault insurance work",
       "clicks": 6,
-      "impressions": 219,
-      "ctr": 0.0273972602739726,
-      "position": 9.67123287671233
+      "impressions": 290,
+      "ctr": 0.020689655172413793,
+      "position": 7.6931034482758625
+    },
+    {
+      "query": "steven grover",
+      "clicks": 6,
+      "impressions": 70,
+      "ctr": 0.08571428571428572,
+      "position": 8.442857142857143
+    },
+    {
+      "query": "alberta no fault auto insurance",
+      "clicks": 5,
+      "impressions": 299,
+      "ctr": 0.016722408026755852,
+      "position": 3.05685618729097
+    },
+    {
+      "query": "calgary personal injury lawyers",
+      "clicks": 5,
+      "impressions": 3177,
+      "ctr": 0.0015738117721120553,
+      "position": 9.000944287063268
     },
     {
       "query": "dog bite calgary",
-      "clicks": 6,
-      "impressions": 57,
-      "ctr": 0.10526315789473684,
-      "position": 2.0350877192982457
-    },
-    {
-      "query": "glover law firm",
-      "clicks": 6,
-      "impressions": 12,
-      "ctr": 0.5,
-      "position": 2.25
-    },
-    {
-      "query": "summer abbasi",
-      "clicks": 6,
-      "impressions": 46,
-      "ctr": 0.13043478260869565,
-      "position": 1
-    },
-    {
-      "query": "what to do after a car accident",
-      "clicks": 6,
-      "impressions": 228,
-      "ctr": 0.02631578947368421,
-      "position": 35.078947368421055
-    },
-    {
-      "query": "calgary police accident report online",
       "clicks": 5,
-      "impressions": 386,
-      "ctr": 0.012953367875647668,
-      "position": 7.5595854922279795
+      "impressions": 61,
+      "ctr": 0.08196721311475409,
+      "position": 2.0327868852459017
+    },
+    {
+      "query": "law firms in calgary",
+      "clicks": 5,
+      "impressions": 165,
+      "ctr": 0.030303030303030304,
+      "position": 3.4484848484848483
     },
     {
       "query": "personal injury lawyer",
       "clicks": 5,
-      "impressions": 8332,
-      "ctr": 0.000600096015362458,
-      "position": 17.51932309169467
+      "impressions": 8305,
+      "ctr": 0.0006020469596628537,
+      "position": 17.21204093919326
     },
     {
-      "query": "steven grover",
+      "query": "robin shea",
       "clicks": 5,
-      "impressions": 73,
-      "ctr": 0.0684931506849315,
-      "position": 6.1506849315068495
+      "impressions": 66,
+      "ctr": 0.07575757575757576,
+      "position": 8.803030303030303
     },
     {
-      "query": "alberta dog bite laws",
+      "query": "summer abbasi",
+      "clicks": 5,
+      "impressions": 54,
+      "ctr": 0.09259259259259259,
+      "position": 1
+    },
+    {
+      "query": "what to do after a car accident",
+      "clicks": 5,
+      "impressions": 228,
+      "ctr": 0.021929824561403508,
+      "position": 31.44736842105263
+    },
+    {
+      "query": "workplace injury lawyer calgary",
+      "clicks": 5,
+      "impressions": 201,
+      "ctr": 0.024875621890547265,
+      "position": 2.5920398009950247
+    },
+    {
+      "query": "accident injury lawyer calgary",
       "clicks": 4,
-      "impressions": 36,
-      "ctr": 0.1111111111111111,
-      "position": 3.9166666666666665
+      "impressions": 771,
+      "ctr": 0.005188067444876783,
+      "position": 7.141374837872893
     },
     {
       "query": "calgary injury lawyers",
       "clicks": 4,
-      "impressions": 1622,
-      "ctr": 0.002466091245376079,
-      "position": 15.41553637484587
+      "impressions": 1608,
+      "ctr": 0.0024875621890547263,
+      "position": 14.564054726368159
+    },
+    {
+      "query": "can someone sue you for a car accident if you have insurance",
+      "clicks": 4,
+      "impressions": 61,
+      "ctr": 0.06557377049180328,
+      "position": 4.1803278688524586
+    },
+    {
+      "query": "car accident injury lawyer calgary",
+      "clicks": 4,
+      "impressions": 897,
+      "ctr": 0.004459308807134894,
+      "position": 5.634336677814939
     },
     {
       "query": "dental malpractice lawyer calgary",
       "clicks": 4,
-      "impressions": 58,
-      "ctr": 0.06896551724137931,
-      "position": 5.896551724137931
+      "impressions": 56,
+      "ctr": 0.07142857142857142,
+      "position": 6.321428571428571
     },
     {
-      "query": "how long does it take to settle a car accident claim in alberta",
+      "query": "glover law firm",
       "clicks": 4,
+      "impressions": 12,
+      "ctr": 0.3333333333333333,
+      "position": 4.166666666666666
+    },
+    {
+      "query": "lawyers against wcb alberta",
+      "clicks": 4,
+      "impressions": 356,
+      "ctr": 0.011235955056179775,
+      "position": 42.806179775280896
+    },
+    {
+      "query": "steve grover lawyer",
+      "clicks": 4,
+      "impressions": 7,
+      "ctr": 0.5714285714285714,
+      "position": 1
+    },
+    {
+      "query": "what is no fault insurance in alberta",
+      "clicks": 4,
+      "impressions": 106,
+      "ctr": 0.03773584905660377,
+      "position": 1.8396226415094339
+    },
+    {
+      "query": "accident without insurance not at fault alberta",
+      "clicks": 3,
       "impressions": 140,
-      "ctr": 0.02857142857142857,
-      "position": 1.2214285714285715
+      "ctr": 0.02142857142857143,
+      "position": 7.285714285714286
     },
     {
-      "query": "injury lawyer",
-      "clicks": 4,
-      "impressions": 3641,
-      "ctr": 0.0010985992859104642,
-      "position": 20.371326558637737
-    },
-    {
-      "query": "law firms in calgary",
-      "clicks": 4,
-      "impressions": 134,
-      "ctr": 0.029850746268656716,
-      "position": 3.455223880597015
-    },
-    {
-      "query": "personal injury lawyer calgary free consultation",
-      "clicks": 4,
-      "impressions": 671,
-      "ctr": 0.005961251862891207,
-      "position": 10.48435171385991
-    },
-    {
-      "query": "personal injury settlement amounts examples canada",
-      "clicks": 4,
-      "impressions": 891,
-      "ctr": 0.004489337822671156,
-      "position": 14.63973063973064
-    },
-    {
-      "query": "robin shea",
-      "clicks": 4,
-      "impressions": 63,
-      "ctr": 0.06349206349206349,
-      "position": 8.555555555555555
-    },
-    {
-      "query": "workplace injury lawyer calgary",
-      "clicks": 4,
-      "impressions": 190,
-      "ctr": 0.021052631578947368,
-      "position": 2.3421052631578947
-    },
-    {
-      "query": "accident injury lawyer calgary",
+      "query": "alberta dog bite laws",
       "clicks": 3,
-      "impressions": 768,
-      "ctr": 0.00390625,
-      "position": 6.7265625
+      "impressions": 31,
+      "ctr": 0.0967741935483871,
+      "position": 4.483870967741936
     },
     {
-      "query": "alberta no fault auto insurance",
+      "query": "civil litigation lawyers calgary",
       "clicks": 3,
-      "impressions": 245,
-      "ctr": 0.012244897959183673,
-      "position": 2.2857142857142856
-    },
-    {
-      "query": "calgary personal injury lawyers",
-      "clicks": 3,
-      "impressions": 2884,
-      "ctr": 0.0010402219140083217,
-      "position": 10.470527045769764
-    },
-    {
-      "query": "can someone sue you for a car accident if you have insurance",
-      "clicks": 3,
-      "impressions": 55,
-      "ctr": 0.05454545454545454,
-      "position": 4.49090909090909
-    },
-    {
-      "query": "car accident injury lawyer calgary",
-      "clicks": 3,
-      "impressions": 952,
-      "ctr": 0.0031512605042016808,
-      "position": 5.275210084033613
+      "impressions": 217,
+      "ctr": 0.013824884792626729,
+      "position": 1.3732718894009217
     },
     {
       "query": "driving without a motorcycle license in alberta",
       "clicks": 3,
-      "impressions": 99,
-      "ctr": 0.030303030303030304,
-      "position": 5.96969696969697
+      "impressions": 109,
+      "ctr": 0.027522935779816515,
+      "position": 4.724770642201834
     },
     {
-      "query": "how does no fault insurance work",
+      "query": "groverlaw",
       "clicks": 3,
-      "impressions": 261,
-      "ctr": 0.011494252873563218,
-      "position": 8.007662835249043
+      "impressions": 39,
+      "ctr": 0.07692307692307693,
+      "position": 8.615384615384615
+    },
+    {
+      "query": "hit and run alberta",
+      "clicks": 3,
+      "impressions": 544,
+      "ctr": 0.0055147058823529415,
+      "position": 6.963235294117647
+    },
+    {
+      "query": "how does no fault insurance work in alberta",
+      "clicks": 3,
+      "impressions": 72,
+      "ctr": 0.041666666666666664,
+      "position": 1.5694444444444444
     },
     {
       "query": "law firm calgary",
       "clicks": 3,
-      "impressions": 179,
-      "ctr": 0.01675977653631285,
-      "position": 10.072625698324023
+      "impressions": 98,
+      "ctr": 0.030612244897959183,
+      "position": 9.622448979591837
     },
     {
-      "query": "lawyers against wcb alberta",
+      "query": "law firms near me",
       "clicks": 3,
-      "impressions": 308,
-      "ctr": 0.00974025974025974,
-      "position": 46.87987012987013
+      "impressions": 27,
+      "ctr": 0.1111111111111111,
+      "position": 10.88888888888889
     },
     {
       "query": "macey daniels",
       "clicks": 3,
-      "impressions": 38,
-      "ctr": 0.07894736842105263,
-      "position": 2.394736842105263
+      "impressions": 30,
+      "ctr": 0.1,
+      "position": 1.4333333333333333
     },
     {
-      "query": "medical malpractice lawyers alberta",
+      "query": "minor injury regulation alberta",
       "clicks": 3,
-      "impressions": 38,
-      "ctr": 0.07894736842105263,
-      "position": 8.368421052631579
+      "impressions": 254,
+      "ctr": 0.011811023622047244,
+      "position": 7.031496062992126
+    },
+    {
+      "query": "motorcycle license alberta",
+      "clicks": 3,
+      "impressions": 1570,
+      "ctr": 0.001910828025477707,
+      "position": 5.9159235668789805
+    },
+    {
+      "query": "no fault alberta",
+      "clicks": 3,
+      "impressions": 71,
+      "ctr": 0.04225352112676056,
+      "position": 5.746478873239437
+    },
+    {
+      "query": "no fault insurance in alberta",
+      "clicks": 3,
+      "impressions": 61,
+      "ctr": 0.04918032786885246,
+      "position": 3.540983606557377
+    },
+    {
+      "query": "personal injury lawyer calgary free consultation",
+      "clicks": 3,
+      "impressions": 652,
+      "ctr": 0.004601226993865031,
+      "position": 9.44478527607362
+    },
+    {
+      "query": "personal injury settlement amounts examples canada",
+      "clicks": 3,
+      "impressions": 895,
+      "ctr": 0.0033519553072625698,
+      "position": 14.686033519553073
+    },
+    {
+      "query": "sued for car accident with insurance",
+      "clicks": 3,
+      "impressions": 9,
+      "ctr": 0.3333333333333333,
+      "position": 34.55555555555556
+    },
+    {
+      "query": "wcb lawyers calgary",
+      "clicks": 3,
+      "impressions": 599,
+      "ctr": 0.005008347245409015,
+      "position": 17.879799666110184
+    },
+    {
+      "query": "what does no fault insurance mean",
+      "clicks": 3,
+      "impressions": 304,
+      "ctr": 0.009868421052631578,
+      "position": 8.657894736842106
+    },
+    {
+      "query": "what is no fault insurance",
+      "clicks": 3,
+      "impressions": 399,
+      "ctr": 0.007518796992481203,
+      "position": 6.764411027568922
+    },
+    {
+      "query": "yes",
+      "clicks": 3,
+      "impressions": 36,
+      "ctr": 0.08333333333333333,
+      "position": 4.25
+    },
+    {
+      "query": "5 causes of accident",
+      "clicks": 2,
+      "impressions": 267,
+      "ctr": 0.00749063670411985,
+      "position": 6.670411985018727
+    },
+    {
+      "query": "accident lawyer",
+      "clicks": 2,
+      "impressions": 806,
+      "ctr": 0.0024813895781637717,
+      "position": 26.71588089330025
+    },
+    {
+      "query": "after accident what to do",
+      "clicks": 2,
+      "impressions": 5,
+      "ctr": 0.4,
+      "position": 22.6
+    },
+    {
+      "query": "alberta car accident settlements",
+      "clicks": 2,
+      "impressions": 91,
+      "ctr": 0.02197802197802198,
+      "position": 7.725274725274725
+    },
+    {
+      "query": "alberta no fault",
+      "clicks": 2,
+      "impressions": 105,
+      "ctr": 0.01904761904761905,
+      "position": 4.485714285714286
+    },
+    {
+      "query": "alberta's new no-fault insurance may cut premiums for many vehicles",
+      "clicks": 2,
+      "impressions": 439,
+      "ctr": 0.004555808656036446,
+      "position": 4.558086560364465
+    },
+    {
+      "query": "being sued after car accident with insurance",
+      "clicks": 2,
+      "impressions": 5,
+      "ctr": 0.4,
+      "position": 13.6
+    },
+    {
+      "query": "best car accident lawyer calgary",
+      "clicks": 2,
+      "impressions": 99,
+      "ctr": 0.020202020202020204,
+      "position": 5.6767676767676765
+    },
+    {
+      "query": "calgary car accident lawyer",
+      "clicks": 2,
+      "impressions": 1324,
+      "ctr": 0.0015105740181268882,
+      "position": 14.931268882175226
+    },
+    {
+      "query": "calgary police car accident report",
+      "clicks": 2,
+      "impressions": 42,
+      "ctr": 0.047619047619047616,
+      "position": 6.619047619047619
+    },
+    {
+      "query": "car accident information exchange",
+      "clicks": 2,
+      "impressions": 3,
+      "ctr": 0.6666666666666666,
+      "position": 3.3333333333333335
+    },
+    {
+      "query": "car accident settlement payouts alberta 2025",
+      "clicks": 2,
+      "impressions": 13,
+      "ctr": 0.15384615384615385,
+      "position": 9.846153846153847
+    },
+    {
+      "query": "car crash lawyers",
+      "clicks": 2,
+      "impressions": 235,
+      "ctr": 0.00851063829787234,
+      "position": 35.297872340425535
+    },
+    {
+      "query": "cheap wills calgary",
+      "clicks": 2,
+      "impressions": 137,
+      "ctr": 0.014598540145985401,
+      "position": 6.7299270072992705
+    },
+    {
+      "query": "civil litigation lawyer calgary",
+      "clicks": 2,
+      "impressions": 72,
+      "ctr": 0.027777777777777776,
+      "position": 3.25
+    },
+    {
+      "query": "class 6 license alberta",
+      "clicks": 2,
+      "impressions": 881,
+      "ctr": 0.0022701475595913734,
+      "position": 2.2769580022701477
+    },
+    {
+      "query": "collision lawyer",
+      "clicks": 2,
+      "impressions": 311,
+      "ctr": 0.006430868167202572,
+      "position": 26.472668810289388
+    },
+    {
+      "query": "do i have to report an accident to my insurance",
+      "clicks": 2,
+      "impressions": 7,
+      "ctr": 0.2857142857142857,
+      "position": 8.428571428571429
+    },
+    {
+      "query": "do i have to report an accident to the police",
+      "clicks": 2,
+      "impressions": 19,
+      "ctr": 0.10526315789473684,
+      "position": 11.736842105263158
+    },
+    {
+      "query": "do i need to file a police report for a car accident",
+      "clicks": 2,
+      "impressions": 8,
+      "ctr": 0.25,
+      "position": 1
+    },
+    {
+      "query": "does alberta have no fault insurance",
+      "clicks": 2,
+      "impressions": 583,
+      "ctr": 0.003430531732418525,
+      "position": 4.1852487135506005
+    },
+    {
+      "query": "fatal accidents act limitation period",
+      "clicks": 2,
+      "impressions": 3,
+      "ctr": 0.6666666666666666,
+      "position": 1
+    },
+    {
+      "query": "getting sued for car accident with insurance",
+      "clicks": 2,
+      "impressions": 18,
+      "ctr": 0.1111111111111111,
+      "position": 26.666666666666668
+    },
+    {
+      "query": "grove law firm",
+      "clicks": 2,
+      "impressions": 10,
+      "ctr": 0.2,
+      "position": 6.9
+    },
+    {
+      "query": "grover law office",
+      "clicks": 2,
+      "impressions": 35,
+      "ctr": 0.05714285714285714,
+      "position": 10.457142857142857
+    },
+    {
+      "query": "how does no fault car insurance work",
+      "clicks": 2,
+      "impressions": 4,
+      "ctr": 0.5,
+      "position": 1.25
+    },
+    {
+      "query": "how long do you have to report an accident if not claiming",
+      "clicks": 2,
+      "impressions": 147,
+      "ctr": 0.013605442176870748,
+      "position": 3.891156462585034
+    },
+    {
+      "query": "how much does a will cost in calgary",
+      "clicks": 2,
+      "impressions": 168,
+      "ctr": 0.011904761904761904,
+      "position": 4.339285714285714
+    },
+    {
+      "query": "i am being sued for a car accident",
+      "clicks": 2,
+      "impressions": 59,
+      "ctr": 0.03389830508474576,
+      "position": 29
+    },
+    {
+      "query": "im being sued for a car accident",
+      "clicks": 2,
+      "impressions": 11,
+      "ctr": 0.18181818181818182,
+      "position": 11.636363636363637
+    },
+    {
+      "query": "injury lawyers",
+      "clicks": 2,
+      "impressions": 4140,
+      "ctr": 0.0004830917874396135,
+      "position": 11.77463768115942
+    },
+    {
+      "query": "injury lawyers calgary",
+      "clicks": 2,
+      "impressions": 1418,
+      "ctr": 0.0014104372355430183,
+      "position": 14.227080394922426
+    },
+    {
+      "query": "law firm",
+      "clicks": 2,
+      "impressions": 54,
+      "ctr": 0.037037037037037035,
+      "position": 6.7592592592592595
+    },
+    {
+      "query": "law firm near me",
+      "clicks": 2,
+      "impressions": 98,
+      "ctr": 0.02040816326530612,
+      "position": 31.163265306122447
+    },
+    {
+      "query": "lawyer against insurance company",
+      "clicks": 2,
+      "impressions": 10,
+      "ctr": 0.2,
+      "position": 1.9
+    },
+    {
+      "query": "lawyer to deal with insurance company",
+      "clicks": 2,
+      "impressions": 8,
+      "ctr": 0.25,
+      "position": 6.125
+    },
+    {
+      "query": "lawyers yellowknife",
+      "clicks": 2,
+      "impressions": 98,
+      "ctr": 0.02040816326530612,
+      "position": 10.714285714285714
+    },
+    {
+      "query": "lethbridge law firms",
+      "clicks": 2,
+      "impressions": 31,
+      "ctr": 0.06451612903225806,
+      "position": 12.225806451612904
+    },
+    {
+      "query": "minor injury regulation",
+      "clicks": 2,
+      "impressions": 150,
+      "ctr": 0.013333333333333334,
+      "position": 6.08
+    },
+    {
+      "query": "motorcycle learners license alberta",
+      "clicks": 2,
+      "impressions": 80,
+      "ctr": 0.025,
+      "position": 3.35
+    },
+    {
+      "query": "personal injury law firms calgary",
+      "clicks": 2,
+      "impressions": 176,
+      "ctr": 0.011363636363636364,
+      "position": 1.2272727272727273
+    },
+    {
+      "query": "personal injury lawyer alberta",
+      "clicks": 2,
+      "impressions": 832,
+      "ctr": 0.002403846153846154,
+      "position": 10.31610576923077
+    },
+    {
+      "query": "personal injury lawyer calgary alberta",
+      "clicks": 2,
+      "impressions": 32,
+      "ctr": 0.0625,
+      "position": 3.21875
+    },
+    {
+      "query": "personal injury lawyer in alberta",
+      "clicks": 2,
+      "impressions": 228,
+      "ctr": 0.008771929824561403,
+      "position": 7.5701754385964914
+    },
+    {
+      "query": "personal injury lawyer in calgary",
+      "clicks": 2,
+      "impressions": 850,
+      "ctr": 0.002352941176470588,
+      "position": 5.334117647058823
+    },
+    {
+      "query": "personal injury lawyers",
+      "clicks": 2,
+      "impressions": 2707,
+      "ctr": 0.0007388252678241596,
+      "position": 17.391946804580716
+    },
+    {
+      "query": "police report car accident",
+      "clicks": 2,
+      "impressions": 79,
+      "ctr": 0.02531645569620253,
+      "position": 11.341772151898734
+    },
+    {
+      "query": "police report for car accident",
+      "clicks": 2,
+      "impressions": 32,
+      "ctr": 0.0625,
+      "position": 8.3125
+    },
+    {
+      "query": "report my collision",
+      "clicks": 2,
+      "impressions": 150,
+      "ctr": 0.013333333333333334,
+      "position": 7.14
+    },
+    {
+      "query": "sofia de guzman",
+      "clicks": 2,
+      "impressions": 59,
+      "ctr": 0.03389830508474576,
+      "position": 3.5084745762711864
+    },
+    {
+      "query": "statute of limitations alberta",
+      "clicks": 2,
+      "impressions": 882,
+      "ctr": 0.0022675736961451248,
+      "position": 3.81859410430839
+    },
+    {
+      "query": "structured settlement meaning",
+      "clicks": 2,
+      "impressions": 98,
+      "ctr": 0.02040816326530612,
+      "position": 6.73469387755102
+    },
+    {
+      "query": "summer abbasi edmonton",
+      "clicks": 2,
+      "impressions": 90,
+      "ctr": 0.022222222222222223,
+      "position": 5.633333333333334
+    },
+    {
+      "query": "wcb injury lawyer",
+      "clicks": 2,
+      "impressions": 137,
+      "ctr": 0.014598540145985401,
+      "position": 35.74452554744526
+    },
+    {
+      "query": "wcb lawyer",
+      "clicks": 2,
+      "impressions": 17,
+      "ctr": 0.11764705882352941,
+      "position": 13.647058823529411
+    },
+    {
+      "query": "what happens if someone slips on your sidewalk",
+      "clicks": 2,
+      "impressions": 11,
+      "ctr": 0.18181818181818182,
+      "position": 1.6363636363636362
+    },
+    {
+      "query": "what happens when someone sues you for a car accident",
+      "clicks": 2,
+      "impressions": 42,
+      "ctr": 0.047619047619047616,
+      "position": 10.261904761904763
+    },
+    {
+      "query": "what to do if you hit a deer in alberta",
+      "clicks": 2,
+      "impressions": 48,
+      "ctr": 0.041666666666666664,
+      "position": 1.9166666666666665
+    },
+    {
+      "query": "what to do in an accident",
+      "clicks": 2,
+      "impressions": 44,
+      "ctr": 0.045454545454545456,
+      "position": 18.613636363636363
+    },
+    {
+      "query": "when do you have to file a police report for an accident",
+      "clicks": 2,
+      "impressions": 9,
+      "ctr": 0.2222222222222222,
+      "position": 2
+    },
+    {
+      "query": "will and estate lawyers calgary",
+      "clicks": 2,
+      "impressions": 43,
+      "ctr": 0.046511627906976744,
+      "position": 58
+    },
+    {
+      "query": "wills and estate lawyers calgary",
+      "clicks": 2,
+      "impressions": 28,
+      "ctr": 0.07142857142857142,
+      "position": 45.75
+    },
+    {
+      "query": "wills calgary",
+      "clicks": 2,
+      "impressions": 172,
+      "ctr": 0.011627906976744186,
+      "position": 11.918604651162791
+    },
+    {
+      "query": "work injury lawyer calgary",
+      "clicks": 2,
+      "impressions": 378,
+      "ctr": 0.005291005291005291,
+      "position": 5.404761904761905
+    },
+    {
+      "query": "a-form",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 11
+    },
+    {
+      "query": "accident injury lawyer",
+      "clicks": 1,
+      "impressions": 364,
+      "ctr": 0.0027472527472527475,
+      "position": 20.70054945054945
+    },
+    {
+      "query": "accident law firm",
+      "clicks": 1,
+      "impressions": 50,
+      "ctr": 0.02,
+      "position": 17.84
+    },
+    {
+      "query": "accident lawyer alberta",
+      "clicks": 1,
+      "impressions": 338,
+      "ctr": 0.0029585798816568047,
+      "position": 10.505917159763314
+    },
+    {
+      "query": "accident lawyers",
+      "clicks": 1,
+      "impressions": 242,
+      "ctr": 0.004132231404958678,
+      "position": 37.82644628099174
+    },
+    {
+      "query": "accident lawyers calgary",
+      "clicks": 1,
+      "impressions": 765,
+      "ctr": 0.00130718954248366,
+      "position": 9.605228758169934
+    },
+    {
+      "query": "accident report police",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 5.333333333333333
+    },
+    {
+      "query": "accident report police station",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 7
+    },
+    {
+      "query": "after a car accident should i go to the hospital",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "after an accident how long do i have to report it",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2.5
+    },
+    {
+      "query": "alberta injury cap",
+      "clicks": 1,
+      "impressions": 67,
+      "ctr": 0.014925373134328358,
+      "position": 8.805970149253731
+    },
+    {
+      "query": "alberta injury lawyers",
+      "clicks": 1,
+      "impressions": 529,
+      "ctr": 0.001890359168241966,
+      "position": 11.168241965973534
+    },
+    {
+      "query": "alberta insurance no fault",
+      "clicks": 1,
+      "impressions": 44,
+      "ctr": 0.022727272727272728,
+      "position": 3.659090909090909
+    },
+    {
+      "query": "alberta medical malpractice lawyer",
+      "clicks": 1,
+      "impressions": 53,
+      "ctr": 0.018867924528301886,
+      "position": 25.11320754716981
+    },
+    {
+      "query": "alberta minor injury cap",
+      "clicks": 1,
+      "impressions": 43,
+      "ctr": 0.023255813953488372,
+      "position": 7.674418604651163
+    },
+    {
+      "query": "alberta motorcycle license",
+      "clicks": 1,
+      "impressions": 315,
+      "ctr": 0.0031746031746031746,
+      "position": 12.06031746031746
+    },
+    {
+      "query": "alberta new insurance rules",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 6.2
+    },
+    {
+      "query": "alberta personal injury lawyers",
+      "clicks": 1,
+      "impressions": 536,
+      "ctr": 0.0018656716417910447,
+      "position": 15.902985074626866
+    },
+    {
+      "query": "am i liable if someone falls on my sidewalk",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 1.6666666666666665
+    },
+    {
+      "query": "are body shops required to report damage",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 9
+    },
+    {
+      "query": "assault lawyer yellowknife",
+      "clicks": 1,
+      "impressions": 89,
+      "ctr": 0.011235955056179775,
+      "position": 14.044943820224718
+    },
+    {
+      "query": "assault lawyers calgary",
+      "clicks": 1,
+      "impressions": 172,
+      "ctr": 0.005813953488372093,
+      "position": 8.13953488372093
+    },
+    {
+      "query": "auto accident lawyer alberta",
+      "clicks": 1,
+      "impressions": 333,
+      "ctr": 0.003003003003003003,
+      "position": 12.657657657657658
+    },
+    {
+      "query": "average rear end accident settlement",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 7
+    },
+    {
+      "query": "average settlement for car accident canada",
+      "clicks": 1,
+      "impressions": 92,
+      "ctr": 0.010869565217391304,
+      "position": 21.304347826086957
+    },
+    {
+      "query": "bad faith claim against insurance company",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 9.2
+    },
+    {
+      "query": "being sued after car accident",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 15.333333333333334
+    },
+    {
+      "query": "being sued by insurance company for car accident",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 52
+    },
+    {
+      "query": "best car accident lawyer",
+      "clicks": 1,
+      "impressions": 69,
+      "ctr": 0.014492753623188406,
+      "position": 23.782608695652176
+    },
+    {
+      "query": "best civil litigation lawyer in calgary",
+      "clicks": 1,
+      "impressions": 49,
+      "ctr": 0.02040816326530612,
+      "position": 1.7755102040816326
+    },
+    {
+      "query": "best injury lawyer alberta",
+      "clicks": 1,
+      "impressions": 29,
+      "ctr": 0.034482758620689655,
+      "position": 15.689655172413794
+    },
+    {
+      "query": "best injury lawyer in calgary",
+      "clicks": 1,
+      "impressions": 178,
+      "ctr": 0.0056179775280898875,
+      "position": 2.5
+    },
+    {
+      "query": "best medical malpractice lawyers in calgary",
+      "clicks": 1,
+      "impressions": 89,
+      "ctr": 0.011235955056179775,
+      "position": 6.550561797752809
+    },
+    {
+      "query": "best wills and estate lawyers calgary",
+      "clicks": 1,
+      "impressions": 57,
+      "ctr": 0.017543859649122806,
+      "position": 42.96491228070175
+    },
+    {
+      "query": "big law firms in calgary",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 3.4210526315789473
+    },
+    {
+      "query": "blue collar consulting",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 4.666666666666666
+    },
+    {
+      "query": "brittany kraft",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "calgary accident lawyers",
+      "clicks": 1,
+      "impressions": 117,
+      "ctr": 0.008547008547008548,
+      "position": 7.547008547008547
+    },
+    {
+      "query": "calgary car accident",
+      "clicks": 1,
+      "impressions": 1416,
+      "ctr": 0.0007062146892655367,
+      "position": 7.380649717514125
+    },
+    {
+      "query": "calgary car accidents",
+      "clicks": 1,
+      "impressions": 45,
+      "ctr": 0.022222222222222223,
+      "position": 8.222222222222221
+    },
+    {
+      "query": "calgary civil litigation lawyers",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 1.875
+    },
+    {
+      "query": "calgary collision report",
+      "clicks": 1,
+      "impressions": 152,
+      "ctr": 0.006578947368421052,
+      "position": 7.546052631578948
+    },
+    {
+      "query": "calgary dog attack",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 4.75
+    },
+    {
+      "query": "calgary dog attack lawyer",
+      "clicks": 1,
+      "impressions": 69,
+      "ctr": 0.014492753623188406,
+      "position": 3.9855072463768115
+    },
+    {
+      "query": "calgary lawyer",
+      "clicks": 1,
+      "impressions": 553,
+      "ctr": 0.0018083182640144665,
+      "position": 15.405063291139241
+    },
+    {
+      "query": "calgary lawyers",
+      "clicks": 1,
+      "impressions": 112,
+      "ctr": 0.008928571428571428,
+      "position": 5.75
+    },
+    {
+      "query": "calgary lawyers for wills",
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 15.65
+    },
+    {
+      "query": "calgary personal injury lawyer",
+      "clicks": 1,
+      "impressions": 1970,
+      "ctr": 0.0005076142131979696,
+      "position": 9.710659898477157
+    },
+    {
+      "query": "calgary police collision report",
+      "clicks": 1,
+      "impressions": 164,
+      "ctr": 0.006097560975609756,
+      "position": 7.548780487804878
+    },
+    {
+      "query": "calgary police report accident",
+      "clicks": 1,
+      "impressions": 74,
+      "ctr": 0.013513513513513514,
+      "position": 7.3108108108108105
+    },
+    {
+      "query": "calgary sexual assault lawyer",
+      "clicks": 1,
+      "impressions": 166,
+      "ctr": 0.006024096385542169,
+      "position": 8.813253012048193
+    },
+    {
+      "query": "calgary will lawyer",
+      "clicks": 1,
+      "impressions": 61,
+      "ctr": 0.01639344262295082,
+      "position": 25.704918032786885
+    },
+    {
+      "query": "calgary will lawyers",
+      "clicks": 1,
+      "impressions": 63,
+      "ctr": 0.015873015873015872,
+      "position": 39.333333333333336
+    },
+    {
+      "query": "calgary wills",
+      "clicks": 1,
+      "impressions": 34,
+      "ctr": 0.029411764705882353,
+      "position": 17.647058823529413
+    },
+    {
+      "query": "can i drive a bike with learning license",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 8
+    },
+    {
+      "query": "can i get sued after a car accident",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "can i get sued for a car accident",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 5.5
+    },
+    {
+      "query": "can i report an accident at any police station",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 3.6666666666666665
+    },
+    {
+      "query": "can i sue insurance company for delaying claim",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "can i sue insurance company for denying claim",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "can i sue my employer for unsafe working conditions",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 2.833333333333333
+    },
+    {
+      "query": "can i sue my workplace for an injury",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "can someone sue me for car accident",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "can someone sue you for a car accident",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 4.333333333333334
+    },
+    {
+      "query": "can someone sue you if they fall on your sidewalk",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 1.25
+    },
+    {
+      "query": "can you drive a motorcycle if your license bears dl code b",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "can you go to jail for your dog biting someone",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "can you sue someone for a hit and run",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 2.166666666666667
+    },
+    {
+      "query": "can you sue someone for a hit and run on your car",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
     }
   ],
   "topPages": [
     {
       "page": "https://www.groverlawfirm.com/",
-      "clicks": 1382,
-      "impressions": 275400,
-      "ctr": 0.005018155410312273,
-      "position": 13.406038489469863
+      "clicks": 1475,
+      "impressions": 289243,
+      "ctr": 0.00509951839802519,
+      "position": 12.919275488084413
     },
     {
       "page": "https://www.groverlawfirm.com/blog/all-you-need-to-do-after-a-car-accident-in-calgary-alberta/",
-      "clicks": 378,
-      "impressions": 38226,
-      "ctr": 0.009888557526291007,
-      "position": 11.415737979385758
-    },
-    {
-      "page": "https://www.groverlawfirm.com/blog/what-to-do-if-someone-sues-you-for-a-car-accident-in-alberta/",
-      "clicks": 223,
-      "impressions": 10218,
-      "ctr": 0.02182423174789587,
-      "position": 10.292620865139948
+      "clicks": 387,
+      "impressions": 37811,
+      "ctr": 0.010235116764962577,
+      "position": 11.208907460791833
     },
     {
       "page": "https://www.groverlawfirm.com/blog/understanding-albertas-no-fault-insurance-system/",
-      "clicks": 182,
-      "impressions": 22383,
-      "ctr": 0.008131170977974356,
-      "position": 6.872671223696555
+      "clicks": 274,
+      "impressions": 26795,
+      "ctr": 0.01022578839335697,
+      "position": 6.413547303601418
     },
     {
-      "page": "https://www.groverlawfirm.com/blog/how-albertas-statute-of-limitations-for-car-accidents-affects-you/",
-      "clicks": 132,
-      "impressions": 12183,
-      "ctr": 0.010834769761142575,
-      "position": 6.590002462447673
-    },
-    {
-      "page": "https://www.groverlawfirm.com/team/steve-grover/",
-      "clicks": 117,
-      "impressions": 6492,
-      "ctr": 0.018022181146025877,
-      "position": 4.616296980899569
+      "page": "https://www.groverlawfirm.com/blog/what-to-do-if-someone-sues-you-for-a-car-accident-in-alberta/",
+      "clicks": 257,
+      "impressions": 10515,
+      "ctr": 0.024441274369947693,
+      "position": 9.780123632905374
     },
     {
       "page": "https://www.groverlawfirm.com/blog/your-rights-after-a-deer-collision-in-alberta/",
-      "clicks": 116,
-      "impressions": 8502,
-      "ctr": 0.013643848506233828,
-      "position": 4.714890613973183
+      "clicks": 149,
+      "impressions": 10373,
+      "ctr": 0.014364214788392943,
+      "position": 4.477200424178155
     },
     {
-      "page": "https://www.groverlawfirm.com/blog/dog-bite-laws-in-calgary-what-are-your-rights-as-a-victim/",
-      "clicks": 109,
-      "impressions": 8345,
-      "ctr": 0.013061713600958659,
-      "position": 8.214619532654284
+      "page": "https://www.groverlawfirm.com/blog/how-albertas-statute-of-limitations-for-car-accidents-affects-you/",
+      "clicks": 133,
+      "impressions": 12991,
+      "ctr": 0.010237856977907783,
+      "position": 6.487106458317297
     },
     {
-      "page": "https://www.groverlawfirm.com/about-our-firm/",
-      "clicks": 102,
-      "impressions": 16116,
-      "ctr": 0.006329113924050633,
-      "position": 8.062050136510301
-    },
-    {
-      "page": "https://www.groverlawfirm.com/blog/understanding-premises-liability-in-alberta-slip-and-fall-cases/",
-      "clicks": 97,
-      "impressions": 7432,
-      "ctr": 0.013051668460710441,
-      "position": 7.86275565123789
-    },
-    {
-      "page": "https://www.groverlawfirm.com/blog/navigating-insurance-bad-faith-claims-in-alberta/",
-      "clicks": 95,
-      "impressions": 8155,
-      "ctr": 0.011649294911097487,
-      "position": 7.161863887185776
-    },
-    {
-      "page": "https://www.groverlawfirm.com/case-results/",
-      "clicks": 92,
-      "impressions": 11471,
-      "ctr": 0.008020224915003052,
-      "position": 13.13128759480429
-    },
-    {
-      "page": "https://www.groverlawfirm.com/blog/how-to-prove-fault-in-a-calgary-car-accident-case/",
-      "clicks": 89,
-      "impressions": 15204,
-      "ctr": 0.005853722704551434,
-      "position": 9.439950013154434
+      "page": "https://www.groverlawfirm.com/team/steve-grover/",
+      "clicks": 125,
+      "impressions": 6808,
+      "ctr": 0.01836075205640423,
+      "position": 4.32035840188014
     },
     {
       "page": "https://www.groverlawfirm.com/blog/recent-new-rules-regarding-motorcycle-licenses-in-alberta/",
-      "clicks": 82,
-      "impressions": 21671,
-      "ctr": 0.003783858612892806,
-      "position": 7.301739652069586
+      "clicks": 118,
+      "impressions": 26700,
+      "ctr": 0.004419475655430711,
+      "position": 6.414719101123596
+    },
+    {
+      "page": "https://www.groverlawfirm.com/about-our-firm/",
+      "clicks": 107,
+      "impressions": 6339,
+      "ctr": 0.016879634011673767,
+      "position": 7.943524215175895
+    },
+    {
+      "page": "https://www.groverlawfirm.com/blog/dog-bite-laws-in-calgary-what-are-your-rights-as-a-victim/",
+      "clicks": 99,
+      "impressions": 8011,
+      "ctr": 0.012358007739358383,
+      "position": 7.936462364249158
+    },
+    {
+      "page": "https://www.groverlawfirm.com/blog/navigating-insurance-bad-faith-claims-in-alberta/",
+      "clicks": 97,
+      "impressions": 9441,
+      "ctr": 0.01027433534583201,
+      "position": 7.0275394555661475
+    },
+    {
+      "page": "https://www.groverlawfirm.com/blog/understanding-premises-liability-in-alberta-slip-and-fall-cases/",
+      "clicks": 90,
+      "impressions": 7611,
+      "ctr": 0.011824990145841546,
+      "position": 7.295887531204835
+    },
+    {
+      "page": "https://www.groverlawfirm.com/case-results/",
+      "clicks": 90,
+      "impressions": 8628,
+      "ctr": 0.01043115438108484,
+      "position": 14.601182197496524
+    },
+    {
+      "page": "https://www.groverlawfirm.com/blog/how-to-prove-fault-in-a-calgary-car-accident-case/",
+      "clicks": 88,
+      "impressions": 15999,
+      "ctr": 0.005500343771485718,
+      "position": 9.337896118507407
+    },
+    {
+      "page": "https://www.groverlawfirm.com/blog/can-you-sue-after-a-hit-and-run/",
+      "clicks": 64,
+      "impressions": 7870,
+      "ctr": 0.008132147395171537,
+      "position": 6.898348157560355
     },
     {
       "page": "https://www.groverlawfirm.com/wills-and-estates/",
       "clicks": 64,
-      "impressions": 8450,
-      "ctr": 0.00757396449704142,
-      "position": 23.812899408284025
-    },
-    {
-      "page": "https://www.groverlawfirm.com/careers/",
-      "clicks": 63,
-      "impressions": 1516,
-      "ctr": 0.04155672823218998,
-      "position": 10.490765171503957
-    },
-    {
-      "page": "https://www.groverlawfirm.com/blog/understanding-the-statute-of-limitations-for-car-accident-cases/",
-      "clicks": 61,
-      "impressions": 9957,
-      "ctr": 0.006126343276087175,
-      "position": 5.876468815908406
-    },
-    {
-      "page": "https://www.groverlawfirm.com/blog/can-you-sue-after-a-hit-and-run/",
-      "clicks": 55,
-      "impressions": 7597,
-      "ctr": 0.007239699881532184,
-      "position": 7.192181124127945
-    },
-    {
-      "page": "https://www.groverlawfirm.com/blog/steps-to-take-immediately-after-a-car-accident-in-alberta/",
-      "clicks": 54,
-      "impressions": 12446,
-      "ctr": 0.004338743371364293,
-      "position": 10.670737586373132
-    },
-    {
-      "page": "https://www.groverlawfirm.com/service/assault-abuse-claims/",
-      "clicks": 53,
-      "impressions": 5791,
-      "ctr": 0.00915213261958211,
-      "position": 22.86030046624072
-    },
-    {
-      "page": "https://www.groverlawfirm.com/team/kemi-daniel-ojo/",
-      "clicks": 52,
-      "impressions": 1036,
-      "ctr": 0.05019305019305019,
-      "position": 10.712355212355213
-    },
-    {
-      "page": "https://www.groverlawfirm.com/contact/",
-      "clicks": 51,
-      "impressions": 10082,
-      "ctr": 0.00505852013489387,
-      "position": 7.7441975798452685
+      "impressions": 6853,
+      "ctr": 0.009338975631110462,
+      "position": 25.61199474682621
     },
     {
       "page": "https://www.groverlawfirm.com/blog/can-i-sue-my-employer-for-a-workplace-injury-in-calgary/",
-      "clicks": 49,
-      "impressions": 11648,
-      "ctr": 0.004206730769230769,
-      "position": 22.56773695054945
+      "clicks": 62,
+      "impressions": 12611,
+      "ctr": 0.004916342875267624,
+      "position": 20.975576877329317
+    },
+    {
+      "page": "https://www.groverlawfirm.com/blog/understanding-the-statute-of-limitations-for-car-accident-cases/",
+      "clicks": 62,
+      "impressions": 9740,
+      "ctr": 0.006365503080082135,
+      "position": 5.574127310061602
+    },
+    {
+      "page": "https://www.groverlawfirm.com/service/assault-abuse-claims/",
+      "clicks": 61,
+      "impressions": 6469,
+      "ctr": 0.009429587262328025,
+      "position": 19.466841861184108
+    },
+    {
+      "page": "https://www.groverlawfirm.com/blog/steps-to-take-immediately-after-a-car-accident-in-alberta/",
+      "clicks": 50,
+      "impressions": 11646,
+      "ctr": 0.00429331959471063,
+      "position": 11.2655847501288
     },
     {
       "page": "https://www.groverlawfirm.com/blog/slip-and-fall-accidents-calgarys-public-spaces-municipal-liability/",
       "clicks": 48,
-      "impressions": 2809,
-      "ctr": 0.017087931648273408,
-      "position": 8.024207903168389
+      "impressions": 2715,
+      "ctr": 0.017679558011049725,
+      "position": 7.67182320441989
+    },
+    {
+      "page": "https://www.groverlawfirm.com/team/kemi-daniel-ojo/",
+      "clicks": 48,
+      "impressions": 967,
+      "ctr": 0.04963805584281282,
+      "position": 10.324715615305067
+    },
+    {
+      "page": "https://www.groverlawfirm.com/careers/",
+      "clicks": 47,
+      "impressions": 1263,
+      "ctr": 0.03721298495645289,
+      "position": 10.365795724465558
+    },
+    {
+      "page": "https://www.groverlawfirm.com/contact/",
+      "clicks": 46,
+      "impressions": 5586,
+      "ctr": 0.008234872896527032,
+      "position": 7.048514142499105
     },
     {
       "page": "https://www.groverlawfirm.com/team/housam-jeha/",
-      "clicks": 38,
-      "impressions": 1518,
-      "ctr": 0.025032938076416336,
-      "position": 8.342555994729908
-    },
-    {
-      "page": "https://www.groverlawfirm.com/team/nikita-sharma/",
-      "clicks": 33,
-      "impressions": 742,
-      "ctr": 0.0444743935309973,
-      "position": 8.450134770889488
-    },
-    {
-      "page": "https://www.groverlawfirm.com/blog/car-accident-claims-in-calgary-what-victims-should-know/",
-      "clicks": 29,
-      "impressions": 7360,
-      "ctr": 0.003940217391304348,
-      "position": 16.479891304347824
-    },
-    {
-      "page": "https://www.groverlawfirm.com/blog/how-long-does-it-take-to-settle-a-personal-injury-claim-in-alberta/",
-      "clicks": 28,
-      "impressions": 3439,
-      "ctr": 0.008141901715615005,
-      "position": 10.877580692061645
-    },
-    {
-      "page": "https://www.groverlawfirm.com/blog/distracted-driving-cases-how-to-use-phone-records-as-evidence/",
-      "clicks": 26,
-      "impressions": 3128,
-      "ctr": 0.008312020460358057,
-      "position": 4.463874680306905
+      "clicks": 42,
+      "impressions": 1290,
+      "ctr": 0.03255813953488372,
+      "position": 8.094573643410854
     },
     {
       "page": "https://www.groverlawfirm.com/blog/how-long-does-it-take-to-settle-a-car-accident-claim/",
-      "clicks": 25,
-      "impressions": 5605,
-      "ctr": 0.0044603033006244425,
-      "position": 7.315611061552185
+      "clicks": 38,
+      "impressions": 6164,
+      "ctr": 0.006164828033744322,
+      "position": 7.29639844256976
     },
     {
-      "page": "https://www.groverlawfirm.com/personal-injury-lawyer-in-yellowknife-nt/",
-      "clicks": 24,
-      "impressions": 2484,
-      "ctr": 0.00966183574879227,
-      "position": 13.743961352657005
+      "page": "https://www.groverlawfirm.com/blog/distracted-driving-cases-how-to-use-phone-records-as-evidence/",
+      "clicks": 34,
+      "impressions": 4236,
+      "ctr": 0.008026440037771483,
+      "position": 4.381019830028329
+    },
+    {
+      "page": "https://www.groverlawfirm.com/blog/how-long-does-it-take-to-settle-a-personal-injury-claim-in-alberta/",
+      "clicks": 32,
+      "impressions": 3560,
+      "ctr": 0.008988764044943821,
+      "position": 11.101685393258427
     },
     {
       "page": "https://www.groverlawfirm.com/blog/structured-settlements-vs-lump-sums-in-alberta/",
-      "clicks": 23,
-      "impressions": 5263,
-      "ctr": 0.004370131103933118,
-      "position": 7.158654759642789
+      "clicks": 32,
+      "impressions": 6469,
+      "ctr": 0.004946668727778636,
+      "position": 6.93028288761787
     },
     {
-      "page": "https://www.groverlawfirm.com/blog/what-to-do-if-you-get-into-an-accident-during-your-canadian-holiday/",
+      "page": "https://www.groverlawfirm.com/personal-injury-lawyer-in-yellowknife-nt/",
+      "clicks": 30,
+      "impressions": 2749,
+      "ctr": 0.010913059294288832,
+      "position": 14.830120043652236
+    },
+    {
+      "page": "https://www.groverlawfirm.com/blog/car-accident-claims-in-calgary-what-victims-should-know/",
+      "clicks": 28,
+      "impressions": 7294,
+      "ctr": 0.003838771593090211,
+      "position": 15.725939128050452
+    },
+    {
+      "page": "https://www.groverlawfirm.com/blog/motorcycle-laws-and-regulations-in-alberta/",
+      "clicks": 27,
+      "impressions": 4680,
+      "ctr": 0.0057692307692307696,
+      "position": 8.30982905982906
+    },
+    {
+      "page": "https://www.groverlawfirm.com/team/kirnpreet-singh/",
+      "clicks": 24,
+      "impressions": 196,
+      "ctr": 0.12244897959183673,
+      "position": 13.26530612244898
+    },
+    {
+      "page": "https://www.groverlawfirm.com/team/nikita-sharma/",
+      "clicks": 24,
+      "impressions": 676,
+      "ctr": 0.03550295857988166,
+      "position": 8.04733727810651
+    },
+    {
+      "page": "https://www.groverlawfirm.com/blog/understanding-pain-and-suffering-damages-in-alberta/",
       "clicks": 22,
-      "impressions": 6853,
-      "ctr": 0.0032102728731942215,
-      "position": 7.18225594630089
+      "impressions": 4882,
+      "ctr": 0.004506349856616141,
+      "position": 7.578041786153216
     },
     {
       "page": "https://www.groverlawfirm.com/personal-injury-lawyer-in-edmonton-ab/",
       "clicks": 22,
-      "impressions": 34408,
-      "ctr": 0.0006393861892583121,
-      "position": 18.665194140897466
+      "impressions": 26653,
+      "ctr": 0.0008254230293025176,
+      "position": 21.8421941244888
     },
     {
-      "page": "https://www.groverlawfirm.com/team/kirnpreet-singh/",
-      "clicks": 22,
-      "impressions": 194,
-      "ctr": 0.1134020618556701,
-      "position": 13.216494845360824
+      "page": "https://www.groverlawfirm.com/blog/understanding-contributory-negligence-in-personal-injury-cases/",
+      "clicks": 21,
+      "impressions": 3043,
+      "ctr": 0.0069010844561288205,
+      "position": 6.7788366743345385
+    },
+    {
+      "page": "https://www.groverlawfirm.com/blog/minor-injury-regulation-cap-updates/",
+      "clicks": 20,
+      "impressions": 6886,
+      "ctr": 0.002904443799012489,
+      "position": 8.147110078419981
+    },
+    {
+      "page": "https://www.groverlawfirm.com/service/correctional-facility-abuse/",
+      "clicks": 20,
+      "impressions": 906,
+      "ctr": 0.02207505518763797,
+      "position": 5.937086092715232
     },
     {
       "page": "https://www.groverlawfirm.com/service/trucking-accidents/",
-      "clicks": 20,
-      "impressions": 17348,
-      "ctr": 0.001152870647913304,
-      "position": 23.13217661978326
+      "clicks": 19,
+      "impressions": 11630,
+      "ctr": 0.0016337059329320721,
+      "position": 24.844539982803095
     },
     {
-      "page": "https://www.groverlawfirm.com/blog/motorcycle-laws-and-regulations-in-alberta/",
-      "clicks": 19,
-      "impressions": 3686,
-      "ctr": 0.005154639175257732,
-      "position": 10.257460661964188
+      "page": "https://www.groverlawfirm.com/blog/car-accidents-caused-by-medical-conditions/",
+      "clicks": 18,
+      "impressions": 2358,
+      "ctr": 0.007633587786259542,
+      "position": 6.02078032230704
     },
     {
       "page": "https://www.groverlawfirm.com/service/dog-bites/",
-      "clicks": 19,
-      "impressions": 14590,
-      "ctr": 0.0013022618231665524,
-      "position": 10.130089102124742
+      "clicks": 18,
+      "impressions": 5766,
+      "ctr": 0.003121748178980229,
+      "position": 12.700312174817897
     },
     {
       "page": "https://www.groverlawfirm.com/about-us/",
-      "clicks": 18,
-      "impressions": 10372,
-      "ctr": 0.0017354415734670266,
-      "position": 4.675376012340918
+      "clicks": 17,
+      "impressions": 5646,
+      "ctr": 0.0030109812256464753,
+      "position": 3.537194473963868
     },
     {
-      "page": "https://www.groverlawfirm.com/blog/understanding-pain-and-suffering-damages-in-alberta/",
+      "page": "https://www.groverlawfirm.com/blog/what-to-do-if-you-get-into-an-accident-during-your-canadian-holiday/",
       "clicks": 17,
-      "impressions": 4259,
-      "ctr": 0.0039915473115754874,
-      "position": 8.210143226109416
+      "impressions": 5036,
+      "ctr": 0.003375694996028594,
+      "position": 9.026211278792692
+    },
+    {
+      "page": "https://www.groverlawfirm.com/contact/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=Appointment_GMB",
+      "clicks": 17,
+      "impressions": 2146,
+      "ctr": 0.007921714818266543,
+      "position": 4.4753028890959925
     },
     {
       "page": "https://www.groverlawfirm.com/team/sasha-herchak/",
       "clicks": 17,
-      "impressions": 136,
-      "ctr": 0.125,
-      "position": 11.301470588235293
-    },
-    {
-      "page": "https://www.groverlawfirm.com/blog/car-accidents-caused-by-medical-conditions/",
-      "clicks": 16,
-      "impressions": 2328,
-      "ctr": 0.006872852233676976,
-      "position": 6.3896048109965635
-    },
-    {
-      "page": "https://www.groverlawfirm.com/blog/understanding-contributory-negligence-in-personal-injury-cases/",
-      "clicks": 16,
-      "impressions": 2649,
-      "ctr": 0.00604001510003775,
-      "position": 6.878444696111741
-    },
-    {
-      "page": "https://www.groverlawfirm.com/reviews/",
-      "clicks": 16,
-      "impressions": 2246,
-      "ctr": 0.007123775601068566,
-      "position": 5.311219946571683
+      "impressions": 143,
+      "ctr": 0.11888111888111888,
+      "position": 10.244755244755245
     },
     {
       "page": "https://www.groverlawfirm.com/blog/how-long-you-have-to-file-a-personal-injury-claim-in-canada/",
-      "clicks": 15,
-      "impressions": 1795,
-      "ctr": 0.008356545961002786,
-      "position": 4.123676880222842
+      "clicks": 16,
+      "impressions": 2143,
+      "ctr": 0.007466168922071862,
+      "position": 4.537097526831545
     },
     {
-      "page": "https://www.groverlawfirm.com/blog/minor-injury-regulation-cap-updates/",
+      "page": "https://www.groverlawfirm.com/calgary/",
       "clicks": 15,
-      "impressions": 6458,
-      "ctr": 0.002322700526478786,
-      "position": 8.342211210901208
+      "impressions": 22341,
+      "ctr": 0.0006714113065664026,
+      "position": 35.646300523700816
     },
     {
-      "page": "https://www.groverlawfirm.com/service/correctional-facility-abuse/",
-      "clicks": 15,
-      "impressions": 837,
-      "ctr": 0.017921146953405017,
-      "position": 6.58183990442055
-    },
-    {
-      "page": "https://www.groverlawfirm.com/contact/?utm_source=GMB_Listing&utm_medium=organic&utm_campaign=Appointment_GMB",
+      "page": "https://www.groverlawfirm.com/reviews/",
       "clicks": 14,
-      "impressions": 1917,
-      "ctr": 0.007303077725612937,
-      "position": 4.441836202399583
+      "impressions": 2083,
+      "ctr": 0.00672107537205953,
+      "position": 5.527604416706673
     },
     {
-      "page": "https://www.groverlawfirm.com/blog/how-to-prove-liability-in-calgary-slip-and-fall-cases-legal-insights/",
-      "clicks": 13,
-      "impressions": 2032,
-      "ctr": 0.0063976377952755905,
-      "position": 21.568405511811022
-    },
-    {
-      "page": "https://www.groverlawfirm.com/blog/what-should-you-do-if-you-are-involved-in-a-pedestrian-motor-vehicle-accident/",
-      "clicks": 13,
-      "impressions": 2594,
-      "ctr": 0.0050115651503469544,
-      "position": 7.879336931380108
+      "page": "https://www.groverlawfirm.com/team/mary-tagulao/",
+      "clicks": 14,
+      "impressions": 96,
+      "ctr": 0.14583333333333334,
+      "position": 11.989583333333334
     }
   ],
-  "fetchedAt": "2026-03-18T13:06:53.966Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "grover law firm",
+      "clicks": 639,
+      "impressions": 3616,
+      "ctr": 0.1767146017699115,
+      "position": 1.5754977876106193
+    },
+    {
+      "query": "grover law firm calgary",
+      "clicks": 140,
+      "impressions": 410,
+      "ctr": 0.34146341463414637,
+      "position": 1.2292682926829268
+    },
+    {
+      "query": "grover law",
+      "clicks": 119,
+      "impressions": 340,
+      "ctr": 0.35,
+      "position": 2.514705882352941
+    },
+    {
+      "query": "car accident settlement payouts alberta",
+      "clicks": 72,
+      "impressions": 2885,
+      "ctr": 0.024956672443674176,
+      "position": 6.804159445407279
+    },
+    {
+      "query": "steve grover",
+      "clicks": 67,
+      "impressions": 338,
+      "ctr": 0.19822485207100593,
+      "position": 1.106508875739645
+    },
+    {
+      "query": "what to do if someone sues you for a car accident in alberta",
+      "clicks": 65,
+      "impressions": 620,
+      "ctr": 0.10483870967741936,
+      "position": 1.2419354838709677
+    },
+    {
+      "query": "grover law firm reviews",
+      "clicks": 32,
+      "impressions": 387,
+      "ctr": 0.082687338501292,
+      "position": 1.8888888888888888
+    },
+    {
+      "query": "steve grover law firm",
+      "clicks": 29,
+      "impressions": 79,
+      "ctr": 0.3670886075949367,
+      "position": 1.2658227848101267
+    },
+    {
+      "query": "steve grover lawyer",
+      "clicks": 25,
+      "impressions": 34,
+      "ctr": 0.7352941176470589,
+      "position": 1
+    },
+    {
+      "query": "devinn connolly",
+      "clicks": 21,
+      "impressions": 46,
+      "ctr": 0.45652173913043476,
+      "position": 1.0217391304347827
+    },
+    {
+      "query": "truck accident attorney",
+      "clicks": 18,
+      "impressions": 1122,
+      "ctr": 0.016042780748663103,
+      "position": 25.589126559714796
+    },
+    {
+      "query": "personal injury lawyer calgary",
+      "clicks": 16,
+      "impressions": 2405,
+      "ctr": 0.006652806652806653,
+      "position": 11.442411642411642
+    },
+    {
+      "query": "car accident lawyer calgary",
+      "clicks": 15,
+      "impressions": 2246,
+      "ctr": 0.006678539626001781,
+      "position": 11.992430988423864
+    },
+    {
+      "query": "injury lawyer calgary",
+      "clicks": 15,
+      "impressions": 1823,
+      "ctr": 0.008228195282501372,
+      "position": 10.809105869445968
+    },
+    {
+      "query": "personal injury law firm",
+      "clicks": 14,
+      "impressions": 1787,
+      "ctr": 0.00783435926133184,
+      "position": 50.63626189143817
+    },
+    {
+      "query": "accident lawyer calgary",
+      "clicks": 13,
+      "impressions": 1582,
+      "ctr": 0.008217446270543615,
+      "position": 12.349557522123893
+    },
+    {
+      "query": "personal injury lawyer",
+      "clicks": 12,
+      "impressions": 5516,
+      "ctr": 0.002175489485134155,
+      "position": 59.70757795503988
+    },
+    {
+      "query": "personal injury lawyers",
+      "clicks": 12,
+      "impressions": 1744,
+      "ctr": 0.006880733944954129,
+      "position": 57
+    },
+    {
+      "query": "calgary personal injury lawyer",
+      "clicks": 10,
+      "impressions": 1296,
+      "ctr": 0.007716049382716049,
+      "position": 12.347222222222221
+    },
+    {
+      "query": "glover law firm",
+      "clicks": 10,
+      "impressions": 21,
+      "ctr": 0.47619047619047616,
+      "position": 3.3333333333333335
+    },
+    {
+      "query": "motor vehicle accident calgary",
+      "clicks": 10,
+      "impressions": 523,
+      "ctr": 0.019120458891013385,
+      "position": 11.820267686424474
+    },
+    {
+      "query": "spinal injury lawyer",
+      "clicks": 10,
+      "impressions": 55,
+      "ctr": 0.18181818181818182,
+      "position": 33.50909090909091
+    },
+    {
+      "query": "car accident lawyer",
+      "clicks": 9,
+      "impressions": 4046,
+      "ctr": 0.0022244191794364805,
+      "position": 60.84231339594661
+    },
+    {
+      "query": "bicycle accident lawyer",
+      "clicks": 8,
+      "impressions": 1170,
+      "ctr": 0.006837606837606838,
+      "position": 39.13931623931624
+    },
+    {
+      "query": "car accident attorneys",
+      "clicks": 8,
+      "impressions": 193,
+      "ctr": 0.04145077720207254,
+      "position": 15.512953367875648
+    },
+    {
+      "query": "wills calgary cost",
+      "clicks": 8,
+      "impressions": 171,
+      "ctr": 0.04678362573099415,
+      "position": 4.16374269005848
+    },
+    {
+      "query": "motorcycle accident lawyers",
+      "clicks": 7,
+      "impressions": 1604,
+      "ctr": 0.004364089775561097,
+      "position": 39.768079800498754
+    },
+    {
+      "query": "personal injury lawyers calgary",
+      "clicks": 7,
+      "impressions": 1897,
+      "ctr": 0.0036900369003690036,
+      "position": 10.82709541381128
+    },
+    {
+      "query": "truck accident lawyer",
+      "clicks": 7,
+      "impressions": 6217,
+      "ctr": 0.0011259449895447966,
+      "position": 58.11597233392311
+    },
+    {
+      "query": "work injury lawyer calgary",
+      "clicks": 7,
+      "impressions": 152,
+      "ctr": 0.046052631578947366,
+      "position": 5.9144736842105265
+    },
+    {
+      "query": "alberta car accident settlements",
+      "clicks": 6,
+      "impressions": 210,
+      "ctr": 0.02857142857142857,
+      "position": 5.071428571428571
+    },
+    {
+      "query": "being sued for car accident",
+      "clicks": 6,
+      "impressions": 84,
+      "ctr": 0.07142857142857142,
+      "position": 4.880952380952381
+    },
+    {
+      "query": "how long does it take to settle a car accident claim in alberta",
+      "clicks": 6,
+      "impressions": 226,
+      "ctr": 0.02654867256637168,
+      "position": 5.632743362831858
+    },
+    {
+      "query": "steven grover",
+      "clicks": 6,
+      "impressions": 49,
+      "ctr": 0.12244897959183673,
+      "position": 11.224489795918368
+    },
+    {
+      "query": "summer abbasi",
+      "clicks": 6,
+      "impressions": 62,
+      "ctr": 0.0967741935483871,
+      "position": 1
+    },
+    {
+      "query": "calgary accident report",
+      "clicks": 5,
+      "impressions": 838,
+      "ctr": 0.0059665871121718375,
+      "position": 9.400954653937948
+    },
+    {
+      "query": "car accident calgary",
+      "clicks": 5,
+      "impressions": 1969,
+      "ctr": 0.0025393600812595226,
+      "position": 8.884205180294565
+    },
+    {
+      "query": "carly bowe",
+      "clicks": 5,
+      "impressions": 29,
+      "ctr": 0.1724137931034483,
+      "position": 1.3793103448275863
+    },
+    {
+      "query": "grover law firm alberta",
+      "clicks": 5,
+      "impressions": 119,
+      "ctr": 0.04201680672268908,
+      "position": 1.0084033613445378
+    },
+    {
+      "query": "injury accident lawyers",
+      "clicks": 5,
+      "impressions": 64,
+      "ctr": 0.078125,
+      "position": 29.84375
+    },
+    {
+      "query": "jeha",
+      "clicks": 5,
+      "impressions": 86,
+      "ctr": 0.05813953488372093,
+      "position": 12.093023255813954
+    },
+    {
+      "query": "truck accident lawyers",
+      "clicks": 5,
+      "impressions": 527,
+      "ctr": 0.009487666034155597,
+      "position": 23.495256166982923
+    },
+    {
+      "query": "what to do after a car accident",
+      "clicks": 5,
+      "impressions": 197,
+      "ctr": 0.025380710659898477,
+      "position": 43.994923857868024
+    },
+    {
+      "query": "calgary collision report",
+      "clicks": 4,
+      "impressions": 131,
+      "ctr": 0.030534351145038167,
+      "position": 7.129770992366412
+    },
+    {
+      "query": "calgary police accident report online",
+      "clicks": 4,
+      "impressions": 244,
+      "ctr": 0.01639344262295082,
+      "position": 6.573770491803279
+    },
+    {
+      "query": "calgary police report accident",
+      "clicks": 4,
+      "impressions": 73,
+      "ctr": 0.0547945205479452,
+      "position": 5.1506849315068495
+    },
+    {
+      "query": "car accident report to police",
+      "clicks": 4,
+      "impressions": 11,
+      "ctr": 0.36363636363636365,
+      "position": 6.636363636363637
+    },
+    {
+      "query": "devin connolly",
+      "clicks": 4,
+      "impressions": 25,
+      "ctr": 0.16,
+      "position": 8.84
+    },
+    {
+      "query": "grover and company",
+      "clicks": 4,
+      "impressions": 10,
+      "ctr": 0.4,
+      "position": 13.7
+    },
+    {
+      "query": "grover law office",
+      "clicks": 4,
+      "impressions": 25,
+      "ctr": 0.16,
+      "position": 6.76
+    },
+    {
+      "query": "law firm jobs calgary",
+      "clicks": 4,
+      "impressions": 88,
+      "ctr": 0.045454545454545456,
+      "position": 7.465909090909091
+    },
+    {
+      "query": "law firms calgary",
+      "clicks": 4,
+      "impressions": 72,
+      "ctr": 0.05555555555555555,
+      "position": 43.5
+    },
+    {
+      "query": "assault injury lawyer",
+      "clicks": 3,
+      "impressions": 195,
+      "ctr": 0.015384615384615385,
+      "position": 2.4974358974358974
+    },
+    {
+      "query": "calgary police collision report",
+      "clicks": 3,
+      "impressions": 202,
+      "ctr": 0.01485148514851485,
+      "position": 7.247524752475248
+    },
+    {
+      "query": "car accident settlement payouts alberta 2024",
+      "clicks": 3,
+      "impressions": 136,
+      "ctr": 0.022058823529411766,
+      "position": 14.632352941176471
+    },
+    {
+      "query": "car accident settlements alberta",
+      "clicks": 3,
+      "impressions": 114,
+      "ctr": 0.02631578947368421,
+      "position": 5.5701754385964914
+    },
+    {
+      "query": "dog bite calgary",
+      "clicks": 3,
+      "impressions": 100,
+      "ctr": 0.03,
+      "position": 4.57
+    },
+    {
+      "query": "dog bite lawyers near me",
+      "clicks": 3,
+      "impressions": 22,
+      "ctr": 0.13636363636363635,
+      "position": 23.045454545454547
+    },
+    {
+      "query": "getting sued for a car accident",
+      "clicks": 3,
+      "impressions": 32,
+      "ctr": 0.09375,
+      "position": 6.90625
+    },
+    {
+      "query": "getting sued for car accident with insurance",
+      "clicks": 3,
+      "impressions": 30,
+      "ctr": 0.1,
+      "position": 4.666666666666666
+    },
+    {
+      "query": "grover law firm photos",
+      "clicks": 3,
+      "impressions": 42,
+      "ctr": 0.07142857142857142,
+      "position": 1.7142857142857144
+    },
+    {
+      "query": "groverlaw",
+      "clicks": 3,
+      "impressions": 49,
+      "ctr": 0.061224489795918366,
+      "position": 6.244897959183674
+    },
+    {
+      "query": "how long do you have to report an accident if not claiming",
+      "clicks": 3,
+      "impressions": 37,
+      "ctr": 0.08108108108108109,
+      "position": 5.837837837837838
+    },
+    {
+      "query": "how much does a will cost in calgary",
+      "clicks": 3,
+      "impressions": 167,
+      "ctr": 0.017964071856287425,
+      "position": 6.946107784431137
+    },
+    {
+      "query": "motorcycle license alberta",
+      "clicks": 3,
+      "impressions": 180,
+      "ctr": 0.016666666666666666,
+      "position": 14.033333333333333
+    },
+    {
+      "query": "what happens when someone sues you for a car accident",
+      "clicks": 3,
+      "impressions": 86,
+      "ctr": 0.03488372093023256,
+      "position": 18.558139534883722
+    },
+    {
+      "query": "what to do if someone sues you for a car accident in ontario",
+      "clicks": 3,
+      "impressions": 192,
+      "ctr": 0.015625,
+      "position": 1.3958333333333333
+    },
+    {
+      "query": "work related injury lawyers",
+      "clicks": 3,
+      "impressions": 96,
+      "ctr": 0.03125,
+      "position": 28.09375
+    },
+    {
+      "query": "alberta class 6 knowledge test",
+      "clicks": 2,
+      "impressions": 36,
+      "ctr": 0.05555555555555555,
+      "position": 26.833333333333332
+    },
+    {
+      "query": "alberta labour board",
+      "clicks": 2,
+      "impressions": 20,
+      "ctr": 0.1,
+      "position": 2
+    },
+    {
+      "query": "alberta personal injury settlements",
+      "clicks": 2,
+      "impressions": 46,
+      "ctr": 0.043478260869565216,
+      "position": 7.565217391304348
+    },
+    {
+      "query": "calgary car accident",
+      "clicks": 2,
+      "impressions": 995,
+      "ctr": 0.0020100502512562816,
+      "position": 9.24321608040201
+    },
+    {
+      "query": "calgary collision reporting centre",
+      "clicks": 2,
+      "impressions": 95,
+      "ctr": 0.021052631578947368,
+      "position": 7.157894736842105
+    },
+    {
+      "query": "calgary injury lawyers",
+      "clicks": 2,
+      "impressions": 891,
+      "ctr": 0.002244668911335578,
+      "position": 11.061728395061728
+    },
+    {
+      "query": "calgary personal injury lawyers",
+      "clicks": 2,
+      "impressions": 789,
+      "ctr": 0.0025348542458808617,
+      "position": 12.228136882129277
+    },
+    {
+      "query": "can i sue my employer if i get injured at work",
+      "clicks": 2,
+      "impressions": 3,
+      "ctr": 0.6666666666666666,
+      "position": 1
+    },
+    {
+      "query": "can someone sue me for a car accident",
+      "clicks": 2,
+      "impressions": 9,
+      "ctr": 0.2222222222222222,
+      "position": 2.111111111111111
+    },
+    {
+      "query": "can someone sue you for a car accident if you have insurance",
+      "clicks": 2,
+      "impressions": 83,
+      "ctr": 0.024096385542168676,
+      "position": 4.445783132530121
+    },
+    {
+      "query": "can you sue your employer in canada",
+      "clicks": 2,
+      "impressions": 41,
+      "ctr": 0.04878048780487805,
+      "position": 9.707317073170731
+    },
+    {
+      "query": "causes of accident",
+      "clicks": 2,
+      "impressions": 168,
+      "ctr": 0.011904761904761904,
+      "position": 30.648809523809526
+    },
+    {
+      "query": "cheap wills calgary",
+      "clicks": 2,
+      "impressions": 35,
+      "ctr": 0.05714285714285714,
+      "position": 11.314285714285715
+    },
+    {
+      "query": "civil litigation lawyer",
+      "clicks": 2,
+      "impressions": 10,
+      "ctr": 0.2,
+      "position": 4.4
+    },
+    {
+      "query": "class action lawyers calgary",
+      "clicks": 2,
+      "impressions": 48,
+      "ctr": 0.041666666666666664,
+      "position": 8.104166666666668
+    },
+    {
+      "query": "dental malpractice lawyer calgary",
+      "clicks": 2,
+      "impressions": 126,
+      "ctr": 0.015873015873015872,
+      "position": 8.341269841269842
+    },
+    {
+      "query": "dog attack airdrie",
+      "clicks": 2,
+      "impressions": 10,
+      "ctr": 0.2,
+      "position": 5.7
+    },
+    {
+      "query": "dog bite lawyer",
+      "clicks": 2,
+      "impressions": 1902,
+      "ctr": 0.0010515247108307045,
+      "position": 44.55310199789695
+    },
+    {
+      "query": "dog bite lawyers",
+      "clicks": 2,
+      "impressions": 517,
+      "ctr": 0.0038684719535783366,
+      "position": 54.07350096711799
+    },
+    {
+      "query": "employer negligence",
+      "clicks": 2,
+      "impressions": 26,
+      "ctr": 0.07692307692307693,
+      "position": 39
+    },
+    {
+      "query": "groover law firm",
+      "clicks": 2,
+      "impressions": 8,
+      "ctr": 0.25,
+      "position": 1.5
+    },
+    {
+      "query": "grove law",
+      "clicks": 2,
+      "impressions": 2,
+      "ctr": 1,
+      "position": 1.5
+    },
+    {
+      "query": "grover law calgary",
+      "clicks": 2,
+      "impressions": 4,
+      "ctr": 0.5,
+      "position": 1.75
+    },
+    {
+      "query": "grover law firm calgary ab",
+      "clicks": 2,
+      "impressions": 127,
+      "ctr": 0.015748031496062992,
+      "position": 1.2755905511811023
+    },
+    {
+      "query": "grover lawyer",
+      "clicks": 2,
+      "impressions": 13,
+      "ctr": 0.15384615384615385,
+      "position": 26.46153846153846
+    },
+    {
+      "query": "how to get a motorcycle license in alberta",
+      "clicks": 2,
+      "impressions": 38,
+      "ctr": 0.05263157894736842,
+      "position": 11.263157894736842
+    },
+    {
+      "query": "how to start a lawsuit against your employer",
+      "clicks": 2,
+      "impressions": 4,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "injury law firm calgary",
+      "clicks": 2,
+      "impressions": 112,
+      "ctr": 0.017857142857142856,
+      "position": 7.883928571428571
+    },
+    {
+      "query": "kemi ojo",
+      "clicks": 2,
+      "impressions": 68,
+      "ctr": 0.029411764705882353,
+      "position": 8.147058823529413
+    },
+    {
+      "query": "leaving the scene of an accident alberta",
+      "clicks": 2,
+      "impressions": 150,
+      "ctr": 0.013333333333333334,
+      "position": 8.413333333333334
+    },
+    {
+      "query": "medical malpractice lawyer calgary",
+      "clicks": 2,
+      "impressions": 253,
+      "ctr": 0.007905138339920948,
+      "position": 14.320158102766799
+    },
+    {
+      "query": "medical malpractice lawyers alberta",
+      "clicks": 2,
+      "impressions": 30,
+      "ctr": 0.06666666666666667,
+      "position": 11.2
+    },
+    {
+      "query": "motorcycle accident lawyer calgary",
+      "clicks": 2,
+      "impressions": 757,
+      "ctr": 0.002642007926023778,
+      "position": 2.1109643328929986
+    },
+    {
+      "query": "motorcycle crash law",
+      "clicks": 2,
+      "impressions": 21,
+      "ctr": 0.09523809523809523,
+      "position": 43.76190476190476
+    },
+    {
+      "query": "personal injury law firm calgary",
+      "clicks": 2,
+      "impressions": 373,
+      "ctr": 0.005361930294906166,
+      "position": 6.278820375335121
+    },
+    {
+      "query": "slip and fall lawyers calgary",
+      "clicks": 2,
+      "impressions": 274,
+      "ctr": 0.0072992700729927005,
+      "position": 10.857664233576642
+    },
+    {
+      "query": "sovereign law office calgary",
+      "clicks": 2,
+      "impressions": 74,
+      "ctr": 0.02702702702702703,
+      "position": 2.5675675675675675
+    },
+    {
+      "query": "vehicle collision report",
+      "clicks": 2,
+      "impressions": 11,
+      "ctr": 0.18181818181818182,
+      "position": 7.181818181818182
+    },
+    {
+      "query": "what happens when someone files a bodily injury claim against you",
+      "clicks": 2,
+      "impressions": 4,
+      "ctr": 0.5,
+      "position": 7
+    },
+    {
+      "query": "what to do after car accident alberta",
+      "clicks": 2,
+      "impressions": 99,
+      "ctr": 0.020202020202020204,
+      "position": 10.828282828282829
+    },
+    {
+      "query": "what to do when you get in a car accident",
+      "clicks": 2,
+      "impressions": 25,
+      "ctr": 0.08,
+      "position": 22.36
+    },
+    {
+      "query": "when to file police report for car accident",
+      "clicks": 2,
+      "impressions": 14,
+      "ctr": 0.14285714285714285,
+      "position": 5.071428571428571
+    },
+    {
+      "query": "will calgary",
+      "clicks": 2,
+      "impressions": 19,
+      "ctr": 0.10526315789473684,
+      "position": 16.63157894736842
+    },
+    {
+      "query": "work injury lawyer",
+      "clicks": 2,
+      "impressions": 662,
+      "ctr": 0.0030211480362537764,
+      "position": 41.200906344410875
+    },
+    {
+      "query": "work place injury lawyers",
+      "clicks": 2,
+      "impressions": 55,
+      "ctr": 0.03636363636363636,
+      "position": 7.4363636363636365
+    },
+    {
+      "query": "work related injury",
+      "clicks": 2,
+      "impressions": 5,
+      "ctr": 0.4,
+      "position": 2
+    },
+    {
+      "query": "workplace injury lawyer",
+      "clicks": 2,
+      "impressions": 542,
+      "ctr": 0.0036900369003690036,
+      "position": 38.035055350553506
+    },
+    {
+      "query": "workplace injury lawyer calgary",
+      "clicks": 2,
+      "impressions": 64,
+      "ctr": 0.03125,
+      "position": 6.546875
+    },
+    {
+      "query": "accident injury lawyer calgary",
+      "clicks": 1,
+      "impressions": 630,
+      "ctr": 0.0015873015873015873,
+      "position": 9.536507936507936
+    },
+    {
+      "query": "accident lawyer alberta",
+      "clicks": 1,
+      "impressions": 102,
+      "ctr": 0.00980392156862745,
+      "position": 11.872549019607844
+    },
+    {
+      "query": "accident lawyers near me",
+      "clicks": 1,
+      "impressions": 387,
+      "ctr": 0.002583979328165375,
+      "position": 45.87855297157623
+    },
+    {
+      "query": "accident report",
+      "clicks": 1,
+      "impressions": 98,
+      "ctr": 0.01020408163265306,
+      "position": 20
+    },
+    {
+      "query": "accident report malaysia",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "accident reporting center near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 4.5
+    },
+    {
+      "query": "acs case manager",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 4.333333333333334
+    },
+    {
+      "query": "after a car accident",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 20
+    },
+    {
+      "query": "after a car accident what should i do",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 4.666666666666666
+    },
+    {
+      "query": "alberta car accident",
+      "clicks": 1,
+      "impressions": 95,
+      "ctr": 0.010526315789473684,
+      "position": 11.08421052631579
+    },
+    {
+      "query": "alberta collision report",
+      "clicks": 1,
+      "impressions": 92,
+      "ctr": 0.010869565217391304,
+      "position": 28.804347826086957
+    },
+    {
+      "query": "alberta motorcycle laws",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 6.6
+    },
+    {
+      "query": "alberta mva settlements",
+      "clicks": 1,
+      "impressions": 157,
+      "ctr": 0.006369426751592357,
+      "position": 12.433121019108281
+    },
+    {
+      "query": "are you liable if someone falls on your sidewalk",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2
+    },
+    {
+      "query": "articling student edmonton",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 5
+    },
+    {
+      "query": "asbestos attorneys near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "at-fault accident alberta",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 6.666666666666667
+    },
+    {
+      "query": "auto accident procedures",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 6
+    },
+    {
+      "query": "auto insurance lawyers",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 46.88235294117647
+    },
+    {
+      "query": "auto negligence lawsuit",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 32.8
+    },
+    {
+      "query": "average car accident settlement alberta",
+      "clicks": 1,
+      "impressions": 136,
+      "ctr": 0.007352941176470588,
+      "position": 9.845588235294118
+    },
+    {
+      "query": "average settlement time for car accident",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "being sued for a car accident not at fault",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "being sued for car accident 2 years ago",
+      "clicks": 1,
+      "impressions": 42,
+      "ctr": 0.023809523809523808,
+      "position": 7.642857142857143
+    },
+    {
+      "query": "best accident lawyers",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 48.18181818181818
+    },
+    {
+      "query": "best car accident lawyers",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 35
+    },
+    {
+      "query": "best injury lawyer calgary",
+      "clicks": 1,
+      "impressions": 515,
+      "ctr": 0.001941747572815534,
+      "position": 12.312621359223302
+    },
+    {
+      "query": "best personal injury lawyer calgary",
+      "clicks": 1,
+      "impressions": 689,
+      "ctr": 0.001451378809869376,
+      "position": 24.435413642960814
+    },
+    {
+      "query": "bodily injury claim car accident",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "broker negligence lawyer",
+      "clicks": 1,
+      "impressions": 23,
+      "ctr": 0.043478260869565216,
+      "position": 93.21739130434783
+    },
+    {
+      "query": "calgary accident",
+      "clicks": 1,
+      "impressions": 285,
+      "ctr": 0.0035087719298245615,
+      "position": 12.266666666666667
+    },
+    {
+      "query": "calgary civil lawyers",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 16
+    },
+    {
+      "query": "calgary law firms",
+      "clicks": 1,
+      "impressions": 168,
+      "ctr": 0.005952380952380952,
+      "position": 68.86904761904762
+    },
+    {
+      "query": "calgary lawyers",
+      "clicks": 1,
+      "impressions": 472,
+      "ctr": 0.00211864406779661,
+      "position": 61.6271186440678
+    },
+    {
+      "query": "calgary will lawyer",
+      "clicks": 1,
+      "impressions": 96,
+      "ctr": 0.010416666666666666,
+      "position": 31.989583333333332
+    },
+    {
+      "query": "calgary wills",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 19.166666666666668
+    },
+    {
+      "query": "call police accident",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 4
+    },
+    {
+      "query": "can an employer dispute a workcover claim",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "can i drive a 3 wheeler on a car licence",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "can i sue my employer for negligence compensation claim for a work injury",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2
+    },
+    {
+      "query": "can i sue my employer for workplace injury ontario",
+      "clicks": 1,
+      "impressions": 37,
+      "ctr": 0.02702702702702703,
+      "position": 13.64864864864865
+    },
+    {
+      "query": "can you sue after workers comp",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "can you sue employer for workplace injury",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 7.785714285714286
+    },
+    {
+      "query": "can you sue for car accident",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 11
+    },
+    {
+      "query": "can you sue someone for slipping on their sidewalk",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3
+    },
+    {
+      "query": "can you sue wcb alberta",
+      "clicks": 1,
+      "impressions": 66,
+      "ctr": 0.015151515151515152,
+      "position": 7.106060606060606
+    },
+    {
+      "query": "can you sue your boss for emotional distress",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1.5
+    },
+    {
+      "query": "can you terminate an employee on wcb alberta",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "car accident back pain settlement",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 9.588235294117647
+    },
+    {
+      "query": "car accident being sued",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "car accident compensation",
+      "clicks": 1,
+      "impressions": 103,
+      "ctr": 0.009708737864077669,
+      "position": 44.33009708737864
+    },
+    {
+      "query": "car accident do you have to go through insurance",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 4
+    },
+    {
+      "query": "car accident injury",
+      "clicks": 1,
+      "impressions": 528,
+      "ctr": 0.001893939393939394,
+      "position": 47.28977272727273
+    },
+    {
+      "query": "car accident injury claim",
+      "clicks": 1,
+      "impressions": 78,
+      "ctr": 0.01282051282051282,
+      "position": 8.115384615384615
+    },
+    {
+      "query": "car accident injury lawyer calgary",
+      "clicks": 1,
+      "impressions": 1370,
+      "ctr": 0.00072992700729927,
+      "position": 10.156934306569344
+    },
+    {
+      "query": "car accident lawsuit",
+      "clicks": 1,
+      "impressions": 4519,
+      "ctr": 0.0002212878955521133,
+      "position": 33.7961938481965
+    },
+    {
+      "query": "car accident lawyers",
+      "clicks": 1,
+      "impressions": 722,
+      "ctr": 0.0013850415512465374,
+      "position": 62.88919667590028
+    },
+    {
+      "query": "car accident malaysia",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "car accident no injuries",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 5.333333333333333
+    },
+    {
+      "query": "car accident police report online",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 12.818181818181818
+    },
+    {
+      "query": "car accident procedure",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 41.78947368421053
+    },
+    {
+      "query": "car accident report",
+      "clicks": 1,
+      "impressions": 197,
+      "ctr": 0.005076142131979695,
+      "position": 29.756345177664976
+    },
+    {
+      "query": "car accident reporting",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 32.285714285714285
+    },
+    {
+      "query": "car accident settlement examples",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 16.357142857142858
+    },
+    {
+      "query": "car accident settlement stories",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 16.923076923076923
+    },
+    {
+      "query": "car accident what to do after",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 14.75
+    },
+    {
+      "query": "car crash lawyer",
+      "clicks": 1,
+      "impressions": 778,
+      "ctr": 0.0012853470437017994,
+      "position": 47.376606683804624
+    },
+    {
+      "query": "car crash lawyers near me",
+      "clicks": 1,
+      "impressions": 23,
+      "ctr": 0.043478260869565216,
+      "position": 19.869565217391305
+    },
+    {
+      "query": "car crash police report",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 24
+    },
+    {
+      "query": "casino injury",
+      "clicks": 1,
+      "impressions": 108,
+      "ctr": 0.009259259259259259,
+      "position": 58
+    },
+    {
+      "query": "casino injury lawyers",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 15.666666666666666
+    },
+    {
+      "query": "cause of accident",
+      "clicks": 1,
+      "impressions": 23,
+      "ctr": 0.043478260869565216,
+      "position": 48.34782608695652
+    },
+    {
+      "query": "causes of car accident",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 42.72727272727273
+    },
+    {
+      "query": "causes of car accidents",
+      "clicks": 1,
+      "impressions": 131,
+      "ctr": 0.007633587786259542,
+      "position": 56.48091603053435
+    },
+    {
+      "query": "causes of vehicle accidents",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 47
+    },
+    {
+      "query": "civil claim lawyers",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "civil lawyer",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 3.25
+    },
+    {
+      "query": "civil litigation firm",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 1
+    },
+    {
+      "query": "civil litigation lawyers",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 2.6
+    },
+    {
+      "query": "class 6 license requirements",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 8
+    },
+    {
+      "query": "collision report",
+      "clicks": 1,
+      "impressions": 60,
+      "ctr": 0.016666666666666666,
+      "position": 8.466666666666667
+    },
+    {
+      "query": "collision report calgary",
+      "clicks": 1,
+      "impressions": 21,
+      "ctr": 0.047619047619047616,
+      "position": 7.333333333333333
+    },
+    {
+      "query": "collision reporting center",
+      "clicks": 1,
+      "impressions": 68,
+      "ctr": 0.014705882352941176,
+      "position": 9.088235294117647
+    },
+    {
+      "query": "collision reporting centre edmonton",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 3
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:21:43.282Z"
 }

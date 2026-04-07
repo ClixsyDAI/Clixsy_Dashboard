@@ -2,138 +2,18 @@
   "propertyId": "properties/355863493",
   "displayName": "https://www.norrisinjurylawyers.com - GA4",
   "dateRange": {
-    "start": "2025-12-17",
-    "end": "2026-03-17"
+    "start": "2026-01-06",
+    "end": "2026-04-06"
   },
   "totals": {
-    "sessions": 145290,
-    "users": 112874,
-    "screenPageViews": 252652,
-    "organicSessions": 10434,
-    "bounceRate": 0.6376972175687472,
-    "avgSessionDuration": 130.833568849448
+    "sessions": 181877,
+    "users": 136251,
+    "screenPageViews": 326968,
+    "organicSessions": 10450,
+    "bounceRate": 0.6517637186720769,
+    "avgSessionDuration": 123.333632092855
   },
   "dailyData": [
-    {
-      "date": "2025-12-17",
-      "sessions": 492,
-      "users": 476,
-      "screenPageViews": 586
-    },
-    {
-      "date": "2025-12-18",
-      "sessions": 435,
-      "users": 414,
-      "screenPageViews": 558
-    },
-    {
-      "date": "2025-12-19",
-      "sessions": 496,
-      "users": 471,
-      "screenPageViews": 625
-    },
-    {
-      "date": "2025-12-20",
-      "sessions": 426,
-      "users": 390,
-      "screenPageViews": 526
-    },
-    {
-      "date": "2025-12-21",
-      "sessions": 529,
-      "users": 495,
-      "screenPageViews": 634
-    },
-    {
-      "date": "2025-12-22",
-      "sessions": 498,
-      "users": 488,
-      "screenPageViews": 602
-    },
-    {
-      "date": "2025-12-23",
-      "sessions": 420,
-      "users": 392,
-      "screenPageViews": 504
-    },
-    {
-      "date": "2025-12-24",
-      "sessions": 412,
-      "users": 391,
-      "screenPageViews": 507
-    },
-    {
-      "date": "2025-12-25",
-      "sessions": 413,
-      "users": 383,
-      "screenPageViews": 470
-    },
-    {
-      "date": "2025-12-26",
-      "sessions": 572,
-      "users": 546,
-      "screenPageViews": 719
-    },
-    {
-      "date": "2025-12-27",
-      "sessions": 428,
-      "users": 387,
-      "screenPageViews": 539
-    },
-    {
-      "date": "2025-12-28",
-      "sessions": 483,
-      "users": 446,
-      "screenPageViews": 677
-    },
-    {
-      "date": "2025-12-29",
-      "sessions": 477,
-      "users": 455,
-      "screenPageViews": 708
-    },
-    {
-      "date": "2025-12-30",
-      "sessions": 394,
-      "users": 370,
-      "screenPageViews": 554
-    },
-    {
-      "date": "2025-12-31",
-      "sessions": 559,
-      "users": 503,
-      "screenPageViews": 686
-    },
-    {
-      "date": "2026-01-01",
-      "sessions": 560,
-      "users": 526,
-      "screenPageViews": 626
-    },
-    {
-      "date": "2026-01-02",
-      "sessions": 488,
-      "users": 445,
-      "screenPageViews": 582
-    },
-    {
-      "date": "2026-01-03",
-      "sessions": 478,
-      "users": 443,
-      "screenPageViews": 564
-    },
-    {
-      "date": "2026-01-04",
-      "sessions": 496,
-      "users": 464,
-      "screenPageViews": 582
-    },
-    {
-      "date": "2026-01-05",
-      "sessions": 575,
-      "users": 561,
-      "screenPageViews": 682
-    },
     {
       "date": "2026-01-06",
       "sessions": 626,
@@ -556,61 +436,181 @@
     },
     {
       "date": "2026-03-17",
-      "sessions": 26287,
+      "sessions": 27347,
       "users": 20096,
       "screenPageViews": 52616
+    },
+    {
+      "date": "2026-03-18",
+      "sessions": 33571,
+      "users": 21825,
+      "screenPageViews": 67325
+    },
+    {
+      "date": "2026-03-19",
+      "sessions": 7320,
+      "users": 6267,
+      "screenPageViews": 14183
+    },
+    {
+      "date": "2026-03-20",
+      "sessions": 305,
+      "users": 309,
+      "screenPageViews": 334
+    },
+    {
+      "date": "2026-03-21",
+      "sessions": 263,
+      "users": 259,
+      "screenPageViews": 304
+    },
+    {
+      "date": "2026-03-22",
+      "sessions": 234,
+      "users": 232,
+      "screenPageViews": 260
+    },
+    {
+      "date": "2026-03-23",
+      "sessions": 245,
+      "users": 254,
+      "screenPageViews": 277
+    },
+    {
+      "date": "2026-03-24",
+      "sessions": 248,
+      "users": 253,
+      "screenPageViews": 263
+    },
+    {
+      "date": "2026-03-25",
+      "sessions": 206,
+      "users": 216,
+      "screenPageViews": 237
+    },
+    {
+      "date": "2026-03-26",
+      "sessions": 230,
+      "users": 230,
+      "screenPageViews": 247
+    },
+    {
+      "date": "2026-03-27",
+      "sessions": 256,
+      "users": 262,
+      "screenPageViews": 291
+    },
+    {
+      "date": "2026-03-28",
+      "sessions": 271,
+      "users": 268,
+      "screenPageViews": 295
+    },
+    {
+      "date": "2026-03-29",
+      "sessions": 261,
+      "users": 253,
+      "screenPageViews": 289
+    },
+    {
+      "date": "2026-03-30",
+      "sessions": 253,
+      "users": 262,
+      "screenPageViews": 284
+    },
+    {
+      "date": "2026-03-31",
+      "sessions": 191,
+      "users": 205,
+      "screenPageViews": 210
+    },
+    {
+      "date": "2026-04-01",
+      "sessions": 234,
+      "users": 246,
+      "screenPageViews": 265
+    },
+    {
+      "date": "2026-04-02",
+      "sessions": 180,
+      "users": 181,
+      "screenPageViews": 193
+    },
+    {
+      "date": "2026-04-03",
+      "sessions": 163,
+      "users": 166,
+      "screenPageViews": 177
+    },
+    {
+      "date": "2026-04-04",
+      "sessions": 183,
+      "users": 182,
+      "screenPageViews": 198
+    },
+    {
+      "date": "2026-04-05",
+      "sessions": 284,
+      "users": 278,
+      "screenPageViews": 319
+    },
+    {
+      "date": "2026-04-06",
+      "sessions": 260,
+      "users": 275,
+      "screenPageViews": 296
     }
   ],
   "channelData": [
     {
       "channel": "Paid Other",
-      "sessions": 108183,
-      "users": 58454
+      "sessions": 145846,
+      "users": 71326
     },
     {
       "channel": "Paid Social",
-      "sessions": 17345,
-      "users": 15075
+      "sessions": 16209,
+      "users": 14570
     },
     {
       "channel": "Organic Social",
-      "sessions": 10434,
-      "users": 9430
+      "sessions": 10450,
+      "users": 9466
     },
     {
       "channel": "Display",
-      "sessions": 5923,
-      "users": 4821
+      "sessions": 2660,
+      "users": 2301
     },
     {
       "channel": "Referral",
-      "sessions": 2034,
-      "users": 1788
+      "sessions": 2033,
+      "users": 1793
     },
     {
       "channel": "Organic Search",
-      "sessions": 1563,
-      "users": 1268
+      "sessions": 1648,
+      "users": 1343
     },
     {
       "channel": "Direct",
-      "sessions": 1265,
-      "users": 1169
+      "sessions": 1287,
+      "users": 1186
     },
     {
       "channel": "Unassigned",
-      "sessions": 314,
-      "users": 920
+      "sessions": 271,
+      "users": 915
     },
     {
       "channel": "Paid Search",
-      "sessions": 254,
-      "users": 199
+      "sessions": 243,
+      "users": 197
     },
     {
       "channel": "Cross-network",
-      "sessions": 3,
-      "users": 3
+      "sessions": 4,
+      "users": 4
     },
     {
       "channel": "Organic Video",
@@ -618,157 +618,225 @@
       "users": 1
     }
   ],
+  "keyEventsByChannel": [
+    {
+      "channel": "Paid Other",
+      "sessions": 145846,
+      "keyEvents": 211197,
+      "conversionRate": 1.4480822237154258
+    },
+    {
+      "channel": "Paid Social",
+      "sessions": 16209,
+      "keyEvents": 5041,
+      "conversionRate": 0.31100006169412053
+    },
+    {
+      "channel": "Organic Social",
+      "sessions": 10450,
+      "keyEvents": 3648,
+      "conversionRate": 0.3490909090909091
+    },
+    {
+      "channel": "Display",
+      "sessions": 2660,
+      "keyEvents": 4165,
+      "conversionRate": 1.5657894736842106
+    },
+    {
+      "channel": "Referral",
+      "sessions": 2033,
+      "keyEvents": 1024,
+      "conversionRate": 0.5036891293654697
+    },
+    {
+      "channel": "Organic Search",
+      "sessions": 1648,
+      "keyEvents": 2563,
+      "conversionRate": 1.5552184466019416
+    },
+    {
+      "channel": "Direct",
+      "sessions": 1287,
+      "keyEvents": 1368,
+      "conversionRate": 1.062937062937063
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": 271,
+      "keyEvents": 2193,
+      "conversionRate": 8.092250922509225
+    },
+    {
+      "channel": "Paid Search",
+      "sessions": 243,
+      "keyEvents": 430,
+      "conversionRate": 1.7695473251028806
+    },
+    {
+      "channel": "Cross-network",
+      "sessions": 4,
+      "keyEvents": 12,
+      "conversionRate": 3
+    },
+    {
+      "channel": "Organic Video",
+      "sessions": 1,
+      "keyEvents": 1,
+      "conversionRate": 1
+    }
+  ],
   "topPages": [
     {
       "page": "/cases-we-handle/alabama-asbestos-cancer-lawyer/",
-      "screenPageViews": 238727,
-      "sessions": 135887
+      "screenPageViews": 317431,
+      "sessions": 174154
     },
     {
       "page": "/",
-      "screenPageViews": 9337,
-      "sessions": 7477
+      "screenPageViews": 5229,
+      "sessions": 4300
     },
     {
       "page": "/about-norris/our-team/",
-      "screenPageViews": 637,
-      "sessions": 507
+      "screenPageViews": 631,
+      "sessions": 511
     },
     {
       "page": "/contact-us/",
-      "screenPageViews": 499,
-      "sessions": 414
+      "screenPageViews": 492,
+      "sessions": 409
     },
     {
       "page": "/cases-we-handle/",
-      "screenPageViews": 372,
-      "sessions": 338
+      "screenPageViews": 335,
+      "sessions": 306
     },
     {
       "page": "/contact-us/thank-you/",
-      "screenPageViews": 229,
-      "sessions": 228
-    },
-    {
-      "page": "/blog/2024/10/24/interview-with-robert-norris/",
-      "screenPageViews": 184,
-      "sessions": 182
+      "screenPageViews": 280,
+      "sessions": 270
     },
     {
       "page": "/about-norris/",
-      "screenPageViews": 170,
-      "sessions": 164
+      "screenPageViews": 161,
+      "sessions": 158
     },
     {
-      "page": "/blog/",
-      "screenPageViews": 160,
-      "sessions": 155
-    },
-    {
-      "page": "/cases-we-handle/alabama-auto-accident/",
-      "screenPageViews": 147,
-      "sessions": 144
-    },
-    {
-      "page": "/sitemap/",
-      "screenPageViews": 135,
-      "sessions": 138
+      "page": "/blog/2024/10/24/interview-with-robert-norris/",
+      "screenPageViews": 145,
+      "sessions": 143
     },
     {
       "page": "/cases-we-handle/alabama-legal-malpractice/",
-      "screenPageViews": 132,
-      "sessions": 118
+      "screenPageViews": 129,
+      "sessions": 115
     },
     {
-      "page": "/cases-we-handle/alabama-mesothelioma/",
-      "screenPageViews": 122,
+      "page": "/blog/",
+      "screenPageViews": 123,
       "sessions": 120
     },
     {
-      "page": "/cases-we-handle/alabama-wrongful-death/",
-      "screenPageViews": 99,
-      "sessions": 99
+      "page": "/cases-we-handle/alabama-auto-accident/",
+      "screenPageViews": 121,
+      "sessions": 116
+    },
+    {
+      "page": "/sitemap/",
+      "screenPageViews": 106,
+      "sessions": 108
     },
     {
       "page": "/about-us/our-team/stephen-c-norris/",
-      "screenPageViews": 93,
-      "sessions": 86
+      "screenPageViews": 98,
+      "sessions": 92
     },
     {
-      "page": "/faqs/uninsured-motorist-coverage/",
-      "screenPageViews": 82,
-      "sessions": 81
+      "page": "/cases-we-handle/alabama-mesothelioma/",
+      "screenPageViews": 97,
+      "sessions": 96
     },
     {
       "page": "/about-us/our-team/bradford-t-walden/",
-      "screenPageViews": 72,
-      "sessions": 60
+      "screenPageViews": 87,
+      "sessions": 74
+    },
+    {
+      "page": "/faqs/uninsured-motorist-coverage/",
+      "screenPageViews": 85,
+      "sessions": 84
+    },
+    {
+      "page": "/cases-we-handle/alabama-wrongful-death/",
+      "screenPageViews": 79,
+      "sessions": 79
     },
     {
       "page": "/about-us/our-team/david-b-norris/",
-      "screenPageViews": 69,
-      "sessions": 66
+      "screenPageViews": 76,
+      "sessions": 72
+    },
+    {
+      "page": "/faqs/reading-your-alabama-car-accident-report/",
+      "screenPageViews": 75,
+      "sessions": 74
     },
     {
       "page": "/about-us/our-team/mark-a-english/",
-      "screenPageViews": 69,
-      "sessions": 67
-    },
-    {
-      "page": "/blog/2024/08/22/the-story-of-nellie-kershaw/",
-      "screenPageViews": 67,
-      "sessions": 67
-    },
-    {
-      "page": "/about-us/our-team/victor-dunning/",
-      "screenPageViews": 66,
+      "screenPageViews": 61,
       "sessions": 63
     },
     {
-      "page": "/about-us/our-team/nathan-evans/",
-      "screenPageViews": 62,
-      "sessions": 58
+      "page": "/about-us/our-team/robert-m-norris-iii/",
+      "screenPageViews": 61,
+      "sessions": 53
     },
     {
-      "page": "/about-us/our-team/robert-mckim-norris-jr/",
+      "page": "/about-us/our-team/victor-dunning/",
       "screenPageViews": 61,
       "sessions": 58
     },
     {
-      "page": "/about-us/our-team/miles-turney/",
-      "screenPageViews": 59,
-      "sessions": 57
-    },
-    {
-      "page": "/about-us/our-team/robert-m-norris-iii/",
-      "screenPageViews": 59,
+      "page": "/about-us/our-team/nathan-evans/",
+      "screenPageViews": 58,
       "sessions": 53
     },
     {
-      "page": "/faqs/reading-your-alabama-car-accident-report/",
+      "page": "/blog/2024/08/22/the-story-of-nellie-kershaw/",
       "screenPageViews": 56,
       "sessions": 56
     },
     {
-      "page": "/faqs/file-or-obtain-reports-alabama/",
-      "screenPageViews": 43,
-      "sessions": 37
+      "page": "/about-us/our-team/robert-mckim-norris-jr/",
+      "screenPageViews": 55,
+      "sessions": 52
     },
     {
-      "page": "/cases-we-handle/alabama-defective-products/",
-      "screenPageViews": 40,
-      "sessions": 38
+      "page": "/about-us/our-team/miles-turney/",
+      "screenPageViews": 52,
+      "sessions": 47
+    },
+    {
+      "page": "/faqs/file-or-obtain-reports-alabama/",
+      "screenPageViews": 41,
+      "sessions": 35
+    },
+    {
+      "page": "/alabamaarea1/clkn/https/www.norrisinjurylawyers.com/",
+      "screenPageViews": 37,
+      "sessions": 32
     },
     {
       "page": "/blog/2022/06/30/how-contributory-negligence-works-in-alabama/",
-      "screenPageViews": 37,
-      "sessions": 38
+      "screenPageViews": 36,
+      "sessions": 37
     },
     {
-      "page": "/cases-we-handle/alabama-environmental-dangers/",
-      "screenPageViews": 37,
-      "sessions": 31
+      "page": "/cases-we-handle/alabama-mesothelioma/alabama-asbestos-claims-process-faqs/",
+      "screenPageViews": 35,
+      "sessions": 33
     }
   ],
-  "fetchedAt": "2026-03-18T13:07:08.279Z"
+  "fetchedAt": "2026-04-07T16:21:58.366Z"
 }

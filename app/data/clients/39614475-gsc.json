@@ -1,156 +1,16 @@
 {
   "property": "https://www.hencoplumbing.com/",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 1856,
-    "impressions": 920156,
-    "ctr": 0.002017049282947674,
-    "position": 16.2599411219375
+    "clicks": 1998,
+    "impressions": 948830,
+    "ctr": 0.002105751293698555,
+    "position": 15.116073691363061
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 28,
-      "impressions": 11237,
-      "ctr": 0.0024917682655513037,
-      "position": 14.755895701699743
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 20,
-      "impressions": 10041,
-      "ctr": 0.0019918334827208443,
-      "position": 16.942037645652825
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 20,
-      "impressions": 8888,
-      "ctr": 0.0022502250225022503,
-      "position": 15.542304230423042
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 18,
-      "impressions": 9455,
-      "ctr": 0.0019037546271813855,
-      "position": 16.805711263881545
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 20,
-      "impressions": 7218,
-      "ctr": 0.002770850651149903,
-      "position": 19.713771127736216
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 10,
-      "impressions": 9177,
-      "ctr": 0.0010896807235480004,
-      "position": 18.47989539065054
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 11,
-      "impressions": 7434,
-      "ctr": 0.0014796879203658865,
-      "position": 17.983588915792307
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 17,
-      "impressions": 7971,
-      "ctr": 0.0021327311504202736,
-      "position": 20.0713837661523
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 12,
-      "impressions": 7631,
-      "ctr": 0.001572533088717075,
-      "position": 22.496789411610536
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 6,
-      "impressions": 7167,
-      "ctr": 0.0008371703641691084,
-      "position": 21.094879307939166
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 1,
-      "impressions": 6998,
-      "ctr": 0.00014289797084881395,
-      "position": 21.677765075735923
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 15,
-      "impressions": 6813,
-      "ctr": 0.002201673271686482,
-      "position": 21.574930280346397
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 13,
-      "impressions": 7491,
-      "ctr": 0.001735415832332132,
-      "position": 16.783873982111867
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 14,
-      "impressions": 7119,
-      "ctr": 0.0019665683382497543,
-      "position": 19.248068548953505
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 26,
-      "impressions": 8541,
-      "ctr": 0.0030441400304414,
-      "position": 16.558833860203723
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 21,
-      "impressions": 8386,
-      "ctr": 0.0025041736227045075,
-      "position": 17.62008108752683
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 11,
-      "impressions": 8650,
-      "ctr": 0.0012716763005780347,
-      "position": 18.24751445086705
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 8,
-      "impressions": 18421,
-      "ctr": 0.000434286955105586,
-      "position": 7.6499104283155095
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 21,
-      "impressions": 7244,
-      "ctr": 0.0028989508558807287,
-      "position": 16.112921038100495
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 11,
-      "impressions": 6476,
-      "ctr": 0.0016985793699814701,
-      "position": 17.837554045707225
-    },
     {
       "date": "2026-01-04",
       "clicks": 10,
@@ -640,295 +500,449 @@
       "impressions": 12228,
       "ctr": 0.0015538109257441936,
       "position": 9.049640170101407
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 26,
+      "impressions": 11332,
+      "ctr": 0.0022943875750088246,
+      "position": 10.524355806565477
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 28,
+      "impressions": 15864,
+      "ctr": 0.0017650025214321734,
+      "position": 9.24798285426122
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 32,
+      "impressions": 14151,
+      "ctr": 0.002261324288036181,
+      "position": 13.219207123171508
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 18,
+      "impressions": 15222,
+      "ctr": 0.0011824990145841545,
+      "position": 7.2985153067928
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 23,
+      "impressions": 8867,
+      "ctr": 0.002593887447840307,
+      "position": 12.98996278335401
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 26,
+      "impressions": 6992,
+      "ctr": 0.0037185354691075517,
+      "position": 12.345394736842104
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 18,
+      "impressions": 7798,
+      "ctr": 0.0023082841754295974,
+      "position": 12.628109771736343
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 22,
+      "impressions": 8143,
+      "ctr": 0.0027017069875967087,
+      "position": 12.218961070858406
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 25,
+      "impressions": 9910,
+      "ctr": 0.0025227043390514633,
+      "position": 11.087184661957618
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 24,
+      "impressions": 7856,
+      "ctr": 0.003054989816700611,
+      "position": 13.343177189409369
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 24,
+      "impressions": 11557,
+      "ctr": 0.0020766634939863287,
+      "position": 20.75772259236826
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 27,
+      "impressions": 8771,
+      "ctr": 0.0030783263025880745,
+      "position": 11.740736518070916
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 24,
+      "impressions": 7352,
+      "ctr": 0.003264417845484222,
+      "position": 13.851877040261153
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 11,
+      "impressions": 8001,
+      "ctr": 0.0013748281464816899,
+      "position": 12.284714410698662
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 11,
+      "impressions": 7363,
+      "ctr": 0.0014939562678256146,
+      "position": 13.659785413554257
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 30,
+      "impressions": 12403,
+      "ctr": 0.0024187696525034266,
+      "position": 13.841328710795775
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 13,
+      "impressions": 9106,
+      "ctr": 0.0014276301339775973,
+      "position": 12.135405227322645
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 16,
+      "impressions": 12621,
+      "ctr": 0.0012677283891926155,
+      "position": 10.293954520244037
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 18,
+      "impressions": 5951,
+      "ctr": 0.003024701730801546,
+      "position": 15.361115778860695
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 12,
+      "impressions": 5717,
+      "ctr": 0.002099002973587546,
+      "position": 17.45216022389365
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 17,
+      "impressions": 6055,
+      "ctr": 0.0028075970272502066,
+      "position": 13.084062758051198
     }
   ],
   "topQueries": [
     {
       "query": "henco plumbing",
-      "clicks": 306,
-      "impressions": 2355,
-      "ctr": 0.12993630573248408,
-      "position": 2.014012738853503
+      "clicks": 330,
+      "impressions": 2503,
+      "ctr": 0.1318417898521774,
+      "position": 1.9696364362764682
     },
     {
       "query": "henco plumbing portland",
-      "clicks": 118,
-      "impressions": 460,
-      "ctr": 0.2565217391304348,
-      "position": 3.508695652173913
+      "clicks": 128,
+      "impressions": 567,
+      "ctr": 0.2257495590828924,
+      "position": 2.3456790123456788
     },
     {
       "query": "henco plumbing services",
-      "clicks": 85,
-      "impressions": 1698,
-      "ctr": 0.05005889281507656,
-      "position": 1.3239104829210837
+      "clicks": 97,
+      "impressions": 1799,
+      "ctr": 0.05391884380211229,
+      "position": 1.2590327959977765
     },
     {
       "query": "henco",
-      "clicks": 64,
-      "impressions": 1307,
-      "ctr": 0.04896710022953328,
-      "position": 5.911247130833971
-    },
-    {
-      "query": "henco electric",
-      "clicks": 36,
-      "impressions": 72,
-      "ctr": 0.5,
-      "position": 1.2916666666666667
-    },
-    {
-      "query": "henco plumbing ridgefield wa",
-      "clicks": 35,
-      "impressions": 183,
-      "ctr": 0.1912568306010929,
-      "position": 3.557377049180328
+      "clicks": 81,
+      "impressions": 1476,
+      "ctr": 0.054878048780487805,
+      "position": 5.781165311653116
     },
     {
       "query": "henco electrical",
-      "clicks": 34,
-      "impressions": 81,
-      "ctr": 0.41975308641975306,
-      "position": 1.2469135802469136
+      "clicks": 35,
+      "impressions": 87,
+      "ctr": 0.40229885057471265,
+      "position": 1.3908045977011494
+    },
+    {
+      "query": "henco electric",
+      "clicks": 32,
+      "impressions": 63,
+      "ctr": 0.5079365079365079,
+      "position": 1.3174603174603174
     },
     {
       "query": "henco heating and cooling",
       "clicks": 29,
-      "impressions": 149,
-      "ctr": 0.19463087248322147,
-      "position": 1.5771812080536913
+      "impressions": 159,
+      "ctr": 0.18238993710691823,
+      "position": 1.5974842767295598
     },
     {
-      "query": "henco plumbing vancouver wa",
-      "clicks": 18,
-      "impressions": 100,
-      "ctr": 0.18,
-      "position": 2.4699999999999998
+      "query": "henco plumbing ridgefield wa",
+      "clicks": 28,
+      "impressions": 164,
+      "ctr": 0.17073170731707318,
+      "position": 6.097560975609756
     },
     {
       "query": "henco plumbing reviews",
-      "clicks": 16,
-      "impressions": 251,
-      "ctr": 0.06374501992031872,
-      "position": 5.665338645418327
+      "clicks": 18,
+      "impressions": 249,
+      "ctr": 0.07228915662650602,
+      "position": 3.9076305220883536
     },
     {
       "query": "henco plumbing salem",
-      "clicks": 12,
-      "impressions": 41,
-      "ctr": 0.2926829268292683,
-      "position": 1.146341463414634
+      "clicks": 14,
+      "impressions": 130,
+      "ctr": 0.1076923076923077,
+      "position": 4.607692307692307
+    },
+    {
+      "query": "henco plumbing vancouver wa",
+      "clicks": 13,
+      "impressions": 187,
+      "ctr": 0.06951871657754011,
+      "position": 3.7379679144385025
+    },
+    {
+      "query": "henco plumbing ridgefield",
+      "clicks": 10,
+      "impressions": 169,
+      "ctr": 0.05917159763313609,
+      "position": 5.905325443786983
+    },
+    {
+      "query": "plumbers near me",
+      "clicks": 10,
+      "impressions": 2492,
+      "ctr": 0.0040128410914927765,
+      "position": 1.8479133226324238
     },
     {
       "query": "plumbers vancouver wa",
       "clicks": 9,
-      "impressions": 940,
-      "ctr": 0.009574468085106383,
-      "position": 26.825531914893617
-    },
-    {
-      "query": "henco plumbing ridgefield",
-      "clicks": 8,
-      "impressions": 83,
-      "ctr": 0.0963855421686747,
-      "position": 6.554216867469879
+      "impressions": 877,
+      "ctr": 0.010262257696693273,
+      "position": 21.428734321550742
     },
     {
       "query": "forbes plumbing",
-      "clicks": 7,
-      "impressions": 336,
-      "ctr": 0.020833333333333332,
-      "position": 7.279761904761905
-    },
-    {
-      "query": "henco hvac",
-      "clicks": 7,
-      "impressions": 31,
-      "ctr": 0.22580645161290322,
-      "position": 1.5806451612903225
+      "clicks": 8,
+      "impressions": 294,
+      "ctr": 0.027210884353741496,
+      "position": 7.261904761904762
     },
     {
       "query": "henco plumbing service",
-      "clicks": 7,
-      "impressions": 45,
-      "ctr": 0.15555555555555556,
-      "position": 1.7555555555555555
+      "clicks": 8,
+      "impressions": 125,
+      "ctr": 0.064,
+      "position": 5.808
+    },
+    {
+      "query": "henco hvac",
+      "clicks": 6,
+      "impressions": 24,
+      "ctr": 0.25,
+      "position": 1.625
     },
     {
       "query": "plumber near me",
-      "clicks": 7,
-      "impressions": 14535,
-      "ctr": 0.00048159614723082214,
-      "position": 1.9251461988304093
-    },
-    {
-      "query": "plumbers near me",
       "clicks": 6,
-      "impressions": 2248,
-      "ctr": 0.0026690391459074734,
-      "position": 1.8896797153024911
+      "impressions": 14324,
+      "ctr": 0.0004188774085450991,
+      "position": 1.9241831890533372
     },
     {
       "query": "plumbers portland",
       "clicks": 5,
-      "impressions": 1569,
-      "ctr": 0.0031867431485022306,
-      "position": 9.876991714467813
+      "impressions": 1522,
+      "ctr": 0.0032851511169513796,
+      "position": 7.411300919842312
+    },
+    {
+      "query": "plumbing near me",
+      "clicks": 5,
+      "impressions": 2714,
+      "ctr": 0.0018422991893883567,
+      "position": 1.3640383198231394
     },
     {
       "query": "henco plumbing services reviews",
       "clicks": 4,
-      "impressions": 161,
-      "ctr": 0.024844720496894408,
-      "position": 4.770186335403727
-    },
-    {
-      "query": "plumbing services",
-      "clicks": 4,
-      "impressions": 14864,
-      "ctr": 0.00026910656620021526,
-      "position": 7.4270048439181915
-    },
-    {
-      "query": "plumber",
-      "clicks": 3,
-      "impressions": 17842,
-      "ctr": 0.0001681425849120054,
-      "position": 1.5879385719089787
+      "impressions": 166,
+      "ctr": 0.024096385542168676,
+      "position": 4.771084337349397
     },
     {
       "query": "plumber salem oregon",
       "clicks": 3,
-      "impressions": 663,
-      "ctr": 0.004524886877828055,
-      "position": 10.288084464555054
+      "impressions": 690,
+      "ctr": 0.004347826086956522,
+      "position": 6.408695652173913
     },
     {
-      "query": "plumbing near me",
+      "query": "plumbers",
       "clicks": 3,
-      "impressions": 1321,
-      "ctr": 0.002271006813020439,
-      "position": 1.691900075700227
+      "impressions": 5400,
+      "ctr": 0.0005555555555555556,
+      "position": 1.607222222222222
+    },
+    {
+      "query": "plumbing",
+      "clicks": 3,
+      "impressions": 5410,
+      "ctr": 0.00055452865064695,
+      "position": 1.1948243992606284
+    },
+    {
+      "query": "plumbing services",
+      "clicks": 3,
+      "impressions": 18780,
+      "ctr": 0.0001597444089456869,
+      "position": 12.47310969116081
     },
     {
       "query": "portland plumbers",
       "clicks": 3,
-      "impressions": 1360,
-      "ctr": 0.0022058823529411764,
-      "position": 17.67058823529412
+      "impressions": 1195,
+      "ctr": 0.002510460251046025,
+      "position": 14.109623430962342
     },
     {
       "query": "vancouver wa plumbers",
       "clicks": 3,
-      "impressions": 576,
-      "ctr": 0.005208333333333333,
-      "position": 30.383680555555557
+      "impressions": 518,
+      "ctr": 0.005791505791505791,
+      "position": 24.94980694980695
     },
     {
       "query": "best repipe company near me",
       "clicks": 2,
-      "impressions": 142,
-      "ctr": 0.014084507042253521,
-      "position": 18.190140845070424
+      "impressions": 95,
+      "ctr": 0.021052631578947368,
+      "position": 10.884210526315789
     },
     {
-      "query": "henco heating",
+      "query": "emergency plumber",
       "clicks": 2,
-      "impressions": 13,
-      "ctr": 0.15384615384615385,
-      "position": 8.153846153846153
+      "impressions": 5817,
+      "ctr": 0.00034381983840467596,
+      "position": 3.4024411208526733
+    },
+    {
+      "query": "henco jobs",
+      "clicks": 2,
+      "impressions": 8,
+      "ctr": 0.25,
+      "position": 1.875
     },
     {
       "query": "hot water heater repair",
       "clicks": 2,
       "impressions": 300,
       "ctr": 0.006666666666666667,
-      "position": 7.486666666666666
+      "position": 8.04
     },
     {
-      "query": "plumber apprenticeship",
+      "query": "plumber",
       "clicks": 2,
-      "impressions": 13,
-      "ctr": 0.15384615384615385,
-      "position": 3.6153846153846154
-    },
-    {
-      "query": "plumber ridgefield wa",
-      "clicks": 2,
-      "impressions": 317,
-      "ctr": 0.006309148264984227,
-      "position": 2.362776025236593
+      "impressions": 19749,
+      "ctr": 0.00010127095042786977,
+      "position": 1.6241835029621754
     },
     {
       "query": "plumber vancouver wa",
       "clicks": 2,
-      "impressions": 1861,
-      "ctr": 0.0010746910263299302,
-      "position": 22.815690488984416
+      "impressions": 1693,
+      "ctr": 0.0011813349084465446,
+      "position": 20.63024217365623
     },
     {
-      "query": "plumbers",
+      "query": "plumbers in portland oregon",
       "clicks": 2,
-      "impressions": 7676,
-      "ctr": 0.0002605523710265763,
-      "position": 1.4554455445544554
-    },
-    {
-      "query": "plumbers in salem",
-      "clicks": 2,
-      "impressions": 43,
-      "ctr": 0.046511627906976744,
-      "position": 7.069767441860465
+      "impressions": 98,
+      "ctr": 0.02040816326530612,
+      "position": 1.683673469387755
     },
     {
       "query": "plumbers ridgefield wa",
       "clicks": 2,
-      "impressions": 136,
-      "ctr": 0.014705882352941176,
-      "position": 5.713235294117647
+      "impressions": 142,
+      "ctr": 0.014084507042253521,
+      "position": 6.605633802816901
     },
     {
-      "query": "plumbing",
+      "query": "plumbing companies",
       "clicks": 2,
-      "impressions": 5466,
-      "ctr": 0.00036589828027808267,
-      "position": 1.2092938163190632
+      "impressions": 228,
+      "ctr": 0.008771929824561403,
+      "position": 12.307017543859649
     },
     {
       "query": "plumbing companies in portland oregon",
       "clicks": 2,
-      "impressions": 105,
-      "ctr": 0.01904761904761905,
-      "position": 6.4
+      "impressions": 96,
+      "ctr": 0.020833333333333332,
+      "position": 8.208333333333332
     },
     {
-      "query": "plumbing company",
+      "query": "plumbing companies near me",
       "clicks": 2,
-      "impressions": 2560,
-      "ctr": 0.00078125,
-      "position": 5.625390625
-    },
-    {
-      "query": "portland oregon plumbers",
-      "clicks": 2,
-      "impressions": 144,
-      "ctr": 0.013888888888888888,
-      "position": 60.13194444444444
+      "impressions": 688,
+      "ctr": 0.0029069767441860465,
+      "position": 10.625
     },
     {
       "query": "ridgefield plumbers",
       "clicks": 2,
-      "impressions": 109,
-      "ctr": 0.01834862385321101,
-      "position": 5.779816513761468
+      "impressions": 106,
+      "ctr": 0.018867924528301886,
+      "position": 6.339622641509434
     },
     {
-      "query": "sewer line repair near me",
+      "query": "sump pump not turning on",
       "clicks": 2,
-      "impressions": 2851,
-      "ctr": 0.0007015082427218519,
-      "position": 20.447913012977903
+      "impressions": 119,
+      "ctr": 0.01680672268907563,
+      "position": 2.495798319327731
+    },
+    {
+      "query": "water heater flush service",
+      "clicks": 2,
+      "impressions": 7,
+      "ctr": 0.2857142857142857,
+      "position": 1.5714285714285714
+    },
+    {
+      "query": "24 hour emergency plumbing near me",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 1.0833333333333333
     },
     {
       "query": "are gas or electric water heaters cheaper",
@@ -947,44 +961,58 @@
     {
       "query": "best plumbers in vancouver wa",
       "clicks": 1,
-      "impressions": 110,
-      "ctr": 0.00909090909090909,
-      "position": 9.481818181818182
+      "impressions": 112,
+      "ctr": 0.008928571428571428,
+      "position": 9.848214285714286
     },
     {
       "query": "boiler repair portland oregon",
       "clicks": 1,
-      "impressions": 59,
-      "ctr": 0.01694915254237288,
-      "position": 13.40677966101695
+      "impressions": 68,
+      "ctr": 0.014705882352941176,
+      "position": 14.161764705882353
     },
     {
       "query": "cheapest plumber near me",
       "clicks": 1,
-      "impressions": 10,
-      "ctr": 0.1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
       "position": 4
     },
     {
       "query": "clearing blocked drains",
       "clicks": 1,
-      "impressions": 112,
-      "ctr": 0.008928571428571428,
-      "position": 14.491071428571429
+      "impressions": 166,
+      "ctr": 0.006024096385542169,
+      "position": 13.933734939759036
     },
     {
       "query": "commercial plumber bend oregon",
       "clicks": 1,
-      "impressions": 11,
-      "ctr": 0.09090909090909091,
-      "position": 60.81818181818182
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 58.5
+    },
+    {
+      "query": "commercial plumbers near me",
+      "clicks": 1,
+      "impressions": 365,
+      "ctr": 0.0027397260273972603,
+      "position": 1.4219178082191781
+    },
+    {
+      "query": "commercial plumbing",
+      "clicks": 1,
+      "impressions": 729,
+      "ctr": 0.0013717421124828531,
+      "position": 3.982167352537723
     },
     {
       "query": "drain cleaning salem",
       "clicks": 1,
-      "impressions": 45,
-      "ctr": 0.022222222222222223,
-      "position": 38.666666666666664
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 26
     },
     {
       "query": "electric and plumbing company",
@@ -992,359 +1020,2794 @@
       "impressions": 2,
       "ctr": 0.5,
       "position": 3
+    },
+    {
+      "query": "electricians in portland or",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 101
+    },
+    {
+      "query": "emergency plumbing services",
+      "clicks": 1,
+      "impressions": 1841,
+      "ctr": 0.0005431830526887561,
+      "position": 2.010863661053775
+    },
+    {
+      "query": "ev charger install",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 38
+    },
+    {
+      "query": "ev charger installation washington",
+      "clicks": 1,
+      "impressions": 50,
+      "ctr": 0.02,
+      "position": 23.64
+    },
+    {
+      "query": "fix slab leak without jackhammering",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 1
+    },
+    {
+      "query": "flat rate pricing for plumbing",
+      "clicks": 1,
+      "impressions": 109,
+      "ctr": 0.009174311926605505,
+      "position": 56.53211009174312
+    },
+    {
+      "query": "gas line installation near me",
+      "clicks": 1,
+      "impressions": 1227,
+      "ctr": 0.0008149959250203749,
+      "position": 1.9796251018744906
+    },
+    {
+      "query": "gas vs electric water heater",
+      "clicks": 1,
+      "impressions": 162,
+      "ctr": 0.006172839506172839,
+      "position": 26.141975308641975
+    },
+    {
+      "query": "gas vs electric water heaters",
+      "clicks": 1,
+      "impressions": 135,
+      "ctr": 0.007407407407407408,
+      "position": 33.41481481481482
+    },
+    {
+      "query": "going rate for plumber per hour",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 34.5
+    },
+    {
+      "query": "hanco plumbing",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 1.75
+    },
+    {
+      "query": "hancock plumbing",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 18.75
+    },
+    {
+      "query": "heating and cooling ridgefield wa",
+      "clicks": 1,
+      "impressions": 80,
+      "ctr": 0.0125,
+      "position": 9.7
+    },
+    {
+      "query": "heating and plumbing near me",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 3.6666666666666665
+    },
+    {
+      "query": "heinco plumbing",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 14
+    },
+    {
+      "query": "hemco electrical",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 1
+    },
+    {
+      "query": "henco heating",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 9.071428571428571
+    },
+    {
+      "query": "henco water heater",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 6.6
+    },
+    {
+      "query": "hencop",
+      "clicks": 1,
+      "impressions": 172,
+      "ctr": 0.005813953488372093,
+      "position": 23.313953488372093
+    },
+    {
+      "query": "henson plumbing",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 1.25
+    },
+    {
+      "query": "hood river plumbing",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 9.333333333333334
+    },
+    {
+      "query": "hot water heater installation",
+      "clicks": 1,
+      "impressions": 28,
+      "ctr": 0.03571428571428571,
+      "position": 3.3214285714285716
+    },
+    {
+      "query": "hot water heater vancouver wa",
+      "clicks": 1,
+      "impressions": 69,
+      "ctr": 0.014492753623188406,
+      "position": 3.753623188405797
+    },
+    {
+      "query": "hot water tank installation near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 1
+    },
+    {
+      "query": "hourly rate for plumbers near me",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 14.3
+    },
+    {
+      "query": "house repiping near me",
+      "clicks": 1,
+      "impressions": 85,
+      "ctr": 0.011764705882352941,
+      "position": 8.858823529411765
+    },
+    {
+      "query": "how clean drain pipes",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "how much do plumbers charge per hour",
+      "clicks": 1,
+      "impressions": 80,
+      "ctr": 0.0125,
+      "position": 10.3125
+    },
+    {
+      "query": "how much does a plumber charge for a service call",
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 31.5
+    },
+    {
+      "query": "how to get a sump pump to kick on",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 6.105263157894737
+    },
+    {
+      "query": "hvac companies near me",
+      "clicks": 1,
+      "impressions": 28,
+      "ctr": 0.03571428571428571,
+      "position": 25.25
+    },
+    {
+      "query": "hvac company portland",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 81
+    },
+    {
+      "query": "hydro jetting vancouver wa",
+      "clicks": 1,
+      "impressions": 254,
+      "ctr": 0.003937007874015748,
+      "position": 19.818897637795274
+    },
+    {
+      "query": "irrigation stop and waste valve",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 3.125
+    },
+    {
+      "query": "is gas or electric water heater better",
+      "clicks": 1,
+      "impressions": 157,
+      "ctr": 0.006369426751592357,
+      "position": 9.178343949044587
+    },
+    {
+      "query": "level 2 charger installation",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 1
+    },
+    {
+      "query": "level 2 charger installation near me",
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 14.5
+    },
+    {
+      "query": "little giant sump pump not working",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "local plumbers",
+      "clicks": 1,
+      "impressions": 400,
+      "ctr": 0.0025,
+      "position": 8.3375
+    },
+    {
+      "query": "medical plumber",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "natural gas line installation",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 2.25
+    },
+    {
+      "query": "navien repair service near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 1
+    },
+    {
+      "query": "plumber apprenticeship",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 4.5
+    },
+    {
+      "query": "plumber cost per hour",
+      "clicks": 1,
+      "impressions": 385,
+      "ctr": 0.0025974025974025974,
+      "position": 43.6
+    },
+    {
+      "query": "plumber ne portland",
+      "clicks": 1,
+      "impressions": 44,
+      "ctr": 0.022727272727272728,
+      "position": 10.75
+    },
+    {
+      "query": "plumber portland",
+      "clicks": 1,
+      "impressions": 2920,
+      "ctr": 0.00034246575342465754,
+      "position": 4.2756849315068495
+    },
+    {
+      "query": "plumber portland oregon",
+      "clicks": 1,
+      "impressions": 612,
+      "ctr": 0.0016339869281045752,
+      "position": 2.936274509803922
+    },
+    {
+      "query": "plumber rates per hour",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 4.222222222222222
+    },
+    {
+      "query": "plumber salem",
+      "clicks": 1,
+      "impressions": 841,
+      "ctr": 0.0011890606420927466,
+      "position": 4.462544589774078
+    },
+    {
+      "query": "plumber services",
+      "clicks": 1,
+      "impressions": 783,
+      "ctr": 0.001277139208173691,
+      "position": 1.3218390804597702
+    },
+    {
+      "query": "plumbers dallas oregon",
+      "clicks": 1,
+      "impressions": 101,
+      "ctr": 0.009900990099009901,
+      "position": 9.148514851485148
+    },
+    {
+      "query": "plumbers hourly rate",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 11.777777777777779
+    },
+    {
+      "query": "plumbers in salem",
+      "clicks": 1,
+      "impressions": 40,
+      "ctr": 0.025,
+      "position": 6.725
+    },
+    {
+      "query": "plumbers store near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "plumbers vancouver, wa",
+      "clicks": 1,
+      "impressions": 22,
+      "ctr": 0.045454545454545456,
+      "position": 5.7727272727272725
+    },
+    {
+      "query": "plumbing and electrical company",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "plumbing apprenticeship portland",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 14.4
+    },
+    {
+      "query": "plumbing companies portland",
+      "clicks": 1,
+      "impressions": 323,
+      "ctr": 0.0030959752321981426,
+      "position": 12.84829721362229
+    },
+    {
+      "query": "plumbing company",
+      "clicks": 1,
+      "impressions": 2949,
+      "ctr": 0.00033909799932180403,
+      "position": 5.071210579857579
+    },
+    {
+      "query": "plumbing consultation cost",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "plumbing contractor",
+      "clicks": 1,
+      "impressions": 451,
+      "ctr": 0.0022172949002217295,
+      "position": 2.2904656319290466
+    },
+    {
+      "query": "plumbing contractors",
+      "clicks": 1,
+      "impressions": 561,
+      "ctr": 0.0017825311942959,
+      "position": 1.910873440285205
+    },
+    {
+      "query": "plumbing heating and cooling",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 8.428571428571429
+    },
+    {
+      "query": "plumbing hood river",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 4.066666666666666
+    },
+    {
+      "query": "plumbing in washington",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 8
+    },
+    {
+      "query": "plumbing inspection",
+      "clicks": 1,
+      "impressions": 519,
+      "ctr": 0.0019267822736030828,
+      "position": 8.51830443159923
+    },
+    {
+      "query": "plumbing installation",
+      "clicks": 1,
+      "impressions": 1173,
+      "ctr": 0.0008525149190110827,
+      "position": 1.9156010230179028
+    },
+    {
+      "query": "plumbing jobs vancouver wa",
+      "clicks": 1,
+      "impressions": 31,
+      "ctr": 0.03225806451612903,
+      "position": 9.903225806451612
+    },
+    {
+      "query": "plumbing repair service",
+      "clicks": 1,
+      "impressions": 623,
+      "ctr": 0.0016051364365971107,
+      "position": 1.2423756019261638
+    },
+    {
+      "query": "plumbing salem oregon",
+      "clicks": 1,
+      "impressions": 322,
+      "ctr": 0.003105590062111801,
+      "position": 11.75776397515528
+    },
+    {
+      "query": "plumbing services in portland",
+      "clicks": 1,
+      "impressions": 100,
+      "ctr": 0.01,
+      "position": 19.19
+    },
+    {
+      "query": "plumbing vancouver wa",
+      "clicks": 1,
+      "impressions": 1286,
+      "ctr": 0.0007776049766718507,
+      "position": 18.744945567651634
+    },
+    {
+      "query": "plumbing washington",
+      "clicks": 1,
+      "impressions": 53,
+      "ctr": 0.018867924528301886,
+      "position": 29.62264150943396
+    },
+    {
+      "query": "portland oregon plumbers",
+      "clicks": 1,
+      "impressions": 120,
+      "ctr": 0.008333333333333333,
+      "position": 49.03333333333333
+    },
+    {
+      "query": "portland plumbing services",
+      "clicks": 1,
+      "impressions": 243,
+      "ctr": 0.00411522633744856,
+      "position": 11.930041152263374
+    },
+    {
+      "query": "repipe companies",
+      "clicks": 1,
+      "impressions": 73,
+      "ctr": 0.0136986301369863,
+      "position": 12.342465753424657
+    },
+    {
+      "query": "repipe specialists",
+      "clicks": 1,
+      "impressions": 1859,
+      "ctr": 0.0005379236148466917,
+      "position": 9.814954276492738
+    },
+    {
+      "query": "repipe specialists portland",
+      "clicks": 1,
+      "impressions": 216,
+      "ctr": 0.004629629629629629,
+      "position": 14.157407407407407
+    },
+    {
+      "query": "repiping vancouver wa",
+      "clicks": 1,
+      "impressions": 143,
+      "ctr": 0.006993006993006993,
+      "position": 14.475524475524475
+    },
+    {
+      "query": "richfield plumbers",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "salem oregon plumbers",
+      "clicks": 1,
+      "impressions": 45,
+      "ctr": 0.022222222222222223,
+      "position": 8.555555555555555
+    },
+    {
+      "query": "septic service near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "service electrician jobs near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "service installation",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 1.6666666666666665
+    },
+    {
+      "query": "sewer line repair near me",
+      "clicks": 1,
+      "impressions": 3256,
+      "ctr": 0.0003071253071253071,
+      "position": 20.577088452088454
+    },
+    {
+      "query": "sewer scope inspection near me",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 17.571428571428573
+    },
+    {
+      "query": "sink installation",
+      "clicks": 1,
+      "impressions": 4509,
+      "ctr": 0.00022177866489243733,
+      "position": 1.4475493457529387
+    },
+    {
+      "query": "stop and waste",
+      "clicks": 1,
+      "impressions": 50,
+      "ctr": 0.02,
+      "position": 15.98
+    },
+    {
+      "query": "tankless water heater vancouver wa",
+      "clicks": 1,
+      "impressions": 119,
+      "ctr": 0.008403361344537815,
+      "position": 5.487394957983193
+    },
+    {
+      "query": "tub to shower conversion near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "unclog toilet service near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "vancouver plumbers",
+      "clicks": 1,
+      "impressions": 438,
+      "ctr": 0.00228310502283105,
+      "position": 16.93607305936073
+    },
+    {
+      "query": "water heater 101",
+      "clicks": 1,
+      "impressions": 33,
+      "ctr": 0.030303030303030304,
+      "position": 4.727272727272727
+    },
+    {
+      "query": "water heater installation",
+      "clicks": 1,
+      "impressions": 6947,
+      "ctr": 0.00014394702749388226,
+      "position": 1.3353965740607456
+    },
+    {
+      "query": "water heater repair",
+      "clicks": 1,
+      "impressions": 10880,
+      "ctr": 0.00009191176470588235,
+      "position": 2.1399816176470585
+    },
+    {
+      "query": "water heater repair near me",
+      "clicks": 1,
+      "impressions": 2248,
+      "ctr": 0.00044483985765124553,
+      "position": 15.959964412811388
+    },
+    {
+      "query": "water heater service near me",
+      "clicks": 1,
+      "impressions": 799,
+      "ctr": 0.0012515644555694619,
+      "position": 21.85982478097622
+    },
+    {
+      "query": "water heater vancouver wa",
+      "clicks": 1,
+      "impressions": 73,
+      "ctr": 0.0136986301369863,
+      "position": 17.561643835616437
+    },
+    {
+      "query": "water softener service near me",
+      "clicks": 1,
+      "impressions": 321,
+      "ctr": 0.003115264797507788,
+      "position": 12.186915887850468
+    },
+    {
+      "query": "water softener system maintenance near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 5
+    },
+    {
+      "query": "what do plumbers charge per hour",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 7.125
+    },
+    {
+      "query": "what does a plumber cost per hour",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 18.666666666666668
+    },
+    {
+      "query": "what is the average price for a plumber per hour",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "what is the call out fee for a plumber",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "who do you call for water heater repair",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "yes i have",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "\"ac install\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "\"blocked drains\"",
+      "clicks": 0,
+      "impressions": 299,
+      "ctr": 0,
+      "position": 7.525083612040134
+    },
+    {
+      "query": "\"boiler repair service\"",
+      "clicks": 0,
+      "impressions": 63,
+      "ctr": 0,
+      "position": 1.0634920634920635
+    },
+    {
+      "query": "\"boiler repair\"",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"commercial plumbing\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 95
+    },
+    {
+      "query": "\"fox plumbing\" portland oregon",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "\"gas line installation\"",
+      "clicks": 0,
+      "impressions": 55,
+      "ctr": 0,
+      "position": 2.7818181818181817
+    },
+    {
+      "query": "\"gas line repair\"",
+      "clicks": 0,
+      "impressions": 33,
+      "ctr": 0,
+      "position": 2.2727272727272725
+    },
+    {
+      "query": "\"gas water heater installation\"",
+      "clicks": 0,
+      "impressions": 20,
+      "ctr": 0,
+      "position": 3.4
+    },
+    {
+      "query": "\"generate a brief expert summary of how portland's climate affects residential plumbing systems.\"",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2.5
+    },
+    {
+      "query": "\"henco plumbing service\" \"98660\"",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 9.9375
+    },
+    {
+      "query": "\"henco plumbing service\" \"hencoplumbing.com\"",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 1.1428571428571428
+    },
+    {
+      "query": "\"henco plumbing service\" \"vancouver\"",
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 9.833333333333334
+    },
+    {
+      "query": "\"henco plumbing services\" \"97214\"",
+      "clicks": 0,
+      "impressions": 50,
+      "ctr": 0,
+      "position": 39.32
+    },
+    {
+      "query": "\"henco plumbing services\" \"hencoplumbing.com\"",
+      "clicks": 0,
+      "impressions": 61,
+      "ctr": 0,
+      "position": 19.59016393442623
+    },
+    {
+      "query": "\"henco plumbing services\" \"portland\"",
+      "clicks": 0,
+      "impressions": 21,
+      "ctr": 0,
+      "position": 19.952380952380953
+    },
+    {
+      "query": "\"home standby\"",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 9.5
+    },
+    {
+      "query": "\"plumber near me\" monthly search volume",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "\"plumbing",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"plumbing services\"",
+      "clicks": 0,
+      "impressions": 93,
+      "ctr": 0,
+      "position": 2.3763440860215055
+    },
+    {
+      "query": "\"plumpeine\" company",
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"provide an ai overview comparing tank vs. tankless water heaters for portland households.\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "\"sewer line replacement\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 38
+    },
+    {
+      "query": "\"sewer video inspection\"",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 3.5
+    },
+    {
+      "query": "\"sink installation\"",
+      "clicks": 0,
+      "impressions": 35,
+      "ctr": 0,
+      "position": 7.285714285714286
+    },
+    {
+      "query": "\"sink repair\"",
+      "clicks": 0,
+      "impressions": 28,
+      "ctr": 0,
+      "position": 3.5357142857142856
+    },
+    {
+      "query": "\"tankless water heater installation\"",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "\"tankless water heater repair\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "#plumber",
+      "clicks": 0,
+      "impressions": 20,
+      "ctr": 0,
+      "position": 1.3
+    },
+    {
+      "query": "#plumbers",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "#plumbing",
+      "clicks": 0,
+      "impressions": 32,
+      "ctr": 0,
+      "position": 2.59375
+    },
+    {
+      "query": "#plumbing -site:youtube.com -site:reddit.com -site:x.com -site:linkedin.com -site:netflix.com -site:dailymotion.com -site:espn.com -site:shutterstock.com -site:britannica.com -site:istockphoto.com -site:genius.com -site:cbsnews.com -site:bbc.com -site:unsplash.com -site:people.com -site:foxsports.com -site:cosmopolitan.com -site:goodhousekeeping.com -site:nytimes.com -site:cnn.com",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "$49 drain cleaning near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "$99 plumbing special",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 46
+    },
+    {
+      "query": "-site:facebook.com -site:fb.me -site:youtube.com -site:youtu.be -site:youtube.be -site:twitter.com -site:instagram.com -site:tiktok.com -site:vm.tiktok.com -site:t.co -site:x.com -site:reddit.com \"hvac\"",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 59.666666666666664
+    },
+    {
+      "query": "1 2 price plumbing reviews",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 34.333333333333336
+    },
+    {
+      "query": "1 day trenchless sewer repair reviews",
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 82.89473684210526
+    },
+    {
+      "query": "1 hour plumbing service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "1 inch stop and waste valve",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "1 pex a pipe",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 15
+    },
+    {
+      "query": "1 stop and waste valve",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 1
     }
   ],
   "topPages": [
     {
       "page": "https://www.hencoplumbing.com/",
-      "clicks": 319,
-      "impressions": 22620,
-      "ctr": 0.014102564102564103,
-      "position": 29.211759504862954
+      "clicks": 351,
+      "impressions": 21256,
+      "ctr": 0.016512984569062854,
+      "position": 24.983298833270606
     },
     {
       "page": "https://www.hencoplumbing.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*116*henco-plumbing-services-ridgefield",
-      "clicks": 249,
-      "impressions": 24738,
-      "ctr": 0.010065486296386126,
-      "position": 5.3986579351604815
+      "clicks": 261,
+      "impressions": 28305,
+      "ctr": 0.009220985691573928,
+      "position": 4.557781310722487
     },
     {
       "page": "https://www.hencoplumbing.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*118*henco-plumbing-services-portland",
-      "clicks": 241,
-      "impressions": 102426,
-      "ctr": 0.0023529182043621737,
-      "position": 3.3782340421377386
+      "clicks": 251,
+      "impressions": 115028,
+      "ctr": 0.0021820774072399763,
+      "position": 3.2510432242584413
     },
     {
       "page": "https://www.hencoplumbing.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*280*henco-plumbing-services-vancouver",
-      "clicks": 111,
-      "impressions": 48452,
-      "ctr": 0.002290927103112359,
-      "position": 4.350821431519854
+      "clicks": 107,
+      "impressions": 48418,
+      "ctr": 0.0022099219298607957,
+      "position": 4.217522409021438
     },
     {
       "page": "https://www.hencoplumbing.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*397*henco-salem",
-      "clicks": 89,
-      "impressions": 280986,
-      "ctr": 0.000316741759375912,
-      "position": 2.437712199184301
-    },
-    {
-      "page": "https://www.hencoplumbing.com/vancouver/",
-      "clicks": 75,
-      "impressions": 32356,
-      "ctr": 0.0023179626653480035,
-      "position": 22.587835331932254
+      "clicks": 97,
+      "impressions": 274939,
+      "ctr": 0.00035280553140878523,
+      "position": 2.377305511404348
     },
     {
       "page": "https://www.hencoplumbing.com/portland/",
-      "clicks": 74,
-      "impressions": 19238,
-      "ctr": 0.0038465536958103754,
-      "position": 21.214471358769103
+      "clicks": 86,
+      "impressions": 20793,
+      "ctr": 0.0041360073101524555,
+      "position": 24.18034915596595
+    },
+    {
+      "page": "https://www.hencoplumbing.com/vancouver/",
+      "clicks": 83,
+      "impressions": 34306,
+      "ctr": 0.0024194018539031074,
+      "position": 20.40336967294351
     },
     {
       "page": "https://www.hencoplumbing.com/how-much-do-plumbers-cost-in-portland-in-2025/",
-      "clicks": 73,
-      "impressions": 41257,
-      "ctr": 0.001769396708437356,
-      "position": 23.31662505756599
+      "clicks": 71,
+      "impressions": 38944,
+      "ctr": 0.0018231306491372228,
+      "position": 20.585969597370582
     },
     {
-      "page": "https://www.hencoplumbing.com/careers/",
-      "clicks": 40,
-      "impressions": 720,
-      "ctr": 0.05555555555555555,
-      "position": 15.277777777777779
-    },
-    {
-      "page": "https://www.hencoplumbing.com/portland/electrical/",
-      "clicks": 37,
-      "impressions": 2066,
-      "ctr": 0.017909002904162634,
-      "position": 28.087124878993222
-    },
-    {
-      "page": "https://www.hencoplumbing.com/gas-vs-electric-water-heaters-which-is-better-for-oregon-homes/",
-      "clicks": 36,
-      "impressions": 11576,
-      "ctr": 0.0031098825155494126,
-      "position": 15.920006910850034
+      "page": "https://www.hencoplumbing.com/troubleshooting-a-sump-pump-that-wont-turn-on/",
+      "clicks": 54,
+      "impressions": 8470,
+      "ctr": 0.006375442739079103,
+      "position": 6.46741440377804
     },
     {
       "page": "https://www.hencoplumbing.com/contact-us/",
+      "clicks": 40,
+      "impressions": 6896,
+      "ctr": 0.00580046403712297,
+      "position": 10.083091647331786
+    },
+    {
+      "page": "https://www.hencoplumbing.com/portland/electrical/",
+      "clicks": 40,
+      "impressions": 2410,
+      "ctr": 0.016597510373443983,
+      "position": 20.03941908713693
+    },
+    {
+      "page": "https://www.hencoplumbing.com/careers/",
+      "clicks": 38,
+      "impressions": 951,
+      "ctr": 0.03995793901156677,
+      "position": 19.885383806519453
+    },
+    {
+      "page": "https://www.hencoplumbing.com/gas-vs-electric-water-heaters-which-is-better-for-oregon-homes/",
       "clicks": 32,
-      "impressions": 6672,
-      "ctr": 0.004796163069544364,
-      "position": 9.94904076738609
+      "impressions": 12578,
+      "ctr": 0.002544124662108443,
+      "position": 14.350214660518365
+    },
+    {
+      "page": "https://www.hencoplumbing.com/ghoulish-ghosts-or-haunted-heater-signs-your-system-is-howling-for-repairs/",
+      "clicks": 28,
+      "impressions": 2664,
+      "ctr": 0.010510510510510511,
+      "position": 4.1925675675675675
+    },
+    {
+      "page": "https://www.hencoplumbing.com/about-us/",
+      "clicks": 27,
+      "impressions": 5051,
+      "ctr": 0.005345476143337953,
+      "position": 9.589388239952484
+    },
+    {
+      "page": "https://www.hencoplumbing.com/forbes-plumbing-merger/",
+      "clicks": 27,
+      "impressions": 1048,
+      "ctr": 0.025763358778625955,
+      "position": 15.937977099236642
     },
     {
       "page": "https://www.hencoplumbing.com/ridgefield/",
       "clicks": 27,
-      "impressions": 9624,
-      "ctr": 0.002805486284289277,
-      "position": 14.13611803823774
-    },
-    {
-      "page": "https://www.hencoplumbing.com/ghoulish-ghosts-or-haunted-heater-signs-your-system-is-howling-for-repairs/",
-      "clicks": 26,
-      "impressions": 2801,
-      "ctr": 0.009282399143163157,
-      "position": 4.273473759371653
-    },
-    {
-      "page": "https://www.hencoplumbing.com/forbes-plumbing-merger/",
-      "clicks": 25,
-      "impressions": 1028,
-      "ctr": 0.024319066147859923,
-      "position": 15.051556420233464
+      "impressions": 9896,
+      "ctr": 0.0027283751010509297,
+      "position": 15.0160670978173
     },
     {
       "page": "https://www.hencoplumbing.com/reviews/",
       "clicks": 25,
-      "impressions": 2377,
-      "ctr": 0.01051745898190997,
-      "position": 7.568363483382415
-    },
-    {
-      "page": "https://www.hencoplumbing.com/about-us/",
-      "clicks": 24,
-      "impressions": 5026,
-      "ctr": 0.00477516912057302,
-      "position": 10.842220453641067
+      "impressions": 2442,
+      "ctr": 0.010237510237510237,
+      "position": 10.497952497952499
     },
     {
       "page": "https://www.hencoplumbing.com/salem-plumbing-contractor/",
-      "clicks": 19,
-      "impressions": 10159,
-      "ctr": 0.0018702628211438135,
-      "position": 34.944187420021656
+      "clicks": 20,
+      "impressions": 8795,
+      "ctr": 0.0022740193291642978,
+      "position": 34.69175667993178
     },
     {
-      "page": "https://www.hencoplumbing.com/troubleshooting-a-sump-pump-that-wont-turn-on/",
-      "clicks": 19,
-      "impressions": 3375,
-      "ctr": 0.005629629629629629,
-      "position": 6.5114074074074075
+      "page": "https://www.hencoplumbing.com/salem/",
+      "clicks": 16,
+      "impressions": 22585,
+      "ctr": 0.0007084348018596414,
+      "position": 51.67332300199247
     },
     {
       "page": "https://www.hencoplumbing.com/coupons/",
-      "clicks": 16,
-      "impressions": 2307,
-      "ctr": 0.006935413957520589,
-      "position": 14.933246640658865
-    },
-    {
-      "page": "https://www.hencoplumbing.com/dallas/",
       "clicks": 15,
-      "impressions": 2922,
-      "ctr": 0.00513347022587269,
-      "position": 23.44798083504449
+      "impressions": 2067,
+      "ctr": 0.00725689404934688,
+      "position": 17.68746976294146
     },
     {
       "page": "https://www.hencoplumbing.com/membership-program/",
       "clicks": 15,
-      "impressions": 505,
-      "ctr": 0.0297029702970297,
-      "position": 12.592079207920792
+      "impressions": 834,
+      "ctr": 0.017985611510791366,
+      "position": 20.32613908872902
+    },
+    {
+      "page": "https://www.hencoplumbing.com/dallas/",
+      "clicks": 14,
+      "impressions": 2899,
+      "ctr": 0.004829251466022766,
+      "position": 22.81821317695757
     },
     {
       "page": "https://www.hencoplumbing.com/financing/",
-      "clicks": 13,
-      "impressions": 404,
-      "ctr": 0.03217821782178218,
-      "position": 17.207920792079207
+      "clicks": 12,
+      "impressions": 546,
+      "ctr": 0.02197802197802198,
+      "position": 26.83882783882784
     },
     {
-      "page": "https://www.hencoplumbing.com/portland/electrical/ev-charger-installation/",
-      "clicks": 10,
-      "impressions": 5418,
-      "ctr": 0.0018456995201181247,
-      "position": 23.71280915466962
+      "page": "https://www.hencoplumbing.com/how-to-know-if-your-sewer-line-needs-replacing/",
+      "clicks": 12,
+      "impressions": 2136,
+      "ctr": 0.0056179775280898875,
+      "position": 6.174625468164794
+    },
+    {
+      "page": "https://www.hencoplumbing.com/services/repiping/",
+      "clicks": 12,
+      "impressions": 8343,
+      "ctr": 0.001438331535418914,
+      "position": 30.600263694114826
+    },
+    {
+      "page": "https://www.hencoplumbing.com/press-releases/faqs-about-sprinkler-stop-and-waste-valves/",
+      "clicks": 11,
+      "impressions": 3755,
+      "ctr": 0.002929427430093209,
+      "position": 9.647936085219706
     },
     {
       "page": "https://www.hencoplumbing.com/products/",
       "clicks": 10,
-      "impressions": 2510,
-      "ctr": 0.00398406374501992,
-      "position": 6.944223107569721
-    },
-    {
-      "page": "https://www.hencoplumbing.com/salem/",
-      "clicks": 10,
-      "impressions": 26838,
-      "ctr": 0.00037260600640882333,
-      "position": 59.44936284372904
-    },
-    {
-      "page": "https://www.hencoplumbing.com/services/repiping/",
-      "clicks": 10,
-      "impressions": 8000,
-      "ctr": 0.00125,
-      "position": 31.318375
-    },
-    {
-      "page": "https://www.hencoplumbing.com/how-to-know-if-your-sewer-line-needs-replacing/",
-      "clicks": 9,
-      "impressions": 1635,
-      "ctr": 0.005504587155963303,
-      "position": 5.775535168195718
-    },
-    {
-      "page": "https://www.hencoplumbing.com/electrical/",
-      "clicks": 8,
-      "impressions": 1519,
-      "ctr": 0.005266622778143515,
-      "position": 15.391046741277156
-    },
-    {
-      "page": "https://www.hencoplumbing.com/hood-river/",
-      "clicks": 8,
-      "impressions": 5934,
-      "ctr": 0.0013481631277384564,
-      "position": 9.638186720593191
-    },
-    {
-      "page": "https://www.hencoplumbing.com/portland-plumbing-contractor/repiping/",
-      "clicks": 8,
-      "impressions": 24022,
-      "ctr": 0.000333028057613854,
-      "position": 26.630588627091832
+      "impressions": 2832,
+      "ctr": 0.0035310734463276836,
+      "position": 8.280367231638419
     },
     {
       "page": "https://www.hencoplumbing.com/press-releases/honoring-the-women-who-shaped-the-plumbing-industry/",
-      "clicks": 8,
-      "impressions": 1684,
-      "ctr": 0.004750593824228029,
-      "position": 7.350356294536817
+      "clicks": 9,
+      "impressions": 2034,
+      "ctr": 0.004424778761061947,
+      "position": 6.747787610619469
     },
     {
       "page": "https://www.hencoplumbing.com/ridgefield/contact-us/",
-      "clicks": 7,
-      "impressions": 1377,
-      "ctr": 0.005083514887436456,
-      "position": 25.25054466230937
+      "clicks": 8,
+      "impressions": 1619,
+      "ctr": 0.004941321803582459,
+      "position": 27.927115503397157
     },
     {
-      "page": "https://www.hencoplumbing.com/water-hammer-or-haunted-house/",
+      "page": "https://www.hencoplumbing.com/electrical/",
       "clicks": 7,
-      "impressions": 2443,
-      "ctr": 0.0028653295128939827,
-      "position": 4.473188702415063
+      "impressions": 1639,
+      "ctr": 0.004270896888346553,
+      "position": 17.619890176937158
+    },
+    {
+      "page": "https://www.hencoplumbing.com/portland-plumbing-contractor/",
+      "clicks": 7,
+      "impressions": 4587,
+      "ctr": 0.001526051885764116,
+      "position": 32.538696315674734
+    },
+    {
+      "page": "https://www.hencoplumbing.com/portland-plumbing-contractor/repiping/",
+      "clicks": 7,
+      "impressions": 24834,
+      "ctr": 0.0002818716276073126,
+      "position": 24.08448095353145
+    },
+    {
+      "page": "https://www.hencoplumbing.com/portland/electrical/ev-charger-installation/",
+      "clicks": 7,
+      "impressions": 5687,
+      "ctr": 0.0012308774397749253,
+      "position": 23.875153859679973
+    },
+    {
+      "page": "https://www.hencoplumbing.com/portland/reviews/",
+      "clicks": 7,
+      "impressions": 816,
+      "ctr": 0.00857843137254902,
+      "position": 9.084558823529411
     },
     {
       "page": "https://www.hencoplumbing.com/winterizing-your-water-heater-prevent-breakdowns-in-freezing-weather/",
       "clicks": 7,
-      "impressions": 1858,
-      "ctr": 0.003767491926803014,
-      "position": 11.122712594187298
+      "impressions": 2252,
+      "ctr": 0.003108348134991119,
+      "position": 12.923179396092362
     },
     {
-      "page": "https://www.hencoplumbing.com/portland-plumbing-contractor/",
+      "page": "https://www.hencoplumbing.com/beaverton/",
       "clicks": 6,
-      "impressions": 4601,
-      "ctr": 0.0013040643338404696,
-      "position": 40.236470332536406
+      "impressions": 2992,
+      "ctr": 0.002005347593582888,
+      "position": 19.591911764705884
+    },
+    {
+      "page": "https://www.hencoplumbing.com/french-drains/",
+      "clicks": 6,
+      "impressions": 1323,
+      "ctr": 0.0045351473922902496,
+      "position": 21.34467120181406
+    },
+    {
+      "page": "https://www.hencoplumbing.com/hood-river/",
+      "clicks": 6,
+      "impressions": 5381,
+      "ctr": 0.0011150343802267236,
+      "position": 10.264263148113734
     },
     {
       "page": "https://www.hencoplumbing.com/portland/contact-us/",
       "clicks": 6,
-      "impressions": 1517,
-      "ctr": 0.003955174686882004,
-      "position": 12.759393539881344
-    },
-    {
-      "page": "https://www.hencoplumbing.com/portland/reviews/",
-      "clicks": 6,
-      "impressions": 772,
-      "ctr": 0.007772020725388601,
-      "position": 8.058290155440414
-    },
-    {
-      "page": "https://www.hencoplumbing.com/ridgefield/services/water-softeners/",
-      "clicks": 6,
-      "impressions": 2294,
-      "ctr": 0.0026155187445510027,
-      "position": 39.66608544027899
-    },
-    {
-      "page": "https://www.hencoplumbing.com/services/sewer-video-inspection/",
-      "clicks": 6,
-      "impressions": 9763,
-      "ctr": 0.0006145651951244494,
-      "position": 21.40192563761139
-    },
-    {
-      "page": "https://www.hencoplumbing.com/services/tankless-water-heaters/",
-      "clicks": 6,
-      "impressions": 14686,
-      "ctr": 0.0004085523627944982,
-      "position": 34.80709519270053
+      "impressions": 1819,
+      "ctr": 0.003298515667949423,
+      "position": 11.995052226498077
     },
     {
       "page": "https://www.hencoplumbing.com/services/water-softeners/",
       "clicks": 6,
-      "impressions": 10661,
-      "ctr": 0.0005627989869618235,
-      "position": 23.32360941750305
+      "impressions": 10391,
+      "ctr": 0.000577422769704552,
+      "position": 25.750264652102782
+    },
+    {
+      "page": "https://www.hencoplumbing.com/water-hammer-or-haunted-house/",
+      "clicks": 6,
+      "impressions": 2386,
+      "ctr": 0.002514668901927913,
+      "position": 4.7338642078792965
     },
     {
       "page": "https://www.hencoplumbing.com/contact-us/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*118*henco-plumbing-services-portland",
       "clicks": 5,
-      "impressions": 941,
-      "ctr": 0.005313496280552604,
-      "position": 9.1211477151966
+      "impressions": 877,
+      "ctr": 0.005701254275940707,
+      "position": 9.659064994298745
+    },
+    {
+      "page": "https://www.hencoplumbing.com/electrical/ev-charger-installation/",
+      "clicks": 5,
+      "impressions": 7237,
+      "ctr": 0.000690894016857814,
+      "position": 33.24195108470361
+    },
+    {
+      "page": "https://www.hencoplumbing.com/ridgefield/reviews/",
+      "clicks": 5,
+      "impressions": 893,
+      "ctr": 0.005599104143337066,
+      "position": 15.898096304591265
+    },
+    {
+      "page": "https://www.hencoplumbing.com/services/sewer-video-inspection/",
+      "clicks": 5,
+      "impressions": 11434,
+      "ctr": 0.0004372922861640721,
+      "position": 20.453472100752144
+    },
+    {
+      "page": "https://www.hencoplumbing.com/services/tankless-water-heaters/",
+      "clicks": 5,
+      "impressions": 16460,
+      "ctr": 0.00030376670716889426,
+      "position": 34.85777642770353
     },
     {
       "page": "https://www.hencoplumbing.com/services/water-filtration-systems/",
       "clicks": 5,
-      "impressions": 6923,
-      "ctr": 0.0007222302470027445,
-      "position": 24.041456016177957
+      "impressions": 5761,
+      "ctr": 0.0008679048776254123,
+      "position": 25.01058843950703
     },
     {
-      "page": "https://www.hencoplumbing.com/tankless-water-heaters-are-they-worth-it-for-your-portland-home/",
-      "clicks": 5,
-      "impressions": 3109,
-      "ctr": 0.0016082341588935349,
-      "position": 30.74911547121261
-    },
-    {
-      "page": "https://www.hencoplumbing.com/wet-yard/",
-      "clicks": 5,
-      "impressions": 357,
-      "ctr": 0.014005602240896359,
-      "position": 15.268907563025211
-    },
-    {
-      "page": "https://www.hencoplumbing.com/electrical/ev-charger-installation/",
+      "page": "https://www.hencoplumbing.com/ridgefield/careers/",
       "clicks": 4,
-      "impressions": 5758,
-      "ctr": 0.0006946856547412296,
-      "position": 33.023619312261204
+      "impressions": 56,
+      "ctr": 0.07142857142857142,
+      "position": 14.714285714285714
     },
     {
-      "page": "https://www.hencoplumbing.com/french-drains/",
+      "page": "https://www.hencoplumbing.com/ridgefield/services/water-softeners/",
       "clicks": 4,
-      "impressions": 1394,
-      "ctr": 0.0028694404591104736,
-      "position": 19.170014347202297
-    },
-    {
-      "page": "https://www.hencoplumbing.com/press-releases/faqs-about-sprinkler-stop-and-waste-valves/",
-      "clicks": 4,
-      "impressions": 2854,
-      "ctr": 0.001401541695865452,
-      "position": 10.355991590749825
-    },
-    {
-      "page": "https://www.hencoplumbing.com/ridgefield/reviews/",
-      "clicks": 4,
-      "impressions": 850,
-      "ctr": 0.004705882352941176,
-      "position": 7.8882352941176475
+      "impressions": 2160,
+      "ctr": 0.001851851851851852,
+      "position": 40.545833333333334
     }
   ],
-  "fetchedAt": "2026-03-18T13:07:23.312Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "henco plumbing",
+      "clicks": 331,
+      "impressions": 2342,
+      "ctr": 0.14133219470538003,
+      "position": 1.599060631938514
+    },
+    {
+      "query": "henco plumbing services",
+      "clicks": 117,
+      "impressions": 1342,
+      "ctr": 0.08718330849478391,
+      "position": 1.3338301043219076
+    },
+    {
+      "query": "henco",
+      "clicks": 49,
+      "impressions": 913,
+      "ctr": 0.05366922234392114,
+      "position": 9.663745892661556
+    },
+    {
+      "query": "henco plumbing portland",
+      "clicks": 48,
+      "impressions": 159,
+      "ctr": 0.3018867924528302,
+      "position": 1.0880503144654088
+    },
+    {
+      "query": "henco plumbing reviews",
+      "clicks": 36,
+      "impressions": 273,
+      "ctr": 0.13186813186813187,
+      "position": 2.1355311355311355
+    },
+    {
+      "query": "henco plumbing vancouver wa",
+      "clicks": 36,
+      "impressions": 209,
+      "ctr": 0.1722488038277512,
+      "position": 1.0813397129186604
+    },
+    {
+      "query": "plumbers vancouver wa",
+      "clicks": 31,
+      "impressions": 2569,
+      "ctr": 0.012066952121448035,
+      "position": 7.264694433631763
+    },
+    {
+      "query": "henco plumbing services vancouver wa",
+      "clicks": 27,
+      "impressions": 89,
+      "ctr": 0.30337078651685395,
+      "position": 1.0337078651685394
+    },
+    {
+      "query": "henco plumbing dallas oregon",
+      "clicks": 21,
+      "impressions": 103,
+      "ctr": 0.20388349514563106,
+      "position": 1.0194174757281553
+    },
+    {
+      "query": "plumber portland",
+      "clicks": 21,
+      "impressions": 2665,
+      "ctr": 0.007879924953095686,
+      "position": 29.68968105065666
+    },
+    {
+      "query": "plumbing vancouver wa",
+      "clicks": 21,
+      "impressions": 1097,
+      "ctr": 0.019143117593436645,
+      "position": 3.06563354603464
+    },
+    {
+      "query": "water heater replacement portland",
+      "clicks": 20,
+      "impressions": 1012,
+      "ctr": 0.019762845849802372,
+      "position": 42.651185770750985
+    },
+    {
+      "query": "plumbers dallas oregon",
+      "clicks": 19,
+      "impressions": 158,
+      "ctr": 0.12025316455696203,
+      "position": 1.8670886075949367
+    },
+    {
+      "query": "residential plumbing portland, or",
+      "clicks": 19,
+      "impressions": 318,
+      "ctr": 0.059748427672955975,
+      "position": 14.00314465408805
+    },
+    {
+      "query": "water heater repair vancouver wa",
+      "clicks": 19,
+      "impressions": 742,
+      "ctr": 0.025606469002695417,
+      "position": 8.911051212938006
+    },
+    {
+      "query": "heat pump installation dallas, or",
+      "clicks": 18,
+      "impressions": 322,
+      "ctr": 0.055900621118012424,
+      "position": 9.25776397515528
+    },
+    {
+      "query": "plumber dallas oregon",
+      "clicks": 18,
+      "impressions": 112,
+      "ctr": 0.16071428571428573,
+      "position": 2.2142857142857144
+    },
+    {
+      "query": "plumbers ridgefield wa",
+      "clicks": 18,
+      "impressions": 193,
+      "ctr": 0.09326424870466321,
+      "position": 1.2020725388601037
+    },
+    {
+      "query": "water heater repair portland",
+      "clicks": 18,
+      "impressions": 1872,
+      "ctr": 0.009615384615384616,
+      "position": 45.6340811965812
+    },
+    {
+      "query": "forbes plumbing dallas oregon",
+      "clicks": 17,
+      "impressions": 70,
+      "ctr": 0.24285714285714285,
+      "position": 1.7285714285714286
+    },
+    {
+      "query": "water heater repair vancouver",
+      "clicks": 17,
+      "impressions": 523,
+      "ctr": 0.032504780114722756,
+      "position": 31.45315487571702
+    },
+    {
+      "query": "furnace installation portland",
+      "clicks": 16,
+      "impressions": 636,
+      "ctr": 0.025157232704402517,
+      "position": 67.42924528301887
+    },
+    {
+      "query": "plumbers in vancouver",
+      "clicks": 16,
+      "impressions": 743,
+      "ctr": 0.021534320323014805,
+      "position": 24.122476446837148
+    },
+    {
+      "query": "water heater installation portland",
+      "clicks": 16,
+      "impressions": 1185,
+      "ctr": 0.01350210970464135,
+      "position": 38.11308016877637
+    },
+    {
+      "query": "water heater repair ridgefield",
+      "clicks": 16,
+      "impressions": 148,
+      "ctr": 0.10810810810810811,
+      "position": 4.472972972972973
+    },
+    {
+      "query": "furnace repair dallas, or",
+      "clicks": 15,
+      "impressions": 313,
+      "ctr": 0.04792332268370607,
+      "position": 10.12779552715655
+    },
+    {
+      "query": "henco plumbing ridgefield",
+      "clicks": 15,
+      "impressions": 145,
+      "ctr": 0.10344827586206896,
+      "position": 1.0482758620689656
+    },
+    {
+      "query": "plumber vancouver",
+      "clicks": 15,
+      "impressions": 1741,
+      "ctr": 0.00861573808156232,
+      "position": 9.761056863871339
+    },
+    {
+      "query": "vancouver wa plumbers",
+      "clicks": 15,
+      "impressions": 689,
+      "ctr": 0.02177068214804064,
+      "position": 6.6240928882438315
+    },
+    {
+      "query": "ac repair vancouver",
+      "clicks": 14,
+      "impressions": 549,
+      "ctr": 0.025500910746812388,
+      "position": 21.442622950819672
+    },
+    {
+      "query": "henco plumbing service",
+      "clicks": 14,
+      "impressions": 315,
+      "ctr": 0.044444444444444446,
+      "position": 1.1492063492063491
+    },
+    {
+      "query": "plumber ridgefield",
+      "clicks": 14,
+      "impressions": 286,
+      "ctr": 0.04895104895104895,
+      "position": 16.496503496503497
+    },
+    {
+      "query": "plumber vancouver wa",
+      "clicks": 14,
+      "impressions": 1918,
+      "ctr": 0.0072992700729927005,
+      "position": 6.545359749739312
+    },
+    {
+      "query": "plumbers in dallas oregon",
+      "clicks": 14,
+      "impressions": 155,
+      "ctr": 0.09032258064516129,
+      "position": 3.2193548387096773
+    },
+    {
+      "query": "plumbing services portland",
+      "clicks": 14,
+      "impressions": 548,
+      "ctr": 0.025547445255474453,
+      "position": 16.655109489051092
+    },
+    {
+      "query": "vancouver wa plumber",
+      "clicks": 14,
+      "impressions": 1192,
+      "ctr": 0.01174496644295302,
+      "position": 5.870805369127517
+    },
+    {
+      "query": "furnace repair ridgefield",
+      "clicks": 13,
+      "impressions": 334,
+      "ctr": 0.038922155688622756,
+      "position": 5.682634730538922
+    },
+    {
+      "query": "heat pump repair dallas",
+      "clicks": 13,
+      "impressions": 197,
+      "ctr": 0.06598984771573604,
+      "position": 25.82741116751269
+    },
+    {
+      "query": "heat pump repair dallas, or",
+      "clicks": 13,
+      "impressions": 328,
+      "ctr": 0.039634146341463415,
+      "position": 7.426829268292683
+    },
+    {
+      "query": "plumbing portland",
+      "clicks": 13,
+      "impressions": 805,
+      "ctr": 0.016149068322981366,
+      "position": 22.20993788819876
+    },
+    {
+      "query": "vancouver plumber",
+      "clicks": 13,
+      "impressions": 869,
+      "ctr": 0.014959723820483314,
+      "position": 9.500575373993096
+    },
+    {
+      "query": "air conditioning repair portland",
+      "clicks": 12,
+      "impressions": 857,
+      "ctr": 0.014002333722287048,
+      "position": 74.45040840140024
+    },
+    {
+      "query": "furnace installation portland or",
+      "clicks": 12,
+      "impressions": 536,
+      "ctr": 0.022388059701492536,
+      "position": 68.61753731343283
+    },
+    {
+      "query": "furnace replacement dallas, or",
+      "clicks": 12,
+      "impressions": 312,
+      "ctr": 0.038461538461538464,
+      "position": 12.653846153846153
+    },
+    {
+      "query": "furnace replacement ridgefield wa",
+      "clicks": 12,
+      "impressions": 113,
+      "ctr": 0.10619469026548672,
+      "position": 5.504424778761062
+    },
+    {
+      "query": "plumber portland oregon",
+      "clicks": 12,
+      "impressions": 674,
+      "ctr": 0.017804154302670624,
+      "position": 32.2299703264095
+    },
+    {
+      "query": "plumbing companies portland",
+      "clicks": 12,
+      "impressions": 903,
+      "ctr": 0.013289036544850499,
+      "position": 18.526024363233667
+    },
+    {
+      "query": "plumbing repair portland",
+      "clicks": 12,
+      "impressions": 556,
+      "ctr": 0.02158273381294964,
+      "position": 20.35251798561151
+    },
+    {
+      "query": "plumbing vancouver",
+      "clicks": 12,
+      "impressions": 214,
+      "ctr": 0.056074766355140186,
+      "position": 9.02803738317757
+    },
+    {
+      "query": "portland plumber",
+      "clicks": 12,
+      "impressions": 1496,
+      "ctr": 0.008021390374331552,
+      "position": 27.733288770053477
+    },
+    {
+      "query": "ridgefield plumbers",
+      "clicks": 12,
+      "impressions": 125,
+      "ctr": 0.096,
+      "position": 3.888
+    },
+    {
+      "query": "vancouver plumbers",
+      "clicks": 12,
+      "impressions": 893,
+      "ctr": 0.013437849944008958,
+      "position": 10.597984322508399
+    },
+    {
+      "query": "water heater replacement vancouver",
+      "clicks": 12,
+      "impressions": 387,
+      "ctr": 0.031007751937984496,
+      "position": 30.70801033591731
+    },
+    {
+      "query": "ac repair dallas, or",
+      "clicks": 11,
+      "impressions": 255,
+      "ctr": 0.043137254901960784,
+      "position": 35.2
+    },
+    {
+      "query": "air conditioning repair in ridgefield wa",
+      "clicks": 11,
+      "impressions": 111,
+      "ctr": 0.0990990990990991,
+      "position": 15.756756756756756
+    },
+    {
+      "query": "air conditioning repair vancouver wa",
+      "clicks": 11,
+      "impressions": 604,
+      "ctr": 0.018211920529801324,
+      "position": 64.03145695364239
+    },
+    {
+      "query": "drain cleaning ridgefield",
+      "clicks": 11,
+      "impressions": 68,
+      "ctr": 0.16176470588235295,
+      "position": 10.955882352941176
+    },
+    {
+      "query": "forbes plumbing",
+      "clicks": 11,
+      "impressions": 322,
+      "ctr": 0.034161490683229816,
+      "position": 6.611801242236025
+    },
+    {
+      "query": "furnace installation dallas, or",
+      "clicks": 11,
+      "impressions": 299,
+      "ctr": 0.03678929765886288,
+      "position": 7.946488294314381
+    },
+    {
+      "query": "heat pump replacement ridgefield wa",
+      "clicks": 11,
+      "impressions": 133,
+      "ctr": 0.08270676691729323,
+      "position": 20.090225563909776
+    },
+    {
+      "query": "heating replacement ridgefield wa",
+      "clicks": 11,
+      "impressions": 112,
+      "ctr": 0.09821428571428571,
+      "position": 3.455357142857143
+    },
+    {
+      "query": "portland plumbing",
+      "clicks": 11,
+      "impressions": 1010,
+      "ctr": 0.01089108910891089,
+      "position": 24
+    },
+    {
+      "query": "vancouver plumbing services",
+      "clicks": 11,
+      "impressions": 961,
+      "ctr": 0.011446409989594173,
+      "position": 37.733610822060356
+    },
+    {
+      "query": "air conditioning installation dallas, or",
+      "clicks": 10,
+      "impressions": 187,
+      "ctr": 0.053475935828877004,
+      "position": 21.780748663101605
+    },
+    {
+      "query": "air conditioning replacement ridgefield wa",
+      "clicks": 10,
+      "impressions": 211,
+      "ctr": 0.04739336492890995,
+      "position": 15.19431279620853
+    },
+    {
+      "query": "air conditioning service dallas, or",
+      "clicks": 10,
+      "impressions": 185,
+      "ctr": 0.05405405405405406,
+      "position": 9.07027027027027
+    },
+    {
+      "query": "emergency plumber ridgefield",
+      "clicks": 10,
+      "impressions": 92,
+      "ctr": 0.10869565217391304,
+      "position": 13.097826086956522
+    },
+    {
+      "query": "furnace installation portland, or",
+      "clicks": 10,
+      "impressions": 372,
+      "ctr": 0.026881720430107527,
+      "position": 63.29838709677419
+    },
+    {
+      "query": "furnace installation vancouver wa",
+      "clicks": 10,
+      "impressions": 436,
+      "ctr": 0.022935779816513763,
+      "position": 26.69724770642202
+    },
+    {
+      "query": "furnace repair ridgefield wa",
+      "clicks": 10,
+      "impressions": 238,
+      "ctr": 0.04201680672268908,
+      "position": 16.021008403361343
+    },
+    {
+      "query": "heat pump installation portland or",
+      "clicks": 10,
+      "impressions": 594,
+      "ctr": 0.016835016835016835,
+      "position": 58.20875420875421
+    },
+    {
+      "query": "heat pump installation portland, or",
+      "clicks": 10,
+      "impressions": 398,
+      "ctr": 0.02512562814070352,
+      "position": 55.45477386934673
+    },
+    {
+      "query": "plumber portland or",
+      "clicks": 10,
+      "impressions": 1533,
+      "ctr": 0.006523157208088715,
+      "position": 31.1617742987606
+    },
+    {
+      "query": "emergency plumber vancouver wa",
+      "clicks": 9,
+      "impressions": 593,
+      "ctr": 0.01517706576728499,
+      "position": 40.81618887015177
+    },
+    {
+      "query": "emergency plumbing ridgefield",
+      "clicks": 9,
+      "impressions": 68,
+      "ctr": 0.1323529411764706,
+      "position": 25.764705882352942
+    },
+    {
+      "query": "heater repair portland",
+      "clicks": 9,
+      "impressions": 990,
+      "ctr": 0.00909090909090909,
+      "position": 59.27474747474748
+    },
+    {
+      "query": "plumbing portland oregon",
+      "clicks": 9,
+      "impressions": 729,
+      "ctr": 0.012345679012345678,
+      "position": 17.035665294924556
+    },
+    {
+      "query": "ridgefield plumber",
+      "clicks": 9,
+      "impressions": 81,
+      "ctr": 0.1111111111111111,
+      "position": 1.4444444444444444
+    },
+    {
+      "query": "ridgefield repiping",
+      "clicks": 9,
+      "impressions": 158,
+      "ctr": 0.056962025316455694,
+      "position": 1.2974683544303798
+    },
+    {
+      "query": "sump pump repair dallas",
+      "clicks": 9,
+      "impressions": 240,
+      "ctr": 0.0375,
+      "position": 80.78333333333333
+    },
+    {
+      "query": "air conditioning repair ridgefield",
+      "clicks": 8,
+      "impressions": 217,
+      "ctr": 0.03686635944700461,
+      "position": 6.788018433179723
+    },
+    {
+      "query": "ductless hvac service ridgefield wa",
+      "clicks": 8,
+      "impressions": 100,
+      "ctr": 0.08,
+      "position": 27.66
+    },
+    {
+      "query": "furnace maintenance dallas",
+      "clicks": 8,
+      "impressions": 113,
+      "ctr": 0.07079646017699115,
+      "position": 42.05309734513274
+    },
+    {
+      "query": "heating and cooling dallas, or",
+      "clicks": 8,
+      "impressions": 326,
+      "ctr": 0.024539877300613498,
+      "position": 11.55521472392638
+    },
+    {
+      "query": "heating repair ridgefield wa",
+      "clicks": 8,
+      "impressions": 94,
+      "ctr": 0.0851063829787234,
+      "position": 8.148936170212766
+    },
+    {
+      "query": "plumber services ridgefield",
+      "clicks": 8,
+      "impressions": 65,
+      "ctr": 0.12307692307692308,
+      "position": 7.661538461538462
+    },
+    {
+      "query": "plumbing services vancouver wa",
+      "clicks": 8,
+      "impressions": 324,
+      "ctr": 0.024691358024691357,
+      "position": 2.0401234567901234
+    },
+    {
+      "query": "vancouver plumbing",
+      "clicks": 8,
+      "impressions": 598,
+      "ctr": 0.013377926421404682,
+      "position": 5.195652173913044
+    },
+    {
+      "query": "water heater installation ridgefield",
+      "clicks": 8,
+      "impressions": 69,
+      "ctr": 0.11594202898550725,
+      "position": 5.434782608695652
+    },
+    {
+      "query": "ac installation ridgefield wa",
+      "clicks": 7,
+      "impressions": 273,
+      "ctr": 0.02564102564102564,
+      "position": 11.912087912087912
+    },
+    {
+      "query": "ac repair portland",
+      "clicks": 7,
+      "impressions": 1096,
+      "ctr": 0.006386861313868613,
+      "position": 71.41788321167883
+    },
+    {
+      "query": "ac repair vancouver wa",
+      "clicks": 7,
+      "impressions": 607,
+      "ctr": 0.011532125205930808,
+      "position": 29.7495881383855
+    },
+    {
+      "query": "air conditioner repair vancouver wa",
+      "clicks": 7,
+      "impressions": 428,
+      "ctr": 0.016355140186915886,
+      "position": 68.24065420560747
+    },
+    {
+      "query": "furnace service dallas, or",
+      "clicks": 7,
+      "impressions": 327,
+      "ctr": 0.021406727828746176,
+      "position": 8.678899082568808
+    },
+    {
+      "query": "henco plumbing services reviews",
+      "clicks": 7,
+      "impressions": 188,
+      "ctr": 0.03723404255319149,
+      "position": 2.6436170212765955
+    },
+    {
+      "query": "hvac service in ridgefield wa",
+      "clicks": 7,
+      "impressions": 117,
+      "ctr": 0.05982905982905983,
+      "position": 21.700854700854702
+    },
+    {
+      "query": "plumber in vancouver wa",
+      "clicks": 7,
+      "impressions": 413,
+      "ctr": 0.01694915254237288,
+      "position": 6.467312348668281
+    },
+    {
+      "query": "plumbers vancouver",
+      "clicks": 7,
+      "impressions": 766,
+      "ctr": 0.009138381201044387,
+      "position": 8.225848563968668
+    },
+    {
+      "query": "ridgefield hvac contractor",
+      "clicks": 7,
+      "impressions": 169,
+      "ctr": 0.04142011834319527,
+      "position": 12.964497041420119
+    },
+    {
+      "query": "vancouver plumbing companies",
+      "clicks": 7,
+      "impressions": 527,
+      "ctr": 0.013282732447817837,
+      "position": 38.36622390891841
+    },
+    {
+      "query": "water heater replacement ridgefield",
+      "clicks": 7,
+      "impressions": 57,
+      "ctr": 0.12280701754385964,
+      "position": 6.192982456140351
+    },
+    {
+      "query": "ac repair ridgefield",
+      "clicks": 6,
+      "impressions": 314,
+      "ctr": 0.01910828025477707,
+      "position": 10.229299363057326
+    },
+    {
+      "query": "ac repair ridgefield wa",
+      "clicks": 6,
+      "impressions": 283,
+      "ctr": 0.02120141342756184,
+      "position": 12.540636042402827
+    },
+    {
+      "query": "air conditioning replacement dallas, or",
+      "clicks": 6,
+      "impressions": 198,
+      "ctr": 0.030303030303030304,
+      "position": 14.702020202020202
+    },
+    {
+      "query": "heat pump installation ridgefield wa",
+      "clicks": 6,
+      "impressions": 215,
+      "ctr": 0.027906976744186046,
+      "position": 14.534883720930232
+    },
+    {
+      "query": "heat pump repair portland or",
+      "clicks": 6,
+      "impressions": 570,
+      "ctr": 0.010526315789473684,
+      "position": 37.628070175438594
+    },
+    {
+      "query": "hemco plumbing",
+      "clicks": 6,
+      "impressions": 26,
+      "ctr": 0.23076923076923078,
+      "position": 1.3846153846153846
+    },
+    {
+      "query": "plumbers vancouver washington",
+      "clicks": 6,
+      "impressions": 282,
+      "ctr": 0.02127659574468085,
+      "position": 6.971631205673759
+    },
+    {
+      "query": "plumbing dallas oregon",
+      "clicks": 6,
+      "impressions": 74,
+      "ctr": 0.08108108108108109,
+      "position": 1.864864864864865
+    },
+    {
+      "query": "water softener vancouver wa",
+      "clicks": 6,
+      "impressions": 254,
+      "ctr": 0.023622047244094488,
+      "position": 1.826771653543307
+    },
+    {
+      "query": "air conditioner repair dallas, or",
+      "clicks": 5,
+      "impressions": 96,
+      "ctr": 0.052083333333333336,
+      "position": 38.729166666666664
+    },
+    {
+      "query": "air conditioning repair dallas, or",
+      "clicks": 5,
+      "impressions": 264,
+      "ctr": 0.01893939393939394,
+      "position": 11.306818181818182
+    },
+    {
+      "query": "air conditioning repair vancouver",
+      "clicks": 5,
+      "impressions": 531,
+      "ctr": 0.009416195856873822,
+      "position": 32.93408662900188
+    },
+    {
+      "query": "air conditioning service ridgefield wa",
+      "clicks": 5,
+      "impressions": 61,
+      "ctr": 0.08196721311475409,
+      "position": 15.21311475409836
+    },
+    {
+      "query": "dallas plumber service",
+      "clicks": 5,
+      "impressions": 36,
+      "ctr": 0.1388888888888889,
+      "position": 3
+    },
+    {
+      "query": "heat pump repair portland, or",
+      "clicks": 5,
+      "impressions": 395,
+      "ctr": 0.012658227848101266,
+      "position": 33.617721518987345
+    },
+    {
+      "query": "heat pump replace dallas",
+      "clicks": 5,
+      "impressions": 226,
+      "ctr": 0.022123893805309734,
+      "position": 80.60619469026548
+    },
+    {
+      "query": "heat pump replacement dallas, or",
+      "clicks": 5,
+      "impressions": 297,
+      "ctr": 0.016835016835016835,
+      "position": 12.175084175084175
+    },
+    {
+      "query": "heating services ridgefield wa",
+      "clicks": 5,
+      "impressions": 87,
+      "ctr": 0.05747126436781609,
+      "position": 2.655172413793103
+    },
+    {
+      "query": "plumbers near me",
+      "clicks": 5,
+      "impressions": 1076,
+      "ctr": 0.004646840148698885,
+      "position": 12.807620817843866
+    },
+    {
+      "query": "portland plumbers",
+      "clicks": 5,
+      "impressions": 1000,
+      "ctr": 0.005,
+      "position": 21.527
+    },
+    {
+      "query": "repiping vancouver",
+      "clicks": 5,
+      "impressions": 455,
+      "ctr": 0.01098901098901099,
+      "position": 8.237362637362637
+    },
+    {
+      "query": "air conditioning installation ridgefield wa",
+      "clicks": 4,
+      "impressions": 63,
+      "ctr": 0.06349206349206349,
+      "position": 15.063492063492063
+    },
+    {
+      "query": "air conditioning repair ridgefield wa",
+      "clicks": 4,
+      "impressions": 128,
+      "ctr": 0.03125,
+      "position": 15.421875
+    },
+    {
+      "query": "howling pipes",
+      "clicks": 4,
+      "impressions": 30,
+      "ctr": 0.13333333333333333,
+      "position": 4.333333333333334
+    },
+    {
+      "query": "plumbing company dallas",
+      "clicks": 4,
+      "impressions": 117,
+      "ctr": 0.03418803418803419,
+      "position": 1.6666666666666665
+    },
+    {
+      "query": "plumbing contractor dallas",
+      "clicks": 4,
+      "impressions": 103,
+      "ctr": 0.038834951456310676,
+      "position": 3.7766990291262137
+    },
+    {
+      "query": "plumbing installation ridgefield",
+      "clicks": 4,
+      "impressions": 57,
+      "ctr": 0.07017543859649122,
+      "position": 9.421052631578947
+    },
+    {
+      "query": "plumbing repair vancouver",
+      "clicks": 4,
+      "impressions": 501,
+      "ctr": 0.007984031936127744,
+      "position": 27.34131736526946
+    },
+    {
+      "query": "plumbing services vancouver",
+      "clicks": 4,
+      "impressions": 244,
+      "ctr": 0.01639344262295082,
+      "position": 14.258196721311476
+    },
+    {
+      "query": "ac replacement ridgefield wa",
+      "clicks": 3,
+      "impressions": 173,
+      "ctr": 0.017341040462427744,
+      "position": 9.514450867052023
+    },
+    {
+      "query": "heat pump repair portland",
+      "clicks": 3,
+      "impressions": 828,
+      "ctr": 0.0036231884057971015,
+      "position": 32.317632850241544
+    },
+    {
+      "query": "heat pump service dallas, or",
+      "clicks": 3,
+      "impressions": 279,
+      "ctr": 0.010752688172043012,
+      "position": 18.56989247311828
+    },
+    {
+      "query": "heating and cooling service in ridgefield",
+      "clicks": 3,
+      "impressions": 199,
+      "ctr": 0.01507537688442211,
+      "position": 14.165829145728644
+    },
+    {
+      "query": "henco plumbing ridgefield wa",
+      "clicks": 3,
+      "impressions": 22,
+      "ctr": 0.13636363636363635,
+      "position": 1.0909090909090908
+    },
+    {
+      "query": "henco ridgefield",
+      "clicks": 3,
+      "impressions": 26,
+      "ctr": 0.11538461538461539,
+      "position": 1.1538461538461537
+    },
+    {
+      "query": "plumbers portland",
+      "clicks": 3,
+      "impressions": 173,
+      "ctr": 0.017341040462427744,
+      "position": 21.38150289017341
+    },
+    {
+      "query": "plumbing repair ridgefield",
+      "clicks": 3,
+      "impressions": 58,
+      "ctr": 0.05172413793103448,
+      "position": 9.586206896551724
+    },
+    {
+      "query": "drain cleaning vancouver",
+      "clicks": 2,
+      "impressions": 509,
+      "ctr": 0.003929273084479371,
+      "position": 9.00589390962672
+    },
+    {
+      "query": "plumber near me",
+      "clicks": 2,
+      "impressions": 4083,
+      "ctr": 0.0004898359049718344,
+      "position": 14.375214303208425
+    },
+    {
+      "query": "plumbers",
+      "clicks": 2,
+      "impressions": 205,
+      "ctr": 0.00975609756097561,
+      "position": 10.053658536585365
+    },
+    {
+      "query": "plumbing company near me",
+      "clicks": 2,
+      "impressions": 985,
+      "ctr": 0.0020304568527918783,
+      "position": 10.911675126903553
+    },
+    {
+      "query": "plumbing near me",
+      "clicks": 2,
+      "impressions": 393,
+      "ctr": 0.005089058524173028,
+      "position": 13.585241730279899
+    },
+    {
+      "query": "plumbing services in vancouver",
+      "clicks": 2,
+      "impressions": 168,
+      "ctr": 0.011904761904761904,
+      "position": 49.82738095238095
+    },
+    {
+      "query": "portland plumbing companies",
+      "clicks": 2,
+      "impressions": 116,
+      "ctr": 0.017241379310344827,
+      "position": 17.405172413793103
+    },
+    {
+      "query": "ridgefield plumbing",
+      "clicks": 2,
+      "impressions": 75,
+      "ctr": 0.02666666666666667,
+      "position": 8.826666666666668
+    },
+    {
+      "query": "tankless water heater service",
+      "clicks": 2,
+      "impressions": 5124,
+      "ctr": 0.00039032006245121,
+      "position": 51.355386416861826
+    },
+    {
+      "query": "water heater installation",
+      "clicks": 2,
+      "impressions": 142,
+      "ctr": 0.014084507042253521,
+      "position": 1.5704225352112675
+    },
+    {
+      "query": "water heater service near me",
+      "clicks": 2,
+      "impressions": 334,
+      "ctr": 0.005988023952095809,
+      "position": 10.407185628742514
+    },
+    {
+      "query": "ac maintenance portland",
+      "clicks": 1,
+      "impressions": 622,
+      "ctr": 0.001607717041800643,
+      "position": 91.47588424437299
+    },
+    {
+      "query": "air conditioner repair portland, or",
+      "clicks": 1,
+      "impressions": 176,
+      "ctr": 0.005681818181818182,
+      "position": 88.96022727272727
+    },
+    {
+      "query": "best plumbers in vancouver",
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 57.666666666666664
+    },
+    {
+      "query": "best plumbers near me",
+      "clicks": 1,
+      "impressions": 21,
+      "ctr": 0.047619047619047616,
+      "position": 7.238095238095238
+    },
+    {
+      "query": "commercial plumbers near me",
+      "clicks": 1,
+      "impressions": 124,
+      "ctr": 0.008064516129032258,
+      "position": 6.645161290322581
+    },
+    {
+      "query": "commercial plumbing services",
+      "clicks": 1,
+      "impressions": 81,
+      "ctr": 0.012345679012345678,
+      "position": 15.641975308641975
+    },
+    {
+      "query": "dallas heating and cooling",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 45
+    },
+    {
+      "query": "drain cleaners near me",
+      "clicks": 1,
+      "impressions": 91,
+      "ctr": 0.01098901098901099,
+      "position": 6.274725274725275
+    },
+    {
+      "query": "drain cleaning battle ground wa",
+      "clicks": 1,
+      "impressions": 29,
+      "ctr": 0.034482758620689655,
+      "position": 3.586206896551724
+    },
+    {
+      "query": "drain cleaning service near me",
+      "clicks": 1,
+      "impressions": 95,
+      "ctr": 0.010526315789473684,
+      "position": 20.094736842105263
+    },
+    {
+      "query": "drain cleaning vancouver wa",
+      "clicks": 1,
+      "impressions": 416,
+      "ctr": 0.002403846153846154,
+      "position": 7.680288461538462
+    },
+    {
+      "query": "drain jetting company near me",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 49
+    },
+    {
+      "query": "garbage disposal repair",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 65.5
+    },
+    {
+      "query": "gas line repair near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 9.666666666666666
+    },
+    {
+      "query": "heat pump repair ridgefield wa",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 21.25
+    },
+    {
+      "query": "heat pump repair vancouver wa",
+      "clicks": 1,
+      "impressions": 549,
+      "ctr": 0.0018214936247723133,
+      "position": 31.77959927140255
+    },
+    {
+      "query": "heinco",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1.5
+    },
+    {
+      "query": "henco hours",
+      "clicks": 1,
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 7.166666666666667
+    },
+    {
+      "query": "henco jobs",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 10.2
+    },
+    {
+      "query": "henco plumbing service vancouver reviews",
+      "clicks": 1,
+      "impressions": 110,
+      "ctr": 0.00909090909090909,
+      "position": 2.5454545454545454
+    },
+    {
+      "query": "hencop.com",
+      "clicks": 1,
+      "impressions": 132,
+      "ctr": 0.007575757575757576,
+      "position": 8.386363636363637
+    },
+    {
+      "query": "highly rated plumbers near me",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 10
+    },
+    {
+      "query": "home repipe",
+      "clicks": 1,
+      "impressions": 402,
+      "ctr": 0.0024875621890547263,
+      "position": 60.19651741293532
+    },
+    {
+      "query": "hot water heater repair",
+      "clicks": 1,
+      "impressions": 332,
+      "ctr": 0.0030120481927710845,
+      "position": 18.587349397590362
+    },
+    {
+      "query": "hot water heater repair near me",
+      "clicks": 1,
+      "impressions": 616,
+      "ctr": 0.0016233766233766235,
+      "position": 18.5
+    },
+    {
+      "query": "hot water heater replacement",
+      "clicks": 1,
+      "impressions": 177,
+      "ctr": 0.005649717514124294,
+      "position": 3.6440677966101696
+    },
+    {
+      "query": "house repipe specialist",
+      "clicks": 1,
+      "impressions": 369,
+      "ctr": 0.0027100271002710027,
+      "position": 71.61517615176152
+    },
+    {
+      "query": "hvac services in ridgefield wa",
+      "clicks": 1,
+      "impressions": 84,
+      "ctr": 0.011904761904761904,
+      "position": 22.595238095238095
+    },
+    {
+      "query": "hvac vancouver wa",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "license gas plumber",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "penco plumbing",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 13.866666666666667
+    },
+    {
+      "query": "plumber",
+      "clicks": 1,
+      "impressions": 2940,
+      "ctr": 0.0003401360544217687,
+      "position": 15.420068027210885
+    },
+    {
+      "query": "plumber apprenticeship",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 9
+    },
+    {
+      "query": "plumber battle ground wa",
+      "clicks": 1,
+      "impressions": 353,
+      "ctr": 0.0028328611898017,
+      "position": 7.88385269121813
+    },
+    {
+      "query": "plumber garbage disposal",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "plumber in vancouver",
+      "clicks": 1,
+      "impressions": 241,
+      "ctr": 0.004149377593360996,
+      "position": 6.377593360995851
+    },
+    {
+      "query": "plumber to fix toilet",
+      "clicks": 1,
+      "impressions": 113,
+      "ctr": 0.008849557522123894,
+      "position": 2.0353982300884956
+    },
+    {
+      "query": "plumbers in vancouver washington",
+      "clicks": 1,
+      "impressions": 160,
+      "ctr": 0.00625,
+      "position": 8.3625
+    },
+    {
+      "query": "plumbers near me commercial",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "plumbers portland oregon",
+      "clicks": 1,
+      "impressions": 128,
+      "ctr": 0.0078125,
+      "position": 30.25
+    },
+    {
+      "query": "plumbing and heating",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 3.25
+    },
+    {
+      "query": "plumbing companies near me",
+      "clicks": 1,
+      "impressions": 362,
+      "ctr": 0.0027624309392265192,
+      "position": 9.392265193370166
+    },
+    {
+      "query": "plumbing company vancouver wa us",
+      "clicks": 1,
+      "impressions": 64,
+      "ctr": 0.015625,
+      "position": 1.984375
+    },
+    {
+      "query": "plumbing coupons",
+      "clicks": 1,
+      "impressions": 1049,
+      "ctr": 0.0009532888465204957,
+      "position": 54.908484270734036
+    },
+    {
+      "query": "plumbing leak detection near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 6.666666666666667
+    },
+    {
+      "query": "plumbing maintenance services",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 13.285714285714286
+    },
+    {
+      "query": "plumbing quotes",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 8
+    },
+    {
+      "query": "plumbing repair",
+      "clicks": 1,
+      "impressions": 1389,
+      "ctr": 0.0007199424046076314,
+      "position": 14.8207343412527
+    },
+    {
+      "query": "plumbing service vancouver",
+      "clicks": 1,
+      "impressions": 98,
+      "ctr": 0.01020408163265306,
+      "position": 65.92857142857143
+    },
+    {
+      "query": "plumbing supply near me",
+      "clicks": 1,
+      "impressions": 50,
+      "ctr": 0.02,
+      "position": 11.64
+    },
+    {
+      "query": "portland ac repair",
+      "clicks": 1,
+      "impressions": 623,
+      "ctr": 0.0016051364365971107,
+      "position": 69.42857142857143
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:22:00.840Z"
 }

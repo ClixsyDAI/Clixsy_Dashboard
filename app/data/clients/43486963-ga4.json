@@ -2,138 +2,18 @@
   "propertyId": "properties/348013449",
   "displayName": "AC Plus Heating & Air - GA4",
   "dateRange": {
-    "start": "2025-12-17",
-    "end": "2026-03-17"
+    "start": "2026-01-06",
+    "end": "2026-04-06"
   },
   "totals": {
-    "sessions": 8353,
-    "users": 9085,
-    "screenPageViews": 11706,
-    "organicSessions": 1718,
-    "bounceRate": 0.6652652473447412,
-    "avgSessionDuration": 158.09859992207979
+    "sessions": 8301,
+    "users": 9216,
+    "screenPageViews": 12284,
+    "organicSessions": 1892,
+    "bounceRate": 0.6562955125560176,
+    "avgSessionDuration": 196.85025771607872
   },
   "dailyData": [
-    {
-      "date": "2025-12-17",
-      "sessions": 71,
-      "users": 80,
-      "screenPageViews": 127
-    },
-    {
-      "date": "2025-12-18",
-      "sessions": 65,
-      "users": 73,
-      "screenPageViews": 74
-    },
-    {
-      "date": "2025-12-19",
-      "sessions": 91,
-      "users": 91,
-      "screenPageViews": 143
-    },
-    {
-      "date": "2025-12-20",
-      "sessions": 74,
-      "users": 73,
-      "screenPageViews": 74
-    },
-    {
-      "date": "2025-12-21",
-      "sessions": 81,
-      "users": 82,
-      "screenPageViews": 90
-    },
-    {
-      "date": "2025-12-22",
-      "sessions": 75,
-      "users": 82,
-      "screenPageViews": 95
-    },
-    {
-      "date": "2025-12-23",
-      "sessions": 61,
-      "users": 64,
-      "screenPageViews": 89
-    },
-    {
-      "date": "2025-12-24",
-      "sessions": 53,
-      "users": 57,
-      "screenPageViews": 55
-    },
-    {
-      "date": "2025-12-25",
-      "sessions": 83,
-      "users": 80,
-      "screenPageViews": 91
-    },
-    {
-      "date": "2025-12-26",
-      "sessions": 53,
-      "users": 59,
-      "screenPageViews": 61
-    },
-    {
-      "date": "2025-12-27",
-      "sessions": 59,
-      "users": 65,
-      "screenPageViews": 66
-    },
-    {
-      "date": "2025-12-28",
-      "sessions": 201,
-      "users": 200,
-      "screenPageViews": 279
-    },
-    {
-      "date": "2025-12-29",
-      "sessions": 74,
-      "users": 93,
-      "screenPageViews": 92
-    },
-    {
-      "date": "2025-12-30",
-      "sessions": 129,
-      "users": 137,
-      "screenPageViews": 151
-    },
-    {
-      "date": "2025-12-31",
-      "sessions": 102,
-      "users": 105,
-      "screenPageViews": 112
-    },
-    {
-      "date": "2026-01-01",
-      "sessions": 107,
-      "users": 111,
-      "screenPageViews": 112
-    },
-    {
-      "date": "2026-01-02",
-      "sessions": 108,
-      "users": 119,
-      "screenPageViews": 260
-    },
-    {
-      "date": "2026-01-03",
-      "sessions": 73,
-      "users": 77,
-      "screenPageViews": 87
-    },
-    {
-      "date": "2026-01-04",
-      "sessions": 98,
-      "users": 97,
-      "screenPageViews": 108
-    },
-    {
-      "date": "2026-01-05",
-      "sessions": 211,
-      "users": 226,
-      "screenPageViews": 245
-    },
     {
       "date": "2026-01-06",
       "sessions": 212,
@@ -559,43 +439,158 @@
       "sessions": 89,
       "users": 105,
       "screenPageViews": 159
+    },
+    {
+      "date": "2026-03-18",
+      "sessions": 90,
+      "users": 122,
+      "screenPageViews": 169
+    },
+    {
+      "date": "2026-03-19",
+      "sessions": 105,
+      "users": 144,
+      "screenPageViews": 226
+    },
+    {
+      "date": "2026-03-20",
+      "sessions": 67,
+      "users": 105,
+      "screenPageViews": 107
+    },
+    {
+      "date": "2026-03-21",
+      "sessions": 83,
+      "users": 94,
+      "screenPageViews": 113
+    },
+    {
+      "date": "2026-03-22",
+      "sessions": 65,
+      "users": 69,
+      "screenPageViews": 135
+    },
+    {
+      "date": "2026-03-23",
+      "sessions": 86,
+      "users": 105,
+      "screenPageViews": 147
+    },
+    {
+      "date": "2026-03-24",
+      "sessions": 184,
+      "users": 203,
+      "screenPageViews": 327
+    },
+    {
+      "date": "2026-03-25",
+      "sessions": 112,
+      "users": 114,
+      "screenPageViews": 177
+    },
+    {
+      "date": "2026-03-26",
+      "sessions": 105,
+      "users": 132,
+      "screenPageViews": 136
+    },
+    {
+      "date": "2026-03-27",
+      "sessions": 130,
+      "users": 175,
+      "screenPageViews": 179
+    },
+    {
+      "date": "2026-03-28",
+      "sessions": 123,
+      "users": 129,
+      "screenPageViews": 193
+    },
+    {
+      "date": "2026-03-29",
+      "sessions": 61,
+      "users": 58,
+      "screenPageViews": 154
+    },
+    {
+      "date": "2026-03-30",
+      "sessions": 79,
+      "users": 91,
+      "screenPageViews": 104
+    },
+    {
+      "date": "2026-03-31",
+      "sessions": 78,
+      "users": 82,
+      "screenPageViews": 103
+    },
+    {
+      "date": "2026-04-01",
+      "sessions": 107,
+      "users": 110,
+      "screenPageViews": 192
+    },
+    {
+      "date": "2026-04-02",
+      "sessions": 111,
+      "users": 108,
+      "screenPageViews": 193
+    },
+    {
+      "date": "2026-04-03",
+      "sessions": 73,
+      "users": 80,
+      "screenPageViews": 90
+    },
+    {
+      "date": "2026-04-04",
+      "sessions": 46,
+      "users": 51,
+      "screenPageViews": 68
+    },
+    {
+      "date": "2026-04-05",
+      "sessions": 48,
+      "users": 50,
+      "screenPageViews": 55
+    },
+    {
+      "date": "2026-04-06",
+      "sessions": 64,
+      "users": 80,
+      "screenPageViews": 121
     }
   ],
   "channelData": [
     {
       "channel": "Direct",
-      "sessions": 5369,
-      "users": 5176
+      "sessions": 5167,
+      "users": 4835
     },
     {
       "channel": "Organic Search",
-      "sessions": 1718,
-      "users": 1230
+      "sessions": 1892,
+      "users": 1307
     },
     {
       "channel": "Referral",
-      "sessions": 771,
-      "users": 724
+      "sessions": 774,
+      "users": 728
     },
     {
       "channel": "Organic Social",
-      "sessions": 211,
-      "users": 175
+      "sessions": 306,
+      "users": 226
     },
     {
       "channel": "Unassigned",
-      "sessions": 122,
-      "users": 1183
+      "sessions": 130,
+      "users": 1409
     },
     {
       "channel": "Paid Search",
-      "sessions": 19,
-      "users": 19
-    },
-    {
-      "channel": "Display",
-      "sessions": 15,
-      "users": 14
+      "sessions": 17,
+      "users": 16
     },
     {
       "channel": "Organic Video",
@@ -603,157 +598,201 @@
       "users": 2
     }
   ],
+  "keyEventsByChannel": [
+    {
+      "channel": "Direct",
+      "sessions": 5167,
+      "keyEvents": 1318,
+      "conversionRate": 0.2550803173988775
+    },
+    {
+      "channel": "Organic Search",
+      "sessions": 1892,
+      "keyEvents": 1323,
+      "conversionRate": 0.6992600422832981
+    },
+    {
+      "channel": "Referral",
+      "sessions": 774,
+      "keyEvents": 747,
+      "conversionRate": 0.9651162790697675
+    },
+    {
+      "channel": "Organic Social",
+      "sessions": 306,
+      "keyEvents": 220,
+      "conversionRate": 0.7189542483660131
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": 130,
+      "keyEvents": 1840,
+      "conversionRate": 14.153846153846153
+    },
+    {
+      "channel": "Paid Search",
+      "sessions": 17,
+      "keyEvents": 28,
+      "conversionRate": 1.6470588235294117
+    },
+    {
+      "channel": "Organic Video",
+      "sessions": 2,
+      "keyEvents": 5,
+      "conversionRate": 2.5
+    }
+  ],
   "topPages": [
     {
       "page": "/",
-      "screenPageViews": 3330,
-      "sessions": 2928
+      "screenPageViews": 3627,
+      "sessions": 3190
     },
     {
       "page": "/areas-we-serve/victorville/",
-      "screenPageViews": 468,
-      "sessions": 411
+      "screenPageViews": 485,
+      "sessions": 421
     },
     {
       "page": "/contact/",
-      "screenPageViews": 375,
-      "sessions": 296
-    },
-    {
-      "page": "/careers/",
-      "screenPageViews": 295,
-      "sessions": 236
+      "screenPageViews": 426,
+      "sessions": 338
     },
     {
       "page": "/specials/",
-      "screenPageViews": 268,
-      "sessions": 188
+      "screenPageViews": 371,
+      "sessions": 247
     },
     {
-      "page": "/blog/what-does-a-bad-ac-compressor-sound-like/",
-      "screenPageViews": 262,
-      "sessions": 259
+      "page": "/careers/",
+      "screenPageViews": 326,
+      "sessions": 257
     },
     {
       "page": "/areas-we-serve/rancho-cucamonga/",
-      "screenPageViews": 225,
-      "sessions": 195
+      "screenPageViews": 296,
+      "sessions": 249
     },
     {
-      "page": "/about/",
-      "screenPageViews": 175,
-      "sessions": 165
+      "page": "/blog/what-does-a-bad-ac-compressor-sound-like/",
+      "screenPageViews": 259,
+      "sessions": 257
     },
     {
       "page": "/about/meet-the-team/",
-      "screenPageViews": 171,
-      "sessions": 169
+      "screenPageViews": 195,
+      "sessions": 189
+    },
+    {
+      "page": "/about/",
+      "screenPageViews": 184,
+      "sessions": 167
     },
     {
       "page": "/thank-you/",
-      "screenPageViews": 141,
-      "sessions": 132
+      "screenPageViews": 161,
+      "sessions": 151
     },
     {
       "page": "/no-fuss-club/",
-      "screenPageViews": 120,
-      "sessions": 113
-    },
-    {
-      "page": "/careers/customer-service-job/",
-      "screenPageViews": 107,
-      "sessions": 95
-    },
-    {
-      "page": "/careers/hvac-technician/",
-      "screenPageViews": 107,
-      "sessions": 81
+      "screenPageViews": 150,
+      "sessions": 145
     },
     {
       "page": "/financing/",
-      "screenPageViews": 102,
-      "sessions": 96
+      "screenPageViews": 146,
+      "sessions": 129
     },
     {
       "page": "/areas-we-serve/",
-      "screenPageViews": 101,
-      "sessions": 96
+      "screenPageViews": 121,
+      "sessions": 111
     },
     {
       "page": "/careers/hvac-installer/",
-      "screenPageViews": 100,
-      "sessions": 88
+      "screenPageViews": 119,
+      "sessions": 101
     },
     {
       "page": "/air-conditioning/",
-      "screenPageViews": 96,
-      "sessions": 77
+      "screenPageViews": 118,
+      "sessions": 93
     },
     {
-      "page": "/areas-we-serve/wrightwood/",
-      "screenPageViews": 89,
-      "sessions": 75
-    },
-    {
-      "page": "/areas-we-serve/redlands/",
-      "screenPageViews": 87,
-      "sessions": 73
+      "page": "/careers/customer-service-job/",
+      "screenPageViews": 114,
+      "sessions": 99
     },
     {
       "page": "/air-conditioning/ac-repair/",
-      "screenPageViews": 85,
-      "sessions": 85
+      "screenPageViews": 113,
+      "sessions": 106
     },
     {
-      "page": "/blog/",
-      "screenPageViews": 85,
-      "sessions": 77
+      "page": "/areas-we-serve/wrightwood/",
+      "screenPageViews": 113,
+      "sessions": 96
     },
     {
-      "page": "/heating/",
-      "screenPageViews": 83,
-      "sessions": 73
+      "page": "/careers/hvac-technician/",
+      "screenPageViews": 101,
+      "sessions": 82
     },
     {
       "page": "/reviews/",
-      "screenPageViews": 78,
-      "sessions": 73
+      "screenPageViews": 98,
+      "sessions": 93
     },
     {
-      "page": "/air-conditioning-repair-spring-valley-lake-272177bc/",
-      "screenPageViews": 73,
-      "sessions": 67
-    },
-    {
-      "page": "/air-conditioning-service-apple-valley-272184bc/",
-      "screenPageViews": 66,
-      "sessions": 54
+      "page": "/areas-we-serve/redlands/",
+      "screenPageViews": 96,
+      "sessions": 84
     },
     {
       "page": "/air-conditioning/ac-replacement/",
-      "screenPageViews": 60,
-      "sessions": 52
+      "screenPageViews": 83,
+      "sessions": 74
     },
     {
-      "page": "/air-conditioning-installation-spring-valley-lake-272180bc/",
-      "screenPageViews": 59,
-      "sessions": 52
+      "page": "/heating/",
+      "screenPageViews": 80,
+      "sessions": 72
+    },
+    {
+      "page": "/blog/",
+      "screenPageViews": 79,
+      "sessions": 72
+    },
+    {
+      "page": "/air-conditioning/ac-maintenance/",
+      "screenPageViews": 64,
+      "sessions": 54
+    },
+    {
+      "page": "/air-conditioning-service-apple-valley-272184bc/",
+      "screenPageViews": 63,
+      "sessions": 49
     },
     {
       "page": "/apple-valley-air-conditioning-service-near-me-286321bc/",
-      "screenPageViews": 56,
-      "sessions": 48
+      "screenPageViews": 57,
+      "sessions": 47
     },
     {
-      "page": "/air-conditioning-companies-spring-valley-lake-286325bc/",
-      "screenPageViews": 55,
-      "sessions": 53
+      "page": "/air-conditioning-installation-spring-valley-lake-272180bc/",
+      "screenPageViews": 53,
+      "sessions": 44
     },
     {
-      "page": "/apple-valley-air-conditioning-companies-286320bc/",
-      "screenPageViews": 54,
-      "sessions": 49
+      "page": "/air-conditioning-repair-spring-valley-lake-272177bc/",
+      "screenPageViews": 53,
+      "sessions": 43
+    },
+    {
+      "page": "/air-conditioning-replacement-apple-valley-272181bc/",
+      "screenPageViews": 53,
+      "sessions": 42
     }
   ],
-  "fetchedAt": "2026-03-18T13:07:55.722Z"
+  "fetchedAt": "2026-04-07T16:22:26.855Z"
 }

@@ -1,156 +1,16 @@
 {
   "property": "sc-domain:lifetimeroofingla.com",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 529,
-    "impressions": 104264,
-    "ctr": 0.0050736591728688715,
-    "position": 10.881666505071651
+    "clicks": 586,
+    "impressions": 109701,
+    "ctr": 0.005341792691042014,
+    "position": 10.799875621058538
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 7,
-      "impressions": 1781,
-      "ctr": 0.0039303761931499155,
-      "position": 6.425603593486805
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 5,
-      "impressions": 1284,
-      "ctr": 0.003894080996884735,
-      "position": 12.302959501557632
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 7,
-      "impressions": 913,
-      "ctr": 0.007667031763417305,
-      "position": 10.299014238773275
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 6,
-      "impressions": 1000,
-      "ctr": 0.006,
-      "position": 11.641
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 7,
-      "impressions": 1150,
-      "ctr": 0.00608695652173913,
-      "position": 10.279130434782608
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 1,
-      "impressions": 924,
-      "ctr": 0.0010822510822510823,
-      "position": 8.82034632034632
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 0,
-      "impressions": 873,
-      "ctr": 0,
-      "position": 9.517754868270332
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 4,
-      "impressions": 1516,
-      "ctr": 0.002638522427440633,
-      "position": 7.463060686015831
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 5,
-      "impressions": 1228,
-      "ctr": 0.004071661237785016,
-      "position": 14.052931596091206
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 1,
-      "impressions": 877,
-      "ctr": 0.0011402508551881414,
-      "position": 11.375142531356898
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 0,
-      "impressions": 790,
-      "ctr": 0,
-      "position": 14.029113924050632
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 1,
-      "impressions": 836,
-      "ctr": 0.0011961722488038277,
-      "position": 10.519138755980862
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 0,
-      "impressions": 746,
-      "ctr": 0,
-      "position": 9.554959785522788
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 1,
-      "impressions": 746,
-      "ctr": 0.0013404825737265416,
-      "position": 9.737265415549597
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 3,
-      "impressions": 1274,
-      "ctr": 0.002354788069073783,
-      "position": 8.247252747252748
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 2,
-      "impressions": 1267,
-      "ctr": 0.0015785319652722968,
-      "position": 12.32202052091555
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 3,
-      "impressions": 861,
-      "ctr": 0.003484320557491289,
-      "position": 13.13588850174216
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 2,
-      "impressions": 758,
-      "ctr": 0.002638522427440633,
-      "position": 15.106860158311346
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 8,
-      "impressions": 914,
-      "ctr": 0.0087527352297593,
-      "position": 8.807439824945295
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 0,
-      "impressions": 865,
-      "ctr": 0,
-      "position": 9.114450867052023
-    },
     {
       "date": "2026-01-04",
       "clicks": 4,
@@ -640,211 +500,372 @@
       "impressions": 882,
       "ctr": 0.003401360544217687,
       "position": 9.095238095238095
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 3,
+      "impressions": 943,
+      "ctr": 0.003181336161187699,
+      "position": 8.173913043478262
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 2,
+      "impressions": 1365,
+      "ctr": 0.0014652014652014652,
+      "position": 9.492307692307692
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 8,
+      "impressions": 1162,
+      "ctr": 0.0068846815834767644,
+      "position": 10.575731497418245
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 11,
+      "impressions": 995,
+      "ctr": 0.011055276381909548,
+      "position": 9.062311557788945
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 7,
+      "impressions": 1213,
+      "ctr": 0.005770816158285243,
+      "position": 10.577081615828524
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 3,
+      "impressions": 1737,
+      "ctr": 0.0017271157167530224,
+      "position": 7.947035118019574
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 5,
+      "impressions": 951,
+      "ctr": 0.005257623554153523,
+      "position": 11.519453207150368
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 2,
+      "impressions": 972,
+      "ctr": 0.00205761316872428,
+      "position": 11.262345679012345
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 11,
+      "impressions": 1336,
+      "ctr": 0.008233532934131737,
+      "position": 9.740269461077844
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 8,
+      "impressions": 1748,
+      "ctr": 0.004576659038901602,
+      "position": 12.806636155606407
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 6,
+      "impressions": 1246,
+      "ctr": 0.004815409309791332,
+      "position": 12.46709470304976
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 6,
+      "impressions": 1216,
+      "ctr": 0.004934210526315789,
+      "position": 13.55921052631579
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 3,
+      "impressions": 1692,
+      "ctr": 0.0017730496453900709,
+      "position": 8.875295508274231
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 3,
+      "impressions": 1001,
+      "ctr": 0.002997002997002997,
+      "position": 16.142857142857142
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 5,
+      "impressions": 891,
+      "ctr": 0.005611672278338945,
+      "position": 9.521885521885523
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 11,
+      "impressions": 1332,
+      "ctr": 0.008258258258258258,
+      "position": 7.975225225225225
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 13,
+      "impressions": 1388,
+      "ctr": 0.009365994236311239,
+      "position": 10.864553314121038
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 5,
+      "impressions": 1091,
+      "ctr": 0.00458295142071494,
+      "position": 10.26672777268561
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 6,
+      "impressions": 1162,
+      "ctr": 0.0051635111876075735,
+      "position": 9.392426850258175
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 2,
+      "impressions": 1666,
+      "ctr": 0.0012004801920768306,
+      "position": 5.873349339735895
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 0,
+      "impressions": 933,
+      "ctr": 0,
+      "position": 10.094319399785638
     }
   ],
   "topQueries": [
     {
       "query": "lifetime roofing",
-      "clicks": 139,
-      "impressions": 1663,
-      "ctr": 0.0835838845460012,
-      "position": 8.18520745640409
+      "clicks": 157,
+      "impressions": 1922,
+      "ctr": 0.08168574401664933,
+      "position": 6.711758584807492
     },
     {
       "query": "lifetime roofing baton rouge",
-      "clicks": 80,
-      "impressions": 377,
-      "ctr": 0.21220159151193635,
-      "position": 1.3740053050397878
-    },
-    {
-      "query": "lifetime roofing llc.",
-      "clicks": 20,
-      "impressions": 280,
-      "ctr": 0.07142857142857142,
-      "position": 2.7964285714285717
+      "clicks": 87,
+      "impressions": 444,
+      "ctr": 0.19594594594594594,
+      "position": 1.2297297297297298
     },
     {
       "query": "lifetime roofing llc",
+      "clicks": 17,
+      "impressions": 209,
+      "ctr": 0.08133971291866028,
+      "position": 4.2631578947368425
+    },
+    {
+      "query": "lifetime roofing llc.",
       "clicks": 16,
-      "impressions": 153,
-      "ctr": 0.10457516339869281,
-      "position": 5.189542483660131
+      "impressions": 351,
+      "ctr": 0.045584045584045586,
+      "position": 2.737891737891738
     },
     {
       "query": "roofing companies baton rouge",
       "clicks": 8,
-      "impressions": 1300,
-      "ctr": 0.006153846153846154,
-      "position": 5.018461538461539
+      "impressions": 1264,
+      "ctr": 0.006329113924050633,
+      "position": 5.147151898734177
     },
     {
       "query": "life time roofing",
       "clicks": 6,
-      "impressions": 30,
-      "ctr": 0.2,
-      "position": 1.8333333333333335
+      "impressions": 36,
+      "ctr": 0.16666666666666666,
+      "position": 1.8888888888888888
     },
     {
       "query": "lifetime roofing company",
       "clicks": 5,
-      "impressions": 125,
-      "ctr": 0.04,
-      "position": 11.696
+      "impressions": 131,
+      "ctr": 0.03816793893129771,
+      "position": 10.213740458015268
     },
     {
       "query": "lifetime roofing llc reviews",
       "clicks": 4,
-      "impressions": 395,
-      "ctr": 0.010126582278481013,
-      "position": 3.1468354430379746
+      "impressions": 418,
+      "ctr": 0.009569377990430622,
+      "position": 3.263157894736842
     },
     {
-      "query": "roofing baton rouge",
+      "query": "roofing in louisiana",
       "clicks": 4,
-      "impressions": 1345,
-      "ctr": 0.002973977695167286,
-      "position": 10.884758364312267
+      "impressions": 366,
+      "ctr": 0.01092896174863388,
+      "position": 10.620218579234972
+    },
+    {
+      "query": "lifetime roofing llc. reviews",
+      "clicks": 3,
+      "impressions": 27,
+      "ctr": 0.1111111111111111,
+      "position": 3.5555555555555554
     },
     {
       "query": "roof repair baton rouge",
       "clicks": 3,
-      "impressions": 2206,
-      "ctr": 0.0013599274705349048,
-      "position": 4.57026291931097
+      "impressions": 2267,
+      "ctr": 0.0013233348037053375,
+      "position": 4.588883987648876
+    },
+    {
+      "query": "roofers baton rouge",
+      "clicks": 3,
+      "impressions": 856,
+      "ctr": 0.0035046728971962616,
+      "position": 4.468457943925234
     },
     {
       "query": "roofers in baton rouge",
       "clicks": 3,
-      "impressions": 616,
-      "ctr": 0.00487012987012987,
-      "position": 3.5275974025974026
+      "impressions": 668,
+      "ctr": 0.004491017964071856,
+      "position": 3.7709580838323356
     },
     {
       "query": "roofing",
       "clicks": 3,
-      "impressions": 160,
-      "ctr": 0.01875,
-      "position": 6.1375
+      "impressions": 175,
+      "ctr": 0.017142857142857144,
+      "position": 6.628571428571429
     },
     {
-      "query": "baton rouge roofers",
-      "clicks": 2,
-      "impressions": 1177,
-      "ctr": 0.0016992353440951572,
-      "position": 3.127442650807137
+      "query": "roofing baton rouge",
+      "clicks": 3,
+      "impressions": 1287,
+      "ctr": 0.002331002331002331,
+      "position": 8.916083916083917
     },
     {
-      "query": "lifetime roofing reviews",
-      "clicks": 2,
-      "impressions": 62,
-      "ctr": 0.03225806451612903,
-      "position": 5.67741935483871
+      "query": "roofing company baton rouge",
+      "clicks": 3,
+      "impressions": 1347,
+      "ctr": 0.0022271714922048997,
+      "position": 4.786933927245731
     },
     {
-      "query": "roofers baton rouge",
+      "query": "roof inspection baton rouge la",
       "clicks": 2,
-      "impressions": 830,
-      "ctr": 0.0024096385542168677,
-      "position": 4.636144578313253
-    },
-    {
-      "query": "roofing companies in baton rouge louisiana",
-      "clicks": 2,
-      "impressions": 17,
-      "ctr": 0.11764705882352941,
-      "position": 2
+      "impressions": 508,
+      "ctr": 0.003937007874015748,
+      "position": 15.062992125984252
     },
     {
       "query": "roofing companies in louisiana",
       "clicks": 2,
-      "impressions": 183,
-      "ctr": 0.01092896174863388,
-      "position": 13.836065573770492
+      "impressions": 208,
+      "ctr": 0.009615384615384616,
+      "position": 12.740384615384615
     },
     {
       "query": "roofing companies louisiana",
       "clicks": 2,
-      "impressions": 216,
-      "ctr": 0.009259259259259259,
-      "position": 8.972222222222221
+      "impressions": 241,
+      "ctr": 0.008298755186721992,
+      "position": 8.576763485477178
     },
     {
       "query": "roofing contractors in louisiana",
       "clicks": 2,
-      "impressions": 123,
-      "ctr": 0.016260162601626018,
-      "position": 47.15447154471545
-    },
-    {
-      "query": "roofing in louisiana",
-      "clicks": 2,
-      "impressions": 370,
-      "ctr": 0.005405405405405406,
-      "position": 10.256756756756756
+      "impressions": 101,
+      "ctr": 0.019801980198019802,
+      "position": 42.95049504950495
     },
     {
       "query": "baton rogue roofing",
       "clicks": 1,
       "impressions": 22,
       "ctr": 0.045454545454545456,
-      "position": 13.181818181818182
+      "position": 13.590909090909092
     },
     {
       "query": "baton rouge roof repair",
       "clicks": 1,
-      "impressions": 1085,
-      "ctr": 0.0009216589861751152,
-      "position": 4.674654377880184
+      "impressions": 1142,
+      "ctr": 0.0008756567425569177,
+      "position": 4.450087565674256
+    },
+    {
+      "query": "baton rouge roofers",
+      "clicks": 1,
+      "impressions": 1203,
+      "ctr": 0.0008312551953449709,
+      "position": 3.3599334995843724
     },
     {
       "query": "baton rouge roofing",
       "clicks": 1,
-      "impressions": 917,
-      "ctr": 0.0010905125408942203,
-      "position": 7.1308615049073065
+      "impressions": 921,
+      "ctr": 0.0010857763300760044,
+      "position": 7.48642779587405
     },
     {
       "query": "baton rouge roofing companies",
       "clicks": 1,
-      "impressions": 248,
-      "ctr": 0.004032258064516129,
-      "position": 3.2701612903225805
+      "impressions": 274,
+      "ctr": 0.0036496350364963502,
+      "position": 3.9051094890510947
     },
     {
       "query": "baton rouge roofing company",
       "clicks": 1,
-      "impressions": 369,
-      "ctr": 0.0027100271002710027,
-      "position": 7.6802168021680215
+      "impressions": 372,
+      "ctr": 0.002688172043010753,
+      "position": 7.967741935483871
     },
     {
       "query": "baton rouge roofing contractor",
       "clicks": 1,
-      "impressions": 172,
-      "ctr": 0.005813953488372093,
-      "position": 2.645348837209302
+      "impressions": 183,
+      "ctr": 0.00546448087431694,
+      "position": 3.5136612021857925
     },
     {
       "query": "baton rouge roofing contractors",
       "clicks": 1,
-      "impressions": 757,
-      "ctr": 0.001321003963011889,
-      "position": 2.903566710700132
+      "impressions": 742,
+      "ctr": 0.0013477088948787063,
+      "position": 3.2048517520215634
     },
     {
       "query": "best roofers baton rouge",
       "clicks": 1,
-      "impressions": 138,
-      "ctr": 0.007246376811594203,
-      "position": 9.68840579710145
+      "impressions": 104,
+      "ctr": 0.009615384615384616,
+      "position": 9.326923076923077
     },
     {
-      "query": "lifetime roofing and renovation",
+      "query": "cheap roofers near me",
       "clicks": 1,
-      "impressions": 29,
-      "ctr": 0.034482758620689655,
-      "position": 38.172413793103445
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "lifetime roofing houston",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 1.6666666666666665
     },
     {
       "query": "lifetime roofing la",
@@ -856,9 +877,16 @@
     {
       "query": "lifetime roofing of america",
       "clicks": 1,
-      "impressions": 18,
-      "ctr": 0.05555555555555555,
-      "position": 16.944444444444443
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 16.076923076923077
+    },
+    {
+      "query": "lifetime roofing reviews",
+      "clicks": 1,
+      "impressions": 69,
+      "ctr": 0.014492753623188406,
+      "position": 5.173913043478261
     },
     {
       "query": "ltr roofing",
@@ -866,6 +894,13 @@
       "impressions": 4,
       "ctr": 0.25,
       "position": 4.25
+    },
+    {
+      "query": "metal roofing baton rouge",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 2.764705882352941
     },
     {
       "query": "new roof financing",
@@ -877,23 +912,9 @@
     {
       "query": "residential roofing baton rouge",
       "clicks": 1,
-      "impressions": 944,
-      "ctr": 0.001059322033898305,
-      "position": 14.755296610169491
-    },
-    {
-      "query": "roof baton rouge",
-      "clicks": 1,
-      "impressions": 331,
-      "ctr": 0.0030211480362537764,
-      "position": 6.734138972809668
-    },
-    {
-      "query": "roof inspection baton rouge la",
-      "clicks": 1,
-      "impressions": 475,
-      "ctr": 0.002105263157894737,
-      "position": 14.32421052631579
+      "impressions": 916,
+      "ctr": 0.001091703056768559,
+      "position": 15.618995633187772
     },
     {
       "query": "roof near me",
@@ -905,79 +926,72 @@
     {
       "query": "roof replacement baton rouge",
       "clicks": 1,
-      "impressions": 1578,
-      "ctr": 0.0006337135614702154,
-      "position": 4.73637515842839
+      "impressions": 1583,
+      "ctr": 0.0006317119393556538,
+      "position": 4.811749842072015
     },
     {
       "query": "roofer",
       "clicks": 1,
-      "impressions": 933,
-      "ctr": 0.0010718113612004287,
-      "position": 1.1929260450160772
+      "impressions": 928,
+      "ctr": 0.0010775862068965517,
+      "position": 1.1303879310344827
     },
     {
-      "query": "roofer baton rouge",
+      "query": "roofer baton rouge la",
       "clicks": 1,
-      "impressions": 255,
-      "ctr": 0.00392156862745098,
-      "position": 2.462745098039216
+      "impressions": 68,
+      "ctr": 0.014705882352941176,
+      "position": 5.911764705882353
     },
     {
       "query": "roofers",
       "clicks": 1,
-      "impressions": 817,
-      "ctr": 0.0012239902080783353,
-      "position": 1.430844553243574
-    },
-    {
-      "query": "roofing companies baton rouge louisiana",
-      "clicks": 1,
-      "impressions": 31,
-      "ctr": 0.03225806451612903,
-      "position": 4.483870967741936
+      "impressions": 747,
+      "ctr": 0.0013386880856760374,
+      "position": 1.4404283801874163
     },
     {
       "query": "roofing companies in baton rouge",
       "clicks": 1,
-      "impressions": 462,
-      "ctr": 0.0021645021645021645,
-      "position": 5.3441558441558445
+      "impressions": 468,
+      "ctr": 0.002136752136752137,
+      "position": 5.871794871794871
     },
     {
-      "query": "roofing companies in baton rouge la",
+      "query": "roofing companies that finance",
       "clicks": 1,
-      "impressions": 108,
-      "ctr": 0.009259259259259259,
-      "position": 2.0185185185185186
-    },
-    {
-      "query": "roofing company baton rouge",
-      "clicks": 1,
-      "impressions": 1294,
-      "ctr": 0.0007727975270479134,
-      "position": 4.561051004636785
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1.5
     },
     {
       "query": "roofing contractor baton rouge la",
       "clicks": 1,
-      "impressions": 703,
-      "ctr": 0.001422475106685633,
-      "position": 3.660028449502134
+      "impressions": 663,
+      "ctr": 0.0015082956259426848,
+      "position": 3.838612368024133
     },
     {
       "query": "roofing contractors in baton rouge la",
       "clicks": 1,
-      "impressions": 271,
-      "ctr": 0.0036900369003690036,
-      "position": 2.8228782287822876
+      "impressions": 284,
+      "ctr": 0.0035211267605633804,
+      "position": 3.492957746478873
+    },
+    {
+      "query": "roofing contractors louisiana",
+      "clicks": 1,
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 29.75
     },
     {
       "query": "roofing louisiana",
       "clicks": 1,
-      "impressions": 661,
-      "ctr": 0.0015128593040847202,
-      "position": 7.7609682299546146
+      "impressions": 569,
+      "ctr": 0.0017574692442882249,
+      "position": 9.07908611599297
     },
     {
       "query": "roofs",
@@ -989,214 +1003,1264 @@
     {
       "query": "slidell roofer",
       "clicks": 1,
-      "impressions": 45,
-      "ctr": 0.022222222222222223,
-      "position": 55.733333333333334
+      "impressions": 93,
+      "ctr": 0.010752688172043012,
+      "position": 24.72043010752688
+    },
+    {
+      "query": "slidell roofing",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 9.75
+    },
+    {
+      "query": "\"com\" \" repair\" inurl:contact \"225\" -gmail -yahoo -gov -edu -org -india -91",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 151.625
+    },
+    {
+      "query": "\"lifetime roofing llc.\" \"4511 jamestown ave\"",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "query": "\"lifetime roofing llc.\" \"70808\"",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 13.222222222222221
+    },
+    {
+      "query": "\"lifetime roofing llc.\" \"baton rouge\"",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "query": "\"roof leak repair\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "\"the best roofers near me\"",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "#roof",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "#roofinspection",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 5.666666666666667
+    },
+    {
+      "query": "+1 (225) 217-1272",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "10 best roofing companies near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "10dlc for roofers",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 4.6
+    },
+    {
+      "query": "24 hour emergency roof repair",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 10.333333333333334
+    },
+    {
+      "query": "24 hour roof repair near me",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 56.05882352941177
+    },
+    {
+      "query": "24/7 roof repair services near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "50 year roof warranty neenah, wi",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 23
+    },
+    {
+      "query": "9727032764",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 9.076923076923077
+    },
+    {
+      "query": "a-best roofing, roofing service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 16
+    },
+    {
+      "query": "affordable roof coating baton rouge",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 2.7333333333333334
+    },
+    {
+      "query": "affordable roof repair near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "affordable roof replacement contractors",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "affordable roof replacement packages near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "affordable roofers",
+      "clicks": 0,
+      "impressions": 72,
+      "ctr": 0,
+      "position": 4.291666666666666
+    },
+    {
+      "query": "affordable roofers near me",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 8.88888888888889
+    },
+    {
+      "query": "affordable roofing company",
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 9.789473684210526
+    },
+    {
+      "query": "affordable roofing in baton rouge",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 11.5
+    },
+    {
+      "query": "after-storm roof inspection",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 30
+    },
+    {
+      "query": "always roofing",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "annual roof inspection service",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 7.666666666666667
+    },
+    {
+      "query": "anytime roofing",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "apex roofing",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "apply at lifetime",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 38
+    },
+    {
+      "query": "apply for roof financing online",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "architectural shingles installation near me",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 8.666666666666668
+    },
+    {
+      "query": "are there certified contractors for architectural shingle replacement?",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7.5
+    },
+    {
+      "query": "are there roofing companies that provide same-day estimates?",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 60.666666666666664
+    },
+    {
+      "query": "are there roofing products that come with a long-term warranty?",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "are there roofing services near me open on weekends?",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "asbestos roof inspection",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 12.76923076923077
+    },
+    {
+      "query": "asphalt roofing companies",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 30
+    },
+    {
+      "query": "asphalt shingle baton rouge la",
+      "clicks": 0,
+      "impressions": 106,
+      "ctr": 0,
+      "position": 13.028301886792454
+    },
+    {
+      "query": "asphalt shingle repair 77373",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "asphalt shingle repair 77386",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "asphalt shingle repair 77388",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "asphalt shingle roof services",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 16
+    },
+    {
+      "query": "asphalt shingle roofers near me",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "atlas 9kohx warranty",
+      "clicks": 0,
+      "impressions": 32,
+      "ctr": 0,
+      "position": 3.4375
+    },
+    {
+      "query": "atlas automotive equipment warranty",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 3.9411764705882355
+    },
+    {
+      "query": "atlas lift warranty",
+      "clicks": 0,
+      "impressions": 35,
+      "ctr": 0,
+      "position": 3.7142857142857144
+    },
+    {
+      "query": "atlas lift warranty details",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 4.6
+    },
+    {
+      "query": "atlas lift warranty length",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 5.5
+    },
+    {
+      "query": "atlas lifts 10 year warranty",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "atlas lifts warranty",
+      "clicks": 0,
+      "impressions": 28,
+      "ctr": 0,
+      "position": 4.571428571428571
+    },
+    {
+      "query": "atlas lifts warranty details",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 4.714285714285714
+    },
+    {
+      "query": "atlas lifts warranty length",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 4.5
+    },
+    {
+      "query": "atlas lifts warranty platinum series",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 2.2
+    },
+    {
+      "query": "atlas pinnacle",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "atlas pinnacle coastal granite",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "atlas pinnacle hearthstone",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "atlas pinnacle impact shingles",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "atlas pinnacle pristine",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "atlas pinnacle pristine hearthstone",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "atlas pinnacle pristine rochester hills mi",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "atlas pinnacle pristine shingle warranty",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "atlas pinnacle pristine shingles",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "atlas pinnacle pristine shingles price",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "atlas pinnacle pristine shingles warranty",
+      "clicks": 0,
+      "impressions": 44,
+      "ctr": 0,
+      "position": 20.681818181818183
+    },
+    {
+      "query": "atlas pinnacle pristine warranty",
+      "clicks": 0,
+      "impressions": 97,
+      "ctr": 0,
+      "position": 14.948453608247423
+    },
+    {
+      "query": "atlas pinnacle roofing shingles",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "atlas pinnacle shingle",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "atlas pinnacle shingle warranty",
+      "clicks": 0,
+      "impressions": 46,
+      "ctr": 0,
+      "position": 6.717391304347826
+    },
+    {
+      "query": "atlas pinnacle shingles",
+      "clicks": 0,
+      "impressions": 23,
+      "ctr": 0,
+      "position": 2.1739130434782608
+    },
+    {
+      "query": "atlas pinnacle shingles recall",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "atlas pinnacle shingles reviews",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "atlas pinnacle shingles warranty",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 3.642857142857143
+    },
+    {
+      "query": "atlas pinnacle sun shingles",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "atlas pinnacle warranty",
+      "clicks": 0,
+      "impressions": 107,
+      "ctr": 0,
+      "position": 13.271028037383177
+    },
+    {
+      "query": "atlas platinum lift warranty",
+      "clicks": 0,
+      "impressions": 41,
+      "ctr": 0,
+      "position": 2.7804878048780486
+    },
+    {
+      "query": "atlas platinum lifts warranty",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 3.2222222222222223
+    },
+    {
+      "query": "atlas platinum series lift warranty",
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "atlas platinum series warranty",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 3.2222222222222223
+    },
+    {
+      "query": "atlas pv-10p warranty",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "atlas pv10px warranty",
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 4.333333333333334
+    },
+    {
+      "query": "atlas pv12px warranty",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 2.75
+    },
+    {
+      "query": "atlas pvl series warranty",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "atlas roof warranty",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 29
+    },
+    {
+      "query": "atlas roofing houma",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 91
+    },
+    {
+      "query": "atlas roofing phone number",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "atlas roofing slidell",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 22.266666666666666
+    },
+    {
+      "query": "atlas roofing slidell la",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 11.9375
+    },
+    {
+      "query": "atlas roofing warranty",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 25.733333333333334
+    },
+    {
+      "query": "atlas roofing warranty coverage levels",
+      "clicks": 0,
+      "impressions": 65,
+      "ctr": 0,
+      "position": 8.6
+    },
+    {
+      "query": "atlas roofing warranty coverage levels dallas tx",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "atlas roofing warranty coverage levels loveland co",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 9.25
+    },
+    {
+      "query": "atlas shingle warranty",
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 23.833333333333332
+    },
+    {
+      "query": "atlas shingles",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "atlas shingles warranty",
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 24
+    },
+    {
+      "query": "atlas signature select warranty",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 40.75
+    },
+    {
+      "query": "atlas two post lift typical warranty",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "atlas two post lifts warranty",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 3.25
+    },
+    {
+      "query": "atlas two-post lifts warranty",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 3.1666666666666665
+    },
+    {
+      "query": "atlas warranty",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 50.09090909090909
+    },
+    {
+      "query": "atlasroofing.com/warranty",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 42
+    },
+    {
+      "query": "average roof replacement cost baton rogue",
+      "clicks": 0,
+      "impressions": 34,
+      "ctr": 0,
+      "position": 43.94117647058823
+    },
+    {
+      "query": "average roof replacement cost baton rouge",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 68.66666666666667
+    },
+    {
+      "query": "baton rogue roofing company",
+      "clicks": 0,
+      "impressions": 21,
+      "ctr": 0,
+      "position": 10.952380952380953
+    },
+    {
+      "query": "baton rogue roofing contractor",
+      "clicks": 0,
+      "impressions": 29,
+      "ctr": 0,
+      "position": 8.827586206896552
+    },
+    {
+      "query": "baton rouge commercial roofing",
+      "clicks": 0,
+      "impressions": 559,
+      "ctr": 0,
+      "position": 37.008944543828264
+    },
+    {
+      "query": "baton rouge companies",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 147
+    },
+    {
+      "query": "baton rouge hurricane roof inspection",
+      "clicks": 0,
+      "impressions": 92,
+      "ctr": 0,
+      "position": 10.576086956521738
+    },
+    {
+      "query": "baton rouge metal roofing companies",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "baton rouge pool inspection services protect your investment with regular inspections",
+      "clicks": 0,
+      "impressions": 20,
+      "ctr": 0,
+      "position": 17.6
+    },
+    {
+      "query": "baton rouge pvc roofing contractor",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 5.111111111111111
+    },
+    {
+      "query": "baton rouge roof installation",
+      "clicks": 0,
+      "impressions": 34,
+      "ctr": 0,
+      "position": 1.8529411764705883
+    },
+    {
+      "query": "baton rouge roof maintenance",
+      "clicks": 0,
+      "impressions": 90,
+      "ctr": 0,
+      "position": 3.2555555555555555
+    },
+    {
+      "query": "baton rouge roof protection",
+      "clicks": 0,
+      "impressions": 70,
+      "ctr": 0,
+      "position": 4.585714285714285
+    },
+    {
+      "query": "baton rouge roof replacement",
+      "clicks": 0,
+      "impressions": 362,
+      "ctr": 0,
+      "position": 5.171270718232044
+    },
+    {
+      "query": "baton rouge roof roof repair vs. replacement",
+      "clicks": 0,
+      "impressions": 33,
+      "ctr": 0,
+      "position": 6.7272727272727275
+    },
+    {
+      "query": "baton rouge roofer",
+      "clicks": 0,
+      "impressions": 176,
+      "ctr": 0,
+      "position": 2.5681818181818183
+    },
+    {
+      "query": "baton rouge roofing company reviews",
+      "clicks": 0,
+      "impressions": 62,
+      "ctr": 0,
+      "position": 3.3548387096774195
+    },
+    {
+      "query": "baton rouge roofing expert",
+      "clicks": 0,
+      "impressions": 46,
+      "ctr": 0,
+      "position": 10.130434782608695
+    },
+    {
+      "query": "baton rouge roofing services",
+      "clicks": 0,
+      "impressions": 93,
+      "ctr": 0,
+      "position": 5.580645161290323
+    },
+    {
+      "query": "baton rouge roofing ventilation",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 7.166666666666667
+    },
+    {
+      "query": "baton rouge shingle roofer",
+      "clicks": 0,
+      "impressions": 68,
+      "ctr": 0,
+      "position": 3.735294117647059
+    },
+    {
+      "query": "baton rouge slate roofing",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 24.5
+    },
+    {
+      "query": "baton rouge wind damage restoration",
+      "clicks": 0,
+      "impressions": 36,
+      "ctr": 0,
+      "position": 13.972222222222221
+    },
+    {
+      "query": "baton rouge wood shake roof",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 8.5
+    },
+    {
+      "query": "benefits of seamless gutters",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "best affordable roofing companies near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "best certified residential roofing contractors near me",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "best commercial roof repair company",
+      "clicks": 0,
+      "impressions": 23,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "best commercial roof replacement service near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "best commercial roofing company",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 1.2857142857142856
+    },
+    {
+      "query": "best commercial roofing contractor",
+      "clicks": 0,
+      "impressions": 21,
+      "ctr": 0,
+      "position": 2.0476190476190474
+    },
+    {
+      "query": "best contractors for full roof tear-offs and replacements",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 18
+    },
+    {
+      "query": "best customer service residential roofing companies",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 9.25
+    },
+    {
+      "query": "best donaldsonville homeowners insurance",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 52.5
+    },
+    {
+      "query": "best emergency roof leak repair service",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 7.666666666666667
+    },
+    {
+      "query": "best rated roofers near me",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 33.5
+    },
+    {
+      "query": "best rated roofing companies near me",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 3.6666666666666665
+    },
+    {
+      "query": "best residential roofers in baton rouge",
+      "clicks": 0,
+      "impressions": 90,
+      "ctr": 0,
+      "position": 5.911111111111111
+    },
+    {
+      "query": "best roof coating for baton rouge homes",
+      "clicks": 0,
+      "impressions": 30,
+      "ctr": 0,
+      "position": 14.6
+    },
+    {
+      "query": "best roof company",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8.5
+    },
+    {
+      "query": "best roof repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "best roof repair companies near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "best roof repair company",
+      "clicks": 0,
+      "impressions": 34,
+      "ctr": 0,
+      "position": 4.9411764705882355
+    },
+    {
+      "query": "best roof repair company near me",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 8.857142857142858
+    },
+    {
+      "query": "best roof repair for leaks",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "best roof repair louisiana",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 61.083333333333336
     }
   ],
   "topPages": [
     {
-      "page": "https://www.lifetimeroofingla.com/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-baton-rouge-la",
-      "clicks": 231,
-      "impressions": 47736,
-      "ctr": 0.0048391151332327804,
-      "position": 1.8082369700016758
+      "page": "https://www.lifetimeroofingla.com/",
+      "clicks": 244,
+      "impressions": 58757,
+      "ctr": 0.004152696699967664,
+      "position": 13.17570672430519
     },
     {
-      "page": "https://www.lifetimeroofingla.com/",
-      "clicks": 219,
-      "impressions": 59496,
-      "ctr": 0.003680919725695845,
-      "position": 12.884462821029985
+      "page": "https://www.lifetimeroofingla.com/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-baton-rouge-la",
+      "clicks": 243,
+      "impressions": 49385,
+      "ctr": 0.004920522425837805,
+      "position": 1.8490229826870506
     },
     {
       "page": "https://www.lifetimeroofingla.com/reviews/",
-      "clicks": 20,
-      "impressions": 6128,
-      "ctr": 0.0032637075718015664,
-      "position": 10.62532637075718
+      "clicks": 23,
+      "impressions": 5131,
+      "ctr": 0.004482557006431495,
+      "position": 9.681933346326252
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/service-area/houston-tx/",
+      "clicks": 16,
+      "impressions": 2232,
+      "ctr": 0.007168458781362007,
+      "position": 2.281362007168459
     },
     {
       "page": "https://www.lifetimeroofingla.com/about/",
-      "clicks": 13,
-      "impressions": 4611,
-      "ctr": 0.0028193450444589027,
-      "position": 21.04445890262416
+      "clicks": 11,
+      "impressions": 5528,
+      "ctr": 0.0019898697539797393,
+      "position": 17.12083936324168
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/careers/",
+      "clicks": 11,
+      "impressions": 909,
+      "ctr": 0.0121012101210121,
+      "position": 12.638063806380638
     },
     {
       "page": "https://www.lifetimeroofingla.com/warranty/",
       "clicks": 11,
-      "impressions": 3573,
-      "ctr": 0.0030786453960257487,
-      "position": 8.74503218583823
-    },
-    {
-      "page": "https://www.lifetimeroofingla.com/careers/",
-      "clicks": 10,
-      "impressions": 2951,
-      "ctr": 0.003388681802778719,
-      "position": 10.221619789901728
+      "impressions": 4030,
+      "ctr": 0.002729528535980149,
+      "position": 8.493548387096773
     },
     {
       "page": "https://lifetimeroofingla.com/",
       "clicks": 8,
-      "impressions": 66,
-      "ctr": 0.12121212121212122,
-      "position": 3.8181818181818183
+      "impressions": 345,
+      "ctr": 0.02318840579710145,
+      "position": 8.565217391304348
     },
     {
       "page": "https://www.lifetimeroofingla.com/contact",
-      "clicks": 3,
-      "impressions": 5024,
-      "ctr": 0.0005971337579617834,
-      "position": 10.983081210191083
-    },
-    {
-      "page": "https://www.lifetimeroofingla.com/financing",
-      "clicks": 3,
-      "impressions": 295,
-      "ctr": 0.010169491525423728,
-      "position": 6.613559322033899
+      "clicks": 5,
+      "impressions": 3077,
+      "ctr": 0.0016249593760155996,
+      "position": 12.648683782905428
     },
     {
       "page": "https://www.lifetimeroofingla.com/roofing/",
       "clicks": 3,
-      "impressions": 5679,
-      "ctr": 0.0005282620179609086,
-      "position": 11.474907554146856
+      "impressions": 4351,
+      "ctr": 0.000689496667432774,
+      "position": 10.941392783268213
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/roofing/inspections/",
+      "clicks": 3,
+      "impressions": 5370,
+      "ctr": 0.0005586592178770949,
+      "position": 28.367970204841715
     },
     {
       "page": "https://www.lifetimeroofingla.com/roofing/installation/",
       "clicks": 3,
-      "impressions": 1845,
-      "ctr": 0.0016260162601626016,
-      "position": 28.183739837398374
+      "impressions": 2304,
+      "ctr": 0.0013020833333333333,
+      "position": 27.01996527777778
     },
     {
       "page": "https://www.lifetimeroofingla.com/schedule/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-baton-rouge-la",
       "clicks": 3,
-      "impressions": 1256,
-      "ctr": 0.0023885350318471337,
-      "position": 12.626592356687897
+      "impressions": 1390,
+      "ctr": 0.002158273381294964,
+      "position": 12.034532374100719
     },
     {
-      "page": "https://www.lifetimeroofingla.com/service-area/houston-tx/",
-      "clicks": 3,
-      "impressions": 66,
-      "ctr": 0.045454545454545456,
-      "position": 3.409090909090909
+      "page": "https://www.lifetimeroofingla.com/financing",
+      "clicks": 2,
+      "impressions": 244,
+      "ctr": 0.00819672131147541,
+      "position": 6.60655737704918
     },
     {
       "page": "https://www.lifetimeroofingla.com/roofing/repairs",
       "clicks": 2,
-      "impressions": 5360,
-      "ctr": 0.00037313432835820896,
-      "position": 27.76865671641791
+      "impressions": 3757,
+      "ctr": 0.0005323396326856535,
+      "position": 28.90870375299441
     },
     {
       "page": "https://www.lifetimeroofingla.com/roofing/storm-damage/",
       "clicks": 2,
-      "impressions": 3879,
-      "ctr": 0.0005155968032998196,
-      "position": 14.726475895849445
+      "impressions": 4677,
+      "ctr": 0.00042762454564892024,
+      "position": 13.99764806499893
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/service-area/",
+      "clicks": 2,
+      "impressions": 3874,
+      "ctr": 0.0005162622612287042,
+      "position": 12.457924625709861
     },
     {
       "page": "https://www.lifetimeroofingla.com/blog/roof-inspection-guide-baton-rouge/",
       "clicks": 1,
-      "impressions": 298,
-      "ctr": 0.003355704697986577,
-      "position": 12.587248322147651
+      "impressions": 264,
+      "ctr": 0.003787878787878788,
+      "position": 13.06060606060606
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/financing/",
+      "clicks": 1,
+      "impressions": 62,
+      "ctr": 0.016129032258064516,
+      "position": 6.82258064516129
     },
     {
       "page": "https://www.lifetimeroofingla.com/reviews/page/3",
       "clicks": 1,
-      "impressions": 117,
-      "ctr": 0.008547008547008548,
-      "position": 5
-    },
-    {
-      "page": "https://www.lifetimeroofingla.com/roofing/inspections/",
-      "clicks": 1,
-      "impressions": 3309,
-      "ctr": 0.0003022061045633122,
-      "position": 25.14868540344515
+      "impressions": 123,
+      "ctr": 0.008130081300813009,
+      "position": 5.219512195121951
     },
     {
       "page": "https://www.lifetimeroofingla.com/schedule/?utm_campaign=slidell-gbp-booking&utm_source=slidell-gbp&utm_medium=google",
       "clicks": 1,
-      "impressions": 28,
-      "ctr": 0.03571428571428571,
-      "position": 13.75
-    },
-    {
-      "page": "https://www.lifetimeroofingla.com/service-area/",
-      "clicks": 1,
-      "impressions": 3773,
-      "ctr": 0.00026504108136761196,
-      "position": 13.717466207262126
+      "impressions": 87,
+      "ctr": 0.011494252873563218,
+      "position": 12.091954022988507
     },
     {
       "page": "https://www.lifetimeroofingla.com/service-area/prairieville-la/",
       "clicks": 1,
-      "impressions": 678,
-      "ctr": 0.0014749262536873156,
-      "position": 15.163716814159292
+      "impressions": 568,
+      "ctr": 0.0017605633802816902,
+      "position": 16.20950704225352
     },
     {
       "page": "https://www.lifetimeroofingla.com/about",
       "clicks": 0,
-      "impressions": 641,
+      "impressions": 303,
       "ctr": 0,
-      "position": 7.926677067082683
+      "position": 8.14851485148515
     },
     {
       "page": "https://www.lifetimeroofingla.com/blog/how-to-spot-roof-damage-after-storm-la/",
       "clicks": 0,
-      "impressions": 127,
+      "impressions": 211,
       "ctr": 0,
-      "position": 26.96062992125984
+      "position": 26.01421800947867
     },
     {
       "page": "https://www.lifetimeroofingla.com/blog/repair-vs-replace-your-roof-in-baton-rouge-la/",
       "clicks": 0,
-      "impressions": 350,
+      "impressions": 380,
       "ctr": 0,
-      "position": 29.694285714285716
+      "position": 28.378947368421052
     },
     {
       "page": "https://www.lifetimeroofingla.com/contact/",
       "clicks": 0,
-      "impressions": 654,
+      "impressions": 973,
       "ctr": 0,
-      "position": 7.408256880733945
+      "position": 7.936279547790339
     },
     {
       "page": "https://www.lifetimeroofingla.com/how-to-spot-roof-damage-after-storm-la",
       "clicks": 0,
-      "impressions": 62,
+      "impressions": 15,
       "ctr": 0,
-      "position": 20.580645161290324
+      "position": 21.866666666666667
     },
     {
       "page": "https://www.lifetimeroofingla.com/privacy-policy/",
       "clicks": 0,
-      "impressions": 58,
+      "impressions": 55,
       "ctr": 0,
-      "position": 12.03448275862069
+      "position": 14.054545454545455
     },
     {
       "page": "https://www.lifetimeroofingla.com/reviews",
       "clicks": 0,
-      "impressions": 1294,
+      "impressions": 438,
       "ctr": 0,
-      "position": 7.288253477588872
+      "position": 7.390410958904109
     },
     {
       "page": "https://www.lifetimeroofingla.com/reviews/page/2",
       "clicks": 0,
-      "impressions": 14,
+      "impressions": 11,
       "ctr": 0,
-      "position": 11.428571428571429
+      "position": 12.909090909090908
     },
     {
       "page": "https://www.lifetimeroofingla.com/reviews/page/4",
@@ -1208,52 +2272,64 @@
     {
       "page": "https://www.lifetimeroofingla.com/roofing",
       "clicks": 0,
-      "impressions": 1333,
+      "impressions": 449,
       "ctr": 0,
-      "position": 7.135783945986496
+      "position": 7.247216035634744
     },
     {
       "page": "https://www.lifetimeroofingla.com/roofing/inspections",
       "clicks": 0,
-      "impressions": 2609,
+      "impressions": 501,
       "ctr": 0,
-      "position": 17.642391720965886
+      "position": 18.377245508982035
+    },
+    {
+      "page": "https://www.lifetimeroofingla.com/roofing/repairs/",
+      "clicks": 0,
+      "impressions": 126,
+      "ctr": 0,
+      "position": 11.777777777777779
     },
     {
       "page": "https://www.lifetimeroofingla.com/schedule-old",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 2,
       "ctr": 0,
-      "position": 5
+      "position": 4.5
     },
     {
       "page": "https://www.lifetimeroofingla.com/schedule-thankyou/",
       "clicks": 0,
-      "impressions": 2,
+      "impressions": 3,
       "ctr": 0,
-      "position": 18.5
+      "position": 13
     },
     {
       "page": "https://www.lifetimeroofingla.com/schedule/",
       "clicks": 0,
-      "impressions": 170,
+      "impressions": 230,
       "ctr": 0,
-      "position": 8.511764705882353
+      "position": 6.6521739130434785
     },
     {
       "page": "https://www.lifetimeroofingla.com/service-area",
       "clicks": 0,
-      "impressions": 1174,
+      "impressions": 424,
       "ctr": 0,
-      "position": 7.545996592844975
+      "position": 7.389150943396227
     },
     {
       "page": "https://www.lifetimeroofingla.com/terms-conditions/",
       "clicks": 0,
-      "impressions": 91,
+      "impressions": 82,
       "ctr": 0,
-      "position": 8.571428571428571
+      "position": 8.439024390243903
     }
   ],
-  "fetchedAt": "2026-03-18T13:08:13.056Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [],
+  "fetchedAt": "2026-04-07T16:22:44.667Z"
 }

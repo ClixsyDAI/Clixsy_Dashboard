@@ -1,156 +1,16 @@
 {
   "property": "https://holtplumbingandheating.com/",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 1703,
-    "impressions": 356155,
-    "ctr": 0.0047816259774536365,
-    "position": 18.204900086476986
+    "clicks": 1764,
+    "impressions": 397017,
+    "ctr": 0.004443134676852628,
+    "position": 17.3854206845728
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 26,
-      "impressions": 7207,
-      "ctr": 0.00360760371860691,
-      "position": 9.685305952546136
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 24,
-      "impressions": 4453,
-      "ctr": 0.005389624971929036,
-      "position": 19.278913092297326
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 21,
-      "impressions": 3097,
-      "ctr": 0.006780755569906361,
-      "position": 20.59380045205037
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 32,
-      "impressions": 4610,
-      "ctr": 0.006941431670281995,
-      "position": 21.468546637744033
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 9,
-      "impressions": 3079,
-      "ctr": 0.002923026956804157,
-      "position": 20.376096135108803
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 9,
-      "impressions": 3127,
-      "ctr": 0.002878157978893508,
-      "position": 21.657499200511673
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 8,
-      "impressions": 3085,
-      "ctr": 0.002593192868719611,
-      "position": 20.777309562398703
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 15,
-      "impressions": 3770,
-      "ctr": 0.003978779840848806,
-      "position": 23.319893899204246
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 19,
-      "impressions": 4173,
-      "ctr": 0.00455307931943446,
-      "position": 20.458423196740952
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 6,
-      "impressions": 3304,
-      "ctr": 0.0018159806295399517,
-      "position": 23.426150121065376
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 3,
-      "impressions": 3081,
-      "ctr": 0.0009737098344693282,
-      "position": 22.53846153846154
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 8,
-      "impressions": 2957,
-      "ctr": 0.002705444707473791,
-      "position": 21.44200202908353
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 10,
-      "impressions": 2682,
-      "ctr": 0.0037285607755406414,
-      "position": 19.583892617449663
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 2,
-      "impressions": 2900,
-      "ctr": 0.000689655172413793,
-      "position": 22.33896551724138
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 27,
-      "impressions": 2968,
-      "ctr": 0.009097035040431268,
-      "position": 19.027291105121293
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 27,
-      "impressions": 3990,
-      "ctr": 0.006766917293233083,
-      "position": 19.88972431077694
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 14,
-      "impressions": 3025,
-      "ctr": 0.004628099173553719,
-      "position": 20.82710743801653
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 10,
-      "impressions": 3825,
-      "ctr": 0.00261437908496732,
-      "position": 17.83686274509804
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 11,
-      "impressions": 2990,
-      "ctr": 0.0036789297658862876,
-      "position": 18.805685618729097
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 10,
-      "impressions": 2699,
-      "ctr": 0.003705075954057058,
-      "position": 19.928862541682104
-    },
     {
       "date": "2026-01-04",
       "clicks": 7,
@@ -640,273 +500,406 @@
       "impressions": 3953,
       "ctr": 0.0022767518340500886,
       "position": 14.034910194788768
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 6,
+      "impressions": 4143,
+      "ctr": 0.001448225923244026,
+      "position": 14.473569876900797
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 35,
+      "impressions": 3658,
+      "ctr": 0.009568069983597594,
+      "position": 14.922635319846911
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 14,
+      "impressions": 3761,
+      "ctr": 0.003722414251528849,
+      "position": 17.149162456793405
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 23,
+      "impressions": 3381,
+      "ctr": 0.006802721088435374,
+      "position": 15.275066548358474
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 10,
+      "impressions": 3126,
+      "ctr": 0.003198976327575176,
+      "position": 17.234165067178502
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 12,
+      "impressions": 3115,
+      "ctr": 0.0038523274478330658,
+      "position": 17.51171749598716
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 5,
+      "impressions": 3539,
+      "ctr": 0.0014128284826222096,
+      "position": 16.580955072054252
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 9,
+      "impressions": 3930,
+      "ctr": 0.0022900763358778627,
+      "position": 17.000508905852417
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 18,
+      "impressions": 3698,
+      "ctr": 0.0048674959437533805,
+      "position": 17.178204434829638
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 19,
+      "impressions": 4478,
+      "ctr": 0.004242965609647164,
+      "position": 16.495980348369805
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 18,
+      "impressions": 9645,
+      "ctr": 0.0018662519440124418,
+      "position": 9.816692586832556
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 33,
+      "impressions": 6816,
+      "ctr": 0.0048415492957746475,
+      "position": 19.14700704225352
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 22,
+      "impressions": 7036,
+      "ctr": 0.0031267765776009098,
+      "position": 19.88388288800455
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 6,
+      "impressions": 5581,
+      "ctr": 0.0010750761512273786,
+      "position": 20.03762766529296
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 9,
+      "impressions": 6367,
+      "ctr": 0.0014135385581906705,
+      "position": 20.454059996858803
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 25,
+      "impressions": 5988,
+      "ctr": 0.004175016700066801,
+      "position": 16.594188376753507
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 20,
+      "impressions": 6512,
+      "ctr": 0.003071253071253071,
+      "position": 15.956541769041769
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 32,
+      "impressions": 8721,
+      "ctr": 0.003669303978901502,
+      "position": 14.55979818828116
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 11,
+      "impressions": 6838,
+      "ctr": 0.0016086575021936238,
+      "position": 16.03553670663937
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 12,
+      "impressions": 5993,
+      "ctr": 0.002002336058735191,
+      "position": 15.580010011680294
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 13,
+      "impressions": 5558,
+      "ctr": 0.002338970852824757,
+      "position": 15.005757466714645
     }
   ],
   "topQueries": [
     {
       "query": "holt plumbing",
-      "clicks": 353,
-      "impressions": 3104,
-      "ctr": 0.11372422680412371,
-      "position": 5.069265463917525
+      "clicks": 363,
+      "impressions": 3242,
+      "ctr": 0.11196792103639729,
+      "position": 5.408389882788402
     },
     {
       "query": "holt plumbing and heating",
-      "clicks": 142,
-      "impressions": 774,
-      "ctr": 0.1834625322997416,
-      "position": 1.9987080103359172
+      "clicks": 135,
+      "impressions": 751,
+      "ctr": 0.17976031957390146,
+      "position": 1.9627163781624501
     },
     {
       "query": "holt heating and cooling",
-      "clicks": 58,
-      "impressions": 358,
-      "ctr": 0.16201117318435754,
-      "position": 2.2849162011173183
+      "clicks": 64,
+      "impressions": 395,
+      "ctr": 0.1620253164556962,
+      "position": 2.248101265822785
     },
     {
       "query": "holt plumbing & heating, inc.",
-      "clicks": 38,
-      "impressions": 944,
-      "ctr": 0.04025423728813559,
-      "position": 1.055084745762712
+      "clicks": 34,
+      "impressions": 987,
+      "ctr": 0.034447821681864235,
+      "position": 1.0567375886524824
     },
     {
       "query": "holt",
-      "clicks": 25,
-      "impressions": 263,
-      "ctr": 0.09505703422053231,
-      "position": 3.5095057034220534
-    },
-    {
-      "query": "holt plumbing des moines",
-      "clicks": 22,
-      "impressions": 70,
-      "ctr": 0.3142857142857143,
-      "position": 1
+      "clicks": 26,
+      "impressions": 287,
+      "ctr": 0.09059233449477352,
+      "position": 3.3867595818815333
     },
     {
       "query": "holt heating",
-      "clicks": 17,
-      "impressions": 131,
-      "ctr": 0.1297709923664122,
-      "position": 3.2213740458015265
+      "clicks": 20,
+      "impressions": 128,
+      "ctr": 0.15625,
+      "position": 3.0078125
     },
     {
       "query": "holt heating and plumbing",
-      "clicks": 16,
-      "impressions": 111,
-      "ctr": 0.14414414414414414,
-      "position": 4.153153153153154
+      "clicks": 17,
+      "impressions": 121,
+      "ctr": 0.14049586776859505,
+      "position": 4.5041322314049586
     },
     {
-      "query": "holt electric",
-      "clicks": 14,
-      "impressions": 134,
-      "ctr": 0.1044776119402985,
-      "position": 5.873134328358209
-    },
-    {
-      "query": "holt des moines",
-      "clicks": 13,
-      "impressions": 45,
-      "ctr": 0.28888888888888886,
+      "query": "holt plumbing des moines",
+      "clicks": 17,
+      "impressions": 70,
+      "ctr": 0.24285714285714285,
       "position": 1
     },
     {
       "query": "plumber des moines",
       "clicks": 13,
-      "impressions": 1719,
-      "ctr": 0.0075625363583478765,
-      "position": 3.7102966841186737
+      "impressions": 1622,
+      "ctr": 0.008014796547472256,
+      "position": 3.925400739827374
     },
     {
-      "query": "holt hvac",
+      "query": "holt des moines",
+      "clicks": 12,
+      "impressions": 44,
+      "ctr": 0.2727272727272727,
+      "position": 3.022727272727273
+    },
+    {
+      "query": "holt electric",
       "clicks": 11,
-      "impressions": 130,
-      "ctr": 0.08461538461538462,
-      "position": 6
+      "impressions": 150,
+      "ctr": 0.07333333333333333,
+      "position": 7.14
     },
     {
       "query": "plumbers des moines",
       "clicks": 11,
-      "impressions": 530,
-      "ctr": 0.020754716981132074,
-      "position": 9.011320754716982
+      "impressions": 525,
+      "ctr": 0.02095238095238095,
+      "position": 9.624761904761904
+    },
+    {
+      "query": "holt plumbing & heating inc",
+      "clicks": 10,
+      "impressions": 61,
+      "ctr": 0.16393442622950818,
+      "position": 2
+    },
+    {
+      "query": "holt hvac",
+      "clicks": 9,
+      "impressions": 116,
+      "ctr": 0.07758620689655173,
+      "position": 5.379310344827586
     },
     {
       "query": "holt plumbing west des moines",
       "clicks": 9,
-      "impressions": 56,
-      "ctr": 0.16071428571428573,
-      "position": 5.196428571428571
+      "impressions": 67,
+      "ctr": 0.13432835820895522,
+      "position": 3.925373134328358
     },
     {
       "query": "holt sales and service des moines",
-      "clicks": 8,
-      "impressions": 47,
-      "ctr": 0.1702127659574468,
-      "position": 2.914893617021277
+      "clicks": 9,
+      "impressions": 45,
+      "ctr": 0.2,
+      "position": 3.066666666666667
     },
     {
       "query": "holt plumbing & heating",
       "clicks": 7,
-      "impressions": 27,
-      "ctr": 0.25925925925925924,
-      "position": 1.3703703703703702
-    },
-    {
-      "query": "holt plumbing & heating inc",
-      "clicks": 5,
-      "impressions": 49,
-      "ctr": 0.10204081632653061,
-      "position": 2.7755102040816326
-    },
-    {
-      "query": "des moines plumbers",
-      "clicks": 4,
-      "impressions": 567,
-      "ctr": 0.007054673721340388,
-      "position": 7.934744268077601
-    },
-    {
-      "query": "plumber",
-      "clicks": 4,
-      "impressions": 4063,
-      "ctr": 0.0009844942160964804,
-      "position": 2.185084912626138
+      "impressions": 19,
+      "ctr": 0.3684210526315789,
+      "position": 1.526315789473684
     },
     {
       "query": "plumbers near me",
+      "clicks": 7,
+      "impressions": 605,
+      "ctr": 0.011570247933884297,
+      "position": 7.444628099173554
+    },
+    {
+      "query": "des moines plumbers",
+      "clicks": 5,
+      "impressions": 567,
+      "ctr": 0.008818342151675485,
+      "position": 9.174603174603174
+    },
+    {
+      "query": "des moines plumber",
       "clicks": 4,
-      "impressions": 586,
-      "ctr": 0.006825938566552901,
-      "position": 7.8174061433447095
+      "impressions": 787,
+      "ctr": 0.005082592121982211,
+      "position": 6.180432020330368
     },
     {
-      "query": "emergency plumber des moines",
-      "clicks": 3,
-      "impressions": 759,
-      "ctr": 0.003952569169960474,
-      "position": 9.902503293807642
+      "query": "plumbers west des moines",
+      "clicks": 4,
+      "impressions": 131,
+      "ctr": 0.030534351145038167,
+      "position": 5.625954198473282
     },
     {
-      "query": "holt careers",
+      "query": "plumber",
       "clicks": 3,
-      "impressions": 35,
-      "ctr": 0.08571428571428572,
-      "position": 15.885714285714286
-    },
-    {
-      "query": "holt plumbing iowa",
-      "clicks": 3,
-      "impressions": 19,
-      "ctr": 0.15789473684210525,
-      "position": 5.157894736842105
+      "impressions": 3932,
+      "ctr": 0.000762970498474059,
+      "position": 2.2530518819938963
     },
     {
       "query": "plumber in des moines",
       "clicks": 3,
-      "impressions": 333,
-      "ctr": 0.009009009009009009,
-      "position": 4.303303303303304
+      "impressions": 301,
+      "ctr": 0.009966777408637873,
+      "position": 5.837209302325581
     },
     {
       "query": "plumbers in des moines iowa",
       "clicks": 3,
-      "impressions": 147,
-      "ctr": 0.02040816326530612,
-      "position": 4.278911564625851
-    },
-    {
-      "query": "plumbers west des moines",
-      "clicks": 3,
-      "impressions": 156,
-      "ctr": 0.019230769230769232,
-      "position": 6.121794871794871
+      "impressions": 131,
+      "ctr": 0.022900763358778626,
+      "position": 6.641221374045801
     },
     {
       "query": "plumbing des moines",
       "clicks": 3,
-      "impressions": 4854,
-      "ctr": 0.0006180469715698393,
-      "position": 27.131644004944377
+      "impressions": 4942,
+      "ctr": 0.0006070416835289356,
+      "position": 27.151355726426548
     },
     {
-      "query": "des moines plumber",
+      "query": "drywall repair des moines",
       "clicks": 2,
-      "impressions": 762,
-      "ctr": 0.0026246719160104987,
-      "position": 4.888451443569554
+      "impressions": 226,
+      "ctr": 0.008849557522123894,
+      "position": 8.017699115044248
     },
     {
-      "query": "des moines plumbing",
+      "query": "emergency plumber des moines",
       "clicks": 2,
-      "impressions": 3671,
-      "ctr": 0.0005448106782892945,
-      "position": 24.499591391991284
+      "impressions": 802,
+      "ctr": 0.0024937655860349127,
+      "position": 10.204488778054863
+    },
+    {
+      "query": "holt careers",
+      "clicks": 2,
+      "impressions": 26,
+      "ctr": 0.07692307692307693,
+      "position": 15.76923076923077
     },
     {
       "query": "holt heating and air",
       "clicks": 2,
-      "impressions": 118,
-      "ctr": 0.01694915254237288,
-      "position": 6.864406779661017
+      "impressions": 120,
+      "ctr": 0.016666666666666666,
+      "position": 7.058333333333334
+    },
+    {
+      "query": "holt plumbing & heating inc reviews",
+      "clicks": 2,
+      "impressions": 546,
+      "ctr": 0.003663003663003663,
+      "position": 8.415750915750916
+    },
+    {
+      "query": "holt plumbing iowa",
+      "clicks": 2,
+      "impressions": 15,
+      "ctr": 0.13333333333333333,
+      "position": 4.8
     },
     {
       "query": "hvac des moines iowa",
       "clicks": 2,
-      "impressions": 259,
-      "ctr": 0.007722007722007722,
-      "position": 19.66023166023166
+      "impressions": 282,
+      "ctr": 0.0070921985815602835,
+      "position": 19.19503546099291
     },
     {
       "query": "hvac west des moines",
       "clicks": 2,
-      "impressions": 128,
-      "ctr": 0.015625,
-      "position": 7.1171875
-    },
-    {
-      "query": "plumbers",
-      "clicks": 2,
-      "impressions": 1332,
-      "ctr": 0.0015015015015015015,
-      "position": 1.8881381381381381
-    },
-    {
-      "query": "plumbers des moines residential",
-      "clicks": 2,
-      "impressions": 15,
-      "ctr": 0.13333333333333333,
-      "position": 1.5333333333333332
+      "impressions": 144,
+      "ctr": 0.013888888888888888,
+      "position": 7.027777777777778
     },
     {
       "query": "plumbers in des moines ia",
       "clicks": 2,
-      "impressions": 44,
-      "ctr": 0.045454545454545456,
-      "position": 8.681818181818182
+      "impressions": 36,
+      "ctr": 0.05555555555555555,
+      "position": 6.416666666666667
     },
     {
-      "query": "plumbing des moines ia",
+      "query": "plumbing west des moines",
       "clicks": 2,
-      "impressions": 3197,
-      "ctr": 0.0006255864873318737,
-      "position": 27.047857366280887
+      "impressions": 27,
+      "ctr": 0.07407407407407407,
+      "position": 6.37037037037037
     },
     {
       "query": "residential new construction plumbing",
       "clicks": 2,
       "impressions": 2,
       "ctr": 1,
-      "position": 1
-    },
-    {
-      "query": "residential plumbing new construction",
-      "clicks": 2,
-      "impressions": 3,
-      "ctr": 0.6666666666666666,
       "position": 1
     },
     {
@@ -919,432 +912,2902 @@
     {
       "query": "water heater replacement",
       "clicks": 2,
-      "impressions": 836,
-      "ctr": 0.0023923444976076554,
-      "position": 2.348086124401914
+      "impressions": 1185,
+      "ctr": 0.0016877637130801688,
+      "position": 4.417721518987342
     },
     {
       "query": "water softener installation",
       "clicks": 2,
-      "impressions": 4,
-      "ctr": 0.5,
-      "position": 7.25
+      "impressions": 3,
+      "ctr": 0.6666666666666666,
+      "position": 6.333333333333333
     },
     {
       "query": "water softener installation des moines",
       "clicks": 2,
-      "impressions": 274,
-      "ctr": 0.0072992700729927005,
-      "position": 18.594890510948904
+      "impressions": 281,
+      "ctr": 0.0071174377224199285,
+      "position": 18.580071174377224
     },
     {
       "query": "24 hour plumber near me",
       "clicks": 1,
-      "impressions": 1123,
-      "ctr": 0.0008904719501335708,
-      "position": 29.61086375779163
+      "impressions": 1121,
+      "ctr": 0.0008920606601248885,
+      "position": 28.95985727029438
     },
     {
       "query": "24 hour plumbing near me",
       "clicks": 1,
-      "impressions": 66,
-      "ctr": 0.015151515151515152,
-      "position": 36.621212121212125
-    },
-    {
-      "query": "24 hour plumbing services",
-      "clicks": 1,
-      "impressions": 292,
-      "ctr": 0.003424657534246575,
-      "position": 33.35616438356164
-    },
-    {
-      "query": "24 hours plumber",
-      "clicks": 1,
-      "impressions": 33,
-      "ctr": 0.030303030303030304,
-      "position": 37.878787878787875
+      "impressions": 74,
+      "ctr": 0.013513513513513514,
+      "position": 34.13513513513514
     },
     {
       "query": "24 hours plumber near me",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 12.181818181818182
+    },
+    {
+      "query": "24 hours plumbing",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 34.75
+    },
+    {
+      "query": "515-255-8888",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 7.631578947368421
+    },
+    {
+      "query": "ac maintenance near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 9.5
+    },
+    {
+      "query": "ac repair west des moines",
+      "clicks": 1,
+      "impressions": 67,
+      "ctr": 0.014925373134328358,
+      "position": 18.149253731343283
+    },
+    {
+      "query": "appliance repair norwalk",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 6
+    },
+    {
+      "query": "best ac repair near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 12
+    },
+    {
+      "query": "best plumbing companies near me",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 7.428571428571429
+    },
+    {
+      "query": "boiler companies",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "boiler repair des moines",
+      "clicks": 1,
+      "impressions": 264,
+      "ctr": 0.003787878787878788,
+      "position": 22.977272727272727
+    },
+    {
+      "query": "certified plumbers near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "commercial water heater replacement",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "des moines drywall repair",
+      "clicks": 1,
+      "impressions": 71,
+      "ctr": 0.014084507042253521,
+      "position": 9.169014084507042
+    },
+    {
+      "query": "des moines heating and cooling",
+      "clicks": 1,
+      "impressions": 2878,
+      "ctr": 0.00034746351633078526,
+      "position": 28.238012508686587
+    },
+    {
+      "query": "des moines plumbing",
+      "clicks": 1,
+      "impressions": 3756,
+      "ctr": 0.00026624068157614486,
+      "position": 25.170926517571885
+    },
+    {
+      "query": "drain cleaning des moines",
+      "clicks": 1,
+      "impressions": 133,
+      "ctr": 0.007518796992481203,
+      "position": 15.962406015037594
+    },
+    {
+      "query": "emergency plumbing des moines",
+      "clicks": 1,
+      "impressions": 325,
+      "ctr": 0.003076923076923077,
+      "position": 12.643076923076922
+    },
+    {
+      "query": "emergency plumbing services",
+      "clicks": 1,
+      "impressions": 755,
+      "ctr": 0.0013245033112582781,
+      "position": 9.549668874172186
+    },
+    {
+      "query": "furnace contractors in my area",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 6
+    },
+    {
+      "query": "furnace repair",
+      "clicks": 1,
+      "impressions": 1578,
+      "ctr": 0.0006337135614702154,
+      "position": 3.214828897338403
+    },
+    {
+      "query": "furnace repair near me",
+      "clicks": 1,
+      "impressions": 745,
+      "ctr": 0.0013422818791946308,
+      "position": 10.99731543624161
+    },
+    {
+      "query": "furnace replacement",
+      "clicks": 1,
+      "impressions": 873,
+      "ctr": 0.001145475372279496,
+      "position": 2.8281786941580753
+    },
+    {
+      "query": "gas line plumbers near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "gas line repair near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3.5
+    },
+    {
+      "query": "guardian plumbing",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 10
+    },
+    {
+      "query": "heat pump fan not spinning in cold weather",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 24
+    },
+    {
+      "query": "heat pump water heater installer near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "heating and cooling",
+      "clicks": 1,
+      "impressions": 439,
+      "ctr": 0.002277904328018223,
+      "position": 20.494305239179955
+    },
+    {
+      "query": "holt electrical",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 26.785714285714285
+    },
+    {
+      "query": "holt electrician",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 1
+    },
+    {
+      "query": "holt hours",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "holt inc",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 13.2
+    },
+    {
+      "query": "holt plumbing reviews",
+      "clicks": 1,
+      "impressions": 71,
+      "ctr": 0.014084507042253521,
+      "position": 5.647887323943662
+    },
+    {
+      "query": "holt portal",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "holt sales and service",
+      "clicks": 1,
+      "impressions": 26,
+      "ctr": 0.038461538461538464,
+      "position": 6.769230769230769
+    },
+    {
+      "query": "hull hvac",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "hvac companies in des moines",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 14.583333333333334
+    },
+    {
+      "query": "hvac des moines",
+      "clicks": 1,
+      "impressions": 1073,
+      "ctr": 0.0009319664492078285,
+      "position": 23.684995340167752
+    },
+    {
+      "query": "hvac maintenance near me",
+      "clicks": 1,
+      "impressions": 50,
+      "ctr": 0.02,
+      "position": 10.16
+    },
+    {
+      "query": "hvac phone number",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 9
+    },
+    {
+      "query": "iowa plumbers",
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 7.633333333333334
+    },
+    {
+      "query": "jellyfish lighting installation near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 17.333333333333332
+    },
+    {
+      "query": "mitsubishi mini split dealer near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 7.5
+    },
+    {
+      "query": "norwalk plumber",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 25.666666666666668
+    },
+    {
+      "query": "plumber handyman near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 13
+    },
+    {
+      "query": "plumber in iowa",
+      "clicks": 1,
+      "impressions": 48,
+      "ctr": 0.020833333333333332,
+      "position": 3.4583333333333335
+    },
+    {
+      "query": "plumbers",
+      "clicks": 1,
+      "impressions": 1462,
+      "ctr": 0.0006839945280437756,
+      "position": 1.6634746922024624
+    },
+    {
+      "query": "plumbers ankeny",
+      "clicks": 1,
+      "impressions": 317,
+      "ctr": 0.0031545741324921135,
+      "position": 6.34384858044164
+    },
+    {
+      "query": "plumbers des moines residential",
+      "clicks": 1,
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 1.5555555555555556
+    },
+    {
+      "query": "plumbers in ankeny iowa",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 17.076923076923077
+    },
+    {
+      "query": "plumbers in iowa",
+      "clicks": 1,
+      "impressions": 40,
+      "ctr": 0.025,
+      "position": 1.425
+    },
+    {
+      "query": "plumbers near me to replace toilet",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "plumbers urbandale",
+      "clicks": 1,
+      "impressions": 74,
+      "ctr": 0.013513513513513514,
+      "position": 7.22972972972973
+    },
+    {
+      "query": "plumbing and electrical near me",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 3
+    },
+    {
+      "query": "plumbing and hvac companies near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 9.5
+    },
+    {
+      "query": "plumbing ankeny",
+      "clicks": 1,
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 10.333333333333334
+    },
+    {
+      "query": "plumbing companies des moines",
+      "clicks": 1,
+      "impressions": 421,
+      "ctr": 0.0023752969121140144,
+      "position": 14.087885985748219
+    },
+    {
+      "query": "plumbing companies in des moines iowa",
+      "clicks": 1,
+      "impressions": 46,
+      "ctr": 0.021739130434782608,
+      "position": 9.804347826086957
+    },
+    {
+      "query": "plumbing company",
+      "clicks": 1,
+      "impressions": 267,
+      "ctr": 0.003745318352059925,
+      "position": 7.187265917602996
+    },
+    {
+      "query": "plumbing company des moines",
+      "clicks": 1,
+      "impressions": 142,
+      "ctr": 0.007042253521126761,
+      "position": 17.14788732394366
+    },
+    {
+      "query": "plumbing des moines ia",
+      "clicks": 1,
+      "impressions": 3627,
+      "ctr": 0.00027570995312930797,
+      "position": 27.8654535428729
+    },
+    {
+      "query": "plumbing des moines iowa",
+      "clicks": 1,
+      "impressions": 1286,
+      "ctr": 0.0007776049766718507,
+      "position": 28.98755832037325
+    },
+    {
+      "query": "plumbing heating and cooling",
+      "clicks": 1,
+      "impressions": 48,
+      "ctr": 0.020833333333333332,
+      "position": 29.395833333333332
+    },
+    {
+      "query": "plumbing inspection",
+      "clicks": 1,
+      "impressions": 632,
+      "ctr": 0.0015822784810126582,
+      "position": 18.35759493670886
+    },
+    {
+      "query": "plumbing school",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3.5
+    },
+    {
+      "query": "plumbing services",
+      "clicks": 1,
+      "impressions": 1468,
+      "ctr": 0.0006811989100817438,
+      "position": 3.5061307901907357
+    },
+    {
+      "query": "pluming",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 2
+    },
+    {
+      "query": "septic jetting near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "sewer camera near me",
+      "clicks": 1,
+      "impressions": 304,
+      "ctr": 0.003289473684210526,
+      "position": 31.43092105263158
+    },
+    {
+      "query": "sewer line repairs",
+      "clicks": 1,
+      "impressions": 25,
+      "ctr": 0.04,
+      "position": 45
+    },
+    {
+      "query": "sewer line replacement cost near me",
       "clicks": 1,
       "impressions": 1,
       "ctr": 1,
       "position": 3
     },
     {
-      "query": "24 hours plumbing",
+      "query": "sewer line replacement near me",
       "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 5.8
+    },
+    {
+      "query": "sink installation service",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "sump pump installation companies",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 48
+    },
+    {
+      "query": "sump pump repair near me",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 8.5
+    },
+    {
+      "query": "water heater repair",
+      "clicks": 1,
+      "impressions": 1175,
+      "ctr": 0.000851063829787234,
+      "position": 1.607659574468085
+    },
+    {
+      "query": "water heater repair and replacement",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "water softener des moines",
+      "clicks": 1,
+      "impressions": 135,
+      "ctr": 0.007407407407407408,
+      "position": 13.437037037037037
+    },
+    {
+      "query": "water softener installation near me",
+      "clicks": 1,
+      "impressions": 311,
+      "ctr": 0.003215434083601286,
+      "position": 35.88424437299035
+    },
+    {
+      "query": "water softener service",
+      "clicks": 1,
+      "impressions": 206,
+      "ctr": 0.0048543689320388345,
+      "position": 19.45145631067961
+    },
+    {
+      "query": "west des moines plumber",
+      "clicks": 1,
+      "impressions": 83,
+      "ctr": 0.012048192771084338,
+      "position": 3.0240963855421685
+    },
+    {
+      "query": "\"24/7\" or \"24 hour\" emergency plumbing service companies",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 16.2
+    },
+    {
+      "query": "\"american standard\" \"50315\"",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 141.25
+    },
+    {
+      "query": "\"commercial plumbing\"",
+      "clicks": 0,
       "impressions": 2,
-      "ctr": 0.5,
+      "ctr": 0,
+      "position": 52
+    },
+    {
+      "query": "\"holt plumbing & heating, inc.\" \"1202 thomas beck rd suite 101\"",
+      "clicks": 0,
+      "impressions": 34,
+      "ctr": 0,
+      "position": 19.852941176470587
+    },
+    {
+      "query": "\"holt plumbing & heating, inc.\" \"50315\"",
+      "clicks": 0,
+      "impressions": 52,
+      "ctr": 0,
+      "position": 22.615384615384617
+    },
+    {
+      "query": "\"holt plumbing & heating, inc.\" \"des moines\"",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "\"holt plumbing & heating, inc.\" \"holtplumbingandheating.com\"",
+      "clicks": 0,
+      "impressions": 37,
+      "ctr": 0,
+      "position": 20.56756756756757
+    },
+    {
+      "query": "\"home generator\" -site:reddit.com -site:twitter.com -site:x.com -site:wykop.pl -site:tripadvisor.com -site:youtube.com -site:yelp.com -site:booking.com -site:facebook.com -site:instagram.com -site:tiktok.com",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "\"jh holt\" plumbing beckley wv",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
       "position": 5
     },
     {
-      "query": "515-255-8888",
-      "clicks": 1,
-      "impressions": 12,
-      "ctr": 0.08333333333333333,
-      "position": 6.75
+      "query": "\"jh holt\" plumbing oak hill wv",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 4.333333333333334
     },
     {
-      "query": "ac maintenance near me",
-      "clicks": 1,
+      "query": "\"mitsubishi\" \"ad server\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "\"reznor unit heaters\"",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 45.5
+    },
+    {
+      "query": "\"sewer camera inspection\"",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 63.5
+    },
+    {
+      "query": "\"sewer line replacement\"",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 78.5
+    },
+    {
+      "query": "#plumber",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "#plumbersnearme",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "#plumbing",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 4.5
+    },
+    {
+      "query": "#plumbingbusiness",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "#plumbingsolutions",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "$99 air duct cleaning near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "1 2 in pex shut off valve",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 17
+    },
+    {
+      "query": "1 hour plumber",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "1 hour plumbing",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "1 tom plumber des moines",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 34
+    },
+    {
+      "query": "101 plumbing heating and cooling",
+      "clicks": 0,
       "impressions": 6,
-      "ctr": 0.16666666666666666,
-      "position": 30
+      "ctr": 0,
+      "position": 44.666666666666664
+    },
+    {
+      "query": "1202 thomas beck rd",
+      "clicks": 0,
+      "impressions": 130,
+      "ctr": 0,
+      "position": 7.361538461538461
+    },
+    {
+      "query": "1202 thomas beck rd des moines",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 7.230769230769231
+    },
+    {
+      "query": "1202 thomas beck road",
+      "clicks": 0,
+      "impressions": 80,
+      "ctr": 0,
+      "position": 9.1875
+    },
+    {
+      "query": "20 point furnace inspection",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 74
+    },
+    {
+      "query": "209 plumbing",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 16
+    },
+    {
+      "query": "238220 - plumbing, heating, and air-conditioning contractors",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "24 7 drain cleaning",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 7.833333333333333
+    },
+    {
+      "query": "24 7 emergency plumbing near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 28
+    },
+    {
+      "query": "24 7 emergency plumbing service",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 25.166666666666668
+    },
+    {
+      "query": "24 7 emergency plumbing services",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 44.333333333333336
+    },
+    {
+      "query": "24 7 plumber",
+      "clicks": 0,
+      "impressions": 725,
+      "ctr": 0,
+      "position": 8.064827586206896
+    },
+    {
+      "query": "24 7 plumber near me",
+      "clicks": 0,
+      "impressions": 514,
+      "ctr": 0,
+      "position": 5.651750972762646
+    },
+    {
+      "query": "24 7 plumbing",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 53.42857142857143
+    },
+    {
+      "query": "24 7 plumbing and electrical emergency services",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 21
+    },
+    {
+      "query": "24 7 plumbing grimes ia",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 24
+    },
+    {
+      "query": "24 7 plumbing near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "24 7 plumbing services",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 24
+    },
+    {
+      "query": "24 7 plumbing waterloo ia",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 44
+    },
+    {
+      "query": "24 7 water heater repair",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 emergency plumbing service",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 3.727272727272727
+    },
+    {
+      "query": "24 h plumbing",
+      "clicks": 0,
+      "impressions": 56,
+      "ctr": 0,
+      "position": 26.910714285714285
+    },
+    {
+      "query": "24 hour ac company de soto",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 25
+    },
+    {
+      "query": "24 hour ac repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 14
+    },
+    {
+      "query": "24 hour ac repair de soto",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 41
+    },
+    {
+      "query": "24 hour ac service de soto",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 39
+    },
+    {
+      "query": "24 hour air conditioning repair dyersville",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 46
+    },
+    {
+      "query": "24 hour air conditioning service de soto",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 47
+    },
+    {
+      "query": "24 hour boiler repair coachella",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 38
+    },
+    {
+      "query": "24 hour boiler repair near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "24 hour commercial plumbing",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 35.714285714285715
+    },
+    {
+      "query": "24 hour drain cleaning service",
+      "clicks": 0,
+      "impressions": 99,
+      "ctr": 0,
+      "position": 13.97979797979798
+    },
+    {
+      "query": "24 hour drain cleaning service near me",
+      "clicks": 0,
+      "impressions": 137,
+      "ctr": 0,
+      "position": 12.124087591240876
+    },
+    {
+      "query": "24 hour drain service",
+      "clicks": 0,
+      "impressions": 115,
+      "ctr": 0,
+      "position": 9.269565217391305
+    },
+    {
+      "query": "24 hour electrician near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 15
+    },
+    {
+      "query": "24 hour emergency ac repair near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "24 hour emergency boiler service",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 99.5
+    },
+    {
+      "query": "24 hour emergency commercial plumbing service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 46
+    },
+    {
+      "query": "24 hour emergency furnace repair services",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "24 hour emergency heating",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 62
+    },
+    {
+      "query": "24 hour emergency heating repair, 24 hour emergency heating repair near me",
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 18.31578947368421
+    },
+    {
+      "query": "24 hour emergency heating service near me",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 34
+    },
+    {
+      "query": "24 hour emergency heating service, 24 hour emergency heating service near me",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 22
+    },
+    {
+      "query": "24 hour emergency plumber",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 3.5
+    },
+    {
+      "query": "24 hour emergency plumber locator",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "24 hour emergency plumber near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "24 hour emergency plumber near me open now",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 42.666666666666664
+    },
+    {
+      "query": "24 hour emergency plumbers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "24 hour emergency plumbers near me",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "24 hour emergency plumbing",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 47
+    },
+    {
+      "query": "24 hour emergency plumbing near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 12.5
+    },
+    {
+      "query": "24 hour emergency plumbing repair",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 16.9
+    },
+    {
+      "query": "24 hour emergency plumbing service",
+      "clicks": 0,
+      "impressions": 44,
+      "ctr": 0,
+      "position": 57.36363636363637
     }
   ],
   "topPages": [
     {
       "page": "https://holtplumbingandheating.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*229*holt-plumbing-heating-west-des-moines",
-      "clicks": 638,
-      "impressions": 55972,
-      "ctr": 0.011398556421067676,
-      "position": 3.026298863717573
+      "clicks": 602,
+      "impressions": 56680,
+      "ctr": 0.010621030345800989,
+      "position": 2.9414961185603388
     },
     {
       "page": "https://holtplumbingandheating.com/",
-      "clicks": 480,
-      "impressions": 44514,
-      "ctr": 0.010783124410297884,
-      "position": 21.611717661859192
+      "clicks": 520,
+      "impressions": 44300,
+      "ctr": 0.011738148984198645,
+      "position": 21.792550790067722
     },
     {
       "page": "https://holtplumbingandheating.com/contact-us/",
-      "clicks": 66,
-      "impressions": 7870,
-      "ctr": 0.008386277001270648,
-      "position": 8.530114358322745
+      "clicks": 67,
+      "impressions": 8170,
+      "ctr": 0.008200734394124847,
+      "position": 8.225091799265606
     },
     {
       "page": "https://holtplumbingandheating.com/careers/",
-      "clicks": 58,
-      "impressions": 738,
-      "ctr": 0.07859078590785908,
-      "position": 16.001355013550135
+      "clicks": 55,
+      "impressions": 694,
+      "ctr": 0.0792507204610951,
+      "position": 15.69164265129683
     },
     {
       "page": "https://holtplumbingandheating.com/about/history/",
-      "clicks": 46,
-      "impressions": 3956,
-      "ctr": 0.011627906976744186,
-      "position": 5.771991911021233
+      "clicks": 53,
+      "impressions": 3437,
+      "ctr": 0.015420424789060227,
+      "position": 5.987780040733197
     },
     {
       "page": "https://holtplumbingandheating.com/ankeny/",
-      "clicks": 34,
-      "impressions": 16330,
-      "ctr": 0.0020820575627679117,
-      "position": 10.079853031230863
+      "clicks": 35,
+      "impressions": 18141,
+      "ctr": 0.0019293313488782317,
+      "position": 9.758998952648696
     },
     {
       "page": "https://holtplumbingandheating.com/membership/",
-      "clicks": 31,
-      "impressions": 1673,
-      "ctr": 0.01852958756724447,
-      "position": 7.1524208009563655
-    },
-    {
-      "page": "https://holtplumbingandheating.com/coupons/",
-      "clicks": 26,
-      "impressions": 2202,
-      "ctr": 0.011807447774750226,
-      "position": 7.730699364214351
+      "clicks": 28,
+      "impressions": 1976,
+      "ctr": 0.01417004048582996,
+      "position": 6.80414979757085
     },
     {
       "page": "https://holtplumbingandheating.com/water-treatment/",
-      "clicks": 25,
-      "impressions": 3261,
-      "ctr": 0.007666360012266176,
-      "position": 22.299908003679853
+      "clicks": 26,
+      "impressions": 3264,
+      "ctr": 0.007965686274509803,
+      "position": 20.08609068627451
+    },
+    {
+      "page": "https://holtplumbingandheating.com/coupons/",
+      "clicks": 24,
+      "impressions": 1326,
+      "ctr": 0.01809954751131222,
+      "position": 8.012820512820513
     },
     {
       "page": "https://holtplumbingandheating.com/norwalk-ia/",
-      "clicks": 21,
-      "impressions": 3516,
-      "ctr": 0.005972696245733789,
-      "position": 24.515358361774744
+      "clicks": 19,
+      "impressions": 3887,
+      "ctr": 0.004888088500128634,
+      "position": 26.251607923848727
     },
     {
       "page": "https://holtplumbingandheating.com/des-moines-iowa/24-hour-emergency-plumbing-services-in-des-moines-ia/",
-      "clicks": 17,
-      "impressions": 36391,
-      "ctr": 0.0004671484707757413,
-      "position": 18.456046824764364
+      "clicks": 18,
+      "impressions": 61293,
+      "ctr": 0.000293671381723851,
+      "position": 20.11125250844305
+    },
+    {
+      "page": "https://holtplumbingandheating.com/how-sediment-impacts-your-water-heater/",
+      "clicks": 18,
+      "impressions": 5653,
+      "ctr": 0.003184150008844861,
+      "position": 5.579161507164337
+    },
+    {
+      "page": "https://holtplumbingandheating.com/about/",
+      "clicks": 16,
+      "impressions": 4904,
+      "ctr": 0.0032626427406199023,
+      "position": 5.726957585644372
+    },
+    {
+      "page": "https://holtplumbingandheating.com/plumbing-services/water-softeners/",
+      "clicks": 16,
+      "impressions": 3953,
+      "ctr": 0.004047558816089046,
+      "position": 40.227928155831016
+    },
+    {
+      "page": "https://holtplumbingandheating.com/why-is-my-outdoor-ac-fan-not-spinning/",
+      "clicks": 16,
+      "impressions": 6614,
+      "ctr": 0.002419110976716057,
+      "position": 6.5984275778651345
     },
     {
       "page": "https://holtplumbingandheating.com/winterset-ia/plumbing-winterset-ia/",
       "clicks": 16,
-      "impressions": 919,
-      "ctr": 0.017410228509249184,
-      "position": 11.782372143634385
-    },
-    {
-      "page": "https://holtplumbingandheating.com/why-is-my-outdoor-ac-fan-not-spinning/",
-      "clicks": 14,
-      "impressions": 6168,
-      "ctr": 0.002269779507133593,
-      "position": 7.961089494163424
-    },
-    {
-      "page": "https://holtplumbingandheating.com/winterset-ia/",
-      "clicks": 14,
-      "impressions": 1609,
-      "ctr": 0.00870105655686762,
-      "position": 29.716594157862026
-    },
-    {
-      "page": "https://holtplumbingandheating.com/about/",
-      "clicks": 13,
-      "impressions": 3867,
-      "ctr": 0.0033617791569692267,
-      "position": 5.840703387638997
-    },
-    {
-      "page": "https://holtplumbingandheating.com/urbandale-ia/plumbing-service-urbandale-ia/",
-      "clicks": 13,
-      "impressions": 8670,
-      "ctr": 0.0014994232987312571,
-      "position": 15.360092272203
+      "impressions": 810,
+      "ctr": 0.019753086419753086,
+      "position": 11.875308641975309
     },
     {
       "page": "https://holtplumbingandheating.com/west-des-moines-iowa/",
-      "clicks": 13,
-      "impressions": 31900,
-      "ctr": 0.0004075235109717868,
-      "position": 28.563009404388715
+      "clicks": 14,
+      "impressions": 32202,
+      "ctr": 0.00043475560524191046,
+      "position": 25.48639836035029
     },
     {
       "page": "https://holtplumbingandheating.com/advantages-of-a-holt-membership/",
+      "clicks": 13,
+      "impressions": 324,
+      "ctr": 0.040123456790123455,
+      "position": 8.404320987654321
+    },
+    {
+      "page": "https://holtplumbingandheating.com/customer-portal/",
       "clicks": 12,
-      "impressions": 256,
-      "ctr": 0.046875,
-      "position": 9.18359375
+      "impressions": 847,
+      "ctr": 0.014167650531286895,
+      "position": 13.904368358913814
     },
     {
-      "page": "https://holtplumbingandheating.com/plumbing-services/water-softeners/",
-      "clicks": 11,
-      "impressions": 4015,
-      "ctr": 0.0027397260273972603,
-      "position": 44.35342465753425
-    },
-    {
-      "page": "https://holtplumbingandheating.com/how-sediment-impacts-your-water-heater/",
-      "clicks": 9,
-      "impressions": 3440,
-      "ctr": 0.002616279069767442,
-      "position": 6.057267441860465
-    },
-    {
-      "page": "https://holtplumbingandheating.com/contact-us/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*229*holt-plumbing-heating-west-des-moines",
-      "clicks": 8,
-      "impressions": 3655,
-      "ctr": 0.002188782489740082,
-      "position": 9.996443228454172
+      "page": "https://holtplumbingandheating.com/urbandale-ia/plumbing-service-urbandale-ia/",
+      "clicks": 12,
+      "impressions": 8323,
+      "ctr": 0.0014417878168929473,
+      "position": 15.072089390844647
     },
     {
       "page": "https://holtplumbingandheating.com/plumbing-services/",
+      "clicks": 11,
+      "impressions": 6266,
+      "ctr": 0.0017555059048834983,
+      "position": 6.328279604213214
+    },
+    {
+      "page": "https://holtplumbingandheating.com/winterset-ia/",
+      "clicks": 11,
+      "impressions": 1284,
+      "ctr": 0.008566978193146417,
+      "position": 30.878504672897197
+    },
+    {
+      "page": "https://holtplumbingandheating.com/contact-us/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*229*holt-plumbing-heating-west-des-moines",
+      "clicks": 9,
+      "impressions": 3340,
+      "ctr": 0.002694610778443114,
+      "position": 10.077844311377245
+    },
+    {
+      "page": "https://holtplumbingandheating.com/des-moines-iowa/",
+      "clicks": 9,
+      "impressions": 14650,
+      "ctr": 0.0006143344709897611,
+      "position": 27.886825938566552
+    },
+    {
+      "page": "https://holtplumbingandheating.com/plumbing-services/inspection/",
+      "clicks": 9,
+      "impressions": 2220,
+      "ctr": 0.004054054054054054,
+      "position": 17.96891891891892
+    },
+    {
+      "page": "https://holtplumbingandheating.com/plumbing-services/sewer-line-replacement/",
       "clicks": 8,
-      "impressions": 6145,
-      "ctr": 0.0013018714401952806,
-      "position": 5.5246541903986985
+      "impressions": 3319,
+      "ctr": 0.0024103645676408557,
+      "position": 13.305513708948478
     },
     {
       "page": "https://holtplumbingandheating.com/choosing-a-family-owned-operated-hvac-company/",
       "clicks": 7,
-      "impressions": 2352,
-      "ctr": 0.002976190476190476,
-      "position": 6.341836734693878
-    },
-    {
-      "page": "https://holtplumbingandheating.com/customer-portal/",
-      "clicks": 6,
-      "impressions": 805,
-      "ctr": 0.007453416149068323,
-      "position": 14.321739130434782
-    },
-    {
-      "page": "https://holtplumbingandheating.com/des-moines-iowa/",
-      "clicks": 6,
-      "impressions": 17402,
-      "ctr": 0.00034478795540742444,
-      "position": 30.574474198368005
+      "impressions": 1973,
+      "ctr": 0.0035478966041561076,
+      "position": 7.275215408008109
     },
     {
       "page": "https://holtplumbingandheating.com/jellyfish-lighting/",
-      "clicks": 6,
-      "impressions": 1065,
-      "ctr": 0.005633802816901409,
-      "position": 20.36244131455399
+      "clicks": 7,
+      "impressions": 1261,
+      "ctr": 0.0055511498810467885,
+      "position": 19.75257731958763
     },
     {
-      "page": "https://holtplumbingandheating.com/plumbing-services/inspection/",
-      "clicks": 6,
-      "impressions": 1933,
-      "ctr": 0.0031039834454216243,
-      "position": 18.43248836006208
+      "page": "https://holtplumbingandheating.com/waukee-ia/",
+      "clicks": 7,
+      "impressions": 10896,
+      "ctr": 0.0006424375917767988,
+      "position": 19.102606461086637
     },
     {
-      "page": "https://holtplumbingandheating.com/about/first-time-holt/",
-      "clicks": 5,
-      "impressions": 1209,
-      "ctr": 0.0041356492969396195,
-      "position": 17.55004135649297
+      "page": "https://holtplumbingandheating.com/why-circuit-breaker-keeps-tripping/",
+      "clicks": 7,
+      "impressions": 2531,
+      "ctr": 0.002765705254839984,
+      "position": 24.470169893322797
+    },
+    {
+      "page": "https://holtplumbingandheating.com/des-moines-iowa/plumbing-des-moines-ia/",
+      "clicks": 6,
+      "impressions": 7657,
+      "ctr": 0.0007835967088938227,
+      "position": 26.19511558051456
     },
     {
       "page": "https://holtplumbingandheating.com/elkhart/",
+      "clicks": 6,
+      "impressions": 650,
+      "ctr": 0.009230769230769232,
+      "position": 25.84769230769231
+    },
+    {
+      "page": "https://holtplumbingandheating.com/waukee-ia/plumbing-service-waukee-ia/",
+      "clicks": 6,
+      "impressions": 3579,
+      "ctr": 0.0016764459346186086,
+      "position": 31.400949986029616
+    },
+    {
+      "page": "https://holtplumbingandheating.com/des-moines-iowa/drywall-repair-des-moines/",
       "clicks": 5,
-      "impressions": 858,
-      "ctr": 0.005827505827505828,
-      "position": 28.482517482517483
+      "impressions": 676,
+      "ctr": 0.0073964497041420114,
+      "position": 16.252958579881657
     },
     {
       "page": "https://holtplumbingandheating.com/perry/",
       "clicks": 5,
-      "impressions": 452,
-      "ctr": 0.011061946902654867,
-      "position": 18.338495575221238
+      "impressions": 478,
+      "ctr": 0.010460251046025104,
+      "position": 18.443514644351463
+    },
+    {
+      "page": "https://holtplumbingandheating.com/plumbing-services/hydro-jetting/",
+      "clicks": 5,
+      "impressions": 973,
+      "ctr": 0.0051387461459403904,
+      "position": 10.744090441932169
     },
     {
       "page": "https://holtplumbingandheating.com/plumbing-services/sump-pumps/",
       "clicks": 5,
-      "impressions": 2212,
-      "ctr": 0.0022603978300180833,
-      "position": 33.00768535262206
-    },
-    {
-      "page": "https://holtplumbingandheating.com/waukee-ia/",
-      "clicks": 5,
-      "impressions": 10826,
-      "ctr": 0.0004618510992056161,
-      "position": 22.325512654720118
-    },
-    {
-      "page": "https://holtplumbingandheating.com/waukee-ia/plumbing-service-waukee-ia/",
-      "clicks": 5,
-      "impressions": 2730,
-      "ctr": 0.0018315018315018315,
-      "position": 29.35164835164835
-    },
-    {
-      "page": "https://holtplumbingandheating.com/des-moines-iowa/plumbing-des-moines-ia/",
-      "clicks": 4,
-      "impressions": 6408,
-      "ctr": 0.0006242197253433209,
-      "position": 28.88623595505618
-    },
-    {
-      "page": "https://holtplumbingandheating.com/ductless-hvac/",
-      "clicks": 4,
-      "impressions": 2396,
-      "ctr": 0.001669449081803005,
-      "position": 21.43948247078464
-    },
-    {
-      "page": "https://holtplumbingandheating.com/water-filtration-in-des-moines-ia/",
-      "clicks": 4,
-      "impressions": 1383,
-      "ctr": 0.0028922631959508315,
-      "position": 18.010845986984815
+      "impressions": 2664,
+      "ctr": 0.0018768768768768769,
+      "position": 31.16629129129129
     },
     {
       "page": "https://holtplumbingandheating.com/water-filtration/",
-      "clicks": 4,
-      "impressions": 3341,
-      "ctr": 0.001197246333433104,
-      "position": 16.778808739898235
+      "clicks": 5,
+      "impressions": 4656,
+      "ctr": 0.0010738831615120276,
+      "position": 16.88487972508591
     },
     {
       "page": "https://holtplumbingandheating.com/when-to-replace-water-heater-iowa/",
-      "clicks": 4,
-      "impressions": 68,
-      "ctr": 0.058823529411764705,
-      "position": 8.794117647058822
+      "clicks": 5,
+      "impressions": 556,
+      "ctr": 0.008992805755395683,
+      "position": 9.618705035971223
     },
     {
-      "page": "https://holtplumbingandheating.com/why-circuit-breaker-keeps-tripping/",
+      "page": "https://holtplumbingandheating.com/plumbing-services/sewer-camera-inspection/",
       "clicks": 4,
-      "impressions": 1776,
-      "ctr": 0.0022522522522522522,
-      "position": 31.57376126126126
+      "impressions": 1847,
+      "ctr": 0.002165674066053059,
+      "position": 12.365998917162967
     },
     {
-      "page": "https://holtplumbingandheating.com/air-conditioning/",
+      "page": "https://holtplumbingandheating.com/service-area/",
+      "clicks": 4,
+      "impressions": 696,
+      "ctr": 0.005747126436781609,
+      "position": 30.291666666666668
+    },
+    {
+      "page": "https://holtplumbingandheating.com/urbandale-ia/",
+      "clicks": 4,
+      "impressions": 9724,
+      "ctr": 0.00041135335252982314,
+      "position": 14.38153023447141
+    },
+    {
+      "page": "https://holtplumbingandheating.com/air-conditioning/ac-maintenance/",
       "clicks": 3,
-      "impressions": 2789,
-      "ctr": 0.0010756543564001434,
-      "position": 8.20580853352456
+      "impressions": 540,
+      "ctr": 0.005555555555555556,
+      "position": 29.40740740740741
     },
     {
       "page": "https://holtplumbingandheating.com/air-conditioning/ac-service/",
       "clicks": 3,
-      "impressions": 190,
-      "ctr": 0.015789473684210527,
-      "position": 30.74736842105263
+      "impressions": 210,
+      "ctr": 0.014285714285714285,
+      "position": 32.77619047619048
     },
     {
       "page": "https://holtplumbingandheating.com/altoona/plumbing/",
       "clicks": 3,
-      "impressions": 1322,
-      "ctr": 0.0022692889561270802,
-      "position": 23.019667170953102
+      "impressions": 1277,
+      "ctr": 0.0023492560689115116,
+      "position": 21.16914643696163
     },
     {
-      "page": "https://holtplumbingandheating.com/des-moines-iowa/drywall-repair-des-moines/",
+      "page": "https://holtplumbingandheating.com/ductless-hvac/",
       "clicks": 3,
-      "impressions": 808,
-      "ctr": 0.0037128712871287127,
-      "position": 17.39727722772277
+      "impressions": 1907,
+      "ctr": 0.0015731515469323545,
+      "position": 21.988463555322497
     },
     {
       "page": "https://holtplumbingandheating.com/ira-faq/",
       "clicks": 3,
-      "impressions": 266,
-      "ctr": 0.011278195488721804,
-      "position": 21.51127819548872
+      "impressions": 184,
+      "ctr": 0.016304347826086956,
+      "position": 25.72826086956522
+    },
+    {
+      "page": "https://holtplumbingandheating.com/johnston-ia/",
+      "clicks": 3,
+      "impressions": 1840,
+      "ctr": 0.0016304347826086956,
+      "position": 15.791304347826086
     },
     {
       "page": "https://holtplumbingandheating.com/plumbing-services/drain-cleaning/",
       "clicks": 3,
-      "impressions": 1076,
-      "ctr": 0.0027881040892193307,
-      "position": 21.2453531598513
-    },
-    {
-      "page": "https://holtplumbingandheating.com/plumbing-services/plumbing-fixtures/",
-      "clicks": 3,
-      "impressions": 1280,
-      "ctr": 0.00234375,
-      "position": 16.71953125
-    },
-    {
-      "page": "https://holtplumbingandheating.com/plumbing-services/sewer-camera-inspection/",
-      "clicks": 3,
-      "impressions": 765,
-      "ctr": 0.00392156862745098,
-      "position": 8.088888888888889
-    },
-    {
-      "page": "https://holtplumbingandheating.com/plumbing-services/sewer-line-replacement/",
-      "clicks": 3,
-      "impressions": 1686,
-      "ctr": 0.0017793594306049821,
-      "position": 13.495848161328588
-    },
-    {
-      "page": "https://holtplumbingandheating.com/service-area/",
-      "clicks": 3,
-      "impressions": 963,
-      "ctr": 0.003115264797507788,
-      "position": 27.629283489096572
+      "impressions": 1863,
+      "ctr": 0.001610305958132045,
+      "position": 19.5577026301664
     },
     {
       "page": "https://holtplumbingandheating.com/tank-style-water-heaters/",
       "clicks": 3,
-      "impressions": 4423,
-      "ctr": 0.0006782726656115759,
-      "position": 27.442233777978746
+      "impressions": 4445,
+      "ctr": 0.0006749156355455568,
+      "position": 25.733408323959505
     }
   ],
-  "fetchedAt": "2026-03-18T13:07:24.212Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "holt plumbing",
+      "clicks": 452,
+      "impressions": 2961,
+      "ctr": 0.15265113137453562,
+      "position": 2.7970280310705844
+    },
+    {
+      "query": "holt plumbing and heating",
+      "clicks": 151,
+      "impressions": 829,
+      "ctr": 0.18214716525934863,
+      "position": 1.238841978287093
+    },
+    {
+      "query": "holt heating and cooling",
+      "clicks": 80,
+      "impressions": 455,
+      "ctr": 0.17582417582417584,
+      "position": 1.8285714285714287
+    },
+    {
+      "query": "holt plumbing & heating, inc.",
+      "clicks": 46,
+      "impressions": 1064,
+      "ctr": 0.043233082706766915,
+      "position": 1.1343984962406015
+    },
+    {
+      "query": "holt plumbing des moines",
+      "clicks": 39,
+      "impressions": 137,
+      "ctr": 0.2846715328467153,
+      "position": 1
+    },
+    {
+      "query": "holt",
+      "clicks": 30,
+      "impressions": 190,
+      "ctr": 0.15789473684210525,
+      "position": 4.489473684210527
+    },
+    {
+      "query": "holt des moines",
+      "clicks": 16,
+      "impressions": 71,
+      "ctr": 0.22535211267605634,
+      "position": 1
+    },
+    {
+      "query": "holt hvac",
+      "clicks": 16,
+      "impressions": 78,
+      "ctr": 0.20512820512820512,
+      "position": 2.9743589743589745
+    },
+    {
+      "query": "holt heating",
+      "clicks": 13,
+      "impressions": 59,
+      "ctr": 0.22033898305084745,
+      "position": 1.3728813559322033
+    },
+    {
+      "query": "holt plumbing & heating",
+      "clicks": 10,
+      "impressions": 48,
+      "ctr": 0.20833333333333334,
+      "position": 1.125
+    },
+    {
+      "query": "holt plumbing & heating inc",
+      "clicks": 10,
+      "impressions": 55,
+      "ctr": 0.18181818181818182,
+      "position": 1
+    },
+    {
+      "query": "plumbers west des moines",
+      "clicks": 10,
+      "impressions": 447,
+      "ctr": 0.02237136465324385,
+      "position": 3.29082774049217
+    },
+    {
+      "query": "emergency ac repair west des moines",
+      "clicks": 9,
+      "impressions": 160,
+      "ctr": 0.05625,
+      "position": 6.01875
+    },
+    {
+      "query": "plumbers des moines",
+      "clicks": 9,
+      "impressions": 1434,
+      "ctr": 0.006276150627615063,
+      "position": 6.233612273361227
+    },
+    {
+      "query": "ac replacement west des moines",
+      "clicks": 8,
+      "impressions": 80,
+      "ctr": 0.1,
+      "position": 1.4125
+    },
+    {
+      "query": "furnace repair west des moines",
+      "clicks": 8,
+      "impressions": 293,
+      "ctr": 0.027303754266211604,
+      "position": 2.0887372013651877
+    },
+    {
+      "query": "heating and cooling west des moines",
+      "clicks": 8,
+      "impressions": 372,
+      "ctr": 0.021505376344086023,
+      "position": 2.416666666666667
+    },
+    {
+      "query": "hvac service west des moines",
+      "clicks": 8,
+      "impressions": 187,
+      "ctr": 0.0427807486631016,
+      "position": 1.839572192513369
+    },
+    {
+      "query": "water heater installation west des moines",
+      "clicks": 8,
+      "impressions": 225,
+      "ctr": 0.035555555555555556,
+      "position": 2.4444444444444446
+    },
+    {
+      "query": "boiler replacement west des moines",
+      "clicks": 7,
+      "impressions": 94,
+      "ctr": 0.07446808510638298,
+      "position": 1.9148936170212765
+    },
+    {
+      "query": "furnace installation west des moines",
+      "clicks": 7,
+      "impressions": 100,
+      "ctr": 0.07,
+      "position": 1.8900000000000001
+    },
+    {
+      "query": "heater repair west des moines",
+      "clicks": 7,
+      "impressions": 81,
+      "ctr": 0.08641975308641975,
+      "position": 1.3333333333333333
+    },
+    {
+      "query": "plumbers near me",
+      "clicks": 7,
+      "impressions": 316,
+      "ctr": 0.022151898734177215,
+      "position": 10.626582278481013
+    },
+    {
+      "query": "water heater repair west des moines",
+      "clicks": 7,
+      "impressions": 611,
+      "ctr": 0.011456628477905073,
+      "position": 2.937806873977087
+    },
+    {
+      "query": "water heater replacement west des moines",
+      "clicks": 7,
+      "impressions": 117,
+      "ctr": 0.05982905982905983,
+      "position": 1.9230769230769231
+    },
+    {
+      "query": "ac installation west des moines",
+      "clicks": 6,
+      "impressions": 167,
+      "ctr": 0.03592814371257485,
+      "position": 6.592814371257485
+    },
+    {
+      "query": "furnace replacement west des moines",
+      "clicks": 6,
+      "impressions": 100,
+      "ctr": 0.06,
+      "position": 1.5699999999999998
+    },
+    {
+      "query": "heating repair west des moines",
+      "clicks": 6,
+      "impressions": 357,
+      "ctr": 0.01680672268907563,
+      "position": 2.0980392156862746
+    },
+    {
+      "query": "holt plumbing & heating inc reviews",
+      "clicks": 6,
+      "impressions": 546,
+      "ctr": 0.01098901098901099,
+      "position": 6.728937728937729
+    },
+    {
+      "query": "plumber des moines",
+      "clicks": 6,
+      "impressions": 1599,
+      "ctr": 0.00375234521575985,
+      "position": 5.046904315196998
+    },
+    {
+      "query": "plumber west des moines",
+      "clicks": 6,
+      "impressions": 195,
+      "ctr": 0.03076923076923077,
+      "position": 12.738461538461538
+    },
+    {
+      "query": "water heaters west des moines",
+      "clicks": 6,
+      "impressions": 80,
+      "ctr": 0.075,
+      "position": 1.375
+    },
+    {
+      "query": "west des moines plumbers",
+      "clicks": 6,
+      "impressions": 59,
+      "ctr": 0.1016949152542373,
+      "position": 2.6610169491525424
+    },
+    {
+      "query": "des moines plumbers",
+      "clicks": 5,
+      "impressions": 896,
+      "ctr": 0.005580357142857143,
+      "position": 6.431919642857143
+    },
+    {
+      "query": "emergency plumber des moines",
+      "clicks": 5,
+      "impressions": 531,
+      "ctr": 0.009416195856873822,
+      "position": 2.354048964218456
+    },
+    {
+      "query": "emergency plumber west des moines",
+      "clicks": 5,
+      "impressions": 144,
+      "ctr": 0.034722222222222224,
+      "position": 1.7916666666666665
+    },
+    {
+      "query": "furnace repair west des moines ia",
+      "clicks": 5,
+      "impressions": 297,
+      "ctr": 0.016835016835016835,
+      "position": 2.3737373737373737
+    },
+    {
+      "query": "holt heating and plumbing",
+      "clicks": 5,
+      "impressions": 54,
+      "ctr": 0.09259259259259259,
+      "position": 2.0740740740740744
+    },
+    {
+      "query": "holt plumbing & heating inc photos",
+      "clicks": 5,
+      "impressions": 81,
+      "ctr": 0.06172839506172839,
+      "position": 1.7901234567901234
+    },
+    {
+      "query": "hvac contractor west des moines",
+      "clicks": 5,
+      "impressions": 82,
+      "ctr": 0.06097560975609756,
+      "position": 1.1585365853658536
+    },
+    {
+      "query": "plumber",
+      "clicks": 5,
+      "impressions": 1272,
+      "ctr": 0.003930817610062893,
+      "position": 21.86556603773585
+    },
+    {
+      "query": "plumber near me",
+      "clicks": 4,
+      "impressions": 742,
+      "ctr": 0.005390835579514825,
+      "position": 20.617250673854446
+    },
+    {
+      "query": "west des moines plumbing",
+      "clicks": 4,
+      "impressions": 207,
+      "ctr": 0.01932367149758454,
+      "position": 2.4057971014492754
+    },
+    {
+      "query": "best plumbers near me",
+      "clicks": 3,
+      "impressions": 12,
+      "ctr": 0.25,
+      "position": 1
+    },
+    {
+      "query": "des moines plumbing",
+      "clicks": 3,
+      "impressions": 734,
+      "ctr": 0.004087193460490463,
+      "position": 19.618528610354222
+    },
+    {
+      "query": "emergency heating repair west des moines",
+      "clicks": 3,
+      "impressions": 159,
+      "ctr": 0.018867924528301886,
+      "position": 4.2075471698113205
+    },
+    {
+      "query": "emergency plumber",
+      "clicks": 3,
+      "impressions": 1377,
+      "ctr": 0.002178649237472767,
+      "position": 4.22803195352215
+    },
+    {
+      "query": "heat pump installation west des moines",
+      "clicks": 3,
+      "impressions": 101,
+      "ctr": 0.0297029702970297,
+      "position": 1.2178217821782178
+    },
+    {
+      "query": "heat pump repair west des moines",
+      "clicks": 3,
+      "impressions": 133,
+      "ctr": 0.022556390977443608,
+      "position": 2.1203007518796992
+    },
+    {
+      "query": "heating and cooling des moines",
+      "clicks": 3,
+      "impressions": 1985,
+      "ctr": 0.0015113350125944584,
+      "position": 35.23727959697733
+    },
+    {
+      "query": "holt careers",
+      "clicks": 3,
+      "impressions": 13,
+      "ctr": 0.23076923076923078,
+      "position": 22.076923076923077
+    },
+    {
+      "query": "hvac des moines",
+      "clicks": 3,
+      "impressions": 1539,
+      "ctr": 0.001949317738791423,
+      "position": 31.72254710851202
+    },
+    {
+      "query": "hvac west des moines",
+      "clicks": 3,
+      "impressions": 277,
+      "ctr": 0.010830324909747292,
+      "position": 3.371841155234657
+    },
+    {
+      "query": "plumber des moines ia",
+      "clicks": 3,
+      "impressions": 240,
+      "ctr": 0.0125,
+      "position": 1.9625
+    },
+    {
+      "query": "plumbers in west des moines",
+      "clicks": 3,
+      "impressions": 191,
+      "ctr": 0.015706806282722512,
+      "position": 8.225130890052355
+    },
+    {
+      "query": "plumbing des moines iowa",
+      "clicks": 3,
+      "impressions": 513,
+      "ctr": 0.005847953216374269,
+      "position": 25.385964912280702
+    },
+    {
+      "query": "sump pump repair near me",
+      "clicks": 3,
+      "impressions": 74,
+      "ctr": 0.04054054054054054,
+      "position": 8.243243243243242
+    },
+    {
+      "query": "water heater repair des moines",
+      "clicks": 3,
+      "impressions": 1147,
+      "ctr": 0.0026155187445510027,
+      "position": 7.716652136006974
+    },
+    {
+      "query": "water heater replacement",
+      "clicks": 3,
+      "impressions": 707,
+      "ctr": 0.004243281471004243,
+      "position": 15.497878359264497
+    },
+    {
+      "query": "ac repair west des moines",
+      "clicks": 2,
+      "impressions": 442,
+      "ctr": 0.004524886877828055,
+      "position": 2.2918552036199094
+    },
+    {
+      "query": "drywall des moines",
+      "clicks": 2,
+      "impressions": 163,
+      "ctr": 0.012269938650306749,
+      "position": 13.337423312883436
+    },
+    {
+      "query": "furnace repair near me",
+      "clicks": 2,
+      "impressions": 373,
+      "ctr": 0.005361930294906166,
+      "position": 25.83378016085791
+    },
+    {
+      "query": "holt heating and air conditioning",
+      "clicks": 2,
+      "impressions": 14,
+      "ctr": 0.14285714285714285,
+      "position": 3.357142857142857
+    },
+    {
+      "query": "holtz plumbing",
+      "clicks": 2,
+      "impressions": 19,
+      "ctr": 0.10526315789473684,
+      "position": 2.736842105263158
+    },
+    {
+      "query": "hoyt plumbing",
+      "clicks": 2,
+      "impressions": 18,
+      "ctr": 0.1111111111111111,
+      "position": 14.444444444444445
+    },
+    {
+      "query": "hvac company west des moines",
+      "clicks": 2,
+      "impressions": 176,
+      "ctr": 0.011363636363636364,
+      "position": 3.6931818181818183
+    },
+    {
+      "query": "plumbers in des moines",
+      "clicks": 2,
+      "impressions": 266,
+      "ctr": 0.007518796992481203,
+      "position": 6.1992481203007515
+    },
+    {
+      "query": "plumbing des moines",
+      "clicks": 2,
+      "impressions": 1175,
+      "ctr": 0.001702127659574468,
+      "position": 20.942978723404256
+    },
+    {
+      "query": "water heater installation des moines",
+      "clicks": 2,
+      "impressions": 859,
+      "ctr": 0.002328288707799767,
+      "position": 8.30267753201397
+    },
+    {
+      "query": "water heater replacement des moines",
+      "clicks": 2,
+      "impressions": 550,
+      "ctr": 0.0036363636363636364,
+      "position": 4.594545454545455
+    },
+    {
+      "query": "24 hour gas",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 8
+    },
+    {
+      "query": "24 hour plumber des moines",
+      "clicks": 1,
+      "impressions": 100,
+      "ctr": 0.01,
+      "position": 2.12
+    },
+    {
+      "query": "24 hour plumbing service",
+      "clicks": 1,
+      "impressions": 162,
+      "ctr": 0.006172839506172839,
+      "position": 47.72222222222222
+    },
+    {
+      "query": "24 hour sewer service near me",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 5.714285714285714
+    },
+    {
+      "query": "24 hr plumber",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 9.857142857142858
+    },
+    {
+      "query": "24/7 plumber",
+      "clicks": 1,
+      "impressions": 34,
+      "ctr": 0.029411764705882353,
+      "position": 33.11764705882353
+    },
+    {
+      "query": "24/7 plumbers",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 1
+    },
+    {
+      "query": "27/7 plumbing",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "ac maintenance west des moines",
+      "clicks": 1,
+      "impressions": 80,
+      "ctr": 0.0125,
+      "position": 1.7875
+    },
+    {
+      "query": "air conditioning repair west des moines",
+      "clicks": 1,
+      "impressions": 66,
+      "ctr": 0.015151515151515152,
+      "position": 1.4242424242424243
+    },
+    {
+      "query": "air duct cleaning",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "backflow plumber near me",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 16.384615384615387
+    },
+    {
+      "query": "best hvac companies near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 18
+    },
+    {
+      "query": "commercial hvac service west des moines",
+      "clicks": 1,
+      "impressions": 76,
+      "ctr": 0.013157894736842105,
+      "position": 7.578947368421052
+    },
+    {
+      "query": "construction heater repair",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "des moines boiler repair",
+      "clicks": 1,
+      "impressions": 54,
+      "ctr": 0.018518518518518517,
+      "position": 10.37037037037037
+    },
+    {
+      "query": "des moines plumbing companies",
+      "clicks": 1,
+      "impressions": 95,
+      "ctr": 0.010526315789473684,
+      "position": 2.705263157894737
+    },
+    {
+      "query": "drywall repair des moines iowa",
+      "clicks": 1,
+      "impressions": 26,
+      "ctr": 0.038461538461538464,
+      "position": 11.076923076923077
+    },
+    {
+      "query": "emergency plumber near me",
+      "clicks": 1,
+      "impressions": 1013,
+      "ctr": 0.0009871668311944718,
+      "position": 7.07502467917078
+    },
+    {
+      "query": "emergency plumbing service",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 16.714285714285715
+    },
+    {
+      "query": "furnace family heating, air conditioning, plumbing",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 104
+    },
+    {
+      "query": "heat pump installation des moines",
+      "clicks": 1,
+      "impressions": 272,
+      "ctr": 0.003676470588235294,
+      "position": 5.257352941176471
+    },
+    {
+      "query": "heating and cooling ankeny",
+      "clicks": 1,
+      "impressions": 185,
+      "ctr": 0.005405405405405406,
+      "position": 63.13513513513514
+    },
+    {
+      "query": "heating and plumbing",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 12.375
+    },
+    {
+      "query": "holt electric",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 4
+    },
+    {
+      "query": "holt heating and air",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 4
+    },
+    {
+      "query": "holt jobs",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 22.375
+    },
+    {
+      "query": "holt plumbing and heating service ltd",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 1.3333333333333333
+    },
+    {
+      "query": "holt plumbing reviews",
+      "clicks": 1,
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 7.03125
+    },
+    {
+      "query": "holt services",
+      "clicks": 1,
+      "impressions": 31,
+      "ctr": 0.03225806451612903,
+      "position": 23.161290322580644
+    },
+    {
+      "query": "hot water heater replacement",
+      "clicks": 1,
+      "impressions": 160,
+      "ctr": 0.00625,
+      "position": 24.75625
+    },
+    {
+      "query": "hvac company des moines",
+      "clicks": 1,
+      "impressions": 359,
+      "ctr": 0.002785515320334262,
+      "position": 35.90807799442897
+    },
+    {
+      "query": "hvac handyman",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 17
+    },
+    {
+      "query": "hvac repair des moines",
+      "clicks": 1,
+      "impressions": 1271,
+      "ctr": 0.0007867820613690008,
+      "position": 42.40047206923682
+    },
+    {
+      "query": "hvac tune up",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "mini split air conditioner west des moines",
+      "clicks": 1,
+      "impressions": 80,
+      "ctr": 0.0125,
+      "position": 6.275
+    },
+    {
+      "query": "mini split heat pumps west des moines",
+      "clicks": 1,
+      "impressions": 77,
+      "ctr": 0.012987012987012988,
+      "position": 2.5454545454545454
+    },
+    {
+      "query": "norwalk plumbing company",
+      "clicks": 1,
+      "impressions": 84,
+      "ctr": 0.011904761904761904,
+      "position": 47.86904761904762
+    },
+    {
+      "query": "plumber asap near me",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 47.63636363636363
+    },
+    {
+      "query": "plumber in des moines",
+      "clicks": 1,
+      "impressions": 153,
+      "ctr": 0.006535947712418301,
+      "position": 2.57516339869281
+    },
+    {
+      "query": "plumbers des moines iowa",
+      "clicks": 1,
+      "impressions": 103,
+      "ctr": 0.009708737864077669,
+      "position": 5.368932038834951
+    },
+    {
+      "query": "plumbers in des moines iowa",
+      "clicks": 1,
+      "impressions": 191,
+      "ctr": 0.005235602094240838,
+      "position": 3.031413612565445
+    },
+    {
+      "query": "plumbers that give free estimates",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "plumbers urbandale",
+      "clicks": 1,
+      "impressions": 53,
+      "ctr": 0.018867924528301886,
+      "position": 7.773584905660377
+    },
+    {
+      "query": "plumbing",
+      "clicks": 1,
+      "impressions": 371,
+      "ctr": 0.0026954177897574125,
+      "position": 23.77358490566038
+    },
+    {
+      "query": "plumbing companies near me",
+      "clicks": 1,
+      "impressions": 175,
+      "ctr": 0.005714285714285714,
+      "position": 11.714285714285714
+    },
+    {
+      "query": "plumbing heating and cooling",
+      "clicks": 1,
+      "impressions": 50,
+      "ctr": 0.02,
+      "position": 37.2
+    },
+    {
+      "query": "plumbing installation",
+      "clicks": 1,
+      "impressions": 93,
+      "ctr": 0.010752688172043012,
+      "position": 41.086021505376344
+    },
+    {
+      "query": "plumbing west des moines",
+      "clicks": 1,
+      "impressions": 61,
+      "ctr": 0.01639344262295082,
+      "position": 2.4262295081967213
+    },
+    {
+      "query": "reasonable plumbers near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "ruud furnace dealer near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 10
+    },
+    {
+      "query": "service plumbing",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 11
+    },
+    {
+      "query": "sump pump installation des moines",
+      "clicks": 1,
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 5.375
+    },
+    {
+      "query": "sump pump installation near me",
+      "clicks": 1,
+      "impressions": 217,
+      "ctr": 0.004608294930875576,
+      "position": 6.105990783410138
+    },
+    {
+      "query": "toilet installation",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 7.6
+    },
+    {
+      "query": "water heater flush service",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "water heater installation",
+      "clicks": 1,
+      "impressions": 125,
+      "ctr": 0.008,
+      "position": 1.208
+    },
+    {
+      "query": "water heater repair",
+      "clicks": 1,
+      "impressions": 1363,
+      "ctr": 0.0007336757153338225,
+      "position": 18.41085840058694
+    },
+    {
+      "query": "water heater repair near me",
+      "clicks": 1,
+      "impressions": 1521,
+      "ctr": 0.0006574621959237344,
+      "position": 20.02301117685733
+    },
+    {
+      "query": "water heaters and installation",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "water softener repair near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 6.666666666666667
+    },
+    {
+      "query": "who fixes water softeners near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 6
+    },
+    {
+      "query": "who installs sump pumps in basements",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 5
+    },
+    {
+      "query": "\"ac service\"",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 77.1
+    },
+    {
+      "query": "\"tlc plumbing, hvac, and electrical\" -site:facebook.com -site:fb.me -site:youtube.com -site:youtu.be -site:youtube.be -site:twitter.com -site:instagram.com -site:tiktok.com -site:vm.tiktok.com -site:t.co -site:x.com",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 5.5
+    },
+    {
+      "query": "060736",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 74
+    },
+    {
+      "query": "1 hour plumbing service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 92
+    },
+    {
+      "query": "24 7 ac repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 15
+    },
+    {
+      "query": "24 7 ac service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 18
+    },
+    {
+      "query": "24 7 drain cleaning",
+      "clicks": 0,
+      "impressions": 89,
+      "ctr": 0,
+      "position": 16.741573033707866
+    },
+    {
+      "query": "24 7 drains",
+      "clicks": 0,
+      "impressions": 120,
+      "ctr": 0,
+      "position": 11.141666666666667
+    },
+    {
+      "query": "24 7 emergency plumber",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 59
+    },
+    {
+      "query": "24 7 emergency plumbing service",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 82.45454545454545
+    },
+    {
+      "query": "24 7 emergency plumbing services",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 65
+    },
+    {
+      "query": "24 7 plumber",
+      "clicks": 0,
+      "impressions": 492,
+      "ctr": 0,
+      "position": 3.5548780487804876
+    },
+    {
+      "query": "24 7 plumber near me",
+      "clicks": 0,
+      "impressions": 309,
+      "ctr": 0,
+      "position": 7.566343042071197
+    },
+    {
+      "query": "24 7 plumbing",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 3.3333333333333335
+    },
+    {
+      "query": "24 7 plumbing company",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 61
+    },
+    {
+      "query": "24 7 plumbing near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "24 7 plumbing repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 35
+    },
+    {
+      "query": "24 7 plumbing service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 43
+    },
+    {
+      "query": "24 7 plumbing services",
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 63.291666666666664
+    },
+    {
+      "query": "24 emergency plumber",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 35.833333333333336
+    },
+    {
+      "query": "24 emergency plumbing",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 26.75
+    },
+    {
+      "query": "24 emergency plumbing service",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 90.75
+    },
+    {
+      "query": "24 h plumbing",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 34.75
+    },
+    {
+      "query": "24 hour",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 8.6
+    },
+    {
+      "query": "24 hour a c",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "24 hour ac repair heights",
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 91.70833333333333
+    },
+    {
+      "query": "24 hour ac repair mclain",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 99.5
+    },
+    {
+      "query": "24 hour boiler repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 14
+    },
+    {
+      "query": "24 hour commercial plumber",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 54.9
+    },
+    {
+      "query": "24 hour commercial plumbing",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 67
+    },
+    {
+      "query": "24 hour drain",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 28
+    },
+    {
+      "query": "24 hour drain cleaning near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "24 hour drain cleaning service",
+      "clicks": 0,
+      "impressions": 99,
+      "ctr": 0,
+      "position": 8.707070707070706
+    },
+    {
+      "query": "24 hour drain cleaning service near me",
+      "clicks": 0,
+      "impressions": 159,
+      "ctr": 0,
+      "position": 13.30188679245283
+    },
+    {
+      "query": "24 hour drain service",
+      "clicks": 0,
+      "impressions": 107,
+      "ctr": 0,
+      "position": 5.859813084112149
+    },
+    {
+      "query": "24 hour drain service near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "24 hour drainage and plumbing services",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 77.5
+    },
+    {
+      "query": "24 hour electrical service",
+      "clicks": 0,
+      "impressions": 55,
+      "ctr": 0,
+      "position": 17.963636363636365
+    },
+    {
+      "query": "24 hour electrician",
+      "clicks": 0,
+      "impressions": 73,
+      "ctr": 0,
+      "position": 35.57534246575342
+    },
+    {
+      "query": "24 hour emergency air conditioning service near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "24 hour emergency boiler service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "24 hour emergency commercial plumbing service",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 71.5
+    },
+    {
+      "query": "24 hour emergency drain service",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 50
+    },
+    {
+      "query": "24 hour emergency excavation services",
+      "clicks": 0,
+      "impressions": 40,
+      "ctr": 0,
+      "position": 14.525
+    },
+    {
+      "query": "24 hour emergency furnace repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "24 hour emergency furnace repair near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "24 hour emergency heating",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 87.33333333333333
+    },
+    {
+      "query": "24 hour emergency heating and cooling",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "24 hour emergency heating repair",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 76.5
+    },
+    {
+      "query": "24 hour emergency heating service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "24 hour emergency plumber",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 27
+    },
+    {
+      "query": "24 hour emergency plumber near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "24 hour emergency plumbers",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 24.333333333333332
+    },
+    {
+      "query": "24 hour emergency plumbing",
+      "clicks": 0,
+      "impressions": 769,
+      "ctr": 0,
+      "position": 74.06762028608583
+    },
+    {
+      "query": "24 hour emergency plumbing near me",
+      "clicks": 0,
+      "impressions": 83,
+      "ctr": 0,
+      "position": 47.12048192771084
+    },
+    {
+      "query": "24 hour emergency plumbing newcastle",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 90.66666666666667
+    },
+    {
+      "query": "24 hour emergency plumbing omaha",
+      "clicks": 0,
+      "impressions": 61,
+      "ctr": 0,
+      "position": 68.50819672131148
+    },
+    {
+      "query": "24 hour emergency plumbing repair",
+      "clicks": 0,
+      "impressions": 461,
+      "ctr": 0,
+      "position": 65.8004338394794
+    },
+    {
+      "query": "24 hour emergency plumbing service",
+      "clicks": 0,
+      "impressions": 399,
+      "ctr": 0,
+      "position": 63.64411027568922
+    },
+    {
+      "query": "24 hour emergency plumbing service near me",
+      "clicks": 0,
+      "impressions": 100,
+      "ctr": 0,
+      "position": 76.15
+    },
+    {
+      "query": "24 hour emergency plumbing service near me cheap",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 74.75
+    },
+    {
+      "query": "24 hour emergency plumbing services",
+      "clicks": 0,
+      "impressions": 153,
+      "ctr": 0,
+      "position": 67.5359477124183
+    },
+    {
+      "query": "24 hour emergency plumbing services near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 43
+    },
+    {
+      "query": "24 hour emergency plumbing services newcastle",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 94.29411764705883
+    },
+    {
+      "query": "24 hour emergency plumbing social circle",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 45
+    },
+    {
+      "query": "24 hour fitness phone number",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 88
+    },
+    {
+      "query": "24 hour furnace repair",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 6.777777777777778
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:22:01.800Z"
 }

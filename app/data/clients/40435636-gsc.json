@@ -1,156 +1,16 @@
 {
   "property": "sc-domain:andrewpickettlaw.com",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 1484,
-    "impressions": 691593,
-    "ctr": 0.0021457707061812367,
-    "position": 22.908679678186278
+    "clicks": 1466,
+    "impressions": 720853,
+    "ctr": 0.0020337017394669926,
+    "position": 24.697021546914943
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 17,
-      "impressions": 9800,
-      "ctr": 0.0017346938775510204,
-      "position": 18.34265306122449
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 21,
-      "impressions": 7257,
-      "ctr": 0.0028937577511368336,
-      "position": 22.025906021772084
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 15,
-      "impressions": 6063,
-      "ctr": 0.002474022761009401,
-      "position": 17.744515916213096
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 17,
-      "impressions": 6000,
-      "ctr": 0.0028333333333333335,
-      "position": 19.159666666666666
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 12,
-      "impressions": 6526,
-      "ctr": 0.0018387986515476554,
-      "position": 21.358259270609867
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 15,
-      "impressions": 6347,
-      "ctr": 0.002363321254135812,
-      "position": 20.297305813770286
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 12,
-      "impressions": 6357,
-      "ctr": 0.0018876828692779614,
-      "position": 21.696869592575116
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 10,
-      "impressions": 13054,
-      "ctr": 0.0007660487206986365,
-      "position": 11.682242990654206
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 15,
-      "impressions": 7055,
-      "ctr": 0.002126151665485471,
-      "position": 24.633167965981574
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 8,
-      "impressions": 5430,
-      "ctr": 0.0014732965009208103,
-      "position": 22.56611418047882
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 12,
-      "impressions": 5026,
-      "ctr": 0.00238758456028651,
-      "position": 20.11957819339435
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 10,
-      "impressions": 5801,
-      "ctr": 0.0017238407171177384,
-      "position": 20.8667471125668
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 15,
-      "impressions": 5620,
-      "ctr": 0.0026690391459074734,
-      "position": 20.473487544483987
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 9,
-      "impressions": 6019,
-      "ctr": 0.0014952649941850807,
-      "position": 22.41568366838345
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 26,
-      "impressions": 9262,
-      "ctr": 0.0028071690779529258,
-      "position": 19.562621464046643
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 34,
-      "impressions": 6686,
-      "ctr": 0.00508525276697577,
-      "position": 24.501495662578524
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 40,
-      "impressions": 5863,
-      "ctr": 0.006822445846836091,
-      "position": 23.743987719597477
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 7,
-      "impressions": 6005,
-      "ctr": 0.0011656952539550376,
-      "position": 22.887760199833473
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 17,
-      "impressions": 5976,
-      "ctr": 0.0028447121820615795,
-      "position": 21.17921686746988
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 13,
-      "impressions": 5361,
-      "ctr": 0.0024249207237455697,
-      "position": 19.062115277000558
-    },
     {
       "date": "2026-01-04",
       "clicks": 6,
@@ -640,120 +500,274 @@
       "impressions": 6925,
       "ctr": 0.002454873646209386,
       "position": 31.935306859205777
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 9,
+      "impressions": 6671,
+      "ctr": 0.001349123070004497,
+      "position": 33.59436366361865
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 24,
+      "impressions": 13122,
+      "ctr": 0.001828989483310471,
+      "position": 19.92943148910227
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 23,
+      "impressions": 8777,
+      "ctr": 0.002620485359462231,
+      "position": 28.381907257605103
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 17,
+      "impressions": 7430,
+      "ctr": 0.002288021534320323,
+      "position": 30.24899057873486
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 19,
+      "impressions": 9406,
+      "ctr": 0.0020199872421858387,
+      "position": 24.87486710610249
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 13,
+      "impressions": 9564,
+      "ctr": 0.0013592639063153493,
+      "position": 28.58887494772062
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 6,
+      "impressions": 7385,
+      "ctr": 0.0008124576844955991,
+      "position": 32.60704129993229
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 10,
+      "impressions": 7435,
+      "ctr": 0.0013449899125756557,
+      "position": 32.430800268997984
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 19,
+      "impressions": 7226,
+      "ctr": 0.002629393855521727,
+      "position": 28.01577636313313
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 16,
+      "impressions": 10199,
+      "ctr": 0.001568781253064026,
+      "position": 30.915089714677908
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 21,
+      "impressions": 7726,
+      "ctr": 0.0027180947450168263,
+      "position": 31.350893088273363
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 13,
+      "impressions": 9075,
+      "ctr": 0.0014325068870523416,
+      "position": 32.77719008264463
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 14,
+      "impressions": 6666,
+      "ctr": 0.0021002100210021,
+      "position": 28.196669666966695
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 6,
+      "impressions": 6755,
+      "ctr": 0.0008882309400444115,
+      "position": 29.86839378238342
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 12,
+      "impressions": 7080,
+      "ctr": 0.001694915254237288,
+      "position": 30.49901129943503
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 10,
+      "impressions": 7769,
+      "ctr": 0.0012871669455528382,
+      "position": 28.58810657742309
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 20,
+      "impressions": 7109,
+      "ctr": 0.0028133352088901393,
+      "position": 21.872696581797722
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 17,
+      "impressions": 7134,
+      "ctr": 0.002382954864031399,
+      "position": 24.83964115503224
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 20,
+      "impressions": 5572,
+      "ctr": 0.003589375448671931,
+      "position": 28.16223977027997
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 11,
+      "impressions": 7499,
+      "ctr": 0.0014668622482997733,
+      "position": 27.07214295239365
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 7,
+      "impressions": 5168,
+      "ctr": 0.0013544891640866873,
+      "position": 27.153057275541794
     }
   ],
   "topQueries": [
     {
       "query": "andrew pickett law",
-      "clicks": 269,
-      "impressions": 1028,
-      "ctr": 0.2616731517509728,
-      "position": 1.5136186770428015
+      "clicks": 273,
+      "impressions": 1136,
+      "ctr": 0.24031690140845072,
+      "position": 1.5132042253521125
     },
     {
       "query": "andrew pickett",
-      "clicks": 37,
-      "impressions": 580,
-      "ctr": 0.06379310344827586,
-      "position": 2.3948275862068966
+      "clicks": 40,
+      "impressions": 607,
+      "ctr": 0.06589785831960461,
+      "position": 2.2948929159802307
     },
     {
       "query": "andrew pickett law, pllc",
-      "clicks": 17,
+      "clicks": 18,
       "impressions": 61,
-      "ctr": 0.2786885245901639,
+      "ctr": 0.29508196721311475,
       "position": 1
     },
     {
       "query": "andrew pickett law melbourne",
-      "clicks": 14,
-      "impressions": 182,
-      "ctr": 0.07692307692307693,
-      "position": 2.2527472527472527
+      "clicks": 17,
+      "impressions": 208,
+      "ctr": 0.08173076923076923,
+      "position": 3.0048076923076925
     },
     {
       "query": "pickett law",
       "clicks": 12,
-      "impressions": 170,
-      "ctr": 0.07058823529411765,
-      "position": 24.435294117647057
+      "impressions": 178,
+      "ctr": 0.06741573033707865,
+      "position": 22.325842696629213
+    },
+    {
+      "query": "andrew picket law",
+      "clicks": 11,
+      "impressions": 38,
+      "ctr": 0.2894736842105263,
+      "position": 3.5789473684210527
     },
     {
       "query": "andrew pickett law titusville",
-      "clicks": 8,
-      "impressions": 354,
-      "ctr": 0.022598870056497175,
-      "position": 3.225988700564972
-    },
-    {
-      "query": "history of melbourne florida",
-      "clicks": 8,
-      "impressions": 105,
-      "ctr": 0.0761904761904762,
-      "position": 1.8571428571428572
+      "clicks": 10,
+      "impressions": 381,
+      "ctr": 0.026246719160104987,
+      "position": 2.6929133858267718
     },
     {
       "query": "what a landlord cannot do florida",
       "clicks": 8,
-      "impressions": 52,
-      "ctr": 0.15384615384615385,
-      "position": 3.0384615384615383
+      "impressions": 42,
+      "ctr": 0.19047619047619047,
+      "position": 3.1904761904761907
     },
     {
-      "query": "graves amendment florida",
-      "clicks": 7,
-      "impressions": 270,
-      "ctr": 0.025925925925925925,
-      "position": 8.011111111111111
+      "query": "history of melbourne florida",
+      "clicks": 6,
+      "impressions": 118,
+      "ctr": 0.05084745762711865,
+      "position": 1.711864406779661
     },
     {
       "query": "pickett law firm",
-      "clicks": 7,
+      "clicks": 6,
       "impressions": 59,
-      "ctr": 0.11864406779661017,
-      "position": 10.88135593220339
-    },
-    {
-      "query": "andrew picket law",
-      "clicks": 5,
-      "impressions": 25,
-      "ctr": 0.2,
-      "position": 4.92
+      "ctr": 0.1016949152542373,
+      "position": 14.40677966101695
     },
     {
       "query": "andrew picket",
-      "clicks": 4,
-      "impressions": 67,
-      "ctr": 0.05970149253731343,
-      "position": 2.4477611940298507
+      "clicks": 5,
+      "impressions": 72,
+      "ctr": 0.06944444444444445,
+      "position": 2.416666666666667
+    },
+    {
+      "query": "graves amendment florida",
+      "clicks": 5,
+      "impressions": 255,
+      "ctr": 0.0196078431372549,
+      "position": 8.60392156862745
     },
     {
       "query": "melbourne florida",
       "clicks": 4,
-      "impressions": 2138,
-      "ctr": 0.0018709073900841909,
-      "position": 9.746492048643592
+      "impressions": 1517,
+      "ctr": 0.0026367831245880024,
+      "position": 11.720500988793672
     },
     {
       "query": "tenant lawyer free consultation florida",
       "clicks": 4,
-      "impressions": 24,
-      "ctr": 0.16666666666666666,
-      "position": 3.1666666666666665
+      "impressions": 22,
+      "ctr": 0.18181818181818182,
+      "position": 3.1818181818181817
+    },
+    {
+      "query": "bankruptcy lawyer near me",
+      "clicks": 3,
+      "impressions": 15,
+      "ctr": 0.2,
+      "position": 3.466666666666667
     },
     {
       "query": "melbourne fl history",
       "clicks": 3,
-      "impressions": 66,
-      "ctr": 0.045454545454545456,
-      "position": 1.9848484848484849
+      "impressions": 64,
+      "ctr": 0.046875,
+      "position": 1.796875
     },
     {
-      "query": "picketlaw",
+      "query": "melbourne florida history",
       "clicks": 3,
-      "impressions": 4,
-      "ctr": 0.75,
-      "position": 3.5
+      "impressions": 55,
+      "ctr": 0.05454545454545454,
+      "position": 1.8363636363636364
     },
     {
       "query": "renters rights in florida",
@@ -763,46 +777,32 @@
       "position": 1.170731707317073
     },
     {
-      "query": "when was melbourne florida founded",
-      "clicks": 3,
-      "impressions": 146,
-      "ctr": 0.02054794520547945,
-      "position": 6.801369863013699
+      "query": "andrew pickett law reviews",
+      "clicks": 2,
+      "impressions": 103,
+      "ctr": 0.019417475728155338,
+      "position": 10.223300970873787
     },
     {
-      "query": "andrew lawyer",
+      "query": "best business lawyers melbourne",
       "clicks": 2,
-      "impressions": 3,
-      "ctr": 0.6666666666666666,
-      "position": 4
-    },
-    {
-      "query": "attorneys melbourne fl",
-      "clicks": 2,
-      "impressions": 278,
-      "ctr": 0.007194244604316547,
-      "position": 5.079136690647482
-    },
-    {
-      "query": "bankruptcy lawyer near me",
-      "clicks": 2,
-      "impressions": 14,
-      "ctr": 0.14285714285714285,
-      "position": 3.2857142857142856
+      "impressions": 4,
+      "ctr": 0.5,
+      "position": 1
     },
     {
       "query": "business attorney melbourne fl",
       "clicks": 2,
-      "impressions": 38,
-      "ctr": 0.05263157894736842,
-      "position": 1.763157894736842
+      "impressions": 34,
+      "ctr": 0.058823529411764705,
+      "position": 1.7352941176470589
     },
     {
       "query": "car accident attorney",
       "clicks": 2,
-      "impressions": 2678,
-      "ctr": 0.0007468259895444362,
-      "position": 18.60791635548917
+      "impressions": 2569,
+      "ctr": 0.0007785130400934215,
+      "position": 19.123783573374855
     },
     {
       "query": "car accident law firms near me",
@@ -812,39 +812,32 @@
       "position": 1
     },
     {
-      "query": "famous people from melbourne florida",
-      "clicks": 2,
-      "impressions": 105,
-      "ctr": 0.01904761904761905,
-      "position": 2.895238095238095
-    },
-    {
       "query": "how long does it take to file a lawsuit",
       "clicks": 2,
-      "impressions": 97,
-      "ctr": 0.020618556701030927,
-      "position": 46.144329896907216
+      "impressions": 99,
+      "ctr": 0.020202020202020204,
+      "position": 38.36363636363637
     },
     {
       "query": "indemnización por operación de rodilla",
       "clicks": 2,
-      "impressions": 150,
-      "ctr": 0.013333333333333334,
-      "position": 4.626666666666667
+      "impressions": 163,
+      "ctr": 0.012269938650306749,
+      "position": 3.815950920245399
     },
     {
-      "query": "law firms near me",
+      "query": "lawyers in melbourne florida",
       "clicks": 2,
-      "impressions": 11,
-      "ctr": 0.18181818181818182,
-      "position": 18.727272727272727
+      "impressions": 20,
+      "ctr": 0.1,
+      "position": 9.1
     },
     {
       "query": "melbourne fl",
       "clicks": 2,
-      "impressions": 2251,
-      "ctr": 0.000888494002665482,
-      "position": 11.992892047978676
+      "impressions": 1471,
+      "ctr": 0.0013596193065941536,
+      "position": 15.308633582596872
     },
     {
       "query": "melbourne fl news today",
@@ -854,39 +847,25 @@
       "position": 5.75
     },
     {
-      "query": "personal injury lawyer melbourne fl",
+      "query": "picketlaw",
       "clicks": 2,
-      "impressions": 884,
-      "ctr": 0.0022624434389140274,
-      "position": 21.29524886877828
-    },
-    {
-      "query": "picket law",
-      "clicks": 2,
-      "impressions": 12,
-      "ctr": 0.16666666666666666,
-      "position": 4.416666666666666
+      "impressions": 3,
+      "ctr": 0.6666666666666666,
+      "position": 4
     },
     {
       "query": "tenant rights lawyer florida",
       "clicks": 2,
-      "impressions": 11,
-      "ctr": 0.18181818181818182,
-      "position": 2.2727272727272725
-    },
-    {
-      "query": "trust attorneys near me",
-      "clicks": 2,
-      "impressions": 4,
-      "ctr": 0.5,
-      "position": 1
+      "impressions": 8,
+      "ctr": 0.25,
+      "position": 2.375
     },
     {
       "query": "accident lawyers near me",
       "clicks": 1,
-      "impressions": 100,
-      "ctr": 0.01,
-      "position": 1.49
+      "impressions": 55,
+      "ctr": 0.01818181818181818,
+      "position": 1.5818181818181818
     },
     {
       "query": "america's antique mall - melbourne",
@@ -896,18 +875,25 @@
       "position": 3
     },
     {
-      "query": "american legion melbourne fl",
+      "query": "andrew law firm",
       "clicks": 1,
-      "impressions": 4,
-      "ctr": 0.25,
-      "position": 4
+      "impressions": 88,
+      "ctr": 0.011363636363636364,
+      "position": 62.90909090909091
     },
     {
-      "query": "andrew pickett law reviews",
+      "query": "andrew lawyer",
       "clicks": 1,
-      "impressions": 68,
-      "ctr": 0.014705882352941176,
-      "position": 10.352941176470589
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3.5
+    },
+    {
+      "query": "attorneys melbourne fl",
+      "clicks": 1,
+      "impressions": 278,
+      "ctr": 0.0035971223021582736,
+      "position": 4.392086330935252
     },
     {
       "query": "attorneys near me",
@@ -924,6 +910,13 @@
       "position": 7.5
     },
     {
+      "query": "bailey shadburn",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 10
+    },
+    {
       "query": "bankruptcy attorney near me",
       "clicks": 1,
       "impressions": 3,
@@ -931,53 +924,67 @@
       "position": 6.333333333333333
     },
     {
+      "query": "business formation attorney near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 1
+    },
+    {
       "query": "can i sue my neighbor for emotional distress",
       "clicks": 1,
-      "impressions": 17,
-      "ctr": 0.058823529411764705,
-      "position": 39.23529411764706
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 41.666666666666664
     },
     {
       "query": "can i take my landlord to court for emotional distress",
       "clicks": 1,
       "impressions": 3,
       "ctr": 0.3333333333333333,
-      "position": 5
+      "position": 6
     },
     {
-      "query": "can you ride in the bed of a truck in florida",
+      "query": "car accident attorney melbourne",
       "clicks": 1,
-      "impressions": 802,
-      "ctr": 0.0012468827930174563,
-      "position": 11.034912718204488
+      "impressions": 282,
+      "ctr": 0.0035460992907801418,
+      "position": 27.00354609929078
+    },
+    {
+      "query": "car accident attorneys in my area",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 14
     },
     {
       "query": "car accident lawyer melbourne",
       "clicks": 1,
-      "impressions": 687,
-      "ctr": 0.001455604075691412,
-      "position": 23.852983988355167
+      "impressions": 736,
+      "ctr": 0.001358695652173913,
+      "position": 25.69701086956522
     },
     {
       "query": "car accident lawyer melbourne fl",
       "clicks": 1,
-      "impressions": 555,
-      "ctr": 0.0018018018018018018,
-      "position": 14.403603603603603
+      "impressions": 517,
+      "ctr": 0.0019342359767891683,
+      "position": 13.133462282398453
     },
     {
       "query": "car seat regulations florida",
       "clicks": 1,
-      "impressions": 14,
-      "ctr": 0.07142857142857142,
-      "position": 22.5
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 24.666666666666668
     },
     {
       "query": "car seat rules florida",
       "clicks": 1,
-      "impressions": 58,
-      "ctr": 0.017241379310344827,
-      "position": 30.137931034482758
+      "impressions": 60,
+      "ctr": 0.016666666666666666,
+      "position": 32.08333333333333
     },
     {
       "query": "child custody attorneys near me",
@@ -992,359 +999,2815 @@
       "impressions": 1,
       "ctr": 1,
       "position": 1
+    },
+    {
+      "query": "civil attorney melbourne fl",
+      "clicks": 1,
+      "impressions": 31,
+      "ctr": 0.03225806451612903,
+      "position": 3.903225806451613
+    },
+    {
+      "query": "civil attorneys near me",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 1
+    },
+    {
+      "query": "civil lawyer",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 2
+    },
+    {
+      "query": "civil litigation attorney",
+      "clicks": 1,
+      "impressions": 51,
+      "ctr": 0.0196078431372549,
+      "position": 1.7647058823529411
+    },
+    {
+      "query": "civil litigation attorneys",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2
+    },
+    {
+      "query": "cocoa beach boating accident lawyer",
+      "clicks": 1,
+      "impressions": 146,
+      "ctr": 0.00684931506849315,
+      "position": 7.534246575342466
+    },
+    {
+      "query": "construction lawyer near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "contract lawyers near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 1
+    },
+    {
+      "query": "credit card debt lawyers near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "cuantas oportunidades hay para el examen de manejo teorico",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "divorce lawyer",
+      "clicks": 1,
+      "impressions": 31,
+      "ctr": 0.03225806451612903,
+      "position": 1
+    },
+    {
+      "query": "dog bite lawyers in florida",
+      "clicks": 1,
+      "impressions": 161,
+      "ctr": 0.006211180124223602,
+      "position": 13.701863354037267
+    },
+    {
+      "query": "donicadixon",
+      "clicks": 1,
+      "impressions": 45,
+      "ctr": 0.022222222222222223,
+      "position": 28.444444444444443
+    },
+    {
+      "query": "eeoc lawyer",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "employment attorney near me",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 2.428571428571429
+    },
+    {
+      "query": "employment lawyer near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 17
+    },
+    {
+      "query": "family adoption lawyers",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 21
+    },
+    {
+      "query": "family attorney near me",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 14
+    },
+    {
+      "query": "family law attorney near me",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 10.235294117647058
+    },
+    {
+      "query": "family law attorneys near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 9
+    },
+    {
+      "query": "family law lawyer near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 5
+    },
+    {
+      "query": "family lawyer",
+      "clicks": 1,
+      "impressions": 83,
+      "ctr": 0.012048192771084338,
+      "position": 1.5421686746987953
+    },
+    {
+      "query": "family lawyers near me",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 5.357142857142857
+    },
+    {
+      "query": "famous people from brevard county",
+      "clicks": 1,
+      "impressions": 23,
+      "ctr": 0.043478260869565216,
+      "position": 4.434782608695652
+    },
+    {
+      "query": "famous people from melbourne florida",
+      "clicks": 1,
+      "impressions": 96,
+      "ctr": 0.010416666666666666,
+      "position": 3.8020833333333335
+    },
+    {
+      "query": "file harassment charges online",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 1
+    },
+    {
+      "query": "fire in melbourne, fl yesterday",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 11
+    },
+    {
+      "query": "florida car seat laws 2025",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 25
+    },
+    {
+      "query": "florida car seat laws for children",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 10
+    },
+    {
+      "query": "florida sexual assault laws",
+      "clicks": 1,
+      "impressions": 72,
+      "ctr": 0.013888888888888888,
+      "position": 33.06944444444444
+    },
+    {
+      "query": "fraud attorney near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "golf cart insurance florida",
+      "clicks": 1,
+      "impressions": 1288,
+      "ctr": 0.0007763975155279503,
+      "position": 30.31133540372671
+    },
+    {
+      "query": "good lawyers near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "graves amendment",
+      "clicks": 1,
+      "impressions": 381,
+      "ctr": 0.0026246719160104987,
+      "position": 22.440944881889763
+    },
+    {
+      "query": "green gables melbourne fl",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 5.5
+    },
+    {
+      "query": "honorarios contingentes",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 13.708333333333334
+    },
+    {
+      "query": "how do you fail your drivers test",
+      "clicks": 1,
+      "impressions": 22,
+      "ctr": 0.045454545454545456,
+      "position": 1
+    },
+    {
+      "query": "how long do civil court cases take",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 12.117647058823529
+    },
+    {
+      "query": "how long does a lawsuit take",
+      "clicks": 1,
+      "impressions": 57,
+      "ctr": 0.017543859649122806,
+      "position": 9.228070175438596
+    },
+    {
+      "query": "how much can child support take from settlement in florida",
+      "clicks": 1,
+      "impressions": 31,
+      "ctr": 0.03225806451612903,
+      "position": 11.838709677419354
+    },
+    {
+      "query": "how much can you sue for emotional distress in small claims court",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 10.125
+    },
+    {
+      "query": "injury lawyer",
+      "clicks": 1,
+      "impressions": 816,
+      "ctr": 0.0012254901960784314,
+      "position": 9.897058823529411
+    },
+    {
+      "query": "injury lawyers near me",
+      "clicks": 1,
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 7.333333333333333
+    },
+    {
+      "query": "is it legal to ride in the bed of a truck in florida",
+      "clicks": 1,
+      "impressions": 787,
+      "ctr": 0.0012706480304955528,
+      "position": 10.438373570520966
+    },
+    {
+      "query": "jaywalking",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 2.235294117647059
+    },
+    {
+      "query": "jaywalking in florida",
+      "clicks": 1,
+      "impressions": 34,
+      "ctr": 0.029411764705882353,
+      "position": 17.941176470588236
+    },
+    {
+      "query": "labor attorney",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "labor law attorney near me",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 1.4210526315789473
+    },
+    {
+      "query": "land lawyers near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2.5
+    },
+    {
+      "query": "law firms melbourne",
+      "clicks": 1,
+      "impressions": 187,
+      "ctr": 0.0053475935828877,
+      "position": 4.545454545454545
+    },
+    {
+      "query": "law firms melbourne fl",
+      "clicks": 1,
+      "impressions": 218,
+      "ctr": 0.0045871559633027525,
+      "position": 8.720183486238533
+    },
+    {
+      "query": "law firms near",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 4
+    },
+    {
+      "query": "law firms near me",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 23.444444444444443
+    },
+    {
+      "query": "law offices near me",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 2.4117647058823533
+    },
+    {
+      "query": "lawyer in melbourne",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 10.142857142857142
+    },
+    {
+      "query": "lawyers for cease and desist",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "lawyers melbourne fl",
+      "clicks": 1,
+      "impressions": 90,
+      "ctr": 0.011111111111111112,
+      "position": 2
+    },
+    {
+      "query": "lawyers near me",
+      "clicks": 1,
+      "impressions": 22,
+      "ctr": 0.045454545454545456,
+      "position": 2.1363636363636367
+    },
+    {
+      "query": "los estados mas peligrosos de estados unidos",
+      "clicks": 1,
+      "impressions": 40,
+      "ctr": 0.025,
+      "position": 11.75
+    },
+    {
+      "query": "los estados más peligrosos de estados unidos",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 5.555555555555555
+    },
+    {
+      "query": "lyft accident lawyers in malabar",
+      "clicks": 1,
+      "impressions": 78,
+      "ctr": 0.01282051282051282,
+      "position": 14.051282051282051
+    },
+    {
+      "query": "medical malpractice attorneys",
+      "clicks": 1,
+      "impressions": 245,
+      "ctr": 0.004081632653061225,
+      "position": 1.9020408163265308
+    },
+    {
+      "query": "medical malpractice lawyer",
+      "clicks": 1,
+      "impressions": 1098,
+      "ctr": 0.0009107468123861566,
+      "position": 1.4726775956284153
+    },
+    {
+      "query": "melbourne fl weather",
+      "clicks": 1,
+      "impressions": 23,
+      "ctr": 0.043478260869565216,
+      "position": 3.4782608695652173
+    },
+    {
+      "query": "melbourne florida weather",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 3
+    },
+    {
+      "query": "melbourne in florida",
+      "clicks": 1,
+      "impressions": 48,
+      "ctr": 0.020833333333333332,
+      "position": 20.541666666666668
+    },
+    {
+      "query": "melbourne personal injury attorney",
+      "clicks": 1,
+      "impressions": 949,
+      "ctr": 0.001053740779768177,
+      "position": 15.539515279241307
+    },
+    {
+      "query": "melbourne personal injury lawyer",
+      "clicks": 1,
+      "impressions": 2048,
+      "ctr": 0.00048828125,
+      "position": 8.93310546875
+    },
+    {
+      "query": "melbourne, florida",
+      "clicks": 1,
+      "impressions": 214,
+      "ctr": 0.004672897196261682,
+      "position": 7.957943925233645
+    },
+    {
+      "query": "mental health lawyers near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "motion to fire attorney",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 24
+    },
+    {
+      "query": "negligence attorney",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 13
+    },
+    {
+      "query": "parking lot door ding law florida",
+      "clicks": 1,
+      "impressions": 26,
+      "ctr": 0.038461538461538464,
+      "position": 6.8076923076923075
+    },
+    {
+      "query": "pearl at viera",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 5
+    },
+    {
+      "query": "personal injury accident attorney",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 24
+    },
+    {
+      "query": "personal injury attorney melbourne fl",
+      "clicks": 1,
+      "impressions": 660,
+      "ctr": 0.0015151515151515152,
+      "position": 10.498484848484848
+    },
+    {
+      "query": "personal injury law firm",
+      "clicks": 1,
+      "impressions": 182,
+      "ctr": 0.005494505494505495,
+      "position": 17.626373626373628
+    },
+    {
+      "query": "personal injury lawyer melbourne fl",
+      "clicks": 1,
+      "impressions": 930,
+      "ctr": 0.001075268817204301,
+      "position": 17.548387096774192
+    },
+    {
+      "query": "personal injury lawyer near me",
+      "clicks": 1,
+      "impressions": 836,
+      "ctr": 0.0011961722488038277,
+      "position": 13.389952153110048
+    },
+    {
+      "query": "picket law",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 5.833333333333333
+    },
+    {
+      "query": "property lawyers near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "que hacer cuando te demandan por abuso",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 32.5
+    },
+    {
+      "query": "real estate lawyer near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 11
+    },
+    {
+      "query": "repo attorney",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "serious bodily injury florida",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 19
+    },
+    {
+      "query": "sexual assault and rape difference",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 33.666666666666664
+    },
+    {
+      "query": "starbucks melbourne fl",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "supreme title melbourne",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "tenants rights in florida",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "thrift stores melbourne, fl",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3
+    },
+    {
+      "query": "titusville attorneys",
+      "clicks": 1,
+      "impressions": 42,
+      "ctr": 0.023809523809523808,
+      "position": 1.0238095238095237
+    },
+    {
+      "query": "traffic attorneys near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 1
+    },
+    {
+      "query": "true value melbourne fl",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "typical car accident settlement amounts no injury",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 58.5
+    },
+    {
+      "query": "weather for melbourne fl",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "weather in melbourne florida",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 2.928571428571429
+    },
+    {
+      "query": "what does contingency basis mean",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 16.733333333333334
+    },
+    {
+      "query": "what does eau gallie mean",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "what is the population in melbourne florida",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "what time is sunset melbourne fl",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 2
+    },
+    {
+      "query": "why do i keep failing my driving test",
+      "clicks": 1,
+      "impressions": 36,
+      "ctr": 0.027777777777777776,
+      "position": 7.444444444444445
+    },
+    {
+      "query": "will cops come to your house for a hit and run",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 57.666666666666664
+    },
+    {
+      "query": "will trust attorney near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "worker comp lawyers",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "worker comp lawyers near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "workers comp lawyers melbourne",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "workers compensation lawyer melbourne",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 1
+    },
+    {
+      "query": "workmans comp attorneys near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "workplace lawyers",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "\"andrew pickett law melbourne\" \"32901\"",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 11.875
+    },
+    {
+      "query": "\"andrew pickett law melbourne\" \"927 e new haven ave #201\"",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "\"andrew pickett law melbourne\" \"melbourne\"",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 12.7
+    },
+    {
+      "query": "\"best injury lawyers\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"best personal injury lawyer",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 5.5
+    },
+    {
+      "query": "\"best settlements\" \"truck accident\" or \"semi-truck crash\" law firm",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "\"david gorewitz pa\" \"melbourne\"",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "\"hampton inn melbourne\" florida",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "\"hilton garden inn\" melbourne florida",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "\"lesion grave\"",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 7.75
+    },
+    {
+      "query": "\"morgan & morgan\" \"32796\"",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 48.75
+    },
+    {
+      "query": "\"morgan & morgan\" \"32901\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 46
+    },
+    {
+      "query": "\"ncsc\" \"2024\" \"time to disposition\" civil or \"case processing\" \"state courts\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "\"officially named\" july 1899 landmark",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "\"personal inujury lawyers\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"pickett fellowship\" \"planning firm\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "\"pllc\" scholarship attorney site:.com inurl:scholarship",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 197
+    },
+    {
+      "query": "\"pllc\" scholarship lawyer site:.com inurl:scholarship",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 193
+    },
+    {
+      "query": "\"rearview mirror\" \"316.2004\" florida",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 8.8
+    },
+    {
+      "query": "#melbourn",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "#melbournebeachflorida latest",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "#melbournefl latest",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "$5,000 scholarship law firm site:.com inurl:scholarship",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "'abogados para casos de muerte por negligencia'",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "+auto +accident +legal",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "+auto +injury +attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "+florida +auto +accident +attorneys +near +me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 37
+    },
+    {
+      "query": "+motorcycle +accident +lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "+workers +compensation +lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "-site:facebook.com -site:fb.me -site:youtube.com -site:youtu.be -site:youtube.be -site:twitter.com -site:instagram.com -site:tiktok.com -site:vm.tiktok.com -site:t.co -site:x.com -site:reddit.com \"sexual abuse\" +\"lawyer\"",
+      "clicks": 0,
+      "impressions": 36,
+      "ctr": 0,
+      "position": 44.02777777777778
+    },
+    {
+      "query": "1 in 5 sexually assaulted myth",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 68.71428571428571
+    },
+    {
+      "query": "10 causas de accidentes de transito",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 80
+    },
+    {
+      "query": "10 day forecast melbourne fl",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "10 most common reasons for failing driving test",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "10 most common reasons people fail driving test",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "18 wheeler accident attorney",
+      "clicks": 0,
+      "impressions": 49,
+      "ctr": 0,
+      "position": 33.265306122448976
+    },
+    {
+      "query": "18 wheeler accident attorney florida",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 76
+    },
+    {
+      "query": "18 wheeler accident attorney melbourne",
+      "clicks": 0,
+      "impressions": 48,
+      "ctr": 0,
+      "position": 4.125
+    },
+    {
+      "query": "18 wheeler accident attorney near me",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 7.375
+    },
+    {
+      "query": "18 wheeler accident attorneys",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 56.333333333333336
+    },
+    {
+      "query": "18 wheeler accident lawyer",
+      "clicks": 0,
+      "impressions": 40,
+      "ctr": 0,
+      "position": 24.725
     }
   ],
   "topPages": [
     {
       "page": "https://www.andrewpickettlaw.com/",
-      "clicks": 350,
-      "impressions": 41232,
-      "ctr": 0.008488552580519984,
-      "position": 34.622526193247964
-    },
-    {
-      "page": "https://www.andrewpickettlaw.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing-melbourne",
-      "clicks": 164,
-      "impressions": 111020,
-      "ctr": 0.001477211313276887,
-      "position": 3.0911817690506216
+      "clicks": 363,
+      "impressions": 42221,
+      "ctr": 0.008597617299448142,
+      "position": 34.67622746974254
     },
     {
       "page": "https://www.andrewpickettlaw.com/melbourne/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing-melbourne",
-      "clicks": 106,
-      "impressions": 74423,
-      "ctr": 0.0014242908778200288,
-      "position": 3.1702968168442553
+      "clicks": 178,
+      "impressions": 110336,
+      "ctr": 0.001613254060324826,
+      "position": 3.172065327726218
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing-melbourne",
+      "clicks": 92,
+      "impressions": 69518,
+      "ctr": 0.0013233982565666446,
+      "position": 2.920711182715268
     },
     {
       "page": "https://www.andrewpickettlaw.com/famous-people-from-melbourne-fl/",
       "clicks": 82,
-      "impressions": 7297,
-      "ctr": 0.011237494860901741,
-      "position": 4.447581197752501
+      "impressions": 7222,
+      "ctr": 0.011354195513708113,
+      "position": 4.552201606203267
     },
     {
       "page": "https://www.andrewpickettlaw.com/about/",
-      "clicks": 61,
-      "impressions": 4673,
-      "ctr": 0.013053712818317997,
-      "position": 9.262358228118982
+      "clicks": 76,
+      "impressions": 5036,
+      "ctr": 0.015091342335186657,
+      "position": 9.381056393963464
     },
     {
       "page": "https://www.andrewpickettlaw.com/titusville/",
-      "clicks": 58,
-      "impressions": 54085,
-      "ctr": 0.0010723860589812334,
-      "position": 9.762928723305908
+      "clicks": 70,
+      "impressions": 66996,
+      "ctr": 0.0010448384978207655,
+      "position": 8.53804704758493
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/scholarship/",
+      "clicks": 46,
+      "impressions": 182,
+      "ctr": 0.25274725274725274,
+      "position": 34.285714285714285
     },
     {
       "page": "https://www.andrewpickettlaw.com/history-of-melbourne-fl/",
-      "clicks": 57,
-      "impressions": 16963,
-      "ctr": 0.0033602546719330305,
-      "position": 8.769557271709013
+      "clicks": 39,
+      "impressions": 14159,
+      "ctr": 0.0027544318101560845,
+      "position": 9.588318384066671
     },
     {
       "page": "https://www.andrewpickettlaw.com/es/blog/cual-es-la-pena-por-matar-a-alguien-en-un-accidente-de-trafico-en-florida/",
-      "clicks": 42,
-      "impressions": 5497,
-      "ctr": 0.007640531198835728,
-      "position": 7.627615062761507
+      "clicks": 35,
+      "impressions": 4999,
+      "ctr": 0.007001400280056011,
+      "position": 6.084616923384677
     },
     {
       "page": "https://www.andrewpickettlaw.com/blog/can-you-sue-for-emotional-distress-in-florida/",
       "clicks": 34,
-      "impressions": 2977,
-      "ctr": 0.011420893516963387,
-      "position": 26.521330198186092
-    },
-    {
-      "page": "https://www.andrewpickettlaw.com/scholarship/",
-      "clicks": 25,
-      "impressions": 132,
-      "ctr": 0.1893939393939394,
-      "position": 44.833333333333336
-    },
-    {
-      "page": "https://www.andrewpickettlaw.com/safe-ride/",
-      "clicks": 24,
-      "impressions": 342,
-      "ctr": 0.07017543859649122,
-      "position": 11.090643274853802
-    },
-    {
-      "page": "https://www.andrewpickettlaw.com/personal-injury-lawyer-titusville/",
-      "clicks": 23,
-      "impressions": 18783,
-      "ctr": 0.0012245115263802375,
-      "position": 2.53255603471224
-    },
-    {
-      "page": "https://www.andrewpickettlaw.com/blog/how-long-does-a-civil-lawsuit-take-in-florida/",
-      "clicks": 18,
-      "impressions": 4313,
-      "ctr": 0.004173429167632739,
-      "position": 15.100626014375145
-    },
-    {
-      "page": "https://www.andrewpickettlaw.com/blog/can-you-ride-in-the-bed-of-a-truck-in-florida/",
-      "clicks": 17,
-      "impressions": 8881,
-      "ctr": 0.0019141988514806891,
-      "position": 12.461772322936607
-    },
-    {
-      "page": "https://www.andrewpickettlaw.com/blog/what-is-the-graves-amendment-in-florida/",
-      "clicks": 15,
-      "impressions": 1174,
-      "ctr": 0.012776831345826235,
-      "position": 16.347529812606474
+      "impressions": 2462,
+      "ctr": 0.01380991064175467,
+      "position": 25.511372867587326
     },
     {
       "page": "https://www.andrewpickettlaw.com/es/preguntas-frecuentes/indemnizacion-promedio-por-lesion-de-rodilla/",
-      "clicks": 15,
-      "impressions": 1501,
-      "ctr": 0.009993337774816789,
-      "position": 4.0726182544970015
-    },
-    {
-      "page": "https://www.andrewpickettlaw.com/blog/can-a-personal-injury-settlement-be-garnished-in-florida/",
-      "clicks": 14,
-      "impressions": 919,
-      "ctr": 0.015233949945593036,
-      "position": 18.990206746463546
-    },
-    {
-      "page": "https://www.andrewpickettlaw.com/blog/florida-child-car-seat-laws/",
-      "clicks": 14,
-      "impressions": 6286,
-      "ctr": 0.0022271714922048997,
-      "position": 24.947661469933184
-    },
-    {
-      "page": "https://www.andrewpickettlaw.com/es/blog/cuanto-puede-demandar-alguien-por-abuso-sexual-en-el-lugar-de-trabajo/",
-      "clicks": 14,
-      "impressions": 2670,
-      "ctr": 0.0052434456928838954,
-      "position": 5.370411985018727
-    },
-    {
-      "page": "https://www.andrewpickettlaw.com/blog/florida-dash-cam-laws/",
-      "clicks": 13,
-      "impressions": 3787,
-      "ctr": 0.003432796408766834,
-      "position": 24.93187219434909
-    },
-    {
-      "page": "https://www.andrewpickettlaw.com/blog/can-child-support-take-my-personal-injury-settlement-in-florida/",
-      "clicks": 12,
-      "impressions": 1810,
-      "ctr": 0.0066298342541436465,
-      "position": 12.617127071823205
+      "clicks": 17,
+      "impressions": 1578,
+      "ctr": 0.010773130544993664,
+      "position": 3.9721166032953104
     },
     {
       "page": "https://www.andrewpickettlaw.com/es/blog/leyes-de-asientos-para-ninos-en-florida/",
-      "clicks": 12,
-      "impressions": 2898,
-      "ctr": 0.004140786749482402,
-      "position": 7.5521048999309865
+      "clicks": 14,
+      "impressions": 2907,
+      "ctr": 0.004815961472308222,
+      "position": 7.318541451668387
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/how-long-does-a-civil-lawsuit-take-in-florida/",
+      "clicks": 13,
+      "impressions": 3901,
+      "ctr": 0.0033324788515765188,
+      "position": 15.942578825942066
     },
     {
       "page": "https://www.andrewpickettlaw.com/blog/how-to-fire-an-attorney-in-florida/",
+      "clicks": 13,
+      "impressions": 2033,
+      "ctr": 0.006394490900147565,
+      "position": 23.892277422528284
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/what-is-the-graves-amendment-in-florida/",
+      "clicks": 13,
+      "impressions": 1132,
+      "ctr": 0.011484098939929329,
+      "position": 16.15989399293286
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/es/blog/cuanto-puede-demandar-alguien-por-abuso-sexual-en-el-lugar-de-trabajo/",
+      "clicks": 12,
+      "impressions": 2317,
+      "ctr": 0.005179110919292188,
+      "position": 5.229607250755287
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/personal-injury-lawyer-titusville/",
+      "clicks": 12,
+      "impressions": 5759,
+      "ctr": 0.0020836950859524223,
+      "position": 2.5935058169821152
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/can-a-personal-injury-settlement-be-garnished-in-florida/",
       "clicks": 11,
-      "impressions": 2051,
-      "ctr": 0.005363237445148708,
-      "position": 24.95465626523647
+      "impressions": 1002,
+      "ctr": 0.010978043912175649,
+      "position": 17.993013972055888
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/florida-child-car-seat-laws/",
+      "clicks": 11,
+      "impressions": 6208,
+      "ctr": 0.0017719072164948454,
+      "position": 28.261920103092784
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/how-much-can-someone-sue-for-sexual-abuse-in-the-workplace/",
+      "clicks": 11,
+      "impressions": 1065,
+      "ctr": 0.010328638497652582,
+      "position": 22.656338028169014
     },
     {
       "page": "https://www.andrewpickettlaw.com/blog/what-are-floridas-golf-cart-laws/",
       "clicks": 11,
-      "impressions": 8987,
-      "ctr": 0.0012239902080783353,
-      "position": 33.76310225881829
+      "impressions": 8094,
+      "ctr": 0.0013590313812700766,
+      "position": 36.07882382011366
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/can-child-support-take-my-personal-injury-settlement-in-florida/",
+      "clicks": 10,
+      "impressions": 1786,
+      "ctr": 0.005599104143337066,
+      "position": 12.277715565509519
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/florida-dash-cam-laws/",
+      "clicks": 10,
+      "impressions": 3810,
+      "ctr": 0.0026246719160104987,
+      "position": 22.618372703412074
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/can-you-ride-in-the-bed-of-a-truck-in-florida/",
+      "clicks": 9,
+      "impressions": 6188,
+      "ctr": 0.0014544279250161603,
+      "position": 13.449741435035552
     },
     {
       "page": "https://www.andrewpickettlaw.com/blog/what-is-the-punishment-for-killing-someone-in-a-car-accident-in-florida/",
-      "clicks": 10,
-      "impressions": 1842,
-      "ctr": 0.0054288816503800215,
-      "position": 31.720412595005428
+      "clicks": 9,
+      "impressions": 1751,
+      "ctr": 0.005139920045688178,
+      "position": 32.3061107938321
     },
     {
       "page": "https://www.andrewpickettlaw.com/es/blog/puedo-perder-mi-casa-debido-a-un-accidente-automovilistico-culposo-en-florida/",
       "clicks": 9,
-      "impressions": 179,
-      "ctr": 0.05027932960893855,
-      "position": 4.46927374301676
+      "impressions": 171,
+      "ctr": 0.05263157894736842,
+      "position": 5.912280701754386
     },
     {
       "page": "https://www.andrewpickettlaw.com/andrew-pickett-law-secures-9075000-usd-verdict/",
       "clicks": 8,
-      "impressions": 236,
-      "ctr": 0.03389830508474576,
-      "position": 6.033898305084746
+      "impressions": 291,
+      "ctr": 0.027491408934707903,
+      "position": 5.680412371134021
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/reasons-for-failing-a-driving-test/",
+      "clicks": 8,
+      "impressions": 6594,
+      "ctr": 0.001213224143160449,
+      "position": 4.001819836214741
     },
     {
       "page": "https://www.andrewpickettlaw.com/faqs/is-there-a-difference-between-sexual-assault-and-rape-under-florida-law/",
       "clicks": 8,
-      "impressions": 1969,
-      "ctr": 0.004062976130015236,
-      "position": 42.5459624174708
+      "impressions": 1932,
+      "ctr": 0.004140786749482402,
+      "position": 40.768115942028984
     },
     {
       "page": "https://www.andrewpickettlaw.com/blog/is-jaywalking-illegal-in-florida/",
       "clicks": 7,
-      "impressions": 5518,
-      "ctr": 0.0012685755708590069,
-      "position": 19.541681768756796
-    },
-    {
-      "page": "https://www.andrewpickettlaw.com/blog/how-much-can-someone-sue-for-sexual-abuse-in-the-workplace/",
-      "clicks": 6,
-      "impressions": 968,
-      "ctr": 0.006198347107438017,
-      "position": 25.47830578512397
-    },
-    {
-      "page": "https://www.andrewpickettlaw.com/blog/why-a-lawyer-wont-take-your-car-accident-case/",
-      "clicks": 6,
-      "impressions": 655,
-      "ctr": 0.00916030534351145,
-      "position": 4.1618320610687025
+      "impressions": 5165,
+      "ctr": 0.0013552758954501452,
+      "position": 17.69215876089061
     },
     {
       "page": "https://www.andrewpickettlaw.com/case-results/",
-      "clicks": 6,
-      "impressions": 1511,
-      "ctr": 0.003970880211780278,
-      "position": 5.035737921906023
+      "clicks": 7,
+      "impressions": 1352,
+      "ctr": 0.005177514792899409,
+      "position": 5.784763313609467
     },
     {
-      "page": "https://www.andrewpickettlaw.com/blog/reasons-for-failing-a-driving-test/",
+      "page": "https://www.andrewpickettlaw.com/blog/what-is-negligence-per-se-in-florida/",
+      "clicks": 6,
+      "impressions": 1105,
+      "ctr": 0.005429864253393665,
+      "position": 28
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/florida-parking-lot-accident-laws/",
       "clicks": 5,
-      "impressions": 4358,
-      "ctr": 0.0011473152822395595,
-      "position": 5.612436897659477
+      "impressions": 1153,
+      "ctr": 0.004336513443191674,
+      "position": 36.69210754553339
     },
     {
       "page": "https://www.andrewpickettlaw.com/blog/sexual-abuse-in-the-workplace/",
       "clicks": 5,
-      "impressions": 421,
-      "ctr": 0.011876484560570071,
-      "position": 10.08313539192399
-    },
-    {
-      "page": "https://www.andrewpickettlaw.com/blog/what-is-negligence-per-se-in-florida/",
-      "clicks": 5,
-      "impressions": 1129,
-      "ctr": 0.0044286979627989375,
-      "position": 27.850310008857395
+      "impressions": 411,
+      "ctr": 0.012165450121654502,
+      "position": 10.94647201946472
     },
     {
       "page": "https://www.andrewpickettlaw.com/es/blog/como-funciona-el-derecho-de-paso-en-florida-en-caso-de-accidentes/",
       "clicks": 5,
-      "impressions": 528,
-      "ctr": 0.00946969696969697,
-      "position": 7.232954545454546
+      "impressions": 737,
+      "ctr": 0.0067842605156037995,
+      "position": 6.0379918588873815
     },
     {
       "page": "https://www.andrewpickettlaw.com/es/blog/cual-es-la-ley-de-telefonos-celulares-en-florida/",
       "clicks": 5,
-      "impressions": 984,
-      "ctr": 0.00508130081300813,
-      "position": 3.5030487804878048
+      "impressions": 853,
+      "ctr": 0.005861664712778429,
+      "position": 3.2180539273153577
     },
     {
-      "page": "https://www.andrewpickettlaw.com/es/blog/cuanto-tiempo-tarda-una-demanda-civil-en-florida/",
+      "page": "https://www.andrewpickettlaw.com/es/blog/leyes-de-camaras-de-salpicadero-en-florida/",
       "clicks": 5,
-      "impressions": 384,
-      "ctr": 0.013020833333333334,
-      "position": 2.997395833333333
+      "impressions": 563,
+      "ctr": 0.008880994671403197,
+      "position": 5.486678507992895
     },
     {
-      "page": "https://www.andrewpickettlaw.com/blog/florida-parking-lot-accident-laws/",
-      "clicks": 4,
-      "impressions": 1272,
-      "ctr": 0.0031446540880503146,
-      "position": 37.67767295597484
-    },
-    {
-      "page": "https://www.andrewpickettlaw.com/blog/how-much-can-a-lawyer-charge-in-a-wrongful-death-lawsuit/",
-      "clicks": 4,
-      "impressions": 542,
-      "ctr": 0.007380073800738007,
-      "position": 15.79889298892989
-    },
-    {
-      "page": "https://www.andrewpickettlaw.com/blog/what-constitutes-sexual-assault-in-florida/",
-      "clicks": 4,
-      "impressions": 559,
-      "ctr": 0.007155635062611807,
-      "position": 29.44901610017889
-    },
-    {
-      "page": "https://www.andrewpickettlaw.com/blog/what-kind-of-tort-is-a-serious-car-accident/",
-      "clicks": 4,
-      "impressions": 722,
-      "ctr": 0.00554016620498615,
-      "position": 28.58448753462604
+      "page": "https://www.andrewpickettlaw.com/es/blog/razones-comunes-para-reprobar-un-examen-de-manejo-en-el-dmv/",
+      "clicks": 5,
+      "impressions": 3895,
+      "ctr": 0.0012836970474967907,
+      "position": 1.8854942233632863
     },
     {
       "page": "https://www.andrewpickettlaw.com/blog/who-insures-golf-carts-in-florida/",
       "clicks": 4,
-      "impressions": 10681,
-      "ctr": 0.00037449676996535904,
-      "position": 46.26879505664264
+      "impressions": 10078,
+      "ctr": 0.00039690414764834294,
+      "position": 43.90256003175233
     },
     {
-      "page": "https://www.andrewpickettlaw.com/es/blog/leyes-de-camaras-de-salpicadero-en-florida/",
+      "page": "https://www.andrewpickettlaw.com/blog/why-a-lawyer-wont-take-your-car-accident-case/",
       "clicks": 4,
-      "impressions": 508,
-      "ctr": 0.007874015748031496,
-      "position": 5.641732283464567
+      "impressions": 671,
+      "ctr": 0.005961251862891207,
+      "position": 4.028315946348734
     },
     {
-      "page": "https://www.andrewpickettlaw.com/es/blog/razones-comunes-para-reprobar-un-examen-de-manejo-en-el-dmv/",
+      "page": "https://www.andrewpickettlaw.com/es/blog/cuanto-tiempo-tarda-una-demanda-civil-en-florida/",
       "clicks": 4,
-      "impressions": 3283,
-      "ctr": 0.0012183978068839476,
-      "position": 2.1455985379226314
+      "impressions": 293,
+      "ctr": 0.013651877133105802,
+      "position": 3.255972696245734
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/malabar/",
+      "clicks": 4,
+      "impressions": 1619,
+      "ctr": 0.0024706609017912293,
+      "position": 12.89005558987029
     },
     {
       "page": "https://www.andrewpickettlaw.com/areas-we-serve/",
       "clicks": 3,
-      "impressions": 1908,
-      "ctr": 0.0015723270440251573,
-      "position": 7.082285115303983
+      "impressions": 1859,
+      "ctr": 0.0016137708445400753,
+      "position": 7.121032813340506
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/average-construction-accident-settlements-in-florida/",
+      "clicks": 3,
+      "impressions": 449,
+      "ctr": 0.0066815144766146995,
+      "position": 33.46102449888642
     },
     {
       "page": "https://www.andrewpickettlaw.com/blog/average-payout-for-a-pedestrian-hit-by-a-car-in-florida/",
       "clicks": 3,
-      "impressions": 1580,
-      "ctr": 0.0018987341772151898,
-      "position": 48.198101265822785
+      "impressions": 1428,
+      "ctr": 0.0021008403361344537,
+      "position": 43.48809523809524
     },
     {
-      "page": "https://www.andrewpickettlaw.com/blog/average-settlement-for-back-injury-at-work-in-florida/",
+      "page": "https://www.andrewpickettlaw.com/blog/can-i-lose-my-house-due-to-at-fault-car-accident-in-florida/",
       "clicks": 3,
-      "impressions": 1300,
-      "ctr": 0.002307692307692308,
-      "position": 47.05307692307692
+      "impressions": 1267,
+      "ctr": 0.0023677979479084454,
+      "position": 31.049723756906076
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/collateral-source-rule-in-florida/",
+      "clicks": 3,
+      "impressions": 406,
+      "ctr": 0.007389162561576354,
+      "position": 12.344827586206897
     },
     {
       "page": "https://www.andrewpickettlaw.com/blog/florida-dog-bite-laws/",
       "clicks": 3,
-      "impressions": 617,
-      "ctr": 0.004862236628849271,
-      "position": 44.60940032414911
+      "impressions": 588,
+      "ctr": 0.00510204081632653,
+      "position": 48.72959183673469
+    },
+    {
+      "page": "https://www.andrewpickettlaw.com/blog/how-much-can-a-lawyer-charge-in-a-wrongful-death-lawsuit/",
+      "clicks": 3,
+      "impressions": 560,
+      "ctr": 0.005357142857142857,
+      "position": 16.041071428571428
     },
     {
       "page": "https://www.andrewpickettlaw.com/blog/how-much-to-ask-for-in-a-personal-injury-settlement/",
       "clicks": 3,
-      "impressions": 565,
-      "ctr": 0.005309734513274336,
-      "position": 31.461946902654866
+      "impressions": 545,
+      "ctr": 0.005504587155963303,
+      "position": 30.83119266055046
     }
   ],
-  "fetchedAt": "2026-03-18T13:07:30.127Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "andrew pickett law",
+      "clicks": 290,
+      "impressions": 672,
+      "ctr": 0.43154761904761907,
+      "position": 1.0223214285714286
+    },
+    {
+      "query": "andrew pickett",
+      "clicks": 55,
+      "impressions": 551,
+      "ctr": 0.0998185117967332,
+      "position": 1.5843920145190564
+    },
+    {
+      "query": "is florida a no fault state",
+      "clicks": 47,
+      "impressions": 8133,
+      "ctr": 0.00577892536579368,
+      "position": 7.115209639739334
+    },
+    {
+      "query": "palm bay motorcycle accident lawyer",
+      "clicks": 46,
+      "impressions": 564,
+      "ctr": 0.08156028368794327,
+      "position": 2.578014184397163
+    },
+    {
+      "query": "do you need a license to drive a golf cart",
+      "clicks": 32,
+      "impressions": 839,
+      "ctr": 0.03814064362336114,
+      "position": 41.63170441001192
+    },
+    {
+      "query": "melbourne fl fatal car accident lawyer",
+      "clicks": 30,
+      "impressions": 291,
+      "ctr": 0.10309278350515463,
+      "position": 3.642611683848797
+    },
+    {
+      "query": "do you need a driver's license to drive a golf cart in florida",
+      "clicks": 26,
+      "impressions": 327,
+      "ctr": 0.07951070336391437,
+      "position": 2.1896024464831805
+    },
+    {
+      "query": "no fault state florida",
+      "clicks": 25,
+      "impressions": 2607,
+      "ctr": 0.009589566551591868,
+      "position": 7.675105485232067
+    },
+    {
+      "query": "do you need a driver's license to drive a golf cart",
+      "clicks": 24,
+      "impressions": 541,
+      "ctr": 0.04436229205175601,
+      "position": 37.724584103512015
+    },
+    {
+      "query": "golf cart insurance florida",
+      "clicks": 24,
+      "impressions": 2661,
+      "ctr": 0.009019165727170236,
+      "position": 8.39195791055994
+    },
+    {
+      "query": "florida golf cart laws",
+      "clicks": 23,
+      "impressions": 916,
+      "ctr": 0.025109170305676855,
+      "position": 4.122270742358078
+    },
+    {
+      "query": "can you lose your home in a lawsuit in florida",
+      "clicks": 22,
+      "impressions": 76,
+      "ctr": 0.2894736842105263,
+      "position": 1.5657894736842106
+    },
+    {
+      "query": "cocoa motorcycle accident lawyer",
+      "clicks": 21,
+      "impressions": 135,
+      "ctr": 0.15555555555555556,
+      "position": 2.511111111111111
+    },
+    {
+      "query": "geico golf cart insurance",
+      "clicks": 19,
+      "impressions": 301,
+      "ctr": 0.06312292358803986,
+      "position": 6.714285714285714
+    },
+    {
+      "query": "herniated disc settlement without surgery",
+      "clicks": 16,
+      "impressions": 506,
+      "ctr": 0.03162055335968379,
+      "position": 14.626482213438734
+    },
+    {
+      "query": "slip and fall settlements with surgery in florida",
+      "clicks": 16,
+      "impressions": 562,
+      "ctr": 0.028469750889679714,
+      "position": 6.0711743772241995
+    },
+    {
+      "query": "average slip and fall settlement amounts in florida",
+      "clicks": 15,
+      "impressions": 393,
+      "ctr": 0.03816793893129771,
+      "position": 3.114503816793893
+    },
+    {
+      "query": "graves amendment",
+      "clicks": 15,
+      "impressions": 1201,
+      "ctr": 0.012489592006661115,
+      "position": 6.185678601165695
+    },
+    {
+      "query": "graves amendment florida",
+      "clicks": 15,
+      "impressions": 295,
+      "ctr": 0.05084745762711865,
+      "position": 4.284745762711864
+    },
+    {
+      "query": "florida sexual harassment law",
+      "clicks": 14,
+      "impressions": 92,
+      "ctr": 0.15217391304347827,
+      "position": 1.6739130434782608
+    },
+    {
+      "query": "how much is 2 herniated disc settlement",
+      "clicks": 14,
+      "impressions": 985,
+      "ctr": 0.014213197969543147,
+      "position": 9.67005076142132
+    },
+    {
+      "query": "contingency basis meaning",
+      "clicks": 13,
+      "impressions": 669,
+      "ctr": 0.01943198804185351,
+      "position": 2.5186846038863977
+    },
+    {
+      "query": "do you have to have a driver's license to drive a golf cart",
+      "clicks": 13,
+      "impressions": 89,
+      "ctr": 0.14606741573033707,
+      "position": 3.3820224719101124
+    },
+    {
+      "query": "golf cart rules florida",
+      "clicks": 13,
+      "impressions": 240,
+      "ctr": 0.05416666666666667,
+      "position": 3.5541666666666667
+    },
+    {
+      "query": "how long after a hit and run accident can you be charged in florida",
+      "clicks": 13,
+      "impressions": 558,
+      "ctr": 0.023297491039426525,
+      "position": 5.666666666666667
+    },
+    {
+      "query": "do you need a license to drive a golf cart in florida",
+      "clicks": 12,
+      "impressions": 993,
+      "ctr": 0.012084592145015106,
+      "position": 3.3484390735146023
+    },
+    {
+      "query": "golf cart insurance in florida",
+      "clicks": 12,
+      "impressions": 1488,
+      "ctr": 0.008064516129032258,
+      "position": 8.611559139784946
+    },
+    {
+      "query": "history of melbourne florida",
+      "clicks": 12,
+      "impressions": 88,
+      "ctr": 0.13636363636363635,
+      "position": 1.5568181818181817
+    },
+    {
+      "query": "melbourne fatal car accident lawyer",
+      "clicks": 12,
+      "impressions": 176,
+      "ctr": 0.06818181818181818,
+      "position": 3.840909090909091
+    },
+    {
+      "query": "sexual assault florida",
+      "clicks": 12,
+      "impressions": 136,
+      "ctr": 0.08823529411764706,
+      "position": 5.595588235294118
+    },
+    {
+      "query": "can i lose my house due to at fault car accident in florida",
+      "clicks": 11,
+      "impressions": 526,
+      "ctr": 0.02091254752851711,
+      "position": 1.7490494296577945
+    },
+    {
+      "query": "sexual harassment florida",
+      "clicks": 11,
+      "impressions": 67,
+      "ctr": 0.16417910447761194,
+      "position": 2.2238805970149254
+    },
+    {
+      "query": "andrew picket",
+      "clicks": 10,
+      "impressions": 67,
+      "ctr": 0.14925373134328357,
+      "position": 2.1194029850746268
+    },
+    {
+      "query": "contingency basis",
+      "clicks": 10,
+      "impressions": 1891,
+      "ctr": 0.005288207297726071,
+      "position": 3.8053939714436806
+    },
+    {
+      "query": "rear-end collision settlement florida",
+      "clicks": 10,
+      "impressions": 135,
+      "ctr": 0.07407407407407407,
+      "position": 3.051851851851852
+    },
+    {
+      "query": "who can sue for wrongful death in florida",
+      "clicks": 10,
+      "impressions": 111,
+      "ctr": 0.09009009009009009,
+      "position": 3.2522522522522523
+    },
+    {
+      "query": "who pays for car damage in a no-fault state",
+      "clicks": 10,
+      "impressions": 985,
+      "ctr": 0.01015228426395939,
+      "position": 15.111675126903553
+    },
+    {
+      "query": "can you go to jail for accidentally killing someone in a car accident",
+      "clicks": 9,
+      "impressions": 637,
+      "ctr": 0.0141287284144427,
+      "position": 8.858712715855573
+    },
+    {
+      "query": "contingency basis lawyer",
+      "clicks": 9,
+      "impressions": 1259,
+      "ctr": 0.007148530579825258,
+      "position": 2.566322478157268
+    },
+    {
+      "query": "how long does a civil lawsuit take in florida",
+      "clicks": 9,
+      "impressions": 169,
+      "ctr": 0.05325443786982249,
+      "position": 1.5917159763313609
+    },
+    {
+      "query": "melbourne fl history",
+      "clicks": 9,
+      "impressions": 64,
+      "ctr": 0.140625,
+      "position": 1.4375
+    },
+    {
+      "query": "pickett law",
+      "clicks": 9,
+      "impressions": 113,
+      "ctr": 0.07964601769911504,
+      "position": 9.345132743362832
+    },
+    {
+      "query": "what a landlord cannot do florida",
+      "clicks": 9,
+      "impressions": 44,
+      "ctr": 0.20454545454545456,
+      "position": 2.8863636363636367
+    },
+    {
+      "query": "average payout for pedestrian hit by car in florida",
+      "clicks": 8,
+      "impressions": 276,
+      "ctr": 0.028985507246376812,
+      "position": 2.9746376811594204
+    },
+    {
+      "query": "can i lose my house due to at-fault car accident",
+      "clicks": 8,
+      "impressions": 616,
+      "ctr": 0.012987012987012988,
+      "position": 17.087662337662337
+    },
+    {
+      "query": "do golf carts need license plates in florida",
+      "clicks": 8,
+      "impressions": 182,
+      "ctr": 0.04395604395604396,
+      "position": 3.9835164835164836
+    },
+    {
+      "query": "florida sexual assault laws",
+      "clicks": 8,
+      "impressions": 127,
+      "ctr": 0.06299212598425197,
+      "position": 7.6141732283464565
+    },
+    {
+      "query": "golf cart laws florida",
+      "clicks": 8,
+      "impressions": 102,
+      "ctr": 0.0784313725490196,
+      "position": 3.4019607843137254
+    },
+    {
+      "query": "sexual assault definition florida",
+      "clicks": 8,
+      "impressions": 37,
+      "ctr": 0.21621621621621623,
+      "position": 2.135135135135135
+    },
+    {
+      "query": "traumatic brain injury settlements in florida",
+      "clicks": 8,
+      "impressions": 283,
+      "ctr": 0.028268551236749116,
+      "position": 1.7773851590106007
+    },
+    {
+      "query": "civil suit after criminal conviction",
+      "clicks": 7,
+      "impressions": 77,
+      "ctr": 0.09090909090909091,
+      "position": 5.1688311688311686
+    },
+    {
+      "query": "dog bite law euthanasia florida",
+      "clicks": 7,
+      "impressions": 458,
+      "ctr": 0.015283842794759825,
+      "position": 6
+    },
+    {
+      "query": "florida car seat laws",
+      "clicks": 7,
+      "impressions": 297,
+      "ctr": 0.02356902356902357,
+      "position": 13.178451178451178
+    },
+    {
+      "query": "florida golf cart rules",
+      "clicks": 7,
+      "impressions": 69,
+      "ctr": 0.10144927536231885,
+      "position": 3.318840579710145
+    },
+    {
+      "query": "florida no fault state",
+      "clicks": 7,
+      "impressions": 2006,
+      "ctr": 0.003489531405782652,
+      "position": 9.009471585244267
+    },
+    {
+      "query": "golf cart laws in florida",
+      "clicks": 7,
+      "impressions": 530,
+      "ctr": 0.013207547169811321,
+      "position": 4.337735849056603
+    },
+    {
+      "query": "golf cart rules",
+      "clicks": 7,
+      "impressions": 130,
+      "ctr": 0.05384615384615385,
+      "position": 39.761538461538464
+    },
+    {
+      "query": "how does florida no fault insurance work",
+      "clicks": 7,
+      "impressions": 157,
+      "ctr": 0.044585987261146494,
+      "position": 6.649681528662421
+    },
+    {
+      "query": "how many car accidents per day in florida",
+      "clicks": 7,
+      "impressions": 443,
+      "ctr": 0.01580135440180587,
+      "position": 2.363431151241535
+    },
+    {
+      "query": "motorcycle accident lawyer cocoa",
+      "clicks": 7,
+      "impressions": 105,
+      "ctr": 0.06666666666666667,
+      "position": 2.4
+    },
+    {
+      "query": "statute of limitations florida sexual assault",
+      "clicks": 7,
+      "impressions": 191,
+      "ctr": 0.03664921465968586,
+      "position": 10.502617801047121
+    },
+    {
+      "query": "why is florida a no fault state",
+      "clicks": 7,
+      "impressions": 358,
+      "ctr": 0.019553072625698324,
+      "position": 4.625698324022347
+    },
+    {
+      "query": "are golf carts street legal in florida",
+      "clicks": 6,
+      "impressions": 1238,
+      "ctr": 0.004846526655896607,
+      "position": 5.026655896607432
+    },
+    {
+      "query": "can you drive a golf cart on the road in florida",
+      "clicks": 6,
+      "impressions": 609,
+      "ctr": 0.009852216748768473,
+      "position": 6.490968801313629
+    },
+    {
+      "query": "contingent basis",
+      "clicks": 6,
+      "impressions": 379,
+      "ctr": 0.0158311345646438,
+      "position": 2.857519788918206
+    },
+    {
+      "query": "do you have to have a license to drive a golf cart",
+      "clicks": 6,
+      "impressions": 106,
+      "ctr": 0.05660377358490566,
+      "position": 3.641509433962264
+    },
+    {
+      "query": "does pip cover car damage",
+      "clicks": 6,
+      "impressions": 347,
+      "ctr": 0.01729106628242075,
+      "position": 12.002881844380404
+    },
+    {
+      "query": "florida car seat laws rear-facing",
+      "clicks": 6,
+      "impressions": 59,
+      "ctr": 0.1016949152542373,
+      "position": 6.5423728813559325
+    },
+    {
+      "query": "golf cart insurance",
+      "clicks": 6,
+      "impressions": 2774,
+      "ctr": 0.0021629416005767843,
+      "position": 46.043619322278296
+    },
+    {
+      "query": "golf cart laws",
+      "clicks": 6,
+      "impressions": 58,
+      "ctr": 0.10344827586206896,
+      "position": 21.948275862068964
+    },
+    {
+      "query": "good samaritan law",
+      "clicks": 6,
+      "impressions": 1306,
+      "ctr": 0.004594180704441042,
+      "position": 14.208269525267994
+    },
+    {
+      "query": "is jaywalking illegal in florida",
+      "clicks": 6,
+      "impressions": 1420,
+      "ctr": 0.004225352112676056,
+      "position": 5.766901408450704
+    },
+    {
+      "query": "pickett law firm",
+      "clicks": 6,
+      "impressions": 86,
+      "ctr": 0.06976744186046512,
+      "position": 7.906976744186046
+    },
+    {
+      "query": "sexual assault florida statute",
+      "clicks": 6,
+      "impressions": 165,
+      "ctr": 0.03636363636363636,
+      "position": 9.254545454545454
+    },
+    {
+      "query": "sexual assault in florida",
+      "clicks": 6,
+      "impressions": 82,
+      "ctr": 0.07317073170731707,
+      "position": 3.9878048780487805
+    },
+    {
+      "query": "what does it mean that florida is a no fault state",
+      "clicks": 6,
+      "impressions": 173,
+      "ctr": 0.03468208092485549,
+      "position": 5.329479768786127
+    },
+    {
+      "query": "what is the average settlement for a back injury workers' comp",
+      "clicks": 6,
+      "impressions": 57,
+      "ctr": 0.10526315789473684,
+      "position": 6.684210526315789
+    },
+    {
+      "query": "will cops come to your house for a hit and run",
+      "clicks": 6,
+      "impressions": 272,
+      "ctr": 0.022058823529411766,
+      "position": 13.128676470588236
+    },
+    {
+      "query": "work on contingency",
+      "clicks": 6,
+      "impressions": 252,
+      "ctr": 0.023809523809523808,
+      "position": 2.5634920634920633
+    },
+    {
+      "query": "back injury settlements",
+      "clicks": 5,
+      "impressions": 36,
+      "ctr": 0.1388888888888889,
+      "position": 20.555555555555557
+    },
+    {
+      "query": "can you drive a golf cart without a license in florida",
+      "clicks": 5,
+      "impressions": 74,
+      "ctr": 0.06756756756756757,
+      "position": 2.391891891891892
+    },
+    {
+      "query": "car accident lawyer vic",
+      "clicks": 5,
+      "impressions": 11,
+      "ctr": 0.45454545454545453,
+      "position": 3
+    },
+    {
+      "query": "do doctors have to report dog bites in florida",
+      "clicks": 5,
+      "impressions": 336,
+      "ctr": 0.01488095238095238,
+      "position": 4.598214285714286
+    },
+    {
+      "query": "do you need a driver's license for a golf cart",
+      "clicks": 5,
+      "impressions": 27,
+      "ctr": 0.18518518518518517,
+      "position": 9.481481481481481
+    },
+    {
+      "query": "florida at fault state",
+      "clicks": 5,
+      "impressions": 254,
+      "ctr": 0.01968503937007874,
+      "position": 5.559055118110236
+    },
+    {
+      "query": "florida collateral source rule",
+      "clicks": 5,
+      "impressions": 223,
+      "ctr": 0.02242152466367713,
+      "position": 11.022421524663677
+    },
+    {
+      "query": "florida dmv golf cart registration",
+      "clicks": 5,
+      "impressions": 212,
+      "ctr": 0.02358490566037736,
+      "position": 7.617924528301887
+    },
+    {
+      "query": "florida good samaritan law",
+      "clicks": 5,
+      "impressions": 618,
+      "ctr": 0.008090614886731391,
+      "position": 10.223300970873787
+    },
+    {
+      "query": "florida no-fault who pays for car damage",
+      "clicks": 5,
+      "impressions": 278,
+      "ctr": 0.017985611510791366,
+      "position": 8.384892086330936
+    },
+    {
+      "query": "how long do you have to report a dog bite",
+      "clicks": 5,
+      "impressions": 48,
+      "ctr": 0.10416666666666667,
+      "position": 21.604166666666668
+    },
+    {
+      "query": "how much can i sue for emotional distress florida",
+      "clicks": 5,
+      "impressions": 447,
+      "ctr": 0.011185682326621925,
+      "position": 3.4876957494407157
+    },
+    {
+      "query": "how much can i sue my landlord for emotional distress",
+      "clicks": 5,
+      "impressions": 209,
+      "ctr": 0.023923444976076555,
+      "position": 8.818181818181818
+    },
+    {
+      "query": "is your home protected in a lawsuit in florida",
+      "clicks": 5,
+      "impressions": 91,
+      "ctr": 0.054945054945054944,
+      "position": 7.021978021978022
+    },
+    {
+      "query": "lawyer contingency basis",
+      "clicks": 5,
+      "impressions": 626,
+      "ctr": 0.007987220447284345,
+      "position": 2.2124600638977636
+    },
+    {
+      "query": "mild traumatic brain injury settlements",
+      "clicks": 5,
+      "impressions": 1404,
+      "ctr": 0.0035612535612535613,
+      "position": 25.30911680911681
+    },
+    {
+      "query": "sexual assault statute of limitations florida",
+      "clicks": 5,
+      "impressions": 76,
+      "ctr": 0.06578947368421052,
+      "position": 7.052631578947368
+    },
+    {
+      "query": "titusville motorcycle accident lawyer",
+      "clicks": 5,
+      "impressions": 249,
+      "ctr": 0.020080321285140562,
+      "position": 1.2289156626506024
+    },
+    {
+      "query": "what does no fault state mean in florida",
+      "clicks": 5,
+      "impressions": 226,
+      "ctr": 0.022123893805309734,
+      "position": 5.628318584070796
+    },
+    {
+      "query": "what happens if you are at fault in a car accident in florida",
+      "clicks": 5,
+      "impressions": 156,
+      "ctr": 0.03205128205128205,
+      "position": 8.346153846153847
+    },
+    {
+      "query": "wrongful death lawsuit florida",
+      "clicks": 5,
+      "impressions": 453,
+      "ctr": 0.011037527593818985,
+      "position": 6.554083885209713
+    },
+    {
+      "query": "are dash cams legal",
+      "clicks": 4,
+      "impressions": 543,
+      "ctr": 0.007366482504604052,
+      "position": 53.42725598526704
+    },
+    {
+      "query": "can you drive a golf cart without a license",
+      "clicks": 4,
+      "impressions": 103,
+      "ctr": 0.038834951456310676,
+      "position": 14.233009708737864
+    },
+    {
+      "query": "can you ride in the bed of a truck in florida",
+      "clicks": 4,
+      "impressions": 288,
+      "ctr": 0.013888888888888888,
+      "position": 4.538194444444445
+    },
+    {
+      "query": "civil case after criminal case",
+      "clicks": 4,
+      "impressions": 42,
+      "ctr": 0.09523809523809523,
+      "position": 8.047619047619047
+    },
+    {
+      "query": "civil lawsuit timeline",
+      "clicks": 4,
+      "impressions": 191,
+      "ctr": 0.020942408376963352,
+      "position": 22.445026178010473
+    },
+    {
+      "query": "contingency based lawyers",
+      "clicks": 4,
+      "impressions": 249,
+      "ctr": 0.01606425702811245,
+      "position": 5.650602409638554
+    },
+    {
+      "query": "contingency lawyer meaning",
+      "clicks": 4,
+      "impressions": 720,
+      "ctr": 0.005555555555555556,
+      "position": 6.526388888888889
+    },
+    {
+      "query": "does florida have a helmet law",
+      "clicks": 4,
+      "impressions": 1113,
+      "ctr": 0.0035938903863432167,
+      "position": 4.74303683737646
+    },
+    {
+      "query": "florida golf cart insurance",
+      "clicks": 4,
+      "impressions": 722,
+      "ctr": 0.00554016620498615,
+      "position": 8.624653739612189
+    },
+    {
+      "query": "florida pedestrian hit by car",
+      "clicks": 4,
+      "impressions": 17,
+      "ctr": 0.23529411764705882,
+      "position": 14.411764705882353
+    },
+    {
+      "query": "how bad does a dog bite have to be to sue",
+      "clicks": 4,
+      "impressions": 299,
+      "ctr": 0.013377926421404682,
+      "position": 10.809364548494983
+    },
+    {
+      "query": "how much does a wrongful death lawsuit cost",
+      "clicks": 4,
+      "impressions": 40,
+      "ctr": 0.1,
+      "position": 2.775
+    },
+    {
+      "query": "how much does steroid injection increase settlement in florida",
+      "clicks": 4,
+      "impressions": 139,
+      "ctr": 0.02877697841726619,
+      "position": 9.841726618705035
+    },
+    {
+      "query": "how to file a harassment complaint?",
+      "clicks": 4,
+      "impressions": 20,
+      "ctr": 0.2,
+      "position": 7.5
+    },
+    {
+      "query": "if someone's dog bites me can i sue",
+      "clicks": 4,
+      "impressions": 174,
+      "ctr": 0.022988505747126436,
+      "position": 6.195402298850575
+    },
+    {
+      "query": "is florida a helmet state",
+      "clicks": 4,
+      "impressions": 440,
+      "ctr": 0.00909090909090909,
+      "position": 4.25
+    },
+    {
+      "query": "is jaywalking illegal",
+      "clicks": 4,
+      "impressions": 739,
+      "ctr": 0.005412719891745603,
+      "position": 14.66576454668471
+    },
+    {
+      "query": "is pip a collateral source in florida",
+      "clicks": 4,
+      "impressions": 68,
+      "ctr": 0.058823529411764705,
+      "position": 2.264705882352941
+    },
+    {
+      "query": "is texting and driving in florida a first or secondary offense?",
+      "clicks": 4,
+      "impressions": 112,
+      "ctr": 0.03571428571428571,
+      "position": 5.133928571428571
+    },
+    {
+      "query": "melbourne florida",
+      "clicks": 4,
+      "impressions": 1227,
+      "ctr": 0.0032599837000814994,
+      "position": 28.95517522412388
+    },
+    {
+      "query": "melbourne florida history",
+      "clicks": 4,
+      "impressions": 55,
+      "ctr": 0.07272727272727272,
+      "position": 1.3272727272727272
+    },
+    {
+      "query": "new golf cart laws in florida",
+      "clicks": 4,
+      "impressions": 537,
+      "ctr": 0.0074487895716946,
+      "position": 9.513966480446927
+    },
+    {
+      "query": "slip and fall settlements",
+      "clicks": 4,
+      "impressions": 5992,
+      "ctr": 0.0006675567423230974,
+      "position": 73.8836782376502
+    },
+    {
+      "query": "unintentional vehicular manslaughter florida",
+      "clicks": 4,
+      "impressions": 185,
+      "ctr": 0.021621621621621623,
+      "position": 5.724324324324324
+    },
+    {
+      "query": "what does no fault mean in florida",
+      "clicks": 4,
+      "impressions": 507,
+      "ctr": 0.007889546351084813,
+      "position": 8.93293885601578
+    },
+    {
+      "query": "what does no fault state mean",
+      "clicks": 4,
+      "impressions": 1585,
+      "ctr": 0.002523659305993691,
+      "position": 27.91545741324921
+    },
+    {
+      "query": "what happens if someone sues you for more than your insurance covers in florida",
+      "clicks": 4,
+      "impressions": 127,
+      "ctr": 0.031496062992125984,
+      "position": 8.637795275590552
+    },
+    {
+      "query": "what makes a golf cart street legal in florida",
+      "clicks": 4,
+      "impressions": 122,
+      "ctr": 0.03278688524590164,
+      "position": 8.770491803278688
+    },
+    {
+      "query": "when did florida became a no-fault state",
+      "clicks": 4,
+      "impressions": 110,
+      "ctr": 0.03636363636363636,
+      "position": 3.1454545454545455
+    },
+    {
+      "query": "automobile torts case",
+      "clicks": 3,
+      "impressions": 786,
+      "ctr": 0.003816793893129771,
+      "position": 4.511450381679389
+    },
+    {
+      "query": "can lawyer get you money from a car accident",
+      "clicks": 3,
+      "impressions": 55,
+      "ctr": 0.05454545454545454,
+      "position": 1.690909090909091
+    },
+    {
+      "query": "can you go to jail for killing someone in a car accident",
+      "clicks": 3,
+      "impressions": 40,
+      "ctr": 0.075,
+      "position": 7.275
+    },
+    {
+      "query": "do i need a driver's license to drive a golf cart",
+      "clicks": 3,
+      "impressions": 20,
+      "ctr": 0.15,
+      "position": 5.7
+    },
+    {
+      "query": "do u need a license to drive a golf cart",
+      "clicks": 3,
+      "impressions": 103,
+      "ctr": 0.02912621359223301,
+      "position": 7.41747572815534
+    },
+    {
+      "query": "do you need license for golf cart",
+      "clicks": 3,
+      "impressions": 37,
+      "ctr": 0.08108108108108109,
+      "position": 19.18918918918919
+    },
+    {
+      "query": "expired handicap golf cart parking villages",
+      "clicks": 3,
+      "impressions": 333,
+      "ctr": 0.009009009009009009,
+      "position": 9.993993993993994
+    },
+    {
+      "query": "filing harassment charges in florida",
+      "clicks": 3,
+      "impressions": 550,
+      "ctr": 0.005454545454545455,
+      "position": 4.772727272727273
+    },
+    {
+      "query": "fl no fault insurance",
+      "clicks": 3,
+      "impressions": 122,
+      "ctr": 0.02459016393442623,
+      "position": 11.163934426229508
+    },
+    {
+      "query": "florida dog bite statute of limitations",
+      "clicks": 3,
+      "impressions": 61,
+      "ctr": 0.04918032786885246,
+      "position": 2.524590163934426
+    },
+    {
+      "query": "florida motorcycle helmet law",
+      "clicks": 3,
+      "impressions": 856,
+      "ctr": 0.0035046728971962616,
+      "position": 10.11448598130841
+    },
+    {
+      "query": "florida no fault law",
+      "clicks": 3,
+      "impressions": 927,
+      "ctr": 0.003236245954692557,
+      "position": 12.758360302049622
+    },
+    {
+      "query": "florida sexual assault statute",
+      "clicks": 3,
+      "impressions": 50,
+      "ctr": 0.06,
+      "position": 7.22
+    },
+    {
+      "query": "florida sexual assault statute of limitations",
+      "clicks": 3,
+      "impressions": 66,
+      "ctr": 0.045454545454545456,
+      "position": 9.803030303030303
+    },
+    {
+      "query": "golf cart florida laws",
+      "clicks": 3,
+      "impressions": 58,
+      "ctr": 0.05172413793103448,
+      "position": 4
+    },
+    {
+      "query": "grade 1 whiplash average payout",
+      "clicks": 3,
+      "impressions": 236,
+      "ctr": 0.012711864406779662,
+      "position": 11.19915254237288
+    },
+    {
+      "query": "graves amendment exceptions",
+      "clicks": 3,
+      "impressions": 113,
+      "ctr": 0.02654867256637168,
+      "position": 4.309734513274336
+    },
+    {
+      "query": "how long do personal injury cases take",
+      "clicks": 3,
+      "impressions": 435,
+      "ctr": 0.006896551724137931,
+      "position": 56.0367816091954
+    },
+    {
+      "query": "how long does a lawsuit take to go to court",
+      "clicks": 3,
+      "impressions": 81,
+      "ctr": 0.037037037037037035,
+      "position": 20.382716049382715
+    },
+    {
+      "query": "how long does civil court take",
+      "clicks": 3,
+      "impressions": 21,
+      "ctr": 0.14285714285714285,
+      "position": 17.952380952380953
+    },
+    {
+      "query": "how long does litigation take for a car accident",
+      "clicks": 3,
+      "impressions": 35,
+      "ctr": 0.08571428571428572,
+      "position": 7.742857142857143
+    },
+    {
+      "query": "how much can child support take from settlement in florida",
+      "clicks": 3,
+      "impressions": 240,
+      "ctr": 0.0125,
+      "position": 8.641666666666666
+    },
+    {
+      "query": "how much can someone sue for a car accident in florida",
+      "clicks": 3,
+      "impressions": 115,
+      "ctr": 0.02608695652173913,
+      "position": 8.808695652173913
+    },
+    {
+      "query": "how much is wrongful death worth",
+      "clicks": 3,
+      "impressions": 73,
+      "ctr": 0.0410958904109589,
+      "position": 4.205479452054794
+    },
+    {
+      "query": "how old do you have to be to drive a golf cart in florida",
+      "clicks": 3,
+      "impressions": 1771,
+      "ctr": 0.0016939582156973462,
+      "position": 4.8565782044042916
+    },
+    {
+      "query": "i got rear-ended how much money will i get",
+      "clicks": 3,
+      "impressions": 725,
+      "ctr": 0.004137931034482759,
+      "position": 20.451034482758622
+    },
+    {
+      "query": "if someone dies in a car accident is it manslaughter",
+      "clicks": 3,
+      "impressions": 30,
+      "ctr": 0.1,
+      "position": 7.233333333333333
+    },
+    {
+      "query": "is fl a no fault state",
+      "clicks": 3,
+      "impressions": 792,
+      "ctr": 0.003787878787878788,
+      "position": 6.457070707070707
+    },
+    {
+      "query": "is florida a no fault state for car insurance",
+      "clicks": 3,
+      "impressions": 408,
+      "ctr": 0.007352941176470588,
+      "position": 6.8161764705882355
+    },
+    {
+      "query": "is florida no fault state",
+      "clicks": 3,
+      "impressions": 738,
+      "ctr": 0.0040650406504065045,
+      "position": 6.453929539295393
+    },
+    {
+      "query": "is jaywalking a crime",
+      "clicks": 3,
+      "impressions": 82,
+      "ctr": 0.036585365853658534,
+      "position": 1.2804878048780488
+    },
+    {
+      "query": "laws on inward facing cameras",
+      "clicks": 3,
+      "impressions": 23,
+      "ctr": 0.13043478260869565,
+      "position": 11.217391304347826
+    },
+    {
+      "query": "lsv insurance florida",
+      "clicks": 3,
+      "impressions": 504,
+      "ctr": 0.005952380952380952,
+      "position": 25.234126984126984
+    },
+    {
+      "query": "no fault insurance",
+      "clicks": 3,
+      "impressions": 22,
+      "ctr": 0.13636363636363635,
+      "position": 19.863636363636363
+    },
+    {
+      "query": "no fault state",
+      "clicks": 3,
+      "impressions": 1204,
+      "ctr": 0.0024916943521594683,
+      "position": 55.8563122923588
+    },
+    {
+      "query": "serious bodily injury florida",
+      "clicks": 3,
+      "impressions": 125,
+      "ctr": 0.024,
+      "position": 5.808
+    },
+    {
+      "query": "slip and fall settlements in florida",
+      "clicks": 3,
+      "impressions": 313,
+      "ctr": 0.009584664536741214,
+      "position": 3.159744408945687
+    },
+    {
+      "query": "slip and fall settlements without surgery in florida",
+      "clicks": 3,
+      "impressions": 82,
+      "ctr": 0.036585365853658534,
+      "position": 11.75609756097561
+    },
+    {
+      "query": "street legal golf cart insurance florida",
+      "clicks": 3,
+      "impressions": 625,
+      "ctr": 0.0048,
+      "position": 9.632
+    },
+    {
+      "query": "what happens if you lose a lawsuit and can't pay in florida",
+      "clicks": 3,
+      "impressions": 115,
+      "ctr": 0.02608695652173913,
+      "position": 6.2956521739130435
+    },
+    {
+      "query": "what is sexual assault in florida",
+      "clicks": 3,
+      "impressions": 53,
+      "ctr": 0.05660377358490566,
+      "position": 2.132075471698113
+    },
+    {
+      "query": "what is the graves amendment",
+      "clicks": 3,
+      "impressions": 69,
+      "ctr": 0.043478260869565216,
+      "position": 8.53623188405797
+    },
+    {
+      "query": "what is the maximum pip coverage in florida",
+      "clicks": 3,
+      "impressions": 51,
+      "ctr": 0.058823529411764705,
+      "position": 5.470588235294118
+    },
+    {
+      "query": "wrongful death settlements",
+      "clicks": 3,
+      "impressions": 2667,
+      "ctr": 0.0011248593925759281,
+      "position": 21.042744656917886
+    },
+    {
+      "query": "3 herniated disc settlement",
+      "clicks": 2,
+      "impressions": 138,
+      "ctr": 0.014492753623188406,
+      "position": 10.195652173913043
+    },
+    {
+      "query": "accident attorney near me",
+      "clicks": 2,
+      "impressions": 224,
+      "ctr": 0.008928571428571428,
+      "position": 2.1517857142857144
+    },
+    {
+      "query": "age to drive a golf cart in florida",
+      "clicks": 2,
+      "impressions": 116,
+      "ctr": 0.017241379310344827,
+      "position": 5.775862068965517
+    },
+    {
+      "query": "andrew pickett law titusville",
+      "clicks": 2,
+      "impressions": 151,
+      "ctr": 0.013245033112582781,
+      "position": 1.794701986754967
+    },
+    {
+      "query": "are dash cams legal in florida",
+      "clicks": 2,
+      "impressions": 95,
+      "ctr": 0.021052631578947368,
+      "position": 6.557894736842106
+    },
+    {
+      "query": "automobile tort",
+      "clicks": 2,
+      "impressions": 812,
+      "ctr": 0.0024630541871921183,
+      "position": 7.033251231527093
+    },
+    {
+      "query": "average payout for pedestrian hit by car",
+      "clicks": 2,
+      "impressions": 330,
+      "ctr": 0.006060606060606061,
+      "position": 28.8
+    },
+    {
+      "query": "average settlement for car accident back and neck injury in florida",
+      "clicks": 2,
+      "impressions": 88,
+      "ctr": 0.022727272727272728,
+      "position": 11.840909090909092
+    },
+    {
+      "query": "average settlement for herniated disc car accident",
+      "clicks": 2,
+      "impressions": 527,
+      "ctr": 0.003795066413662239,
+      "position": 42.41935483870968
+    },
+    {
+      "query": "booster seat laws florida",
+      "clicks": 2,
+      "impressions": 97,
+      "ctr": 0.020618556701030927,
+      "position": 18.896907216494846
+    },
+    {
+      "query": "breaking news melbourne fl today",
+      "clicks": 2,
+      "impressions": 4,
+      "ctr": 0.5,
+      "position": 4.5
+    },
+    {
+      "query": "can a 14-year-old drive a golf cart in florida",
+      "clicks": 2,
+      "impressions": 236,
+      "ctr": 0.00847457627118644,
+      "position": 5.889830508474576
+    },
+    {
+      "query": "can i lose my home in a personal injury lawsuit",
+      "clicks": 2,
+      "impressions": 4,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "can i lose my house due to at fault car accident",
+      "clicks": 2,
+      "impressions": 258,
+      "ctr": 0.007751937984496124,
+      "position": 24.56201550387597
+    },
+    {
+      "query": "can i sue if a dog bites me",
+      "clicks": 2,
+      "impressions": 145,
+      "ctr": 0.013793103448275862,
+      "position": 3.4275862068965517
+    },
+    {
+      "query": "can i sue someone for their dog biting me",
+      "clicks": 2,
+      "impressions": 75,
+      "ctr": 0.02666666666666667,
+      "position": 4.426666666666667
+    },
+    {
+      "query": "can i sue someone if their dog bites me",
+      "clicks": 2,
+      "impressions": 132,
+      "ctr": 0.015151515151515152,
+      "position": 4.659090909090909
+    },
+    {
+      "query": "can you drive a golf cart at 14",
+      "clicks": 2,
+      "impressions": 20,
+      "ctr": 0.1,
+      "position": 17.95
+    },
+    {
+      "query": "can you drive a golf cart with a permit",
+      "clicks": 2,
+      "impressions": 60,
+      "ctr": 0.03333333333333333,
+      "position": 15.016666666666667
+    },
+    {
+      "query": "can you lose your primary residence in a lawsuit",
+      "clicks": 2,
+      "impressions": 9,
+      "ctr": 0.2222222222222222,
+      "position": 4.888888888888889
+    },
+    {
+      "query": "can you sue for a minor dog bite",
+      "clicks": 2,
+      "impressions": 223,
+      "ctr": 0.008968609865470852,
+      "position": 5.771300448430493
+    },
+    {
+      "query": "can you sue for dog bite",
+      "clicks": 2,
+      "impressions": 183,
+      "ctr": 0.01092896174863388,
+      "position": 7.508196721311475
+    },
+    {
+      "query": "can you sue for emotional distress in florida",
+      "clicks": 2,
+      "impressions": 363,
+      "ctr": 0.005509641873278237,
+      "position": 9.50413223140496
+    },
+    {
+      "query": "can you sue for pain and suffering",
+      "clicks": 2,
+      "impressions": 42,
+      "ctr": 0.047619047619047616,
+      "position": 18.952380952380953
+    },
+    {
+      "query": "can you sue for pain and suffering in florida",
+      "clicks": 2,
+      "impressions": 122,
+      "ctr": 0.01639344262295082,
+      "position": 5.475409836065574
+    },
+    {
+      "query": "can you sue if a dog bites you",
+      "clicks": 2,
+      "impressions": 163,
+      "ctr": 0.012269938650306749,
+      "position": 5.024539877300613
+    },
+    {
+      "query": "can you sue someone if their dog bites you",
+      "clicks": 2,
+      "impressions": 628,
+      "ctr": 0.0031847133757961785,
+      "position": 4.770700636942675
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:22:07.542Z"
 }

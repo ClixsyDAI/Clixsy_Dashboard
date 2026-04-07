@@ -1,8 +1,8 @@
 {
   "property": "http://www.hauptman-obrien.net/",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
     "clicks": 0,
@@ -11,146 +11,6 @@
     "position": 0
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
     {
       "date": "2026-01-04",
       "clicks": 0,
@@ -640,9 +500,267 @@
       "impressions": 0,
       "ctr": 0,
       "position": 0
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
     }
   ],
   "topQueries": [],
   "topPages": [],
-  "fetchedAt": "2026-03-18T13:06:55.708Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "hauptman o brien",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "hauptman o'brien",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 3.2
+    },
+    {
+      "query": "hauptman o'brien omaha",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "hauptman o'brien personal injury lawyers",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 4.466666666666667
+    },
+    {
+      "query": "hauptman o'brien personal injury lawyers in omaha",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8.5
+    },
+    {
+      "query": "hauptman o'brien personal injury lawyers in omaha nebraska",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 5.2
+    },
+    {
+      "query": "hauptman o'brien personal injury lawyers omaha",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "hauptman obrien",
+      "clicks": 0,
+      "impressions": 27,
+      "ctr": 0,
+      "position": 4.2592592592592595
+    },
+    {
+      "query": "hauptman obrien personal injury lawyers",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "hauptman obrien personal injury lawyers in omaha",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 5.3076923076923075
+    },
+    {
+      "query": "hauptman obrien personal injury lawyers omaha",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "hauptman, o'brien personal injury lawyers",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 4.230769230769231
+    },
+    {
+      "query": "hauptman, o'brien personal injury lawyers in omaha nebraska",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 5.6
+    },
+    {
+      "query": "hauptman, o'brien personal injury lawyers omaha",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "sarpy",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:21:44.441Z"
 }

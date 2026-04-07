@@ -1,156 +1,16 @@
 {
   "property": "sc-domain:crashteam.com",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 697,
-    "impressions": 211691,
-    "ctr": 0.0032925348739436255,
-    "position": 18.86764161251914
+    "clicks": 801,
+    "impressions": 364332,
+    "ctr": 0.0021985441849741443,
+    "position": 17.135714692649543
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 7,
-      "impressions": 1770,
-      "ctr": 0.0039548022598870055,
-      "position": 20.528813559322035
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 2,
-      "impressions": 1733,
-      "ctr": 0.001154068090017311,
-      "position": 22.603000577034045
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 6,
-      "impressions": 1665,
-      "ctr": 0.0036036036036036037,
-      "position": 20.52852852852853
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 8,
-      "impressions": 2822,
-      "ctr": 0.002834868887313962,
-      "position": 13.547129695251595
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 8,
-      "impressions": 1624,
-      "ctr": 0.0049261083743842365,
-      "position": 22.670566502463053
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 5,
-      "impressions": 1695,
-      "ctr": 0.0029498525073746312,
-      "position": 21.830678466076698
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 10,
-      "impressions": 1831,
-      "ctr": 0.005461496450027308,
-      "position": 22.877662479519387
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 8,
-      "impressions": 1869,
-      "ctr": 0.004280363830925628,
-      "position": 19.878544676297484
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 11,
-      "impressions": 2012,
-      "ctr": 0.0054671968190854875,
-      "position": 22.98807157057654
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 8,
-      "impressions": 1979,
-      "ctr": 0.00404244567963618,
-      "position": 25.20010106114199
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 0,
-      "impressions": 1508,
-      "ctr": 0,
-      "position": 24.53183023872679
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 1,
-      "impressions": 1745,
-      "ctr": 0.0005730659025787965,
-      "position": 19.34383954154728
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 1,
-      "impressions": 1625,
-      "ctr": 0.0006153846153846154,
-      "position": 19.315076923076923
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 7,
-      "impressions": 1734,
-      "ctr": 0.004036908881199538,
-      "position": 19.468281430219147
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 11,
-      "impressions": 5244,
-      "ctr": 0.002097635392829901,
-      "position": 7.037948131197559
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 4,
-      "impressions": 1654,
-      "ctr": 0.0024183796856106408,
-      "position": 19.23700120918984
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 5,
-      "impressions": 1793,
-      "ctr": 0.002788622420524261,
-      "position": 19.51589514779699
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 3,
-      "impressions": 1952,
-      "ctr": 0.0015368852459016393,
-      "position": 17.53688524590164
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 10,
-      "impressions": 1713,
-      "ctr": 0.005837711617046118,
-      "position": 15.467600700525393
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 1,
-      "impressions": 1492,
-      "ctr": 0.0006702412868632708,
-      "position": 16.709785522788202
-    },
     {
       "date": "2026-01-04",
       "clicks": 3,
@@ -640,106 +500,253 @@
       "impressions": 1884,
       "ctr": 0.002653927813163482,
       "position": 12.921974522292993
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 1,
+      "impressions": 6681,
+      "ctr": 0.000149678191887442,
+      "position": 10.89118395449783
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 9,
+      "impressions": 5366,
+      "ctr": 0.0016772269847185985,
+      "position": 12.911852404025344
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 15,
+      "impressions": 5720,
+      "ctr": 0.0026223776223776225,
+      "position": 10.820629370629371
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 13,
+      "impressions": 6447,
+      "ctr": 0.0020164417558554367,
+      "position": 11.93438808748255
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 8,
+      "impressions": 8691,
+      "ctr": 0.0009204924634679554,
+      "position": 12.60062133241284
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 18,
+      "impressions": 8409,
+      "ctr": 0.0021405636817695326,
+      "position": 12.404447615649898
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 7,
+      "impressions": 7346,
+      "ctr": 0.0009528995371630819,
+      "position": 12.527634086577729
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 3,
+      "impressions": 10647,
+      "ctr": 0.0002817695125387433,
+      "position": 11.577345731191885
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 10,
+      "impressions": 11147,
+      "ctr": 0.0008971023593792052,
+      "position": 9.131246075177177
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 16,
+      "impressions": 10397,
+      "ctr": 0.0015389054534962008,
+      "position": 10.995768010002886
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 8,
+      "impressions": 9559,
+      "ctr": 0.0008369076263207448,
+      "position": 11.300868291662308
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 19,
+      "impressions": 11936,
+      "ctr": 0.001591823056300268,
+      "position": 13.579507372654156
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 9,
+      "impressions": 7760,
+      "ctr": 0.0011597938144329897,
+      "position": 12.324742268041238
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 7,
+      "impressions": 7975,
+      "ctr": 0.0008777429467084639,
+      "position": 12.775673981191222
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 11,
+      "impressions": 15976,
+      "ctr": 0.0006885327991987982,
+      "position": 10.451301952929395
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 15,
+      "impressions": 16995,
+      "ctr": 0.00088261253309797,
+      "position": 10.57769932333039
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 16,
+      "impressions": 9596,
+      "ctr": 0.0016673614005835765,
+      "position": 12.04731137974156
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 10,
+      "impressions": 7990,
+      "ctr": 0.0012515644555694619,
+      "position": 12.269086357947435
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 10,
+      "impressions": 8076,
+      "ctr": 0.0012382367508667657,
+      "position": 13.042347696879643
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 9,
+      "impressions": 7190,
+      "ctr": 0.0012517385257301808,
+      "position": 15.176216968011127
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 6,
+      "impressions": 8197,
+      "ctr": 0.0007319751128461632,
+      "position": 12.739660851531047
     }
   ],
   "topQueries": [
     {
       "query": "the crash team",
-      "clicks": 65,
+      "clicks": 79,
       "impressions": 274,
-      "ctr": 0.23722627737226276,
-      "position": 1.5766423357664232
+      "ctr": 0.28832116788321166,
+      "position": 1.718978102189781
     },
     {
       "query": "the galvan law firm",
-      "clicks": 38,
-      "impressions": 164,
-      "ctr": 0.23170731707317074,
-      "position": 1.1158536585365855
+      "clicks": 44,
+      "impressions": 170,
+      "ctr": 0.25882352941176473,
+      "position": 1.1529411764705881
     },
     {
       "query": "galvan law firm",
       "clicks": 33,
-      "impressions": 194,
-      "ctr": 0.17010309278350516,
-      "position": 2.520618556701031
+      "impressions": 200,
+      "ctr": 0.165,
+      "position": 2.51
     },
     {
       "query": "aaron galvan",
-      "clicks": 12,
-      "impressions": 206,
-      "ctr": 0.05825242718446602,
-      "position": 1.970873786407767
-    },
-    {
-      "query": "kevin christiansen",
-      "clicks": 4,
-      "impressions": 240,
-      "ctr": 0.016666666666666666,
-      "position": 4.325
+      "clicks": 16,
+      "impressions": 232,
+      "ctr": 0.06896551724137931,
+      "position": 1.9913793103448276
     },
     {
       "query": "move over law texas",
-      "clicks": 4,
-      "impressions": 395,
-      "ctr": 0.010126582278481013,
-      "position": 3.8430379746835444
+      "clicks": 5,
+      "impressions": 521,
+      "ctr": 0.009596928982725527,
+      "position": 3.049904030710173
     },
     {
       "query": "galvan law",
       "clicks": 3,
-      "impressions": 71,
-      "ctr": 0.04225352112676056,
-      "position": 8.774647887323944
+      "impressions": 87,
+      "ctr": 0.034482758620689655,
+      "position": 8.402298850574713
+    },
+    {
+      "query": "galvan law firm houston",
+      "clicks": 3,
+      "impressions": 7,
+      "ctr": 0.42857142857142855,
+      "position": 1
+    },
+    {
+      "query": "kevin christiansen",
+      "clicks": 3,
+      "impressions": 274,
+      "ctr": 0.010948905109489052,
+      "position": 3.7445255474452557
     },
     {
       "query": "move over or slow down law texas",
       "clicks": 3,
-      "impressions": 104,
-      "ctr": 0.028846153846153848,
-      "position": 5.9326923076923075
+      "impressions": 127,
+      "ctr": 0.023622047244094488,
+      "position": 4.858267716535433
     },
     {
-      "query": "texas slow down move over law",
+      "query": "texas move over law",
       "clicks": 3,
-      "impressions": 126,
-      "ctr": 0.023809523809523808,
-      "position": 4.468253968253968
+      "impressions": 636,
+      "ctr": 0.0047169811320754715,
+      "position": 3.4150943396226414
+    },
+    {
+      "query": "car accident lawyer",
+      "clicks": 2,
+      "impressions": 137198,
+      "ctr": 0.000014577471974810129,
+      "position": 9.17709441828598
     },
     {
       "query": "car accidents lawyers",
       "clicks": 2,
       "impressions": 16,
       "ctr": 0.125,
-      "position": 22
+      "position": 20.75
     },
     {
-      "query": "galvan law firm houston",
+      "query": "texas slow down move over law",
       "clicks": 2,
-      "impressions": 5,
-      "ctr": 0.4,
-      "position": 1
+      "impressions": 110,
+      "ctr": 0.01818181818181818,
+      "position": 4.909090909090909
     },
     {
-      "query": "texas move over law",
-      "clicks": 2,
-      "impressions": 531,
-      "ctr": 0.003766478342749529,
-      "position": 3.749529190207156
-    },
-    {
-      "query": "texas move over slow down law",
-      "clicks": 2,
-      "impressions": 164,
-      "ctr": 0.012195121951219513,
-      "position": 4.597560975609756
-    },
-    {
-      "query": "accident lawyer",
+      "query": "+1 (713) 912-2733",
       "clicks": 1,
-      "impressions": 2179,
-      "ctr": 0.0004589261128958238,
-      "position": 11.538320330426801
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
     },
     {
       "query": "accident reconstruction",
@@ -751,23 +758,16 @@
     {
       "query": "car accident attorneys",
       "clicks": 1,
-      "impressions": 1437,
-      "ctr": 0.0006958942240779402,
-      "position": 14.685455810716771
-    },
-    {
-      "query": "car accident lawyer",
-      "clicks": 1,
-      "impressions": 8550,
-      "ctr": 0.00011695906432748539,
-      "position": 13.188654970760235
+      "impressions": 1581,
+      "ctr": 0.0006325110689437065,
+      "position": 14.326375711574952
     },
     {
       "query": "car accident lawyer sugar land, tx",
       "clicks": 1,
-      "impressions": 2,
-      "ctr": 0.5,
-      "position": 1
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 2.666666666666667
     },
     {
       "query": "car crash injury clinic",
@@ -777,81 +777,88 @@
       "position": 2
     },
     {
+      "query": "crash connect reviews",
+      "clicks": 1,
+      "impressions": 154,
+      "ctr": 0.006493506493506494,
+      "position": 5.1103896103896105
+    },
+    {
       "query": "crashteam",
       "clicks": 1,
       "impressions": 6,
       "ctr": 0.16666666666666666,
-      "position": 8.666666666666668
+      "position": 6.833333333333333
     },
     {
       "query": "failure to move over ticket",
       "clicks": 1,
-      "impressions": 2,
-      "ctr": 0.5,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
       "position": 1
     },
     {
       "query": "galvan law group",
       "clicks": 1,
-      "impressions": 143,
-      "ctr": 0.006993006993006993,
-      "position": 9.090909090909092
+      "impressions": 165,
+      "ctr": 0.006060606060606061,
+      "position": 9.406060606060606
     },
     {
       "query": "galvin law firm",
       "clicks": 1,
-      "impressions": 25,
-      "ctr": 0.04,
-      "position": 7.16
-    },
-    {
-      "query": "jacqueline reyes accident",
-      "clicks": 1,
-      "impressions": 2,
-      "ctr": 0.5,
-      "position": 10
+      "impressions": 26,
+      "ctr": 0.038461538461538464,
+      "position": 5.769230769230769
     },
     {
       "query": "kevin christensen attorney",
       "clicks": 1,
-      "impressions": 11,
-      "ctr": 0.09090909090909091,
-      "position": 3.909090909090909
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 4.9
     },
     {
       "query": "motorcycle accident calculator",
       "clicks": 1,
-      "impressions": 6,
-      "ctr": 0.16666666666666666,
-      "position": 6.333333333333333
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 6.571428571428571
     },
     {
       "query": "motorcycle accident settlement calculator",
       "clicks": 1,
-      "impressions": 652,
-      "ctr": 0.0015337423312883436,
-      "position": 8.661042944785276
+      "impressions": 609,
+      "ctr": 0.0016420361247947454,
+      "position": 9.402298850574713
     },
     {
       "query": "mousavi and associates",
       "clicks": 1,
-      "impressions": 5,
-      "ctr": 0.2,
-      "position": 7.4
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 7.875
+    },
+    {
+      "query": "move over law",
+      "clicks": 1,
+      "impressions": 314,
+      "ctr": 0.0031847133757961785,
+      "position": 3.872611464968153
     },
     {
       "query": "move over law in texas",
       "clicks": 1,
-      "impressions": 39,
-      "ctr": 0.02564102564102564,
-      "position": 4.333333333333334
+      "impressions": 57,
+      "ctr": 0.017543859649122806,
+      "position": 3.3333333333333335
     },
     {
       "query": "move over slow down law",
       "clicks": 1,
-      "impressions": 102,
-      "ctr": 0.00980392156862745,
-      "position": 6.049019607843137
+      "impressions": 50,
+      "ctr": 0.02,
+      "position": 10.02
     },
     {
       "query": "new driving laws in texas 2025",
@@ -863,16 +870,37 @@
     {
       "query": "new texas speeding law",
       "clicks": 1,
-      "impressions": 8,
-      "ctr": 0.125,
-      "position": 1.5
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 1.2857142857142856
     },
     {
-      "query": "slow down move over law",
+      "query": "personal injury attorney houston",
       "clicks": 1,
-      "impressions": 57,
-      "ctr": 0.017543859649122806,
-      "position": 4.052631578947368
+      "impressions": 28,
+      "ctr": 0.03571428571428571,
+      "position": 5.571428571428571
+    },
+    {
+      "query": "personal injury attorney sugar land texas",
+      "clicks": 1,
+      "impressions": 63,
+      "ctr": 0.015873015873015872,
+      "position": 16.238095238095237
+    },
+    {
+      "query": "personal injury lawyers in texas",
+      "clicks": 1,
+      "impressions": 65,
+      "ctr": 0.015384615384615385,
+      "position": 47.815384615384616
+    },
+    {
+      "query": "pi lawyers",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
     },
     {
       "query": "start stop eliminator",
@@ -882,32 +910,53 @@
       "position": 2
     },
     {
+      "query": "sugar land car accident lawyer",
+      "clicks": 1,
+      "impressions": 1767,
+      "ctr": 0.0005659309564233164,
+      "position": 14.269949066213922
+    },
+    {
       "query": "sugar land personal injury lawyer",
       "clicks": 1,
-      "impressions": 1272,
-      "ctr": 0.0007861635220125787,
-      "position": 14.794811320754716
+      "impressions": 1246,
+      "ctr": 0.0008025682182985554,
+      "position": 14.208667736757624
+    },
+    {
+      "query": "sugarland lawyers",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 10.666666666666666
     },
     {
       "query": "texas auto accident lawyers",
       "clicks": 1,
-      "impressions": 537,
-      "ctr": 0.00186219739292365,
-      "position": 27.459962756052143
+      "impressions": 559,
+      "ctr": 0.0017889087656529517,
+      "position": 24.11985688729875
     },
     {
-      "query": "texas offshore injury lawyer",
+      "query": "texas move over slow down law",
       "clicks": 1,
-      "impressions": 1,
-      "ctr": 1,
-      "position": 41
+      "impressions": 122,
+      "ctr": 0.00819672131147541,
+      "position": 4.926229508196721
     },
     {
       "query": "texas slow down law 2025",
       "clicks": 1,
-      "impressions": 17,
-      "ctr": 0.058823529411764705,
-      "position": 1.6470588235294117
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 1.6923076923076923
+    },
+    {
+      "query": "the crash connect reviews",
+      "clicks": 1,
+      "impressions": 585,
+      "ctr": 0.0017094017094017094,
+      "position": 5.822222222222222
     },
     {
       "query": "the crash team cares",
@@ -917,11 +966,11 @@
       "position": 1.1666666666666667
     },
     {
-      "query": "why is texas's move over law important for public safety?",
+      "query": "the crash team reviews",
       "clicks": 1,
-      "impressions": 63,
-      "ctr": 0.015873015873015872,
-      "position": 2.0317460317460316
+      "impressions": 74,
+      "ctr": 0.013513513513513514,
+      "position": 8.554054054054054
     },
     {
       "query": "\"(713) 300-0000\" the crash team",
@@ -933,9 +982,23 @@
     {
       "query": "\"(713) 713-3333\" the crash team",
       "clicks": 0,
-      "impressions": 31,
+      "impressions": 8,
       "ctr": 0,
-      "position": 6.483870967741935
+      "position": 6
+    },
+    {
+      "query": "\"demolition injury attorney\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "\"driver was displeased\" \"design flaw\" \"rally\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
     },
     {
       "query": "\"february 2017\" animal injured car road built by",
@@ -947,7 +1010,7 @@
     {
       "query": "\"lawyer for accident case\"",
       "clicks": 0,
-      "impressions": 23,
+      "impressions": 45,
       "ctr": 0,
       "position": 1
     },
@@ -987,230 +1050,1245 @@
       "position": 2
     },
     {
+      "query": "(214) 526-7900",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6.5
+    },
+    {
       "query": "(361) 360-8500",
       "clicks": 0,
       "impressions": 13,
       "ctr": 0,
-      "position": 32.92307692307692
+      "position": 35
+    },
+    {
+      "query": "(972) 845-7237",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "+1 (281) 598-8132",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 7.733333333333333
+    },
+    {
+      "query": "+1 (713) 912-2740",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "+1 (713) 927-7282",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "+1 (817) 725-5413",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "+1 (832) 268-2291",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "+auto +accident +attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "+auto +crash +law +firm",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "+automobile +accident +lawyer",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "+car +accident +attorney",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "+car +accident +lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "+car +crash +attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "+car +crash +lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "+car accident +lawyer",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 8.6
+    },
+    {
+      "query": "+lawyers +for +auto +accidents",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 9.5
+    },
+    {
+      "query": "+motor +vehicle +accident +lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "1 800 car crash",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 99
+    },
+    {
+      "query": "1 800 win win 1",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 76
+    },
+    {
+      "query": "1. the texas \"move over\" law deals with what driving situation?",
+      "clicks": 0,
+      "impressions": 26,
+      "ctr": 0,
+      "position": 10.692307692307692
+    },
+    {
+      "query": "1. the texas \"move over\" law deals with what driving situation? a) what to do if someone wants to pass you b) where to report drivers who do not move over c) what to do when an emergency vehicle is on the side of the road",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "14.these are marks left on the roadway by tires which are not free to rotate, usually because brakes are applied strongly and the wheels locked * a. skid marks b . scuff marks c. debris",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "18 wheeler accident attorney",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 17.923076923076923
+    },
+    {
+      "query": "18 wheeler accident attorney brownsville",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 84
+    },
+    {
+      "query": "18 wheeler accident attorney missouri city",
+      "clicks": 0,
+      "impressions": 26,
+      "ctr": 0,
+      "position": 10.538461538461538
+    },
+    {
+      "query": "18 wheeler accident attorney near me",
+      "clicks": 0,
+      "impressions": 32,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "18 wheeler accident attorney sugar land",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "18 wheeler accident attorney waco",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 75
+    },
+    {
+      "query": "18 wheeler accident attorneys",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "18 wheeler accident attorneys near me",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "18 wheeler accident calculator",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 43
+    },
+    {
+      "query": "18 wheeler accident law firm",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "18 wheeler accident lawyer",
+      "clicks": 0,
+      "impressions": 66,
+      "ctr": 0,
+      "position": 5.878787878787879
+    },
+    {
+      "query": "18 wheeler accident lawyer 77384",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "18 wheeler accident lawyer brownsville",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 90
+    },
+    {
+      "query": "18 wheeler accident lawyer near me",
+      "clicks": 0,
+      "impressions": 26,
+      "ctr": 0,
+      "position": 43.76923076923077
+    },
+    {
+      "query": "18 wheeler accident lawyer sugar land",
+      "clicks": 0,
+      "impressions": 175,
+      "ctr": 0,
+      "position": 6.1657142857142855
+    },
+    {
+      "query": "18 wheeler accident lawyer texas",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 21
+    },
+    {
+      "query": "18 wheeler accident lawyer the woodlands",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 85.33333333333333
+    },
+    {
+      "query": "18 wheeler accident lawyers",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1.5
+    },
+    {
+      "query": "18 wheeler accident lawyers longview tx",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 87
+    },
+    {
+      "query": "18 wheeler accident lawyers near me",
+      "clicks": 0,
+      "impressions": 38,
+      "ctr": 0,
+      "position": 7.815789473684211
+    },
+    {
+      "query": "18 wheeler accident lawyers sugar land",
+      "clicks": 0,
+      "impressions": 136,
+      "ctr": 0,
+      "position": 6.617647058823529
+    },
+    {
+      "query": "18 wheeler accident top attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 30
+    },
+    {
+      "query": "18 wheeler attorney near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "18 wheeler collision attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "18 wheeler crash attorney",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "18 wheeler crash lawyer",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 4.352941176470589
+    },
+    {
+      "query": "18 wheeler lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "18 wheeler truck accident attorney near me",
+      "clicks": 0,
+      "impressions": 20,
+      "ctr": 0,
+      "position": 3.65
+    },
+    {
+      "query": "18 wheeler truck accident lawyers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "18 wheeler truck crash",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "18 wheeler wreck attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 21
+    },
+    {
+      "query": "18 wheeler wreck attorney near me",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 1.25
+    },
+    {
+      "query": "18 wheeler wreck lawyers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "18-wheeler accident attorney near me",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "18-wheeler accident law firm near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "18-wheeler accident lawyer",
+      "clicks": 0,
+      "impressions": 160,
+      "ctr": 0,
+      "position": 8.4
+    },
+    {
+      "query": "18-wheeler accident lawyer humble",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 67
+    },
+    {
+      "query": "18-wheeler accident lawyers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 15
+    },
+    {
+      "query": "18-wheeler accident lawyers fort bend",
+      "clicks": 0,
+      "impressions": 20,
+      "ctr": 0,
+      "position": 6.9
+    },
+    {
+      "query": "18-wheeler accident lawyers near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "18-wheeler collision attorney near me",
+      "clicks": 0,
+      "impressions": 20,
+      "ctr": 0,
+      "position": 1.65
+    },
+    {
+      "query": "18-wheeler crash attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "1800 car crash",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "18wheeler accident law firm",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 68.85714285714286
+    },
+    {
+      "query": "201.904 speed law",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "2025 crash connect compensation",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 9.75
+    },
+    {
+      "query": "2025 crash connect compensation program",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "2025 motorcycle deaths",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "2026 texas driving laws",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "210-800-0000",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "22. car accident attorney weslaco",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 37.5
+    },
+    {
+      "query": "24 hour car accident lawyer",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 2.666666666666667
+    },
+    {
+      "query": "24 hour vehicle law office",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "25 percent lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 99
+    },
+    {
+      "query": "281-598-8132",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "323-800-5405",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "400-888-8888",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "5. car accident lawyer weslaco",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 41
+    },
+    {
+      "query": "50 hours of driving",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "561-609-1200",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "575 law group",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 51
+    },
+    {
+      "query": "601-988-8888",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "713 348 5000 accident lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 87
+    },
+    {
+      "query": "718-416-6370",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 6.666666666666667
+    },
+    {
+      "query": "800 car crash",
+      "clicks": 0,
+      "impressions": 49,
+      "ctr": 0,
+      "position": 37.93877551020408
+    },
+    {
+      "query": "800/8000",
+      "clicks": 0,
+      "impressions": 25,
+      "ctr": 0,
+      "position": 6.92
+    },
+    {
+      "query": "800carcrash",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "817-725-5413",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7.5
+    },
+    {
+      "query": "832 lawyers",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 27.6
+    },
+    {
+      "query": "832. 838. 1220",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "888-972-0932",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "911 legal team",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 23
+    },
+    {
+      "query": "[attorney car crash]",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "[car accident lawyers near me]",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "[car accidents lawyer]",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "a car accident",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "a case dash against the unidentified truck driver for causing damage to the street poles due to negligence and rash driving",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "a galvan",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "aaron law firm",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "aaron law group",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 12.666666666666666
+    },
+    {
+      "query": "aaron lawyer",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "abel galvan",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "abilene accident attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 91
+    },
+    {
+      "query": "abilene accident lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 96
+    },
+    {
+      "query": "abilene auto accident attorneys",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 92
+    },
+    {
+      "query": "abilene auto accident lawyers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 86
+    },
+    {
+      "query": "abilene car accident attorney",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 90.5
+    },
+    {
+      "query": "abilene car accident attorneys",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 84
+    },
+    {
+      "query": "abilene car accident lawyer",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 92
+    },
+    {
+      "query": "abilene car accident lawyers",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 94.5
+    },
+    {
+      "query": "abogada de accidentes",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 47.333333333333336
+    },
+    {
+      "query": "abogado accidentes de auto texas",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 67.6923076923077
+    },
+    {
+      "query": "abogado de accident houston",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 90
+    },
+    {
+      "query": "abogado de accidente",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 29
+    },
+    {
+      "query": "abogado de accidente cerca de mi",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 21
+    },
+    {
+      "query": "abogado de accidente de auto",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 41
+    },
+    {
+      "query": "abogado de accidente en texas",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 30
+    },
+    {
+      "query": "abogado de accidentes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "abogado de accidentes automovilísticos",
+      "clicks": 0,
+      "impressions": 777,
+      "ctr": 0,
+      "position": 1.0128700128700128
+    },
+    {
+      "query": "abogado de accidentes de auto",
+      "clicks": 0,
+      "impressions": 793,
+      "ctr": 0,
+      "position": 1.0126103404791928
+    },
+    {
+      "query": "abogado de accidentes de camiones",
+      "clicks": 0,
+      "impressions": 204,
+      "ctr": 0,
+      "position": 1.0980392156862746
+    },
+    {
+      "query": "abogado de accidentes de motocicleta",
+      "clicks": 0,
+      "impressions": 930,
+      "ctr": 0,
+      "position": 1.010752688172043
+    },
+    {
+      "query": "abogado de accidentes en texas",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 81.66666666666667
+    },
+    {
+      "query": "abogado de accidentes near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 33
+    },
+    {
+      "query": "abogado de choques de carros",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 35
+    },
+    {
+      "query": "abogado de lesiones personales",
+      "clicks": 0,
+      "impressions": 907,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "abogado in houston texas regarding car crash",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 65.53846153846153
+    },
+    {
+      "query": "abogados",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 66
+    },
+    {
+      "query": "abogados de accidentes",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "abogados de accidentes de carro near me",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 9.785714285714286
+    },
+    {
+      "query": "abogados de accidentes de tráfico",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "abogados de accidentes en texas",
+      "clicks": 0,
+      "impressions": 127,
+      "ctr": 0,
+      "position": 66.06299212598425
+    },
+    {
+      "query": "abogados de choques de autos car crash lawyer",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 52
+    },
+    {
+      "query": "abogados de inmigracion en houston tx",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "abogados galvan",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 38.46666666666667
+    },
+    {
+      "query": "accident advance resource center",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "accident advice",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 38.333333333333336
+    },
+    {
+      "query": "accident and injury attorney texas",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 35.7
+    },
+    {
+      "query": "accident and injury attorneys",
+      "clicks": 0,
+      "impressions": 117,
+      "ctr": 0,
+      "position": 24.427350427350426
+    },
+    {
+      "query": "accident and injury attorneys near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
     }
   ],
   "topPages": [
     {
       "page": "https://crashteam.com/",
-      "clicks": 344,
-      "impressions": 153081,
-      "ctr": 0.002247176331484639,
-      "position": 18.316290068656464
+      "clicks": 388,
+      "impressions": 294754,
+      "ctr": 0.001316351940940581,
+      "position": 14.355170752559761
     },
     {
       "page": "https://crashteam.com/blog/texas-move-over-or-slow-down-law-changes/",
-      "clicks": 124,
-      "impressions": 19022,
-      "ctr": 0.006518767742613816,
-      "position": 5.108926506150773
+      "clicks": 119,
+      "impressions": 19680,
+      "ctr": 0.006046747967479674,
+      "position": 5.1832317073170735
     },
     {
       "page": "https://crashteam.com/about-us/our-team/aaron-galvan/",
-      "clicks": 55,
-      "impressions": 2052,
-      "ctr": 0.026803118908382065,
-      "position": 5.072124756335283
+      "clicks": 65,
+      "impressions": 2206,
+      "ctr": 0.02946509519492294,
+      "position": 4.645058930190389
+    },
+    {
+      "page": "https://crashteam.com/blog/how-to-challenge-a-car-accident-police-report-in-texas/",
+      "clicks": 29,
+      "impressions": 2181,
+      "ctr": 0.013296652911508482,
+      "position": 6.432370472260431
+    },
+    {
+      "page": "https://crashteam.com/blog/car-accidents-caused-by-highway-debris-and-your-rights/",
+      "clicks": 28,
+      "impressions": 8205,
+      "ctr": 0.003412553321145643,
+      "position": 12.643997562461914
+    },
+    {
+      "page": "https://crashteam.com/about-us/our-team/breanne-galvan/",
+      "clicks": 25,
+      "impressions": 989,
+      "ctr": 0.025278058645096056,
+      "position": 6.844287158746209
     },
     {
       "page": "https://crashteam.com/about-us/our-team/kevin-christiansen/",
       "clicks": 25,
-      "impressions": 556,
-      "ctr": 0.044964028776978415,
-      "position": 7.9784172661870505
-    },
-    {
-      "page": "https://crashteam.com/blog/car-accidents-caused-by-highway-debris-and-your-rights/",
-      "clicks": 24,
-      "impressions": 7855,
-      "ctr": 0.00305537873965627,
-      "position": 13.933290897517505
+      "impressions": 647,
+      "ctr": 0.03863987635239567,
+      "position": 6.349304482225657
     },
     {
       "page": "https://crashteam.com/about-us/our-team/krystyna-salinas/",
-      "clicks": 22,
-      "impressions": 254,
-      "ctr": 0.08661417322834646,
-      "position": 18.10236220472441
-    },
-    {
-      "page": "https://crashteam.com/about-us/our-team/breanne-galvan/",
-      "clicks": 21,
-      "impressions": 869,
-      "ctr": 0.024165707710011506,
-      "position": 7.715765247410817
-    },
-    {
-      "page": "https://crashteam.com/blog/how-to-challenge-a-car-accident-police-report-in-texas/",
-      "clicks": 17,
-      "impressions": 1184,
-      "ctr": 0.014358108108108109,
-      "position": 6.484797297297297
+      "clicks": 25,
+      "impressions": 269,
+      "ctr": 0.09293680297397769,
+      "position": 14.390334572490707
     },
     {
       "page": "https://crashteam.com/blog/what-to-do-when-the-other-driver-lies-about-the-car-accident/",
-      "clicks": 11,
-      "impressions": 1626,
-      "ctr": 0.006765067650676507,
-      "position": 5.432349323493235
-    },
-    {
-      "page": "https://crashteam.com/blog/dos-and-donts-after-a-texas-car-accident/",
-      "clicks": 10,
-      "impressions": 1799,
-      "ctr": 0.005558643690939411,
-      "position": 15.951639799888827
+      "clicks": 18,
+      "impressions": 3386,
+      "ctr": 0.005316007088009451,
+      "position": 5.527761370348494
     },
     {
       "page": "https://crashteam.com/about-us/our-team/",
-      "clicks": 9,
-      "impressions": 763,
-      "ctr": 0.011795543905635648,
-      "position": 5.6356487549148095
+      "clicks": 13,
+      "impressions": 844,
+      "ctr": 0.015402843601895734,
+      "position": 5.188388625592417
     },
     {
-      "page": "https://crashteam.com/reviews/",
-      "clicks": 6,
-      "impressions": 1815,
-      "ctr": 0.003305785123966942,
-      "position": 7.848484848484849
-    },
-    {
-      "page": "https://crashteam.com/about-us/",
-      "clicks": 5,
-      "impressions": 2414,
-      "ctr": 0.002071251035625518,
-      "position": 7.37903893951947
+      "page": "https://crashteam.com/blog/dos-and-donts-after-a-texas-car-accident/",
+      "clicks": 12,
+      "impressions": 3028,
+      "ctr": 0.003963011889035667,
+      "position": 14.666776750330252
     },
     {
       "page": "https://crashteam.com/blog/motorcycle-accidents-in-texas-rising-risks-and-rider-safety-in-2025/",
-      "clicks": 5,
-      "impressions": 405,
-      "ctr": 0.012345679012345678,
-      "position": 7.140740740740741
+      "clicks": 7,
+      "impressions": 620,
+      "ctr": 0.01129032258064516,
+      "position": 6.4564516129032254
     },
     {
       "page": "https://crashteam.com/blog/texas-ends-vehicle-safety-inspections-what-motorists-should-know/",
+      "clicks": 7,
+      "impressions": 3455,
+      "ctr": 0.0020260492040520984,
+      "position": 7.088277858176555
+    },
+    {
+      "page": "https://crashteam.com/reviews/",
+      "clicks": 7,
+      "impressions": 2186,
+      "ctr": 0.003202195791399817,
+      "position": 7.308325709057639
+    },
+    {
+      "page": "https://crashteam.com/contact/",
       "clicks": 5,
-      "impressions": 3300,
-      "ctr": 0.0015151515151515152,
-      "position": 7.416969696969697
+      "impressions": 3173,
+      "ctr": 0.001575795776867318,
+      "position": 8.155058304443745
+    },
+    {
+      "page": "https://crashteam.com/about-us/",
+      "clicks": 4,
+      "impressions": 3417,
+      "ctr": 0.001170617500731636,
+      "position": 8.084869768803044
+    },
+    {
+      "page": "https://crashteam.com/about-us/careers/",
+      "clicks": 4,
+      "impressions": 25,
+      "ctr": 0.16,
+      "position": 24.52
+    },
+    {
+      "page": "https://crashteam.com/blog/texas-distracted-driving-laws/",
+      "clicks": 4,
+      "impressions": 588,
+      "ctr": 0.006802721088435374,
+      "position": 6.418367346938775
     },
     {
       "page": "https://crashteam.com/calculator/",
       "clicks": 4,
-      "impressions": 1189,
-      "ctr": 0.00336417157275021,
-      "position": 19.173254835996637
+      "impressions": 1111,
+      "ctr": 0.0036003600360036,
+      "position": 18.499549954995498
     },
     {
       "page": "https://crashteam.com/boating-accident-lawyers/",
       "clicks": 3,
-      "impressions": 802,
-      "ctr": 0.003740648379052369,
-      "position": 26.022443890274314
+      "impressions": 768,
+      "ctr": 0.00390625,
+      "position": 24.35546875
     },
     {
-      "page": "https://crashteam.com/about-us/careers/",
+      "page": "https://crashteam.com/sugar-land-car-accident-lawyer/",
+      "clicks": 3,
+      "impressions": 5198,
+      "ctr": 0.0005771450557906887,
+      "position": 33.15198153135822
+    },
+    {
+      "page": "https://crashteam.com/blog/statute-of-limitations-in-texas-personal-injury-cases-key-deadlines/",
       "clicks": 2,
-      "impressions": 25,
-      "ctr": 0.08,
-      "position": 25.36
+      "impressions": 1157,
+      "ctr": 0.001728608470181504,
+      "position": 8.08124459809853
     },
     {
       "page": "https://crashteam.com/blog/the-most-dangerous-intersections-in-sugar-land-tx/",
       "clicks": 2,
-      "impressions": 62,
-      "ctr": 0.03225806451612903,
-      "position": 9.451612903225806
+      "impressions": 70,
+      "ctr": 0.02857142857142857,
+      "position": 8.414285714285715
     },
     {
-      "page": "https://crashteam.com/contact/",
+      "page": "https://crashteam.com/blog/trucking-company-liability-in-texas-truck-accidents/",
       "clicks": 2,
-      "impressions": 2218,
-      "ctr": 0.0009017132551848512,
-      "position": 7.396753832281335
+      "impressions": 358,
+      "ctr": 0.00558659217877095,
+      "position": 8.516759776536313
     },
     {
-      "page": "https://crashteam.com/sugar-land-car-accident-lawyer/",
+      "page": "https://crashteam.com/car-accident-lawyers/",
       "clicks": 2,
-      "impressions": 4272,
-      "ctr": 0.00046816479400749064,
-      "position": 34.1500468164794
+      "impressions": 775,
+      "ctr": 0.0025806451612903226,
+      "position": 21.548387096774192
     },
     {
       "page": "https://crashteam.com/sugar-land-motorcycle-accident-lawyer/",
       "clicks": 2,
-      "impressions": 286,
-      "ctr": 0.006993006993006993,
-      "position": 22.458041958041957
+      "impressions": 289,
+      "ctr": 0.006920415224913495,
+      "position": 22.591695501730104
     },
     {
       "page": "https://crashteam.com/about-us/testimonials/",
       "clicks": 1,
-      "impressions": 299,
-      "ctr": 0.0033444816053511705,
-      "position": 10.130434782608695
+      "impressions": 300,
+      "ctr": 0.0033333333333333335,
+      "position": 8.35
     },
     {
       "page": "https://crashteam.com/blog/annual-click-it-or-ticket-campaign-seat-belt-enforcement-in-texas/",
       "clicks": 1,
-      "impressions": 384,
-      "ctr": 0.0026041666666666665,
-      "position": 9.1796875
+      "impressions": 357,
+      "ctr": 0.0028011204481792717,
+      "position": 8.952380952380953
     },
     {
-      "page": "https://crashteam.com/blog/proving-negligence-in-accident-cases-tips-steps-for-texas-clients/",
+      "page": "https://crashteam.com/blog/liability-in-texas-car-accidents-involving-self-driving-cars/",
       "clicks": 1,
-      "impressions": 59,
-      "ctr": 0.01694915254237288,
-      "position": 15.677966101694915
-    },
-    {
-      "page": "https://crashteam.com/blog/statute-of-limitations-in-texas-personal-injury-cases-key-deadlines/",
-      "clicks": 1,
-      "impressions": 924,
-      "ctr": 0.0010822510822510823,
-      "position": 8.719696969696969
-    },
-    {
-      "page": "https://crashteam.com/blog/truck-driver-fatigue-and-truck-accidents-in-texas/",
-      "clicks": 1,
-      "impressions": 546,
-      "ctr": 0.0018315018315018315,
-      "position": 11.83882783882784
-    },
-    {
-      "page": "https://crashteam.com/car-accident-lawyers/",
-      "clicks": 1,
-      "impressions": 641,
-      "ctr": 0.0015600624024961,
-      "position": 23.152886115444616
+      "impressions": 764,
+      "ctr": 0.0013089005235602095,
+      "position": 14.412303664921465
     },
     {
       "page": "https://crashteam.com/sitemap/",
       "clicks": 1,
-      "impressions": 175,
-      "ctr": 0.005714285714285714,
-      "position": 42.331428571428575
+      "impressions": 165,
+      "ctr": 0.006060606060606061,
+      "position": 41.472727272727276
     },
     {
       "page": "https://crashteam.com/sugar-land-oilfield-accident-lawyer/",
       "clicks": 1,
-      "impressions": 772,
-      "ctr": 0.0012953367875647669,
-      "position": 61.06217616580311
+      "impressions": 789,
+      "ctr": 0.0012674271229404308,
+      "position": 57.90114068441065
     },
     {
       "page": "https://crashteam.com/sugar-land-slip-and-fall-accident-lawyer/",
       "clicks": 1,
-      "impressions": 961,
-      "ctr": 0.001040582726326743,
-      "position": 33.14984391259105
+      "impressions": 1123,
+      "ctr": 0.0008904719501335708,
+      "position": 35.02760463045414
+    },
+    {
+      "page": "https://crashteam.com/sugar-land/",
+      "clicks": 1,
+      "impressions": 3574,
+      "ctr": 0.0002797985450475658,
+      "position": 34.14549524342473
+    },
+    {
+      "page": "https://crashteam.com/tos/",
+      "clicks": 1,
+      "impressions": 58,
+      "ctr": 0.017241379310344827,
+      "position": 11.275862068965518
     },
     {
       "page": "https://crashteam.com/about-us/case-results/",
@@ -1222,100 +2300,100 @@
     {
       "page": "https://crashteam.com/alvin/",
       "clicks": 0,
-      "impressions": 878,
+      "impressions": 969,
       "ctr": 0,
-      "position": 19.929384965831435
+      "position": 18.74716202270382
     },
     {
       "page": "https://crashteam.com/angleton/",
       "clicks": 0,
-      "impressions": 30,
+      "impressions": 33,
       "ctr": 0,
-      "position": 17.4
+      "position": 17.242424242424242
+    },
+    {
+      "page": "https://crashteam.com/areas-we-serve/",
+      "clicks": 0,
+      "impressions": 21,
+      "ctr": 0,
+      "position": 5.380952380952381
     },
     {
       "page": "https://crashteam.com/attorney-referrals-partnerships/",
       "clicks": 0,
-      "impressions": 1584,
+      "impressions": 2507,
       "ctr": 0,
-      "position": 9.255681818181818
+      "position": 9.502592740327085
     },
     {
       "page": "https://crashteam.com/bicycle-accident-lawyers/",
       "clicks": 0,
-      "impressions": 1911,
+      "impressions": 3321,
       "ctr": 0,
-      "position": 15.539508110936682
+      "position": 17.907859078590786
     },
     {
       "page": "https://crashteam.com/blog/author/andrei/",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 1,
       "ctr": 0,
-      "position": 18.333333333333332
+      "position": 9
     },
     {
       "page": "https://crashteam.com/blog/cargo-loader-liability-in-texas-truck-accidents/",
       "clicks": 0,
-      "impressions": 161,
+      "impressions": 220,
       "ctr": 0,
-      "position": 8.987577639751553
+      "position": 8.068181818181818
     },
     {
       "page": "https://crashteam.com/blog/category/car-accidents/",
       "clicks": 0,
-      "impressions": 10,
+      "impressions": 2,
       "ctr": 0,
-      "position": 35.1
+      "position": 6.5
     },
     {
       "page": "https://crashteam.com/blog/category/personal-injury/",
       "clicks": 0,
-      "impressions": 13,
+      "impressions": 4,
       "ctr": 0,
-      "position": 23.384615384615383
+      "position": 6
     },
     {
       "page": "https://crashteam.com/blog/category/truck-accidents/",
       "clicks": 0,
-      "impressions": 3,
+      "impressions": 1,
       "ctr": 0,
-      "position": 49.333333333333336
+      "position": 9
     },
     {
-      "page": "https://crashteam.com/blog/category/uncategorized/",
+      "page": "https://crashteam.com/blog/dealing-with-insurance-companies-after-texas-car-accident/",
       "clicks": 0,
-      "impressions": 8,
+      "impressions": 158,
       "ctr": 0,
-      "position": 41.125
+      "position": 16.943037974683545
     },
     {
       "page": "https://crashteam.com/blog/heatstroke-hot-car-fatalities-in-texas-prevention-legal-options/",
       "clicks": 0,
-      "impressions": 150,
+      "impressions": 147,
       "ctr": 0,
-      "position": 9.766666666666667
+      "position": 8.53061224489796
     },
     {
       "page": "https://crashteam.com/blog/how-to-collect-witness-statements-after-a-car-accident/",
       "clicks": 0,
-      "impressions": 1,
+      "impressions": 24,
       "ctr": 0,
-      "position": 18
+      "position": 5.625
     },
     {
-      "page": "https://crashteam.com/blog/liability-in-texas-car-accidents-involving-self-driving-cars/",
+      "page": "https://crashteam.com/blog/proving-negligence-in-accident-cases-tips-steps-for-texas-clients/",
       "clicks": 0,
-      "impressions": 84,
+      "impressions": 77,
       "ctr": 0,
-      "position": 12.083333333333334
-    },
-    {
-      "page": "https://crashteam.com/blog/texas-distracted-driving-laws/",
-      "clicks": 0,
-      "impressions": 70,
-      "ctr": 0,
-      "position": 6.6571428571428575
+      "position": 14.272727272727273
     },
     {
       "page": "https://crashteam.com/blog/texas-move-over-or-slow-down-law-changes",
@@ -1323,28 +2401,1413 @@
       "impressions": 1,
       "ctr": 0,
       "position": 1
+    }
+  ],
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "the galvan law firm",
+      "clicks": 165,
+      "impressions": 416,
+      "ctr": 0.39663461538461536,
+      "position": 1.0096153846153846
     },
     {
-      "page": "https://crashteam.com/blog/trucking-company-liability-in-texas-truck-accidents/",
-      "clicks": 0,
+      "query": "galvan law firm",
+      "clicks": 110,
+      "impressions": 355,
+      "ctr": 0.30985915492957744,
+      "position": 1.6253521126760564
+    },
+    {
+      "query": "the crash team",
+      "clicks": 68,
+      "impressions": 322,
+      "ctr": 0.2111801242236025,
+      "position": 1.8695652173913042
+    },
+    {
+      "query": "the crash team - the galvan law firm",
+      "clicks": 14,
+      "impressions": 33,
+      "ctr": 0.42424242424242425,
+      "position": 1
+    },
+    {
+      "query": "aaron galvan",
+      "clicks": 10,
+      "impressions": 64,
+      "ctr": 0.15625,
+      "position": 3.953125
+    },
+    {
+      "query": "the crash team photos",
+      "clicks": 10,
+      "impressions": 140,
+      "ctr": 0.07142857142857142,
+      "position": 3.442857142857143
+    },
+    {
+      "query": "galvan law",
+      "clicks": 5,
+      "impressions": 99,
+      "ctr": 0.050505050505050504,
+      "position": 5.474747474747475
+    },
+    {
+      "query": "sugar land car accident lawyer",
+      "clicks": 4,
+      "impressions": 981,
+      "ctr": 0.004077471967380225,
+      "position": 1.6472986748216107
+    },
+    {
+      "query": "galvin law firm",
+      "clicks": 3,
       "impressions": 29,
-      "ctr": 0,
-      "position": 6.724137931034483
+      "ctr": 0.10344827586206896,
+      "position": 4.310344827586206
     },
     {
-      "page": "https://crashteam.com/blog/understanding-comparative-negligence-in-texas-what-it-means-for-your-compensation/",
+      "query": "best motorcycle accident lawyer sugar land",
+      "clicks": 2,
+      "impressions": 231,
+      "ctr": 0.008658008658008658,
+      "position": 6.926406926406926
+    },
+    {
+      "query": "galvan law group",
+      "clicks": 2,
+      "impressions": 128,
+      "ctr": 0.015625,
+      "position": 7.6484375
+    },
+    {
+      "query": "personal injury attorney sugar land",
+      "clicks": 2,
+      "impressions": 857,
+      "ctr": 0.002333722287047841,
+      "position": 5.2438739789965
+    },
+    {
+      "query": "sugar land rideshare car accident lawyer",
+      "clicks": 2,
+      "impressions": 89,
+      "ctr": 0.02247191011235955,
+      "position": 1.1910112359550562
+    },
+    {
+      "query": "accident lawyer",
+      "clicks": 1,
+      "impressions": 523,
+      "ctr": 0.0019120458891013384,
+      "position": 10.495219885277246
+    },
+    {
+      "query": "car accident lawyer",
+      "clicks": 1,
+      "impressions": 1076,
+      "ctr": 0.0009293680297397769,
+      "position": 11.262081784386616
+    },
+    {
+      "query": "car accident lawyer sugar land",
+      "clicks": 1,
+      "impressions": 1040,
+      "ctr": 0.0009615384615384616,
+      "position": 2.5846153846153843
+    },
+    {
+      "query": "truck accident lawyer sugar land tx",
+      "clicks": 1,
+      "impressions": 171,
+      "ctr": 0.005847953216374269,
+      "position": 1.7719298245614035
+    },
+    {
+      "query": "\"(832) 800-8000\" the crash team",
+      "clicks": 0,
+      "impressions": 25,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "(800) 800-8000",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 8.923076923076923
+    },
+    {
+      "query": "10 x law",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "10103 car accident lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "10118 car accident lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "10177 car accident lawyer",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "18 wheeler accident attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "18 wheeler accident attorney missouri city",
+      "clicks": 0,
+      "impressions": 41,
+      "ctr": 0,
+      "position": 4.780487804878049
+    },
+    {
+      "query": "18 wheeler accident attorneys",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "18 wheeler accident lawyer houston 18 wheeler trucks",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "18 wheeler accident lawyer sugar land",
+      "clicks": 0,
+      "impressions": 59,
+      "ctr": 0,
+      "position": 20.54237288135593
+    },
+    {
+      "query": "18 wheeler accident lawyers",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "18 wheeler accident lawyers sugar land",
+      "clicks": 0,
+      "impressions": 105,
+      "ctr": 0,
+      "position": 14.542857142857143
+    },
+    {
+      "query": "18 wheeler attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "18 wheeler lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "18-wheeler accident lawyer",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 32.64705882352941
+    },
+    {
+      "query": "18-wheeler accident lawyers fort bend",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 33.57142857142857
+    },
+    {
+      "query": "24 hour car accident lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24/7 injury lawyer",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 86
+    },
+    {
+      "query": "800 injured",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 84
+    },
+    {
+      "query": "800/8000",
+      "clicks": 0,
+      "impressions": 23,
+      "ctr": 0,
+      "position": 8.73913043478261
+    },
+    {
+      "query": "abogada de accidentes",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 65
+    },
+    {
+      "query": "abogado de accident houston",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 72
+    },
+    {
+      "query": "abogado de accidente",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "abogado de accidente cerca de mi",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "abogado de accidente de carro",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 47
+    },
+    {
+      "query": "abogado de accidente de carro cerca de mi",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "abogado de accidente de carro near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "abogado de defensa civil",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 23
+    },
+    {
+      "query": "abogados accidentes de carro",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "abogados de accidentes",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 24.571428571428573
+    },
+    {
+      "query": "abogados de workers compensation",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 60
+    },
+    {
+      "query": "accident and injury lawyers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 99
+    },
+    {
+      "query": "accident and personal injury lawyers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "accident attorney",
+      "clicks": 0,
+      "impressions": 374,
+      "ctr": 0,
+      "position": 13.157754010695188
+    },
+    {
+      "query": "accident attorney fort bend county",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 1.1176470588235294
+    },
+    {
+      "query": "accident attorney near me",
+      "clicks": 0,
+      "impressions": 101,
+      "ctr": 0,
+      "position": 10.990099009900991
+    },
+    {
+      "query": "accident attorney sugar land",
+      "clicks": 0,
+      "impressions": 126,
+      "ctr": 0,
+      "position": 2.182539682539683
+    },
+    {
+      "query": "accident attorneys",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 29.5
+    },
+    {
+      "query": "accident big lawyer truck",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "query": "accident car attorney",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "accident claim lawyers near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "accident firm",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "accident injury attorney",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 45
+    },
+    {
+      "query": "accident injury attorney in texas",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 92
+    },
+    {
+      "query": "accident injury law firms",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 88
+    },
+    {
+      "query": "accident injury lawyer",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 1.3333333333333333
+    },
+    {
+      "query": "accident law firm",
+      "clicks": 0,
+      "impressions": 82,
+      "ctr": 0,
+      "position": 4.829268292682927
+    },
+    {
+      "query": "accident law firms",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 74
+    },
+    {
+      "query": "accident law office",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "accident law services sugar land",
+      "clicks": 0,
+      "impressions": 102,
+      "ctr": 0,
+      "position": 1.9705882352941178
+    },
+    {
+      "query": "accident lawfirm",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 100
+    },
+    {
+      "query": "accident lawyer fort bend county",
+      "clicks": 0,
+      "impressions": 33,
+      "ctr": 0,
+      "position": 1.1818181818181819
+    },
+    {
+      "query": "accident lawyer near me",
+      "clicks": 0,
+      "impressions": 112,
+      "ctr": 0,
+      "position": 8.383928571428571
+    },
+    {
+      "query": "accident lawyer sugar land",
+      "clicks": 0,
+      "impressions": 122,
+      "ctr": 0,
+      "position": 1.639344262295082
+    },
+    {
+      "query": "accident lawyers",
       "clicks": 0,
       "impressions": 21,
       "ctr": 0,
-      "position": 14.952380952380953
+      "position": 40.714285714285715
     },
     {
-      "page": "https://crashteam.com/blog/what-to-do-if-you-are-hit-by-an-uninsured-motorist-in-texas/",
+      "query": "accident lawyers car",
       "clicks": 0,
-      "impressions": 215,
+      "impressions": 22,
       "ctr": 0,
-      "position": 11.525581395348837
+      "position": 1.7727272727272727
+    },
+    {
+      "query": "accident lawyers near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2.5
+    },
+    {
+      "query": "accident near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "accident settlement lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "accidente lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "accidents law firm",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "accidents lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "accidents lawyers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "accidents near me",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "albany auto injury lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 54
+    },
+    {
+      "query": "allintitle car accident lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "altona car accident lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "query": "amaro law firm sugar land",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 91.6
+    },
+    {
+      "query": "amazon truck accident lawyer sugar land",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 25.785714285714285
+    },
+    {
+      "query": "amusement park accident attorney missouri city",
+      "clicks": 0,
+      "impressions": 49,
+      "ctr": 0,
+      "position": 6.6938775510204085
+    },
+    {
+      "query": "amusement park accident lawyer sugar land",
+      "clicks": 0,
+      "impressions": 49,
+      "ctr": 0,
+      "position": 7.244897959183674
+    },
+    {
+      "query": "amusement park injury lawyer sugar land",
+      "clicks": 0,
+      "impressions": 45,
+      "ctr": 0,
+      "position": 9.88888888888889
+    },
+    {
+      "query": "antioch truck accident lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 15
+    },
+    {
+      "query": "assault attorney sugar land",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 40
+    },
+    {
+      "query": "assault law firm",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 63.357142857142854
+    },
+    {
+      "query": "assault lawyer sugar land",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 49.25
+    },
+    {
+      "query": "atlanta motorcycle accident lawyer near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "query": "attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 79
+    },
+    {
+      "query": "attorney car accident near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 37
+    },
+    {
+      "query": "attorney crash",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "attorney for car accident near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "attorney for car accidents",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "attorney for motorcycle accidents",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 4.5
+    },
+    {
+      "query": "attorney for uninsured motorist",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "attorney for vehicle issues",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 23
+    },
+    {
+      "query": "attorney lawsuit",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 28
+    },
+    {
+      "query": "attorney near me",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 35.333333333333336
+    },
+    {
+      "query": "attorney sugar land",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 41
+    },
+    {
+      "query": "attorney sugar land texas",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 36
+    },
+    {
+      "query": "attorney sugar land tx",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 38
+    },
+    {
+      "query": "attorneys for hit and run",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 3.5
+    },
+    {
+      "query": "attorneys in sugar land texas",
+      "clicks": 0,
+      "impressions": 85,
+      "ctr": 0,
+      "position": 45.64705882352941
+    },
+    {
+      "query": "attorneys in sugar land tx",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 43.75
+    },
+    {
+      "query": "attorneys near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 34
+    },
+    {
+      "query": "attorneys personal injury",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 19
+    },
+    {
+      "query": "atv accident attorney missouri city",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "atv accident lawyer sugar land",
+      "clicks": 0,
+      "impressions": 49,
+      "ctr": 0,
+      "position": 2.163265306122449
+    },
+    {
+      "query": "aurora motorcycle accident lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "query": "aurora truck accident lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "auto accident",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 5.5
+    },
+    {
+      "query": "auto accident attorney",
+      "clicks": 0,
+      "impressions": 455,
+      "ctr": 0,
+      "position": 10.778021978021979
+    },
+    {
+      "query": "auto accident attorney fort bend county",
+      "clicks": 0,
+      "impressions": 31,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "auto accident attorney houston",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "auto accident attorney missouri city",
+      "clicks": 0,
+      "impressions": 39,
+      "ctr": 0,
+      "position": 1.1025641025641026
+    },
+    {
+      "query": "auto accident attorney near me",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 23
+    },
+    {
+      "query": "auto accident attorney sugar land",
+      "clicks": 0,
+      "impressions": 319,
+      "ctr": 0,
+      "position": 7.06269592476489
+    },
+    {
+      "query": "auto accident attorneys",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 21.181818181818183
+    },
+    {
+      "query": "auto accident attorneys group",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "auto accident attorneys pllc",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "auto accident doctor near me",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "auto accident doctor sugar land",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "auto accident law firm",
+      "clicks": 0,
+      "impressions": 96,
+      "ctr": 0,
+      "position": 24.4375
+    },
+    {
+      "query": "auto accident lawyer",
+      "clicks": 0,
+      "impressions": 474,
+      "ctr": 0,
+      "position": 12.447257383966244
+    },
+    {
+      "query": "auto accident lawyer fort bend county",
+      "clicks": 0,
+      "impressions": 33,
+      "ctr": 0,
+      "position": 1.1818181818181819
+    },
+    {
+      "query": "auto accident lawyer houston",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "auto accident lawyer in houston",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 67
+    },
+    {
+      "query": "auto accident lawyer near me",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 15.176470588235293
+    },
+    {
+      "query": "auto accident lawyer no injury",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "auto accident lawyer sugar land",
+      "clicks": 0,
+      "impressions": 303,
+      "ctr": 0,
+      "position": 1.537953795379538
+    },
+    {
+      "query": "auto accident lawyer texas",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 60
+    },
+    {
+      "query": "auto accident lawyers",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 32.83333333333333
+    },
+    {
+      "query": "auto accident lawyers near me",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 15.571428571428571
+    },
+    {
+      "query": "auto accident legal",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "auto accidents near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "auto attorney near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "auto collision attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 14
+    },
+    {
+      "query": "auto collision attorney near me",
+      "clicks": 0,
+      "impressions": 25,
+      "ctr": 0,
+      "position": 1.12
+    },
+    {
+      "query": "auto collision attorney near me business",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "auto collision lawyer",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "auto crash law firm",
+      "clicks": 0,
+      "impressions": 73,
+      "ctr": 0,
+      "position": 94.20547945205479
+    },
+    {
+      "query": "auto crash law office",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "auto damage lawyers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "auto dealer lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "auto defect attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "auto injury attorneys",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 18.666666666666668
+    },
+    {
+      "query": "auto injury lawyer near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "auto injury treatment sugar land",
+      "clicks": 0,
+      "impressions": 33,
+      "ctr": 0,
+      "position": 2.2727272727272725
+    },
+    {
+      "query": "auto lawyers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "auto lawyers near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "auto pedestrian accident attorney missouri city",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 9.25
+    },
+    {
+      "query": "auto pedestrian accident lawyer sugar land",
+      "clicks": 0,
+      "impressions": 51,
+      "ctr": 0,
+      "position": 4.705882352941177
+    },
+    {
+      "query": "auto wreck attorneys",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "automobile accident lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 61
+    },
+    {
+      "query": "automobile accident lawyers",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "automobile accident lawyers near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "automobile accidents lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 52
+    },
+    {
+      "query": "automobile crash attorney",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "automobile injury lawyers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "automobile lawyers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "automotive attorney near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "beach car accident lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "bear truck accident lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "best 18 wheeler accident attorney",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "best accident injury lawyers near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 31
+    },
+    {
+      "query": "best auto accident attorney",
+      "clicks": 0,
+      "impressions": 95,
+      "ctr": 0,
+      "position": 8.431578947368422
+    },
+    {
+      "query": "best auto accident attorney sugar land",
+      "clicks": 0,
+      "impressions": 91,
+      "ctr": 0,
+      "position": 4.802197802197802
+    },
+    {
+      "query": "best auto accident lawyer",
+      "clicks": 0,
+      "impressions": 103,
+      "ctr": 0,
+      "position": 5.398058252427185
+    },
+    {
+      "query": "best auto accident lawyers",
+      "clicks": 0,
+      "impressions": 23,
+      "ctr": 0,
+      "position": 40.95652173913044
+    },
+    {
+      "query": "best brain and spine injury attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "best car accident",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "query": "best car accident attorney",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "best car accident lawyer",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2.5
+    },
+    {
+      "query": "best car accident lawyer near me",
+      "clicks": 0,
+      "impressions": 45,
+      "ctr": 0,
+      "position": 25.266666666666666
+    },
+    {
+      "query": "best car accident lawyers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 26
+    },
+    {
+      "query": "best car crash attorney",
+      "clicks": 0,
+      "impressions": 95,
+      "ctr": 0,
+      "position": 2.294736842105263
+    },
+    {
+      "query": "best commercial truck accident lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "best houston truck accident lawyer",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "best houston truck accident lawyers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "best injury attorney",
+      "clicks": 0,
+      "impressions": 81,
+      "ctr": 0,
+      "position": 20.65432098765432
+    },
+    {
+      "query": "best injury lawyer",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 15.166666666666666
+    },
+    {
+      "query": "best lawyer for accident",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 30.5
+    },
+    {
+      "query": "best motorcycle accident attorney",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "best motorcycle accident lawyer",
+      "clicks": 0,
+      "impressions": 46,
+      "ctr": 0,
+      "position": 44.608695652173914
+    },
+    {
+      "query": "best motorcycle injury lawyer",
+      "clicks": 0,
+      "impressions": 28,
+      "ctr": 0,
+      "position": 48.82142857142857
+    },
+    {
+      "query": "best personal injury attorney",
+      "clicks": 0,
+      "impressions": 50,
+      "ctr": 0,
+      "position": 4.82
+    },
+    {
+      "query": "best personal injury attorney near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7.5
+    },
+    {
+      "query": "best personal injury lawyer",
+      "clicks": 0,
+      "impressions": 101,
+      "ctr": 0,
+      "position": 17.544554455445546
+    },
+    {
+      "query": "best rideshare accident attorney",
+      "clicks": 0,
+      "impressions": 38,
+      "ctr": 0,
+      "position": 57.5
+    },
+    {
+      "query": "best slip and fall attorney",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 2.4
+    },
+    {
+      "query": "best slip and fall attorney houston",
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 5.75
+    },
+    {
+      "query": "best slip and fall attorney sugar land",
+      "clicks": 0,
+      "impressions": 80,
+      "ctr": 0,
+      "position": 1.0875
+    },
+    {
+      "query": "best slip and fall attorneys",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
     }
   ],
-  "fetchedAt": "2026-03-18T13:07:21.668Z"
+  "fetchedAt": "2026-04-07T16:21:58.831Z"
 }

@@ -1,156 +1,16 @@
 {
   "property": "sc-domain:goarco.com",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 2698,
-    "impressions": 1208795,
-    "ctr": 0.002231974817897162,
-    "position": 25.886558914347365
+    "clicks": 2769,
+    "impressions": 1306067,
+    "ctr": 0.002120105630109328,
+    "position": 26.501537353512088
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 33,
-      "impressions": 12914,
-      "ctr": 0.002555366269165247,
-      "position": 24.122889886944403
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 30,
-      "impressions": 8928,
-      "ctr": 0.003360215053763441,
-      "position": 25.586021505376344
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 21,
-      "impressions": 8931,
-      "ctr": 0.0023513604299630502,
-      "position": 31.296607322808196
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 25,
-      "impressions": 8248,
-      "ctr": 0.003031037827352085,
-      "position": 35.47999515033948
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 15,
-      "impressions": 11707,
-      "ctr": 0.0012812847014606647,
-      "position": 32.21790381822841
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 22,
-      "impressions": 22555,
-      "ctr": 0.0009753934825980935,
-      "position": 28.936732431833295
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 9,
-      "impressions": 15167,
-      "ctr": 0.0005933935517900706,
-      "position": 27.03969143535307
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 25,
-      "impressions": 8863,
-      "ctr": 0.0028207153334085526,
-      "position": 26.192936928805146
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 19,
-      "impressions": 7446,
-      "ctr": 0.00255170561375235,
-      "position": 28.296400752081656
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 10,
-      "impressions": 6942,
-      "ctr": 0.0014405070584845865,
-      "position": 32.33376548545088
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 13,
-      "impressions": 8102,
-      "ctr": 0.0016045420883732413,
-      "position": 30.1632930140706
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 18,
-      "impressions": 8372,
-      "ctr": 0.002150023889154324,
-      "position": 29.49653607262303
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 14,
-      "impressions": 7927,
-      "ctr": 0.0017661158067364703,
-      "position": 23.319036205374037
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 12,
-      "impressions": 8730,
-      "ctr": 0.0013745704467353953,
-      "position": 24.504123711340206
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 31,
-      "impressions": 10268,
-      "ctr": 0.0030190884300740164,
-      "position": 24.846416049863652
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 23,
-      "impressions": 9355,
-      "ctr": 0.0024585783003741313,
-      "position": 24.111704970603956
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 19,
-      "impressions": 8473,
-      "ctr": 0.002242417089578662,
-      "position": 26.52484362091349
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 17,
-      "impressions": 11977,
-      "ctr": 0.0014193871587208817,
-      "position": 31.26125073056692
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 22,
-      "impressions": 8718,
-      "ctr": 0.0025235145675613674,
-      "position": 23.880362468456067
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 26,
-      "impressions": 8909,
-      "ctr": 0.002918397126501291,
-      "position": 23.924009428667638
-    },
     {
       "date": "2026-01-04",
       "clicks": 25,
@@ -640,344 +500,484 @@
       "impressions": 12971,
       "ctr": 0.0018502813969624547,
       "position": 30.12173309690849
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 24,
+      "impressions": 13122,
+      "ctr": 0.001828989483310471,
+      "position": 24.936671239140374
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 34,
+      "impressions": 14886,
+      "ctr": 0.002284025258632272,
+      "position": 27.77334408168749
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 25,
+      "impressions": 13237,
+      "ctr": 0.0018886454634735967,
+      "position": 25.430988894764674
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 22,
+      "impressions": 12937,
+      "ctr": 0.0017005488134807143,
+      "position": 26.95547654015614
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 28,
+      "impressions": 15680,
+      "ctr": 0.0017857142857142857,
+      "position": 31.23845663265306
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 16,
+      "impressions": 13146,
+      "ctr": 0.001217100258633805,
+      "position": 28.890308839190627
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 12,
+      "impressions": 13704,
+      "ctr": 0.0008756567425569177,
+      "position": 32.43709865732633
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 17,
+      "impressions": 12295,
+      "ctr": 0.0013826758845058968,
+      "position": 30.89483529890199
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 37,
+      "impressions": 18230,
+      "ctr": 0.002029621503017005,
+      "position": 28.0911135490949
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 20,
+      "impressions": 13438,
+      "ctr": 0.001488316713796696,
+      "position": 28.399315374311655
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 31,
+      "impressions": 13855,
+      "ctr": 0.0022374594009382893,
+      "position": 31.48394081559004
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 21,
+      "impressions": 19012,
+      "ctr": 0.0011045655375552283,
+      "position": 42.32463707132337
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 17,
+      "impressions": 13144,
+      "ctr": 0.0012933657942787583,
+      "position": 32.31755934266586
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 20,
+      "impressions": 12795,
+      "ctr": 0.0015631105900742479,
+      "position": 32.191324736225084
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 10,
+      "impressions": 14528,
+      "ctr": 0.0006883259911894273,
+      "position": 28.608686674008812
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 23,
+      "impressions": 14638,
+      "ctr": 0.0015712529034021042,
+      "position": 30.161770733706792
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 26,
+      "impressions": 12021,
+      "ctr": 0.0021628816238249728,
+      "position": 30.643956409616504
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 38,
+      "impressions": 13832,
+      "ctr": 0.0027472527472527475,
+      "position": 26.97578079814922
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 18,
+      "impressions": 19821,
+      "ctr": 0.0009081277433025579,
+      "position": 25.700116038544977
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 22,
+      "impressions": 12694,
+      "ctr": 0.0017331022530329288,
+      "position": 37.78533165274933
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 14,
+      "impressions": 12789,
+      "ctr": 0.0010946907498631637,
+      "position": 32.14340448823208
     }
   ],
   "topQueries": [
     {
       "query": "arco comfort air",
-      "clicks": 217,
-      "impressions": 1306,
-      "ctr": 0.166156202143951,
-      "position": 1.2274119448698315
+      "clicks": 221,
+      "impressions": 1249,
+      "ctr": 0.17694155324259409,
+      "position": 1.2690152121697358
     },
     {
       "query": "arco home services",
-      "clicks": 116,
-      "impressions": 607,
-      "ctr": 0.19110378912685339,
-      "position": 1.9802306425041185
+      "clicks": 124,
+      "impressions": 627,
+      "ctr": 0.19776714513556617,
+      "position": 1.9537480063795853
     },
     {
       "query": "arco plumbing",
-      "clicks": 71,
-      "impressions": 388,
-      "ctr": 0.18298969072164947,
-      "position": 6.185567010309279
+      "clicks": 62,
+      "impressions": 378,
+      "ctr": 0.164021164021164,
+      "position": 3.9206349206349205
     },
     {
       "query": "arco electric",
-      "clicks": 51,
-      "impressions": 356,
-      "ctr": 0.14325842696629212,
-      "position": 5.893258426966292
+      "clicks": 53,
+      "impressions": 350,
+      "ctr": 0.15142857142857144,
+      "position": 5.171428571428572
     },
     {
       "query": "arco heating and cooling",
-      "clicks": 33,
-      "impressions": 416,
-      "ctr": 0.07932692307692307,
-      "position": 5.012019230769231
+      "clicks": 36,
+      "impressions": 421,
+      "ctr": 0.0855106888361045,
+      "position": 4.36104513064133
     },
     {
       "query": "arco plumbing and heating",
-      "clicks": 25,
-      "impressions": 87,
-      "ctr": 0.28735632183908044,
-      "position": 3.1264367816091956
+      "clicks": 23,
+      "impressions": 91,
+      "ctr": 0.25274725274725274,
+      "position": 3.230769230769231
     },
     {
-      "query": "arco hvac",
-      "clicks": 24,
-      "impressions": 212,
-      "ctr": 0.11320754716981132,
-      "position": 8.35377358490566
+      "query": "invisible excavations",
+      "clicks": 23,
+      "impressions": 179,
+      "ctr": 0.12849162011173185,
+      "position": 1.3687150837988826
     },
     {
       "query": "arco home services ohio",
-      "clicks": 21,
-      "impressions": 74,
-      "ctr": 0.28378378378378377,
-      "position": 1.1216216216216217
-    },
-    {
-      "query": "arco comfort air llc",
-      "clicks": 18,
-      "impressions": 148,
-      "ctr": 0.12162162162162163,
-      "position": 2.945945945945946
+      "clicks": 20,
+      "impressions": 91,
+      "ctr": 0.21978021978021978,
+      "position": 1.054945054945055
     },
     {
       "query": "arco heating",
-      "clicks": 18,
-      "impressions": 76,
-      "ctr": 0.23684210526315788,
-      "position": 5.2631578947368425
+      "clicks": 19,
+      "impressions": 70,
+      "ctr": 0.2714285714285714,
+      "position": 6.185714285714286
+    },
+    {
+      "query": "arco hvac",
+      "clicks": 19,
+      "impressions": 214,
+      "ctr": 0.08878504672897196,
+      "position": 8.504672897196262
     },
     {
       "query": "arco comfort air, llc",
       "clicks": 17,
-      "impressions": 439,
-      "ctr": 0.0387243735763098,
-      "position": 1.3234624145785876
+      "impressions": 445,
+      "ctr": 0.038202247191011236,
+      "position": 1.3393258426966292
     },
     {
-      "query": "invisible excavations",
+      "query": "arco comfort air llc",
       "clicks": 16,
-      "impressions": 169,
-      "ctr": 0.09467455621301775,
-      "position": 1.301775147928994
-    },
-    {
-      "query": "arco electric cleveland ohio",
-      "clicks": 10,
-      "impressions": 77,
-      "ctr": 0.12987012987012986,
-      "position": 1.0909090909090908
-    },
-    {
-      "query": "arco ohio",
-      "clicks": 10,
-      "impressions": 55,
-      "ctr": 0.18181818181818182,
-      "position": 1.8181818181818183
-    },
-    {
-      "query": "how long to boil water for humidity",
-      "clicks": 9,
-      "impressions": 469,
-      "ctr": 0.019189765458422176,
-      "position": 4.744136460554371
+      "impressions": 130,
+      "ctr": 0.12307692307692308,
+      "position": 3.8230769230769233
     },
     {
       "query": "arco cleveland",
-      "clicks": 8,
-      "impressions": 78,
-      "ctr": 0.10256410256410256,
-      "position": 1.6025641025641026
+      "clicks": 10,
+      "impressions": 83,
+      "ctr": 0.12048192771084337,
+      "position": 1.783132530120482
     },
     {
-      "query": "does boiling water help with dry air",
+      "query": "clay sewer pipe",
+      "clicks": 10,
+      "impressions": 1192,
+      "ctr": 0.008389261744966443,
+      "position": 3.6518456375838926
+    },
+    {
+      "query": "arco ohio",
+      "clicks": 9,
+      "impressions": 51,
+      "ctr": 0.17647058823529413,
+      "position": 1.6862745098039216
+    },
+    {
+      "query": "arco electric cleveland ohio",
+      "clicks": 8,
+      "impressions": 84,
+      "ctr": 0.09523809523809523,
+      "position": 1.0476190476190477
+    },
+    {
+      "query": "how long to boil water for humidity",
+      "clicks": 8,
+      "impressions": 366,
+      "ctr": 0.02185792349726776,
+      "position": 4.724043715846994
+    },
+    {
+      "query": "clay pipe sewer",
       "clicks": 7,
-      "impressions": 630,
-      "ctr": 0.011111111111111112,
-      "position": 1.1238095238095238
+      "impressions": 771,
+      "ctr": 0.009079118028534372,
+      "position": 2.918287937743191
+    },
+    {
+      "query": "clay pipes plumbing",
+      "clicks": 7,
+      "impressions": 426,
+      "ctr": 0.01643192488262911,
+      "position": 4.823943661971831
     },
     {
       "query": "how to add moisture to dry air",
       "clicks": 7,
-      "impressions": 3583,
-      "ctr": 0.0019536701088473346,
-      "position": 1.5043259838124476
+      "impressions": 2788,
+      "ctr": 0.002510760401721664,
+      "position": 1.74103299856528
+    },
+    {
+      "query": "does boiling water help with dry air",
+      "clicks": 6,
+      "impressions": 558,
+      "ctr": 0.010752688172043012,
+      "position": 1.2939068100358422
     },
     {
       "query": "arco air",
-      "clicks": 6,
-      "impressions": 595,
-      "ctr": 0.010084033613445379,
-      "position": 7.532773109243697
+      "clicks": 5,
+      "impressions": 631,
+      "ctr": 0.00792393026941363,
+      "position": 8.114104595879557
     },
     {
       "query": "how to humidify air",
-      "clicks": 6,
-      "impressions": 206,
-      "ctr": 0.02912621359223301,
-      "position": 3.737864077669903
-    },
-    {
-      "query": "clay sewer pipe",
       "clicks": 5,
-      "impressions": 924,
-      "ctr": 0.005411255411255411,
-      "position": 4.917748917748918
+      "impressions": 161,
+      "ctr": 0.031055900621118012,
+      "position": 4.472049689440993
     },
     {
-      "query": "arco comfort",
+      "query": "pull in place pipe lining",
+      "clicks": 5,
+      "impressions": 710,
+      "ctr": 0.007042253521126761,
+      "position": 7.159154929577465
+    },
+    {
+      "query": "stuffy room",
+      "clicks": 5,
+      "impressions": 978,
+      "ctr": 0.005112474437627812,
+      "position": 4.249488752556237
+    },
+    {
+      "query": "arco services",
       "clicks": 4,
-      "impressions": 23,
-      "ctr": 0.17391304347826086,
-      "position": 1.0869565217391304
+      "impressions": 35,
+      "ctr": 0.11428571428571428,
+      "position": 4.4
     },
     {
       "query": "bowl of water for humidity",
       "clicks": 4,
-      "impressions": 225,
-      "ctr": 0.017777777777777778,
-      "position": 2.24
+      "impressions": 197,
+      "ctr": 0.02030456852791878,
+      "position": 2.5431472081218276
     },
     {
-      "query": "clay pipe sewer",
+      "query": "clay sewer pipes",
       "clicks": 4,
-      "impressions": 511,
-      "ctr": 0.007827788649706457,
-      "position": 5.176125244618396
-    },
-    {
-      "query": "clay pipes plumbing",
-      "clicks": 4,
-      "impressions": 308,
-      "ctr": 0.012987012987012988,
-      "position": 8.162337662337663
+      "impressions": 291,
+      "ctr": 0.013745704467353952,
+      "position": 6.584192439862543
     },
     {
       "query": "does boiling a pot of water increase humidity",
       "clicks": 4,
-      "impressions": 303,
-      "ctr": 0.013201320132013201,
-      "position": 1.4653465346534653
+      "impressions": 231,
+      "ctr": 0.017316017316017316,
+      "position": 1.619047619047619
     },
     {
       "query": "how to make humidifier at home",
       "clicks": 4,
-      "impressions": 308,
-      "ctr": 0.012987012987012988,
-      "position": 1.2922077922077921
+      "impressions": 235,
+      "ctr": 0.01702127659574468,
+      "position": 1.353191489361702
     },
     {
-      "query": "stuffy room",
+      "query": "sewer line belly repair cost",
       "clicks": 4,
-      "impressions": 993,
-      "ctr": 0.004028197381671702,
-      "position": 4.938569989929507
+      "impressions": 340,
+      "ctr": 0.011764705882352941,
+      "position": 3.7058823529411766
+    },
+    {
+      "query": "arco comfort",
+      "clicks": 3,
+      "impressions": 16,
+      "ctr": 0.1875,
+      "position": 1
     },
     {
       "query": "boil water to increase humidity",
       "clicks": 3,
-      "impressions": 131,
-      "ctr": 0.022900763358778626,
-      "position": 2.213740458015267
-    },
-    {
-      "query": "clay sewer pipes",
-      "clicks": 3,
-      "impressions": 237,
-      "ctr": 0.012658227848101266,
-      "position": 12.037974683544304
-    },
-    {
-      "query": "does a bowl of water help with dry air",
-      "clicks": 3,
-      "impressions": 168,
-      "ctr": 0.017857142857142856,
-      "position": 5.619047619047619
-    },
-    {
-      "query": "does a pot of water help with humidity",
-      "clicks": 3,
       "impressions": 108,
       "ctr": 0.027777777777777776,
-      "position": 1.925925925925926
+      "position": 1.8425925925925926
     },
     {
-      "query": "furnace repair",
+      "query": "bowl of water humidifier",
       "clicks": 3,
-      "impressions": 4571,
-      "ctr": 0.0006563115292058631,
-      "position": 17.644060380660687
+      "impressions": 78,
+      "ctr": 0.038461538461538464,
+      "position": 5.512820512820513
+    },
+    {
+      "query": "clay drain pipe",
+      "clicks": 3,
+      "impressions": 207,
+      "ctr": 0.014492753623188406,
+      "position": 2.971014492753623
+    },
+    {
+      "query": "clay pipes for plumbing",
+      "clicks": 3,
+      "impressions": 42,
+      "ctr": 0.07142857142857142,
+      "position": 3.0952380952380953
+    },
+    {
+      "query": "clay sewer line",
+      "clicks": 3,
+      "impressions": 135,
+      "ctr": 0.022222222222222223,
+      "position": 3.7925925925925927
     },
     {
       "query": "how to humidify a room",
       "clicks": 3,
-      "impressions": 1830,
-      "ctr": 0.001639344262295082,
-      "position": 7.9005464480874315
+      "impressions": 1298,
+      "ctr": 0.0023112480739599386,
+      "position": 9.505392912172573
+    },
+    {
+      "query": "hvac cleveland",
+      "clicks": 3,
+      "impressions": 1112,
+      "ctr": 0.002697841726618705,
+      "position": 10.799460431654676
     },
     {
       "query": "hvac companies near me",
       "clicks": 3,
-      "impressions": 75,
-      "ctr": 0.04,
-      "position": 10.306666666666667
-    },
-    {
-      "query": "hvac near me",
-      "clicks": 3,
-      "impressions": 264,
-      "ctr": 0.011363636363636364,
-      "position": 7.511363636363637
+      "impressions": 94,
+      "ctr": 0.031914893617021274,
+      "position": 10.840425531914894
     },
     {
       "query": "pot on stove humidifier",
       "clicks": 3,
-      "impressions": 45,
-      "ctr": 0.06666666666666667,
-      "position": 2.4444444444444446
-    },
-    {
-      "query": "sewer line belly repair cost",
-      "clicks": 3,
-      "impressions": 241,
-      "ctr": 0.012448132780082987,
-      "position": 4.24896265560166
+      "impressions": 41,
+      "ctr": 0.07317073170731707,
+      "position": 2.5853658536585367
     },
     {
       "query": "sewer line replacement cost",
       "clicks": 3,
-      "impressions": 2052,
-      "ctr": 0.0014619883040935672,
-      "position": 10.50243664717349
+      "impressions": 2324,
+      "ctr": 0.0012908777969018934,
+      "position": 11.831325301204819
     },
     {
       "query": "skunk smell in house",
       "clicks": 3,
-      "impressions": 72,
-      "ctr": 0.041666666666666664,
-      "position": 2.888888888888889
+      "impressions": 88,
+      "ctr": 0.03409090909090909,
+      "position": 3.022727272727273
     },
     {
       "query": "add moisture to the air",
       "clicks": 2,
-      "impressions": 557,
-      "ctr": 0.003590664272890485,
-      "position": 2.087971274685817
-    },
-    {
-      "query": "adding moisture to air",
-      "clicks": 2,
-      "impressions": 303,
-      "ctr": 0.006600660066006601,
-      "position": 3.33993399339934
+      "impressions": 432,
+      "ctr": 0.004629629629629629,
+      "position": 2.9814814814814814
     },
     {
       "query": "arco careers",
       "clicks": 2,
-      "impressions": 136,
-      "ctr": 0.014705882352941176,
-      "position": 9.617647058823529
+      "impressions": 128,
+      "ctr": 0.015625,
+      "position": 9.4140625
     },
     {
       "query": "arco comfort air reviews",
       "clicks": 2,
-      "impressions": 531,
-      "ctr": 0.003766478342749529,
-      "position": 4.199623352165725
+      "impressions": 554,
+      "ctr": 0.0036101083032490976,
+      "position": 4.1732851985559565
     },
     {
       "query": "arco jobs",
       "clicks": 2,
-      "impressions": 45,
-      "ctr": 0.044444444444444446,
-      "position": 14.222222222222221
-    },
-    {
-      "query": "arco services",
-      "clicks": 2,
-      "impressions": 32,
-      "ctr": 0.0625,
-      "position": 5.40625
-    },
-    {
-      "query": "are clay pipes good",
-      "clicks": 2,
-      "impressions": 39,
-      "ctr": 0.05128205128205128,
-      "position": 2.2051282051282053
-    },
-    {
-      "query": "argo plumbing",
-      "clicks": 2,
-      "impressions": 25,
-      "ctr": 0.08,
-      "position": 16.16
+      "impressions": 47,
+      "ctr": 0.0425531914893617,
+      "position": 13.23404255319149
     },
     {
       "query": "arko plumbing",
@@ -989,362 +989,2825 @@
     {
       "query": "boiling water humidifier",
       "clicks": 2,
-      "impressions": 292,
+      "impressions": 235,
+      "ctr": 0.00851063829787234,
+      "position": 5.48936170212766
+    },
+    {
+      "query": "boiling water to humidify house",
+      "clicks": 2,
+      "impressions": 164,
+      "ctr": 0.012195121951219513,
+      "position": 2.6280487804878048
+    },
+    {
+      "query": "can boiling water put moisture in the air",
+      "clicks": 2,
+      "impressions": 22,
+      "ctr": 0.09090909090909091,
+      "position": 2.0454545454545454
+    },
+    {
+      "query": "ceramic sewer pipe",
+      "clicks": 2,
+      "impressions": 26,
+      "ctr": 0.07692307692307693,
+      "position": 8.346153846153847
+    },
+    {
+      "query": "does a bowl of water help with dry air",
+      "clicks": 2,
+      "impressions": 130,
+      "ctr": 0.015384615384615385,
+      "position": 5.392307692307693
+    },
+    {
+      "query": "does boiling water put humidity in the air",
+      "clicks": 2,
+      "impressions": 75,
+      "ctr": 0.02666666666666667,
+      "position": 2
+    },
+    {
+      "query": "electricians elyria",
+      "clicks": 2,
+      "impressions": 20,
+      "ctr": 0.1,
+      "position": 9.65
+    },
+    {
+      "query": "furnace repair",
+      "clicks": 2,
+      "impressions": 5459,
+      "ctr": 0.00036636746656896867,
+      "position": 27.64535629236124
+    },
+    {
+      "query": "generator installers near me",
+      "clicks": 2,
+      "impressions": 402,
+      "ctr": 0.004975124378109453,
+      "position": 23.6318407960199
+    },
+    {
+      "query": "heaters near me",
+      "clicks": 2,
+      "impressions": 7,
+      "ctr": 0.2857142857142857,
+      "position": 6.857142857142857
+    },
+    {
+      "query": "high efficiency furnace venting",
+      "clicks": 2,
+      "impressions": 633,
+      "ctr": 0.00315955766192733,
+      "position": 6.78041074249605
+    },
+    {
+      "query": "home generator installation",
+      "clicks": 2,
+      "impressions": 21446,
+      "ctr": 0.00009325748391308402,
+      "position": 29.678727967919425
+    },
+    {
+      "query": "how long to boil water for humidity in winter",
+      "clicks": 2,
+      "impressions": 53,
+      "ctr": 0.03773584905660377,
+      "position": 3.7358490566037736
+    },
+    {
+      "query": "how to add moisture to the air",
+      "clicks": 2,
+      "impressions": 231,
+      "ctr": 0.008658008658008658,
+      "position": 6.233766233766234
+    },
+    {
+      "query": "how to get moisture in the air",
+      "clicks": 2,
+      "impressions": 102,
+      "ctr": 0.0196078431372549,
+      "position": 5.235294117647059
+    },
+    {
+      "query": "humidificador casero",
+      "clicks": 2,
+      "impressions": 15,
+      "ctr": 0.13333333333333333,
+      "position": 3.6
+    },
+    {
+      "query": "hvac",
+      "clicks": 2,
+      "impressions": 76,
+      "ctr": 0.02631578947368421,
+      "position": 5.7631578947368425
+    },
+    {
+      "query": "hvac near me",
+      "clicks": 2,
+      "impressions": 332,
+      "ctr": 0.006024096385542169,
+      "position": 8.852409638554217
+    },
+    {
+      "query": "luftfuktare kamin",
+      "clicks": 2,
+      "impressions": 5,
+      "ctr": 0.4,
+      "position": 2
+    },
+    {
+      "query": "pot of water for humidity",
+      "clicks": 2,
+      "impressions": 39,
+      "ctr": 0.05128205128205128,
+      "position": 3.1025641025641026
+    },
+    {
+      "query": "replace clay sewer pipe",
+      "clicks": 2,
+      "impressions": 52,
+      "ctr": 0.038461538461538464,
+      "position": 4.846153846153847
+    },
+    {
+      "query": "sewer belly repair cost",
+      "clicks": 2,
+      "impressions": 185,
+      "ctr": 0.010810810810810811,
+      "position": 4.383783783783784
+    },
+    {
+      "query": "sewer line repair",
+      "clicks": 2,
+      "impressions": 521,
+      "ctr": 0.003838771593090211,
+      "position": 4.009596928982726
+    },
+    {
+      "query": "sewer line repair cost",
+      "clicks": 2,
+      "impressions": 1617,
+      "ctr": 0.0012368583797155227,
+      "position": 13.579468150896723
+    },
+    {
+      "query": "skunk smell coming from vents",
+      "clicks": 2,
+      "impressions": 121,
+      "ctr": 0.01652892561983471,
+      "position": 4.15702479338843
+    },
+    {
+      "query": "stuffy room symptoms",
+      "clicks": 2,
+      "impressions": 93,
+      "ctr": 0.021505376344086023,
+      "position": 3.139784946236559
+    },
+    {
+      "query": "tonrohre abwasser",
+      "clicks": 2,
+      "impressions": 7,
+      "ctr": 0.2857142857142857,
+      "position": 2
+    },
+    {
+      "query": "why does my room feel stuffy",
+      "clicks": 2,
+      "impressions": 332,
+      "ctr": 0.006024096385542169,
+      "position": 4.542168674698795
+    },
+    {
+      "query": "will boiling water put moisture in the air",
+      "clicks": 2,
+      "impressions": 95,
+      "ctr": 0.021052631578947368,
+      "position": 2.0736842105263156
+    },
+    {
+      "query": "24/7 hvac near me",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 3.375
+    },
+    {
+      "query": "abwasser tonrohre sanieren",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2.5
+    },
+    {
+      "query": "ac checkup near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 5
+    },
+    {
+      "query": "ac repair in riyadh",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 30
+    },
+    {
+      "query": "ac smells like skunk",
+      "clicks": 1,
+      "impressions": 163,
+      "ctr": 0.006134969325153374,
+      "position": 5.711656441717792
+    },
+    {
+      "query": "acro plumbing",
+      "clicks": 1,
+      "impressions": 27,
+      "ctr": 0.037037037037037035,
+      "position": 10.592592592592593
+    },
+    {
+      "query": "adding moisture to air",
+      "clicks": 1,
+      "impressions": 219,
+      "ctr": 0.0045662100456621,
+      "position": 3.8493150684931505
+    },
+    {
+      "query": "adds moisture to",
+      "clicks": 1,
+      "impressions": 104,
+      "ctr": 0.009615384615384616,
+      "position": 2.1923076923076925
+    },
+    {
+      "query": "air conditioning installers near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 5.5
+    },
+    {
+      "query": "air duct sealing services",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 67
+    },
+    {
+      "query": "air humidifier",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 9.75
+    },
+    {
+      "query": "ako zvlhcit vzduch",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "arco air conditioning",
+      "clicks": 1,
+      "impressions": 79,
+      "ctr": 0.012658227848101266,
+      "position": 9.822784810126583
+    },
+    {
+      "query": "arco air heat pump",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 13.428571428571429
+    },
+    {
+      "query": "arco boilers",
+      "clicks": 1,
+      "impressions": 28,
+      "ctr": 0.03571428571428571,
+      "position": 7.535714285714286
+    },
+    {
+      "query": "arco companies",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "arco company",
+      "clicks": 1,
+      "impressions": 83,
+      "ctr": 0.012048192771084338,
+      "position": 26.325301204819276
+    },
+    {
+      "query": "arco construction",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "arco gas",
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 2
+    },
+    {
+      "query": "arco membership",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 14
+    },
+    {
+      "query": "arcoaire air conditioning and heating",
+      "clicks": 1,
+      "impressions": 40,
+      "ctr": 0.025,
+      "position": 23.875
+    },
+    {
+      "query": "arcos",
+      "clicks": 1,
+      "impressions": 65,
+      "ctr": 0.015384615384615385,
+      "position": 2.569230769230769
+    },
+    {
+      "query": "are clay pipes good",
+      "clicks": 1,
+      "impressions": 41,
+      "ctr": 0.024390243902439025,
+      "position": 2.6585365853658534
+    },
+    {
+      "query": "are clay pipes still used",
+      "clicks": 1,
+      "impressions": 31,
+      "ctr": 0.03225806451612903,
+      "position": 9.35483870967742
+    },
+    {
+      "query": "argo plumbing",
+      "clicks": 1,
+      "impressions": 26,
+      "ctr": 0.038461538461538464,
+      "position": 17.846153846153847
+    },
+    {
+      "query": "befeuchter",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "bellied sewer line",
+      "clicks": 1,
+      "impressions": 36,
+      "ctr": 0.027777777777777776,
+      "position": 20.36111111111111
+    },
+    {
+      "query": "benefits of humidifier",
+      "clicks": 1,
+      "impressions": 1634,
+      "ctr": 0.0006119951040391676,
+      "position": 9.208078335373317
+    },
+    {
+      "query": "best thing for dry air in house",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 9.875
+    },
+    {
+      "query": "boil water humidifier",
+      "clicks": 1,
+      "impressions": 53,
+      "ctr": 0.018867924528301886,
+      "position": 6.679245283018868
+    },
+    {
+      "query": "boil water to humidify home",
+      "clicks": 1,
+      "impressions": 74,
+      "ctr": 0.013513513513513514,
+      "position": 2.5405405405405403
+    },
+    {
+      "query": "boiling humidifier",
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 11.933333333333334
+    },
+    {
+      "query": "boiling pot of water for humidity",
+      "clicks": 1,
+      "impressions": 86,
+      "ctr": 0.011627906976744186,
+      "position": 2.5930232558139537
+    },
+    {
+      "query": "boiling water for dry air",
+      "clicks": 1,
+      "impressions": 66,
+      "ctr": 0.015151515151515152,
+      "position": 1.196969696969697
+    },
+    {
+      "query": "boiling water for humidifier",
+      "clicks": 1,
+      "impressions": 106,
+      "ctr": 0.009433962264150943,
+      "position": 8.226415094339622
+    },
+    {
+      "query": "boiling water to add humidity to house",
+      "clicks": 1,
+      "impressions": 115,
+      "ctr": 0.008695652173913044,
+      "position": 1.591304347826087
+    },
+    {
+      "query": "boiling water to humidify air",
+      "clicks": 1,
+      "impressions": 31,
+      "ctr": 0.03225806451612903,
+      "position": 5.67741935483871
+    },
+    {
+      "query": "bol tibétain danger",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "bowl of water in room for humidity",
+      "clicks": 1,
+      "impressions": 83,
+      "ctr": 0.012048192771084338,
+      "position": 4.710843373493976
+    },
+    {
+      "query": "bowl of water near radiator",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3
+    },
+    {
+      "query": "broken drain pipe under basement floor",
+      "clicks": 1,
+      "impressions": 33,
+      "ctr": 0.030303030303030304,
+      "position": 3.757575757575758
+    },
+    {
+      "query": "broken sewer line covered by insurance",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3
+    },
+    {
+      "query": "burst pipe repair",
+      "clicks": 1,
+      "impressions": 175,
+      "ctr": 0.005714285714285714,
+      "position": 24.04
+    },
+    {
+      "query": "burst pipes near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "can a gas leak smell like a skunk",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 1
+    },
+    {
+      "query": "can a pot of boiling water act as a humidifier",
+      "clicks": 1,
+      "impressions": 50,
+      "ctr": 0.02,
+      "position": 2.44
+    },
+    {
+      "query": "can boiling a pot of water act as a humidifier",
+      "clicks": 1,
+      "impressions": 110,
+      "ctr": 0.00909090909090909,
+      "position": 4.709090909090909
+    },
+    {
+      "query": "can boiling water help with dry air",
+      "clicks": 1,
+      "impressions": 189,
+      "ctr": 0.005291005291005291,
+      "position": 1.312169312169312
+    },
+    {
+      "query": "can i boil water to humidify the air",
+      "clicks": 1,
+      "impressions": 69,
+      "ctr": 0.014492753623188406,
+      "position": 4.101449275362318
+    },
+    {
+      "query": "can you boil water for a humidifier",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 5
+    },
+    {
+      "query": "can you boil water to put moisture in the air",
+      "clicks": 1,
+      "impressions": 61,
+      "ctr": 0.01639344262295082,
+      "position": 2.6065573770491803
+    },
+    {
+      "query": "carrier comfort series",
+      "clicks": 1,
+      "impressions": 278,
+      "ctr": 0.0035971223021582736,
+      "position": 7.125899280575539
+    },
+    {
+      "query": "central ac unit replacement",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 5
+    },
+    {
+      "query": "central air conditioning",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 2.5
+    },
+    {
+      "query": "cipp lining problems",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 58.25
+    },
+    {
+      "query": "cipp pipe lining near me",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 6.6
+    },
+    {
+      "query": "clay drain pipe home depot",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "clay drainage pipe",
+      "clicks": 1,
+      "impressions": 108,
+      "ctr": 0.009259259259259259,
+      "position": 3.4166666666666665
+    },
+    {
+      "query": "clay drainage pipes",
+      "clicks": 1,
+      "impressions": 38,
+      "ctr": 0.02631578947368421,
+      "position": 11.473684210526315
+    },
+    {
+      "query": "clay pipes for drainage",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 1
+    },
+    {
+      "query": "clay pipes in old houses",
+      "clicks": 1,
+      "impressions": 29,
+      "ctr": 0.034482758620689655,
+      "position": 2.344827586206897
+    },
+    {
+      "query": "clay pipes sewer",
+      "clicks": 1,
+      "impressions": 91,
+      "ctr": 0.01098901098901099,
+      "position": 3.8351648351648353
+    },
+    {
+      "query": "clay piping",
+      "clicks": 1,
+      "impressions": 50,
+      "ctr": 0.02,
+      "position": 1.52
+    },
+    {
+      "query": "clay plumbing pipe",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 3.5416666666666665
+    },
+    {
+      "query": "clay septic pipe",
+      "clicks": 1,
+      "impressions": 28,
+      "ctr": 0.03571428571428571,
+      "position": 2.25
+    },
+    {
+      "query": "clay sewage pipes",
+      "clicks": 1,
+      "impressions": 77,
+      "ctr": 0.012987012987012988,
+      "position": 6.87012987012987
+    },
+    {
+      "query": "clay sewer",
+      "clicks": 1,
+      "impressions": 44,
+      "ctr": 0.022727272727272728,
+      "position": 5.636363636363637
+    },
+    {
+      "query": "clay sewer pipe life expectancy",
+      "clicks": 1,
+      "impressions": 326,
+      "ctr": 0.003067484662576687,
+      "position": 8.291411042944786
+    },
+    {
+      "query": "clay sewer pipe replacement",
+      "clicks": 1,
+      "impressions": 294,
+      "ctr": 0.003401360544217687,
+      "position": 9.860544217687075
+    },
+    {
+      "query": "clay sewer pipe replacement cost",
+      "clicks": 1,
+      "impressions": 146,
       "ctr": 0.00684931506849315,
-      "position": 5.133561643835616
+      "position": 12.04109589041096
+    },
+    {
+      "query": "clay soil pipe",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 2.125
+    },
+    {
+      "query": "cleveland ohio plumbers",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 36.2
+    },
+    {
+      "query": "collapsed drain pipe under slab",
+      "clicks": 1,
+      "impressions": 163,
+      "ctr": 0.006134969325153374,
+      "position": 4.815950920245399
+    },
+    {
+      "query": "comfort air llc",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 14
+    },
+    {
+      "query": "comment humidifier une chambre rapidement",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "como hacer un humidificador casero con un vaso",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "cracked sewer pipe under house",
+      "clicks": 1,
+      "impressions": 76,
+      "ctr": 0.013157894736842105,
+      "position": 12.06578947368421
+    },
+    {
+      "query": "diy cool mist humidifier",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 1.7
+    },
+    {
+      "query": "diy humidifier for bedroom",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 5.166666666666667
+    },
+    {
+      "query": "do all humidifiers need distilled water",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "do all humidifiers use distilled water",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "do gas leaks smell like skunk",
+      "clicks": 1,
+      "impressions": 44,
+      "ctr": 0.022727272727272728,
+      "position": 1.3181818181818181
+    },
+    {
+      "query": "does a bowl of water help humidify a room",
+      "clicks": 1,
+      "impressions": 89,
+      "ctr": 0.011235955056179775,
+      "position": 7.247191011235955
+    },
+    {
+      "query": "does a pot of water help with humidity",
+      "clicks": 1,
+      "impressions": 82,
+      "ctr": 0.012195121951219513,
+      "position": 1.7804878048780488
+    },
+    {
+      "query": "does a pot of water work as a humidifier",
+      "clicks": 1,
+      "impressions": 45,
+      "ctr": 0.022222222222222223,
+      "position": 2.9111111111111114
+    },
+    {
+      "query": "does air purifier work as humidifier",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "does boiling water create humidity",
+      "clicks": 1,
+      "impressions": 48,
+      "ctr": 0.020833333333333332,
+      "position": 2.875
+    },
+    {
+      "query": "does boiling water help dry air",
+      "clicks": 1,
+      "impressions": 68,
+      "ctr": 0.014705882352941176,
+      "position": 1.2794117647058822
+    },
+    {
+      "query": "does boiling water help humidify your house",
+      "clicks": 1,
+      "impressions": 175,
+      "ctr": 0.005714285714285714,
+      "position": 2.777142857142857
+    },
+    {
+      "query": "does boiling water help put moisture in the air",
+      "clicks": 1,
+      "impressions": 60,
+      "ctr": 0.016666666666666666,
+      "position": 1.9333333333333333
+    },
+    {
+      "query": "does boiling water help with humidity",
+      "clicks": 1,
+      "impressions": 237,
+      "ctr": 0.004219409282700422,
+      "position": 1.489451476793249
+    },
+    {
+      "query": "does boiling water on stove as humidifier",
+      "clicks": 1,
+      "impressions": 83,
+      "ctr": 0.012048192771084338,
+      "position": 1.5421686746987953
+    },
+    {
+      "query": "does boiling water on stove increase humidity",
+      "clicks": 1,
+      "impressions": 125,
+      "ctr": 0.008,
+      "position": 1.456
+    },
+    {
+      "query": "does boiling water put moisture in the air",
+      "clicks": 1,
+      "impressions": 187,
+      "ctr": 0.0053475935828877,
+      "position": 1.6096256684491979
+    },
+    {
+      "query": "does boiling water raise humidity",
+      "clicks": 1,
+      "impressions": 43,
+      "ctr": 0.023255813953488372,
+      "position": 1.8139534883720931
+    },
+    {
+      "query": "does boiling water work like a humidifier",
+      "clicks": 1,
+      "impressions": 68,
+      "ctr": 0.014705882352941176,
+      "position": 2.6323529411764706
+    },
+    {
+      "query": "does dry air make it harder to breathe",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "does electric heating dry the air",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 14
+    },
+    {
+      "query": "does leaving a pot of water help humidity",
+      "clicks": 1,
+      "impressions": 57,
+      "ctr": 0.017543859649122806,
+      "position": 3.0701754385964914
+    },
+    {
+      "query": "does putting bowl of water humidify a room",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 5.052631578947368
+    },
+    {
+      "query": "dominion energy insulation rebate",
+      "clicks": 1,
+      "impressions": 89,
+      "ctr": 0.011235955056179775,
+      "position": 2.213483146067416
+    },
+    {
+      "query": "drain service near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "drain tile inspection near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "drainage repair",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "droge lucht door airco",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "droge lucht in huis oplossen",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "dry air home remedies",
+      "clicks": 1,
+      "impressions": 61,
+      "ctr": 0.01639344262295082,
+      "position": 4.491803278688525
+    },
+    {
+      "query": "dry air in house",
+      "clicks": 1,
+      "impressions": 124,
+      "ctr": 0.008064516129032258,
+      "position": 16.516129032258064
+    },
+    {
+      "query": "dry air in the house",
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 15.25
+    },
+    {
+      "query": "dry air symptoms",
+      "clicks": 1,
+      "impressions": 34,
+      "ctr": 0.029411764705882353,
+      "position": 2.8529411764705883
+    },
+    {
+      "query": "duct installation",
+      "clicks": 1,
+      "impressions": 138,
+      "ctr": 0.007246376811594203,
+      "position": 55.45652173913044
+    },
+    {
+      "query": "duct sealing near me",
+      "clicks": 1,
+      "impressions": 174,
+      "ctr": 0.005747126436781609,
+      "position": 65.65517241379311
+    },
+    {
+      "query": "electrical emergency services",
+      "clicks": 1,
+      "impressions": 25,
+      "ctr": 0.04,
+      "position": 16.439999999999998
+    },
+    {
+      "query": "electrician to hang light fixture",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "faire un humidificateur maison",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "finance a water heater",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 5.25
+    },
+    {
+      "query": "fix broken pipe under slab",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 17
+    },
+    {
+      "query": "fukta luften utan luftfuktare",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "furnace deals near me",
+      "clicks": 1,
+      "impressions": 53,
+      "ctr": 0.018867924528301886,
+      "position": 45.37735849056604
+    },
+    {
+      "query": "furnace installation",
+      "clicks": 1,
+      "impressions": 20892,
+      "ctr": 0.000047865211564235115,
+      "position": 52.08385985066054
+    },
+    {
+      "query": "furnace repair financing",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 23.31578947368421
+    },
+    {
+      "query": "furnace repair near me",
+      "clicks": 1,
+      "impressions": 909,
+      "ctr": 0.0011001100110011,
+      "position": 9.665566556655666
+    },
+    {
+      "query": "furnace replacement near me",
+      "clicks": 1,
+      "impressions": 197,
+      "ctr": 0.005076142131979695,
+      "position": 16.725888324873097
     }
   ],
   "topPages": [
     {
       "page": "https://www.goarco.com/blog/suffering-from-dry-air-heres-how-to-humidify-your-home-in-a-pinch/",
-      "clicks": 792,
-      "impressions": 140752,
-      "ctr": 0.005626918267591224,
-      "position": 4.672573036262362
+      "clicks": 675,
+      "impressions": 117512,
+      "ctr": 0.005744094220164749,
+      "position": 5.108150656954184
     },
     {
       "page": "https://www.goarco.com/",
-      "clicks": 547,
-      "impressions": 45298,
-      "ctr": 0.012075588326195418,
-      "position": 21.87694820963398
+      "clicks": 543,
+      "impressions": 40874,
+      "ctr": 0.013284728678377452,
+      "position": 18.805768948475805
     },
     {
       "page": "https://www.goarco.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*226*arco-comfort-air-bedford-heights",
       "clicks": 337,
-      "impressions": 28349,
-      "ctr": 0.011887544534198737,
-      "position": 8.613707714557833
+      "impressions": 31890,
+      "ctr": 0.010567576042646598,
+      "position": 7.970931326434619
     },
     {
       "page": "https://www.goarco.com/blog/my-home-still-has-clay-sewer-pipes-should-i-have-them-replaced/",
-      "clicks": 168,
-      "impressions": 23514,
-      "ctr": 0.007144679765246236,
-      "position": 7.515054860933912
+      "clicks": 220,
+      "impressions": 29937,
+      "ctr": 0.007348765741390253,
+      "position": 7.133881150415873
     },
     {
       "page": "https://www.goarco.com/blog/broken-sewer-lines-under-slab-what-to-do/",
-      "clicks": 94,
-      "impressions": 15112,
-      "ctr": 0.006220222339862361,
-      "position": 10.818554790894654
+      "clicks": 102,
+      "impressions": 15932,
+      "ctr": 0.006402209389907106,
+      "position": 10.21051970876224
     },
     {
       "page": "https://www.goarco.com/blog/how-much-does-sewer-line-repair-cost/",
-      "clicks": 70,
-      "impressions": 56972,
-      "ctr": 0.0012286737344660535,
-      "position": 13.777241451941304
+      "clicks": 78,
+      "impressions": 67935,
+      "ctr": 0.001148156325899757,
+      "position": 13.969691616986825
     },
     {
       "page": "https://www.goarco.com/blog/three-tips-to-eliminate-stuffy-rooms/",
-      "clicks": 66,
-      "impressions": 25375,
-      "ctr": 0.002600985221674877,
-      "position": 4.957674876847291
-    },
-    {
-      "page": "https://www.goarco.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*227*arco-comfort-air-akron",
-      "clicks": 37,
-      "impressions": 14581,
-      "ctr": 0.0025375488649612508,
-      "position": 7.210342226184761
+      "clicks": 73,
+      "impressions": 24217,
+      "ctr": 0.003014411363917909,
+      "position": 4.6123384399388865
     },
     {
       "page": "https://www.goarco.com/arco-and-invisible-excavations-join-forces/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*286*invisible-excavations-parma",
-      "clicks": 37,
-      "impressions": 3165,
-      "ctr": 0.011690363349131122,
-      "position": 6.290995260663507
+      "clicks": 71,
+      "impressions": 5247,
+      "ctr": 0.013531541833428626,
+      "position": 5.934819897084048
+    },
+    {
+      "page": "https://www.goarco.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*227*arco-comfort-air-akron",
+      "clicks": 40,
+      "impressions": 17586,
+      "ctr": 0.002274536563175253,
+      "position": 6.163027408165586
     },
     {
       "page": "https://www.goarco.com/blog/why-does-my-air-conditioner-smell/",
-      "clicks": 36,
-      "impressions": 13859,
-      "ctr": 0.002597590013709503,
-      "position": 3.479111046973086
+      "clicks": 37,
+      "impressions": 14657,
+      "ctr": 0.0025243910759364125,
+      "position": 3.360442109572218
     },
     {
       "page": "https://www.goarco.com/contact-us/careers/",
-      "clicks": 34,
-      "impressions": 2179,
-      "ctr": 0.015603487838458009,
-      "position": 9.801743919229004
+      "clicks": 33,
+      "impressions": 1943,
+      "ctr": 0.016984045290787442,
+      "position": 10.678847143592384
     },
     {
       "page": "https://www.goarco.com/contact-us/",
       "clicks": 30,
-      "impressions": 7420,
-      "ctr": 0.004043126684636119,
-      "position": 10.908760107816711
+      "impressions": 4742,
+      "ctr": 0.0063264445381695485,
+      "position": 12.276887389287221
     },
     {
       "page": "https://www.goarco.com/plumbing-services/",
-      "clicks": 26,
-      "impressions": 8669,
-      "ctr": 0.002999192525089399,
-      "position": 28.116968508478486
+      "clicks": 27,
+      "impressions": 9319,
+      "ctr": 0.0028973065779590084,
+      "position": 26.426762528168258
     },
     {
-      "page": "https://www.goarco.com/arco-and-invisible-excavations-join-forces/",
-      "clicks": 18,
-      "impressions": 6469,
-      "ctr": 0.002782501159375483,
-      "position": 46.26078219199258
-    },
-    {
-      "page": "https://www.goarco.com/electrical-services/",
-      "clicks": 17,
-      "impressions": 6386,
-      "ctr": 0.002662073285311619,
-      "position": 33.067961165048544
+      "page": "https://www.goarco.com/blog/cured-in-place-cipp-vs-pull-in-place-pip-pipe-lining/",
+      "clicks": 19,
+      "impressions": 21807,
+      "ctr": 0.0008712798642637685,
+      "position": 44.71481634337598
     },
     {
       "page": "https://www.goarco.com/blog/repairing-replacing-clay-sewer-pipe/",
-      "clicks": 14,
-      "impressions": 9006,
-      "ctr": 0.001554519209415945,
-      "position": 16.11503442149678
+      "clicks": 18,
+      "impressions": 9514,
+      "ctr": 0.0018919487071683834,
+      "position": 14.960479293672483
+    },
+    {
+      "page": "https://www.goarco.com/electrical-services/",
+      "clicks": 18,
+      "impressions": 5665,
+      "ctr": 0.003177405119152692,
+      "position": 27.338040600176523
     },
     {
       "page": "https://www.goarco.com/blog/up-to-1250-in-energy-rebates-available-through-dominion-energy/",
-      "clicks": 13,
-      "impressions": 3045,
-      "ctr": 0.004269293924466338,
-      "position": 8.442036124794745
+      "clicks": 17,
+      "impressions": 2766,
+      "ctr": 0.006146059291395517,
+      "position": 7.903832248734635
     },
     {
-      "page": "https://www.goarco.com/blog/what-you-need-to-know-about-high-efficiency-furnace-venting/",
+      "page": "https://www.goarco.com/arco-and-invisible-excavations-join-forces/",
+      "clicks": 16,
+      "impressions": 5532,
+      "ctr": 0.0028922631959508315,
+      "position": 41.321583514099785
+    },
+    {
+      "page": "https://www.goarco.com/blog/sewer-line-belly-vs-pipe-channeling/",
       "clicks": 13,
-      "impressions": 7176,
-      "ctr": 0.0018115942028985507,
-      "position": 15.150501672240802
+      "impressions": 2765,
+      "ctr": 0.004701627486437613,
+      "position": 12.801808318264014
     },
     {
       "page": "https://www.goarco.com/about-us/",
-      "clicks": 11,
-      "impressions": 6374,
-      "ctr": 0.0017257609036711642,
-      "position": 8.354565422026985
+      "clicks": 12,
+      "impressions": 3858,
+      "ctr": 0.003110419906687403,
+      "position": 8.272680145152929
     },
     {
-      "page": "https://www.goarco.com/all-offers/heating-specials/",
+      "page": "https://www.goarco.com/blog/what-you-need-to-know-about-high-efficiency-furnace-venting/",
+      "clicks": 12,
+      "impressions": 6981,
+      "ctr": 0.0017189514396218307,
+      "position": 14.301389485747027
+    },
+    {
+      "page": "https://www.goarco.com/home-generator-installation/",
+      "clicks": 12,
+      "impressions": 95125,
+      "ctr": 0.00012614980289093298,
+      "position": 28.248925098554533
+    },
+    {
+      "page": "https://www.goarco.com/about-us/maintenance-plan/",
       "clicks": 11,
-      "impressions": 4483,
-      "ctr": 0.002453714030782958,
-      "position": 26.66830247602052
+      "impressions": 1538,
+      "ctr": 0.007152145643693108,
+      "position": 17.475292587776334
     },
     {
       "page": "https://www.goarco.com/plumbing-services/frozen-burst-pipe-repair/",
       "clicks": 11,
-      "impressions": 6811,
-      "ctr": 0.0016150345030098371,
-      "position": 27.132873293202174
-    },
-    {
-      "page": "https://www.goarco.com/blog/how-to-detect-and-remove-tree-roots-from-your-sewer-lines/",
-      "clicks": 10,
-      "impressions": 6775,
-      "ctr": 0.0014760147601476014,
-      "position": 40.876457564575645
+      "impressions": 6711,
+      "ctr": 0.001639099985099091,
+      "position": 25.30442556995977
     },
     {
       "page": "https://www.goarco.com/about-us/purple-heart-homes/",
-      "clicks": 9,
-      "impressions": 46618,
-      "ctr": 0.00019305847526706422,
-      "position": 3.59689390364237
+      "clicks": 10,
+      "impressions": 44145,
+      "ctr": 0.00022652622041001246,
+      "position": 3.5239778004303997
     },
     {
-      "page": "https://www.goarco.com/blog/cured-in-place-cipp-vs-pull-in-place-pip-pipe-lining/",
+      "page": "https://www.goarco.com/all-offers/heating-specials/",
+      "clicks": 10,
+      "impressions": 3594,
+      "ctr": 0.0027824151363383415,
+      "position": 28.967445742904843
+    },
+    {
+      "page": "https://www.goarco.com/electrical-services/smoke-co-detector-installation/",
+      "clicks": 10,
+      "impressions": 2975,
+      "ctr": 0.0033613445378151263,
+      "position": 30.127394957983192
+    },
+    {
+      "page": "https://www.goarco.com/hvac-financing/",
+      "clicks": 10,
+      "impressions": 16459,
+      "ctr": 0.0006075703262652652,
+      "position": 33.48830427121939
+    },
+    {
+      "page": "https://www.goarco.com/akron/",
       "clicks": 9,
-      "impressions": 15165,
-      "ctr": 0.0005934718100890207,
-      "position": 48.13643257500824
+      "impressions": 3889,
+      "ctr": 0.0023142195937258937,
+      "position": 33.15222422216508
+    },
+    {
+      "page": "https://www.goarco.com/blog/how-to-detect-and-remove-tree-roots-from-your-sewer-lines/",
+      "clicks": 9,
+      "impressions": 6960,
+      "ctr": 0.001293103448275862,
+      "position": 32.27284482758621
     },
     {
       "page": "https://www.goarco.com/blog/new-furnace-efficiency-laws-in-northeast-ohio/",
       "clicks": 9,
-      "impressions": 557,
-      "ctr": 0.01615798922800718,
-      "position": 11.333931777378815
-    },
-    {
-      "page": "https://www.goarco.com/electrical-services/smoke-co-detector-installation/",
-      "clicks": 9,
-      "impressions": 2839,
-      "ctr": 0.0031701303275801338,
-      "position": 30.13666784078901
-    },
-    {
-      "page": "https://www.goarco.com/hvac-financing/",
-      "clicks": 9,
-      "impressions": 15917,
-      "ctr": 0.0005654331846453478,
-      "position": 35.73745052459634
-    },
-    {
-      "page": "https://www.goarco.com/about-us/maintenance-plan/",
-      "clicks": 8,
-      "impressions": 1379,
-      "ctr": 0.005801305293691081,
-      "position": 16.803480783176212
+      "impressions": 642,
+      "ctr": 0.014018691588785047,
+      "position": 12.101246105919003
     },
     {
       "page": "https://www.goarco.com/blog/why-does-your-furnace-smell-5-reasons-for-furnace-odors/",
-      "clicks": 8,
-      "impressions": 1490,
-      "ctr": 0.005369127516778523,
-      "position": 7.495302013422819
+      "clicks": 9,
+      "impressions": 1699,
+      "ctr": 0.00529723366686286,
+      "position": 5.731018246027075
     },
     {
       "page": "https://www.goarco.com/heating-services/air-duct-sealing/",
-      "clicks": 8,
-      "impressions": 1598,
-      "ctr": 0.0050062578222778474,
-      "position": 41.09386733416771
+      "clicks": 9,
+      "impressions": 1605,
+      "ctr": 0.005607476635514018,
+      "position": 40.59626168224299
     },
     {
       "page": "https://www.goarco.com/about-us/local-service-reviews/",
-      "clicks": 7,
-      "impressions": 1296,
-      "ctr": 0.005401234567901234,
-      "position": 7.610339506172839
+      "clicks": 8,
+      "impressions": 1388,
+      "ctr": 0.005763688760806916,
+      "position": 7.316282420749279
     },
     {
-      "page": "https://www.goarco.com/akron/",
-      "clicks": 7,
-      "impressions": 3834,
-      "ctr": 0.0018257694314032342,
-      "position": 37.087376108502866
+      "page": "https://www.goarco.com/about-us/financing-options-plans/",
+      "clicks": 6,
+      "impressions": 870,
+      "ctr": 0.006896551724137931,
+      "position": 11.662068965517241
     },
     {
-      "page": "https://www.goarco.com/blog/sewer-line-belly-vs-pipe-channeling/",
-      "clicks": 7,
-      "impressions": 2308,
-      "ctr": 0.0030329289428076256,
-      "position": 14.553292894280762
+      "page": "https://www.goarco.com/blog/when-should-i-replace-my-air-conditioner-with-r22-freon-refrigerant/",
+      "clicks": 6,
+      "impressions": 1554,
+      "ctr": 0.003861003861003861,
+      "position": 15.480694980694981
+    },
+    {
+      "page": "https://www.goarco.com/electrical-services/electric-car-charging-installation/",
+      "clicks": 6,
+      "impressions": 13610,
+      "ctr": 0.000440852314474651,
+      "position": 26.725495958853784
+    },
+    {
+      "page": "https://www.goarco.com/elyria/",
+      "clicks": 6,
+      "impressions": 3517,
+      "ctr": 0.0017059994313335229,
+      "position": 16.553312482229174
+    },
+    {
+      "page": "https://www.goarco.com/plumbing-services/water-heater-financing/",
+      "clicks": 6,
+      "impressions": 1501,
+      "ctr": 0.003997335109926716,
+      "position": 13.974683544303797
     },
     {
       "page": "https://www.goarco.com/strongsville/",
-      "clicks": 7,
-      "impressions": 8242,
-      "ctr": 0.0008493084202863383,
-      "position": 15.428658092695947
+      "clicks": 6,
+      "impressions": 7900,
+      "ctr": 0.0007594936708860759,
+      "position": 12.97518987341772
     },
     {
-      "page": "https://www.goarco.com/blog/air-filters-the-truth-behind-their-effectiveness/",
-      "clicks": 6,
-      "impressions": 873,
-      "ctr": 0.006872852233676976,
-      "position": 10.494845360824742
+      "page": "https://www.goarco.com/beachwood/",
+      "clicks": 5,
+      "impressions": 4950,
+      "ctr": 0.00101010101010101,
+      "position": 14.336969696969698
     },
     {
       "page": "https://www.goarco.com/blog/how-your-furnace-can-impact-your-energy-bill/",
-      "clicks": 6,
-      "impressions": 2760,
-      "ctr": 0.002173913043478261,
-      "position": 5.316666666666666
+      "clicks": 5,
+      "impressions": 2501,
+      "ctr": 0.001999200319872051,
+      "position": 5.514194322271091
     },
     {
       "page": "https://www.goarco.com/blog/seven-reasons-for-faucet-repair/",
       "clicks": 5,
       "impressions": 766,
       "ctr": 0.006527415143603133,
-      "position": 6.339425587467363
+      "position": 5.723237597911227
     },
     {
-      "page": "https://www.goarco.com/contact-us/24-7-emergency-services/",
+      "page": "https://www.goarco.com/cleveland/",
       "clicks": 5,
-      "impressions": 13706,
-      "ctr": 0.00036480373559025247,
-      "position": 28.332409163869837
+      "impressions": 2988,
+      "ctr": 0.0016733601070950468,
+      "position": 21.61144578313253
     },
     {
-      "page": "https://www.goarco.com/electrical-services/electric-car-charging-installation/",
+      "page": "https://www.goarco.com/heating-services/furnace-installation/",
       "clicks": 5,
-      "impressions": 11932,
-      "ctr": 0.00041904123365739187,
-      "position": 22.64046262152196
+      "impressions": 31988,
+      "ctr": 0.0001563086157308991,
+      "position": 52.88720770288858
     },
     {
-      "page": "https://www.goarco.com/elyria/",
+      "page": "https://www.goarco.com/plumbing-services/gas-line-installation/",
       "clicks": 5,
-      "impressions": 2542,
-      "ctr": 0.001966955153422502,
-      "position": 15.530684500393392
+      "impressions": 6492,
+      "ctr": 0.0007701786814540973,
+      "position": 35.93407270486753
     },
     {
-      "page": "https://www.goarco.com/heating-services/furnace-repair/",
-      "clicks": 5,
-      "impressions": 29630,
-      "ctr": 0.00016874789065136686,
-      "position": 31.84924063449207
-    },
-    {
-      "page": "https://www.goarco.com/home-generator-installation/",
-      "clicks": 5,
-      "impressions": 84798,
-      "ctr": 0.00005896365480317932,
-      "position": 29.468383688294534
-    },
-    {
-      "page": "https://www.goarco.com/all-offers/plumbing-specials/",
+      "page": "https://www.goarco.com/blog/air-filters-the-truth-behind-their-effectiveness/",
       "clicks": 4,
-      "impressions": 487,
-      "ctr": 0.008213552361396304,
-      "position": 27.373716632443532
+      "impressions": 1002,
+      "ctr": 0.003992015968063872,
+      "position": 11.223552894211577
     },
     {
       "page": "https://www.goarco.com/blog/the-benefits-of-using-a-humidifier/",
       "clicks": 4,
-      "impressions": 13536,
-      "ctr": 0.0002955082742316785,
-      "position": 13.418144208037825
-    },
-    {
-      "page": "https://www.goarco.com/blog/when-should-i-replace-my-air-conditioner-with-r22-freon-refrigerant/",
-      "clicks": 4,
-      "impressions": 1080,
-      "ctr": 0.003703703703703704,
-      "position": 19.84259259259259
+      "impressions": 13572,
+      "ctr": 0.0002947244326554671,
+      "position": 12.691276156793398
     },
     {
       "page": "https://www.goarco.com/brook-park/",
       "clicks": 4,
-      "impressions": 971,
-      "ctr": 0.004119464469618949,
-      "position": 27.31513903192585
+      "impressions": 1184,
+      "ctr": 0.0033783783783783786,
+      "position": 24.51266891891892
     },
     {
       "page": "https://www.goarco.com/cooling-services/air-conditioning-repair/",
       "clicks": 4,
-      "impressions": 41797,
-      "ctr": 0.00009570064837189272,
-      "position": 54.61777161040266
-    },
-    {
-      "page": "https://www.goarco.com/electrical-services/electrical-switches-and-outlets-service/",
-      "clicks": 4,
-      "impressions": 4938,
-      "ctr": 0.0008100445524503848,
-      "position": 33.863710004050226
-    },
-    {
-      "page": "https://www.goarco.com/heating-services/",
-      "clicks": 4,
-      "impressions": 3886,
-      "ctr": 0.001029336078229542,
-      "position": 16.887287699433863
-    },
-    {
-      "page": "https://www.goarco.com/heating-services/air-duct-installation/",
-      "clicks": 4,
-      "impressions": 2328,
-      "ctr": 0.001718213058419244,
-      "position": 42.881443298969074
+      "impressions": 58793,
+      "ctr": 0.00006803531032605922,
+      "position": 56.07058663446329
     }
   ],
-  "fetchedAt": "2026-03-18T13:07:57.820Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "arco comfort air",
+      "clicks": 291,
+      "impressions": 1617,
+      "ctr": 0.17996289424860853,
+      "position": 1.0303030303030303
+    },
+    {
+      "query": "arco home services",
+      "clicks": 43,
+      "impressions": 244,
+      "ctr": 0.1762295081967213,
+      "position": 1.471311475409836
+    },
+    {
+      "query": "how to add moisture to dry air",
+      "clicks": 40,
+      "impressions": 4198,
+      "ctr": 0.009528346831824679,
+      "position": 6.432110528823249
+    },
+    {
+      "query": "arco heating and cooling",
+      "clicks": 31,
+      "impressions": 292,
+      "ctr": 0.10616438356164383,
+      "position": 3.308219178082192
+    },
+    {
+      "query": "arco comfort air, llc",
+      "clicks": 27,
+      "impressions": 381,
+      "ctr": 0.07086614173228346,
+      "position": 1.1758530183727034
+    },
+    {
+      "query": "arco",
+      "clicks": 14,
+      "impressions": 338,
+      "ctr": 0.04142011834319527,
+      "position": 9.721893491124261
+    },
+    {
+      "query": "arco air cleveland",
+      "clicks": 14,
+      "impressions": 79,
+      "ctr": 0.17721518987341772,
+      "position": 1.0126582278481013
+    },
+    {
+      "query": "arco air cleveland ohio",
+      "clicks": 14,
+      "impressions": 114,
+      "ctr": 0.12280701754385964,
+      "position": 1
+    },
+    {
+      "query": "how to put moisture in the air",
+      "clicks": 13,
+      "impressions": 1339,
+      "ctr": 0.009708737864077669,
+      "position": 6.39731142643764
+    },
+    {
+      "query": "adding moisture to air",
+      "clicks": 12,
+      "impressions": 307,
+      "ctr": 0.03908794788273615,
+      "position": 5.153094462540716
+    },
+    {
+      "query": "arco air",
+      "clicks": 12,
+      "impressions": 511,
+      "ctr": 0.023483365949119372,
+      "position": 6.692759295499021
+    },
+    {
+      "query": "arco hvac",
+      "clicks": 12,
+      "impressions": 205,
+      "ctr": 0.05853658536585366,
+      "position": 3.7121951219512197
+    },
+    {
+      "query": "how to add moisture to the air",
+      "clicks": 12,
+      "impressions": 795,
+      "ctr": 0.01509433962264151,
+      "position": 6.144654088050315
+    },
+    {
+      "query": "arco cleveland",
+      "clicks": 11,
+      "impressions": 84,
+      "ctr": 0.13095238095238096,
+      "position": 2.2976190476190474
+    },
+    {
+      "query": "arco plumbing",
+      "clicks": 11,
+      "impressions": 109,
+      "ctr": 0.10091743119266056,
+      "position": 5.577981651376147
+    },
+    {
+      "query": "arco comfort air llc",
+      "clicks": 10,
+      "impressions": 34,
+      "ctr": 0.29411764705882354,
+      "position": 1.1470588235294117
+    },
+    {
+      "query": "add moisture to the air",
+      "clicks": 8,
+      "impressions": 805,
+      "ctr": 0.009937888198757764,
+      "position": 6.990062111801242
+    },
+    {
+      "query": "arco comfort air reviews",
+      "clicks": 8,
+      "impressions": 984,
+      "ctr": 0.008130081300813009,
+      "position": 1.8658536585365852
+    },
+    {
+      "query": "how to humidify air",
+      "clicks": 8,
+      "impressions": 407,
+      "ctr": 0.019656019656019656,
+      "position": 5.808353808353808
+    },
+    {
+      "query": "how to humidify the air",
+      "clicks": 6,
+      "impressions": 536,
+      "ctr": 0.011194029850746268,
+      "position": 6.628731343283582
+    },
+    {
+      "query": "how to moisturize air",
+      "clicks": 6,
+      "impressions": 320,
+      "ctr": 0.01875,
+      "position": 5.078125
+    },
+    {
+      "query": "boiling water for humidity",
+      "clicks": 5,
+      "impressions": 347,
+      "ctr": 0.01440922190201729,
+      "position": 7.789625360230548
+    },
+    {
+      "query": "furnace repair near me",
+      "clicks": 5,
+      "impressions": 3303,
+      "ctr": 0.0015137753557372085,
+      "position": 10.405086285195278
+    },
+    {
+      "query": "how to keep air moist",
+      "clicks": 5,
+      "impressions": 279,
+      "ctr": 0.017921146953405017,
+      "position": 6.838709677419355
+    },
+    {
+      "query": "how to moisten air",
+      "clicks": 5,
+      "impressions": 211,
+      "ctr": 0.023696682464454975,
+      "position": 4.511848341232227
+    },
+    {
+      "query": "how to moisten the air",
+      "clicks": 5,
+      "impressions": 420,
+      "ctr": 0.011904761904761904,
+      "position": 4.816666666666666
+    },
+    {
+      "query": "how to put moisture into dry air",
+      "clicks": 5,
+      "impressions": 724,
+      "ctr": 0.006906077348066298,
+      "position": 7.201657458563536
+    },
+    {
+      "query": "boiling a pot of water for humidity",
+      "clicks": 4,
+      "impressions": 186,
+      "ctr": 0.021505376344086023,
+      "position": 6.612903225806452
+    },
+    {
+      "query": "boiling water on stove for humidity",
+      "clicks": 4,
+      "impressions": 198,
+      "ctr": 0.020202020202020204,
+      "position": 6.742424242424242
+    },
+    {
+      "query": "can i boil water to humidify the air",
+      "clicks": 4,
+      "impressions": 91,
+      "ctr": 0.04395604395604396,
+      "position": 6.428571428571429
+    },
+    {
+      "query": "how long to boil water for humidity",
+      "clicks": 4,
+      "impressions": 301,
+      "ctr": 0.013289036544850499,
+      "position": 7.538205980066445
+    },
+    {
+      "query": "how to get moisture in the air",
+      "clicks": 4,
+      "impressions": 595,
+      "ctr": 0.0067226890756302525,
+      "position": 7.284033613445378
+    },
+    {
+      "query": "how to moisturise the air",
+      "clicks": 4,
+      "impressions": 131,
+      "ctr": 0.030534351145038167,
+      "position": 3.8473282442748094
+    },
+    {
+      "query": "arco comfort air photos",
+      "clicks": 3,
+      "impressions": 45,
+      "ctr": 0.06666666666666667,
+      "position": 2.6444444444444444
+    },
+    {
+      "query": "arco heating",
+      "clicks": 3,
+      "impressions": 66,
+      "ctr": 0.045454545454545456,
+      "position": 7.696969696969697
+    },
+    {
+      "query": "boiling water to humidify air",
+      "clicks": 3,
+      "impressions": 158,
+      "ctr": 0.0189873417721519,
+      "position": 5.455696202531645
+    },
+    {
+      "query": "boiling water to increase humidity",
+      "clicks": 3,
+      "impressions": 240,
+      "ctr": 0.0125,
+      "position": 9.104166666666666
+    },
+    {
+      "query": "boiling water to put moisture in the air",
+      "clicks": 3,
+      "impressions": 81,
+      "ctr": 0.037037037037037035,
+      "position": 5.172839506172839
+    },
+    {
+      "query": "does boiling a pot of water help humidity",
+      "clicks": 3,
+      "impressions": 502,
+      "ctr": 0.00597609561752988,
+      "position": 6.749003984063745
+    },
+    {
+      "query": "does boiling water help humidify your house",
+      "clicks": 3,
+      "impressions": 160,
+      "ctr": 0.01875,
+      "position": 6.85625
+    },
+    {
+      "query": "does boiling water help with dry air",
+      "clicks": 3,
+      "impressions": 232,
+      "ctr": 0.01293103448275862,
+      "position": 5.133620689655173
+    },
+    {
+      "query": "does boiling water humidify a room",
+      "clicks": 3,
+      "impressions": 226,
+      "ctr": 0.01327433628318584,
+      "position": 7.716814159292035
+    },
+    {
+      "query": "does boiling water put moisture in the air",
+      "clicks": 3,
+      "impressions": 261,
+      "ctr": 0.011494252873563218,
+      "position": 5.597701149425287
+    },
+    {
+      "query": "dry air in house",
+      "clicks": 3,
+      "impressions": 370,
+      "ctr": 0.008108108108108109,
+      "position": 35.80810810810811
+    },
+    {
+      "query": "high efficiency gas furnace exhaust smell",
+      "clicks": 3,
+      "impressions": 12,
+      "ctr": 0.25,
+      "position": 2.583333333333333
+    },
+    {
+      "query": "how long to boil water for humidity in winter",
+      "clicks": 3,
+      "impressions": 29,
+      "ctr": 0.10344827586206896,
+      "position": 4.827586206896552
+    },
+    {
+      "query": "how to add moisture to dry air in room",
+      "clicks": 3,
+      "impressions": 222,
+      "ctr": 0.013513513513513514,
+      "position": 10.50900900900901
+    },
+    {
+      "query": "how to get moisture in the air at home",
+      "clicks": 3,
+      "impressions": 41,
+      "ctr": 0.07317073170731707,
+      "position": 8.75609756097561
+    },
+    {
+      "query": "how to keep the air moist",
+      "clicks": 3,
+      "impressions": 149,
+      "ctr": 0.020134228187919462,
+      "position": 7.503355704697986
+    },
+    {
+      "query": "how to moisturize air in home",
+      "clicks": 3,
+      "impressions": 100,
+      "ctr": 0.03,
+      "position": 7.6
+    },
+    {
+      "query": "putting moisture in the air",
+      "clicks": 3,
+      "impressions": 152,
+      "ctr": 0.019736842105263157,
+      "position": 5.578947368421052
+    },
+    {
+      "query": "te droge lucht in huis symptomen",
+      "clicks": 3,
+      "impressions": 3,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "water heater financing no credit check",
+      "clicks": 3,
+      "impressions": 41,
+      "ctr": 0.07317073170731707,
+      "position": 8.682926829268293
+    },
+    {
+      "query": "ways to put moisture in the air",
+      "clicks": 3,
+      "impressions": 101,
+      "ctr": 0.0297029702970297,
+      "position": 8.267326732673268
+    },
+    {
+      "query": "add moisture to air",
+      "clicks": 2,
+      "impressions": 96,
+      "ctr": 0.020833333333333332,
+      "position": 5.625
+    },
+    {
+      "query": "arco comfort air, llc, 5060 corbin dr, bedford heights, oh 44128",
+      "clicks": 2,
+      "impressions": 19,
+      "ctr": 0.10526315789473684,
+      "position": 1
+    },
+    {
+      "query": "arco electrical",
+      "clicks": 2,
+      "impressions": 4,
+      "ctr": 0.5,
+      "position": 1.75
+    },
+    {
+      "query": "arco furnace",
+      "clicks": 2,
+      "impressions": 92,
+      "ctr": 0.021739130434782608,
+      "position": 9.684782608695652
+    },
+    {
+      "query": "best hvac companies near me",
+      "clicks": 2,
+      "impressions": 6,
+      "ctr": 0.3333333333333333,
+      "position": 6
+    },
+    {
+      "query": "boil water on stove for humidity",
+      "clicks": 2,
+      "impressions": 68,
+      "ctr": 0.029411764705882353,
+      "position": 7.514705882352941
+    },
+    {
+      "query": "boiling water as humidifier",
+      "clicks": 2,
+      "impressions": 77,
+      "ctr": 0.025974025974025976,
+      "position": 7.5064935064935066
+    },
+    {
+      "query": "boiling water to add humidity",
+      "clicks": 2,
+      "impressions": 77,
+      "ctr": 0.025974025974025976,
+      "position": 7.324675324675325
+    },
+    {
+      "query": "can boiling water help with dry air",
+      "clicks": 2,
+      "impressions": 83,
+      "ctr": 0.024096385542168676,
+      "position": 4.879518072289157
+    },
+    {
+      "query": "can placing a bowl of water humidify a room",
+      "clicks": 2,
+      "impressions": 5,
+      "ctr": 0.4,
+      "position": 2.8
+    },
+    {
+      "query": "comfort air",
+      "clicks": 2,
+      "impressions": 1359,
+      "ctr": 0.0014716703458425313,
+      "position": 45.35467255334805
+    },
+    {
+      "query": "does a bowl of water help with dry air",
+      "clicks": 2,
+      "impressions": 283,
+      "ctr": 0.007067137809187279,
+      "position": 8.780918727915195
+    },
+    {
+      "query": "does a bowl of water humidify a room",
+      "clicks": 2,
+      "impressions": 23,
+      "ctr": 0.08695652173913043,
+      "position": 5.391304347826087
+    },
+    {
+      "query": "does boiling water add humidity to the air",
+      "clicks": 2,
+      "impressions": 226,
+      "ctr": 0.008849557522123894,
+      "position": 6.946902654867257
+    },
+    {
+      "query": "does boiling water help dry air",
+      "clicks": 2,
+      "impressions": 58,
+      "ctr": 0.034482758620689655,
+      "position": 4.724137931034482
+    },
+    {
+      "query": "does boiling water increase humidity",
+      "clicks": 2,
+      "impressions": 118,
+      "ctr": 0.01694915254237288,
+      "position": 8.97457627118644
+    },
+    {
+      "query": "does boiling water on stove as humidifier",
+      "clicks": 2,
+      "impressions": 80,
+      "ctr": 0.025,
+      "position": 7.525
+    },
+    {
+      "query": "does boiling water on the stove work as a humidifier",
+      "clicks": 2,
+      "impressions": 49,
+      "ctr": 0.04081632653061224,
+      "position": 4.857142857142858
+    },
+    {
+      "query": "does leaving a pot of water help humidity",
+      "clicks": 2,
+      "impressions": 41,
+      "ctr": 0.04878048780487805,
+      "position": 7.317073170731708
+    },
+    {
+      "query": "does putting a pot of water help humidity",
+      "clicks": 2,
+      "impressions": 79,
+      "ctr": 0.02531645569620253,
+      "position": 7.962025316455696
+    },
+    {
+      "query": "dry air",
+      "clicks": 2,
+      "impressions": 190,
+      "ctr": 0.010526315789473684,
+      "position": 35.752631578947366
+    },
+    {
+      "query": "dry air in house during winter",
+      "clicks": 2,
+      "impressions": 2,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "faire bouillir de l eau pour humidifier l air",
+      "clicks": 2,
+      "impressions": 11,
+      "ctr": 0.18181818181818182,
+      "position": 2
+    },
+    {
+      "query": "furnace repair cleveland",
+      "clicks": 2,
+      "impressions": 1604,
+      "ctr": 0.0012468827930174563,
+      "position": 24.73877805486284
+    },
+    {
+      "query": "goarco",
+      "clicks": 2,
+      "impressions": 27,
+      "ctr": 0.07407407407407407,
+      "position": 2.4444444444444446
+    },
+    {
+      "query": "high efficiency furnace exhaust",
+      "clicks": 2,
+      "impressions": 55,
+      "ctr": 0.03636363636363636,
+      "position": 21.70909090909091
+    },
+    {
+      "query": "homemade humidifier",
+      "clicks": 2,
+      "impressions": 64,
+      "ctr": 0.03125,
+      "position": 2.734375
+    },
+    {
+      "query": "how can i put moisture in the air",
+      "clicks": 2,
+      "impressions": 70,
+      "ctr": 0.02857142857142857,
+      "position": 6.328571428571428
+    },
+    {
+      "query": "how to add moisture to a room",
+      "clicks": 2,
+      "impressions": 64,
+      "ctr": 0.03125,
+      "position": 12.296875
+    },
+    {
+      "query": "how to add moisture to the air without a humidifier",
+      "clicks": 2,
+      "impressions": 172,
+      "ctr": 0.011627906976744186,
+      "position": 18.25581395348837
+    },
+    {
+      "query": "how to make dry air moist",
+      "clicks": 2,
+      "impressions": 93,
+      "ctr": 0.021505376344086023,
+      "position": 6.236559139784946
+    },
+    {
+      "query": "how to make the air moist",
+      "clicks": 2,
+      "impressions": 99,
+      "ctr": 0.020202020202020204,
+      "position": 5.555555555555555
+    },
+    {
+      "query": "how to moisture the air",
+      "clicks": 2,
+      "impressions": 148,
+      "ctr": 0.013513513513513514,
+      "position": 5.216216216216216
+    },
+    {
+      "query": "how to put moisture in the air at home",
+      "clicks": 2,
+      "impressions": 102,
+      "ctr": 0.0196078431372549,
+      "position": 6.598039215686274
+    },
+    {
+      "query": "humidificador casero",
+      "clicks": 2,
+      "impressions": 62,
+      "ctr": 0.03225806451612903,
+      "position": 2.17741935483871
+    },
+    {
+      "query": "is boiling water the same as a humidifier",
+      "clicks": 2,
+      "impressions": 14,
+      "ctr": 0.14285714285714285,
+      "position": 1.6428571428571428
+    },
+    {
+      "query": "lucht bevochtigen met waterkoker",
+      "clicks": 2,
+      "impressions": 13,
+      "ctr": 0.15384615384615385,
+      "position": 2
+    },
+    {
+      "query": "luft befeuchten hausmittel",
+      "clicks": 2,
+      "impressions": 18,
+      "ctr": 0.1111111111111111,
+      "position": 2
+    },
+    {
+      "query": "mini split repair near me",
+      "clicks": 2,
+      "impressions": 190,
+      "ctr": 0.010526315789473684,
+      "position": 6.563157894736842
+    },
+    {
+      "query": "pot of water on stove for humidity",
+      "clicks": 2,
+      "impressions": 93,
+      "ctr": 0.021505376344086023,
+      "position": 6.795698924731183
+    },
+    {
+      "query": "stuffy bedroom at night",
+      "clicks": 2,
+      "impressions": 33,
+      "ctr": 0.06060606060606061,
+      "position": 13.848484848484848
+    },
+    {
+      "query": "te droge lucht in huis",
+      "clicks": 2,
+      "impressions": 8,
+      "ctr": 0.25,
+      "position": 2
+    },
+    {
+      "query": "what adds moisture to the air",
+      "clicks": 2,
+      "impressions": 267,
+      "ctr": 0.00749063670411985,
+      "position": 6.048689138576779
+    },
+    {
+      "query": "what can you do to put moisture in the air",
+      "clicks": 2,
+      "impressions": 29,
+      "ctr": 0.06896551724137931,
+      "position": 6.862068965517241
+    },
+    {
+      "query": "why is my bedroom so stuffy",
+      "clicks": 2,
+      "impressions": 153,
+      "ctr": 0.013071895424836602,
+      "position": 6.006535947712418
+    },
+    {
+      "query": "why is my room so stuffy",
+      "clicks": 2,
+      "impressions": 756,
+      "ctr": 0.0026455026455026454,
+      "position": 6.756613756613756
+    },
+    {
+      "query": "will boiling water increase humidity",
+      "clicks": 2,
+      "impressions": 122,
+      "ctr": 0.01639344262295082,
+      "position": 8.565573770491802
+    },
+    {
+      "query": "will boiling water put moisture in the air",
+      "clicks": 2,
+      "impressions": 91,
+      "ctr": 0.02197802197802198,
+      "position": 6.230769230769231
+    },
+    {
+      "query": "какую воду заливать в увлажнитель",
+      "clicks": 2,
+      "impressions": 15,
+      "ctr": 0.13333333333333333,
+      "position": 2
+    },
+    {
+      "query": "20% humidity",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "acro air",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 3.2
+    },
+    {
+      "query": "adding moisture to the air",
+      "clicks": 1,
+      "impressions": 93,
+      "ctr": 0.010752688172043012,
+      "position": 6.473118279569892
+    },
+    {
+      "query": "air conditioner cleaning",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "air conditioner specials near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "air conditioning",
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 1.5
+    },
+    {
+      "query": "air conditioning installation services",
+      "clicks": 1,
+      "impressions": 103,
+      "ctr": 0.009708737864077669,
+      "position": 19.57281553398058
+    },
+    {
+      "query": "air conditioning repair near me",
+      "clicks": 1,
+      "impressions": 1035,
+      "ctr": 0.000966183574879227,
+      "position": 12.481159420289854
+    },
+    {
+      "query": "air duct restoration",
+      "clicks": 1,
+      "impressions": 160,
+      "ctr": 0.00625,
+      "position": 83.15
+    },
+    {
+      "query": "air exchanger making house too dry",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "air is super dry in bedroom",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "air line installation near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "air moisture machine",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2
+    },
+    {
+      "query": "arco heating & cooling",
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 2.8
+    },
+    {
+      "query": "arco heating and air conditioning",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 5.133333333333334
+    },
+    {
+      "query": "arco llc",
+      "clicks": 1,
+      "impressions": 21,
+      "ctr": 0.047619047619047616,
+      "position": 33.95238095238095
+    },
+    {
+      "query": "arco ohio",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 4.733333333333333
+    },
+    {
+      "query": "arco plumbing and heating",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 12.526315789473685
+    },
+    {
+      "query": "bedroom stuffy at night",
+      "clicks": 1,
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 5.5
+    },
+    {
+      "query": "best way to add moisture to dry air",
+      "clicks": 1,
+      "impressions": 169,
+      "ctr": 0.005917159763313609,
+      "position": 9.112426035502958
+    },
+    {
+      "query": "best way to put moisture in the air",
+      "clicks": 1,
+      "impressions": 211,
+      "ctr": 0.004739336492890996,
+      "position": 8.507109004739338
+    },
+    {
+      "query": "big w air purifier",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "boil pot of water humidifier",
+      "clicks": 1,
+      "impressions": 40,
+      "ctr": 0.025,
+      "position": 8.525
+    },
+    {
+      "query": "boil water humidity",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 9.2
+    },
+    {
+      "query": "boil water to humidify home",
+      "clicks": 1,
+      "impressions": 41,
+      "ctr": 0.024390243902439025,
+      "position": 6.2926829268292686
+    },
+    {
+      "query": "boiling pot of water for humidity",
+      "clicks": 1,
+      "impressions": 109,
+      "ctr": 0.009174311926605505,
+      "position": 6.6422018348623855
+    },
+    {
+      "query": "boiling salt water for humidity",
+      "clicks": 1,
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 10.78125
+    },
+    {
+      "query": "boiling water for dry air",
+      "clicks": 1,
+      "impressions": 115,
+      "ctr": 0.008695652173913044,
+      "position": 5.3826086956521735
+    },
+    {
+      "query": "boiling water for humidity in house",
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 8.466666666666667
+    },
+    {
+      "query": "boiling water for moisture",
+      "clicks": 1,
+      "impressions": 68,
+      "ctr": 0.014705882352941176,
+      "position": 6.602941176470588
+    },
+    {
+      "query": "boiling water humidifier",
+      "clicks": 1,
+      "impressions": 155,
+      "ctr": 0.0064516129032258064,
+      "position": 9.161290322580646
+    },
+    {
+      "query": "boiling water in winter for humidity",
+      "clicks": 1,
+      "impressions": 37,
+      "ctr": 0.02702702702702703,
+      "position": 8.45945945945946
+    },
+    {
+      "query": "boiling water on stove to increase humidity",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 7.538461538461538
+    },
+    {
+      "query": "boiling water on the stove for humidity",
+      "clicks": 1,
+      "impressions": 54,
+      "ctr": 0.018518518518518517,
+      "position": 5.833333333333333
+    },
+    {
+      "query": "boiling water to raise humidity",
+      "clicks": 1,
+      "impressions": 28,
+      "ctr": 0.03571428571428571,
+      "position": 9
+    },
+    {
+      "query": "burst pipe plumber",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 9.285714285714286
+    },
+    {
+      "query": "can boiling water act as a humidifier",
+      "clicks": 1,
+      "impressions": 56,
+      "ctr": 0.017857142857142856,
+      "position": 6.107142857142857
+    },
+    {
+      "query": "can boiling water humidify a room",
+      "clicks": 1,
+      "impressions": 25,
+      "ctr": 0.04,
+      "position": 9.52
+    },
+    {
+      "query": "can boiling water increase humidity",
+      "clicks": 1,
+      "impressions": 84,
+      "ctr": 0.011904761904761904,
+      "position": 9.44047619047619
+    },
+    {
+      "query": "can dry air in your home cause headaches",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2.5
+    },
+    {
+      "query": "can dry air make you cough",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "can you boil water as a humidifier",
+      "clicks": 1,
+      "impressions": 22,
+      "ctr": 0.045454545454545456,
+      "position": 7.863636363636363
+    },
+    {
+      "query": "can you boil water to add humidity",
+      "clicks": 1,
+      "impressions": 33,
+      "ctr": 0.030303030303030304,
+      "position": 7.545454545454546
+    },
+    {
+      "query": "can you boil water to put moisture in the air",
+      "clicks": 1,
+      "impressions": 62,
+      "ctr": 0.016129032258064516,
+      "position": 5.483870967741935
+    },
+    {
+      "query": "can you increase humidity by boiling water",
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 8
+    },
+    {
+      "query": "can you make a humidifier at home",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2.5
+    },
+    {
+      "query": "can you use boiled water in a humidifier",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3
+    },
+    {
+      "query": "can you use hot water in humidifier",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "cara agar kamar tidak panas dan pengap",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 2.583333333333333
+    },
+    {
+      "query": "central air conditioner size calculator",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 2.2857142857142856
+    },
+    {
+      "query": "cheap furnace repair",
+      "clicks": 1,
+      "impressions": 44,
+      "ctr": 0.022727272727272728,
+      "position": 49.88636363636363
+    },
+    {
+      "query": "cheap furnace repair near me",
+      "clicks": 1,
+      "impressions": 536,
+      "ctr": 0.0018656716417910447,
+      "position": 42.91977611940298
+    },
+    {
+      "query": "cheap humidifier",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 3
+    },
+    {
+      "query": "clicks humidifier",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "co to znaczy punkt rosy",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "comfort air heating & cooling",
+      "clicks": 1,
+      "impressions": 259,
+      "ctr": 0.003861003861003861,
+      "position": 54.965250965250966
+    },
+    {
+      "query": "como hacer un humidificador casero",
+      "clicks": 1,
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 2
+    },
+    {
+      "query": "como humedecer el ambiente",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 2.428571428571429
+    },
+    {
+      "query": "como humidificar el ambiente",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 2.25
+    },
+    {
+      "query": "como humidificar el cuarto",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 4.8
+    },
+    {
+      "query": "cómo hacer un humidificador casero",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2
+    },
+    {
+      "query": "dirty dryer",
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 10.466666666666667
+    },
+    {
+      "query": "diy humidifer",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "diy humidifier",
+      "clicks": 1,
+      "impressions": 47,
+      "ctr": 0.02127659574468085,
+      "position": 2.8085106382978724
+    },
+    {
+      "query": "do humidifiers cause mould",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "do it yourself humidifier",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2.5
+    },
+    {
+      "query": "does a pot of water help with humidity",
+      "clicks": 1,
+      "impressions": 102,
+      "ctr": 0.00980392156862745,
+      "position": 6.696078431372549
+    },
+    {
+      "query": "does a pot of water work as a humidifier",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 5.888888888888889
+    },
+    {
+      "query": "does boiling a pot of water work as a humidifier",
+      "clicks": 1,
+      "impressions": 47,
+      "ctr": 0.02127659574468085,
+      "position": 7.0212765957446805
+    },
+    {
+      "query": "does boiling water act as a humidifier",
+      "clicks": 1,
+      "impressions": 31,
+      "ctr": 0.03225806451612903,
+      "position": 5.870967741935484
+    },
+    {
+      "query": "does boiling water add moisture to the air",
+      "clicks": 1,
+      "impressions": 338,
+      "ctr": 0.0029585798816568047,
+      "position": 7.204142011834319
+    },
+    {
+      "query": "does boiling water create humidity",
+      "clicks": 1,
+      "impressions": 77,
+      "ctr": 0.012987012987012988,
+      "position": 8.03896103896104
+    },
+    {
+      "query": "does boiling water help increase humidity",
+      "clicks": 1,
+      "impressions": 82,
+      "ctr": 0.012195121951219513,
+      "position": 8
+    },
+    {
+      "query": "does boiling water help with humidity",
+      "clicks": 1,
+      "impressions": 287,
+      "ctr": 0.003484320557491289,
+      "position": 8.59233449477352
+    },
+    {
+      "query": "does boiling water put humidity in the air",
+      "clicks": 1,
+      "impressions": 96,
+      "ctr": 0.010416666666666666,
+      "position": 7.583333333333333
+    },
+    {
+      "query": "does boiling water work as a humidifier",
+      "clicks": 1,
+      "impressions": 86,
+      "ctr": 0.011627906976744186,
+      "position": 6.511627906976744
+    },
+    {
+      "query": "does dry air cause mucus",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "does dry air cause nosebleeds",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "does leaving a bowl of water humidify a room",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 5.368421052631579
+    },
+    {
+      "query": "does leaving water out increase humidity",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2.666666666666667
+    },
+    {
+      "query": "does opening the window help with dry air",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "domowy nawilżacz powietrza",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "droge lucht airco tegengaan",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "droge lucht in huis door ventilatiesysteem",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 5.333333333333333
+    },
+    {
+      "query": "droge lucht in huis oplossen",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "dry air heating",
+      "clicks": 1,
+      "impressions": 23,
+      "ctr": 0.043478260869565216,
+      "position": 76.6086956521739
+    },
+    {
+      "query": "dry air in home",
+      "clicks": 1,
+      "impressions": 162,
+      "ctr": 0.006172839506172839,
+      "position": 42.358024691358025
+    },
+    {
+      "query": "dry air in house solutions",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 69.33333333333333
+    },
+    {
+      "query": "dry air in room symptoms",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2.333333333333333
+    },
+    {
+      "query": "dry air in summer",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 35.5
+    },
+    {
+      "query": "dry air in the bedroom",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "dry air in the house",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 29.125
+    },
+    {
+      "query": "dry air meaning",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 2.6
+    },
+    {
+      "query": "dry air symptoms",
+      "clicks": 1,
+      "impressions": 62,
+      "ctr": 0.016129032258064516,
+      "position": 2.725806451612903
+    },
+    {
+      "query": "dry cold air",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2.5
+    },
+    {
+      "query": "dry lungs meaning",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "dry lungs symptoms",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 2.75
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:22:29.622Z"
 }

@@ -2,138 +2,18 @@
   "propertyId": "properties/348878514",
   "displayName": "Clixsy Website - GA4",
   "dateRange": {
-    "start": "2025-12-17",
-    "end": "2026-03-17"
+    "start": "2026-01-06",
+    "end": "2026-04-06"
   },
   "totals": {
-    "sessions": 995,
-    "users": 909,
-    "screenPageViews": 1446,
-    "organicSessions": 284,
-    "bounceRate": 0.5877894932947323,
-    "avgSessionDuration": 90.35588182217599
+    "sessions": 594,
+    "users": 548,
+    "screenPageViews": 863,
+    "organicSessions": 174,
+    "bounceRate": 0.5659473149527681,
+    "avgSessionDuration": 104.43301152499816
   },
   "dailyData": [
-    {
-      "date": "2025-12-17",
-      "sessions": 31,
-      "users": 27,
-      "screenPageViews": 40
-    },
-    {
-      "date": "2025-12-18",
-      "sessions": 11,
-      "users": 11,
-      "screenPageViews": 14
-    },
-    {
-      "date": "2025-12-19",
-      "sessions": 18,
-      "users": 15,
-      "screenPageViews": 32
-    },
-    {
-      "date": "2025-12-20",
-      "sessions": 14,
-      "users": 14,
-      "screenPageViews": 23
-    },
-    {
-      "date": "2025-12-21",
-      "sessions": 9,
-      "users": 8,
-      "screenPageViews": 9
-    },
-    {
-      "date": "2025-12-22",
-      "sessions": 26,
-      "users": 20,
-      "screenPageViews": 33
-    },
-    {
-      "date": "2025-12-23",
-      "sessions": 25,
-      "users": 25,
-      "screenPageViews": 39
-    },
-    {
-      "date": "2025-12-24",
-      "sessions": 31,
-      "users": 21,
-      "screenPageViews": 29
-    },
-    {
-      "date": "2025-12-25",
-      "sessions": 11,
-      "users": 9,
-      "screenPageViews": 11
-    },
-    {
-      "date": "2025-12-26",
-      "sessions": 17,
-      "users": 16,
-      "screenPageViews": 38
-    },
-    {
-      "date": "2025-12-27",
-      "sessions": 15,
-      "users": 15,
-      "screenPageViews": 18
-    },
-    {
-      "date": "2025-12-28",
-      "sessions": 11,
-      "users": 11,
-      "screenPageViews": 41
-    },
-    {
-      "date": "2025-12-29",
-      "sessions": 36,
-      "users": 32,
-      "screenPageViews": 64
-    },
-    {
-      "date": "2025-12-30",
-      "sessions": 34,
-      "users": 31,
-      "screenPageViews": 41
-    },
-    {
-      "date": "2025-12-31",
-      "sessions": 18,
-      "users": 17,
-      "screenPageViews": 24
-    },
-    {
-      "date": "2026-01-01",
-      "sessions": 12,
-      "users": 11,
-      "screenPageViews": 12
-    },
-    {
-      "date": "2026-01-02",
-      "sessions": 25,
-      "users": 25,
-      "screenPageViews": 37
-    },
-    {
-      "date": "2026-01-03",
-      "sessions": 19,
-      "users": 19,
-      "screenPageViews": 30
-    },
-    {
-      "date": "2026-01-04",
-      "sessions": 9,
-      "users": 9,
-      "screenPageViews": 9
-    },
-    {
-      "date": "2026-01-05",
-      "sessions": 29,
-      "users": 25,
-      "screenPageViews": 39
-    },
     {
       "date": "2026-01-06",
       "sessions": 43,
@@ -378,125 +258,117 @@
   "channelData": [
     {
       "channel": "Direct",
-      "sessions": 566,
-      "users": 517
+      "sessions": 320,
+      "users": 293
     },
     {
       "channel": "Organic Search",
-      "sessions": 284,
-      "users": 209
+      "sessions": 174,
+      "users": 141
     },
     {
       "channel": "Referral",
-      "sessions": 110,
-      "users": 77
+      "sessions": 79,
+      "users": 56
     },
     {
       "channel": "Organic Social",
-      "sessions": 26,
-      "users": 23
+      "sessions": 15,
+      "users": 14
     },
     {
       "channel": "Unassigned",
-      "sessions": 8,
-      "users": 8
+      "sessions": 6,
+      "users": 6
+    }
+  ],
+  "keyEventsByChannel": [
+    {
+      "channel": "Direct",
+      "sessions": 320,
+      "keyEvents": 107,
+      "conversionRate": 0.334375
     },
     {
-      "channel": "Organic Video",
-      "sessions": 1,
-      "users": 1
+      "channel": "Organic Search",
+      "sessions": 174,
+      "keyEvents": 120,
+      "conversionRate": 0.6896551724137931
+    },
+    {
+      "channel": "Referral",
+      "sessions": 79,
+      "keyEvents": 66,
+      "conversionRate": 0.8354430379746836
+    },
+    {
+      "channel": "Organic Social",
+      "sessions": 15,
+      "keyEvents": 6,
+      "conversionRate": 0.4
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": 6,
+      "keyEvents": 2,
+      "conversionRate": 0.3333333333333333
     }
   ],
   "topPages": [
     {
       "page": "/",
-      "screenPageViews": 797,
-      "sessions": 741
+      "screenPageViews": 478,
+      "sessions": 445
     },
     {
       "page": "/about-us/",
-      "screenPageViews": 135,
-      "sessions": 115
+      "screenPageViews": 82,
+      "sessions": 71
     },
     {
       "page": "/seo/",
-      "screenPageViews": 98,
-      "sessions": 94
+      "screenPageViews": 63,
+      "sessions": 59
     },
     {
       "page": "/law-firm/",
-      "screenPageViews": 82,
-      "sessions": 76
+      "screenPageViews": 53,
+      "sessions": 47
     },
     {
       "page": "/contact-us/",
-      "screenPageViews": 70,
-      "sessions": 64
+      "screenPageViews": 36,
+      "sessions": 35
     },
     {
       "page": "/smart-ads/",
-      "screenPageViews": 46,
-      "sessions": 44
+      "screenPageViews": 30,
+      "sessions": 29
     },
     {
       "page": "/blog/",
-      "screenPageViews": 36,
-      "sessions": 33
-    },
-    {
-      "page": "/sitemap/",
-      "screenPageViews": 36,
-      "sessions": 13
+      "screenPageViews": 25,
+      "sessions": 21
     },
     {
       "page": "/social-wall/",
-      "screenPageViews": 25,
-      "sessions": 23
-    },
-    {
-      "page": "/lsa-rank-scan/",
-      "screenPageViews": 14,
-      "sessions": 14
-    },
-    {
-      "page": "/privacy-policy/",
       "screenPageViews": 13,
       "sessions": 13
     },
     {
-      "page": "/geo-ai-and-the-myth-of-new-why-the-best-seos-are-still-leading-the-future/",
+      "page": "/sitemap/",
       "screenPageViews": 9,
       "sessions": 8
     },
     {
-      "page": "/ai-killed-the-seo-industry-not-quite-re-evaluating-the-role-of-seo-in-an-ai-landscape/",
+      "page": "/privacy-policy/",
       "screenPageViews": 8,
       "sessions": 8
     },
     {
-      "page": "/how-11-may-actually-3-and-how-seo-ppc-may-merge/",
-      "screenPageViews": 8,
-      "sessions": 8
-    },
-    {
-      "page": "/terms-and-conditions/",
-      "screenPageViews": 8,
-      "sessions": 8
-    },
-    {
-      "page": "/the-seo-black-box-is-breaking-how-were-reverse-engineering-googles-algorithm/",
-      "screenPageViews": 8,
-      "sessions": 10
-    },
-    {
-      "page": "/blog-coreys-thoughts-on-youtube-ads-particularly-6s-bumper-ads-and-15s-in-stream-non-skippable/",
+      "page": "/lsa-rank-scan/",
       "screenPageViews": 7,
-      "sessions": 7
-    },
-    {
-      "page": "/did-you-know-google-is-giving-away-your-leads-to-competitors/",
-      "screenPageViews": 7,
-      "sessions": 7
+      "sessions": 8
     },
     {
       "page": "/wp-admin/.wp-languages/.wjpl95qv_mlr.php",
@@ -504,12 +376,12 @@
       "sessions": 2
     },
     {
-      "page": "/the-seo-game-has-changed-corey-takes-the-stage-at-fireproof-to-redefine-strategy-in-the-ai-era/",
+      "page": "/geo-ai-and-the-myth-of-new-why-the-best-seos-are-still-leading-the-future/",
       "screenPageViews": 6,
       "sessions": 6
     },
     {
-      "page": "/bert-his-mum-walk-into-a-bar/",
+      "page": "/ai-killed-the-seo-industry-not-quite-re-evaluating-the-role-of-seo-in-an-ai-landscape/",
       "screenPageViews": 5,
       "sessions": 5
     },
@@ -519,7 +391,37 @@
       "sessions": 4
     },
     {
-      "page": "/case-results-page/",
+      "page": "/how-11-may-actually-3-and-how-seo-ppc-may-merge/",
+      "screenPageViews": 5,
+      "sessions": 5
+    },
+    {
+      "page": "/terms-and-conditions/",
+      "screenPageViews": 5,
+      "sessions": 5
+    },
+    {
+      "page": "/the-seo-black-box-is-breaking-how-were-reverse-engineering-googles-algorithm/",
+      "screenPageViews": 5,
+      "sessions": 7
+    },
+    {
+      "page": "/the-seo-game-has-changed-corey-takes-the-stage-at-fireproof-to-redefine-strategy-in-the-ai-era/",
+      "screenPageViews": 4,
+      "sessions": 4
+    },
+    {
+      "page": "/blog-coreys-thoughts-on-youtube-ads-particularly-6s-bumper-ads-and-15s-in-stream-non-skippable/",
+      "screenPageViews": 3,
+      "sessions": 3
+    },
+    {
+      "page": "/bert-his-mum-walk-into-a-bar/",
+      "screenPageViews": 2,
+      "sessions": 2
+    },
+    {
+      "page": "/did-you-know-google-is-giving-away-your-leads-to-competitors/",
       "screenPageViews": 2,
       "sessions": 2
     },
@@ -530,11 +432,6 @@
     },
     {
       "page": "/about-us",
-      "screenPageViews": 1,
-      "sessions": 1
-    },
-    {
-      "page": "/attorneys/will-pettet/",
       "screenPageViews": 1,
       "sessions": 1
     },
@@ -554,10 +451,20 @@
       "sessions": 1
     },
     {
-      "page": "/category/uncategorized/",
+      "page": "/case-results-page/",
+      "screenPageViews": 1,
+      "sessions": 1
+    },
+    {
+      "page": "/how-11-may-actually-3-and-how-seo-ppc-may-merge",
+      "screenPageViews": 1,
+      "sessions": 1
+    },
+    {
+      "page": "/law-firm",
       "screenPageViews": 1,
       "sessions": 1
     }
   ],
-  "fetchedAt": "2026-03-18T13:06:50.226Z"
+  "fetchedAt": "2026-04-07T16:21:39.265Z"
 }

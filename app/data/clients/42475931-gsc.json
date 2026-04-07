@@ -1,156 +1,16 @@
 {
   "property": "https://onestoputah.com/",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 366,
-    "impressions": 404435,
-    "ctr": 0.0009049661873972331,
-    "position": 26.452743729115795
+    "clicks": 384,
+    "impressions": 372262,
+    "ctr": 0.001031531555732253,
+    "position": 24.44898539653757
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 4,
-      "impressions": 5249,
-      "ctr": 0.0007620499142693847,
-      "position": 23.413983615926842
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 3,
-      "impressions": 4991,
-      "ctr": 0.0006010819475055099,
-      "position": 28.38569424964937
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 4,
-      "impressions": 4906,
-      "ctr": 0.0008153281695882593,
-      "position": 32.10823481451284
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 2,
-      "impressions": 4161,
-      "ctr": 0.0004806536890170632,
-      "position": 29.12256669069935
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 2,
-      "impressions": 5526,
-      "ctr": 0.0003619254433586681,
-      "position": 31.57600434310532
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 4,
-      "impressions": 11587,
-      "ctr": 0.00034521446448606196,
-      "position": 32.04142573573833
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 10,
-      "impressions": 3884,
-      "ctr": 0.0025746652935118436,
-      "position": 28.009783728115345
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 5,
-      "impressions": 4027,
-      "ctr": 0.0012416190712689348,
-      "position": 28.62875589769059
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 4,
-      "impressions": 4988,
-      "ctr": 0.0008019246190858059,
-      "position": 30.12449879711307
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 1,
-      "impressions": 5583,
-      "ctr": 0.00017911517105498835,
-      "position": 33.996238581407844
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 1,
-      "impressions": 3068,
-      "ctr": 0.0003259452411994785,
-      "position": 28.92959582790091
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 3,
-      "impressions": 3788,
-      "ctr": 0.0007919746568109821,
-      "position": 26.03273495248152
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 1,
-      "impressions": 3516,
-      "ctr": 0.0002844141069397042,
-      "position": 27.283276450511945
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 3,
-      "impressions": 3647,
-      "ctr": 0.0008225939128050452,
-      "position": 26.183438442555524
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 7,
-      "impressions": 4318,
-      "ctr": 0.001621120889300602,
-      "position": 29.05488652153775
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 6,
-      "impressions": 4804,
-      "ctr": 0.0012489592006661116,
-      "position": 28.868442964196504
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 3,
-      "impressions": 5540,
-      "ctr": 0.0005415162454873646,
-      "position": 33.61480144404332
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 2,
-      "impressions": 5529,
-      "ctr": 0.00036172906493036716,
-      "position": 25.6503888587448
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 2,
-      "impressions": 3483,
-      "ctr": 0.0005742176284811944,
-      "position": 23.597473442434683
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 0,
-      "impressions": 3367,
-      "ctr": 0,
-      "position": 23.900801900801902
-    },
     {
       "date": "2026-01-04",
       "clicks": 2,
@@ -640,113 +500,267 @@
       "impressions": 3637,
       "ctr": 0.0008248556502612042,
       "position": 22.18339290624141
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 1,
+      "impressions": 2812,
+      "ctr": 0.00035561877667140827,
+      "position": 19.364509246088193
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 2,
+      "impressions": 3443,
+      "ctr": 0.0005808887598024978,
+      "position": 20.580888759802498
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 7,
+      "impressions": 3253,
+      "ctr": 0.002151859821703043,
+      "position": 20.505687058100214
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 4,
+      "impressions": 3291,
+      "ctr": 0.001215436037678517,
+      "position": 19.02309328471589
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 5,
+      "impressions": 2568,
+      "ctr": 0.0019470404984423676,
+      "position": 19.94665109034268
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 3,
+      "impressions": 3222,
+      "ctr": 0.000931098696461825,
+      "position": 18.439788950962136
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 4,
+      "impressions": 3276,
+      "ctr": 0.001221001221001221,
+      "position": 20.78846153846154
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 2,
+      "impressions": 2491,
+      "ctr": 0.0008028904054596548,
+      "position": 18.48494580489763
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 1,
+      "impressions": 2927,
+      "ctr": 0.00034164673727365904,
+      "position": 19.419542193372052
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 3,
+      "impressions": 3203,
+      "ctr": 0.0009366219169528567,
+      "position": 20.677177645956917
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 10,
+      "impressions": 3247,
+      "ctr": 0.003079765937788728,
+      "position": 19.400061595318757
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 13,
+      "impressions": 3407,
+      "ctr": 0.0038156736131493983,
+      "position": 22.975931904901675
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 3,
+      "impressions": 4361,
+      "ctr": 0.000687915615684476,
+      "position": 16.73629901398762
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 1,
+      "impressions": 2992,
+      "ctr": 0.00033422459893048126,
+      "position": 21.26370320855615
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 3,
+      "impressions": 2623,
+      "ctr": 0.001143728555089592,
+      "position": 22.041555470834922
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 3,
+      "impressions": 2700,
+      "ctr": 0.0011111111111111111,
+      "position": 18.232592592592592
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 3,
+      "impressions": 3143,
+      "ctr": 0.0009545020680878142,
+      "position": 16.290486796054722
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 4,
+      "impressions": 2734,
+      "ctr": 0.001463057790782736,
+      "position": 18.98902706656913
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 4,
+      "impressions": 2245,
+      "ctr": 0.0017817371937639199,
+      "position": 20.39599109131403
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 4,
+      "impressions": 3009,
+      "ctr": 0.0013293452974410102,
+      "position": 19.952808241940843
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 5,
+      "impressions": 2842,
+      "ctr": 0.0017593244194229415,
+      "position": 21.124560168895144
     }
   ],
   "topQueries": [
     {
       "query": "one stop heating and air",
-      "clicks": 61,
-      "impressions": 574,
-      "ctr": 0.10627177700348432,
-      "position": 3.475609756097561
+      "clicks": 69,
+      "impressions": 655,
+      "ctr": 0.10534351145038168,
+      "position": 3.5129770992366414
     },
     {
       "query": "one stop heating and air conditioning",
-      "clicks": 23,
-      "impressions": 486,
-      "ctr": 0.047325102880658436,
-      "position": 4.125514403292181
+      "clicks": 22,
+      "impressions": 552,
+      "ctr": 0.03985507246376811,
+      "position": 4.554347826086957
     },
     {
       "query": "one stop utah",
       "clicks": 11,
-      "impressions": 53,
-      "ctr": 0.20754716981132076,
-      "position": 2.188679245283019
+      "impressions": 61,
+      "ctr": 0.18032786885245902,
+      "position": 1.9836065573770492
     },
     {
       "query": "onestop heating and cooling",
-      "clicks": 5,
-      "impressions": 43,
-      "ctr": 0.11627906976744186,
-      "position": 7.27906976744186
+      "clicks": 8,
+      "impressions": 54,
+      "ctr": 0.14814814814814814,
+      "position": 10.833333333333334
+    },
+    {
+      "query": "hvac companies near me",
+      "clicks": 4,
+      "impressions": 140,
+      "ctr": 0.02857142857142857,
+      "position": 14.821428571428571
     },
     {
       "query": "furnace replacement near me",
       "clicks": 3,
-      "impressions": 4875,
-      "ctr": 0.0006153846153846154,
-      "position": 11.534358974358975
-    },
-    {
-      "query": "hvac companies near me",
-      "clicks": 3,
-      "impressions": 105,
-      "ctr": 0.02857142857142857,
-      "position": 17.723809523809525
-    },
-    {
-      "query": "one stop heating",
-      "clicks": 3,
-      "impressions": 38,
-      "ctr": 0.07894736842105263,
-      "position": 1.6052631578947367
+      "impressions": 4136,
+      "ctr": 0.0007253384912959381,
+      "position": 10.53046421663443
     },
     {
       "query": "one stop heating and cooling",
       "clicks": 3,
-      "impressions": 104,
-      "ctr": 0.028846153846153848,
-      "position": 6.259615384615385
+      "impressions": 116,
+      "ctr": 0.02586206896551724,
+      "position": 7.491379310344827
+    },
+    {
+      "query": "onestop",
+      "clicks": 3,
+      "impressions": 6,
+      "ctr": 0.5,
+      "position": 2.166666666666667
     },
     {
       "query": "furnace repair",
       "clicks": 2,
-      "impressions": 8320,
-      "ctr": 0.0002403846153846154,
-      "position": 9.880168269230769
-    },
-    {
-      "query": "furnace repair near me",
-      "clicks": 2,
-      "impressions": 5617,
-      "ctr": 0.00035606195478013177,
-      "position": 13.05180701442051
+      "impressions": 7413,
+      "ctr": 0.0002697963037906381,
+      "position": 9.249156886550654
     },
     {
       "query": "hvac companies in utah",
       "clicks": 2,
       "impressions": 17,
       "ctr": 0.11764705882352941,
-      "position": 6.882352941176471
+      "position": 5.705882352941177
     },
     {
       "query": "hvac near me",
       "clicks": 2,
-      "impressions": 2242,
-      "ctr": 0.0008920606601248885,
-      "position": 8.594112399643176
+      "impressions": 2257,
+      "ctr": 0.0008861320336730173,
+      "position": 7.059813912272928
     },
     {
-      "query": "hvac repair utah",
+      "query": "hvac service near me",
       "clicks": 2,
-      "impressions": 29,
-      "ctr": 0.06896551724137931,
-      "position": 39.51724137931034
+      "impressions": 642,
+      "ctr": 0.003115264797507788,
+      "position": 12.925233644859814
     },
     {
-      "query": "hvac salt lake city",
+      "query": "one stop",
       "clicks": 2,
-      "impressions": 475,
-      "ctr": 0.004210526315789474,
-      "position": 47.27578947368421
+      "impressions": 22,
+      "ctr": 0.09090909090909091,
+      "position": 2.909090909090909
     },
     {
-      "query": "onestop",
+      "query": "one stop heating",
       "clicks": 2,
-      "impressions": 4,
-      "ctr": 0.5,
-      "position": 2.75
+      "impressions": 39,
+      "ctr": 0.05128205128205128,
+      "position": 1.8461538461538463
+    },
+    {
+      "query": "onestop utah",
+      "clicks": 2,
+      "impressions": 79,
+      "ctr": 0.02531645569620253,
+      "position": 3.2658227848101267
+    },
+    {
+      "query": "8013559500",
+      "clicks": 1,
+      "impressions": 31,
+      "ctr": 0.03225806451612903,
+      "position": 3.5161290322580645
     },
     {
       "query": "ac and furnace replacement",
@@ -756,32 +770,67 @@
       "position": 9
     },
     {
+      "query": "ac and furnace service",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "ac company near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 6.333333333333333
+    },
+    {
       "query": "ac repair draper utah",
       "clicks": 1,
-      "impressions": 80,
-      "ctr": 0.0125,
-      "position": 61.7125
+      "impressions": 60,
+      "ctr": 0.016666666666666666,
+      "position": 58.86666666666667
     },
     {
       "query": "ac repair herriman utah",
       "clicks": 1,
-      "impressions": 27,
-      "ctr": 0.037037037037037035,
-      "position": 26.925925925925927
+      "impressions": 31,
+      "ctr": 0.03225806451612903,
+      "position": 26.774193548387096
     },
     {
       "query": "ac repair pleasant grove utah",
       "clicks": 1,
-      "impressions": 38,
-      "ctr": 0.02631578947368421,
-      "position": 36.94736842105263
+      "impressions": 34,
+      "ctr": 0.029411764705882353,
+      "position": 32.5
     },
     {
       "query": "ac repair sandy ut",
       "clicks": 1,
-      "impressions": 462,
-      "ctr": 0.0021645021645021645,
-      "position": 21.627705627705627
+      "impressions": 476,
+      "ctr": 0.0021008403361344537,
+      "position": 20.455882352941178
+    },
+    {
+      "query": "ac tune up near me",
+      "clicks": 1,
+      "impressions": 23,
+      "ctr": 0.043478260869565216,
+      "position": 7.6521739130434785
+    },
+    {
+      "query": "air conditioning unit",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 2.666666666666667
+    },
+    {
+      "query": "air duct cleaning near me",
+      "clicks": 1,
+      "impressions": 288,
+      "ctr": 0.003472222222222222,
+      "position": 7.663194444444445
     },
     {
       "query": "air duct cleaning west jordan utah",
@@ -798,6 +847,13 @@
       "position": 49
     },
     {
+      "query": "furance tune up",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
       "query": "furnace check up near me",
       "clicks": 1,
       "impressions": 9,
@@ -805,32 +861,46 @@
       "position": 5.222222222222222
     },
     {
-      "query": "furnace replacement provo ut",
+      "query": "furnace repair near me",
       "clicks": 1,
-      "impressions": 262,
-      "ctr": 0.003816793893129771,
-      "position": 12.385496183206106
+      "impressions": 4723,
+      "ctr": 0.00021172983273343214,
+      "position": 12.499894135083633
     },
     {
-      "query": "heating repair",
+      "query": "furnace replacement provo ut",
       "clicks": 1,
-      "impressions": 1349,
-      "ctr": 0.0007412898443291327,
-      "position": 9.308376575240919
+      "impressions": 212,
+      "ctr": 0.0047169811320754715,
+      "position": 12.60377358490566
+    },
+    {
+      "query": "heat pump repair near me",
+      "clicks": 1,
+      "impressions": 1558,
+      "ctr": 0.0006418485237483953,
+      "position": 35.76765083440308
+    },
+    {
+      "query": "heating and air conditioning",
+      "clicks": 1,
+      "impressions": 66,
+      "ctr": 0.015151515151515152,
+      "position": 5.909090909090909
     },
     {
       "query": "heating services near me",
       "clicks": 1,
-      "impressions": 317,
-      "ctr": 0.0031545741324921135,
-      "position": 9.041009463722398
+      "impressions": 319,
+      "ctr": 0.003134796238244514,
+      "position": 9.29153605015674
     },
     {
       "query": "how to refill freon in ac unit",
       "clicks": 1,
-      "impressions": 4,
-      "ctr": 0.25,
-      "position": 22.25
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 11.666666666666666
     },
     {
       "query": "hvac businesses near me",
@@ -842,9 +912,16 @@
     {
       "query": "hvac repair",
       "clicks": 1,
-      "impressions": 1224,
-      "ctr": 0.0008169934640522876,
-      "position": 9.691993464052288
+      "impressions": 1206,
+      "ctr": 0.0008291873963515755,
+      "position": 8.650912106135987
+    },
+    {
+      "query": "hvac repair utah",
+      "clicks": 1,
+      "impressions": 29,
+      "ctr": 0.034482758620689655,
+      "position": 39.51724137931034
     },
     {
       "query": "hvac replacement cost near me",
@@ -854,25 +931,32 @@
       "position": 1
     },
     {
-      "query": "hvac sandy utah",
+      "query": "hvac salt lake city",
       "clicks": 1,
-      "impressions": 435,
-      "ctr": 0.0022988505747126436,
-      "position": 13.105747126436782
+      "impressions": 605,
+      "ctr": 0.001652892561983471,
+      "position": 43.679338842975206
     },
     {
-      "query": "hvac service near me",
+      "query": "hvac sandy utah",
       "clicks": 1,
-      "impressions": 669,
-      "ctr": 0.0014947683109118087,
-      "position": 14.086696562032884
+      "impressions": 387,
+      "ctr": 0.002583979328165375,
+      "position": 12.152454780361758
     },
     {
       "query": "hvac services near me",
       "clicks": 1,
-      "impressions": 1030,
-      "ctr": 0.000970873786407767,
-      "position": 15.37378640776699
+      "impressions": 883,
+      "ctr": 0.0011325028312570782,
+      "position": 14.498301245753114
+    },
+    {
+      "query": "hvac technician near me",
+      "clicks": 1,
+      "impressions": 403,
+      "ctr": 0.0024813895781637717,
+      "position": 14.665012406947891
     },
     {
       "query": "mini split cleaning near me",
@@ -882,74 +966,81 @@
       "position": 7
     },
     {
-      "query": "one stop",
+      "query": "one day heating and air",
       "clicks": 1,
-      "impressions": 13,
-      "ctr": 0.07692307692307693,
-      "position": 4
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 5.5
     },
     {
       "query": "one stop heating and air conditioning reviews",
       "clicks": 1,
-      "impressions": 803,
-      "ctr": 0.0012453300124533001,
-      "position": 4.302615193026152
+      "impressions": 823,
+      "ctr": 0.001215066828675577,
+      "position": 4.471445929526124
     },
     {
-      "query": "onestop utah",
+      "query": "utah hvac companies",
       "clicks": 1,
-      "impressions": 76,
-      "ctr": 0.013157894736842105,
-      "position": 3.026315789473684
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 16.5
     },
     {
-      "query": "stopped working",
-      "clicks": 1,
-      "impressions": 1,
-      "ctr": 1,
-      "position": 1
+      "query": "\"(801) 797-2074\" one stop heating and air conditioning",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 12.083333333333334
     },
     {
       "query": "\"just right\" \"84070\"",
       "clicks": 0,
-      "impressions": 14,
+      "impressions": 23,
       "ctr": 0,
-      "position": 101.5
+      "position": 118.78260869565217
     },
     {
       "query": "\"one stop heating and air conditioning\" \"611 w 9560 s suite e\"",
       "clicks": 0,
-      "impressions": 39,
+      "impressions": 50,
       "ctr": 0,
-      "position": 20.358974358974358
+      "position": 21.16
     },
     {
       "query": "\"one stop heating and air conditioning\" \"84070\"",
       "clicks": 0,
-      "impressions": 53,
+      "impressions": 63,
       "ctr": 0,
-      "position": 20.90566037735849
+      "position": 21.650793650793652
     },
     {
       "query": "\"one stop heating and air conditioning\" \"onestoputah.com\"",
       "clicks": 0,
-      "impressions": 30,
+      "impressions": 41,
       "ctr": 0,
-      "position": 22.8
+      "position": 22.048780487804876
     },
     {
       "query": "\"one stop heating and air conditioning\" \"sandy\"",
       "clicks": 0,
-      "impressions": 45,
+      "impressions": 54,
       "ctr": 0,
-      "position": 22.4
+      "position": 22.555555555555557
+    },
+    {
+      "query": "\"one stop heating and\" \"84070\"",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 76
     },
     {
       "query": "+furnace +repair +sandy",
       "clicks": 0,
-      "impressions": 24,
+      "impressions": 33,
       "ctr": 0,
-      "position": 12.916666666666666
+      "position": 14.636363636363637
     },
     {
       "query": "+furnace +service +sandy",
@@ -989,362 +1080,2734 @@
     {
       "query": "1 hour air conditioning",
       "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "1 hour air conditioning and heating",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 18
+    },
+    {
+      "query": "1 hour heating & air conditioning",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "1 hour heating and air conditioning",
+      "clicks": 0,
       "impressions": 2,
       "ctr": 0,
       "position": 1
+    },
+    {
+      "query": "1 stop heating and cooling",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 4.5
+    },
+    {
+      "query": "1 stop maintenance",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 4.5
+    },
+    {
+      "query": "1 stop sheetmetal & hvac supply co, heating, ventilating & air conditioning service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "1 stop shop",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "11-month warranty inspections american fork ut",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 28
+    },
+    {
+      "query": "11-month warranty inspections provo ut",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 80
+    },
+    {
+      "query": "13 seer ac vs 16 seer",
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 79.5
+    },
+    {
+      "query": "13 seer rating",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 88
+    },
+    {
+      "query": "13 seer vs 14",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 72
+    },
+    {
+      "query": "14 seer hvac",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 94
+    },
+    {
+      "query": "14 seer vs 16 seer efficiency",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 88.33333333333333
+    },
+    {
+      "query": "15 hp motor capacitor price",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "16 seer rating",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 86.5
+    },
+    {
+      "query": "1st american plumbing",
+      "clicks": 0,
+      "impressions": 23,
+      "ctr": 0,
+      "position": 27.695652173913043
+    },
+    {
+      "query": "1st class heat and air",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "1stop",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "2 capiciter",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "20 seer ac units",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 69.33333333333333
+    },
+    {
+      "query": "24 7 ac service",
+      "clicks": 0,
+      "impressions": 30,
+      "ctr": 0,
+      "position": 14.2
+    },
+    {
+      "query": "24 7 ac service near me",
+      "clicks": 0,
+      "impressions": 23,
+      "ctr": 0,
+      "position": 21.304347826086957
+    },
+    {
+      "query": "24 7 air conditioning repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "24 7 air purifier",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 73.66666666666667
+    },
+    {
+      "query": "24 7 emergency ac repair",
+      "clicks": 0,
+      "impressions": 29,
+      "ctr": 0,
+      "position": 17.586206896551722
+    },
+    {
+      "query": "24 7 emergency furnace repair",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 53.25
+    },
+    {
+      "query": "24 7 heating and air conditioning",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 9.666666666666666
+    },
+    {
+      "query": "24 furnace repair",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 62.333333333333336
+    },
+    {
+      "query": "24 hour a/c repair",
+      "clicks": 0,
+      "impressions": 30,
+      "ctr": 0,
+      "position": 18.533333333333335
+    },
+    {
+      "query": "24 hour ac company",
+      "clicks": 0,
+      "impressions": 32,
+      "ctr": 0,
+      "position": 13.40625
+    },
+    {
+      "query": "24 hour ac company blaine",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 28
+    },
+    {
+      "query": "24 hour ac company centerville",
+      "clicks": 0,
+      "impressions": 28,
+      "ctr": 0,
+      "position": 17.75
+    },
+    {
+      "query": "24 hour ac company ramsey",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "24 hour ac repair",
+      "clicks": 0,
+      "impressions": 121,
+      "ctr": 0,
+      "position": 9.685950413223141
+    },
+    {
+      "query": "24 hour ac repair centerville",
+      "clicks": 0,
+      "impressions": 22,
+      "ctr": 0,
+      "position": 23.681818181818183
+    },
+    {
+      "query": "24 hour ac repair coon rapids",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 45
+    },
+    {
+      "query": "24 hour ac repair kaysville",
+      "clicks": 0,
+      "impressions": 20,
+      "ctr": 0,
+      "position": 27.85
+    },
+    {
+      "query": "24 hour ac repair layton",
+      "clicks": 0,
+      "impressions": 27,
+      "ctr": 0,
+      "position": 28.85185185185185
+    },
+    {
+      "query": "24 hour ac repair near me",
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 10.5
+    },
+    {
+      "query": "24 hour ac repair orem",
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 15.277777777777779
+    },
+    {
+      "query": "24 hour ac repair sandy",
+      "clicks": 0,
+      "impressions": 32,
+      "ctr": 0,
+      "position": 2.5625
+    },
+    {
+      "query": "24 hour ac repair santa clara",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 31.25
+    },
+    {
+      "query": "24 hour ac repair service",
+      "clicks": 0,
+      "impressions": 30,
+      "ctr": 0,
+      "position": 13.4
+    },
+    {
+      "query": "24 hour ac repair washington",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 27.166666666666668
+    },
+    {
+      "query": "24 hour ac service",
+      "clicks": 0,
+      "impressions": 27,
+      "ctr": 0,
+      "position": 14.703703703703704
+    },
+    {
+      "query": "24 hour ac service centerville",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 18.133333333333333
+    },
+    {
+      "query": "24 hour ac service kaysville",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 24.833333333333332
+    },
+    {
+      "query": "24 hour ac service layton",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 28.933333333333334
+    },
+    {
+      "query": "24 hour ac unit",
+      "clicks": 0,
+      "impressions": 22,
+      "ctr": 0,
+      "position": 9.727272727272727
+    },
+    {
+      "query": "24 hour air conditioner repair",
+      "clicks": 0,
+      "impressions": 121,
+      "ctr": 0,
+      "position": 7.7272727272727275
+    },
+    {
+      "query": "24 hour air conditioning",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6.5
+    },
+    {
+      "query": "24 hour air conditioning repair",
+      "clicks": 0,
+      "impressions": 131,
+      "ctr": 0,
+      "position": 8.694656488549619
+    },
+    {
+      "query": "24 hour air conditioning service",
+      "clicks": 0,
+      "impressions": 152,
+      "ctr": 0,
+      "position": 8.914473684210527
+    },
+    {
+      "query": "24 hour air conditioning service andover",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "24 hour air conditioning service centerville",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 17.8125
+    },
+    {
+      "query": "24 hour air conditioning service elk river",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 40
+    },
+    {
+      "query": "24 hour air conditioning service kaysville",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 28.916666666666668
+    },
+    {
+      "query": "24 hour air conditioning service layton",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 34.81818181818182
+    },
+    {
+      "query": "24 hour air conditioning service ramsey",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "24 hour boiler repair near me",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 48.6
+    },
+    {
+      "query": "24 hour boiler service near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 52
+    },
+    {
+      "query": "24 hour emergency ac service",
+      "clicks": 0,
+      "impressions": 22,
+      "ctr": 0,
+      "position": 15.5
+    },
+    {
+      "query": "24 hour emergency air conditioning repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "24 hour emergency heating",
+      "clicks": 0,
+      "impressions": 40,
+      "ctr": 0,
+      "position": 10.95
+    },
+    {
+      "query": "24 hour emergency heating and cooling",
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 10.958333333333334
+    },
+    {
+      "query": "24 hour emergency heating service",
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 10.473684210526315
+    },
+    {
+      "query": "24 hour emergency hvac near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "24 hour fix it",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "24 hour furnace",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "24 hour furnace repair",
+      "clicks": 0,
+      "impressions": 345,
+      "ctr": 0,
+      "position": 8.857971014492755
+    },
+    {
+      "query": "24 hour furnace repair centerville",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 21.384615384615383
+    },
+    {
+      "query": "24 hour furnace repair jackson",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 15
+    },
+    {
+      "query": "24 hour furnace repair kaysville",
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 22.944444444444443
+    },
+    {
+      "query": "24 hour furnace repair near me",
+      "clicks": 0,
+      "impressions": 25,
+      "ctr": 0,
+      "position": 12.4
+    },
+    {
+      "query": "24 hour furnace service",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 7.4
+    },
+    {
+      "query": "24 hour furnace service near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "24 hour furnance repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "24 hour heat pump repair",
+      "clicks": 0,
+      "impressions": 20,
+      "ctr": 0,
+      "position": 15.5
+    },
+    {
+      "query": "24 hour heater repair",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 12.8
+    },
+    {
+      "query": "24 hour heater repair near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "24 hour heater repair santa clara",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 21.5
+    },
+    {
+      "query": "24 hour heating",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 9.666666666666666
+    },
+    {
+      "query": "24 hour heating & air conditioning",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hour heating and ac",
+      "clicks": 0,
+      "impressions": 23,
+      "ctr": 0,
+      "position": 13.782608695652174
+    },
+    {
+      "query": "24 hour heating and air",
+      "clicks": 0,
+      "impressions": 27,
+      "ctr": 0,
+      "position": 6.851851851851852
+    },
+    {
+      "query": "24 hour heating and air conditioning",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "24 hour heating and air conditioning repair",
+      "clicks": 0,
+      "impressions": 49,
+      "ctr": 0,
+      "position": 13.306122448979592
+    },
+    {
+      "query": "24 hour heating and air conditioning repair near me",
+      "clicks": 0,
+      "impressions": 45,
+      "ctr": 0,
+      "position": 15.71111111111111
+    },
+    {
+      "query": "24 hour heating and air conditioning repair salt lake city",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 37.6
+    },
+    {
+      "query": "24 hour heating and air near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6.5
+    },
+    {
+      "query": "24 hour heating and air utah",
+      "clicks": 0,
+      "impressions": 1142,
+      "ctr": 0,
+      "position": 9.447460595446586
+    },
+    {
+      "query": "24 hour heating and cooling",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "24 hour heating and cooling near me",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "24 hour heating and cooling repair",
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 13.125
+    },
+    {
+      "query": "24 hour heating and cooling service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "24 hour heating repair",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "24 hour heating repair andover",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "24 hour heating repair blaine",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "24 hour heating repair centerville",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 18.363636363636363
+    },
+    {
+      "query": "24 hour heating repair kaysville",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 14.5
+    },
+    {
+      "query": "24 hour heating repair near me",
+      "clicks": 0,
+      "impressions": 33,
+      "ctr": 0,
+      "position": 14.848484848484848
+    },
+    {
+      "query": "24 hour heating repair salt lake city",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 42.75
+    },
+    {
+      "query": "24 hour heating service near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "24 hour hvac",
+      "clicks": 0,
+      "impressions": 32,
+      "ctr": 0,
+      "position": 11.90625
+    },
+    {
+      "query": "24 hour hvac near me",
+      "clicks": 0,
+      "impressions": 62,
+      "ctr": 0,
+      "position": 10.048387096774194
+    },
+    {
+      "query": "24 hour hvac repair",
+      "clicks": 0,
+      "impressions": 606,
+      "ctr": 0,
+      "position": 15.301980198019802
+    },
+    {
+      "query": "24 hour hvac repair centerville",
+      "clicks": 0,
+      "impressions": 29,
+      "ctr": 0,
+      "position": 25.482758620689655
+    },
+    {
+      "query": "24 hour hvac repair elk river",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 35
+    },
+    {
+      "query": "24 hour hvac repair kaysville",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 28
+    },
+    {
+      "query": "24 hour hvac repair near me",
+      "clicks": 0,
+      "impressions": 619,
+      "ctr": 0,
+      "position": 17.904684975767367
+    },
+    {
+      "query": "24 hour hvac service",
+      "clicks": 0,
+      "impressions": 192,
+      "ctr": 0,
+      "position": 11.484375
+    },
+    {
+      "query": "24 hour hvac service near me",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 9.75
+    },
+    {
+      "query": "24 hour industrial refrigeration service utah",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 78.25
+    },
+    {
+      "query": "24 hour service air conditioning",
+      "clicks": 0,
+      "impressions": 30,
+      "ctr": 0,
+      "position": 19.266666666666666
+    },
+    {
+      "query": "24 hours ac repair",
+      "clicks": 0,
+      "impressions": 136,
+      "ctr": 0,
+      "position": 9.367647058823529
+    },
+    {
+      "query": "24 hours air conditioning service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "24 hr ac repair",
+      "clicks": 0,
+      "impressions": 32,
+      "ctr": 0,
+      "position": 13.28125
+    },
+    {
+      "query": "24 hr ac service",
+      "clicks": 0,
+      "impressions": 42,
+      "ctr": 0,
+      "position": 13.214285714285714
+    },
+    {
+      "query": "24 hr air conditioner repair",
+      "clicks": 0,
+      "impressions": 23,
+      "ctr": 0,
+      "position": 15
+    },
+    {
+      "query": "24 hr air conditioning repair",
+      "clicks": 0,
+      "impressions": 26,
+      "ctr": 0,
+      "position": 15.73076923076923
+    },
+    {
+      "query": "24 hr air conditioning service",
+      "clicks": 0,
+      "impressions": 25,
+      "ctr": 0,
+      "position": 14.52
+    },
+    {
+      "query": "24 hr heating",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "24 hrs air conditioning",
+      "clicks": 0,
+      "impressions": 26,
+      "ctr": 0,
+      "position": 11.461538461538462
+    },
+    {
+      "query": "24 hvac service near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24+hour+ac+repair",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 15.8
+    },
+    {
+      "query": "24+hour+ac+repair+near+me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 19.5
+    },
+    {
+      "query": "24+hour+hvac+service",
+      "clicks": 0,
+      "impressions": 21,
+      "ctr": 0,
+      "position": 20.666666666666668
+    },
+    {
+      "query": "24-hour furnace repair",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "24-hour furnace repair near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "24-hour heating and air",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "24-hour heating and air conditioning repair near me",
+      "clicks": 0,
+      "impressions": 47,
+      "ctr": 0,
+      "position": 16.361702127659576
+    },
+    {
+      "query": "24-hour heating and air conditioning repair salt lake city",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 30.818181818181817
+    },
+    {
+      "query": "24-hour heating and cooling",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "24-hour heating service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "24-hour hvac repair cedar city",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 37
+    },
+    {
+      "query": "24/7 ac repair",
+      "clicks": 0,
+      "impressions": 27,
+      "ctr": 0,
+      "position": 9.25925925925926
+    },
+    {
+      "query": "24/7 ac repair foster city",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 88
     }
   ],
   "topPages": [
     {
       "page": "https://onestoputah.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp",
-      "clicks": 146,
-      "impressions": 57656,
-      "ctr": 0.0025322603024836962,
-      "position": 20.953534757874287
+      "clicks": 160,
+      "impressions": 60026,
+      "ctr": 0.002665511611634958,
+      "position": 20.302035784493388
     },
     {
       "page": "https://onestoputah.com/",
-      "clicks": 64,
-      "impressions": 26076,
-      "ctr": 0.0024543641662831722,
-      "position": 31.841655161834638
+      "clicks": 73,
+      "impressions": 23889,
+      "ctr": 0.0030557997404663233,
+      "position": 28.906065553183474
     },
     {
       "page": "https://onestoputah.com/blog/why-is-my-heat-pump-not-blowing-hot-air",
-      "clicks": 17,
-      "impressions": 3194,
-      "ctr": 0.005322479649342517,
-      "position": 23.162805259862242
+      "clicks": 16,
+      "impressions": 3253,
+      "ctr": 0.004918536735321242,
+      "position": 21.588379956962804
     },
     {
       "page": "https://onestoputah.com/blog/how-to-refill-ac-refrigerant",
-      "clicks": 12,
-      "impressions": 5613,
-      "ctr": 0.002137894174238375,
-      "position": 25.303402814893996
-    },
-    {
-      "page": "https://onestoputah.com/blog/why-furnace-making-clicking-noise",
       "clicks": 10,
-      "impressions": 5952,
-      "ctr": 0.0016801075268817205,
-      "position": 12.543850806451612
+      "impressions": 5612,
+      "ctr": 0.001781895937277263,
+      "position": 20.255702066999287
     },
     {
       "page": "https://onestoputah.com/blog/mini-split-ac-system-clicking-sounds",
       "clicks": 9,
-      "impressions": 3028,
-      "ctr": 0.00297225891677675,
-      "position": 8.447490092470279
+      "impressions": 2759,
+      "ctr": 0.0032620514679231605,
+      "position": 8.589706415367887
     },
     {
       "page": "https://onestoputah.com/blog/heat-pump-makes-bubbling-sounds",
-      "clicks": 8,
-      "impressions": 1276,
-      "ctr": 0.006269592476489028,
-      "position": 5.7076802507836994
+      "clicks": 7,
+      "impressions": 1205,
+      "ctr": 0.005809128630705394,
+      "position": 6.967634854771784
     },
     {
       "page": "https://onestoputah.com/blog/how-much-does-it-cost-to-replace-ac-capacitor",
-      "clicks": 8,
-      "impressions": 9576,
-      "ctr": 0.000835421888053467,
-      "position": 15.866228070175438
+      "clicks": 7,
+      "impressions": 9616,
+      "ctr": 0.0007279534109816972,
+      "position": 15.901934276206322
     },
     {
       "page": "https://onestoputah.com/career-opportunities",
       "clicks": 7,
-      "impressions": 202,
-      "ctr": 0.034653465346534656,
-      "position": 11.044554455445544
+      "impressions": 230,
+      "ctr": 0.030434782608695653,
+      "position": 10.5
     },
     {
-      "page": "https://onestoputah.com/testimonials",
-      "clicks": 7,
-      "impressions": 1697,
-      "ctr": 0.0041249263406010605,
-      "position": 7.9257513258691805
-    },
-    {
-      "page": "https://onestoputah.com/blog/controlling-static-electricity",
+      "page": "https://onestoputah.com/blog/why-furnace-making-clicking-noise",
       "clicks": 6,
-      "impressions": 2414,
-      "ctr": 0.0024855012427506215,
-      "position": 12.230737365368682
+      "impressions": 4890,
+      "ctr": 0.001226993865030675,
+      "position": 13.655010224948875
     },
     {
       "page": "https://onestoputah.com/blog/why-is-there-black-dust-mold-on-my-ac-vents",
       "clicks": 6,
-      "impressions": 3610,
-      "ctr": 0.0016620498614958448,
-      "position": 16.985872576177286
+      "impressions": 3040,
+      "ctr": 0.001973684210526316,
+      "position": 17.173355263157895
     },
     {
-      "page": "https://onestoputah.com/blog/evaluate-your-homes-airflow",
+      "page": "https://onestoputah.com/service-areas/salt-lake-city-ut",
+      "clicks": 6,
+      "impressions": 14999,
+      "ctr": 0.000400026668444563,
+      "position": 41.158677245149676
+    },
+    {
+      "page": "https://onestoputah.com/blog/controlling-static-electricity",
       "clicks": 5,
-      "impressions": 788,
-      "ctr": 0.006345177664974619,
-      "position": 14.58502538071066
+      "impressions": 2124,
+      "ctr": 0.0023540489642184556,
+      "position": 12.178907721280602
+    },
+    {
+      "page": "https://onestoputah.com/testimonials",
+      "clicks": 5,
+      "impressions": 1820,
+      "ctr": 0.0027472527472527475,
+      "position": 7.8780219780219785
     },
     {
       "page": "https://onestoputah.com/about-us",
       "clicks": 4,
-      "impressions": 852,
-      "ctr": 0.004694835680751174,
-      "position": 11.303990610328638
+      "impressions": 967,
+      "ctr": 0.004136504653567736,
+      "position": 10.665977249224406
     },
     {
-      "page": "https://onestoputah.com/service-areas/salt-lake-city-ut",
+      "page": "https://onestoputah.com/blog/evaluate-your-homes-airflow",
       "clicks": 4,
-      "impressions": 14579,
-      "ctr": 0.0002743672405514782,
-      "position": 46.748199464983884
+      "impressions": 880,
+      "ctr": 0.004545454545454545,
+      "position": 14.572727272727272
     },
     {
       "page": "https://onestoputah.com/blog/how-to-diagnose-a-low-freon-problem-in-your-home-air-conditioning-unit",
-      "clicks": 3,
-      "impressions": 2745,
-      "ctr": 0.001092896174863388,
-      "position": 32.28706739526412
+      "clicks": 4,
+      "impressions": 3062,
+      "ctr": 0.0013063357282821686,
+      "position": 28.81972566949706
     },
     {
-      "page": "https://onestoputah.com/blog/the-dangers-of-old-hvac-equipment",
+      "page": "https://onestoputah.com/heating/furnace-replacement-west-valley-city-ut",
+      "clicks": 4,
+      "impressions": 8144,
+      "ctr": 0.0004911591355599214,
+      "position": 28.401522593320237
+    },
+    {
+      "page": "https://onestoputah.com/blog/weather-conditions-ductless-mini-split",
       "clicks": 3,
-      "impressions": 281,
-      "ctr": 0.010676156583629894,
-      "position": 7.185053380782918
+      "impressions": 1294,
+      "ctr": 0.00231839258114374,
+      "position": 17.132921174652243
     },
     {
       "page": "https://onestoputah.com/heating/furnace-replacement-salt-lake-city-ut",
       "clicks": 3,
-      "impressions": 10679,
-      "ctr": 0.000280925180260324,
-      "position": 41.23401067515685
-    },
-    {
-      "page": "https://onestoputah.com/heating/furnace-replacement-west-valley-city-ut",
-      "clicks": 3,
-      "impressions": 8058,
-      "ctr": 0.00037230081906180194,
-      "position": 29.776495408289897
+      "impressions": 9363,
+      "ctr": 0.0003204101249599487,
+      "position": 38.35159671045605
     },
     {
       "page": "https://onestoputah.com/service-areas/south-jordan-ut",
       "clicks": 3,
-      "impressions": 7768,
-      "ctr": 0.0003861997940267765,
-      "position": 24.049819773429455
+      "impressions": 7625,
+      "ctr": 0.00039344262295081965,
+      "position": 22.353704918032786
+    },
+    {
+      "page": "https://onestoputah.com/air-quality/hvac-uv-lights-installation",
+      "clicks": 2,
+      "impressions": 1079,
+      "ctr": 0.0018535681186283596,
+      "position": 23.03521779425394
     },
     {
       "page": "https://onestoputah.com/blog/address-mini-split-ac-temperature-fluctuations",
       "clicks": 2,
-      "impressions": 364,
-      "ctr": 0.005494505494505495,
-      "position": 13.483516483516484
+      "impressions": 349,
+      "ctr": 0.0057306590257879654,
+      "position": 9.567335243553009
     },
     {
-      "page": "https://onestoputah.com/blog/mini-split-ac-has-low-airflow",
+      "page": "https://onestoputah.com/blog/enjoy-a-whisper-quiet-summer-the-importance-of-noise-reduction-in-hvac-systems",
       "clicks": 2,
-      "impressions": 313,
-      "ctr": 0.006389776357827476,
-      "position": 9.93290734824281
+      "impressions": 102,
+      "ctr": 0.0196078431372549,
+      "position": 12.303921568627452
     },
     {
-      "page": "https://onestoputah.com/blog/weather-conditions-ductless-mini-split",
+      "page": "https://onestoputah.com/blog/the-dangers-of-old-hvac-equipment",
       "clicks": 2,
-      "impressions": 1307,
-      "ctr": 0.001530221882172915,
-      "position": 17.225707727620506
+      "impressions": 298,
+      "ctr": 0.006711409395973154,
+      "position": 6.996644295302014
+    },
+    {
+      "page": "https://onestoputah.com/blog/understanding-inverter-ac-systems",
+      "clicks": 2,
+      "impressions": 567,
+      "ctr": 0.003527336860670194,
+      "position": 21.772486772486772
     },
     {
       "page": "https://onestoputah.com/blog/why-your-ac-fan-motor-stops-working",
       "clicks": 2,
-      "impressions": 1188,
-      "ctr": 0.0016835016835016834,
-      "position": 28.261784511784512
+      "impressions": 1223,
+      "ctr": 0.001635322976287817,
+      "position": 20.486508585445627
+    },
+    {
+      "page": "https://onestoputah.com/financing",
+      "clicks": 2,
+      "impressions": 670,
+      "ctr": 0.0029850746268656717,
+      "position": 19.538805970149255
     },
     {
       "page": "https://onestoputah.com/heating/emergency-furnace-repair",
       "clicks": 2,
-      "impressions": 18620,
-      "ctr": 0.00010741138560687433,
-      "position": 25.533834586466167
+      "impressions": 15656,
+      "ctr": 0.00012774655084312725,
+      "position": 23.77535769034236
     },
     {
       "page": "https://onestoputah.com/heating/furnace-replacement-orem-ut",
       "clicks": 2,
-      "impressions": 10355,
-      "ctr": 0.00019314340898116852,
-      "position": 32.929599227426365
+      "impressions": 8720,
+      "ctr": 0.00022935779816513763,
+      "position": 31.622477064220185
     },
     {
       "page": "https://onestoputah.com/heating/furnace-replacement-springville-ut",
       "clicks": 2,
-      "impressions": 2117,
-      "ctr": 0.000944733112895607,
-      "position": 28.932451582427966
+      "impressions": 1703,
+      "ctr": 0.0011743981209630064,
+      "position": 29.45273047563124
     },
     {
       "page": "https://onestoputah.com/request-service/?utm_source=google&utm_medium=organic&utm_campaign=gbpbooking",
       "clicks": 2,
-      "impressions": 1002,
-      "ctr": 0.001996007984031936,
-      "position": 12.110778443113773
+      "impressions": 1154,
+      "ctr": 0.0017331022530329288,
+      "position": 12.055459272097053
     },
     {
       "page": "https://onestoputah.com/air-quality/air-duct-cleaning-herriman-ut",
       "clicks": 1,
-      "impressions": 289,
-      "ctr": 0.0034602076124567475,
-      "position": 11.525951557093425
-    },
-    {
-      "page": "https://onestoputah.com/air-quality/hvac-uv-lights-installation",
-      "clicks": 1,
-      "impressions": 995,
-      "ctr": 0.0010050251256281408,
-      "position": 24.74070351758794
+      "impressions": 265,
+      "ctr": 0.0037735849056603774,
+      "position": 10.671698113207547
     },
     {
       "page": "https://onestoputah.com/air-quality/reme-halo-installation",
       "clicks": 1,
-      "impressions": 230,
-      "ctr": 0.004347826086956522,
-      "position": 37.56956521739131
-    },
-    {
-      "page": "https://onestoputah.com/blog/all-there-is-to-know-about-relighting-the-gas-furnace",
-      "clicks": 1,
-      "impressions": 887,
-      "ctr": 0.0011273957158962795,
-      "position": 18.771138669673054
-    },
-    {
-      "page": "https://onestoputah.com/blog/enjoy-a-whisper-quiet-summer-the-importance-of-noise-reduction-in-hvac-systems",
-      "clicks": 1,
-      "impressions": 60,
-      "ctr": 0.016666666666666666,
-      "position": 12.816666666666666
+      "impressions": 293,
+      "ctr": 0.0034129692832764505,
+      "position": 37.60409556313993
     },
     {
       "page": "https://onestoputah.com/blog/gas-vs-electric-furnaces-which-is-right-for-you",
       "clicks": 1,
-      "impressions": 60,
-      "ctr": 0.016666666666666666,
-      "position": 17.733333333333334
+      "impressions": 42,
+      "ctr": 0.023809523809523808,
+      "position": 17.904761904761905
     },
     {
       "page": "https://onestoputah.com/blog/heat-pump-takes-longer-to-heat",
       "clicks": 1,
-      "impressions": 60,
-      "ctr": 0.016666666666666666,
-      "position": 20.583333333333332
+      "impressions": 45,
+      "ctr": 0.022222222222222223,
+      "position": 22.755555555555556
     },
     {
       "page": "https://onestoputah.com/blog/heating-repair-crucial-post-holiday-season",
       "clicks": 1,
-      "impressions": 9,
-      "ctr": 0.1111111111111111,
-      "position": 15.88888888888889
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 13.461538461538462
     },
     {
       "page": "https://onestoputah.com/blog/identifying-critical-heat-pump-problems",
       "clicks": 1,
-      "impressions": 630,
-      "ctr": 0.0015873015873015873,
-      "position": 39.13333333333333
+      "impressions": 595,
+      "ctr": 0.0016806722689075631,
+      "position": 39.81008403361344
     },
     {
       "page": "https://onestoputah.com/blog/installing-a-ductless-mini-split",
       "clicks": 1,
-      "impressions": 502,
-      "ctr": 0.00199203187250996,
-      "position": 16.372509960159363
+      "impressions": 531,
+      "ctr": 0.0018832391713747645,
+      "position": 15.220338983050848
     },
     {
       "page": "https://onestoputah.com/blog/mini-split-ac-emergency-shutdown",
       "clicks": 1,
-      "impressions": 723,
-      "ctr": 0.0013831258644536654,
-      "position": 7.301521438450899
+      "impressions": 823,
+      "ctr": 0.001215066828675577,
+      "position": 6.471445929526124
+    },
+    {
+      "page": "https://onestoputah.com/blog/mini-split-ac-has-low-airflow",
+      "clicks": 1,
+      "impressions": 369,
+      "ctr": 0.0027100271002710027,
+      "position": 9.010840108401084
     },
     {
       "page": "https://onestoputah.com/blog/troubleshooting-heat-pump-noises",
       "clicks": 1,
-      "impressions": 250,
-      "ctr": 0.004,
-      "position": 13.908
+      "impressions": 195,
+      "ctr": 0.005128205128205128,
+      "position": 14.861538461538462
     },
     {
-      "page": "https://onestoputah.com/blog/understanding-inverter-ac-systems",
+      "page": "https://onestoputah.com/blog/what-is-a-good-seer-rating",
       "clicks": 1,
-      "impressions": 464,
-      "ctr": 0.0021551724137931034,
-      "position": 26.405172413793103
+      "impressions": 2014,
+      "ctr": 0.0004965243296921549,
+      "position": 34.34011916583913
     },
     {
       "page": "https://onestoputah.com/ductless/mini-split-installation-provo-ut",
       "clicks": 1,
-      "impressions": 653,
-      "ctr": 0.0015313935681470138,
-      "position": 14.191424196018376
+      "impressions": 485,
+      "ctr": 0.002061855670103093,
+      "position": 10.19381443298969
+    },
+    {
+      "page": "https://onestoputah.com/ductless/mini-split-installation-sandy-ut",
+      "clicks": 1,
+      "impressions": 5161,
+      "ctr": 0.00019376089905057158,
+      "position": 30.29122263127301
     },
     {
       "page": "https://onestoputah.com/ductless/mini-split-maintenance-sandy-ut",
       "clicks": 1,
-      "impressions": 1756,
-      "ctr": 0.0005694760820045558,
-      "position": 52.80922551252847
-    },
-    {
-      "page": "https://onestoputah.com/financing",
-      "clicks": 1,
-      "impressions": 619,
-      "ctr": 0.0016155088852988692,
-      "position": 21.831987075928918
-    },
-    {
-      "page": "https://onestoputah.com/heating/furnace-repair-stansbury-park-ut",
-      "clicks": 1,
-      "impressions": 128,
-      "ctr": 0.0078125,
-      "position": 4.8046875
+      "impressions": 1992,
+      "ctr": 0.000502008032128514,
+      "position": 48.50451807228916
     },
     {
       "page": "https://onestoputah.com/heating/furnace-replacement-bluffdale-ut",
       "clicks": 1,
-      "impressions": 809,
-      "ctr": 0.0012360939431396785,
-      "position": 29.059332509270703
-    },
-    {
-      "page": "https://onestoputah.com/heating/furnace-replacement-clinton-ut",
-      "clicks": 1,
-      "impressions": 890,
-      "ctr": 0.0011235955056179776,
-      "position": 35.12247191011236
+      "impressions": 613,
+      "ctr": 0.0016313213703099511,
+      "position": 26.471451876019575
     },
     {
       "page": "https://onestoputah.com/heating/furnace-replacement-herriman-ut",
       "clicks": 1,
-      "impressions": 2322,
-      "ctr": 0.0004306632213608958,
-      "position": 28.371662360034453
+      "impressions": 2243,
+      "ctr": 0.00044583147570218456,
+      "position": 27.511814534106108
     },
     {
       "page": "https://onestoputah.com/heating/furnace-replacement-lehi-ut",
       "clicks": 1,
-      "impressions": 3389,
-      "ctr": 0.00029507229271171436,
-      "position": 48.92328120389495
+      "impressions": 2603,
+      "ctr": 0.000384172109104879,
+      "position": 45.260084517864
     },
     {
       "page": "https://onestoputah.com/heating/furnace-replacement-millcreek-ut",
       "clicks": 1,
-      "impressions": 662,
-      "ctr": 0.0015105740181268882,
-      "position": 43.6797583081571
+      "impressions": 509,
+      "ctr": 0.0019646365422396855,
+      "position": 43.81335952848723
+    },
+    {
+      "page": "https://onestoputah.com/heating/furnace-replacement-provo-ut",
+      "clicks": 1,
+      "impressions": 2094,
+      "ctr": 0.0004775549188156638,
+      "position": 38.80945558739255
     }
   ],
-  "fetchedAt": "2026-03-18T13:07:49.476Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "one stop heating and air",
+      "clicks": 83,
+      "impressions": 698,
+      "ctr": 0.11891117478510028,
+      "position": 1.9484240687679084
+    },
+    {
+      "query": "one stop heating and air conditioning",
+      "clicks": 35,
+      "impressions": 312,
+      "ctr": 0.11217948717948718,
+      "position": 2.2628205128205128
+    },
+    {
+      "query": "onestop heating and cooling",
+      "clicks": 9,
+      "impressions": 56,
+      "ctr": 0.16071428571428573,
+      "position": 1.7678571428571428
+    },
+    {
+      "query": "one stop utah",
+      "clicks": 8,
+      "impressions": 87,
+      "ctr": 0.09195402298850575,
+      "position": 4.471264367816092
+    },
+    {
+      "query": "onestop",
+      "clicks": 5,
+      "impressions": 11,
+      "ctr": 0.45454545454545453,
+      "position": 3
+    },
+    {
+      "query": "one stop hvac",
+      "clicks": 4,
+      "impressions": 265,
+      "ctr": 0.01509433962264151,
+      "position": 3.0679245283018868
+    },
+    {
+      "query": "onestop utah",
+      "clicks": 4,
+      "impressions": 95,
+      "ctr": 0.042105263157894736,
+      "position": 3.2
+    },
+    {
+      "query": "hvac",
+      "clicks": 3,
+      "impressions": 227,
+      "ctr": 0.013215859030837005,
+      "position": 3.4008810572687223
+    },
+    {
+      "query": "one stop heating and cooling",
+      "clicks": 3,
+      "impressions": 129,
+      "ctr": 0.023255813953488372,
+      "position": 9.472868217054264
+    },
+    {
+      "query": "heating and air conditioning near me",
+      "clicks": 2,
+      "impressions": 61,
+      "ctr": 0.03278688524590164,
+      "position": 18.868852459016395
+    },
+    {
+      "query": "hvac companies",
+      "clicks": 2,
+      "impressions": 48,
+      "ctr": 0.041666666666666664,
+      "position": 11.291666666666666
+    },
+    {
+      "query": "hvac in utah",
+      "clicks": 2,
+      "impressions": 17,
+      "ctr": 0.11764705882352941,
+      "position": 1.8235294117647058
+    },
+    {
+      "query": "one stop",
+      "clicks": 2,
+      "impressions": 12,
+      "ctr": 0.16666666666666666,
+      "position": 4.5
+    },
+    {
+      "query": "one stop heating",
+      "clicks": 2,
+      "impressions": 30,
+      "ctr": 0.06666666666666667,
+      "position": 5.5
+    },
+    {
+      "query": "1 stop heating and cooling",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 9.6
+    },
+    {
+      "query": "8013559500",
+      "clicks": 1,
+      "impressions": 49,
+      "ctr": 0.02040816326530612,
+      "position": 3.2244897959183674
+    },
+    {
+      "query": "air conditioner near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "air conditioner tune up",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "best hvac salt lake",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "buy furnace parts near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "cooling heating and air",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "furnace fix",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "furnace replacement near me",
+      "clicks": 1,
+      "impressions": 1108,
+      "ctr": 0.0009025270758122744,
+      "position": 30.28610108303249
+    },
+    {
+      "query": "heater tune up",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1.5
+    },
+    {
+      "query": "heating repair near me",
+      "clicks": 1,
+      "impressions": 29,
+      "ctr": 0.034482758620689655,
+      "position": 24.17241379310345
+    },
+    {
+      "query": "how to check capacitor on ac unit",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 46.5
+    },
+    {
+      "query": "hvac companies near me",
+      "clicks": 1,
+      "impressions": 160,
+      "ctr": 0.00625,
+      "position": 5.80625
+    },
+    {
+      "query": "hvac installer",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 1
+    },
+    {
+      "query": "hvac services utah",
+      "clicks": 1,
+      "impressions": 88,
+      "ctr": 0.011363636363636364,
+      "position": 1
+    },
+    {
+      "query": "one heating and cooling",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 44.23529411764706
+    },
+    {
+      "query": "one stop ac",
+      "clicks": 1,
+      "impressions": 45,
+      "ctr": 0.022222222222222223,
+      "position": 14.066666666666666
+    },
+    {
+      "query": "one stop heating and air conditioning reviews",
+      "clicks": 1,
+      "impressions": 627,
+      "ctr": 0.001594896331738437,
+      "position": 5.917065390749602
+    },
+    {
+      "query": "utah furnace repair",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 1
+    },
+    {
+      "query": "\"ac installation\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "\"eagle mountain, ut ac repair\"",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 2.7777777777777777
+    },
+    {
+      "query": "\"heating and air conditioning\"",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "- hvac maintenance",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 94.75
+    },
+    {
+      "query": "1 source emergency heating solutions",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 11.4
+    },
+    {
+      "query": "14 seer ac unit meaning",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 87
+    },
+    {
+      "query": "14 seer meaning",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 78.25
+    },
+    {
+      "query": "14 seer rating",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 83.27272727272727
+    },
+    {
+      "query": "14 seer vs 15 seer",
+      "clicks": 0,
+      "impressions": 28,
+      "ctr": 0,
+      "position": 81.17857142857143
+    },
+    {
+      "query": "14 seer vs 15 seer savings",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 74.66666666666667
+    },
+    {
+      "query": "14 vs 15 seer",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 84.66666666666667
+    },
+    {
+      "query": "1400 sq ft house ac size",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 74.33333333333333
+    },
+    {
+      "query": "15 seer vs 14 seer",
+      "clicks": 0,
+      "impressions": 27,
+      "ctr": 0,
+      "position": 69.88888888888889
+    },
+    {
+      "query": "1800 square foot house ac size",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 62.333333333333336
+    },
+    {
+      "query": "20 seer vs 16 seer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 66
+    },
+    {
+      "query": "24 7 ac repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 73
+    },
+    {
+      "query": "24 7 ac repair services",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 83
+    },
+    {
+      "query": "24 7 air conditioner repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 70
+    },
+    {
+      "query": "24 7 furnace repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 7 hvac repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 26
+    },
+    {
+      "query": "24 7 hvac repair near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 7 hvac service near me",
+      "clicks": 0,
+      "impressions": 43,
+      "ctr": 0,
+      "position": 27.906976744186046
+    },
+    {
+      "query": "24 air conditioner repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 57
+    },
+    {
+      "query": "24 furnace repair",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 90.25
+    },
+    {
+      "query": "24 hour ac fix salt lake",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 53.5
+    },
+    {
+      "query": "24 hour ac repair",
+      "clicks": 0,
+      "impressions": 61,
+      "ctr": 0,
+      "position": 42.81967213114754
+    },
+    {
+      "query": "24 hour ac repair aubrey",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 62.81818181818182
+    },
+    {
+      "query": "24 hour ac repair salt lake",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 70.25
+    },
+    {
+      "query": "24 hour ac repair salt lake city",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 65.2
+    },
+    {
+      "query": "24 hour ac repair saratoga springs",
+      "clicks": 0,
+      "impressions": 49,
+      "ctr": 0,
+      "position": 87.28571428571429
+    },
+    {
+      "query": "24 hour ac services salt lake city",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 74.81818181818181
+    },
+    {
+      "query": "24 hour ac technician",
+      "clicks": 0,
+      "impressions": 22,
+      "ctr": 0,
+      "position": 33.31818181818182
+    },
+    {
+      "query": "24 hour ac technician slc",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 70.75
+    },
+    {
+      "query": "24 hour air conditioner repair",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 57.3125
+    },
+    {
+      "query": "24 hour air conditioning & heating",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hour emergency furnace repair taylors",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 96.33333333333333
+    },
+    {
+      "query": "24 hour emergency furnace repair travelers rest",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 56
+    },
+    {
+      "query": "24 hour emergency service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 59
+    },
+    {
+      "query": "24 hour furnace repair",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hour furnace repair near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "24 hour furnace service brooklyn",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 68
+    },
+    {
+      "query": "24 hour furnace service sandy ut",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 25.4
+    },
+    {
+      "query": "24 hour heating and air",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 2.75
+    },
+    {
+      "query": "24 hour heating and air conditioning repair",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hour heating and air conditioning repair near me",
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hour heating and air conditioning repair salt lake city",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 97.66666666666667
+    },
+    {
+      "query": "24 hour heating and air conditioning repair service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hour heating and air near me",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hour heating and air utah",
+      "clicks": 0,
+      "impressions": 199,
+      "ctr": 0,
+      "position": 35.42713567839196
+    },
+    {
+      "query": "24 hour heating and cooling near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 16
+    },
+    {
+      "query": "24 hour heating repair",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 12.5
+    },
+    {
+      "query": "24 hour heating repair salt lake city",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 57.05882352941177
+    },
+    {
+      "query": "24 hour home ac fix salt lake city",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 100
+    },
+    {
+      "query": "24 hour hvac",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 86.83333333333333
+    },
+    {
+      "query": "24 hour hvac near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 79
+    },
+    {
+      "query": "24 hour hvac repair",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 29.857142857142858
+    },
+    {
+      "query": "24 hour hvac repair near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hour hvac replacement",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hour hvac service near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24 hour mini split hvac repair taylors",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 100
+    },
+    {
+      "query": "24 hr ac fixes salt lake",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 82.55555555555556
+    },
+    {
+      "query": "24 hr ac fixes slc",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 70.7
+    },
+    {
+      "query": "24 hr ac repair salt lake",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 70.28571428571429
+    },
+    {
+      "query": "24 hr ac repairs salt lake",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 70.4
+    },
+    {
+      "query": "24 hr ac repairs slc",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 71.77777777777777
+    },
+    {
+      "query": "24 hr ac service slc",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 88.88888888888889
+    },
+    {
+      "query": "24 hr ac services slc",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 66.41666666666667
+    },
+    {
+      "query": "24 hr air conditioner repair",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 26.6
+    },
+    {
+      "query": "24 hr commercial ac repairs lehi ut",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 60
+    },
+    {
+      "query": "24-hour emergency hvac service near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24-hour furnace repair",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24-hour heating and air conditioning repair",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24-hour heating and air conditioning repair near me",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24-hour heating and air conditioning repair salt lake city",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 98.5
+    },
+    {
+      "query": "24-hour hvac repair",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24-hour hvac service",
+      "clicks": 0,
+      "impressions": 22,
+      "ctr": 0,
+      "position": 89.9090909090909
+    },
+    {
+      "query": "24/7 air conditioner repair service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 100
+    },
+    {
+      "query": "24/7 emergency ac repair services near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 62
+    },
+    {
+      "query": "24/7 heating and cooling",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "24/7 hvac repair near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24/7 hvac service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "24/7 hvac service near me",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "24hr furnace repair",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 33
+    },
+    {
+      "query": "24x7 ac repair",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 85
+    },
+    {
+      "query": "5 star rated woods cross",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 35.666666666666664
+    },
+    {
+      "query": "801-355-9500",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 4.625
+    },
+    {
+      "query": "[ac",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "a and a heating and air conditioning",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "a c",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "a c capacitor cost",
+      "clicks": 0,
+      "impressions": 254,
+      "ctr": 0,
+      "position": 46.59448818897638
+    },
+    {
+      "query": "a c gas refill",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 46
+    },
+    {
+      "query": "a c installer service herriman utah",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 14
+    },
+    {
+      "query": "a c maintenance near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "a c near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "a c repair",
+      "clicks": 0,
+      "impressions": 202,
+      "ctr": 0,
+      "position": 45.975247524752476
+    },
+    {
+      "query": "a c repair orem",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 61.285714285714285
+    },
+    {
+      "query": "a c repair salt lake city",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 76.1
+    },
+    {
+      "query": "a c repairs near me",
+      "clicks": 0,
+      "impressions": 22,
+      "ctr": 0,
+      "position": 41.72727272727273
+    },
+    {
+      "query": "a c service near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "a heating and air conditioning repair",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 45.64705882352941
+    },
+    {
+      "query": "a one heating and air",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "a.c",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "a.c.",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "a/c capacitor cost",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 95
+    },
+    {
+      "query": "a/c capacitor replacement cost",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 72
+    },
+    {
+      "query": "a/c emergency",
+      "clicks": 0,
+      "impressions": 30,
+      "ctr": 0,
+      "position": 80.13333333333334
+    },
+    {
+      "query": "a/c gas refill",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 79
+    },
+    {
+      "query": "a/c repair",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "a/c repair near me",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 8.583333333333332
+    },
+    {
+      "query": "a/c repair utah",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 63.25
+    },
+    {
+      "query": "a/c service salt lake city",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 98
+    },
+    {
+      "query": "a/c unit cleaning",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 65.85714285714286
+    },
+    {
+      "query": "ac",
+      "clicks": 0,
+      "impressions": 122,
+      "ctr": 0,
+      "position": 5.639344262295082
+    },
+    {
+      "query": "ac air conditioner installation",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "ac air conditioner repair",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 100.5
+    },
+    {
+      "query": "ac air conditioning repair eagle mountain utah",
+      "clicks": 0,
+      "impressions": 21,
+      "ctr": 0,
+      "position": 36.38095238095238
+    },
+    {
+      "query": "ac all day slc",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 41.166666666666664
+    },
+    {
+      "query": "ac and furnace",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "ac and furnace maintenance",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 88.75
+    },
+    {
+      "query": "ac and furnace tune up",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "ac and heater maintenance",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 17
+    },
+    {
+      "query": "ac and heating",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "ac and heating near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "ac and heating repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "ac and heating service utah",
+      "clicks": 0,
+      "impressions": 26,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "ac and heating utah",
+      "clicks": 0,
+      "impressions": 107,
+      "ctr": 0,
+      "position": 22.429906542056074
+    },
+    {
+      "query": "ac any time slc",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 45.8
+    },
+    {
+      "query": "ac black mold",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 59.1
+    },
+    {
+      "query": "ac blowing hot and cold air",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 82
+    },
+    {
+      "query": "ac capacitor check",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 23.2
+    },
+    {
+      "query": "ac capacitor cost",
+      "clicks": 0,
+      "impressions": 1050,
+      "ctr": 0,
+      "position": 45.42
+    },
+    {
+      "query": "ac capacitor cost to replace",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 34.44444444444444
+    },
+    {
+      "query": "ac capacitor price",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 67.5
+    },
+    {
+      "query": "ac capacitor purchase",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 63
+    },
+    {
+      "query": "ac capacitor repair cost",
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 38.44444444444444
+    },
+    {
+      "query": "ac capacitor replacement cost",
+      "clicks": 0,
+      "impressions": 801,
+      "ctr": 0,
+      "position": 42.433208489388264
+    },
+    {
+      "query": "ac capacitor test",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 28.352941176470587
+    },
+    {
+      "query": "ac capacitor test multimeter",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 27.4
+    },
+    {
+      "query": "ac capacitor tester",
+      "clicks": 0,
+      "impressions": 21,
+      "ctr": 0,
+      "position": 22.952380952380953
+    },
+    {
+      "query": "ac capacitor testing",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 25
+    },
+    {
+      "query": "ac capacitor testing with multimeter",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 25.6
+    },
+    {
+      "query": "ac capacitors price",
+      "clicks": 0,
+      "impressions": 30,
+      "ctr": 0,
+      "position": 51.93333333333333
+    },
+    {
+      "query": "ac car repair in riverton",
+      "clicks": 0,
+      "impressions": 50,
+      "ctr": 0,
+      "position": 44.04
+    },
+    {
+      "query": "ac car repair near riverton",
+      "clicks": 0,
+      "impressions": 33,
+      "ctr": 0,
+      "position": 40.21212121212121
+    },
+    {
+      "query": "ac car repair riverton",
+      "clicks": 0,
+      "impressions": 40,
+      "ctr": 0,
+      "position": 44
+    },
+    {
+      "query": "ac cleaning service",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 37.25
+    },
+    {
+      "query": "ac companies",
+      "clicks": 0,
+      "impressions": 48,
+      "ctr": 0,
+      "position": 24.416666666666668
+    },
+    {
+      "query": "ac companies near me",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 3.75
+    },
+    {
+      "query": "ac companies springville ut",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 67
+    },
+    {
+      "query": "ac company",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 1.1666666666666667
+    },
+    {
+      "query": "ac company bountiful, utah",
+      "clicks": 0,
+      "impressions": 100,
+      "ctr": 0,
+      "position": 34.86
+    },
+    {
+      "query": "ac company herriman ut",
+      "clicks": 0,
+      "impressions": 85,
+      "ctr": 0,
+      "position": 36.51764705882353
+    },
+    {
+      "query": "ac company highland",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 16.666666666666664
+    },
+    {
+      "query": "ac company lehi",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 56
+    },
+    {
+      "query": "ac company near me",
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "ac condenser capacitor cost",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 52.8
+    },
+    {
+      "query": "ac condenser not blowing hot air",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 68.4
+    },
+    {
+      "query": "ac condenser repair near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "ac conditioner repair",
+      "clicks": 0,
+      "impressions": 45,
+      "ctr": 0,
+      "position": 64.64444444444445
+    },
+    {
+      "query": "ac contractor",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "ac diagnostic salt lake",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 92.75
+    },
+    {
+      "query": "ac dual capacitor replacement cost",
+      "clicks": 0,
+      "impressions": 38,
+      "ctr": 0,
+      "position": 34.8421052631579
+    },
+    {
+      "query": "ac duct repair lindon, ut",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 29
+    },
+    {
+      "query": "ac duct replacement slc",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 79.9090909090909
+    },
+    {
+      "query": "ac emergency fix slc",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 74.8
+    },
+    {
+      "query": "ac emergency fixes slc",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 78.66666666666667
+    },
+    {
+      "query": "ac emergency repair",
+      "clicks": 0,
+      "impressions": 132,
+      "ctr": 0,
+      "position": 27.757575757575758
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:22:18.335Z"
 }

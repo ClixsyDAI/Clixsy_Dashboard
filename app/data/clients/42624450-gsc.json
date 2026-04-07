@@ -1,156 +1,16 @@
 {
   "property": "https://calltheotterguys.com/",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 1521,
-    "impressions": 751075,
-    "ctr": 0.002025097360450022,
-    "position": 15.333795619977263
+    "clicks": 1664,
+    "impressions": 728320,
+    "ctr": 0.0022847100175746923,
+    "position": 15.213375538935255
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 20,
-      "impressions": 13726,
-      "ctr": 0.0014570887367040652,
-      "position": 9.478653650007285
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 19,
-      "impressions": 6606,
-      "ctr": 0.0028761731759006964,
-      "position": 16.539206781713595
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 15,
-      "impressions": 6911,
-      "ctr": 0.0021704529011720448,
-      "position": 15.730285052814354
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 20,
-      "impressions": 8658,
-      "ctr": 0.00231000231000231,
-      "position": 22.345460845460845
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 18,
-      "impressions": 7250,
-      "ctr": 0.0024827586206896553,
-      "position": 21.503862068965518
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 6,
-      "impressions": 7436,
-      "ctr": 0.0008068854222700376,
-      "position": 22.290882194728347
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 11,
-      "impressions": 5569,
-      "ctr": 0.0019752199676782187,
-      "position": 22.365236128568863
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 22,
-      "impressions": 7661,
-      "ctr": 0.0028716877692207283,
-      "position": 15.815037201409737
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 13,
-      "impressions": 7512,
-      "ctr": 0.0017305644302449414,
-      "position": 16.393237486687966
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 3,
-      "impressions": 6534,
-      "ctr": 0.0004591368227731864,
-      "position": 17.947046219773494
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 2,
-      "impressions": 7261,
-      "ctr": 0.0002754441536978378,
-      "position": 15.901253270899325
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 9,
-      "impressions": 7577,
-      "ctr": 0.0011878051999472086,
-      "position": 18.96674145440148
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 11,
-      "impressions": 6117,
-      "ctr": 0.0017982671244073892,
-      "position": 15.329082883766553
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 16,
-      "impressions": 7100,
-      "ctr": 0.0022535211267605635,
-      "position": 16.64042253521127
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 20,
-      "impressions": 10631,
-      "ctr": 0.0018812905653278148,
-      "position": 10.775750164612925
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 9,
-      "impressions": 7817,
-      "ctr": 0.001151336829985928,
-      "position": 13.276064986567738
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 7,
-      "impressions": 6978,
-      "ctr": 0.001003152765835483,
-      "position": 14.877901977644024
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 6,
-      "impressions": 8945,
-      "ctr": 0.0006707657909446618,
-      "position": 24.966014533258804
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 12,
-      "impressions": 7916,
-      "ctr": 0.0015159171298635675,
-      "position": 13.41422435573522
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 18,
-      "impressions": 6341,
-      "ctr": 0.0028386689796562055,
-      "position": 13.990380066235609
-    },
     {
       "date": "2026-01-04",
       "clicks": 17,
@@ -640,288 +500,463 @@
       "impressions": 5334,
       "ctr": 0.0026246719160104987,
       "position": 16.614735658042747
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 13,
+      "impressions": 4688,
+      "ctr": 0.002773037542662116,
+      "position": 15.506612627986348
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 19,
+      "impressions": 7327,
+      "ctr": 0.0025931486283608573,
+      "position": 12.688958646103453
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 26,
+      "impressions": 5070,
+      "ctr": 0.005128205128205128,
+      "position": 13.455226824457593
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 25,
+      "impressions": 10053,
+      "ctr": 0.0024868198547697206,
+      "position": 8.548294041579627
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 10,
+      "impressions": 5947,
+      "ctr": 0.0016815200941651253,
+      "position": 14.388935597780394
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 20,
+      "impressions": 4365,
+      "ctr": 0.004581901489117984,
+      "position": 16.980297823596793
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 12,
+      "impressions": 4563,
+      "ctr": 0.0026298487836949377,
+      "position": 21.460223537146614
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 14,
+      "impressions": 4307,
+      "ctr": 0.00325052240538658,
+      "position": 17.278848386347807
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 30,
+      "impressions": 16175,
+      "ctr": 0.0018547140649149924,
+      "position": 7.006738794435858
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 33,
+      "impressions": 6607,
+      "ctr": 0.004994702588164069,
+      "position": 15.188133797487513
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 27,
+      "impressions": 7168,
+      "ctr": 0.0037667410714285715,
+      "position": 18.443638392857142
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 24,
+      "impressions": 7846,
+      "ctr": 0.0030588835075197555,
+      "position": 33.525618149375475
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 25,
+      "impressions": 4676,
+      "ctr": 0.0053464499572284,
+      "position": 16.92579127459367
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 7,
+      "impressions": 5481,
+      "ctr": 0.001277139208173691,
+      "position": 20.076993249407042
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 4,
+      "impressions": 5832,
+      "ctr": 0.0006858710562414266,
+      "position": 18.431412894375857
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 21,
+      "impressions": 6154,
+      "ctr": 0.0034124146896327592,
+      "position": 15.766005849853753
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 20,
+      "impressions": 4785,
+      "ctr": 0.0041797283176593526,
+      "position": 14.77471264367816
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 20,
+      "impressions": 5935,
+      "ctr": 0.003369839932603201,
+      "position": 12.352485256950295
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 17,
+      "impressions": 6294,
+      "ctr": 0.0027009850651414044,
+      "position": 14.09691769939625
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 22,
+      "impressions": 4370,
+      "ctr": 0.005034324942791762,
+      "position": 17.518993135011442
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 11,
+      "impressions": 4148,
+      "ctr": 0.002651880424300868,
+      "position": 18.507473481195756
     }
   ],
   "topQueries": [
     {
       "query": "the otter guys",
-      "clicks": 248,
-      "impressions": 1036,
-      "ctr": 0.23938223938223938,
-      "position": 2.5878378378378377
+      "clicks": 290,
+      "impressions": 1135,
+      "ctr": 0.2555066079295154,
+      "position": 2.4607929515418503
     },
     {
       "query": "otter guys",
-      "clicks": 140,
-      "impressions": 920,
-      "ctr": 0.15217391304347827,
-      "position": 1.7652173913043478
+      "clicks": 153,
+      "impressions": 1005,
+      "ctr": 0.15223880597014924,
+      "position": 1.792039800995025
     },
     {
       "query": "otter guys charlottesville",
-      "clicks": 65,
-      "impressions": 341,
-      "ctr": 0.1906158357771261,
-      "position": 2.19941348973607
+      "clicks": 69,
+      "impressions": 381,
+      "ctr": 0.18110236220472442,
+      "position": 2.152230971128609
     },
     {
       "query": "the otter guys charlottesville va",
-      "clicks": 46,
-      "impressions": 105,
-      "ctr": 0.4380952380952381,
-      "position": 1.3523809523809525
+      "clicks": 43,
+      "impressions": 116,
+      "ctr": 0.3706896551724138,
+      "position": 1.3103448275862069
+    },
+    {
+      "query": "otter guys plumbing",
+      "clicks": 13,
+      "impressions": 59,
+      "ctr": 0.22033898305084745,
+      "position": 3.9322033898305087
     },
     {
       "query": "furnace",
-      "clicks": 12,
-      "impressions": 141215,
-      "ctr": 0.00008497680841270403,
-      "position": 5.165343624969019
+      "clicks": 11,
+      "impressions": 120940,
+      "ctr": 0.00009095419216140235,
+      "position": 5.564073094096246
     },
     {
       "query": "new furnace cost",
       "clicks": 10,
-      "impressions": 18309,
-      "ctr": 0.0005461794745753454,
-      "position": 10.958326506089902
+      "impressions": 16989,
+      "ctr": 0.000588616163399847,
+      "position": 10.992995467655541
     },
     {
-      "query": "otter guys plumbing",
-      "clicks": 10,
-      "impressions": 49,
-      "ctr": 0.20408163265306123,
-      "position": 4.4897959183673475
+      "query": "plumbers charlottesville",
+      "clicks": 7,
+      "impressions": 1071,
+      "ctr": 0.006535947712418301,
+      "position": 7.803921568627451
     },
     {
       "query": "the otter guys heating, air conditioning, plumbing",
       "clicks": 7,
-      "impressions": 249,
-      "ctr": 0.028112449799196786,
-      "position": 1.2931726907630523
+      "impressions": 268,
+      "ctr": 0.026119402985074626,
+      "position": 1.373134328358209
+    },
+    {
+      "query": "the otter guys reviews",
+      "clicks": 7,
+      "impressions": 252,
+      "ctr": 0.027777777777777776,
+      "position": 7.884920634920635
+    },
+    {
+      "query": "heat pump replacement cost",
+      "clicks": 6,
+      "impressions": 1755,
+      "ctr": 0.003418803418803419,
+      "position": 14.389173789173789
     },
     {
       "query": "plumber charlottesville",
       "clicks": 6,
-      "impressions": 1758,
-      "ctr": 0.0034129692832764505,
-      "position": 5.6103526734926055
-    },
-    {
-      "query": "plumbers charlottesville",
-      "clicks": 6,
-      "impressions": 1056,
-      "ctr": 0.005681818181818182,
-      "position": 8.65814393939394
+      "impressions": 1934,
+      "ctr": 0.0031023784901758012,
+      "position": 5.210444674250258
     },
     {
       "query": "plumbers in charlottesville va",
       "clicks": 6,
-      "impressions": 208,
-      "ctr": 0.028846153846153848,
-      "position": 8.759615384615385
+      "impressions": 176,
+      "ctr": 0.03409090909090909,
+      "position": 7.534090909090909
     },
     {
-      "query": "the otter guys reviews",
-      "clicks": 6,
-      "impressions": 202,
-      "ctr": 0.0297029702970297,
-      "position": 7.1138613861386135
-    },
-    {
-      "query": "emergency plumber charlottesville",
+      "query": "quest plumbing",
       "clicks": 5,
-      "impressions": 156,
-      "ctr": 0.03205128205128205,
-      "position": 9.564102564102564
-    },
-    {
-      "query": "heat pump replacement cost",
-      "clicks": 5,
-      "impressions": 1801,
-      "ctr": 0.00277623542476402,
-      "position": 17.062187673514714
-    },
-    {
-      "query": "new furnace",
-      "clicks": 5,
-      "impressions": 25302,
-      "ctr": 0.00019761283692988697,
-      "position": 5.0325270729586595
-    },
-    {
-      "query": "quest pipe",
-      "clicks": 5,
-      "impressions": 2056,
-      "ctr": 0.0024319066147859923,
-      "position": 2.7261673151750974
+      "impressions": 894,
+      "ctr": 0.005592841163310962,
+      "position": 4.725950782997763
     },
     {
       "query": "charlottesville hvac companies",
       "clicks": 4,
-      "impressions": 46,
-      "ctr": 0.08695652173913043,
-      "position": 13.130434782608695
-    },
-    {
-      "query": "hvac charlottesville",
-      "clicks": 4,
-      "impressions": 294,
-      "ctr": 0.013605442176870748,
-      "position": 12.581632653061224
-    },
-    {
-      "query": "new furnace cost 2025",
-      "clicks": 4,
-      "impressions": 210,
-      "ctr": 0.01904761904761905,
-      "position": 2.0142857142857142
+      "impressions": 37,
+      "ctr": 0.10810810810810811,
+      "position": 13.72972972972973
     },
     {
       "query": "plumber charlottesville va",
       "clicks": 4,
-      "impressions": 435,
-      "ctr": 0.009195402298850575,
-      "position": 10.705747126436782
+      "impressions": 393,
+      "ctr": 0.010178117048346057,
+      "position": 8.979643765903308
     },
     {
-      "query": "charlottesville plumber",
-      "clicks": 3,
-      "impressions": 765,
-      "ctr": 0.00392156862745098,
-      "position": 15.313725490196079
+      "query": "plumbing companies in virginia",
+      "clicks": 4,
+      "impressions": 7,
+      "ctr": 0.5714285714285714,
+      "position": 26.714285714285715
+    },
+    {
+      "query": "quest piping",
+      "clicks": 4,
+      "impressions": 1157,
+      "ctr": 0.003457216940363008,
+      "position": 3.874675885911841
     },
     {
       "query": "cost of new furnace and installation",
       "clicks": 3,
-      "impressions": 2164,
-      "ctr": 0.0013863216266173752,
-      "position": 10.305452865064694
+      "impressions": 2392,
+      "ctr": 0.001254180602006689,
+      "position": 11.483695652173912
     },
     {
-      "query": "furnace cost",
+      "query": "emergency plumber charlottesville",
       "clicks": 3,
-      "impressions": 9693,
-      "ctr": 0.00030950170225936243,
-      "position": 9.675745383266275
+      "impressions": 146,
+      "ctr": 0.02054794520547945,
+      "position": 7.972602739726027
+    },
+    {
+      "query": "hvac charlottesville",
+      "clicks": 3,
+      "impressions": 289,
+      "ctr": 0.010380622837370242,
+      "position": 11.740484429065743
     },
     {
       "query": "jlk endeavors llc",
       "clicks": 3,
-      "impressions": 87,
-      "ctr": 0.034482758620689655,
-      "position": 1.0804597701149425
+      "impressions": 85,
+      "ctr": 0.03529411764705882,
+      "position": 1.0823529411764705
     },
     {
-      "query": "plumbing companies in virginia",
+      "query": "new furnace",
       "clicks": 3,
-      "impressions": 7,
-      "ctr": 0.42857142857142855,
-      "position": 26.714285714285715
+      "impressions": 21366,
+      "ctr": 0.00014040999719180006,
+      "position": 5.683375456332491
+    },
+    {
+      "query": "new furnace cost 2025",
+      "clicks": 3,
+      "impressions": 197,
+      "ctr": 0.015228426395939087,
+      "position": 2.4619289340101522
+    },
+    {
+      "query": "quest pipe",
+      "clicks": 3,
+      "impressions": 2034,
+      "ctr": 0.0014749262536873156,
+      "position": 2.9016715830875124
     },
     {
       "query": "quest pipe vs pex",
       "clicks": 3,
-      "impressions": 20,
-      "ctr": 0.15,
-      "position": 1.35
+      "impressions": 21,
+      "ctr": 0.14285714285714285,
+      "position": 1.3333333333333333
     },
     {
-      "query": "quest plumbing",
-      "clicks": 3,
-      "impressions": 911,
-      "ctr": 0.003293084522502744,
-      "position": 4.913282107574094
-    },
-    {
-      "query": "furnace replacement cost",
+      "query": "best plumbers in charlottesville va",
       "clicks": 2,
-      "impressions": 9717,
-      "ctr": 0.00020582484305855717,
-      "position": 16.773181022949473
+      "impressions": 59,
+      "ctr": 0.03389830508474576,
+      "position": 9.610169491525424
+    },
+    {
+      "query": "charlottesville plumber",
+      "clicks": 2,
+      "impressions": 705,
+      "ctr": 0.0028368794326241137,
+      "position": 15.063829787234043
+    },
+    {
+      "query": "cost of tankless water heater",
+      "clicks": 2,
+      "impressions": 1335,
+      "ctr": 0.00149812734082397,
+      "position": 12.20374531835206
+    },
+    {
+      "query": "furnace cost",
+      "clicks": 2,
+      "impressions": 8720,
+      "ctr": 0.00022935779816513763,
+      "position": 10.201490825688074
     },
     {
       "query": "how much does a tankless hot water heater cost",
       "clicks": 2,
-      "impressions": 21,
-      "ctr": 0.09523809523809523,
-      "position": 13.904761904761905
+      "impressions": 27,
+      "ctr": 0.07407407407407407,
+      "position": 13.037037037037036
     },
     {
       "query": "how to fix a slow bathtub drain",
       "clicks": 2,
-      "impressions": 9,
-      "ctr": 0.2222222222222222,
-      "position": 9.666666666666666
+      "impressions": 25,
+      "ctr": 0.08,
+      "position": 8.48
     },
     {
       "query": "hvac companies in virginia",
       "clicks": 2,
-      "impressions": 7,
-      "ctr": 0.2857142857142857,
-      "position": 42.42857142857143
+      "impressions": 9,
+      "ctr": 0.2222222222222222,
+      "position": 48.55555555555556
     },
     {
       "query": "hvac goochland va",
       "clicks": 2,
-      "impressions": 25,
-      "ctr": 0.08,
-      "position": 10.04
+      "impressions": 31,
+      "ctr": 0.06451612903225806,
+      "position": 9.774193548387096
     },
     {
-      "query": "plumber near me",
+      "query": "plumber",
       "clicks": 2,
-      "impressions": 2495,
-      "ctr": 0.0008016032064128256,
-      "position": 2.8753507014028057
+      "impressions": 3028,
+      "ctr": 0.0006605019815059445,
+      "position": 2.396301188903567
     },
     {
       "query": "plumber waynesboro va",
       "clicks": 2,
-      "impressions": 149,
-      "ctr": 0.013422818791946308,
-      "position": 4.496644295302014
+      "impressions": 136,
+      "ctr": 0.014705882352941176,
+      "position": 4.492647058823529
+    },
+    {
+      "query": "plumbers charlottesville va",
+      "clicks": 2,
+      "impressions": 174,
+      "ctr": 0.011494252873563218,
+      "position": 9.971264367816092
     },
     {
       "query": "plumbers near me",
       "clicks": 2,
-      "impressions": 700,
-      "ctr": 0.002857142857142857,
-      "position": 6.945714285714286
+      "impressions": 749,
+      "ctr": 0.0026702269692923898,
+      "position": 7.213618157543391
     },
     {
       "query": "plumbing charlottesville va",
       "clicks": 2,
-      "impressions": 364,
-      "ctr": 0.005494505494505495,
-      "position": 12.472527472527473
+      "impressions": 329,
+      "ctr": 0.0060790273556231,
+      "position": 11.638297872340425
+    },
+    {
+      "query": "polybutylene pipe",
+      "clicks": 2,
+      "impressions": 3,
+      "ctr": 0.6666666666666666,
+      "position": 8.333333333333332
     },
     {
       "query": "quest pipes",
       "clicks": 2,
-      "impressions": 506,
-      "ctr": 0.003952569169960474,
-      "position": 6.290513833992095
+      "impressions": 518,
+      "ctr": 0.003861003861003861,
+      "position": 5.675675675675675
     },
     {
-      "query": "quest piping",
+      "query": "tankless water heater cost",
       "clicks": 2,
-      "impressions": 1103,
-      "ctr": 0.001813236627379873,
-      "position": 4.255666364460562
-    },
-    {
-      "query": "quest plumbing fittings",
-      "clicks": 2,
-      "impressions": 119,
-      "ctr": 0.01680672268907563,
-      "position": 1.7478991596638656
+      "impressions": 5178,
+      "ctr": 0.0003862495171881035,
+      "position": 10.071263035921206
     },
     {
       "query": "water heater install charlottesville va",
       "clicks": 2,
-      "impressions": 82,
-      "ctr": 0.024390243902439025,
-      "position": 3.6341463414634148
+      "impressions": 79,
+      "ctr": 0.02531645569620253,
+      "position": 11.164556962025317
+    },
+    {
+      "query": "yes",
+      "clicks": 2,
+      "impressions": 8,
+      "ctr": 0.25,
+      "position": 4.25
     },
     {
       "query": "1 in x 1 in pvc slide repair coupling",
@@ -933,9 +968,23 @@
     {
       "query": "4 basic categories of hvac systems",
       "clicks": 1,
-      "impressions": 313,
-      "ctr": 0.003194888178913738,
-      "position": 8.11182108626198
+      "impressions": 254,
+      "ctr": 0.003937007874015748,
+      "position": 8.91732283464567
+    },
+    {
+      "query": "ac service virginia",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 81
+    },
+    {
+      "query": "air conditioning installation",
+      "clicks": 1,
+      "impressions": 974,
+      "ctr": 0.001026694045174538,
+      "position": 1.8100616016427105
     },
     {
       "query": "air conditioning virginia",
@@ -947,16 +996,30 @@
     {
       "query": "bathtub drain slow but not clogged",
       "clicks": 1,
-      "impressions": 116,
-      "ctr": 0.008620689655172414,
-      "position": 9.181034482758621
+      "impressions": 143,
+      "ctr": 0.006993006993006993,
+      "position": 9.090909090909092
     },
     {
-      "query": "best plumbers in charlottesville va",
+      "query": "bathtub drains slowly not clogged",
       "clicks": 1,
-      "impressions": 63,
-      "ctr": 0.015873015873015872,
-      "position": 9.206349206349206
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 8.285714285714285
+    },
+    {
+      "query": "bathtub slow drain fix",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 1
+    },
+    {
+      "query": "best plumbers near me",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 2.3684210526315788
     },
     {
       "query": "best plumbers near me small jobs",
@@ -968,23 +1031,23 @@
     {
       "query": "charlottesville furnace repair",
       "clicks": 1,
-      "impressions": 65,
-      "ctr": 0.015384615384615385,
-      "position": 8.2
+      "impressions": 49,
+      "ctr": 0.02040816326530612,
+      "position": 7.408163265306122
     },
     {
       "query": "charlottesville plumbers",
       "clicks": 1,
-      "impressions": 514,
-      "ctr": 0.0019455252918287938,
-      "position": 12.142023346303501
+      "impressions": 485,
+      "ctr": 0.002061855670103093,
+      "position": 11.305154639175258
     },
     {
       "query": "charlottesville va plumbers",
       "clicks": 1,
-      "impressions": 33,
-      "ctr": 0.030303030303030304,
-      "position": 8.93939393939394
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 6
     },
     {
       "query": "commercial hvac harrisonburg va",
@@ -992,359 +1055,2759 @@
       "impressions": 1,
       "ctr": 1,
       "position": 126
+    },
+    {
+      "query": "commercial hvac in charlottesville",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 5.571428571428571
+    },
+    {
+      "query": "cost of heat pump replacement",
+      "clicks": 1,
+      "impressions": 107,
+      "ctr": 0.009345794392523364,
+      "position": 8.037383177570092
+    },
+    {
+      "query": "cost of new furnace",
+      "clicks": 1,
+      "impressions": 3989,
+      "ctr": 0.000250689395838556,
+      "position": 13.714214088744047
+    },
+    {
+      "query": "cost of new heat pump",
+      "clicks": 1,
+      "impressions": 216,
+      "ctr": 0.004629629629629629,
+      "position": 15.74074074074074
+    },
+    {
+      "query": "cost to replace a heat pump",
+      "clicks": 1,
+      "impressions": 78,
+      "ctr": 0.01282051282051282,
+      "position": 12.35897435897436
+    },
+    {
+      "query": "cost to replace heat pump",
+      "clicks": 1,
+      "impressions": 236,
+      "ctr": 0.00423728813559322,
+      "position": 14.665254237288135
+    },
+    {
+      "query": "culpeper plumbers",
+      "clicks": 1,
+      "impressions": 173,
+      "ctr": 0.005780346820809248,
+      "position": 21.658959537572255
+    },
+    {
+      "query": "drain cleaning charlottesville",
+      "clicks": 1,
+      "impressions": 68,
+      "ctr": 0.014705882352941176,
+      "position": 14.338235294117647
+    },
+    {
+      "query": "dryer vent cleaning",
+      "clicks": 1,
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 8.8125
+    },
+    {
+      "query": "dux quest plumbing",
+      "clicks": 1,
+      "impressions": 72,
+      "ctr": 0.013888888888888888,
+      "position": 3.9305555555555554
+    },
+    {
+      "query": "emergency plumber",
+      "clicks": 1,
+      "impressions": 4290,
+      "ctr": 0.0002331002331002331,
+      "position": 28.584615384615386
+    },
+    {
+      "query": "emergency plumber near me",
+      "clicks": 1,
+      "impressions": 145,
+      "ctr": 0.006896551724137931,
+      "position": 8.241379310344827
+    },
+    {
+      "query": "evaporator coil vs condenser coil",
+      "clicks": 1,
+      "impressions": 251,
+      "ctr": 0.00398406374501992,
+      "position": 15.573705179282868
+    },
+    {
+      "query": "furnace cost for house",
+      "clicks": 1,
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 18.4375
+    },
+    {
+      "query": "furnace new",
+      "clicks": 1,
+      "impressions": 1386,
+      "ctr": 0.0007215007215007215,
+      "position": 9.121212121212121
+    },
+    {
+      "query": "furnace picture",
+      "clicks": 1,
+      "impressions": 123,
+      "ctr": 0.008130081300813009,
+      "position": 1
+    },
+    {
+      "query": "furnace price",
+      "clicks": 1,
+      "impressions": 2936,
+      "ctr": 0.0003405994550408719,
+      "position": 8.887602179836513
+    },
+    {
+      "query": "furnace quotes near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "furnace repair crozet va",
+      "clicks": 1,
+      "impressions": 33,
+      "ctr": 0.030303030303030304,
+      "position": 8.333333333333332
+    },
+    {
+      "query": "furnance cost",
+      "clicks": 1,
+      "impressions": 211,
+      "ctr": 0.004739336492890996,
+      "position": 8.796208530805687
+    },
+    {
+      "query": "gas plumber service near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "heat pump installers near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1.5
+    },
+    {
+      "query": "hot water heater replacement cost",
+      "clicks": 1,
+      "impressions": 116,
+      "ctr": 0.008620689655172414,
+      "position": 6.568965517241379
+    },
+    {
+      "query": "how much are tankless hot water heaters",
+      "clicks": 1,
+      "impressions": 40,
+      "ctr": 0.025,
+      "position": 1.475
+    },
+    {
+      "query": "how much do tankless water heaters cost",
+      "clicks": 1,
+      "impressions": 357,
+      "ctr": 0.0028011204481792717,
+      "position": 2.123249299719888
+    },
+    {
+      "query": "how much does a new furnace cost",
+      "clicks": 1,
+      "impressions": 2431,
+      "ctr": 0.00041135335252982314,
+      "position": 13.178116001645414
+    },
+    {
+      "query": "how much does a new heat pump cost installed",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 3.7142857142857144
+    },
+    {
+      "query": "how much does a tankless hot water tank cost",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 1
+    },
+    {
+      "query": "how much does a tankless water heater cost",
+      "clicks": 1,
+      "impressions": 721,
+      "ctr": 0.0013869625520110957,
+      "position": 5.552011095700416
+    },
+    {
+      "query": "how much does it cost for a tankless water heater",
+      "clicks": 1,
+      "impressions": 186,
+      "ctr": 0.005376344086021506,
+      "position": 12.295698924731182
+    },
+    {
+      "query": "how much does new furnace cost",
+      "clicks": 1,
+      "impressions": 78,
+      "ctr": 0.01282051282051282,
+      "position": 26.294871794871796
+    },
+    {
+      "query": "how much is a furnace",
+      "clicks": 1,
+      "impressions": 5575,
+      "ctr": 0.00017937219730941703,
+      "position": 9.374708520179372
+    },
+    {
+      "query": "how much is a new furnace",
+      "clicks": 1,
+      "impressions": 6975,
+      "ctr": 0.00014336917562724014,
+      "position": 11.494623655913978
+    },
+    {
+      "query": "how much is a new furnace for a 1,500 square foot home",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 2.1
+    },
+    {
+      "query": "how much is an on demand water heater",
+      "clicks": 1,
+      "impressions": 48,
+      "ctr": 0.020833333333333332,
+      "position": 1
+    },
+    {
+      "query": "hvac charlottesville va",
+      "clicks": 1,
+      "impressions": 191,
+      "ctr": 0.005235602094240838,
+      "position": 16.6282722513089
+    },
+    {
+      "query": "hvac companies near me",
+      "clicks": 1,
+      "impressions": 69,
+      "ctr": 0.014492753623188406,
+      "position": 10.681159420289855
+    },
+    {
+      "query": "hvac crozet va",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 3.588235294117647
+    },
+    {
+      "query": "hvac culpeper va",
+      "clicks": 1,
+      "impressions": 475,
+      "ctr": 0.002105263157894737,
+      "position": 8.818947368421053
+    },
+    {
+      "query": "hvac in virginia",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 36.42857142857143
+    },
+    {
+      "query": "hvac repair near me",
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 9.15
+    },
+    {
+      "query": "hvac repairs near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 4.333333333333334
+    },
+    {
+      "query": "hvac service charlottesville",
+      "clicks": 1,
+      "impressions": 155,
+      "ctr": 0.0064516129032258064,
+      "position": 12.348387096774193
+    },
+    {
+      "query": "hvac service near me",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 4.75
+    },
+    {
+      "query": "hvac systems charlottesville va",
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 33.6
+    },
+    {
+      "query": "install a water heater",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 5.5
+    },
+    {
+      "query": "installation cost water heater",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 63
+    },
+    {
+      "query": "jlk inc",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 4.5
+    },
+    {
+      "query": "local plumbers in my area",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 9
+    },
+    {
+      "query": "louisa plumbers",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 30.666666666666668
+    },
+    {
+      "query": "mini splits ac and heat",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 7
+    },
+    {
+      "query": "natural gas furnace prices",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "new construction plumbing",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "new furance cost",
+      "clicks": 1,
+      "impressions": 59,
+      "ctr": 0.01694915254237288,
+      "position": 11.915254237288135
+    },
+    {
+      "query": "otter air heating and cooling",
+      "clicks": 1,
+      "impressions": 48,
+      "ctr": 0.020833333333333332,
+      "position": 4.354166666666666
+    },
+    {
+      "query": "otter heating and cooling",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 2.7
+    },
+    {
+      "query": "otter plumbing",
+      "clicks": 1,
+      "impressions": 89,
+      "ctr": 0.011235955056179775,
+      "position": 11.674157303370787
+    },
+    {
+      "query": "otterguys",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 1
+    },
+    {
+      "query": "otto heating and cooling",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "payne furnaces",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 1
+    },
+    {
+      "query": "plumber earlysville va",
+      "clicks": 1,
+      "impressions": 82,
+      "ctr": 0.012195121951219513,
+      "position": 2.6951219512195124
+    },
+    {
+      "query": "plumber near me",
+      "clicks": 1,
+      "impressions": 3022,
+      "ctr": 0.00033090668431502316,
+      "position": 2.6753805426869626
+    },
+    {
+      "query": "plumber orange va",
+      "clicks": 1,
+      "impressions": 54,
+      "ctr": 0.018518518518518517,
+      "position": 23.14814814814815
+    },
+    {
+      "query": "plumber well service near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 6.75
+    },
+    {
+      "query": "plumbers ruckersville va",
+      "clicks": 1,
+      "impressions": 257,
+      "ctr": 0.0038910505836575876,
+      "position": 5.120622568093385
+    },
+    {
+      "query": "plumbing business near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 5.5
+    },
+    {
+      "query": "plumbing charlottesville",
+      "clicks": 1,
+      "impressions": 234,
+      "ctr": 0.004273504273504274,
+      "position": 13.354700854700855
+    },
+    {
+      "query": "plumbing company",
+      "clicks": 1,
+      "impressions": 63,
+      "ctr": 0.015873015873015872,
+      "position": 12.507936507936508
+    },
+    {
+      "query": "plumbing near me",
+      "clicks": 1,
+      "impressions": 55,
+      "ctr": 0.01818181818181818,
+      "position": 16.6
+    },
+    {
+      "query": "plumbing website",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "price new furnace",
+      "clicks": 1,
+      "impressions": 84,
+      "ctr": 0.011904761904761904,
+      "position": 11.464285714285714
+    },
+    {
+      "query": "propane line installation near me",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 32.84210526315789
+    },
+    {
+      "query": "pumber",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "qest fittings",
+      "clicks": 1,
+      "impressions": 45,
+      "ctr": 0.022222222222222223,
+      "position": 1.7777777777777777
+    },
+    {
+      "query": "quest pipe fittings",
+      "clicks": 1,
+      "impressions": 204,
+      "ctr": 0.004901960784313725,
+      "position": 2.553921568627451
+    },
+    {
+      "query": "quest pipe to pex",
+      "clicks": 1,
+      "impressions": 65,
+      "ctr": 0.015384615384615385,
+      "position": 2.7846153846153845
+    },
+    {
+      "query": "quest piping problems",
+      "clicks": 1,
+      "impressions": 43,
+      "ctr": 0.023255813953488372,
+      "position": 2.2093023255813953
+    },
+    {
+      "query": "quest plumbing fittings",
+      "clicks": 1,
+      "impressions": 108,
+      "ctr": 0.009259259259259259,
+      "position": 1.4907407407407407
+    },
+    {
+      "query": "quest water lines",
+      "clicks": 1,
+      "impressions": 216,
+      "ctr": 0.004629629629629629,
+      "position": 2.736111111111111
+    },
+    {
+      "query": "quest water pipe",
+      "clicks": 1,
+      "impressions": 349,
+      "ctr": 0.0028653295128939827,
+      "position": 6.332378223495702
+    },
+    {
+      "query": "replacement furnace cost",
+      "clicks": 1,
+      "impressions": 1035,
+      "ctr": 0.000966183574879227,
+      "position": 11.717874396135265
+    },
+    {
+      "query": "septic services near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 10
+    },
+    {
+      "query": "sewer line repair charlottesville",
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 13.15
+    },
+    {
+      "query": "steam shower installation near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "sunwave plumbing",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "tankless water heater and water softener cost",
+      "clicks": 1,
+      "impressions": 55,
+      "ctr": 0.01818181818181818,
+      "position": 2.872727272727273
+    },
+    {
+      "query": "the good guys hvac",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 8.666666666666668
+    },
+    {
+      "query": "the other guys heating and cooling",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 8
+    },
+    {
+      "query": "the otter",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "toilet repair charlottesville va",
+      "clicks": 1,
+      "impressions": 38,
+      "ctr": 0.02631578947368421,
+      "position": 16.078947368421055
+    },
+    {
+      "query": "tub draining slow fix",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 1
+    },
+    {
+      "query": "udder guys",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "virginia hvac",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 21
+    },
+    {
+      "query": "water filtration companies near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "water heater cleaning service",
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 57.95
+    },
+    {
+      "query": "water heater cleaning service near me",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 4.25
+    },
+    {
+      "query": "water heater repair near me",
+      "clicks": 1,
+      "impressions": 499,
+      "ctr": 0.002004008016032064,
+      "position": 14.973947895791584
+    },
+    {
+      "query": "water heater replacement",
+      "clicks": 1,
+      "impressions": 2586,
+      "ctr": 0.0003866976024748647,
+      "position": 11.663959783449343
+    },
+    {
+      "query": "water heating system maintenance",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "water line repair companies",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "water line replacement near me",
+      "clicks": 1,
+      "impressions": 61,
+      "ctr": 0.01639344262295082,
+      "position": 12.262295081967213
+    },
+    {
+      "query": "water pipe frozen underground",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "what does a new furnace cost",
+      "clicks": 1,
+      "impressions": 356,
+      "ctr": 0.0028089887640449437,
+      "position": 14.48314606741573
+    },
+    {
+      "query": "what is an hvac system",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1.5
+    },
+    {
+      "query": "what is quest pipe",
+      "clicks": 1,
+      "impressions": 120,
+      "ctr": 0.008333333333333333,
+      "position": 2.5083333333333333
+    },
+    {
+      "query": "what is quest piping",
+      "clicks": 1,
+      "impressions": 56,
+      "ctr": 0.017857142857142856,
+      "position": 2.642857142857143
+    },
+    {
+      "query": "what is the best furnace",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 1
+    },
+    {
+      "query": "what is the cost of a new heat pump",
+      "clicks": 1,
+      "impressions": 58,
+      "ctr": 0.017241379310344827,
+      "position": 12.379310344827585
+    },
+    {
+      "query": "when was quest pipe outlawed",
+      "clicks": 1,
+      "impressions": 202,
+      "ctr": 0.0049504950495049506,
+      "position": 8.737623762376238
+    },
+    {
+      "query": "who can install a reverse osmosis system",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "who to call to clean dryer vent",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "whole house fan installation near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 5
+    },
+    {
+      "query": "zurn qest fittings",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 3.6666666666666665
+    },
+    {
+      "query": "\"boiler installation\"",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 33.6
+    },
+    {
+      "query": "\"commercial hvac repair\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 31
+    },
+    {
+      "query": "\"cost to replace traditional water heater with tankless\" 2024",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"garbage disposal installation\"",
+      "clicks": 0,
+      "impressions": 27,
+      "ctr": 0,
+      "position": 21.814814814814813
+    },
+    {
+      "query": "\"gas line installation\"",
+      "clicks": 0,
+      "impressions": 20,
+      "ctr": 0,
+      "position": 28.55
+    },
+    {
+      "query": "\"heat pump replacement\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 19
+    },
+    {
+      "query": "\"how many gallons\" \"anode rod\" water heater",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 10.333333333333334
+    },
+    {
+      "query": "\"how many gallons\" anode rod or \"sacrificial anode\" water heater",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 8.8
+    },
+    {
+      "query": "\"how many gallons\" anode rod water heater",
+      "clicks": 0,
+      "impressions": 47,
+      "ctr": 0,
+      "position": 9.74468085106383
+    },
+    {
+      "query": "\"low-flow options\" effectiveness",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "\"low-flow options\" effectiveness or effective",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10.5
+    },
+    {
+      "query": "\"low-flow options\" effectiveness or savings",
+      "clicks": 0,
+      "impressions": 60,
+      "ctr": 0,
+      "position": 8.183333333333334
+    },
+    {
+      "query": "\"sewer line replacement\"",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 87
+    },
+    {
+      "query": "\"shower installation\"",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 83.33333333333333
+    },
+    {
+      "query": "\"water heater installation cost\" 2024",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 17
+    },
+    {
+      "query": "\"which way should ceiling fan spin",
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 58.31578947368421
+    },
+    {
+      "query": "-site:facebook.com -site:fb.me -site:youtube.com -site:youtu.be -site:youtube.be -site:twitter.com -site:instagram.com -site:tiktok.com -site:vm.tiktok.com -site:t.co -site:x.com -site:reddit.com \"hvac\"",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 90.25
+    },
+    {
+      "query": "1 000 gallon propane tank cost",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "1 drop of water every 3 seconds",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "1.5 ton heat pump price installed",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "query": "10 gpm tankless water heater",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "10 litres water heater",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "100 000 btu furnace",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "100k btu furnace",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "10gpm tankless water heater",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "11 gpm tankless",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "110 volt electric water heater",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "110 volt tankless water heater for rv",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "110 well pump",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
     }
   ],
   "topPages": [
     {
-      "page": "https://calltheotterguys.com/",
-      "clicks": 343,
-      "impressions": 19240,
-      "ctr": 0.01782744282744283,
-      "position": 15.517307692307693
-    },
-    {
       "page": "https://calltheotterguys.com/charlottesville-hvac-plumbing-services/?utm_campaign=gmb",
-      "clicks": 318,
-      "impressions": 32228,
-      "ctr": 0.009867196226883455,
-      "position": 10.871198957428323
+      "clicks": 454,
+      "impressions": 48375,
+      "ctr": 0.009385012919896641,
+      "position": 7.999069767441861
     },
     {
-      "page": "https://calltheotterguys.com/?utm_campaign=gmb",
-      "clicks": 141,
-      "impressions": 17222,
-      "ctr": 0.008187202415515038,
-      "position": 2.301707118801533
-    },
-    {
-      "page": "https://calltheotterguys.com/new-furnace-cost/",
-      "clicks": 88,
-      "impressions": 382273,
-      "ctr": 0.00023020197607469007,
-      "position": 12.816144483131165
+      "page": "https://calltheotterguys.com/",
+      "clicks": 386,
+      "impressions": 16425,
+      "ctr": 0.02350076103500761,
+      "position": 15.073363774733638
     },
     {
       "page": "https://calltheotterguys.com/replace-quest-piping/",
-      "clicks": 86,
-      "impressions": 14573,
-      "ctr": 0.005901324366980032,
-      "position": 3.9851094489809924
+      "clicks": 91,
+      "impressions": 14710,
+      "ctr": 0.006186267845003399,
+      "position": 4.02787219578518
+    },
+    {
+      "page": "https://calltheotterguys.com/new-furnace-cost/",
+      "clicks": 81,
+      "impressions": 346064,
+      "ctr": 0.00023406075176845903,
+      "position": 13.499985551805446
     },
     {
       "page": "https://calltheotterguys.com/heat-pump-replacement-cost/",
+      "clicks": 62,
+      "impressions": 32734,
+      "ctr": 0.0018940551108938717,
+      "position": 26.953412354127206
+    },
+    {
+      "page": "https://calltheotterguys.com/?utm_campaign=gmb",
       "clicks": 57,
-      "impressions": 33250,
-      "ctr": 0.0017142857142857142,
-      "position": 27.742526315789473
+      "impressions": 7504,
+      "ctr": 0.007595948827292111,
+      "position": 2.135394456289979
     },
     {
       "page": "https://calltheotterguys.com/tankless-water-heater-cost/",
-      "clicks": 52,
-      "impressions": 70031,
-      "ctr": 0.0007425283088917765,
-      "position": 6.203352800902458
+      "clicks": 53,
+      "impressions": 68704,
+      "ctr": 0.0007714252445272474,
+      "position": 5.724484746157429
     },
     {
       "page": "https://calltheotterguys.com/contact-us/",
-      "clicks": 40,
-      "impressions": 4460,
-      "ctr": 0.008968609865470852,
-      "position": 5.798430493273543
-    },
-    {
-      "page": "https://calltheotterguys.com/were-otterly-excited-to-share-our-big-secret-with-you/",
-      "clicks": 31,
-      "impressions": 2513,
-      "ctr": 0.012335853561480302,
-      "position": 3.7270194986072425
+      "clicks": 48,
+      "impressions": 4498,
+      "ctr": 0.01067140951534015,
+      "position": 5.15584704313028
     },
     {
       "page": "https://calltheotterguys.com/crozet-hvac-plumbing-services/",
-      "clicks": 30,
-      "impressions": 3543,
-      "ctr": 0.00846740050804403,
-      "position": 7.438046852949478
+      "clicks": 34,
+      "impressions": 3656,
+      "ctr": 0.009299781181619256,
+      "position": 6.803610503282275
+    },
+    {
+      "page": "https://calltheotterguys.com/were-otterly-excited-to-share-our-big-secret-with-you/",
+      "clicks": 34,
+      "impressions": 2377,
+      "ctr": 0.01430374421539756,
+      "position": 3.1342027766091713
     },
     {
       "page": "https://calltheotterguys.com/about/",
-      "clicks": 25,
-      "impressions": 3936,
-      "ctr": 0.0063516260162601625,
-      "position": 5.087398373983739
-    },
-    {
-      "page": "https://calltheotterguys.com/emergency-service-plumbing/",
-      "clicks": 21,
-      "impressions": 11345,
-      "ctr": 0.0018510356985456148,
-      "position": 26.904892022917586
-    },
-    {
-      "page": "https://calltheotterguys.com/reviews/",
-      "clicks": 19,
-      "impressions": 1314,
-      "ctr": 0.01445966514459665,
-      "position": 3.293759512937595
+      "clicks": 30,
+      "impressions": 4089,
+      "ctr": 0.007336757153338224,
+      "position": 4.547811200782587
     },
     {
       "page": "https://calltheotterguys.com/bathtub-draining-slow-read-this/",
-      "clicks": 18,
-      "impressions": 6577,
-      "ctr": 0.0027368100957883535,
-      "position": 11.468298616390452
+      "clicks": 23,
+      "impressions": 8044,
+      "ctr": 0.0028592739930382895,
+      "position": 10.13674788662357
+    },
+    {
+      "page": "https://calltheotterguys.com/culpeper-hvac-plumbing-services/",
+      "clicks": 21,
+      "impressions": 35690,
+      "ctr": 0.0005884001120762118,
+      "position": 4.93454749229476
+    },
+    {
+      "page": "https://calltheotterguys.com/plumbing-services/",
+      "clicks": 17,
+      "impressions": 2602,
+      "ctr": 0.0065334358186010764,
+      "position": 6.7820906994619525
+    },
+    {
+      "page": "https://calltheotterguys.com/reviews/",
+      "clicks": 17,
+      "impressions": 1293,
+      "ctr": 0.013147718484145398,
+      "position": 3.2088167053364267
     },
     {
       "page": "https://calltheotterguys.com/water-heater-installation-cost/",
       "clicks": 16,
-      "impressions": 14464,
-      "ctr": 0.0011061946902654867,
-      "position": 18.63454092920354
+      "impressions": 13843,
+      "ctr": 0.0011558188253991187,
+      "position": 17.34356714584989
     },
     {
-      "page": "https://calltheotterguys.com/culpeper-hvac-plumbing-services/",
-      "clicks": 15,
-      "impressions": 27647,
-      "ctr": 0.0005425543458603103,
-      "position": 5.656056715014287
+      "page": "https://calltheotterguys.com/emergency-service-plumbing/",
+      "clicks": 14,
+      "impressions": 12805,
+      "ctr": 0.0010933229207340882,
+      "position": 26.61257321358844
     },
     {
-      "page": "https://calltheotterguys.com/plumbing-services/",
-      "clicks": 15,
-      "impressions": 2419,
-      "ctr": 0.0062009094667217855,
-      "position": 9.256304257957833
+      "page": "https://calltheotterguys.com/waynesboro-hvac-plumbing-services/",
+      "clicks": 13,
+      "impressions": 10045,
+      "ctr": 0.001294176207068193,
+      "position": 13.01901443504231
     },
     {
       "page": "https://calltheotterguys.com/careers/",
       "clicks": 12,
-      "impressions": 334,
-      "ctr": 0.03592814371257485,
-      "position": 7.8532934131736525
+      "impressions": 254,
+      "ctr": 0.047244094488188976,
+      "position": 8.05511811023622
     },
     {
       "page": "https://calltheotterguys.com/water-filtration-system-installation-replacement/",
       "clicks": 12,
-      "impressions": 8376,
-      "ctr": 0.0014326647564469914,
-      "position": 11.932545367717287
+      "impressions": 9687,
+      "ctr": 0.0012387736141220192,
+      "position": 11.731495819139052
     },
     {
-      "page": "https://calltheotterguys.com/waynesboro-hvac-plumbing-services/",
-      "clicks": 12,
-      "impressions": 9795,
-      "ctr": 0.001225114854517611,
-      "position": 13.411230219499744
-    },
-    {
-      "page": "https://calltheotterguys.com/heating/",
+      "page": "https://calltheotterguys.com/repiping/",
       "clicks": 11,
-      "impressions": 3031,
-      "ctr": 0.003629165291982844,
-      "position": 10.13922797756516
+      "impressions": 5283,
+      "ctr": 0.002082150293393905,
+      "position": 40.205565019875074
     },
     {
       "page": "https://calltheotterguys.com/shower-installation/",
       "clicks": 11,
-      "impressions": 769,
-      "ctr": 0.014304291287386216,
-      "position": 26.221066319895968
+      "impressions": 735,
+      "ctr": 0.014965986394557823,
+      "position": 24.974149659863947
     },
     {
       "page": "https://calltheotterguys.com/charlottesville-hvac-plumbing-services/",
-      "clicks": 8,
-      "impressions": 3602,
-      "ctr": 0.002220988339811216,
-      "position": 23.49305941143809
+      "clicks": 9,
+      "impressions": 4702,
+      "ctr": 0.0019140791152700979,
+      "position": 22.218417694598042
     },
     {
-      "page": "https://calltheotterguys.com/repiping/",
-      "clicks": 8,
-      "impressions": 6328,
-      "ctr": 0.0012642225031605564,
-      "position": 45.87452591656132
-    },
-    {
-      "page": "https://calltheotterguys.com/water-heater-repair/",
-      "clicks": 7,
-      "impressions": 2820,
-      "ctr": 0.0024822695035460994,
-      "position": 17.795035460992906
-    },
-    {
-      "page": "https://calltheotterguys.com/air-scrubbers-benefits-allergy-asthma/",
-      "clicks": 6,
-      "impressions": 145,
-      "ctr": 0.041379310344827586,
-      "position": 6.372413793103449
+      "page": "https://calltheotterguys.com/heating/",
+      "clicks": 9,
+      "impressions": 2879,
+      "ctr": 0.003126085446335533,
+      "position": 9.073984022229942
     },
     {
       "page": "https://calltheotterguys.com/gas-lines-installation-repair/",
-      "clicks": 6,
-      "impressions": 4597,
-      "ctr": 0.0013051990428540352,
-      "position": 34.14901022405917
-    },
-    {
-      "page": "https://calltheotterguys.com/mineral-hvac-plumbing-services/",
-      "clicks": 6,
-      "impressions": 1466,
-      "ctr": 0.004092769440654843,
-      "position": 15.684174624829469
+      "clicks": 8,
+      "impressions": 5163,
+      "ctr": 0.0015494867325198528,
+      "position": 30.61127251597908
     },
     {
       "page": "https://calltheotterguys.com/palmyra-hvac-plumbing-services/",
-      "clicks": 6,
-      "impressions": 1726,
-      "ctr": 0.0034762456546929316,
-      "position": 21.066048667439166
+      "clicks": 8,
+      "impressions": 1976,
+      "ctr": 0.004048582995951417,
+      "position": 20.05921052631579
     },
     {
       "page": "https://calltheotterguys.com/what-causes-the-suction-line-to-freeze-up/",
-      "clicks": 6,
-      "impressions": 4571,
-      "ctr": 0.0013126230584117262,
-      "position": 3.798731131043535
+      "clicks": 8,
+      "impressions": 5683,
+      "ctr": 0.0014077071969030442,
+      "position": 3.542143234207285
     },
     {
-      "page": "https://calltheotterguys.com/boiler-installation/",
-      "clicks": 5,
-      "impressions": 1894,
-      "ctr": 0.0026399155227032735,
-      "position": 37.643611404435056
+      "page": "https://calltheotterguys.com/air-scrubbers-benefits-allergy-asthma/",
+      "clicks": 7,
+      "impressions": 214,
+      "ctr": 0.03271028037383177,
+      "position": 5.869158878504673
+    },
+    {
+      "page": "https://calltheotterguys.com/scottsville-hvac-plumbing-services/",
+      "clicks": 7,
+      "impressions": 2207,
+      "ctr": 0.0031717263253285004,
+      "position": 15.706841866787494
+    },
+    {
+      "page": "https://calltheotterguys.com/why-did-my-water-bill-spike/",
+      "clicks": 7,
+      "impressions": 2732,
+      "ctr": 0.002562225475841874,
+      "position": 5.060029282576867
     },
     {
       "page": "https://calltheotterguys.com/sewer-repair/",
+      "clicks": 6,
+      "impressions": 3509,
+      "ctr": 0.0017098888572242804,
+      "position": 24.76204046736962
+    },
+    {
+      "page": "https://calltheotterguys.com/water-heater-repair/",
+      "clicks": 6,
+      "impressions": 2940,
+      "ctr": 0.0020408163265306124,
+      "position": 20.507142857142856
+    },
+    {
+      "page": "https://calltheotterguys.com/drain-clogs/",
       "clicks": 5,
-      "impressions": 4129,
-      "ctr": 0.001210946960523129,
-      "position": 26.074109953984017
+      "impressions": 2011,
+      "ctr": 0.002486325211337643,
+      "position": 18.396817503729487
+    },
+    {
+      "page": "https://calltheotterguys.com/fluvanna-county-hvac-plumbing-services/",
+      "clicks": 5,
+      "impressions": 603,
+      "ctr": 0.008291873963515755,
+      "position": 17.99502487562189
     },
     {
       "page": "https://calltheotterguys.com/staunton-hvac-plumbing-services/",
       "clicks": 5,
-      "impressions": 4219,
-      "ctr": 0.0011851149561507466,
-      "position": 15.282531405546338
+      "impressions": 4662,
+      "ctr": 0.0010725010725010724,
+      "position": 15.30866580866581
     },
     {
-      "page": "https://calltheotterguys.com/4-main-types-of-hvac-systems/",
-      "clicks": 4,
-      "impressions": 1792,
-      "ctr": 0.002232142857142857,
-      "position": 29.038504464285715
+      "page": "https://calltheotterguys.com/water-heater-installation/",
+      "clicks": 5,
+      "impressions": 1329,
+      "ctr": 0.003762227238525207,
+      "position": 32.88487584650113
     },
     {
-      "page": "https://calltheotterguys.com/buy-filters/",
+      "page": "https://calltheotterguys.com/commercial-services-hvac/",
       "clicks": 4,
-      "impressions": 881,
-      "ctr": 0.004540295119182747,
-      "position": 29.64245175936436
+      "impressions": 1460,
+      "ctr": 0.0027397260273972603,
+      "position": 28.454109589041096
     },
     {
       "page": "https://calltheotterguys.com/goochland-hvac-plumbing-services/",
       "clicks": 4,
-      "impressions": 1752,
-      "ctr": 0.00228310502283105,
-      "position": 15.109018264840183
+      "impressions": 1849,
+      "ctr": 0.002163331530557058,
+      "position": 14.548945375878853
+    },
+    {
+      "page": "https://calltheotterguys.com/leak-detection/",
+      "clicks": 4,
+      "impressions": 2888,
+      "ctr": 0.0013850415512465374,
+      "position": 26.9941135734072
+    },
+    {
+      "page": "https://calltheotterguys.com/mineral-hvac-plumbing-services/",
+      "clicks": 4,
+      "impressions": 1812,
+      "ctr": 0.002207505518763797,
+      "position": 16.443708609271525
     },
     {
       "page": "https://calltheotterguys.com/prevent-handle-frozen-pipes-charlottesville/",
       "clicks": 4,
-      "impressions": 117,
-      "ctr": 0.03418803418803419,
-      "position": 9.247863247863247
+      "impressions": 122,
+      "ctr": 0.03278688524590164,
+      "position": 11.311475409836065
     },
     {
-      "page": "https://calltheotterguys.com/scottsville-hvac-plumbing-services/",
+      "page": "https://calltheotterguys.com/service-areas/",
       "clicks": 4,
-      "impressions": 1845,
-      "ctr": 0.002168021680216802,
-      "position": 15.502439024390243
+      "impressions": 1068,
+      "ctr": 0.003745318352059925,
+      "position": 14.116104868913858
     },
     {
-      "page": "https://calltheotterguys.com/water-heater-installation/",
+      "page": "https://calltheotterguys.com/uv-air-purifiers-hvac-systems/",
       "clicks": 4,
-      "impressions": 1407,
-      "ctr": 0.0028429282160625444,
-      "position": 32.67022032693674
+      "impressions": 288,
+      "ctr": 0.013888888888888888,
+      "position": 12.04513888888889
     },
     {
-      "page": "https://calltheotterguys.com/why-did-my-water-bill-spike/",
-      "clicks": 4,
-      "impressions": 2349,
-      "ctr": 0.0017028522775649213,
-      "position": 6.409535972754363
-    },
-    {
-      "page": "https://calltheotterguys.com/drain-clogs/",
+      "page": "https://calltheotterguys.com/4-main-types-of-hvac-systems/",
       "clicks": 3,
-      "impressions": 1902,
-      "ctr": 0.0015772870662460567,
-      "position": 20.01577287066246
+      "impressions": 1881,
+      "ctr": 0.001594896331738437,
+      "position": 28.964912280701753
     },
     {
-      "page": "https://calltheotterguys.com/fluvanna-county-hvac-plumbing-services/",
+      "page": "https://calltheotterguys.com/boiler-installation/",
       "clicks": 3,
-      "impressions": 552,
-      "ctr": 0.005434782608695652,
-      "position": 16.52536231884058
+      "impressions": 2364,
+      "ctr": 0.0012690355329949238,
+      "position": 34.10575296108291
+    },
+    {
+      "page": "https://calltheotterguys.com/buy-filters/",
+      "clicks": 3,
+      "impressions": 868,
+      "ctr": 0.0034562211981566822,
+      "position": 21.953917050691246
+    },
+    {
+      "page": "https://calltheotterguys.com/call-a-plumber-for-frozen-pipes/",
+      "clicks": 3,
+      "impressions": 1405,
+      "ctr": 0.002135231316725979,
+      "position": 4.522419928825623
+    },
+    {
+      "page": "https://calltheotterguys.com/dryer-vent-cleaning/",
+      "clicks": 3,
+      "impressions": 217,
+      "ctr": 0.013824884792626729,
+      "position": 18.95852534562212
     },
     {
       "page": "https://calltheotterguys.com/greene-county-hvac-plumbing-services/",
       "clicks": 3,
-      "impressions": 1266,
-      "ctr": 0.002369668246445498,
-      "position": 23.087677725118482
+      "impressions": 1326,
+      "ctr": 0.0022624434389140274,
+      "position": 22.59426847662142
     },
     {
       "page": "https://calltheotterguys.com/heat-pump-vs-furnace/",
       "clicks": 3,
-      "impressions": 224,
-      "ctr": 0.013392857142857142,
-      "position": 4.602678571428571
-    },
-    {
-      "page": "https://calltheotterguys.com/lake-anna-hvac-plumbing-services/",
-      "clicks": 3,
-      "impressions": 1323,
-      "ctr": 0.0022675736961451248,
-      "position": 15.029478458049887
-    },
-    {
-      "page": "https://calltheotterguys.com/leak-detection/",
-      "clicks": 3,
-      "impressions": 2815,
-      "ctr": 0.0010657193605683837,
-      "position": 26.103374777975134
-    },
-    {
-      "page": "https://calltheotterguys.com/service-agreements-hvac/",
-      "clicks": 3,
-      "impressions": 367,
-      "ctr": 0.008174386920980926,
-      "position": 20.561307901907355
-    },
-    {
-      "page": "https://calltheotterguys.com/service-areas/",
-      "clicks": 3,
-      "impressions": 856,
-      "ctr": 0.0035046728971962616,
-      "position": 14.462616822429906
-    },
-    {
-      "page": "https://calltheotterguys.com/sewer-replacement/",
-      "clicks": 3,
-      "impressions": 1353,
-      "ctr": 0.0022172949002217295,
-      "position": 21.29637841832964
-    },
-    {
-      "page": "https://calltheotterguys.com/ac-repair/",
-      "clicks": 2,
-      "impressions": 458,
-      "ctr": 0.004366812227074236,
-      "position": 22.897379912663755
+      "impressions": 392,
+      "ctr": 0.007653061224489796,
+      "position": 4.423469387755102
     }
   ],
-  "fetchedAt": "2026-03-18T13:07:47.961Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "the otter guys",
+      "clicks": 234,
+      "impressions": 845,
+      "ctr": 0.27692307692307694,
+      "position": 1.301775147928994
+    },
+    {
+      "query": "otter guys",
+      "clicks": 158,
+      "impressions": 819,
+      "ctr": 0.19291819291819293,
+      "position": 1.2002442002442002
+    },
+    {
+      "query": "furnace",
+      "clicks": 23,
+      "impressions": 125479,
+      "ctr": 0.00018329760358306966,
+      "position": 5.897106288701695
+    },
+    {
+      "query": "new furnace cost",
+      "clicks": 23,
+      "impressions": 29894,
+      "ctr": 0.0007693851609018532,
+      "position": 8.913962668093932
+    },
+    {
+      "query": "furnace cost",
+      "clicks": 14,
+      "impressions": 16501,
+      "ctr": 0.0008484334282770741,
+      "position": 10.970486637173504
+    },
+    {
+      "query": "otter guys plumbing",
+      "clicks": 12,
+      "impressions": 62,
+      "ctr": 0.1935483870967742,
+      "position": 3.225806451612903
+    },
+    {
+      "query": "4 basic categories of hvac systems",
+      "clicks": 9,
+      "impressions": 2065,
+      "ctr": 0.0043583535108958835,
+      "position": 8.797578692493946
+    },
+    {
+      "query": "hvac systems",
+      "clicks": 8,
+      "impressions": 128,
+      "ctr": 0.0625,
+      "position": 2.265625
+    },
+    {
+      "query": "how much does a new furnace cost",
+      "clicks": 7,
+      "impressions": 13537,
+      "ctr": 0.0005171012779788727,
+      "position": 8.140208317943415
+    },
+    {
+      "query": "the otter guys reviews",
+      "clicks": 7,
+      "impressions": 102,
+      "ctr": 0.06862745098039216,
+      "position": 3.1666666666666665
+    },
+    {
+      "query": "furnace price",
+      "clicks": 6,
+      "impressions": 4390,
+      "ctr": 0.001366742596810934,
+      "position": 8.05626423690205
+    },
+    {
+      "query": "hvac system diagram",
+      "clicks": 6,
+      "impressions": 61,
+      "ctr": 0.09836065573770492,
+      "position": 2
+    },
+    {
+      "query": "plumbers charlottesville",
+      "clicks": 6,
+      "impressions": 852,
+      "ctr": 0.007042253521126761,
+      "position": 8.634976525821596
+    },
+    {
+      "query": "furnace replacement cost",
+      "clicks": 5,
+      "impressions": 21961,
+      "ctr": 0.00022767633532170666,
+      "position": 26.02035426437776
+    },
+    {
+      "query": "plumber",
+      "clicks": 5,
+      "impressions": 1158,
+      "ctr": 0.004317789291882556,
+      "position": 15.637305699481866
+    },
+    {
+      "query": "plumber charlottesville va",
+      "clicks": 4,
+      "impressions": 358,
+      "ctr": 0.0111731843575419,
+      "position": 3.5446927374301676
+    },
+    {
+      "query": "plumbers near me",
+      "clicks": 4,
+      "impressions": 601,
+      "ctr": 0.0066555740432612314,
+      "position": 18.43926788685524
+    },
+    {
+      "query": "quest pipe",
+      "clicks": 4,
+      "impressions": 717,
+      "ctr": 0.005578800557880056,
+      "position": 21.672245467224545
+    },
+    {
+      "query": "quest plumbing",
+      "clicks": 4,
+      "impressions": 1030,
+      "ctr": 0.003883495145631068,
+      "position": 9.971844660194174
+    },
+    {
+      "query": "types of hvac systems",
+      "clicks": 4,
+      "impressions": 643,
+      "ctr": 0.006220839813374806,
+      "position": 73.32348367029549
+    },
+    {
+      "query": "cost of furnace",
+      "clicks": 3,
+      "impressions": 2077,
+      "ctr": 0.0014443909484833895,
+      "position": 21.292729898892635
+    },
+    {
+      "query": "furnace images",
+      "clicks": 3,
+      "impressions": 471,
+      "ctr": 0.006369426751592357,
+      "position": 1.7770700636942676
+    },
+    {
+      "query": "gas furnace cost",
+      "clicks": 3,
+      "impressions": 6297,
+      "ctr": 0.0004764173415912339,
+      "position": 14.712402731459425
+    },
+    {
+      "query": "gas furnace price",
+      "clicks": 3,
+      "impressions": 2310,
+      "ctr": 0.0012987012987012987,
+      "position": 23.00822510822511
+    },
+    {
+      "query": "house furnace cost",
+      "clicks": 3,
+      "impressions": 1341,
+      "ctr": 0.0022371364653243847,
+      "position": 14.13944817300522
+    },
+    {
+      "query": "how much does a furnace cost",
+      "clicks": 3,
+      "impressions": 2730,
+      "ctr": 0.001098901098901099,
+      "position": 24.983516483516482
+    },
+    {
+      "query": "how much is a new furnace",
+      "clicks": 3,
+      "impressions": 18232,
+      "ctr": 0.0001645458534444932,
+      "position": 6.271829749890303
+    },
+    {
+      "query": "new furnace",
+      "clicks": 3,
+      "impressions": 19462,
+      "ctr": 0.0001541465419792416,
+      "position": 41.19232350220943
+    },
+    {
+      "query": "new home furnace",
+      "clicks": 3,
+      "impressions": 741,
+      "ctr": 0.004048582995951417,
+      "position": 32.59919028340081
+    },
+    {
+      "query": "picture of a furnace",
+      "clicks": 3,
+      "impressions": 331,
+      "ctr": 0.00906344410876133,
+      "position": 1.0030211480362539
+    },
+    {
+      "query": "plumber near me",
+      "clicks": 3,
+      "impressions": 773,
+      "ctr": 0.0038809831824062097,
+      "position": 20.620957309184995
+    },
+    {
+      "query": "quest pipe fittings",
+      "clicks": 3,
+      "impressions": 278,
+      "ctr": 0.01079136690647482,
+      "position": 43.830935251798564
+    },
+    {
+      "query": "water heater repair charlottesville",
+      "clicks": 3,
+      "impressions": 178,
+      "ctr": 0.016853932584269662,
+      "position": 3.8202247191011236
+    },
+    {
+      "query": "charlottesville plumbers",
+      "clicks": 2,
+      "impressions": 607,
+      "ctr": 0.0032948929159802307,
+      "position": 9.596375617792422
+    },
+    {
+      "query": "furance cost",
+      "clicks": 2,
+      "impressions": 241,
+      "ctr": 0.008298755186721992,
+      "position": 6.626556016597511
+    },
+    {
+      "query": "furnace prices",
+      "clicks": 2,
+      "impressions": 6201,
+      "ctr": 0.0003225286244154169,
+      "position": 19.85018545395904
+    },
+    {
+      "query": "furnance",
+      "clicks": 2,
+      "impressions": 5405,
+      "ctr": 0.0003700277520814061,
+      "position": 5.916558741905643
+    },
+    {
+      "query": "gas fitter near me",
+      "clicks": 2,
+      "impressions": 5,
+      "ctr": 0.4,
+      "position": 5
+    },
+    {
+      "query": "gas furnace prices",
+      "clicks": 2,
+      "impressions": 3373,
+      "ctr": 0.0005929439667951378,
+      "position": 18.78416839608657
+    },
+    {
+      "query": "how much do furnaces cost",
+      "clicks": 2,
+      "impressions": 1551,
+      "ctr": 0.0012894906511927789,
+      "position": 7.100580270793037
+    },
+    {
+      "query": "hvac charlottesville",
+      "clicks": 2,
+      "impressions": 148,
+      "ctr": 0.013513513513513514,
+      "position": 13.993243243243244
+    },
+    {
+      "query": "hvac system design",
+      "clicks": 2,
+      "impressions": 19,
+      "ctr": 0.10526315789473684,
+      "position": 2.526315789473684
+    },
+    {
+      "query": "new gas furnace",
+      "clicks": 2,
+      "impressions": 1156,
+      "ctr": 0.0017301038062283738,
+      "position": 24.884948096885815
+    },
+    {
+      "query": "otter air heating and cooling",
+      "clicks": 2,
+      "impressions": 23,
+      "ctr": 0.08695652173913043,
+      "position": 11.130434782608695
+    },
+    {
+      "query": "otter guys charlottesville",
+      "clicks": 2,
+      "impressions": 9,
+      "ctr": 0.2222222222222222,
+      "position": 1.1111111111111112
+    },
+    {
+      "query": "plumber charlottesville",
+      "clicks": 2,
+      "impressions": 993,
+      "ctr": 0.002014098690835851,
+      "position": 8.263846928499497
+    },
+    {
+      "query": "plumbers ruckersville va",
+      "clicks": 2,
+      "impressions": 434,
+      "ctr": 0.004608294930875576,
+      "position": 6.539170506912442
+    },
+    {
+      "query": "plumbing charlottesville va",
+      "clicks": 2,
+      "impressions": 119,
+      "ctr": 0.01680672268907563,
+      "position": 11.100840336134453
+    },
+    {
+      "query": "quest piping",
+      "clicks": 2,
+      "impressions": 953,
+      "ctr": 0.002098635886673662,
+      "position": 9.812172088142708
+    },
+    {
+      "query": "types of central air conditioning system",
+      "clicks": 2,
+      "impressions": 8,
+      "ctr": 0.25,
+      "position": 2
+    },
+    {
+      "query": "ac repair charlottesville",
+      "clicks": 1,
+      "impressions": 53,
+      "ctr": 0.018867924528301886,
+      "position": 5.962264150943396
+    },
+    {
+      "query": "ac unit replacement cost",
+      "clicks": 1,
+      "impressions": 1182,
+      "ctr": 0.0008460236886632825,
+      "position": 78.54991539763114
+    },
+    {
+      "query": "best type of hvac system",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "boiler technician",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "charlottesville contractors",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 51
+    },
+    {
+      "query": "charlottesville plumber",
+      "clicks": 1,
+      "impressions": 681,
+      "ctr": 0.0014684287812041115,
+      "position": 9.51101321585903
+    },
+    {
+      "query": "cost of a furnace",
+      "clicks": 1,
+      "impressions": 1538,
+      "ctr": 0.0006501950585175553,
+      "position": 14.854356306892068
+    },
+    {
+      "query": "cost of a new furnace",
+      "clicks": 1,
+      "impressions": 2080,
+      "ctr": 0.0004807692307692308,
+      "position": 33.09951923076923
+    },
+    {
+      "query": "cost of gas furnace",
+      "clicks": 1,
+      "impressions": 579,
+      "ctr": 0.0017271157167530224,
+      "position": 8.20034542314335
+    },
+    {
+      "query": "cost of new furnace",
+      "clicks": 1,
+      "impressions": 5140,
+      "ctr": 0.0001945525291828794,
+      "position": 16.98852140077821
+    },
+    {
+      "query": "cost of new furnance",
+      "clicks": 1,
+      "impressions": 69,
+      "ctr": 0.014492753623188406,
+      "position": 11.44927536231884
+    },
+    {
+      "query": "cost of new heater",
+      "clicks": 1,
+      "impressions": 502,
+      "ctr": 0.00199203187250996,
+      "position": 12.653386454183266
+    },
+    {
+      "query": "different types of air conditioning systems",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 2.333333333333333
+    },
+    {
+      "query": "different types of hvac",
+      "clicks": 1,
+      "impressions": 22,
+      "ctr": 0.045454545454545456,
+      "position": 73.95454545454545
+    },
+    {
+      "query": "emergency plumbers near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 5
+    },
+    {
+      "query": "furnace costs",
+      "clicks": 1,
+      "impressions": 1276,
+      "ctr": 0.0007836990595611285,
+      "position": 26.384796238244515
+    },
+    {
+      "query": "furnance price",
+      "clicks": 1,
+      "impressions": 203,
+      "ctr": 0.0049261083743842365,
+      "position": 6.857142857142857
+    },
+    {
+      "query": "gas furnace replacement cost",
+      "clicks": 1,
+      "impressions": 872,
+      "ctr": 0.0011467889908256881,
+      "position": 52.34977064220183
+    },
+    {
+      "query": "heating and air charlottesville va",
+      "clicks": 1,
+      "impressions": 40,
+      "ctr": 0.025,
+      "position": 25.05
+    },
+    {
+      "query": "heating and cooling charlottesville va",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 13.75
+    },
+    {
+      "query": "hot tank cleaning near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "hot water thermostat not working",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "house furnace price",
+      "clicks": 1,
+      "impressions": 135,
+      "ctr": 0.007407407407407408,
+      "position": 10.422222222222222
+    },
+    {
+      "query": "how much do a new furnace cost",
+      "clicks": 1,
+      "impressions": 49,
+      "ctr": 0.02040816326530612,
+      "position": 8.959183673469388
+    },
+    {
+      "query": "how much for new furnace",
+      "clicks": 1,
+      "impressions": 95,
+      "ctr": 0.010526315789473684,
+      "position": 12.810526315789474
+    },
+    {
+      "query": "how much is a gas furnace",
+      "clicks": 1,
+      "impressions": 498,
+      "ctr": 0.002008032128514056,
+      "position": 16.246987951807228
+    },
+    {
+      "query": "hvac design system",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2.5
+    },
+    {
+      "query": "hvac interview questions",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "hvac maintenance pdf",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "hvac parts",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2.666666666666667
+    },
+    {
+      "query": "hvac service charlottesville va",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 21.857142857142858
+    },
+    {
+      "query": "hvac system",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 2.5
+    },
+    {
+      "query": "hvac system pdf",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 3
+    },
+    {
+      "query": "hvac systems brands",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 2.333333333333333
+    },
+    {
+      "query": "hvac systems explained",
+      "clicks": 1,
+      "impressions": 26,
+      "ctr": 0.038461538461538464,
+      "position": 2.1153846153846154
+    },
+    {
+      "query": "hvac systems types",
+      "clicks": 1,
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 51.05555555555556
+    },
+    {
+      "query": "hvac systems uk",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "hvac systems:",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "hvac terminology",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 4.411764705882353
+    },
+    {
+      "query": "hvac terms",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 3.1875
+    },
+    {
+      "query": "hvac types of units",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 1.8888888888888888
+    },
+    {
+      "query": "industrial hvac system",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 2.2
+    },
+    {
+      "query": "industrial hvac systems",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 2.125
+    },
+    {
+      "query": "jlk inc",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 5.142857142857143
+    },
+    {
+      "query": "leak detection charlottesville",
+      "clicks": 1,
+      "impressions": 86,
+      "ctr": 0.011627906976744186,
+      "position": 1.6744186046511627
+    },
+    {
+      "query": "local plumber",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 35.75
+    },
+    {
+      "query": "local tankless water heater installers",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 5
+    },
+    {
+      "query": "main parts of hvac system",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2.333333333333333
+    },
+    {
+      "query": "marine hvac system",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "modern hvac systems",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "new construction plumbing companies",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 15.5
+    },
+    {
+      "query": "new furnace and ac cost",
+      "clicks": 1,
+      "impressions": 2183,
+      "ctr": 0.0004580852038479157,
+      "position": 50.04809894640403
+    },
+    {
+      "query": "new furnaces",
+      "clicks": 1,
+      "impressions": 1212,
+      "ctr": 0.0008250825082508251,
+      "position": 37.59983498349835
+    },
+    {
+      "query": "new gas furnace price",
+      "clicks": 1,
+      "impressions": 38,
+      "ctr": 0.02631578947368421,
+      "position": 64.18421052631578
+    },
+    {
+      "query": "new gas furnaces",
+      "clicks": 1,
+      "impressions": 62,
+      "ctr": 0.016129032258064516,
+      "position": 21.548387096774192
+    },
+    {
+      "query": "otter boys",
+      "clicks": 1,
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 2.111111111111111
+    },
+    {
+      "query": "otter hvac",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 7.4
+    },
+    {
+      "query": "otter plumbing",
+      "clicks": 1,
+      "impressions": 128,
+      "ctr": 0.0078125,
+      "position": 10.453125
+    },
+    {
+      "query": "otter plumbing and heating",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 9
+    },
+    {
+      "query": "otter services",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "photo of furnace",
+      "clicks": 1,
+      "impressions": 23,
+      "ctr": 0.043478260869565216,
+      "position": 1
+    },
+    {
+      "query": "picture of furnace",
+      "clicks": 1,
+      "impressions": 150,
+      "ctr": 0.006666666666666667,
+      "position": 1
+    },
+    {
+      "query": "plumber emergency near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 24.75
+    },
+    {
+      "query": "plumber in ruckersville va",
+      "clicks": 1,
+      "impressions": 82,
+      "ctr": 0.012195121951219513,
+      "position": 4.280487804878049
+    },
+    {
+      "query": "plumbers charlottesville va",
+      "clicks": 1,
+      "impressions": 233,
+      "ctr": 0.004291845493562232,
+      "position": 3.236051502145923
+    },
+    {
+      "query": "plumbers troy va",
+      "clicks": 1,
+      "impressions": 28,
+      "ctr": 0.03571428571428571,
+      "position": 36.67857142857143
+    },
+    {
+      "query": "plumbing and air conditioning",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "plumbing companies near me",
+      "clicks": 1,
+      "impressions": 102,
+      "ctr": 0.00980392156862745,
+      "position": 4.196078431372549
+    },
+    {
+      "query": "plumbing company charlottesville",
+      "clicks": 1,
+      "impressions": 93,
+      "ctr": 0.010752688172043012,
+      "position": 6.290322580645161
+    },
+    {
+      "query": "plumbing waynesboro va",
+      "clicks": 1,
+      "impressions": 71,
+      "ctr": 0.014084507042253521,
+      "position": 12.943661971830986
+    },
+    {
+      "query": "price for furnace",
+      "clicks": 1,
+      "impressions": 150,
+      "ctr": 0.006666666666666667,
+      "position": 14.7
+    },
+    {
+      "query": "qest pipe",
+      "clicks": 1,
+      "impressions": 330,
+      "ctr": 0.0030303030303030303,
+      "position": 64.07575757575758
+    },
+    {
+      "query": "qest pipe fittings",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "quest pipes",
+      "clicks": 1,
+      "impressions": 440,
+      "ctr": 0.0022727272727272726,
+      "position": 22.927272727272726
+    },
+    {
+      "query": "quest plumbing fittings",
+      "clicks": 1,
+      "impressions": 280,
+      "ctr": 0.0035714285714285713,
+      "position": 41.410714285714285
+    },
+    {
+      "query": "quest to pex fittings",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 16.6
+    },
+    {
+      "query": "ruckersville va plumbers",
+      "clicks": 1,
+      "impressions": 374,
+      "ctr": 0.00267379679144385,
+      "position": 6.288770053475936
+    },
+    {
+      "query": "septic repair near me",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 7.6
+    },
+    {
+      "query": "septic services near me",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 8.333333333333332
+    },
+    {
+      "query": "tankless hot water heater near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "tankless water heater and water softener cost",
+      "clicks": 1,
+      "impressions": 65,
+      "ctr": 0.015384615384615385,
+      "position": 8.861538461538462
+    },
+    {
+      "query": "the otter guys charlottesville, va",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "type of hvac systems",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 67
+    },
+    {
+      "query": "types of air conditioning systems",
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 2.166666666666667
+    },
+    {
+      "query": "types of hvac control systems",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2.666666666666667
+    },
+    {
+      "query": "types of hvac drawings",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 2.666666666666667
+    },
+    {
+      "query": "types of hvac units",
+      "clicks": 1,
+      "impressions": 254,
+      "ctr": 0.003937007874015748,
+      "position": 71.14960629921259
+    },
+    {
+      "query": "types of industrial air conditioning systems",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "understanding hvac systems",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 2.8461538461538463
+    },
+    {
+      "query": "water heater replacement",
+      "clicks": 1,
+      "impressions": 1347,
+      "ctr": 0.0007423904974016332,
+      "position": 53.062360801781736
+    },
+    {
+      "query": "water heater replacement near me",
+      "clicks": 1,
+      "impressions": 235,
+      "ctr": 0.00425531914893617,
+      "position": 13.859574468085107
+    },
+    {
+      "query": "water leak plumber",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "water treatment charlottesville",
+      "clicks": 1,
+      "impressions": 190,
+      "ctr": 0.005263157894736842,
+      "position": 10.994736842105263
+    },
+    {
+      "query": "what are different types of hvac systems",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "what does a new furnace cost",
+      "clicks": 1,
+      "impressions": 1077,
+      "ctr": 0.0009285051067780873,
+      "position": 12.844011142061282
+    },
+    {
+      "query": "what kind of hvac system do i have",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 2.4
+    },
+    {
+      "query": "who fixes water heaters",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "+commercial +plumbing",
+      "clicks": 0,
+      "impressions": 28,
+      "ctr": 0,
+      "position": 92
+    },
+    {
+      "query": "+hvac +systems",
+      "clicks": 0,
+      "impressions": 35,
+      "ctr": 0,
+      "position": 90.31428571428572
+    },
+    {
+      "query": "1.5 ton heat pump cost",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 34.875
+    },
+    {
+      "query": "1.5 ton heat pump price",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 65.5
+    },
+    {
+      "query": "1.5 ton heat pump price installed",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 25
+    },
+    {
+      "query": "15 seer heat pump cost",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 45.125
+    },
+    {
+      "query": "2 stage furnace cost",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 70.5
+    },
+    {
+      "query": "2 ton heat pump installed price",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 59.5
+    },
+    {
+      "query": "2.5 ton heat pump cost",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 83
+    },
+    {
+      "query": "2.5 ton heat pump replacement cost",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 51.5
+    },
+    {
+      "query": "2024 furnace",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 4.333333333333334
+    },
+    {
+      "query": "24 ac repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "24 hour ac company",
+      "clicks": 0,
+      "impressions": 26,
+      "ctr": 0,
+      "position": 28.884615384615383
+    },
+    {
+      "query": "24 hour ac repair",
+      "clicks": 0,
+      "impressions": 86,
+      "ctr": 0,
+      "position": 14.116279069767442
+    },
+    {
+      "query": "24 hour ac service",
+      "clicks": 0,
+      "impressions": 76,
+      "ctr": 0,
+      "position": 15.092105263157896
+    },
+    {
+      "query": "24 hour air conditioning service",
+      "clicks": 0,
+      "impressions": 57,
+      "ctr": 0,
+      "position": 13.228070175438596
+    },
+    {
+      "query": "24 hour emergency plumber",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "24 hour emergency plumbing near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "24 hour furnace repair",
+      "clicks": 0,
+      "impressions": 58,
+      "ctr": 0,
+      "position": 12.96551724137931
+    },
+    {
+      "query": "24 hour heat and air near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "24 hour heating repair",
+      "clicks": 0,
+      "impressions": 45,
+      "ctr": 0,
+      "position": 12.4
+    },
+    {
+      "query": "24 hour hvac repair",
+      "clicks": 0,
+      "impressions": 35,
+      "ctr": 0,
+      "position": 28.457142857142856
+    },
+    {
+      "query": "24 hour plumber",
+      "clicks": 0,
+      "impressions": 78,
+      "ctr": 0,
+      "position": 18.025641025641026
+    },
+    {
+      "query": "24 hour plumber near me",
+      "clicks": 0,
+      "impressions": 46,
+      "ctr": 0,
+      "position": 13.41304347826087
+    },
+    {
+      "query": "24 hour plumber richmond va",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 77.75
+    },
+    {
+      "query": "24 hour plumbers near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "24 hour plumbing",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 4.5
+    },
+    {
+      "query": "24 hour plumbing near me",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "24 hour well pump service near me",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 16
+    },
+    {
+      "query": "24 hours plumber",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "24 hours plumbers in cooksville",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 26.5
+    },
+    {
+      "query": "24 hr plumber",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "24-hour plumber",
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 23
+    },
+    {
+      "query": "24-hour plumbers",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "24-hour plumbing service",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "3 ton heat pump replacement cost",
+      "clicks": 0,
+      "impressions": 65,
+      "ctr": 0,
+      "position": 28.446153846153845
+    },
+    {
+      "query": "30 gallon water heater installation cost",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 72
+    },
+    {
+      "query": "4 components of hvac",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "4 main components of hvac",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 2.666666666666667
+    },
+    {
+      "query": "4 main parts of ac unit",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "4 ton heat pump installed price",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 63.8
+    },
+    {
+      "query": "4 types of air conditioning system",
+      "clicks": 0,
+      "impressions": 40,
+      "ctr": 0,
+      "position": 80.4
+    },
+    {
+      "query": "4 types of duct systems",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 2.75
+    },
+    {
+      "query": "4 types of duct systems in hvac",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "40 gallon gas water heater installation cost",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 74.66666666666667
+    },
+    {
+      "query": "40 gallon water heater installation cost",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 31.428571428571427
+    },
+    {
+      "query": "40 vs 50 gallon water heater price",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "5 star plumbers near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "5 ton heat pump cost",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 83.5
+    },
+    {
+      "query": "50 gal water heater replacement cost",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "50 gallon gas water heater cost with installation",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "50 gallon gas water heater installation cost",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "50 gallon gas water heater replacement cost",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:22:16.975Z"
 }

@@ -1,156 +1,16 @@
 {
   "property": "sc-domain:goelevatedcomfort.com",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 906,
-    "impressions": 335916,
-    "ctr": 0.0026971028471403564,
-    "position": 14.870446567839982
+    "clicks": 970,
+    "impressions": 354317,
+    "ctr": 0.002737661472636086,
+    "position": 16.181206792693146
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 20,
-      "impressions": 11654,
-      "ctr": 0.001716148961729878,
-      "position": 6.057920027458383
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 9,
-      "impressions": 2801,
-      "ctr": 0.0032131381649410924,
-      "position": 15.397715101749375
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 11,
-      "impressions": 2126,
-      "ctr": 0.0051740357478833494,
-      "position": 16.555973659454374
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 10,
-      "impressions": 3005,
-      "ctr": 0.0033277870216306157,
-      "position": 14.765391014975041
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 8,
-      "impressions": 2774,
-      "ctr": 0.002883922134102379,
-      "position": 15.489906272530641
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 3,
-      "impressions": 2541,
-      "ctr": 0.0011806375442739079,
-      "position": 15.641873278236915
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 2,
-      "impressions": 2172,
-      "ctr": 0.0009208103130755065,
-      "position": 15.006445672191528
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 6,
-      "impressions": 3015,
-      "ctr": 0.001990049751243781,
-      "position": 17.186733001658375
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 5,
-      "impressions": 2646,
-      "ctr": 0.001889644746787604,
-      "position": 16.276266061980348
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 6,
-      "impressions": 2268,
-      "ctr": 0.0026455026455026454,
-      "position": 19.28306878306878
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 1,
-      "impressions": 2124,
-      "ctr": 0.00047080979284369113,
-      "position": 17.17467043314501
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 4,
-      "impressions": 2703,
-      "ctr": 0.0014798372179060304,
-      "position": 16.847946725860155
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 9,
-      "impressions": 2458,
-      "ctr": 0.003661513425549227,
-      "position": 15.489829129373474
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 9,
-      "impressions": 2412,
-      "ctr": 0.0037313432835820895,
-      "position": 15.695688225538971
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 11,
-      "impressions": 4512,
-      "ctr": 0.0024379432624113476,
-      "position": 16.10970744680851
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 14,
-      "impressions": 3103,
-      "ctr": 0.0045117628101836935,
-      "position": 16.90525298098614
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 11,
-      "impressions": 4283,
-      "ctr": 0.0025682932523931824,
-      "position": 14.208031753443848
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 4,
-      "impressions": 3445,
-      "ctr": 0.0011611030478955006,
-      "position": 14.498984034833091
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 10,
-      "impressions": 2478,
-      "ctr": 0.004035512510088781,
-      "position": 15.328490718321227
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 8,
-      "impressions": 2305,
-      "ctr": 0.0034707158351409977,
-      "position": 15.84468546637744
-    },
     {
       "date": "2026-01-04",
       "clicks": 0,
@@ -640,141 +500,288 @@
       "impressions": 2866,
       "ctr": 0.0024424284717376133,
       "position": 18.180390788555478
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 9,
+      "impressions": 2721,
+      "ctr": 0.0033076074972436605,
+      "position": 17.812936420433665
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 17,
+      "impressions": 3902,
+      "ctr": 0.004356740133264992,
+      "position": 19.400051255766275
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 12,
+      "impressions": 3283,
+      "ctr": 0.003655193420651843,
+      "position": 18.777033201340238
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 13,
+      "impressions": 2677,
+      "ctr": 0.004856182293612252,
+      "position": 20.641763167725067
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 14,
+      "impressions": 2733,
+      "ctr": 0.005122575923893158,
+      "position": 21.214050493962677
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 18,
+      "impressions": 3224,
+      "ctr": 0.005583126550868486,
+      "position": 20.419044665012407
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 6,
+      "impressions": 3307,
+      "ctr": 0.0018143332325370426,
+      "position": 25.960387057756275
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 3,
+      "impressions": 2767,
+      "ctr": 0.0010842067220816769,
+      "position": 23.673653776653417
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 12,
+      "impressions": 16901,
+      "ctr": 0.0007100171587480031,
+      "position": 6.975741080409443
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 15,
+      "impressions": 3514,
+      "ctr": 0.0042686397268070575,
+      "position": 23.275754126351735
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 12,
+      "impressions": 3449,
+      "ctr": 0.0034792693534357786,
+      "position": 23.894462162945782
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 8,
+      "impressions": 3241,
+      "ctr": 0.002468373958654736,
+      "position": 22.681271212588708
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 14,
+      "impressions": 3321,
+      "ctr": 0.004215597711532671,
+      "position": 21.896115627822944
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 5,
+      "impressions": 3315,
+      "ctr": 0.0015082956259426848,
+      "position": 24.551432880844647
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 8,
+      "impressions": 2947,
+      "ctr": 0.0027146250424160165,
+      "position": 23.581947743467932
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 17,
+      "impressions": 4600,
+      "ctr": 0.0036956521739130435,
+      "position": 25.290652173913042
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 15,
+      "impressions": 5193,
+      "ctr": 0.0028885037550548816,
+      "position": 17.007124975929134
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 9,
+      "impressions": 4216,
+      "ctr": 0.0021347248576850096,
+      "position": 17.544829222011384
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 8,
+      "impressions": 2431,
+      "ctr": 0.003290826820238585,
+      "position": 22.006581653640477
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 7,
+      "impressions": 2727,
+      "ctr": 0.002566923359002567,
+      "position": 23.298129812981298
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 3,
+      "impressions": 2757,
+      "ctr": 0.001088139281828074,
+      "position": 24.011244105912223
     }
   ],
   "topQueries": [
     {
       "query": "elevated comfort",
-      "clicks": 301,
-      "impressions": 1541,
-      "ctr": 0.1953277092796885,
-      "position": 1.81829980532122
+      "clicks": 350,
+      "impressions": 1601,
+      "ctr": 0.21861336664584635,
+      "position": 1.8376014990630856
     },
     {
       "query": "elevated comfort santa rosa",
-      "clicks": 73,
-      "impressions": 258,
-      "ctr": 0.28294573643410853,
-      "position": 2.3527131782945734
+      "clicks": 88,
+      "impressions": 306,
+      "ctr": 0.2875816993464052,
+      "position": 2.1568627450980395
     },
     {
       "query": "elevated comfort cotati",
-      "clicks": 15,
-      "impressions": 120,
-      "ctr": 0.125,
-      "position": 1.6416666666666666
+      "clicks": 14,
+      "impressions": 107,
+      "ctr": 0.1308411214953271,
+      "position": 1.7289719626168223
     },
     {
       "query": "elevated comfort hvac",
       "clicks": 14,
-      "impressions": 45,
-      "ctr": 0.3111111111111111,
-      "position": 1.8
+      "impressions": 50,
+      "ctr": 0.28,
+      "position": 1.74
     },
     {
       "query": "elevated",
-      "clicks": 9,
-      "impressions": 46,
-      "ctr": 0.1956521739130435,
-      "position": 2.3695652173913047
+      "clicks": 10,
+      "impressions": 60,
+      "ctr": 0.16666666666666666,
+      "position": 2.416666666666667
     },
     {
       "query": "elevated heating and cooling",
       "clicks": 9,
-      "impressions": 53,
-      "ctr": 0.16981132075471697,
-      "position": 9.88679245283019
+      "impressions": 51,
+      "ctr": 0.17647058823529413,
+      "position": 9.686274509803921
     },
     {
-      "query": "elevated hvac",
+      "query": "elevate comfort",
       "clicks": 7,
-      "impressions": 54,
-      "ctr": 0.12962962962962962,
-      "position": 7.592592592592593
+      "impressions": 24,
+      "ctr": 0.2916666666666667,
+      "position": 2.875
     },
     {
       "query": "hvac near me",
-      "clicks": 7,
-      "impressions": 592,
-      "ctr": 0.011824324324324325,
-      "position": 4.77195945945946
+      "clicks": 6,
+      "impressions": 625,
+      "ctr": 0.0096,
+      "position": 4.5504
     },
     {
       "query": "hvac",
       "clicks": 5,
-      "impressions": 697,
-      "ctr": 0.007173601147776184,
-      "position": 2.2424677187948348
+      "impressions": 663,
+      "ctr": 0.007541478129713424,
+      "position": 2.088989441930618
     },
     {
-      "query": "elevated comfort san rafael",
+      "query": "elevated hvac",
       "clicks": 4,
-      "impressions": 37,
-      "ctr": 0.10810810810810811,
-      "position": 12.756756756756756
+      "impressions": 46,
+      "ctr": 0.08695652173913043,
+      "position": 8.565217391304348
     },
     {
       "query": "hvac cotati",
       "clicks": 4,
-      "impressions": 224,
-      "ctr": 0.017857142857142856,
-      "position": 6.65625
+      "impressions": 221,
+      "ctr": 0.01809954751131222,
+      "position": 6.334841628959276
     },
     {
-      "query": "elevate comfort",
+      "query": "elevated comfort san rafael",
       "clicks": 3,
-      "impressions": 15,
-      "ctr": 0.2,
-      "position": 3.7333333333333334
+      "impressions": 18,
+      "ctr": 0.16666666666666666,
+      "position": 24.61111111111111
     },
     {
-      "query": "hvac companies near me",
-      "clicks": 3,
-      "impressions": 223,
-      "ctr": 0.013452914798206279,
-      "position": 8.385650224215247
-    },
-    {
-      "query": "elevated comfort 1105 francisco blvd e #4, san rafael, ca 94901",
+      "query": "elevate home services",
       "clicks": 2,
-      "impressions": 48,
-      "ctr": 0.041666666666666664,
-      "position": 1
+      "impressions": 37,
+      "ctr": 0.05405405405405406,
+      "position": 37.16216216216216
     },
     {
       "query": "elevated comfort reviews",
       "clicks": 2,
-      "impressions": 165,
-      "ctr": 0.012121212121212121,
-      "position": 6.606060606060606
+      "impressions": 174,
+      "ctr": 0.011494252873563218,
+      "position": 8.637931034482758
+    },
+    {
+      "query": "elevated confort",
+      "clicks": 2,
+      "impressions": 24,
+      "ctr": 0.08333333333333333,
+      "position": 1.0833333333333333
     },
     {
       "query": "elevation hvac",
       "clicks": 2,
-      "impressions": 5,
-      "ctr": 0.4,
-      "position": 31.2
+      "impressions": 4,
+      "ctr": 0.5,
+      "position": 18
     },
     {
-      "query": "heat pump repair near me",
+      "query": "hvac companies near me",
       "clicks": 2,
-      "impressions": 203,
-      "ctr": 0.009852216748768473,
-      "position": 8.551724137931036
-    },
-    {
-      "query": "heater repair near me",
-      "clicks": 2,
-      "impressions": 137,
-      "ctr": 0.014598540145985401,
-      "position": 10.576642335766424
+      "impressions": 229,
+      "ctr": 0.008733624454148471,
+      "position": 8.270742358078603
     },
     {
       "query": "hvac contractor near me",
       "clicks": 2,
-      "impressions": 110,
-      "ctr": 0.01818181818181818,
-      "position": 5.7272727272727275
+      "impressions": 116,
+      "ctr": 0.017241379310344827,
+      "position": 6.112068965517241
+    },
+    {
+      "query": "hvac contractors near me",
+      "clicks": 2,
+      "impressions": 67,
+      "ctr": 0.029850746268656716,
+      "position": 2.373134328358209
     },
     {
       "query": "hvac duct cleaning near me",
@@ -786,16 +793,30 @@
     {
       "query": "hvac petaluma",
       "clicks": 2,
-      "impressions": 524,
-      "ctr": 0.003816793893129771,
-      "position": 21.671755725190838
+      "impressions": 517,
+      "ctr": 0.0038684719535783366,
+      "position": 22.450676982591876
     },
     {
       "query": "hvac repair santa rosa",
       "clicks": 2,
-      "impressions": 1140,
-      "ctr": 0.0017543859649122807,
-      "position": 8.599122807017544
+      "impressions": 1222,
+      "ctr": 0.0016366612111292963,
+      "position": 7.803600654664485
+    },
+    {
+      "query": "hvac rohnert park",
+      "clicks": 2,
+      "impressions": 167,
+      "ctr": 0.011976047904191617,
+      "position": 20.167664670658684
+    },
+    {
+      "query": "a/c company near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 5.5
     },
     {
       "query": "ac installers",
@@ -814,16 +835,16 @@
     {
       "query": "can ecobee thermostat work without wifi",
       "clicks": 1,
-      "impressions": 43,
-      "ctr": 0.023255813953488372,
-      "position": 6.72093023255814
+      "impressions": 38,
+      "ctr": 0.02631578947368421,
+      "position": 6.657894736842105
     },
     {
       "query": "comfort heating and air",
       "clicks": 1,
-      "impressions": 11,
-      "ctr": 0.09090909090909091,
-      "position": 6.818181818181818
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 4.875
     },
     {
       "query": "comfortable living ac and heating llc",
@@ -833,18 +854,18 @@
       "position": 9
     },
     {
-      "query": "does ecobee need wifi to work",
+      "query": "commercial hvac companies near me",
       "clicks": 1,
-      "impressions": 44,
-      "ctr": 0.022727272727272728,
-      "position": 4.25
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 8.666666666666668
     },
     {
-      "query": "does smart thermostat work without wifi",
+      "query": "does ecobee need wifi to work",
       "clicks": 1,
-      "impressions": 30,
-      "ctr": 0.03333333333333333,
-      "position": 4.2
+      "impressions": 45,
+      "ctr": 0.022222222222222223,
+      "position": 4.333333333333334
     },
     {
       "query": "duct cleaning services near me",
@@ -856,9 +877,9 @@
     {
       "query": "elevate air conditioning",
       "clicks": 1,
-      "impressions": 20,
-      "ctr": 0.05,
-      "position": 21.7
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 11.366666666666667
     },
     {
       "query": "elevate heating",
@@ -870,72 +891,58 @@
     {
       "query": "elevate heating and cooling",
       "clicks": 1,
-      "impressions": 14,
-      "ctr": 0.07142857142857142,
-      "position": 24.285714285714285
-    },
-    {
-      "query": "elevate home services",
-      "clicks": 1,
-      "impressions": 9,
-      "ctr": 0.1111111111111111,
-      "position": 24.22222222222222
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 23
     },
     {
       "query": "elevate hvac",
       "clicks": 1,
-      "impressions": 20,
-      "ctr": 0.05,
-      "position": 30.2
+      "impressions": 23,
+      "ctr": 0.043478260869565216,
+      "position": 28.652173913043477
     },
     {
-      "query": "elevated confort",
+      "query": "elevated air",
       "clicks": 1,
-      "impressions": 19,
-      "ctr": 0.05263157894736842,
-      "position": 1.1052631578947367
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 24
+    },
+    {
+      "query": "elevated comfort 1105 francisco blvd e #4, san rafael, ca 94901",
+      "clicks": 1,
+      "impressions": 39,
+      "ctr": 0.02564102564102564,
+      "position": 1
     },
     {
       "query": "elevated heating",
       "clicks": 1,
-      "impressions": 15,
-      "ctr": 0.06666666666666667,
-      "position": 9.533333333333333
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 8.166666666666668
     },
     {
       "query": "elevated heating and air",
       "clicks": 1,
-      "impressions": 14,
-      "ctr": 0.07142857142857142,
-      "position": 5.285714285714286
-    },
-    {
-      "query": "emergency hvac services near me",
-      "clicks": 1,
-      "impressions": 2,
-      "ctr": 0.5,
-      "position": 1
-    },
-    {
-      "query": "furnace inspection and cleaning",
-      "clicks": 1,
-      "impressions": 1,
-      "ctr": 1,
-      "position": 1
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 5
     },
     {
       "query": "furnace repair",
       "clicks": 1,
-      "impressions": 5388,
-      "ctr": 0.0001855976243504083,
-      "position": 5.765033407572383
+      "impressions": 5501,
+      "ctr": 0.00018178512997636792,
+      "position": 5.708234866387929
     },
     {
       "query": "furnace repair near me",
       "clicks": 1,
-      "impressions": 694,
-      "ctr": 0.001440922190201729,
-      "position": 4.698847262247838
+      "impressions": 651,
+      "ctr": 0.0015360983102918587,
+      "position": 4.841781874039938
     },
     {
       "query": "furnace smell",
@@ -947,9 +954,9 @@
     {
       "query": "furnace smells like wet dog",
       "clicks": 1,
-      "impressions": 44,
-      "ctr": 0.022727272727272728,
-      "position": 8.522727272727273
+      "impressions": 40,
+      "ctr": 0.025,
+      "position": 8.625
     },
     {
       "query": "geothermal heat pump near me",
@@ -961,23 +968,30 @@
     {
       "query": "heat pump cant keep up",
       "clicks": 1,
-      "impressions": 2,
-      "ctr": 0.5,
-      "position": 9
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 9.666666666666666
+    },
+    {
+      "query": "heat pump repair near me",
+      "clicks": 1,
+      "impressions": 168,
+      "ctr": 0.005952380952380952,
+      "position": 6.345238095238095
+    },
+    {
+      "query": "heater repair near me",
+      "clicks": 1,
+      "impressions": 107,
+      "ctr": 0.009345794392523364,
+      "position": 9.588785046728972
     },
     {
       "query": "heating and air conditioning near me",
       "clicks": 1,
-      "impressions": 24,
-      "ctr": 0.041666666666666664,
-      "position": 6.125
-    },
-    {
-      "query": "heating and air financing near me",
-      "clicks": 1,
-      "impressions": 1,
-      "ctr": 1,
-      "position": 17
+      "impressions": 34,
+      "ctr": 0.029411764705882353,
+      "position": 8.852941176470587
     },
     {
       "query": "heating and cooling contractor",
@@ -989,362 +1003,2811 @@
     {
       "query": "heating and cooling near me",
       "clicks": 1,
+      "impressions": 34,
+      "ctr": 0.029411764705882353,
+      "position": 6.705882352941177
+    },
+    {
+      "query": "heating company near me",
+      "clicks": 1,
+      "impressions": 44,
+      "ctr": 0.022727272727272728,
+      "position": 15.113636363636363
+    },
+    {
+      "query": "hvac affordable near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 9
+    },
+    {
+      "query": "hvac camera inspection",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "hvac companies santa rosa",
+      "clicks": 1,
+      "impressions": 498,
+      "ctr": 0.002008032128514056,
+      "position": 16.050200803212853
+    },
+    {
+      "query": "hvac company",
+      "clicks": 1,
+      "impressions": 1585,
+      "ctr": 0.0006309148264984228,
+      "position": 3.2965299684542586
+    },
+    {
+      "query": "hvac contractor commercial",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "hvac contractor in santa rosa",
+      "clicks": 1,
+      "impressions": 28,
+      "ctr": 0.03571428571428571,
+      "position": 18.785714285714285
+    },
+    {
+      "query": "hvac contractors mill valley",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 7.888888888888889
+    },
+    {
+      "query": "hvac local",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "hvac near me now",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 1.6363636363636362
+    },
+    {
+      "query": "hvac petaluma ca",
+      "clicks": 1,
+      "impressions": 268,
+      "ctr": 0.0037313432835820895,
+      "position": 23.440298507462686
+    },
+    {
+      "query": "hvac repair near me",
+      "clicks": 1,
+      "impressions": 2352,
+      "ctr": 0.00042517006802721087,
+      "position": 1.8962585034013606
+    },
+    {
+      "query": "hvac santa rosa",
+      "clicks": 1,
+      "impressions": 1228,
+      "ctr": 0.0008143322475570033,
+      "position": 11.435667752442997
+    },
+    {
+      "query": "hvac santa rosa ca",
+      "clicks": 1,
+      "impressions": 410,
+      "ctr": 0.0024390243902439024,
+      "position": 17.91219512195122
+    },
+    {
+      "query": "hvac services petaluma",
+      "clicks": 1,
+      "impressions": 53,
+      "ctr": 0.018867924528301886,
+      "position": 15.056603773584905
+    },
+    {
+      "query": "hvac sonoma county",
+      "clicks": 1,
+      "impressions": 102,
+      "ctr": 0.00980392156862745,
+      "position": 16.813725490196077
+    },
+    {
+      "query": "hvac st helena ca",
+      "clicks": 1,
+      "impressions": 27,
+      "ctr": 0.037037037037037035,
+      "position": 6.074074074074074
+    },
+    {
+      "query": "hydronic heating system repair near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 12
+    },
+    {
+      "query": "mini split air conditioner",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 13.333333333333334
+    },
+    {
+      "query": "new construction heating and cooling",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "new furnace installation near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "plumber santa rosa",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 81
+    },
+    {
+      "query": "santa rosa heater repair",
+      "clicks": 1,
+      "impressions": 158,
+      "ctr": 0.006329113924050633,
+      "position": 15.962025316455696
+    },
+    {
+      "query": "sonoma hvac",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 1
+    },
+    {
+      "query": "will ecobee work without internet",
+      "clicks": 1,
+      "impressions": 35,
+      "ctr": 0.02857142857142857,
+      "position": 2.9714285714285715
+    },
+    {
+      "query": "will ecobee work without wifi",
+      "clicks": 1,
+      "impressions": 111,
+      "ctr": 0.009009009009009009,
+      "position": 4.531531531531531
+    },
+    {
+      "query": "\"elevated comfort\" \"374 blodgett st suite 4\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"elevated comfort\" \"94931\"",
+      "clicks": 0,
+      "impressions": 57,
+      "ctr": 0,
+      "position": 21.105263157894736
+    },
+    {
+      "query": "\"elevated comfort\" \"95403\"",
+      "clicks": 0,
+      "impressions": 27,
+      "ctr": 0,
+      "position": 58.48148148148148
+    },
+    {
+      "query": "\"elevated comfort\" \"cotati\"",
+      "clicks": 0,
+      "impressions": 20,
+      "ctr": 0,
+      "position": 24.45
+    },
+    {
+      "query": "\"elevated comfort\" \"goelevatedcomfort.com\"",
+      "clicks": 0,
+      "impressions": 63,
+      "ctr": 0,
+      "position": 19.80952380952381
+    },
+    {
+      "query": "\"elevated comfort\" \"santa rosa\"",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 20
+    },
+    {
+      "query": "\"free second opinion\" hvac",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 19
+    },
+    {
+      "query": "\"mini split repair\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "#elevatedcomfort",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 4.733333333333333
+    },
+    {
+      "query": "#elevatedcomfort latest",
+      "clicks": 0,
+      "impressions": 20,
+      "ctr": 0,
+      "position": 10.2
+    },
+    {
+      "query": "#heaterrepair",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10.5
+    },
+    {
+      "query": "2 ton ac unit",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "2 ton central heat and air unit",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "2 ton hvac",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 16
+    },
+    {
+      "query": "20 ton ac unit",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 15
+    },
+    {
+      "query": "24 heating and cooling near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "24 hour ac repair",
+      "clicks": 0,
+      "impressions": 59,
+      "ctr": 0,
+      "position": 9.288135593220339
+    },
+    {
+      "query": "24 hour furnace repair",
+      "clicks": 0,
+      "impressions": 92,
+      "ctr": 0,
+      "position": 5.793478260869565
+    },
+    {
+      "query": "24 hour heat pump repair",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "24 hour heating installation",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 18.5
+    },
+    {
+      "query": "24 hour hot water heater service",
+      "clicks": 0,
+      "impressions": 22,
+      "ctr": 0,
+      "position": 30.454545454545453
+    },
+    {
+      "query": "24 hour hvac repair",
+      "clicks": 0,
+      "impressions": 67,
+      "ctr": 0,
+      "position": 4.895522388059701
+    },
+    {
+      "query": "24 hour tankless water heater replacement",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 12.4
+    },
+    {
+      "query": "24 hour water heater repair",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 12.333333333333334
+    },
+    {
+      "query": "24 hour water heater replacement",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 19.5
+    },
+    {
+      "query": "24-hour water heater repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 19
+    },
+    {
+      "query": "24/7 ac repair redwood village",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 75.5
+    },
+    {
+      "query": "24/7 emergency air conditioning repair services",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "24/7 hvac near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "24hr hvac repair near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "3 ton ac units",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7.5
+    },
+    {
+      "query": "365 heating and air conditioning",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "374 blodgett street cotati ca",
+      "clicks": 0,
+      "impressions": 39,
+      "ctr": 0,
+      "position": 7.743589743589744
+    },
+    {
+      "query": "4 ton furnace",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "4 ton heat pump and air handler",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "5 star quality hvac tankless water heater service",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 7.333333333333333
+    },
+    {
+      "query": "a air conditioner",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "a c",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2.5
+    },
+    {
+      "query": "a c inspection near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "a c installation",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "a c quote",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "a c repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 38
+    },
+    {
+      "query": "a c repair service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 15
+    },
+    {
+      "query": "a c window unit with heat",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "a heating and air conditioning repair",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 28.571428571428573
+    },
+    {
+      "query": "a-temp furnace repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 15
+    },
+    {
+      "query": "a-temp hvac repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "a.c",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "a/c & heating installation",
+      "clicks": 0,
+      "impressions": 56,
+      "ctr": 0,
+      "position": 28.464285714285715
+    },
+    {
+      "query": "a/c and heater repairs",
+      "clicks": 0,
+      "impressions": 181,
+      "ctr": 0,
+      "position": 58.6243093922652
+    },
+    {
+      "query": "a/c contractors near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 33
+    },
+    {
+      "query": "a/c installers near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "a/c maintenance",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 22
+    },
+    {
+      "query": "a/c repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "a/c repair near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "a/c service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "a/c services near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "a/c tune-up near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "aaero heating novato",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 31
+    },
+    {
+      "query": "absolute comfort heating",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "ac",
+      "clicks": 0,
+      "impressions": 47,
+      "ctr": 0,
+      "position": 4.170212765957446
+    },
+    {
+      "query": "ac ac repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 30
+    },
+    {
+      "query": "ac air",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "ac air repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "ac and heat repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 23
+    },
+    {
+      "query": "ac and heating",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 13.333333333333334
+    },
+    {
+      "query": "ac and heating companies",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "ac and heating companies near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "ac and heating installation",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "ac and heating repair",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 11.4
+    },
+    {
+      "query": "ac and heating repair services",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 24
+    },
+    {
+      "query": "ac and heating service",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 29.666666666666668
+    },
+    {
+      "query": "ac and heating unit",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "ac annual service",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 17.285714285714285
+    },
+    {
+      "query": "ac companies",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 4.5
+    },
+    {
+      "query": "ac companies near me",
+      "clicks": 0,
+      "impressions": 47,
+      "ctr": 0,
+      "position": 14.74468085106383
+    },
+    {
+      "query": "ac companies near me in california",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 81
+    },
+    {
+      "query": "ac company",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 10.142857142857142
+    },
+    {
+      "query": "ac company near me",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 11.714285714285714
+    },
+    {
+      "query": "ac company santa rosa",
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 18.166666666666668
+    },
+    {
+      "query": "ac compressor santa rosa",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 13.5
+    },
+    {
+      "query": "ac conditioner repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "ac contactor",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 16
+    },
+    {
+      "query": "ac contractor",
+      "clicks": 0,
+      "impressions": 30,
+      "ctr": 0,
+      "position": 3.8333333333333335
+    },
+    {
+      "query": "ac contractor depot park",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "ac contractor larkspur ca",
+      "clicks": 0,
+      "impressions": 84,
+      "ctr": 0,
+      "position": 3.0952380952380953
+    },
+    {
+      "query": "ac contractor near me",
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 5.916666666666667
+    },
+    {
+      "query": "ac contractor novato ca",
+      "clicks": 0,
+      "impressions": 46,
+      "ctr": 0,
+      "position": 15.934782608695652
+    },
+    {
+      "query": "ac contractor petaluma ca",
+      "clicks": 0,
+      "impressions": 65,
+      "ctr": 0,
+      "position": 22.876923076923077
+    },
+    {
+      "query": "ac contractor san anselmo ca",
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 13.5
+    },
+    {
+      "query": "ac contractor san rafael ca",
+      "clicks": 0,
+      "impressions": 99,
+      "ctr": 0,
+      "position": 2.6565656565656566
+    },
+    {
+      "query": "ac contractor santa rosa",
+      "clicks": 0,
+      "impressions": 30,
+      "ctr": 0,
+      "position": 13.566666666666666
+    },
+    {
+      "query": "ac contractors santa rosa santa rosa",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 19.5
+    },
+    {
+      "query": "ac cooling and heating",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "ac cooling system",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "ac duct",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "ac duct cleaning",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "ac duct cleaning near me",
+      "clicks": 0,
+      "impressions": 39,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "ac duct replacement",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 28
+    },
+    {
+      "query": "ac duct work near me",
+      "clicks": 0,
+      "impressions": 35,
+      "ctr": 0,
+      "position": 3.1714285714285713
+    },
+    {
+      "query": "ac emergency repair",
+      "clicks": 0,
       "impressions": 33,
-      "ctr": 0.030303030303030304,
-      "position": 5.848484848484849
+      "ctr": 0,
+      "position": 17.12121212121212
+    },
+    {
+      "query": "ac evacuation near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "ac filter near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "ac fitter",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "ac fix near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "ac for house",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "ac free estimate",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "ac freon leak",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 98
+    },
+    {
+      "query": "ac freon leak car",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "ac furnace repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "ac furnace replacement",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "ac heat pump repair",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 47
+    },
+    {
+      "query": "ac heat repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "ac heating",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "ac heating and air conditioning services",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 59.666666666666664
+    },
+    {
+      "query": "ac heating and cooling",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "ac home repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 22
+    },
+    {
+      "query": "ac hvac repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "ac inspection",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "ac inspection santa rosa ca",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 38.15384615384615
+    },
+    {
+      "query": "ac install",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "ac install larkspur ca",
+      "clicks": 0,
+      "impressions": 93,
+      "ctr": 0,
+      "position": 3.172043010752688
+    },
+    {
+      "query": "ac install near me",
+      "clicks": 0,
+      "impressions": 163,
+      "ctr": 0,
+      "position": 4.325153374233128
     }
   ],
   "topPages": [
     {
       "page": "https://goelevatedcomfort.com/",
-      "clicks": 557,
-      "impressions": 158223,
-      "ctr": 0.0035203478634585365,
-      "position": 5.9358057930895
+      "clicks": 606,
+      "impressions": 165682,
+      "ctr": 0.003657609154887073,
+      "position": 6.2405330693738605
     },
     {
       "page": "https://www.goelevatedcomfort.com/",
-      "clicks": 93,
-      "impressions": 38879,
-      "ctr": 0.002392036832223051,
-      "position": 2.466884436328095
+      "clicks": 103,
+      "impressions": 39264,
+      "ctr": 0.0026232681336593316,
+      "position": 2.356968215158924
     },
     {
       "page": "https://goelevatedcomfort.com/do-smart-thermostats-need-wifi-to-work-tips-on-making-the-most-out-of-your-thermostats/",
-      "clicks": 49,
-      "impressions": 18598,
-      "ctr": 0.002634691902355092,
-      "position": 5.6438864394020865
+      "clicks": 42,
+      "impressions": 16833,
+      "ctr": 0.0024950989128497596,
+      "position": 5.632507574407414
     },
     {
       "page": "https://goelevatedcomfort.com/contact-us/",
-      "clicks": 28,
-      "impressions": 6675,
-      "ctr": 0.004194756554307116,
-      "position": 16.792659176029964
+      "clicks": 32,
+      "impressions": 7022,
+      "ctr": 0.004557106237539163,
+      "position": 16.989319282255767
     },
     {
       "page": "https://goelevatedcomfort.com/ac-repair-101-can-there-be-a-freon-leak-if-my-ac-is-off/",
-      "clicks": 26,
-      "impressions": 4211,
-      "ctr": 0.006174305390643553,
-      "position": 4.904298266445025
+      "clicks": 29,
+      "impressions": 5338,
+      "ctr": 0.005432746346946422,
+      "position": 4.256275758711128
     },
     {
       "page": "https://goelevatedcomfort.com/about-us/",
-      "clicks": 22,
-      "impressions": 7820,
-      "ctr": 0.002813299232736573,
-      "position": 10.723401534526854
+      "clicks": 23,
+      "impressions": 9546,
+      "ctr": 0.002409386130316363,
+      "position": 15.301801801801801
     },
     {
       "page": "https://goelevatedcomfort.com/norcal-winter-humidity-hvac-solutions/",
-      "clicks": 21,
-      "impressions": 925,
-      "ctr": 0.022702702702702703,
-      "position": 4.831351351351351
+      "clicks": 22,
+      "impressions": 1226,
+      "ctr": 0.01794453507340946,
+      "position": 4.982871125611746
     },
     {
       "page": "https://goelevatedcomfort.com/san-rafael-hvac-services/",
-      "clicks": 14,
-      "impressions": 27734,
-      "ctr": 0.0005047955577990914,
-      "position": 14.574817913030937
+      "clicks": 18,
+      "impressions": 25308,
+      "ctr": 0.0007112375533428165,
+      "position": 14.792358147621306
     },
     {
       "page": "https://goelevatedcomfort.com/mill-valley-hvac-services/",
       "clicks": 8,
-      "impressions": 9755,
-      "ctr": 0.0008200922603792927,
-      "position": 18.76319835981548
-    },
-    {
-      "page": "https://goelevatedcomfort.com/an-hvac-company-founders-story-the-evolution-of-elevated-comfort/",
-      "clicks": 6,
-      "impressions": 1306,
-      "ctr": 0.004594180704441042,
-      "position": 6.402756508422665
+      "impressions": 9166,
+      "ctr": 0.0008727907484180668,
+      "position": 20.463888282784204
     },
     {
       "page": "https://goelevatedcomfort.com/petaluma-hvac-services/",
-      "clicks": 6,
-      "impressions": 16551,
-      "ctr": 0.00036251586006887804,
-      "position": 15.193039695486677
+      "clicks": 8,
+      "impressions": 16555,
+      "ctr": 0.00048323769254001814,
+      "position": 15.61618846270009
     },
     {
-      "page": "https://goelevatedcomfort.com/what-to-do-if-your-furnace-smells-funny-this-fall/",
-      "clicks": 6,
-      "impressions": 707,
-      "ctr": 0.008486562942008486,
-      "position": 12.053748231966054
+      "page": "https://goelevatedcomfort.com/santa-rosa-hvac-services/",
+      "clicks": 8,
+      "impressions": 12977,
+      "ctr": 0.0006164753024581952,
+      "position": 49.50173383678816
     },
     {
       "page": "https://goelevatedcomfort.com/american-canyon-hvac-services/",
       "clicks": 5,
-      "impressions": 471,
-      "ctr": 0.010615711252653927,
-      "position": 11.78343949044586
+      "impressions": 436,
+      "ctr": 0.011467889908256881,
+      "position": 10.465596330275229
+    },
+    {
+      "page": "https://goelevatedcomfort.com/napa-hvac-services/",
+      "clicks": 5,
+      "impressions": 4422,
+      "ctr": 0.0011307100859339666,
+      "position": 14.181818181818182
     },
     {
       "page": "https://goelevatedcomfort.com/novato-hvac-services/",
       "clicks": 5,
-      "impressions": 11277,
-      "ctr": 0.0004433803316484881,
-      "position": 14.670125033253525
+      "impressions": 9543,
+      "ctr": 0.000523944252331552,
+      "position": 14.89636382688882
     },
     {
-      "page": "https://goelevatedcomfort.com/what-is-the-average-cost-of-furnace-installation-in-cotati-ca/",
+      "page": "https://goelevatedcomfort.com/what-to-do-if-your-furnace-smells-funny-this-fall/",
       "clicks": 5,
-      "impressions": 711,
-      "ctr": 0.007032348804500703,
-      "position": 16.82559774964838
+      "impressions": 846,
+      "ctr": 0.00591016548463357,
+      "position": 13.455082742316785
     },
     {
       "page": "https://goelevatedcomfort.com/why-your-heat-pump-isnt-keeping-up-this-fall/",
       "clicks": 5,
-      "impressions": 1020,
-      "ctr": 0.004901960784313725,
-      "position": 13.187254901960785
+      "impressions": 1157,
+      "ctr": 0.00432152117545376,
+      "position": 12.9438202247191
     },
     {
-      "page": "https://goelevatedcomfort.com/napa-hvac-services/",
+      "page": "https://goelevatedcomfort.com/rohnert-park-hvac-services/",
       "clicks": 4,
-      "impressions": 4267,
-      "ctr": 0.0009374267635340989,
-      "position": 14.474337942348255
+      "impressions": 6234,
+      "ctr": 0.0006416426050689766,
+      "position": 15.350818094321463
     },
     {
-      "page": "https://goelevatedcomfort.com/santa-rosa-hvac-services/",
+      "page": "https://goelevatedcomfort.com/what-is-the-average-cost-of-furnace-installation-in-cotati-ca/",
       "clicks": 4,
-      "impressions": 12462,
-      "ctr": 0.0003209757663296421,
-      "position": 49.38428823623816
-    },
-    {
-      "page": "https://goelevatedcomfort.com/sonoma-hvac-services/",
-      "clicks": 4,
-      "impressions": 2400,
-      "ctr": 0.0016666666666666668,
-      "position": 26.958333333333332
+      "impressions": 549,
+      "ctr": 0.007285974499089253,
+      "position": 15.724954462659381
     },
     {
       "page": "https://goelevatedcomfort.com/cotati-hvac-services/",
       "clicks": 3,
-      "impressions": 11986,
-      "ctr": 0.0002502920073418989,
-      "position": 9.86809611213082
+      "impressions": 11997,
+      "ctr": 0.00025006251562890725,
+      "position": 8.97341001917146
     },
     {
-      "page": "https://goelevatedcomfort.com/hvac-maintenance-program/",
+      "page": "https://goelevatedcomfort.com/how-cold-nights-affect-heat-pump-performance-norcal/",
       "clicks": 3,
-      "impressions": 1354,
-      "ctr": 0.0022156573116691287,
-      "position": 9.385524372230428
+      "impressions": 360,
+      "ctr": 0.008333333333333333,
+      "position": 7.166666666666667
     },
     {
       "page": "https://goelevatedcomfort.com/indoor-air-quality-california/",
       "clicks": 3,
-      "impressions": 4499,
-      "ctr": 0.0006668148477439431,
-      "position": 9.346965992442765
+      "impressions": 6009,
+      "ctr": 0.0004992511233150275,
+      "position": 9.64985854551506
+    },
+    {
+      "page": "https://goelevatedcomfort.com/sonoma-hvac-services/",
+      "clicks": 3,
+      "impressions": 2303,
+      "ctr": 0.0013026487190620929,
+      "position": 24.501085540599217
+    },
+    {
+      "page": "https://goelevatedcomfort.com/special-offers/",
+      "clicks": 3,
+      "impressions": 472,
+      "ctr": 0.006355932203389831,
+      "position": 12.110169491525424
     },
     {
       "page": "https://goelevatedcomfort.com/what-is-the-average-cost-of-ac-installation-in-santa-rosa-ca/",
       "clicks": 3,
-      "impressions": 1988,
-      "ctr": 0.0015090543259557343,
-      "position": 29.793259557344065
+      "impressions": 1259,
+      "ctr": 0.0023828435266084196,
+      "position": 28.686258935663226
+    },
+    {
+      "page": "https://goelevatedcomfort.com/why-home-feels-drafty-with-heat-on/",
+      "clicks": 3,
+      "impressions": 263,
+      "ctr": 0.011406844106463879,
+      "position": 5.7110266159695815
     },
     {
       "page": "https://goelevatedcomfort.com/ac-installation-california/",
       "clicks": 2,
-      "impressions": 2180,
-      "ctr": 0.0009174311926605505,
-      "position": 28.342660550458717
+      "impressions": 2736,
+      "ctr": 0.0007309941520467836,
+      "position": 28.85855263157895
     },
     {
-      "page": "https://goelevatedcomfort.com/ac-repair-california/",
+      "page": "https://goelevatedcomfort.com/an-hvac-company-founders-story-the-evolution-of-elevated-comfort/",
       "clicks": 2,
-      "impressions": 3811,
-      "ctr": 0.0005247966413014956,
-      "position": 21.630280766203096
-    },
-    {
-      "page": "https://goelevatedcomfort.com/coastal-california-home-energy-efficiency-tips/",
-      "clicks": 2,
-      "impressions": 49,
-      "ctr": 0.04081632653061224,
-      "position": 7.979591836734694
-    },
-    {
-      "page": "https://goelevatedcomfort.com/how-often-to-service-heating-system-norcal/",
-      "clicks": 2,
-      "impressions": 437,
-      "ctr": 0.004576659038901602,
-      "position": 10.842105263157896
+      "impressions": 1368,
+      "ctr": 0.0014619883040935672,
+      "position": 6.308479532163743
     },
     {
       "page": "https://goelevatedcomfort.com/products/lennox/",
       "clicks": 2,
-      "impressions": 542,
-      "ctr": 0.0036900369003690036,
-      "position": 40.49077490774908
-    },
-    {
-      "page": "https://goelevatedcomfort.com/rohnert-park-hvac-services/",
-      "clicks": 2,
-      "impressions": 6229,
-      "ctr": 0.00032107882485150104,
-      "position": 15.386899983946059
+      "impressions": 515,
+      "ctr": 0.003883495145631068,
+      "position": 35.7126213592233
     },
     {
       "page": "https://goelevatedcomfort.com/sausalito-hvac-services/",
       "clicks": 2,
-      "impressions": 535,
-      "ctr": 0.003738317757009346,
-      "position": 9.601869158878504
-    },
-    {
-      "page": "https://goelevatedcomfort.com/service-area/",
-      "clicks": 2,
-      "impressions": 4763,
-      "ctr": 0.000419903422212891,
-      "position": 8.995800965777871
+      "impressions": 626,
+      "ctr": 0.003194888178913738,
+      "position": 9.907348242811501
     },
     {
       "page": "https://goelevatedcomfort.com/st-helena-hvac-services/",
       "clicks": 2,
-      "impressions": 560,
-      "ctr": 0.0035714285714285713,
-      "position": 10.9
+      "impressions": 522,
+      "ctr": 0.0038314176245210726,
+      "position": 10.306513409961687
     },
     {
-      "page": "https://goelevatedcomfort.com/why-home-feels-drafty-with-heat-on/",
-      "clicks": 2,
-      "impressions": 48,
-      "ctr": 0.041666666666666664,
-      "position": 3.9375
+      "page": "https://goelevatedcomfort.com/ac-maintenance-california/",
+      "clicks": 1,
+      "impressions": 1532,
+      "ctr": 0.0006527415143603133,
+      "position": 32.65665796344648
+    },
+    {
+      "page": "https://goelevatedcomfort.com/ac-repair-california/",
+      "clicks": 1,
+      "impressions": 5297,
+      "ctr": 0.00018878610534264677,
+      "position": 22.116481026996414
     },
     {
       "page": "https://goelevatedcomfort.com/cloverdale-hvac-services/",
       "clicks": 1,
-      "impressions": 364,
-      "ctr": 0.0027472527472527475,
-      "position": 13.458791208791208
-    },
-    {
-      "page": "https://goelevatedcomfort.com/common-furnace-problems-northern-california-homes/",
-      "clicks": 1,
-      "impressions": 98,
-      "ctr": 0.01020408163265306,
-      "position": 8.459183673469388
-    },
-    {
-      "page": "https://goelevatedcomfort.com/contact/",
-      "clicks": 1,
-      "impressions": 582,
-      "ctr": 0.001718213058419244,
-      "position": 9.853951890034365
+      "impressions": 377,
+      "ctr": 0.002652519893899204,
+      "position": 12.588859416445624
     },
     {
       "page": "https://goelevatedcomfort.com/fairfax-hvac-services/",
       "clicks": 1,
-      "impressions": 485,
-      "ctr": 0.002061855670103093,
-      "position": 35.15051546391753
+      "impressions": 478,
+      "ctr": 0.0020920502092050207,
+      "position": 31.947698744769873
+    },
+    {
+      "page": "https://goelevatedcomfort.com/financing/",
+      "clicks": 1,
+      "impressions": 194,
+      "ctr": 0.005154639175257732,
+      "position": 9.639175257731958
     },
     {
       "page": "https://goelevatedcomfort.com/heat-pump-installation-california/",
       "clicks": 1,
-      "impressions": 10385,
-      "ctr": 0.00009629272989889263,
-      "position": 56.4607607125662
+      "impressions": 15595,
+      "ctr": 0.00006412311638345624,
+      "position": 50.52722026290478
     },
     {
-      "page": "https://goelevatedcomfort.com/heat-pump-maintenance-california/",
+      "page": "https://goelevatedcomfort.com/how-often-to-service-heating-system-norcal/",
       "clicks": 1,
-      "impressions": 2722,
-      "ctr": 0.0003673769287288758,
-      "position": 46.694709772226304
-    },
-    {
-      "page": "https://goelevatedcomfort.com/heat-pump-replacement-california/",
-      "clicks": 1,
-      "impressions": 4536,
-      "ctr": 0.0002204585537918871,
-      "position": 43.66556437389771
-    },
-    {
-      "page": "https://goelevatedcomfort.com/how-cold-nights-affect-heat-pump-performance-norcal/",
-      "clicks": 1,
-      "impressions": 242,
-      "ctr": 0.004132231404958678,
-      "position": 6.801652892561983
+      "impressions": 412,
+      "ctr": 0.0024271844660194173,
+      "position": 8.79368932038835
     },
     {
       "page": "https://goelevatedcomfort.com/how-to-identify-a-running-toilet/",
       "clicks": 1,
-      "impressions": 20,
-      "ctr": 0.05,
-      "position": 7.95
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 8
     },
     {
-      "page": "https://goelevatedcomfort.com/how-to-prepare-your-hvac-system-for-a-vacation/",
+      "page": "https://goelevatedcomfort.com/hvac-installation-costs-california/",
       "clicks": 1,
-      "impressions": 8,
-      "ctr": 0.125,
-      "position": 29.5
+      "impressions": 1584,
+      "ctr": 0.0006313131313131314,
+      "position": 15.105429292929292
     },
     {
-      "page": "https://goelevatedcomfort.com/mini-split-installation-california/",
+      "page": "https://goelevatedcomfort.com/hvac-maintenance-program/",
       "clicks": 1,
-      "impressions": 1659,
-      "ctr": 0.0006027727546714888,
-      "position": 30.90717299578059
+      "impressions": 665,
+      "ctr": 0.0015037593984962407,
+      "position": 10.78796992481203
     },
     {
-      "page": "https://goelevatedcomfort.com/preventing-clogged-drains-from-outdoor-debris/",
+      "page": "https://goelevatedcomfort.com/norcal-spring-allergy-hvac-prep/",
       "clicks": 1,
-      "impressions": 15,
-      "ctr": 0.06666666666666667,
-      "position": 14.066666666666666
+      "impressions": 97,
+      "ctr": 0.010309278350515464,
+      "position": 12.505154639175258
     },
     {
       "page": "https://goelevatedcomfort.com/privacy-policy/",
       "clicks": 1,
-      "impressions": 139,
-      "ctr": 0.007194244604316547,
-      "position": 7.712230215827338
+      "impressions": 169,
+      "ctr": 0.005917159763313609,
+      "position": 7.840236686390533
     },
     {
       "page": "https://goelevatedcomfort.com/products/",
       "clicks": 1,
-      "impressions": 5271,
-      "ctr": 0.00018971732119142478,
-      "position": 15.293872130525518
+      "impressions": 6989,
+      "ctr": 0.00014308198597796538,
+      "position": 15.145943625697525
     },
     {
       "page": "https://goelevatedcomfort.com/repair-vs-replace-aging-water-heater-winter/",
       "clicks": 1,
-      "impressions": 303,
-      "ctr": 0.0033003300330033004,
-      "position": 9.676567656765677
+      "impressions": 397,
+      "ctr": 0.0025188916876574307,
+      "position": 9.947103274559193
     },
     {
       "page": "https://goelevatedcomfort.com/sebastopol-hvac-services/",
       "clicks": 1,
-      "impressions": 1937,
-      "ctr": 0.0005162622612287042,
-      "position": 18.652039235931852
+      "impressions": 1827,
+      "ctr": 0.0005473453749315818,
+      "position": 17.251231527093594
+    },
+    {
+      "page": "https://goelevatedcomfort.com/service-area/",
+      "clicks": 1,
+      "impressions": 5899,
+      "ctr": 0.00016952025767079165,
+      "position": 9.566028140362773
+    },
+    {
+      "page": "https://goelevatedcomfort.com/sick-building-syndrome-how-to-recognize-it-and-what-to-do-about-it/",
+      "clicks": 1,
+      "impressions": 1105,
+      "ctr": 0.0009049773755656109,
+      "position": 45.47511312217195
     },
     {
       "page": "https://goelevatedcomfort.com/terms-and-conditions/",
       "clicks": 1,
-      "impressions": 90,
-      "ctr": 0.011111111111111112,
-      "position": 8.277777777777779
+      "impressions": 106,
+      "ctr": 0.009433962264150943,
+      "position": 9.962264150943396
+    },
+    {
+      "page": "https://goelevatedcomfort.com/understanding-the-benefits-of-using-ceiling-fans-with-hvac-systems/",
+      "clicks": 1,
+      "impressions": 495,
+      "ctr": 0.00202020202020202,
+      "position": 13.511111111111111
+    },
+    {
+      "page": "https://goelevatedcomfort.com/vallejo-hvac-services/",
+      "clicks": 1,
+      "impressions": 1559,
+      "ctr": 0.0006414368184733803,
+      "position": 16.058370750481078
     }
   ],
-  "fetchedAt": "2026-03-18T13:07:47.508Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "elevated comfort",
+      "clicks": 152,
+      "impressions": 641,
+      "ctr": 0.23712948517940718,
+      "position": 1.1981279251170047
+    },
+    {
+      "query": "elevated comfort santa rosa",
+      "clicks": 25,
+      "impressions": 70,
+      "ctr": 0.35714285714285715,
+      "position": 1.8142857142857143
+    },
+    {
+      "query": "elevated comfort cotati",
+      "clicks": 10,
+      "impressions": 30,
+      "ctr": 0.3333333333333333,
+      "position": 1
+    },
+    {
+      "query": "elevated heating and cooling",
+      "clicks": 4,
+      "impressions": 19,
+      "ctr": 0.21052631578947367,
+      "position": 2.473684210526316
+    },
+    {
+      "query": "elevated hvac",
+      "clicks": 3,
+      "impressions": 18,
+      "ctr": 0.16666666666666666,
+      "position": 7.833333333333333
+    },
+    {
+      "query": "elevated comfort hvac",
+      "clicks": 2,
+      "impressions": 7,
+      "ctr": 0.2857142857142857,
+      "position": 1.5714285714285714
+    },
+    {
+      "query": "elevated comfort reviews",
+      "clicks": 2,
+      "impressions": 117,
+      "ctr": 0.017094017094017096,
+      "position": 5.128205128205129
+    },
+    {
+      "query": "hvac rohnert park",
+      "clicks": 2,
+      "impressions": 46,
+      "ctr": 0.043478260869565216,
+      "position": 26.47826086956522
+    },
+    {
+      "query": "best hvac companies near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 2.5
+    },
+    {
+      "query": "elevated",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 2.888888888888889
+    },
+    {
+      "query": "elevated plumbing",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 3.25
+    },
+    {
+      "query": "elevated plumbing and heating",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "furnace repair near me",
+      "clicks": 1,
+      "impressions": 34,
+      "ctr": 0.029411764705882353,
+      "position": 17.441176470588236
+    },
+    {
+      "query": "furnace replacement santa rosa",
+      "clicks": 1,
+      "impressions": 186,
+      "ctr": 0.005376344086021506,
+      "position": 44.46774193548387
+    },
+    {
+      "query": "heater system for house",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 9
+    },
+    {
+      "query": "hvac",
+      "clicks": 1,
+      "impressions": 144,
+      "ctr": 0.006944444444444444,
+      "position": 3.513888888888889
+    },
+    {
+      "query": "hvac companies near me",
+      "clicks": 1,
+      "impressions": 34,
+      "ctr": 0.029411764705882353,
+      "position": 7.676470588235294
+    },
+    {
+      "query": "hvac petaluma",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 43.8
+    },
+    {
+      "query": "santa rosa hvac",
+      "clicks": 1,
+      "impressions": 112,
+      "ctr": 0.008928571428571428,
+      "position": 34.892857142857146
+    },
+    {
+      "query": "trane heat pump installers near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "24 hour ac repair",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 75.66666666666667
+    },
+    {
+      "query": "5star hvac",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "[ac",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7.5
+    },
+    {
+      "query": "a c installation",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "a/c repair",
+      "clicks": 0,
+      "impressions": 29,
+      "ctr": 0,
+      "position": 6.137931034482759
+    },
+    {
+      "query": "ac",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "ac companies madera",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 49.625
+    },
+    {
+      "query": "ac company san rafael",
+      "clicks": 0,
+      "impressions": 58,
+      "ctr": 0,
+      "position": 25.06896551724138
+    },
+    {
+      "query": "ac company santa rosa",
+      "clicks": 0,
+      "impressions": 58,
+      "ctr": 0,
+      "position": 38.48275862068966
+    },
+    {
+      "query": "ac company windsor",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 100
+    },
+    {
+      "query": "ac contractors near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "ac contractors santa rosa",
+      "clicks": 0,
+      "impressions": 53,
+      "ctr": 0,
+      "position": 51.43396226415094
+    },
+    {
+      "query": "ac duct cleaning",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "ac duct cleaning near me",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "ac duct replacement near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "ac duct work near me",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "ac fitter",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 13.5
+    },
+    {
+      "query": "ac inspection",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 66
+    },
+    {
+      "query": "ac installation",
+      "clicks": 0,
+      "impressions": 151,
+      "ctr": 0,
+      "position": 8.059602649006623
+    },
+    {
+      "query": "ac installation american canyon ca",
+      "clicks": 0,
+      "impressions": 26,
+      "ctr": 0,
+      "position": 26.807692307692307
+    },
+    {
+      "query": "ac installation and service",
+      "clicks": 0,
+      "impressions": 38,
+      "ctr": 0,
+      "position": 16.210526315789473
+    },
+    {
+      "query": "ac installation companies near me",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 34.4
+    },
+    {
+      "query": "ac installation helena",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 55
+    },
+    {
+      "query": "ac installation madera",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 36
+    },
+    {
+      "query": "ac installation napa ca",
+      "clicks": 0,
+      "impressions": 27,
+      "ctr": 0,
+      "position": 25.51851851851852
+    },
+    {
+      "query": "ac installation near me",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 27.142857142857142
+    },
+    {
+      "query": "ac installation reviews",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 90
+    },
+    {
+      "query": "ac installation rohnert park",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "ac installation santa rosa",
+      "clicks": 0,
+      "impressions": 77,
+      "ctr": 0,
+      "position": 47.077922077922075
+    },
+    {
+      "query": "ac installation santa rosa ca",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 41.25
+    },
+    {
+      "query": "ac installation services",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 16.857142857142858
+    },
+    {
+      "query": "ac installation services in novato",
+      "clicks": 0,
+      "impressions": 36,
+      "ctr": 0,
+      "position": 21.63888888888889
+    },
+    {
+      "query": "ac installation services near me",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 57
+    },
+    {
+      "query": "ac installation vallejo ca",
+      "clicks": 0,
+      "impressions": 41,
+      "ctr": 0,
+      "position": 30.48780487804878
+    },
+    {
+      "query": "ac installation windsor",
+      "clicks": 0,
+      "impressions": 35,
+      "ctr": 0,
+      "position": 44.65714285714286
+    },
+    {
+      "query": "ac installations windsor",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 69.75
+    },
+    {
+      "query": "ac installer",
+      "clicks": 0,
+      "impressions": 41,
+      "ctr": 0,
+      "position": 2.7804878048780486
+    },
+    {
+      "query": "ac installer in madera",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 43
+    },
+    {
+      "query": "ac installer near me",
+      "clicks": 0,
+      "impressions": 77,
+      "ctr": 0,
+      "position": 12.03896103896104
+    },
+    {
+      "query": "ac installers near me",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 35.333333333333336
+    },
+    {
+      "query": "ac installtion",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "ac leaks freon",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 60
+    },
+    {
+      "query": "ac maintenance",
+      "clicks": 0,
+      "impressions": 31,
+      "ctr": 0,
+      "position": 19.451612903225808
+    },
+    {
+      "query": "ac maintenance cost near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "ac maintenance in madera",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 29.75
+    },
+    {
+      "query": "ac maintenance madera",
+      "clicks": 0,
+      "impressions": 59,
+      "ctr": 0,
+      "position": 46.40677966101695
+    },
+    {
+      "query": "ac maintenance santa rosa",
+      "clicks": 0,
+      "impressions": 143,
+      "ctr": 0,
+      "position": 57.23076923076923
+    },
+    {
+      "query": "ac maintenance service in madera",
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 50.72222222222222
+    },
+    {
+      "query": "ac maintenance windsor",
+      "clicks": 0,
+      "impressions": 78,
+      "ctr": 0,
+      "position": 67.67948717948718
+    },
+    {
+      "query": "ac mini split installation cost",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 88
+    },
+    {
+      "query": "ac repair",
+      "clicks": 0,
+      "impressions": 56,
+      "ctr": 0,
+      "position": 9.892857142857142
+    },
+    {
+      "query": "ac repair american canyon ca",
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 20.458333333333332
+    },
+    {
+      "query": "ac repair and installation",
+      "clicks": 0,
+      "impressions": 43,
+      "ctr": 0,
+      "position": 5.093023255813954
+    },
+    {
+      "query": "ac repair and service",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 10.666666666666666
+    },
+    {
+      "query": "ac repair around me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "ac repair helen",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 90
+    },
+    {
+      "query": "ac repair helena",
+      "clicks": 0,
+      "impressions": 20,
+      "ctr": 0,
+      "position": 99.6
+    },
+    {
+      "query": "ac repair in madera",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 76.66666666666667
+    },
+    {
+      "query": "ac repair in novato",
+      "clicks": 0,
+      "impressions": 35,
+      "ctr": 0,
+      "position": 26.02857142857143
+    },
+    {
+      "query": "ac repair lucas valley-marinwood, ca",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 25
+    },
+    {
+      "query": "ac repair madera",
+      "clicks": 0,
+      "impressions": 27,
+      "ctr": 0,
+      "position": 88.25925925925925
+    },
+    {
+      "query": "ac repair madera, ca",
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 88.55555555555556
+    },
+    {
+      "query": "ac repair mill valley, ca",
+      "clicks": 0,
+      "impressions": 115,
+      "ctr": 0,
+      "position": 16.05217391304348
+    },
+    {
+      "query": "ac repair napa",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 34.93333333333333
+    },
+    {
+      "query": "ac repair napa ca",
+      "clicks": 0,
+      "impressions": 31,
+      "ctr": 0,
+      "position": 33.03225806451613
+    },
+    {
+      "query": "ac repair near me",
+      "clicks": 0,
+      "impressions": 23,
+      "ctr": 0,
+      "position": 34.34782608695652
+    },
+    {
+      "query": "ac repair petaluma",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 61.285714285714285
+    },
+    {
+      "query": "ac repair petaluma ca",
+      "clicks": 0,
+      "impressions": 130,
+      "ctr": 0,
+      "position": 24.323076923076922
+    },
+    {
+      "query": "ac repair rohnert park ca",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 18.2
+    },
+    {
+      "query": "ac repair san rafael, ca",
+      "clicks": 0,
+      "impressions": 120,
+      "ctr": 0,
+      "position": 25.466666666666665
+    },
+    {
+      "query": "ac repair santa rosa",
+      "clicks": 0,
+      "impressions": 410,
+      "ctr": 0,
+      "position": 77.34878048780487
+    },
+    {
+      "query": "ac repair santa rosa ca",
+      "clicks": 0,
+      "impressions": 156,
+      "ctr": 0,
+      "position": 70.23717948717949
+    },
+    {
+      "query": "ac repair services",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "ac repair services near me",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 27.22222222222222
+    },
+    {
+      "query": "ac repair vallejo",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 57.4
+    },
+    {
+      "query": "ac repair vallejo ca",
+      "clicks": 0,
+      "impressions": 37,
+      "ctr": 0,
+      "position": 44.62162162162162
+    },
+    {
+      "query": "ac repair windsor",
+      "clicks": 0,
+      "impressions": 124,
+      "ctr": 0,
+      "position": 57.07258064516129
+    },
+    {
+      "query": "ac repair windsor ca",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 17.75
+    },
+    {
+      "query": "ac repaire in madera",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 77.25
+    },
+    {
+      "query": "ac repairman near me",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 30.625
+    },
+    {
+      "query": "ac repairs in madera",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 76.84615384615384
+    },
+    {
+      "query": "ac repairs windsor",
+      "clicks": 0,
+      "impressions": 19,
+      "ctr": 0,
+      "position": 8.052631578947368
+    },
+    {
+      "query": "ac replacement",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 27.333333333333332
+    },
+    {
+      "query": "ac replacement american canyon ca",
+      "clicks": 0,
+      "impressions": 29,
+      "ctr": 0,
+      "position": 19.275862068965516
+    },
+    {
+      "query": "ac replacement helena",
+      "clicks": 0,
+      "impressions": 93,
+      "ctr": 0,
+      "position": 64.81720430107526
+    },
+    {
+      "query": "ac replacement in madera",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 28
+    },
+    {
+      "query": "ac replacement in windsor",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 15.416666666666666
+    },
+    {
+      "query": "ac replacement madera",
+      "clicks": 0,
+      "impressions": 56,
+      "ctr": 0,
+      "position": 30.517857142857142
+    },
+    {
+      "query": "ac replacement napa ca",
+      "clicks": 0,
+      "impressions": 26,
+      "ctr": 0,
+      "position": 20.96153846153846
+    },
+    {
+      "query": "ac replacement near me",
+      "clicks": 0,
+      "impressions": 40,
+      "ctr": 0,
+      "position": 12.95
+    },
+    {
+      "query": "ac replacement santa rosa",
+      "clicks": 0,
+      "impressions": 34,
+      "ctr": 0,
+      "position": 45.794117647058826
+    },
+    {
+      "query": "ac replacement vallejo ca",
+      "clicks": 0,
+      "impressions": 31,
+      "ctr": 0,
+      "position": 26.451612903225808
+    },
+    {
+      "query": "ac replacement windsor",
+      "clicks": 0,
+      "impressions": 44,
+      "ctr": 0,
+      "position": 75.1590909090909
+    },
+    {
+      "query": "ac replacements",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "ac service",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 13.75
+    },
+    {
+      "query": "ac service & installation",
+      "clicks": 0,
+      "impressions": 32,
+      "ctr": 0,
+      "position": 19
+    },
+    {
+      "query": "ac service & installation in madera",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 32.75
+    },
+    {
+      "query": "ac service repair",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 11.375
+    },
+    {
+      "query": "ac service santa rosa",
+      "clicks": 0,
+      "impressions": 46,
+      "ctr": 0,
+      "position": 74.1086956521739
+    },
+    {
+      "query": "ac service windsor",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 82.26666666666667
+    },
+    {
+      "query": "ac services santa rosa",
+      "clicks": 0,
+      "impressions": 46,
+      "ctr": 0,
+      "position": 77.08695652173913
+    },
+    {
+      "query": "ac split unit installation",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "ac store near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "ac system replacement in madera",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 31.875
+    },
+    {
+      "query": "ac tune up santa rosa",
+      "clicks": 0,
+      "impressions": 43,
+      "ctr": 0,
+      "position": 67.97674418604652
+    },
+    {
+      "query": "ac tune up service",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 11.714285714285714
+    },
+    {
+      "query": "ac tune up specials",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 15
+    },
+    {
+      "query": "ac unit and installation",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "ac unit replacement in madera",
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 26.666666666666668
+    },
+    {
+      "query": "ac unit service near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "aero heating novato",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 37
+    },
+    {
+      "query": "affordable hvac near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "affordable natural gas installers cotati",
+      "clicks": 0,
+      "impressions": 43,
+      "ctr": 0,
+      "position": 6.813953488372093
+    },
+    {
+      "query": "affordable plumbing cotati california",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 27.75
+    },
+    {
+      "query": "affordable sump pump solutions cotati ca",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 21.875
+    },
+    {
+      "query": "affordable water damage repair services santa rosa",
+      "clicks": 0,
+      "impressions": 25,
+      "ctr": 0,
+      "position": 46.4
+    },
+    {
+      "query": "affordable water heater install cotati",
+      "clicks": 0,
+      "impressions": 44,
+      "ctr": 0,
+      "position": 6.454545454545454
+    },
+    {
+      "query": "affordable water heater service cotati",
+      "clicks": 0,
+      "impressions": 42,
+      "ctr": 0,
+      "position": 5.619047619047619
+    },
+    {
+      "query": "air and heating units",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "air comfort",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "air condition",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "air conditioner",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "air conditioner clean up",
+      "clicks": 0,
+      "impressions": 41,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "air conditioner freon leak",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 39
+    },
+    {
+      "query": "air conditioner freon leak repair",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 70
+    },
+    {
+      "query": "air conditioner inspection",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 82
+    },
+    {
+      "query": "air conditioner install near me",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "air conditioner installation",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 1.6666666666666665
+    },
+    {
+      "query": "air conditioner installation in novato",
+      "clicks": 0,
+      "impressions": 42,
+      "ctr": 0,
+      "position": 29.19047619047619
+    },
+    {
+      "query": "air conditioner installation service in novato",
+      "clicks": 0,
+      "impressions": 42,
+      "ctr": 0,
+      "position": 25.952380952380953
+    },
+    {
+      "query": "air conditioner installation windsor",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 30.5
+    },
+    {
+      "query": "air conditioner installer",
+      "clicks": 0,
+      "impressions": 51,
+      "ctr": 0,
+      "position": 26.862745098039216
+    },
+    {
+      "query": "air conditioner installer near me",
+      "clicks": 0,
+      "impressions": 49,
+      "ctr": 0,
+      "position": 27.836734693877553
+    },
+    {
+      "query": "air conditioner maintenance",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "air conditioner maintenance near me",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 39.833333333333336
+    },
+    {
+      "query": "air conditioner repair",
+      "clicks": 0,
+      "impressions": 23,
+      "ctr": 0,
+      "position": 18.73913043478261
+    },
+    {
+      "query": "air conditioner repair mill valley, ca",
+      "clicks": 0,
+      "impressions": 120,
+      "ctr": 0,
+      "position": 20.958333333333332
+    },
+    {
+      "query": "air conditioner repair near me",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 46.81818181818182
+    },
+    {
+      "query": "air conditioner repair san rafael, ca",
+      "clicks": 0,
+      "impressions": 111,
+      "ctr": 0,
+      "position": 34.387387387387385
+    },
+    {
+      "query": "air conditioner repair santa rosa",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 85.64285714285714
+    },
+    {
+      "query": "air conditioner repair santa rosa ca",
+      "clicks": 0,
+      "impressions": 79,
+      "ctr": 0,
+      "position": 85.39240506329114
+    },
+    {
+      "query": "air conditioner repair windsor",
+      "clicks": 0,
+      "impressions": 99,
+      "ctr": 0,
+      "position": 58.06060606060606
+    },
+    {
+      "query": "air conditioner repairing service",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 11.875
+    },
+    {
+      "query": "air conditioner replacement",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "air conditioner replacement windsor",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 96.1875
+    },
+    {
+      "query": "air conditioner service windsor",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 17
+    },
+    {
+      "query": "air conditioning",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 1.5555555555555556
+    },
+    {
+      "query": "air conditioning company san rafael",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 27.733333333333334
+    },
+    {
+      "query": "air conditioning contractor",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "air conditioning install near me",
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "air conditioning installation",
+      "clicks": 0,
+      "impressions": 45,
+      "ctr": 0,
+      "position": 26.6
+    },
+    {
+      "query": "air conditioning installation companies near me",
+      "clicks": 0,
+      "impressions": 31,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "air conditioning installation mill valley, ca",
+      "clicks": 0,
+      "impressions": 125,
+      "ctr": 0,
+      "position": 19.528
+    },
+    {
+      "query": "air conditioning installation petaluma ca",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 40.2
+    },
+    {
+      "query": "air conditioning installation residential",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "air conditioning installation rohnert park",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 22
+    },
+    {
+      "query": "air conditioning installation san rafael",
+      "clicks": 0,
+      "impressions": 65,
+      "ctr": 0,
+      "position": 31.153846153846153
+    },
+    {
+      "query": "air conditioning installation san rafael, ca",
+      "clicks": 0,
+      "impressions": 132,
+      "ctr": 0,
+      "position": 30.734848484848484
+    },
+    {
+      "query": "air conditioning installation santa rosa",
+      "clicks": 0,
+      "impressions": 146,
+      "ctr": 0,
+      "position": 54.06849315068493
+    },
+    {
+      "query": "air conditioning installation santa rosa ca",
+      "clicks": 0,
+      "impressions": 50,
+      "ctr": 0,
+      "position": 49.98
+    },
+    {
+      "query": "air conditioning installation service",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "air conditioning installation windsor",
+      "clicks": 0,
+      "impressions": 12,
+      "ctr": 0,
+      "position": 30.916666666666668
+    },
+    {
+      "query": "air conditioning installer",
+      "clicks": 0,
+      "impressions": 38,
+      "ctr": 0,
+      "position": 20.5
+    },
+    {
+      "query": "air conditioning installer near me",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 26.214285714285715
+    },
+    {
+      "query": "air conditioning installers santa rosa",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 52.4
+    },
+    {
+      "query": "air conditioning maintenance",
+      "clicks": 0,
+      "impressions": 14,
+      "ctr": 0,
+      "position": 23.428571428571427
+    },
+    {
+      "query": "air conditioning maintenance near me",
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 31.22222222222222
+    },
+    {
+      "query": "air conditioning maintenance near me petaluma",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 93
+    },
+    {
+      "query": "air conditioning maintenance novato",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 23.444444444444443
+    },
+    {
+      "query": "air conditioning maintenance santa rosa",
+      "clicks": 0,
+      "impressions": 35,
+      "ctr": 0,
+      "position": 59.57142857142857
+    },
+    {
+      "query": "air conditioning maintenance sebastopol",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 24
+    },
+    {
+      "query": "air conditioning maintenance windsor",
+      "clicks": 0,
+      "impressions": 36,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "air conditioning repair",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 20.9375
+    },
+    {
+      "query": "air conditioning repair in vallejo",
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 57.083333333333336
+    },
+    {
+      "query": "air conditioning repair mill valley, ca",
+      "clicks": 0,
+      "impressions": 127,
+      "ctr": 0,
+      "position": 20.614173228346456
+    },
+    {
+      "query": "air conditioning repair near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 41.5
+    },
+    {
+      "query": "air conditioning repair riley",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 78
+    },
+    {
+      "query": "air conditioning repair rohnert park",
+      "clicks": 0,
+      "impressions": 52,
+      "ctr": 0,
+      "position": 23.21153846153846
+    },
+    {
+      "query": "air conditioning repair san rafael",
+      "clicks": 0,
+      "impressions": 103,
+      "ctr": 0,
+      "position": 31.58252427184466
+    },
+    {
+      "query": "air conditioning repair san rafael, ca",
+      "clicks": 0,
+      "impressions": 127,
+      "ctr": 0,
+      "position": 36.14173228346457
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:22:16.338Z"
 }

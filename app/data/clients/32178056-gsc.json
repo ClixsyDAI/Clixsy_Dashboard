@@ -1,156 +1,16 @@
 {
   "property": "sc-domain:reimerhvac.com",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 14262,
-    "impressions": 4881923,
-    "ctr": 0.0029213897884091985,
-    "position": 17.053175213113555
+    "clicks": 13954,
+    "impressions": 4789637,
+    "ctr": 0.00291337318464844,
+    "position": 17.17606338852565
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 257,
-      "impressions": 50340,
-      "ctr": 0.00510528406833532,
-      "position": 14.783909415971394
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 168,
-      "impressions": 46607,
-      "ctr": 0.00360460874975862,
-      "position": 16.113094599523677
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 155,
-      "impressions": 39725,
-      "ctr": 0.0039018250471994967,
-      "position": 14.403801132787917
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 168,
-      "impressions": 49206,
-      "ctr": 0.003414217778319717,
-      "position": 17.17467382026582
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 145,
-      "impressions": 51365,
-      "ctr": 0.0028229339044096176,
-      "position": 19.550472111359877
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 101,
-      "impressions": 51731,
-      "ctr": 0.0019524076472521312,
-      "position": 20.327289246293326
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 125,
-      "impressions": 43603,
-      "ctr": 0.002866775221888402,
-      "position": 17.817535490677248
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 136,
-      "impressions": 41144,
-      "ctr": 0.0033054637371184134,
-      "position": 16.5392766867587
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 114,
-      "impressions": 40907,
-      "ctr": 0.002786809103576405,
-      "position": 18.36150292126042
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 72,
-      "impressions": 35897,
-      "ctr": 0.0020057386411120705,
-      "position": 20.169847062428616
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 68,
-      "impressions": 37508,
-      "ctr": 0.0018129465713981018,
-      "position": 16.815559347339235
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 136,
-      "impressions": 41607,
-      "ctr": 0.003268680750835196,
-      "position": 19.83916167952508
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 114,
-      "impressions": 39316,
-      "ctr": 0.002899582867026147,
-      "position": 16.83139179977617
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 134,
-      "impressions": 42360,
-      "ctr": 0.0031633616619452312,
-      "position": 17.189683663833804
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 203,
-      "impressions": 44021,
-      "ctr": 0.004611435451261897,
-      "position": 15.641784602803208
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 197,
-      "impressions": 45807,
-      "ctr": 0.0043006527386643964,
-      "position": 17.886523893728032
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 125,
-      "impressions": 37973,
-      "ctr": 0.003291812603692097,
-      "position": 18.75377241724383
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 132,
-      "impressions": 53051,
-      "ctr": 0.0024881717592505326,
-      "position": 18.88441311191118
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 152,
-      "impressions": 40112,
-      "ctr": 0.003789389708815317,
-      "position": 15.27682489030714
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 146,
-      "impressions": 38678,
-      "ctr": 0.003774755675060758,
-      "position": 15.961554371994415
-    },
     {
       "date": "2026-01-04",
       "clicks": 128,
@@ -640,711 +500,3314 @@
       "impressions": 29205,
       "ctr": 0.0030474233864064373,
       "position": 17.873206642698168
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 101,
+      "impressions": 29607,
+      "ctr": 0.00341135542270409,
+      "position": 16.84939372445705
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 152,
+      "impressions": 31757,
+      "ctr": 0.004786346317347356,
+      "position": 16.599174985042666
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 166,
+      "impressions": 32489,
+      "ctr": 0.005109421650404752,
+      "position": 16.471975130044015
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 127,
+      "impressions": 33337,
+      "ctr": 0.0038095809460959294,
+      "position": 18.114167441581426
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 121,
+      "impressions": 35796,
+      "ctr": 0.0033802659515029614,
+      "position": 16.500251424740192
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 96,
+      "impressions": 30961,
+      "ctr": 0.0031006750427957754,
+      "position": 17.00581376570524
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 67,
+      "impressions": 31590,
+      "ctr": 0.0021209243431465656,
+      "position": 18.41690408357075
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 120,
+      "impressions": 36357,
+      "ctr": 0.0033006023599306874,
+      "position": 18.580603460131474
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 159,
+      "impressions": 36653,
+      "ctr": 0.004337980520012005,
+      "position": 19.243799961803944
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 145,
+      "impressions": 36971,
+      "ctr": 0.003921992913364529,
+      "position": 17.99534770495794
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 115,
+      "impressions": 46340,
+      "ctr": 0.0024816573154941737,
+      "position": 28.341303409581354
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 111,
+      "impressions": 51324,
+      "ctr": 0.0021627308861351413,
+      "position": 21.90850284467306
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 98,
+      "impressions": 37554,
+      "ctr": 0.0026095755445491825,
+      "position": 18.22956276295468
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 97,
+      "impressions": 38298,
+      "ctr": 0.002532769335213327,
+      "position": 19.21682594391352
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 86,
+      "impressions": 40683,
+      "ctr": 0.002113905070914141,
+      "position": 19.491261706363836
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 153,
+      "impressions": 36017,
+      "ctr": 0.004247994002831996,
+      "position": 18.374406530249605
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 139,
+      "impressions": 33484,
+      "ctr": 0.0041512364114203795,
+      "position": 17.469925934774817
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 152,
+      "impressions": 53809,
+      "ctr": 0.002824806259175974,
+      "position": 11.601758070211304
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 148,
+      "impressions": 50877,
+      "ctr": 0.002908976551290367,
+      "position": 10.714350295811467
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 108,
+      "impressions": 27545,
+      "ctr": 0.0039208567798148485,
+      "position": 18.349246687239063
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 79,
+      "impressions": 27223,
+      "ctr": 0.0029019579032435808,
+      "position": 17.083495573595858
     }
   ],
   "topQueries": [
     {
       "query": "reimer heating and cooling",
-      "clicks": 704,
-      "impressions": 4425,
-      "ctr": 0.15909604519774012,
-      "position": 1.5324293785310734
+      "clicks": 690,
+      "impressions": 4484,
+      "ctr": 0.15388046387154328,
+      "position": 1.476806422836753
     },
     {
       "query": "reimer heating",
-      "clicks": 664,
-      "impressions": 4295,
-      "ctr": 0.15459837019790454,
-      "position": 1.2160651920838184
+      "clicks": 688,
+      "impressions": 4338,
+      "ctr": 0.1585984324573536,
+      "position": 1.186030428769018
     },
     {
       "query": "reimer",
-      "clicks": 538,
-      "impressions": 5124,
-      "ctr": 0.1049960967993755,
-      "position": 6.3097189695550355
+      "clicks": 562,
+      "impressions": 4324,
+      "ctr": 0.1299722479185939,
+      "position": 6.874190564292322
     },
     {
       "query": "reimer plumbing",
-      "clicks": 356,
-      "impressions": 2674,
-      "ctr": 0.13313388182498131,
-      "position": 2.0848915482423336
+      "clicks": 351,
+      "impressions": 2657,
+      "ctr": 0.13210387655250283,
+      "position": 2.07677832141513
     },
     {
       "query": "reimer home services",
-      "clicks": 302,
-      "impressions": 1639,
-      "ctr": 0.1842586943258084,
-      "position": 1.3026235509456985
+      "clicks": 298,
+      "impressions": 1558,
+      "ctr": 0.19127086007702182,
+      "position": 1.2252888318356867
     },
     {
       "query": "reimer electric",
-      "clicks": 157,
-      "impressions": 577,
-      "ctr": 0.2720970537261698,
-      "position": 1.6932409012131715
+      "clicks": 161,
+      "impressions": 566,
+      "ctr": 0.284452296819788,
+      "position": 1.8197879858657244
     },
     {
       "query": "reimer hvac",
-      "clicks": 100,
-      "impressions": 458,
-      "ctr": 0.2183406113537118,
-      "position": 8.633187772925764
+      "clicks": 110,
+      "impressions": 453,
+      "ctr": 0.24282560706401765,
+      "position": 6.71523178807947
     },
     {
       "query": "reimer electrical",
-      "clicks": 76,
-      "impressions": 189,
-      "ctr": 0.4021164021164021,
-      "position": 4.915343915343915
+      "clicks": 89,
+      "impressions": 195,
+      "ctr": 0.4564102564102564,
+      "position": 5.466666666666667
     },
     {
       "query": "reimer heating, cooling & plumbing",
-      "clicks": 57,
-      "impressions": 2771,
-      "ctr": 0.020570191266690727,
-      "position": 1.087333092746301
-    },
-    {
-      "query": "how does radiant heat work",
-      "clicks": 50,
-      "impressions": 1410,
-      "ctr": 0.03546099290780142,
-      "position": 2.000709219858156
-    },
-    {
-      "query": "reimer rochester",
-      "clicks": 49,
-      "impressions": 665,
-      "ctr": 0.07368421052631578,
-      "position": 2.1593984962406014
+      "clicks": 60,
+      "impressions": 2762,
+      "ctr": 0.02172338884866039,
+      "position": 1.0901520637219406
     },
     {
       "query": "reimer albany",
-      "clicks": 48,
-      "impressions": 221,
-      "ctr": 0.2171945701357466,
-      "position": 5.846153846153846
+      "clicks": 51,
+      "impressions": 214,
+      "ctr": 0.2383177570093458,
+      "position": 6.009345794392523
+    },
+    {
+      "query": "reimer rochester",
+      "clicks": 42,
+      "impressions": 714,
+      "ctr": 0.058823529411764705,
+      "position": 2.0812324929971986
     },
     {
       "query": "riemer plumbing",
+      "clicks": 42,
+      "impressions": 349,
+      "ctr": 0.12034383954154727,
+      "position": 2.2234957020057307
+    },
+    {
+      "query": "how does radiant heat work",
       "clicks": 40,
-      "impressions": 325,
-      "ctr": 0.12307692307692308,
-      "position": 2.2800000000000002
-    },
-    {
-      "query": "furnace repair near me",
-      "clicks": 38,
-      "impressions": 9193,
-      "ctr": 0.004133579897748286,
-      "position": 18.01642554117263
-    },
-    {
-      "query": "reimer heating & cooling",
-      "clicks": 37,
-      "impressions": 105,
-      "ctr": 0.3523809523809524,
-      "position": 2.9523809523809526
+      "impressions": 1271,
+      "ctr": 0.03147128245476003,
+      "position": 2.216365066876475
     },
     {
       "query": "reimer heating, cooling & plumbing, llc",
-      "clicks": 36,
-      "impressions": 1782,
-      "ctr": 0.020202020202020204,
-      "position": 1.0707070707070707
+      "clicks": 39,
+      "impressions": 1828,
+      "ctr": 0.021334792122538294,
+      "position": 1.074945295404814
     },
     {
       "query": "reimer heating, cooling & plumbing, llc reviews",
-      "clicks": 36,
-      "impressions": 375,
-      "ctr": 0.096,
-      "position": 2.2880000000000003
+      "clicks": 37,
+      "impressions": 381,
+      "ctr": 0.09711286089238845,
+      "position": 2.3412073490813645
     },
     {
-      "query": "furnace light blinking",
+      "query": "reimer home services rochester ny",
+      "clicks": 37,
+      "impressions": 143,
+      "ctr": 0.25874125874125875,
+      "position": 1.3986013986013985
+    },
+    {
+      "query": "furnace repair near me",
       "clicks": 32,
-      "impressions": 1041,
-      "ctr": 0.03073967339097022,
-      "position": 1.6791546589817483
+      "impressions": 9432,
+      "ctr": 0.0033927056827820186,
+      "position": 19.31605173876166
     },
     {
       "query": "reimer buffalo",
       "clicks": 32,
-      "impressions": 233,
-      "ctr": 0.13733905579399142,
-      "position": 2.3819742489270386
-    },
-    {
-      "query": "reimer home services rochester ny",
-      "clicks": 30,
-      "impressions": 125,
-      "ctr": 0.24,
-      "position": 1.32
-    },
-    {
-      "query": "plumbers near me",
-      "clicks": 29,
-      "impressions": 4087,
-      "ctr": 0.007095669195008564,
-      "position": 11.671641791044776
+      "impressions": 210,
+      "ctr": 0.1523809523809524,
+      "position": 2.019047619047619
     },
     {
       "query": "reimer heating and cooling buffalo ny",
-      "clicks": 29,
-      "impressions": 371,
-      "ctr": 0.07816711590296496,
-      "position": 16.60377358490566
+      "clicks": 32,
+      "impressions": 276,
+      "ctr": 0.11594202898550725,
+      "position": 11.083333333333334
     },
     {
-      "query": "buzzing sound in wall",
-      "clicks": 24,
-      "impressions": 874,
-      "ctr": 0.02745995423340961,
-      "position": 2.139588100686499
+      "query": "reimer heating & cooling",
+      "clicks": 31,
+      "impressions": 94,
+      "ctr": 0.32978723404255317,
+      "position": 4.0212765957446805
     },
     {
-      "query": "riemer",
-      "clicks": 24,
-      "impressions": 81,
-      "ctr": 0.2962962962962963,
-      "position": 1.8518518518518519
+      "query": "furnace light blinking",
+      "clicks": 27,
+      "impressions": 907,
+      "ctr": 0.029768467475192944,
+      "position": 1.8191841234840131
     },
     {
-      "query": "reimer heating and cooling rochester ny",
-      "clicks": 21,
-      "impressions": 159,
-      "ctr": 0.1320754716981132,
-      "position": 4.955974842767295
-    },
-    {
-      "query": "reimer plumbing buffalo ny",
-      "clicks": 21,
-      "impressions": 131,
-      "ctr": 0.16030534351145037,
-      "position": 21.236641221374047
-    },
-    {
-      "query": "reimer plumbing rochester ny",
-      "clicks": 21,
-      "impressions": 106,
-      "ctr": 0.19811320754716982,
-      "position": 1.009433962264151
-    },
-    {
-      "query": "rimer plumbing",
-      "clicks": 21,
-      "impressions": 97,
-      "ctr": 0.21649484536082475,
-      "position": 3.2577319587628866
-    },
-    {
-      "query": "how to tell if you have a water leak underground",
-      "clicks": 20,
-      "impressions": 1257,
-      "ctr": 0.015910898965791568,
-      "position": 4.747812251392204
-    },
-    {
-      "query": "reimer heating cooling & plumbing",
-      "clicks": 19,
-      "impressions": 128,
-      "ctr": 0.1484375,
-      "position": 5.421875
+      "query": "plumbers near me",
+      "clicks": 27,
+      "impressions": 4577,
+      "ctr": 0.00589906051999126,
+      "position": 10.516932488529605
     },
     {
       "query": "reimer plumbing albany ny",
-      "clicks": 19,
-      "impressions": 101,
-      "ctr": 0.18811881188118812,
-      "position": 9.613861386138614
+      "clicks": 24,
+      "impressions": 111,
+      "ctr": 0.21621621621621623,
+      "position": 8.567567567567568
     },
     {
-      "query": "hvac companies near me",
-      "clicks": 18,
-      "impressions": 2048,
-      "ctr": 0.0087890625,
-      "position": 8.45556640625
+      "query": "buzzing sound in wall",
+      "clicks": 23,
+      "impressions": 878,
+      "ctr": 0.02619589977220957,
+      "position": 1.8109339407744875
     },
     {
-      "query": "who owns reimer heating and cooling",
-      "clicks": 17,
-      "impressions": 88,
-      "ctr": 0.19318181818181818,
-      "position": 1.5681818181818183
+      "query": "reimer heating and cooling rochester ny",
+      "clicks": 22,
+      "impressions": 175,
+      "ctr": 0.12571428571428572,
+      "position": 7.222857142857142
+    },
+    {
+      "query": "riemer",
+      "clicks": 22,
+      "impressions": 82,
+      "ctr": 0.2682926829268293,
+      "position": 1.6707317073170733
+    },
+    {
+      "query": "rimer plumbing",
+      "clicks": 22,
+      "impressions": 113,
+      "ctr": 0.19469026548672566,
+      "position": 3.3716814159292037
     },
     {
       "query": "excellent air",
-      "clicks": 16,
-      "impressions": 158,
-      "ctr": 0.10126582278481013,
-      "position": 3.5569620253164556
+      "clicks": 20,
+      "impressions": 190,
+      "ctr": 0.10526315789473684,
+      "position": 3.4368421052631577
+    },
+    {
+      "query": "reimer heating cooling & plumbing",
+      "clicks": 20,
+      "impressions": 117,
+      "ctr": 0.17094017094017094,
+      "position": 5.239316239316239
     },
     {
       "query": "reimer rochester ny",
-      "clicks": 16,
-      "impressions": 133,
-      "ctr": 0.12030075187969924,
+      "clicks": 18,
+      "impressions": 118,
+      "ctr": 0.15254237288135594,
       "position": 1
     },
     {
-      "query": "all star plumbing",
-      "clicks": 13,
-      "impressions": 741,
-      "ctr": 0.017543859649122806,
-      "position": 17.327935222672064
+      "query": "reimer plumbing rochester ny",
+      "clicks": 17,
+      "impressions": 93,
+      "ctr": 0.1827956989247312,
+      "position": 1.010752688172043
     },
     {
-      "query": "j & m schwarz heating & cooling inc",
-      "clicks": 13,
-      "impressions": 55,
-      "ctr": 0.23636363636363636,
-      "position": 2.2363636363636363
+      "query": "how to tell if you have a water leak underground",
+      "clicks": 16,
+      "impressions": 969,
+      "ctr": 0.016511867905056758,
+      "position": 6.398348813209494
     },
     {
-      "query": "reimer plumbing and heating",
-      "clicks": 13,
-      "impressions": 107,
-      "ctr": 0.12149532710280374,
-      "position": 3.560747663551402
+      "query": "hvac companies near me",
+      "clicks": 16,
+      "impressions": 2076,
+      "ctr": 0.007707129094412331,
+      "position": 7.7129094412331405
     },
     {
-      "query": "hvac near me",
-      "clicks": 12,
-      "impressions": 2081,
-      "ctr": 0.005766458433445459,
-      "position": 5.969245555021624
-    },
-    {
-      "query": "main circuit breaker",
-      "clicks": 12,
-      "impressions": 4522,
-      "ctr": 0.0026536930561698365,
-      "position": 1.7808491817779744
+      "query": "reimer plumbing buffalo ny",
+      "clicks": 15,
+      "impressions": 110,
+      "ctr": 0.13636363636363635,
+      "position": 17.418181818181818
     },
     {
       "query": "noise between the walls",
-      "clicks": 12,
-      "impressions": 2591,
-      "ctr": 0.004631416441528367,
-      "position": 4.678888460054033
+      "clicks": 14,
+      "impressions": 3032,
+      "ctr": 0.004617414248021108,
+      "position": 4.986807387862797
+    },
+    {
+      "query": "who owns reimer heating and cooling",
+      "clicks": 14,
+      "impressions": 85,
+      "ctr": 0.16470588235294117,
+      "position": 1.5647058823529412
+    },
+    {
+      "query": "hvac near me",
+      "clicks": 13,
+      "impressions": 2192,
+      "ctr": 0.005930656934306569,
+      "position": 5.891423357664234
     },
     {
       "query": "reimer buffalo ny",
-      "clicks": 12,
-      "impressions": 54,
-      "ctr": 0.2222222222222222,
-      "position": 1.0555555555555556
-    },
-    {
-      "query": "water pressure regulator",
-      "clicks": 12,
-      "impressions": 9351,
-      "ctr": 0.0012832852101379532,
-      "position": 9.488076141589135
-    },
-    {
-      "query": "main circuit breaker for house",
-      "clicks": 11,
-      "impressions": 902,
-      "ctr": 0.012195121951219513,
-      "position": 1.2904656319290466
-    },
-    {
-      "query": "reimer plumbing reviews",
-      "clicks": 11,
-      "impressions": 205,
-      "ctr": 0.05365853658536585,
-      "position": 4.878048780487805
+      "clicks": 13,
+      "impressions": 55,
+      "ctr": 0.23636363636363636,
+      "position": 1.0363636363636364
     },
     {
       "query": "blinking light on furnace",
-      "clicks": 10,
-      "impressions": 584,
-      "ctr": 0.017123287671232876,
-      "position": 1.4623287671232876
+      "clicks": 12,
+      "impressions": 512,
+      "ctr": 0.0234375,
+      "position": 1.42578125
     },
     {
       "query": "no cold water",
-      "clicks": 10,
-      "impressions": 877,
-      "ctr": 0.011402508551881414,
-      "position": 13.696693272519955
+      "clicks": 12,
+      "impressions": 835,
+      "ctr": 0.01437125748502994,
+      "position": 13.191616766467066
     },
     {
-      "query": "toilet water level low",
-      "clicks": 10,
-      "impressions": 2474,
-      "ctr": 0.004042037186742118,
-      "position": 2.6552142279708972
+      "query": "reimer plumbing reviews",
+      "clicks": 12,
+      "impressions": 222,
+      "ctr": 0.05405405405405406,
+      "position": 4.945945945945946
     },
     {
-      "query": "air scrubber",
-      "clicks": 9,
-      "impressions": 1697,
-      "ctr": 0.005303476723629935,
-      "position": 2.073659398939305
+      "query": "reimers",
+      "clicks": 12,
+      "impressions": 357,
+      "ctr": 0.03361344537815126,
+      "position": 5.176470588235294
+    },
+    {
+      "query": "reimer plumbing and heating",
+      "clicks": 11,
+      "impressions": 92,
+      "ctr": 0.11956521739130435,
+      "position": 3.7717391304347827
+    },
+    {
+      "query": "all star plumbing",
+      "clicks": 10,
+      "impressions": 689,
+      "ctr": 0.01451378809869376,
+      "position": 18.609579100145137
     },
     {
       "query": "hvac rochester ny",
+      "clicks": 10,
+      "impressions": 1025,
+      "ctr": 0.00975609756097561,
+      "position": 14.85170731707317
+    },
+    {
+      "query": "no cold water in shower",
+      "clicks": 10,
+      "impressions": 836,
+      "ctr": 0.011961722488038277,
+      "position": 1.9569377990430623
+    },
+    {
+      "query": "plumber near me",
+      "clicks": 10,
+      "impressions": 12204,
+      "ctr": 0.0008194034742707309,
+      "position": 17.647082923631597
+    },
+    {
+      "query": "reimer heating, cooling and plumbing, llc rochester",
+      "clicks": 10,
+      "impressions": 46,
+      "ctr": 0.21739130434782608,
+      "position": 1
+    },
+    {
+      "query": "reimer home services reviews",
+      "clicks": 10,
+      "impressions": 1158,
+      "ctr": 0.008635578583765112,
+      "position": 4.5500863557858375
+    },
+    {
+      "query": "reiner plumbing",
+      "clicks": 10,
+      "impressions": 87,
+      "ctr": 0.11494252873563218,
+      "position": 3.3908045977011496
+    },
+    {
+      "query": "main circuit breaker",
       "clicks": 9,
-      "impressions": 986,
-      "ctr": 0.009127789046653144,
-      "position": 15.528397565922921
+      "impressions": 3580,
+      "ctr": 0.0025139664804469273,
+      "position": 1.8935754189944134
+    },
+    {
+      "query": "reimer clifton park",
+      "clicks": 9,
+      "impressions": 38,
+      "ctr": 0.23684210526315788,
+      "position": 1
+    },
+    {
+      "query": "water pressure regulator",
+      "clicks": 9,
+      "impressions": 7358,
+      "ctr": 0.0012231584669747215,
+      "position": 10.086164718673553
+    },
+    {
+      "query": "main circuit breaker for house",
+      "clicks": 8,
+      "impressions": 704,
+      "ctr": 0.011363636363636364,
+      "position": 1.3039772727272727
+    },
+    {
+      "query": "plumbing in exterior walls code",
+      "clicks": 8,
+      "impressions": 277,
+      "ctr": 0.02888086642599278,
+      "position": 4.364620938628159
+    },
+    {
+      "query": "reimer heating reviews",
+      "clicks": 8,
+      "impressions": 69,
+      "ctr": 0.11594202898550725,
+      "position": 2.6521739130434785
+    },
+    {
+      "query": "services offered by reimer home services",
+      "clicks": 8,
+      "impressions": 55,
+      "ctr": 0.14545454545454545,
+      "position": 1.5454545454545454
+    },
+    {
+      "query": "air scrubber",
+      "clicks": 7,
+      "impressions": 1633,
+      "ctr": 0.004286589099816289,
+      "position": 2.1843233312921004
+    },
+    {
+      "query": "can plumbing be on an exterior wall",
+      "clicks": 7,
+      "impressions": 185,
+      "ctr": 0.03783783783783784,
+      "position": 3.2864864864864867
+    },
+    {
+      "query": "furnace light flashing",
+      "clicks": 7,
+      "impressions": 305,
+      "ctr": 0.022950819672131147,
+      "position": 1.4327868852459016
+    },
+    {
+      "query": "heating and cooling buffalo ny",
+      "clicks": 7,
+      "impressions": 1303,
+      "ctr": 0.005372217958557176,
+      "position": 18
+    },
+    {
+      "query": "heating and cooling near me",
+      "clicks": 7,
+      "impressions": 3562,
+      "ctr": 0.0019651880965749578,
+      "position": 12.06625491297024
+    },
+    {
+      "query": "reimer horn",
+      "clicks": 7,
+      "impressions": 71,
+      "ctr": 0.09859154929577464,
+      "position": 1.1126760563380282
+    },
+    {
+      "query": "remer plumbing",
+      "clicks": 7,
+      "impressions": 87,
+      "ctr": 0.08045977011494253,
+      "position": 13.64367816091954
+    },
+    {
+      "query": "rhimer",
+      "clicks": 7,
+      "impressions": 35,
+      "ctr": 0.2,
+      "position": 5.3428571428571425
+    },
+    {
+      "query": "bubbles coming up from sink drain",
+      "clicks": 6,
+      "impressions": 70,
+      "ctr": 0.08571428571428572,
+      "position": 1.7428571428571429
+    },
+    {
+      "query": "buzzing sound in house",
+      "clicks": 6,
+      "impressions": 226,
+      "ctr": 0.02654867256637168,
+      "position": 2.9026548672566372
+    },
+    {
+      "query": "excellent air heating and cooling",
+      "clicks": 6,
+      "impressions": 120,
+      "ctr": 0.05,
+      "position": 3.6333333333333333
+    },
+    {
+      "query": "furnace light is blinking",
+      "clicks": 6,
+      "impressions": 53,
+      "ctr": 0.11320754716981132,
+      "position": 1.9433962264150944
+    },
+    {
+      "query": "heating and cooling rochester ny",
+      "clicks": 6,
+      "impressions": 825,
+      "ctr": 0.007272727272727273,
+      "position": 15.484848484848484
+    },
+    {
+      "query": "hvac",
+      "clicks": 6,
+      "impressions": 898,
+      "ctr": 0.0066815144766146995,
+      "position": 6.673719376391982
+    },
+    {
+      "query": "j & m schwarz heating & cooling inc",
+      "clicks": 6,
+      "impressions": 41,
+      "ctr": 0.14634146341463414,
+      "position": 2.5365853658536586
+    },
+    {
+      "query": "main breaker",
+      "clicks": 6,
+      "impressions": 6729,
+      "ctr": 0.0008916629514043691,
+      "position": 1.8487145192450587
+    },
+    {
+      "query": "no cold water in house",
+      "clicks": 6,
+      "impressions": 628,
+      "ctr": 0.009554140127388535,
+      "position": 3.7229299363057327
+    },
+    {
+      "query": "plumbers clifton park",
+      "clicks": 6,
+      "impressions": 272,
+      "ctr": 0.022058823529411766,
+      "position": 1.4779411764705883
+    },
+    {
+      "query": "reimer heating and cooling reviews",
+      "clicks": 6,
+      "impressions": 252,
+      "ctr": 0.023809523809523808,
+      "position": 6.373015873015873
+    },
+    {
+      "query": "reimer heating cooling and plumbing llc schenectady reviews",
+      "clicks": 6,
+      "impressions": 993,
+      "ctr": 0.006042296072507553,
+      "position": 3.4773413897280965
+    },
+    {
+      "query": "reiner heating and cooling",
+      "clicks": 6,
+      "impressions": 61,
+      "ctr": 0.09836065573770492,
+      "position": 6.311475409836065
+    },
+    {
+      "query": "remeir",
+      "clicks": 6,
+      "impressions": 26,
+      "ctr": 0.23076923076923078,
+      "position": 5.115384615384615
+    },
+    {
+      "query": "shut off valve",
+      "clicks": 6,
+      "impressions": 8021,
+      "ctr": 0.0007480364044383493,
+      "position": 8.49083655404563
+    },
+    {
+      "query": "sump pump",
+      "clicks": 6,
+      "impressions": 43271,
+      "ctr": 0.00013866099697256823,
+      "position": 4.335074299184211
+    },
+    {
+      "query": "why do plumbers put pipes in exterior walls?",
+      "clicks": 6,
+      "impressions": 804,
+      "ctr": 0.007462686567164179,
+      "position": 1.8395522388059702
+    },
+    {
+      "query": "buzzing noise in wall",
+      "clicks": 5,
+      "impressions": 264,
+      "ctr": 0.01893939393939394,
+      "position": 1.871212121212121
+    },
+    {
+      "query": "furnace banging noise",
+      "clicks": 5,
+      "impressions": 460,
+      "ctr": 0.010869565217391304,
+      "position": 3.95
+    },
+    {
+      "query": "furnace repair",
+      "clicks": 5,
+      "impressions": 135191,
+      "ctr": 0.00003698471052067075,
+      "position": 35.76334223432033
+    },
+    {
+      "query": "home water pressure regulator",
+      "clicks": 5,
+      "impressions": 550,
+      "ctr": 0.00909090909090909,
+      "position": 12.243636363636364
+    },
+    {
+      "query": "light blinking on furnace",
+      "clicks": 5,
+      "impressions": 242,
+      "ctr": 0.02066115702479339,
+      "position": 1.4173553719008265
+    },
+    {
+      "query": "plumbing",
+      "clicks": 5,
+      "impressions": 2512,
+      "ctr": 0.0019904458598726115,
+      "position": 38.37141719745223
+    },
+    {
+      "query": "plumbing companies near me",
+      "clicks": 5,
+      "impressions": 2540,
+      "ctr": 0.001968503937007874,
+      "position": 18.90748031496063
+    },
+    {
+      "query": "reimer heating cooling",
+      "clicks": 5,
+      "impressions": 38,
+      "ctr": 0.13157894736842105,
+      "position": 4
+    },
+    {
+      "query": "reimer heating lawsuit",
+      "clicks": 5,
+      "impressions": 233,
+      "ctr": 0.02145922746781116,
+      "position": 4.600858369098713
+    },
+    {
+      "query": "reimer heating, cooling & plumbing reviews",
+      "clicks": 5,
+      "impressions": 84,
+      "ctr": 0.05952380952380952,
+      "position": 2.583333333333333
+    },
+    {
+      "query": "reimer reviews",
+      "clicks": 5,
+      "impressions": 143,
+      "ctr": 0.03496503496503497,
+      "position": 4
+    },
+    {
+      "query": "reimers plumbing",
+      "clicks": 5,
+      "impressions": 45,
+      "ctr": 0.1111111111111111,
+      "position": 1.6222222222222222
+    },
+    {
+      "query": "reiner heating",
+      "clicks": 5,
+      "impressions": 35,
+      "ctr": 0.14285714285714285,
+      "position": 4.4
+    },
+    {
+      "query": "toilet water level low",
+      "clicks": 5,
+      "impressions": 2160,
+      "ctr": 0.0023148148148148147,
+      "position": 2.95462962962963
+    },
+    {
+      "query": "vibrating sound in wall",
+      "clicks": 5,
+      "impressions": 283,
+      "ctr": 0.0176678445229682,
+      "position": 2.07773851590106
+    },
+    {
+      "query": "banging noise from furnace",
+      "clicks": 4,
+      "impressions": 358,
+      "ctr": 0.0111731843575419,
+      "position": 2.9078212290502794
+    },
+    {
+      "query": "bubbles coming out of sink overflow",
+      "clicks": 4,
+      "impressions": 52,
+      "ctr": 0.07692307692307693,
+      "position": 1.0576923076923077
+    },
+    {
+      "query": "condensation cuvette wc",
+      "clicks": 4,
+      "impressions": 18,
+      "ctr": 0.2222222222222222,
+      "position": 2
+    },
+    {
+      "query": "dropped something down bathtub drain",
+      "clicks": 4,
+      "impressions": 233,
+      "ctr": 0.017167381974248927,
+      "position": 3.532188841201717
+    },
+    {
+      "query": "emergency furnace repair",
+      "clicks": 4,
+      "impressions": 211,
+      "ctr": 0.018957345971563982,
+      "position": 13.218009478672986
+    },
+    {
+      "query": "furnace light blinking continuously",
+      "clicks": 4,
+      "impressions": 193,
+      "ctr": 0.02072538860103627,
+      "position": 1.528497409326425
+    },
+    {
+      "query": "furnace making banging noise",
+      "clicks": 4,
+      "impressions": 722,
+      "ctr": 0.00554016620498615,
+      "position": 7.919667590027701
+    },
+    {
+      "query": "gas furnace light blinking",
+      "clicks": 4,
+      "impressions": 56,
+      "ctr": 0.07142857142857142,
+      "position": 1.6607142857142856
+    },
+    {
+      "query": "gfci outlet",
+      "clicks": 4,
+      "impressions": 2258,
+      "ctr": 0.001771479185119575,
+      "position": 9.377325066430469
+    },
+    {
+      "query": "home circuit breaker",
+      "clicks": 4,
+      "impressions": 782,
+      "ctr": 0.005115089514066497,
+      "position": 4.28772378516624
+    },
+    {
+      "query": "house circuit breaker",
+      "clicks": 4,
+      "impressions": 690,
+      "ctr": 0.005797101449275362,
+      "position": 2.6927536231884055
+    },
+    {
+      "query": "humming in walls",
+      "clicks": 4,
+      "impressions": 91,
+      "ctr": 0.04395604395604396,
+      "position": 1.901098901098901
+    },
+    {
+      "query": "hvac companies albany ny",
+      "clicks": 4,
+      "impressions": 208,
+      "ctr": 0.019230769230769232,
+      "position": 9.83173076923077
+    },
+    {
+      "query": "hvac light blinking",
+      "clicks": 4,
+      "impressions": 84,
+      "ctr": 0.047619047619047616,
+      "position": 1.9523809523809523
+    },
+    {
+      "query": "is low water level in toilet bowl dangerous",
+      "clicks": 4,
+      "impressions": 478,
+      "ctr": 0.008368200836820083,
+      "position": 1.5711297071129708
+    },
+    {
+      "query": "loud buzzing noise in house",
+      "clicks": 4,
+      "impressions": 171,
+      "ctr": 0.023391812865497075,
+      "position": 2.8128654970760234
+    },
+    {
+      "query": "main circuit breaker panel",
+      "clicks": 4,
+      "impressions": 185,
+      "ctr": 0.021621621621621623,
+      "position": 3.32972972972973
+    },
+    {
+      "query": "random buzzing sound in house",
+      "clicks": 4,
+      "impressions": 93,
+      "ctr": 0.043010752688172046,
+      "position": 2.161290322580645
+    },
+    {
+      "query": "reimer heating and air conditioning",
+      "clicks": 4,
+      "impressions": 23,
+      "ctr": 0.17391304347826086,
+      "position": 1.5652173913043477
+    },
+    {
+      "query": "reimer jobs",
+      "clicks": 4,
+      "impressions": 5,
+      "ctr": 0.8,
+      "position": 1.6
+    },
+    {
+      "query": "reiner plumbing and heating",
+      "clicks": 4,
+      "impressions": 20,
+      "ctr": 0.2,
+      "position": 3.3
+    },
+    {
+      "query": "rheimer",
+      "clicks": 4,
+      "impressions": 28,
+      "ctr": 0.14285714285714285,
+      "position": 3.25
+    },
+    {
+      "query": "rymer heating",
+      "clicks": 4,
+      "impressions": 29,
+      "ctr": 0.13793103448275862,
+      "position": 6.448275862068965
+    },
+    {
+      "query": "services offered by reimer heating, cooling & plumbing, llc",
+      "clicks": 4,
+      "impressions": 19,
+      "ctr": 0.21052631578947367,
+      "position": 1.368421052631579
+    },
+    {
+      "query": "tankless water heater installation near me",
+      "clicks": 4,
+      "impressions": 2260,
+      "ctr": 0.0017699115044247787,
+      "position": 33.03716814159292
+    },
+    {
+      "query": "water in toilet bowl low",
+      "clicks": 4,
+      "impressions": 1029,
+      "ctr": 0.003887269193391642,
+      "position": 3.132167152575316
+    },
+    {
+      "query": "what does the blinking light on my furnace mean",
+      "clicks": 4,
+      "impressions": 89,
+      "ctr": 0.0449438202247191,
+      "position": 1.651685393258427
+    },
+    {
+      "query": "what's a gfci outlet",
+      "clicks": 4,
+      "impressions": 188,
+      "ctr": 0.02127659574468085,
+      "position": 3.132978723404255
+    },
+    {
+      "query": "why is the water in my toilet bowl low",
+      "clicks": 4,
+      "impressions": 836,
+      "ctr": 0.004784688995215311,
+      "position": 2.02511961722488
+    },
+    {
+      "query": "why is toilet bowl water low",
+      "clicks": 4,
+      "impressions": 308,
+      "ctr": 0.012987012987012988,
+      "position": 1.9188311688311688
+    },
+    {
+      "query": "24 hour furnace repair",
+      "clicks": 3,
+      "impressions": 165,
+      "ctr": 0.01818181818181818,
+      "position": 42.527272727272724
+    },
+    {
+      "query": "24/7 boiler service",
+      "clicks": 3,
+      "impressions": 7,
+      "ctr": 0.42857142857142855,
+      "position": 3
+    },
+    {
+      "query": "banging sound from furnace",
+      "clicks": 3,
+      "impressions": 276,
+      "ctr": 0.010869565217391304,
+      "position": 3.402173913043478
+    },
+    {
+      "query": "bleach down drain for smell",
+      "clicks": 3,
+      "impressions": 300,
+      "ctr": 0.01,
+      "position": 4.163333333333334
+    },
+    {
+      "query": "blinking light furnace",
+      "clicks": 3,
+      "impressions": 54,
+      "ctr": 0.05555555555555555,
+      "position": 1.9444444444444444
+    },
+    {
+      "query": "buzzing in the wall",
+      "clicks": 3,
+      "impressions": 66,
+      "ctr": 0.045454545454545456,
+      "position": 2.1969696969696972
+    },
+    {
+      "query": "buzzing in wall",
+      "clicks": 3,
+      "impressions": 237,
+      "ctr": 0.012658227848101266,
+      "position": 2.2489451476793247
+    },
+    {
+      "query": "buzzing sound in walls",
+      "clicks": 3,
+      "impressions": 37,
+      "ctr": 0.08108108108108109,
+      "position": 3.2432432432432434
+    },
+    {
+      "query": "can i pour bleach down the sink for smell",
+      "clicks": 3,
+      "impressions": 887,
+      "ctr": 0.0033821871476888386,
+      "position": 4.2784667418263815
+    },
+    {
+      "query": "can you put water lines in an exterior wall",
+      "clicks": 3,
+      "impressions": 68,
+      "ctr": 0.04411764705882353,
+      "position": 3.485294117647059
+    },
+    {
+      "query": "can you run plumbing in an exterior wall",
+      "clicks": 3,
+      "impressions": 50,
+      "ctr": 0.06,
+      "position": 2.6399999999999997
+    },
+    {
+      "query": "central air installation",
+      "clicks": 3,
+      "impressions": 78,
+      "ctr": 0.038461538461538464,
+      "position": 7.602564102564102
+    },
+    {
+      "query": "drilling noise in wall",
+      "clicks": 3,
+      "impressions": 93,
+      "ctr": 0.03225806451612903,
+      "position": 2.4516129032258065
+    },
+    {
+      "query": "drilling sound in wall",
+      "clicks": 3,
+      "impressions": 252,
+      "ctr": 0.011904761904761904,
+      "position": 2.357142857142857
+    },
+    {
+      "query": "duffett plumbing",
+      "clicks": 3,
+      "impressions": 37,
+      "ctr": 0.08108108108108109,
+      "position": 4.324324324324325
+    },
+    {
+      "query": "emergency heating repair",
+      "clicks": 3,
+      "impressions": 192,
+      "ctr": 0.015625,
+      "position": 13.854166666666666
+    },
+    {
+      "query": "emergency plumber albany ny",
+      "clicks": 3,
+      "impressions": 60,
+      "ctr": 0.05,
+      "position": 22.6
+    },
+    {
+      "query": "excellent air heating & cooling",
+      "clicks": 3,
+      "impressions": 157,
+      "ctr": 0.01910828025477707,
+      "position": 2.3503184713375793
+    },
+    {
+      "query": "furnace led blinking",
+      "clicks": 3,
+      "impressions": 20,
+      "ctr": 0.15,
+      "position": 1
+    },
+    {
+      "query": "furnace service near me",
+      "clicks": 3,
+      "impressions": 238,
+      "ctr": 0.012605042016806723,
+      "position": 11.865546218487395
+    },
+    {
+      "query": "gurgling drains in house",
+      "clicks": 3,
+      "impressions": 52,
+      "ctr": 0.057692307692307696,
+      "position": 7.326923076923077
+    },
+    {
+      "query": "heating and cooling service near me",
+      "clicks": 3,
+      "impressions": 228,
+      "ctr": 0.013157894736842105,
+      "position": 11.671052631578947
+    },
+    {
+      "query": "how does radiant heat work in a house",
+      "clicks": 3,
+      "impressions": 102,
+      "ctr": 0.029411764705882353,
+      "position": 1.6470588235294117
+    },
+    {
+      "query": "how to clean a smelly drain",
+      "clicks": 3,
+      "impressions": 270,
+      "ctr": 0.011111111111111112,
+      "position": 6.725925925925926
+    },
+    {
+      "query": "how to clean leaves out of ac unit",
+      "clicks": 3,
+      "impressions": 124,
+      "ctr": 0.024193548387096774,
+      "position": 5.459677419354839
+    },
+    {
+      "query": "humming in wall",
+      "clicks": 3,
+      "impressions": 40,
+      "ctr": 0.075,
+      "position": 1.975
+    },
+    {
+      "query": "humming noise in house",
+      "clicks": 3,
+      "impressions": 345,
+      "ctr": 0.008695652173913044,
+      "position": 3.1594202898550723
+    },
+    {
+      "query": "humming noise in house not electrical",
+      "clicks": 3,
+      "impressions": 346,
+      "ctr": 0.008670520231213872,
+      "position": 3.520231213872832
+    },
+    {
+      "query": "hvac buffalo ny",
+      "clicks": 3,
+      "impressions": 1315,
+      "ctr": 0.0022813688212927757,
+      "position": 14.250190114068442
+    },
+    {
+      "query": "hvac companies",
+      "clicks": 3,
+      "impressions": 151,
+      "ctr": 0.019867549668874173,
+      "position": 9.019867549668874
+    },
+    {
+      "query": "hvac companies rochester ny",
+      "clicks": 3,
+      "impressions": 271,
+      "ctr": 0.01107011070110701,
+      "position": 16.977859778597786
+    },
+    {
+      "query": "intermittent buzzing sound in house",
+      "clicks": 3,
+      "impressions": 159,
+      "ctr": 0.018867924528301886,
+      "position": 2.3144654088050314
+    },
+    {
+      "query": "intermittent buzzing sound in wall",
+      "clicks": 3,
+      "impressions": 86,
+      "ctr": 0.03488372093023256,
+      "position": 2.0348837209302326
+    },
+    {
+      "query": "light on furnace blinking",
+      "clicks": 3,
+      "impressions": 21,
+      "ctr": 0.14285714285714285,
+      "position": 1.7142857142857144
+    },
+    {
+      "query": "local plumbers",
+      "clicks": 3,
+      "impressions": 1431,
+      "ctr": 0.0020964360587002098,
+      "position": 11.56114605171209
+    },
+    {
+      "query": "low water in toilet bowl",
+      "clicks": 3,
+      "impressions": 1117,
+      "ctr": 0.0026857654431512983,
+      "position": 4.343777976723366
+    },
+    {
+      "query": "low water level in toilet bowl",
+      "clicks": 3,
+      "impressions": 951,
+      "ctr": 0.0031545741324921135,
+      "position": 5.614090431125131
+    },
+    {
+      "query": "noise between the walls read",
+      "clicks": 3,
+      "impressions": 49,
+      "ctr": 0.061224489795918366,
+      "position": 5.26530612244898
+    },
+    {
+      "query": "plumber hamburg ny",
+      "clicks": 3,
+      "impressions": 123,
+      "ctr": 0.024390243902439025,
+      "position": 21.26829268292683
+    },
+    {
+      "query": "plumbers buffalo ny",
+      "clicks": 3,
+      "impressions": 524,
+      "ctr": 0.0057251908396946565,
+      "position": 24.763358778625953
+    },
+    {
+      "query": "plumbers williamsville ny",
+      "clicks": 3,
+      "impressions": 99,
+      "ctr": 0.030303030303030304,
+      "position": 6.98989898989899
+    },
+    {
+      "query": "plumbing in exterior walls",
+      "clicks": 3,
+      "impressions": 135,
+      "ctr": 0.022222222222222223,
+      "position": 3.4518518518518517
+    },
+    {
+      "query": "plumbing on exterior wall",
+      "clicks": 3,
+      "impressions": 290,
+      "ctr": 0.010344827586206896,
+      "position": 4.413793103448276
+    },
+    {
+      "query": "plumbing rochester ny",
+      "clicks": 3,
+      "impressions": 574,
+      "ctr": 0.005226480836236934,
+      "position": 21.407665505226483
+    },
+    {
+      "query": "plumbing services new york",
+      "clicks": 3,
+      "impressions": 225,
+      "ctr": 0.013333333333333334,
+      "position": 40.77777777777778
+    },
+    {
+      "query": "reimer company",
+      "clicks": 3,
+      "impressions": 49,
+      "ctr": 0.061224489795918366,
+      "position": 3.5714285714285716
+    },
+    {
+      "query": "reimer plumbing albany, ny",
+      "clicks": 3,
+      "impressions": 33,
+      "ctr": 0.09090909090909091,
+      "position": 1
+    },
+    {
+      "query": "reiner electric",
+      "clicks": 3,
+      "impressions": 26,
+      "ctr": 0.11538461538461539,
+      "position": 7.153846153846154
+    },
+    {
+      "query": "remer heating and cooling",
+      "clicks": 3,
+      "impressions": 40,
+      "ctr": 0.075,
+      "position": 2.9
+    },
+    {
+      "query": "remimer",
+      "clicks": 3,
+      "impressions": 27,
+      "ctr": 0.1111111111111111,
+      "position": 7.148148148148148
+    },
+    {
+      "query": "rhino heating",
+      "clicks": 3,
+      "impressions": 16,
+      "ctr": 0.1875,
+      "position": 7.875
+    },
+    {
+      "query": "rhino heating and air",
+      "clicks": 3,
+      "impressions": 33,
+      "ctr": 0.09090909090909091,
+      "position": 12.484848484848484
+    },
+    {
+      "query": "sink drains slowly and bubbles",
+      "clicks": 3,
+      "impressions": 96,
+      "ctr": 0.03125,
+      "position": 1.9375
+    },
+    {
+      "query": "sink keeps clogging",
+      "clicks": 3,
+      "impressions": 224,
+      "ctr": 0.013392857142857142,
+      "position": 7.71875
+    },
+    {
+      "query": "sink slow drain air bubbles",
+      "clicks": 3,
+      "impressions": 60,
+      "ctr": 0.05,
+      "position": 1.7666666666666666
+    },
+    {
+      "query": "toilet bowl water level low",
+      "clicks": 3,
+      "impressions": 909,
+      "ctr": 0.0033003300330033004,
+      "position": 2.6974697469746975
+    },
+    {
+      "query": "vibrating noise in wall at night",
+      "clicks": 3,
+      "impressions": 627,
+      "ctr": 0.004784688995215311,
+      "position": 2.8373205741626792
+    },
+    {
+      "query": "water bubbling up from ground",
+      "clicks": 3,
+      "impressions": 284,
+      "ctr": 0.01056338028169014,
+      "position": 3.8485915492957745
+    },
+    {
+      "query": "water heater repair",
+      "clicks": 3,
+      "impressions": 11845,
+      "ctr": 0.0002532714225411566,
+      "position": 8.803545799915575
+    },
+    {
+      "query": "water level in toilet bowl is low",
+      "clicks": 3,
+      "impressions": 495,
+      "ctr": 0.006060606060606061,
+      "position": 3.5272727272727273
+    },
+    {
+      "query": "water low in toilet bowl",
+      "clicks": 3,
+      "impressions": 420,
+      "ctr": 0.007142857142857143,
+      "position": 2.5476190476190474
+    },
+    {
+      "query": "water regulator",
+      "clicks": 3,
+      "impressions": 1516,
+      "ctr": 0.001978891820580475,
+      "position": 6.818601583113456
+    },
+    {
+      "query": "what to do if no cold water",
+      "clicks": 3,
+      "impressions": 28,
+      "ctr": 0.10714285714285714,
+      "position": 1.1071428571428572
+    },
+    {
+      "query": "why is my cold water not working but hot is",
+      "clicks": 3,
+      "impressions": 637,
+      "ctr": 0.004709576138147566,
+      "position": 9.725274725274724
+    },
+    {
+      "query": "why is the toilet bowl water low",
+      "clicks": 3,
+      "impressions": 132,
+      "ctr": 0.022727272727272728,
+      "position": 2.590909090909091
+    },
+    {
+      "query": "why is water level low in toilet bowl",
+      "clicks": 3,
+      "impressions": 152,
+      "ctr": 0.019736842105263157,
+      "position": 3.3684210526315788
+    },
+    {
+      "query": "24 hour furnace repair near me",
+      "clicks": 2,
+      "impressions": 160,
+      "ctr": 0.0125,
+      "position": 10.3875
+    },
+    {
+      "query": "ac carbon monoxide",
+      "clicks": 2,
+      "impressions": 115,
+      "ctr": 0.017391304347826087,
+      "position": 4.278260869565218
+    },
+    {
+      "query": "ac repair in new york",
+      "clicks": 2,
+      "impressions": 219,
+      "ctr": 0.0091324200913242,
+      "position": 39.09132420091324
+    },
+    {
+      "query": "air bubbles in sink drain",
+      "clicks": 2,
+      "impressions": 36,
+      "ctr": 0.05555555555555555,
+      "position": 2.138888888888889
+    },
+    {
+      "query": "air conditioning tune up",
+      "clicks": 2,
+      "impressions": 266,
+      "ctr": 0.007518796992481203,
+      "position": 29.086466165413533
+    },
+    {
+      "query": "air scrubber for ac unit",
+      "clicks": 2,
+      "impressions": 17,
+      "ctr": 0.11764705882352941,
+      "position": 1.1176470588235294
+    },
+    {
+      "query": "air scrubber for mold",
+      "clicks": 2,
+      "impressions": 359,
+      "ctr": 0.005571030640668524,
+      "position": 1.2506963788300836
     }
   ],
   "topPages": [
     {
       "page": "https://reimerhvac.com/",
-      "clicks": 1722,
-      "impressions": 106910,
-      "ctr": 0.016107005892807034,
-      "position": 31.477728930876438
+      "clicks": 1787,
+      "impressions": 108767,
+      "ctr": 0.01642961560031995,
+      "position": 31.44791159083178
     },
     {
       "page": "https://reimerhvac.com/whats-that-buzzing-sound-in-my-walls/",
       "clicks": 1643,
-      "impressions": 184447,
-      "ctr": 0.008907707905251916,
-      "position": 3.2564964461335775
+      "impressions": 184661,
+      "ctr": 0.008897384937804951,
+      "position": 3.208046095277292
     },
     {
       "page": "https://reimerhvac.com/cheektowaga/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*167*reimer-home-services-Cheektowaga",
-      "clicks": 1013,
-      "impressions": 79504,
-      "ctr": 0.012741497283155564,
-      "position": 2.761282451197424
+      "clicks": 1032,
+      "impressions": 96950,
+      "ctr": 0.010644662197008768,
+      "position": 2.501598762248582
     },
     {
       "page": "https://reimerhvac.com/schenectady/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*166*reimer-heating-cooling-schenectady",
-      "clicks": 825,
-      "impressions": 50151,
-      "ctr": 0.016450320033498833,
-      "position": 2.765268887958366
+      "clicks": 855,
+      "impressions": 64626,
+      "ctr": 0.013229969362176214,
+      "position": 2.413672515705753
     },
     {
       "page": "https://reimerhvac.com/what-does-the-blinking-light-on-your-furnace-mean/",
-      "clicks": 691,
-      "impressions": 186943,
-      "ctr": 0.0036963138496761043,
-      "position": 2.5510663678233474
+      "clicks": 615,
+      "impressions": 158797,
+      "ctr": 0.0038728691348073325,
+      "position": 2.460657317203726
     },
     {
       "page": "https://reimerhvac.com/why-are-there-bubbles-coming-from-my-sink/",
-      "clicks": 507,
-      "impressions": 58408,
-      "ctr": 0.008680317764689768,
-      "position": 2.5290713600876593
+      "clicks": 510,
+      "impressions": 56579,
+      "ctr": 0.009013945103306881,
+      "position": 2.6176319835981547
     },
     {
       "page": "https://reimerhvac.com/rochester/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*279*reimer-heating-cooling-rochester",
-      "clicks": 492,
-      "impressions": 98716,
-      "ctr": 0.004983994489241865,
-      "position": 1.9434944689817253
+      "clicks": 489,
+      "impressions": 106870,
+      "ctr": 0.0045756526621128476,
+      "position": 1.8977917095536632
     },
     {
       "page": "https://reimerhvac.com/can-plumbing-be-installed-in-an-exterior-wall/",
-      "clicks": 418,
-      "impressions": 51076,
-      "ctr": 0.008183882841256167,
-      "position": 3.91064296342705
-    },
-    {
-      "page": "https://reimerhvac.com/understanding-your-homes-main-circuit-breaker/",
-      "clicks": 322,
-      "impressions": 871254,
-      "ctr": 0.0003695822343426831,
-      "position": 7.865039357064645
-    },
-    {
-      "page": "https://reimerhvac.com/causes-of-low-toilet-water-level/",
-      "clicks": 285,
-      "impressions": 86171,
-      "ctr": 0.0033073771918626918,
-      "position": 3.9049796335193974
-    },
-    {
-      "page": "https://reimerhvac.com/why-is-my-furnace-making-a-banging-noise/",
-      "clicks": 273,
-      "impressions": 40021,
-      "ctr": 0.006821418755153544,
-      "position": 9.59403812998176
-    },
-    {
-      "page": "https://reimerhvac.com/should-you-use-your-fireplace-and-central-heat-together/",
-      "clicks": 271,
-      "impressions": 14221,
-      "ctr": 0.01905632515294283,
-      "position": 5.449265171225652
-    },
-    {
-      "page": "https://reimerhvac.com/what-are-the-signs-of-an-underground-water-leak/",
-      "clicks": 270,
-      "impressions": 52008,
-      "ctr": 0.005191508998615597,
-      "position": 12.054895400707583
+      "clicks": 414,
+      "impressions": 49310,
+      "ctr": 0.008395862908132224,
+      "position": 3.9793348205232206
     },
     {
       "page": "https://reimerhvac.com/i-have-no-cold-water-why/",
-      "clicks": 268,
-      "impressions": 35784,
-      "ctr": 0.007489380728817349,
-      "position": 4.403672032193159
+      "clicks": 274,
+      "impressions": 35264,
+      "ctr": 0.007769963702359346,
+      "position": 4.048973457350272
+    },
+    {
+      "page": "https://reimerhvac.com/causes-of-low-toilet-water-level/",
+      "clicks": 264,
+      "impressions": 78748,
+      "ctr": 0.0033524660943770003,
+      "position": 4.024432366536293
     },
     {
       "page": "https://reimerhvac.com/rochester/",
-      "clicks": 243,
-      "impressions": 114283,
-      "ctr": 0.0021263004996368664,
-      "position": 21.74220137728271
+      "clicks": 248,
+      "impressions": 114114,
+      "ctr": 0.002173265331160068,
+      "position": 22.087307429412693
+    },
+    {
+      "page": "https://reimerhvac.com/understanding-your-homes-main-circuit-breaker/",
+      "clicks": 246,
+      "impressions": 784121,
+      "ctr": 0.00031372709058933505,
+      "position": 7.868559826863456
     },
     {
       "page": "https://reimerhvac.com/what-to-do-when-you-drop-something-down-the-drain/",
+      "clicks": 242,
+      "impressions": 29710,
+      "ctr": 0.008145405587344329,
+      "position": 3.893874116459105
+    },
+    {
+      "page": "https://reimerhvac.com/what-are-the-signs-of-an-underground-water-leak/",
       "clicks": 236,
-      "impressions": 28139,
-      "ctr": 0.008386936280606987,
-      "position": 3.845125981733537
+      "impressions": 47943,
+      "ctr": 0.004922512149844607,
+      "position": 10.923930500803037
     },
     {
       "page": "https://reimerhvac.com/the-team/",
-      "clicks": 227,
-      "impressions": 17802,
-      "ctr": 0.012751376249859567,
-      "position": 5.513032243568138
+      "clicks": 235,
+      "impressions": 15557,
+      "ctr": 0.015105740181268883,
+      "position": 5.6673523172848235
+    },
+    {
+      "page": "https://reimerhvac.com/should-you-use-your-fireplace-and-central-heat-together/",
+      "clicks": 229,
+      "impressions": 12241,
+      "ctr": 0.01870762192631321,
+      "position": 5.50559594804346
+    },
+    {
+      "page": "https://reimerhvac.com/why-is-my-furnace-making-a-banging-noise/",
+      "clicks": 229,
+      "impressions": 33166,
+      "ctr": 0.0069046614002291505,
+      "position": 9.202164867635531
     },
     {
       "page": "https://reimerhvac.com/albany/",
-      "clicks": 190,
-      "impressions": 55117,
-      "ctr": 0.003447212293847633,
-      "position": 25.383384436743654
+      "clicks": 187,
+      "impressions": 51491,
+      "ctr": 0.003631702627643666,
+      "position": 25.509448253092774
     },
     {
       "page": "https://reimerhvac.com/how-to-clean-a-smelly-drain/",
-      "clicks": 186,
-      "impressions": 107722,
-      "ctr": 0.0017266667904420638,
-      "position": 11.700070551976383
+      "clicks": 182,
+      "impressions": 104504,
+      "ctr": 0.001741560131669601,
+      "position": 12.678117584015922
     },
     {
       "page": "https://reimerhvac.com/contact-us/",
-      "clicks": 177,
-      "impressions": 27036,
-      "ctr": 0.006546826453617399,
-      "position": 6.618693593726882
+      "clicks": 181,
+      "impressions": 24009,
+      "ctr": 0.007538839601815985,
+      "position": 6.571743929359823
     },
     {
       "page": "https://reimerhvac.com/why-outlets-stop-working/",
-      "clicks": 132,
-      "impressions": 100344,
-      "ctr": 0.0013154747668022004,
-      "position": 7.567846607669616
+      "clicks": 167,
+      "impressions": 97472,
+      "ctr": 0.001713312541037426,
+      "position": 6.821446158896914
     },
     {
       "page": "https://reimerhvac.com/careers/",
-      "clicks": 118,
-      "impressions": 1024,
-      "ctr": 0.115234375,
-      "position": 12.46875
-    },
-    {
-      "page": "https://reimerhvac.com/what-is-a-water-pressure-regulator-and-how-does-it-work/",
-      "clicks": 115,
-      "impressions": 75322,
-      "ctr": 0.0015267783648867529,
-      "position": 13.040957489179789
+      "clicks": 142,
+      "impressions": 1195,
+      "ctr": 0.11882845188284519,
+      "position": 11.798326359832636
     },
     {
       "page": "https://reimerhvac.com/hamburg/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*278*reimer-heating-cooling-hamburg",
-      "clicks": 111,
-      "impressions": 26963,
-      "ctr": 0.004116752586878315,
-      "position": 4.694803990653859
+      "clicks": 116,
+      "impressions": 33068,
+      "ctr": 0.0035079230676182413,
+      "position": 4.116245312689005
     },
     {
       "page": "https://reimerhvac.com/schenectady/",
-      "clicks": 105,
-      "impressions": 16265,
-      "ctr": 0.00645557946510913,
-      "position": 13.176329541961266
-    },
-    {
-      "page": "https://reimerhvac.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*414*j-m-schwarz-albany",
-      "clicks": 102,
-      "impressions": 2957,
-      "ctr": 0.034494420020290836,
-      "position": 12.5187690226581
-    },
-    {
-      "page": "https://reimerhvac.com/why-are-my-lights-flickering-and-dimming/",
       "clicks": 98,
-      "impressions": 56139,
-      "ctr": 0.0017456670051123105,
-      "position": 11.820356614831045
-    },
-    {
-      "page": "https://reimerhvac.com/do-air-scrubbers-really-work-a-homeowners-guide/",
-      "clicks": 94,
-      "impressions": 19328,
-      "ctr": 0.00486341059602649,
-      "position": 7.376086506622516
-    },
-    {
-      "page": "https://reimerhvac.com/how-radiant-heating-works/",
-      "clicks": 93,
-      "impressions": 12094,
-      "ctr": 0.00768976351910038,
-      "position": 29.993798577807176
-    },
-    {
-      "page": "https://reimerhvac.com/what-to-do-if-your-water-heater-stops-working-overnight/",
-      "clicks": 92,
-      "impressions": 19145,
-      "ctr": 0.004805432227735701,
-      "position": 6.874745364324889
-    },
-    {
-      "page": "https://reimerhvac.com/review/",
-      "clicks": 90,
-      "impressions": 6877,
-      "ctr": 0.013087101933982841,
-      "position": 5.422567980223935
+      "impressions": 14974,
+      "ctr": 0.006544677440897556,
+      "position": 13.286296246827835
     },
     {
       "page": "https://reimerhvac.com/albany/plumbing/",
-      "clicks": 88,
-      "impressions": 29873,
-      "ctr": 0.002945803903190172,
-      "position": 20.318782847387272
+      "clicks": 93,
+      "impressions": 34489,
+      "ctr": 0.0026965119313404275,
+      "position": 21.822001217779583
     },
     {
-      "page": "https://reimerhvac.com/how-often-should-you-flush-your-boiler/",
-      "clicks": 85,
-      "impressions": 8807,
-      "ctr": 0.00965141364823436,
-      "position": 4.467128420574543
+      "page": "https://reimerhvac.com/do-air-scrubbers-really-work-a-homeowners-guide/",
+      "clicks": 93,
+      "impressions": 20005,
+      "ctr": 0.004648837790552362,
+      "position": 6.41374656335916
+    },
+    {
+      "page": "https://reimerhvac.com/review/",
+      "clicks": 92,
+      "impressions": 7109,
+      "ctr": 0.01294134196089464,
+      "position": 5.364748909832606
+    },
+    {
+      "page": "https://reimerhvac.com/what-to-do-if-your-water-heater-stops-working-overnight/",
+      "clicks": 91,
+      "impressions": 17702,
+      "ctr": 0.005140662072082251,
+      "position": 6.472827929047566
     },
     {
       "page": "https://reimerhvac.com/electrical-services/",
-      "clicks": 84,
-      "impressions": 17927,
-      "ctr": 0.004685669660288949,
-      "position": 6.53377586880125
-    },
-    {
-      "page": "https://reimerhvac.com/maintenance/",
-      "clicks": 79,
-      "impressions": 2708,
-      "ctr": 0.029172821270310192,
-      "position": 12.128138847858198
-    },
-    {
-      "page": "https://reimerhvac.com/how-to-keep-leaves-out-of-your-hvac-system/",
-      "clicks": 68,
-      "impressions": 7739,
-      "ctr": 0.008786664943791187,
-      "position": 3.1276650730068485
-    },
-    {
-      "page": "https://reimerhvac.com/what-is-a-shut-off-valve-and-why-do-you-need-one/",
-      "clicks": 68,
-      "impressions": 47124,
-      "ctr": 0.001443001443001443,
-      "position": 8.804452083863849
+      "clicks": 86,
+      "impressions": 19459,
+      "ctr": 0.004419548794902102,
+      "position": 6.4224266406290145
     },
     {
       "page": "https://reimerhvac.com/do-air-conditioners-emit-carbon-monoxide/",
-      "clicks": 67,
-      "impressions": 34723,
-      "ctr": 0.0019295567779281744,
-      "position": 3.779569737637877
+      "clicks": 85,
+      "impressions": 37975,
+      "ctr": 0.002238314680710994,
+      "position": 3.8574588545095456
+    },
+    {
+      "page": "https://reimerhvac.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*414*j-m-schwarz-albany",
+      "clicks": 84,
+      "impressions": 2962,
+      "ctr": 0.02835921674544227,
+      "position": 12.659689399054693
+    },
+    {
+      "page": "https://reimerhvac.com/what-is-a-water-pressure-regulator-and-how-does-it-work/",
+      "clicks": 78,
+      "impressions": 56110,
+      "ctr": 0.0013901265371591516,
+      "position": 14.075102477276777
+    },
+    {
+      "page": "https://reimerhvac.com/why-are-my-lights-flickering-and-dimming/",
+      "clicks": 77,
+      "impressions": 47903,
+      "ctr": 0.001607414984447738,
+      "position": 12.634970669895413
+    },
+    {
+      "page": "https://reimerhvac.com/how-to-keep-leaves-out-of-your-hvac-system/",
+      "clicks": 71,
+      "impressions": 8953,
+      "ctr": 0.00793030269183514,
+      "position": 3.2178040880151904
+    },
+    {
+      "page": "https://reimerhvac.com/how-radiant-heating-works/",
+      "clicks": 70,
+      "impressions": 10554,
+      "ctr": 0.006632556376729202,
+      "position": 26.08309645631988
+    },
+    {
+      "page": "https://reimerhvac.com/maintenance/",
+      "clicks": 69,
+      "impressions": 2630,
+      "ctr": 0.02623574144486692,
+      "position": 10.939163498098859
+    },
+    {
+      "page": "https://reimerhvac.com/how-often-should-you-flush-your-boiler/",
+      "clicks": 68,
+      "impressions": 7388,
+      "ctr": 0.009204114780725501,
+      "position": 4.766919328641039
     },
     {
       "page": "https://reimerhvac.com/coupons/",
-      "clicks": 66,
-      "impressions": 5097,
-      "ctr": 0.012948793407886992,
-      "position": 14.83519717480871
-    },
-    {
-      "page": "https://reimerhvac.com/what-is-causing-water-stains-on-my-wall-and-ceilings/",
-      "clicks": 61,
-      "impressions": 18632,
-      "ctr": 0.003273937312151138,
-      "position": 11.004615714899098
-    },
-    {
-      "page": "https://reimerhvac.com/ways-to-stop-your-toilet-from-sweating/",
-      "clicks": 60,
-      "impressions": 22766,
-      "ctr": 0.002635509092506369,
-      "position": 5.855354475972942
-    },
-    {
-      "page": "https://reimerhvac.com/buffalo/",
-      "clicks": 59,
-      "impressions": 23682,
-      "ctr": 0.002491343636517186,
-      "position": 18.584410100498268
+      "clicks": 65,
+      "impressions": 1864,
+      "ctr": 0.03487124463519313,
+      "position": 24.706545064377682
     },
     {
       "page": "https://reimerhvac.com/about-us/",
-      "clicks": 58,
-      "impressions": 21044,
-      "ctr": 0.002756130013305455,
-      "position": 4.973246531077741
+      "clicks": 60,
+      "impressions": 22780,
+      "ctr": 0.0026338893766461808,
+      "position": 4.780465320456541
     },
     {
       "page": "https://reimerhvac.com/rochester/electrical/",
-      "clicks": 54,
-      "impressions": 16258,
-      "ctr": 0.0033214417517529833,
-      "position": 22.389285274941567
+      "clicks": 60,
+      "impressions": 15603,
+      "ctr": 0.003845414343395501,
+      "position": 25.181119015573927
     },
     {
       "page": "https://reimerhvac.com/plumbing-services/",
-      "clicks": 53,
-      "impressions": 64840,
-      "ctr": 0.0008173966687230105,
-      "position": 31.57493830968538
+      "clicks": 58,
+      "impressions": 84389,
+      "ctr": 0.0006872933676190025,
+      "position": 33.577302729028666
+    },
+    {
+      "page": "https://reimerhvac.com/what-is-a-shut-off-valve-and-why-do-you-need-one/",
+      "clicks": 57,
+      "impressions": 42816,
+      "ctr": 0.0013312780269058295,
+      "position": 8.627685911808669
+    },
+    {
+      "page": "https://reimerhvac.com/what-is-causing-water-stains-on-my-wall-and-ceilings/",
+      "clicks": 57,
+      "impressions": 17935,
+      "ctr": 0.003178143295232785,
+      "position": 11.183217173125174
+    },
+    {
+      "page": "https://reimerhvac.com/ways-to-stop-your-toilet-from-sweating/",
+      "clicks": 54,
+      "impressions": 21151,
+      "ctr": 0.0025530707767954233,
+      "position": 5.489764077348589
+    },
+    {
+      "page": "https://reimerhvac.com/buffalo/",
+      "clicks": 51,
+      "impressions": 22405,
+      "ctr": 0.002276277616603437,
+      "position": 20.821111359071637
     },
     {
       "page": "https://reimerhvac.com/whats-a-gfci-outlet-and-what-does-it-do/",
-      "clicks": 51,
-      "impressions": 32679,
-      "ctr": 0.00156063527035711,
-      "position": 11.212338198843295
+      "clicks": 49,
+      "impressions": 29831,
+      "ctr": 0.0016425865710167275,
+      "position": 10.436324628741913
+    },
+    {
+      "page": "https://reimerhvac.com/albany/electrical/",
+      "clicks": 46,
+      "impressions": 12451,
+      "ctr": 0.003694482370893904,
+      "position": 20.08529435386716
+    },
+    {
+      "page": "https://reimerhvac.com/scottsville/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*354*excellent-scottsville",
+      "clicks": 45,
+      "impressions": 30618,
+      "ctr": 0.0014697236919459142,
+      "position": 19.490332484159644
     },
     {
       "page": "https://reimerhvac.com/saratoga-springs/",
-      "clicks": 45,
-      "impressions": 26172,
-      "ctr": 0.0017193947730398899,
-      "position": 14.57641754546844
-    },
-    {
-      "page": "https://reimerhvac.com/hvac-services-tonawanda-ny/",
-      "clicks": 44,
-      "impressions": 16298,
-      "ctr": 0.002699717756779973,
-      "position": 12.966744385814211
-    },
-    {
-      "page": "https://reimerhvac.com/troubleshooting-strange-furnace-sounds/",
-      "clicks": 41,
-      "impressions": 10480,
-      "ctr": 0.0039122137404580155,
-      "position": 5.868606870229008
-    },
-    {
-      "page": "https://reimerhvac.com/welcome-all-star-plumbing/",
       "clicks": 40,
-      "impressions": 6117,
-      "ctr": 0.006539153179663234,
-      "position": 20.61533431420631
+      "impressions": 24724,
+      "ctr": 0.0016178611875101116,
+      "position": 14.793844038181524
+    },
+    {
+      "page": "https://reimerhvac.com/troy/",
+      "clicks": 37,
+      "impressions": 16229,
+      "ctr": 0.0022798693696469284,
+      "position": 26.174810524369956
     }
   ],
-  "fetchedAt": "2026-03-18T13:06:44.830Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "reimer heating and cooling",
+      "clicks": 791,
+      "impressions": 4066,
+      "ctr": 0.19454008853910476,
+      "position": 1.2127397934087556
+    },
+    {
+      "query": "reimer",
+      "clicks": 509,
+      "impressions": 4986,
+      "ctr": 0.10208584035298837,
+      "position": 11.085038106698757
+    },
+    {
+      "query": "reimer plumbing",
+      "clicks": 401,
+      "impressions": 1719,
+      "ctr": 0.23327515997673065,
+      "position": 1.377545084351367
+    },
+    {
+      "query": "reimer heating",
+      "clicks": 278,
+      "impressions": 1391,
+      "ctr": 0.19985621854780733,
+      "position": 1.0251617541337168
+    },
+    {
+      "query": "reimer home services",
+      "clicks": 269,
+      "impressions": 1173,
+      "ctr": 0.22932651321398123,
+      "position": 1.0392156862745099
+    },
+    {
+      "query": "water pressure regulator",
+      "clicks": 201,
+      "impressions": 41658,
+      "ctr": 0.004825003600748955,
+      "position": 9.07261510394162
+    },
+    {
+      "query": "reimer electric",
+      "clicks": 158,
+      "impressions": 448,
+      "ctr": 0.35267857142857145,
+      "position": 1.5089285714285714
+    },
+    {
+      "query": "furnace light blinking",
+      "clicks": 137,
+      "impressions": 1564,
+      "ctr": 0.08759590792838874,
+      "position": 1.7896419437340154
+    },
+    {
+      "query": "reimer electrical",
+      "clicks": 96,
+      "impressions": 190,
+      "ctr": 0.5052631578947369,
+      "position": 1.1736842105263159
+    },
+    {
+      "query": "reimer hvac",
+      "clicks": 88,
+      "impressions": 264,
+      "ctr": 0.3333333333333333,
+      "position": 1.1742424242424243
+    },
+    {
+      "query": "water pressure regulator for house",
+      "clicks": 88,
+      "impressions": 6360,
+      "ctr": 0.013836477987421384,
+      "position": 6.17248427672956
+    },
+    {
+      "query": "reimer albany",
+      "clicks": 85,
+      "impressions": 521,
+      "ctr": 0.16314779270633398,
+      "position": 1
+    },
+    {
+      "query": "reimer heating, cooling & plumbing",
+      "clicks": 77,
+      "impressions": 2772,
+      "ctr": 0.027777777777777776,
+      "position": 1.0822510822510822
+    },
+    {
+      "query": "reimer heating and cooling buffalo ny",
+      "clicks": 75,
+      "impressions": 365,
+      "ctr": 0.2054794520547945,
+      "position": 1
+    },
+    {
+      "query": "reimer rochester",
+      "clicks": 70,
+      "impressions": 513,
+      "ctr": 0.1364522417153996,
+      "position": 1.003898635477583
+    },
+    {
+      "query": "how does radiant heat work",
+      "clicks": 69,
+      "impressions": 1787,
+      "ctr": 0.03861219921656407,
+      "position": 3.546166759932848
+    },
+    {
+      "query": "toilet bowl water level low",
+      "clicks": 63,
+      "impressions": 2908,
+      "ctr": 0.021664374140302613,
+      "position": 4.551925722145805
+    },
+    {
+      "query": "smelly drain",
+      "clicks": 62,
+      "impressions": 2383,
+      "ctr": 0.026017624842635333,
+      "position": 6.7016365925304235
+    },
+    {
+      "query": "home water pressure regulator",
+      "clicks": 54,
+      "impressions": 2617,
+      "ctr": 0.020634314100114636,
+      "position": 6.358425678257547
+    },
+    {
+      "query": "pressure regulator water",
+      "clicks": 50,
+      "impressions": 2081,
+      "ctr": 0.024026910139356077,
+      "position": 8.064872657376261
+    },
+    {
+      "query": "water regulator",
+      "clicks": 50,
+      "impressions": 9576,
+      "ctr": 0.0052213868003341685,
+      "position": 6.405597326649958
+    },
+    {
+      "query": "all star plumbing",
+      "clicks": 48,
+      "impressions": 989,
+      "ctr": 0.04853387259858443,
+      "position": 12.509605662285136
+    },
+    {
+      "query": "no cold water in house",
+      "clicks": 48,
+      "impressions": 1363,
+      "ctr": 0.03521643433602348,
+      "position": 4.608217168011739
+    },
+    {
+      "query": "smelly drain remedy",
+      "clicks": 47,
+      "impressions": 644,
+      "ctr": 0.07298136645962733,
+      "position": 3.260869565217391
+    },
+    {
+      "query": "smelly drains",
+      "clicks": 46,
+      "impressions": 2408,
+      "ctr": 0.01910299003322259,
+      "position": 12.153654485049834
+    },
+    {
+      "query": "toilet water level low",
+      "clicks": 46,
+      "impressions": 3807,
+      "ctr": 0.012083004990806409,
+      "position": 5.099816128184923
+    },
+    {
+      "query": "blinking light on furnace",
+      "clicks": 44,
+      "impressions": 669,
+      "ctr": 0.06576980568011959,
+      "position": 1.5336322869955157
+    },
+    {
+      "query": "how does a water pressure regulator work",
+      "clicks": 44,
+      "impressions": 998,
+      "ctr": 0.04408817635270541,
+      "position": 6.447895791583166
+    },
+    {
+      "query": "furnace repair buffalo ny",
+      "clicks": 43,
+      "impressions": 1458,
+      "ctr": 0.029492455418381344,
+      "position": 2.6090534979423867
+    },
+    {
+      "query": "heating and cooling buffalo ny",
+      "clicks": 43,
+      "impressions": 2265,
+      "ctr": 0.018984547461368653,
+      "position": 2.7615894039735096
+    },
+    {
+      "query": "riemer plumbing",
+      "clicks": 42,
+      "impressions": 236,
+      "ctr": 0.17796610169491525,
+      "position": 1.2161016949152543
+    },
+    {
+      "query": "plumber buffalo",
+      "clicks": 41,
+      "impressions": 1160,
+      "ctr": 0.0353448275862069,
+      "position": 10.283620689655173
+    },
+    {
+      "query": "plumbers buffalo ny",
+      "clicks": 40,
+      "impressions": 1837,
+      "ctr": 0.021774632553075667,
+      "position": 7.376156777354383
+    },
+    {
+      "query": "buzzing sound in wall",
+      "clicks": 39,
+      "impressions": 1048,
+      "ctr": 0.03721374045801527,
+      "position": 3.3959923664122136
+    },
+    {
+      "query": "cheektowaga ny plumber",
+      "clicks": 38,
+      "impressions": 475,
+      "ctr": 0.08,
+      "position": 7.816842105263158
+    },
+    {
+      "query": "plumber buffalo ny",
+      "clicks": 38,
+      "impressions": 867,
+      "ctr": 0.04382929642445214,
+      "position": 7.980392156862745
+    },
+    {
+      "query": "plumbing repair hamburg ny",
+      "clicks": 38,
+      "impressions": 166,
+      "ctr": 0.2289156626506024,
+      "position": 1.2048192771084336
+    },
+    {
+      "query": "buffalo plumber",
+      "clicks": 37,
+      "impressions": 960,
+      "ctr": 0.03854166666666667,
+      "position": 9.105208333333334
+    },
+    {
+      "query": "furnace repair rochester ny",
+      "clicks": 37,
+      "impressions": 900,
+      "ctr": 0.04111111111111111,
+      "position": 11.312222222222223
+    },
+    {
+      "query": "low water level in toilet bowl",
+      "clicks": 37,
+      "impressions": 2192,
+      "ctr": 0.01687956204379562,
+      "position": 4.788321167883211
+    },
+    {
+      "query": "plumber near schenectady",
+      "clicks": 36,
+      "impressions": 215,
+      "ctr": 0.16744186046511628,
+      "position": 1.283720930232558
+    },
+    {
+      "query": "reimer heating & cooling",
+      "clicks": 35,
+      "impressions": 84,
+      "ctr": 0.4166666666666667,
+      "position": 1.1547619047619047
+    },
+    {
+      "query": "toilet repair rochester ny",
+      "clicks": 35,
+      "impressions": 566,
+      "ctr": 0.061837455830388695,
+      "position": 7.102473498233215
+    },
+    {
+      "query": "furnace banging noise",
+      "clicks": 34,
+      "impressions": 622,
+      "ctr": 0.05466237942122187,
+      "position": 3.590032154340836
+    },
+    {
+      "query": "natural gas furnace banging noise",
+      "clicks": 34,
+      "impressions": 568,
+      "ctr": 0.05985915492957746,
+      "position": 2.5545774647887325
+    },
+    {
+      "query": "reimer heating, cooling & plumbing, llc",
+      "clicks": 34,
+      "impressions": 1025,
+      "ctr": 0.033170731707317075,
+      "position": 1.118048780487805
+    },
+    {
+      "query": "buffalo plumbers",
+      "clicks": 33,
+      "impressions": 646,
+      "ctr": 0.05108359133126935,
+      "position": 7.760061919504644
+    },
+    {
+      "query": "plumbers buffalo",
+      "clicks": 33,
+      "impressions": 688,
+      "ctr": 0.04796511627906977,
+      "position": 8.651162790697676
+    },
+    {
+      "query": "hvac buffalo ny",
+      "clicks": 32,
+      "impressions": 1048,
+      "ctr": 0.030534351145038167,
+      "position": 2.4408396946564883
+    },
+    {
+      "query": "water in toilet bowl low",
+      "clicks": 32,
+      "impressions": 1723,
+      "ctr": 0.01857225769007545,
+      "position": 4.738247243180499
+    },
+    {
+      "query": "emergency plumber rochester ny",
+      "clicks": 31,
+      "impressions": 574,
+      "ctr": 0.05400696864111498,
+      "position": 30.531358885017422
+    },
+    {
+      "query": "plumber hamburg ny",
+      "clicks": 31,
+      "impressions": 225,
+      "ctr": 0.13777777777777778,
+      "position": 1.88
+    },
+    {
+      "query": "rochester sump pump installation",
+      "clicks": 31,
+      "impressions": 204,
+      "ctr": 0.15196078431372548,
+      "position": 10.705882352941176
+    },
+    {
+      "query": "toilet repair rochester",
+      "clicks": 31,
+      "impressions": 178,
+      "ctr": 0.17415730337078653,
+      "position": 7.01123595505618
+    },
+    {
+      "query": "ac maintenance hamburg ny",
+      "clicks": 30,
+      "impressions": 175,
+      "ctr": 0.17142857142857143,
+      "position": 1.3142857142857143
+    },
+    {
+      "query": "stinky drain",
+      "clicks": 30,
+      "impressions": 1672,
+      "ctr": 0.017942583732057416,
+      "position": 7.321172248803828
+    },
+    {
+      "query": "cheektowaga ny plumbers",
+      "clicks": 29,
+      "impressions": 497,
+      "ctr": 0.05835010060362173,
+      "position": 8.150905432595573
+    },
+    {
+      "query": "flashing light on furnace",
+      "clicks": 29,
+      "impressions": 380,
+      "ctr": 0.07631578947368421,
+      "position": 1.5289473684210526
+    },
+    {
+      "query": "plumber services albany",
+      "clicks": 29,
+      "impressions": 215,
+      "ctr": 0.13488372093023257,
+      "position": 29.706976744186047
+    },
+    {
+      "query": "plumbers cheektowaga ny",
+      "clicks": 29,
+      "impressions": 610,
+      "ctr": 0.047540983606557376,
+      "position": 8.636065573770491
+    },
+    {
+      "query": "plumbing cheektowaga ny",
+      "clicks": 29,
+      "impressions": 97,
+      "ctr": 0.29896907216494845,
+      "position": 6.268041237113402
+    },
+    {
+      "query": "drain cleaning schenectady",
+      "clicks": 28,
+      "impressions": 218,
+      "ctr": 0.12844036697247707,
+      "position": 2.2568807339449544
+    },
+    {
+      "query": "emergency plumber rochester",
+      "clicks": 28,
+      "impressions": 710,
+      "ctr": 0.03943661971830986,
+      "position": 46.92394366197183
+    },
+    {
+      "query": "hamburg ny furnace maintenance",
+      "clicks": 28,
+      "impressions": 125,
+      "ctr": 0.224,
+      "position": 1
+    },
+    {
+      "query": "heating and cooling albany, ny",
+      "clicks": 28,
+      "impressions": 201,
+      "ctr": 0.13930348258706468,
+      "position": 15.577114427860696
+    },
+    {
+      "query": "smelly sink drain",
+      "clicks": 28,
+      "impressions": 1853,
+      "ctr": 0.015110631408526714,
+      "position": 12.744738262277387
+    },
+    {
+      "query": "plumbers schenectady ny",
+      "clicks": 27,
+      "impressions": 237,
+      "ctr": 0.11392405063291139,
+      "position": 1.7552742616033754
+    },
+    {
+      "query": "reimer buffalo ny",
+      "clicks": 27,
+      "impressions": 123,
+      "ctr": 0.21951219512195122,
+      "position": 1
+    },
+    {
+      "query": "drain cleaning albany",
+      "clicks": 26,
+      "impressions": 674,
+      "ctr": 0.03857566765578635,
+      "position": 18.367952522255194
+    },
+    {
+      "query": "drain cleaning albany ny",
+      "clicks": 26,
+      "impressions": 510,
+      "ctr": 0.050980392156862744,
+      "position": 9.090196078431372
+    },
+    {
+      "query": "ductless heat pump albany, ny",
+      "clicks": 26,
+      "impressions": 202,
+      "ctr": 0.12871287128712872,
+      "position": 26.519801980198018
+    },
+    {
+      "query": "furnace making loud banging noise",
+      "clicks": 26,
+      "impressions": 452,
+      "ctr": 0.05752212389380531,
+      "position": 3.2212389380530975
+    },
+    {
+      "query": "furnace repair buffalo",
+      "clicks": 26,
+      "impressions": 746,
+      "ctr": 0.03485254691689008,
+      "position": 3.6327077747989276
+    },
+    {
+      "query": "hamburg ny heating installation",
+      "clicks": 26,
+      "impressions": 143,
+      "ctr": 0.18181818181818182,
+      "position": 1.2097902097902098
+    },
+    {
+      "query": "heating and cooling rochester ny",
+      "clicks": 26,
+      "impressions": 1024,
+      "ctr": 0.025390625,
+      "position": 13.771484375
+    },
+    {
+      "query": "heating repair hamburg",
+      "clicks": 26,
+      "impressions": 206,
+      "ctr": 0.1262135922330097,
+      "position": 2.4611650485436893
+    },
+    {
+      "query": "plumbing services schenectady",
+      "clicks": 26,
+      "impressions": 179,
+      "ctr": 0.1452513966480447,
+      "position": 2.7597765363128492
+    },
+    {
+      "query": "water heater repair albany",
+      "clicks": 26,
+      "impressions": 475,
+      "ctr": 0.05473684210526316,
+      "position": 31.770526315789475
+    },
+    {
+      "query": "albany plumber",
+      "clicks": 25,
+      "impressions": 469,
+      "ctr": 0.053304904051172705,
+      "position": 28.051172707889126
+    },
+    {
+      "query": "banging noise from furnace",
+      "clicks": 25,
+      "impressions": 318,
+      "ctr": 0.07861635220125786,
+      "position": 3.150943396226415
+    },
+    {
+      "query": "buffalo furnace repair",
+      "clicks": 25,
+      "impressions": 1002,
+      "ctr": 0.0249500998003992,
+      "position": 2.7495009980039917
+    },
+    {
+      "query": "emergency plumber buffalo ny",
+      "clicks": 25,
+      "impressions": 207,
+      "ctr": 0.12077294685990338,
+      "position": 6.386473429951691
+    },
+    {
+      "query": "plumbers hamburg ny",
+      "clicks": 25,
+      "impressions": 247,
+      "ctr": 0.10121457489878542,
+      "position": 2.659919028340081
+    },
+    {
+      "query": "water heater installation schenectady",
+      "clicks": 25,
+      "impressions": 241,
+      "ctr": 0.1037344398340249,
+      "position": 1.0871369294605808
+    },
+    {
+      "query": "water pressure regulator valve",
+      "clicks": 25,
+      "impressions": 4204,
+      "ctr": 0.005946717411988582,
+      "position": 8.805899143672693
+    },
+    {
+      "query": "furnace buffalo ny",
+      "clicks": 24,
+      "impressions": 782,
+      "ctr": 0.030690537084398978,
+      "position": 5.460358056265985
+    },
+    {
+      "query": "plumbing services hamburg ny",
+      "clicks": 24,
+      "impressions": 151,
+      "ctr": 0.15894039735099338,
+      "position": 1.5629139072847682
+    },
+    {
+      "query": "water heater installation albany ny",
+      "clicks": 24,
+      "impressions": 399,
+      "ctr": 0.06015037593984962,
+      "position": 12.18295739348371
+    },
+    {
+      "query": "emergency plumber schenectady",
+      "clicks": 23,
+      "impressions": 160,
+      "ctr": 0.14375,
+      "position": 11.4125
+    },
+    {
+      "query": "ev car charger installation buffalo ny",
+      "clicks": 23,
+      "impressions": 529,
+      "ctr": 0.043478260869565216,
+      "position": 5.6200378071833645
+    },
+    {
+      "query": "furnace repairs buffalo ny",
+      "clicks": 23,
+      "impressions": 748,
+      "ctr": 0.03074866310160428,
+      "position": 3.802139037433155
+    },
+    {
+      "query": "heating contractor albany park",
+      "clicks": 23,
+      "impressions": 136,
+      "ctr": 0.16911764705882354,
+      "position": 25.75
+    },
+    {
+      "query": "hvac cheektowaga ny",
+      "clicks": 23,
+      "impressions": 155,
+      "ctr": 0.14838709677419354,
+      "position": 1.7870967741935484
+    },
+    {
+      "query": "plumber cheektowaga",
+      "clicks": 23,
+      "impressions": 325,
+      "ctr": 0.07076923076923076,
+      "position": 8.735384615384614
+    },
+    {
+      "query": "plumber cheektowaga ny",
+      "clicks": 23,
+      "impressions": 550,
+      "ctr": 0.04181818181818182,
+      "position": 7.1872727272727275
+    },
+    {
+      "query": "reimer plumbing capital region llc",
+      "clicks": 23,
+      "impressions": 76,
+      "ctr": 0.3026315789473684,
+      "position": 1.013157894736842
+    },
+    {
+      "query": "schenectady plumbers",
+      "clicks": 23,
+      "impressions": 103,
+      "ctr": 0.22330097087378642,
+      "position": 1.9514563106796117
+    },
+    {
+      "query": "sewer line repair albany",
+      "clicks": 23,
+      "impressions": 288,
+      "ctr": 0.0798611111111111,
+      "position": 54.44097222222222
+    },
+    {
+      "query": "sump pump installation rochester",
+      "clicks": 23,
+      "impressions": 237,
+      "ctr": 0.0970464135021097,
+      "position": 15.362869198312236
+    },
+    {
+      "query": "drain smell remover",
+      "clicks": 22,
+      "impressions": 693,
+      "ctr": 0.031746031746031744,
+      "position": 8.744588744588745
+    },
+    {
+      "query": "ductless mini splits albany, ny",
+      "clicks": 22,
+      "impressions": 192,
+      "ctr": 0.11458333333333333,
+      "position": 26.895833333333332
+    },
+    {
+      "query": "emergency plumber albany",
+      "clicks": 22,
+      "impressions": 423,
+      "ctr": 0.05200945626477541,
+      "position": 50.548463356974
+    },
+    {
+      "query": "emergency plumber schenectady ny",
+      "clicks": 22,
+      "impressions": 311,
+      "ctr": 0.0707395498392283,
+      "position": 18.138263665594856
+    },
+    {
+      "query": "furnace installation buffalo ny",
+      "clicks": 22,
+      "impressions": 876,
+      "ctr": 0.02511415525114155,
+      "position": 9.023972602739725
+    },
+    {
+      "query": "hamburg ny heat pump repair",
+      "clicks": 22,
+      "impressions": 131,
+      "ctr": 0.16793893129770993,
+      "position": 1
+    },
+    {
+      "query": "house water pressure regulator",
+      "clicks": 22,
+      "impressions": 2278,
+      "ctr": 0.009657594381035996,
+      "position": 7.625987708516242
+    },
+    {
+      "query": "how to fix smelly drains",
+      "clicks": 22,
+      "impressions": 1097,
+      "ctr": 0.020054694621695533,
+      "position": 6.996353691886965
+    },
+    {
+      "query": "light blinking on furnace",
+      "clicks": 22,
+      "impressions": 301,
+      "ctr": 0.07308970099667775,
+      "position": 1.584717607973422
+    },
+    {
+      "query": "main circuit breaker for house",
+      "clicks": 22,
+      "impressions": 1414,
+      "ctr": 0.015558698727015558,
+      "position": 2.964639321074965
+    },
+    {
+      "query": "plumber albany",
+      "clicks": 22,
+      "impressions": 739,
+      "ctr": 0.029769959404600813,
+      "position": 32.23951285520974
+    },
+    {
+      "query": "plumber albany ny",
+      "clicks": 22,
+      "impressions": 401,
+      "ctr": 0.05486284289276808,
+      "position": 14.052369077306734
+    },
+    {
+      "query": "reimer buffalo",
+      "clicks": 22,
+      "impressions": 134,
+      "ctr": 0.16417910447761194,
+      "position": 1.5522388059701493
+    },
+    {
+      "query": "rochester plumbing",
+      "clicks": 22,
+      "impressions": 488,
+      "ctr": 0.045081967213114756,
+      "position": 23.471311475409838
+    },
+    {
+      "query": "who owns reimer heating and cooling",
+      "clicks": 22,
+      "impressions": 65,
+      "ctr": 0.3384615384615385,
+      "position": 1
+    },
+    {
+      "query": "emergency plumbing albany",
+      "clicks": 21,
+      "impressions": 373,
+      "ctr": 0.05630026809651475,
+      "position": 45.16353887399464
+    },
+    {
+      "query": "plumber schenectady",
+      "clicks": 21,
+      "impressions": 96,
+      "ctr": 0.21875,
+      "position": 2.052083333333333
+    },
+    {
+      "query": "plumbing company rochester",
+      "clicks": 21,
+      "impressions": 460,
+      "ctr": 0.04565217391304348,
+      "position": 43.332608695652176
+    },
+    {
+      "query": "plumbing repair albany",
+      "clicks": 21,
+      "impressions": 129,
+      "ctr": 0.16279069767441862,
+      "position": 22.7984496124031
+    },
+    {
+      "query": "pressure regulator valve",
+      "clicks": 21,
+      "impressions": 5986,
+      "ctr": 0.0035081857667891747,
+      "position": 13.397260273972602
+    },
+    {
+      "query": "rochester plumber",
+      "clicks": 21,
+      "impressions": 869,
+      "ctr": 0.024165707710011506,
+      "position": 46.29344073647871
+    },
+    {
+      "query": "stinky drains",
+      "clicks": 21,
+      "impressions": 514,
+      "ctr": 0.04085603112840467,
+      "position": 5.655642023346304
+    },
+    {
+      "query": "toilet repair near me",
+      "clicks": 21,
+      "impressions": 401,
+      "ctr": 0.05236907730673317,
+      "position": 12.638403990024937
+    },
+    {
+      "query": "toilet repair service",
+      "clicks": 21,
+      "impressions": 130,
+      "ctr": 0.16153846153846155,
+      "position": 3.7
+    },
+    {
+      "query": "why is the water in my toilet bowl low",
+      "clicks": 21,
+      "impressions": 1712,
+      "ctr": 0.012266355140186916,
+      "position": 4.583528037383178
+    },
+    {
+      "query": "furnace company albany ny",
+      "clicks": 20,
+      "impressions": 261,
+      "ctr": 0.07662835249042145,
+      "position": 23.130268199233715
+    },
+    {
+      "query": "furnace making banging noise",
+      "clicks": 20,
+      "impressions": 620,
+      "ctr": 0.03225806451612903,
+      "position": 3.2370967741935486
+    },
+    {
+      "query": "hamburg plumbers",
+      "clicks": 20,
+      "impressions": 203,
+      "ctr": 0.09852216748768473,
+      "position": 1.522167487684729
+    },
+    {
+      "query": "heat pump installation rochester ny",
+      "clicks": 20,
+      "impressions": 262,
+      "ctr": 0.07633587786259542,
+      "position": 19.061068702290076
+    },
+    {
+      "query": "heating and cooling cheektowaga ny",
+      "clicks": 20,
+      "impressions": 217,
+      "ctr": 0.09216589861751152,
+      "position": 1.262672811059908
+    },
+    {
+      "query": "how to clean smelly sink drain",
+      "clicks": 20,
+      "impressions": 1506,
+      "ctr": 0.013280212483399735,
+      "position": 5.724435590969455
+    },
+    {
+      "query": "plumbers albany ny",
+      "clicks": 20,
+      "impressions": 485,
+      "ctr": 0.041237113402061855,
+      "position": 14.964948453608248
+    },
+    {
+      "query": "plumbers in hamburg ny",
+      "clicks": 20,
+      "impressions": 81,
+      "ctr": 0.24691358024691357,
+      "position": 1.2839506172839505
+    },
+    {
+      "query": "sump pump installation albany ny",
+      "clicks": 20,
+      "impressions": 162,
+      "ctr": 0.12345679012345678,
+      "position": 55.96296296296296
+    },
+    {
+      "query": "water heater replacement albany",
+      "clicks": 20,
+      "impressions": 316,
+      "ctr": 0.06329113924050633,
+      "position": 33.278481012658226
+    },
+    {
+      "query": "air duct cleaning hamburg ny",
+      "clicks": 19,
+      "impressions": 264,
+      "ctr": 0.07196969696969698,
+      "position": 12.219696969696969
+    },
+    {
+      "query": "clogged drain cleaning buffalo ny",
+      "clicks": 19,
+      "impressions": 337,
+      "ctr": 0.05637982195845697,
+      "position": 6.771513353115727
+    },
+    {
+      "query": "drain cleaning rochester",
+      "clicks": 19,
+      "impressions": 656,
+      "ctr": 0.028963414634146343,
+      "position": 77.4405487804878
+    },
+    {
+      "query": "emergency plumber buffalo",
+      "clicks": 19,
+      "impressions": 173,
+      "ctr": 0.10982658959537572,
+      "position": 5.173410404624278
+    },
+    {
+      "query": "furnace repair albany",
+      "clicks": 19,
+      "impressions": 394,
+      "ctr": 0.048223350253807105,
+      "position": 18.604060913705585
+    },
+    {
+      "query": "furnace repair near me",
+      "clicks": 19,
+      "impressions": 6637,
+      "ctr": 0.002862739189392798,
+      "position": 17.363266536085582
+    },
+    {
+      "query": "furnace repair services cheektowaga ny",
+      "clicks": 19,
+      "impressions": 97,
+      "ctr": 0.1958762886597938,
+      "position": 1.2371134020618557
+    },
+    {
+      "query": "hamburg ny furnace installation",
+      "clicks": 19,
+      "impressions": 108,
+      "ctr": 0.17592592592592593,
+      "position": 1
+    },
+    {
+      "query": "heating and cooling cheektowaga",
+      "clicks": 19,
+      "impressions": 82,
+      "ctr": 0.23170731707317074,
+      "position": 1.975609756097561
+    },
+    {
+      "query": "how to clean drain smell",
+      "clicks": 19,
+      "impressions": 1340,
+      "ctr": 0.014179104477611941,
+      "position": 5.744029850746268
+    },
+    {
+      "query": "low water in toilet bowl",
+      "clicks": 19,
+      "impressions": 2247,
+      "ctr": 0.008455718736092568,
+      "position": 5.056964842011571
+    },
+    {
+      "query": "main circuit breaker",
+      "clicks": 19,
+      "impressions": 6543,
+      "ctr": 0.002903866727800703,
+      "position": 3.3901879871618523
+    },
+    {
+      "query": "plumber hamburg",
+      "clicks": 19,
+      "impressions": 419,
+      "ctr": 0.045346062052505964,
+      "position": 13.766109785202865
+    },
+    {
+      "query": "plumbing albany ny",
+      "clicks": 19,
+      "impressions": 138,
+      "ctr": 0.13768115942028986,
+      "position": 11.659420289855072
+    },
+    {
+      "query": "plumbing companies buffalo ny",
+      "clicks": 19,
+      "impressions": 239,
+      "ctr": 0.0794979079497908,
+      "position": 8.364016736401673
+    },
+    {
+      "query": "plumbing hamburg ny",
+      "clicks": 19,
+      "impressions": 97,
+      "ctr": 0.1958762886597938,
+      "position": 1.3917525773195876
+    },
+    {
+      "query": "schenectady tankless water heater repair",
+      "clicks": 19,
+      "impressions": 56,
+      "ctr": 0.3392857142857143,
+      "position": 1.0178571428571428
+    },
+    {
+      "query": "sewer line inspection schenectady",
+      "clicks": 19,
+      "impressions": 108,
+      "ctr": 0.17592592592592593,
+      "position": 27.435185185185187
+    },
+    {
+      "query": "standby generator buffalo ny",
+      "clicks": 19,
+      "impressions": 599,
+      "ctr": 0.03171953255425709,
+      "position": 7.629382303839733
+    },
+    {
+      "query": "water heater installation rochester",
+      "clicks": 19,
+      "impressions": 454,
+      "ctr": 0.04185022026431718,
+      "position": 52.93171806167401
+    },
+    {
+      "query": "water heater pressure regulator",
+      "clicks": 19,
+      "impressions": 791,
+      "ctr": 0.02402022756005057,
+      "position": 4.11378002528445
+    },
+    {
+      "query": "water heater replacement rochester",
+      "clicks": 19,
+      "impressions": 651,
+      "ctr": 0.029185867895545316,
+      "position": 54.554531490015364
+    },
+    {
+      "query": "whole house generator buffalo ny",
+      "clicks": 19,
+      "impressions": 525,
+      "ctr": 0.03619047619047619,
+      "position": 6.2838095238095235
+    },
+    {
+      "query": "ac repair rochester ny",
+      "clicks": 18,
+      "impressions": 312,
+      "ctr": 0.057692307692307696,
+      "position": 6.605769230769231
+    },
+    {
+      "query": "drain cleaning buffalo,ny",
+      "clicks": 18,
+      "impressions": 354,
+      "ctr": 0.05084745762711865,
+      "position": 8.237288135593221
+    },
+    {
+      "query": "furnace repair in albany park",
+      "clicks": 18,
+      "impressions": 134,
+      "ctr": 0.13432835820895522,
+      "position": 21.559701492537314
+    },
+    {
+      "query": "generator installation rochester ny",
+      "clicks": 18,
+      "impressions": 616,
+      "ctr": 0.02922077922077922,
+      "position": 3.9724025974025974
+    },
+    {
+      "query": "hamburg ny hvac maintenance",
+      "clicks": 18,
+      "impressions": 129,
+      "ctr": 0.13953488372093023,
+      "position": 1
+    },
+    {
+      "query": "heater light blinking",
+      "clicks": 18,
+      "impressions": 163,
+      "ctr": 0.11042944785276074,
+      "position": 2.0122699386503067
+    },
+    {
+      "query": "heating and cooling albany ny",
+      "clicks": 18,
+      "impressions": 274,
+      "ctr": 0.06569343065693431,
+      "position": 17.635036496350367
+    },
+    {
+      "query": "heating and cooling repair albany park",
+      "clicks": 18,
+      "impressions": 128,
+      "ctr": 0.140625,
+      "position": 26.7265625
+    },
+    {
+      "query": "plumbing company albany",
+      "clicks": 18,
+      "impressions": 389,
+      "ctr": 0.04627249357326478,
+      "position": 30.704370179948587
+    },
+    {
+      "query": "reimer plumbing reviews",
+      "clicks": 18,
+      "impressions": 163,
+      "ctr": 0.11042944785276074,
+      "position": 2.662576687116564
+    },
+    {
+      "query": "water heater installation albany",
+      "clicks": 18,
+      "impressions": 286,
+      "ctr": 0.06293706293706294,
+      "position": 27.74125874125874
+    },
+    {
+      "query": "water heater repair buffalo",
+      "clicks": 18,
+      "impressions": 360,
+      "ctr": 0.05,
+      "position": 5.55
+    },
+    {
+      "query": "water heater service schenectady ny",
+      "clicks": 18,
+      "impressions": 51,
+      "ctr": 0.35294117647058826,
+      "position": 1.9607843137254903
+    },
+    {
+      "query": "water level in toilet bowl low",
+      "clicks": 18,
+      "impressions": 1075,
+      "ctr": 0.01674418604651163,
+      "position": 4.434418604651163
+    },
+    {
+      "query": "cheektowaga plumbers",
+      "clicks": 17,
+      "impressions": 91,
+      "ctr": 0.18681318681318682,
+      "position": 7.197802197802198
+    },
+    {
+      "query": "generator installation buffalo ny",
+      "clicks": 17,
+      "impressions": 762,
+      "ctr": 0.02230971128608924,
+      "position": 5.967191601049869
+    },
+    {
+      "query": "hamburg ny heat pump maintenance",
+      "clicks": 17,
+      "impressions": 139,
+      "ctr": 0.1223021582733813,
+      "position": 1.0503597122302157
+    },
+    {
+      "query": "heat pump installation albany, ny",
+      "clicks": 17,
+      "impressions": 180,
+      "ctr": 0.09444444444444444,
+      "position": 19.994444444444444
+    },
+    {
+      "query": "main breaker",
+      "clicks": 17,
+      "impressions": 10201,
+      "ctr": 0.0016665032839917656,
+      "position": 4.789726497402215
+    },
+    {
+      "query": "main switch breaker",
+      "clicks": 17,
+      "impressions": 2258,
+      "ctr": 0.007528786536758193,
+      "position": 3.5345438441098316
+    },
+    {
+      "query": "plumbing buffalo",
+      "clicks": 17,
+      "impressions": 257,
+      "ctr": 0.06614785992217899,
+      "position": 10.023346303501945
+    },
+    {
+      "query": "reimer heating and cooling reviews",
+      "clicks": 17,
+      "impressions": 471,
+      "ctr": 0.036093418259023353,
+      "position": 3.3481953290870488
+    },
+    {
+      "query": "smelly drain solution",
+      "clicks": 17,
+      "impressions": 322,
+      "ctr": 0.052795031055900624,
+      "position": 5.03416149068323
+    },
+    {
+      "query": "sump pump repair rochester",
+      "clicks": 17,
+      "impressions": 97,
+      "ctr": 0.17525773195876287,
+      "position": 7.762886597938144
+    },
+    {
+      "query": "albany heating and cooling",
+      "clicks": 16,
+      "impressions": 188,
+      "ctr": 0.0851063829787234,
+      "position": 28.97340425531915
+    },
+    {
+      "query": "albany plumbers",
+      "clicks": 16,
+      "impressions": 136,
+      "ctr": 0.11764705882352941,
+      "position": 23.926470588235293
+    },
+    {
+      "query": "buffalo plumbing",
+      "clicks": 16,
+      "impressions": 444,
+      "ctr": 0.036036036036036036,
+      "position": 19.41216216216216
+    },
+    {
+      "query": "buzzing noise in wall",
+      "clicks": 16,
+      "impressions": 446,
+      "ctr": 0.03587443946188341,
+      "position": 2.820627802690583
+    },
+    {
+      "query": "drain freshener",
+      "clicks": 16,
+      "impressions": 189,
+      "ctr": 0.08465608465608465,
+      "position": 5.407407407407407
+    },
+    {
+      "query": "furnace repair cheektowaga ny",
+      "clicks": 16,
+      "impressions": 166,
+      "ctr": 0.0963855421686747,
+      "position": 1.0301204819277108
+    },
+    {
+      "query": "furnace replacement buffalo",
+      "clicks": 16,
+      "impressions": 245,
+      "ctr": 0.0653061224489796,
+      "position": 9.077551020408164
+    },
+    {
+      "query": "furnace service albany",
+      "clicks": 16,
+      "impressions": 44,
+      "ctr": 0.36363636363636365,
+      "position": 15.181818181818182
+    },
+    {
+      "query": "hamburg water heater maintenance",
+      "clicks": 16,
+      "impressions": 55,
+      "ctr": 0.2909090909090909,
+      "position": 2.1090909090909093
+    },
+    {
+      "query": "heat pump installation buffalo ny",
+      "clicks": 16,
+      "impressions": 370,
+      "ctr": 0.043243243243243246,
+      "position": 2.6648648648648647
+    },
+    {
+      "query": "heat pump service rochester ny",
+      "clicks": 16,
+      "impressions": 250,
+      "ctr": 0.064,
+      "position": 9.352
+    },
+    {
+      "query": "heater repair buffalo",
+      "clicks": 16,
+      "impressions": 278,
+      "ctr": 0.05755395683453238,
+      "position": 3.1654676258992804
+    },
+    {
+      "query": "heating and cooling hamburg ny",
+      "clicks": 16,
+      "impressions": 181,
+      "ctr": 0.08839779005524862,
+      "position": 1.5359116022099446
+    },
+    {
+      "query": "how to clean smelly drains",
+      "clicks": 16,
+      "impressions": 1256,
+      "ctr": 0.012738853503184714,
+      "position": 6.069267515923567
+    },
+    {
+      "query": "main switch circuit breaker",
+      "clicks": 16,
+      "impressions": 1262,
+      "ctr": 0.012678288431061807,
+      "position": 11.72583201267829
+    },
+    {
+      "query": "plumber schenectady ny",
+      "clicks": 16,
+      "impressions": 176,
+      "ctr": 0.09090909090909091,
+      "position": 16.948863636363637
+    },
+    {
+      "query": "plumbers in albany",
+      "clicks": 16,
+      "impressions": 265,
+      "ctr": 0.06037735849056604,
+      "position": 16.452830188679243
+    },
+    {
+      "query": "plumbers in rochester ny",
+      "clicks": 16,
+      "impressions": 391,
+      "ctr": 0.04092071611253197,
+      "position": 35.40153452685422
+    },
+    {
+      "query": "reimer home services reviews",
+      "clicks": 16,
+      "impressions": 1905,
+      "ctr": 0.008398950131233596,
+      "position": 3.9553805774278215
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:21:33.483Z"
 }

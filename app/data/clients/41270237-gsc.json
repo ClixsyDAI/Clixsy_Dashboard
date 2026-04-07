@@ -1,156 +1,16 @@
 {
   "property": "https://www.fhvlegal.com/",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 5504,
-    "impressions": 1782741,
-    "ctr": 0.003087380612214562,
-    "position": 22.763583170761265
+    "clicks": 5909,
+    "impressions": 2062210,
+    "ctr": 0.0028653725857211436,
+    "position": 22.09996856787677
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 72,
-      "impressions": 18658,
-      "ctr": 0.003858934505306035,
-      "position": 14.57021116947154
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 66,
-      "impressions": 15942,
-      "ctr": 0.0041400075272864136,
-      "position": 21.29256053192824
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 75,
-      "impressions": 14258,
-      "ctr": 0.005260204797306775,
-      "position": 18.508346191611725
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 69,
-      "impressions": 14886,
-      "ctr": 0.004635227730753728,
-      "position": 20.383380357382777
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 44,
-      "impressions": 14938,
-      "ctr": 0.0029455081001472753,
-      "position": 24.222921408488418
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 37,
-      "impressions": 12764,
-      "ctr": 0.0028987778125979316,
-      "position": 20.394782199937325
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 47,
-      "impressions": 12490,
-      "ctr": 0.0037630104083266613,
-      "position": 21.751080864691755
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 59,
-      "impressions": 13070,
-      "ctr": 0.0045141545524101,
-      "position": 18.970849273144605
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 44,
-      "impressions": 14355,
-      "ctr": 0.0030651340996168583,
-      "position": 23.672169975618253
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 33,
-      "impressions": 12367,
-      "ctr": 0.0026683916875555914,
-      "position": 24.428317296029757
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 34,
-      "impressions": 10229,
-      "ctr": 0.0033238830775246847,
-      "position": 20.617166878482745
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 45,
-      "impressions": 12204,
-      "ctr": 0.003687315634218289,
-      "position": 21.18625040970174
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 27,
-      "impressions": 12680,
-      "ctr": 0.0021293375394321767,
-      "position": 18.79290220820189
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 31,
-      "impressions": 12667,
-      "ctr": 0.0024473040183153076,
-      "position": 20.993052814399622
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 54,
-      "impressions": 14427,
-      "ctr": 0.0037429819089207735,
-      "position": 19.659457960768005
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 60,
-      "impressions": 14743,
-      "ctr": 0.004069728006511565,
-      "position": 23.426439666282302
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 42,
-      "impressions": 14829,
-      "ctr": 0.0028322880841594174,
-      "position": 24.7517701800526
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 36,
-      "impressions": 15032,
-      "ctr": 0.002394890899414582,
-      "position": 22.91983767961682
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 58,
-      "impressions": 12378,
-      "ctr": 0.004685732751656164,
-      "position": 20.512118274357732
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 31,
-      "impressions": 10984,
-      "ctr": 0.002822286962855062,
-      "position": 19.53741806263656
-    },
     {
       "date": "2026-01-04",
       "clicks": 48,
@@ -640,711 +500,3314 @@
       "impressions": 21432,
       "ctr": 0.0014930944382232176,
       "position": 21.623926838372526
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 44,
+      "impressions": 21971,
+      "ctr": 0.0020026398434299757,
+      "position": 20.545764871876564
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 60,
+      "impressions": 24780,
+      "ctr": 0.002421307506053269,
+      "position": 19.35189669087974
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 76,
+      "impressions": 24870,
+      "ctr": 0.0030558906312826697,
+      "position": 19.75287494973864
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 72,
+      "impressions": 26834,
+      "ctr": 0.0026831631512260565,
+      "position": 18.075836625177015
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 79,
+      "impressions": 28108,
+      "ctr": 0.0028105877330297426,
+      "position": 17.885868791803045
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 66,
+      "impressions": 25547,
+      "ctr": 0.0025834735976827026,
+      "position": 20.243903393744862
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 51,
+      "impressions": 24180,
+      "ctr": 0.002109181141439206,
+      "position": 22.071546732837056
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 44,
+      "impressions": 24194,
+      "ctr": 0.0018186327188559146,
+      "position": 19.871331735140945
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 98,
+      "impressions": 29000,
+      "ctr": 0.003379310344827586,
+      "position": 14.751793103448275
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 62,
+      "impressions": 26319,
+      "ctr": 0.002355712603062426,
+      "position": 18.594399483263043
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 87,
+      "impressions": 24660,
+      "ctr": 0.0035279805352798053,
+      "position": 19.31228710462287
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 80,
+      "impressions": 34769,
+      "ctr": 0.0023009002272138973,
+      "position": 26.201443814892578
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 50,
+      "impressions": 27236,
+      "ctr": 0.0018358055514759877,
+      "position": 19.39579967689822
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 52,
+      "impressions": 25225,
+      "ctr": 0.002061446977205154,
+      "position": 20.6400792864222
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 50,
+      "impressions": 28970,
+      "ctr": 0.0017259233690024164,
+      "position": 18.05167414566793
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 80,
+      "impressions": 29226,
+      "ctr": 0.0027372887155272703,
+      "position": 16.280503661123657
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 78,
+      "impressions": 29971,
+      "ctr": 0.002602515765239732,
+      "position": 13.139401421373995
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 69,
+      "impressions": 27280,
+      "ctr": 0.0025293255131964808,
+      "position": 14.911436950146628
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 67,
+      "impressions": 24586,
+      "ctr": 0.002725128121695274,
+      "position": 13.85650370129342
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 68,
+      "impressions": 21223,
+      "ctr": 0.0032040710549875134,
+      "position": 15.65240540922584
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 36,
+      "impressions": 24421,
+      "ctr": 0.0014741411080627328,
+      "position": 14.378936161500349
     }
   ],
   "topQueries": [
     {
-      "query": "worst hospitals in florida",
-      "clicks": 142,
-      "impressions": 816,
-      "ctr": 0.17401960784313725,
-      "position": 2.3872549019607843
+      "query": "freedland harwin valori gander",
+      "clicks": 147,
+      "impressions": 372,
+      "ctr": 0.3951612903225806,
+      "position": 2.336021505376344
     },
     {
-      "query": "freedland harwin valori gander",
-      "clicks": 134,
-      "impressions": 315,
-      "ctr": 0.4253968253968254,
-      "position": 2.5746031746031743
+      "query": "worst hospitals in florida",
+      "clicks": 132,
+      "impressions": 753,
+      "ctr": 0.1752988047808765,
+      "position": 2.2084993359893756
     },
     {
       "query": "signs of dying from aspiration pneumonia",
-      "clicks": 78,
-      "impressions": 14726,
-      "ctr": 0.005296754040472634,
-      "position": 2.3346462039929374
+      "clicks": 66,
+      "impressions": 13947,
+      "ctr": 0.004732200473220047,
+      "position": 2.00200760020076
     },
     {
       "query": "freedland harwin valori",
-      "clicks": 60,
-      "impressions": 132,
-      "ctr": 0.45454545454545453,
-      "position": 2.333333333333333
-    },
-    {
-      "query": "michael freedland",
-      "clicks": 39,
-      "impressions": 314,
-      "ctr": 0.12420382165605096,
-      "position": 6.468152866242038
+      "clicks": 64,
+      "impressions": 138,
+      "ctr": 0.463768115942029,
+      "position": 2.282608695652174
     },
     {
       "query": "fhv legal",
-      "clicks": 37,
-      "impressions": 136,
-      "ctr": 0.27205882352941174,
-      "position": 1.0588235294117647
+      "clicks": 50,
+      "impressions": 162,
+      "ctr": 0.30864197530864196,
+      "position": 1.3580246913580247
+    },
+    {
+      "query": "michael freedland",
+      "clicks": 40,
+      "impressions": 326,
+      "ctr": 0.12269938650306748,
+      "position": 6.533742331288344
     },
     {
       "query": "christine fields",
-      "clicks": 28,
-      "impressions": 422,
-      "ctr": 0.06635071090047394,
-      "position": 1.1966824644549763
-    },
-    {
-      "query": "top 10 worst hospitals in florida",
       "clicks": 27,
-      "impressions": 117,
-      "ctr": 0.23076923076923078,
-      "position": 2.5128205128205128
-    },
-    {
-      "query": "michael freedland attorney",
-      "clicks": 25,
-      "impressions": 70,
-      "ctr": 0.35714285714285715,
-      "position": 1.0142857142857142
+      "impressions": 421,
+      "ctr": 0.06413301662707839,
+      "position": 1.190023752969121
     },
     {
       "query": "daniel harwin",
-      "clicks": 23,
-      "impressions": 82,
-      "ctr": 0.2804878048780488,
-      "position": 6.817073170731708
-    },
-    {
-      "query": "worst hospitals in south florida",
-      "clicks": 22,
-      "impressions": 123,
-      "ctr": 0.17886178861788618,
-      "position": 1.6341463414634148
-    },
-    {
-      "query": "daniel harwin attorney",
-      "clicks": 21,
-      "impressions": 44,
-      "ctr": 0.4772727272727273,
-      "position": 1.4545454545454546
-    },
-    {
-      "query": "west boca medical center",
-      "clicks": 20,
-      "impressions": 182,
-      "ctr": 0.10989010989010989,
-      "position": 2.71978021978022
-    },
-    {
-      "query": "peter spillis",
-      "clicks": 18,
-      "impressions": 48,
-      "ctr": 0.375,
-      "position": 1
-    },
-    {
-      "query": "worst hospitals in florida 2025",
-      "clicks": 17,
-      "impressions": 54,
-      "ctr": 0.3148148148148148,
-      "position": 1.6666666666666665
+      "clicks": 26,
+      "impressions": 85,
+      "ctr": 0.3058823529411765,
+      "position": 6.6117647058823525
     },
     {
       "query": "fhvg",
+      "clicks": 23,
+      "impressions": 1182,
+      "ctr": 0.0194585448392555,
+      "position": 1.9052453468697124
+    },
+    {
+      "query": "top 10 worst hospitals in florida",
+      "clicks": 23,
+      "impressions": 107,
+      "ctr": 0.21495327102803738,
+      "position": 2.2242990654205608
+    },
+    {
+      "query": "michael freedland attorney",
+      "clicks": 22,
+      "impressions": 61,
+      "ctr": 0.36065573770491804,
+      "position": 1
+    },
+    {
+      "query": "worst hospitals in south florida",
+      "clicks": 20,
+      "impressions": 110,
+      "ctr": 0.18181818181818182,
+      "position": 2.4363636363636365
+    },
+    {
+      "query": "daniel harwin attorney",
+      "clicks": 18,
+      "impressions": 41,
+      "ctr": 0.43902439024390244,
+      "position": 1.4878048780487805
+    },
+    {
+      "query": "deborah gander",
+      "clicks": 17,
+      "impressions": 64,
+      "ctr": 0.265625,
+      "position": 3.4375
+    },
+    {
+      "query": "west boca medical center",
       "clicks": 16,
-      "impressions": 1152,
-      "ctr": 0.013888888888888888,
-      "position": 1.6779513888888888
+      "impressions": 174,
+      "ctr": 0.09195402298850575,
+      "position": 2.603448275862069
     },
     {
       "query": "worst hospital in florida",
       "clicks": 15,
-      "impressions": 96,
-      "ctr": 0.15625,
-      "position": 2.46875
+      "impressions": 92,
+      "ctr": 0.16304347826086957,
+      "position": 2.0869565217391304
+    },
+    {
+      "query": "peter spillis",
+      "clicks": 14,
+      "impressions": 42,
+      "ctr": 0.3333333333333333,
+      "position": 1
     },
     {
       "query": "is death by aspiration painful",
       "clicks": 13,
-      "impressions": 2212,
-      "ctr": 0.005877034358047016,
-      "position": 5.488245931283906
+      "impressions": 2022,
+      "ctr": 0.006429277942631058,
+      "position": 5.322453016815035
     },
     {
-      "query": "deborah gander",
-      "clicks": 12,
-      "impressions": 53,
-      "ctr": 0.22641509433962265,
-      "position": 3.943396226415094
+      "query": "worst hospitals in florida 2025",
+      "clicks": 13,
+      "impressions": 43,
+      "ctr": 0.3023255813953488,
+      "position": 1.5116279069767442
     },
     {
-      "query": "sudden death due to aspiration",
-      "clicks": 12,
-      "impressions": 915,
-      "ctr": 0.013114754098360656,
-      "position": 3.7704918032786887
-    },
-    {
-      "query": "free kill law florida",
-      "clicks": 10,
-      "impressions": 4250,
-      "ctr": 0.002352941176470588,
-      "position": 2.327529411764706
+      "query": "medical negligence examples",
+      "clicks": 11,
+      "impressions": 2099,
+      "ctr": 0.005240590757503573,
+      "position": 11.131967603620772
     },
     {
       "query": "how long does it take to die from aspiration",
-      "clicks": 10,
-      "impressions": 2595,
-      "ctr": 0.0038535645472061657,
-      "position": 3.434296724470135
+      "clicks": 9,
+      "impressions": 2256,
+      "ctr": 0.003989361702127659,
+      "position": 3.0540780141843973
     },
     {
       "query": "jennifer rufer",
       "clicks": 8,
-      "impressions": 92,
-      "ctr": 0.08695652173913043,
-      "position": 4.543478260869565
+      "impressions": 68,
+      "ctr": 0.11764705882352941,
+      "position": 4.764705882352941
     },
     {
       "query": "misdiagnosis statistics",
       "clicks": 8,
-      "impressions": 108,
-      "ctr": 0.07407407407407407,
-      "position": 6.833333333333333
+      "impressions": 132,
+      "ctr": 0.06060606060606061,
+      "position": 10.318181818181818
     },
     {
-      "query": "bedside manner meaning",
+      "query": "can you die from aspiration pneumonia",
       "clicks": 7,
-      "impressions": 1658,
-      "ctr": 0.004221954161640531,
-      "position": 3.2768395657418576
+      "impressions": 2065,
+      "ctr": 0.003389830508474576,
+      "position": 3.7331719128329297
     },
     {
-      "query": "nica florida",
+      "query": "free kill law florida",
       "clicks": 7,
-      "impressions": 1723,
-      "ctr": 0.004062681369704005,
-      "position": 6.711549622751016
+      "impressions": 3597,
+      "ctr": 0.0019460661662496525,
+      "position": 2.9441201000834027
+    },
+    {
+      "query": "peter spillas",
+      "clicks": 7,
+      "impressions": 129,
+      "ctr": 0.05426356589147287,
+      "position": 4.232558139534884
     },
     {
       "query": "top medical malpractice attorneys in florida",
       "clicks": 7,
-      "impressions": 1087,
-      "ctr": 0.006439742410303588,
-      "position": 14.738730450781969
+      "impressions": 1079,
+      "ctr": 0.006487488415199258,
+      "position": 13.394810009267841
     },
     {
       "query": "bad bedside manner",
       "clicks": 6,
-      "impressions": 220,
-      "ctr": 0.02727272727272727,
-      "position": 1.4136363636363636
+      "impressions": 225,
+      "ctr": 0.02666666666666667,
+      "position": 1.3644444444444446
     },
     {
-      "query": "can you die from aspiration pneumonia",
+      "query": "bedside manner meaning",
       "clicks": 6,
-      "impressions": 2165,
-      "ctr": 0.002771362586605081,
-      "position": 5.41986143187067
+      "impressions": 3005,
+      "ctr": 0.0019966722129783694,
+      "position": 3.0089850249584025
     },
     {
-      "query": "medical negligence examples",
+      "query": "medical negligence lawyers",
       "clicks": 6,
-      "impressions": 2164,
-      "ctr": 0.0027726432532347504,
-      "position": 11.634011090573013
+      "impressions": 3534,
+      "ctr": 0.001697792869269949,
+      "position": 19.0339558573854
     },
     {
-      "query": "woodhull hospital",
+      "query": "sudden death due to aspiration",
       "clicks": 6,
-      "impressions": 86,
-      "ctr": 0.06976744186046512,
-      "position": 3.197674418604651
+      "impressions": 891,
+      "ctr": 0.006734006734006734,
+      "position": 3.048260381593715
+    },
+    {
+      "query": "vicarious liability",
+      "clicks": 6,
+      "impressions": 8811,
+      "ctr": 0.0006809669731018045,
+      "position": 5.0079446146861875
     },
     {
       "query": "aspiration pneumonia symptoms",
       "clicks": 5,
-      "impressions": 609,
-      "ctr": 0.008210180623973728,
-      "position": 1.0164203612479474
+      "impressions": 622,
+      "ctr": 0.008038585209003215,
+      "position": 1.0739549839228295
     },
     {
-      "query": "death by aspiration of vomit",
+      "query": "nica florida",
       "clicks": 5,
-      "impressions": 680,
-      "ctr": 0.007352941176470588,
-      "position": 4.145588235294118
-    },
-    {
-      "query": "florida free kill law",
-      "clicks": 5,
-      "impressions": 2970,
-      "ctr": 0.0016835016835016834,
-      "position": 2.8666666666666667
-    },
-    {
-      "query": "florida medical malpractice caps",
-      "clicks": 5,
-      "impressions": 726,
-      "ctr": 0.006887052341597796,
-      "position": 13.68457300275482
-    },
-    {
-      "query": "medical negligence lawyers",
-      "clicks": 5,
-      "impressions": 2767,
-      "ctr": 0.0018070112034694614,
-      "position": 23.589085652331043
+      "impressions": 1413,
+      "ctr": 0.003538570417551309,
+      "position": 6.659589525831564
     },
     {
       "query": "poor bedside manner",
       "clicks": 5,
-      "impressions": 212,
-      "ctr": 0.02358490566037736,
-      "position": 1.4245283018867925
+      "impressions": 211,
+      "ctr": 0.023696682464454975,
+      "position": 1.3886255924170616
     },
     {
-      "query": "top 5 worst hospitals in america",
+      "query": "what happens after a deposition in a medical malpractice case",
       "clicks": 5,
-      "impressions": 260,
-      "ctr": 0.019230769230769232,
-      "position": 6.623076923076923
+      "impressions": 67,
+      "ctr": 0.07462686567164178,
+      "position": 3.5970149253731343
     },
     {
-      "query": "best medical malpractice lawyers in south florida",
+      "query": "worst hospitals in the us",
+      "clicks": 5,
+      "impressions": 274,
+      "ctr": 0.01824817518248175,
+      "position": 6.0036496350364965
+    },
+    {
+      "query": "yes",
+      "clicks": 5,
+      "impressions": 112,
+      "ctr": 0.044642857142857144,
+      "position": 4.919642857142858
+    },
+    {
+      "query": "best medical malpractice attorneys in florida",
       "clicks": 4,
-      "impressions": 279,
-      "ctr": 0.014336917562724014,
-      "position": 7.924731182795699
+      "impressions": 110,
+      "ctr": 0.03636363636363636,
+      "position": 6.1454545454545455
     },
     {
       "query": "boca west hospital",
       "clicks": 4,
-      "impressions": 31,
-      "ctr": 0.12903225806451613,
-      "position": 1.967741935483871
+      "impressions": 32,
+      "ctr": 0.125,
+      "position": 1.9375
     },
     {
       "query": "breach of standard of care examples",
       "clicks": 4,
-      "impressions": 121,
-      "ctr": 0.03305785123966942,
-      "position": 1.7272727272727273
+      "impressions": 107,
+      "ctr": 0.037383177570093455,
+      "position": 1.7009345794392523
     },
     {
       "query": "caleb stalls",
       "clicks": 4,
-      "impressions": 131,
-      "ctr": 0.030534351145038167,
-      "position": 5.412213740458015
+      "impressions": 40,
+      "ctr": 0.1,
+      "position": 5.75
+    },
+    {
+      "query": "death by aspiration of vomit",
+      "clicks": 4,
+      "impressions": 617,
+      "ctr": 0.006482982171799027,
+      "position": 3.9983792544570504
     },
     {
       "query": "express consent",
       "clicks": 4,
-      "impressions": 1623,
-      "ctr": 0.0024645717806531116,
-      "position": 8.50955021565003
+      "impressions": 1826,
+      "ctr": 0.002190580503833516,
+      "position": 7.38170865279299
     },
     {
       "query": "florida birth-related neurological injury compensation association",
       "clicks": 4,
-      "impressions": 129,
-      "ctr": 0.031007751937984496,
-      "position": 4.395348837209302
-    },
-    {
-      "query": "florida medical malpractice statute of limitations",
-      "clicks": 4,
-      "impressions": 1011,
-      "ctr": 0.003956478733926805,
-      "position": 4.376854599406528
-    },
-    {
-      "query": "free kill law in florida",
-      "clicks": 4,
-      "impressions": 227,
-      "ctr": 0.01762114537444934,
-      "position": 3.933920704845815
-    },
-    {
-      "query": "peter spillas",
-      "clicks": 4,
-      "impressions": 58,
-      "ctr": 0.06896551724137931,
-      "position": 3.9655172413793105
-    },
-    {
-      "query": "what happens after a deposition in a medical malpractice case",
-      "clicks": 4,
-      "impressions": 50,
-      "ctr": 0.08,
-      "position": 3.88
-    },
-    {
-      "query": "best medical malpractice attorneys in florida",
-      "clicks": 3,
-      "impressions": 102,
+      "impressions": 136,
       "ctr": 0.029411764705882353,
-      "position": 6.735294117647059
+      "position": 4.25
+    },
+    {
+      "query": "florida free kill law",
+      "clicks": 4,
+      "impressions": 2551,
+      "ctr": 0.0015680125441003528,
+      "position": 3.511172089376715
+    },
+    {
+      "query": "iv infiltration lawsuit",
+      "clicks": 4,
+      "impressions": 136,
+      "ctr": 0.029411764705882353,
+      "position": 2.7867647058823533
+    },
+    {
+      "query": "medical malpractice attorneys",
+      "clicks": 4,
+      "impressions": 27537,
+      "ctr": 0.000145259105930203,
+      "position": 39.40658023749864
+    },
+    {
+      "query": "raymond valori",
+      "clicks": 4,
+      "impressions": 19,
+      "ctr": 0.21052631578947367,
+      "position": 1.0526315789473684
+    },
+    {
+      "query": "top 5 worst hospitals in america",
+      "clicks": 4,
+      "impressions": 266,
+      "ctr": 0.015037593984962405,
+      "position": 5.496240601503759
+    },
+    {
+      "query": "woodhull hospital",
+      "clicks": 4,
+      "impressions": 48,
+      "ctr": 0.08333333333333333,
+      "position": 3.1458333333333335
+    },
+    {
+      "query": "worst rated hospitals in the us",
+      "clicks": 4,
+      "impressions": 54,
+      "ctr": 0.07407407407407407,
+      "position": 5.518518518518518
+    },
+    {
+      "query": "best medical malpractice lawyers in south florida",
+      "clicks": 3,
+      "impressions": 272,
+      "ctr": 0.011029411764705883,
+      "position": 8.036764705882353
     },
     {
       "query": "florida medical board complaints",
       "clicks": 3,
-      "impressions": 145,
-      "ctr": 0.020689655172413793,
-      "position": 1.6206896551724137
+      "impressions": 207,
+      "ctr": 0.014492753623188406,
+      "position": 2.1594202898550723
+    },
+    {
+      "query": "florida medical malpractice caps",
+      "clicks": 3,
+      "impressions": 706,
+      "ctr": 0.00424929178470255,
+      "position": 13.13172804532578
+    },
+    {
+      "query": "florida medical malpractice statute of limitations",
+      "clicks": 3,
+      "impressions": 1070,
+      "ctr": 0.002803738317757009,
+      "position": 5.520560747663551
+    },
+    {
+      "query": "fort lauderdale birth injury lawyer",
+      "clicks": 3,
+      "impressions": 899,
+      "ctr": 0.0033370411568409346,
+      "position": 8.583982202447164
+    },
+    {
+      "query": "fort lauderdale nursing home bedsore lawyer",
+      "clicks": 3,
+      "impressions": 182,
+      "ctr": 0.016483516483516484,
+      "position": 6.884615384615385
+    },
+    {
+      "query": "free kill law in florida",
+      "clicks": 3,
+      "impressions": 186,
+      "ctr": 0.016129032258064516,
+      "position": 4.43010752688172
+    },
+    {
+      "query": "how many people are misdiagnosed",
+      "clicks": 3,
+      "impressions": 53,
+      "ctr": 0.05660377358490566,
+      "position": 2.5849056603773586
+    },
+    {
+      "query": "how often are doctors wrong",
+      "clicks": 3,
+      "impressions": 211,
+      "ctr": 0.014218009478672985,
+      "position": 5
+    },
+    {
+      "query": "medical malpractice attorneys in florida",
+      "clicks": 3,
+      "impressions": 1400,
+      "ctr": 0.002142857142857143,
+      "position": 13.859285714285715
+    },
+    {
+      "query": "medical malpractice attorneys in fort lauderdale",
+      "clicks": 3,
+      "impressions": 201,
+      "ctr": 0.014925373134328358,
+      "position": 5.990049751243781
+    },
+    {
+      "query": "medical malpractice lawyers",
+      "clicks": 3,
+      "impressions": 35442,
+      "ctr": 0.00008464533604198409,
+      "position": 35.61683877884995
+    },
+    {
+      "query": "medical malpractice statute of limitations",
+      "clicks": 3,
+      "impressions": 678,
+      "ctr": 0.004424778761061947,
+      "position": 9.632743362831858
+    },
+    {
+      "query": "medical misdiagnosis statistics",
+      "clicks": 3,
+      "impressions": 208,
+      "ctr": 0.014423076923076924,
+      "position": 18.009615384615383
+    },
+    {
+      "query": "plastic surgery lawyers",
+      "clicks": 3,
+      "impressions": 18,
+      "ctr": 0.16666666666666666,
+      "position": 6.611111111111111
+    },
+    {
+      "query": "plastic surgery malpractice lawyer near me",
+      "clicks": 3,
+      "impressions": 66,
+      "ctr": 0.045454545454545456,
+      "position": 20.90909090909091
+    },
+    {
+      "query": "west boca medical center reviews",
+      "clicks": 3,
+      "impressions": 168,
+      "ctr": 0.017857142857142856,
+      "position": 2.291666666666667
+    },
+    {
+      "query": "west boca regional hospital",
+      "clicks": 3,
+      "impressions": 11,
+      "ctr": 0.2727272727272727,
+      "position": 2.3636363636363633
+    },
+    {
+      "query": "what is the worst hospital in the united states",
+      "clicks": 3,
+      "impressions": 55,
+      "ctr": 0.05454545454545454,
+      "position": 3.3636363636363638
+    },
+    {
+      "query": "bad bedside manner examples",
+      "clicks": 2,
+      "impressions": 31,
+      "ctr": 0.06451612903225806,
+      "position": 1.1612903225806452
+    },
+    {
+      "query": "bedside manner",
+      "clicks": 2,
+      "impressions": 3244,
+      "ctr": 0.0006165228113440197,
+      "position": 2.3575832305795315
+    },
+    {
+      "query": "best medical malpractice lawyers in florida",
+      "clicks": 2,
+      "impressions": 646,
+      "ctr": 0.0030959752321981426,
+      "position": 9.91486068111455
+    },
+    {
+      "query": "best medical malpractice lawyers in miami, florida",
+      "clicks": 2,
+      "impressions": 95,
+      "ctr": 0.021052631578947368,
+      "position": 9.08421052631579
+    },
+    {
+      "query": "cool cap therapy for infants",
+      "clicks": 2,
+      "impressions": 53,
+      "ctr": 0.03773584905660377,
+      "position": 2.9056603773584904
+    },
+    {
+      "query": "cosmetic surgery malpractice lawyer",
+      "clicks": 2,
+      "impressions": 58,
+      "ctr": 0.034482758620689655,
+      "position": 50.36206896551724
+    },
+    {
+      "query": "deerfield beach health and rehabilitation center injury lawyer",
+      "clicks": 2,
+      "impressions": 281,
+      "ctr": 0.0071174377224199285,
+      "position": 4.832740213523132
+    },
+    {
+      "query": "doctrine of vicarious liability",
+      "clicks": 2,
+      "impressions": 96,
+      "ctr": 0.020833333333333332,
+      "position": 4.229166666666666
+    },
+    {
+      "query": "example of negligence in healthcare",
+      "clicks": 2,
+      "impressions": 461,
+      "ctr": 0.004338394793926247,
+      "position": 4.483731019522777
+    },
+    {
+      "query": "examples of medical negligence",
+      "clicks": 2,
+      "impressions": 615,
+      "ctr": 0.0032520325203252032,
+      "position": 6.291056910569106
+    },
+    {
+      "query": "failure to diagnose sepsis lawsuit",
+      "clicks": 2,
+      "impressions": 34,
+      "ctr": 0.058823529411764705,
+      "position": 3.176470588235294
+    },
+    {
+      "query": "florida birth nica",
+      "clicks": 2,
+      "impressions": 687,
+      "ctr": 0.002911208151382824,
+      "position": 2.572052401746725
+    },
+    {
+      "query": "florida malpractice laws",
+      "clicks": 2,
+      "impressions": 296,
+      "ctr": 0.006756756756756757,
+      "position": 21.6722972972973
+    },
+    {
+      "query": "florida medical malpractice attorney",
+      "clicks": 2,
+      "impressions": 2552,
+      "ctr": 0.0007836990595611285,
+      "position": 11.736677115987462
+    },
+    {
+      "query": "florida medical malpractice lawyers",
+      "clicks": 2,
+      "impressions": 1149,
+      "ctr": 0.0017406440382941688,
+      "position": 11.527415143603132
+    },
+    {
+      "query": "florida medical malpractice statute of limitations for minors",
+      "clicks": 2,
+      "impressions": 10,
+      "ctr": 0.2,
+      "position": 1.6
+    },
+    {
+      "query": "florida nica",
+      "clicks": 2,
+      "impressions": 436,
+      "ctr": 0.0045871559633027525,
+      "position": 6.206422018348624
+    },
+    {
+      "query": "fort lauderdale medical malpractice lawyer",
+      "clicks": 2,
+      "impressions": 1668,
+      "ctr": 0.001199040767386091,
+      "position": 10.892685851318944
+    },
+    {
+      "query": "fort lauderdale nursing home medication overdose lawyer",
+      "clicks": 2,
+      "impressions": 172,
+      "ctr": 0.011627906976744186,
+      "position": 5.209302325581396
+    },
+    {
+      "query": "fort lauderdale nursing home physical abuse lawyer",
+      "clicks": 2,
+      "impressions": 139,
+      "ctr": 0.014388489208633094,
+      "position": 10.784172661870503
+    },
+    {
+      "query": "fort lauderdale personal injury lawyer",
+      "clicks": 2,
+      "impressions": 2856,
+      "ctr": 0.0007002801120448179,
+      "position": 18.49264705882353
+    },
+    {
+      "query": "hemorrhagic stroke injury attorney",
+      "clicks": 2,
+      "impressions": 715,
+      "ctr": 0.002797202797202797,
+      "position": 8.511888111888112
+    },
+    {
+      "query": "hospitals in south florida",
+      "clicks": 2,
+      "impressions": 201,
+      "ctr": 0.009950248756218905,
+      "position": 22.54228855721393
+    },
+    {
+      "query": "how many misdiagnoses are there a year",
+      "clicks": 2,
+      "impressions": 44,
+      "ctr": 0.045454545454545456,
+      "position": 5.7727272727272725
+    },
+    {
+      "query": "how often do doctors misdiagnose",
+      "clicks": 2,
+      "impressions": 212,
+      "ctr": 0.009433962264150943,
+      "position": 5.929245283018868
+    },
+    {
+      "query": "how to avoid complications during pregnancy",
+      "clicks": 2,
+      "impressions": 88,
+      "ctr": 0.022727272727272728,
+      "position": 6.193181818181818
+    },
+    {
+      "query": "how to prevent complications during pregnancy",
+      "clicks": 2,
+      "impressions": 55,
+      "ctr": 0.03636363636363636,
+      "position": 6.763636363636364
+    },
+    {
+      "query": "in florida",
+      "clicks": 2,
+      "impressions": 9,
+      "ctr": 0.2222222222222222,
+      "position": 4.222222222222222
+    },
+    {
+      "query": "is st mary's a good hospital",
+      "clicks": 2,
+      "impressions": 11,
+      "ctr": 0.18181818181818182,
+      "position": 2.909090909090909
+    },
+    {
+      "query": "lawyers who sue hospitals",
+      "clicks": 2,
+      "impressions": 323,
+      "ctr": 0.006191950464396285,
+      "position": 54.54489164086687
+    },
+    {
+      "query": "malpractice attorney",
+      "clicks": 2,
+      "impressions": 2898,
+      "ctr": 0.0006901311249137336,
+      "position": 23.322981366459626
+    },
+    {
+      "query": "medical malpractice attorney",
+      "clicks": 2,
+      "impressions": 56090,
+      "ctr": 0.00003565697985380638,
+      "position": 36.901765020502765
+    },
+    {
+      "query": "medical malpractice attorney fort lauderdale",
+      "clicks": 2,
+      "impressions": 791,
+      "ctr": 0.0025284450063211127,
+      "position": 19.601769911504423
+    },
+    {
+      "query": "medical malpractice consequences to doctors",
+      "clicks": 2,
+      "impressions": 141,
+      "ctr": 0.014184397163120567,
+      "position": 6.652482269503546
+    },
+    {
+      "query": "medical malpractice florida statute of limitations",
+      "clicks": 2,
+      "impressions": 421,
+      "ctr": 0.004750593824228029,
+      "position": 5.128266033254157
+    },
+    {
+      "query": "medical malpractice lawyer",
+      "clicks": 2,
+      "impressions": 176796,
+      "ctr": 0.00001131247313287631,
+      "position": 20.414234484943098
+    },
+    {
+      "query": "medical malpractice lawyers in florida",
+      "clicks": 2,
+      "impressions": 1504,
+      "ctr": 0.0013297872340425532,
+      "position": 12.86968085106383
+    },
+    {
+      "query": "medical malpractice lawyers miami",
+      "clicks": 2,
+      "impressions": 359,
+      "ctr": 0.005571030640668524,
+      "position": 15.147632311977716
+    },
+    {
+      "query": "medical malpractice statute of limitations florida",
+      "clicks": 2,
+      "impressions": 911,
+      "ctr": 0.0021953896816684962,
+      "position": 5.882546652030736
+    },
+    {
+      "query": "mercy hospital miami scandal",
+      "clicks": 2,
+      "impressions": 22,
+      "ctr": 0.09090909090909091,
+      "position": 1.4090909090909092
+    },
+    {
+      "query": "misdiagnosed",
+      "clicks": 2,
+      "impressions": 3911,
+      "ctr": 0.0005113781641523907,
+      "position": 9.03426233699821
+    },
+    {
+      "query": "negligence vs malpractice",
+      "clicks": 2,
+      "impressions": 650,
+      "ctr": 0.003076923076923077,
+      "position": 11.329230769230769
+    },
+    {
+      "query": "palm beach gardens medical center trauma level",
+      "clicks": 2,
+      "impressions": 23,
+      "ctr": 0.08695652173913043,
+      "position": 7.086956521739131
+    },
+    {
+      "query": "percentage of misdiagnosis",
+      "clicks": 2,
+      "impressions": 9,
+      "ctr": 0.2222222222222222,
+      "position": 5.777777777777778
+    },
+    {
+      "query": "personal injury attorney fort lauderdale",
+      "clicks": 2,
+      "impressions": 2926,
+      "ctr": 0.000683526999316473,
+      "position": 8.046821599453178
+    },
+    {
+      "query": "physician life after lawsuit",
+      "clicks": 2,
+      "impressions": 62,
+      "ctr": 0.03225806451612903,
+      "position": 6.645161290322581
+    },
+    {
+      "query": "plastic surgery malpractice settlements",
+      "clicks": 2,
+      "impressions": 80,
+      "ctr": 0.025,
+      "position": 16.5
+    },
+    {
+      "query": "side effects of cooling therapy",
+      "clicks": 2,
+      "impressions": 207,
+      "ctr": 0.00966183574879227,
+      "position": 2.458937198067633
+    },
+    {
+      "query": "st mary's hospital west palm beach",
+      "clicks": 2,
+      "impressions": 2,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "statute of limitations for medical malpractice",
+      "clicks": 2,
+      "impressions": 381,
+      "ctr": 0.005249343832020997,
+      "position": 5.826771653543307
+    },
+    {
+      "query": "telemetry medical",
+      "clicks": 2,
+      "impressions": 465,
+      "ctr": 0.004301075268817204,
+      "position": 8.8752688172043
+    },
+    {
+      "query": "top 10 worst hospitals in the world",
+      "clicks": 2,
+      "impressions": 36,
+      "ctr": 0.05555555555555555,
+      "position": 9.472222222222221
+    },
+    {
+      "query": "vicarious liability florida",
+      "clicks": 2,
+      "impressions": 717,
+      "ctr": 0.002789400278940028,
+      "position": 3.921896792189679
+    },
+    {
+      "query": "west boca hospital",
+      "clicks": 2,
+      "impressions": 41,
+      "ctr": 0.04878048780487805,
+      "position": 2.1463414634146343
+    },
+    {
+      "query": "west boca medical center photos",
+      "clicks": 2,
+      "impressions": 8,
+      "ctr": 0.25,
+      "position": 3.375
+    },
+    {
+      "query": "what happens to a doctor after a malpractice suit",
+      "clicks": 2,
+      "impressions": 21,
+      "ctr": 0.09523809523809523,
+      "position": 2.5238095238095237
+    },
+    {
+      "query": "what is expressed consent",
+      "clicks": 2,
+      "impressions": 706,
+      "ctr": 0.0028328611898017,
+      "position": 4.6303116147308785
+    },
+    {
+      "query": "what is free kill state of florida",
+      "clicks": 2,
+      "impressions": 49,
+      "ctr": 0.04081632653061224,
+      "position": 4
+    },
+    {
+      "query": "why would a baby need cooling therapy",
+      "clicks": 2,
+      "impressions": 128,
+      "ctr": 0.015625,
+      "position": 7.4296875
+    },
+    {
+      "query": "worst hospital in the us",
+      "clicks": 2,
+      "impressions": 81,
+      "ctr": 0.024691358024691357,
+      "position": 6.864197530864198
+    },
+    {
+      "query": "worst hospitals",
+      "clicks": 2,
+      "impressions": 22,
+      "ctr": 0.09090909090909091,
+      "position": 4.909090909090909
+    },
+    {
+      "query": "worst hospitals in us",
+      "clicks": 2,
+      "impressions": 38,
+      "ctr": 0.05263157894736842,
+      "position": 7.052631578947368
+    },
+    {
+      "query": "wrong diagnosis by doctors",
+      "clicks": 2,
+      "impressions": 67,
+      "ctr": 0.029850746268656716,
+      "position": 8.388059701492537
+    },
+    {
+      "query": "\"vicarious liability\"",
+      "clicks": 1,
+      "impressions": 211,
+      "ctr": 0.004739336492890996,
+      "position": 19.644549763033176
+    },
+    {
+      "query": "apgar score 3 means",
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 3.4
+    },
+    {
+      "query": "apgar score of 3",
+      "clicks": 1,
+      "impressions": 168,
+      "ctr": 0.005952380952380952,
+      "position": 5.875
+    },
+    {
+      "query": "apgar score of 3 meaning",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 6
+    },
+    {
+      "query": "apgar score of 4",
+      "clicks": 1,
+      "impressions": 37,
+      "ctr": 0.02702702702702703,
+      "position": 2.5945945945945947
+    },
+    {
+      "query": "are medical malpractice cases hard to win",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 6.666666666666667
+    },
+    {
+      "query": "aspiration death",
+      "clicks": 1,
+      "impressions": 377,
+      "ctr": 0.002652519893899204,
+      "position": 6.289124668435013
+    },
+    {
+      "query": "aspiration vomit death",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 4.894736842105264
+    },
+    {
+      "query": "attorney medical malpractice near me",
+      "clicks": 1,
+      "impressions": 103,
+      "ctr": 0.009708737864077669,
+      "position": 29.660194174757283
+    },
+    {
+      "query": "bad bedside manner meaning",
+      "clicks": 1,
+      "impressions": 124,
+      "ctr": 0.008064516129032258,
+      "position": 1.2338709677419355
+    },
+    {
+      "query": "baptist health west boca",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 8
+    },
+    {
+      "query": "being misdiagnosed",
+      "clicks": 1,
+      "impressions": 49,
+      "ctr": 0.02040816326530612,
+      "position": 3.2448979591836733
+    },
+    {
+      "query": "best malpractice attorney in florida",
+      "clicks": 1,
+      "impressions": 313,
+      "ctr": 0.003194888178913738,
+      "position": 7.23961661341853
+    },
+    {
+      "query": "best malpractice lawyers",
+      "clicks": 1,
+      "impressions": 49,
+      "ctr": 0.02040816326530612,
+      "position": 29.224489795918366
+    },
+    {
+      "query": "best malpractice lawyers in florida",
+      "clicks": 1,
+      "impressions": 223,
+      "ctr": 0.004484304932735426,
+      "position": 9.183856502242152
+    },
+    {
+      "query": "best medical malpractice law firm",
+      "clicks": 1,
+      "impressions": 524,
+      "ctr": 0.0019083969465648854,
+      "position": 12.570610687022901
+    },
+    {
+      "query": "best negligence lawyers",
+      "clicks": 1,
+      "impressions": 23,
+      "ctr": 0.043478260869565216,
+      "position": 13.304347826086957
+    },
+    {
+      "query": "best personal injury lawyer fort lauderdale",
+      "clicks": 1,
+      "impressions": 58,
+      "ctr": 0.017241379310344827,
+      "position": 13.689655172413794
+    },
+    {
+      "query": "best solicitors for medical negligence",
+      "clicks": 1,
+      "impressions": 131,
+      "ctr": 0.007633587786259542,
+      "position": 10.633587786259541
+    },
+    {
+      "query": "bethesda east hospital",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3
+    },
+    {
+      "query": "birth asphyxia injury lawyer",
+      "clicks": 1,
+      "impressions": 710,
+      "ctr": 0.0014084507042253522,
+      "position": 11.153521126760563
+    },
+    {
+      "query": "birth injury malpractice attorney for newborn brain damage",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "breach of duty cases",
+      "clicks": 1,
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 5.5625
+    },
+    {
+      "query": "breach of duty in healthcare",
+      "clicks": 1,
+      "impressions": 73,
+      "ctr": 0.0136986301369863,
+      "position": 5.232876712328767
+    },
+    {
+      "query": "breach of duty in nursing",
+      "clicks": 1,
+      "impressions": 56,
+      "ctr": 0.017857142857142856,
+      "position": 6.482142857142857
+    },
+    {
+      "query": "breach of duty of care in healthcare",
+      "clicks": 1,
+      "impressions": 77,
+      "ctr": 0.012987012987012988,
+      "position": 3.883116883116883
+    },
+    {
+      "query": "broncoaspiracion",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2
+    },
+    {
+      "query": "broncoaspiracion con vomito",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "caleb stalls md",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 9
+    },
+    {
+      "query": "callaway & wolf",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 49
+    },
+    {
+      "query": "can aspiration cause death",
+      "clicks": 1,
+      "impressions": 326,
+      "ctr": 0.003067484662576687,
+      "position": 2.8251533742331287
+    },
+    {
+      "query": "can aspiration kill you",
+      "clicks": 1,
+      "impressions": 62,
+      "ctr": 0.016129032258064516,
+      "position": 3.967741935483871
+    },
+    {
+      "query": "can you die from aspiration",
+      "clicks": 1,
+      "impressions": 655,
+      "ctr": 0.0015267175572519084,
+      "position": 3.2717557251908396
+    },
+    {
+      "query": "can you sue for iv infiltration",
+      "clicks": 1,
+      "impressions": 34,
+      "ctr": 0.029411764705882353,
+      "position": 2.5
+    },
+    {
+      "query": "can you sue the hospital for negligence",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 15.375
+    },
+    {
+      "query": "cause of death aspiration",
+      "clicks": 1,
+      "impressions": 38,
+      "ctr": 0.02631578947368421,
+      "position": 3.210526315789474
+    },
+    {
+      "query": "childbirth injury lawyer",
+      "clicks": 1,
+      "impressions": 54,
+      "ctr": 0.018518518518518517,
+      "position": 52.666666666666664
+    },
+    {
+      "query": "christine fields lawsuit",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 1
+    },
+    {
+      "query": "complications during surgery",
+      "clicks": 1,
+      "impressions": 85,
+      "ctr": 0.011764705882352941,
+      "position": 6.988235294117647
+    },
+    {
+      "query": "cooling therapy",
+      "clicks": 1,
+      "impressions": 424,
+      "ctr": 0.0023584905660377358,
+      "position": 4.14622641509434
+    },
+    {
+      "query": "cooling therapy for babies",
+      "clicks": 1,
+      "impressions": 23,
+      "ctr": 0.043478260869565216,
+      "position": 1.9565217391304348
+    },
+    {
+      "query": "cooling therapy in neonates",
+      "clicks": 1,
+      "impressions": 81,
+      "ctr": 0.012345679012345678,
+      "position": 1.4444444444444444
+    },
+    {
+      "query": "deeper dive",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 6
+    },
+    {
+      "query": "define vicarious liability in law",
+      "clicks": 1,
+      "impressions": 178,
+      "ctr": 0.0056179775280898875,
+      "position": 4.084269662921349
+    },
+    {
+      "query": "delayed care meaning",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 2.6
+    },
+    {
+      "query": "delayed diagnosis",
+      "clicks": 1,
+      "impressions": 558,
+      "ctr": 0.0017921146953405018,
+      "position": 9.942652329749103
+    },
+    {
+      "query": "delray beach hospital",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "delray medical center reviews",
+      "clicks": 1,
+      "impressions": 72,
+      "ctr": 0.013888888888888888,
+      "position": 9.027777777777779
+    },
+    {
+      "query": "delray medical center trauma level",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 13.842105263157896
+    },
+    {
+      "query": "dental malpractice lawyers near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "deposition in lawsuit",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 8.75
+    },
+    {
+      "query": "diagnostic errors in healthcare statistics",
+      "clicks": 1,
+      "impressions": 54,
+      "ctr": 0.018518518518518517,
+      "position": 4.537037037037037
+    },
+    {
+      "query": "doctor malpractice cases",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 37.54545454545455
+    },
+    {
+      "query": "doctor misdiagnosed me",
+      "clicks": 1,
+      "impressions": 33,
+      "ctr": 0.030303030303030304,
+      "position": 7.787878787878788
+    },
+    {
+      "query": "doctors with bad bedside manner",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 1
+    },
+    {
+      "query": "express consent meaning",
+      "clicks": 1,
+      "impressions": 776,
+      "ctr": 0.001288659793814433,
+      "position": 6.902061855670103
+    },
+    {
+      "query": "express consent or consent revoked",
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 3.35
+    },
+    {
+      "query": "express permission",
+      "clicks": 1,
+      "impressions": 232,
+      "ctr": 0.004310344827586207,
+      "position": 1.1379310344827587
+    },
+    {
+      "query": "expressed concent",
+      "clicks": 1,
+      "impressions": 41,
+      "ctr": 0.024390243902439025,
+      "position": 6.341463414634147
+    },
+    {
+      "query": "expressed consent",
+      "clicks": 1,
+      "impressions": 3522,
+      "ctr": 0.00028392958546280523,
+      "position": 7.137137989778535
+    },
+    {
+      "query": "expressed consent definition",
+      "clicks": 1,
+      "impressions": 405,
+      "ctr": 0.0024691358024691358,
+      "position": 4.832098765432098
+    },
+    {
+      "query": "expressed consent medical",
+      "clicks": 1,
+      "impressions": 128,
+      "ctr": 0.0078125,
+      "position": 4.5
+    },
+    {
+      "query": "fh legal",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 9.25
+    },
+    {
+      "query": "fhv law",
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 4.933333333333334
+    },
+    {
+      "query": "find me a lawyer",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "fl nica",
+      "clicks": 1,
+      "impressions": 198,
+      "ctr": 0.005050505050505051,
+      "position": 4.808080808080808
     }
   ],
   "topPages": [
     {
       "page": "https://www.fhvlegal.com/blog/worst-hospitals-south-florida/",
-      "clicks": 931,
-      "impressions": 19360,
-      "ctr": 0.04808884297520661,
-      "position": 8.228254132231406
+      "clicks": 897,
+      "impressions": 20122,
+      "ctr": 0.04457807375012424,
+      "position": 7.478033992644867
     },
     {
       "page": "https://www.fhvlegal.com/",
-      "clicks": 338,
-      "impressions": 33433,
-      "ctr": 0.010109771782370712,
-      "position": 22.819998205365955
+      "clicks": 391,
+      "impressions": 35079,
+      "ctr": 0.011146269848057243,
+      "position": 21.932922831323584
     },
     {
       "page": "https://www.fhvlegal.com/blog/staggering-u-s-diagnostic-error-statistics-july-2024/",
-      "clicks": 328,
-      "impressions": 59577,
-      "ctr": 0.005505480302801417,
-      "position": 7.441714084294275
+      "clicks": 349,
+      "impressions": 69378,
+      "ctr": 0.005030413099253366,
+      "position": 7.279339271815273
     },
     {
       "page": "https://www.fhvlegal.com/fort-lauderdale/?utm_source=google&utm_medium=organic&utm_campaign=gbp-fortlauderdale",
-      "clicks": 260,
-      "impressions": 96155,
-      "ctr": 0.0027039675523893715,
-      "position": 3.8481098226821278
-    },
-    {
-      "page": "https://www.fhvlegal.com/nursing-home-abuse-attorney/aspiration-death/",
-      "clicks": 211,
-      "impressions": 45345,
-      "ctr": 0.0046532142463336645,
-      "position": 3.617730731061859
+      "clicks": 302,
+      "impressions": 122055,
+      "ctr": 0.002474294375486461,
+      "position": 3.4605218958666173
     },
     {
       "page": "https://www.fhvlegal.com/blog/hospital-faces-lawsuit-over-fatal-medical-treatment-christine-fields/",
-      "clicks": 194,
-      "impressions": 5517,
-      "ctr": 0.035164038426681164,
-      "position": 7.876019575856444
+      "clicks": 201,
+      "impressions": 5560,
+      "ctr": 0.03615107913669065,
+      "position": 8.133453237410073
+    },
+    {
+      "page": "https://www.fhvlegal.com/nursing-home-abuse-attorney/aspiration-death/",
+      "clicks": 180,
+      "impressions": 43592,
+      "ctr": 0.004129198017984952,
+      "position": 3.3985364287025144
     },
     {
       "page": "https://www.fhvlegal.com/attorneys/michael-freedland-esq/",
-      "clicks": 151,
-      "impressions": 6390,
-      "ctr": 0.023630672926447573,
-      "position": 8.281220657276997
+      "clicks": 154,
+      "impressions": 5889,
+      "ctr": 0.026150449991509596,
+      "position": 8.16182713533707
     },
     {
       "page": "https://www.fhvlegal.com/attorneys/daniel-harwin-esq/",
-      "clicks": 126,
-      "impressions": 6959,
-      "ctr": 0.018106049719787326,
-      "position": 13.58499784451789
+      "clicks": 139,
+      "impressions": 5587,
+      "ctr": 0.02487918381958117,
+      "position": 14.1616252013603
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/breach-duty-of-care-medical-negligence/",
+      "clicks": 132,
+      "impressions": 31827,
+      "ctr": 0.004147422000188519,
+      "position": 7.43924969365633
     },
     {
       "page": "https://www.fhvlegal.com/medical-malpractice-attorney/",
       "clicks": 126,
-      "impressions": 133590,
-      "ctr": 0.0009431843700875814,
-      "position": 26.536170372033833
-    },
-    {
-      "page": "https://www.fhvlegal.com/blog/breach-duty-of-care-medical-negligence/",
-      "clicks": 114,
-      "impressions": 29755,
-      "ctr": 0.0038312888590152916,
-      "position": 8.114905057973449
-    },
-    {
-      "page": "https://www.fhvlegal.com/blog/examples-of-bad-bedside-manner-versus-medical-malpractice/",
-      "clicks": 107,
-      "impressions": 14870,
-      "ctr": 0.0071956960322797575,
-      "position": 4.602824478816409
+      "impressions": 227420,
+      "ctr": 0.0005540409814440243,
+      "position": 22.83634245009234
     },
     {
       "page": "https://www.fhvlegal.com/medical-malpractice-attorney/consequences/",
+      "clicks": 126,
+      "impressions": 142011,
+      "ctr": 0.0008872552126243742,
+      "position": 39.236411263916175
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/examples-of-bad-bedside-manner-versus-medical-malpractice/",
       "clicks": 104,
-      "impressions": 143047,
-      "ctr": 0.0007270337721168566,
-      "position": 41.62048138024566
+      "impressions": 19550,
+      "ctr": 0.005319693094629156,
+      "position": 4.01304347826087
     },
     {
       "page": "https://www.fhvlegal.com/blog/medical-malpractice-statute-of-limitations-in-florida/",
-      "clicks": 103,
-      "impressions": 34122,
-      "ctr": 0.0030185803880194598,
-      "position": 7.4836762206201275
+      "clicks": 95,
+      "impressions": 36077,
+      "ctr": 0.0026332566455082185,
+      "position": 7.59730576267428
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/who-can-sue-for-medical-malpractice-in-florida/",
+      "clicks": 94,
+      "impressions": 17101,
+      "ctr": 0.005496754575755804,
+      "position": 12.542307467399567
     },
     {
       "page": "https://www.fhvlegal.com/blog/telemetry-medical-malpractice-examples/",
-      "clicks": 76,
-      "impressions": 9098,
-      "ctr": 0.008353484282259837,
-      "position": 7.253572213673335
+      "clicks": 93,
+      "impressions": 10836,
+      "ctr": 0.00858250276854928,
+      "position": 6.489756367663344
+    },
+    {
+      "page": "https://www.fhvlegal.com/medical-malpractice-attorney/surgical-errors/plastic-surgery/",
+      "clicks": 86,
+      "impressions": 15388,
+      "ctr": 0.005588770470496491,
+      "position": 15.131141148947231
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/what-is-cooling-therapy-for-newborns/",
+      "clicks": 80,
+      "impressions": 19580,
+      "ctr": 0.0040858018386108275,
+      "position": 9.027987742594485
     },
     {
       "page": "https://www.fhvlegal.com/attorneys/peter-spillis/",
       "clicks": 73,
-      "impressions": 1025,
-      "ctr": 0.07121951219512195,
-      "position": 9.622439024390244
-    },
-    {
-      "page": "https://www.fhvlegal.com/blog/who-can-sue-for-medical-malpractice-in-florida/",
-      "clicks": 72,
-      "impressions": 16685,
-      "ctr": 0.004315253221456398,
-      "position": 13.7419238837279
-    },
-    {
-      "page": "https://www.fhvlegal.com/fort-lauderdale/",
-      "clicks": 69,
-      "impressions": 264277,
-      "ctr": 0.0002610896899843725,
-      "position": 39.10477642776329
-    },
-    {
-      "page": "https://www.fhvlegal.com/blog/florida-free-kill-law/",
-      "clicks": 68,
-      "impressions": 24535,
-      "ctr": 0.002771550845730589,
-      "position": 4.45718361524353
-    },
-    {
-      "page": "https://www.fhvlegal.com/blog/what-is-cooling-therapy-for-newborns/",
-      "clicks": 66,
-      "impressions": 16962,
-      "ctr": 0.0038910505836575876,
-      "position": 10.892996108949417
+      "impressions": 1005,
+      "ctr": 0.07263681592039802,
+      "position": 9.710447761194029
     },
     {
       "page": "https://www.fhvlegal.com/blog/what-happens-during-a-deposition-in-a-malpractice-lawsuit/",
-      "clicks": 63,
-      "impressions": 5715,
-      "ctr": 0.011023622047244094,
-      "position": 6.861417322834646
+      "clicks": 71,
+      "impressions": 7153,
+      "ctr": 0.009925905214595274,
+      "position": 6.519642108206347
     },
     {
-      "page": "https://www.fhvlegal.com/medical-malpractice-attorney/surgical-errors/plastic-surgery/",
-      "clicks": 63,
-      "impressions": 14455,
-      "ctr": 0.0043583535108958835,
-      "position": 17.03894846074023
+      "page": "https://www.fhvlegal.com/blog/medical-board-complaints-vs-malpractice-lawsuits/",
+      "clicks": 70,
+      "impressions": 8778,
+      "ctr": 0.007974481658692184,
+      "position": 5.564593301435407
     },
     {
-      "page": "https://www.fhvlegal.com/blog/can-a-heart-attack-be-misdiagnosed/",
-      "clicks": 59,
-      "impressions": 11292,
-      "ctr": 0.00522493800921006,
-      "position": 10.648157987956075
+      "page": "https://www.fhvlegal.com/fort-lauderdale/",
+      "clicks": 70,
+      "impressions": 340164,
+      "ctr": 0.00020578309286109053,
+      "position": 37.04045695605649
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/florida-free-kill-law/",
+      "clicks": 64,
+      "impressions": 22216,
+      "ctr": 0.0028808066258552397,
+      "position": 4.69530968671228
     },
     {
       "page": "https://www.fhvlegal.com/blog/nica-birth-injury-fund/",
+      "clicks": 64,
+      "impressions": 15114,
+      "ctr": 0.004234484583829562,
+      "position": 6.929006219399232
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/what-to-know-about-floridas-new-advanced-birth-center-laws/",
+      "clicks": 63,
+      "impressions": 6138,
+      "ctr": 0.010263929618768328,
+      "position": 7.277126099706745
+    },
+    {
+      "page": "https://www.fhvlegal.com/attorneys/deborah-gander-esq/",
       "clicks": 59,
-      "impressions": 13537,
-      "ctr": 0.004358425057250499,
-      "position": 6.9763610844352515
+      "impressions": 2372,
+      "ctr": 0.024873524451939293,
+      "position": 14.280775716694773
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/what-should-you-do-if-you-think-youve-been-misdiagnosed/",
+      "clicks": 57,
+      "impressions": 16333,
+      "ctr": 0.0034898671401457173,
+      "position": 5.815098267311578
     },
     {
       "page": "https://www.fhvlegal.com/medical-malpractice-attorney/hospitals/",
       "clicks": 57,
-      "impressions": 14195,
-      "ctr": 0.004015498414934836,
-      "position": 23.34399436421275
-    },
-    {
-      "page": "https://www.fhvlegal.com/attorneys/deborah-gander-esq/",
-      "clicks": 54,
-      "impressions": 2488,
-      "ctr": 0.021704180064308683,
-      "position": 14.580385852090032
-    },
-    {
-      "page": "https://www.fhvlegal.com/blog/medical-board-complaints-vs-malpractice-lawsuits/",
-      "clicks": 51,
-      "impressions": 6022,
-      "ctr": 0.00846894719362338,
-      "position": 6.547492527399535
-    },
-    {
-      "page": "https://www.fhvlegal.com/blog/what-should-you-do-if-you-think-youve-been-misdiagnosed/",
-      "clicks": 51,
-      "impressions": 16536,
-      "ctr": 0.003084179970972424,
-      "position": 6.212385099177552
+      "impressions": 15139,
+      "ctr": 0.003765109980844177,
+      "position": 22.68498579826937
     },
     {
       "page": "https://www.fhvlegal.com/blog/how-social-determinants-impact-medical-outcomes-florida/",
-      "clicks": 48,
-      "impressions": 2745,
-      "ctr": 0.017486338797814208,
-      "position": 7.51183970856102
+      "clicks": 56,
+      "impressions": 3125,
+      "ctr": 0.01792,
+      "position": 7.16768
     },
     {
-      "page": "https://www.fhvlegal.com/attorneys/raymond-valori-esq/",
-      "clicks": 47,
-      "impressions": 1421,
-      "ctr": 0.033075299085151305,
-      "position": 18.070372976776916
-    },
-    {
-      "page": "https://www.fhvlegal.com/blog/how-much-does-hiring-a-malpractice-lawyer-cost/",
-      "clicks": 47,
-      "impressions": 21393,
-      "ctr": 0.0021969803206656384,
-      "position": 6.86635815453653
-    },
-    {
-      "page": "https://www.fhvlegal.com/blog/can-i-sue-if-i-signed-a-consent-form-florida-law/",
-      "clicks": 46,
-      "impressions": 9653,
-      "ctr": 0.004765357919817673,
-      "position": 5.17880451673055
+      "page": "https://www.fhvlegal.com/blog/can-a-heart-attack-be-misdiagnosed/",
+      "clicks": 55,
+      "impressions": 10373,
+      "ctr": 0.005302226935312832,
+      "position": 9.930107008579967
     },
     {
       "page": "https://www.fhvlegal.com/blog/interpreter-errors-hospitals-medical-mistakes-florida/",
-      "clicks": 44,
-      "impressions": 8056,
-      "ctr": 0.005461767626613704,
-      "position": 6.326713008937438
+      "clicks": 54,
+      "impressions": 9428,
+      "ctr": 0.0057276198557488335,
+      "position": 6.0895205770046665
     },
     {
-      "page": "https://www.fhvlegal.com/medical-malpractice-attorney/birth-injury/stillbirth/",
-      "clicks": 44,
-      "impressions": 15544,
-      "ctr": 0.0028306742151312406,
-      "position": 29.727161605764284
-    },
-    {
-      "page": "https://www.fhvlegal.com/blog/examining-medical-malpractice-caps-in-florida/",
-      "clicks": 43,
-      "impressions": 7717,
-      "ctr": 0.005572113515614876,
-      "position": 8.685499546455876
-    },
-    {
-      "page": "https://www.fhvlegal.com/blog/what-to-know-about-floridas-new-advanced-birth-center-laws/",
-      "clicks": 43,
-      "impressions": 3366,
-      "ctr": 0.01277480689245395,
-      "position": 8.1010101010101
-    },
-    {
-      "page": "https://www.fhvlegal.com/medical-malpractice-attorney/psychiatric-negligence/",
-      "clicks": 41,
-      "impressions": 5612,
-      "ctr": 0.007305773342836779,
-      "position": 14.439950106913756
-    },
-    {
-      "page": "https://www.fhvlegal.com/attorneys/melissa-gunion-esq/",
-      "clicks": 40,
-      "impressions": 1237,
-      "ctr": 0.03233629749393695,
-      "position": 21.853678253839934
+      "page": "https://www.fhvlegal.com/blog/can-i-sue-if-i-signed-a-consent-form-florida-law/",
+      "clicks": 50,
+      "impressions": 11816,
+      "ctr": 0.0042315504400812455,
+      "position": 5.026150981719702
     },
     {
       "page": "https://www.fhvlegal.com/blog/updated-reports-on-floridas-infant-mortality-rate-june-2024/",
-      "clicks": 39,
-      "impressions": 5455,
-      "ctr": 0.007149404216315307,
-      "position": 6.336571952337305
+      "clicks": 48,
+      "impressions": 5797,
+      "ctr": 0.008280144902535794,
+      "position": 6.304812834224599
     },
     {
-      "page": "https://www.fhvlegal.com/blog/what-is-vicarious-liability/",
-      "clicks": 39,
-      "impressions": 44279,
-      "ctr": 0.0008807786987059329,
-      "position": 6.80112468664604
-    },
-    {
-      "page": "https://www.fhvlegal.com/blog/express-consent-health-care/",
-      "clicks": 38,
-      "impressions": 24714,
-      "ctr": 0.0015375900299425427,
-      "position": 6.8877963907097195
-    },
-    {
-      "page": "https://www.fhvlegal.com/blog/how-long-do-medical-malpractice-cases-take-in-florida/",
-      "clicks": 38,
-      "impressions": 7607,
-      "ctr": 0.004995398974628631,
-      "position": 22.74102800052583
-    },
-    {
-      "page": "https://www.fhvlegal.com/attorneys/",
-      "clicks": 37,
-      "impressions": 10062,
-      "ctr": 0.0036772013516199564,
-      "position": 27.78861061419201
-    },
-    {
-      "page": "https://www.fhvlegal.com/have-a-well-informed-pregnancy-avoid-complications/",
-      "clicks": 31,
-      "impressions": 4573,
-      "ctr": 0.0067789197463371965,
-      "position": 10.50338945987317
-    },
-    {
-      "page": "https://www.fhvlegal.com/medical-malpractice-attorney/hca-florida-mercy-hospital/",
-      "clicks": 31,
-      "impressions": 3617,
-      "ctr": 0.008570638650815593,
-      "position": 17.033453137959636
-    },
-    {
-      "page": "https://www.fhvlegal.com/medical-malpractice-attorney/broward-health-medical-center/",
-      "clicks": 29,
-      "impressions": 2520,
-      "ctr": 0.011507936507936509,
-      "position": 8.940079365079365
-    },
-    {
-      "page": "https://www.fhvlegal.com/medical-malpractice-attorney/hca-aventura-hospital/",
-      "clicks": 28,
-      "impressions": 4598,
-      "ctr": 0.006089604175728578,
-      "position": 20.694432361896478
-    },
-    {
-      "page": "https://www.fhvlegal.com/blog/how-to-find-out-if-my-doctor-has-been-sued/",
-      "clicks": 26,
-      "impressions": 4544,
-      "ctr": 0.005721830985915493,
-      "position": 5.180017605633803
+      "page": "https://www.fhvlegal.com/medical-malpractice-attorney/psychiatric-negligence/",
+      "clicks": 48,
+      "impressions": 6970,
+      "ctr": 0.006886657101865136,
+      "position": 12.664275466284074
     },
     {
       "page": "https://www.fhvlegal.com/blog/understanding-the-link-between-delayed-diagnosis-and-patient-harm/",
-      "clicks": 26,
-      "impressions": 7281,
-      "ctr": 0.0035709380579590716,
-      "position": 6.897266858947947
+      "clicks": 47,
+      "impressions": 10644,
+      "ctr": 0.0044156332205937615,
+      "position": 6.391018414130026
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/what-is-vicarious-liability/",
+      "clicks": 47,
+      "impressions": 46761,
+      "ctr": 0.0010051110968542162,
+      "position": 6.418382840401189
+    },
+    {
+      "page": "https://www.fhvlegal.com/attorneys/melissa-gunion-esq/",
+      "clicks": 45,
+      "impressions": 1099,
+      "ctr": 0.04094631483166515,
+      "position": 22.141037306642403
+    },
+    {
+      "page": "https://www.fhvlegal.com/attorneys/",
+      "clicks": 42,
+      "impressions": 9475,
+      "ctr": 0.0044327176781002635,
+      "position": 32.00559366754618
+    },
+    {
+      "page": "https://www.fhvlegal.com/attorneys/raymond-valori-esq/",
+      "clicks": 42,
+      "impressions": 1399,
+      "ctr": 0.03002144388849178,
+      "position": 18.592566118656183
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/express-consent-health-care/",
+      "clicks": 42,
+      "impressions": 26347,
+      "ctr": 0.0015941093862678862,
+      "position": 6.616882377500285
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/how-much-does-hiring-a-malpractice-lawyer-cost/",
+      "clicks": 42,
+      "impressions": 24474,
+      "ctr": 0.0017161068889433686,
+      "position": 6.596061126092996
+    },
+    {
+      "page": "https://www.fhvlegal.com/medical-malpractice-attorney/birth-injury/stillbirth/",
+      "clicks": 42,
+      "impressions": 15942,
+      "ctr": 0.0026345502446368085,
+      "position": 29.80924601681094
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/examining-medical-malpractice-caps-in-florida/",
+      "clicks": 38,
+      "impressions": 8121,
+      "ctr": 0.004679226696219677,
+      "position": 7.822066247999015
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/how-long-do-medical-malpractice-cases-take-in-florida/",
+      "clicks": 37,
+      "impressions": 7599,
+      "ctr": 0.00486906171864719,
+      "position": 22.75075667851033
+    },
+    {
+      "page": "https://www.fhvlegal.com/medical-malpractice-attorney/broward-health-medical-center/",
+      "clicks": 37,
+      "impressions": 2825,
+      "ctr": 0.013097345132743363,
+      "position": 8.43929203539823
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/florida-statutes-damage-caps-malpractice-settlements/",
+      "clicks": 35,
+      "impressions": 6346,
+      "ctr": 0.005515285219035613,
+      "position": 9.347305389221557
+    },
+    {
+      "page": "https://www.fhvlegal.com/blog/how-to-find-out-if-my-doctor-has-been-sued/",
+      "clicks": 33,
+      "impressions": 4910,
+      "ctr": 0.006720977596741344,
+      "position": 5.610386965376782
+    },
+    {
+      "page": "https://www.fhvlegal.com/have-a-well-informed-pregnancy-avoid-complications/",
+      "clicks": 33,
+      "impressions": 4680,
+      "ctr": 0.007051282051282051,
+      "position": 9.51474358974359
     },
     {
       "page": "https://www.fhvlegal.com/medical-malpractice-attorney/bethesda-hospital/",
-      "clicks": 26,
-      "impressions": 2084,
-      "ctr": 0.012476007677543186,
-      "position": 16.200095969289826
+      "clicks": 33,
+      "impressions": 2664,
+      "ctr": 0.012387387387387387,
+      "position": 11.973723723723724
+    },
+    {
+      "page": "https://www.fhvlegal.com/medical-malpractice-attorney/mount-sinai-medical-center/",
+      "clicks": 31,
+      "impressions": 1818,
+      "ctr": 0.017051705170517052,
+      "position": 8.77997799779978
     },
     {
       "page": "https://www.fhvlegal.com/medical-malpractice-attorney/iv-infiltration-errors/",
-      "clicks": 25,
-      "impressions": 1891,
-      "ctr": 0.013220518244315178,
-      "position": 8.733474352194605
+      "clicks": 28,
+      "impressions": 2191,
+      "ctr": 0.012779552715654952,
+      "position": 7.5778183477863985
     }
   ],
-  "fetchedAt": "2026-03-18T13:07:35.187Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "worst hospitals in florida",
+      "clicks": 371,
+      "impressions": 1176,
+      "ctr": 0.31547619047619047,
+      "position": 1.1981292517006803
+    },
+    {
+      "query": "freedland harwin valori",
+      "clicks": 177,
+      "impressions": 349,
+      "ctr": 0.5071633237822349,
+      "position": 1.0315186246418337
+    },
+    {
+      "query": "florida free kill law",
+      "clicks": 35,
+      "impressions": 2201,
+      "ctr": 0.01590186278964107,
+      "position": 6.088596092685143
+    },
+    {
+      "query": "fhvg",
+      "clicks": 30,
+      "impressions": 1187,
+      "ctr": 0.02527379949452401,
+      "position": 2.1996630160067396
+    },
+    {
+      "query": "medical malpractice consequences to doctors",
+      "clicks": 30,
+      "impressions": 840,
+      "ctr": 0.03571428571428571,
+      "position": 4.217857142857143
+    },
+    {
+      "query": "daniel harwin",
+      "clicks": 29,
+      "impressions": 103,
+      "ctr": 0.2815533980582524,
+      "position": 1.203883495145631
+    },
+    {
+      "query": "freedland harwin valori gander",
+      "clicks": 27,
+      "impressions": 75,
+      "ctr": 0.36,
+      "position": 1.0666666666666667
+    },
+    {
+      "query": "fhv legal",
+      "clicks": 26,
+      "impressions": 67,
+      "ctr": 0.3880597014925373,
+      "position": 1
+    },
+    {
+      "query": "michael freedland",
+      "clicks": 25,
+      "impressions": 246,
+      "ctr": 0.1016260162601626,
+      "position": 5.2560975609756095
+    },
+    {
+      "query": "worst hospitals in florida 2024",
+      "clicks": 24,
+      "impressions": 72,
+      "ctr": 0.3333333333333333,
+      "position": 1.0138888888888888
+    },
+    {
+      "query": "deborah gander",
+      "clicks": 20,
+      "impressions": 61,
+      "ctr": 0.32786885245901637,
+      "position": 1
+    },
+    {
+      "query": "fhv law firm",
+      "clicks": 18,
+      "impressions": 57,
+      "ctr": 0.3157894736842105,
+      "position": 1.2105263157894737
+    },
+    {
+      "query": "is death by aspiration painful",
+      "clicks": 18,
+      "impressions": 1978,
+      "ctr": 0.00910010111223458,
+      "position": 7.982810920121334
+    },
+    {
+      "query": "christine fields",
+      "clicks": 17,
+      "impressions": 496,
+      "ctr": 0.034274193548387094,
+      "position": 4.685483870967742
+    },
+    {
+      "query": "free kill law florida",
+      "clicks": 17,
+      "impressions": 2325,
+      "ctr": 0.007311827956989247,
+      "position": 6.260645161290323
+    },
+    {
+      "query": "misdiagnosis statistics",
+      "clicks": 17,
+      "impressions": 298,
+      "ctr": 0.05704697986577181,
+      "position": 6.8120805369127515
+    },
+    {
+      "query": "bedside manner meaning",
+      "clicks": 14,
+      "impressions": 3505,
+      "ctr": 0.003994293865905849,
+      "position": 6.724964336661912
+    },
+    {
+      "query": "fhv law",
+      "clicks": 13,
+      "impressions": 88,
+      "ctr": 0.14772727272727273,
+      "position": 3.875
+    },
+    {
+      "query": "physician life after lawsuit",
+      "clicks": 13,
+      "impressions": 198,
+      "ctr": 0.06565656565656566,
+      "position": 3.1464646464646466
+    },
+    {
+      "query": "sudden death due to aspiration",
+      "clicks": 12,
+      "impressions": 763,
+      "ctr": 0.015727391874180863,
+      "position": 6.90956749672346
+    },
+    {
+      "query": "bedside manner",
+      "clicks": 11,
+      "impressions": 5340,
+      "ctr": 0.002059925093632959,
+      "position": 10.164794007490636
+    },
+    {
+      "query": "free kill law",
+      "clicks": 11,
+      "impressions": 1158,
+      "ctr": 0.009499136442141624,
+      "position": 6.0932642487046635
+    },
+    {
+      "query": "bad bedside manner",
+      "clicks": 9,
+      "impressions": 195,
+      "ctr": 0.046153846153846156,
+      "position": 2.0974358974358975
+    },
+    {
+      "query": "signs of dying from aspiration pneumonia",
+      "clicks": 8,
+      "impressions": 760,
+      "ctr": 0.010526315789473684,
+      "position": 21.064473684210526
+    },
+    {
+      "query": "medical malpractice lawyers",
+      "clicks": 7,
+      "impressions": 5453,
+      "ctr": 0.0012836970474967907,
+      "position": 27.0392444525949
+    },
+    {
+      "query": "what is the free kill law in florida",
+      "clicks": 7,
+      "impressions": 450,
+      "ctr": 0.015555555555555555,
+      "position": 4.98
+    },
+    {
+      "query": "medical malpractice attorneys",
+      "clicks": 6,
+      "impressions": 6046,
+      "ctr": 0.0009923916639100231,
+      "position": 32.037710883228584
+    },
+    {
+      "query": "poor bedside manner",
+      "clicks": 6,
+      "impressions": 157,
+      "ctr": 0.03821656050955414,
+      "position": 2.1019108280254777
+    },
+    {
+      "query": "telemetry",
+      "clicks": 6,
+      "impressions": 368,
+      "ctr": 0.016304347826086956,
+      "position": 2.0760869565217392
+    },
+    {
+      "query": "954-935-4514",
+      "clicks": 5,
+      "impressions": 159,
+      "ctr": 0.031446540880503145,
+      "position": 4.037735849056604
+    },
+    {
+      "query": "bad bedside manner meaning",
+      "clicks": 5,
+      "impressions": 168,
+      "ctr": 0.02976190476190476,
+      "position": 3.9464285714285716
+    },
+    {
+      "query": "breach of standard of care examples",
+      "clicks": 5,
+      "impressions": 138,
+      "ctr": 0.036231884057971016,
+      "position": 4.746376811594203
+    },
+    {
+      "query": "nica florida",
+      "clicks": 5,
+      "impressions": 1373,
+      "ctr": 0.003641660597232338,
+      "position": 7.000728332119446
+    },
+    {
+      "query": "what happens if you lose a malpractice case",
+      "clicks": 5,
+      "impressions": 300,
+      "ctr": 0.016666666666666666,
+      "position": 6.55
+    },
+    {
+      "query": "woodhull hospital",
+      "clicks": 5,
+      "impressions": 91,
+      "ctr": 0.054945054945054944,
+      "position": 3.340659340659341
+    },
+    {
+      "query": "how long does a malpractice settlement take",
+      "clicks": 4,
+      "impressions": 1198,
+      "ctr": 0.00333889816360601,
+      "position": 38.565108514190314
+    },
+    {
+      "query": "malpractice",
+      "clicks": 4,
+      "impressions": 146,
+      "ctr": 0.0273972602739726,
+      "position": 10.178082191780822
+    },
+    {
+      "query": "malpractice attorney",
+      "clicks": 4,
+      "impressions": 1278,
+      "ctr": 0.003129890453834116,
+      "position": 23.72222222222222
+    },
+    {
+      "query": "malpractice lawyer",
+      "clicks": 4,
+      "impressions": 1617,
+      "ctr": 0.0024737167594310453,
+      "position": 22.831787260358688
+    },
+    {
+      "query": "malpractice lawyers near me",
+      "clicks": 4,
+      "impressions": 1196,
+      "ctr": 0.0033444816053511705,
+      "position": 19.38545150501672
+    },
+    {
+      "query": "medical malpractice lawyer",
+      "clicks": 4,
+      "impressions": 9441,
+      "ctr": 0.00042368393178688696,
+      "position": 32.74536595699608
+    },
+    {
+      "query": "misdiagnosed",
+      "clicks": 4,
+      "impressions": 200,
+      "ctr": 0.02,
+      "position": 45.19
+    },
+    {
+      "query": "what happens to a doctor after a malpractice suit",
+      "clicks": 4,
+      "impressions": 47,
+      "ctr": 0.0851063829787234,
+      "position": 2.0212765957446805
+    },
+    {
+      "query": "what is florida's free kill law",
+      "clicks": 4,
+      "impressions": 354,
+      "ctr": 0.011299435028248588,
+      "position": 4.853107344632768
+    },
+    {
+      "query": "what is the free kill law",
+      "clicks": 4,
+      "impressions": 244,
+      "ctr": 0.01639344262295082,
+      "position": 4.987704918032787
+    },
+    {
+      "query": "worst hospitals in the us",
+      "clicks": 4,
+      "impressions": 355,
+      "ctr": 0.011267605633802818,
+      "position": 8.028169014084508
+    },
+    {
+      "query": "best medical malpractice lawyers in south florida",
+      "clicks": 3,
+      "impressions": 485,
+      "ctr": 0.006185567010309278,
+      "position": 11.602061855670103
+    },
+    {
+      "query": "christine fields cause of death",
+      "clicks": 3,
+      "impressions": 63,
+      "ctr": 0.047619047619047616,
+      "position": 5.555555555555555
+    },
+    {
+      "query": "florida nica",
+      "clicks": 3,
+      "impressions": 365,
+      "ctr": 0.00821917808219178,
+      "position": 6.890410958904109
+    },
+    {
+      "query": "medical malpractice",
+      "clicks": 3,
+      "impressions": 1717,
+      "ctr": 0.0017472335468841002,
+      "position": 28.030285381479324
+    },
+    {
+      "query": "medical malpractice attorneys fort lauderdale",
+      "clicks": 3,
+      "impressions": 451,
+      "ctr": 0.0066518847006651885,
+      "position": 6.4611973392461195
+    },
+    {
+      "query": "medical malpractice attorneys near me",
+      "clicks": 3,
+      "impressions": 196,
+      "ctr": 0.015306122448979591,
+      "position": 23.122448979591837
+    },
+    {
+      "query": "medical misdiagnosis statistics",
+      "clicks": 3,
+      "impressions": 347,
+      "ctr": 0.008645533141210375,
+      "position": 9.354466858789625
+    },
+    {
+      "query": "mount sinai lawsuit",
+      "clicks": 3,
+      "impressions": 24,
+      "ctr": 0.125,
+      "position": 21
+    },
+    {
+      "query": "vicarious liability florida",
+      "clicks": 3,
+      "impressions": 931,
+      "ctr": 0.00322234156820623,
+      "position": 5.211600429645542
+    },
+    {
+      "query": "what is the florida free kill law",
+      "clicks": 3,
+      "impressions": 114,
+      "ctr": 0.02631578947368421,
+      "position": 5.350877192982456
+    },
+    {
+      "query": "worst hospital in the world",
+      "clicks": 3,
+      "impressions": 175,
+      "ctr": 0.017142857142857144,
+      "position": 6.64
+    },
+    {
+      "query": "worst hospitals in the world",
+      "clicks": 3,
+      "impressions": 83,
+      "ctr": 0.03614457831325301,
+      "position": 6.120481927710843
+    },
+    {
+      "query": "aspiration cause of death",
+      "clicks": 2,
+      "impressions": 159,
+      "ctr": 0.012578616352201259,
+      "position": 8.062893081761008
+    },
+    {
+      "query": "aspiration death",
+      "clicks": 2,
+      "impressions": 511,
+      "ctr": 0.003913894324853229,
+      "position": 8.821917808219178
+    },
+    {
+      "query": "caleb stalls md",
+      "clicks": 2,
+      "impressions": 27,
+      "ctr": 0.07407407407407407,
+      "position": 17.74074074074074
+    },
+    {
+      "query": "christine fields lawsuit",
+      "clicks": 2,
+      "impressions": 27,
+      "ctr": 0.07407407407407407,
+      "position": 1.3703703703703702
+    },
+    {
+      "query": "consequences of malpractice",
+      "clicks": 2,
+      "impressions": 103,
+      "ctr": 0.019417475728155338,
+      "position": 5.213592233009709
+    },
+    {
+      "query": "death by aspiration of vomit",
+      "clicks": 2,
+      "impressions": 345,
+      "ctr": 0.005797101449275362,
+      "position": 11.310144927536232
+    },
+    {
+      "query": "diagnostic errors in healthcare statistics",
+      "clicks": 2,
+      "impressions": 32,
+      "ctr": 0.0625,
+      "position": 7.90625
+    },
+    {
+      "query": "expressed consent definition medical",
+      "clicks": 2,
+      "impressions": 60,
+      "ctr": 0.03333333333333333,
+      "position": 5.5
+    },
+    {
+      "query": "florida birth related neurological compensation association",
+      "clicks": 2,
+      "impressions": 42,
+      "ctr": 0.047619047619047616,
+      "position": 7.857142857142857
+    },
+    {
+      "query": "florida medical malpractice statute",
+      "clicks": 2,
+      "impressions": 110,
+      "ctr": 0.01818181818181818,
+      "position": 12.736363636363636
+    },
+    {
+      "query": "florida statute of limitations medical malpractice",
+      "clicks": 2,
+      "impressions": 378,
+      "ctr": 0.005291005291005291,
+      "position": 9.404761904761905
+    },
+    {
+      "query": "florida's free kill law",
+      "clicks": 2,
+      "impressions": 178,
+      "ctr": 0.011235955056179775,
+      "position": 5.814606741573034
+    },
+    {
+      "query": "fort lauderdale medical malpractice attorney",
+      "clicks": 2,
+      "impressions": 1254,
+      "ctr": 0.001594896331738437,
+      "position": 4.831738437001595
+    },
+    {
+      "query": "fort lauderdale medical malpractice lawyer",
+      "clicks": 2,
+      "impressions": 1473,
+      "ctr": 0.0013577732518669382,
+      "position": 4.507128309572302
+    },
+    {
+      "query": "fort lauderdale medical malpractice lawyers",
+      "clicks": 2,
+      "impressions": 334,
+      "ctr": 0.005988023952095809,
+      "position": 4.544910179640718
+    },
+    {
+      "query": "free to kill",
+      "clicks": 2,
+      "impressions": 17,
+      "ctr": 0.11764705882352941,
+      "position": 5.647058823529412
+    },
+    {
+      "query": "freeland law",
+      "clicks": 2,
+      "impressions": 24,
+      "ctr": 0.08333333333333333,
+      "position": 6.833333333333333
+    },
+    {
+      "query": "how common are misdiagnosis",
+      "clicks": 2,
+      "impressions": 10,
+      "ctr": 0.2,
+      "position": 4.3
+    },
+    {
+      "query": "how long do medical malpractice cases take",
+      "clicks": 2,
+      "impressions": 607,
+      "ctr": 0.0032948929159802307,
+      "position": 52.14003294892916
+    },
+    {
+      "query": "jennifer rufer",
+      "clicks": 2,
+      "impressions": 51,
+      "ctr": 0.0392156862745098,
+      "position": 7.215686274509804
+    },
+    {
+      "query": "malpractice consequences",
+      "clicks": 2,
+      "impressions": 47,
+      "ctr": 0.0425531914893617,
+      "position": 4.25531914893617
+    },
+    {
+      "query": "medical errors 2024",
+      "clicks": 2,
+      "impressions": 36,
+      "ctr": 0.05555555555555555,
+      "position": 2.583333333333333
+    },
+    {
+      "query": "medical malpractice florida",
+      "clicks": 2,
+      "impressions": 532,
+      "ctr": 0.0037593984962406013,
+      "position": 13.272556390977444
+    },
+    {
+      "query": "medical malpractice lawyers near me",
+      "clicks": 2,
+      "impressions": 581,
+      "ctr": 0.0034423407917383822,
+      "position": 7.185886402753873
+    },
+    {
+      "query": "medical malpractice miscarriage cases",
+      "clicks": 2,
+      "impressions": 87,
+      "ctr": 0.022988505747126436,
+      "position": 7.931034482758621
+    },
+    {
+      "query": "medical negligence lawyers",
+      "clicks": 2,
+      "impressions": 381,
+      "ctr": 0.005249343832020997,
+      "position": 17.04199475065617
+    },
+    {
+      "query": "medication error statistics 2024",
+      "clicks": 2,
+      "impressions": 73,
+      "ctr": 0.0273972602739726,
+      "position": 8.383561643835616
+    },
+    {
+      "query": "michael freeland",
+      "clicks": 2,
+      "impressions": 52,
+      "ctr": 0.038461538461538464,
+      "position": 15.557692307692308
+    },
+    {
+      "query": "misdiagnosis rates",
+      "clicks": 2,
+      "impressions": 22,
+      "ctr": 0.09090909090909091,
+      "position": 4.590909090909091
+    },
+    {
+      "query": "obgyn malpractice lawyer",
+      "clicks": 2,
+      "impressions": 86,
+      "ctr": 0.023255813953488372,
+      "position": 23.197674418604652
+    },
+    {
+      "query": "statute of limitations for medical malpractice",
+      "clicks": 2,
+      "impressions": 177,
+      "ctr": 0.011299435028248588,
+      "position": 11.305084745762711
+    },
+    {
+      "query": "what are apgar scores",
+      "clicks": 2,
+      "impressions": 18,
+      "ctr": 0.1111111111111111,
+      "position": 28.22222222222222
+    },
+    {
+      "query": "what do you need to prove medical malpractice",
+      "clicks": 2,
+      "impressions": 10,
+      "ctr": 0.2,
+      "position": 34.3
+    },
+    {
+      "query": "what is free kill law in florida",
+      "clicks": 2,
+      "impressions": 127,
+      "ctr": 0.015748031496062992,
+      "position": 5.149606299212598
+    },
+    {
+      "query": "what is the statute of limitations on medical malpractice in florida",
+      "clicks": 2,
+      "impressions": 179,
+      "ctr": 0.0111731843575419,
+      "position": 8.145251396648046
+    },
+    {
+      "query": "what is the worst hospital in the world",
+      "clicks": 2,
+      "impressions": 45,
+      "ctr": 0.044444444444444446,
+      "position": 5.822222222222222
+    },
+    {
+      "query": "who can sue for medical malpractice in florida",
+      "clicks": 2,
+      "impressions": 326,
+      "ctr": 0.006134969325153374,
+      "position": 4.754601226993865
+    },
+    {
+      "query": "woodhull hospital death",
+      "clicks": 2,
+      "impressions": 33,
+      "ctr": 0.06060606060606061,
+      "position": 10.212121212121213
+    },
+    {
+      "query": "worst hospital in florida",
+      "clicks": 2,
+      "impressions": 6,
+      "ctr": 0.3333333333333333,
+      "position": 1.5
+    },
+    {
+      "query": "worst hospitals",
+      "clicks": 2,
+      "impressions": 104,
+      "ctr": 0.019230769230769232,
+      "position": 6.9423076923076925
+    },
+    {
+      "query": "worst hospitals to work for in florida",
+      "clicks": 2,
+      "impressions": 19,
+      "ctr": 0.10526315789473684,
+      "position": 1.5789473684210527
+    },
+    {
+      "query": "worst rated hospitals",
+      "clicks": 2,
+      "impressions": 39,
+      "ctr": 0.05128205128205128,
+      "position": 8.461538461538462
+    },
+    {
+      "query": "worst rated hospitals in the us",
+      "clicks": 2,
+      "impressions": 27,
+      "ctr": 0.07407407407407407,
+      "position": 7.296296296296297
+    },
+    {
+      "query": "apgar 4",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 2.230769230769231
+    },
+    {
+      "query": "apgar score",
+      "clicks": 1,
+      "impressions": 49,
+      "ctr": 0.02040816326530612,
+      "position": 40.69387755102041
+    },
+    {
+      "query": "arzt falsche diagnose an krankenkasse",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "aspiration meaning",
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 2.7
+    },
+    {
+      "query": "aspiration meaning medical term",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "attorney to sue hospital",
+      "clicks": 1,
+      "impressions": 140,
+      "ctr": 0.007142857142857143,
+      "position": 17.12857142857143
+    },
+    {
+      "query": "average length of medical malpractice case",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2.5
+    },
+    {
+      "query": "baby apgar score chart",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "bad bedside manner examples",
+      "clicks": 1,
+      "impressions": 27,
+      "ctr": 0.037037037037037035,
+      "position": 1.5555555555555556
+    },
+    {
+      "query": "bad bedside manners",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 1.625
+    },
+    {
+      "query": "bed side manner",
+      "clicks": 1,
+      "impressions": 267,
+      "ctr": 0.003745318352059925,
+      "position": 10.588014981273409
+    },
+    {
+      "query": "bedside manner definition",
+      "clicks": 1,
+      "impressions": 108,
+      "ctr": 0.009259259259259259,
+      "position": 17.97222222222222
+    },
+    {
+      "query": "bedside manner doctor",
+      "clicks": 1,
+      "impressions": 54,
+      "ctr": 0.018518518518518517,
+      "position": 19.037037037037038
+    },
+    {
+      "query": "bedside manner examples",
+      "clicks": 1,
+      "impressions": 531,
+      "ctr": 0.0018832391713747645,
+      "position": 8.425612052730695
+    },
+    {
+      "query": "bedside manners meaning",
+      "clicks": 1,
+      "impressions": 52,
+      "ctr": 0.019230769230769232,
+      "position": 23.153846153846153
+    },
+    {
+      "query": "being sued for medical malpractice",
+      "clicks": 1,
+      "impressions": 98,
+      "ctr": 0.01020408163265306,
+      "position": 9.040816326530612
+    },
+    {
+      "query": "best malpractice lawyer near me",
+      "clicks": 1,
+      "impressions": 29,
+      "ctr": 0.034482758620689655,
+      "position": 48.58620689655172
+    },
+    {
+      "query": "best malpractice lawyers near me",
+      "clicks": 1,
+      "impressions": 72,
+      "ctr": 0.013888888888888888,
+      "position": 51.77777777777778
+    },
+    {
+      "query": "best medical malpractice attorneys near me",
+      "clicks": 1,
+      "impressions": 139,
+      "ctr": 0.007194244604316547,
+      "position": 67.33812949640287
+    },
+    {
+      "query": "best medical malpractice lawyers in houston",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2
+    },
+    {
+      "query": "best medical malpractice lawyers in jacksonville, florida",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "best medical malpractice lawyers in north carolina",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 3.111111111111111
+    },
+    {
+      "query": "best medical malpractice lawyers in tampa, florida",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 2
+    },
+    {
+      "query": "best medical negligence lawyers near me",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 43.61538461538461
+    },
+    {
+      "query": "birth injury lawyer",
+      "clicks": 1,
+      "impressions": 22973,
+      "ctr": 0.000043529360553693465,
+      "position": 20.09593871066034
+    },
+    {
+      "query": "breach of duty in a sentence",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 6
+    },
+    {
+      "query": "breach of duty of care cases",
+      "clicks": 1,
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 14.11111111111111
+    },
+    {
+      "query": "breach of standard of care",
+      "clicks": 1,
+      "impressions": 178,
+      "ctr": 0.0056179775280898875,
+      "position": 9.269662921348315
+    },
+    {
+      "query": "broken hip nursing home",
+      "clicks": 1,
+      "impressions": 131,
+      "ctr": 0.007633587786259542,
+      "position": 26.442748091603054
+    },
+    {
+      "query": "caleb stalls arrest",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 4.25
+    },
+    {
+      "query": "can doctors miss a heart attack",
+      "clicks": 1,
+      "impressions": 147,
+      "ctr": 0.006802721088435374,
+      "position": 5.448979591836735
+    },
+    {
+      "query": "can i stop antibiotics if misdiagnosed",
+      "clicks": 1,
+      "impressions": 29,
+      "ctr": 0.034482758620689655,
+      "position": 1.9310344827586206
+    },
+    {
+      "query": "can i sue for malpractice",
+      "clicks": 1,
+      "impressions": 95,
+      "ctr": 0.010526315789473684,
+      "position": 62.38947368421053
+    },
+    {
+      "query": "can you die from aspiration",
+      "clicks": 1,
+      "impressions": 159,
+      "ctr": 0.006289308176100629,
+      "position": 11.59119496855346
+    },
+    {
+      "query": "can you sue a hospital",
+      "clicks": 1,
+      "impressions": 67,
+      "ctr": 0.014925373134328358,
+      "position": 34.059701492537314
+    },
+    {
+      "query": "can you sue a hospital for negligence",
+      "clicks": 1,
+      "impressions": 34,
+      "ctr": 0.029411764705882353,
+      "position": 12.617647058823529
+    },
+    {
+      "query": "can you sue an emergency room for negligence",
+      "clicks": 1,
+      "impressions": 191,
+      "ctr": 0.005235602094240838,
+      "position": 33.19895287958115
+    },
+    {
+      "query": "can you sue for medical negligence after 3 years",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 18.5
+    },
+    {
+      "query": "can you sue for misdiagnosis of cancer",
+      "clicks": 1,
+      "impressions": 177,
+      "ctr": 0.005649717514124294,
+      "position": 55.067796610169495
+    },
+    {
+      "query": "can you sue someone for causing a miscarriage",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 14.625
+    },
+    {
+      "query": "cancer lawyer",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 11
+    },
+    {
+      "query": "dania beach spinal cord injury lawyer",
+      "clicks": 1,
+      "impressions": 43,
+      "ctr": 0.023255813953488372,
+      "position": 67.02325581395348
+    },
+    {
+      "query": "death by aspiration",
+      "clicks": 1,
+      "impressions": 211,
+      "ctr": 0.004739336492890996,
+      "position": 9.052132701421801
+    },
+    {
+      "query": "death due to aspiration",
+      "clicks": 1,
+      "impressions": 44,
+      "ctr": 0.022727272727272728,
+      "position": 7.159090909090909
+    },
+    {
+      "query": "define bedside manner",
+      "clicks": 1,
+      "impressions": 61,
+      "ctr": 0.01639344262295082,
+      "position": 33.31147540983606
+    },
+    {
+      "query": "dental malpractice lawyer",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 3.3333333333333335
+    },
+    {
+      "query": "doctors and malpractice",
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 33.63333333333333
+    },
+    {
+      "query": "doctors are not always right",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "doctors bedside manner",
+      "clicks": 1,
+      "impressions": 44,
+      "ctr": 0.022727272727272728,
+      "position": 11.386363636363637
+    },
+    {
+      "query": "doctors charged with malpractice",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 70.75
+    },
+    {
+      "query": "duty of care to patients",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "dying from aspiration",
+      "clicks": 1,
+      "impressions": 31,
+      "ctr": 0.03225806451612903,
+      "position": 11.806451612903226
+    },
+    {
+      "query": "er lawyer",
+      "clicks": 1,
+      "impressions": 281,
+      "ctr": 0.0035587188612099642,
+      "position": 28.797153024911033
+    },
+    {
+      "query": "example of medical negligence",
+      "clicks": 1,
+      "impressions": 38,
+      "ctr": 0.02631578947368421,
+      "position": 15.789473684210526
+    },
+    {
+      "query": "examples of medical malpractice cases",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 64.28571428571428
+    },
+    {
+      "query": "express consent in healthcare",
+      "clicks": 1,
+      "impressions": 28,
+      "ctr": 0.03571428571428571,
+      "position": 2.392857142857143
+    },
+    {
+      "query": "express consent law",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 8
+    },
+    {
+      "query": "expressed consent in healthcare",
+      "clicks": 1,
+      "impressions": 25,
+      "ctr": 0.04,
+      "position": 4.4399999999999995
+    },
+    {
+      "query": "expressed consent medical definition",
+      "clicks": 1,
+      "impressions": 140,
+      "ctr": 0.007142857142857143,
+      "position": 10.392857142857142
+    },
+    {
+      "query": "failure to diagnose sepsis lawsuit",
+      "clicks": 1,
+      "impressions": 73,
+      "ctr": 0.0136986301369863,
+      "position": 8.041095890410958
+    },
+    {
+      "query": "fl medical board",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "fl statute of limitations medical malpractice",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 6.625
+    },
+    {
+      "query": "florida birth injury law firm",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 10.777777777777779
+    },
+    {
+      "query": "florida birth injury lawyer",
+      "clicks": 1,
+      "impressions": 1218,
+      "ctr": 0.0008210180623973727,
+      "position": 7.342364532019705
+    },
+    {
+      "query": "florida birth-related neurological injury compensation association",
+      "clicks": 1,
+      "impressions": 45,
+      "ctr": 0.022222222222222223,
+      "position": 7.488888888888889
+    },
+    {
+      "query": "florida cancer misdiagnosis lawyer",
+      "clicks": 1,
+      "impressions": 265,
+      "ctr": 0.0037735849056603774,
+      "position": 21.173584905660377
+    },
+    {
+      "query": "florida free kill law 2024",
+      "clicks": 1,
+      "impressions": 39,
+      "ctr": 0.02564102564102564,
+      "position": 11.717948717948717
+    },
+    {
+      "query": "florida kill law",
+      "clicks": 1,
+      "impressions": 116,
+      "ctr": 0.008620689655172414,
+      "position": 5.560344827586207
+    },
+    {
+      "query": "florida malpractice law",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 11.357142857142858
+    },
+    {
+      "query": "florida malpractice lookup",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 37.72727272727273
+    },
+    {
+      "query": "florida malpractice statute of limitations",
+      "clicks": 1,
+      "impressions": 76,
+      "ctr": 0.013157894736842105,
+      "position": 9.131578947368421
+    },
+    {
+      "query": "florida med mal statute of limitations",
+      "clicks": 1,
+      "impressions": 160,
+      "ctr": 0.00625,
+      "position": 8.25
+    },
+    {
+      "query": "florida medical board complaints",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 3
+    },
+    {
+      "query": "florida medical malpractice",
+      "clicks": 1,
+      "impressions": 508,
+      "ctr": 0.001968503937007874,
+      "position": 15.938976377952756
+    },
+    {
+      "query": "florida medical malpractice lawyer",
+      "clicks": 1,
+      "impressions": 1778,
+      "ctr": 0.0005624296962879641,
+      "position": 24.752530933633295
+    },
+    {
+      "query": "florida medical malpractice statute of limitations",
+      "clicks": 1,
+      "impressions": 526,
+      "ctr": 0.0019011406844106464,
+      "position": 8.640684410646388
+    },
+    {
+      "query": "florida statute of limitations on medical malpractice",
+      "clicks": 1,
+      "impressions": 188,
+      "ctr": 0.005319148936170213,
+      "position": 8.367021276595745
+    },
+    {
+      "query": "free kill",
+      "clicks": 1,
+      "impressions": 197,
+      "ctr": 0.005076142131979695,
+      "position": 8.294416243654823
+    },
+    {
+      "query": "free kill bill florida",
+      "clicks": 1,
+      "impressions": 154,
+      "ctr": 0.006493506493506494,
+      "position": 6.422077922077922
+    },
+    {
+      "query": "free kill law in florida",
+      "clicks": 1,
+      "impressions": 136,
+      "ctr": 0.007352941176470588,
+      "position": 6.323529411764706
+    },
+    {
+      "query": "free kill law meaning",
+      "clicks": 1,
+      "impressions": 43,
+      "ctr": 0.023255813953488372,
+      "position": 4.325581395348838
+    },
+    {
+      "query": "free kill meaning",
+      "clicks": 1,
+      "impressions": 52,
+      "ctr": 0.019230769230769232,
+      "position": 6.019230769230769
+    },
+    {
+      "query": "freedland harwin valori reviews",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 1.8666666666666667
+    },
+    {
+      "query": "freekill",
+      "clicks": 1,
+      "impressions": 26,
+      "ctr": 0.038461538461538464,
+      "position": 16
+    },
+    {
+      "query": "ft lauderdale lawyers",
+      "clicks": 1,
+      "impressions": 266,
+      "ctr": 0.0037593984962406013,
+      "position": 52.94736842105263
+    },
+    {
+      "query": "fuster mount sinai",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 5
+    },
+    {
+      "query": "hca lawsuit florida",
+      "clicks": 1,
+      "impressions": 35,
+      "ctr": 0.02857142857142857,
+      "position": 10.342857142857143
+    },
+    {
+      "query": "healthcare lawyers near me",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 20.5
+    },
+    {
+      "query": "healthcare malpractice attorney",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 85.92857142857143
+    },
+    {
+      "query": "hie lawyer",
+      "clicks": 1,
+      "impressions": 5111,
+      "ctr": 0.00019565642731363725,
+      "position": 51.41655253375073
+    },
+    {
+      "query": "honor health",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "hospital attorney",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "hospital left iv in arm lawsuit",
+      "clicks": 1,
+      "impressions": 61,
+      "ctr": 0.01639344262295082,
+      "position": 12.065573770491802
+    },
+    {
+      "query": "hospital neglect attorney",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 19.157894736842106
+    },
+    {
+      "query": "hospital negligence lawyers",
+      "clicks": 1,
+      "impressions": 214,
+      "ctr": 0.004672897196261682,
+      "position": 17.570093457943926
+    },
+    {
+      "query": "how does aspiration cause death",
+      "clicks": 1,
+      "impressions": 41,
+      "ctr": 0.024390243902439025,
+      "position": 10.024390243902438
+    },
+    {
+      "query": "how late can a doctor be to an appointment",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 128
+    },
+    {
+      "query": "how long can a medical malpractice case take",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 32.66666666666667
+    },
+    {
+      "query": "how long do malpractice cases take",
+      "clicks": 1,
+      "impressions": 135,
+      "ctr": 0.007407407407407408,
+      "position": 25.68888888888889
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:22:14.205Z"
 }

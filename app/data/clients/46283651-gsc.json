@@ -1,156 +1,16 @@
 {
   "property": "https://goodygaragedoors.com/",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 925,
-    "impressions": 234945,
-    "ctr": 0.003937091659750154,
-    "position": 25.821200561042232
+    "clicks": 989,
+    "impressions": 260592,
+    "ctr": 0.003795204764536133,
+    "position": 22.546581653038114
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 6,
-      "impressions": 2641,
-      "ctr": 0.002271866717152594,
-      "position": 26.802347595607724
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 15,
-      "impressions": 3110,
-      "ctr": 0.00482315112540193,
-      "position": 34.51189710610932
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 12,
-      "impressions": 2255,
-      "ctr": 0.005321507760532151,
-      "position": 31.21640798226164
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 17,
-      "impressions": 1551,
-      "ctr": 0.01096067053513862,
-      "position": 32.69825918762089
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 12,
-      "impressions": 1432,
-      "ctr": 0.008379888268156424,
-      "position": 32.904329608938546
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 8,
-      "impressions": 2150,
-      "ctr": 0.0037209302325581397,
-      "position": 34.58186046511628
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 5,
-      "impressions": 1718,
-      "ctr": 0.002910360884749709,
-      "position": 39.86670547147846
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 9,
-      "impressions": 2960,
-      "ctr": 0.0030405405405405407,
-      "position": 26.901013513513515
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 5,
-      "impressions": 2552,
-      "ctr": 0.001959247648902821,
-      "position": 35.792319749216304
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 3,
-      "impressions": 2463,
-      "ctr": 0.001218026796589525,
-      "position": 35.77101096224117
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 3,
-      "impressions": 1120,
-      "ctr": 0.0026785714285714286,
-      "position": 37.40625
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 4,
-      "impressions": 1398,
-      "ctr": 0.002861230329041488,
-      "position": 31.513590844062946
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 8,
-      "impressions": 2122,
-      "ctr": 0.003770028275212064,
-      "position": 33.6258246936852
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 4,
-      "impressions": 1701,
-      "ctr": 0.0023515579071134627,
-      "position": 40.908289241622576
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 13,
-      "impressions": 2612,
-      "ctr": 0.0049770290964777945,
-      "position": 26.145865237366003
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 15,
-      "impressions": 2535,
-      "ctr": 0.005917159763313609,
-      "position": 31.869033530571993
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 10,
-      "impressions": 2855,
-      "ctr": 0.0035026269702276708,
-      "position": 29.145359019264447
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 4,
-      "impressions": 2225,
-      "ctr": 0.0017977528089887641,
-      "position": 25.2723595505618
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 9,
-      "impressions": 1495,
-      "ctr": 0.006020066889632107,
-      "position": 29.810702341137123
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 4,
-      "impressions": 2041,
-      "ctr": 0.0019598236158745713,
-      "position": 36.63792258696717
-    },
     {
       "date": "2026-01-04",
       "clicks": 8,
@@ -640,302 +500,491 @@
       "impressions": 2430,
       "ctr": 0.002880658436213992,
       "position": 20.443621399176955
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 4,
+      "impressions": 2497,
+      "ctr": 0.0016019223067681217,
+      "position": 21.900280336403686
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 15,
+      "impressions": 3382,
+      "ctr": 0.004435245416913069,
+      "position": 16.418687167356595
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 16,
+      "impressions": 2193,
+      "ctr": 0.00729594163246694,
+      "position": 17.659826721386228
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 7,
+      "impressions": 2940,
+      "ctr": 0.002380952380952381,
+      "position": 17.518027210884355
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 16,
+      "impressions": 3571,
+      "ctr": 0.004480537664519743,
+      "position": 23.464575749089892
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 7,
+      "impressions": 2980,
+      "ctr": 0.002348993288590604,
+      "position": 20.622818791946308
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 15,
+      "impressions": 2384,
+      "ctr": 0.006291946308724832,
+      "position": 20.808305369127517
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 10,
+      "impressions": 2875,
+      "ctr": 0.0034782608695652175,
+      "position": 21.83095652173913
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 11,
+      "impressions": 4308,
+      "ctr": 0.00255338904363974,
+      "position": 15.894614670380687
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 15,
+      "impressions": 7119,
+      "ctr": 0.002107037505267594,
+      "position": 9.737041719342605
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 14,
+      "impressions": 3484,
+      "ctr": 0.004018369690011481,
+      "position": 20.077784156142364
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 14,
+      "impressions": 2027,
+      "ctr": 0.006906758756783424,
+      "position": 18.440552540700544
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 8,
+      "impressions": 3453,
+      "ctr": 0.0023168259484506225,
+      "position": 21.064581523313063
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 5,
+      "impressions": 2499,
+      "ctr": 0.0020008003201280513,
+      "position": 18.765106042416967
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 7,
+      "impressions": 3321,
+      "ctr": 0.0021077988557663355,
+      "position": 23.420054200542005
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 16,
+      "impressions": 4398,
+      "ctr": 0.0036380172805820826,
+      "position": 15.156434743065029
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 13,
+      "impressions": 2792,
+      "ctr": 0.004656160458452722,
+      "position": 16.70773638968481
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 10,
+      "impressions": 3963,
+      "ctr": 0.0025233409033560434,
+      "position": 13.612414837244511
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 11,
+      "impressions": 3341,
+      "ctr": 0.0032924274169410356,
+      "position": 12.134390900927865
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 10,
+      "impressions": 2696,
+      "ctr": 0.00370919881305638,
+      "position": 18.547106824925816
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 6,
+      "impressions": 2360,
+      "ctr": 0.002542372881355932,
+      "position": 17.43093220338983
     }
   ],
   "topQueries": [
     {
       "query": "goody garage doors",
-      "clicks": 304,
-      "impressions": 2136,
-      "ctr": 0.14232209737827714,
-      "position": 1.5224719101123596
+      "clicks": 322,
+      "impressions": 2063,
+      "ctr": 0.1560833737275812,
+      "position": 1.5467765390208434
     },
     {
       "query": "goody garage door",
-      "clicks": 113,
-      "impressions": 542,
-      "ctr": 0.20848708487084872,
-      "position": 1.8173431734317345
+      "clicks": 120,
+      "impressions": 538,
+      "ctr": 0.22304832713754646,
+      "position": 1.8289962825278812
     },
     {
       "query": "goody garage",
-      "clicks": 19,
-      "impressions": 93,
-      "ctr": 0.20430107526881722,
-      "position": 2.193548387096774
-    },
-    {
-      "query": "garage door repair",
-      "clicks": 7,
-      "impressions": 5191,
-      "ctr": 0.0013484877672895396,
-      "position": 9.973415526873435
-    },
-    {
-      "query": "goody garage doors tucson",
-      "clicks": 6,
-      "impressions": 77,
-      "ctr": 0.07792207792207792,
-      "position": 1.7532467532467533
+      "clicks": 20,
+      "impressions": 95,
+      "ctr": 0.21052631578947367,
+      "position": 2.473684210526316
     },
     {
       "query": "goodys garage",
-      "clicks": 6,
-      "impressions": 140,
-      "ctr": 0.04285714285714286,
-      "position": 10.592857142857143
+      "clicks": 10,
+      "impressions": 165,
+      "ctr": 0.06060606060606061,
+      "position": 10.290909090909091
     },
     {
-      "query": "garage door repair mesa az",
-      "clicks": 5,
-      "impressions": 1612,
-      "ctr": 0.003101736972704715,
-      "position": 7.614764267990075
+      "query": "garage door repair",
+      "clicks": 9,
+      "impressions": 5874,
+      "ctr": 0.0015321756894790602,
+      "position": 8.387640449438202
     },
     {
       "query": "garage doors phoenix",
       "clicks": 5,
-      "impressions": 741,
-      "ctr": 0.006747638326585695,
-      "position": 14.574898785425102
+      "impressions": 804,
+      "ctr": 0.006218905472636816,
+      "position": 14.17039800995025
     },
     {
-      "query": "goody garage doors photos",
+      "query": "goody garage doors tucson",
+      "clicks": 5,
+      "impressions": 102,
+      "ctr": 0.049019607843137254,
+      "position": 1.5
+    },
+    {
+      "query": "garage door repair mesa az",
       "clicks": 4,
-      "impressions": 36,
-      "ctr": 0.1111111111111111,
-      "position": 2.4722222222222223
+      "impressions": 1582,
+      "ctr": 0.0025284450063211127,
+      "position": 7.0549936788874845
     },
     {
-      "query": "arizona's best garage door and repair company reviews",
+      "query": "goody garage doors reviews",
+      "clicks": 4,
+      "impressions": 113,
+      "ctr": 0.035398230088495575,
+      "position": 5.035398230088496
+    },
+    {
+      "query": "arizona's best garage door and repair company",
       "clicks": 3,
-      "impressions": 840,
-      "ctr": 0.0035714285714285713,
-      "position": 6.870238095238095
+      "impressions": 1238,
+      "ctr": 0.0024232633279483036,
+      "position": 29.220516962843295
     },
     {
       "query": "commercial garage door repair",
       "clicks": 3,
-      "impressions": 3809,
-      "ctr": 0.0007876082961407193,
-      "position": 54.9419795221843
+      "impressions": 2530,
+      "ctr": 0.0011857707509881424,
+      "position": 47.02924901185771
     },
     {
       "query": "garage door repair phoenix",
       "clicks": 3,
-      "impressions": 1668,
-      "ctr": 0.0017985611510791368,
-      "position": 24.18345323741007
+      "impressions": 1850,
+      "ctr": 0.0016216216216216215,
+      "position": 22.14162162162162
     },
     {
       "query": "garage doors mesa az",
       "clicks": 3,
-      "impressions": 426,
-      "ctr": 0.007042253521126761,
-      "position": 7.450704225352113
+      "impressions": 406,
+      "ctr": 0.007389162561576354,
+      "position": 6.938423645320197
     },
     {
       "query": "goodies garage",
       "clicks": 3,
       "impressions": 40,
       "ctr": 0.075,
-      "position": 18
+      "position": 18.95
     },
     {
-      "query": "goodies garage door repair",
-      "clicks": 3,
-      "impressions": 45,
-      "ctr": 0.06666666666666667,
-      "position": 8.444444444444445
+      "query": "arizona's best garage door and repair company reviews",
+      "clicks": 2,
+      "impressions": 709,
+      "ctr": 0.0028208744710860366,
+      "position": 6.59802538787024
+    },
+    {
+      "query": "az best garage door repair",
+      "clicks": 2,
+      "impressions": 76,
+      "ctr": 0.02631578947368421,
+      "position": 6.828947368421052
     },
     {
       "query": "driveway gate phoenix",
       "clicks": 2,
-      "impressions": 48,
-      "ctr": 0.041666666666666664,
-      "position": 11.166666666666666
+      "impressions": 47,
+      "ctr": 0.0425531914893617,
+      "position": 12.063829787234043
     },
     {
       "query": "garage door arizona",
       "clicks": 2,
-      "impressions": 20,
-      "ctr": 0.1,
-      "position": 26
-    },
-    {
-      "query": "garage door installation",
-      "clicks": 2,
-      "impressions": 5331,
-      "ctr": 0.00037516413430876007,
-      "position": 6.231101106734196
-    },
-    {
-      "query": "garage door installation mesa az",
-      "clicks": 2,
-      "impressions": 304,
-      "ctr": 0.006578947368421052,
-      "position": 3.473684210526316
+      "impressions": 31,
+      "ctr": 0.06451612903225806,
+      "position": 23.64516129032258
     },
     {
       "query": "garage door mesa az",
       "clicks": 2,
-      "impressions": 141,
-      "ctr": 0.014184397163120567,
-      "position": 13.97872340425532
+      "impressions": 154,
+      "ctr": 0.012987012987012988,
+      "position": 15.194805194805195
     },
     {
       "query": "garage door phoenix az",
       "clicks": 2,
-      "impressions": 45,
-      "ctr": 0.044444444444444446,
-      "position": 26.2
+      "impressions": 60,
+      "ctr": 0.03333333333333333,
+      "position": 22.966666666666665
     },
     {
       "query": "garage door repair cave creek",
       "clicks": 2,
-      "impressions": 160,
-      "ctr": 0.0125,
-      "position": 11.85
+      "impressions": 178,
+      "ctr": 0.011235955056179775,
+      "position": 9.089887640449438
+    },
+    {
+      "query": "garage door repair mesa",
+      "clicks": 2,
+      "impressions": 2357,
+      "ctr": 0.0008485362749257531,
+      "position": 5.91005515485787
+    },
+    {
+      "query": "garage door replacements",
+      "clicks": 2,
+      "impressions": 53,
+      "ctr": 0.03773584905660377,
+      "position": 27.71698113207547
     },
     {
       "query": "garage door service mesa az",
       "clicks": 2,
-      "impressions": 463,
-      "ctr": 0.004319654427645789,
-      "position": 5.827213822894168
+      "impressions": 426,
+      "ctr": 0.004694835680751174,
+      "position": 6.164319248826291
     },
     {
-      "query": "glass garage doors mesa az",
+      "query": "goody garage doors photos",
       "clicks": 2,
-      "impressions": 126,
-      "ctr": 0.015873015873015872,
-      "position": 25.50793650793651
-    },
-    {
-      "query": "goody garage doors careers",
-      "clicks": 2,
-      "impressions": 128,
-      "ctr": 0.015625,
-      "position": 4.1015625
-    },
-    {
-      "query": "goody garage doors reviews",
-      "clicks": 2,
-      "impressions": 110,
-      "ctr": 0.01818181818181818,
-      "position": 5.009090909090909
+      "impressions": 28,
+      "ctr": 0.07142857142857142,
+      "position": 2.071428571428571
     },
     {
       "query": "goody's garage",
       "clicks": 2,
-      "impressions": 49,
-      "ctr": 0.04081632653061224,
-      "position": 9.918367346938776
+      "impressions": 40,
+      "ctr": 0.05,
+      "position": 9.725
     },
     {
       "query": "mesa az garage door repair",
       "clicks": 2,
-      "impressions": 221,
-      "ctr": 0.00904977375565611,
-      "position": 7.131221719457014
+      "impressions": 219,
+      "ctr": 0.0091324200913242,
+      "position": 6.799086757990867
     },
     {
       "query": "new garage door",
       "clicks": 2,
-      "impressions": 1099,
-      "ctr": 0.0018198362147406734,
-      "position": 52.84531392174704
+      "impressions": 906,
+      "ctr": 0.002207505518763797,
+      "position": 42.358719646799116
     },
     {
       "query": "rv gates",
       "clicks": 2,
-      "impressions": 227,
-      "ctr": 0.00881057268722467,
-      "position": 11.616740088105727
+      "impressions": 260,
+      "ctr": 0.007692307692307693,
+      "position": 11.823076923076924
     },
     {
-      "query": "arizona's best garage door and repair company",
-      "clicks": 1,
-      "impressions": 1328,
-      "ctr": 0.0007530120481927711,
-      "position": 32.2296686746988
+      "query": "rv gates phoenix",
+      "clicks": 2,
+      "impressions": 63,
+      "ctr": 0.031746031746031744,
+      "position": 9.619047619047619
     },
     {
-      "query": "az best garage door repair",
+      "query": "5 foot garage door",
       "clicks": 1,
-      "impressions": 57,
-      "ctr": 0.017543859649122806,
-      "position": 6.964912280701754
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "arizona best garage door",
+      "clicks": 1,
+      "impressions": 104,
+      "ctr": 0.009615384615384616,
+      "position": 5.865384615384615
+    },
+    {
+      "query": "az garage door",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
     },
     {
       "query": "best garage door repair near me",
       "clicks": 1,
-      "impressions": 20,
-      "ctr": 0.05,
-      "position": 14.25
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 12
     },
     {
       "query": "car stuck in garage",
       "clicks": 1,
-      "impressions": 61,
-      "ctr": 0.01639344262295082,
-      "position": 7.098360655737705
+      "impressions": 60,
+      "ctr": 0.016666666666666666,
+      "position": 6.733333333333333
     },
     {
       "query": "commercial garage door installation",
       "clicks": 1,
-      "impressions": 44,
-      "ctr": 0.022727272727272728,
-      "position": 4.659090909090909
+      "impressions": 191,
+      "ctr": 0.005235602094240838,
+      "position": 27.146596858638745
     },
     {
       "query": "commercial garage door repair phoenix",
       "clicks": 1,
-      "impressions": 368,
-      "ctr": 0.002717391304347826,
-      "position": 17.22826086956522
+      "impressions": 430,
+      "ctr": 0.002325581395348837,
+      "position": 14.134883720930233
     },
     {
       "query": "electric gate repair",
       "clicks": 1,
-      "impressions": 635,
-      "ctr": 0.0015748031496062992,
-      "position": 30.50708661417323
+      "impressions": 630,
+      "ctr": 0.0015873015873015873,
+      "position": 28.882539682539683
     },
     {
-      "query": "garage door company",
+      "query": "garage company",
       "clicks": 1,
-      "impressions": 3310,
-      "ctr": 0.00030211480362537764,
-      "position": 28.34894259818731
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 5.111111111111111
+    },
+    {
+      "query": "garage door customer service",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "garage door gilbert az",
+      "clicks": 1,
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 26.833333333333332
+    },
+    {
+      "query": "garage door installation",
+      "clicks": 1,
+      "impressions": 6091,
+      "ctr": 0.00016417665407978985,
+      "position": 5.456575274995895
+    },
+    {
+      "query": "garage door installation mesa az",
+      "clicks": 1,
+      "impressions": 279,
+      "ctr": 0.0035842293906810036,
+      "position": 3.939068100358423
+    },
+    {
+      "query": "garage door maintenance",
+      "clicks": 1,
+      "impressions": 639,
+      "ctr": 0.001564945226917058,
+      "position": 19.550860719874805
     },
     {
       "query": "garage door maintenance peoria",
       "clicks": 1,
-      "impressions": 105,
-      "ctr": 0.009523809523809525,
-      "position": 24.80952380952381
+      "impressions": 127,
+      "ctr": 0.007874015748031496,
+      "position": 24.236220472440944
     },
     {
       "query": "garage door opener installation near me",
       "clicks": 1,
-      "impressions": 238,
-      "ctr": 0.004201680672268907,
-      "position": 18.26890756302521
+      "impressions": 290,
+      "ctr": 0.0034482758620689655,
+      "position": 20.317241379310346
     },
     {
       "query": "garage door parts near me",
       "clicks": 1,
-      "impressions": 7,
-      "ctr": 0.14285714285714285,
-      "position": 10.571428571428571
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 2.6363636363636367
     },
     {
       "query": "garage door parts supplier",
       "clicks": 1,
-      "impressions": 1,
-      "ctr": 1,
-      "position": 23
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 8.333333333333332
     },
     {
       "query": "garage door repair estimates near me",
@@ -945,406 +994,2820 @@
       "position": 3
     },
     {
-      "query": "garage door repair free estimate",
+      "query": "garage door repair gilbert",
       "clicks": 1,
-      "impressions": 50,
-      "ctr": 0.02,
-      "position": 63.96
+      "impressions": 537,
+      "ctr": 0.00186219739292365,
+      "position": 24.70949720670391
     },
     {
       "query": "garage door repair in phoenix",
       "clicks": 1,
-      "impressions": 167,
-      "ctr": 0.005988023952095809,
-      "position": 27.95808383233533
+      "impressions": 235,
+      "ctr": 0.00425531914893617,
+      "position": 25.693617021276594
     },
     {
-      "query": "garage door repair mesa",
+      "query": "garage door repair in usa",
       "clicks": 1,
-      "impressions": 2089,
-      "ctr": 0.0004786979415988511,
-      "position": 5.876974629009095
-    },
-    {
-      "query": "garage door repair near me",
-      "clicks": 1,
-      "impressions": 2314,
-      "ctr": 0.000432152117545376,
-      "position": 18.371650821089023
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 22
     },
     {
       "query": "garage door repair scottsdale",
       "clicks": 1,
-      "impressions": 385,
-      "ctr": 0.0025974025974025974,
-      "position": 37.251948051948055
+      "impressions": 447,
+      "ctr": 0.0022371364653243847,
+      "position": 33.16778523489933
     },
     {
       "query": "garage door repair surprise az",
       "clicks": 1,
-      "impressions": 537,
-      "ctr": 0.00186219739292365,
-      "position": 14.312849162011172
+      "impressions": 571,
+      "ctr": 0.0017513134851138354,
+      "position": 14.490367775831874
+    },
+    {
+      "query": "garage door repair tucson",
+      "clicks": 1,
+      "impressions": 427,
+      "ctr": 0.00234192037470726,
+      "position": 19.53161592505855
     },
     {
       "query": "garage door repair tucson az",
       "clicks": 1,
-      "impressions": 225,
-      "ctr": 0.0044444444444444444,
-      "position": 27.653333333333332
+      "impressions": 266,
+      "ctr": 0.0037593984962406013,
+      "position": 25.458646616541355
+    },
+    {
+      "query": "garage door replacement",
+      "clicks": 1,
+      "impressions": 2670,
+      "ctr": 0.0003745318352059925,
+      "position": 9.674531835205993
+    },
+    {
+      "query": "garage door replacement near me",
+      "clicks": 1,
+      "impressions": 513,
+      "ctr": 0.001949317738791423,
+      "position": 20.24561403508772
+    },
+    {
+      "query": "garage door service mesa",
+      "clicks": 1,
+      "impressions": 108,
+      "ctr": 0.009259259259259259,
+      "position": 8.722222222222221
+    },
+    {
+      "query": "garage door spring replacement",
+      "clicks": 1,
+      "impressions": 102,
+      "ctr": 0.00980392156862745,
+      "position": 14.07843137254902
+    },
+    {
+      "query": "garage door tune up special",
+      "clicks": 1,
+      "impressions": 49,
+      "ctr": 0.02040816326530612,
+      "position": 14.306122448979592
+    },
+    {
+      "query": "garage doors",
+      "clicks": 1,
+      "impressions": 1874,
+      "ctr": 0.0005336179295624333,
+      "position": 6.7982924226254005
+    },
+    {
+      "query": "garage doors arizona",
+      "clicks": 1,
+      "impressions": 49,
+      "ctr": 0.02040816326530612,
+      "position": 23.979591836734695
+    },
+    {
+      "query": "garage doors for sale",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 7.7272727272727275
+    },
+    {
+      "query": "garage doors mesa",
+      "clicks": 1,
+      "impressions": 114,
+      "ctr": 0.008771929824561403,
+      "position": 5.166666666666667
+    },
+    {
+      "query": "garage doors near me",
+      "clicks": 1,
+      "impressions": 166,
+      "ctr": 0.006024096385542169,
+      "position": 17.19277108433735
+    },
+    {
+      "query": "garage doors phoenix az",
+      "clicks": 1,
+      "impressions": 295,
+      "ctr": 0.003389830508474576,
+      "position": 20.56271186440678
+    },
+    {
+      "query": "gargae door repair",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "genie garage door service near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 4.75
+    },
+    {
+      "query": "good day garage doors",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 13
+    },
+    {
+      "query": "good garage door",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 15.777777777777779
+    },
+    {
+      "query": "good garage doors",
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 32.16666666666667
+    },
+    {
+      "query": "goode garage",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 6.5
+    },
+    {
+      "query": "goodies garage door repair",
+      "clicks": 1,
+      "impressions": 44,
+      "ctr": 0.022727272727272728,
+      "position": 8.5
+    },
+    {
+      "query": "goody garage doors careers",
+      "clicks": 1,
+      "impressions": 103,
+      "ctr": 0.009708737864077669,
+      "position": 4.155339805825243
+    },
+    {
+      "query": "goody garage doors phoenix",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 1.526315789473684
+    },
+    {
+      "query": "goodys",
+      "clicks": 1,
+      "impressions": 94,
+      "ctr": 0.010638297872340425,
+      "position": 1.8829787234042552
+    },
+    {
+      "query": "handyman in mesa",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 91
+    },
+    {
+      "query": "i love it garage doors",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 27
+    },
+    {
+      "query": "installed garage door opener",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 9.5
+    },
+    {
+      "query": "new garage door installation",
+      "clicks": 1,
+      "impressions": 312,
+      "ctr": 0.003205128205128205,
+      "position": 52.25
+    },
+    {
+      "query": "new garage door installed",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 53.666666666666664
+    },
+    {
+      "query": "new garage doors phoenix",
+      "clicks": 1,
+      "impressions": 364,
+      "ctr": 0.0027472527472527475,
+      "position": 21.087912087912088
+    },
+    {
+      "query": "replacement garage doors",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 23.545454545454547
+    },
+    {
+      "query": "rv gate repair near me",
+      "clicks": 1,
+      "impressions": 28,
+      "ctr": 0.03571428571428571,
+      "position": 10
+    },
+    {
+      "query": "trinity garage doors",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 9
+    },
+    {
+      "query": "tucson garage door service",
+      "clicks": 1,
+      "impressions": 36,
+      "ctr": 0.027777777777777776,
+      "position": 27.47222222222222
+    },
+    {
+      "query": "where can i buy garage door springs near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 13.5
+    },
+    {
+      "query": "\"az garage door repair\" \"tucson\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 49
+    },
+    {
+      "query": "\"goody garage doors\" \"550 w southern ave suite 2\"",
+      "clicks": 0,
+      "impressions": 61,
+      "ctr": 0,
+      "position": 20.21311475409836
+    },
+    {
+      "query": "\"goody garage doors\" \"85210\"",
+      "clicks": 0,
+      "impressions": 97,
+      "ctr": 0,
+      "position": 21.721649484536083
+    },
+    {
+      "query": "\"goody garage doors\" \"goodygaragedoors.com\"",
+      "clicks": 0,
+      "impressions": 93,
+      "ctr": 0,
+      "position": 21.182795698924732
+    },
+    {
+      "query": "\"goody garage doors\" \"mesa\"",
+      "clicks": 0,
+      "impressions": 45,
+      "ctr": 0,
+      "position": 19.355555555555554
+    },
+    {
+      "query": "\"quick response garage door service\" \"phoenix\"",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 41.6875
+    },
+    {
+      "query": "#garagedoor",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "query": "#garagedoors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "#garagedoorservice",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 14
+    },
+    {
+      "query": "#garagedoorservices",
+      "clicks": 0,
+      "impressions": 33,
+      "ctr": 0,
+      "position": 15.575757575757576
+    },
+    {
+      "query": "1 car garage door size",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 44.5
+    },
+    {
+      "query": "1.5 car garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 68
+    },
+    {
+      "query": "101 garage doors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 50
+    },
+    {
+      "query": "16x7 garage door for sale near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 27
+    },
+    {
+      "query": "18x7 garage door",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "2 car garage door",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "2 car garage door height",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 36
+    },
+    {
+      "query": "2 car garage door replacement",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "query": "2 car garage door replacement cost near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "2 car garage doors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "2 garage doors",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 21.823529411764707
+    },
+    {
+      "query": "24 7 garage door repair",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "24 7 garage door repair near me",
+      "clicks": 0,
+      "impressions": 30,
+      "ctr": 0,
+      "position": 14.033333333333333
+    },
+    {
+      "query": "24 7 garage door service",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "24 hour commercial door repair",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 32.33333333333333
+    },
+    {
+      "query": "24 hour emergency garage door repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "24 hour emergency garage door repair desert hills az",
+      "clicks": 0,
+      "impressions": 45,
+      "ctr": 0,
+      "position": 9.355555555555556
+    },
+    {
+      "query": "24 hour garage door repair",
+      "clicks": 0,
+      "impressions": 60,
+      "ctr": 0,
+      "position": 14.966666666666667
+    },
+    {
+      "query": "24 hour garage door repair cost",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "24 hour garage door repair in arizona",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 27.25
+    },
+    {
+      "query": "24 hour garage door repair in dc ranch az",
+      "clicks": 0,
+      "impressions": 5,
+      "ctr": 0,
+      "position": 21.2
+    },
+    {
+      "query": "24 hour garage door repair in glendale az",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 24.285714285714285
+    },
+    {
+      "query": "24 hour garage door repair in mccormick ranch az",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 26.833333333333332
+    },
+    {
+      "query": "24 hour garage door repair in phoenix az",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 44.166666666666664
+    },
+    {
+      "query": "24 hour garage door repair in scottsdale az",
+      "clicks": 0,
+      "impressions": 25,
+      "ctr": 0,
+      "position": 17.32
+    },
+    {
+      "query": "24 hour garage door repair in tempe az",
+      "clicks": 0,
+      "impressions": 32,
+      "ctr": 0,
+      "position": 10.5
+    },
+    {
+      "query": "24 hour garage door repair near me",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 14.666666666666666
+    },
+    {
+      "query": "24 hour garage door repair peoria az",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 18.333333333333332
+    },
+    {
+      "query": "24 hour garage door repair tucson",
+      "clicks": 0,
+      "impressions": 26,
+      "ctr": 0,
+      "position": 10.923076923076923
+    },
+    {
+      "query": "24 hour garage door repairs near me",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "24 hour garage door service",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 26.181818181818183
+    },
+    {
+      "query": "24 hour garage door service near me",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 32.769230769230774
+    },
+    {
+      "query": "24 hours garage door repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "24 hours garage door repair near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "24 hr garage door repair",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 18.444444444444443
+    },
+    {
+      "query": "24 hr garage door repair near me",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 17.714285714285715
+    },
+    {
+      "query": "24 hr garage door service",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "24-hour commercial door repair in arrowhead ranch,, az",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 36.4
+    },
+    {
+      "query": "24-hour commercial door repair in avondale, az",
+      "clicks": 0,
+      "impressions": 63,
+      "ctr": 0,
+      "position": 18.571428571428573
+    },
+    {
+      "query": "24-hour commercial door repair in deer valley, az",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 18.615384615384617
+    },
+    {
+      "query": "24-hour commercial door repair in peoria, az",
+      "clicks": 0,
+      "impressions": 48,
+      "ctr": 0,
+      "position": 29.0625
+    },
+    {
+      "query": "24-hour garage door emergency service phoenix",
+      "clicks": 0,
+      "impressions": 10,
+      "ctr": 0,
+      "position": 39.2
+    },
+    {
+      "query": "24-hour garage door repair",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 9.25
+    },
+    {
+      "query": "24-hour garage door repair near me",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 8.75
+    },
+    {
+      "query": "24/7 emergency garage door repair near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 19
+    },
+    {
+      "query": "24/7 emergency garage door repair phoenix",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 43.5
+    },
+    {
+      "query": "24/7 garage door opener repair phoenix",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 19
+    },
+    {
+      "query": "24/7 garage door repair",
+      "clicks": 0,
+      "impressions": 21,
+      "ctr": 0,
+      "position": 2.9047619047619047
+    },
+    {
+      "query": "24/7 garage door repair phoenix",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 32.53333333333333
+    },
+    {
+      "query": "24/7 storefront door repair phoenix az",
+      "clicks": 0,
+      "impressions": 39,
+      "ctr": 0,
+      "position": 84.33333333333333
+    },
+    {
+      "query": "24hr emergency garage repair phoenix",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 30
+    },
+    {
+      "query": "24hr garage door repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "3 car garage",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "3 car garage door",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "30a automatic gate repair",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 88.5
+    },
+    {
+      "query": "4 sons garage door",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 51
+    },
+    {
+      "query": "4 sons overhead garage door service",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 61
+    },
+    {
+      "query": "5 star garage door service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "8 x 9 garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "8500w garage door opener",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 15
+    },
+    {
+      "query": "9 foot garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 15
+    },
+    {
+      "query": "a 1 garage door near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 13
+    },
+    {
+      "query": "a 1 garage door phoenix",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 69.14285714285714
+    },
+    {
+      "query": "a authentic garage door",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 70.16666666666667
+    },
+    {
+      "query": "a authentic garage door service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 54
+    },
+    {
+      "query": "a automatic gate & repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 9
+    },
+    {
+      "query": "a better garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 12
+    },
+    {
+      "query": "a better garage door company",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 52.333333333333336
+    },
+    {
+      "query": "a class garage doors",
+      "clicks": 0,
+      "impressions": 22,
+      "ctr": 0,
+      "position": 27
+    },
+    {
+      "query": "a garage door",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 24
+    },
+    {
+      "query": "a garage door company",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 26.727272727272727
+    },
+    {
+      "query": "a garage door service",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 8.142857142857142
+    },
+    {
+      "query": "a new garage door",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 9.333333333333334
+    },
+    {
+      "query": "a plus garage door repair",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 46.5
+    },
+    {
+      "query": "a plus garage doors",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "a-1 garage door phoenix",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 92.5
+    },
+    {
+      "query": "a-1 garage door repair",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 37
+    },
+    {
+      "query": "a-authentic garage door service",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 96
+    },
+    {
+      "query": "a-door garage doors",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 41.5
+    },
+    {
+      "query": "a-plus garage door repair",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 39
+    },
+    {
+      "query": "a-z garage door & gates",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "a1 garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 126
+    },
+    {
+      "query": "a1 garage door service arizona",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 59
+    },
+    {
+      "query": "a1 garage door service az",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 44.5
+    },
+    {
+      "query": "a1 garage door service tucson",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 94
+    },
+    {
+      "query": "access door company",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "access garage doors of lincoln reviews",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "access gate repair",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "access panel door repair phoenix",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 40.857142857142854
+    },
+    {
+      "query": "access panel door repair tucson",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 27.25
+    },
+    {
+      "query": "acclaim garage doors",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 73
+    },
+    {
+      "query": "ace garage door and gate co",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 90
+    },
+    {
+      "query": "ace garage door llc",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 77
+    },
+    {
+      "query": "add garage door to carport",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "adding a garage door to a carport",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 3
+    },
+    {
+      "query": "addison garage door repair cost",
+      "clicks": 0,
+      "impressions": 6,
+      "ctr": 0,
+      "position": 62.5
+    },
+    {
+      "query": "advantage garage",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 10.923076923076923
+    },
+    {
+      "query": "affordable door company",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 26
+    },
+    {
+      "query": "affordable garage door and opener repair",
+      "clicks": 0,
+      "impressions": 67,
+      "ctr": 0,
+      "position": 47.92537313432836
+    },
+    {
+      "query": "affordable garage door phoenix",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 50.5
+    },
+    {
+      "query": "affordable garage door repair",
+      "clicks": 0,
+      "impressions": 95,
+      "ctr": 0,
+      "position": 26.147368421052633
+    },
+    {
+      "query": "affordable garage door repair az",
+      "clicks": 0,
+      "impressions": 13,
+      "ctr": 0,
+      "position": 53.84615384615385
     }
   ],
   "topPages": [
     {
       "page": "https://goodygaragedoors.com/?utm_source=google&utm_medium=organic&utm_campaign=Google%20My%20Business%20AZ%20Best",
-      "clicks": 352,
-      "impressions": 28215,
-      "ctr": 0.012475633528265107,
-      "position": 4.477015771752614
+      "clicks": 388,
+      "impressions": 33417,
+      "ctr": 0.011610856749558607,
+      "position": 5.221533949786037
     },
     {
       "page": "https://goodygaragedoors.com/",
-      "clicks": 333,
-      "impressions": 44229,
-      "ctr": 0.007528996812046395,
-      "position": 24.22139320355423
+      "clicks": 347,
+      "impressions": 46815,
+      "ctr": 0.007412154224073481,
+      "position": 22.578447078927695
     },
     {
       "page": "https://goodygaragedoors.com/contact-us/",
       "clicks": 29,
-      "impressions": 4894,
-      "ctr": 0.005925623212096444,
-      "position": 7.48304045770331
-    },
-    {
-      "page": "https://goodygaragedoors.com/about-us/",
-      "clicks": 27,
-      "impressions": 8423,
-      "ctr": 0.003205508726107088,
-      "position": 11.422296094028257
+      "impressions": 4776,
+      "ctr": 0.006072026800670017,
+      "position": 7.6792294807370185
     },
     {
       "page": "https://goodygaragedoors.com/the-most-common-automatic-gate-problems-and-what-they-mean/",
-      "clicks": 25,
-      "impressions": 4618,
-      "ctr": 0.005413598960588999,
-      "position": 9.925508878302296
+      "clicks": 29,
+      "impressions": 5406,
+      "ctr": 0.00536440991490936,
+      "position": 8.863669996300407
     },
     {
-      "page": "https://goodygaragedoors.com/tucson-garage-door-repair/",
-      "clicks": 16,
-      "impressions": 10733,
-      "ctr": 0.0014907295257616695,
-      "position": 24.7510481691978
-    },
-    {
-      "page": "https://goodygaragedoors.com/new-garage-door-installation/",
-      "clicks": 15,
-      "impressions": 24406,
-      "ctr": 0.0006146029664836516,
-      "position": 27.56617225272474
+      "page": "https://goodygaragedoors.com/about-us/",
+      "clicks": 26,
+      "impressions": 6388,
+      "ctr": 0.004070131496556042,
+      "position": 14.505792110206638
     },
     {
       "page": "https://goodygaragedoors.com/garage-door-repair/",
       "clicks": 14,
-      "impressions": 20559,
-      "ctr": 0.0006809669731018045,
-      "position": 20.832871248601585
+      "impressions": 20501,
+      "ctr": 0.0006828935173893956,
+      "position": 20.841715038290815
     },
     {
-      "page": "https://goodygaragedoors.com/rv-gates/",
+      "page": "https://goodygaragedoors.com/new-garage-door-installation/",
+      "clicks": 14,
+      "impressions": 22919,
+      "ctr": 0.0006108468955888128,
+      "position": 21.59579388280466
+    },
+    {
+      "page": "https://goodygaragedoors.com/tucson-garage-door-repair/",
       "clicks": 13,
-      "impressions": 2894,
-      "ctr": 0.004492052522460262,
-      "position": 30.022114720110572
+      "impressions": 9362,
+      "ctr": 0.0013885921811578722,
+      "position": 26.17635120700705
     },
     {
       "page": "https://goodygaragedoors.com/commercial-garage-door-installation-repair/",
       "clicks": 12,
-      "impressions": 17850,
-      "ctr": 0.0006722689075630252,
-      "position": 35.526442577030814
+      "impressions": 17708,
+      "ctr": 0.0006776598147729839,
+      "position": 28.600011294330248
+    },
+    {
+      "page": "https://goodygaragedoors.com/rv-gates/",
+      "clicks": 12,
+      "impressions": 3042,
+      "ctr": 0.0039447731755424065,
+      "position": 29.623602892833663
     },
     {
       "page": "https://goodygaragedoors.com/automatic-gate-installation/",
-      "clicks": 8,
-      "impressions": 14538,
-      "ctr": 0.0005502820195350117,
-      "position": 21.5821295914156
-    },
-    {
-      "page": "https://goodygaragedoors.com/electric-driveway-gate/",
-      "clicks": 8,
-      "impressions": 8430,
-      "ctr": 0.0009489916963226571,
-      "position": 24.81459074733096
+      "clicks": 11,
+      "impressions": 15758,
+      "ctr": 0.0006980581292042137,
+      "position": 20.32700850361721
     },
     {
       "page": "https://goodygaragedoors.com/what-to-do-if-your-garage-door-doesnt-open-car-stuck-in-garage/",
-      "clicks": 8,
-      "impressions": 1696,
-      "ctr": 0.0047169811320754715,
-      "position": 31.64858490566038
+      "clicks": 9,
+      "impressions": 1876,
+      "ctr": 0.004797441364605544,
+      "position": 28.682835820895523
     },
     {
-      "page": "https://goodygaragedoors.com/garage-door-installation/",
-      "clicks": 7,
-      "impressions": 4490,
-      "ctr": 0.0015590200445434299,
-      "position": 9.518485523385301
+      "page": "https://goodygaragedoors.com/custom-size-garage-doors-for-non-standard-openings/",
+      "clicks": 6,
+      "impressions": 1305,
+      "ctr": 0.004597701149425287,
+      "position": 9.873563218390805
+    },
+    {
+      "page": "https://goodygaragedoors.com/garage-door-opener-repair-and-installation/",
+      "clicks": 6,
+      "impressions": 4200,
+      "ctr": 0.0014285714285714286,
+      "position": 34.81595238095238
+    },
+    {
+      "page": "https://goodygaragedoors.com/electric-driveway-gate/",
+      "clicks": 5,
+      "impressions": 8375,
+      "ctr": 0.0005970149253731343,
+      "position": 24.936358208955223
     },
     {
       "page": "https://goodygaragedoors.com/gallery/",
       "clicks": 5,
-      "impressions": 191,
-      "ctr": 0.02617801047120419,
-      "position": 17.12041884816754
+      "impressions": 232,
+      "ctr": 0.021551724137931036,
+      "position": 15.913793103448276
     },
     {
-      "page": "https://goodygaragedoors.com/broken-garage-door-springs/",
-      "clicks": 4,
-      "impressions": 8414,
-      "ctr": 0.0004753981459472308,
-      "position": 20.2747801283575
+      "page": "https://goodygaragedoors.com/garage-door-installation/",
+      "clicks": 5,
+      "impressions": 2940,
+      "ctr": 0.0017006802721088435,
+      "position": 11.350340136054422
     },
     {
-      "page": "https://goodygaragedoors.com/custom-size-garage-doors-for-non-standard-openings/",
-      "clicks": 4,
-      "impressions": 938,
-      "ctr": 0.0042643923240938165,
-      "position": 9.621535181236673
+      "page": "https://goodygaragedoors.com/tucson-garage-door-repair/?utm_source=google&utm_medium=gmb&utm_campaign=google+my+business+tucson",
+      "clicks": 5,
+      "impressions": 4361,
+      "ctr": 0.0011465260261407934,
+      "position": 2.7232286172896125
     },
     {
-      "page": "https://goodygaragedoors.com/dock-leveler-repair/",
+      "page": "https://goodygaragedoors.com/cave-creek-garage-door-repair/",
       "clicks": 4,
-      "impressions": 1938,
-      "ctr": 0.0020639834881320948,
-      "position": 46.115067079463365
-    },
-    {
-      "page": "https://goodygaragedoors.com/garage-door-opener-repair-and-installation/",
-      "clicks": 4,
-      "impressions": 3890,
-      "ctr": 0.0010282776349614395,
-      "position": 37.17917737789203
+      "impressions": 1440,
+      "ctr": 0.002777777777777778,
+      "position": 22.280555555555555
     },
     {
       "page": "https://goodygaragedoors.com/garage-door-repair-and-installation/",
       "clicks": 4,
-      "impressions": 1484,
-      "ctr": 0.0026954177897574125,
-      "position": 17.758760107816713
+      "impressions": 1505,
+      "ctr": 0.0026578073089701,
+      "position": 17.027242524916943
+    },
+    {
+      "page": "https://goodygaragedoors.com/garage-door-repair-estimates/",
+      "clicks": 4,
+      "impressions": 2365,
+      "ctr": 0.0016913319238900633,
+      "position": 25.64566596194503
     },
     {
       "page": "https://goodygaragedoors.com/how-can-i-tell-if-its-time-to-replace-my-garage-door-springs/",
       "clicks": 4,
-      "impressions": 3337,
-      "ctr": 0.001198681450404555,
-      "position": 35.68894216362002
+      "impressions": 3516,
+      "ctr": 0.0011376564277588168,
+      "position": 31.585893060295792
     },
     {
       "page": "https://goodygaragedoors.com/new-commercial-garage-door/",
       "clicks": 4,
-      "impressions": 3598,
-      "ctr": 0.0011117287381878821,
-      "position": 28.666481378543637
+      "impressions": 4350,
+      "ctr": 0.0009195402298850574,
+      "position": 29.237241379310344
     },
     {
       "page": "https://goodygaragedoors.com/automatic-gate-openers/",
       "clicks": 3,
-      "impressions": 5855,
-      "ctr": 0.0005123825789923143,
-      "position": 37.69940222032451
+      "impressions": 6089,
+      "ctr": 0.0004926917392018393,
+      "position": 34.1509279027755
     },
     {
-      "page": "https://goodygaragedoors.com/cave-creek-garage-door-repair/",
+      "page": "https://goodygaragedoors.com/dock-leveler-repair/",
       "clicks": 3,
-      "impressions": 1301,
-      "ctr": 0.0023059185242121443,
-      "position": 24.594926979246733
+      "impressions": 2141,
+      "ctr": 0.0014012143858010276,
+      "position": 44.58337225595516
     },
     {
       "page": "https://goodygaragedoors.com/garage-door-openers/",
       "clicks": 3,
-      "impressions": 876,
-      "ctr": 0.003424657534246575,
-      "position": 14.200913242009133
+      "impressions": 1160,
+      "ctr": 0.002586206896551724,
+      "position": 14.78103448275862
     },
     {
-      "page": "https://goodygaragedoors.com/mesa-garage-door-springs/",
+      "page": "https://goodygaragedoors.com/guide-to-garage-door-sizes/",
       "clicks": 3,
-      "impressions": 736,
-      "ctr": 0.004076086956521739,
-      "position": 27.83423913043478
+      "impressions": 846,
+      "ctr": 0.0035460992907801418,
+      "position": 14.721040189125295
     },
     {
-      "page": "https://goodygaragedoors.com/surprise-garage-door-repair/",
+      "page": "https://goodygaragedoors.com/phoenix-garage-door-repair/?utm_source=google&utm_medium=gmb&utm_campaign=google+my+business+phoenix",
       "clicks": 3,
-      "impressions": 3043,
-      "ctr": 0.000985869208018403,
-      "position": 21.70456786066382
+      "impressions": 380,
+      "ctr": 0.007894736842105263,
+      "position": 14.239473684210527
+    },
+    {
+      "page": "https://goodygaragedoors.com/scottsdale-garage-door-repair/wood-garage-doors/",
+      "clicks": 3,
+      "impressions": 325,
+      "ctr": 0.009230769230769232,
+      "position": 6.138461538461539
     },
     {
       "page": "https://goodygaragedoors.com/what-should-i-do-if-my-garage-door-sensors-arent-working/",
       "clicks": 3,
-      "impressions": 2499,
-      "ctr": 0.0012004801920768306,
-      "position": 19.276510604241697
+      "impressions": 2879,
+      "ctr": 0.0010420284821118443,
+      "position": 16.865925668634944
     },
     {
       "page": "https://goodygaragedoors.com/commercial-garage-doors-chandler/",
       "clicks": 2,
-      "impressions": 289,
-      "ctr": 0.006920415224913495,
-      "position": 40.449826989619375
+      "impressions": 215,
+      "ctr": 0.009302325581395349,
+      "position": 32.986046511627904
     },
     {
       "page": "https://goodygaragedoors.com/commercial-garage-doors-gilbert/",
       "clicks": 2,
-      "impressions": 59,
-      "ctr": 0.03389830508474576,
-      "position": 31.559322033898304
+      "impressions": 62,
+      "ctr": 0.03225806451612903,
+      "position": 27.725806451612904
     },
     {
-      "page": "https://goodygaragedoors.com/garage-door-repair-estimates/",
+      "page": "https://goodygaragedoors.com/double-to-single-garage-door/",
       "clicks": 2,
-      "impressions": 1959,
-      "ctr": 0.0010209290454313426,
-      "position": 29.772843287391527
+      "impressions": 328,
+      "ctr": 0.006097560975609756,
+      "position": 15.210365853658537
     },
     {
       "page": "https://goodygaragedoors.com/genie-garage-door-openers/",
       "clicks": 2,
-      "impressions": 1470,
-      "ctr": 0.0013605442176870747,
-      "position": 20.75170068027211
+      "impressions": 1510,
+      "ctr": 0.0013245033112582781,
+      "position": 17.8158940397351
     },
     {
-      "page": "https://goodygaragedoors.com/guide-to-garage-door-sizes/",
+      "page": "https://goodygaragedoors.com/mesa-garage-door-springs/",
       "clicks": 2,
-      "impressions": 762,
-      "ctr": 0.0026246719160104987,
-      "position": 15.964566929133857
-    },
-    {
-      "page": "https://goodygaragedoors.com/mesa-garage-door-repair/glass-garage-doors/",
-      "clicks": 2,
-      "impressions": 60,
-      "ctr": 0.03333333333333333,
-      "position": 3.9166666666666665
+      "impressions": 758,
+      "ctr": 0.002638522427440633,
+      "position": 24.04089709762533
     },
     {
       "page": "https://goodygaragedoors.com/peoria-garage-door-repair/garage-door-maintenance/",
       "clicks": 2,
-      "impressions": 612,
-      "ctr": 0.0032679738562091504,
-      "position": 35.48202614379085
+      "impressions": 649,
+      "ctr": 0.0030816640986132513,
+      "position": 34.99537750385208
     },
     {
       "page": "https://goodygaragedoors.com/san-tan-valley-garage-door-repair/",
       "clicks": 2,
-      "impressions": 2654,
-      "ctr": 0.0007535795026375283,
-      "position": 22.26525998492841
+      "impressions": 2695,
+      "ctr": 0.0007421150278293135,
+      "position": 20.56808905380334
     },
     {
-      "page": "https://goodygaragedoors.com/scottsdale-garage-door-repair/wood-garage-doors/",
+      "page": "https://goodygaragedoors.com/surprise-garage-door-repair/",
       "clicks": 2,
-      "impressions": 258,
-      "ctr": 0.007751937984496124,
-      "position": 5.550387596899225
+      "impressions": 3292,
+      "ctr": 0.0006075334143377885,
+      "position": 20.927399756986635
     },
     {
       "page": "https://goodygaragedoors.com/why-have-my-garage-door-rollers-come-off-track/",
       "clicks": 2,
-      "impressions": 2652,
-      "ctr": 0.0007541478129713424,
-      "position": 20.7341628959276
+      "impressions": 2886,
+      "ctr": 0.000693000693000693,
+      "position": 18.574497574497574
+    },
+    {
+      "page": "https://goodygaragedoors.com/broken-garage-door-springs/",
+      "clicks": 1,
+      "impressions": 8661,
+      "ctr": 0.00011546010853250202,
+      "position": 20.470384482161414
     },
     {
       "page": "https://goodygaragedoors.com/buckeye-garage-door-repair/",
       "clicks": 1,
-      "impressions": 683,
-      "ctr": 0.0014641288433382138,
-      "position": 23.70424597364568
+      "impressions": 463,
+      "ctr": 0.0021598272138228943,
+      "position": 21.77753779697624
     },
     {
       "page": "https://goodygaragedoors.com/commercial-garage-doors-mesa/",
       "clicks": 1,
-      "impressions": 648,
-      "ctr": 0.0015432098765432098,
-      "position": 27.555555555555557
+      "impressions": 650,
+      "ctr": 0.0015384615384615385,
+      "position": 25.615384615384617
     },
     {
       "page": "https://goodygaragedoors.com/commercial-garage-doors-scottsdale/",
       "clicks": 1,
-      "impressions": 267,
-      "ctr": 0.003745318352059925,
-      "position": 8.831460674157302
+      "impressions": 513,
+      "ctr": 0.001949317738791423,
+      "position": 13.922027290448343
     },
     {
       "page": "https://goodygaragedoors.com/design-your-door-today/",
       "clicks": 1,
-      "impressions": 837,
-      "ctr": 0.0011947431302270011,
-      "position": 13.166069295101552
+      "impressions": 807,
+      "ctr": 0.0012391573729863693,
+      "position": 10.888475836431226
     },
     {
-      "page": "https://goodygaragedoors.com/double-to-single-garage-door/",
+      "page": "https://goodygaragedoors.com/garage-door-cable-repair-signs-of-wear/",
       "clicks": 1,
-      "impressions": 269,
-      "ctr": 0.0037174721189591076,
-      "position": 15.788104089219331
+      "impressions": 645,
+      "ctr": 0.0015503875968992248,
+      "position": 9.578294573643412
     },
     {
-      "page": "https://goodygaragedoors.com/fountain-hills-garage-door-repair/",
+      "page": "https://goodygaragedoors.com/garage-door-maintenance/",
       "clicks": 1,
-      "impressions": 2477,
-      "ctr": 0.0004037141703673799,
-      "position": 17.005651998385144
-    },
-    {
-      "page": "https://goodygaragedoors.com/garage-door-repair-and-installation/insulated-wood-grain-garage-doors/",
-      "clicks": 1,
-      "impressions": 40,
-      "ctr": 0.025,
-      "position": 35.125
+      "impressions": 1385,
+      "ctr": 0.0007220216606498195,
+      "position": 23.130685920577616
     },
     {
       "page": "https://goodygaragedoors.com/garage-door-replacement-versus-repair/",
       "clicks": 1,
-      "impressions": 344,
-      "ctr": 0.0029069767441860465,
-      "position": 26.11918604651163
+      "impressions": 408,
+      "ctr": 0.0024509803921568627,
+      "position": 23.916666666666668
     },
     {
       "page": "https://goodygaragedoors.com/gilbert-garage-door-repair/",
       "clicks": 1,
-      "impressions": 9147,
-      "ctr": 0.00010932546190007652,
-      "position": 40.488356838307645
+      "impressions": 11441,
+      "ctr": 0.000087404947120007,
+      "position": 37.83323136089503
     },
     {
       "page": "https://goodygaragedoors.com/gilbert-garage-door-repair/wood-garage-doors/",
       "clicks": 1,
-      "impressions": 11,
-      "ctr": 0.09090909090909091,
-      "position": 38.63636363636363
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 33.07692307692308
     },
     {
       "page": "https://goodygaragedoors.com/glendale-garage-door-repair/",
       "clicks": 1,
-      "impressions": 2473,
-      "ctr": 0.0004043671653861706,
-      "position": 47.005661140315404
-    },
-    {
-      "page": "https://goodygaragedoors.com/liftmaster-garage-door-openers/",
-      "clicks": 1,
-      "impressions": 1007,
-      "ctr": 0.0009930486593843098,
-      "position": 24.38033763654419
+      "impressions": 2320,
+      "ctr": 0.0004310344827586207,
+      "position": 44.57370689655173
     }
   ],
-  "fetchedAt": "2026-03-18T13:08:15.263Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "goody garage doors",
+      "clicks": 296,
+      "impressions": 1353,
+      "ctr": 0.21877309682187732,
+      "position": 1.0946045824094606
+    },
+    {
+      "query": "goody garage door",
+      "clicks": 146,
+      "impressions": 508,
+      "ctr": 0.2874015748031496,
+      "position": 1.0059055118110236
+    },
+    {
+      "query": "arizona's best garage door and repair company",
+      "clicks": 21,
+      "impressions": 410,
+      "ctr": 0.05121951219512195,
+      "position": 1.1829268292682926
+    },
+    {
+      "query": "garage door repair",
+      "clicks": 21,
+      "impressions": 10363,
+      "ctr": 0.0020264402200135096,
+      "position": 13.815883431438772
+    },
+    {
+      "query": "goody garage",
+      "clicks": 19,
+      "impressions": 88,
+      "ctr": 0.2159090909090909,
+      "position": 2.9545454545454546
+    },
+    {
+      "query": "garage door repair mesa az",
+      "clicks": 14,
+      "impressions": 1295,
+      "ctr": 0.010810810810810811,
+      "position": 4.522779922779923
+    },
+    {
+      "query": "goody's garage",
+      "clicks": 14,
+      "impressions": 46,
+      "ctr": 0.30434782608695654,
+      "position": 5.826086956521739
+    },
+    {
+      "query": "garage door",
+      "clicks": 8,
+      "impressions": 2302,
+      "ctr": 0.0034752389226759338,
+      "position": 16.14726324934839
+    },
+    {
+      "query": "arizona best garage door",
+      "clicks": 7,
+      "impressions": 260,
+      "ctr": 0.026923076923076925,
+      "position": 2.0538461538461537
+    },
+    {
+      "query": "garage door replacement",
+      "clicks": 5,
+      "impressions": 18339,
+      "ctr": 0.0002726430012541578,
+      "position": 65.0396968209826
+    },
+    {
+      "query": "goodie garage",
+      "clicks": 5,
+      "impressions": 11,
+      "ctr": 0.45454545454545453,
+      "position": 4.363636363636363
+    },
+    {
+      "query": "goody garage door reviews",
+      "clicks": 5,
+      "impressions": 54,
+      "ctr": 0.09259259259259259,
+      "position": 3.5925925925925926
+    },
+    {
+      "query": "commercial garage door repair",
+      "clicks": 4,
+      "impressions": 4286,
+      "ctr": 0.0009332711152589828,
+      "position": 60.580261315912274
+    },
+    {
+      "query": "commercial garage door repair phoenix",
+      "clicks": 4,
+      "impressions": 421,
+      "ctr": 0.009501187648456057,
+      "position": 2.0997624703087885
+    },
+    {
+      "query": "garage door repair mesa",
+      "clicks": 4,
+      "impressions": 1787,
+      "ctr": 0.002238388360380526,
+      "position": 7.190263010632345
+    },
+    {
+      "query": "garage door repair near me",
+      "clicks": 4,
+      "impressions": 6438,
+      "ctr": 0.0006213109661385523,
+      "position": 18.921714818266544
+    },
+    {
+      "query": "garage door repair phoenix",
+      "clicks": 4,
+      "impressions": 2408,
+      "ctr": 0.0016611295681063123,
+      "position": 15.381229235880399
+    },
+    {
+      "query": "garage door repair surprise az",
+      "clicks": 4,
+      "impressions": 966,
+      "ctr": 0.004140786749482402,
+      "position": 6.232919254658385
+    },
+    {
+      "query": "garage door spring repair",
+      "clicks": 4,
+      "impressions": 2100,
+      "ctr": 0.0019047619047619048,
+      "position": 40.63952380952381
+    },
+    {
+      "query": "garage doors phoenix",
+      "clicks": 4,
+      "impressions": 864,
+      "ctr": 0.004629629629629629,
+      "position": 18.93634259259259
+    },
+    {
+      "query": "goodies garage",
+      "clicks": 4,
+      "impressions": 59,
+      "ctr": 0.06779661016949153,
+      "position": 11.983050847457626
+    },
+    {
+      "query": "rv gate installation",
+      "clicks": 4,
+      "impressions": 75,
+      "ctr": 0.05333333333333334,
+      "position": 10.68
+    },
+    {
+      "query": "garage door company",
+      "clicks": 3,
+      "impressions": 575,
+      "ctr": 0.0052173913043478265,
+      "position": 11.453913043478261
+    },
+    {
+      "query": "garage door free estimate",
+      "clicks": 3,
+      "impressions": 234,
+      "ctr": 0.01282051282051282,
+      "position": 73.61538461538461
+    },
+    {
+      "query": "garage door parts near me",
+      "clicks": 3,
+      "impressions": 57,
+      "ctr": 0.05263157894736842,
+      "position": 9.666666666666666
+    },
+    {
+      "query": "garage doors",
+      "clicks": 3,
+      "impressions": 1388,
+      "ctr": 0.002161383285302594,
+      "position": 14.079250720461095
+    },
+    {
+      "query": "garage doors arizona",
+      "clicks": 3,
+      "impressions": 66,
+      "ctr": 0.045454545454545456,
+      "position": 5.621212121212121
+    },
+    {
+      "query": "garage doors mesa az",
+      "clicks": 3,
+      "impressions": 519,
+      "ctr": 0.005780346820809248,
+      "position": 4.786127167630058
+    },
+    {
+      "query": "goody garage doors photos",
+      "clicks": 3,
+      "impressions": 56,
+      "ctr": 0.05357142857142857,
+      "position": 1.9821428571428572
+    },
+    {
+      "query": "rv gate repair",
+      "clicks": 3,
+      "impressions": 83,
+      "ctr": 0.03614457831325301,
+      "position": 9.771084337349398
+    },
+    {
+      "query": "arizona's best garage door and repair company reviews",
+      "clicks": 2,
+      "impressions": 439,
+      "ctr": 0.004555808656036446,
+      "position": 6.646924829157175
+    },
+    {
+      "query": "call goody",
+      "clicks": 2,
+      "impressions": 18,
+      "ctr": 0.1111111111111111,
+      "position": 10.666666666666666
+    },
+    {
+      "query": "emergency garage door repair",
+      "clicks": 2,
+      "impressions": 1681,
+      "ctr": 0.001189767995240928,
+      "position": 9.305770374776918
+    },
+    {
+      "query": "garage door installation",
+      "clicks": 2,
+      "impressions": 324812,
+      "ctr": 0.0000061574079775377754,
+      "position": 81.65228193539647
+    },
+    {
+      "query": "garage door installation blog",
+      "clicks": 2,
+      "impressions": 27,
+      "ctr": 0.07407407407407407,
+      "position": 37.81481481481482
+    },
+    {
+      "query": "garage door mesa az",
+      "clicks": 2,
+      "impressions": 58,
+      "ctr": 0.034482758620689655,
+      "position": 4.258620689655173
+    },
+    {
+      "query": "garage door opener installation",
+      "clicks": 2,
+      "impressions": 1404,
+      "ctr": 0.0014245014245014246,
+      "position": 17.90883190883191
+    },
+    {
+      "query": "garage door repair cave creek",
+      "clicks": 2,
+      "impressions": 344,
+      "ctr": 0.005813953488372093,
+      "position": 5.7936046511627906
+    },
+    {
+      "query": "garage door repair phoenix az",
+      "clicks": 2,
+      "impressions": 613,
+      "ctr": 0.0032626427406199023,
+      "position": 14.747145187601957
+    },
+    {
+      "query": "garage door repair san tan valley",
+      "clicks": 2,
+      "impressions": 618,
+      "ctr": 0.003236245954692557,
+      "position": 8.228155339805825
+    },
+    {
+      "query": "garage door replacement near me",
+      "clicks": 2,
+      "impressions": 320,
+      "ctr": 0.00625,
+      "position": 8.95
+    },
+    {
+      "query": "garage door tune up special",
+      "clicks": 2,
+      "impressions": 14,
+      "ctr": 0.14285714285714285,
+      "position": 10.714285714285714
+    },
+    {
+      "query": "garage doors near me",
+      "clicks": 2,
+      "impressions": 286,
+      "ctr": 0.006993006993006993,
+      "position": 16.213286713286713
+    },
+    {
+      "query": "garage repair near me",
+      "clicks": 2,
+      "impressions": 946,
+      "ctr": 0.0021141649048625794,
+      "position": 8.221987315010571
+    },
+    {
+      "query": "gate opener installers near me",
+      "clicks": 2,
+      "impressions": 808,
+      "ctr": 0.0024752475247524753,
+      "position": 49.51237623762376
+    },
+    {
+      "query": "goodys garage",
+      "clicks": 2,
+      "impressions": 6,
+      "ctr": 0.3333333333333333,
+      "position": 2.5
+    },
+    {
+      "query": "arizona garage door repair",
+      "clicks": 1,
+      "impressions": 255,
+      "ctr": 0.00392156862745098,
+      "position": 12.576470588235294
+    },
+    {
+      "query": "arizona's best garage door",
+      "clicks": 1,
+      "impressions": 226,
+      "ctr": 0.004424778761061947,
+      "position": 2.1415929203539825
+    },
+    {
+      "query": "automatic gate installers near me",
+      "clicks": 1,
+      "impressions": 2244,
+      "ctr": 0.000445632798573975,
+      "position": 59.02094474153298
+    },
+    {
+      "query": "bay door repair",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 50.583333333333336
+    },
+    {
+      "query": "best garage door repair company near me",
+      "clicks": 1,
+      "impressions": 28,
+      "ctr": 0.03571428571428571,
+      "position": 26.035714285714285
+    },
+    {
+      "query": "best garage door repair in phoenix",
+      "clicks": 1,
+      "impressions": 489,
+      "ctr": 0.002044989775051125,
+      "position": 9.72597137014315
+    },
+    {
+      "query": "best garage door repair in scottsdale",
+      "clicks": 1,
+      "impressions": 681,
+      "ctr": 0.0014684287812041115,
+      "position": 17.138032305433185
+    },
+    {
+      "query": "cave creek garage door repair",
+      "clicks": 1,
+      "impressions": 203,
+      "ctr": 0.0049261083743842365,
+      "position": 7.078817733990148
+    },
+    {
+      "query": "cheap garage door installation",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 56.791666666666664
+    },
+    {
+      "query": "commercial garage door",
+      "clicks": 1,
+      "impressions": 72,
+      "ctr": 0.013888888888888888,
+      "position": 11.416666666666666
+    },
+    {
+      "query": "commercial garage doors",
+      "clicks": 1,
+      "impressions": 396,
+      "ctr": 0.0025252525252525255,
+      "position": 24.282828282828284
+    },
+    {
+      "query": "commercial garage doors near me",
+      "clicks": 1,
+      "impressions": 340,
+      "ctr": 0.0029411764705882353,
+      "position": 50.608823529411765
+    },
+    {
+      "query": "commercial gate repair",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 8.947368421052632
+    },
+    {
+      "query": "commercial overhead doors",
+      "clicks": 1,
+      "impressions": 279,
+      "ctr": 0.0035842293906810036,
+      "position": 28.00716845878136
+    },
+    {
+      "query": "cost to replace two garage door springs",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "do garage door springs wear out",
+      "clicks": 1,
+      "impressions": 56,
+      "ctr": 0.017857142857142856,
+      "position": 8.714285714285715
+    },
+    {
+      "query": "electric gate repair near me",
+      "clicks": 1,
+      "impressions": 2842,
+      "ctr": 0.0003518648838845883,
+      "position": 45.89795918367347
+    },
+    {
+      "query": "electric gate repair phoenix",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 5
+    },
+    {
+      "query": "electric gate repair service near me",
+      "clicks": 1,
+      "impressions": 666,
+      "ctr": 0.0015015015015015015,
+      "position": 49.62462462462462
+    },
+    {
+      "query": "electric gates near me",
+      "clicks": 1,
+      "impressions": 136,
+      "ctr": 0.007352941176470588,
+      "position": 80.86029411764706
+    },
+    {
+      "query": "emergency garage door repair near me",
+      "clicks": 1,
+      "impressions": 124,
+      "ctr": 0.008064516129032258,
+      "position": 46.38709677419355
+    },
+    {
+      "query": "fix my door near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 64.33333333333334
+    },
+    {
+      "query": "fountain hills garage door repair",
+      "clicks": 1,
+      "impressions": 413,
+      "ctr": 0.002421307506053269,
+      "position": 9.029055690072639
+    },
+    {
+      "query": "garade door repair",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 3
+    },
+    {
+      "query": "garage company near me",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 5.642857142857143
+    },
+    {
+      "query": "garage doir",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 7.8
+    },
+    {
+      "query": "garage door arizona",
+      "clicks": 1,
+      "impressions": 56,
+      "ctr": 0.017857142857142856,
+      "position": 4.946428571428571
+    },
+    {
+      "query": "garage door companies near me",
+      "clicks": 1,
+      "impressions": 999,
+      "ctr": 0.001001001001001001,
+      "position": 11.831831831831831
+    },
+    {
+      "query": "garage door company near me",
+      "clicks": 1,
+      "impressions": 189,
+      "ctr": 0.005291005291005291,
+      "position": 9.634920634920634
+    },
+    {
+      "query": "garage door company san tan valley az",
+      "clicks": 1,
+      "impressions": 82,
+      "ctr": 0.012195121951219513,
+      "position": 5.7439024390243905
+    },
+    {
+      "query": "garage door contractors",
+      "clicks": 1,
+      "impressions": 344,
+      "ctr": 0.0029069767441860465,
+      "position": 80.87790697674419
+    },
+    {
+      "query": "garage door depot",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "garage door install",
+      "clicks": 1,
+      "impressions": 1341,
+      "ctr": 0.0007457121551081282,
+      "position": 58.1096196868009
+    },
+    {
+      "query": "garage door installation glendale az",
+      "clicks": 1,
+      "impressions": 138,
+      "ctr": 0.007246376811594203,
+      "position": 10.905797101449275
+    },
+    {
+      "query": "garage door installation maricopa az",
+      "clicks": 1,
+      "impressions": 82,
+      "ctr": 0.012195121951219513,
+      "position": 6.804878048780488
+    },
+    {
+      "query": "garage door installers near me",
+      "clicks": 1,
+      "impressions": 172,
+      "ctr": 0.005813953488372093,
+      "position": 9.55232558139535
+    },
+    {
+      "query": "garage door near me",
+      "clicks": 1,
+      "impressions": 286,
+      "ctr": 0.0034965034965034965,
+      "position": 12.265734265734265
+    },
+    {
+      "query": "garage door opener repair mesa",
+      "clicks": 1,
+      "impressions": 332,
+      "ctr": 0.0030120481927710845,
+      "position": 7.771084337349397
+    },
+    {
+      "query": "garage door opener repair mesa az",
+      "clicks": 1,
+      "impressions": 678,
+      "ctr": 0.0014749262536873156,
+      "position": 5.737463126843658
+    },
+    {
+      "query": "garage door opener repair near me",
+      "clicks": 1,
+      "impressions": 472,
+      "ctr": 0.00211864406779661,
+      "position": 8.870762711864407
+    },
+    {
+      "query": "garage door opener with installation",
+      "clicks": 1,
+      "impressions": 22,
+      "ctr": 0.045454545454545456,
+      "position": 12.636363636363637
+    },
+    {
+      "query": "garage door reapir",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 8
+    },
+    {
+      "query": "garage door repair az",
+      "clicks": 1,
+      "impressions": 69,
+      "ctr": 0.014492753623188406,
+      "position": 7.478260869565218
+    },
+    {
+      "query": "garage door repair buckeye az",
+      "clicks": 1,
+      "impressions": 260,
+      "ctr": 0.0038461538461538464,
+      "position": 14.261538461538462
+    },
+    {
+      "query": "garage door repair chandler",
+      "clicks": 1,
+      "impressions": 822,
+      "ctr": 0.0012165450121654502,
+      "position": 17.683698296836983
+    },
+    {
+      "query": "garage door repair fountain hills az",
+      "clicks": 1,
+      "impressions": 308,
+      "ctr": 0.003246753246753247,
+      "position": 7.542207792207792
+    },
+    {
+      "query": "garage door repair free estimate",
+      "clicks": 1,
+      "impressions": 304,
+      "ctr": 0.003289473684210526,
+      "position": 39.661184210526315
+    },
+    {
+      "query": "garage door repair in mesa",
+      "clicks": 1,
+      "impressions": 585,
+      "ctr": 0.0017094017094017094,
+      "position": 7.09059829059829
+    },
+    {
+      "query": "garage door repair in mesa az",
+      "clicks": 1,
+      "impressions": 440,
+      "ctr": 0.0022727272727272726,
+      "position": 6.672727272727273
+    },
+    {
+      "query": "garage door repair in sun city az",
+      "clicks": 1,
+      "impressions": 267,
+      "ctr": 0.003745318352059925,
+      "position": 15.404494382022472
+    },
+    {
+      "query": "garage door repair in surprise az",
+      "clicks": 1,
+      "impressions": 222,
+      "ctr": 0.0045045045045045045,
+      "position": 4.792792792792793
+    },
+    {
+      "query": "garage door repair mesa, az",
+      "clicks": 1,
+      "impressions": 58,
+      "ctr": 0.017241379310344827,
+      "position": 6.017241379310345
+    },
+    {
+      "query": "garage door repair north scottsdale",
+      "clicks": 1,
+      "impressions": 498,
+      "ctr": 0.002008032128514056,
+      "position": 12.082329317269076
+    },
+    {
+      "query": "garage door repair peoria az",
+      "clicks": 1,
+      "impressions": 801,
+      "ctr": 0.0012484394506866417,
+      "position": 7.344569288389513
+    },
+    {
+      "query": "garage door repair san tan valley az",
+      "clicks": 1,
+      "impressions": 417,
+      "ctr": 0.002398081534772182,
+      "position": 7.800959232613909
+    },
+    {
+      "query": "garage door repair scottsdale",
+      "clicks": 1,
+      "impressions": 1551,
+      "ctr": 0.0006447453255963894,
+      "position": 15.313346228239846
+    },
+    {
+      "query": "garage door repair scottsdale az",
+      "clicks": 1,
+      "impressions": 845,
+      "ctr": 0.001183431952662722,
+      "position": 17.381065088757396
+    },
+    {
+      "query": "garage door repairs near me",
+      "clicks": 1,
+      "impressions": 363,
+      "ctr": 0.0027548209366391185,
+      "position": 12.305785123966942
+    },
+    {
+      "query": "garage door replacement mesa",
+      "clicks": 1,
+      "impressions": 653,
+      "ctr": 0.0015313935681470138,
+      "position": 14.865237366003063
+    },
+    {
+      "query": "garage door replacement mesa az",
+      "clicks": 1,
+      "impressions": 124,
+      "ctr": 0.008064516129032258,
+      "position": 11.758064516129032
+    },
+    {
+      "query": "garage door replacement phoenix",
+      "clicks": 1,
+      "impressions": 626,
+      "ctr": 0.001597444089456869,
+      "position": 13.91373801916933
+    },
+    {
+      "query": "garage door replacements",
+      "clicks": 1,
+      "impressions": 601,
+      "ctr": 0.0016638935108153079,
+      "position": 66.00332778702163
+    },
+    {
+      "query": "garage door sales near me",
+      "clicks": 1,
+      "impressions": 147,
+      "ctr": 0.006802721088435374,
+      "position": 24.34013605442177
+    },
+    {
+      "query": "garage door service",
+      "clicks": 1,
+      "impressions": 2064,
+      "ctr": 0.00048449612403100775,
+      "position": 13.505329457364342
+    },
+    {
+      "query": "garage door service and repair near me",
+      "clicks": 1,
+      "impressions": 25,
+      "ctr": 0.04,
+      "position": 45.8
+    },
+    {
+      "query": "garage door service mesa",
+      "clicks": 1,
+      "impressions": 432,
+      "ctr": 0.0023148148148148147,
+      "position": 8.12962962962963
+    },
+    {
+      "query": "garage door service near me",
+      "clicks": 1,
+      "impressions": 778,
+      "ctr": 0.0012853470437017994,
+      "position": 14.219794344473007
+    },
+    {
+      "query": "garage door service scottsdale",
+      "clicks": 1,
+      "impressions": 567,
+      "ctr": 0.001763668430335097,
+      "position": 14.095238095238095
+    },
+    {
+      "query": "garage door services",
+      "clicks": 1,
+      "impressions": 595,
+      "ctr": 0.0016806722689075631,
+      "position": 40.73781512605042
+    },
+    {
+      "query": "garage door spring repair services",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 40.57142857142857
+    },
+    {
+      "query": "garage door spring replacement",
+      "clicks": 1,
+      "impressions": 1421,
+      "ctr": 0.0007037297677691766,
+      "position": 22
+    },
+    {
+      "query": "garage door spring supplier near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 4
+    },
+    {
+      "query": "garage door supply near me",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 10.5
+    },
+    {
+      "query": "garage door surprise az",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 6.25
+    },
+    {
+      "query": "garage door tune up",
+      "clicks": 1,
+      "impressions": 39,
+      "ctr": 0.02564102564102564,
+      "position": 15.307692307692308
+    },
+    {
+      "query": "garage door tune-up specials near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 9
+    },
+    {
+      "query": "garage door wheel keeps coming off track",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 9.666666666666666
+    },
+    {
+      "query": "garage doors az",
+      "clicks": 1,
+      "impressions": 155,
+      "ctr": 0.0064516129032258064,
+      "position": 7.651612903225806
+    },
+    {
+      "query": "garage opener installation",
+      "clicks": 1,
+      "impressions": 238,
+      "ctr": 0.004201680672268907,
+      "position": 12.138655462184873
+    },
+    {
+      "query": "garage repair phoenix",
+      "clicks": 1,
+      "impressions": 158,
+      "ctr": 0.006329113924050633,
+      "position": 11.310126582278482
+    },
+    {
+      "query": "garage repair service",
+      "clicks": 1,
+      "impressions": 128,
+      "ctr": 0.0078125,
+      "position": 5.71875
+    },
+    {
+      "query": "garage replacement",
+      "clicks": 1,
+      "impressions": 70,
+      "ctr": 0.014285714285714285,
+      "position": 66.57142857142857
+    },
+    {
+      "query": "garage tune up near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 7.75
+    },
+    {
+      "query": "gate opener problems",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 13.8
+    },
+    {
+      "query": "gate repair",
+      "clicks": 1,
+      "impressions": 4415,
+      "ctr": 0.00022650056625141563,
+      "position": 57.15515288788222
+    },
+    {
+      "query": "genie garage door repair",
+      "clicks": 1,
+      "impressions": 515,
+      "ctr": 0.001941747572815534,
+      "position": 52.32621359223301
+    },
+    {
+      "query": "good guys garage doors",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 11
+    },
+    {
+      "query": "goodyear garage door repair",
+      "clicks": 1,
+      "impressions": 39,
+      "ctr": 0.02564102564102564,
+      "position": 12.384615384615385
+    },
+    {
+      "query": "guaranteed garage doors",
+      "clicks": 1,
+      "impressions": 29,
+      "ctr": 0.034482758620689655,
+      "position": 16.586206896551722
+    },
+    {
+      "query": "how often replace garage door springs",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 10.090909090909092
+    },
+    {
+      "query": "industrial garage door repair",
+      "clicks": 1,
+      "impressions": 276,
+      "ctr": 0.0036231884057971015,
+      "position": 71.35144927536231
+    },
+    {
+      "query": "industrial garage doors",
+      "clicks": 1,
+      "impressions": 87,
+      "ctr": 0.011494252873563218,
+      "position": 3.0344827586206895
+    },
+    {
+      "query": "liftmaster",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 2
+    },
+    {
+      "query": "liftmaster garage door repair",
+      "clicks": 1,
+      "impressions": 84,
+      "ctr": 0.011904761904761904,
+      "position": 8.714285714285715
+    },
+    {
+      "query": "liftmaster gate repair",
+      "clicks": 1,
+      "impressions": 116,
+      "ctr": 0.008620689655172414,
+      "position": 40.03448275862069
+    },
+    {
+      "query": "liftmaster opener repair",
+      "clicks": 1,
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 89.8125
+    },
+    {
+      "query": "loading dock repair companies near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 69.5
+    },
+    {
+      "query": "mesa home repair",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 102
+    },
+    {
+      "query": "new garage door",
+      "clicks": 1,
+      "impressions": 3673,
+      "ctr": 0.0002722570106180234,
+      "position": 55.30683365096651
+    },
+    {
+      "query": "new garage door install phoenix",
+      "clicks": 1,
+      "impressions": 112,
+      "ctr": 0.008928571428571428,
+      "position": 9
+    },
+    {
+      "query": "new garage door installation",
+      "clicks": 1,
+      "impressions": 2660,
+      "ctr": 0.00037593984962406017,
+      "position": 50.39473684210526
+    },
+    {
+      "query": "new garage doors",
+      "clicks": 1,
+      "impressions": 1066,
+      "ctr": 0.0009380863039399625,
+      "position": 41.28424015009381
+    },
+    {
+      "query": "one way garage doors",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 12
+    },
+    {
+      "query": "opener repair garage door",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 7
+    },
+    {
+      "query": "overhead garage door company reviews",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "phoenix door repair",
+      "clicks": 1,
+      "impressions": 33,
+      "ctr": 0.030303030303030304,
+      "position": 32.75757575757576
+    },
+    {
+      "query": "quality garage doors",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 8.375
+    },
+    {
+      "query": "repair garage door near me",
+      "clicks": 1,
+      "impressions": 528,
+      "ctr": 0.001893939393939394,
+      "position": 9.632575757575758
+    },
+    {
+      "query": "repair gate opener",
+      "clicks": 1,
+      "impressions": 28,
+      "ctr": 0.03571428571428571,
+      "position": 68.71428571428571
+    },
+    {
+      "query": "reparacion de garage",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 4
+    },
+    {
+      "query": "replacement garage door",
+      "clicks": 1,
+      "impressions": 1945,
+      "ctr": 0.0005141388174807198,
+      "position": 58.63341902313625
+    },
+    {
+      "query": "replacing garage door rollers",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 2
+    },
+    {
+      "query": "replacing garage door springs",
+      "clicks": 1,
+      "impressions": 218,
+      "ctr": 0.0045871559633027525,
+      "position": 24.84862385321101
+    },
+    {
+      "query": "roller doors repairs near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "rv gate",
+      "clicks": 1,
+      "impressions": 799,
+      "ctr": 0.0012515644555694619,
+      "position": 29.74092615769712
+    },
+    {
+      "query": "rv gates phoenix",
+      "clicks": 1,
+      "impressions": 54,
+      "ctr": 0.018518518518518517,
+      "position": 11.5
+    },
+    {
+      "query": "signs your garage door springs might need replacing",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 11.736842105263158
+    },
+    {
+      "query": "surprise az garage door repair",
+      "clicks": 1,
+      "impressions": 224,
+      "ctr": 0.004464285714285714,
+      "position": 4.964285714285714
+    },
+    {
+      "query": "surprise garage door repair",
+      "clicks": 1,
+      "impressions": 219,
+      "ctr": 0.0045662100456621,
+      "position": 4.534246575342466
+    },
+    {
+      "query": "torsion spring replacement garage door",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 46.23076923076923
+    },
+    {
+      "query": "when to replace garage door springs",
+      "clicks": 1,
+      "impressions": 218,
+      "ctr": 0.0045871559633027525,
+      "position": 9.15137614678899
+    },
+    {
+      "query": "\"(480) 409-7569\" goody garage doors",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "\"garage door repair\"",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 87.42857142857143
+    },
+    {
+      "query": "1/2 hp garage door opener installed",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 13.5
+    },
+    {
+      "query": "10' x 10' garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 4
+    },
+    {
+      "query": "101 garage doors",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 26.285714285714285
+    },
+    {
+      "query": "10x20 garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "11x12 garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "12 ft garage door",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "16 ft garage door installation",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 54
+    },
+    {
+      "query": "16 x7 garage door installed price near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "16'x7 garage door installed price",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 31
+    },
+    {
+      "query": "16x7 garage door spring",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "2 car garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 6
+    },
+    {
+      "query": "2 car garage door replacement cost near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 14
+    },
+    {
+      "query": "2 car garage door size",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 66
+    },
+    {
+      "query": "2 car garage door springs",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 10
+    },
+    {
+      "query": "2 car garage single door size",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 72
+    },
+    {
+      "query": "20 foot wide garage door",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "24 7 garage door repair",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 5.666666666666667
+    },
+    {
+      "query": "24 7 garage door repair near me",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 8
+    },
+    {
+      "query": "24 garage doors",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 52
+    },
+    {
+      "query": "24 hour commercial garage door repair",
+      "clicks": 0,
+      "impressions": 31,
+      "ctr": 0,
+      "position": 66.12903225806451
+    },
+    {
+      "query": "24 hour emergency garage door repair",
+      "clicks": 0,
+      "impressions": 24,
+      "ctr": 0,
+      "position": 37.125
+    },
+    {
+      "query": "24 hour emergency garage door repair near me",
+      "clicks": 0,
+      "impressions": 8,
+      "ctr": 0,
+      "position": 53.375
+    },
+    {
+      "query": "24 hour emergency garage door repairs in mesa",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 5
+    },
+    {
+      "query": "24 hour emergency garage door service in mesa",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 8.5
+    },
+    {
+      "query": "24 hour garage door repair",
+      "clicks": 0,
+      "impressions": 20,
+      "ctr": 0,
+      "position": 5.6
+    },
+    {
+      "query": "24 hour garage door repair in arizona",
+      "clicks": 0,
+      "impressions": 85,
+      "ctr": 0,
+      "position": 12.541176470588235
+    },
+    {
+      "query": "24 hour garage door repair near me",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 4.5
+    },
+    {
+      "query": "24 hour garage door repair nearest to me",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 37.3125
+    },
+    {
+      "query": "24 hour garage door repair opening right now",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 24
+    },
+    {
+      "query": "24 hour garage door repair super close to my area",
+      "clicks": 0,
+      "impressions": 81,
+      "ctr": 0,
+      "position": 20.901234567901234
+    },
+    {
+      "query": "24 hour garage door repair super near me",
+      "clicks": 0,
+      "impressions": 124,
+      "ctr": 0,
+      "position": 8.693548387096774
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:22:47.248Z"
 }

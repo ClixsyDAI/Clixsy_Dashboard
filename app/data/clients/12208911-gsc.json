@@ -1,156 +1,16 @@
 {
   "property": "https://www.fieldinglaw.com/",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 2866,
-    "impressions": 1977803,
-    "ctr": 0.0014490826437213414,
-    "position": 33.69599031708912
+    "clicks": 2305,
+    "impressions": 1740402,
+    "ctr": 0.0013244066600704896,
+    "position": 33.61118401305434
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 71,
-      "impressions": 30935,
-      "ctr": 0.0022951349604008403,
-      "position": 24.454404396314853
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 59,
-      "impressions": 31427,
-      "ctr": 0.0018773665956025073,
-      "position": 27.76991122283387
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 76,
-      "impressions": 25899,
-      "ctr": 0.0029344762346036526,
-      "position": 26.2579250164099
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 60,
-      "impressions": 31033,
-      "ctr": 0.0019334257081171655,
-      "position": 28.480585183514325
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 67,
-      "impressions": 31701,
-      "ctr": 0.002113497996908615,
-      "position": 29.920980410712595
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 37,
-      "impressions": 26293,
-      "ctr": 0.0014072186513520708,
-      "position": 27.748602289582777
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 35,
-      "impressions": 27612,
-      "ctr": 0.0012675648268868607,
-      "position": 28.68575257134579
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 53,
-      "impressions": 37790,
-      "ctr": 0.001402487430537179,
-      "position": 19.954591161682984
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 62,
-      "impressions": 30218,
-      "ctr": 0.0020517572307895957,
-      "position": 27.70663180885565
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 42,
-      "impressions": 30950,
-      "ctr": 0.00135702746365105,
-      "position": 31.957382875605816
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 30,
-      "impressions": 22909,
-      "ctr": 0.0013095290060674844,
-      "position": 28.62268104238509
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 45,
-      "impressions": 25173,
-      "ctr": 0.001787629603146228,
-      "position": 27.025582965876136
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 31,
-      "impressions": 24316,
-      "ctr": 0.0012748807369633163,
-      "position": 26.291371936173714
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 31,
-      "impressions": 25724,
-      "ctr": 0.0012051002954439434,
-      "position": 30.62136526201213
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 51,
-      "impressions": 24983,
-      "ctr": 0.0020413881439378776,
-      "position": 26.933674898931272
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 59,
-      "impressions": 31108,
-      "ctr": 0.0018966182332518966,
-      "position": 32.69178346406069
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 42,
-      "impressions": 30307,
-      "ctr": 0.0013858184577820306,
-      "position": 32.99861418154222
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 27,
-      "impressions": 33281,
-      "ctr": 0.0008112736997085425,
-      "position": 33.56049998497641
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 61,
-      "impressions": 28036,
-      "ctr": 0.002175774004850906,
-      "position": 29.52618062491083
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 36,
-      "impressions": 25512,
-      "ctr": 0.0014111006585136407,
-      "position": 30.554444967074318
-    },
     {
       "date": "2026-01-04",
       "clicks": 45,
@@ -640,711 +500,3314 @@
       "impressions": 10793,
       "ctr": 0.0005559158713981284,
       "position": 33.372741591772446
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 10,
+      "impressions": 11958,
+      "ctr": 0.0008362602441879914,
+      "position": 31.79595250041813
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 13,
+      "impressions": 19215,
+      "ctr": 0.0006765547749154307,
+      "position": 21.13879781420765
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 27,
+      "impressions": 12113,
+      "ctr": 0.002229010154379592,
+      "position": 29.9588045901098
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 18,
+      "impressions": 11784,
+      "ctr": 0.0015274949083503055,
+      "position": 33.39604548540394
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 16,
+      "impressions": 13792,
+      "ctr": 0.001160092807424594,
+      "position": 35.23520881670534
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 20,
+      "impressions": 12441,
+      "ctr": 0.0016075878144843662,
+      "position": 33.26838678562817
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 8,
+      "impressions": 12759,
+      "ctr": 0.0006270083862371659,
+      "position": 34.81236774041853
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 10,
+      "impressions": 13827,
+      "ctr": 0.0007232226802632531,
+      "position": 32.538149996383886
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 20,
+      "impressions": 16808,
+      "ctr": 0.0011899095668729176,
+      "position": 24.802891480247503
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 33,
+      "impressions": 21714,
+      "ctr": 0.001519756838905775,
+      "position": 21.358938933407018
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 27,
+      "impressions": 16264,
+      "ctr": 0.0016601082144613872,
+      "position": 29.335403344810626
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 28,
+      "impressions": 20636,
+      "ctr": 0.0013568521031207597,
+      "position": 28.5198197325063
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 21,
+      "impressions": 12784,
+      "ctr": 0.0016426783479349186,
+      "position": 33.535904255319146
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 9,
+      "impressions": 12784,
+      "ctr": 0.0007040050062578222,
+      "position": 32.634464956195245
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 17,
+      "impressions": 16284,
+      "ctr": 0.001043969540653402,
+      "position": 27.55711127487104
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 21,
+      "impressions": 23118,
+      "ctr": 0.0009083830781209447,
+      "position": 21.942858378752486
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 17,
+      "impressions": 19731,
+      "ctr": 0.0008615883634889261,
+      "position": 19.664791444934366
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 32,
+      "impressions": 28527,
+      "ctr": 0.001121744312405791,
+      "position": 15.390612402285553
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 23,
+      "impressions": 16384,
+      "ctr": 0.00140380859375,
+      "position": 27.9974365234375
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 30,
+      "impressions": 12859,
+      "ctr": 0.002332996344972393,
+      "position": 33.923088887160745
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 14,
+      "impressions": 12024,
+      "ctr": 0.001164337990685296,
+      "position": 28.93454757152362
     }
   ],
   "topQueries": [
     {
       "query": "fielding law",
-      "clicks": 159,
-      "impressions": 1108,
-      "ctr": 0.14350180505415164,
-      "position": 3.1732851985559565
+      "clicks": 167,
+      "impressions": 1183,
+      "ctr": 0.14116652578191038,
+      "position": 3.043110735418428
     },
     {
       "query": "fielding law firm",
-      "clicks": 33,
-      "impressions": 387,
-      "ctr": 0.08527131782945736,
-      "position": 4.408268733850129
+      "clicks": 29,
+      "impressions": 406,
+      "ctr": 0.07142857142857142,
+      "position": 4.241379310344827
     },
     {
       "query": "fielding law richardson",
       "clicks": 24,
-      "impressions": 143,
-      "ctr": 0.16783216783216784,
-      "position": 6.146853146853147
-    },
-    {
-      "query": "auto accident litigation",
-      "clicks": 18,
-      "impressions": 575,
-      "ctr": 0.03130434782608696,
-      "position": 35.67304347826087
-    },
-    {
-      "query": "fielding law mesquite",
-      "clicks": 17,
-      "impressions": 62,
-      "ctr": 0.27419354838709675,
-      "position": 5.419354838709677
-    },
-    {
-      "query": "sigorta şirketi bana dava açtı",
-      "clicks": 17,
-      "impressions": 256,
-      "ctr": 0.06640625,
-      "position": 7.40625
-    },
-    {
-      "query": "fielding law auto accident attorneys",
-      "clicks": 15,
-      "impressions": 267,
-      "ctr": 0.056179775280898875,
-      "position": 6.97378277153558
+      "impressions": 156,
+      "ctr": 0.15384615384615385,
+      "position": 5.730769230769231
     },
     {
       "query": "fielding law texas",
+      "clicks": 20,
+      "impressions": 150,
+      "ctr": 0.13333333333333333,
+      "position": 16.293333333333333
+    },
+    {
+      "query": "fielding law auto accident attorneys",
+      "clicks": 16,
+      "impressions": 229,
+      "ctr": 0.06986899563318777,
+      "position": 6.065502183406114
+    },
+    {
+      "query": "fielding law mesquite",
       "clicks": 14,
-      "impressions": 201,
-      "ctr": 0.06965174129353234,
-      "position": 16
+      "impressions": 59,
+      "ctr": 0.23728813559322035,
+      "position": 12.94915254237288
     },
     {
       "query": "fielding law group",
       "clicks": 12,
-      "impressions": 599,
-      "ctr": 0.02003338898163606,
-      "position": 7.961602671118531
+      "impressions": 651,
+      "ctr": 0.018433179723502304,
+      "position": 7.7803379416282645
+    },
+    {
+      "query": "sigorta şirketi bana dava açtı",
+      "clicks": 11,
+      "impressions": 179,
+      "ctr": 0.061452513966480445,
+      "position": 8.40782122905028
+    },
+    {
+      "query": "auto accident litigation",
+      "clicks": 9,
+      "impressions": 340,
+      "ctr": 0.026470588235294117,
+      "position": 39.3235294117647
     },
     {
       "query": "fielding law pllc",
-      "clicks": 10,
-      "impressions": 62,
-      "ctr": 0.16129032258064516,
-      "position": 1.3387096774193548
-    },
-    {
-      "query": "what happens if you hit a car and leave",
       "clicks": 8,
-      "impressions": 278,
-      "ctr": 0.02877697841726619,
-      "position": 6.35251798561151
-    },
-    {
-      "query": "motorcycle accident attorney",
-      "clicks": 7,
-      "impressions": 90844,
-      "ctr": 0.000077055171502796,
-      "position": 45.55915635595086
-    },
-    {
-      "query": "2 cars back into each other in parking lot who is liable",
-      "clicks": 6,
-      "impressions": 208,
-      "ctr": 0.028846153846153848,
-      "position": 5.778846153846154
-    },
-    {
-      "query": "motorcycle accident lawyer",
-      "clicks": 6,
-      "impressions": 170051,
-      "ctr": 0.00003528353258728264,
-      "position": 45.31792227037771
-    },
-    {
-      "query": "my car was hit during a police chase uk",
-      "clicks": 6,
-      "impressions": 54,
-      "ctr": 0.1111111111111111,
-      "position": 3.388888888888889
-    },
-    {
-      "query": "what happens if a cop hits your car",
-      "clicks": 6,
-      "impressions": 341,
-      "ctr": 0.017595307917888565,
-      "position": 3.7155425219941347
-    },
-    {
-      "query": "best motorcycle accident lawyer",
-      "clicks": 5,
-      "impressions": 18006,
-      "ctr": 0.0002776852160390981,
-      "position": 33.36848828168388
+      "impressions": 50,
+      "ctr": 0.16,
+      "position": 1.18
     },
     {
       "query": "fielding law richardson tx",
-      "clicks": 5,
-      "impressions": 14,
-      "ctr": 0.35714285714285715,
-      "position": 1
+      "clicks": 8,
+      "impressions": 32,
+      "ctr": 0.25,
+      "position": 1.03125
     },
     {
-      "query": "how long does an insurance company have to investigate a claim in texas",
-      "clicks": 5,
-      "impressions": 193,
-      "ctr": 0.025906735751295335,
-      "position": 4.424870466321243
+      "query": "2 cars back into each other in parking lot who is liable",
+      "clicks": 7,
+      "impressions": 233,
+      "ctr": 0.030042918454935622,
+      "position": 6.197424892703863
+    },
+    {
+      "query": "car accident lawyer",
+      "clicks": 6,
+      "impressions": 54837,
+      "ctr": 0.00010941517588489524,
+      "position": 5.504403960829367
     },
     {
       "query": "paul green attorney",
+      "clicks": 6,
+      "impressions": 57,
+      "ctr": 0.10526315789473684,
+      "position": 5.228070175438597
+    },
+    {
+      "query": "what happens if a cop hits your car",
       "clicks": 5,
-      "impressions": 52,
-      "ctr": 0.09615384615384616,
-      "position": 4.5576923076923075
+      "impressions": 338,
+      "ctr": 0.014792899408284023,
+      "position": 3.63905325443787
+    },
+    {
+      "query": "what happens if you hit a car and leave",
+      "clicks": 5,
+      "impressions": 234,
+      "ctr": 0.021367521367521368,
+      "position": 8.226495726495727
     },
     {
       "query": "if you get hit by a stolen car in police chase who pays for all the damages",
       "clicks": 4,
-      "impressions": 187,
-      "ctr": 0.0213903743315508,
-      "position": 3.283422459893048
+      "impressions": 182,
+      "ctr": 0.02197802197802198,
+      "position": 3.620879120879121
     },
     {
-      "query": "is utah a stand your ground state",
+      "query": "motorcycle accident lawyers",
       "clicks": 4,
-      "impressions": 1110,
-      "ctr": 0.0036036036036036037,
-      "position": 3.517117117117117
+      "impressions": 32967,
+      "ctr": 0.000121333454666788,
+      "position": 48.63918463918464
     },
     {
-      "query": "personal injury lawyer near me",
+      "query": "personal injury lawyers",
       "clicks": 4,
-      "impressions": 5646,
-      "ctr": 0.0007084661707403471,
-      "position": 40.664541268154444
-    },
-    {
-      "query": "polis aracı kaza yaparsa kim öder",
-      "clicks": 4,
-      "impressions": 204,
-      "ctr": 0.0196078431372549,
-      "position": 6.4754901960784315
+      "impressions": 7381,
+      "ctr": 0.0005419319875355643,
+      "position": 13.75491125863704
     },
     {
       "query": "what happens if a police officer hits your car",
       "clicks": 4,
-      "impressions": 115,
-      "ctr": 0.034782608695652174,
-      "position": 3.973913043478261
+      "impressions": 67,
+      "ctr": 0.05970149253731343,
+      "position": 5.611940298507463
     },
     {
       "query": "what happens if you hit a car in a parking lot and leave",
       "clicks": 4,
-      "impressions": 750,
-      "ctr": 0.005333333333333333,
-      "position": 16.310666666666666
+      "impressions": 1253,
+      "ctr": 0.0031923383878691143,
+      "position": 13.356743814844373
     },
     {
       "query": "what happens to hit and run drivers who are later found by their license plate",
       "clicks": 4,
-      "impressions": 631,
-      "ctr": 0.006339144215530904,
-      "position": 10.177496038034866
-    },
-    {
-      "query": "what happens when your car is totaled but still drivable",
-      "clicks": 4,
-      "impressions": 2352,
-      "ctr": 0.0017006802721088435,
-      "position": 13.391581632653061
+      "impressions": 497,
+      "ctr": 0.008048289738430584,
+      "position": 10.164989939637827
     },
     {
       "query": "accident attorney",
       "clicks": 3,
-      "impressions": 2921,
-      "ctr": 0.0010270455323519343,
-      "position": 15.32351934269086
+      "impressions": 2805,
+      "ctr": 0.0010695187165775401,
+      "position": 16.824955436720142
     },
     {
-      "query": "can someone sue you after insurance pays",
+      "query": "accident law firms",
       "clicks": 3,
-      "impressions": 103,
-      "ctr": 0.02912621359223301,
-      "position": 6.252427184466019
+      "impressions": 92,
+      "ctr": 0.03260869565217391,
+      "position": 22.391304347826086
     },
     {
-      "query": "hit parked car and drove off",
+      "query": "accident lawyer",
       "clicks": 3,
-      "impressions": 26,
-      "ctr": 0.11538461538461539,
-      "position": 8
+      "impressions": 5522,
+      "ctr": 0.0005432814197754436,
+      "position": 17.157551611734878
     },
     {
-      "query": "texas windshield crack law",
+      "query": "hit by police car compensation",
       "clicks": 3,
-      "impressions": 35,
-      "ctr": 0.08571428571428572,
-      "position": 7.228571428571429
+      "impressions": 176,
+      "ctr": 0.017045454545454544,
+      "position": 19.630681818181817
+    },
+    {
+      "query": "how long does an insurance company have to investigate a claim in texas",
+      "clicks": 3,
+      "impressions": 210,
+      "ctr": 0.014285714285714285,
+      "position": 5.319047619047619
+    },
+    {
+      "query": "is utah a stand your ground state",
+      "clicks": 3,
+      "impressions": 947,
+      "ctr": 0.0031678986272439284,
+      "position": 3.0496304118268216
+    },
+    {
+      "query": "personal injury attorney",
+      "clicks": 3,
+      "impressions": 12479,
+      "ctr": 0.00024040387851590673,
+      "position": 19.777706546998957
+    },
+    {
+      "query": "personal injury attorney dallas texas",
+      "clicks": 3,
+      "impressions": 67,
+      "ctr": 0.04477611940298507,
+      "position": 60.865671641791046
     },
     {
       "query": "two cars reversing into each other",
       "clicks": 3,
-      "impressions": 125,
-      "ctr": 0.024,
-      "position": 5.408
+      "impressions": 91,
+      "ctr": 0.03296703296703297,
+      "position": 6.549450549450549
     },
     {
-      "query": "utah stand your ground law",
+      "query": "what happens if police hit your car",
       "clicks": 3,
-      "impressions": 421,
-      "ctr": 0.007125890736342043,
-      "position": 9.007125890736342
-    },
-    {
-      "query": "what to do if you hit someone's car in a parking lot",
-      "clicks": 3,
-      "impressions": 365,
-      "ctr": 0.00821917808219178,
-      "position": 10.301369863013699
-    },
-    {
-      "query": "auto accident lawyer mesquite",
-      "clicks": 2,
-      "impressions": 301,
-      "ctr": 0.006644518272425249,
-      "position": 6.98671096345515
+      "impressions": 80,
+      "ctr": 0.0375,
+      "position": 4.6875
     },
     {
       "query": "can a person sue you for a car accident",
       "clicks": 2,
-      "impressions": 5,
-      "ctr": 0.4,
-      "position": 3.4
-    },
-    {
-      "query": "can insurance company sue you",
-      "clicks": 2,
-      "impressions": 79,
-      "ctr": 0.02531645569620253,
-      "position": 5.481012658227848
-    },
-    {
-      "query": "car accident lawyer",
-      "clicks": 2,
-      "impressions": 16404,
-      "ctr": 0.000121921482565228,
-      "position": 15.44172153133382
-    },
-    {
-      "query": "does car insurance cover snow accidents",
-      "clicks": 2,
-      "impressions": 562,
-      "ctr": 0.0035587188612099642,
-      "position": 25.387900355871885
-    },
-    {
-      "query": "feilding law",
-      "clicks": 2,
-      "impressions": 4,
-      "ctr": 0.5,
+      "impressions": 7,
+      "ctr": 0.2857142857142857,
       "position": 3
+    },
+    {
+      "query": "can an insurance company sue me",
+      "clicks": 2,
+      "impressions": 110,
+      "ctr": 0.01818181818181818,
+      "position": 4.872727272727273
+    },
+    {
+      "query": "can you sue for food poisoning",
+      "clicks": 2,
+      "impressions": 224,
+      "ctr": 0.008928571428571428,
+      "position": 40.629464285714285
+    },
+    {
+      "query": "can you sue someone for a car accident",
+      "clicks": 2,
+      "impressions": 33,
+      "ctr": 0.06060606060606061,
+      "position": 11.666666666666666
+    },
+    {
+      "query": "car accident attorney",
+      "clicks": 2,
+      "impressions": 6892,
+      "ctr": 0.0002901915264074289,
+      "position": 23.886390017411493
+    },
+    {
+      "query": "car accident lawyers",
+      "clicks": 2,
+      "impressions": 7493,
+      "ctr": 0.0002669157880688643,
+      "position": 13.389697050580542
+    },
+    {
+      "query": "fielding law group idaho",
+      "clicks": 2,
+      "impressions": 74,
+      "ctr": 0.02702702702702703,
+      "position": 4.608108108108108
     },
     {
       "query": "hit a car and drove off",
       "clicks": 2,
-      "impressions": 118,
-      "ctr": 0.01694915254237288,
-      "position": 6.779661016949152
+      "impressions": 97,
+      "ctr": 0.020618556701030927,
+      "position": 8.484536082474227
     },
     {
-      "query": "hit by police car compensation",
+      "query": "injury attorney",
       "clicks": 2,
-      "impressions": 164,
-      "ctr": 0.012195121951219513,
-      "position": 14.25
+      "impressions": 3992,
+      "ctr": 0.000501002004008016,
+      "position": 15.055861723446894
     },
     {
-      "query": "how long can an insurance company delay a claim",
+      "query": "injury lawyer",
       "clicks": 2,
-      "impressions": 16,
-      "ctr": 0.125,
-      "position": 43.625
+      "impressions": 4345,
+      "ctr": 0.00046029919447640965,
+      "position": 18.13993095512083
     },
     {
-      "query": "how long does an insurance company have to investigate a claim",
+      "query": "injury lawyer near me",
       "clicks": 2,
-      "impressions": 247,
-      "ctr": 0.008097165991902834,
-      "position": 47.04858299595141
-    },
-    {
-      "query": "if a cop hits your car what happens",
-      "clicks": 2,
-      "impressions": 107,
-      "ctr": 0.018691588785046728,
-      "position": 4.5140186915887845
-    },
-    {
-      "query": "if you hit a car and leave what happens",
-      "clicks": 2,
-      "impressions": 153,
-      "ctr": 0.013071895424836602,
-      "position": 7.5359477124183005
-    },
-    {
-      "query": "insurance company suing me for damages",
-      "clicks": 2,
-      "impressions": 139,
-      "ctr": 0.014388489208633094,
-      "position": 4.748201438848921
-    },
-    {
-      "query": "kaza yerinden kaçmak",
-      "clicks": 2,
-      "impressions": 40,
-      "ctr": 0.05,
-      "position": 1.4
+      "impressions": 4932,
+      "ctr": 0.00040551500405515005,
+      "position": 56.21674776966748
     },
     {
       "query": "law firms",
       "clicks": 2,
-      "impressions": 26,
+      "impressions": 27,
+      "ctr": 0.07407407407407407,
+      "position": 2.9259259259259256
+    },
+    {
+      "query": "medical malpractice attorney utah",
+      "clicks": 2,
+      "impressions": 12,
+      "ctr": 0.16666666666666666,
+      "position": 6.583333333333333
+    },
+    {
+      "query": "motorcycle accident attorneys",
+      "clicks": 2,
+      "impressions": 44727,
+      "ctr": 0.000044715719811299664,
+      "position": 50.33174592528003
+    },
+    {
+      "query": "motorcycle accident lawyer",
+      "clicks": 2,
+      "impressions": 129268,
+      "ctr": 0.00001547173314354674,
+      "position": 49.17308227867686
+    },
+    {
+      "query": "my car was hit during a police chase uk",
+      "clicks": 2,
+      "impressions": 33,
+      "ctr": 0.06060606060606061,
+      "position": 5.818181818181818
+    },
+    {
+      "query": "oil rig jobs",
+      "clicks": 2,
+      "impressions": 35,
+      "ctr": 0.05714285714285714,
+      "position": 4.257142857142857
+    },
+    {
+      "query": "paul green lawyer",
+      "clicks": 2,
+      "impressions": 23,
+      "ctr": 0.08695652173913043,
+      "position": 7.478260869565218
+    },
+    {
+      "query": "personal injury firms dallas",
+      "clicks": 2,
+      "impressions": 7,
+      "ctr": 0.2857142857142857,
+      "position": 33.714285714285715
+    },
+    {
+      "query": "personal injury law firm in texas",
+      "clicks": 2,
+      "impressions": 38,
+      "ctr": 0.05263157894736842,
+      "position": 34.18421052631579
+    },
+    {
+      "query": "personal injury law firms in texas",
+      "clicks": 2,
+      "impressions": 23,
+      "ctr": 0.08695652173913043,
+      "position": 20.391304347826086
+    },
+    {
+      "query": "personal injury lawyer near me",
+      "clicks": 2,
+      "impressions": 5435,
+      "ctr": 0.0003679852805887764,
+      "position": 46.621159153633855
+    },
+    {
+      "query": "texas windshield crack law",
+      "clicks": 2,
+      "impressions": 30,
+      "ctr": 0.06666666666666667,
+      "position": 9.533333333333333
+    },
+    {
+      "query": "utah stand your ground law",
+      "clicks": 2,
+      "impressions": 327,
+      "ctr": 0.0061162079510703364,
+      "position": 9.807339449541285
+    },
+    {
+      "query": "voluntary recall vs mandatory recall",
+      "clicks": 2,
+      "impressions": 150,
+      "ctr": 0.013333333333333334,
+      "position": 7.053333333333334
+    },
+    {
+      "query": "what happens if your car gets damaged in a police chase",
+      "clicks": 2,
+      "impressions": 86,
+      "ctr": 0.023255813953488372,
+      "position": 6.3604651162790695
+    },
+    {
+      "query": "what happens if your car is damaged in a police chase",
+      "clicks": 2,
+      "impressions": 150,
+      "ctr": 0.013333333333333334,
+      "position": 5.453333333333333
+    },
+    {
+      "query": "what to do if you hit someone's car in a parking lot",
+      "clicks": 2,
+      "impressions": 246,
+      "ctr": 0.008130081300813009,
+      "position": 10.723577235772357
+    },
+    {
+      "query": "workmans comp lawyer near me",
+      "clicks": 2,
+      "impressions": 21,
+      "ctr": 0.09523809523809523,
+      "position": 34.095238095238095
+    },
+    {
+      "query": "$25 medical card renewal pa cost",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "accident attorneys",
+      "clicks": 1,
+      "impressions": 1675,
+      "ctr": 0.0005970149253731343,
+      "position": 6.170149253731343
+    },
+    {
+      "query": "accident injury lawyer near me",
+      "clicks": 1,
+      "impressions": 106,
+      "ctr": 0.009433962264150943,
+      "position": 48.84905660377358
+    },
+    {
+      "query": "accident lawyers",
+      "clicks": 1,
+      "impressions": 2118,
+      "ctr": 0.00047214353163361664,
+      "position": 9.691218130311615
+    },
+    {
+      "query": "accident lawyers near me",
+      "clicks": 1,
+      "impressions": 610,
+      "ctr": 0.001639344262295082,
+      "position": 49.24262295081967
+    },
+    {
+      "query": "accident plateforme pétrolière",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "alexander kielland",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 4
+    },
+    {
+      "query": "arbeiten auf einer bohrinsel",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 3.5
+    },
+    {
+      "query": "are oil rigs dangerous",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 2.9
+    },
+    {
+      "query": "are parking lot accidents no fault",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 42
+    },
+    {
+      "query": "are police responsible for damages during a search",
+      "clicks": 1,
+      "impressions": 42,
+      "ctr": 0.023809523809523808,
+      "position": 7.523809523809524
+    },
+    {
+      "query": "are you liable if you hit a car in a private car park",
+      "clicks": 1,
+      "impressions": 301,
+      "ctr": 0.0033222591362126247,
+      "position": 12.883720930232558
+    },
+    {
+      "query": "attorneys for accident cases",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 33.6
+    },
+    {
+      "query": "attroney",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "auto accident attorneys",
+      "clicks": 1,
+      "impressions": 3204,
+      "ctr": 0.00031210986267166043,
+      "position": 13.16729088639201
+    },
+    {
+      "query": "auto accident lawyers near me",
+      "clicks": 1,
+      "impressions": 1100,
+      "ctr": 0.0009090909090909091,
+      "position": 19.19
+    },
+    {
+      "query": "bad faith insurance attorney",
+      "clicks": 1,
+      "impressions": 49,
+      "ctr": 0.02040816326530612,
+      "position": 1.816326530612245
+    },
+    {
+      "query": "best affordable attorneys near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "best car accident lawyers in dallas tx",
+      "clicks": 1,
+      "impressions": 153,
+      "ctr": 0.006535947712418301,
+      "position": 41.18300653594771
+    },
+    {
+      "query": "bohrinsel gehalt",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 5.5
+    },
+    {
+      "query": "both cars reversing who's at fault",
+      "clicks": 1,
+      "impressions": 55,
+      "ctr": 0.01818181818181818,
+      "position": 6.890909090909091
+    },
+    {
+      "query": "can an insurance company sue you",
+      "clicks": 1,
+      "impressions": 157,
+      "ctr": 0.006369426751592357,
+      "position": 4.885350318471337
+    },
+    {
+      "query": "can an insurance company sue you for an accident",
+      "clicks": 1,
+      "impressions": 341,
+      "ctr": 0.002932551319648094,
+      "position": 24.51026392961877
+    },
+    {
+      "query": "can i sue someone for a car accident",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 35.8
+    },
+    {
+      "query": "can someone sue me personally for a car accident",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 3.75
+    },
+    {
+      "query": "can someone sue you after insurance pays",
+      "clicks": 1,
+      "impressions": 95,
+      "ctr": 0.010526315789473684,
+      "position": 7.421052631578948
+    },
+    {
+      "query": "can you be sued after an insurance settlement",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 11
+    },
+    {
+      "query": "can you get sued for a car accident",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 9.714285714285714
+    },
+    {
+      "query": "can you sue after a car accident",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 29.818181818181817
+    },
+    {
+      "query": "can you sue someone after settling with their insurance california",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 20.5
+    },
+    {
+      "query": "car accident attorneys",
+      "clicks": 1,
+      "impressions": 2563,
+      "ctr": 0.0003901677721420211,
+      "position": 24.062817011314866
+    },
+    {
+      "query": "car accident lawyer spanish",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 1
+    },
+    {
+      "query": "car deemed total loss but still drivable",
+      "clicks": 1,
+      "impressions": 36,
+      "ctr": 0.027777777777777776,
+      "position": 8.777777777777779
+    },
+    {
+      "query": "car wreck attorney",
+      "clicks": 1,
+      "impressions": 941,
+      "ctr": 0.0010626992561105207,
+      "position": 17.484590860786398
+    },
+    {
+      "query": "car wreck lawyers",
+      "clicks": 1,
+      "impressions": 1101,
+      "ctr": 0.0009082652134423251,
+      "position": 25.923705722070846
+    },
+    {
+      "query": "child injury lawyers",
+      "clicks": 1,
+      "impressions": 60,
+      "ctr": 0.016666666666666666,
+      "position": 36.86666666666667
+    },
+    {
+      "query": "citation for leaving the scene of an accident",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 21.571428571428573
+    },
+    {
+      "query": "civil attorney utah",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 6
+    },
+    {
+      "query": "civil litigation attorney utah",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 7.833333333333333
+    },
+    {
+      "query": "collision analyst",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 8
+    },
+    {
+      "query": "cracked windshield laws",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 16.8
+    },
+    {
+      "query": "cracked windshield utah code",
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 2.7
+    },
+    {
+      "query": "crash law firm",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 41.4
+    },
+    {
+      "query": "dallas law firms",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "dallas tx personal injury lawyer",
+      "clicks": 1,
+      "impressions": 71,
+      "ctr": 0.014084507042253521,
+      "position": 86.22535211267606
+    },
+    {
+      "query": "death due to medical negligence compensation",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 73.75
+    },
+    {
+      "query": "does utah have stand your ground laws",
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 7.266666666666667
+    },
+    {
+      "query": "dog bite defense attorney near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 20.5
+    },
+    {
+      "query": "drilling rig",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 3.3333333333333335
+    },
+    {
+      "query": "dui lawyer utah",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 61
+    },
+    {
+      "query": "employment lawyer near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 34
+    },
+    {
+      "query": "failing to remain at the scene of a collision demerit points",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "feilding law",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "fielding law tx",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 1
+    },
+    {
+      "query": "fielding law, pllc",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 10.666666666666666
+    },
+    {
+      "query": "hit and run parked car victoria",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 17
+    },
+    {
+      "query": "hit parked car and drove off",
+      "clicks": 1,
+      "impressions": 23,
+      "ctr": 0.043478260869565216,
+      "position": 8.91304347826087
+    },
+    {
+      "query": "home insurance lawyer",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 14
+    },
+    {
+      "query": "how do i sue someone for a car accident",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 5
+    },
+    {
+      "query": "how do they build oil rigs in the middle of the ocean",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2.5
+    },
+    {
+      "query": "how long do insurance companies have to pay a claim",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 26.05263157894737
+    },
+    {
+      "query": "how long does it take a insurance company to settle a claim",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 7
+    },
+    {
+      "query": "how long does it take an insurance adjuster to settle a claim",
+      "clicks": 1,
+      "impressions": 13,
       "ctr": 0.07692307692307693,
-      "position": 2.4230769230769234
+      "position": 8.923076923076923
+    },
+    {
+      "query": "how oil rigs work",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 4.5
+    },
+    {
+      "query": "how safe are oil rigs",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 2.666666666666667
+    },
+    {
+      "query": "how to sue someone for a car accident",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 24.2
+    },
+    {
+      "query": "hukum menabrak orang tidak sengaja",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 11
+    },
+    {
+      "query": "i accidentally hit a car and left",
+      "clicks": 1,
+      "impressions": 46,
+      "ctr": 0.021739130434782608,
+      "position": 12.065217391304348
+    },
+    {
+      "query": "i hit a car and left",
+      "clicks": 1,
+      "impressions": 25,
+      "ctr": 0.04,
+      "position": 15.56
+    },
+    {
+      "query": "i hit a car but they drove off",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 7.571428571428571
+    },
+    {
+      "query": "i panicked and left the scene of an accident",
+      "clicks": 1,
+      "impressions": 244,
+      "ctr": 0.004098360655737705,
+      "position": 8.60655737704918
+    },
+    {
+      "query": "if a cop hits your car what happens",
+      "clicks": 1,
+      "impressions": 116,
+      "ctr": 0.008620689655172414,
+      "position": 4.879310344827586
+    },
+    {
+      "query": "if two people back into each other who is at fault",
+      "clicks": 1,
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 8.28125
+    },
+    {
+      "query": "if you hit a car and leave what happens",
+      "clicks": 1,
+      "impressions": 131,
+      "ctr": 0.007633587786259542,
+      "position": 8.778625954198473
+    },
+    {
+      "query": "if you hit someone car and leave what happens",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 6.842105263157895
+    },
+    {
+      "query": "if your car is a total loss what happens",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "in a parking lot who has the right of way",
+      "clicks": 1,
+      "impressions": 167,
+      "ctr": 0.005988023952095809,
+      "position": 10.245508982035927
+    },
+    {
+      "query": "injury attorney mesquite tx",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 1.736842105263158
+    },
+    {
+      "query": "injury lawyers",
+      "clicks": 1,
+      "impressions": 1120,
+      "ctr": 0.0008928571428571428,
+      "position": 27.767857142857142
+    },
+    {
+      "query": "insurance company suing me for damages",
+      "clicks": 1,
+      "impressions": 125,
+      "ctr": 0.008,
+      "position": 5.592
+    },
+    {
+      "query": "insurance defense firms",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "is underglow illegal in utah",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 12
+    },
+    {
+      "query": "job auf bohrinsel",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "katch claims recovery team",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 12
+    },
+    {
+      "query": "latest news on raf payments",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "law firm dallas texas",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 144
+    },
+    {
+      "query": "law firms near me",
+      "clicks": 1,
+      "impressions": 29,
+      "ctr": 0.034482758620689655,
+      "position": 3.9310344827586206
+    },
+    {
+      "query": "lawyer for medical malpractice",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "lawyers in mesquite tx",
+      "clicks": 1,
+      "impressions": 36,
+      "ctr": 0.027777777777777776,
+      "position": 1.0555555555555556
+    },
+    {
+      "query": "lawyers near me",
+      "clicks": 1,
+      "impressions": 54,
+      "ctr": 0.018518518518518517,
+      "position": 8.5
+    },
+    {
+      "query": "leaving the scene of an accident resulting in death",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 20.333333333333332
+    },
+    {
+      "query": "leaving the scene of an accident texas no injuries",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 24.636363636363637
+    },
+    {
+      "query": "lediga jobb i norge oljeplattform",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2.5
+    },
+    {
+      "query": "legal malpractice",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 4
+    },
+    {
+      "query": "lemon law lawyers near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "life on an oil rig",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 4.2
+    },
+    {
+      "query": "malpractice attorneys",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 9
+    },
+    {
+      "query": "malpractice lawyer",
+      "clicks": 1,
+      "impressions": 43,
+      "ctr": 0.023255813953488372,
+      "position": 5.604651162790698
+    },
+    {
+      "query": "malpractice lawyers near me",
+      "clicks": 1,
+      "impressions": 26,
+      "ctr": 0.038461538461538464,
+      "position": 6.730769230769231
+    },
+    {
+      "query": "medical attorney",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2.5
+    },
+    {
+      "query": "medical malpractice",
+      "clicks": 1,
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 4.833333333333334
+    },
+    {
+      "query": "medical malpractice attorney",
+      "clicks": 1,
+      "impressions": 183,
+      "ctr": 0.00546448087431694,
+      "position": 4.9289617486338795
+    },
+    {
+      "query": "medical malpractice attorney in dallas",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 1
+    },
+    {
+      "query": "medical malpractice lawyer",
+      "clicks": 1,
+      "impressions": 1547,
+      "ctr": 0.0006464124111182935,
+      "position": 1.4221073044602457
+    },
+    {
+      "query": "medical malpractice lawyer near me",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 35.53333333333333
+    },
+    {
+      "query": "medical negligence attorneys",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "mesquite car accident attorney",
+      "clicks": 1,
+      "impressions": 117,
+      "ctr": 0.008547008547008548,
+      "position": 13.2991452991453
+    },
+    {
+      "query": "mesquite injury lawyer",
+      "clicks": 1,
+      "impressions": 37,
+      "ctr": 0.02702702702702703,
+      "position": 9.486486486486486
+    },
+    {
+      "query": "mn small claims court statute of limitations",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 1
+    },
+    {
+      "query": "morze północne platformy wiertnicze",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "motorcycle accident injuries",
+      "clicks": 1,
+      "impressions": 381,
+      "ctr": 0.0026246719160104987,
+      "position": 79.750656167979
+    },
+    {
+      "query": "motorcycle injury attorneys",
+      "clicks": 1,
+      "impressions": 682,
+      "ctr": 0.001466275659824047,
+      "position": 37.645161290322584
+    },
+    {
+      "query": "motorcycle lawyer dallas",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 5
+    },
+    {
+      "query": "motorcycle lawyers",
+      "clicks": 1,
+      "impressions": 172,
+      "ctr": 0.005813953488372093,
+      "position": 52.656976744186046
+    },
+    {
+      "query": "offshore oil rig locations",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2.666666666666667
+    },
+    {
+      "query": "oil drilling rig",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 3.3333333333333335
+    },
+    {
+      "query": "oil rig",
+      "clicks": 1,
+      "impressions": 293,
+      "ctr": 0.0034129692832764505,
+      "position": 2.6245733788395906
+    },
+    {
+      "query": "oil rig anchor",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "oil rigs",
+      "clicks": 1,
+      "impressions": 140,
+      "ctr": 0.007142857142857143,
+      "position": 2.564285714285714
+    },
+    {
+      "query": "owner liability statute",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 5
+    },
+    {
+      "query": "pain and injury lawyer",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "parking lot accident attorney",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 29.90909090909091
+    },
+    {
+      "query": "parking lot accident both cars backing up",
+      "clicks": 1,
+      "impressions": 82,
+      "ctr": 0.012195121951219513,
+      "position": 8.304878048780488
+    },
+    {
+      "query": "parking lot driving laws",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 30.25
+    },
+    {
+      "query": "parking lot right of way",
+      "clicks": 1,
+      "impressions": 110,
+      "ctr": 0.00909090909090909,
+      "position": 12.972727272727273
+    },
+    {
+      "query": "personal injury attorney mesquite",
+      "clicks": 1,
+      "impressions": 1778,
+      "ctr": 0.0005624296962879641,
+      "position": 4.695725534308211
+    },
+    {
+      "query": "personal injury attorney near me",
+      "clicks": 1,
+      "impressions": 2891,
+      "ctr": 0.0003459010722933241,
+      "position": 48.21895537876168
+    },
+    {
+      "query": "personal injury attorney ogden ut",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 19.458333333333332
+    },
+    {
+      "query": "personal injury attorney utah",
+      "clicks": 1,
+      "impressions": 198,
+      "ctr": 0.005050505050505051,
+      "position": 40.07575757575758
+    },
+    {
+      "query": "personal injury attorney waco",
+      "clicks": 1,
+      "impressions": 354,
+      "ctr": 0.002824858757062147,
+      "position": 41.644067796610166
+    },
+    {
+      "query": "personal injury firms in texas",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 5.5
+    },
+    {
+      "query": "personal injury law firm",
+      "clicks": 1,
+      "impressions": 3566,
+      "ctr": 0.00028042624789680314,
+      "position": 34.155636567582725
+    },
+    {
+      "query": "personal injury law firm dallas texas",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 34.333333333333336
+    },
+    {
+      "query": "personal injury law firms texas",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 8.375
+    },
+    {
+      "query": "personal injury lawyer",
+      "clicks": 1,
+      "impressions": 32348,
+      "ctr": 0.000030913812291331766,
+      "position": 7.826944478793124
+    },
+    {
+      "query": "personal injury lawyer dallas texas",
+      "clicks": 1,
+      "impressions": 141,
+      "ctr": 0.0070921985815602835,
+      "position": 71.7517730496454
+    },
+    {
+      "query": "personal injury lawyer in dallas",
+      "clicks": 1,
+      "impressions": 123,
+      "ctr": 0.008130081300813009,
+      "position": 70.47154471544715
+    },
+    {
+      "query": "personal injury lawyer plano",
+      "clicks": 1,
+      "impressions": 424,
+      "ctr": 0.0023584905660377358,
+      "position": 35.929245283018865
+    },
+    {
+      "query": "personal injury lawyer texas",
+      "clicks": 1,
+      "impressions": 1286,
+      "ctr": 0.0007776049766718507,
+      "position": 59.07931570762053
     }
   ],
   "topPages": [
     {
       "page": "https://www.fieldinglaw.com/personal-injury/mesquite/",
-      "clicks": 269,
-      "impressions": 415531,
-      "ctr": 0.0006473644565628076,
-      "position": 30.175057937915582
-    },
-    {
-      "page": "https://www.fieldinglaw.com/mesquite-car-accident-lawyer/who-pays-for-damages-if-a-police-car-hits-my-car/",
-      "clicks": 165,
-      "impressions": 17931,
-      "ctr": 0.009201940772963026,
-      "position": 7.389994980759578
-    },
-    {
-      "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/can-someone-sue-you-after-insurance-pays/",
-      "clicks": 159,
-      "impressions": 12103,
-      "ctr": 0.013137238701148475,
-      "position": 11.66338924233661
+      "clicks": 292,
+      "impressions": 462987,
+      "ctr": 0.0006306872547177351,
+      "position": 28.003939635454127
     },
     {
       "page": "https://www.fieldinglaw.com/personal-injury/richardson/",
-      "clicks": 155,
-      "impressions": 61156,
-      "ctr": 0.0025345019294917915,
-      "position": 6.862090391784943
-    },
-    {
-      "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/what-happens-if-you-leave-the-scene-of-an-accident-and-its-not-your-fault/",
-      "clicks": 153,
-      "impressions": 24652,
-      "ctr": 0.00620639299042674,
-      "position": 11.579709557033912
-    },
-    {
-      "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/how-long-does-an-insurance-company-have-to-settle-a-claim-in-texas/",
-      "clicks": 151,
-      "impressions": 30188,
-      "ctr": 0.0050019875447197566,
-      "position": 21.10345170266331
-    },
-    {
-      "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/who-is-at-fault-when-two-cars-are-reversing/",
-      "clicks": 139,
-      "impressions": 18681,
-      "ctr": 0.007440715165141052,
-      "position": 5.685455810716771
-    },
-    {
-      "page": "https://www.fieldinglaw.com/2024/05/06/can-the-insurance-company-sue-me-for-damages/",
-      "clicks": 128,
-      "impressions": 13515,
-      "ctr": 0.009470958194598594,
-      "position": 16.679097299297077
+      "clicks": 162,
+      "impressions": 67080,
+      "ctr": 0.002415026833631485,
+      "position": 6.473181276088253
     },
     {
       "page": "https://www.fieldinglaw.com/",
-      "clicks": 127,
-      "impressions": 18506,
-      "ctr": 0.0068626391440613855,
-      "position": 29.891278504268886
+      "clicks": 141,
+      "impressions": 15974,
+      "ctr": 0.008826843620883937,
+      "position": 31.892638036809817
     },
     {
-      "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/what-happens-if-you-hit-a-car-and-drove-off/",
-      "clicks": 117,
-      "impressions": 21931,
-      "ctr": 0.005334914048606995,
-      "position": 13.71004514158041
+      "page": "https://www.fieldinglaw.com/mesquite-car-accident-lawyer/who-pays-for-damages-if-a-police-car-hits-my-car/",
+      "clicks": 139,
+      "impressions": 15745,
+      "ctr": 0.008828199428389964,
+      "position": 7.464274372816767
     },
     {
-      "page": "https://www.fieldinglaw.com/what-happens-if-your-car-gets-damaged-in-a-police-chase/",
-      "clicks": 115,
-      "impressions": 18724,
-      "ctr": 0.006141850032044435,
-      "position": 8.961439863277079
+      "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/can-someone-sue-you-after-insurance-pays/",
+      "clicks": 110,
+      "impressions": 9417,
+      "ctr": 0.01168100244239142,
+      "position": 11.752681321015185
+    },
+    {
+      "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/who-is-at-fault-when-two-cars-are-reversing/",
+      "clicks": 100,
+      "impressions": 13846,
+      "ctr": 0.007222302470027445,
+      "position": 6.06853965044056
     },
     {
       "page": "https://www.fieldinglaw.com/personal-injury/taylorsville/",
-      "clicks": 92,
-      "impressions": 99275,
-      "ctr": 0.0009267187106522287,
-      "position": 28.36005036514732
+      "clicks": 96,
+      "impressions": 81784,
+      "ctr": 0.001173823730803091,
+      "position": 25.76618898562066
+    },
+    {
+      "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/what-happens-if-you-leave-the-scene-of-an-accident-and-its-not-your-fault/",
+      "clicks": 93,
+      "impressions": 15992,
+      "ctr": 0.005815407703851926,
+      "position": 13.10767883941971
+    },
+    {
+      "page": "https://www.fieldinglaw.com/what-happens-if-your-car-gets-damaged-in-a-police-chase/",
+      "clicks": 78,
+      "impressions": 17138,
+      "ctr": 0.0045512895320340765,
+      "position": 8.975318006768585
+    },
+    {
+      "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/how-long-does-an-insurance-company-have-to-settle-a-claim-in-texas/",
+      "clicks": 77,
+      "impressions": 21372,
+      "ctr": 0.003602844843720756,
+      "position": 23.867303013288414
+    },
+    {
+      "page": "https://www.fieldinglaw.com/2024/05/06/can-the-insurance-company-sue-me-for-damages/",
+      "clicks": 71,
+      "impressions": 8656,
+      "ctr": 0.008202402957486137,
+      "position": 17.566890018484287
+    },
+    {
+      "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/what-happens-if-you-hit-a-car-and-drove-off/",
+      "clicks": 68,
+      "impressions": 15459,
+      "ctr": 0.004398732130150722,
+      "position": 14.90503913577851
     },
     {
       "page": "https://www.fieldinglaw.com/2025/01/28/what-if-someone-falls-off-an-oil-rig/",
-      "clicks": 79,
-      "impressions": 9264,
-      "ctr": 0.008527633851468049,
-      "position": 6.442357512953368
-    },
-    {
-      "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/who-pays-for-damages-if-car-slips/",
-      "clicks": 69,
-      "impressions": 13080,
-      "ctr": 0.005275229357798165,
-      "position": 12.16368501529052
-    },
-    {
-      "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/can-someone-sue-you-for-a-car-accident-in-texas/",
-      "clicks": 58,
-      "impressions": 7959,
-      "ctr": 0.007287347656740797,
-      "position": 31.048749842945092
-    },
-    {
-      "page": "https://www.fieldinglaw.com/what-happens-if-the-police-damages-my-car-during-a-search/",
-      "clicks": 50,
-      "impressions": 8172,
-      "ctr": 0.006118453255017132,
-      "position": 8.493392070484582
+      "clicks": 55,
+      "impressions": 6382,
+      "ctr": 0.008617988091507364,
+      "position": 6.61501096834848
     },
     {
       "page": "https://www.fieldinglaw.com/meet-the-team/paul-green/",
-      "clicks": 48,
-      "impressions": 746,
-      "ctr": 0.064343163538874,
-      "position": 13.45710455764075
+      "clicks": 53,
+      "impressions": 697,
+      "ctr": 0.07604017216642754,
+      "position": 13.365853658536585
     },
     {
-      "page": "https://www.fieldinglaw.com/if-you-get-hit-by-a-stolen-car-in-a-police-chase-who-pays-for-the-damage/",
-      "clicks": 40,
-      "impressions": 5294,
-      "ctr": 0.007555723460521345,
-      "position": 12.187193048734416
+      "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/can-someone-sue-you-for-a-car-accident-in-texas/",
+      "clicks": 52,
+      "impressions": 7260,
+      "ctr": 0.007162534435261708,
+      "position": 32.35798898071626
     },
     {
-      "page": "https://www.fieldinglaw.com/2018/12/18/prescription-drugs-that-impair-driving/",
-      "clicks": 33,
-      "impressions": 4735,
-      "ctr": 0.006969376979936642,
-      "position": 4.7389651531151005
+      "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/who-pays-for-damages-if-car-slips/",
+      "clicks": 39,
+      "impressions": 9237,
+      "ctr": 0.004222150048717116,
+      "position": 13.417776334307675
     },
     {
-      "page": "https://www.fieldinglaw.com/practice-areas/motorcycle-accidents/",
-      "clicks": 29,
-      "impressions": 543739,
-      "ctr": 0.000053334412282363415,
-      "position": 43.354883501091514
-    },
-    {
-      "page": "https://www.fieldinglaw.com/are-you-liable-if-you-hit-a-car-in-a-private-car-park/",
-      "clicks": 28,
-      "impressions": 7711,
-      "ctr": 0.00363117624173259,
-      "position": 9.781999740630269
-    },
-    {
-      "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/is-it-illegal-to-drive-with-a-cracked-windshield-in-texas/",
-      "clicks": 28,
-      "impressions": 10301,
-      "ctr": 0.002718182700708669,
-      "position": 17.924279196194544
-    },
-    {
-      "page": "https://www.fieldinglaw.com/who-yields-in-a-parking-lot/",
-      "clicks": 27,
-      "impressions": 9122,
-      "ctr": 0.002959877219907915,
-      "position": 9.098552948914712
+      "page": "https://www.fieldinglaw.com/what-happens-if-the-police-damages-my-car-during-a-search/",
+      "clicks": 35,
+      "impressions": 6124,
+      "ctr": 0.005715218811234487,
+      "position": 8.576747224036577
     },
     {
       "page": "https://www.fieldinglaw.com/meet-the-team/allison-capaul/",
-      "clicks": 25,
-      "impressions": 292,
-      "ctr": 0.08561643835616438,
-      "position": 11.32876712328767
+      "clicks": 29,
+      "impressions": 242,
+      "ctr": 0.11983471074380166,
+      "position": 11.636363636363637
     },
     {
-      "page": "https://www.fieldinglaw.com/practice-areas/motorcycle-accidents/at-what-speed-do-most-motorcycle-accidents-happen/",
-      "clicks": 23,
-      "impressions": 10828,
-      "ctr": 0.002124122644994459,
-      "position": 4.526413003324714
+      "page": "https://www.fieldinglaw.com/2018/12/18/prescription-drugs-that-impair-driving/",
+      "clicks": 27,
+      "impressions": 3767,
+      "ctr": 0.007167507300238917,
+      "position": 4.243429784974781
+    },
+    {
+      "page": "https://www.fieldinglaw.com/if-you-get-hit-by-a-stolen-car-in-a-police-chase-who-pays-for-the-damage/",
+      "clicks": 25,
+      "impressions": 3454,
+      "ctr": 0.007237984944991315,
+      "position": 12.236247828604517
     },
     {
       "page": "https://www.fieldinglaw.com/meet-the-team/mitchell-fielding/",
-      "clicks": 22,
-      "impressions": 456,
-      "ctr": 0.04824561403508772,
-      "position": 11.368421052631579
+      "clicks": 24,
+      "impressions": 476,
+      "ctr": 0.05042016806722689,
+      "position": 11.180672268907562
     },
     {
-      "page": "https://www.fieldinglaw.com/2018/09/18/stray-bullet-injuries-do-i-need-an-attorney/",
-      "clicks": 21,
-      "impressions": 2291,
-      "ctr": 0.009166302924487123,
-      "position": 5.355303360977739
-    },
-    {
-      "page": "https://www.fieldinglaw.com/meet-the-team/michael-fielding/",
-      "clicks": 21,
-      "impressions": 578,
-      "ctr": 0.03633217993079585,
-      "position": 10.13840830449827
-    },
-    {
-      "page": "https://www.fieldinglaw.com/2024/09/03/what-if-your-car-is-totaled-but-drivable/",
-      "clicks": 19,
-      "impressions": 8684,
-      "ctr": 0.0021879318286503915,
-      "position": 9.961883924458775
+      "page": "https://www.fieldinglaw.com/are-you-liable-if-you-hit-a-car-in-a-private-car-park/",
+      "clicks": 23,
+      "impressions": 6245,
+      "ctr": 0.0036829463570856686,
+      "position": 9.27413931144916
     },
     {
       "page": "https://www.fieldinglaw.com/personal-injury/heath/",
-      "clicks": 19,
-      "impressions": 47646,
-      "ctr": 0.00039877429374973766,
-      "position": 6.747848717625824
+      "clicks": 21,
+      "impressions": 47212,
+      "ctr": 0.0004448021689401,
+      "position": 6.051427603151741
     },
     {
-      "page": "https://www.fieldinglaw.com/2024/06/21/what-to-know-about-auto-accident-litigation/",
-      "clicks": 18,
-      "impressions": 749,
-      "ctr": 0.02403204272363151,
-      "position": 33.488651535380505
-    },
-    {
-      "page": "https://www.fieldinglaw.com/meet-the-team/derek-freeman/",
-      "clicks": 18,
-      "impressions": 558,
-      "ctr": 0.03225806451612903,
-      "position": 11.86021505376344
-    },
-    {
-      "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/snow-storm-damages/",
-      "clicks": 18,
-      "impressions": 4628,
-      "ctr": 0.0038893690579083835,
-      "position": 20.31590319792567
+      "page": "https://www.fieldinglaw.com/who-yields-in-a-parking-lot/",
+      "clicks": 21,
+      "impressions": 7017,
+      "ctr": 0.002992731936725096,
+      "position": 9.251959526863333
     },
     {
       "page": "https://www.fieldinglaw.com/meet-the-team/nijyar-tovi/",
-      "clicks": 15,
-      "impressions": 178,
-      "ctr": 0.08426966292134831,
-      "position": 6.910112359550562
+      "clicks": 20,
+      "impressions": 212,
+      "ctr": 0.09433962264150944,
+      "position": 6.6084905660377355
     },
     {
-      "page": "https://www.fieldinglaw.com/2025/09/16/voluntary-vs-mandatory-recalls-whats-the-difference/",
+      "page": "https://www.fieldinglaw.com/legal-guidance/can-the-insurance-company-sue-me-for-damages/",
+      "clicks": 19,
+      "impressions": 2627,
+      "ctr": 0.00723258469737343,
+      "position": 30.375713741910925
+    },
+    {
+      "page": "https://www.fieldinglaw.com/meet-the-team/michael-fielding/",
+      "clicks": 17,
+      "impressions": 568,
+      "ctr": 0.02992957746478873,
+      "position": 9.875
+    },
+    {
+      "page": "https://www.fieldinglaw.com/meet-the-team/derek-freeman/",
+      "clicks": 16,
+      "impressions": 554,
+      "ctr": 0.02888086642599278,
+      "position": 12.676895306859207
+    },
+    {
+      "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/is-it-illegal-to-drive-with-a-cracked-windshield-in-texas/",
       "clicks": 13,
-      "impressions": 4771,
-      "ctr": 0.0027247956403269754,
-      "position": 6.243974009641585
+      "impressions": 7849,
+      "ctr": 0.001656261944196713,
+      "position": 19.2944324117722
     },
     {
-      "page": "https://www.fieldinglaw.com/2018/02/20/know-utahs-stand-ground-law/",
+      "page": "https://www.fieldinglaw.com/2018/09/18/stray-bullet-injuries-do-i-need-an-attorney/",
       "clicks": 12,
-      "impressions": 3840,
-      "ctr": 0.003125,
-      "position": 6.224739583333333
-    },
-    {
-      "page": "https://www.fieldinglaw.com/2024/05/22/car-crashes-into-a-house-who-pays-for-damages/",
-      "clicks": 12,
-      "impressions": 1564,
-      "ctr": 0.0076726342710997444,
-      "position": 18.771099744245525
+      "impressions": 1543,
+      "ctr": 0.007777057679844459,
+      "position": 5.729747245625405
     },
     {
       "page": "https://www.fieldinglaw.com/contact-us/",
-      "clicks": 12,
-      "impressions": 4864,
-      "ctr": 0.0024671052631578946,
-      "position": 12.129728618421053
+      "clicks": 11,
+      "impressions": 2883,
+      "ctr": 0.003815469996531391,
+      "position": 20.527228581338882
+    },
+    {
+      "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/snow-storm-damages/",
+      "clicks": 11,
+      "impressions": 3429,
+      "ctr": 0.0032079323417906094,
+      "position": 22.7273257509478
     },
     {
       "page": "https://www.fieldinglaw.com/practice-areas/defective-products-and-recalls/compensation-amount/",
-      "clicks": 12,
-      "impressions": 1140,
-      "ctr": 0.010526315789473684,
-      "position": 12.464035087719298
-    },
-    {
-      "page": "https://www.fieldinglaw.com/meet-the-team/brent-s-freefield/",
       "clicks": 11,
-      "impressions": 309,
-      "ctr": 0.03559870550161812,
-      "position": 16.524271844660195
+      "impressions": 1090,
+      "ctr": 0.010091743119266056,
+      "position": 12.11743119266055
     },
     {
-      "page": "https://www.fieldinglaw.com/2018/03/21/red-light-running-bill/",
-      "clicks": 10,
-      "impressions": 1080,
-      "ctr": 0.009259259259259259,
-      "position": 9.873148148148148
+      "page": "https://www.fieldinglaw.com/practice-areas/motorcycle-accidents/at-what-speed-do-most-motorcycle-accidents-happen/",
+      "clicks": 11,
+      "impressions": 7580,
+      "ctr": 0.0014511873350923482,
+      "position": 4.710817941952507
     },
     {
-      "page": "https://www.fieldinglaw.com/2024/08/27/the-trouble-with-self-driving-cars/",
+      "page": "https://www.fieldinglaw.com/2018/02/20/know-utahs-stand-ground-law/",
       "clicks": 9,
-      "impressions": 874,
-      "ctr": 0.010297482837528604,
-      "position": 29.013729977116704
+      "impressions": 2938,
+      "ctr": 0.0030633083730428863,
+      "position": 5.749829816201498
     },
     {
-      "page": "https://www.fieldinglaw.com/mesquite-car-accident-lawyer/is-the-owner-or-driver-liable-in-a-crash/",
+      "page": "https://www.fieldinglaw.com/2024/06/21/what-to-know-about-auto-accident-litigation/",
       "clicks": 9,
-      "impressions": 2013,
-      "ctr": 0.004470938897168405,
-      "position": 9.087431693989071
+      "impressions": 533,
+      "ctr": 0.016885553470919325,
+      "position": 34.628517823639775
     },
     {
-      "page": "https://www.fieldinglaw.com/2020/06/17/car-totaled-and-still-owe-money-in-utah-what-can-you-do/",
-      "clicks": 8,
-      "impressions": 2826,
-      "ctr": 0.0028308563340410475,
-      "position": 21.93842887473461
-    },
-    {
-      "page": "https://www.fieldinglaw.com/2023/01/24/can-i-modify-my-car-and-not-be-at-fault-for-accidents-in-utah/",
-      "clicks": 8,
-      "impressions": 1527,
-      "ctr": 0.005239030779305829,
-      "position": 9.421741977734118
-    },
-    {
-      "page": "https://www.fieldinglaw.com/2024/01/26/who-gets-the-insurance-check-when-a-car-is-totaled/",
-      "clicks": 8,
-      "impressions": 2910,
-      "ctr": 0.0027491408934707906,
-      "position": 27.31615120274914
-    },
-    {
-      "page": "https://www.fieldinglaw.com/how-is-fault-determined-in-a-parking-lot-accident/",
-      "clicks": 8,
-      "impressions": 2470,
-      "ctr": 0.0032388663967611335,
-      "position": 18.924696356275305
+      "page": "https://www.fieldinglaw.com/2025/09/16/voluntary-vs-mandatory-recalls-whats-the-difference/",
+      "clicks": 9,
+      "impressions": 3656,
+      "ctr": 0.002461706783369803,
+      "position": 6.026531728665208
     },
     {
       "page": "https://www.fieldinglaw.com/meet-the-team/",
+      "clicks": 9,
+      "impressions": 2296,
+      "ctr": 0.0039198606271777,
+      "position": 46.950783972125436
+    },
+    {
+      "page": "https://www.fieldinglaw.com/2024/09/03/what-if-your-car-is-totaled-but-drivable/",
       "clicks": 8,
-      "impressions": 3849,
-      "ctr": 0.0020784619381657575,
-      "position": 28.662249935048063
+      "impressions": 5041,
+      "ctr": 0.0015869867089863122,
+      "position": 10.055742908153144
+    },
+    {
+      "page": "https://www.fieldinglaw.com/legal-guidance/what-if-someone-falls-off-an-oil-rig/",
+      "clicks": 8,
+      "impressions": 519,
+      "ctr": 0.015414258188824663,
+      "position": 19.296724470134876
+    },
+    {
+      "page": "https://www.fieldinglaw.com/meet-the-team/brent-s-freefield/",
+      "clicks": 8,
+      "impressions": 217,
+      "ctr": 0.03686635944700461,
+      "position": 18.52995391705069
+    },
+    {
+      "page": "https://www.fieldinglaw.com/2024/08/27/the-trouble-with-self-driving-cars/",
+      "clicks": 7,
+      "impressions": 667,
+      "ctr": 0.010494752623688156,
+      "position": 27.88905547226387
+    },
+    {
+      "page": "https://www.fieldinglaw.com/idaho/",
+      "clicks": 7,
+      "impressions": 956,
+      "ctr": 0.007322175732217573,
+      "position": 41.67154811715481
+    },
+    {
+      "page": "https://www.fieldinglaw.com/2018/03/21/red-light-running-bill/",
+      "clicks": 6,
+      "impressions": 708,
+      "ctr": 0.00847457627118644,
+      "position": 10.32909604519774
+    },
+    {
+      "page": "https://www.fieldinglaw.com/2018/12/20/cracked-windshield-dangers-and-laws-in-utah/",
+      "clicks": 6,
+      "impressions": 1640,
+      "ctr": 0.003658536585365854,
+      "position": 9.026829268292683
+    },
+    {
+      "page": "https://www.fieldinglaw.com/2020/06/17/car-totaled-and-still-owe-money-in-utah-what-can-you-do/",
+      "clicks": 6,
+      "impressions": 2282,
+      "ctr": 0.0026292725679228747,
+      "position": 18.915425065731814
+    },
+    {
+      "page": "https://www.fieldinglaw.com/2024/01/26/who-gets-the-insurance-check-when-a-car-is-totaled/",
+      "clicks": 6,
+      "impressions": 1923,
+      "ctr": 0.0031201248049922,
+      "position": 22.880915236609464
+    },
+    {
+      "page": "https://www.fieldinglaw.com/meet-the-team/thompson-du/",
+      "clicks": 6,
+      "impressions": 61,
+      "ctr": 0.09836065573770492,
+      "position": 22.557377049180328
+    },
+    {
+      "page": "https://www.fieldinglaw.com/mesquite-car-accident-lawyer/what-are-interrogatories-for-a-car-accident-claim/",
+      "clicks": 6,
+      "impressions": 532,
+      "ctr": 0.011278195488721804,
+      "position": 11.569548872180452
     },
     {
       "page": "https://www.fieldinglaw.com/practice-areas/car-accidents/car-accidents-caused-by-aftermarket-vehicle-modifications/",
-      "clicks": 8,
-      "impressions": 1828,
-      "ctr": 0.00437636761487965,
-      "position": 12.231947483588621
-    },
-    {
-      "page": "https://www.fieldinglaw.com/what-do-i-do-if-someone-backs-into-my-car-in-a-parking-lot/",
-      "clicks": 8,
-      "impressions": 5121,
-      "ctr": 0.0015621948838117556,
-      "position": 7.390743995313415
+      "clicks": 6,
+      "impressions": 1549,
+      "ctr": 0.003873466752743706,
+      "position": 10.316333118140737
     }
   ],
-  "fetchedAt": "2026-03-18T13:06:15.381Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "fielding law",
+      "clicks": 327,
+      "impressions": 1907,
+      "ctr": 0.17147351861562665,
+      "position": 2.7163083377031985
+    },
+    {
+      "query": "what happens when your car is totaled but still drivable",
+      "clicks": 95,
+      "impressions": 7096,
+      "ctr": 0.01338782412626832,
+      "position": 3.9167136414881623
+    },
+    {
+      "query": "motorcycle injury attorneys",
+      "clicks": 67,
+      "impressions": 8084,
+      "ctr": 0.008287976249381494,
+      "position": 20.604032657100447
+    },
+    {
+      "query": "motorcycle accident lawyer mesquite fielding law",
+      "clicks": 64,
+      "impressions": 85,
+      "ctr": 0.7529411764705882,
+      "position": 1.011764705882353
+    },
+    {
+      "query": "car accident lawyer taylorsville ky fielding law",
+      "clicks": 59,
+      "impressions": 60,
+      "ctr": 0.9833333333333333,
+      "position": 1.0833333333333333
+    },
+    {
+      "query": "taylorsville car accident lawyer fielding law",
+      "clicks": 57,
+      "impressions": 77,
+      "ctr": 0.7402597402597403,
+      "position": 1
+    },
+    {
+      "query": "motorcycle accident lawyer mesquite",
+      "clicks": 56,
+      "impressions": 292,
+      "ctr": 0.1917808219178082,
+      "position": 3.6952054794520546
+    },
+    {
+      "query": "motorcycle injury lawyer",
+      "clicks": 56,
+      "impressions": 37270,
+      "ctr": 0.0015025489669975851,
+      "position": 18.92988999195063
+    },
+    {
+      "query": "motorcycle injury attorney",
+      "clicks": 52,
+      "impressions": 21245,
+      "ctr": 0.002447634737585314,
+      "position": 22.082136973405508
+    },
+    {
+      "query": "mesquite motorcycle accident lawyer",
+      "clicks": 48,
+      "impressions": 159,
+      "ctr": 0.3018867924528302,
+      "position": 1.5157232704402515
+    },
+    {
+      "query": "how long does an insurance company have to investigate a claim in texas",
+      "clicks": 47,
+      "impressions": 486,
+      "ctr": 0.09670781893004116,
+      "position": 1.6316872427983538
+    },
+    {
+      "query": "motorcycle accident injury attorney",
+      "clicks": 47,
+      "impressions": 12228,
+      "ctr": 0.0038436375531566897,
+      "position": 10.477837749427543
+    },
+    {
+      "query": "mesquite car accident lawyer fielding law",
+      "clicks": 46,
+      "impressions": 58,
+      "ctr": 0.7931034482758621,
+      "position": 1
+    },
+    {
+      "query": "mesquite motorcycle accident lawyer vimeo",
+      "clicks": 46,
+      "impressions": 94,
+      "ctr": 0.48936170212765956,
+      "position": 1.6808510638297873
+    },
+    {
+      "query": "motorcycle accident lawyer in texas",
+      "clicks": 36,
+      "impressions": 109,
+      "ctr": 0.3302752293577982,
+      "position": 2.055045871559633
+    },
+    {
+      "query": "fielding law auto accident attorneys",
+      "clicks": 34,
+      "impressions": 590,
+      "ctr": 0.0576271186440678,
+      "position": 1.0559322033898304
+    },
+    {
+      "query": "taylorsville car accident lawyer fielding law auto accident attorneys",
+      "clicks": 34,
+      "impressions": 52,
+      "ctr": 0.6538461538461539,
+      "position": 1
+    },
+    {
+      "query": "fielding law firm",
+      "clicks": 33,
+      "impressions": 263,
+      "ctr": 0.12547528517110265,
+      "position": 2.992395437262357
+    },
+    {
+      "query": "can someone sue you after insurance pays",
+      "clicks": 32,
+      "impressions": 429,
+      "ctr": 0.07459207459207459,
+      "position": 2.27972027972028
+    },
+    {
+      "query": "fielding law utah",
+      "clicks": 29,
+      "impressions": 81,
+      "ctr": 0.35802469135802467,
+      "position": 1.0246913580246915
+    },
+    {
+      "query": "mesquite accident attorneys",
+      "clicks": 28,
+      "impressions": 366,
+      "ctr": 0.07650273224043716,
+      "position": 1.210382513661202
+    },
+    {
+      "query": "mesquite car accident lawyer",
+      "clicks": 28,
+      "impressions": 1399,
+      "ctr": 0.020014295925661188,
+      "position": 1.9485346676197284
+    },
+    {
+      "query": "auto accident attorneys mesquite",
+      "clicks": 27,
+      "impressions": 339,
+      "ctr": 0.07964601769911504,
+      "position": 1.6991150442477876
+    },
+    {
+      "query": "car wreck attorney mesquite tx",
+      "clicks": 26,
+      "impressions": 249,
+      "ctr": 0.10441767068273092,
+      "position": 1.3293172690763053
+    },
+    {
+      "query": "car wreck lawyers mesquite tx",
+      "clicks": 26,
+      "impressions": 232,
+      "ctr": 0.11206896551724138,
+      "position": 1.2974137931034484
+    },
+    {
+      "query": "hit by police car compensation",
+      "clicks": 26,
+      "impressions": 334,
+      "ctr": 0.07784431137724551,
+      "position": 2.997005988023952
+    },
+    {
+      "query": "if you get hit by a stolen car in police chase who pays for all the damages?",
+      "clicks": 26,
+      "impressions": 243,
+      "ctr": 0.10699588477366255,
+      "position": 2.674897119341564
+    },
+    {
+      "query": "taylorsville car accident lawyer",
+      "clicks": 25,
+      "impressions": 317,
+      "ctr": 0.07886435331230283,
+      "position": 3.968454258675079
+    },
+    {
+      "query": "what happens to hit and run drivers who are later found by their license plate?",
+      "clicks": 25,
+      "impressions": 1617,
+      "ctr": 0.015460729746444033,
+      "position": 9.158317872603586
+    },
+    {
+      "query": "car crash attorney mesquite tx",
+      "clicks": 23,
+      "impressions": 252,
+      "ctr": 0.09126984126984126,
+      "position": 1.376984126984127
+    },
+    {
+      "query": "mesquite tx car wreck lawyers",
+      "clicks": 23,
+      "impressions": 238,
+      "ctr": 0.09663865546218488,
+      "position": 1.3067226890756303
+    },
+    {
+      "query": "who has the right of way in a parking lot",
+      "clicks": 23,
+      "impressions": 1515,
+      "ctr": 0.015181518151815182,
+      "position": 5.1656765676567655
+    },
+    {
+      "query": "auto accident lawyer mesquite",
+      "clicks": 21,
+      "impressions": 549,
+      "ctr": 0.03825136612021858,
+      "position": 1.591985428051002
+    },
+    {
+      "query": "what happens if a cop hits your car",
+      "clicks": 21,
+      "impressions": 622,
+      "ctr": 0.03376205787781351,
+      "position": 3.6189710610932475
+    },
+    {
+      "query": "car accident attorney mesquite",
+      "clicks": 20,
+      "impressions": 1276,
+      "ctr": 0.01567398119122257,
+      "position": 4.420062695924765
+    },
+    {
+      "query": "mesquite injury attorneys",
+      "clicks": 20,
+      "impressions": 362,
+      "ctr": 0.055248618784530384,
+      "position": 1.7569060773480663
+    },
+    {
+      "query": "mesquite texas personal injury lawyers",
+      "clicks": 20,
+      "impressions": 261,
+      "ctr": 0.07662835249042145,
+      "position": 1.5402298850574714
+    },
+    {
+      "query": "mesquite tx car wreck attorney",
+      "clicks": 20,
+      "impressions": 188,
+      "ctr": 0.10638297872340426,
+      "position": 1.6595744680851063
+    },
+    {
+      "query": "fielding law mesquite",
+      "clicks": 19,
+      "impressions": 175,
+      "ctr": 0.10857142857142857,
+      "position": 1.0057142857142858
+    },
+    {
+      "query": "who pays if your car is damaged during a police pursuit",
+      "clicks": 19,
+      "impressions": 284,
+      "ctr": 0.06690140845070422,
+      "position": 2.461267605633803
+    },
+    {
+      "query": "sikandar mehr",
+      "clicks": 18,
+      "impressions": 39,
+      "ctr": 0.46153846153846156,
+      "position": 1
+    },
+    {
+      "query": "what happens if your car gets hit in a police chase",
+      "clicks": 18,
+      "impressions": 273,
+      "ctr": 0.06593406593406594,
+      "position": 3.1538461538461537
+    },
+    {
+      "query": "who has right of way in a parking lot",
+      "clicks": 18,
+      "impressions": 678,
+      "ctr": 0.02654867256637168,
+      "position": 4.376106194690266
+    },
+    {
+      "query": "fielding law pllc",
+      "clicks": 17,
+      "impressions": 82,
+      "ctr": 0.2073170731707317,
+      "position": 1.3658536585365852
+    },
+    {
+      "query": "motorcycle accident lawyer",
+      "clicks": 17,
+      "impressions": 474064,
+      "ctr": 0.00003586013702791184,
+      "position": 27.915026241182627
+    },
+    {
+      "query": "motorcycle accident lawyer websites",
+      "clicks": 17,
+      "impressions": 98,
+      "ctr": 0.17346938775510204,
+      "position": 2.612244897959184
+    },
+    {
+      "query": "insurance company suing me for damages",
+      "clicks": 16,
+      "impressions": 466,
+      "ctr": 0.034334763948497854,
+      "position": 2.3819742489270386
+    },
+    {
+      "query": "2 cars back into each other in parking lot, who is liable",
+      "clicks": 15,
+      "impressions": 250,
+      "ctr": 0.06,
+      "position": 3.52
+    },
+    {
+      "query": "does insurance cover snow accidents",
+      "clicks": 15,
+      "impressions": 610,
+      "ctr": 0.02459016393442623,
+      "position": 4.473770491803279
+    },
+    {
+      "query": "fatal car accident lawyer",
+      "clicks": 15,
+      "impressions": 5613,
+      "ctr": 0.002672367717797969,
+      "position": 35.312310707286656
+    },
+    {
+      "query": "vehicle accidents attorney",
+      "clicks": 15,
+      "impressions": 131,
+      "ctr": 0.11450381679389313,
+      "position": 12.206106870229007
+    },
+    {
+      "query": "best injury lawyer mesquite, tx",
+      "clicks": 14,
+      "impressions": 41,
+      "ctr": 0.34146341463414637,
+      "position": 2.2682926829268295
+    },
+    {
+      "query": "if someone leaves the scene of an accident are they automatically at fault",
+      "clicks": 14,
+      "impressions": 457,
+      "ctr": 0.030634573304157548,
+      "position": 2.8118161925601752
+    },
+    {
+      "query": "what happens if you hit a car and leave",
+      "clicks": 14,
+      "impressions": 620,
+      "ctr": 0.02258064516129032,
+      "position": 5.266129032258065
+    },
+    {
+      "query": "what happens if your car is damaged in a police chase",
+      "clicks": 14,
+      "impressions": 235,
+      "ctr": 0.059574468085106386,
+      "position": 2.4723404255319146
+    },
+    {
+      "query": "accident lawyer",
+      "clicks": 13,
+      "impressions": 3775,
+      "ctr": 0.003443708609271523,
+      "position": 10.867814569536424
+    },
+    {
+      "query": "car accident lawyer in usa | fa jobzvi",
+      "clicks": 13,
+      "impressions": 3966,
+      "ctr": 0.0032778618255168935,
+      "position": 5.95738779626828
+    },
+    {
+      "query": "car accident lawyer utah car crash gurus",
+      "clicks": 13,
+      "impressions": 133,
+      "ctr": 0.09774436090225563,
+      "position": 3.3609022556390977
+    },
+    {
+      "query": "fielding law texas",
+      "clicks": 13,
+      "impressions": 206,
+      "ctr": 0.06310679611650485,
+      "position": 1
+    },
+    {
+      "query": "how long does an insurance company have to investigate a claim",
+      "clicks": 13,
+      "impressions": 557,
+      "ctr": 0.02333931777378815,
+      "position": 19.956912028725313
+    },
+    {
+      "query": "two cars reversing into each other",
+      "clicks": 13,
+      "impressions": 142,
+      "ctr": 0.09154929577464789,
+      "position": 3.0492957746478875
+    },
+    {
+      "query": "can an insurance company sue you for an accident",
+      "clicks": 12,
+      "impressions": 686,
+      "ctr": 0.01749271137026239,
+      "position": 3.2332361516034984
+    },
+    {
+      "query": "can someone sue you for a car accident if you have insurance",
+      "clicks": 12,
+      "impressions": 402,
+      "ctr": 0.029850746268656716,
+      "position": 12.828358208955224
+    },
+    {
+      "query": "fielding law group",
+      "clicks": 12,
+      "impressions": 419,
+      "ctr": 0.028639618138424822,
+      "position": 5.933174224343675
+    },
+    {
+      "query": "lawyer for truck accident taylorsville",
+      "clicks": 12,
+      "impressions": 53,
+      "ctr": 0.22641509433962265,
+      "position": 2.339622641509434
+    },
+    {
+      "query": "two cars back into each other",
+      "clicks": 12,
+      "impressions": 62,
+      "ctr": 0.1935483870967742,
+      "position": 2.758064516129032
+    },
+    {
+      "query": "car accident attorney",
+      "clicks": 11,
+      "impressions": 8015,
+      "ctr": 0.001372426699937617,
+      "position": 15.316656269494697
+    },
+    {
+      "query": "marion motorcycle accident lawyer vimeo",
+      "clicks": 11,
+      "impressions": 15,
+      "ctr": 0.7333333333333333,
+      "position": 2.6
+    },
+    {
+      "query": "personal injury attorneys mesquite, tx",
+      "clicks": 11,
+      "impressions": 58,
+      "ctr": 0.1896551724137931,
+      "position": 2.6724137931034484
+    },
+    {
+      "query": "what happens if a police officer hits your car",
+      "clicks": 11,
+      "impressions": 193,
+      "ctr": 0.05699481865284974,
+      "position": 3.05699481865285
+    },
+    {
+      "query": "what happens if you hit a car in a parking lot and leave",
+      "clicks": 11,
+      "impressions": 1349,
+      "ctr": 0.00815418828762046,
+      "position": 12.633061527057079
+    },
+    {
+      "query": "2 cars reversing who's at fault",
+      "clicks": 10,
+      "impressions": 59,
+      "ctr": 0.1694915254237288,
+      "position": 3.305084745762712
+    },
+    {
+      "query": "attorney for motorcycle accidents",
+      "clicks": 10,
+      "impressions": 12862,
+      "ctr": 0.0007774840615767377,
+      "position": 9.205800031099363
+    },
+    {
+      "query": "auto accident attorney near me",
+      "clicks": 10,
+      "impressions": 1081,
+      "ctr": 0.009250693802035153,
+      "position": 18.964847363552266
+    },
+    {
+      "query": "if you hit a car and leave what happens",
+      "clicks": 10,
+      "impressions": 352,
+      "ctr": 0.028409090909090908,
+      "position": 6.301136363636363
+    },
+    {
+      "query": "mesquite, tx best injury lawyer",
+      "clicks": 10,
+      "impressions": 42,
+      "ctr": 0.23809523809523808,
+      "position": 2.333333333333333
+    },
+    {
+      "query": "mesquite, tx personal injury law firm",
+      "clicks": 10,
+      "impressions": 51,
+      "ctr": 0.19607843137254902,
+      "position": 1.6862745098039216
+    },
+    {
+      "query": "motorcycle accident lawyer tx",
+      "clicks": 10,
+      "impressions": 96,
+      "ctr": 0.10416666666666667,
+      "position": 1.5104166666666665
+    },
+    {
+      "query": "top rated injury lawyer mesquite, tx",
+      "clicks": 10,
+      "impressions": 38,
+      "ctr": 0.2631578947368421,
+      "position": 4.105263157894736
+    },
+    {
+      "query": "what happens if a cop hits your car during a chase",
+      "clicks": 10,
+      "impressions": 565,
+      "ctr": 0.017699115044247787,
+      "position": 4.938053097345133
+    },
+    {
+      "query": "what happens if police damage your property during a search",
+      "clicks": 10,
+      "impressions": 549,
+      "ctr": 0.018214936247723135,
+      "position": 5.346083788706739
+    },
+    {
+      "query": "what happens if two cars back into each other",
+      "clicks": 10,
+      "impressions": 80,
+      "ctr": 0.125,
+      "position": 2.825
+    },
+    {
+      "query": "what happens if you leave the scene of an accident",
+      "clicks": 10,
+      "impressions": 691,
+      "ctr": 0.01447178002894356,
+      "position": 10.309696092619392
+    },
+    {
+      "query": "who is at fault when both cars are reversing",
+      "clicks": 10,
+      "impressions": 67,
+      "ctr": 0.14925373134328357,
+      "position": 3.582089552238806
+    },
+    {
+      "query": "who pays for damage caused by police chase",
+      "clicks": 10,
+      "impressions": 263,
+      "ctr": 0.03802281368821293,
+      "position": 3.8897338403041823
+    },
+    {
+      "query": "auto collision attorney",
+      "clicks": 9,
+      "impressions": 149,
+      "ctr": 0.06040268456375839,
+      "position": 2.7852348993288594
+    },
+    {
+      "query": "best personal injury lawyer mesquite, tx",
+      "clicks": 9,
+      "impressions": 63,
+      "ctr": 0.14285714285714285,
+      "position": 3.4761904761904763
+    },
+    {
+      "query": "both cars reversing who's at fault",
+      "clicks": 9,
+      "impressions": 119,
+      "ctr": 0.07563025210084033,
+      "position": 3.5210084033613445
+    },
+    {
+      "query": "can a insurance company sue you",
+      "clicks": 9,
+      "impressions": 48,
+      "ctr": 0.1875,
+      "position": 2.145833333333333
+    },
+    {
+      "query": "car wreck lawyers near me",
+      "clicks": 9,
+      "impressions": 234,
+      "ctr": 0.038461538461538464,
+      "position": 20.264957264957264
+    },
+    {
+      "query": "fatal car accident attorney",
+      "clicks": 9,
+      "impressions": 563,
+      "ctr": 0.015985790408525755,
+      "position": 34.3943161634103
+    },
+    {
+      "query": "fleeing the scene of an accident",
+      "clicks": 9,
+      "impressions": 1847,
+      "ctr": 0.004872766648619383,
+      "position": 11.029236599891716
+    },
+    {
+      "query": "how long does insurance have to process a claim",
+      "clicks": 9,
+      "impressions": 109,
+      "ctr": 0.08256880733944955,
+      "position": 17.174311926605505
+    },
+    {
+      "query": "mesquite, tx personal injury attorneys",
+      "clicks": 9,
+      "impressions": 32,
+      "ctr": 0.28125,
+      "position": 1.96875
+    },
+    {
+      "query": "parking lot right of way",
+      "clicks": 9,
+      "impressions": 547,
+      "ctr": 0.016453382084095063,
+      "position": 6.89945155393053
+    },
+    {
+      "query": "police officer at fault for car accident",
+      "clicks": 9,
+      "impressions": 277,
+      "ctr": 0.032490974729241874,
+      "position": 3.7689530685920576
+    },
+    {
+      "query": "top accident attorney",
+      "clicks": 9,
+      "impressions": 149,
+      "ctr": 0.06040268456375839,
+      "position": 10.093959731543624
+    },
+    {
+      "query": "what happens if you get hit during a police chase",
+      "clicks": 9,
+      "impressions": 191,
+      "ctr": 0.04712041884816754,
+      "position": 4.947643979057592
+    },
+    {
+      "query": "are police responsible for damages during a search",
+      "clicks": 8,
+      "impressions": 80,
+      "ctr": 0.1,
+      "position": 3.3375
+    },
+    {
+      "query": "auto crash lawyer",
+      "clicks": 8,
+      "impressions": 156,
+      "ctr": 0.05128205128205128,
+      "position": 5.2756410256410255
+    },
+    {
+      "query": "can i be sued after insurance settlement",
+      "clicks": 8,
+      "impressions": 31,
+      "ctr": 0.25806451612903225,
+      "position": 1.5806451612903225
+    },
+    {
+      "query": "i panicked and left the scene of an accident",
+      "clicks": 8,
+      "impressions": 383,
+      "ctr": 0.020887728459530026,
+      "position": 26.266318537859007
+    },
+    {
+      "query": "if police damage your car during a search",
+      "clicks": 8,
+      "impressions": 57,
+      "ctr": 0.14035087719298245,
+      "position": 2.456140350877193
+    },
+    {
+      "query": "mesquite, tx injury attorney",
+      "clicks": 8,
+      "impressions": 80,
+      "ctr": 0.1,
+      "position": 1.825
+    },
+    {
+      "query": "mesquite, tx personal injury lawyers",
+      "clicks": 8,
+      "impressions": 57,
+      "ctr": 0.14035087719298245,
+      "position": 2.0701754385964914
+    },
+    {
+      "query": "personal injury attorney mesquite, tx",
+      "clicks": 8,
+      "impressions": 53,
+      "ctr": 0.1509433962264151,
+      "position": 2
+    },
+    {
+      "query": "personal injury law firm mesquite, tx",
+      "clicks": 8,
+      "impressions": 35,
+      "ctr": 0.22857142857142856,
+      "position": 2.428571428571429
+    },
+    {
+      "query": "right of way in parking lot",
+      "clicks": 8,
+      "impressions": 277,
+      "ctr": 0.02888086642599278,
+      "position": 5.7111913357400725
+    },
+    {
+      "query": "taylorsville motorcycle accident lawyer",
+      "clicks": 8,
+      "impressions": 167,
+      "ctr": 0.04790419161676647,
+      "position": 3.784431137724551
+    },
+    {
+      "query": "auto accident attorney",
+      "clicks": 7,
+      "impressions": 5204,
+      "ctr": 0.001345119139123751,
+      "position": 16.30130668716372
+    },
+    {
+      "query": "can you sue after insurance settlement",
+      "clicks": 7,
+      "impressions": 106,
+      "ctr": 0.0660377358490566,
+      "position": 4.669811320754717
+    },
+    {
+      "query": "car accident injury lawyer forney tx",
+      "clicks": 7,
+      "impressions": 59,
+      "ctr": 0.11864406779661017,
+      "position": 1.7627118644067796
+    },
+    {
+      "query": "car accident lawyer west valley city ut",
+      "clicks": 7,
+      "impressions": 111,
+      "ctr": 0.06306306306306306,
+      "position": 1.2702702702702702
+    },
+    {
+      "query": "if you leave the scene of an accident are you automatically at fault",
+      "clicks": 7,
+      "impressions": 148,
+      "ctr": 0.0472972972972973,
+      "position": 2.418918918918919
+    },
+    {
+      "query": "injury attorneys mesquite, tx",
+      "clicks": 7,
+      "impressions": 38,
+      "ctr": 0.18421052631578946,
+      "position": 2.1578947368421053
+    },
+    {
+      "query": "injury law firm",
+      "clicks": 7,
+      "impressions": 2555,
+      "ctr": 0.0027397260273972603,
+      "position": 37.443835616438356
+    },
+    {
+      "query": "injury law firms mesquite, tx",
+      "clicks": 7,
+      "impressions": 55,
+      "ctr": 0.12727272727272726,
+      "position": 1.7818181818181817
+    },
+    {
+      "query": "mitchell fielding",
+      "clicks": 7,
+      "impressions": 25,
+      "ctr": 0.28,
+      "position": 1.56
+    },
+    {
+      "query": "personal injury lawyers",
+      "clicks": 7,
+      "impressions": 9123,
+      "ctr": 0.0007672914611421681,
+      "position": 54.96601994957799
+    },
+    {
+      "query": "sigorta şirketi bana dava açtı",
+      "clicks": 7,
+      "impressions": 132,
+      "ctr": 0.05303030303030303,
+      "position": 7.878787878787879
+    },
+    {
+      "query": "torcycle accident attorneys",
+      "clicks": 7,
+      "impressions": 342,
+      "ctr": 0.02046783625730994,
+      "position": 2.0760233918128654
+    },
+    {
+      "query": "what happens if border patrol destroys your car and finds nothing",
+      "clicks": 7,
+      "impressions": 896,
+      "ctr": 0.0078125,
+      "position": 8.045758928571429
+    },
+    {
+      "query": "who has right of way in parking lot",
+      "clicks": 7,
+      "impressions": 252,
+      "ctr": 0.027777777777777776,
+      "position": 5.115079365079365
+    },
+    {
+      "query": "who has the right away in a parking lot",
+      "clicks": 7,
+      "impressions": 336,
+      "ctr": 0.020833333333333332,
+      "position": 3.675595238095238
+    },
+    {
+      "query": "who is at fault when two cars back into each other in a parking lot",
+      "clicks": 7,
+      "impressions": 24,
+      "ctr": 0.2916666666666667,
+      "position": 2.125
+    },
+    {
+      "query": "ประกันฟ้องเรียก ค่าเสียหาย",
+      "clicks": 7,
+      "impressions": 47,
+      "ctr": 0.14893617021276595,
+      "position": 4.595744680851064
+    },
+    {
+      "query": "2 cars back into each other in parking lot who is liable",
+      "clicks": 6,
+      "impressions": 77,
+      "ctr": 0.07792207792207792,
+      "position": 3.207792207792208
+    },
+    {
+      "query": "accident attorney",
+      "clicks": 6,
+      "impressions": 3766,
+      "ctr": 0.0015932023366967605,
+      "position": 20.746946362187998
+    },
+    {
+      "query": "accident lawyers",
+      "clicks": 6,
+      "impressions": 1346,
+      "ctr": 0.004457652303120356,
+      "position": 30.62555720653789
+    },
+    {
+      "query": "best accident lawyers",
+      "clicks": 6,
+      "impressions": 303,
+      "ctr": 0.019801980198019802,
+      "position": 2.8613861386138613
+    },
+    {
+      "query": "can i get sued personally for a car accident",
+      "clicks": 6,
+      "impressions": 19,
+      "ctr": 0.3157894736842105,
+      "position": 3.3684210526315788
+    },
+    {
+      "query": "can you be sued for a car accident",
+      "clicks": 6,
+      "impressions": 113,
+      "ctr": 0.05309734513274336,
+      "position": 29.61061946902655
+    },
+    {
+      "query": "car accident attorney near me",
+      "clicks": 6,
+      "impressions": 1099,
+      "ctr": 0.00545950864422202,
+      "position": 15.060054595086442
+    },
+    {
+      "query": "car wreck attorneys",
+      "clicks": 6,
+      "impressions": 388,
+      "ctr": 0.015463917525773196,
+      "position": 11.162371134020619
+    },
+    {
+      "query": "car wreck lawyer",
+      "clicks": 6,
+      "impressions": 872,
+      "ctr": 0.006880733944954129,
+      "position": 9.385321100917432
+    },
+    {
+      "query": "car wreck lawyer near me",
+      "clicks": 6,
+      "impressions": 716,
+      "ctr": 0.008379888268156424,
+      "position": 19.798882681564248
+    },
+    {
+      "query": "commercial truck accident lawyer taylorsville",
+      "clicks": 6,
+      "impressions": 50,
+      "ctr": 0.12,
+      "position": 1.2
+    },
+    {
+      "query": "heath car accident lawyer",
+      "clicks": 6,
+      "impressions": 8,
+      "ctr": 0.75,
+      "position": 1.375
+    },
+    {
+      "query": "if police damage your property during a search",
+      "clicks": 6,
+      "impressions": 70,
+      "ctr": 0.08571428571428572,
+      "position": 3.8142857142857145
+    },
+    {
+      "query": "injury attorney mesquite, tx",
+      "clicks": 6,
+      "impressions": 60,
+      "ctr": 0.1,
+      "position": 2.0166666666666666
+    },
+    {
+      "query": "injury law firm mesquite, tx",
+      "clicks": 6,
+      "impressions": 25,
+      "ctr": 0.24,
+      "position": 1.52
+    },
+    {
+      "query": "mesquite, tx injury law firm",
+      "clicks": 6,
+      "impressions": 35,
+      "ctr": 0.17142857142857143,
+      "position": 1.3714285714285714
+    },
+    {
+      "query": "mesquite, tx injury law firms",
+      "clicks": 6,
+      "impressions": 39,
+      "ctr": 0.15384615384615385,
+      "position": 1.7948717948717947
+    },
+    {
+      "query": "mesquite, tx personal injury law firms",
+      "clicks": 6,
+      "impressions": 52,
+      "ctr": 0.11538461538461539,
+      "position": 2.1538461538461537
+    },
+    {
+      "query": "mesquite, tx top rated personal injury lawyer",
+      "clicks": 6,
+      "impressions": 19,
+      "ctr": 0.3157894736842105,
+      "position": 3.0526315789473686
+    },
+    {
+      "query": "personal injury lawyers mesquite, tx",
+      "clicks": 6,
+      "impressions": 44,
+      "ctr": 0.13636363636363635,
+      "position": 2.2727272727272725
+    },
+    {
+      "query": "taylorsville truck accident lawyer",
+      "clicks": 6,
+      "impressions": 127,
+      "ctr": 0.047244094488188976,
+      "position": 5.062992125984252
+    },
+    {
+      "query": "time limit for insurance claim settlement",
+      "clicks": 6,
+      "impressions": 469,
+      "ctr": 0.01279317697228145,
+      "position": 13.17910447761194
+    },
+    {
+      "query": "what happens if you leave the scene of an accident and it's not your fault",
+      "clicks": 6,
+      "impressions": 63,
+      "ctr": 0.09523809523809523,
+      "position": 2
+    },
+    {
+      "query": "what happens if your car gets hit during a police chase",
+      "clicks": 6,
+      "impressions": 187,
+      "ctr": 0.03208556149732621,
+      "position": 2.855614973262032
+    },
+    {
+      "query": "what happens if your car is hit during a police chase",
+      "clicks": 6,
+      "impressions": 128,
+      "ctr": 0.046875,
+      "position": 2.453125
+    },
+    {
+      "query": "both cars backing up who's at fault",
+      "clicks": 5,
+      "impressions": 50,
+      "ctr": 0.1,
+      "position": 1.6800000000000002
+    },
+    {
+      "query": "can someone sue after car accident is settled",
+      "clicks": 5,
+      "impressions": 205,
+      "ctr": 0.024390243902439025,
+      "position": 4.097560975609756
+    },
+    {
+      "query": "can you get sued for a car accident",
+      "clicks": 5,
+      "impressions": 126,
+      "ctr": 0.03968253968253968,
+      "position": 44.19047619047619
+    },
+    {
+      "query": "car accident lawyer west valley city utah",
+      "clicks": 5,
+      "impressions": 64,
+      "ctr": 0.078125,
+      "position": 1.09375
+    },
+    {
+      "query": "fielding law mesquite tx",
+      "clicks": 5,
+      "impressions": 87,
+      "ctr": 0.05747126436781609,
+      "position": 1
+    },
+    {
+      "query": "how long does an insurance claim take",
+      "clicks": 5,
+      "impressions": 1757,
+      "ctr": 0.0028457598178713715,
+      "position": 43.20830961866818
+    },
+    {
+      "query": "how long does an insurance company have to settle a claim",
+      "clicks": 5,
+      "impressions": 492,
+      "ctr": 0.01016260162601626,
+      "position": 17.739837398373982
+    },
+    {
+      "query": "how long does it take for insurance to payout total loss",
+      "clicks": 5,
+      "impressions": 342,
+      "ctr": 0.014619883040935672,
+      "position": 12.292397660818713
+    },
+    {
+      "query": "if a cop hits your car",
+      "clicks": 5,
+      "impressions": 102,
+      "ctr": 0.049019607843137254,
+      "position": 3.0294117647058822
+    },
+    {
+      "query": "if you get hit by a stolen car in police chase, who pays for all the damages",
+      "clicks": 5,
+      "impressions": 33,
+      "ctr": 0.15151515151515152,
+      "position": 2.6969696969696972
+    },
+    {
+      "query": "injury law firms",
+      "clicks": 5,
+      "impressions": 693,
+      "ctr": 0.007215007215007215,
+      "position": 7.619047619047619
+    },
+    {
+      "query": "injury lawyers",
+      "clicks": 5,
+      "impressions": 2863,
+      "ctr": 0.0017464198393293748,
+      "position": 34.11212015368495
+    },
+    {
+      "query": "lawyer for personal injury",
+      "clicks": 5,
+      "impressions": 479,
+      "ctr": 0.010438413361169102,
+      "position": 31.494780793319414
+    },
+    {
+      "query": "lawyer for personal injury mesquite, tx",
+      "clicks": 5,
+      "impressions": 51,
+      "ctr": 0.09803921568627451,
+      "position": 2.333333333333333
+    },
+    {
+      "query": "leaving the scene of an accident, no injuries",
+      "clicks": 5,
+      "impressions": 43,
+      "ctr": 0.11627906976744186,
+      "position": 5.558139534883721
+    },
+    {
+      "query": "mesquite traffic violation lawyers",
+      "clicks": 5,
+      "impressions": 30,
+      "ctr": 0.16666666666666666,
+      "position": 36
+    },
+    {
+      "query": "mesquite, tx injury attorneys",
+      "clicks": 5,
+      "impressions": 38,
+      "ctr": 0.13157894736842105,
+      "position": 2
+    },
+    {
+      "query": "mesquite, tx injury lawyers",
+      "clicks": 5,
+      "impressions": 60,
+      "ctr": 0.08333333333333333,
+      "position": 2.1333333333333333
+    },
+    {
+      "query": "mesquite, tx lawyer for personal injury",
+      "clicks": 5,
+      "impressions": 58,
+      "ctr": 0.08620689655172414,
+      "position": 2.344827586206897
+    },
+    {
+      "query": "mesquite, tx personal injury attorney",
+      "clicks": 5,
+      "impressions": 35,
+      "ctr": 0.14285714285714285,
+      "position": 2.257142857142857
+    },
+    {
+      "query": "motorcycle accident attorney",
+      "clicks": 5,
+      "impressions": 291290,
+      "ctr": 0.0000171650245459851,
+      "position": 25.452301829791615
+    },
+    {
+      "query": "motorcycle accident lawyer texas",
+      "clicks": 5,
+      "impressions": 1400,
+      "ctr": 0.0035714285714285713,
+      "position": 10.606428571428571
+    },
+    {
+      "query": "personal injury attorneys",
+      "clicks": 5,
+      "impressions": 10280,
+      "ctr": 0.00048638132295719845,
+      "position": 52.91118677042802
+    },
+    {
+      "query": "personal injury law firms",
+      "clicks": 5,
+      "impressions": 731,
+      "ctr": 0.006839945280437756,
+      "position": 3.859097127222982
+    },
+    {
+      "query": "personal injury law firms mesquite, tx",
+      "clicks": 5,
+      "impressions": 47,
+      "ctr": 0.10638297872340426,
+      "position": 1.978723404255319
+    },
+    {
+      "query": "personal injury lawyer",
+      "clicks": 5,
+      "impressions": 17596,
+      "ctr": 0.00028415548988406454,
+      "position": 19.911570811548078
+    },
+    {
+      "query": "personal injury lawyer mesquite, tx",
+      "clicks": 5,
+      "impressions": 72,
+      "ctr": 0.06944444444444445,
+      "position": 2.625
+    },
+    {
+      "query": "police damaged my car during search",
+      "clicks": 5,
+      "impressions": 50,
+      "ctr": 0.1,
+      "position": 1.96
+    },
+    {
+      "query": "semi truck accident lawyer taylorsville",
+      "clicks": 5,
+      "impressions": 62,
+      "ctr": 0.08064516129032258,
+      "position": 1.5161290322580645
+    },
+    {
+      "query": "top accident lawyers",
+      "clicks": 5,
+      "impressions": 193,
+      "ctr": 0.025906735751295335,
+      "position": 26.243523316062177
+    },
+    {
+      "query": "top car accident lawyer mesquite tx",
+      "clicks": 5,
+      "impressions": 132,
+      "ctr": 0.03787878787878788,
+      "position": 2.0227272727272725
+    },
+    {
+      "query": "top rated personal injury lawyer mesquite, tx",
+      "clicks": 5,
+      "impressions": 29,
+      "ctr": 0.1724137931034483,
+      "position": 4.758620689655173
+    },
+    {
+      "query": "truck accident lawyer taylorsville",
+      "clicks": 5,
+      "impressions": 155,
+      "ctr": 0.03225806451612903,
+      "position": 1.935483870967742
+    },
+    {
+      "query": "two cars reversing who's at fault",
+      "clicks": 5,
+      "impressions": 38,
+      "ctr": 0.13157894736842105,
+      "position": 4.078947368421053
+    },
+    {
+      "query": "vehicle injury lawyers",
+      "clicks": 5,
+      "impressions": 141,
+      "ctr": 0.03546099290780142,
+      "position": 14.113475177304965
+    },
+    {
+      "query": "what happens if you hit someone's car and leave",
+      "clicks": 5,
+      "impressions": 132,
+      "ctr": 0.03787878787878788,
+      "position": 5.348484848484849
+    },
+    {
+      "query": "what happens if your car gets damaged in a police chase",
+      "clicks": 5,
+      "impressions": 87,
+      "ctr": 0.05747126436781609,
+      "position": 2.1839080459770113
+    },
+    {
+      "query": "what happens when a cop hits your car",
+      "clicks": 5,
+      "impressions": 77,
+      "ctr": 0.06493506493506493,
+      "position": 3.688311688311688
+    },
+    {
+      "query": "what happens when someone files a bodily injury claim against you",
+      "clicks": 5,
+      "impressions": 198,
+      "ctr": 0.025252525252525252,
+      "position": 7.222222222222222
+    },
+    {
+      "query": "who is at fault in a parking lot accident",
+      "clicks": 5,
+      "impressions": 189,
+      "ctr": 0.026455026455026454,
+      "position": 10.624338624338625
+    },
+    {
+      "query": "automobile accidents lawyer",
+      "clicks": 4,
+      "impressions": 120,
+      "ctr": 0.03333333333333333,
+      "position": 9.841666666666667
+    },
+    {
+      "query": "best injury lawyer",
+      "clicks": 4,
+      "impressions": 344,
+      "ctr": 0.011627906976744186,
+      "position": 45.85174418604651
+    },
+    {
+      "query": "can an insurance company sue me",
+      "clicks": 4,
+      "impressions": 267,
+      "ctr": 0.0149812734082397,
+      "position": 2.0149812734082397
+    },
+    {
+      "query": "can insurance company sue me",
+      "clicks": 4,
+      "impressions": 62,
+      "ctr": 0.06451612903225806,
+      "position": 2.290322580645161
+    },
+    {
+      "query": "can insurance company sue you",
+      "clicks": 4,
+      "impressions": 31,
+      "ctr": 0.12903225806451613,
+      "position": 2.161290322580645
+    },
+    {
+      "query": "can my insurance company sue me",
+      "clicks": 4,
+      "impressions": 50,
+      "ctr": 0.08,
+      "position": 2.2
+    },
+    {
+      "query": "car accident injury lawyer mesquite city tx",
+      "clicks": 4,
+      "impressions": 57,
+      "ctr": 0.07017543859649122,
+      "position": 1
+    },
+    {
+      "query": "car accident lawyer mesquite texas",
+      "clicks": 4,
+      "impressions": 166,
+      "ctr": 0.024096385542168676,
+      "position": 1.9578313253012047
+    },
+    {
+      "query": "car accident lawyer taylorsville",
+      "clicks": 4,
+      "impressions": 207,
+      "ctr": 0.01932367149758454,
+      "position": 1.9033816425120773
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:21:12.544Z"
 }

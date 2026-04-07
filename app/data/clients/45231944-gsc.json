@@ -1,156 +1,16 @@
 {
   "property": "https://www.sinklaw.com/",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 16601,
-    "impressions": 7033045,
-    "ctr": 0.002360428519936955,
-    "position": 20.112564861321793
+    "clicks": 17472,
+    "impressions": 7171105,
+    "ctr": 0.0024364445925697644,
+    "position": 19.588639336147992
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 184,
-      "impressions": 64424,
-      "ctr": 0.0028560784800695394,
-      "position": 17.668524152489756
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 195,
-      "impressions": 75734,
-      "ctr": 0.0025748012781577627,
-      "position": 17.947989014181214
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 138,
-      "impressions": 57851,
-      "ctr": 0.002385438453959309,
-      "position": 17.76956318819035
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 178,
-      "impressions": 70408,
-      "ctr": 0.002528121804340416,
-      "position": 17.599519940915805
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 167,
-      "impressions": 67075,
-      "ctr": 0.0024897502795378306,
-      "position": 20.353797987327617
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 91,
-      "impressions": 58582,
-      "ctr": 0.0015533781707691783,
-      "position": 18.863149090164214
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 126,
-      "impressions": 58640,
-      "ctr": 0.0021487039563437924,
-      "position": 20.303359481582536
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 162,
-      "impressions": 75246,
-      "ctr": 0.0021529383621720754,
-      "position": 14.574462429896606
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 143,
-      "impressions": 71606,
-      "ctr": 0.0019970393542440576,
-      "position": 19.821858503477362
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 76,
-      "impressions": 58303,
-      "ctr": 0.0013035349810472875,
-      "position": 22.050340462754917
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 65,
-      "impressions": 52279,
-      "ctr": 0.0012433290613821993,
-      "position": 20.042445341341647
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 125,
-      "impressions": 57119,
-      "ctr": 0.002188413662704179,
-      "position": 18.539942926171676
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 113,
-      "impressions": 55825,
-      "ctr": 0.002024182713837886,
-      "position": 17.48345723242275
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 99,
-      "impressions": 57725,
-      "ctr": 0.001715028150714595,
-      "position": 20.399497618016458
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 174,
-      "impressions": 69347,
-      "ctr": 0.0025091207983041802,
-      "position": 17.577890896505977
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 160,
-      "impressions": 127025,
-      "ctr": 0.0012595945679984256,
-      "position": 13.36032277110805
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 160,
-      "impressions": 65871,
-      "ctr": 0.0024289899955974555,
-      "position": 21.026430447389593
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 111,
-      "impressions": 67624,
-      "ctr": 0.0016414290784336923,
-      "position": 22.078921684609014
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 183,
-      "impressions": 102689,
-      "ctr": 0.0017820798722355852,
-      "position": 12.10613600288249
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 129,
-      "impressions": 56727,
-      "ctr": 0.0022740493944682426,
-      "position": 19.77463994217921
-    },
     {
       "date": "2026-01-04",
       "clicks": 123,
@@ -640,711 +500,3314 @@
       "impressions": 59122,
       "ctr": 0.0017759886336727445,
       "position": 17.016745035688913
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 109,
+      "impressions": 56055,
+      "ctr": 0.0019445187762019444,
+      "position": 18.224886272411023
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 189,
+      "impressions": 143801,
+      "ctr": 0.001314316312125785,
+      "position": 9.461019047155444
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 171,
+      "impressions": 73364,
+      "ctr": 0.0023308434654598985,
+      "position": 14.116910201188594
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 199,
+      "impressions": 70124,
+      "ctr": 0.0028378301294849123,
+      "position": 15.337573441332497
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 200,
+      "impressions": 70724,
+      "ctr": 0.002827894349867089,
+      "position": 17.447542559809964
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 186,
+      "impressions": 71978,
+      "ctr": 0.0025841229264497484,
+      "position": 19.349287282225124
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 119,
+      "impressions": 67588,
+      "ctr": 0.0017606675741255844,
+      "position": 20.128173640291177
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 132,
+      "impressions": 64373,
+      "ctr": 0.0020505491432743542,
+      "position": 18.863079241296816
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 242,
+      "impressions": 72422,
+      "ctr": 0.0033415260556184587,
+      "position": 16.550412857971335
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 235,
+      "impressions": 80560,
+      "ctr": 0.00291708043694141,
+      "position": 15.696288480635552
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 223,
+      "impressions": 73893,
+      "ctr": 0.0030178772008173983,
+      "position": 17.51417590299487
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 214,
+      "impressions": 74749,
+      "ctr": 0.002862914554040857,
+      "position": 18.947236752331136
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 199,
+      "impressions": 67496,
+      "ctr": 0.002948322863577101,
+      "position": 16.939670498992534
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 138,
+      "impressions": 62942,
+      "ctr": 0.0021924946776397318,
+      "position": 17.546725556861873
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 145,
+      "impressions": 61952,
+      "ctr": 0.002340521694214876,
+      "position": 18.259814049586776
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 202,
+      "impressions": 75341,
+      "ctr": 0.002681143069510625,
+      "position": 16.343889781128468
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 189,
+      "impressions": 75129,
+      "ctr": 0.0025156730423671284,
+      "position": 12.442465625790307
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 178,
+      "impressions": 65188,
+      "ctr": 0.002730563907467632,
+      "position": 14.261934711910168
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 147,
+      "impressions": 64215,
+      "ctr": 0.002289184769913572,
+      "position": 14.363964805730749
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 131,
+      "impressions": 59687,
+      "ctr": 0.0021947827835207,
+      "position": 15.434634007405297
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 102,
+      "impressions": 56579,
+      "ctr": 0.0018027890206613762,
+      "position": 14.547906467063752
     }
   ],
   "topQueries": [
     {
       "query": "george sink",
-      "clicks": 694,
-      "impressions": 6745,
-      "ctr": 0.10289103039288362,
-      "position": 2.697998517420311
+      "clicks": 673,
+      "impressions": 6410,
+      "ctr": 0.10499219968798752,
+      "position": 2.4981279251170045
     },
     {
       "query": "george sink injury lawyers",
-      "clicks": 288,
-      "impressions": 43993,
-      "ctr": 0.006546496033459868,
-      "position": 1.1883254154069967
-    },
-    {
-      "query": "george sink injury lawyer",
-      "clicks": 197,
-      "impressions": 3450,
-      "ctr": 0.05710144927536232,
-      "position": 1.26
+      "clicks": 330,
+      "impressions": 43630,
+      "ctr": 0.00756360302544121,
+      "position": 1.1583772633509053
     },
     {
       "query": "george sink law firm",
-      "clicks": 189,
-      "impressions": 44106,
-      "ctr": 0.0042851312746565095,
-      "position": 1.2100394504149095
+      "clicks": 242,
+      "impressions": 43551,
+      "ctr": 0.005556703634818948,
+      "position": 1.17094900231912
+    },
+    {
+      "query": "george sink injury lawyer",
+      "clicks": 157,
+      "impressions": 3111,
+      "ctr": 0.05046608807457409,
+      "position": 1.2497589199614272
     },
     {
       "query": "george sink law",
-      "clicks": 79,
-      "impressions": 526,
-      "ctr": 0.15019011406844107,
-      "position": 1.5114068441064639
+      "clicks": 85,
+      "impressions": 584,
+      "ctr": 0.14554794520547945,
+      "position": 1.3424657534246576
     },
     {
       "query": "george sink, p.a. injury lawyers",
-      "clicks": 55,
-      "impressions": 731,
-      "ctr": 0.07523939808481532,
-      "position": 1.8495212038303692
+      "clicks": 61,
+      "impressions": 601,
+      "ctr": 0.10149750415973377,
+      "position": 1.901830282861897
     },
     {
       "query": "sink law",
-      "clicks": 51,
-      "impressions": 43687,
-      "ctr": 0.001167395334996681,
-      "position": 1.7461487398997413
+      "clicks": 59,
+      "impressions": 42952,
+      "ctr": 0.0013736263736263737,
+      "position": 1.7636431365244924
     },
     {
       "query": "george sink p.a. injury lawyers",
-      "clicks": 48,
-      "impressions": 43460,
-      "ctr": 0.0011044638748274275,
-      "position": 1.1749884951679705
+      "clicks": 54,
+      "impressions": 42794,
+      "ctr": 0.001261859139131654,
+      "position": 1.1384539888769454
     },
     {
       "query": "george sink greenville",
-      "clicks": 44,
-      "impressions": 924,
-      "ctr": 0.047619047619047616,
-      "position": 1.9166666666666665
-    },
-    {
-      "query": "george sink pa",
-      "clicks": 36,
-      "impressions": 723,
-      "ctr": 0.04979253112033195,
-      "position": 1.5560165975103735
-    },
-    {
-      "query": "will i lose my disability if i work part-time",
-      "clicks": 36,
-      "impressions": 13418,
-      "ctr": 0.002682963183782978,
-      "position": 1.9449247279773438
+      "clicks": 50,
+      "impressions": 999,
+      "ctr": 0.05005005005005005,
+      "position": 1.84984984984985
     },
     {
       "query": "george sink columbia sc",
-      "clicks": 35,
-      "impressions": 391,
-      "ctr": 0.08951406649616368,
-      "position": 3.601023017902813
+      "clicks": 48,
+      "impressions": 421,
+      "ctr": 0.11401425178147269,
+      "position": 2.2826603325415675
     },
     {
-      "query": "george sink greenville sc",
-      "clicks": 35,
-      "impressions": 415,
-      "ctr": 0.08433734939759036,
-      "position": 3.68433734939759
-    },
-    {
-      "query": "sinklaw",
-      "clicks": 34,
-      "impressions": 61,
-      "ctr": 0.5573770491803278,
-      "position": 1.639344262295082
-    },
-    {
-      "query": "george sink pa injury lawyers",
-      "clicks": 33,
-      "impressions": 43656,
-      "ctr": 0.0007559098405717427,
-      "position": 1.1845565328935312
+      "query": "george sink pa",
+      "clicks": 43,
+      "impressions": 779,
+      "ctr": 0.055198973042362,
+      "position": 1.465982028241335
     },
     {
       "query": "george sink lawyers",
-      "clicks": 31,
-      "impressions": 221,
-      "ctr": 0.14027149321266968,
-      "position": 1.6380090497737556
+      "clicks": 37,
+      "impressions": 238,
+      "ctr": 0.15546218487394958,
+      "position": 1.3739495798319328
     },
     {
-      "query": "george sink myrtle beach",
-      "clicks": 31,
-      "impressions": 855,
-      "ctr": 0.03625730994152047,
-      "position": 1.7204678362573098
+      "query": "will i lose my disability if i work part-time",
+      "clicks": 34,
+      "impressions": 12522,
+      "ctr": 0.0027152212106692224,
+      "position": 2.1792045999041685
     },
     {
       "query": "will my disability benefits change when i turn 67 after",
-      "clicks": 26,
-      "impressions": 1162,
-      "ctr": 0.022375215146299483,
-      "position": 1.6643717728055076
+      "clicks": 34,
+      "impressions": 1270,
+      "ctr": 0.026771653543307086,
+      "position": 1.4905511811023622
+    },
+    {
+      "query": "george sink greenville sc",
+      "clicks": 33,
+      "impressions": 429,
+      "ctr": 0.07692307692307693,
+      "position": 2.5524475524475525
+    },
+    {
+      "query": "sinklaw",
+      "clicks": 33,
+      "impressions": 67,
+      "ctr": 0.4925373134328358,
+      "position": 1.582089552238806
+    },
+    {
+      "query": "george sink attorney",
+      "clicks": 32,
+      "impressions": 42403,
+      "ctr": 0.0007546635851236941,
+      "position": 1.256774284838337
+    },
+    {
+      "query": "george sink myrtle beach",
+      "clicks": 32,
+      "impressions": 896,
+      "ctr": 0.03571428571428571,
+      "position": 2.056919642857143
     },
     {
       "query": "sink law firm",
-      "clicks": 25,
-      "impressions": 43582,
-      "ctr": 0.0005736313156807857,
-      "position": 1.2236932678628791
+      "clicks": 31,
+      "impressions": 42763,
+      "ctr": 0.0007249257535720132,
+      "position": 1.1900942403479644
+    },
+    {
+      "query": "george sink pa injury lawyers",
+      "clicks": 30,
+      "impressions": 43084,
+      "ctr": 0.0006963141769566429,
+      "position": 1.1588756847089408
     },
     {
       "query": "843-569-1700",
-      "clicks": 24,
-      "impressions": 92,
-      "ctr": 0.2608695652173913,
+      "clicks": 26,
+      "impressions": 90,
+      "ctr": 0.28888888888888886,
       "position": 1
     },
     {
       "query": "can you work part time on disability",
-      "clicks": 22,
-      "impressions": 1894,
-      "ctr": 0.011615628299894404,
-      "position": 2.2771911298838434
-    },
-    {
-      "query": "is george sink sr alive",
-      "clicks": 21,
-      "impressions": 177,
-      "ctr": 0.11864406779661017,
-      "position": 1.1807909604519775
-    },
-    {
-      "query": "george sink attorney",
-      "clicks": 20,
-      "impressions": 43148,
-      "ctr": 0.00046352090479280614,
-      "position": 1.2487484935570594
+      "clicks": 23,
+      "impressions": 2014,
+      "ctr": 0.011420059582919563,
+      "position": 2.7269116186693148
     },
     {
       "query": "george sink charleston sc",
+      "clicks": 22,
+      "impressions": 598,
+      "ctr": 0.03678929765886288,
+      "position": 1.085284280936455
+    },
+    {
+      "query": "jay hewitt attorney",
+      "clicks": 21,
+      "impressions": 37,
+      "ctr": 0.5675675675675675,
+      "position": 1
+    },
+    {
+      "query": "is george sink sr alive",
       "clicks": 20,
-      "impressions": 587,
-      "ctr": 0.034071550255536626,
-      "position": 1.4497444633730834
+      "impressions": 169,
+      "ctr": 0.11834319526627218,
+      "position": 2.8106508875739644
     },
     {
       "query": "george sink augusta ga",
       "clicks": 19,
-      "impressions": 221,
-      "ctr": 0.08597285067873303,
-      "position": 5.538461538461538
+      "impressions": 212,
+      "ctr": 0.08962264150943396,
+      "position": 5.55188679245283
     },
     {
-      "query": "george sink lawyer",
+      "query": "disability lawyers near me",
       "clicks": 18,
-      "impressions": 42846,
-      "ctr": 0.0004201092283993838,
-      "position": 1.2493114876534566
+      "impressions": 5990,
+      "ctr": 0.003005008347245409,
+      "position": 43.54474123539232
     },
     {
-      "query": "charlotte car accident lawyer",
-      "clicks": 17,
-      "impressions": 5381,
-      "ctr": 0.0031592640773090504,
-      "position": 8.951496004460138
+      "query": "jay hewitt greenville sc",
+      "clicks": 18,
+      "impressions": 26,
+      "ctr": 0.6923076923076923,
+      "position": 1.0769230769230769
     },
     {
-      "query": "jay hewitt attorney",
+      "query": "8435691700",
       "clicks": 17,
-      "impressions": 30,
-      "ctr": 0.5666666666666667,
-      "position": 1
+      "impressions": 124,
+      "ctr": 0.13709677419354838,
+      "position": 1.120967741935484
     },
     {
       "query": "do you have to file taxes on disability income",
       "clicks": 16,
-      "impressions": 5771,
-      "ctr": 0.002772483105181078,
-      "position": 8.461271876624501
+      "impressions": 5810,
+      "ctr": 0.002753872633390706,
+      "position": 8.358519793459553
     },
     {
-      "query": "george sink age",
+      "query": "george sink attorneys",
       "clicks": 16,
-      "impressions": 270,
-      "ctr": 0.05925925925925926,
-      "position": 7.351851851851852
+      "impressions": 194,
+      "ctr": 0.08247422680412371,
+      "position": 2.2371134020618557
     },
     {
       "query": "george sink injury",
       "clicks": 16,
-      "impressions": 372,
-      "ctr": 0.043010752688172046,
-      "position": 1.817204301075269
-    },
-    {
-      "query": "george sink injury lawyers columbia sc",
-      "clicks": 16,
-      "impressions": 86,
-      "ctr": 0.18604651162790697,
-      "position": 4.930232558139535
-    },
-    {
-      "query": "disability lawyers near me",
-      "clicks": 15,
-      "impressions": 5985,
-      "ctr": 0.002506265664160401,
-      "position": 47.4157059314954
-    },
-    {
-      "query": "george sink attorneys",
-      "clicks": 15,
-      "impressions": 190,
-      "ctr": 0.07894736842105263,
-      "position": 2.026315789473684
-    },
-    {
-      "query": "george sink attorney at law",
-      "clicks": 14,
-      "impressions": 91,
-      "ctr": 0.15384615384615385,
-      "position": 8.780219780219781
-    },
-    {
-      "query": "george sink sr.",
-      "clicks": 14,
-      "impressions": 158,
-      "ctr": 0.08860759493670886,
-      "position": 1.1012658227848102
-    },
-    {
-      "query": "how old is george sink injury lawyer",
-      "clicks": 14,
-      "impressions": 62,
-      "ctr": 0.22580645161290322,
-      "position": 9.919354838709678
-    },
-    {
-      "query": "if you are on disability and turn 67 what happens",
-      "clicks": 14,
-      "impressions": 239,
-      "ctr": 0.058577405857740586,
-      "position": 1.2594142259414225
-    },
-    {
-      "query": "side-impact collision who's at fault",
-      "clicks": 14,
-      "impressions": 1048,
-      "ctr": 0.013358778625954198,
-      "position": 7.7853053435114505
-    },
-    {
-      "query": "8435691700",
-      "clicks": 13,
-      "impressions": 116,
-      "ctr": 0.11206896551724138,
-      "position": 1.1293103448275863
-    },
-    {
-      "query": "attorney george sink",
-      "clicks": 13,
-      "impressions": 1291,
-      "ctr": 0.010069713400464756,
-      "position": 1.3896204492641364
+      "impressions": 424,
+      "ctr": 0.03773584905660377,
+      "position": 1.6839622641509435
     },
     {
       "query": "george sink law firm charleston sc",
-      "clicks": 13,
-      "impressions": 37,
-      "ctr": 0.35135135135135137,
+      "clicks": 16,
+      "impressions": 48,
+      "ctr": 0.3333333333333333,
       "position": 1
+    },
+    {
+      "query": "george sink lawyer",
+      "clicks": 16,
+      "impressions": 42087,
+      "ctr": 0.00038016489652386724,
+      "position": 1.2550193646494168
+    },
+    {
+      "query": "charlotte car accident lawyer",
+      "clicks": 15,
+      "impressions": 5984,
+      "ctr": 0.0025066844919786097,
+      "position": 9.379512032085561
+    },
+    {
+      "query": "george sink injury lawyers columbia sc",
+      "clicks": 15,
+      "impressions": 91,
+      "ctr": 0.16483516483516483,
+      "position": 8.945054945054945
+    },
+    {
+      "query": "side impact collision who's at fault",
+      "clicks": 15,
+      "impressions": 641,
+      "ctr": 0.0234009360374415,
+      "position": 2.792511700468019
+    },
+    {
+      "query": "can i work part time on disability",
+      "clicks": 13,
+      "impressions": 1104,
+      "ctr": 0.01177536231884058,
+      "position": 3.7246376811594204
     },
     {
       "query": "is george sink still alive",
       "clicks": 13,
-      "impressions": 376,
-      "ctr": 0.034574468085106384,
-      "position": 3.023936170212766
+      "impressions": 368,
+      "ctr": 0.035326086956521736,
+      "position": 2.9972826086956523
     },
     {
       "query": "will my disability benefits change when i turn 65",
+      "clicks": 13,
+      "impressions": 1723,
+      "ctr": 0.0075449796865931515,
+      "position": 6.582124201973302
+    },
+    {
+      "query": "attorney george sink",
       "clicks": 12,
-      "impressions": 1685,
-      "ctr": 0.007121661721068249,
-      "position": 6.771513353115727
+      "impressions": 1386,
+      "ctr": 0.008658008658008658,
+      "position": 1.6356421356421356
     },
     {
-      "query": "can i work part time on disability",
+      "query": "george sink age",
       "clicks": 11,
-      "impressions": 1012,
-      "ctr": 0.010869565217391304,
-      "position": 3.3033596837944663
+      "impressions": 232,
+      "ctr": 0.04741379310344827,
+      "position": 6.443965517241379
     },
     {
-      "query": "jay hewitt greenville sc",
+      "query": "george sink attorney at law",
       "clicks": 11,
-      "impressions": 16,
-      "ctr": 0.6875,
-      "position": 1.0625
+      "impressions": 85,
+      "ctr": 0.12941176470588237,
+      "position": 9.329411764705883
+    },
+    {
+      "query": "if you are on disability and turn 67 what happens",
+      "clicks": 11,
+      "impressions": 232,
+      "ctr": 0.04741379310344827,
+      "position": 1.4008620689655173
+    },
+    {
+      "query": "will my social security disability change when i turn 66 after",
+      "clicks": 11,
+      "impressions": 312,
+      "ctr": 0.035256410256410256,
+      "position": 2.6185897435897436
+    },
+    {
+      "query": "7 most common causes of drowning",
+      "clicks": 10,
+      "impressions": 978,
+      "ctr": 0.010224948875255624,
+      "position": 5.877300613496932
+    },
+    {
+      "query": "can you get state disability and social security",
+      "clicks": 10,
+      "impressions": 71,
+      "ctr": 0.14084507042253522,
+      "position": 4
     },
     {
       "query": "concussion vs tbi",
       "clicks": 10,
-      "impressions": 1263,
-      "ctr": 0.00791765637371338,
-      "position": 4.0704671417260485
+      "impressions": 1302,
+      "ctr": 0.007680491551459293,
+      "position": 4.350230414746544
     },
     {
-      "query": "does ssdi change to ssi at age 65",
+      "query": "george sink military service",
       "clicks": 10,
-      "impressions": 177,
-      "ctr": 0.05649717514124294,
-      "position": 1.542372881355932
+      "impressions": 51,
+      "ctr": 0.19607843137254902,
+      "position": 17.568627450980394
     },
     {
-      "query": "patrick napolski",
-      "clicks": 10,
-      "impressions": 17,
-      "ctr": 0.5882352941176471,
-      "position": 1
+      "query": "chances of surviving a 80 mph car crash",
+      "clicks": 9,
+      "impressions": 110,
+      "ctr": 0.08181818181818182,
+      "position": 2.827272727272727
     },
     {
       "query": "do you pay taxes on disability",
       "clicks": 9,
-      "impressions": 1955,
-      "ctr": 0.004603580562659846,
-      "position": 14.419437340153452
+      "impressions": 2047,
+      "ctr": 0.004396678065461651,
+      "position": 13.869565217391305
+    },
+    {
+      "query": "george sink florence sc",
+      "clicks": 9,
+      "impressions": 219,
+      "ctr": 0.0410958904109589,
+      "position": 8.616438356164384
+    },
+    {
+      "query": "how old is george sink injury lawyer",
+      "clicks": 9,
+      "impressions": 71,
+      "ctr": 0.1267605633802817,
+      "position": 8.802816901408452
+    },
+    {
+      "query": "side-impact collision who's at fault",
+      "clicks": 9,
+      "impressions": 889,
+      "ctr": 0.010123734533183352,
+      "position": 8.53880764904387
+    },
+    {
+      "query": "george sink average settlements",
+      "clicks": 8,
+      "impressions": 85,
+      "ctr": 0.09411764705882353,
+      "position": 27.55294117647059
+    },
+    {
+      "query": "george sink reviews",
+      "clicks": 8,
+      "impressions": 384,
+      "ctr": 0.020833333333333332,
+      "position": 7.395833333333333
+    },
+    {
+      "query": "how to get approved for disability the first time",
+      "clicks": 8,
+      "impressions": 2262,
+      "ctr": 0.0035366931918656055,
+      "position": 8.478337754199824
+    },
+    {
+      "query": "will insurance cover accident expired license",
+      "clicks": 8,
+      "impressions": 107,
+      "ctr": 0.07476635514018691,
+      "position": 2.91588785046729
+    },
+    {
+      "query": "will my disability benefits change when i turn 67",
+      "clicks": 8,
+      "impressions": 194,
+      "ctr": 0.041237113402061855,
+      "position": 1.5412371134020617
+    },
+    {
+      "query": "does ssdi change to ssi at age 65",
+      "clicks": 7,
+      "impressions": 169,
+      "ctr": 0.04142011834319527,
+      "position": 1.5917159763313609
+    },
+    {
+      "query": "george sink net worth",
+      "clicks": 7,
+      "impressions": 606,
+      "ctr": 0.01155115511551155,
+      "position": 2.546204620462046
+    },
+    {
+      "query": "sc car seat laws",
+      "clicks": 7,
+      "impressions": 1235,
+      "ctr": 0.005668016194331984,
+      "position": 2.2502024291497973
+    },
+    {
+      "query": "sinklaw.com",
+      "clicks": 7,
+      "impressions": 23,
+      "ctr": 0.30434782608695654,
+      "position": 1
+    },
+    {
+      "query": "tbi vs concussion",
+      "clicks": 7,
+      "impressions": 1948,
+      "ctr": 0.003593429158110883,
+      "position": 4.427104722792608
+    },
+    {
+      "query": "ttd meaning",
+      "clicks": 7,
+      "impressions": 7106,
+      "ctr": 0.0009850830284266817,
+      "position": 4.331410075992119
+    },
+    {
+      "query": "weird laws in south carolina",
+      "clicks": 7,
+      "impressions": 564,
+      "ctr": 0.012411347517730497,
+      "position": 10.796099290780141
+    },
+    {
+      "query": "what happens when a car hits you from the side",
+      "clicks": 7,
+      "impressions": 547,
+      "ctr": 0.012797074954296161,
+      "position": 8.749542961608775
+    },
+    {
+      "query": "workers comp lawyer",
+      "clicks": 7,
+      "impressions": 21466,
+      "ctr": 0.00032609708376036525,
+      "position": 36.65955464455418
+    },
+    {
+      "query": "at what age does ssdi change to ssi",
+      "clicks": 6,
+      "impressions": 178,
+      "ctr": 0.033707865168539325,
+      "position": 2.033707865168539
+    },
+    {
+      "query": "diminished value claim south carolina",
+      "clicks": 6,
+      "impressions": 279,
+      "ctr": 0.021505376344086023,
+      "position": 12.695340501792115
+    },
+    {
+      "query": "disability doctors near me",
+      "clicks": 6,
+      "impressions": 290,
+      "ctr": 0.020689655172413793,
+      "position": 1.6965517241379309
+    },
+    {
+      "query": "does social security disability change when you turn 65",
+      "clicks": 6,
+      "impressions": 137,
+      "ctr": 0.043795620437956206,
+      "position": 5.036496350364963
+    },
+    {
+      "query": "george sink charleston",
+      "clicks": 6,
+      "impressions": 483,
+      "ctr": 0.012422360248447204,
+      "position": 2.9751552795031055
+    },
+    {
+      "query": "george sink injury lawyers charleston sc",
+      "clicks": 6,
+      "impressions": 20,
+      "ctr": 0.3,
+      "position": 1
+    },
+    {
+      "query": "george sink sr.",
+      "clicks": 6,
+      "impressions": 55,
+      "ctr": 0.10909090909090909,
+      "position": 1.1636363636363636
+    },
+    {
+      "query": "geroge sink",
+      "clicks": 6,
+      "impressions": 21,
+      "ctr": 0.2857142857142857,
+      "position": 1.0476190476190477
+    },
+    {
+      "query": "how old is george sink",
+      "clicks": 6,
+      "impressions": 147,
+      "ctr": 0.04081632653061224,
+      "position": 10.156462585034014
+    },
+    {
+      "query": "is a concussion a tbi",
+      "clicks": 6,
+      "impressions": 3461,
+      "ctr": 0.0017336030049118752,
+      "position": 8.180583646344987
+    },
+    {
+      "query": "robert treacy",
+      "clicks": 6,
+      "impressions": 64,
+      "ctr": 0.09375,
+      "position": 3.0625
+    },
+    {
+      "query": "sink law pllc",
+      "clicks": 6,
+      "impressions": 180,
+      "ctr": 0.03333333333333333,
+      "position": 6.011111111111111
+    },
+    {
+      "query": "ssa dds dcr transition",
+      "clicks": 6,
+      "impressions": 1182,
+      "ctr": 0.005076142131979695,
+      "position": 3.1023688663282574
+    },
+    {
+      "query": "what age does ssdi change to ssi",
+      "clicks": 6,
+      "impressions": 77,
+      "ctr": 0.07792207792207792,
+      "position": 1.8571428571428572
+    },
+    {
+      "query": "what does ttd mean",
+      "clicks": 6,
+      "impressions": 1522,
+      "ctr": 0.003942181340341655,
+      "position": 2.896846254927727
+    },
+    {
+      "query": "what happens if you become disabled while on social security",
+      "clicks": 6,
+      "impressions": 1370,
+      "ctr": 0.004379562043795621,
+      "position": 9.944525547445256
+    },
+    {
+      "query": "when does disability change to social security",
+      "clicks": 6,
+      "impressions": 483,
+      "ctr": 0.012422360248447204,
+      "position": 2.875776397515528
+    },
+    {
+      "query": "aaron edwards",
+      "clicks": 5,
+      "impressions": 434,
+      "ctr": 0.01152073732718894,
+      "position": 7.993087557603687
+    },
+    {
+      "query": "alan kennington",
+      "clicks": 5,
+      "impressions": 60,
+      "ctr": 0.08333333333333333,
+      "position": 3.8666666666666667
+    },
+    {
+      "query": "can you switch from ssdi to ssi",
+      "clicks": 5,
+      "impressions": 60,
+      "ctr": 0.08333333333333333,
+      "position": 1.4666666666666668
+    },
+    {
+      "query": "can you work while on disability",
+      "clicks": 5,
+      "impressions": 1813,
+      "ctr": 0.0027578599007170436,
+      "position": 4.743519029233315
+    },
+    {
+      "query": "car accident lawyer",
+      "clicks": 5,
+      "impressions": 55113,
+      "ctr": 0.00009072269700433655,
+      "position": 11.63848819697712
+    },
+    {
+      "query": "causes of drowning",
+      "clicks": 5,
+      "impressions": 1158,
+      "ctr": 0.004317789291882556,
+      "position": 6.586355785837651
+    },
+    {
+      "query": "disability and working part time",
+      "clicks": 5,
+      "impressions": 136,
+      "ctr": 0.03676470588235294,
+      "position": 3.463235294117647
+    },
+    {
+      "query": "does everyone get denied disability first time",
+      "clicks": 5,
+      "impressions": 54,
+      "ctr": 0.09259259259259259,
+      "position": 1.8703703703703702
+    },
+    {
+      "query": "george sink columbia",
+      "clicks": 5,
+      "impressions": 434,
+      "ctr": 0.01152073732718894,
+      "position": 1.576036866359447
+    },
+    {
+      "query": "george sink injury lawyers greenville sc",
+      "clicks": 5,
+      "impressions": 27,
+      "ctr": 0.18518518518518517,
+      "position": 1.037037037037037
+    },
+    {
+      "query": "george sink pa injury lawyers greenville reviews",
+      "clicks": 5,
+      "impressions": 153,
+      "ctr": 0.032679738562091505,
+      "position": 8.50326797385621
+    },
+    {
+      "query": "george sink phone number",
+      "clicks": 5,
+      "impressions": 580,
+      "ctr": 0.008620689655172414,
+      "position": 1.8586206896551725
+    },
+    {
+      "query": "george sink wikipedia",
+      "clicks": 5,
+      "impressions": 92,
+      "ctr": 0.05434782608695652,
+      "position": 3.1847826086956523
+    },
+    {
+      "query": "how old is george sink sr",
+      "clicks": 5,
+      "impressions": 127,
+      "ctr": 0.03937007874015748,
+      "position": 7.9921259842519685
+    },
+    {
+      "query": "minor car accident no police report",
+      "clicks": 5,
+      "impressions": 233,
+      "ctr": 0.02145922746781116,
+      "position": 29.630901287553648
+    },
+    {
+      "query": "patrick napolski",
+      "clicks": 5,
+      "impressions": 7,
+      "ctr": 0.7142857142857143,
+      "position": 1
+    },
+    {
+      "query": "side swipe car accident fault",
+      "clicks": 5,
+      "impressions": 69,
+      "ctr": 0.07246376811594203,
+      "position": 4.420289855072464
+    },
+    {
+      "query": "south carolina car seat laws",
+      "clicks": 5,
+      "impressions": 915,
+      "ctr": 0.00546448087431694,
+      "position": 3.673224043715847
+    },
+    {
+      "query": "spartanburg personal injury lawyer",
+      "clicks": 5,
+      "impressions": 1227,
+      "ctr": 0.004074979625101874,
+      "position": 14.634066829665851
+    },
+    {
+      "query": "ssdi to ssi at what age",
+      "clicks": 5,
+      "impressions": 33,
+      "ctr": 0.15151515151515152,
+      "position": 1.9696969696969697
+    },
+    {
+      "query": "tbi vs concussion symptoms",
+      "clicks": 5,
+      "impressions": 148,
+      "ctr": 0.033783783783783786,
+      "position": 2.77027027027027
+    },
+    {
+      "query": "thomas godfrey attorney",
+      "clicks": 5,
+      "impressions": 56,
+      "ctr": 0.08928571428571429,
+      "position": 7.285714285714286
+    },
+    {
+      "query": "thomas outlaw",
+      "clicks": 5,
+      "impressions": 46,
+      "ctr": 0.10869565217391304,
+      "position": 1.3260869565217392
+    },
+    {
+      "query": "what happens if you get in an accident with an expired license",
+      "clicks": 5,
+      "impressions": 70,
+      "ctr": 0.07142857142857142,
+      "position": 2.0428571428571427
+    },
+    {
+      "query": "what kind of lawyer do i need to sue a mechanic shop",
+      "clicks": 5,
+      "impressions": 110,
+      "ctr": 0.045454545454545456,
+      "position": 2.627272727272727
+    },
+    {
+      "query": "will my social security disability change when i turn 66",
+      "clicks": 5,
+      "impressions": 292,
+      "ctr": 0.017123287671232876,
+      "position": 3.2294520547945207
+    },
+    {
+      "query": "working part time on disability",
+      "clicks": 5,
+      "impressions": 334,
+      "ctr": 0.014970059880239521,
+      "position": 3.6197604790419162
+    },
+    {
+      "query": "843-999-9999",
+      "clicks": 4,
+      "impressions": 27,
+      "ctr": 0.14814814814814814,
+      "position": 1.074074074074074
+    },
+    {
+      "query": "8439999999",
+      "clicks": 4,
+      "impressions": 14,
+      "ctr": 0.2857142857142857,
+      "position": 1
+    },
+    {
+      "query": "all 9s",
+      "clicks": 4,
+      "impressions": 18,
+      "ctr": 0.2222222222222222,
+      "position": 4.111111111111111
+    },
+    {
+      "query": "best disability lawyer in south carolina",
+      "clicks": 4,
+      "impressions": 427,
+      "ctr": 0.00936768149882904,
+      "position": 7.868852459016393
+    },
+    {
+      "query": "bob jung",
+      "clicks": 4,
+      "impressions": 235,
+      "ctr": 0.01702127659574468,
+      "position": 2.817021276595745
+    },
+    {
+      "query": "can a person on disability work part time",
+      "clicks": 4,
+      "impressions": 82,
+      "ctr": 0.04878048780487805,
+      "position": 2.1829268292682924
+    },
+    {
+      "query": "can i work on ssdi",
+      "clicks": 4,
+      "impressions": 664,
+      "ctr": 0.006024096385542169,
+      "position": 5.391566265060241
+    },
+    {
+      "query": "can insurance companies get traffic camera footage",
+      "clicks": 4,
+      "impressions": 20,
+      "ctr": 0.2,
+      "position": 2.5
+    },
+    {
+      "query": "can you collect california state disability and social security at the same time",
+      "clicks": 4,
+      "impressions": 54,
+      "ctr": 0.07407407407407407,
+      "position": 1.9629629629629628
+    },
+    {
+      "query": "can you collect state disability and social security",
+      "clicks": 4,
+      "impressions": 27,
+      "ctr": 0.14814814814814814,
+      "position": 3.5925925925925926
+    },
+    {
+      "query": "can you get disability and work part time",
+      "clicks": 4,
+      "impressions": 193,
+      "ctr": 0.02072538860103627,
+      "position": 2.7979274611398965
+    },
+    {
+      "query": "disability lawyers anderson sc",
+      "clicks": 4,
+      "impressions": 112,
+      "ctr": 0.03571428571428571,
+      "position": 5.910714285714286
+    },
+    {
+      "query": "does ssdi convert to social security",
+      "clicks": 4,
+      "impressions": 52,
+      "ctr": 0.07692307692307693,
+      "position": 2.4038461538461537
+    },
+    {
+      "query": "dumb laws in south carolina",
+      "clicks": 4,
+      "impressions": 172,
+      "ctr": 0.023255813953488372,
+      "position": 13.30813953488372
+    },
+    {
+      "query": "george sink bio",
+      "clicks": 4,
+      "impressions": 74,
+      "ctr": 0.05405405405405406,
+      "position": 19.324324324324323
+    },
+    {
+      "query": "george sink birthday",
+      "clicks": 4,
+      "impressions": 66,
+      "ctr": 0.06060606060606061,
+      "position": 8.106060606060606
+    },
+    {
+      "query": "george sink spartanburg sc",
+      "clicks": 4,
+      "impressions": 117,
+      "ctr": 0.03418803418803419,
+      "position": 2.9914529914529915
+    },
+    {
+      "query": "george sink sr age",
+      "clicks": 4,
+      "impressions": 35,
+      "ctr": 0.11428571428571428,
+      "position": 1.1142857142857143
+    },
+    {
+      "query": "going from ssdi to social security",
+      "clicks": 4,
+      "impressions": 8,
+      "ctr": 0.5,
+      "position": 2.125
+    },
+    {
+      "query": "injury lawyer",
+      "clicks": 4,
+      "impressions": 22373,
+      "ctr": 0.00017878693067536764,
+      "position": 17.306977159969605
+    },
+    {
+      "query": "lower back injury settlement amount workers' compensation",
+      "clicks": 4,
+      "impressions": 314,
+      "ctr": 0.012738853503184714,
+      "position": 12.971337579617835
+    },
+    {
+      "query": "miller zois camp lejeune",
+      "clicks": 4,
+      "impressions": 25,
+      "ctr": 0.16,
+      "position": 17.92
+    },
+    {
+      "query": "paraplegic",
+      "clicks": 4,
+      "impressions": 189,
+      "ctr": 0.021164021164021163,
+      "position": 1.9947089947089947
+    },
+    {
+      "query": "personal injury lawyer greenville sc",
+      "clicks": 4,
+      "impressions": 4208,
+      "ctr": 0.0009505703422053232,
+      "position": 6.624287072243346
+    },
+    {
+      "query": "pfas testicular cancer lawsuit",
+      "clicks": 4,
+      "impressions": 204,
+      "ctr": 0.0196078431372549,
+      "position": 2.6176470588235294
+    },
+    {
+      "query": "when do you switch from disability to social security",
+      "clicks": 4,
+      "impressions": 48,
+      "ctr": 0.08333333333333333,
+      "position": 1.7291666666666665
+    },
+    {
+      "query": "all 9s lawyer",
+      "clicks": 3,
+      "impressions": 35,
+      "ctr": 0.08571428571428572,
+      "position": 1.2
+    },
+    {
+      "query": "at what age does disability become social security",
+      "clicks": 3,
+      "impressions": 113,
+      "ctr": 0.02654867256637168,
+      "position": 2.212389380530974
+    },
+    {
+      "query": "at what age does my ssdi become regular social security",
+      "clicks": 3,
+      "impressions": 44,
+      "ctr": 0.06818181818181818,
+      "position": 2.1818181818181817
+    },
+    {
+      "query": "at what age does social security disability end",
+      "clicks": 3,
+      "impressions": 352,
+      "ctr": 0.008522727272727272,
+      "position": 7.9375
+    },
+    {
+      "query": "booster seat requirements sc",
+      "clicks": 3,
+      "impressions": 1956,
+      "ctr": 0.0015337423312883436,
+      "position": 2.17280163599182
+    },
+    {
+      "query": "can my doctor apply for disability for me",
+      "clicks": 3,
+      "impressions": 15,
+      "ctr": 0.2,
+      "position": 1.2666666666666666
+    },
+    {
+      "query": "can you be on disability and work part time",
+      "clicks": 3,
+      "impressions": 45,
+      "ctr": 0.06666666666666667,
+      "position": 2.977777777777778
+    },
+    {
+      "query": "can you get disability for depression",
+      "clicks": 3,
+      "impressions": 1494,
+      "ctr": 0.002008032128514056,
+      "position": 5.822623828647925
+    },
+    {
+      "query": "can you get whiplash from a side impact",
+      "clicks": 3,
+      "impressions": 77,
+      "ctr": 0.03896103896103896,
+      "position": 2.4935064935064934
+    },
+    {
+      "query": "can you work part time and collect disability",
+      "clicks": 3,
+      "impressions": 52,
+      "ctr": 0.057692307692307696,
+      "position": 3.480769230769231
+    },
+    {
+      "query": "car accident not my fault what can i get paid",
+      "clicks": 3,
+      "impressions": 423,
+      "ctr": 0.0070921985815602835,
+      "position": 5.84869976359338
+    },
+    {
+      "query": "car accident with no damage",
+      "clicks": 3,
+      "impressions": 423,
+      "ctr": 0.0070921985815602835,
+      "position": 21.44208037825059
+    },
+    {
+      "query": "choc latéral qui est en tort",
+      "clicks": 3,
+      "impressions": 4,
+      "ctr": 0.75,
+      "position": 2
+    },
+    {
+      "query": "colin snow",
+      "clicks": 3,
+      "impressions": 137,
+      "ctr": 0.021897810218978103,
+      "position": 2.6934306569343063
+    },
+    {
+      "query": "dale lang",
+      "clicks": 3,
+      "impressions": 222,
+      "ctr": 0.013513513513513514,
+      "position": 3.5585585585585586
+    },
+    {
+      "query": "derek brown attorney",
+      "clicks": 3,
+      "impressions": 22,
+      "ctr": 0.13636363636363635,
+      "position": 10.818181818181818
+    },
+    {
+      "query": "did george sink die",
+      "clicks": 3,
+      "impressions": 34,
+      "ctr": 0.08823529411764706,
+      "position": 1.1470588235294117
+    },
+    {
+      "query": "difference between concussion and tbi",
+      "clicks": 3,
+      "impressions": 275,
+      "ctr": 0.01090909090909091,
+      "position": 3.2981818181818183
+    },
+    {
+      "query": "disability attorneys near me",
+      "clicks": 3,
+      "impressions": 143,
+      "ctr": 0.02097902097902098,
+      "position": 25.86013986013986
+    },
+    {
+      "query": "disability for anxiety and depression",
+      "clicks": 3,
+      "impressions": 420,
+      "ctr": 0.007142857142857143,
+      "position": 7.116666666666666
+    },
+    {
+      "query": "do most people get denied disability the first time",
+      "clicks": 3,
+      "impressions": 46,
+      "ctr": 0.06521739130434782,
+      "position": 2.5869565217391304
+    },
+    {
+      "query": "do you file taxes on disability",
+      "clicks": 3,
+      "impressions": 2163,
+      "ctr": 0.0013869625520110957,
+      "position": 9.32871012482663
+    },
+    {
+      "query": "do you have to file taxes if you are on disability",
+      "clicks": 3,
+      "impressions": 117,
+      "ctr": 0.02564102564102564,
+      "position": 4.401709401709402
+    },
+    {
+      "query": "does anyone get approved for disability the first time",
+      "clicks": 3,
+      "impressions": 43,
+      "ctr": 0.06976744186046512,
+      "position": 1.8604651162790697
+    },
+    {
+      "query": "does disability change to social security at 65",
+      "clicks": 3,
+      "impressions": 35,
+      "ctr": 0.08571428571428572,
+      "position": 1.9714285714285715
+    },
+    {
+      "query": "does disability pay more than social security? explain how ssdi is calculated",
+      "clicks": 3,
+      "impressions": 8,
+      "ctr": 0.375,
+      "position": 11
+    },
+    {
+      "query": "fender bender insurance increase",
+      "clicks": 3,
+      "impressions": 176,
+      "ctr": 0.017045454545454544,
+      "position": 7.795454545454546
+    },
+    {
+      "query": "george sink atlanta",
+      "clicks": 3,
+      "impressions": 385,
+      "ctr": 0.007792207792207792,
+      "position": 1
+    },
+    {
+      "query": "george sink injury attorneys",
+      "clicks": 3,
+      "impressions": 95,
+      "ctr": 0.031578947368421054,
+      "position": 1
+    },
+    {
+      "query": "george sink north charleston",
+      "clicks": 3,
+      "impressions": 36,
+      "ctr": 0.08333333333333333,
+      "position": 1.0277777777777777
+    },
+    {
+      "query": "george sink number",
+      "clicks": 3,
+      "impressions": 37,
+      "ctr": 0.08108108108108109,
+      "position": 2.2972972972972974
+    },
+    {
+      "query": "george sink sr",
+      "clicks": 3,
+      "impressions": 77,
+      "ctr": 0.03896103896103896,
+      "position": 14.064935064935066
+    },
+    {
+      "query": "george sink veterans and military family scholarship",
+      "clicks": 3,
+      "impressions": 9,
+      "ctr": 0.3333333333333333,
+      "position": 5.555555555555555
+    },
+    {
+      "query": "george sinks",
+      "clicks": 3,
+      "impressions": 366,
+      "ctr": 0.00819672131147541,
+      "position": 1.2978142076502732
+    },
+    {
+      "query": "georgesink",
+      "clicks": 3,
+      "impressions": 7,
+      "ctr": 0.42857142857142855,
+      "position": 1
+    },
+    {
+      "query": "how much will a fender bender raise my insurance",
+      "clicks": 3,
+      "impressions": 108,
+      "ctr": 0.027777777777777776,
+      "position": 3.2037037037037037
+    },
+    {
+      "query": "hukum mobil ditabrak motor dari samping",
+      "clicks": 3,
+      "impressions": 6,
+      "ctr": 0.5,
+      "position": 3
+    },
+    {
+      "query": "law firms near me",
+      "clicks": 3,
+      "impressions": 16,
+      "ctr": 0.1875,
+      "position": 11.6875
+    },
+    {
+      "query": "paula amick",
+      "clicks": 3,
+      "impressions": 12,
+      "ctr": 0.25,
+      "position": 1.75
+    },
+    {
+      "query": "personal injury attorney",
+      "clicks": 3,
+      "impressions": 16525,
+      "ctr": 0.0001815431164901664,
+      "position": 8.595158850226928
+    },
+    {
+      "query": "personal injury lawyer",
+      "clicks": 3,
+      "impressions": 32242,
+      "ctr": 0.00009304633707586378,
+      "position": 8.058960362260406
+    },
+    {
+      "query": "personal injury legal terms",
+      "clicks": 3,
+      "impressions": 401,
+      "ctr": 0.007481296758104738,
+      "position": 3.690773067331671
+    },
+    {
+      "query": "personal injury terms",
+      "clicks": 3,
+      "impressions": 769,
+      "ctr": 0.0039011703511053317,
+      "position": 22.014304291287385
+    },
+    {
+      "query": "rachel harris attorney",
+      "clicks": 3,
+      "impressions": 11,
+      "ctr": 0.2727272727272727,
+      "position": 5.545454545454546
+    },
+    {
+      "query": "savannah car accident lawyer",
+      "clicks": 3,
+      "impressions": 3184,
+      "ctr": 0.0009422110552763819,
+      "position": 9.885050251256281
+    },
+    {
+      "query": "sideswipe accident who's at fault",
+      "clicks": 3,
+      "impressions": 80,
+      "ctr": 0.0375,
+      "position": 4.05
+    },
+    {
+      "query": "social security",
+      "clicks": 3,
+      "impressions": 106,
+      "ctr": 0.02830188679245283,
+      "position": 3.481132075471698
+    },
+    {
+      "query": "south carolina car accident lawyer",
+      "clicks": 3,
+      "impressions": 4362,
+      "ctr": 0.000687757909215956,
+      "position": 4.84181568088033
+    },
+    {
+      "query": "ssdi retirement age",
+      "clicks": 3,
+      "impressions": 92,
+      "ctr": 0.03260869565217391,
+      "position": 1.9782608695652173
+    },
+    {
+      "query": "tom outlaw",
+      "clicks": 3,
+      "impressions": 29,
+      "ctr": 0.10344827586206896,
+      "position": 1.103448275862069
+    },
+    {
+      "query": "what age does ssdi change to retirement",
+      "clicks": 3,
+      "impressions": 62,
+      "ctr": 0.04838709677419355,
+      "position": 3.6774193548387095
+    },
+    {
+      "query": "what causes drowning",
+      "clicks": 3,
+      "impressions": 194,
+      "ctr": 0.015463917525773196,
+      "position": 4.221649484536083
+    },
+    {
+      "query": "what happens to ssdi when you reach retirement age",
+      "clicks": 3,
+      "impressions": 37,
+      "ctr": 0.08108108108108109,
+      "position": 2.1891891891891895
+    },
+    {
+      "query": "when does social security disability convert to regular social security",
+      "clicks": 3,
+      "impressions": 218,
+      "ctr": 0.013761467889908258,
+      "position": 2.1972477064220186
+    },
+    {
+      "query": "when does social security disability turn into regular social security",
+      "clicks": 3,
+      "impressions": 69,
+      "ctr": 0.043478260869565216,
+      "position": 1.4782608695652173
+    },
+    {
+      "query": "when does ssdi become social security",
+      "clicks": 3,
+      "impressions": 50,
+      "ctr": 0.06,
+      "position": 2.24
+    },
+    {
+      "query": "when does ssdi change to ssi",
+      "clicks": 3,
+      "impressions": 286,
+      "ctr": 0.01048951048951049,
+      "position": 2.2412587412587412
+    },
+    {
+      "query": "when does ssdi switch to social security",
+      "clicks": 3,
+      "impressions": 72,
+      "ctr": 0.041666666666666664,
+      "position": 2.958333333333333
+    },
+    {
+      "query": "who is at fault if you get hit from the side",
+      "clicks": 3,
+      "impressions": 213,
+      "ctr": 0.014084507042253521,
+      "position": 14.84037558685446
+    },
+    {
+      "query": "will my ssdi change when i turn 62",
+      "clicks": 3,
+      "impressions": 70,
+      "ctr": 0.04285714285714286,
+      "position": 5.585714285714285
+    },
+    {
+      "query": "will my ssdi change when i turn 65",
+      "clicks": 3,
+      "impressions": 29,
+      "ctr": 0.10344827586206896,
+      "position": 4.344827586206897
+    },
+    {
+      "query": "workers comp back injury settlement",
+      "clicks": 3,
+      "impressions": 487,
+      "ctr": 0.006160164271047228,
+      "position": 8.451745379876797
     }
   ],
   "topPages": [
     {
       "page": "https://www.sinklaw.com/faqs/at-what-age-does-social-security-disability-turn-into-regular-social-security/",
-      "clicks": 3908,
-      "impressions": 336399,
-      "ctr": 0.011617157007006561,
-      "position": 5.609740219203981
+      "clicks": 4173,
+      "impressions": 355102,
+      "ctr": 0.011751553074891159,
+      "position": 5.396947919189416
     },
     {
       "page": "https://www.sinklaw.com/",
-      "clicks": 1641,
-      "impressions": 613923,
-      "ctr": 0.00267297364653222,
-      "position": 12.912705665042685
+      "clicks": 1729,
+      "impressions": 606706,
+      "ctr": 0.002849815231759699,
+      "position": 12.424431273137236
     },
     {
       "page": "https://www.sinklaw.com/faqs/can-you-work-part-time-on-social-security-disability/",
-      "clicks": 505,
-      "impressions": 130183,
-      "ctr": 0.0038791547283439465,
-      "position": 5.342917277985605
+      "clicks": 530,
+      "impressions": 124952,
+      "ctr": 0.004241628785453614,
+      "position": 5.466827261668481
     },
     {
       "page": "https://www.sinklaw.com/attorneys/",
-      "clicks": 354,
-      "impressions": 383939,
-      "ctr": 0.0009220214669517814,
-      "position": 4.383823992873868
+      "clicks": 365,
+      "impressions": 370411,
+      "ctr": 0.0009853919025082948,
+      "position": 5.285531477196952
     },
     {
       "page": "https://www.sinklaw.com/car-accident/faqs/sideswipe/",
-      "clicks": 279,
-      "impressions": 43706,
-      "ctr": 0.006383562897542672,
-      "position": 5.382579050931223
-    },
-    {
-      "page": "https://www.sinklaw.com/attorneys/george-sink/",
-      "clicks": 278,
-      "impressions": 317993,
-      "ctr": 0.0008742330806024032,
-      "position": 2.4858031466101456
-    },
-    {
-      "page": "https://www.sinklaw.com/car-accident/faqs/effect-expired-license/",
-      "clicks": 266,
-      "impressions": 25477,
-      "ctr": 0.01044078973191506,
-      "position": 5.408211327864349
+      "clicks": 309,
+      "impressions": 47448,
+      "ctr": 0.006512392513909965,
+      "position": 5.421176867307368
     },
     {
       "page": "https://www.sinklaw.com/car-accident/faqs/no-damage-vehicle/",
-      "clicks": 265,
-      "impressions": 56510,
-      "ctr": 0.004689435498141921,
-      "position": 5.647655282250929
+      "clicks": 283,
+      "impressions": 52862,
+      "ctr": 0.005353562105103855,
+      "position": 5.393288184329007
     },
     {
       "page": "https://www.sinklaw.com/faqs/can-both-parties-be-at-fault-in-side-impact-accident/",
-      "clicks": 263,
-      "impressions": 27076,
-      "ctr": 0.009713399320431379,
-      "position": 5.43477618555178
+      "clicks": 277,
+      "impressions": 27553,
+      "ctr": 0.01005335172213552,
+      "position": 5.033245018691249
     },
     {
-      "page": "https://www.sinklaw.com/faqs/does-anyone-get-approved-for-disability-the-first-time/",
+      "page": "https://www.sinklaw.com/attorneys/george-sink/",
+      "clicks": 258,
+      "impressions": 291031,
+      "ctr": 0.0008865034996271875,
+      "position": 2.623785782270617
+    },
+    {
+      "page": "https://www.sinklaw.com/car-accident/faqs/effect-expired-license/",
       "clicks": 247,
-      "impressions": 20802,
-      "ctr": 0.011873858282857417,
-      "position": 5.3170368233823675
+      "impressions": 24916,
+      "ctr": 0.009913308717290095,
+      "position": 5.3512200995344354
     },
     {
       "page": "https://www.sinklaw.com/charleston/?utm_source=google&utm_medium=north-charleston-sc",
-      "clicks": 208,
-      "impressions": 101358,
-      "ctr": 0.002052132046804396,
-      "position": 4.35787998973934
+      "clicks": 235,
+      "impressions": 98864,
+      "ctr": 0.002377002751254248,
+      "position": 4.710936235636835
+    },
+    {
+      "page": "https://www.sinklaw.com/faqs/does-anyone-get-approved-for-disability-the-first-time/",
+      "clicks": 233,
+      "impressions": 19438,
+      "ctr": 0.011986829920773743,
+      "position": 5.082210103920157
     },
     {
       "page": "https://www.sinklaw.com/car-accident/faqs/hit-animal/",
-      "clicks": 194,
-      "impressions": 42797,
-      "ctr": 0.004533028015982429,
-      "position": 7.799728952963993
+      "clicks": 226,
+      "impressions": 47315,
+      "ctr": 0.004776497939342703,
+      "position": 6.960984888513156
     },
     {
       "page": "https://www.sinklaw.com/faqs/can-my-doctor-put-me-on-disability/",
-      "clicks": 183,
-      "impressions": 33969,
-      "ctr": 0.005387264859136271,
-      "position": 2.7574553269157174
-    },
-    {
-      "page": "https://www.sinklaw.com/faqs/what-is-the-difference-between-concussion-and-traumatic-brain-injury/",
-      "clicks": 180,
-      "impressions": 27210,
-      "ctr": 0.006615214994487321,
-      "position": 6.6954796030871
+      "clicks": 198,
+      "impressions": 33431,
+      "ctr": 0.005922646645329185,
+      "position": 2.758068858245341
     },
     {
       "page": "https://www.sinklaw.com/faqs/can-you-collect-social-security-disability-and-state-disability-at-the-same-time/",
-      "clicks": 176,
-      "impressions": 25461,
-      "ctr": 0.006912532893444876,
-      "position": 10.252228899100585
+      "clicks": 197,
+      "impressions": 25801,
+      "ctr": 0.007635362970427503,
+      "position": 9.946746250145344
     },
     {
       "page": "https://www.sinklaw.com/greenville/?utm_source=google&utm_medium=greenville-sc",
-      "clicks": 169,
-      "impressions": 135250,
-      "ctr": 0.0012495378927911275,
-      "position": 2.8983068391866915
+      "clicks": 176,
+      "impressions": 135679,
+      "ctr": 0.001297179371899852,
+      "position": 2.9586671481953726
+    },
+    {
+      "page": "https://www.sinklaw.com/faqs/what-is-the-difference-between-concussion-and-traumatic-brain-injury/",
+      "clicks": 170,
+      "impressions": 28979,
+      "ctr": 0.005866316988163843,
+      "position": 6.35115083336209
     },
     {
       "page": "https://www.sinklaw.com/columbia/?utm_source=google&utm_medium=columbia-sc",
-      "clicks": 159,
-      "impressions": 133532,
-      "ctr": 0.0011907258185303896,
-      "position": 3.6037054788365337
-    },
-    {
-      "page": "https://www.sinklaw.com/car-accident/faqs/didnt-report/",
-      "clicks": 144,
-      "impressions": 13203,
-      "ctr": 0.010906612133605999,
-      "position": 15.546921154283117
-    },
-    {
-      "page": "https://www.sinklaw.com/faqs/how-much-will-my-insurance-go-up-after-a-fender-bender/",
-      "clicks": 143,
-      "impressions": 29996,
-      "ctr": 0.004767302306974263,
-      "position": 7.748166422189625
+      "clicks": 158,
+      "impressions": 131985,
+      "ctr": 0.0011971057317119369,
+      "position": 3.67283403417055
     },
     {
       "page": "https://www.sinklaw.com/car-accident/faqs/will-insurance-use-video-surveillance/",
-      "clicks": 134,
-      "impressions": 22897,
-      "ctr": 0.005852295060488274,
-      "position": 4.234048128575796
+      "clicks": 140,
+      "impressions": 23638,
+      "ctr": 0.005922666892292072,
+      "position": 4.200820712412217
     },
     {
       "page": "https://www.sinklaw.com/attorneys/jay-hewitt/",
-      "clicks": 129,
-      "impressions": 1632,
-      "ctr": 0.07904411764705882,
-      "position": 11.721813725490197
+      "clicks": 137,
+      "impressions": 1890,
+      "ctr": 0.07248677248677249,
+      "position": 11.296825396825398
     },
     {
       "page": "https://www.sinklaw.com/faqs/can-i-sue-a-mechanic-or-auto-repair-shop-for-negligence-in-ga/",
-      "clicks": 125,
-      "impressions": 16731,
-      "ctr": 0.007471161317315163,
-      "position": 12.193712270635347
+      "clicks": 137,
+      "impressions": 15452,
+      "ctr": 0.008866166192078695,
+      "position": 12.468094745016826
     },
     {
-      "page": "https://www.sinklaw.com/car-accident/car-seat-laws/",
-      "clicks": 123,
-      "impressions": 46429,
-      "ctr": 0.0026492063150186304,
-      "position": 6.2618406599323695
-    },
-    {
-      "page": "https://www.sinklaw.com/car-accident/no-insurance/",
-      "clicks": 122,
-      "impressions": 29698,
-      "ctr": 0.004108020742137518,
-      "position": 14.326183581385951
-    },
-    {
-      "page": "https://www.sinklaw.com/car-accident/faqs/can-you-survive-wreck-80-mph/",
-      "clicks": 119,
-      "impressions": 21523,
-      "ctr": 0.00552896900989639,
-      "position": 4.898201923523672
-    },
-    {
-      "page": "https://www.sinklaw.com/greenville/",
-      "clicks": 114,
-      "impressions": 453161,
-      "ctr": 0.0002515662203940763,
-      "position": 22.345978581563728
-    },
-    {
-      "page": "https://www.sinklaw.com/blog/south-carolina-senate-honors-george-sink/",
-      "clicks": 112,
-      "impressions": 7215,
-      "ctr": 0.015523215523215523,
-      "position": 6.152598752598752
-    },
-    {
-      "page": "https://www.sinklaw.com/faqs/do-you-have-to-file-taxes-on-disability-income/",
-      "clicks": 112,
-      "impressions": 47106,
-      "ctr": 0.0023776164395193818,
-      "position": 8.754914448265612
-    },
-    {
-      "page": "https://www.sinklaw.com/blog/the-5-most-common-causes-of-drowning/",
-      "clicks": 110,
-      "impressions": 27200,
-      "ctr": 0.004044117647058824,
-      "position": 3.561691176470588
+      "page": "https://www.sinklaw.com/car-accident/faqs/didnt-report/",
+      "clicks": 135,
+      "impressions": 12599,
+      "ctr": 0.010715136121914437,
+      "position": 14.344154297960156
     },
     {
       "page": "https://www.sinklaw.com/car-accident/faqs/open-car-door/",
-      "clicks": 103,
-      "impressions": 21436,
-      "ctr": 0.00480500093300989,
-      "position": 5.13803881321142
+      "clicks": 135,
+      "impressions": 21738,
+      "ctr": 0.006210322936792714,
+      "position": 4.9181157420185855
+    },
+    {
+      "page": "https://www.sinklaw.com/car-accident/car-seat-laws/",
+      "clicks": 134,
+      "impressions": 47217,
+      "ctr": 0.0028379609039117268,
+      "position": 5.874197852468391
+    },
+    {
+      "page": "https://www.sinklaw.com/blog/the-5-most-common-causes-of-drowning/",
+      "clicks": 118,
+      "impressions": 27436,
+      "ctr": 0.004300918501239248,
+      "position": 3.4572459542207317
+    },
+    {
+      "page": "https://www.sinklaw.com/faqs/do-you-have-to-file-taxes-on-disability-income/",
+      "clicks": 117,
+      "impressions": 47357,
+      "ctr": 0.0024705956880714574,
+      "position": 8.774774584538717
+    },
+    {
+      "page": "https://www.sinklaw.com/greenville/",
+      "clicks": 115,
+      "impressions": 418210,
+      "ctr": 0.00027498146864015683,
+      "position": 21.99326893187633
+    },
+    {
+      "page": "https://www.sinklaw.com/car-accident/no-insurance/",
+      "clicks": 114,
+      "impressions": 27262,
+      "ctr": 0.004181644780280243,
+      "position": 13.384564595407527
+    },
+    {
+      "page": "https://www.sinklaw.com/faqs/how-much-will-my-insurance-go-up-after-a-fender-bender/",
+      "clicks": 114,
+      "impressions": 30686,
+      "ctr": 0.003715049208107932,
+      "position": 7.8120641334810665
     },
     {
       "page": "https://www.sinklaw.com/car-accident/faqs/public-records/",
-      "clicks": 103,
-      "impressions": 10089,
-      "ctr": 0.010209138665873724,
-      "position": 6.385865794429577
+      "clicks": 113,
+      "impressions": 9535,
+      "ctr": 0.011851074986890404,
+      "position": 6.046670162558994
     },
     {
-      "page": "https://www.sinklaw.com/about/careers/",
-      "clicks": 99,
-      "impressions": 3480,
-      "ctr": 0.028448275862068967,
-      "position": 13.735919540229885
+      "page": "https://www.sinklaw.com/car-accident/faqs/can-you-survive-wreck-80-mph/",
+      "clicks": 112,
+      "impressions": 20435,
+      "ctr": 0.005480792757523856,
+      "position": 4.914509420112552
     },
     {
       "page": "https://www.sinklaw.com/myrtle-beach/?utm_source=google&utm_medium=myrtle-beach-sc",
-      "clicks": 99,
-      "impressions": 89305,
-      "ctr": 0.001108560550921001,
-      "position": 3.7206539387492303
+      "clicks": 110,
+      "impressions": 87103,
+      "ctr": 0.0012628726909520913,
+      "position": 3.9007382064911655
+    },
+    {
+      "page": "https://www.sinklaw.com/about/careers/",
+      "clicks": 101,
+      "impressions": 3419,
+      "ctr": 0.029540801403919275,
+      "position": 13.24948815443112
     },
     {
       "page": "https://www.sinklaw.com/faqs/can-i-sue-a-mechanic-or-auto-repair-shop-for-negligence-in-sc/",
-      "clicks": 90,
-      "impressions": 9762,
-      "ctr": 0.00921942224953903,
-      "position": 31.78518746158574
+      "clicks": 95,
+      "impressions": 9767,
+      "ctr": 0.009726630490426947,
+      "position": 28.204464011467184
+    },
+    {
+      "page": "https://www.sinklaw.com/blog/south-carolina-senate-honors-george-sink/",
+      "clicks": 91,
+      "impressions": 6712,
+      "ctr": 0.013557806912991657,
+      "position": 6.245977353992848
     },
     {
       "page": "https://www.sinklaw.com/faqs/can-you-get-cash-assistance-while-waiting-for-disability/",
-      "clicks": 87,
-      "impressions": 9972,
-      "ctr": 0.008724428399518652,
-      "position": 11.13818692338548
+      "clicks": 89,
+      "impressions": 9840,
+      "ctr": 0.009044715447154471,
+      "position": 11.185467479674797
     },
     {
       "page": "https://www.sinklaw.com/blog/license-suspended-in-sc-possible-ways-to-get-it/",
-      "clicks": 77,
-      "impressions": 12239,
-      "ctr": 0.006291363673502737,
-      "position": 4.9437045510254105
+      "clicks": 80,
+      "impressions": 12251,
+      "ctr": 0.006530079177210024,
+      "position": 4.721737001061138
     },
     {
       "page": "https://www.sinklaw.com/car-accident/diminished-value/",
-      "clicks": 73,
-      "impressions": 24431,
-      "ctr": 0.002988007040235766,
-      "position": 46.75465596987434
-    },
-    {
-      "page": "https://www.sinklaw.com/columbia/",
-      "clicks": 73,
-      "impressions": 154015,
-      "ctr": 0.0004739798071616401,
-      "position": 13.144524883939877
+      "clicks": 79,
+      "impressions": 21647,
+      "ctr": 0.003649466438767497,
+      "position": 42.6073358894997
     },
     {
       "page": "https://www.sinklaw.com/augusta/?utm_source=google&utm_medium=augusta-ga",
-      "clicks": 71,
-      "impressions": 89053,
-      "ctr": 0.0007972780254455212,
-      "position": 3.9430226943505553
+      "clicks": 73,
+      "impressions": 79683,
+      "ctr": 0.0009161301657819108,
+      "position": 4.332768595559906
     },
     {
-      "page": "https://www.sinklaw.com/faqs/how-can-you-tell-who-caused-an-accident/",
-      "clicks": 66,
-      "impressions": 23024,
-      "ctr": 0.0028665740097289782,
-      "position": 4.8358669214732455
+      "page": "https://www.sinklaw.com/columbia/",
+      "clicks": 70,
+      "impressions": 158572,
+      "ctr": 0.0004414398506672048,
+      "position": 12.528163862472567
+    },
+    {
+      "page": "https://www.sinklaw.com/faqs/how-long-after-accident-can-you-get-whiplash/",
+      "clicks": 64,
+      "impressions": 22382,
+      "ctr": 0.002859440621928335,
+      "position": 8.285497274595658
     },
     {
       "page": "https://www.sinklaw.com/car-accident/faqs/insurance-cover-legal-fees/",
-      "clicks": 65,
-      "impressions": 27129,
-      "ctr": 0.0023959600427586715,
-      "position": 6.979579048250949
+      "clicks": 63,
+      "impressions": 24517,
+      "ctr": 0.0025696455520659136,
+      "position": 7.044826039074928
+    },
+    {
+      "page": "https://www.sinklaw.com/faqs/how-much-should-i-settle-for-back-injury-in-workers-compensation-claim/",
+      "clicks": 63,
+      "impressions": 23970,
+      "ctr": 0.0026282853566958696,
+      "position": 12.435753024614101
+    },
+    {
+      "page": "https://www.sinklaw.com/faqs/do-you-have-to-pay-taxes-on-social-security-disability/",
+      "clicks": 61,
+      "impressions": 33950,
+      "ctr": 0.001796759941089838,
+      "position": 10.814963181148748
+    },
+    {
+      "page": "https://www.sinklaw.com/practice-areas/",
+      "clicks": 60,
+      "impressions": 327509,
+      "ctr": 0.00018320107233694342,
+      "position": 2.0674424214296403
     },
     {
       "page": "https://www.sinklaw.com/video-center/community-involvement/scholarship-award/",
       "clicks": 60,
-      "impressions": 439,
-      "ctr": 0.1366742596810934,
-      "position": 41.829157175398635
+      "impressions": 473,
+      "ctr": 0.12684989429175475,
+      "position": 40.83932346723044
     },
     {
       "page": "https://www.sinklaw.com/about/awards-honors/united-states-marine-corps-veteran/",
-      "clicks": 58,
-      "impressions": 6465,
-      "ctr": 0.00897138437741686,
-      "position": 2.5283836040216547
+      "clicks": 56,
+      "impressions": 6728,
+      "ctr": 0.008323424494649227,
+      "position": 2.4610582639714624
+    },
+    {
+      "page": "https://www.sinklaw.com/charleston/",
+      "clicks": 56,
+      "impressions": 186011,
+      "ctr": 0.00030105746434350654,
+      "position": 10.941304546505314
     },
     {
       "page": "https://www.sinklaw.com/car-accident/faqs/hit-parked-car/",
-      "clicks": 58,
-      "impressions": 45811,
-      "ctr": 0.0012660714675514614,
-      "position": 12.16725240662723
+      "clicks": 55,
+      "impressions": 42358,
+      "ctr": 0.001298456017753435,
+      "position": 11.956301052929788
     },
     {
-      "page": "https://www.sinklaw.com/faqs/how-much-should-i-settle-for-back-injury-in-workers-compensation-claim/",
-      "clicks": 58,
-      "impressions": 24233,
-      "ctr": 0.002393430446085916,
-      "position": 13.164445178062971
-    },
-    {
-      "page": "https://www.sinklaw.com/practice-areas/",
-      "clicks": 57,
-      "impressions": 341501,
-      "ctr": 0.00016691019938448203,
-      "position": 2.0219882225820713
-    },
-    {
-      "page": "https://www.sinklaw.com/attorneys/alan-kennington/",
-      "clicks": 54,
-      "impressions": 2574,
-      "ctr": 0.02097902097902098,
-      "position": 12.507770007770008
-    },
-    {
-      "page": "https://www.sinklaw.com/attorneys/thomas-outlaw/",
-      "clicks": 54,
-      "impressions": 1108,
-      "ctr": 0.048736462093862815,
-      "position": 14.453068592057761
+      "page": "https://www.sinklaw.com/faqs/what-happens-after-a-wrongful-death-deposition/",
+      "clicks": 55,
+      "impressions": 5911,
+      "ctr": 0.009304686178311622,
+      "position": 13.378616139401117
     },
     {
       "page": "https://www.sinklaw.com/personal-injury/faqs/what-qualifies-pain-suffering/",
-      "clicks": 54,
-      "impressions": 6719,
-      "ctr": 0.008036910254502158,
-      "position": 24.695936895371336
-    },
-    {
-      "page": "https://www.sinklaw.com/faqs/do-you-have-to-pay-taxes-on-social-security-disability/",
       "clicks": 53,
-      "impressions": 31171,
-      "ctr": 0.0017002983542395175,
-      "position": 12.594045747650059
+      "impressions": 6553,
+      "ctr": 0.008087898672363803,
+      "position": 22.539294979398747
     }
   ],
-  "fetchedAt": "2026-03-18T13:08:02.919Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "george sink",
+      "clicks": 788,
+      "impressions": 6227,
+      "ctr": 0.12654568813232697,
+      "position": 1.2638509715753974
+    },
+    {
+      "query": "will i lose my disability if i work part-time",
+      "clicks": 764,
+      "impressions": 26320,
+      "ctr": 0.029027355623100305,
+      "position": 3.862424012158055
+    },
+    {
+      "query": "george sink injury lawyers",
+      "clicks": 247,
+      "impressions": 38219,
+      "ctr": 0.006462754127528193,
+      "position": 1.1720610167717627
+    },
+    {
+      "query": "accident lawyer near me",
+      "clicks": 133,
+      "impressions": 19839,
+      "ctr": 0.006703966933817229,
+      "position": 53.63617117798276
+    },
+    {
+      "query": "george sink law firm",
+      "clicks": 97,
+      "impressions": 38052,
+      "ctr": 0.002549143277620099,
+      "position": 1.1577840849364027
+    },
+    {
+      "query": "george sink injury lawyer",
+      "clicks": 91,
+      "impressions": 2399,
+      "ctr": 0.03793247186327636,
+      "position": 1.1475614839516466
+    },
+    {
+      "query": "george sink charleston sc",
+      "clicks": 84,
+      "impressions": 852,
+      "ctr": 0.09859154929577464,
+      "position": 1.0152582159624413
+    },
+    {
+      "query": "sumter motorcycle accident lawyer",
+      "clicks": 73,
+      "impressions": 539,
+      "ctr": 0.13543599257884972,
+      "position": 1.5398886827458256
+    },
+    {
+      "query": "george sink age",
+      "clicks": 66,
+      "impressions": 935,
+      "ctr": 0.07058823529411765,
+      "position": 2.6342245989304813
+    },
+    {
+      "query": "george sink columbia sc",
+      "clicks": 59,
+      "impressions": 456,
+      "ctr": 0.12938596491228072,
+      "position": 1
+    },
+    {
+      "query": "george sink, p.a. injury lawyers",
+      "clicks": 58,
+      "impressions": 1328,
+      "ctr": 0.043674698795180725,
+      "position": 1.055722891566265
+    },
+    {
+      "query": "george sink greenville",
+      "clicks": 52,
+      "impressions": 625,
+      "ctr": 0.0832,
+      "position": 1.4416
+    },
+    {
+      "query": "george sink greenville sc",
+      "clicks": 51,
+      "impressions": 673,
+      "ctr": 0.07578008915304606,
+      "position": 1.3372956909361071
+    },
+    {
+      "query": "sink law firm",
+      "clicks": 50,
+      "impressions": 37904,
+      "ctr": 0.0013191219924018572,
+      "position": 1.1337325875897002
+    },
+    {
+      "query": "sink law",
+      "clicks": 46,
+      "impressions": 37394,
+      "ctr": 0.0012301438733486655,
+      "position": 1.1719794619457666
+    },
+    {
+      "query": "george sink attorney",
+      "clicks": 44,
+      "impressions": 37582,
+      "ctr": 0.0011707732425097121,
+      "position": 1.1614868820179873
+    },
+    {
+      "query": "george sink pa",
+      "clicks": 42,
+      "impressions": 215,
+      "ctr": 0.19534883720930232,
+      "position": 1.1488372093023256
+    },
+    {
+      "query": "do you have to file taxes on disability income?",
+      "clicks": 41,
+      "impressions": 5331,
+      "ctr": 0.007690864753329581,
+      "position": 9.268805102232227
+    },
+    {
+      "query": "george sink law",
+      "clicks": 41,
+      "impressions": 179,
+      "ctr": 0.22905027932960895,
+      "position": 1.3128491620111733
+    },
+    {
+      "query": "george sink myrtle beach",
+      "clicks": 39,
+      "impressions": 479,
+      "ctr": 0.081419624217119,
+      "position": 1.651356993736952
+    },
+    {
+      "query": "george sink lawyers",
+      "clicks": 38,
+      "impressions": 187,
+      "ctr": 0.20320855614973263,
+      "position": 1.3315508021390374
+    },
+    {
+      "query": "george sink pa injury lawyers",
+      "clicks": 38,
+      "impressions": 38188,
+      "ctr": 0.0009950769875353514,
+      "position": 1.1281816277364618
+    },
+    {
+      "query": "843-569-1700",
+      "clicks": 29,
+      "impressions": 111,
+      "ctr": 0.26126126126126126,
+      "position": 1
+    },
+    {
+      "query": "accident lawyer",
+      "clicks": 29,
+      "impressions": 8838,
+      "ctr": 0.003281285358678434,
+      "position": 10.421814890246662
+    },
+    {
+      "query": "side-impact collision who's at fault",
+      "clicks": 29,
+      "impressions": 1039,
+      "ctr": 0.02791145332050048,
+      "position": 3.6400384985563043
+    },
+    {
+      "query": "south carolina car accident lawyer",
+      "clicks": 29,
+      "impressions": 3187,
+      "ctr": 0.009099466582993411,
+      "position": 2.354251647317226
+    },
+    {
+      "query": "patrick napolski",
+      "clicks": 28,
+      "impressions": 45,
+      "ctr": 0.6222222222222222,
+      "position": 1
+    },
+    {
+      "query": "can you work part time on disability",
+      "clicks": 27,
+      "impressions": 2370,
+      "ctr": 0.01139240506329114,
+      "position": 5.776371308016878
+    },
+    {
+      "query": "booster seat requirements sc",
+      "clicks": 26,
+      "impressions": 1643,
+      "ctr": 0.01582471089470481,
+      "position": 2.7674984783931835
+    },
+    {
+      "query": "george sink pa columbia sc",
+      "clicks": 25,
+      "impressions": 61,
+      "ctr": 0.4098360655737705,
+      "position": 2.9508196721311473
+    },
+    {
+      "query": "tbi vs concussion",
+      "clicks": 25,
+      "impressions": 2017,
+      "ctr": 0.012394645513138325,
+      "position": 3.950421417947447
+    },
+    {
+      "query": "8435691700",
+      "clicks": 22,
+      "impressions": 102,
+      "ctr": 0.21568627450980393,
+      "position": 1
+    },
+    {
+      "query": "sink law pllc",
+      "clicks": 22,
+      "impressions": 190,
+      "ctr": 0.11578947368421053,
+      "position": 1.7
+    },
+    {
+      "query": "alan kennington",
+      "clicks": 21,
+      "impressions": 79,
+      "ctr": 0.26582278481012656,
+      "position": 2.4177215189873418
+    },
+    {
+      "query": "causes of drowning",
+      "clicks": 20,
+      "impressions": 1794,
+      "ctr": 0.011148272017837236,
+      "position": 6.55685618729097
+    },
+    {
+      "query": "clemson car accident lawyer",
+      "clicks": 20,
+      "impressions": 72,
+      "ctr": 0.2777777777777778,
+      "position": 3.013888888888889
+    },
+    {
+      "query": "george sink p.a. injury lawyers",
+      "clicks": 20,
+      "impressions": 37966,
+      "ctr": 0.0005267871253226571,
+      "position": 1.1303271348048254
+    },
+    {
+      "query": "do you have to file taxes on disability income if you",
+      "clicks": 19,
+      "impressions": 1993,
+      "ctr": 0.009533366783743101,
+      "position": 9.246362267937782
+    },
+    {
+      "query": "george sink lawyer",
+      "clicks": 19,
+      "impressions": 37525,
+      "ctr": 0.0005063291139240507,
+      "position": 1.1836642238507662
+    },
+    {
+      "query": "can i work part time on disability",
+      "clicks": 18,
+      "impressions": 1104,
+      "ctr": 0.016304347826086956,
+      "position": 4.997282608695652
+    },
+    {
+      "query": "car accident lawyer grand strand",
+      "clicks": 18,
+      "impressions": 68,
+      "ctr": 0.2647058823529412,
+      "position": 4.014705882352941
+    },
+    {
+      "query": "chances of surviving a 80 mph car crash",
+      "clicks": 18,
+      "impressions": 235,
+      "ctr": 0.07659574468085106,
+      "position": 2.072340425531915
+    },
+    {
+      "query": "george sink attorneys",
+      "clicks": 18,
+      "impressions": 99,
+      "ctr": 0.18181818181818182,
+      "position": 1.1111111111111112
+    },
+    {
+      "query": "george sink reviews",
+      "clicks": 18,
+      "impressions": 882,
+      "ctr": 0.02040816326530612,
+      "position": 2.165532879818594
+    },
+    {
+      "query": "how to get approved for disability the first time",
+      "clicks": 17,
+      "impressions": 2111,
+      "ctr": 0.008053055423969682,
+      "position": 7.475130270014211
+    },
+    {
+      "query": "sinklaw",
+      "clicks": 17,
+      "impressions": 48,
+      "ctr": 0.3541666666666667,
+      "position": 1
+    },
+    {
+      "query": "disability lawyers near me",
+      "clicks": 16,
+      "impressions": 26756,
+      "ctr": 0.0005979967110180894,
+      "position": 46.685752728359994
+    },
+    {
+      "query": "george sink attorney at law",
+      "clicks": 16,
+      "impressions": 113,
+      "ctr": 0.1415929203539823,
+      "position": 1.8053097345132745
+    },
+    {
+      "query": "how to tell who hit whom in a car accident",
+      "clicks": 16,
+      "impressions": 91,
+      "ctr": 0.17582417582417584,
+      "position": 2.230769230769231
+    },
+    {
+      "query": "george sink injury lawyers columbia sc",
+      "clicks": 15,
+      "impressions": 139,
+      "ctr": 0.1079136690647482,
+      "position": 1.014388489208633
+    },
+    {
+      "query": "attorney george sink",
+      "clicks": 14,
+      "impressions": 1381,
+      "ctr": 0.010137581462708182,
+      "position": 1.333816075307748
+    },
+    {
+      "query": "concussion vs tbi",
+      "clicks": 14,
+      "impressions": 1291,
+      "ctr": 0.010844306738962044,
+      "position": 4.832687838884586
+    },
+    {
+      "query": "george sink jr",
+      "clicks": 14,
+      "impressions": 1267,
+      "ctr": 0.011049723756906077,
+      "position": 4.177584846093133
+    },
+    {
+      "query": "ttd meaning",
+      "clicks": 14,
+      "impressions": 7422,
+      "ctr": 0.001886284020479655,
+      "position": 4.658178388574508
+    },
+    {
+      "query": "when does ssdi change to ssi",
+      "clicks": 14,
+      "impressions": 449,
+      "ctr": 0.031180400890868598,
+      "position": 4.1915367483296215
+    },
+    {
+      "query": "7 most common causes of drowning",
+      "clicks": 13,
+      "impressions": 2250,
+      "ctr": 0.0057777777777777775,
+      "position": 6.809777777777778
+    },
+    {
+      "query": "diminished value claim south carolina",
+      "clicks": 13,
+      "impressions": 250,
+      "ctr": 0.052,
+      "position": 1.908
+    },
+    {
+      "query": "george sink veterans and military family scholarship",
+      "clicks": 13,
+      "impressions": 22,
+      "ctr": 0.5909090909090909,
+      "position": 1
+    },
+    {
+      "query": "car accident lawyer",
+      "clicks": 12,
+      "impressions": 40532,
+      "ctr": 0.00029606237047271293,
+      "position": 23.29401460574361
+    },
+    {
+      "query": "greenwood car accident lawyer",
+      "clicks": 12,
+      "impressions": 1040,
+      "ctr": 0.011538461538461539,
+      "position": 16.89326923076923
+    },
+    {
+      "query": "lower back injury settlement amount workers' compensation",
+      "clicks": 12,
+      "impressions": 551,
+      "ctr": 0.021778584392014518,
+      "position": 6.852994555353902
+    },
+    {
+      "query": "what kind of lawyer do i need to sue a mechanic shop",
+      "clicks": 12,
+      "impressions": 195,
+      "ctr": 0.06153846153846154,
+      "position": 4.194871794871795
+    },
+    {
+      "query": "8439999999",
+      "clicks": 11,
+      "impressions": 48,
+      "ctr": 0.22916666666666666,
+      "position": 1
+    },
+    {
+      "query": "aaron edwards attorney",
+      "clicks": 11,
+      "impressions": 66,
+      "ctr": 0.16666666666666666,
+      "position": 7
+    },
+    {
+      "query": "accident lawyers near me",
+      "clicks": 11,
+      "impressions": 26972,
+      "ctr": 0.0004078303425774878,
+      "position": 45.087905976568294
+    },
+    {
+      "query": "george sink birthday",
+      "clicks": 11,
+      "impressions": 276,
+      "ctr": 0.03985507246376811,
+      "position": 2.579710144927536
+    },
+    {
+      "query": "greenwood motorcycle accident lawyer",
+      "clicks": 11,
+      "impressions": 743,
+      "ctr": 0.014804845222072678,
+      "position": 15.56393001345895
+    },
+    {
+      "query": "personal injury lawyer",
+      "clicks": 11,
+      "impressions": 45794,
+      "ctr": 0.00024020614054242915,
+      "position": 11.305323841551296
+    },
+    {
+      "query": "back injury settlement with surgery workers' comp",
+      "clicks": 10,
+      "impressions": 475,
+      "ctr": 0.021052631578947368,
+      "position": 7.7642105263157895
+    },
+    {
+      "query": "difference between tbi and concussion",
+      "clicks": 10,
+      "impressions": 272,
+      "ctr": 0.03676470588235294,
+      "position": 3.3088235294117645
+    },
+    {
+      "query": "george sink va disability",
+      "clicks": 10,
+      "impressions": 27,
+      "ctr": 0.37037037037037035,
+      "position": 1.925925925925926
+    },
+    {
+      "query": "greenwood truck accident lawyer",
+      "clicks": 10,
+      "impressions": 604,
+      "ctr": 0.016556291390728478,
+      "position": 7.902317880794702
+    },
+    {
+      "query": "personal injury attorney",
+      "clicks": 10,
+      "impressions": 35498,
+      "ctr": 0.00028170601160628766,
+      "position": 15.96729393205251
+    },
+    {
+      "query": "thomas godfrey attorney",
+      "clicks": 10,
+      "impressions": 50,
+      "ctr": 0.2,
+      "position": 3.72
+    },
+    {
+      "query": "why a lawyer won't take your car accident case",
+      "clicks": 10,
+      "impressions": 44,
+      "ctr": 0.22727272727272727,
+      "position": 4.863636363636363
+    },
+    {
+      "query": "best car accident lawyers",
+      "clicks": 9,
+      "impressions": 296,
+      "ctr": 0.030405405405405407,
+      "position": 12.655405405405405
+    },
+    {
+      "query": "disability part time work",
+      "clicks": 9,
+      "impressions": 40,
+      "ctr": 0.225,
+      "position": 2.9
+    },
+    {
+      "query": "george sink average settlements",
+      "clicks": 9,
+      "impressions": 68,
+      "ctr": 0.1323529411764706,
+      "position": 4.5588235294117645
+    },
+    {
+      "query": "george sink injury",
+      "clicks": 9,
+      "impressions": 103,
+      "ctr": 0.08737864077669903,
+      "position": 1.1359223300970873
+    },
+    {
+      "query": "how old is george sink",
+      "clicks": 9,
+      "impressions": 293,
+      "ctr": 0.030716723549488054,
+      "position": 3.3822525597269624
+    },
+    {
+      "query": "part time disability",
+      "clicks": 9,
+      "impressions": 652,
+      "ctr": 0.013803680981595092,
+      "position": 4.605828220858896
+    },
+    {
+      "query": "will my social security disability change when i turn 66",
+      "clicks": 9,
+      "impressions": 1962,
+      "ctr": 0.0045871559633027525,
+      "position": 10.15290519877676
+    },
+    {
+      "query": "can you get cash assistance while waiting for disability",
+      "clicks": 8,
+      "impressions": 350,
+      "ctr": 0.022857142857142857,
+      "position": 9.391428571428571
+    },
+    {
+      "query": "can you work part time on ssdi",
+      "clicks": 8,
+      "impressions": 309,
+      "ctr": 0.025889967637540454,
+      "position": 5.084142394822006
+    },
+    {
+      "query": "difference between concussion and tbi",
+      "clicks": 8,
+      "impressions": 252,
+      "ctr": 0.031746031746031744,
+      "position": 4.7103174603174605
+    },
+    {
+      "query": "do you have to file taxes on disability income",
+      "clicks": 8,
+      "impressions": 2047,
+      "ctr": 0.0039081582804103565,
+      "position": 9.384465070835368
+    },
+    {
+      "query": "george sink anderson sc",
+      "clicks": 8,
+      "impressions": 82,
+      "ctr": 0.0975609756097561,
+      "position": 4.085365853658537
+    },
+    {
+      "query": "how long does negotiation take settlement car accident",
+      "clicks": 8,
+      "impressions": 343,
+      "ctr": 0.023323615160349854,
+      "position": 5.965014577259475
+    },
+    {
+      "query": "mark williamson attorney",
+      "clicks": 8,
+      "impressions": 81,
+      "ctr": 0.09876543209876543,
+      "position": 5.901234567901234
+    },
+    {
+      "query": "north charleston motorcycle accident lawyer",
+      "clicks": 8,
+      "impressions": 476,
+      "ctr": 0.01680672268907563,
+      "position": 7.7478991596638656
+    },
+    {
+      "query": "ssdi part time work",
+      "clicks": 8,
+      "impressions": 67,
+      "ctr": 0.11940298507462686,
+      "position": 3.0597014925373136
+    },
+    {
+      "query": "what are the causes of drowning",
+      "clicks": 8,
+      "impressions": 51,
+      "ctr": 0.1568627450980392,
+      "position": 3.980392156862745
+    },
+    {
+      "query": "what happens if you get into an accident with an expired license",
+      "clicks": 8,
+      "impressions": 83,
+      "ctr": 0.0963855421686747,
+      "position": 3.180722891566265
+    },
+    {
+      "query": "what happens when a car hits you from the side",
+      "clicks": 8,
+      "impressions": 468,
+      "ctr": 0.017094017094017096,
+      "position": 8.395299145299145
+    },
+    {
+      "query": "843-999-9999",
+      "clicks": 7,
+      "impressions": 76,
+      "ctr": 0.09210526315789473,
+      "position": 1.013157894736842
+    },
+    {
+      "query": "accident attorney near me",
+      "clicks": 7,
+      "impressions": 9499,
+      "ctr": 0.0007369196757553427,
+      "position": 45.620486366986
+    },
+    {
+      "query": "can i work part time on ssdi",
+      "clicks": 7,
+      "impressions": 145,
+      "ctr": 0.04827586206896552,
+      "position": 4.882758620689655
+    },
+    {
+      "query": "can you switch from ssdi to ssi",
+      "clicks": 7,
+      "impressions": 36,
+      "ctr": 0.19444444444444445,
+      "position": 3
+    },
+    {
+      "query": "can you work part time and get disability",
+      "clicks": 7,
+      "impressions": 112,
+      "ctr": 0.0625,
+      "position": 3.4732142857142856
+    },
+    {
+      "query": "car accident lawyers near me",
+      "clicks": 7,
+      "impressions": 11612,
+      "ctr": 0.0006028246641405443,
+      "position": 46.02583534274888
+    },
+    {
+      "query": "colin snow",
+      "clicks": 7,
+      "impressions": 75,
+      "ctr": 0.09333333333333334,
+      "position": 2.8533333333333335
+    },
+    {
+      "query": "george sink charleston",
+      "clicks": 7,
+      "impressions": 118,
+      "ctr": 0.059322033898305086,
+      "position": 1.0084745762711864
+    },
+    {
+      "query": "george sink charlotte nc",
+      "clicks": 7,
+      "impressions": 69,
+      "ctr": 0.10144927536231885,
+      "position": 4.739130434782609
+    },
+    {
+      "query": "george sink florence sc",
+      "clicks": 7,
+      "impressions": 110,
+      "ctr": 0.06363636363636363,
+      "position": 3.881818181818182
+    },
+    {
+      "query": "george sink spartanburg sc",
+      "clicks": 7,
+      "impressions": 130,
+      "ctr": 0.05384615384615385,
+      "position": 2.9923076923076923
+    },
+    {
+      "query": "george sink, p.a.",
+      "clicks": 7,
+      "impressions": 37,
+      "ctr": 0.1891891891891892,
+      "position": 1.027027027027027
+    },
+    {
+      "query": "geroge sink",
+      "clicks": 7,
+      "impressions": 25,
+      "ctr": 0.28,
+      "position": 1.08
+    },
+    {
+      "query": "ssdi working part time",
+      "clicks": 7,
+      "impressions": 95,
+      "ctr": 0.07368421052631578,
+      "position": 3.2842105263157895
+    },
+    {
+      "query": "when does disability turn into social security",
+      "clicks": 7,
+      "impressions": 356,
+      "ctr": 0.019662921348314606,
+      "position": 4.955056179775281
+    },
+    {
+      "query": "working part time on disability",
+      "clicks": 7,
+      "impressions": 211,
+      "ctr": 0.03317535545023697,
+      "position": 5.113744075829384
+    },
+    {
+      "query": "999-9999 lawyer",
+      "clicks": 6,
+      "impressions": 42,
+      "ctr": 0.14285714285714285,
+      "position": 6.095238095238095
+    },
+    {
+      "query": "accident without insurance",
+      "clicks": 6,
+      "impressions": 3527,
+      "ctr": 0.001701162461015027,
+      "position": 16.24666855684718
+    },
+    {
+      "query": "best car accient lawyers",
+      "clicks": 6,
+      "impressions": 73,
+      "ctr": 0.0821917808219178,
+      "position": 8.273972602739725
+    },
+    {
+      "query": "can you work part time while on disability",
+      "clicks": 6,
+      "impressions": 165,
+      "ctr": 0.03636363636363636,
+      "position": 4.036363636363636
+    },
+    {
+      "query": "george sink columbia",
+      "clicks": 6,
+      "impressions": 107,
+      "ctr": 0.056074766355140186,
+      "position": 1.514018691588785
+    },
+    {
+      "query": "george sink commercial",
+      "clicks": 6,
+      "impressions": 472,
+      "ctr": 0.012711864406779662,
+      "position": 3.3283898305084745
+    },
+    {
+      "query": "george sink injury lawyers greenville sc",
+      "clicks": 6,
+      "impressions": 51,
+      "ctr": 0.11764705882352941,
+      "position": 5
+    },
+    {
+      "query": "george sink net worth",
+      "clicks": 6,
+      "impressions": 547,
+      "ctr": 0.010968921389396709,
+      "position": 4.316270566727605
+    },
+    {
+      "query": "george sink phone number",
+      "clicks": 6,
+      "impressions": 747,
+      "ctr": 0.008032128514056224,
+      "position": 1.8781793842034806
+    },
+    {
+      "query": "personal injury deposition",
+      "clicks": 6,
+      "impressions": 261,
+      "ctr": 0.022988505747126436,
+      "position": 5.931034482758621
+    },
+    {
+      "query": "tbi concussion",
+      "clicks": 6,
+      "impressions": 208,
+      "ctr": 0.028846153846153848,
+      "position": 22.10576923076923
+    },
+    {
+      "query": "truck accident lawyer greenwood",
+      "clicks": 6,
+      "impressions": 407,
+      "ctr": 0.014742014742014743,
+      "position": 9.235872235872236
+    },
+    {
+      "query": "what is the average settlement for a back injury workers' comp",
+      "clicks": 6,
+      "impressions": 560,
+      "ctr": 0.010714285714285714,
+      "position": 7.4125
+    },
+    {
+      "query": "when does social security disability convert to regular social security",
+      "clicks": 6,
+      "impressions": 413,
+      "ctr": 0.014527845036319613,
+      "position": 4.820823244552058
+    },
+    {
+      "query": "will my disability benefits change when i turn 65",
+      "clicks": 6,
+      "impressions": 592,
+      "ctr": 0.010135135135135136,
+      "position": 16.089527027027025
+    },
+    {
+      "query": "aiken car accident lawyer",
+      "clicks": 5,
+      "impressions": 1081,
+      "ctr": 0.004625346901017576,
+      "position": 5.657724329324699
+    },
+    {
+      "query": "all 9s lawyer",
+      "clicks": 5,
+      "impressions": 51,
+      "ctr": 0.09803921568627451,
+      "position": 3.196078431372549
+    },
+    {
+      "query": "bob jung",
+      "clicks": 5,
+      "impressions": 443,
+      "ctr": 0.011286681715575621,
+      "position": 5.708803611738149
+    },
+    {
+      "query": "booster seat laws sc",
+      "clicks": 5,
+      "impressions": 856,
+      "ctr": 0.005841121495327103,
+      "position": 5.491822429906542
+    },
+    {
+      "query": "can you work part-time on ssi",
+      "clicks": 5,
+      "impressions": 358,
+      "ctr": 0.013966480446927373,
+      "position": 10.223463687150838
+    },
+    {
+      "query": "car accident with expired license",
+      "clicks": 5,
+      "impressions": 106,
+      "ctr": 0.04716981132075472,
+      "position": 3.490566037735849
+    },
+    {
+      "query": "dale lang",
+      "clicks": 5,
+      "impressions": 94,
+      "ctr": 0.05319148936170213,
+      "position": 1.7446808510638299
+    },
+    {
+      "query": "diminished value claim sc",
+      "clicks": 5,
+      "impressions": 54,
+      "ctr": 0.09259259259259259,
+      "position": 2.648148148148148
+    },
+    {
+      "query": "does expired driving license invalidate insurance",
+      "clicks": 5,
+      "impressions": 147,
+      "ctr": 0.034013605442176874,
+      "position": 3.741496598639456
+    },
+    {
+      "query": "fender bender insurance increase",
+      "clicks": 5,
+      "impressions": 202,
+      "ctr": 0.024752475247524754,
+      "position": 5.217821782178218
+    },
+    {
+      "query": "george sink bio",
+      "clicks": 5,
+      "impressions": 400,
+      "ctr": 0.0125,
+      "position": 1.26
+    },
+    {
+      "query": "george sink south carolina",
+      "clicks": 5,
+      "impressions": 34,
+      "ctr": 0.14705882352941177,
+      "position": 1.8529411764705883
+    },
+    {
+      "query": "greenville personal injury lawyer",
+      "clicks": 5,
+      "impressions": 3835,
+      "ctr": 0.001303780964797914,
+      "position": 7.903780964797914
+    },
+    {
+      "query": "how much can you work on disability",
+      "clicks": 5,
+      "impressions": 437,
+      "ctr": 0.011441647597254004,
+      "position": 8.876430205949656
+    },
+    {
+      "query": "how much does a fender bender raise insurance",
+      "clicks": 5,
+      "impressions": 100,
+      "ctr": 0.05,
+      "position": 3.11
+    },
+    {
+      "query": "if a car hits you from the side who's at fault",
+      "clicks": 5,
+      "impressions": 67,
+      "ctr": 0.07462686567164178,
+      "position": 5.477611940298507
+    },
+    {
+      "query": "is george sink dead",
+      "clicks": 5,
+      "impressions": 57,
+      "ctr": 0.08771929824561403,
+      "position": 4.789473684210526
+    },
+    {
+      "query": "michael hart attorney",
+      "clicks": 5,
+      "impressions": 63,
+      "ctr": 0.07936507936507936,
+      "position": 5.666666666666667
+    },
+    {
+      "query": "motorcycle accident lawyer greenwood",
+      "clicks": 5,
+      "impressions": 236,
+      "ctr": 0.0211864406779661,
+      "position": 11.190677966101696
+    },
+    {
+      "query": "personal injury lawyer near me",
+      "clicks": 5,
+      "impressions": 98498,
+      "ctr": 0.000050762452029482834,
+      "position": 61.719253182805744
+    },
+    {
+      "query": "personal injury lawyer spartanburg sc",
+      "clicks": 5,
+      "impressions": 1099,
+      "ctr": 0.004549590536851683,
+      "position": 6.373066424021838
+    },
+    {
+      "query": "robert treacy",
+      "clicks": 5,
+      "impressions": 56,
+      "ctr": 0.08928571428571429,
+      "position": 2.25
+    },
+    {
+      "query": "sinklaw.com",
+      "clicks": 5,
+      "impressions": 22,
+      "ctr": 0.22727272727272727,
+      "position": 1
+    },
+    {
+      "query": "slip and fall claims",
+      "clicks": 5,
+      "impressions": 286,
+      "ctr": 0.017482517482517484,
+      "position": 43.39510489510489
+    },
+    {
+      "query": "someone hit my car but no damage",
+      "clicks": 5,
+      "impressions": 82,
+      "ctr": 0.06097560975609756,
+      "position": 3.0365853658536586
+    },
+    {
+      "query": "south carolina booster seat laws",
+      "clicks": 5,
+      "impressions": 627,
+      "ctr": 0.007974481658692184,
+      "position": 5.67304625199362
+    },
+    {
+      "query": "truck accident lawyer walterboro sc",
+      "clicks": 5,
+      "impressions": 105,
+      "ctr": 0.047619047619047616,
+      "position": 7.40952380952381
+    },
+    {
+      "query": "when does disability change to social security",
+      "clicks": 5,
+      "impressions": 149,
+      "ctr": 0.03355704697986577,
+      "position": 6.926174496644295
+    },
+    {
+      "query": "who is at fault if you get hit from the side",
+      "clicks": 5,
+      "impressions": 447,
+      "ctr": 0.011185682326621925,
+      "position": 3.4272930648769573
+    },
+    {
+      "query": "working part time on ssdi",
+      "clicks": 5,
+      "impressions": 108,
+      "ctr": 0.046296296296296294,
+      "position": 3.009259259259259
+    },
+    {
+      "query": "accident attorneys",
+      "clicks": 4,
+      "impressions": 2159,
+      "ctr": 0.0018527095877721167,
+      "position": 12.147290412227884
+    },
+    {
+      "query": "at what age does ssdi turn into retirement",
+      "clicks": 4,
+      "impressions": 96,
+      "ctr": 0.041666666666666664,
+      "position": 3.8333333333333335
+    },
+    {
+      "query": "auto accident lawyer",
+      "clicks": 4,
+      "impressions": 10673,
+      "ctr": 0.0003747774758737,
+      "position": 16.178768855991756
+    },
+    {
+      "query": "back injury settlement without surgery workers' comp",
+      "clicks": 4,
+      "impressions": 187,
+      "ctr": 0.0213903743315508,
+      "position": 10.203208556149733
+    },
+    {
+      "query": "best disability lawyer in south carolina",
+      "clicks": 4,
+      "impressions": 527,
+      "ctr": 0.007590132827324478,
+      "position": 10.193548387096774
+    },
+    {
+      "query": "brian badger",
+      "clicks": 4,
+      "impressions": 51,
+      "ctr": 0.0784313725490196,
+      "position": 1.215686274509804
+    },
+    {
+      "query": "can i work part time and collect social security disability",
+      "clicks": 4,
+      "impressions": 40,
+      "ctr": 0.1,
+      "position": 3.875
+    },
+    {
+      "query": "can i work part time while on disability",
+      "clicks": 4,
+      "impressions": 144,
+      "ctr": 0.027777777777777776,
+      "position": 4.152777777777778
+    },
+    {
+      "query": "can you switch from disability to social security",
+      "clicks": 4,
+      "impressions": 81,
+      "ctr": 0.04938271604938271,
+      "position": 4.901234567901234
+    },
+    {
+      "query": "car accident lawyer greenwood",
+      "clicks": 4,
+      "impressions": 498,
+      "ctr": 0.008032128514056224,
+      "position": 12.751004016064257
+    },
+    {
+      "query": "car accident lawyer greenwood sc",
+      "clicks": 4,
+      "impressions": 130,
+      "ctr": 0.03076923076923077,
+      "position": 1.6307692307692307
+    },
+    {
+      "query": "car accident lawyer near me",
+      "clicks": 4,
+      "impressions": 64548,
+      "ctr": 0.00006196938712276135,
+      "position": 64.04353349445374
+    },
+    {
+      "query": "car accident without insurance",
+      "clicks": 4,
+      "impressions": 4230,
+      "ctr": 0.0009456264775413711,
+      "position": 22.513002364066192
+    },
+    {
+      "query": "chances of surviving a car crash at 90 mph",
+      "clicks": 4,
+      "impressions": 58,
+      "ctr": 0.06896551724137931,
+      "position": 8.672413793103448
+    },
+    {
+      "query": "chris warren attorney",
+      "clicks": 4,
+      "impressions": 23,
+      "ctr": 0.17391304347826086,
+      "position": 6.913043478260869
+    },
+    {
+      "query": "do minor accidents affect insurance",
+      "clicks": 4,
+      "impressions": 43,
+      "ctr": 0.09302325581395349,
+      "position": 5.27906976744186
+    },
+    {
+      "query": "experienced car accident lawyer in south carolina",
+      "clicks": 4,
+      "impressions": 53,
+      "ctr": 0.07547169811320754,
+      "position": 4.735849056603774
+    },
+    {
+      "query": "florence motorcycle accident lawyer",
+      "clicks": 4,
+      "impressions": 730,
+      "ctr": 0.005479452054794521,
+      "position": 17.286301369863015
+    },
+    {
+      "query": "george sink injury lawyers charleston sc",
+      "clicks": 4,
+      "impressions": 39,
+      "ctr": 0.10256410256410256,
+      "position": 1.5128205128205128
+    },
+    {
+      "query": "george sink pa columbia reviews",
+      "clicks": 4,
+      "impressions": 103,
+      "ctr": 0.038834951456310676,
+      "position": 5.786407766990291
+    },
+    {
+      "query": "greenville car accident lawyer",
+      "clicks": 4,
+      "impressions": 4336,
+      "ctr": 0.0009225092250922509,
+      "position": 9.566651291512915
+    },
+    {
+      "query": "how long does it take to get disability approval letter",
+      "clicks": 4,
+      "impressions": 139,
+      "ctr": 0.02877697841726619,
+      "position": 3.028776978417266
+    },
+    {
+      "query": "how much does insurance go up after a fender bender",
+      "clicks": 4,
+      "impressions": 107,
+      "ctr": 0.037383177570093455,
+      "position": 4.16822429906542
+    },
+    {
+      "query": "how to tell who sideswiped who",
+      "clicks": 4,
+      "impressions": 353,
+      "ctr": 0.0113314447592068,
+      "position": 35.773371104815865
+    },
+    {
+      "query": "if someone hit my car and there is no damage",
+      "clicks": 4,
+      "impressions": 40,
+      "ctr": 0.1,
+      "position": 3.9
+    },
+    {
+      "query": "is a concussion a tbi",
+      "clicks": 4,
+      "impressions": 3260,
+      "ctr": 0.001226993865030675,
+      "position": 11.323926380368098
+    },
+    {
+      "query": "mechanic lawyer",
+      "clicks": 4,
+      "impressions": 11,
+      "ctr": 0.36363636363636365,
+      "position": 26.09090909090909
+    },
+    {
+      "query": "motorcycle accident lawyer walterboro sc",
+      "clicks": 4,
+      "impressions": 77,
+      "ctr": 0.05194805194805195,
+      "position": 1.0129870129870129
+    },
+    {
+      "query": "patrick scarlett",
+      "clicks": 4,
+      "impressions": 63,
+      "ctr": 0.06349206349206349,
+      "position": 1.0952380952380953
+    },
+    {
+      "query": "social security disability part time work",
+      "clicks": 4,
+      "impressions": 34,
+      "ctr": 0.11764705882352941,
+      "position": 4.382352941176471
+    },
+    {
+      "query": "south carolina car accident injury lawyer",
+      "clicks": 4,
+      "impressions": 81,
+      "ctr": 0.04938271604938271,
+      "position": 3.888888888888889
+    },
+    {
+      "query": "south carolina car seat laws",
+      "clicks": 4,
+      "impressions": 1216,
+      "ctr": 0.003289473684210526,
+      "position": 4.890625
+    },
+    {
+      "query": "south carolina child seat laws",
+      "clicks": 4,
+      "impressions": 229,
+      "ctr": 0.017467248908296942,
+      "position": 4.3755458515283845
+    },
+    {
+      "query": "spartanburg motorcycle accident lawyer",
+      "clicks": 4,
+      "impressions": 1044,
+      "ctr": 0.0038314176245210726,
+      "position": 2.6772030651340994
+    },
+    {
+      "query": "ssdi to ssi at what age",
+      "clicks": 4,
+      "impressions": 37,
+      "ctr": 0.10810810810810811,
+      "position": 3.4594594594594597
+    },
+    {
+      "query": "tbi vs concussion symptoms",
+      "clicks": 4,
+      "impressions": 170,
+      "ctr": 0.023529411764705882,
+      "position": 7.6117647058823525
+    },
+    {
+      "query": "thomas outlaw",
+      "clicks": 4,
+      "impressions": 44,
+      "ctr": 0.09090909090909091,
+      "position": 1.1136363636363635
+    },
+    {
+      "query": "traumatic brain injury vs concussion",
+      "clicks": 4,
+      "impressions": 631,
+      "ctr": 0.006339144215530904,
+      "position": 5.66877971473851
+    },
+    {
+      "query": "types of damages in tort",
+      "clicks": 4,
+      "impressions": 271,
+      "ctr": 0.014760147601476014,
+      "position": 9.129151291512915
+    },
+    {
+      "query": "what age does ssdi change to ssi",
+      "clicks": 4,
+      "impressions": 49,
+      "ctr": 0.08163265306122448,
+      "position": 4.36734693877551
+    },
+    {
+      "query": "what causes drowning",
+      "clicks": 4,
+      "impressions": 317,
+      "ctr": 0.012618296529968454,
+      "position": 5.173501577287066
+    },
+    {
+      "query": "what does ttd stand for",
+      "clicks": 4,
+      "impressions": 781,
+      "ctr": 0.005121638924455826,
+      "position": 3.7580025608194623
+    },
+    {
+      "query": "what happens if you get in an accident with an expired license",
+      "clicks": 4,
+      "impressions": 86,
+      "ctr": 0.046511627906976744,
+      "position": 3.0232558139534884
+    },
+    {
+      "query": "when does ssdi become social security",
+      "clicks": 4,
+      "impressions": 80,
+      "ctr": 0.05,
+      "position": 3.6875
+    },
+    {
+      "query": "when does ssdi change to regular social security",
+      "clicks": 4,
+      "impressions": 67,
+      "ctr": 0.05970149253731343,
+      "position": 4.2835820895522385
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:22:35.502Z"
 }

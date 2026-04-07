@@ -1,156 +1,16 @@
 {
   "property": "https://www.justinmintonlaw.com/",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
     "clicks": 0,
     "impressions": 4,
     "ctr": 0,
-    "position": 0.022222222222222223
+    "position": 0.02197802197802198
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 0,
-      "impressions": 0,
-      "ctr": 0,
-      "position": 0
-    },
     {
       "date": "2026-01-04",
       "clicks": 0,
@@ -640,6 +500,153 @@
       "impressions": 0,
       "ctr": 0,
       "position": 0
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 0,
+      "impressions": 0,
+      "ctr": 0,
+      "position": 0
     }
   ],
   "topQueries": [
@@ -660,5 +667,102 @@
       "position": 1
     }
   ],
-  "fetchedAt": "2026-03-18T13:06:30.551Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "auto accident lawyer",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "farmington car accident attorney",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "farmington car accident lawyer",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 43
+    },
+    {
+      "query": "farmington motor vehicle accident attorney",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 102
+    },
+    {
+      "query": "farmington personal injury attorney",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 64
+    },
+    {
+      "query": "farmington personal injury lawyer",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 36
+    },
+    {
+      "query": "farmington truck accident attorney",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 91.66666666666667
+    },
+    {
+      "query": "farmington truck accident lawyer",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 47.666666666666664
+    },
+    {
+      "query": "justin minton attorney arkansas",
+      "clicks": 0,
+      "impressions": 15,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "justin minton law",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 11
+    },
+    {
+      "query": "justin minton law firm",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "justin minton lawyer",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 1
+    },
+    {
+      "query": "prairie grove personal injury lawyer",
+      "clicks": 0,
+      "impressions": 3,
+      "ctr": 0,
+      "position": 61.333333333333336
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:21:27.696Z"
 }

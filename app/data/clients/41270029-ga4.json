@@ -2,138 +2,18 @@
   "propertyId": "properties/348698810",
   "displayName": "injury-attorneys.com - GA4",
   "dateRange": {
-    "start": "2025-12-17",
-    "end": "2026-03-17"
+    "start": "2026-01-06",
+    "end": "2026-04-06"
   },
   "totals": {
-    "sessions": 20766,
-    "users": 19497,
-    "screenPageViews": 26158,
-    "organicSessions": 14828,
-    "bounceRate": 0.09745464864747093,
-    "avgSessionDuration": 789.5093828947892
+    "sessions": 20328,
+    "users": 19032,
+    "screenPageViews": 26036,
+    "organicSessions": 14175,
+    "bounceRate": 0.10532060276200587,
+    "avgSessionDuration": 823.9292650211818
   },
   "dailyData": [
-    {
-      "date": "2025-12-17",
-      "sessions": 253,
-      "users": 239,
-      "screenPageViews": 317
-    },
-    {
-      "date": "2025-12-18",
-      "sessions": 235,
-      "users": 229,
-      "screenPageViews": 261
-    },
-    {
-      "date": "2025-12-19",
-      "sessions": 223,
-      "users": 216,
-      "screenPageViews": 256
-    },
-    {
-      "date": "2025-12-20",
-      "sessions": 178,
-      "users": 167,
-      "screenPageViews": 191
-    },
-    {
-      "date": "2025-12-21",
-      "sessions": 175,
-      "users": 167,
-      "screenPageViews": 214
-    },
-    {
-      "date": "2025-12-22",
-      "sessions": 265,
-      "users": 255,
-      "screenPageViews": 338
-    },
-    {
-      "date": "2025-12-23",
-      "sessions": 216,
-      "users": 210,
-      "screenPageViews": 251
-    },
-    {
-      "date": "2025-12-24",
-      "sessions": 159,
-      "users": 155,
-      "screenPageViews": 171
-    },
-    {
-      "date": "2025-12-25",
-      "sessions": 148,
-      "users": 139,
-      "screenPageViews": 158
-    },
-    {
-      "date": "2025-12-26",
-      "sessions": 217,
-      "users": 208,
-      "screenPageViews": 254
-    },
-    {
-      "date": "2025-12-27",
-      "sessions": 194,
-      "users": 185,
-      "screenPageViews": 211
-    },
-    {
-      "date": "2025-12-28",
-      "sessions": 183,
-      "users": 173,
-      "screenPageViews": 215
-    },
-    {
-      "date": "2025-12-29",
-      "sessions": 269,
-      "users": 256,
-      "screenPageViews": 328
-    },
-    {
-      "date": "2025-12-30",
-      "sessions": 242,
-      "users": 233,
-      "screenPageViews": 306
-    },
-    {
-      "date": "2025-12-31",
-      "sessions": 178,
-      "users": 167,
-      "screenPageViews": 230
-    },
-    {
-      "date": "2026-01-01",
-      "sessions": 159,
-      "users": 153,
-      "screenPageViews": 176
-    },
-    {
-      "date": "2026-01-02",
-      "sessions": 287,
-      "users": 269,
-      "screenPageViews": 315
-    },
-    {
-      "date": "2026-01-03",
-      "sessions": 171,
-      "users": 165,
-      "screenPageViews": 205
-    },
-    {
-      "date": "2026-01-04",
-      "sessions": 190,
-      "users": 184,
-      "screenPageViews": 232
-    },
-    {
-      "date": "2026-01-05",
-      "sessions": 293,
-      "users": 279,
-      "screenPageViews": 365
-    },
     {
       "date": "2026-01-06",
       "sessions": 311,
@@ -559,211 +439,393 @@
       "sessions": 247,
       "users": 229,
       "screenPageViews": 315
+    },
+    {
+      "date": "2026-03-18",
+      "sessions": 228,
+      "users": 208,
+      "screenPageViews": 298
+    },
+    {
+      "date": "2026-03-19",
+      "sessions": 244,
+      "users": 224,
+      "screenPageViews": 344
+    },
+    {
+      "date": "2026-03-20",
+      "sessions": 222,
+      "users": 212,
+      "screenPageViews": 329
+    },
+    {
+      "date": "2026-03-21",
+      "sessions": 117,
+      "users": 116,
+      "screenPageViews": 171
+    },
+    {
+      "date": "2026-03-22",
+      "sessions": 112,
+      "users": 109,
+      "screenPageViews": 159
+    },
+    {
+      "date": "2026-03-23",
+      "sessions": 244,
+      "users": 228,
+      "screenPageViews": 342
+    },
+    {
+      "date": "2026-03-24",
+      "sessions": 219,
+      "users": 204,
+      "screenPageViews": 255
+    },
+    {
+      "date": "2026-03-25",
+      "sessions": 206,
+      "users": 198,
+      "screenPageViews": 278
+    },
+    {
+      "date": "2026-03-26",
+      "sessions": 201,
+      "users": 187,
+      "screenPageViews": 233
+    },
+    {
+      "date": "2026-03-27",
+      "sessions": 249,
+      "users": 238,
+      "screenPageViews": 295
+    },
+    {
+      "date": "2026-03-28",
+      "sessions": 107,
+      "users": 102,
+      "screenPageViews": 139
+    },
+    {
+      "date": "2026-03-29",
+      "sessions": 133,
+      "users": 129,
+      "screenPageViews": 153
+    },
+    {
+      "date": "2026-03-30",
+      "sessions": 198,
+      "users": 185,
+      "screenPageViews": 242
+    },
+    {
+      "date": "2026-03-31",
+      "sessions": 198,
+      "users": 186,
+      "screenPageViews": 228
+    },
+    {
+      "date": "2026-04-01",
+      "sessions": 230,
+      "users": 220,
+      "screenPageViews": 257
+    },
+    {
+      "date": "2026-04-02",
+      "sessions": 226,
+      "users": 212,
+      "screenPageViews": 290
+    },
+    {
+      "date": "2026-04-03",
+      "sessions": 178,
+      "users": 170,
+      "screenPageViews": 313
+    },
+    {
+      "date": "2026-04-04",
+      "sessions": 107,
+      "users": 102,
+      "screenPageViews": 127
+    },
+    {
+      "date": "2026-04-05",
+      "sessions": 113,
+      "users": 104,
+      "screenPageViews": 131
+    },
+    {
+      "date": "2026-04-06",
+      "sessions": 265,
+      "users": 250,
+      "screenPageViews": 288
     }
   ],
   "channelData": [
     {
       "channel": "Organic Search",
-      "sessions": 14828,
-      "users": 12809
+      "sessions": 14175,
+      "users": 12261
     },
     {
       "channel": "Direct",
-      "sessions": 2210,
-      "users": 1953
+      "sessions": 2226,
+      "users": 1959
     },
     {
       "channel": "Unassigned",
-      "sessions": 1245,
-      "users": 1238
-    },
-    {
-      "channel": "Paid Search",
-      "sessions": 874,
-      "users": 720
+      "sessions": 1360,
+      "users": 1352
     },
     {
       "channel": "Display",
-      "sessions": 785,
-      "users": 752
+      "sessions": 938,
+      "users": 903
     },
     {
-      "channel": "Paid Social",
-      "sessions": 356,
-      "users": 335
+      "channel": "Paid Search",
+      "sessions": 919,
+      "users": 760
     },
     {
       "channel": "Referral",
-      "sessions": 304,
-      "users": 217
+      "sessions": 312,
+      "users": 209
     },
     {
       "channel": "Organic Social",
-      "sessions": 122,
-      "users": 106
+      "sessions": 177,
+      "users": 155
     },
     {
       "channel": "Paid Video",
-      "sessions": 60,
-      "users": 56
+      "sessions": 62,
+      "users": 58
     },
     {
       "channel": "Cross-network",
       "sessions": 41,
       "users": 39
+    },
+    {
+      "channel": "Paid Social",
+      "sessions": 40,
+      "users": 36
+    }
+  ],
+  "keyEventsByChannel": [
+    {
+      "channel": "Organic Search",
+      "sessions": 14175,
+      "keyEvents": 34701,
+      "conversionRate": 2.448042328042328
+    },
+    {
+      "channel": "Direct",
+      "sessions": 2226,
+      "keyEvents": 6205,
+      "conversionRate": 2.7875112309074574
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": 1360,
+      "keyEvents": 1580,
+      "conversionRate": 1.161764705882353
+    },
+    {
+      "channel": "Display",
+      "sessions": 938,
+      "keyEvents": 1614,
+      "conversionRate": 1.720682302771855
+    },
+    {
+      "channel": "Paid Search",
+      "sessions": 919,
+      "keyEvents": 2597,
+      "conversionRate": 2.825897714907508
+    },
+    {
+      "channel": "Referral",
+      "sessions": 312,
+      "keyEvents": 1323,
+      "conversionRate": 4.240384615384615
+    },
+    {
+      "channel": "Organic Social",
+      "sessions": 177,
+      "keyEvents": 370,
+      "conversionRate": 2.0903954802259888
+    },
+    {
+      "channel": "Paid Video",
+      "sessions": 62,
+      "keyEvents": 118,
+      "conversionRate": 1.903225806451613
+    },
+    {
+      "channel": "Cross-network",
+      "sessions": 41,
+      "keyEvents": 90,
+      "conversionRate": 2.1951219512195124
+    },
+    {
+      "channel": "Paid Social",
+      "sessions": 40,
+      "keyEvents": 75,
+      "conversionRate": 1.875
     }
   ],
   "topPages": [
     {
-      "page": "/sacramento-car-accident-lawyers/can-teenager-drive-minors-california/",
-      "screenPageViews": 5533,
-      "sessions": 5409
+      "page": "/",
+      "screenPageViews": 5225,
+      "sessions": 4688
     },
     {
-      "page": "/",
-      "screenPageViews": 5169,
-      "sessions": 4623
+      "page": "/sacramento-car-accident-lawyers/can-teenager-drive-minors-california/",
+      "screenPageViews": 4869,
+      "sessions": 4776
     },
     {
       "page": "/blog/who-can-ride-in-the-car-with-a-learners-permit-driver-in-california/",
-      "screenPageViews": 1561,
-      "sessions": 1510
+      "screenPageViews": 1409,
+      "sessions": 1362
     },
     {
       "page": "/attorneys/",
-      "screenPageViews": 1241,
-      "sessions": 1007
+      "screenPageViews": 1295,
+      "sessions": 1063
     },
     {
       "page": "/contact-us/",
-      "screenPageViews": 726,
-      "sessions": 639
+      "screenPageViews": 771,
+      "sessions": 692
     },
     {
       "page": "/blog/california-total-loss-law/",
-      "screenPageViews": 688,
-      "sessions": 682
+      "screenPageViews": 674,
+      "sessions": 665
     },
     {
       "page": "/case-results/",
-      "screenPageViews": 435,
-      "sessions": 278
-    },
-    {
-      "page": "/driving-with-a-provisional-license-rules/",
-      "screenPageViews": 359,
-      "sessions": 361
+      "screenPageViews": 425,
+      "sessions": 282
     },
     {
       "page": "/about-us/support-team/",
-      "screenPageViews": 308,
-      "sessions": 294
+      "screenPageViews": 361,
+      "sessions": 345
+    },
+    {
+      "page": "/driving-with-a-provisional-license-rules/",
+      "screenPageViews": 360,
+      "sessions": 360
     },
     {
       "page": "/attorneys/john-demas/",
-      "screenPageViews": 286,
-      "sessions": 271
+      "screenPageViews": 307,
+      "sessions": 292
     },
     {
       "page": "/blog/demas-law-group-named-gold-winner-in-sacramentos-personal-injury-category-2025/",
-      "screenPageViews": 270,
-      "sessions": 163
+      "screenPageViews": 282,
+      "sessions": 151
     },
     {
       "page": "/sacramento-car-accident-lawyers/california-dash-cam-laws/",
-      "screenPageViews": 257,
-      "sessions": 244
-    },
-    {
-      "page": "/sacramento-car-accident-lawyers/rideshare-accident-lawyers/lyft/changes-to-lyfts-decision-process-on-safety/",
-      "screenPageViews": 253,
-      "sessions": 231
-    },
-    {
-      "page": "/blog/what-happens-in-the-discovery-phase/",
-      "screenPageViews": 231,
-      "sessions": 228
+      "screenPageViews": 281,
+      "sessions": 270
     },
     {
       "page": "/legal-services/",
-      "screenPageViews": 221,
-      "sessions": 211
+      "screenPageViews": 230,
+      "sessions": 220
     },
     {
-      "page": "/about-us/",
-      "screenPageViews": 181,
-      "sessions": 167
+      "page": "/sacramento-car-accident-lawyers/rideshare-accident-lawyers/lyft/changes-to-lyfts-decision-process-on-safety/",
+      "screenPageViews": 215,
+      "sessions": 190
     },
     {
       "page": "/about-us/employment-opportunities/",
-      "screenPageViews": 179,
-      "sessions": 168
+      "screenPageViews": 209,
+      "sessions": 195
+    },
+    {
+      "page": "/blog/what-happens-in-the-discovery-phase/",
+      "screenPageViews": 206,
+      "sessions": 205
+    },
+    {
+      "page": "/about-us/",
+      "screenPageViews": 205,
+      "sessions": 188
     },
     {
       "page": "/blog/are-u-turns-legal-in-california/",
-      "screenPageViews": 164,
-      "sessions": 160
-    },
-    {
-      "page": "/attorneys/kate-ebert/",
-      "screenPageViews": 148,
-      "sessions": 139
+      "screenPageViews": 178,
+      "sessions": 168
     },
     {
       "page": "/attorneys/jacqueline-siemens/",
-      "screenPageViews": 144,
-      "sessions": 116
+      "screenPageViews": 151,
+      "sessions": 125
     },
     {
       "page": "/sacramento-car-accident-lawyers/",
-      "screenPageViews": 143,
-      "sessions": 144
+      "screenPageViews": 150,
+      "sessions": 148
     },
     {
-      "page": "/blog/soft-tissue-injury-vs-broken-bone/",
+      "page": "/attorneys/kate-ebert/",
       "screenPageViews": 137,
       "sessions": 132
     },
     {
+      "page": "/blog/claim-adjuster-came-house/",
+      "screenPageViews": 134,
+      "sessions": 125
+    },
+    {
       "page": "/attorneys/brad-schultz/",
-      "screenPageViews": 129,
-      "sessions": 126
+      "screenPageViews": 133,
+      "sessions": 127
     },
     {
       "page": "/attorneys/erik-gutierrez/",
-      "screenPageViews": 126,
-      "sessions": 124
+      "screenPageViews": 130,
+      "sessions": 127
     },
     {
       "page": "/about-us/attorney-fees/",
-      "screenPageViews": 123,
-      "sessions": 116
+      "screenPageViews": 129,
+      "sessions": 122
     },
     {
-      "page": "/blog/claim-adjuster-came-house/",
-      "screenPageViews": 119,
-      "sessions": 109
+      "page": "/blog/soft-tissue-injury-vs-broken-bone/",
+      "screenPageViews": 127,
+      "sessions": 123
     },
     {
-      "page": "/sacramento-car-accident-lawyers/property-damage-settlement/",
-      "screenPageViews": 114,
-      "sessions": 107
+      "page": "/about-us/employment-opportunities/personal-injury-file-clerk-intern/",
+      "screenPageViews": 118,
+      "sessions": 117
     },
     {
       "page": "/attorneys/tim-spangler/",
-      "screenPageViews": 105,
-      "sessions": 108
-    },
-    {
-      "page": "/faqs/types-liens-can-placed-settlement/",
-      "screenPageViews": 105,
-      "sessions": 110
+      "screenPageViews": 118,
+      "sessions": 121
     },
     {
       "page": "/sacramento-personal-injury-lawyers/personal-injury-lawsuit-timeline/",
-      "screenPageViews": 104,
-      "sessions": 100
+      "screenPageViews": 115,
+      "sessions": 111
+    },
+    {
+      "page": "/contact-us/thank-you/",
+      "screenPageViews": 114,
+      "sessions": 120
     }
   ],
-  "fetchedAt": "2026-03-18T13:07:34.254Z"
+  "fetchedAt": "2026-04-07T16:22:12.988Z"
 }

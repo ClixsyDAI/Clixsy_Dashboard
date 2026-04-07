@@ -2,138 +2,18 @@
   "propertyId": "properties/364720245",
   "displayName": "FHV - GA4",
   "dateRange": {
-    "start": "2025-12-17",
-    "end": "2026-03-17"
+    "start": "2026-01-06",
+    "end": "2026-04-06"
   },
   "totals": {
-    "sessions": 8105,
-    "users": 7430,
-    "screenPageViews": 11548,
-    "organicSessions": 5976,
-    "bounceRate": 0.4576317542180097,
-    "avgSessionDuration": 147.74472582069072
+    "sessions": 8646,
+    "users": 7875,
+    "screenPageViews": 12414,
+    "organicSessions": 6531,
+    "bounceRate": 0.4502235444381555,
+    "avgSessionDuration": 151.95559926129783
   },
   "dailyData": [
-    {
-      "date": "2025-12-17",
-      "sessions": 116,
-      "users": 109,
-      "screenPageViews": 151
-    },
-    {
-      "date": "2025-12-18",
-      "sessions": 91,
-      "users": 84,
-      "screenPageViews": 115
-    },
-    {
-      "date": "2025-12-19",
-      "sessions": 68,
-      "users": 62,
-      "screenPageViews": 76
-    },
-    {
-      "date": "2025-12-20",
-      "sessions": 48,
-      "users": 45,
-      "screenPageViews": 53
-    },
-    {
-      "date": "2025-12-21",
-      "sessions": 59,
-      "users": 57,
-      "screenPageViews": 105
-    },
-    {
-      "date": "2025-12-22",
-      "sessions": 89,
-      "users": 80,
-      "screenPageViews": 114
-    },
-    {
-      "date": "2025-12-23",
-      "sessions": 70,
-      "users": 67,
-      "screenPageViews": 95
-    },
-    {
-      "date": "2025-12-24",
-      "sessions": 47,
-      "users": 44,
-      "screenPageViews": 61
-    },
-    {
-      "date": "2025-12-25",
-      "sessions": 26,
-      "users": 25,
-      "screenPageViews": 27
-    },
-    {
-      "date": "2025-12-26",
-      "sessions": 74,
-      "users": 69,
-      "screenPageViews": 101
-    },
-    {
-      "date": "2025-12-27",
-      "sessions": 44,
-      "users": 43,
-      "screenPageViews": 54
-    },
-    {
-      "date": "2025-12-28",
-      "sessions": 44,
-      "users": 43,
-      "screenPageViews": 56
-    },
-    {
-      "date": "2025-12-29",
-      "sessions": 82,
-      "users": 78,
-      "screenPageViews": 102
-    },
-    {
-      "date": "2025-12-30",
-      "sessions": 91,
-      "users": 84,
-      "screenPageViews": 140
-    },
-    {
-      "date": "2025-12-31",
-      "sessions": 65,
-      "users": 61,
-      "screenPageViews": 80
-    },
-    {
-      "date": "2026-01-01",
-      "sessions": 48,
-      "users": 44,
-      "screenPageViews": 96
-    },
-    {
-      "date": "2026-01-02",
-      "sessions": 76,
-      "users": 73,
-      "screenPageViews": 97
-    },
-    {
-      "date": "2026-01-03",
-      "sessions": 43,
-      "users": 40,
-      "screenPageViews": 62
-    },
-    {
-      "date": "2026-01-04",
-      "sessions": 55,
-      "users": 52,
-      "screenPageViews": 55
-    },
-    {
-      "date": "2026-01-05",
-      "sessions": 126,
-      "users": 115,
-      "screenPageViews": 185
-    },
     {
       "date": "2026-01-06",
       "sessions": 148,
@@ -559,191 +439,349 @@
       "sessions": 98,
       "users": 91,
       "screenPageViews": 162
+    },
+    {
+      "date": "2026-03-18",
+      "sessions": 150,
+      "users": 129,
+      "screenPageViews": 235
+    },
+    {
+      "date": "2026-03-19",
+      "sessions": 189,
+      "users": 178,
+      "screenPageViews": 321
+    },
+    {
+      "date": "2026-03-20",
+      "sessions": 88,
+      "users": 80,
+      "screenPageViews": 136
+    },
+    {
+      "date": "2026-03-21",
+      "sessions": 62,
+      "users": 57,
+      "screenPageViews": 72
+    },
+    {
+      "date": "2026-03-22",
+      "sessions": 54,
+      "users": 50,
+      "screenPageViews": 81
+    },
+    {
+      "date": "2026-03-23",
+      "sessions": 123,
+      "users": 108,
+      "screenPageViews": 203
+    },
+    {
+      "date": "2026-03-24",
+      "sessions": 95,
+      "users": 88,
+      "screenPageViews": 137
+    },
+    {
+      "date": "2026-03-25",
+      "sessions": 99,
+      "users": 89,
+      "screenPageViews": 141
+    },
+    {
+      "date": "2026-03-26",
+      "sessions": 111,
+      "users": 104,
+      "screenPageViews": 156
+    },
+    {
+      "date": "2026-03-27",
+      "sessions": 85,
+      "users": 75,
+      "screenPageViews": 102
+    },
+    {
+      "date": "2026-03-28",
+      "sessions": 54,
+      "users": 51,
+      "screenPageViews": 72
+    },
+    {
+      "date": "2026-03-29",
+      "sessions": 66,
+      "users": 59,
+      "screenPageViews": 73
+    },
+    {
+      "date": "2026-03-30",
+      "sessions": 122,
+      "users": 109,
+      "screenPageViews": 157
+    },
+    {
+      "date": "2026-03-31",
+      "sessions": 113,
+      "users": 102,
+      "screenPageViews": 155
+    },
+    {
+      "date": "2026-04-01",
+      "sessions": 108,
+      "users": 93,
+      "screenPageViews": 129
+    },
+    {
+      "date": "2026-04-02",
+      "sessions": 110,
+      "users": 95,
+      "screenPageViews": 144
+    },
+    {
+      "date": "2026-04-03",
+      "sessions": 95,
+      "users": 84,
+      "screenPageViews": 127
+    },
+    {
+      "date": "2026-04-04",
+      "sessions": 44,
+      "users": 43,
+      "screenPageViews": 69
+    },
+    {
+      "date": "2026-04-05",
+      "sessions": 48,
+      "users": 47,
+      "screenPageViews": 66
+    },
+    {
+      "date": "2026-04-06",
+      "sessions": 87,
+      "users": 79,
+      "screenPageViews": 115
     }
   ],
   "channelData": [
     {
       "channel": "Organic Search",
-      "sessions": 5976,
-      "users": 4985
+      "sessions": 6531,
+      "users": 5308
     },
     {
       "channel": "Direct",
-      "sessions": 1734,
-      "users": 1535
+      "sessions": 1807,
+      "users": 1578
     },
     {
       "channel": "Referral",
-      "sessions": 264,
-      "users": 194
+      "sessions": 268,
+      "users": 191
     },
     {
       "channel": "Unassigned",
       "sessions": 82,
-      "users": 71
+      "users": 73
     },
     {
       "channel": "Organic Social",
-      "sessions": 52,
-      "users": 51
+      "sessions": 46,
+      "users": 45
     },
     {
       "channel": "Organic Video",
-      "sessions": 7,
-      "users": 3
+      "sessions": 1,
+      "users": 1
+    }
+  ],
+  "keyEventsByChannel": [
+    {
+      "channel": "Organic Search",
+      "sessions": 6531,
+      "keyEvents": 2200,
+      "conversionRate": 0.33685499923442047
+    },
+    {
+      "channel": "Direct",
+      "sessions": 1807,
+      "keyEvents": 596,
+      "conversionRate": 0.3298284449363586
+    },
+    {
+      "channel": "Referral",
+      "sessions": 268,
+      "keyEvents": 107,
+      "conversionRate": 0.39925373134328357
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": 82,
+      "keyEvents": 33,
+      "conversionRate": 0.4024390243902439
+    },
+    {
+      "channel": "Organic Social",
+      "sessions": 46,
+      "keyEvents": 1,
+      "conversionRate": 0.021739130434782608
+    },
+    {
+      "channel": "Organic Video",
+      "sessions": 1,
+      "keyEvents": 2,
+      "conversionRate": 2
     }
   ],
   "topPages": [
     {
       "page": "/",
-      "screenPageViews": 1377,
-      "sessions": 1281
+      "screenPageViews": 1491,
+      "sessions": 1381
     },
     {
       "page": "/blog/worst-hospitals-south-florida/",
-      "screenPageViews": 982,
-      "sessions": 977
+      "screenPageViews": 918,
+      "sessions": 906
     },
     {
       "page": "/contact/",
-      "screenPageViews": 842,
-      "sessions": 585
+      "screenPageViews": 916,
+      "sessions": 653
     },
     {
       "page": "/fort-lauderdale/",
-      "screenPageViews": 536,
-      "sessions": 467
+      "screenPageViews": 595,
+      "sessions": 526
     },
     {
       "page": "/blog/staggering-u-s-diagnostic-error-statistics-july-2024/",
-      "screenPageViews": 506,
-      "sessions": 520
+      "screenPageViews": 545,
+      "sessions": 573
     },
     {
       "page": "/attorneys/michael-freedland-esq/",
-      "screenPageViews": 297,
-      "sessions": 294
+      "screenPageViews": 300,
+      "sessions": 298
     },
     {
       "page": "/attorneys/daniel-harwin-esq/",
-      "screenPageViews": 258,
-      "sessions": 249
+      "screenPageViews": 299,
+      "sessions": 284
     },
     {
       "page": "/case-results/",
-      "screenPageViews": 251,
-      "sessions": 243
+      "screenPageViews": 265,
+      "sessions": 261
     },
     {
       "page": "/blog/hospital-faces-lawsuit-over-fatal-medical-treatment-christine-fields/",
-      "screenPageViews": 235,
+      "screenPageViews": 239,
       "sessions": 250
     },
     {
-      "page": "/medical-malpractice-attorney/",
-      "screenPageViews": 225,
-      "sessions": 196
-    },
-    {
       "page": "/attorneys/",
-      "screenPageViews": 206,
-      "sessions": 181
+      "screenPageViews": 222,
+      "sessions": 192
     },
     {
-      "page": "/nursing-home-abuse-attorney/aspiration-death/",
-      "screenPageViews": 190,
-      "sessions": 181
+      "page": "/medical-malpractice-attorney/",
+      "screenPageViews": 208,
+      "sessions": 192
     },
     {
       "page": "/about-us/",
-      "screenPageViews": 167,
-      "sessions": 147
+      "screenPageViews": 190,
+      "sessions": 167
     },
     {
-      "page": "/attorneys/deborah-gander-esq/",
-      "screenPageViews": 139,
-      "sessions": 134
-    },
-    {
-      "page": "/attorneys/peter-spillis/",
-      "screenPageViews": 127,
-      "sessions": 122
-    },
-    {
-      "page": "/medical-malpractice-attorney/consequences/",
-      "screenPageViews": 125,
-      "sessions": 121
-    },
-    {
-      "page": "/blog/medical-malpractice-statute-of-limitations-in-florida/",
-      "screenPageViews": 120,
-      "sessions": 123
+      "page": "/nursing-home-abuse-attorney/aspiration-death/",
+      "screenPageViews": 161,
+      "sessions": 154
     },
     {
       "page": "/blog/breach-duty-of-care-medical-negligence/",
-      "screenPageViews": 117,
-      "sessions": 119
+      "screenPageViews": 155,
+      "sessions": 153
+    },
+    {
+      "page": "/attorneys/deborah-gander-esq/",
+      "screenPageViews": 154,
+      "sessions": 147
+    },
+    {
+      "page": "/medical-malpractice-attorney/consequences/",
+      "screenPageViews": 146,
+      "sessions": 138
+    },
+    {
+      "page": "/attorneys/peter-spillis/",
+      "screenPageViews": 140,
+      "sessions": 135
     },
     {
       "page": "/medical-malpractice-attorney/surgical-errors/plastic-surgery/",
-      "screenPageViews": 111,
-      "sessions": 102
-    },
-    {
-      "page": "/blog/how-to-find-out-if-my-doctor-has-been-sued/",
-      "screenPageViews": 108,
-      "sessions": 99
-    },
-    {
-      "page": "/attorneys/raymond-valori-esq/",
-      "screenPageViews": 107,
-      "sessions": 92
-    },
-    {
-      "page": "/blog/examples-of-bad-bedside-manner-versus-medical-malpractice/",
-      "screenPageViews": 104,
-      "sessions": 110
+      "screenPageViews": 137,
+      "sessions": 129
     },
     {
       "page": "/attorneys/melissa-gunion-esq/",
-      "screenPageViews": 102,
-      "sessions": 101
+      "screenPageViews": 125,
+      "sessions": 118
+    },
+    {
+      "page": "/blog/medical-malpractice-statute-of-limitations-in-florida/",
+      "screenPageViews": 124,
+      "sessions": 130
     },
     {
       "page": "/blog/who-can-sue-for-medical-malpractice-in-florida/",
-      "screenPageViews": 99,
-      "sessions": 98
+      "screenPageViews": 113,
+      "sessions": 115
     },
     {
-      "page": "/medical-malpractice-attorney/hospitals/",
-      "screenPageViews": 93,
-      "sessions": 86
+      "page": "/blog/how-to-find-out-if-my-doctor-has-been-sued/",
+      "screenPageViews": 112,
+      "sessions": 105
+    },
+    {
+      "page": "/attorneys/raymond-valori-esq/",
+      "screenPageViews": 106,
+      "sessions": 94
     },
     {
       "page": "/blog/telemetry-medical-malpractice-examples/",
-      "screenPageViews": 89,
-      "sessions": 89
+      "screenPageViews": 106,
+      "sessions": 105
+    },
+    {
+      "page": "/blog/examples-of-bad-bedside-manner-versus-medical-malpractice/",
+      "screenPageViews": 105,
+      "sessions": 109
+    },
+    {
+      "page": "/medical-malpractice-attorney/hospitals/",
+      "screenPageViews": 97,
+      "sessions": 90
     },
     {
       "page": "/blog/nica-birth-injury-fund/",
-      "screenPageViews": 84,
-      "sessions": 91
-    },
-    {
-      "page": "/blog/florida-free-kill-law/",
-      "screenPageViews": 75,
-      "sessions": 73
-    },
-    {
-      "page": "/blog/what-happens-during-a-deposition-in-a-malpractice-lawsuit/",
-      "screenPageViews": 74,
-      "sessions": 72
+      "screenPageViews": 86,
+      "sessions": 93
     },
     {
       "page": "/blog/what-is-cooling-therapy-for-newborns/",
-      "screenPageViews": 70,
-      "sessions": 67
+      "screenPageViews": 86,
+      "sessions": 82
+    },
+    {
+      "page": "/blog/what-happens-during-a-deposition-in-a-malpractice-lawsuit/",
+      "screenPageViews": 85,
+      "sessions": 86
+    },
+    {
+      "page": "/miami/",
+      "screenPageViews": 82,
+      "sessions": 65
     }
   ],
-  "fetchedAt": "2026-03-18T13:07:36.368Z"
+  "fetchedAt": "2026-04-07T16:22:15.186Z"
 }

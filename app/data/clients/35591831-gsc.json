@@ -1,156 +1,16 @@
 {
   "property": "https://www.genejohnsonplumbing.com/",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 4672,
-    "impressions": 1660690,
-    "ctr": 0.0028132884523902717,
-    "position": 17.359886104811405
+    "clicks": 4205,
+    "impressions": 1510969,
+    "ctr": 0.0027829823113511925,
+    "position": 18.03386644941506
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 76,
-      "impressions": 19820,
-      "ctr": 0.003834510595358224,
-      "position": 13.804944500504542
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 59,
-      "impressions": 18455,
-      "ctr": 0.0031969655919804932,
-      "position": 12.757626659441886
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 51,
-      "impressions": 17258,
-      "ctr": 0.002955151234210221,
-      "position": 11.835438637153784
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 53,
-      "impressions": 18258,
-      "ctr": 0.0029028371124986308,
-      "position": 14.47327199036039
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 67,
-      "impressions": 18934,
-      "ctr": 0.0035386077955001584,
-      "position": 15.832206612443224
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 48,
-      "impressions": 19294,
-      "ctr": 0.0024878200476832176,
-      "position": 14.464444905151861
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 46,
-      "impressions": 20242,
-      "ctr": 0.002272502717122814,
-      "position": 13.83390969271811
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 52,
-      "impressions": 21173,
-      "ctr": 0.002455958059793133,
-      "position": 17.7430217730128
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 46,
-      "impressions": 22180,
-      "ctr": 0.002073940486925158,
-      "position": 17.680568079350767
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 39,
-      "impressions": 25742,
-      "ctr": 0.0015150337969077772,
-      "position": 23.49040478595292
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 42,
-      "impressions": 32157,
-      "ctr": 0.001306091986192742,
-      "position": 26.97297633485711
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 49,
-      "impressions": 31775,
-      "ctr": 0.0015420928402832415,
-      "position": 25.26659323367427
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 65,
-      "impressions": 17709,
-      "ctr": 0.0036704500536450394,
-      "position": 11.90998927099215
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 64,
-      "impressions": 19905,
-      "ctr": 0.003215272544586787,
-      "position": 13.398342125094198
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 82,
-      "impressions": 20973,
-      "ctr": 0.003909788776045392,
-      "position": 12.442235254851475
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 66,
-      "impressions": 20721,
-      "ctr": 0.0031851744606920516,
-      "position": 13.421166932097872
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 52,
-      "impressions": 18695,
-      "ctr": 0.0027814923776410803,
-      "position": 13.706873495587056
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 76,
-      "impressions": 20611,
-      "ctr": 0.0036873514142933385,
-      "position": 11.259084954635874
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 73,
-      "impressions": 17006,
-      "ctr": 0.004292602610843231,
-      "position": 9.941608843937434
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 55,
-      "impressions": 17292,
-      "ctr": 0.0031806615776081423,
-      "position": 9.630233634050429
-    },
     {
       "date": "2026-01-04",
       "clicks": 73,
@@ -640,211 +500,323 @@
       "impressions": 13338,
       "ctr": 0.0024741340530814214,
       "position": 15.209551656920079
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 41,
+      "impressions": 12769,
+      "ctr": 0.0032109014018325633,
+      "position": 16.96640300728326
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 60,
+      "impressions": 14407,
+      "ctr": 0.0041646421878253626,
+      "position": 17.470049281599223
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 41,
+      "impressions": 16839,
+      "ctr": 0.0024348239206603717,
+      "position": 20.698616307381673
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 29,
+      "impressions": 11418,
+      "ctr": 0.002539849360658609,
+      "position": 17.60168155543878
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 34,
+      "impressions": 10719,
+      "ctr": 0.0031719376807538015,
+      "position": 17.29377740460864
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 48,
+      "impressions": 11813,
+      "ctr": 0.004063320071108102,
+      "position": 17.584440870227716
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 29,
+      "impressions": 11803,
+      "ctr": 0.002457002457002457,
+      "position": 17.31686859273066
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 27,
+      "impressions": 11392,
+      "ctr": 0.0023700842696629215,
+      "position": 17.601211376404493
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 34,
+      "impressions": 13058,
+      "ctr": 0.002603767805176903,
+      "position": 17.79790166947465
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 26,
+      "impressions": 13373,
+      "ctr": 0.001944215957526359,
+      "position": 16.209900545876017
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 40,
+      "impressions": 14765,
+      "ctr": 0.0027091093802912294,
+      "position": 17.722519471723672
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 29,
+      "impressions": 12898,
+      "ctr": 0.0022484106062955495,
+      "position": 20.23825399286711
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 32,
+      "impressions": 13161,
+      "ctr": 0.0024314261834207126,
+      "position": 18.833295342299216
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 19,
+      "impressions": 12845,
+      "ctr": 0.001479174776177501,
+      "position": 16.632152588555858
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 32,
+      "impressions": 12525,
+      "ctr": 0.0025548902195608784,
+      "position": 18.302035928143713
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 42,
+      "impressions": 17747,
+      "ctr": 0.0023665971713529048,
+      "position": 25.7689186904829
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 25,
+      "impressions": 12813,
+      "ctr": 0.0019511433700148287,
+      "position": 17.500741434480606
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 28,
+      "impressions": 14173,
+      "ctr": 0.0019755873844634164,
+      "position": 14.822832145629013
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 32,
+      "impressions": 9890,
+      "ctr": 0.0032355915065722953,
+      "position": 19.403842264914054
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 23,
+      "impressions": 10462,
+      "ctr": 0.002198432422099025,
+      "position": 20.258554769642515
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 23,
+      "impressions": 9609,
+      "ctr": 0.002393589343323967,
+      "position": 16.53304193984806
     }
   ],
   "topQueries": [
     {
       "query": "gene johnson plumbing",
-      "clicks": 418,
-      "impressions": 2121,
-      "ctr": 0.1970768505421971,
-      "position": 1.5233380480905234
+      "clicks": 427,
+      "impressions": 2215,
+      "ctr": 0.1927765237020316,
+      "position": 1.6022573363431152
     },
     {
       "query": "gene johnson",
-      "clicks": 120,
-      "impressions": 1997,
-      "ctr": 0.06009013520280421,
-      "position": 5.824737105658488
+      "clicks": 121,
+      "impressions": 1910,
+      "ctr": 0.06335078534031413,
+      "position": 5.295287958115183
     },
     {
       "query": "gene johnson plumbing & heating",
-      "clicks": 65,
-      "impressions": 274,
-      "ctr": 0.23722627737226276,
-      "position": 1.8722627737226278
+      "clicks": 71,
+      "impressions": 292,
+      "ctr": 0.24315068493150685,
+      "position": 1.8424657534246576
     },
     {
       "query": "gene johnson plumbing seattle",
-      "clicks": 30,
-      "impressions": 138,
-      "ctr": 0.21739130434782608,
-      "position": 3.579710144927536
+      "clicks": 34,
+      "impressions": 202,
+      "ctr": 0.16831683168316833,
+      "position": 3.123762376237624
     },
     {
       "query": "gene johnson services",
-      "clicks": 30,
-      "impressions": 93,
-      "ctr": 0.3225806451612903,
-      "position": 1.075268817204301
+      "clicks": 28,
+      "impressions": 96,
+      "ctr": 0.2916666666666667,
+      "position": 1.03125
     },
     {
       "query": "gene johnson heating & air",
-      "clicks": 19,
-      "impressions": 40,
-      "ctr": 0.475,
-      "position": 1.025
+      "clicks": 25,
+      "impressions": 53,
+      "ctr": 0.4716981132075472,
+      "position": 1.0377358490566038
     },
     {
       "query": "gene johnson plumbing mukilteo",
-      "clicks": 19,
-      "impressions": 88,
-      "ctr": 0.2159090909090909,
-      "position": 7.011363636363637
-    },
-    {
-      "query": "gene johnson plumbing reviews",
-      "clicks": 17,
-      "impressions": 567,
-      "ctr": 0.029982363315696647,
-      "position": 3.962962962962963
+      "clicks": 21,
+      "impressions": 90,
+      "ctr": 0.23333333333333334,
+      "position": 6.833333333333333
     },
     {
       "query": "gene johnson electrical",
       "clicks": 15,
-      "impressions": 39,
-      "ctr": 0.38461538461538464,
+      "impressions": 45,
+      "ctr": 0.3333333333333333,
       "position": 1
     },
     {
-      "query": "gene johnson family of brands",
-      "clicks": 12,
-      "impressions": 30,
-      "ctr": 0.4,
-      "position": 3.6666666666666665
+      "query": "gene johnson plumbing reviews",
+      "clicks": 14,
+      "impressions": 666,
+      "ctr": 0.021021021021021023,
+      "position": 3.2372372372372373
     },
     {
-      "query": "gene johnson plumbing and heating",
-      "clicks": 10,
-      "impressions": 47,
-      "ctr": 0.2127659574468085,
-      "position": 5.829787234042553
+      "query": "gene johnson family of brands",
+      "clicks": 13,
+      "impressions": 34,
+      "ctr": 0.38235294117647056,
+      "position": 3.323529411764706
     },
     {
       "query": "gene johnson heating and air",
-      "clicks": 9,
-      "impressions": 31,
-      "ctr": 0.2903225806451613,
-      "position": 1.1612903225806452
+      "clicks": 13,
+      "impressions": 41,
+      "ctr": 0.3170731707317073,
+      "position": 1.2439024390243902
     },
     {
-      "query": "plumbers seattle",
-      "clicks": 9,
-      "impressions": 987,
-      "ctr": 0.00911854103343465,
-      "position": 1.265450861195542
-    },
-    {
-      "query": "sewage in bathtub dangerous",
-      "clicks": 8,
-      "impressions": 146,
-      "ctr": 0.0547945205479452,
-      "position": 2.3424657534246576
-    },
-    {
-      "query": "toilet bubbles when tub drains",
-      "clicks": 8,
-      "impressions": 1112,
-      "ctr": 0.007194244604316547,
-      "position": 2.0701438848920866
+      "query": "gene johnson plumbing and heating",
+      "clicks": 12,
+      "impressions": 44,
+      "ctr": 0.2727272727272727,
+      "position": 6.113636363636363
     },
     {
       "query": "plumber seattle",
+      "clicks": 8,
+      "impressions": 1116,
+      "ctr": 0.007168458781362007,
+      "position": 1.3118279569892473
+    },
+    {
+      "query": "plumbers seattle",
+      "clicks": 8,
+      "impressions": 1035,
+      "ctr": 0.007729468599033816,
+      "position": 1.298550724637681
+    },
+    {
+      "query": "sewage in bathtub dangerous",
       "clicks": 7,
-      "impressions": 1289,
-      "ctr": 0.005430566330488751,
-      "position": 1.2955779674166021
+      "impressions": 134,
+      "ctr": 0.05223880597014925,
+      "position": 2.970149253731343
     },
     {
       "query": "gene plumbing",
       "clicks": 6,
       "impressions": 61,
       "ctr": 0.09836065573770492,
-      "position": 15.819672131147541
+      "position": 12.639344262295081
     },
     {
       "query": "plumbers near me",
       "clicks": 6,
-      "impressions": 219,
-      "ctr": 0.0273972602739726,
-      "position": 10.146118721461187
+      "impressions": 243,
+      "ctr": 0.024691358024691357,
+      "position": 9.987654320987655
     },
     {
       "query": "seattle plumber",
       "clicks": 6,
-      "impressions": 556,
-      "ctr": 0.01079136690647482,
-      "position": 30.742805755395683
+      "impressions": 609,
+      "ctr": 0.009852216748768473,
+      "position": 27.257799671592775
+    },
+    {
+      "query": "toilet bubbles when tub drains",
+      "clicks": 6,
+      "impressions": 958,
+      "ctr": 0.006263048016701462,
+      "position": 1.9405010438413361
     },
     {
       "query": "dropped something down bathtub drain",
       "clicks": 5,
-      "impressions": 187,
-      "ctr": 0.026737967914438502,
-      "position": 2.6042780748663104
+      "impressions": 196,
+      "ctr": 0.025510204081632654,
+      "position": 2.739795918367347
     },
     {
       "query": "how to keep water in bathtub without stopper",
       "clicks": 5,
-      "impressions": 879,
-      "ctr": 0.005688282138794084,
-      "position": 2.783845278725825
+      "impressions": 860,
+      "ctr": 0.005813953488372093,
+      "position": 2.886046511627907
     },
     {
-      "query": "toilet bubbling when tub drains",
+      "query": "who owns gene johnson plumbing",
       "clicks": 5,
-      "impressions": 576,
-      "ctr": 0.008680555555555556,
-      "position": 1.5677083333333335
+      "impressions": 49,
+      "ctr": 0.10204081632653061,
+      "position": 1.510204081632653
     },
     {
-      "query": "water heater replacement seattle",
+      "query": "why is my bathtub backing up with dirty water",
       "clicks": 5,
-      "impressions": 628,
-      "ctr": 0.007961783439490446,
-      "position": 15.34235668789809
+      "impressions": 234,
+      "ctr": 0.021367521367521368,
+      "position": 1.5256410256410255
     },
     {
-      "query": "homemade tub stopper",
+      "query": "how to close the bathtub drain",
       "clicks": 4,
-      "impressions": 263,
-      "ctr": 0.015209125475285171,
-      "position": 1.6083650190114067
-    },
-    {
-      "query": "how to block overflow drain in tub diy",
-      "clicks": 4,
-      "impressions": 91,
-      "ctr": 0.04395604395604396,
-      "position": 2.0769230769230766
-    },
-    {
-      "query": "how to fix sewage coming out of shower drain",
-      "clicks": 4,
-      "impressions": 496,
-      "ctr": 0.008064516129032258,
-      "position": 4.655241935483871
-    },
-    {
-      "query": "how to plug tub without stopper",
-      "clicks": 4,
-      "impressions": 299,
-      "ctr": 0.013377926421404682,
-      "position": 2.120401337792642
-    },
-    {
-      "query": "johnson plumbing",
-      "clicks": 4,
-      "impressions": 151,
-      "ctr": 0.026490066225165563,
-      "position": 52.13907284768212
-    },
-    {
-      "query": "makeshift bathtub plug",
-      "clicks": 4,
-      "impressions": 290,
-      "ctr": 0.013793103448275862,
-      "position": 1.9172413793103447
+      "impressions": 170,
+      "ctr": 0.023529411764705882,
+      "position": 7.364705882352941
     },
     {
       "query": "my tub won't hold water",
@@ -854,497 +826,1587 @@
       "position": 3
     },
     {
+      "query": "plumbers in seattle",
+      "clicks": 4,
+      "impressions": 197,
+      "ctr": 0.02030456852791878,
+      "position": 1.4213197969543148
+    },
+    {
+      "query": "toilet bubbling when tub drains",
+      "clicks": 4,
+      "impressions": 481,
+      "ctr": 0.008316008316008316,
+      "position": 1.7505197505197505
+    },
+    {
       "query": "tub won't hold water",
       "clicks": 4,
-      "impressions": 22,
-      "ctr": 0.18181818181818182,
-      "position": 5.2272727272727275
+      "impressions": 16,
+      "ctr": 0.25,
+      "position": 9.875
     },
     {
-      "query": "water leaking through ceiling light after shower",
+      "query": "water heater replacement seattle",
       "clicks": 4,
-      "impressions": 83,
-      "ctr": 0.04819277108433735,
-      "position": 1.6385542168674698
-    },
-    {
-      "query": "badewannenstöpsel ersatz",
-      "clicks": 3,
-      "impressions": 19,
-      "ctr": 0.15789473684210525,
-      "position": 1.8421052631578947
+      "impressions": 616,
+      "ctr": 0.006493506493506494,
+      "position": 14.712662337662337
     },
     {
       "query": "bathtub not holding water",
       "clicks": 3,
-      "impressions": 17,
-      "ctr": 0.17647058823529413,
-      "position": 11.352941176470589
+      "impressions": 18,
+      "ctr": 0.16666666666666666,
+      "position": 8.166666666666668
     },
     {
       "query": "diy bath stopper",
       "clicks": 3,
-      "impressions": 210,
-      "ctr": 0.014285714285714285,
-      "position": 3.3476190476190477
+      "impressions": 187,
+      "ctr": 0.016042780748663103,
+      "position": 2.5080213903743314
     },
     {
       "query": "diy tub stopper",
       "clicks": 3,
-      "impressions": 825,
-      "ctr": 0.0036363636363636364,
-      "position": 1.7284848484848485
+      "impressions": 794,
+      "ctr": 0.003778337531486146,
+      "position": 1.5806045340050376
     },
     {
-      "query": "gene's plumbing",
+      "query": "homemade tub stopper",
       "clicks": 3,
-      "impressions": 23,
-      "ctr": 0.13043478260869565,
-      "position": 18.26086956521739
+      "impressions": 219,
+      "ctr": 0.0136986301369863,
+      "position": 1.4155251141552512
     },
     {
-      "query": "how to close the bathtub drain",
+      "query": "how to block a shower drain",
       "clicks": 3,
-      "impressions": 182,
-      "ctr": 0.016483516483516484,
-      "position": 7.131868131868132
+      "impressions": 47,
+      "ctr": 0.06382978723404255,
+      "position": 1.6382978723404256
     },
     {
       "query": "how to fill tub without stopper",
       "clicks": 3,
-      "impressions": 72,
-      "ctr": 0.041666666666666664,
-      "position": 1.6666666666666665
+      "impressions": 77,
+      "ctr": 0.03896103896103896,
+      "position": 1.6623376623376624
     },
     {
-      "query": "how to plug a bathtub drain",
+      "query": "how to fix sewage coming out of shower drain",
       "clicks": 3,
-      "impressions": 733,
-      "ctr": 0.004092769440654843,
-      "position": 1.4120054570259208
+      "impressions": 420,
+      "ctr": 0.007142857142857143,
+      "position": 3.104761904761905
     },
     {
       "query": "how to plug a bathtub drain without a plug",
       "clicks": 3,
-      "impressions": 572,
-      "ctr": 0.005244755244755245,
-      "position": 1.2534965034965035
+      "impressions": 607,
+      "ctr": 0.004942339373970346,
+      "position": 1.4909390444810544
     },
     {
       "query": "how to plug bathtub without stopper",
       "clicks": 3,
-      "impressions": 87,
-      "ctr": 0.034482758620689655,
-      "position": 3.8045977011494254
+      "impressions": 86,
+      "ctr": 0.03488372093023256,
+      "position": 3.5697674418604652
     },
     {
-      "query": "how to stop up a tub without a stopper",
+      "query": "makeshift bathtub plug",
       "clicks": 3,
-      "impressions": 307,
-      "ctr": 0.009771986970684038,
-      "position": 2.631921824104235
-    },
-    {
-      "query": "makeshift tub stopper",
-      "clicks": 3,
-      "impressions": 333,
-      "ctr": 0.009009009009009009,
-      "position": 1.6846846846846848
+      "impressions": 287,
+      "ctr": 0.010452961672473868,
+      "position": 1.533101045296167
     },
     {
       "query": "plumber near me",
       "clicks": 3,
-      "impressions": 928,
-      "ctr": 0.003232758620689655,
-      "position": 5.952586206896552
+      "impressions": 870,
+      "ctr": 0.0034482758620689655,
+      "position": 5.63448275862069
     },
     {
-      "query": "plumbers in seattle",
+      "query": "plumbing companies seattle",
       "clicks": 3,
-      "impressions": 150,
-      "ctr": 0.02,
-      "position": 1.5333333333333332
+      "impressions": 370,
+      "ctr": 0.008108108108108109,
+      "position": 16.829729729729728
     },
     {
-      "query": "plumbing",
+      "query": "plumbing seattle",
       "clicks": 3,
-      "impressions": 182,
-      "ctr": 0.016483516483516484,
-      "position": 8.06043956043956
-    },
-    {
-      "query": "seattle boiler replacement",
-      "clicks": 3,
-      "impressions": 39,
-      "ctr": 0.07692307692307693,
-      "position": 9.615384615384615
-    },
-    {
-      "query": "seattle plumbers",
-      "clicks": 3,
-      "impressions": 529,
-      "ctr": 0.005671077504725898,
-      "position": 1.117202268431002
+      "impressions": 1941,
+      "ctr": 0.0015455950540958269,
+      "position": 12.828438948995363
     },
     {
       "query": "seattle plumbing",
       "clicks": 3,
-      "impressions": 691,
-      "ctr": 0.004341534008683068,
-      "position": 17.709117221418236
+      "impressions": 627,
+      "ctr": 0.004784688995215311,
+      "position": 15.76555023923445
+    },
+    {
+      "query": "sump pump not turning on",
+      "clicks": 3,
+      "impressions": 163,
+      "ctr": 0.018404907975460124,
+      "position": 1.5828220858895705
+    },
+    {
+      "query": "sump pump short cycling",
+      "clicks": 3,
+      "impressions": 154,
+      "ctr": 0.01948051948051948,
+      "position": 1.7792207792207793
+    },
+    {
+      "query": "toilet gurgles when bathtub drains",
+      "clicks": 3,
+      "impressions": 274,
+      "ctr": 0.010948905109489052,
+      "position": 2.562043795620438
+    },
+    {
+      "query": "tub not holding water",
+      "clicks": 3,
+      "impressions": 24,
+      "ctr": 0.125,
+      "position": 1
+    },
+    {
+      "query": "bathtub backing up",
+      "clicks": 2,
+      "impressions": 382,
+      "ctr": 0.005235602094240838,
+      "position": 13.073298429319372
+    },
+    {
+      "query": "bathtub stopper not holding water",
+      "clicks": 2,
+      "impressions": 7,
+      "ctr": 0.2857142857142857,
+      "position": 8.714285714285715
+    },
+    {
+      "query": "brown water coming up from shower drain",
+      "clicks": 2,
+      "impressions": 12,
+      "ctr": 0.16666666666666666,
+      "position": 1.5833333333333335
+    },
+    {
+      "query": "diy bathtub drain plug",
+      "clicks": 2,
+      "impressions": 105,
+      "ctr": 0.01904761904761905,
+      "position": 1.5142857142857142
+    },
+    {
+      "query": "dop badkuip",
+      "clicks": 2,
+      "impressions": 2,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "drain cover",
+      "clicks": 2,
+      "impressions": 70,
+      "ctr": 0.02857142857142857,
+      "position": 3.2714285714285714
+    },
+    {
+      "query": "drain covers",
+      "clicks": 2,
+      "impressions": 34,
+      "ctr": 0.058823529411764705,
+      "position": 3.411764705882353
+    },
+    {
+      "query": "electrical outlet warm to touch",
+      "clicks": 2,
+      "impressions": 72,
+      "ctr": 0.027777777777777776,
+      "position": 3.9166666666666665
+    },
+    {
+      "query": "furnace repair near me",
+      "clicks": 2,
+      "impressions": 627,
+      "ctr": 0.003189792663476874,
+      "position": 10.189792663476874
+    },
+    {
+      "query": "gene electric",
+      "clicks": 2,
+      "impressions": 21,
+      "ctr": 0.09523809523809523,
+      "position": 11.714285714285714
+    },
+    {
+      "query": "gene's plumbing",
+      "clicks": 2,
+      "impressions": 16,
+      "ctr": 0.125,
+      "position": 19.375
+    },
+    {
+      "query": "haining home services",
+      "clicks": 2,
+      "impressions": 4,
+      "ctr": 0.5,
+      "position": 65.25
+    },
+    {
+      "query": "how to block bathtub drain",
+      "clicks": 2,
+      "impressions": 52,
+      "ctr": 0.038461538461538464,
+      "position": 4.211538461538462
+    },
+    {
+      "query": "how to block drain for bath",
+      "clicks": 2,
+      "impressions": 56,
+      "ctr": 0.03571428571428571,
+      "position": 1.6428571428571428
+    },
+    {
+      "query": "how to block overflow drain in tub diy",
+      "clicks": 2,
+      "impressions": 95,
+      "ctr": 0.021052631578947368,
+      "position": 2.2
+    },
+    {
+      "query": "how to block tub overflow drain",
+      "clicks": 2,
+      "impressions": 40,
+      "ctr": 0.05,
+      "position": 1.925
+    },
+    {
+      "query": "how to clog a bathtub drain",
+      "clicks": 2,
+      "impressions": 90,
+      "ctr": 0.022222222222222223,
+      "position": 2.477777777777778
+    },
+    {
+      "query": "how to get an object out of shower drain",
+      "clicks": 2,
+      "impressions": 57,
+      "ctr": 0.03508771929824561,
+      "position": 4.5964912280701755
+    },
+    {
+      "query": "how to make a stopper for bathtub",
+      "clicks": 2,
+      "impressions": 51,
+      "ctr": 0.0392156862745098,
+      "position": 2.1372549019607843
+    },
+    {
+      "query": "how to plug a bath drain",
+      "clicks": 2,
+      "impressions": 127,
+      "ctr": 0.015748031496062992,
+      "position": 1.4566929133858268
+    },
+    {
+      "query": "how to plug bathtub overflow drain",
+      "clicks": 2,
+      "impressions": 31,
+      "ctr": 0.06451612903225806,
+      "position": 1.2903225806451613
+    },
+    {
+      "query": "how to plug sink without stopper",
+      "clicks": 2,
+      "impressions": 193,
+      "ctr": 0.010362694300518135,
+      "position": 1.5647668393782384
+    },
+    {
+      "query": "how to plug tub without stopper",
+      "clicks": 2,
+      "impressions": 252,
+      "ctr": 0.007936507936507936,
+      "position": 1.9841269841269842
+    },
+    {
+      "query": "how to stop up a bathtub drain",
+      "clicks": 2,
+      "impressions": 50,
+      "ctr": 0.04,
+      "position": 2.62
+    },
+    {
+      "query": "how to stop up a tub without a stopper",
+      "clicks": 2,
+      "impressions": 286,
+      "ctr": 0.006993006993006993,
+      "position": 2.8531468531468533
+    },
+    {
+      "query": "how to stop up tub without stopper",
+      "clicks": 2,
+      "impressions": 167,
+      "ctr": 0.011976047904191617,
+      "position": 1.2275449101796407
+    },
+    {
+      "query": "how to stop water from draining in bathtub",
+      "clicks": 2,
+      "impressions": 196,
+      "ctr": 0.01020408163265306,
+      "position": 1.3571428571428572
+    },
+    {
+      "query": "hvac companies",
+      "clicks": 2,
+      "impressions": 8,
+      "ctr": 0.25,
+      "position": 59.625
+    },
+    {
+      "query": "johnson plumbing",
+      "clicks": 2,
+      "impressions": 149,
+      "ctr": 0.013422818791946308,
+      "position": 47.1744966442953
+    },
+    {
+      "query": "johnson plumbing and heating",
+      "clicks": 2,
+      "impressions": 32,
+      "ctr": 0.0625,
+      "position": 28.28125
+    },
+    {
+      "query": "leak detection service",
+      "clicks": 2,
+      "impressions": 296,
+      "ctr": 0.006756756756756757,
+      "position": 74.92229729729729
+    },
+    {
+      "query": "makeshift drain cover",
+      "clicks": 2,
+      "impressions": 27,
+      "ctr": 0.07407407407407407,
+      "position": 2.6296296296296298
+    },
+    {
+      "query": "makeshift tub stopper",
+      "clicks": 2,
+      "impressions": 321,
+      "ctr": 0.006230529595015576,
+      "position": 1.4080996884735202
+    },
+    {
+      "query": "plumber in seattle",
+      "clicks": 2,
+      "impressions": 332,
+      "ctr": 0.006024096385542169,
+      "position": 11.617469879518072
+    },
+    {
+      "query": "plumbing companies near me",
+      "clicks": 2,
+      "impressions": 67,
+      "ctr": 0.029850746268656716,
+      "position": 7.2835820895522385
+    },
+    {
+      "query": "plumbing company seattle",
+      "clicks": 2,
+      "impressions": 159,
+      "ctr": 0.012578616352201259,
+      "position": 22.150943396226417
+    },
+    {
+      "query": "plumbing kirkland",
+      "clicks": 2,
+      "impressions": 418,
+      "ctr": 0.004784688995215311,
+      "position": 39.57655502392345
+    },
+    {
+      "query": "seattle plumbers",
+      "clicks": 2,
+      "impressions": 571,
+      "ctr": 0.0035026269702276708,
+      "position": 1.1085814360770578
+    },
+    {
+      "query": "seattle tankless water heater",
+      "clicks": 2,
+      "impressions": 191,
+      "ctr": 0.010471204188481676,
+      "position": 9.026178010471204
+    },
+    {
+      "query": "sewage backing up in bathtub",
+      "clicks": 2,
+      "impressions": 83,
+      "ctr": 0.024096385542168676,
+      "position": 3
+    },
+    {
+      "query": "sewage coming out of shower drain",
+      "clicks": 2,
+      "impressions": 451,
+      "ctr": 0.004434589800443459,
+      "position": 4.281596452328159
+    },
+    {
+      "query": "shower backed up with sewage",
+      "clicks": 2,
+      "impressions": 65,
+      "ctr": 0.03076923076923077,
+      "position": 3.4153846153846152
+    },
+    {
+      "query": "shower drain stopper",
+      "clicks": 2,
+      "impressions": 37,
+      "ctr": 0.05405405405405406,
+      "position": 1.6486486486486487
+    },
+    {
+      "query": "shower leaking through ceiling",
+      "clicks": 2,
+      "impressions": 684,
+      "ctr": 0.0029239766081871343,
+      "position": 7.108187134502924
+    },
+    {
+      "query": "taylor heating & air conditioning",
+      "clicks": 2,
+      "impressions": 89,
+      "ctr": 0.02247191011235955,
+      "position": 6.168539325842697
+    },
+    {
+      "query": "taylor heating and air",
+      "clicks": 2,
+      "impressions": 498,
+      "ctr": 0.004016064257028112,
+      "position": 7.339357429718875
+    },
+    {
+      "query": "toilet bubbling when bath drains",
+      "clicks": 2,
+      "impressions": 73,
+      "ctr": 0.0273972602739726,
+      "position": 3.643835616438356
+    },
+    {
+      "query": "tub drain doesn't hold water",
+      "clicks": 2,
+      "impressions": 4,
+      "ctr": 0.5,
+      "position": 2.5
+    },
+    {
+      "query": "warm outlet",
+      "clicks": 2,
+      "impressions": 139,
+      "ctr": 0.014388489208633094,
+      "position": 2.4892086330935252
+    },
+    {
+      "query": "water leaking from shower",
+      "clicks": 2,
+      "impressions": 67,
+      "ctr": 0.029850746268656716,
+      "position": 19.895522388059703
+    },
+    {
+      "query": "water leaking through ceiling light after shower",
+      "clicks": 2,
+      "impressions": 49,
+      "ctr": 0.04081632653061224,
+      "position": 1.5714285714285714
+    },
+    {
+      "query": "what can i use as a stopper for my bathtub",
+      "clicks": 2,
+      "impressions": 82,
+      "ctr": 0.024390243902439025,
+      "position": 1.2682926829268293
+    },
+    {
+      "query": "what can i use as a tub stopper",
+      "clicks": 2,
+      "impressions": 176,
+      "ctr": 0.011363636363636364,
+      "position": 1.1931818181818181
+    },
+    {
+      "query": "why is my bathtub filling up with dirty water",
+      "clicks": 2,
+      "impressions": 54,
+      "ctr": 0.037037037037037035,
+      "position": 2.166666666666667
+    },
+    {
+      "query": "why won't my bathtub hold water",
+      "clicks": 2,
+      "impressions": 7,
+      "ctr": 0.2857142857142857,
+      "position": 3
+    },
+    {
+      "query": "чем заткнуть слив в ванной",
+      "clicks": 2,
+      "impressions": 10,
+      "ctr": 0.2,
+      "position": 2.4
+    },
+    {
+      "query": "100 amp breaker",
+      "clicks": 1,
+      "impressions": 62,
+      "ctr": 0.016129032258064516,
+      "position": 1.8064516129032258
+    },
+    {
+      "query": "100 amp main breaker",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 1.8823529411764706
+    },
+    {
+      "query": "100 amp service panel",
+      "clicks": 1,
+      "impressions": 26,
+      "ctr": 0.038461538461538464,
+      "position": 1.4615384615384617
+    },
+    {
+      "query": "24 hour plumbing near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 17.75
+    },
+    {
+      "query": "ac repair seattle",
+      "clicks": 1,
+      "impressions": 1239,
+      "ctr": 0.0008071025020177562,
+      "position": 17.766747376916868
+    },
+    {
+      "query": "afvoerplug",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3
+    },
+    {
+      "query": "are dimmer switches dangerous",
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 3.566666666666667
+    },
+    {
+      "query": "are dimmer switches safe",
+      "clicks": 1,
+      "impressions": 77,
+      "ctr": 0.012987012987012988,
+      "position": 5.246753246753247
+    },
+    {
+      "query": "are usb outlets worth it",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 1.625
+    },
+    {
+      "query": "außenwasserhahn hauswand",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "badewanne überlauf drehgriff",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "badewannenstöpsel",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 2.571428571428571
+    },
+    {
+      "query": "badewannenstöpsel ersatz",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 1.6666666666666665
+    },
+    {
+      "query": "badewannenstöpsel gummi",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2
+    },
+    {
+      "query": "badewannenstöpsel improvisieren",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2.5
+    },
+    {
+      "query": "badewannenstöpsel undicht alternative",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 1.7333333333333334
+    },
+    {
+      "query": "badkarspropp",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 4.076923076923077
+    },
+    {
+      "query": "badkarspropp universal",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 3.3333333333333335
+    },
+    {
+      "query": "basement sump pump installation",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 81
+    },
+    {
+      "query": "bath plug",
+      "clicks": 1,
+      "impressions": 611,
+      "ctr": 0.0016366612111292963,
+      "position": 5.723404255319149
+    },
+    {
+      "query": "bath stopper diy",
+      "clicks": 1,
+      "impressions": 29,
+      "ctr": 0.034482758620689655,
+      "position": 3.7241379310344827
+    },
+    {
+      "query": "bath tub stopper",
+      "clicks": 1,
+      "impressions": 166,
+      "ctr": 0.006024096385542169,
+      "position": 1.7108433734939759
+    },
+    {
+      "query": "bathroom ceiling dripping water after shower",
+      "clicks": 1,
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 1.625
+    },
+    {
+      "query": "bathroom door open or closed",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 1.2352941176470589
+    },
+    {
+      "query": "bathtub and toilet backing up",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 28.25
+    },
+    {
+      "query": "bathtub drain cover",
+      "clicks": 1,
+      "impressions": 53,
+      "ctr": 0.018867924528301886,
+      "position": 18.754716981132077
+    },
+    {
+      "query": "bathtub drain not holding water",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 7
+    },
+    {
+      "query": "bathtub drain plug",
+      "clicks": 1,
+      "impressions": 113,
+      "ctr": 0.008849557522123894,
+      "position": 5.274336283185841
+    },
+    {
+      "query": "bathtub drain stopper not holding water",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 9
+    },
+    {
+      "query": "bathtub drain won't hold water",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 12.5
+    },
+    {
+      "query": "bathtub overflow cover",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 4.083333333333334
+    },
+    {
+      "query": "bathtub plug",
+      "clicks": 1,
+      "impressions": 145,
+      "ctr": 0.006896551724137931,
+      "position": 10.289655172413793
+    },
+    {
+      "query": "bathtub plug alternative",
+      "clicks": 1,
+      "impressions": 33,
+      "ctr": 0.030303030303030304,
+      "position": 3.9696969696969697
+    },
+    {
+      "query": "bathtub stopper",
+      "clicks": 1,
+      "impressions": 407,
+      "ctr": 0.002457002457002457,
+      "position": 13.061425061425062
+    },
+    {
+      "query": "bathtub stopper diy",
+      "clicks": 1,
+      "impressions": 185,
+      "ctr": 0.005405405405405406,
+      "position": 5.372972972972973
+    },
+    {
+      "query": "bathtub won't hold water",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 35.333333333333336
+    },
+    {
+      "query": "best eco friendly drain cleaner",
+      "clicks": 1,
+      "impressions": 399,
+      "ctr": 0.002506265664160401,
+      "position": 29.596491228070175
+    },
+    {
+      "query": "best plumber seattle",
+      "clicks": 1,
+      "impressions": 275,
+      "ctr": 0.0036363636363636364,
+      "position": 1.4363636363636363
+    },
+    {
+      "query": "best plumbers in seattle",
+      "clicks": 1,
+      "impressions": 127,
+      "ctr": 0.007874015748031496,
+      "position": 1
+    },
+    {
+      "query": "best plumbers in seattle wa",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 1.3846153846153846
+    },
+    {
+      "query": "best plumbers near me residential",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "best plumbers seattle",
+      "clicks": 1,
+      "impressions": 225,
+      "ctr": 0.0044444444444444444,
+      "position": 1.0666666666666667
+    },
+    {
+      "query": "best plumbing",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "best way to plug a bathtub drain",
+      "clicks": 1,
+      "impressions": 53,
+      "ctr": 0.018867924528301886,
+      "position": 1.6037735849056602
+    },
+    {
+      "query": "beste mechanische ventilatie met vochtsensor",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "boiler installation seattle",
+      "clicks": 1,
+      "impressions": 76,
+      "ctr": 0.013157894736842105,
+      "position": 7.118421052631579
+    },
+    {
+      "query": "boiler repair seattle",
+      "clicks": 1,
+      "impressions": 390,
+      "ctr": 0.002564102564102564,
+      "position": 5.9743589743589745
+    },
+    {
+      "query": "boiler repair services",
+      "clicks": 1,
+      "impressions": 481,
+      "ctr": 0.002079002079002079,
+      "position": 59.234927234927234
+    },
+    {
+      "query": "bosch heat pump service",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 10
+    },
+    {
+      "query": "bote sifonico baño",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "bouchon baignoire",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 4.857142857142858
+    },
+    {
+      "query": "bouchon de baignoire universel",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2.666666666666667
+    },
+    {
+      "query": "bouchon de bain universel",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "breaker switch won't stay on",
+      "clicks": 1,
+      "impressions": 75,
+      "ctr": 0.013333333333333334,
+      "position": 7.653333333333333
+    },
+    {
+      "query": "breaker won't stay on",
+      "clicks": 1,
+      "impressions": 175,
+      "ctr": 0.005714285714285714,
+      "position": 5.114285714285714
+    },
+    {
+      "query": "can a bad shower head cause a leak",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "can a generator freeze",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 1.4210526315789473
+    },
+    {
+      "query": "can a shower and sink share a drain",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "can changing a shower head cause a leak behind the wall",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 16.4
+    },
+    {
+      "query": "caulking contractors near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "ceiling dripping after shower",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 1
+    },
+    {
+      "query": "ceiling under bathroom leaking",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 6.0588235294117645
+    },
+    {
+      "query": "circuit breaker won't turn back on",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 29.5
+    },
+    {
+      "query": "clog kitchen sink",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 25.8
+    },
+    {
+      "query": "comment boucher un evier sans bouchon",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 2
+    },
+    {
+      "query": "commercial plumbing seattle",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 1
+    },
+    {
+      "query": "como hacer una tapa de registro de drenaje",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 2.8
+    },
+    {
+      "query": "como hacer una tapa de registro para drenaje",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 4
+    },
+    {
+      "query": "corrosion on hot water heater",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 11.375
+    },
+    {
+      "query": "deep shower trays uk",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "desagüe bañera sin tornillo",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 2.5
+    },
+    {
+      "query": "desatascar bañera",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 3
+    },
+    {
+      "query": "dimmer light switch not working",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 3
+    },
+    {
+      "query": "dimmer switch cost",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "diy bath drain plug",
+      "clicks": 1,
+      "impressions": 80,
+      "ctr": 0.0125,
+      "position": 1.1625
+    },
+    {
+      "query": "diy bath tub stopper",
+      "clicks": 1,
+      "impressions": 218,
+      "ctr": 0.0045871559633027525,
+      "position": 2.784403669724771
+    },
+    {
+      "query": "diy bathtub drain",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 18
+    },
+    {
+      "query": "diy bathtub drain stopper",
+      "clicks": 1,
+      "impressions": 58,
+      "ctr": 0.017241379310344827,
+      "position": 1.5689655172413794
+    },
+    {
+      "query": "diy bathtub plug",
+      "clicks": 1,
+      "impressions": 283,
+      "ctr": 0.0035335689045936395,
+      "position": 1.7208480565371025
+    },
+    {
+      "query": "diy bathtub stopper",
+      "clicks": 1,
+      "impressions": 646,
+      "ctr": 0.0015479876160990713,
+      "position": 1.848297213622291
+    },
+    {
+      "query": "diy drain cover",
+      "clicks": 1,
+      "impressions": 126,
+      "ctr": 0.007936507936507936,
+      "position": 1.9603174603174605
+    },
+    {
+      "query": "diy drain stopper for bath",
+      "clicks": 1,
+      "impressions": 58,
+      "ctr": 0.017241379310344827,
+      "position": 1.1379310344827587
+    },
+    {
+      "query": "diy overflow drain cover",
+      "clicks": 1,
+      "impressions": 69,
+      "ctr": 0.014492753623188406,
+      "position": 3.6956521739130435
+    },
+    {
+      "query": "diy plug for bath",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 2.909090909090909
+    },
+    {
+      "query": "diy sink plug",
+      "clicks": 1,
+      "impressions": 86,
+      "ctr": 0.011627906976744186,
+      "position": 2.1279069767441863
+    },
+    {
+      "query": "do dimmer switches get warm",
+      "clicks": 1,
+      "impressions": 38,
+      "ctr": 0.02631578947368421,
+      "position": 3.973684210526316
+    },
+    {
+      "query": "do toilets wear out",
+      "clicks": 1,
+      "impressions": 43,
+      "ctr": 0.023255813953488372,
+      "position": 7.72093023255814
+    },
+    {
+      "query": "do toilets wear out over time",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 9.916666666666666
+    },
+    {
+      "query": "does recessed lighting increase home value",
+      "clicks": 1,
+      "impressions": 115,
+      "ctr": 0.008695652173913044,
+      "position": 2.1304347826086953
+    },
+    {
+      "query": "douche lekt door plafond",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "downstairs toilet bubbles when upstairs tub drains",
+      "clicks": 1,
+      "impressions": 33,
+      "ctr": 0.030303030303030304,
+      "position": 2.909090909090909
+    },
+    {
+      "query": "drain bathtub and toilet bubbles",
+      "clicks": 1,
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 3.9375
+    },
+    {
+      "query": "drain clog plumber near me",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 40.9
+    },
+    {
+      "query": "drain cover diy",
+      "clicks": 1,
+      "impressions": 23,
+      "ctr": 0.043478260869565216,
+      "position": 3.6956521739130435
+    },
+    {
+      "query": "drain pipe trellis",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 14
+    },
+    {
+      "query": "drain stopper amazon",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "eau qui remonte dans la douche quand je tire la chasse",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 2
     }
   ],
   "topPages": [
     {
       "page": "https://www.genejohnsonplumbing.com/how-to-block-a-bathtub-drain-without-a-plug/",
-      "clicks": 935,
-      "impressions": 181846,
-      "ctr": 0.005141713317862367,
-      "position": 3.226284878413603
+      "clicks": 810,
+      "impressions": 165233,
+      "ctr": 0.00490216845303299,
+      "position": 3.057064872029195
     },
     {
       "page": "https://www.genejohnsonplumbing.com/",
-      "clicks": 614,
-      "impressions": 13991,
-      "ctr": 0.04388535487098849,
-      "position": 15.177542706025301
+      "clicks": 630,
+      "impressions": 13631,
+      "ctr": 0.04621817915046585,
+      "position": 11.828479201819382
     },
     {
       "page": "https://www.genejohnsonplumbing.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*109*gene-johnson-plumbing-seattle",
-      "clicks": 503,
-      "impressions": 50644,
-      "ctr": 0.009932074875602243,
-      "position": 4.002191770002369
+      "clicks": 539,
+      "impressions": 56495,
+      "ctr": 0.009540667315691654,
+      "position": 4.010478803433932
     },
     {
       "page": "https://www.genejohnsonplumbing.com/why-sewage-is-coming-up-through-your-bathtub/",
-      "clicks": 415,
-      "impressions": 85077,
-      "ctr": 0.0048779341067503555,
-      "position": 2.9646085310953607
+      "clicks": 308,
+      "impressions": 62386,
+      "ctr": 0.004937005097297471,
+      "position": 3.3604334305773733
     },
     {
       "page": "https://www.genejohnsonplumbing.com/why-is-water-leaking-through-the-ceiling-after-a-shower/",
-      "clicks": 278,
-      "impressions": 57008,
-      "ctr": 0.004876508560202077,
-      "position": 9.601915520628683
+      "clicks": 201,
+      "impressions": 44081,
+      "ctr": 0.004559787663619246,
+      "position": 10.162133345432272
     },
     {
       "page": "https://www.genejohnsonplumbing.com/why-does-my-toilet-bubble-when-the-bathtub-drains/",
-      "clicks": 165,
-      "impressions": 24658,
-      "ctr": 0.006691540270905994,
-      "position": 3.5507745964798443
-    },
-    {
-      "page": "https://www.genejohnsonplumbing.com/what-does-a-warm-electrical-outlet-mean/",
-      "clicks": 154,
-      "impressions": 35418,
-      "ctr": 0.004348071602010277,
-      "position": 3.382432661358631
-    },
-    {
-      "page": "https://www.genejohnsonplumbing.com/what-to-do-when-you-drop-something-down-the-drain/",
-      "clicks": 135,
-      "impressions": 31062,
-      "ctr": 0.004346146416843732,
-      "position": 3.744897302169854
-    },
-    {
-      "page": "https://www.genejohnsonplumbing.com/how-to-give-your-dog-a-bath-without-clogging-the-drain/",
-      "clicks": 84,
-      "impressions": 19485,
-      "ctr": 0.004311008468052348,
-      "position": 3.2357197844495764
-    },
-    {
-      "page": "https://www.genejohnsonplumbing.com/why-is-my-dimmer-switch-warm-to-the-touch/",
-      "clicks": 76,
-      "impressions": 23291,
-      "ctr": 0.003263062985702632,
-      "position": 3.0652612597140525
-    },
-    {
-      "page": "https://www.genejohnsonplumbing.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*249*gene-johnson-plumbing-mukilteo",
-      "clicks": 75,
-      "impressions": 11084,
-      "ctr": 0.006766510285095634,
-      "position": 4.066853121616745
-    },
-    {
-      "page": "https://www.genejohnsonplumbing.com/what-does-a-buzzing-electrical-outlet-mean/",
-      "clicks": 72,
-      "impressions": 44518,
-      "ctr": 0.0016173233298890336,
-      "position": 2.4827710139718766
-    },
-    {
-      "page": "https://www.genejohnsonplumbing.com/contact/",
-      "clicks": 53,
-      "impressions": 7234,
-      "ctr": 0.00732651368537462,
-      "position": 11.987696986452862
-    },
-    {
-      "page": "https://www.genejohnsonplumbing.com/how-to-prepare-your-generator-for-winter-use/",
-      "clicks": 51,
-      "impressions": 9850,
-      "ctr": 0.005177664974619289,
-      "position": 3.545786802030457
-    },
-    {
-      "page": "https://www.genejohnsonplumbing.com/kitchen-drain-etiquette-the-top-foods-that-clog-pipes/",
-      "clicks": 50,
-      "impressions": 8354,
-      "ctr": 0.005985156811108451,
-      "position": 3.6651903279865934
-    },
-    {
-      "page": "https://www.genejohnsonplumbing.com/how-to-prevent-mold-from-growing-in-your-bathroom/",
-      "clicks": 41,
-      "impressions": 34680,
-      "ctr": 0.001182237600922722,
-      "position": 4.541118800461361
-    },
-    {
-      "page": "https://www.genejohnsonplumbing.com/signs-your-outside-faucet-needs-to-be-replaced/",
-      "clicks": 36,
-      "impressions": 9035,
-      "ctr": 0.003984504703929165,
-      "position": 4.174100719424461
-    },
-    {
-      "page": "https://www.genejohnsonplumbing.com/about-us/",
-      "clicks": 35,
-      "impressions": 6498,
-      "ctr": 0.00538627269929209,
-      "position": 4.200677131425054
-    },
-    {
-      "page": "https://www.genejohnsonplumbing.com/schedule-now/",
-      "clicks": 34,
-      "impressions": 4626,
-      "ctr": 0.007349762213575443,
-      "position": 6.905101599654129
+      "clicks": 127,
+      "impressions": 20687,
+      "ctr": 0.006139121187219027,
+      "position": 3.4120945521341906
     },
     {
       "page": "https://www.genejohnsonplumbing.com/why-is-my-sump-pump-short-cycling-causes-solutions/",
-      "clicks": 33,
-      "impressions": 1888,
-      "ctr": 0.017478813559322032,
-      "position": 2.6281779661016946
+      "clicks": 120,
+      "impressions": 8429,
+      "ctr": 0.014236564242496145,
+      "position": 2.9543243563886583
     },
     {
-      "page": "https://www.genejohnsonplumbing.com/about-us/careers/",
-      "clicks": 32,
-      "impressions": 634,
-      "ctr": 0.050473186119873815,
-      "position": 10.605678233438486
+      "page": "https://www.genejohnsonplumbing.com/what-does-a-warm-electrical-outlet-mean/",
+      "clicks": 107,
+      "impressions": 25838,
+      "ctr": 0.004141187398405449,
+      "position": 3.4145057667002088
     },
     {
-      "page": "https://www.genejohnsonplumbing.com/welcome-taylor-heating-ac/",
-      "clicks": 31,
-      "impressions": 2791,
-      "ctr": 0.011107130060910068,
-      "position": 8.402364743819419
+      "page": "https://www.genejohnsonplumbing.com/what-to-do-when-you-drop-something-down-the-drain/",
+      "clicks": 104,
+      "impressions": 24827,
+      "ctr": 0.004188987795545172,
+      "position": 3.661054497120071
     },
     {
-      "page": "https://www.genejohnsonplumbing.com/how-to-tell-if-your-electrical-panel-is-outdated/",
-      "clicks": 29,
-      "impressions": 8277,
-      "ctr": 0.003503684909991543,
-      "position": 5.271595988884862
+      "page": "https://www.genejohnsonplumbing.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*249*gene-johnson-plumbing-mukilteo",
+      "clicks": 72,
+      "impressions": 14494,
+      "ctr": 0.004967572788740169,
+      "position": 3.4338346902166412
     },
     {
-      "page": "https://www.genejohnsonplumbing.com/reviews/",
-      "clicks": 28,
-      "impressions": 4080,
-      "ctr": 0.006862745098039216,
-      "position": 3.770098039215686
+      "page": "https://www.genejohnsonplumbing.com/why-is-my-dimmer-switch-warm-to-the-touch/",
+      "clicks": 66,
+      "impressions": 19921,
+      "ctr": 0.0033130866924351186,
+      "position": 3.0029115004266855
     },
     {
-      "page": "https://www.genejohnsonplumbing.com/what-are-the-different-types-of-outdoor-drains/",
-      "clicks": 28,
-      "impressions": 8288,
-      "ctr": 0.0033783783783783786,
-      "position": 6.695342664092664
+      "page": "https://www.genejohnsonplumbing.com/what-does-a-buzzing-electrical-outlet-mean/",
+      "clicks": 64,
+      "impressions": 39489,
+      "ctr": 0.0016207044999873381,
+      "position": 2.4284231051685277
     },
     {
-      "page": "https://www.genejohnsonplumbing.com/sewer-odors-how-to-pinpoint-and-solve-the-smell/",
-      "clicks": 23,
-      "impressions": 8123,
-      "ctr": 0.002831466207066355,
-      "position": 17.08346669949526
+      "page": "https://www.genejohnsonplumbing.com/how-to-give-your-dog-a-bath-without-clogging-the-drain/",
+      "clicks": 61,
+      "impressions": 15715,
+      "ctr": 0.003881641743557111,
+      "position": 3.242761692650334
     },
     {
-      "page": "https://www.genejohnsonplumbing.com/what-to-do-when-your-circuit-breakers-will-not-reset/",
-      "clicks": 23,
-      "impressions": 13420,
-      "ctr": 0.001713859910581222,
-      "position": 7.713710879284649
+      "page": "https://www.genejohnsonplumbing.com/contact/",
+      "clicks": 52,
+      "impressions": 7242,
+      "ctr": 0.007180336923501795,
+      "position": 10.456641811654238
+    },
+    {
+      "page": "https://www.genejohnsonplumbing.com/how-to-prepare-your-generator-for-winter-use/",
+      "clicks": 49,
+      "impressions": 9063,
+      "ctr": 0.005406598256647909,
+      "position": 3.2746331236897275
+    },
+    {
+      "page": "https://www.genejohnsonplumbing.com/about-us/",
+      "clicks": 44,
+      "impressions": 6740,
+      "ctr": 0.006528189910979229,
+      "position": 4.3912462908011864
+    },
+    {
+      "page": "https://www.genejohnsonplumbing.com/kitchen-drain-etiquette-the-top-foods-that-clog-pipes/",
+      "clicks": 43,
+      "impressions": 7849,
+      "ctr": 0.005478404892342974,
+      "position": 3.414065486049178
+    },
+    {
+      "page": "https://www.genejohnsonplumbing.com/how-to-prevent-mold-from-growing-in-your-bathroom/",
+      "clicks": 35,
+      "impressions": 29881,
+      "ctr": 0.0011713128744017937,
+      "position": 4.797931796124628
     },
     {
       "page": "https://www.genejohnsonplumbing.com/why-does-my-sewer-keep-backing-up-after-cleaned/",
+      "clicks": 35,
+      "impressions": 2520,
+      "ctr": 0.013888888888888888,
+      "position": 7.533333333333333
+    },
+    {
+      "page": "https://www.genejohnsonplumbing.com/schedule-now/",
+      "clicks": 32,
+      "impressions": 5081,
+      "ctr": 0.006297972839992128,
+      "position": 7.015154497146231
+    },
+    {
+      "page": "https://www.genejohnsonplumbing.com/about-us/careers/",
+      "clicks": 31,
+      "impressions": 730,
+      "ctr": 0.04246575342465753,
+      "position": 9.794520547945206
+    },
+    {
+      "page": "https://www.genejohnsonplumbing.com/reviews/",
+      "clicks": 29,
+      "impressions": 3890,
+      "ctr": 0.007455012853470437,
+      "position": 3.5125964010282775
+    },
+    {
+      "page": "https://www.genejohnsonplumbing.com/welcome-taylor-heating-ac/",
+      "clicks": 29,
+      "impressions": 2422,
+      "ctr": 0.011973575557390587,
+      "position": 10.52394715111478
+    },
+    {
+      "page": "https://www.genejohnsonplumbing.com/how-to-tell-if-your-electrical-panel-is-outdated/",
+      "clicks": 24,
+      "impressions": 6384,
+      "ctr": 0.0037593984962406013,
+      "position": 5.3444548872180455
+    },
+    {
+      "page": "https://www.genejohnsonplumbing.com/signs-your-outside-faucet-needs-to-be-replaced/",
       "clicks": 23,
-      "impressions": 1576,
-      "ctr": 0.014593908629441625,
-      "position": 8.980329949238579
+      "impressions": 7318,
+      "ctr": 0.0031429352282044275,
+      "position": 3.7160426345996176
     },
     {
       "page": "https://www.genejohnsonplumbing.com/customer-service-partner-program/",
-      "clicks": 22,
-      "impressions": 680,
-      "ctr": 0.03235294117647059,
-      "position": 8.889705882352942
+      "clicks": 20,
+      "impressions": 604,
+      "ctr": 0.033112582781456956,
+      "position": 12.206953642384105
     },
     {
-      "page": "https://www.genejohnsonplumbing.com/how-can-i-tell-if-my-water-heater-has-a-corrosion-problem/",
-      "clicks": 22,
-      "impressions": 5175,
-      "ctr": 0.004251207729468599,
-      "position": 5.822222222222222
-    },
-    {
-      "page": "https://www.genejohnsonplumbing.com/press-releases/weird-and-wild-white-house-plumbing-facts/",
-      "clicks": 22,
-      "impressions": 7716,
-      "ctr": 0.002851218247796786,
-      "position": 9.244297563504407
-    },
-    {
-      "page": "https://www.genejohnsonplumbing.com/furnace-repair-and-maintenance/",
-      "clicks": 21,
-      "impressions": 16851,
-      "ctr": 0.001246216841730461,
-      "position": 19.552074060886593
+      "page": "https://www.genejohnsonplumbing.com/sewer-odors-how-to-pinpoint-and-solve-the-smell/",
+      "clicks": 20,
+      "impressions": 8620,
+      "ctr": 0.002320185614849188,
+      "position": 13.944895591647331
     },
     {
       "page": "https://www.genejohnsonplumbing.com/guide-to-unblocking-your-bathroom-sink/",
-      "clicks": 21,
-      "impressions": 22079,
-      "ctr": 0.0009511300330630917,
-      "position": 13.33787762126908
-    },
-    {
-      "page": "https://www.genejohnsonplumbing.com/what-to-do-when-your-wall-socket-stops-working/",
-      "clicks": 20,
-      "impressions": 10639,
-      "ctr": 0.0018798759281887394,
-      "position": 6.064479744336873
-    },
-    {
-      "page": "https://www.genejohnsonplumbing.com/eco-friendly-drain-cleaning-natural-solutions-that-actually-work/",
-      "clicks": 19,
-      "impressions": 18607,
-      "ctr": 0.0010211210834632127,
-      "position": 12.002848390390714
-    },
-    {
-      "page": "https://www.genejohnsonplumbing.com/the-top-benefits-of-installing-recessed-lighting-in-your-home/",
       "clicks": 18,
-      "impressions": 7210,
-      "ctr": 0.0024965325936199723,
-      "position": 4.854646324549237
+      "impressions": 22661,
+      "ctr": 0.0007943162261153523,
+      "position": 12.626759631084242
     },
     {
-      "page": "https://www.genejohnsonplumbing.com/why-does-my-toilet-keep-clogging/",
-      "clicks": 17,
-      "impressions": 24452,
-      "ctr": 0.0006952396531981024,
-      "position": 6.881931948306887
-    },
-    {
-      "page": "https://www.genejohnsonplumbing.com/gas-line-repair-installation/",
-      "clicks": 15,
-      "impressions": 12151,
-      "ctr": 0.0012344662990700355,
-      "position": 38.49847749156448
-    },
-    {
-      "page": "https://www.genejohnsonplumbing.com/boiler-installation-repair/",
-      "clicks": 14,
-      "impressions": 27468,
-      "ctr": 0.0005096839959225281,
-      "position": 43.56105286151158
-    },
-    {
-      "page": "https://www.genejohnsonplumbing.com/water-leak-detection/",
-      "clicks": 14,
-      "impressions": 10766,
-      "ctr": 0.0013003901170351106,
-      "position": 44.291473156232584
-    },
-    {
-      "page": "https://www.genejohnsonplumbing.com/drains/",
-      "clicks": 13,
-      "impressions": 35929,
-      "ctr": 0.00036182470984441535,
-      "position": 30.71616243146205
-    },
-    {
-      "page": "https://www.genejohnsonplumbing.com/how-tree-roots-invade-drains-and-what-you-can-do-about-it/",
-      "clicks": 13,
-      "impressions": 3786,
-      "ctr": 0.003433703116745906,
-      "position": 15.480982567353408
-    },
-    {
-      "page": "https://www.genejohnsonplumbing.com/faucets-fixtures-sinks/",
-      "clicks": 12,
-      "impressions": 7695,
-      "ctr": 0.0015594541910331384,
-      "position": 28.511111111111113
-    },
-    {
-      "page": "https://www.genejohnsonplumbing.com/showers-tubs/",
-      "clicks": 12,
-      "impressions": 3224,
-      "ctr": 0.0037220843672456576,
-      "position": 29.94075682382134
-    },
-    {
-      "page": "https://www.genejohnsonplumbing.com/how-to-increase-water-pressure-in-the-shower/",
-      "clicks": 11,
-      "impressions": 13116,
-      "ctr": 0.0008386703263189997,
-      "position": 23.57235437633425
+      "page": "https://www.genejohnsonplumbing.com/service-area/",
+      "clicks": 18,
+      "impressions": 4348,
+      "ctr": 0.004139834406623735,
+      "position": 4.461821527138914
     },
     {
       "page": "https://www.genejohnsonplumbing.com/sump-pump-not-turning-on-failures-causes/",
+      "clicks": 18,
+      "impressions": 2644,
+      "ctr": 0.00680786686838124,
+      "position": 15.989409984871408
+    },
+    {
+      "page": "https://www.genejohnsonplumbing.com/what-are-the-different-types-of-outdoor-drains/",
+      "clicks": 18,
+      "impressions": 6232,
+      "ctr": 0.002888318356867779,
+      "position": 7.142329910141207
+    },
+    {
+      "page": "https://www.genejohnsonplumbing.com/what-to-do-when-your-wall-socket-stops-working/",
+      "clicks": 18,
+      "impressions": 9155,
+      "ctr": 0.0019661387220098305,
+      "position": 6.158601856908793
+    },
+    {
+      "page": "https://www.genejohnsonplumbing.com/press-releases/weird-and-wild-white-house-plumbing-facts/",
+      "clicks": 17,
+      "impressions": 6782,
+      "ctr": 0.002506635210852256,
+      "position": 8.549248009436745
+    },
+    {
+      "page": "https://www.genejohnsonplumbing.com/eco-friendly-drain-cleaning-natural-solutions-that-actually-work/",
+      "clicks": 16,
+      "impressions": 20292,
+      "ctr": 0.000788488074117879,
+      "position": 12.964419475655431
+    },
+    {
+      "page": "https://www.genejohnsonplumbing.com/furnace-repair-and-maintenance/",
+      "clicks": 15,
+      "impressions": 15006,
+      "ctr": 0.0009996001599360256,
+      "position": 16.96921231507397
+    },
+    {
+      "page": "https://www.genejohnsonplumbing.com/how-can-i-tell-if-my-water-heater-has-a-corrosion-problem/",
+      "clicks": 14,
+      "impressions": 3719,
+      "ctr": 0.003764452809895133,
+      "position": 6.777359505243345
+    },
+    {
+      "page": "https://www.genejohnsonplumbing.com/about-us/financing/",
+      "clicks": 12,
+      "impressions": 138,
+      "ctr": 0.08695652173913043,
+      "position": 18.21014492753623
+    },
+    {
+      "page": "https://www.genejohnsonplumbing.com/what-to-do-when-your-circuit-breakers-will-not-reset/",
+      "clicks": 12,
+      "impressions": 9922,
+      "ctr": 0.0012094335819391251,
+      "position": 9.112174964724854
+    },
+    {
+      "page": "https://www.genejohnsonplumbing.com/energy-bills-spiking-5-plumbing-tweaks-that-help/",
       "clicks": 11,
-      "impressions": 1142,
-      "ctr": 0.009632224168126095,
-      "position": 9.985989492119089
+      "impressions": 2728,
+      "ctr": 0.004032258064516129,
+      "position": 5.446847507331379
+    },
+    {
+      "page": "https://www.genejohnsonplumbing.com/why-does-my-toilet-keep-clogging/",
+      "clicks": 11,
+      "impressions": 17963,
+      "ctr": 0.000612369871402327,
+      "position": 9.028837053944219
+    },
+    {
+      "page": "https://www.genejohnsonplumbing.com/faucets-fixtures-sinks/",
+      "clicks": 10,
+      "impressions": 6639,
+      "ctr": 0.0015062509414068383,
+      "position": 27.318722699201686
+    },
+    {
+      "page": "https://www.genejohnsonplumbing.com/gas-line-repair-installation/",
+      "clicks": 10,
+      "impressions": 12044,
+      "ctr": 0.0008302889405513118,
+      "position": 42.72135503155098
+    },
+    {
+      "page": "https://www.genejohnsonplumbing.com/how-tree-roots-invade-drains-and-what-you-can-do-about-it/",
+      "clicks": 10,
+      "impressions": 3414,
+      "ctr": 0.0029291154071470417,
+      "position": 14.654950205038078
     },
     {
       "page": "https://www.genejohnsonplumbing.com/seattle-wa/",
       "clicks": 10,
-      "impressions": 6664,
-      "ctr": 0.0015006002400960385,
-      "position": 10.248499399759904
+      "impressions": 6572,
+      "ctr": 0.0015216068167985392,
+      "position": 10.411290322580646
     },
     {
-      "page": "https://www.genejohnsonplumbing.com/service-area/",
+      "page": "https://www.genejohnsonplumbing.com/the-top-benefits-of-installing-recessed-lighting-in-your-home/",
       "clicks": 10,
-      "impressions": 4260,
-      "ctr": 0.002347417840375587,
-      "position": 5.2532863849765254
+      "impressions": 5876,
+      "ctr": 0.0017018379850238256,
+      "position": 4.80360789652825
     },
     {
-      "page": "https://www.genejohnsonplumbing.com/about-us/financing/",
+      "page": "https://www.genejohnsonplumbing.com/puyallup/",
       "clicks": 9,
-      "impressions": 126,
-      "ctr": 0.07142857142857142,
-      "position": 14.373015873015873
+      "impressions": 620,
+      "ctr": 0.014516129032258065,
+      "position": 22.770967741935483
+    },
+    {
+      "page": "https://www.genejohnsonplumbing.com/boiler-installation-repair/",
+      "clicks": 8,
+      "impressions": 34762,
+      "ctr": 0.00023013635579080606,
+      "position": 47.76727461020655
     },
     {
       "page": "https://www.genejohnsonplumbing.com/contact/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*109*gene-johnson-plumbing-seattle",
-      "clicks": 9,
-      "impressions": 2863,
-      "ctr": 0.0031435557107928748,
-      "position": 9.83653510303877
+      "clicks": 8,
+      "impressions": 2797,
+      "ctr": 0.002860207365033965,
+      "position": 9.984983911333572
+    },
+    {
+      "page": "https://www.genejohnsonplumbing.com/radiant-heating-services/",
+      "clicks": 8,
+      "impressions": 3608,
+      "ctr": 0.0022172949002217295,
+      "position": 31.795454545454547
+    },
+    {
+      "page": "https://www.genejohnsonplumbing.com/water-leak-detection/",
+      "clicks": 8,
+      "impressions": 10559,
+      "ctr": 0.0007576475044985321,
+      "position": 46.966568803864
     }
   ],
-  "fetchedAt": "2026-03-18T13:06:52.602Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [],
+  "fetchedAt": "2026-04-07T16:21:41.618Z"
 }

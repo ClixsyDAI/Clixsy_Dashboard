@@ -1,156 +1,16 @@
 {
   "property": "sc-domain:autoaccident.com",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 9272,
-    "impressions": 5170477,
-    "ctr": 0.0017932581462019848,
-    "position": 16.125239569621037
+    "clicks": 8754,
+    "impressions": 4969177,
+    "ctr": 0.0017616599287970623,
+    "position": 15.069657986388435
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 148,
-      "impressions": 81624,
-      "ctr": 0.0018131921983730276,
-      "position": 14.21440997745761
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 146,
-      "impressions": 69688,
-      "ctr": 0.002095052232809092,
-      "position": 15.82044254391
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 118,
-      "impressions": 63079,
-      "ctr": 0.0018706701120816754,
-      "position": 13.87317490765548
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 130,
-      "impressions": 64029,
-      "ctr": 0.002030330006715707,
-      "position": 14.31343609926752
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 132,
-      "impressions": 60433,
-      "ctr": 0.0021842370890076614,
-      "position": 15.599109757913723
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 94,
-      "impressions": 55338,
-      "ctr": 0.001698651920922332,
-      "position": 17.51642632549062
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 107,
-      "impressions": 57000,
-      "ctr": 0.0018771929824561403,
-      "position": 18.06101754385965
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 141,
-      "impressions": 81444,
-      "ctr": 0.0017312509208781495,
-      "position": 12.99399587446589
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 135,
-      "impressions": 64045,
-      "ctr": 0.002107892887813256,
-      "position": 17.122335857600124
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 99,
-      "impressions": 52615,
-      "ctr": 0.001881592701701036,
-      "position": 18.207849472583863
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 69,
-      "impressions": 47109,
-      "ctr": 0.0014646882761255812,
-      "position": 16.50896856227048
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 117,
-      "impressions": 53668,
-      "ctr": 0.002180070060371171,
-      "position": 15.551408660654394
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 81,
-      "impressions": 52795,
-      "ctr": 0.0015342361966095275,
-      "position": 17.02839284023108
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 77,
-      "impressions": 54877,
-      "ctr": 0.0014031379266359312,
-      "position": 18.216939701514296
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 131,
-      "impressions": 70249,
-      "ctr": 0.0018647952284018279,
-      "position": 14.766203077623882
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 132,
-      "impressions": 63672,
-      "ctr": 0.0020731247644176403,
-      "position": 16.25331385852494
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 101,
-      "impressions": 57008,
-      "ctr": 0.001771681167555431,
-      "position": 16.525557816446813
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 97,
-      "impressions": 56949,
-      "ctr": 0.0017032783718765913,
-      "position": 17.2110484819751
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 136,
-      "impressions": 56616,
-      "ctr": 0.0024021478027412744,
-      "position": 13.925445103857566
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 100,
-      "impressions": 50451,
-      "ctr": 0.001982121266179065,
-      "position": 14.330895324175932
-    },
     {
       "date": "2026-01-04",
       "clicks": 124,
@@ -640,711 +500,3314 @@
       "impressions": 37460,
       "ctr": 0.0012546716497597438,
       "position": 11.949599572877736
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 58,
+      "impressions": 39384,
+      "ctr": 0.001472679260613447,
+      "position": 12.849659760308755
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 78,
+      "impressions": 56825,
+      "ctr": 0.0013726352837659481,
+      "position": 10.155477342718873
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 87,
+      "impressions": 47853,
+      "ctr": 0.0018180678327377594,
+      "position": 11.512695128832048
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 74,
+      "impressions": 46253,
+      "ctr": 0.0015998962229477006,
+      "position": 11.362398114716884
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 100,
+      "impressions": 48955,
+      "ctr": 0.002042692268409764,
+      "position": 10.792911857828619
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 90,
+      "impressions": 44632,
+      "ctr": 0.0020164904104678257,
+      "position": 10.720648861803191
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 66,
+      "impressions": 41427,
+      "ctr": 0.001593163878629879,
+      "position": 11.82677963646897
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 84,
+      "impressions": 44475,
+      "ctr": 0.0018887015177065768,
+      "position": 12.151928049465992
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 124,
+      "impressions": 46793,
+      "ctr": 0.0026499690124591286,
+      "position": 11.384373731113628
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 89,
+      "impressions": 54954,
+      "ctr": 0.001619536339483932,
+      "position": 10.832223314044473
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 86,
+      "impressions": 47507,
+      "ctr": 0.0018102595406992654,
+      "position": 12.268023659671206
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 82,
+      "impressions": 51906,
+      "ctr": 0.001579778830963665,
+      "position": 11.799599275613609
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 89,
+      "impressions": 50356,
+      "ctr": 0.0017674159980935738,
+      "position": 10.912403685757408
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 60,
+      "impressions": 43822,
+      "ctr": 0.0013691753000775865,
+      "position": 12.681438546848614
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 66,
+      "impressions": 46380,
+      "ctr": 0.0014230271668822768,
+      "position": 12.108645968089693
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 91,
+      "impressions": 56093,
+      "ctr": 0.0016223058135596243,
+      "position": 11.273688339008432
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 106,
+      "impressions": 52097,
+      "ctr": 0.0020346661036144114,
+      "position": 9.860395032343513
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 90,
+      "impressions": 48078,
+      "ctr": 0.0018719580681392737,
+      "position": 10.444049253296726
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 90,
+      "impressions": 53595,
+      "ctr": 0.0016792611251049538,
+      "position": 11.106577106073328
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 91,
+      "impressions": 48289,
+      "ctr": 0.001884487150282673,
+      "position": 11.687071589803061
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 72,
+      "impressions": 41715,
+      "ctr": 0.001725997842502697,
+      "position": 10.376699029126213
     }
   ],
   "topQueries": [
     {
       "query": "baby brezza",
-      "clicks": 86,
-      "impressions": 2735,
-      "ctr": 0.03144424131627057,
-      "position": 3.5985374771480805
+      "clicks": 70,
+      "impressions": 2575,
+      "ctr": 0.027184466019417475,
+      "position": 3.5001941747572816
     },
     {
       "query": "baby brezza formula pro",
-      "clicks": 35,
-      "impressions": 1587,
-      "ctr": 0.02205419029615627,
-      "position": 3.873345935727788
+      "clicks": 38,
+      "impressions": 1383,
+      "ctr": 0.0274765003615329,
+      "position": 3.9624005784526393
     },
     {
       "query": "autoaccident.com",
-      "clicks": 33,
-      "impressions": 175,
-      "ctr": 0.18857142857142858,
-      "position": 1.2514285714285713
-    },
-    {
-      "query": "chp incident reports by date",
-      "clicks": 21,
-      "impressions": 7107,
-      "ctr": 0.0029548332629801602,
-      "position": 4.834810749964824
+      "clicks": 36,
+      "impressions": 184,
+      "ctr": 0.1956521739130435,
+      "position": 1.2391304347826086
     },
     {
       "query": "csaa",
-      "clicks": 21,
-      "impressions": 9550,
-      "ctr": 0.002198952879581152,
-      "position": 7.3582198952879585
-    },
-    {
-      "query": "kemper insurance",
-      "clicks": 21,
-      "impressions": 15280,
-      "ctr": 0.00137434554973822,
-      "position": 7.239659685863875
+      "clicks": 23,
+      "impressions": 10524,
+      "ctr": 0.002185480805777271,
+      "position": 7.281641961231471
     },
     {
       "query": "chp accident report",
-      "clicks": 18,
-      "impressions": 1668,
-      "ctr": 0.01079136690647482,
-      "position": 6.630695443645084
-    },
-    {
-      "query": "degloved",
       "clicks": 17,
-      "impressions": 61743,
-      "ctr": 0.0002753348557731241,
-      "position": 8.799167516965486
-    },
-    {
-      "query": "who pays for towing and storage after an accident",
-      "clicks": 17,
-      "impressions": 353,
-      "ctr": 0.04815864022662889,
-      "position": 3.3626062322946177
-    },
-    {
-      "query": "concord motorcycle accident lawyer",
-      "clicks": 16,
-      "impressions": 1365,
-      "ctr": 0.011721611721611722,
-      "position": 25.514285714285716
+      "impressions": 1707,
+      "ctr": 0.00995899238429994,
+      "position": 6.747510251903925
     },
     {
       "query": "law offices of edward a. smith",
-      "clicks": 16,
+      "clicks": 17,
       "impressions": 64,
-      "ctr": 0.25,
-      "position": 5.96875
+      "ctr": 0.265625,
+      "position": 4.8125
     },
     {
-      "query": "medial femoral condyle fracture",
+      "query": "who pays for towing and storage after an accident",
+      "clicks": 16,
+      "impressions": 321,
+      "ctr": 0.04984423676012461,
+      "position": 3.6230529595015577
+    },
+    {
+      "query": "chp incident reports by date",
       "clicks": 15,
-      "impressions": 1606,
-      "ctr": 0.00933997509339975,
-      "position": 1.9221668742216687
+      "impressions": 6260,
+      "ctr": 0.0023961661341853034,
+      "position": 5.706070287539936
     },
     {
-      "query": "sabrina randhawa",
-      "clicks": 15,
-      "impressions": 56,
-      "ctr": 0.26785714285714285,
-      "position": 2.303571428571429
+      "query": "law offices of edward a smith",
+      "clicks": 14,
+      "impressions": 44,
+      "ctr": 0.3181818181818182,
+      "position": 4.295454545454545
     },
     {
-      "query": "motorcycle accident lawyer concord",
+      "query": "baby brezza formula pro advanced",
       "clicks": 13,
-      "impressions": 1279,
-      "ctr": 0.010164190774042221,
-      "position": 18.218921032056294
+      "impressions": 384,
+      "ctr": 0.033854166666666664,
+      "position": 4.9375
     },
     {
-      "query": "sacramento car accident lawyer",
+      "query": "concord motorcycle accident lawyer",
       "clicks": 13,
-      "impressions": 8480,
-      "ctr": 0.0015330188679245284,
-      "position": 11.507547169811321
+      "impressions": 1411,
+      "ctr": 0.009213323883770375,
+      "position": 25.26718639262934
+    },
+    {
+      "query": "autoaccident",
+      "clicks": 12,
+      "impressions": 155,
+      "ctr": 0.07741935483870968,
+      "position": 3.425806451612903
     },
     {
       "query": "babybrezza",
       "clicks": 12,
-      "impressions": 285,
-      "ctr": 0.042105263157894736,
-      "position": 4.087719298245614
+      "impressions": 277,
+      "ctr": 0.04332129963898917,
+      "position": 4.144404332129964
     },
     {
-      "query": "law offices of edward a smith",
+      "query": "csaa insurance",
       "clicks": 12,
-      "impressions": 37,
-      "ctr": 0.32432432432432434,
-      "position": 4.918918918918919
+      "impressions": 5473,
+      "ctr": 0.002192581765028321,
+      "position": 9.754065412022657
     },
     {
-      "query": "autoaccident",
-      "clicks": 11,
-      "impressions": 153,
-      "ctr": 0.0718954248366013,
-      "position": 3.496732026143791
+      "query": "medial femoral condyle fracture",
+      "clicks": 12,
+      "impressions": 1683,
+      "ctr": 0.0071301247771836,
+      "position": 1.607843137254902
     },
     {
-      "query": "baby brezza formula pro advanced",
-      "clicks": 11,
-      "impressions": 387,
-      "ctr": 0.028423772609819122,
-      "position": 4.720930232558139
-    },
-    {
-      "query": "united services automobile association",
-      "clicks": 11,
-      "impressions": 16180,
-      "ctr": 0.0006798516687268232,
-      "position": 7.122064276885043
+      "query": "sabrina randhawa",
+      "clicks": 12,
+      "impressions": 53,
+      "ctr": 0.22641509433962265,
+      "position": 2.339622641509434
     },
     {
       "query": "colossus software",
+      "clicks": 11,
+      "impressions": 296,
+      "ctr": 0.037162162162162164,
+      "position": 3.925675675675676
+    },
+    {
+      "query": "motorcycle accident lawyer concord",
+      "clicks": 11,
+      "impressions": 1347,
+      "ctr": 0.008166295471417966,
+      "position": 18.37713437268003
+    },
+    {
+      "query": "car accident lawyer",
       "clicks": 10,
-      "impressions": 286,
-      "ctr": 0.03496503496503497,
-      "position": 3.6818181818181817
+      "impressions": 80253,
+      "ctr": 0.00012460593373456443,
+      "position": 3.8091410912987675
     },
     {
       "query": "long-term side effects of proton therapy",
       "clicks": 10,
-      "impressions": 356,
-      "ctr": 0.028089887640449437,
-      "position": 1.598314606741573
+      "impressions": 351,
+      "ctr": 0.02849002849002849,
+      "position": 1.9971509971509973
     },
     {
-      "query": "baby breeza",
+      "query": "sacramento car accident lawyer",
+      "clicks": 10,
+      "impressions": 8140,
+      "ctr": 0.0012285012285012285,
+      "position": 10.9004914004914
+    },
+    {
+      "query": "csaa insurance group",
       "clicks": 9,
-      "impressions": 467,
-      "ctr": 0.019271948608137045,
-      "position": 3.601713062098501
+      "impressions": 605,
+      "ctr": 0.01487603305785124,
+      "position": 10.887603305785124
     },
     {
-      "query": "deposition definition",
-      "clicks": 9,
-      "impressions": 17657,
-      "ctr": 0.000509712861754545,
-      "position": 9.546751996375376
-    },
-    {
-      "query": "ed smith attorney sacramento",
-      "clicks": 9,
-      "impressions": 38,
-      "ctr": 0.23684210526315788,
-      "position": 1.868421052631579
-    },
-    {
-      "query": "dr jerry tennant biomodulator",
+      "query": "colossus insurance software",
       "clicks": 8,
-      "impressions": 656,
-      "ctr": 0.012195121951219513,
-      "position": 5.7439024390243905
-    },
-    {
-      "query": "biomodulator",
-      "clicks": 7,
-      "impressions": 850,
-      "ctr": 0.00823529411764706,
-      "position": 8.202352941176471
-    },
-    {
-      "query": "car accident lawyer",
-      "clicks": 7,
-      "impressions": 22189,
-      "ctr": 0.00031547163008698004,
-      "position": 10.07084591464239
-    },
-    {
-      "query": "ed smith attorney",
-      "clicks": 7,
-      "impressions": 100,
-      "ctr": 0.07,
-      "position": 7.81
+      "impressions": 357,
+      "ctr": 0.022408963585434174,
+      "position": 5.913165266106443
     },
     {
       "query": "edward a smith law offices",
-      "clicks": 7,
+      "clicks": 8,
       "impressions": 79,
-      "ctr": 0.08860759493670886,
-      "position": 5.924050632911392
+      "ctr": 0.10126582278481013,
+      "position": 4.822784810126582
+    },
+    {
+      "query": "sacramento car accident reports",
+      "clicks": 8,
+      "impressions": 373,
+      "ctr": 0.021447721179624665,
+      "position": 8.099195710455763
+    },
+    {
+      "query": "united services automobile association",
+      "clicks": 8,
+      "impressions": 18909,
+      "ctr": 0.00042307895711037074,
+      "position": 7.01930297741816
+    },
+    {
+      "query": "accutane side effects male",
+      "clicks": 7,
+      "impressions": 2737,
+      "ctr": 0.0025575447570332483,
+      "position": 1.0054804530507855
+    },
+    {
+      "query": "deposition definition",
+      "clicks": 7,
+      "impressions": 14136,
+      "ctr": 0.0004951895868704018,
+      "position": 9.842317487266554
     },
     {
       "query": "femoral head fracture",
       "clicks": 7,
-      "impressions": 2153,
-      "ctr": 0.003251277287505806,
-      "position": 1.105434277751974
+      "impressions": 2116,
+      "ctr": 0.0033081285444234404,
+      "position": 1.1578449905482042
     },
     {
       "query": "if the insurance totals your car can you keep it",
       "clicks": 7,
-      "impressions": 312,
-      "ctr": 0.022435897435897436,
-      "position": 3.0865384615384617
+      "impressions": 398,
+      "ctr": 0.017587939698492462,
+      "position": 4.0879396984924625
     },
     {
-      "query": "accutane side effects male",
-      "clicks": 6,
-      "impressions": 2475,
-      "ctr": 0.0024242424242424242,
-      "position": 1.006060606060606
+      "query": "metlife car insurance",
+      "clicks": 7,
+      "impressions": 2458,
+      "ctr": 0.0028478437754271765,
+      "position": 12.058584214808787
     },
     {
-      "query": "chp incident reports by date yesterday",
-      "clicks": 6,
-      "impressions": 1210,
-      "ctr": 0.0049586776859504135,
-      "position": 9.331404958677686
+      "query": "non injury car accident lawyers near me",
+      "clicks": 7,
+      "impressions": 39,
+      "ctr": 0.1794871794871795,
+      "position": 2.3076923076923075
     },
     {
-      "query": "chp traffic incident",
+      "query": "abdominal bruising after car accident",
       "clicks": 6,
-      "impressions": 1480,
-      "ctr": 0.004054054054054054,
-      "position": 6.560135135135135
+      "impressions": 41,
+      "ctr": 0.14634146341463414,
+      "position": 4.390243902439025
+    },
+    {
+      "query": "biomodulator",
+      "clicks": 6,
+      "impressions": 859,
+      "ctr": 0.006984866123399301,
+      "position": 8.520372526193249
+    },
+    {
+      "query": "chp accident reports",
+      "clicks": 6,
+      "impressions": 458,
+      "ctr": 0.013100436681222707,
+      "position": 6.801310043668122
+    },
+    {
+      "query": "chp crash report",
+      "clicks": 6,
+      "impressions": 1941,
+      "ctr": 0.0030911901081916537,
+      "position": 7.1602266872746005
     },
     {
       "query": "disadvantages of proton beam therapy",
       "clicks": 6,
-      "impressions": 1277,
-      "ctr": 0.004698512137823023,
-      "position": 4.097102584181676
+      "impressions": 1200,
+      "ctr": 0.005,
+      "position": 4.2683333333333335
+    },
+    {
+      "query": "ed smith attorney",
+      "clicks": 6,
+      "impressions": 77,
+      "ctr": 0.07792207792207792,
+      "position": 7.233766233766234
     },
     {
       "query": "metformin lawsuit",
       "clicks": 6,
-      "impressions": 1475,
-      "ctr": 0.004067796610169492,
-      "position": 9.970169491525423
-    },
-    {
-      "query": "sacramento car accident reports",
-      "clicks": 6,
-      "impressions": 342,
-      "ctr": 0.017543859649122806,
-      "position": 8.269005847953217
+      "impressions": 1522,
+      "ctr": 0.003942181340341655,
+      "position": 9.71484888304862
     },
     {
       "query": "sacramento trauma centers",
       "clicks": 6,
-      "impressions": 30,
-      "ctr": 0.2,
-      "position": 2.966666666666667
+      "impressions": 38,
+      "ctr": 0.15789473684210525,
+      "position": 2.7894736842105265
     },
     {
-      "query": "colossus insurance software",
+      "query": "accident lawyer",
       "clicks": 5,
-      "impressions": 316,
-      "ctr": 0.015822784810126583,
-      "position": 6.468354430379747
+      "impressions": 6566,
+      "ctr": 0.0007614986293024672,
+      "position": 30.445476698141942
     },
     {
-      "query": "edward a smith",
+      "query": "baby breeza",
       "clicks": 5,
-      "impressions": 45,
-      "ctr": 0.1111111111111111,
-      "position": 4.266666666666667
+      "impressions": 341,
+      "ctr": 0.01466275659824047,
+      "position": 3.366568914956012
     },
     {
-      "query": "edward smith attorney",
+      "query": "baby brezza lawsuit",
       "clicks": 5,
-      "impressions": 108,
-      "ctr": 0.046296296296296294,
-      "position": 8.25
+      "impressions": 611,
+      "ctr": 0.008183306055646482,
+      "position": 3.738134206219313
+    },
+    {
+      "query": "chp reports",
+      "clicks": 5,
+      "impressions": 1288,
+      "ctr": 0.0038819875776397515,
+      "position": 7.295031055900621
+    },
+    {
+      "query": "concord auto accident lawyer",
+      "clicks": 5,
+      "impressions": 147,
+      "ctr": 0.034013605442176874,
+      "position": 18.931972789115648
+    },
+    {
+      "query": "csaa insurance exchange",
+      "clicks": 5,
+      "impressions": 168,
+      "ctr": 0.02976190476190476,
+      "position": 6.607142857142857
+    },
+    {
+      "query": "dr jerry tennant biomodulator",
+      "clicks": 5,
+      "impressions": 723,
+      "ctr": 0.006915629322268326,
+      "position": 5.800829875518672
+    },
+    {
+      "query": "ed smith attorney sacramento",
+      "clicks": 5,
+      "impressions": 38,
+      "ctr": 0.13157894736842105,
+      "position": 1.0263157894736843
     },
     {
       "query": "med pay",
       "clicks": 5,
-      "impressions": 1122,
-      "ctr": 0.004456327985739751,
-      "position": 11.878787878787879
-    },
-    {
-      "query": "metlife car insurance",
-      "clicks": 5,
-      "impressions": 1703,
-      "ctr": 0.002935995302407516,
-      "position": 16.86729301233118
-    },
-    {
-      "query": "non injury car accident lawyers near me",
-      "clicks": 5,
-      "impressions": 27,
-      "ctr": 0.18518518518518517,
-      "position": 2.4444444444444446
+      "impressions": 1140,
+      "ctr": 0.0043859649122807015,
+      "position": 12.24736842105263
     },
     {
       "query": "roller coaster accidents",
       "clicks": 5,
-      "impressions": 404,
-      "ctr": 0.012376237623762377,
-      "position": 9.113861386138614
+      "impressions": 318,
+      "ctr": 0.015723270440251572,
+      "position": 9.163522012578616
     },
     {
-      "query": "abdominal bruising after car accident",
+      "query": "shoulder drop off",
+      "clicks": 5,
+      "impressions": 242,
+      "ctr": 0.02066115702479339,
+      "position": 1.5578512396694215
+    },
+    {
+      "query": "tennant biomodulator",
+      "clicks": 5,
+      "impressions": 976,
+      "ctr": 0.005122950819672131,
+      "position": 9.014344262295081
+    },
+    {
+      "query": "998",
       "clicks": 4,
-      "impressions": 39,
-      "ctr": 0.10256410256410256,
-      "position": 4.205128205128205
+      "impressions": 3108,
+      "ctr": 0.001287001287001287,
+      "position": 11.652509652509652
     },
     {
       "query": "abdominal hematoma",
       "clicks": 4,
-      "impressions": 259,
-      "ctr": 0.015444015444015444,
-      "position": 20.27027027027027
-    },
-    {
-      "query": "accident lawyer",
-      "clicks": 4,
-      "impressions": 6730,
-      "ctr": 0.0005943536404160475,
-      "position": 29.555274888558692
+      "impressions": 203,
+      "ctr": 0.019704433497536946,
+      "position": 15.68472906403941
     },
     {
       "query": "auto accident",
       "clicks": 4,
-      "impressions": 3291,
-      "ctr": 0.001215436037678517,
-      "position": 26.382558492859314
+      "impressions": 2803,
+      "ctr": 0.0014270424545130217,
+      "position": 25.744916161255798
+    },
+    {
+      "query": "auto accident attorneys",
+      "clicks": 4,
+      "impressions": 14929,
+      "ctr": 0.00026793489182128745,
+      "position": 39.93301627704468
+    },
+    {
+      "query": "baby brezza sterilizer",
+      "clicks": 4,
+      "impressions": 83,
+      "ctr": 0.04819277108433735,
+      "position": 4.927710843373494
+    },
+    {
+      "query": "biomodulator device",
+      "clicks": 4,
+      "impressions": 74,
+      "ctr": 0.05405405405405406,
+      "position": 7.364864864864865
+    },
+    {
+      "query": "car accident attorney sacramento",
+      "clicks": 4,
+      "impressions": 3138,
+      "ctr": 0.0012746972594008922,
+      "position": 8.224346717654557
+    },
+    {
+      "query": "chp incident reports by date yesterday",
+      "clicks": 4,
+      "impressions": 823,
+      "ctr": 0.004860267314702308,
+      "position": 9.057108140947753
+    },
+    {
+      "query": "csaa general insurance company",
+      "clicks": 4,
+      "impressions": 180,
+      "ctr": 0.022222222222222223,
+      "position": 5.061111111111111
+    },
+    {
+      "query": "edward a smith",
+      "clicks": 4,
+      "impressions": 56,
+      "ctr": 0.07142857142857142,
+      "position": 4.910714285714286
+    },
+    {
+      "query": "edward smith attorney",
+      "clicks": 4,
+      "impressions": 107,
+      "ctr": 0.037383177570093455,
+      "position": 7.869158878504673
+    },
+    {
+      "query": "fred loya",
+      "clicks": 4,
+      "impressions": 8898,
+      "ctr": 0.0004495392222971454,
+      "position": 8.352438750280962
+    },
+    {
+      "query": "if your car is totaled can you keep it",
+      "clicks": 4,
+      "impressions": 453,
+      "ctr": 0.008830022075055188,
+      "position": 2.8609271523178808
+    },
+    {
+      "query": "united service automobile association",
+      "clicks": 4,
+      "impressions": 501,
+      "ctr": 0.007984031936127744,
+      "position": 5.818363273453094
+    },
+    {
+      "query": "what is colossus",
+      "clicks": 4,
+      "impressions": 742,
+      "ctr": 0.005390835579514825,
+      "position": 8.530997304582211
+    },
+    {
+      "query": "a vehicle went off highway 1 into the ocean.",
+      "clicks": 3,
+      "impressions": 748,
+      "ctr": 0.004010695187165776,
+      "position": 4.029411764705882
+    },
+    {
+      "query": "abdominal hematoma after car accident",
+      "clicks": 3,
+      "impressions": 38,
+      "ctr": 0.07894736842105263,
+      "position": 2.6315789473684212
+    },
+    {
+      "query": "accidents in cars",
+      "clicks": 3,
+      "impressions": 148,
+      "ctr": 0.02027027027027027,
+      "position": 15.297297297297296
+    },
+    {
+      "query": "auto accident lawyer",
+      "clicks": 3,
+      "impressions": 81450,
+      "ctr": 0.000036832412523020256,
+      "position": 28.931982811540824
+    },
+    {
+      "query": "auto accident lawyer sacramento",
+      "clicks": 3,
+      "impressions": 2492,
+      "ctr": 0.001203852327447833,
+      "position": 6.063001605136437
+    },
+    {
+      "query": "auto accident lawyers near me",
+      "clicks": 3,
+      "impressions": 2343,
+      "ctr": 0.0012804097311139564,
+      "position": 40.93043107127614
+    },
+    {
+      "query": "autoaccident.com sacramento",
+      "clicks": 3,
+      "impressions": 93,
+      "ctr": 0.03225806451612903,
+      "position": 1
+    },
+    {
+      "query": "baby brezza bottle washer",
+      "clicks": 3,
+      "impressions": 374,
+      "ctr": 0.008021390374331552,
+      "position": 5.229946524064171
+    },
+    {
+      "query": "baby brezza erfahrung",
+      "clicks": 3,
+      "impressions": 12,
+      "ctr": 0.25,
+      "position": 2.083333333333333
+    },
+    {
+      "query": "baby brezza formula",
+      "clicks": 3,
+      "impressions": 72,
+      "ctr": 0.041666666666666664,
+      "position": 3.25
+    },
+    {
+      "query": "baby brezza formula dispenser",
+      "clicks": 3,
+      "impressions": 18,
+      "ctr": 0.16666666666666666,
+      "position": 4.833333333333334
+    },
+    {
+      "query": "baby brezza formula maker",
+      "clicks": 3,
+      "impressions": 133,
+      "ctr": 0.022556390977443608,
+      "position": 3.7593984962406015
+    },
+    {
+      "query": "baby brezza formula pro mini",
+      "clicks": 3,
+      "impressions": 37,
+      "ctr": 0.08108108108108109,
+      "position": 4.27027027027027
+    },
+    {
+      "query": "baby brezza formula pro reviews",
+      "clicks": 3,
+      "impressions": 61,
+      "ctr": 0.04918032786885246,
+      "position": 3.262295081967213
+    },
+    {
+      "query": "baby brezza not dispensing enough formula",
+      "clicks": 3,
+      "impressions": 37,
+      "ctr": 0.08108108108108109,
+      "position": 2.6486486486486487
+    },
+    {
+      "query": "baby brezza pro",
+      "clicks": 3,
+      "impressions": 18,
+      "ctr": 0.16666666666666666,
+      "position": 3.0555555555555554
+    },
+    {
+      "query": "baby brezza reviews",
+      "clicks": 3,
+      "impressions": 219,
+      "ctr": 0.0136986301369863,
+      "position": 2
+    },
+    {
+      "query": "baby brezza sterilizer and dryer",
+      "clicks": 3,
+      "impressions": 49,
+      "ctr": 0.061224489795918366,
+      "position": 4.755102040816327
+    },
+    {
+      "query": "brain injury from motorcycle accident",
+      "clicks": 3,
+      "impressions": 127,
+      "ctr": 0.023622047244094488,
+      "position": 5.2204724409448815
+    },
+    {
+      "query": "brezza baby",
+      "clicks": 3,
+      "impressions": 13,
+      "ctr": 0.23076923076923078,
+      "position": 3.6923076923076925
+    },
+    {
+      "query": "bruised heart",
+      "clicks": 3,
+      "impressions": 811,
+      "ctr": 0.0036991368680641184,
+      "position": 6.254007398273736
+    },
+    {
+      "query": "bydureon",
+      "clicks": 3,
+      "impressions": 671,
+      "ctr": 0.004470938897168405,
+      "position": 5.748137108792847
+    },
+    {
+      "query": "california highway patrol incident",
+      "clicks": 3,
+      "impressions": 71,
+      "ctr": 0.04225352112676056,
+      "position": 7.380281690140845
+    },
+    {
+      "query": "can i keep my car if it is totaled",
+      "clicks": 3,
+      "impressions": 97,
+      "ctr": 0.030927835051546393,
+      "position": 3.3917525773195876
+    },
+    {
+      "query": "chp accident report lookup",
+      "clicks": 3,
+      "impressions": 205,
+      "ctr": 0.014634146341463415,
+      "position": 8.390243902439025
+    },
+    {
+      "query": "chp incident report",
+      "clicks": 3,
+      "impressions": 706,
+      "ctr": 0.00424929178470255,
+      "position": 7.06657223796034
+    },
+    {
+      "query": "chp reports today",
+      "clicks": 3,
+      "impressions": 318,
+      "ctr": 0.009433962264150943,
+      "position": 8.660377358490566
+    },
+    {
+      "query": "chp traffic incident",
+      "clicks": 3,
+      "impressions": 1233,
+      "ctr": 0.0024330900243309003,
+      "position": 6.867802108678021
+    },
+    {
+      "query": "chp traffic incident information page",
+      "clicks": 3,
+      "impressions": 888,
+      "ctr": 0.0033783783783783786,
+      "position": 5.80518018018018
+    },
+    {
+      "query": "does insurance cover tow yard fees",
+      "clicks": 3,
+      "impressions": 64,
+      "ctr": 0.046875,
+      "position": 6.078125
+    },
+    {
+      "query": "does umbrella policy cover uninsured motorist",
+      "clicks": 3,
+      "impressions": 34,
+      "ctr": 0.08823529411764706,
+      "position": 8.264705882352942
+    },
+    {
+      "query": "dr tennant biomodulator",
+      "clicks": 3,
+      "impressions": 708,
+      "ctr": 0.00423728813559322,
+      "position": 5.903954802259887
+    },
+    {
+      "query": "facial burns",
+      "clicks": 3,
+      "impressions": 509,
+      "ctr": 0.005893909626719057,
+      "position": 11.850687622789783
+    },
+    {
+      "query": "femoral condyle fracture",
+      "clicks": 3,
+      "impressions": 3015,
+      "ctr": 0.0009950248756218905,
+      "position": 1.6394693200663348
+    },
+    {
+      "query": "geico rideshare endorsement",
+      "clicks": 3,
+      "impressions": 78,
+      "ctr": 0.038461538461538464,
+      "position": 2.217948717948718
+    },
+    {
+      "query": "hematoma in throat",
+      "clicks": 3,
+      "impressions": 61,
+      "ctr": 0.04918032786885246,
+      "position": 3.2459016393442623
+    },
+    {
+      "query": "how do paralyzed people have intimacy",
+      "clicks": 3,
+      "impressions": 96,
+      "ctr": 0.03125,
+      "position": 4.59375
+    },
+    {
+      "query": "how do paralyzed people have sex",
+      "clicks": 3,
+      "impressions": 411,
+      "ctr": 0.0072992700729927005,
+      "position": 5.54014598540146
+    },
+    {
+      "query": "how does underinsured motorist coverage work",
+      "clicks": 3,
+      "impressions": 850,
+      "ctr": 0.0035294117647058825,
+      "position": 8.998823529411766
+    },
+    {
+      "query": "how to choose a personal injury lawyer",
+      "clicks": 3,
+      "impressions": 1915,
+      "ctr": 0.001566579634464752,
+      "position": 13.966579634464752
+    },
+    {
+      "query": "if my car is totaled can i keep it",
+      "clicks": 3,
+      "impressions": 1167,
+      "ctr": 0.002570694087403599,
+      "position": 2.710368466152528
+    },
+    {
+      "query": "intersection accident statistics",
+      "clicks": 3,
+      "impressions": 42,
+      "ctr": 0.07142857142857142,
+      "position": 3
+    },
+    {
+      "query": "kemper insurance",
+      "clicks": 3,
+      "impressions": 3426,
+      "ctr": 0.0008756567425569177,
+      "position": 7.96584938704028
+    },
+    {
+      "query": "medpay",
+      "clicks": 3,
+      "impressions": 2640,
+      "ctr": 0.0011363636363636363,
+      "position": 13.139015151515151
+    },
+    {
+      "query": "most dangerous highway in california",
+      "clicks": 3,
+      "impressions": 165,
+      "ctr": 0.01818181818181818,
+      "position": 6.993939393939394
+    },
+    {
+      "query": "motion to transfer venue california",
+      "clicks": 3,
+      "impressions": 77,
+      "ctr": 0.03896103896103896,
+      "position": 8.181818181818182
+    },
+    {
+      "query": "movies about brain injury",
+      "clicks": 3,
+      "impressions": 245,
+      "ctr": 0.012244897959183673,
+      "position": 7.775510204081633
+    },
+    {
+      "query": "personal injury attorney sacramento",
+      "clicks": 3,
+      "impressions": 2245,
+      "ctr": 0.0013363028953229399,
+      "position": 11.66815144766147
+    },
+    {
+      "query": "personal injury law firms in california",
+      "clicks": 3,
+      "impressions": 17,
+      "ctr": 0.17647058823529413,
+      "position": 5.352941176470588
+    },
+    {
+      "query": "pictures of neck hematoma",
+      "clicks": 3,
+      "impressions": 239,
+      "ctr": 0.012552301255230125,
+      "position": 4.719665271966527
+    },
+    {
+      "query": "proton radiation side effects",
+      "clicks": 3,
+      "impressions": 219,
+      "ctr": 0.0136986301369863,
+      "position": 7.027397260273973
+    },
+    {
+      "query": "reactiv8 cost",
+      "clicks": 3,
+      "impressions": 282,
+      "ctr": 0.010638297872340425,
+      "position": 9.592198581560284
+    },
+    {
+      "query": "sacramento bicycle accident lawyer",
+      "clicks": 3,
+      "impressions": 2931,
+      "ctr": 0.0010235414534288639,
+      "position": 18.95018764926646
+    },
+    {
+      "query": "sacramento personal injury attorney",
+      "clicks": 3,
+      "impressions": 2861,
+      "ctr": 0.0010485844110450892,
+      "position": 12.767913317022021
+    },
+    {
+      "query": "uim",
+      "clicks": 3,
+      "impressions": 1658,
+      "ctr": 0.0018094089264173703,
+      "position": 9.543425814234016
+    },
+    {
+      "query": "what is a 998",
+      "clicks": 3,
+      "impressions": 133,
+      "ctr": 0.022556390977443608,
+      "position": 4.804511278195489
+    },
+    {
+      "query": "what is a life care plan in a lawsuit",
+      "clicks": 3,
+      "impressions": 210,
+      "ctr": 0.014285714285714285,
+      "position": 6.09047619047619
+    },
+    {
+      "query": "what is premarin",
+      "clicks": 3,
+      "impressions": 1730,
+      "ctr": 0.0017341040462427746,
+      "position": 1.0028901734104045
+    },
+    {
+      "query": "what is premarin used for",
+      "clicks": 3,
+      "impressions": 818,
+      "ctr": 0.003667481662591687,
+      "position": 1.0048899755501222
+    },
+    {
+      "query": "who pays storage fees after a car accident",
+      "clicks": 3,
+      "impressions": 27,
+      "ctr": 0.1111111111111111,
+      "position": 4.2592592592592595
+    },
+    {
+      "query": "accident lawyer sacramento",
+      "clicks": 2,
+      "impressions": 5194,
+      "ctr": 0.0003850596842510589,
+      "position": 2.9768964189449365
+    },
+    {
+      "query": "ankle disarticulation",
+      "clicks": 2,
+      "impressions": 193,
+      "ctr": 0.010362694300518135,
+      "position": 4.259067357512953
+    },
+    {
+      "query": "antioch car accident lawyer",
+      "clicks": 2,
+      "impressions": 100,
+      "ctr": 0.02,
+      "position": 14.64
+    },
+    {
+      "query": "are hot air balloons dangerous",
+      "clicks": 2,
+      "impressions": 985,
+      "ctr": 0.0020304568527918783,
+      "position": 5.765482233502538
+    },
+    {
+      "query": "auto accident attorney",
+      "clicks": 2,
+      "impressions": 20893,
+      "ctr": 0.00009572584119082946,
+      "position": 29.931460297707368
+    },
+    {
+      "query": "auto accident attorney sacramento",
+      "clicks": 2,
+      "impressions": 2063,
+      "ctr": 0.0009694619486185168,
+      "position": 3.4905477460009693
+    },
+    {
+      "query": "baby brezza advanced formula pro",
+      "clicks": 2,
+      "impressions": 3,
+      "ctr": 0.6666666666666666,
+      "position": 4.333333333333334
+    },
+    {
+      "query": "baby brezza bottle maker",
+      "clicks": 2,
+      "impressions": 66,
+      "ctr": 0.030303030303030304,
+      "position": 2.8636363636363633
+    },
+    {
+      "query": "baby brezza hk",
+      "clicks": 2,
+      "impressions": 2,
+      "ctr": 1,
+      "position": 7
+    },
+    {
+      "query": "baby brezza läuft aus",
+      "clicks": 2,
+      "impressions": 3,
+      "ctr": 0.6666666666666666,
+      "position": 3.6666666666666665
+    },
+    {
+      "query": "baby brezza recall",
+      "clicks": 2,
+      "impressions": 560,
+      "ctr": 0.0035714285714285713,
+      "position": 3.0285714285714285
+    },
+    {
+      "query": "baby brezza reglage",
+      "clicks": 2,
+      "impressions": 3,
+      "ctr": 0.6666666666666666,
+      "position": 4.333333333333334
+    },
+    {
+      "query": "baby brezza review",
+      "clicks": 2,
+      "impressions": 3,
+      "ctr": 0.6666666666666666,
+      "position": 2.666666666666667
+    },
+    {
+      "query": "baby brezza reviews 2025",
+      "clicks": 2,
+      "impressions": 6,
+      "ctr": 0.3333333333333333,
+      "position": 1.8333333333333335
+    },
+    {
+      "query": "baby brezza steriliser",
+      "clicks": 2,
+      "impressions": 4,
+      "ctr": 0.5,
+      "position": 4.75
+    },
+    {
+      "query": "baby brezza ustawienie mleka",
+      "clicks": 2,
+      "impressions": 3,
+      "ctr": 0.6666666666666666,
+      "position": 3
+    },
+    {
+      "query": "baby brezza wassertank dichtung",
+      "clicks": 2,
+      "impressions": 6,
+      "ctr": 0.3333333333333333,
+      "position": 2.666666666666667
+    },
+    {
+      "query": "baby brezza отзывы",
+      "clicks": 2,
+      "impressions": 10,
+      "ctr": 0.2,
+      "position": 3.5
+    },
+    {
+      "query": "babybrezza bottle warmer",
+      "clicks": 2,
+      "impressions": 5,
+      "ctr": 0.4,
+      "position": 3.2
+    },
+    {
+      "query": "babybrezza erfahrung",
+      "clicks": 2,
+      "impressions": 4,
+      "ctr": 0.5,
+      "position": 3.5
+    },
+    {
+      "query": "best car accident lawyers in sacramento",
+      "clicks": 2,
+      "impressions": 248,
+      "ctr": 0.008064516129032258,
+      "position": 5.431451612903226
+    },
+    {
+      "query": "brachial plexus injury car accident settlement",
+      "clicks": 2,
+      "impressions": 39,
+      "ctr": 0.05128205128205128,
+      "position": 7.461538461538462
+    },
+    {
+      "query": "brain bleed from motorcycle accident",
+      "clicks": 2,
+      "impressions": 77,
+      "ctr": 0.025974025974025976,
+      "position": 2.103896103896104
+    },
+    {
+      "query": "brezza milchmaschine",
+      "clicks": 2,
+      "impressions": 2,
+      "ctr": 1,
+      "position": 2.5
+    },
+    {
+      "query": "bruised heart from car accident",
+      "clicks": 2,
+      "impressions": 59,
+      "ctr": 0.03389830508474576,
+      "position": 3.610169491525424
+    },
+    {
+      "query": "california highway patrol accident report",
+      "clicks": 2,
+      "impressions": 673,
+      "ctr": 0.0029717682020802376,
+      "position": 9.108469539375928
+    },
+    {
+      "query": "california highway patrol crash report",
+      "clicks": 2,
+      "impressions": 421,
+      "ctr": 0.004750593824228029,
+      "position": 7.394299287410926
+    },
+    {
+      "query": "california highway patrol crash reports",
+      "clicks": 2,
+      "impressions": 49,
+      "ctr": 0.04081632653061224,
+      "position": 7.571428571428571
+    },
+    {
+      "query": "california highway patrol police report",
+      "clicks": 2,
+      "impressions": 202,
+      "ctr": 0.009900990099009901,
+      "position": 7.420792079207921
+    },
+    {
+      "query": "california left turn law",
+      "clicks": 2,
+      "impressions": 14,
+      "ctr": 0.14285714285714285,
+      "position": 11.5
+    },
+    {
+      "query": "can a paralyzed man feel pleasure",
+      "clicks": 2,
+      "impressions": 755,
+      "ctr": 0.0026490066225165563,
+      "position": 3.7801324503311258
+    },
+    {
+      "query": "can a paralyzed man still get erect",
+      "clicks": 2,
+      "impressions": 661,
+      "ctr": 0.0030257186081694403,
+      "position": 2.6792738275340393
+    },
+    {
+      "query": "can a paraplegic have sex",
+      "clicks": 2,
+      "impressions": 211,
+      "ctr": 0.009478672985781991,
+      "position": 4.530805687203792
+    },
+    {
+      "query": "can i keep a totaled car",
+      "clicks": 2,
+      "impressions": 58,
+      "ctr": 0.034482758620689655,
+      "position": 2.5344827586206895
+    },
+    {
+      "query": "can people paralyzed from the waist down feel sexual pleasure",
+      "clicks": 2,
+      "impressions": 545,
+      "ctr": 0.003669724770642202,
+      "position": 4.548623853211009
+    },
+    {
+      "query": "can you buy back a car that is totaled",
+      "clicks": 2,
+      "impressions": 46,
+      "ctr": 0.043478260869565216,
+      "position": 4.282608695652174
+    },
+    {
+      "query": "can you keep a totaled car",
+      "clicks": 2,
+      "impressions": 439,
+      "ctr": 0.004555808656036446,
+      "position": 3.5649202733485192
+    },
+    {
+      "query": "can you keep your car if its totaled",
+      "clicks": 2,
+      "impressions": 67,
+      "ctr": 0.029850746268656716,
+      "position": 1.3582089552238805
+    },
+    {
+      "query": "can you keep your totaled car",
+      "clicks": 2,
+      "impressions": 47,
+      "ctr": 0.0425531914893617,
+      "position": 1.702127659574468
+    },
+    {
+      "query": "car accident attorney",
+      "clicks": 2,
+      "impressions": 19217,
+      "ctr": 0.00010407451735442577,
+      "position": 44.10979861580892
+    },
+    {
+      "query": "car accident attorney in sacramento",
+      "clicks": 2,
+      "impressions": 675,
+      "ctr": 0.002962962962962963,
+      "position": 7.985185185185185
+    },
+    {
+      "query": "car accident faq",
+      "clicks": 2,
+      "impressions": 1416,
+      "ctr": 0.0014124293785310734,
+      "position": 4.159604519774011
+    },
+    {
+      "query": "car accident lawyer free consultation",
+      "clicks": 2,
+      "impressions": 46,
+      "ctr": 0.043478260869565216,
+      "position": 48.32608695652174
+    },
+    {
+      "query": "car accident lawyer sacramento",
+      "clicks": 2,
+      "impressions": 7936,
+      "ctr": 0.00025201612903225806,
+      "position": 6.061743951612903
+    },
+    {
+      "query": "car accident settlement stories",
+      "clicks": 2,
+      "impressions": 161,
+      "ctr": 0.012422360248447204,
+      "position": 4.3478260869565215
+    },
+    {
+      "query": "cardiac contusion",
+      "clicks": 2,
+      "impressions": 1251,
+      "ctr": 0.0015987210231814548,
+      "position": 2.228617106314948
+    },
+    {
+      "query": "chp accident report today",
+      "clicks": 2,
+      "impressions": 268,
+      "ctr": 0.007462686567164179,
+      "position": 6.906716417910448
+    },
+    {
+      "query": "chp incident log",
+      "clicks": 2,
+      "impressions": 356,
+      "ctr": 0.0056179775280898875,
+      "position": 9.182584269662922
+    },
+    {
+      "query": "chp incident reports by date california",
+      "clicks": 2,
+      "impressions": 187,
+      "ctr": 0.0106951871657754,
+      "position": 6.625668449197861
+    },
+    {
+      "query": "chp police report",
+      "clicks": 2,
+      "impressions": 851,
+      "ctr": 0.0023501762632197414,
+      "position": 6.864864864864865
+    },
+    {
+      "query": "chp report accident",
+      "clicks": 2,
+      "impressions": 84,
+      "ctr": 0.023809523809523808,
+      "position": 9.25
+    },
+    {
+      "query": "chp report request",
+      "clicks": 2,
+      "impressions": 198,
+      "ctr": 0.010101010101010102,
+      "position": 7.858585858585859
+    },
+    {
+      "query": "chp traffic incident page",
+      "clicks": 2,
+      "impressions": 523,
+      "ctr": 0.0038240917782026767,
+      "position": 6.223709369024856
+    },
+    {
+      "query": "code promo babybrezza",
+      "clicks": 2,
+      "impressions": 2,
+      "ctr": 1,
+      "position": 4.5
+    },
+    {
+      "query": "colossus program",
+      "clicks": 2,
+      "impressions": 15,
+      "ctr": 0.13333333333333333,
+      "position": 3.533333333333333
+    },
+    {
+      "query": "compramos tu coche averiado",
+      "clicks": 2,
+      "impressions": 7,
+      "ctr": 0.2857142857142857,
+      "position": 2.571428571428571
+    },
+    {
+      "query": "concord auto accident attorney",
+      "clicks": 2,
+      "impressions": 98,
+      "ctr": 0.02040816326530612,
+      "position": 16.47959183673469
+    },
+    {
+      "query": "concord car accident attorney",
+      "clicks": 2,
+      "impressions": 280,
+      "ctr": 0.007142857142857143,
+      "position": 37.55
+    },
+    {
+      "query": "csaa auto insurance",
+      "clicks": 2,
+      "impressions": 188,
+      "ctr": 0.010638297872340425,
+      "position": 7.01595744680851
+    },
+    {
+      "query": "degloved",
+      "clicks": 2,
+      "impressions": 24191,
+      "ctr": 0.0000826753751395147,
+      "position": 8.65102724153611
+    },
+    {
+      "query": "dog bite eye",
+      "clicks": 2,
+      "impressions": 24,
+      "ctr": 0.08333333333333333,
+      "position": 3.2916666666666665
+    },
+    {
+      "query": "dog bite near eye treatment",
+      "clicks": 2,
+      "impressions": 39,
+      "ctr": 0.05128205128205128,
+      "position": 3.1025641025641026
+    },
+    {
+      "query": "dog bite on eyelid",
+      "clicks": 2,
+      "impressions": 14,
+      "ctr": 0.14285714285714285,
+      "position": 4.857142857142858
+    },
+    {
+      "query": "dr jerry tennant reviews",
+      "clicks": 2,
+      "impressions": 52,
+      "ctr": 0.038461538461538464,
+      "position": 9.51923076923077
+    },
+    {
+      "query": "edward a smith law offices reviews",
+      "clicks": 2,
+      "impressions": 26,
+      "ctr": 0.07692307692307693,
+      "position": 11
+    },
+    {
+      "query": "elk grove accident attorney",
+      "clicks": 2,
+      "impressions": 93,
+      "ctr": 0.021505376344086023,
+      "position": 15.86021505376344
+    },
+    {
+      "query": "epaviste autour de moi",
+      "clicks": 2,
+      "impressions": 2,
+      "ctr": 1,
+      "position": 2.5
+    },
+    {
+      "query": "facial nerve palsy injury lawyer",
+      "clicks": 2,
+      "impressions": 438,
+      "ctr": 0.0045662100456621,
+      "position": 34.05251141552512
+    },
+    {
+      "query": "fatal bicycle accident today",
+      "clicks": 2,
+      "impressions": 72,
+      "ctr": 0.027777777777777776,
+      "position": 7.597222222222222
+    },
+    {
+      "query": "fatal car crashes",
+      "clicks": 2,
+      "impressions": 33,
+      "ctr": 0.06060606060606061,
+      "position": 11.484848484848484
+    },
+    {
+      "query": "femur bone",
+      "clicks": 2,
+      "impressions": 372,
+      "ctr": 0.005376344086021506,
+      "position": 2.303763440860215
+    },
+    {
+      "query": "fracture head of femur",
+      "clicks": 2,
+      "impressions": 263,
+      "ctr": 0.0076045627376425855,
+      "position": 1.9277566539923954
+    },
+    {
+      "query": "fracture of the medial femoral condyle",
+      "clicks": 2,
+      "impressions": 57,
+      "ctr": 0.03508771929824561,
+      "position": 1.719298245614035
     }
   ],
   "topPages": [
     {
       "page": "https://autoaccident.com/baby-brezza-formula-machines/",
-      "clicks": 1047,
-      "impressions": 86495,
-      "ctr": 0.012104745939071623,
-      "position": 3.6985490490779815
+      "clicks": 1113,
+      "impressions": 69678,
+      "ctr": 0.015973477998794453,
+      "position": 3.4113637015987828
     },
     {
       "page": "https://autoaccident.com/can-i-keep-my-car-even-if-its-totaled/",
-      "clicks": 454,
-      "impressions": 67405,
-      "ctr": 0.00673540538535717,
-      "position": 7.729218900675024
+      "clicks": 379,
+      "impressions": 59988,
+      "ctr": 0.00631793025271721,
+      "position": 7.258084950323398
     },
     {
       "page": "https://autoaccident.com/",
-      "clicks": 310,
-      "impressions": 666304,
-      "ctr": 0.00046525309768514074,
-      "position": 18.322337851791374
-    },
-    {
-      "page": "https://autoaccident.com/who-is-responsible-for-the-towing-and-storage-bills/",
-      "clicks": 280,
-      "impressions": 50931,
-      "ctr": 0.005497634053916083,
-      "position": 9.207516051127996
+      "clicks": 306,
+      "impressions": 730460,
+      "ctr": 0.00041891410891766834,
+      "position": 15.855771705500644
     },
     {
       "page": "https://autoaccident.com/sexual-activity-after-spinal-cord-injury/",
-      "clicks": 278,
-      "impressions": 115623,
-      "ctr": 0.0024043659133563392,
-      "position": 4.170718628646549
+      "clicks": 247,
+      "impressions": 109994,
+      "ctr": 0.002245577031474444,
+      "position": 4.815271742095023
+    },
+    {
+      "page": "https://autoaccident.com/who-is-responsible-for-the-towing-and-storage-bills/",
+      "clicks": 245,
+      "impressions": 48209,
+      "ctr": 0.005082038623493539,
+      "position": 9.18272521728308
     },
     {
       "page": "https://autoaccident.com/how-can-i-get-the-most-money-on-my-wrecked-car/",
-      "clicks": 214,
-      "impressions": 64511,
-      "ctr": 0.003317263722465936,
-      "position": 3.727007797119871
+      "clicks": 213,
+      "impressions": 57198,
+      "ctr": 0.0037239064302947654,
+      "position": 3.7095352984370082
     },
     {
       "page": "https://autoaccident.com/chp-report/",
-      "clicks": 178,
-      "impressions": 62219,
-      "ctr": 0.0028608624375190857,
-      "position": 6.862775036564393
+      "clicks": 192,
+      "impressions": 61614,
+      "ctr": 0.0031161748953159995,
+      "position": 6.974713539130717
     },
     {
       "page": "https://autoaccident.com/team/edward-a-smith/",
-      "clicks": 161,
-      "impressions": 24287,
-      "ctr": 0.006629060814427472,
-      "position": 16.32647095153786
+      "clicks": 157,
+      "impressions": 12102,
+      "ctr": 0.012973062303751446,
+      "position": 25.892249215005783
     },
     {
       "page": "https://autoaccident.com/neck-hematomas/",
-      "clicks": 157,
-      "impressions": 28584,
-      "ctr": 0.00549258326336412,
-      "position": 3.5364539602574867
+      "clicks": 131,
+      "impressions": 26039,
+      "ctr": 0.005030915165712969,
+      "position": 3.8776450708552557
+    },
+    {
+      "page": "https://autoaccident.com/aaa-csaa-insurance/",
+      "clicks": 121,
+      "impressions": 62093,
+      "ctr": 0.0019486898684231717,
+      "position": 8.533248514325287
     },
     {
       "page": "https://autoaccident.com/abdominal-hematoma-following-accident/",
       "clicks": 112,
-      "impressions": 13002,
-      "ctr": 0.008614059375480695,
-      "position": 11.221581295185356
-    },
-    {
-      "page": "https://autoaccident.com/in-a-car-crash-insurance-wont-total-my-car-whats-next/",
-      "clicks": 104,
-      "impressions": 9751,
-      "ctr": 0.010665572761768024,
-      "position": 3.186852630499436
+      "impressions": 11236,
+      "ctr": 0.009967960128159488,
+      "position": 11.056603773584905
     },
     {
       "page": "https://autoaccident.com/trauma-centers/",
-      "clicks": 101,
-      "impressions": 18003,
-      "ctr": 0.005610176081764151,
-      "position": 16.514136532800087
+      "clicks": 102,
+      "impressions": 19843,
+      "ctr": 0.005140351761326412,
+      "position": 13.987653076651716
     },
     {
       "page": "https://autoaccident.com/opioid-use-and-truck-drivers/",
-      "clicks": 97,
-      "impressions": 6504,
-      "ctr": 0.01491389913899139,
-      "position": 6.9012915129151295
-    },
-    {
-      "page": "https://autoaccident.com/traumatic-facial-burn-injuries/",
-      "clicks": 95,
-      "impressions": 35183,
-      "ctr": 0.002700167694625245,
-      "position": 7.034618992126879
-    },
-    {
-      "page": "https://autoaccident.com/medical-payments-medpay-coverage-and-how-it-works/",
-      "clicks": 91,
-      "impressions": 45647,
-      "ctr": 0.001993559270050606,
-      "position": 13.487326658926106
-    },
-    {
-      "page": "https://autoaccident.com/underinsured-motorist-uim-coverage-and-how-it-works/",
-      "clicks": 91,
-      "impressions": 24552,
-      "ctr": 0.003706419028999674,
-      "position": 16.099788204626915
-    },
-    {
-      "page": "https://autoaccident.com/fred-loya-insurance-lowball-offers-bad-faith/",
-      "clicks": 89,
-      "impressions": 35544,
-      "ctr": 0.0025039387801035337,
-      "position": 8.78058181408958
-    },
-    {
-      "page": "https://autoaccident.com/medial-condyle-femur/",
-      "clicks": 89,
-      "impressions": 31787,
-      "ctr": 0.0027998867461540883,
-      "position": 4.608110233743354
+      "clicks": 101,
+      "impressions": 6954,
+      "ctr": 0.014524014955421341,
+      "position": 6.405522001725625
     },
     {
       "page": "https://autoaccident.com/statistics-on-intersection-accidents/",
-      "clicks": 88,
-      "impressions": 28242,
-      "ctr": 0.00311592663409107,
-      "position": 4.70526166702075
+      "clicks": 98,
+      "impressions": 28468,
+      "ctr": 0.003442461711395251,
+      "position": 4.608261908107348
     },
     {
-      "page": "https://autoaccident.com/aaa-csaa-insurance/",
-      "clicks": 87,
-      "impressions": 48191,
-      "ctr": 0.0018053163453756926,
-      "position": 9.916415928285364
+      "page": "https://autoaccident.com/in-a-car-crash-insurance-wont-total-my-car-whats-next/",
+      "clicks": 86,
+      "impressions": 8114,
+      "ctr": 0.01059896475228001,
+      "position": 2.8322652206063594
     },
     {
       "page": "https://autoaccident.com/trigeminal-neuralgia-and-trauma/",
-      "clicks": 80,
-      "impressions": 6619,
-      "ctr": 0.012086417887898474,
-      "position": 3.2760235685148813
+      "clicks": 86,
+      "impressions": 6641,
+      "ctr": 0.01294985694925463,
+      "position": 3.2416804698087636
     },
     {
-      "page": "https://autoaccident.com/auto-accidents-can-lead-to-esophageal-injuries/",
+      "page": "https://autoaccident.com/medical-payments-medpay-coverage-and-how-it-works/",
+      "clicks": 84,
+      "impressions": 42239,
+      "ctr": 0.001988683444210327,
+      "position": 13.6656881081465
+    },
+    {
+      "page": "https://autoaccident.com/medial-condyle-femur/",
+      "clicks": 76,
+      "impressions": 29912,
+      "ctr": 0.0025407863064990637,
+      "position": 4.289983952928591
+    },
+    {
+      "page": "https://autoaccident.com/traumatic-facial-burn-injuries/",
+      "clicks": 76,
+      "impressions": 33780,
+      "ctr": 0.0022498519834221434,
+      "position": 6.6458555358200115
+    },
+    {
+      "page": "https://autoaccident.com/fred-loya-insurance-lowball-offers-bad-faith/",
       "clicks": 73,
-      "impressions": 5273,
-      "ctr": 0.013844111511473545,
-      "position": 4.310639104873886
-    },
-    {
-      "page": "https://autoaccident.com/dog-bite-injuries-of-the-eye/",
-      "clicks": 66,
-      "impressions": 9075,
-      "ctr": 0.007272727272727273,
-      "position": 4.41366391184573
-    },
-    {
-      "page": "https://autoaccident.com/document-subpoena-for-insurance-adjuster-file/",
-      "clicks": 64,
-      "impressions": 2478,
-      "ctr": 0.0258272800645682,
-      "position": 6.969733656174334
+      "impressions": 33840,
+      "ctr": 0.002157210401891253,
+      "position": 8.925856973995272
     },
     {
       "page": "https://autoaccident.com/cardiac-contusions/",
+      "clicks": 69,
+      "impressions": 23658,
+      "ctr": 0.002916560994166878,
+      "position": 5.047510355904979
+    },
+    {
+      "page": "https://autoaccident.com/underinsured-motorist-uim-coverage-and-how-it-works/",
+      "clicks": 68,
+      "impressions": 21937,
+      "ctr": 0.0030997857501025663,
+      "position": 11.690841956511829
+    },
+    {
+      "page": "https://autoaccident.com/auto-accidents-can-lead-to-esophageal-injuries/",
       "clicks": 63,
-      "impressions": 24943,
-      "ctr": 0.0025257587299041817,
-      "position": 5.079300805837309
+      "impressions": 5177,
+      "ctr": 0.01216920996716245,
+      "position": 3.6057562294765306
+    },
+    {
+      "page": "https://autoaccident.com/document-subpoena-for-insurance-adjuster-file/",
+      "clicks": 62,
+      "impressions": 2666,
+      "ctr": 0.023255813953488372,
+      "position": 6.890097524381095
     },
     {
       "page": "https://autoaccident.com/biomodulator/",
-      "clicks": 61,
-      "impressions": 7916,
-      "ctr": 0.007705912076806468,
-      "position": 7.213617988883274
-    },
-    {
-      "page": "https://autoaccident.com/top-ten-dangerous-roads-in-california/",
-      "clicks": 60,
-      "impressions": 13115,
-      "ctr": 0.004574914220358368,
-      "position": 9.560579489134579
-    },
-    {
-      "page": "https://autoaccident.com/cell-phone-use-while-driving-accident-statistics/",
-      "clicks": 58,
-      "impressions": 17022,
-      "ctr": 0.0034073551874045354,
-      "position": 8.819762660086946
-    },
-    {
-      "page": "https://autoaccident.com/dangers-of-proton-beam-therapy/",
-      "clicks": 57,
-      "impressions": 9001,
-      "ctr": 0.006332629707810243,
-      "position": 7.864570603266304
-    },
-    {
-      "page": "https://autoaccident.com/types-of-traumatic-brain-injuries-in-motorcycle-accidents/",
-      "clicks": 56,
-      "impressions": 8677,
-      "ctr": 0.0064538434942952635,
-      "position": 6.97683531174369
+      "clicks": 59,
+      "impressions": 8485,
+      "ctr": 0.006953447259870359,
+      "position": 7.274366529169122
     },
     {
       "page": "https://autoaccident.com/six-flags-accidents-and-injuries/",
-      "clicks": 54,
-      "impressions": 8783,
-      "ctr": 0.006148240919959012,
-      "position": 4.496868951383354
+      "clicks": 59,
+      "impressions": 9662,
+      "ctr": 0.006106396191264749,
+      "position": 4.0777271786379625
     },
     {
-      "page": "https://autoaccident.com/kemper-insurance/",
-      "clicks": 51,
-      "impressions": 45536,
-      "ctr": 0.0011199929725931132,
-      "position": 7.960273190442726
+      "page": "https://autoaccident.com/types-of-traumatic-brain-injuries-in-motorcycle-accidents/",
+      "clicks": 55,
+      "impressions": 8375,
+      "ctr": 0.006567164179104477,
+      "position": 6.928
+    },
+    {
+      "page": "https://autoaccident.com/dog-bite-injuries-of-the-eye/",
+      "clicks": 54,
+      "impressions": 7834,
+      "ctr": 0.0068930303803931585,
+      "position": 4.846693898391626
     },
     {
       "page": "https://autoaccident.com/what-is-colossus/",
-      "clicks": 47,
-      "impressions": 5376,
-      "ctr": 0.008742559523809524,
-      "position": 7.328497023809524
+      "clicks": 54,
+      "impressions": 5639,
+      "ctr": 0.009576165986877105,
+      "position": 6.904947685759886
     },
     {
-      "page": "https://autoaccident.com/colon-and-rectal-trauma/",
-      "clicks": 45,
-      "impressions": 6177,
-      "ctr": 0.007285089849441476,
-      "position": 4.323457989315202
+      "page": "https://autoaccident.com/cell-phone-use-while-driving-accident-statistics/",
+      "clicks": 52,
+      "impressions": 14405,
+      "ctr": 0.003609857688302673,
+      "position": 8.65609163484901
     },
     {
-      "page": "https://autoaccident.com/dangers-of-road-shoulder-drop-off/",
-      "clicks": 45,
-      "impressions": 37418,
-      "ctr": 0.001202629750387514,
-      "position": 5.447886044149874
+      "page": "https://autoaccident.com/top-ten-dangerous-roads-in-california/",
+      "clicks": 51,
+      "impressions": 11794,
+      "ctr": 0.004324232660674919,
+      "position": 10.457944717653044
+    },
+    {
+      "page": "https://autoaccident.com/femur-fracture-statistics/",
+      "clicks": 50,
+      "impressions": 8426,
+      "ctr": 0.0059340137669119395,
+      "position": 4.741514360313316
+    },
+    {
+      "page": "https://autoaccident.com/dangers-of-proton-beam-therapy/",
+      "clicks": 49,
+      "impressions": 8797,
+      "ctr": 0.005570080709332727,
+      "position": 7.7044446970558145
     },
     {
       "page": "https://autoaccident.com/total-loss-on-cars-with-payments/",
-      "clicks": 45,
-      "impressions": 18856,
-      "ctr": 0.0023865082732286804,
-      "position": 11.901410691557064
+      "clicks": 48,
+      "impressions": 22121,
+      "ctr": 0.002169883820803761,
+      "position": 10.198273134125944
     },
     {
-      "page": "https://autoaccident.com/proper-venue-for-a-personal-injury-lawsuit-in-california/",
+      "page": "https://autoaccident.com/dangers-of-road-shoulder-drop-off/",
       "clicks": 44,
-      "impressions": 8190,
-      "ctr": 0.005372405372405372,
-      "position": 7.611111111111111
+      "impressions": 29207,
+      "ctr": 0.0015064881706440237,
+      "position": 5.60680658746191
+    },
+    {
+      "page": "https://autoaccident.com/basic-california-law-on-intersections/",
+      "clicks": 42,
+      "impressions": 23870,
+      "ctr": 0.0017595307917888563,
+      "position": 6.626099706744868
+    },
+    {
+      "page": "https://autoaccident.com/colon-and-rectal-trauma/",
+      "clicks": 42,
+      "impressions": 5937,
+      "ctr": 0.007074279939363315,
+      "position": 4.595755432036382
     },
     {
       "page": "https://autoaccident.com/reiki/",
       "clicks": 42,
-      "impressions": 3805,
-      "ctr": 0.011038107752956636,
-      "position": 4.695137976346912
+      "impressions": 3453,
+      "ctr": 0.01216333622936577,
+      "position": 4.565595134665508
     },
     {
-      "page": "https://autoaccident.com/basic-california-law-on-intersections/",
-      "clicks": 41,
-      "impressions": 27237,
-      "ctr": 0.0015053052832543967,
-      "position": 6.969820464808899
-    },
-    {
-      "page": "https://autoaccident.com/femur-fracture-statistics/",
-      "clicks": 41,
-      "impressions": 8472,
-      "ctr": 0.00483947119924457,
-      "position": 4.803824362606232
-    },
-    {
-      "page": "https://autoaccident.com/pediatric-elbow-injuries/",
-      "clicks": 41,
-      "impressions": 5852,
-      "ctr": 0.007006151742993848,
-      "position": 9.022727272727273
+      "page": "https://autoaccident.com/proper-venue-for-a-personal-injury-lawsuit-in-california/",
+      "clicks": 40,
+      "impressions": 8833,
+      "ctr": 0.004528472772557455,
+      "position": 7.376089663760896
     },
     {
       "page": "https://autoaccident.com/dog-attack-discovery-requests-for-production-of-documents/",
-      "clicks": 40,
-      "impressions": 768,
-      "ctr": 0.052083333333333336,
-      "position": 5.919270833333333
+      "clicks": 38,
+      "impressions": 757,
+      "ctr": 0.05019815059445178,
+      "position": 5.933949801849406
+    },
+    {
+      "page": "https://autoaccident.com/movies/",
+      "clicks": 36,
+      "impressions": 2677,
+      "ctr": 0.013447889428464699,
+      "position": 7.472917444901008
+    },
+    {
+      "page": "https://autoaccident.com/opposing-a-motion-to-change-venue/",
+      "clicks": 35,
+      "impressions": 4370,
+      "ctr": 0.008009153318077803,
+      "position": 10.238215102974829
+    },
+    {
+      "page": "https://autoaccident.com/pediatric-elbow-injuries/",
+      "clicks": 33,
+      "impressions": 5523,
+      "ctr": 0.005975013579576317,
+      "position": 8.277023356871265
     },
     {
       "page": "https://autoaccident.com/do-i-decide-whether-my-car-is-to-be-repaired-or-replaced/",
-      "clicks": 37,
-      "impressions": 15047,
-      "ctr": 0.0024589619193194656,
-      "position": 4.504153651890743
+      "clicks": 32,
+      "impressions": 11337,
+      "ctr": 0.00282261621240187,
+      "position": 4.65352385992767
     },
     {
       "page": "https://autoaccident.com/kidney-failure-in-burn-victims/",
-      "clicks": 36,
-      "impressions": 9911,
-      "ctr": 0.0036323277166784382,
-      "position": 5.998991020078701
-    },
-    {
-      "page": "https://autoaccident.com/motor-vehicle-accidents-may-aggravate-ankylosing-spondylitis/",
-      "clicks": 36,
-      "impressions": 3100,
-      "ctr": 0.011612903225806452,
-      "position": 6.115806451612904
-    },
-    {
-      "page": "https://autoaccident.com/concord-motorcycle-accident-attorney/",
-      "clicks": 34,
-      "impressions": 4338,
-      "ctr": 0.007837713231904103,
-      "position": 20.101429230059935
-    },
-    {
-      "page": "https://autoaccident.com/hot-air-balloon-accidents/",
-      "clicks": 34,
-      "impressions": 17210,
-      "ctr": 0.0019755955839628123,
-      "position": 5.604764671702498
+      "clicks": 32,
+      "impressions": 10546,
+      "ctr": 0.0030343258107339275,
+      "position": 6.1255452304191165
     },
     {
       "page": "https://autoaccident.com/medpay-reimbursement/",
-      "clicks": 34,
-      "impressions": 4297,
-      "ctr": 0.007912497090993717,
-      "position": 5.636257854316965
+      "clicks": 32,
+      "impressions": 4239,
+      "ctr": 0.00754895022410946,
+      "position": 5.919084689785326
+    },
+    {
+      "page": "https://autoaccident.com/motor-vehicle-accidents-may-aggravate-ankylosing-spondylitis/",
+      "clicks": 32,
+      "impressions": 3074,
+      "ctr": 0.01040988939492518,
+      "position": 5.458685751463891
     },
     {
       "page": "https://autoaccident.com/personal-injury-damages-what-youre-able-to-recover/",
-      "clicks": 34,
-      "impressions": 214,
-      "ctr": 0.1588785046728972,
-      "position": 11.266355140186915
+      "clicks": 32,
+      "impressions": 180,
+      "ctr": 0.17777777777777778,
+      "position": 9.55
     },
     {
-      "page": "https://autoaccident.com/femur-fracture-of-bone-head/",
-      "clicks": 33,
-      "impressions": 10218,
-      "ctr": 0.0032295948326482677,
-      "position": 2.610393423370523
+      "page": "https://autoaccident.com/sacramento-accident-report/",
+      "clicks": 32,
+      "impressions": 3476,
+      "ctr": 0.009205983889528193,
+      "position": 9.80005753739931
+    },
+    {
+      "page": "https://autoaccident.com/truck-accidents-verdicts-and-settlements/",
+      "clicks": 32,
+      "impressions": 13008,
+      "ctr": 0.0024600246002460025,
+      "position": 17.807041820418203
     }
   ],
-  "fetchedAt": "2026-03-18T13:07:02.429Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "baby brezza",
+      "clicks": 253,
+      "impressions": 5479,
+      "ctr": 0.04617630954553751,
+      "position": 2.622376346048549
+    },
+    {
+      "query": "baby brezza formula pro",
+      "clicks": 246,
+      "impressions": 3476,
+      "ctr": 0.07077100115074798,
+      "position": 2.984464902186421
+    },
+    {
+      "query": "west sacramento car accident lawyer",
+      "clicks": 67,
+      "impressions": 93,
+      "ctr": 0.7204301075268817,
+      "position": 1.021505376344086
+    },
+    {
+      "query": "csaa",
+      "clicks": 65,
+      "impressions": 23894,
+      "ctr": 0.002720348204570185,
+      "position": 6.121787896543065
+    },
+    {
+      "query": "sacramento car accident lawyer ed smith",
+      "clicks": 63,
+      "impressions": 66,
+      "ctr": 0.9545454545454546,
+      "position": 1
+    },
+    {
+      "query": "oakley car accident lawyer",
+      "clicks": 62,
+      "impressions": 187,
+      "ctr": 0.3315508021390374,
+      "position": 1.4919786096256684
+    },
+    {
+      "query": "chp incident reports by date",
+      "clicks": 61,
+      "impressions": 7040,
+      "ctr": 0.008664772727272728,
+      "position": 8.2828125
+    },
+    {
+      "query": "rancho cordova car accident lawyer",
+      "clicks": 57,
+      "impressions": 709,
+      "ctr": 0.08039492242595205,
+      "position": 4.02820874471086
+    },
+    {
+      "query": "south lake tahoe car accident crash lawyer",
+      "clicks": 57,
+      "impressions": 59,
+      "ctr": 0.9661016949152542,
+      "position": 1.0508474576271187
+    },
+    {
+      "query": "south lake tahoe car accident lawyer",
+      "clicks": 57,
+      "impressions": 132,
+      "ctr": 0.4318181818181818,
+      "position": 2.121212121212121
+    },
+    {
+      "query": "motorcycle accident lawyer in martinez",
+      "clicks": 56,
+      "impressions": 113,
+      "ctr": 0.49557522123893805,
+      "position": 1.415929203539823
+    },
+    {
+      "query": "napa truck accident lawyer",
+      "clicks": 56,
+      "impressions": 200,
+      "ctr": 0.28,
+      "position": 7.17
+    },
+    {
+      "query": "car accident lawyer somis ca",
+      "clicks": 55,
+      "impressions": 83,
+      "ctr": 0.6626506024096386,
+      "position": 1.4096385542168675
+    },
+    {
+      "query": "edward a smith law offices",
+      "clicks": 55,
+      "impressions": 434,
+      "ctr": 0.12672811059907835,
+      "position": 1.1705069124423964
+    },
+    {
+      "query": "antelope truck accident lawyer",
+      "clicks": 50,
+      "impressions": 128,
+      "ctr": 0.390625,
+      "position": 5.671875
+    },
+    {
+      "query": "oakley motorcycle accident lawyer",
+      "clicks": 49,
+      "impressions": 98,
+      "ctr": 0.5,
+      "position": 1.1224489795918366
+    },
+    {
+      "query": "autoaccident.com car accident lawyer",
+      "clicks": 48,
+      "impressions": 69,
+      "ctr": 0.6956521739130435,
+      "position": 1.1304347826086956
+    },
+    {
+      "query": "baby brezza formula pro advanced",
+      "clicks": 48,
+      "impressions": 586,
+      "ctr": 0.08191126279863481,
+      "position": 4.197952218430034
+    },
+    {
+      "query": "car accident lawyer manteca",
+      "clicks": 48,
+      "impressions": 490,
+      "ctr": 0.09795918367346938,
+      "position": 2.440816326530612
+    },
+    {
+      "query": "car accident bodily damage lawyer in elk grove ca",
+      "clicks": 45,
+      "impressions": 57,
+      "ctr": 0.7894736842105263,
+      "position": 1.280701754385965
+    },
+    {
+      "query": "granite bay motorcycle accident lawyer",
+      "clicks": 45,
+      "impressions": 255,
+      "ctr": 0.17647058823529413,
+      "position": 2.0705882352941174
+    },
+    {
+      "query": "autoaccident.com",
+      "clicks": 44,
+      "impressions": 1610,
+      "ctr": 0.02732919254658385,
+      "position": 1.0254658385093167
+    },
+    {
+      "query": "motorcycle accident lawyer martinez",
+      "clicks": 44,
+      "impressions": 140,
+      "ctr": 0.3142857142857143,
+      "position": 2.85
+    },
+    {
+      "query": "motorcycle accident lawyer contra costa",
+      "clicks": 42,
+      "impressions": 89,
+      "ctr": 0.47191011235955055,
+      "position": 3.337078651685393
+    },
+    {
+      "query": "antioch motorcycle accident lawyer",
+      "clicks": 39,
+      "impressions": 196,
+      "ctr": 0.1989795918367347,
+      "position": 7.755102040816326
+    },
+    {
+      "query": "hayward truck accident lawyer",
+      "clicks": 38,
+      "impressions": 309,
+      "ctr": 0.12297734627831715,
+      "position": 5.29126213592233
+    },
+    {
+      "query": "antelope car accident lawyer",
+      "clicks": 34,
+      "impressions": 294,
+      "ctr": 0.11564625850340136,
+      "position": 7.840136054421769
+    },
+    {
+      "query": "car accident injury lawyer castro valley ca",
+      "clicks": 34,
+      "impressions": 108,
+      "ctr": 0.3148148148148148,
+      "position": 2.2685185185185186
+    },
+    {
+      "query": "vacaville car accident lawyer",
+      "clicks": 33,
+      "impressions": 152,
+      "ctr": 0.21710526315789475,
+      "position": 2.177631578947368
+    },
+    {
+      "query": "truck accident lawyer oakley",
+      "clicks": 32,
+      "impressions": 55,
+      "ctr": 0.5818181818181818,
+      "position": 1.1090909090909091
+    },
+    {
+      "query": "truck accident lawyer in martinez",
+      "clicks": 31,
+      "impressions": 73,
+      "ctr": 0.4246575342465753,
+      "position": 1.7534246575342465
+    },
+    {
+      "query": "babybrezza",
+      "clicks": 29,
+      "impressions": 538,
+      "ctr": 0.05390334572490706,
+      "position": 3.604089219330855
+    },
+    {
+      "query": "car accident lawyer oakley",
+      "clicks": 29,
+      "impressions": 66,
+      "ctr": 0.4393939393939394,
+      "position": 1.878787878787879
+    },
+    {
+      "query": "natomas car accident lawyer",
+      "clicks": 29,
+      "impressions": 138,
+      "ctr": 0.21014492753623187,
+      "position": 2.355072463768116
+    },
+    {
+      "query": "napa car accident lawyer california",
+      "clicks": 28,
+      "impressions": 82,
+      "ctr": 0.34146341463414637,
+      "position": 3.3536585365853657
+    },
+    {
+      "query": "oakdale motorcycle accident lawyer",
+      "clicks": 27,
+      "impressions": 203,
+      "ctr": 0.1330049261083744,
+      "position": 5.985221674876847
+    },
+    {
+      "query": "chp incident reports by date yesterday",
+      "clicks": 26,
+      "impressions": 2103,
+      "ctr": 0.012363290537327628,
+      "position": 7.648121730860675
+    },
+    {
+      "query": "citrus heights car accident lawyer",
+      "clicks": 26,
+      "impressions": 658,
+      "ctr": 0.03951367781155015,
+      "position": 4.132218844984802
+    },
+    {
+      "query": "percentage of accidents caused by cell phone use",
+      "clicks": 26,
+      "impressions": 672,
+      "ctr": 0.03869047619047619,
+      "position": 3.4791666666666665
+    },
+    {
+      "query": "motorcycle accident lawyer in granite bay",
+      "clicks": 25,
+      "impressions": 101,
+      "ctr": 0.24752475247524752,
+      "position": 1.613861386138614
+    },
+    {
+      "query": "paradise truck accident lawyer",
+      "clicks": 25,
+      "impressions": 143,
+      "ctr": 0.17482517482517482,
+      "position": 11.965034965034965
+    },
+    {
+      "query": "sacramento trauma centers",
+      "clicks": 24,
+      "impressions": 61,
+      "ctr": 0.39344262295081966,
+      "position": 2.1147540983606556
+    },
+    {
+      "query": "baby breeza",
+      "clicks": 23,
+      "impressions": 524,
+      "ctr": 0.04389312977099236,
+      "position": 2.541984732824427
+    },
+    {
+      "query": "law offices of edward a. smith",
+      "clicks": 23,
+      "impressions": 83,
+      "ctr": 0.27710843373493976,
+      "position": 1.0602409638554218
+    },
+    {
+      "query": "antioch truck accident lawyer",
+      "clicks": 22,
+      "impressions": 225,
+      "ctr": 0.09777777777777778,
+      "position": 13.004444444444445
+    },
+    {
+      "query": "ed smith attorney",
+      "clicks": 22,
+      "impressions": 71,
+      "ctr": 0.30985915492957744,
+      "position": 4.098591549295774
+    },
+    {
+      "query": "fred loya",
+      "clicks": 21,
+      "impressions": 18121,
+      "ctr": 0.0011588764416974782,
+      "position": 7.059544175266265
+    },
+    {
+      "query": "serious car accident lawyer alameda county ca",
+      "clicks": 21,
+      "impressions": 56,
+      "ctr": 0.375,
+      "position": 3.5357142857142856
+    },
+    {
+      "query": "who pays for towing and storage after an accident",
+      "clicks": 21,
+      "impressions": 1106,
+      "ctr": 0.0189873417721519,
+      "position": 2.0488245931283906
+    },
+    {
+      "query": "baby brezza lawsuit",
+      "clicks": 20,
+      "impressions": 590,
+      "ctr": 0.03389830508474576,
+      "position": 5.054237288135593
+    },
+    {
+      "query": "ryder systems truck accident lawyer",
+      "clicks": 19,
+      "impressions": 52,
+      "ctr": 0.36538461538461536,
+      "position": 1.2307692307692308
+    },
+    {
+      "query": "truck accident lawyer martinez",
+      "clicks": 19,
+      "impressions": 74,
+      "ctr": 0.25675675675675674,
+      "position": 2.554054054054054
+    },
+    {
+      "query": "autoaccident",
+      "clicks": 18,
+      "impressions": 159,
+      "ctr": 0.11320754716981132,
+      "position": 4.012578616352201
+    },
+    {
+      "query": "car accident lawyer antelope",
+      "clicks": 18,
+      "impressions": 55,
+      "ctr": 0.32727272727272727,
+      "position": 2.290909090909091
+    },
+    {
+      "query": "car accident lawyer el dorado",
+      "clicks": 18,
+      "impressions": 104,
+      "ctr": 0.17307692307692307,
+      "position": 6.711538461538462
+    },
+    {
+      "query": "marysville motorcycle accident lawyer",
+      "clicks": 18,
+      "impressions": 255,
+      "ctr": 0.07058823529411765,
+      "position": 6.91764705882353
+    },
+    {
+      "query": "stockton truck accident lawyer",
+      "clicks": 18,
+      "impressions": 1400,
+      "ctr": 0.012857142857142857,
+      "position": 2.222857142857143
+    },
+    {
+      "query": "wrongful death claim",
+      "clicks": 18,
+      "impressions": 3391,
+      "ctr": 0.005308168681804777,
+      "position": 12.286051312297257
+    },
+    {
+      "query": "edward a smith",
+      "clicks": 17,
+      "impressions": 163,
+      "ctr": 0.10429447852760736,
+      "position": 1.8773006134969326
+    },
+    {
+      "query": "edward smith lawyer",
+      "clicks": 17,
+      "impressions": 30,
+      "ctr": 0.5666666666666667,
+      "position": 1.4333333333333333
+    },
+    {
+      "query": "auto accident lawyer sacramento",
+      "clicks": 16,
+      "impressions": 2441,
+      "ctr": 0.006554690700532569,
+      "position": 3.3895944285129045
+    },
+    {
+      "query": "baby brezza formula",
+      "clicks": 16,
+      "impressions": 236,
+      "ctr": 0.06779661016949153,
+      "position": 4.525423728813559
+    },
+    {
+      "query": "brezza formula pro",
+      "clicks": 16,
+      "impressions": 52,
+      "ctr": 0.3076923076923077,
+      "position": 3.9423076923076925
+    },
+    {
+      "query": "car accident lawyer",
+      "clicks": 15,
+      "impressions": 20445,
+      "ctr": 0.0007336757153338225,
+      "position": 19.875959892394228
+    },
+    {
+      "query": "law offices of edward a smith",
+      "clicks": 15,
+      "impressions": 41,
+      "ctr": 0.36585365853658536,
+      "position": 1.1951219512195121
+    },
+    {
+      "query": "underinsured motorist coverage example",
+      "clicks": 15,
+      "impressions": 263,
+      "ctr": 0.057034220532319393,
+      "position": 3.1520912547528517
+    },
+    {
+      "query": "998",
+      "clicks": 14,
+      "impressions": 10095,
+      "ctr": 0.0013868251609707777,
+      "position": 7.5409608717186725
+    },
+    {
+      "query": "baby brezza formula maker",
+      "clicks": 14,
+      "impressions": 162,
+      "ctr": 0.08641975308641975,
+      "position": 2.7592592592592595
+    },
+    {
+      "query": "baby brezza sterilizer",
+      "clicks": 14,
+      "impressions": 341,
+      "ctr": 0.04105571847507331,
+      "position": 3.134897360703812
+    },
+    {
+      "query": "car accident lawyer st helena",
+      "clicks": 14,
+      "impressions": 50,
+      "ctr": 0.28,
+      "position": 3.3
+    },
+    {
+      "query": "granite bay truck accident lawyer",
+      "clicks": 14,
+      "impressions": 43,
+      "ctr": 0.32558139534883723,
+      "position": 1.3488372093023255
+    },
+    {
+      "query": "baby brezza formula pro mini",
+      "clicks": 13,
+      "impressions": 124,
+      "ctr": 0.10483870967741936,
+      "position": 4.225806451612903
+    },
+    {
+      "query": "baby brezza reviews",
+      "clicks": 13,
+      "impressions": 371,
+      "ctr": 0.03504043126684636,
+      "position": 2.808625336927224
+    },
+    {
+      "query": "accident lawyer near me",
+      "clicks": 12,
+      "impressions": 943,
+      "ctr": 0.012725344644750796,
+      "position": 9.992576882290562
+    },
+    {
+      "query": "chp incident report",
+      "clicks": 12,
+      "impressions": 8001,
+      "ctr": 0.0014998125234345708,
+      "position": 5.215598050243719
+    },
+    {
+      "query": "colossus insurance software",
+      "clicks": 12,
+      "impressions": 328,
+      "ctr": 0.036585365853658534,
+      "position": 4.134146341463415
+    },
+    {
+      "query": "colossus software",
+      "clicks": 12,
+      "impressions": 389,
+      "ctr": 0.030848329048843187,
+      "position": 3.282776349614396
+    },
+    {
+      "query": "most dangerous roads in california",
+      "clicks": 12,
+      "impressions": 483,
+      "ctr": 0.024844720496894408,
+      "position": 4.703933747412009
+    },
+    {
+      "query": "six flags accident",
+      "clicks": 12,
+      "impressions": 259,
+      "ctr": 0.04633204633204633,
+      "position": 10.444015444015443
+    },
+    {
+      "query": "truck accident lawyer antelope",
+      "clicks": 12,
+      "impressions": 47,
+      "ctr": 0.2553191489361702,
+      "position": 2.851063829787234
+    },
+    {
+      "query": "truck accident lawyer stockton",
+      "clicks": 12,
+      "impressions": 363,
+      "ctr": 0.03305785123966942,
+      "position": 2.3884297520661155
+    },
+    {
+      "query": "brezza formula maker",
+      "clicks": 11,
+      "impressions": 118,
+      "ctr": 0.09322033898305085,
+      "position": 2.5593220338983054
+    },
+    {
+      "query": "csaa insurance",
+      "clicks": 11,
+      "impressions": 3837,
+      "ctr": 0.0028668230388324213,
+      "position": 24.34375814438363
+    },
+    {
+      "query": "sacramento car accident lawyer",
+      "clicks": 11,
+      "impressions": 5888,
+      "ctr": 0.0018682065217391305,
+      "position": 4.262398097826087
+    },
+    {
+      "query": "accident attorney",
+      "clicks": 10,
+      "impressions": 6885,
+      "ctr": 0.0014524328249818446,
+      "position": 15.979520697167755
+    },
+    {
+      "query": "biomodulator",
+      "clicks": 10,
+      "impressions": 954,
+      "ctr": 0.010482180293501049,
+      "position": 7.951781970649895
+    },
+    {
+      "query": "fred loya lawsuit",
+      "clicks": 10,
+      "impressions": 118,
+      "ctr": 0.0847457627118644,
+      "position": 2.3389830508474576
+    },
+    {
+      "query": "sabrina randhawa",
+      "clicks": 10,
+      "impressions": 73,
+      "ctr": 0.136986301369863,
+      "position": 1.4657534246575343
+    },
+    {
+      "query": "baby brezza bottle maker",
+      "clicks": 9,
+      "impressions": 179,
+      "ctr": 0.05027932960893855,
+      "position": 2.2569832402234637
+    },
+    {
+      "query": "baby brezza food maker",
+      "clicks": 9,
+      "impressions": 67,
+      "ctr": 0.13432835820895522,
+      "position": 3.253731343283582
+    },
+    {
+      "query": "car accident lawyer san ramon",
+      "clicks": 9,
+      "impressions": 376,
+      "ctr": 0.023936170212765957,
+      "position": 3.074468085106383
+    },
+    {
+      "query": "discovery bay motorcycle accident",
+      "clicks": 9,
+      "impressions": 173,
+      "ctr": 0.05202312138728324,
+      "position": 4.358381502890174
+    },
+    {
+      "query": "fair oaks car accident lawyer",
+      "clicks": 9,
+      "impressions": 341,
+      "ctr": 0.026392961876832845,
+      "position": 5.645161290322581
+    },
+    {
+      "query": "most dangerous highways in california",
+      "clicks": 9,
+      "impressions": 248,
+      "ctr": 0.036290322580645164,
+      "position": 5.076612903225806
+    },
+    {
+      "query": "what happens if you total a financed car with full coverage",
+      "clicks": 9,
+      "impressions": 2316,
+      "ctr": 0.0038860103626943004,
+      "position": 9.421416234887737
+    },
+    {
+      "query": "what percent of car crashes are caused by phones",
+      "clicks": 9,
+      "impressions": 164,
+      "ctr": 0.054878048780487805,
+      "position": 1.8414634146341462
+    },
+    {
+      "query": "who pays towing fees after an accident",
+      "clicks": 9,
+      "impressions": 46,
+      "ctr": 0.1956521739130435,
+      "position": 1.9565217391304348
+    },
+    {
+      "query": "aaa california",
+      "clicks": 8,
+      "impressions": 118,
+      "ctr": 0.06779661016949153,
+      "position": 3.7542372881355934
+    },
+    {
+      "query": "baby brezza mini",
+      "clicks": 8,
+      "impressions": 45,
+      "ctr": 0.17777777777777778,
+      "position": 4.555555555555555
+    },
+    {
+      "query": "car accident lawyer martinez",
+      "clicks": 8,
+      "impressions": 80,
+      "ctr": 0.1,
+      "position": 5.925
+    },
+    {
+      "query": "chp incident log",
+      "clicks": 8,
+      "impressions": 2771,
+      "ctr": 0.00288704438830747,
+      "position": 7.163839769036449
+    },
+    {
+      "query": "ed smith lawyer car accident lawyer",
+      "clicks": 8,
+      "impressions": 59,
+      "ctr": 0.13559322033898305,
+      "position": 2.1864406779661016
+    },
+    {
+      "query": "hayward motorcycle accident lawyer",
+      "clicks": 8,
+      "impressions": 346,
+      "ctr": 0.023121387283236993,
+      "position": 8.00578034682081
+    },
+    {
+      "query": "lincoln truck accident lawyer",
+      "clicks": 8,
+      "impressions": 559,
+      "ctr": 0.014311270125223614,
+      "position": 14.520572450805009
+    },
+    {
+      "query": "progressive diminished value claim",
+      "clicks": 8,
+      "impressions": 785,
+      "ctr": 0.01019108280254777,
+      "position": 8.509554140127388
+    },
+    {
+      "query": "shoulder drop off",
+      "clicks": 8,
+      "impressions": 258,
+      "ctr": 0.031007751937984496,
+      "position": 2.0348837209302326
+    },
+    {
+      "query": "six flags magic mountain rides",
+      "clicks": 8,
+      "impressions": 79,
+      "ctr": 0.10126582278481013,
+      "position": 3.9367088607594938
+    },
+    {
+      "query": "truckee car accident crash lawyer",
+      "clicks": 8,
+      "impressions": 70,
+      "ctr": 0.11428571428571428,
+      "position": 2.5857142857142854
+    },
+    {
+      "query": "what percentage of car accidents are caused by phones",
+      "clicks": 8,
+      "impressions": 90,
+      "ctr": 0.08888888888888889,
+      "position": 2.833333333333333
+    },
+    {
+      "query": "baby brezza formula pro advanced reviews",
+      "clicks": 7,
+      "impressions": 54,
+      "ctr": 0.12962962962962962,
+      "position": 2.2777777777777777
+    },
+    {
+      "query": "baby brezza formula pro lawsuit",
+      "clicks": 7,
+      "impressions": 61,
+      "ctr": 0.11475409836065574,
+      "position": 3.918032786885246
+    },
+    {
+      "query": "baby brezza pro advanced",
+      "clicks": 7,
+      "impressions": 16,
+      "ctr": 0.4375,
+      "position": 5.25
+    },
+    {
+      "query": "car accident lawyer ed smith",
+      "clicks": 7,
+      "impressions": 70,
+      "ctr": 0.1,
+      "position": 2.314285714285714
+    },
+    {
+      "query": "car accident lawyer lodi",
+      "clicks": 7,
+      "impressions": 97,
+      "ctr": 0.07216494845360824,
+      "position": 4.092783505154639
+    },
+    {
+      "query": "car accident lawyer vineyard",
+      "clicks": 7,
+      "impressions": 58,
+      "ctr": 0.1206896551724138,
+      "position": 4.293103448275862
+    },
+    {
+      "query": "chp incident",
+      "clicks": 7,
+      "impressions": 8402,
+      "ctr": 0.0008331349678647941,
+      "position": 7.509997619614378
+    },
+    {
+      "query": "chp police report",
+      "clicks": 7,
+      "impressions": 912,
+      "ctr": 0.007675438596491228,
+      "position": 8.541666666666668
+    },
+    {
+      "query": "chp traffic incident",
+      "clicks": 7,
+      "impressions": 5026,
+      "ctr": 0.001392757660167131,
+      "position": 4.931953840031834
+    },
+    {
+      "query": "clear lake truck accident lawyer",
+      "clicks": 7,
+      "impressions": 90,
+      "ctr": 0.07777777777777778,
+      "position": 6.9
+    },
+    {
+      "query": "dangers of potholes",
+      "clicks": 7,
+      "impressions": 170,
+      "ctr": 0.041176470588235294,
+      "position": 10.088235294117647
+    },
+    {
+      "query": "does med pay have to be paid back",
+      "clicks": 7,
+      "impressions": 161,
+      "ctr": 0.043478260869565216,
+      "position": 2.1739130434782608
+    },
+    {
+      "query": "intersection accident statistics",
+      "clicks": 7,
+      "impressions": 68,
+      "ctr": 0.10294117647058823,
+      "position": 2.9264705882352944
+    },
+    {
+      "query": "life care plan personal injury",
+      "clicks": 7,
+      "impressions": 973,
+      "ctr": 0.007194244604316547,
+      "position": 5.4439876670092495
+    },
+    {
+      "query": "neck hematoma",
+      "clicks": 7,
+      "impressions": 882,
+      "ctr": 0.007936507936507936,
+      "position": 6.863945578231292
+    },
+    {
+      "query": "roller coaster accidents",
+      "clicks": 7,
+      "impressions": 897,
+      "ctr": 0.007803790412486065,
+      "position": 13.55406911928651
+    },
+    {
+      "query": "trauma center sacramento",
+      "clicks": 7,
+      "impressions": 72,
+      "ctr": 0.09722222222222222,
+      "position": 3.361111111111111
+    },
+    {
+      "query": "auto accident lawyer",
+      "clicks": 6,
+      "impressions": 33823,
+      "ctr": 0.00017739408095083226,
+      "position": 73.0946101765071
+    },
+    {
+      "query": "baby brezza avis",
+      "clicks": 6,
+      "impressions": 23,
+      "ctr": 0.2608695652173913,
+      "position": 2
+    },
+    {
+      "query": "baby brezza bottle washer",
+      "clicks": 6,
+      "impressions": 228,
+      "ctr": 0.02631578947368421,
+      "position": 3.3947368421052633
+    },
+    {
+      "query": "baby brezza formula dispenser",
+      "clicks": 6,
+      "impressions": 46,
+      "ctr": 0.13043478260869565,
+      "position": 2.608695652173913
+    },
+    {
+      "query": "baby brezza formula pro reviews",
+      "clicks": 6,
+      "impressions": 182,
+      "ctr": 0.03296703296703297,
+      "position": 2.39010989010989
+    },
+    {
+      "query": "big dog city corporation",
+      "clicks": 6,
+      "impressions": 28,
+      "ctr": 0.21428571428571427,
+      "position": 3.142857142857143
+    },
+    {
+      "query": "can a paralyzed man feel pleasure",
+      "clicks": 6,
+      "impressions": 547,
+      "ctr": 0.010968921389396709,
+      "position": 7.354661791590494
+    },
+    {
+      "query": "car accident lawyer fillmore",
+      "clicks": 6,
+      "impressions": 72,
+      "ctr": 0.08333333333333333,
+      "position": 5.041666666666667
+    },
+    {
+      "query": "chainsaw accidents",
+      "clicks": 6,
+      "impressions": 262,
+      "ctr": 0.022900763358778626,
+      "position": 6.603053435114504
+    },
+    {
+      "query": "chp accident report",
+      "clicks": 6,
+      "impressions": 1191,
+      "ctr": 0.005037783375314861,
+      "position": 7.591939546599496
+    },
+    {
+      "query": "chp fatal car accident reports",
+      "clicks": 6,
+      "impressions": 1061,
+      "ctr": 0.005655042412818096,
+      "position": 9.65032987747408
+    },
+    {
+      "query": "csaa insurance group",
+      "clicks": 6,
+      "impressions": 924,
+      "ctr": 0.006493506493506494,
+      "position": 10.5995670995671
+    },
+    {
+      "query": "csaa insurance phone number",
+      "clicks": 6,
+      "impressions": 189,
+      "ctr": 0.031746031746031744,
+      "position": 7.142857142857143
+    },
+    {
+      "query": "edward a smith law offices sacramento ca",
+      "clicks": 6,
+      "impressions": 45,
+      "ctr": 0.13333333333333333,
+      "position": 1
+    },
+    {
+      "query": "insurance won't total my car",
+      "clicks": 6,
+      "impressions": 15,
+      "ctr": 0.4,
+      "position": 2.7333333333333334
+    },
+    {
+      "query": "madera truck accident lawyer",
+      "clicks": 6,
+      "impressions": 237,
+      "ctr": 0.02531645569620253,
+      "position": 4.118143459915611
+    },
+    {
+      "query": "napa motorcycle accident lawyer",
+      "clicks": 6,
+      "impressions": 258,
+      "ctr": 0.023255813953488372,
+      "position": 2.825581395348837
+    },
+    {
+      "query": "pictures of neck hematoma",
+      "clicks": 6,
+      "impressions": 224,
+      "ctr": 0.026785714285714284,
+      "position": 9.142857142857142
+    },
+    {
+      "query": "pine hills car accident lawyer",
+      "clicks": 6,
+      "impressions": 102,
+      "ctr": 0.058823529411764705,
+      "position": 12.92156862745098
+    },
+    {
+      "query": "sutter hospital sacramento",
+      "clicks": 6,
+      "impressions": 199,
+      "ctr": 0.03015075376884422,
+      "position": 2.8643216080402008
+    },
+    {
+      "query": "top 10 scariest roads in california",
+      "clicks": 6,
+      "impressions": 196,
+      "ctr": 0.030612244897959183,
+      "position": 4.301020408163265
+    },
+    {
+      "query": "usaa insurance",
+      "clicks": 6,
+      "impressions": 6656,
+      "ctr": 0.0009014423076923077,
+      "position": 10.76923076923077
+    },
+    {
+      "query": "west coast arborists lawsuit",
+      "clicks": 6,
+      "impressions": 36,
+      "ctr": 0.16666666666666666,
+      "position": 5.527777777777778
+    },
+    {
+      "query": "baby breeza formula maker",
+      "clicks": 5,
+      "impressions": 10,
+      "ctr": 0.5,
+      "position": 2.8
+    },
+    {
+      "query": "baby brezza formula pro manual",
+      "clicks": 5,
+      "impressions": 32,
+      "ctr": 0.15625,
+      "position": 3.4375
+    },
+    {
+      "query": "baby brezza formula settings",
+      "clicks": 5,
+      "impressions": 75,
+      "ctr": 0.06666666666666667,
+      "position": 2.1066666666666665
+    },
+    {
+      "query": "brentwood motorcycle accident lawyer",
+      "clicks": 5,
+      "impressions": 712,
+      "ctr": 0.007022471910112359,
+      "position": 19.651685393258425
+    },
+    {
+      "query": "california aaa",
+      "clicks": 5,
+      "impressions": 50,
+      "ctr": 0.1,
+      "position": 17.4
+    },
+    {
+      "query": "can a car accident cause hemorrhoids",
+      "clicks": 5,
+      "impressions": 29,
+      "ctr": 0.1724137931034483,
+      "position": 4.137931034482758
+    },
+    {
+      "query": "car accident lawyer livingston",
+      "clicks": 5,
+      "impressions": 259,
+      "ctr": 0.019305019305019305,
+      "position": 58.544401544401545
+    },
+    {
+      "query": "car accident lawyer sacramento",
+      "clicks": 5,
+      "impressions": 4448,
+      "ctr": 0.0011241007194244604,
+      "position": 5.2740557553956835
+    },
+    {
+      "query": "chp traffic incident information page",
+      "clicks": 5,
+      "impressions": 1287,
+      "ctr": 0.003885003885003885,
+      "position": 4.557109557109557
+    },
+    {
+      "query": "chp traffic report",
+      "clicks": 5,
+      "impressions": 1252,
+      "ctr": 0.003993610223642172,
+      "position": 5.753194888178914
+    },
+    {
+      "query": "colossus insurance",
+      "clicks": 5,
+      "impressions": 196,
+      "ctr": 0.025510204081632654,
+      "position": 4.969387755102041
+    },
+    {
+      "query": "concord truck accident lawyer",
+      "clicks": 5,
+      "impressions": 591,
+      "ctr": 0.008460236886632826,
+      "position": 12.064297800338409
+    },
+    {
+      "query": "dr tennant biomodulator",
+      "clicks": 5,
+      "impressions": 373,
+      "ctr": 0.013404825737265416,
+      "position": 7.037533512064343
+    },
+    {
+      "query": "dublin car accident lawyer",
+      "clicks": 5,
+      "impressions": 53,
+      "ctr": 0.09433962264150944,
+      "position": 5.452830188679245
+    },
+    {
+      "query": "dublin motorcycle accident lawyer",
+      "clicks": 5,
+      "impressions": 123,
+      "ctr": 0.04065040650406504,
+      "position": 6.414634146341464
+    },
+    {
+      "query": "edward a smith law offices reviews",
+      "clicks": 5,
+      "impressions": 86,
+      "ctr": 0.05813953488372093,
+      "position": 3.1744186046511627
+    },
+    {
+      "query": "electrodermal screening",
+      "clicks": 5,
+      "impressions": 1229,
+      "ctr": 0.0040683482506102524,
+      "position": 9.966639544344996
+    },
+    {
+      "query": "fatal car accident in california recently",
+      "clicks": 5,
+      "impressions": 1138,
+      "ctr": 0.004393673110720563,
+      "position": 9.161687170474517
+    },
+    {
+      "query": "how does underinsured motorist coverage work",
+      "clicks": 5,
+      "impressions": 880,
+      "ctr": 0.005681818181818182,
+      "position": 9.575
+    },
+    {
+      "query": "if a car is totaled can you keep it",
+      "clicks": 5,
+      "impressions": 338,
+      "ctr": 0.014792899408284023,
+      "position": 4.65680473372781
+    },
+    {
+      "query": "intersection accident reports",
+      "clicks": 5,
+      "impressions": 44,
+      "ctr": 0.11363636363636363,
+      "position": 4.386363636363637
+    },
+    {
+      "query": "is six flags safe",
+      "clicks": 5,
+      "impressions": 9,
+      "ctr": 0.5555555555555556,
+      "position": 2.333333333333333
+    },
+    {
+      "query": "level 2 trauma center sacramento",
+      "clicks": 5,
+      "impressions": 52,
+      "ctr": 0.09615384615384616,
+      "position": 2.1538461538461537
+    },
+    {
+      "query": "martinez car accident lawyer",
+      "clicks": 5,
+      "impressions": 47,
+      "ctr": 0.10638297872340426,
+      "position": 6.170212765957447
+    },
+    {
+      "query": "most dangerous road in california",
+      "clicks": 5,
+      "impressions": 156,
+      "ctr": 0.03205128205128205,
+      "position": 4.955128205128205
+    },
+    {
+      "query": "motorcycle accident lawyer brentwood",
+      "clicks": 5,
+      "impressions": 233,
+      "ctr": 0.02145922746781116,
+      "position": 13.768240343347639
+    },
+    {
+      "query": "neck hematoma symptoms",
+      "clicks": 5,
+      "impressions": 25,
+      "ctr": 0.2,
+      "position": 3.16
+    },
+    {
+      "query": "oakdale car accident lawyer",
+      "clicks": 5,
+      "impressions": 149,
+      "ctr": 0.03355704697986577,
+      "position": 13.295302013422818
+    },
+    {
+      "query": "powder setting baby brezza formula chart",
+      "clicks": 5,
+      "impressions": 13,
+      "ctr": 0.38461538461538464,
+      "position": 4.076923076923077
+    },
+    {
+      "query": "six flags accident 15 dead",
+      "clicks": 5,
+      "impressions": 92,
+      "ctr": 0.05434782608695652,
+      "position": 2.1630434782608696
+    },
+    {
+      "query": "six flags great adventure",
+      "clicks": 5,
+      "impressions": 61,
+      "ctr": 0.08196721311475409,
+      "position": 7.737704918032787
+    },
+    {
+      "query": "truck accident lawyer in lincoln",
+      "clicks": 5,
+      "impressions": 5,
+      "ctr": 1,
+      "position": 1.4
+    },
+    {
+      "query": "truck accident lawyer in stockton",
+      "clicks": 5,
+      "impressions": 199,
+      "ctr": 0.02512562814070352,
+      "position": 1.9949748743718594
+    },
+    {
+      "query": "who pays storage fees after a car accident",
+      "clicks": 5,
+      "impressions": 76,
+      "ctr": 0.06578947368421052,
+      "position": 5.5
+    },
+    {
+      "query": "accident attorney near me",
+      "clicks": 4,
+      "impressions": 1496,
+      "ctr": 0.00267379679144385,
+      "position": 9.49933155080214
+    },
+    {
+      "query": "accident attorneys",
+      "clicks": 4,
+      "impressions": 1025,
+      "ctr": 0.003902439024390244,
+      "position": 7.48
+    },
+    {
+      "query": "accident lawyer",
+      "clicks": 4,
+      "impressions": 5771,
+      "ctr": 0.0006931207762952695,
+      "position": 12.507191128054064
+    },
+    {
+      "query": "accutane",
+      "clicks": 4,
+      "impressions": 967,
+      "ctr": 0.004136504653567736,
+      "position": 55.71147880041365
+    },
+    {
+      "query": "anderson motorcycle accident lawyer",
+      "clicks": 4,
+      "impressions": 704,
+      "ctr": 0.005681818181818182,
+      "position": 24.326704545454547
+    },
+    {
+      "query": "anderson truck accident injury lawyer",
+      "clicks": 4,
+      "impressions": 44,
+      "ctr": 0.09090909090909091,
+      "position": 6.431818181818182
+    },
+    {
+      "query": "auburn truck accident lawyer",
+      "clicks": 4,
+      "impressions": 796,
+      "ctr": 0.005025125628140704,
+      "position": 12.389447236180905
+    },
+    {
+      "query": "auto accident",
+      "clicks": 4,
+      "impressions": 6639,
+      "ctr": 0.0006025003765627354,
+      "position": 50.23542702214189
+    },
+    {
+      "query": "baby brezza avis négatif",
+      "clicks": 4,
+      "impressions": 44,
+      "ctr": 0.09090909090909091,
+      "position": 2
+    },
+    {
+      "query": "baby brezza cleaning",
+      "clicks": 4,
+      "impressions": 17,
+      "ctr": 0.23529411764705882,
+      "position": 2.4705882352941178
+    },
+    {
+      "query": "baby brezza costco",
+      "clicks": 4,
+      "impressions": 12,
+      "ctr": 0.3333333333333333,
+      "position": 3.4166666666666665
+    },
+    {
+      "query": "baby brezza dishwasher",
+      "clicks": 4,
+      "impressions": 5,
+      "ctr": 0.8,
+      "position": 2
+    },
+    {
+      "query": "baby brezza instant warmer",
+      "clicks": 4,
+      "impressions": 135,
+      "ctr": 0.02962962962962963,
+      "position": 3.7037037037037037
+    },
+    {
+      "query": "baby brezza mini vs pro",
+      "clicks": 4,
+      "impressions": 22,
+      "ctr": 0.18181818181818182,
+      "position": 3.4545454545454546
+    },
+    {
+      "query": "baby brezza pro vs mini",
+      "clicks": 4,
+      "impressions": 8,
+      "ctr": 0.5,
+      "position": 2.75
+    },
+    {
+      "query": "baby formula dispenser",
+      "clicks": 4,
+      "impressions": 46,
+      "ctr": 0.08695652173913043,
+      "position": 3.282608695652174
+    },
+    {
+      "query": "brezza baby",
+      "clicks": 4,
+      "impressions": 61,
+      "ctr": 0.06557377049180328,
+      "position": 2.7704918032786887
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:21:51.304Z"
 }

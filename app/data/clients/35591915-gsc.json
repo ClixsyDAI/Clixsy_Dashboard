@@ -1,156 +1,16 @@
 {
   "property": "sc-domain:snyderac.com",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 9849,
-    "impressions": 2843528,
-    "ctr": 0.0034636550088481635,
-    "position": 17.150846629206157
+    "clicks": 10455,
+    "impressions": 2738670,
+    "ctr": 0.003817546473288129,
+    "position": 16.019411678210087
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 139,
-      "impressions": 31264,
-      "ctr": 0.004446008188331628,
-      "position": 13.814738996929375
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 125,
-      "impressions": 29786,
-      "ctr": 0.004196602430672128,
-      "position": 15.439636070637212
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 93,
-      "impressions": 26581,
-      "ctr": 0.0034987397012903954,
-      "position": 19.49614386215718
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 102,
-      "impressions": 29936,
-      "ctr": 0.0034072688401924106,
-      "position": 18.353153393907
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 73,
-      "impressions": 24641,
-      "ctr": 0.0029625421046223775,
-      "position": 16.985552534393896
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 44,
-      "impressions": 31221,
-      "ctr": 0.0014093078376733608,
-      "position": 18.63085743570033
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 46,
-      "impressions": 24237,
-      "ctr": 0.001897924660642819,
-      "position": 18.555390518628542
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 94,
-      "impressions": 25836,
-      "ctr": 0.003638334107446973,
-      "position": 17.423401455333643
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 55,
-      "impressions": 25896,
-      "ctr": 0.002123880135928329,
-      "position": 18.568427556379362
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 50,
-      "impressions": 25727,
-      "ctr": 0.0019434834998250865,
-      "position": 21.491040541065807
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 27,
-      "impressions": 22056,
-      "ctr": 0.0012241566920565832,
-      "position": 20.18752266956837
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 72,
-      "impressions": 25919,
-      "ctr": 0.002777884949265018,
-      "position": 19.24217755314634
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 67,
-      "impressions": 28299,
-      "ctr": 0.002367574825965582,
-      "position": 16.77575179334959
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 58,
-      "impressions": 27381,
-      "ctr": 0.002118257185639677,
-      "position": 16.91819144662357
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 108,
-      "impressions": 33135,
-      "ctr": 0.0032593933906745133,
-      "position": 15.857069563905236
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 99,
-      "impressions": 32815,
-      "ctr": 0.0030169129971049824,
-      "position": 15.671247904921529
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 95,
-      "impressions": 34303,
-      "ctr": 0.0027694370754744483,
-      "position": 22.092907325889865
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 67,
-      "impressions": 29224,
-      "ctr": 0.0022926361894333425,
-      "position": 18.40932110594032
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 99,
-      "impressions": 30440,
-      "ctr": 0.003252299605781866,
-      "position": 16.15955978975033
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 59,
-      "impressions": 26416,
-      "ctr": 0.002233494851605088,
-      "position": 15.12253937007874
-    },
     {
       "date": "2026-01-04",
       "clicks": 86,
@@ -640,711 +500,3314 @@
       "impressions": 19332,
       "ctr": 0.004138216428719222,
       "position": 13.052658804055453
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 70,
+      "impressions": 17317,
+      "ctr": 0.004042270601143385,
+      "position": 11.69076629901253
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 133,
+      "impressions": 21514,
+      "ctr": 0.00618202100957516,
+      "position": 11.817421214093148
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 130,
+      "impressions": 22108,
+      "ctr": 0.005880224353175321,
+      "position": 10.924642663289307
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 108,
+      "impressions": 20012,
+      "ctr": 0.005396761942834299,
+      "position": 12.292574455326804
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 105,
+      "impressions": 21921,
+      "ctr": 0.004789927466812645,
+      "position": 12.92842479813877
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 89,
+      "impressions": 20727,
+      "ctr": 0.004293916148019492,
+      "position": 12.394316591884982
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 91,
+      "impressions": 23681,
+      "ctr": 0.0038427431274017146,
+      "position": 12.154343144292893
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 86,
+      "impressions": 23519,
+      "ctr": 0.0036566180534886687,
+      "position": 11.437901271312557
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 166,
+      "impressions": 28230,
+      "ctr": 0.0058802692171448815,
+      "position": 13.053666312433581
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 123,
+      "impressions": 25812,
+      "ctr": 0.004765225476522548,
+      "position": 12.586393925306059
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 120,
+      "impressions": 24569,
+      "ctr": 0.004884203671293093,
+      "position": 13.420570637795596
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 141,
+      "impressions": 24433,
+      "ctr": 0.005770883640977367,
+      "position": 15.600008185650555
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 105,
+      "impressions": 21617,
+      "ctr": 0.004857288245362446,
+      "position": 13.08682980987186
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 56,
+      "impressions": 19032,
+      "ctr": 0.0029424127784783522,
+      "position": 13.664880201765447
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 68,
+      "impressions": 17250,
+      "ctr": 0.003942028985507246,
+      "position": 12.983072463768115
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 115,
+      "impressions": 22373,
+      "ctr": 0.00514012425691682,
+      "position": 13.071157198408796
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 109,
+      "impressions": 21629,
+      "ctr": 0.005039530260298673,
+      "position": 13.552221554394563
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 109,
+      "impressions": 30651,
+      "ctr": 0.003556164562330756,
+      "position": 9.692310201950997
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 102,
+      "impressions": 17740,
+      "ctr": 0.0057497181510710255,
+      "position": 13.555693348365276
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 102,
+      "impressions": 19132,
+      "ctr": 0.005331381977838177,
+      "position": 14.896822078193603
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 50,
+      "impressions": 16988,
+      "ctr": 0.002943254061690605,
+      "position": 14.580880621615258
     }
   ],
   "topQueries": [
     {
       "query": "snyder ac",
-      "clicks": 530,
-      "impressions": 3624,
-      "ctr": 0.14624724061810154,
-      "position": 1.4533664459161149
-    },
-    {
-      "query": "snyder plumbing",
-      "clicks": 292,
-      "impressions": 3455,
-      "ctr": 0.08451519536903039,
-      "position": 5.120984081041968
+      "clicks": 572,
+      "impressions": 3875,
+      "ctr": 0.14761290322580645,
+      "position": 1.3801290322580644
     },
     {
       "query": "snyder air conditioning",
-      "clicks": 284,
-      "impressions": 1746,
-      "ctr": 0.16265750286368844,
-      "position": 2.0618556701030926
+      "clicks": 337,
+      "impressions": 1866,
+      "ctr": 0.18060021436227225,
+      "position": 1.889603429796356
     },
     {
-      "query": "snyder air conditioning plumbing & electric",
-      "clicks": 219,
-      "impressions": 901,
-      "ctr": 0.24306326304106549,
-      "position": 1.3829078801331853
+      "query": "snyder plumbing",
+      "clicks": 306,
+      "impressions": 3511,
+      "ctr": 0.08715465679293649,
+      "position": 4.632583309598405
     },
     {
       "query": "snyder heating and air",
-      "clicks": 215,
-      "impressions": 1749,
-      "ctr": 0.12292738707833048,
-      "position": 2.0234419668381936
+      "clicks": 244,
+      "impressions": 1867,
+      "ctr": 0.13069094804499196,
+      "position": 1.9009105516871987
+    },
+    {
+      "query": "snyder air conditioning plumbing & electric",
+      "clicks": 230,
+      "impressions": 983,
+      "ctr": 0.23397761953204477,
+      "position": 1.3763987792472023
     },
     {
       "query": "snyder air conditioning, plumbing & electric",
-      "clicks": 128,
-      "impressions": 2565,
-      "ctr": 0.04990253411306043,
-      "position": 1.1894736842105262
+      "clicks": 129,
+      "impressions": 2948,
+      "ctr": 0.04375848032564451,
+      "position": 1.1831750339213025
     },
     {
       "query": "snyder",
-      "clicks": 93,
-      "impressions": 2357,
-      "ctr": 0.03945693678404752,
-      "position": 5.857445905812473
+      "clicks": 111,
+      "impressions": 3108,
+      "ctr": 0.03571428571428571,
+      "position": 6.601994851994852
     },
     {
       "query": "snyder electric",
-      "clicks": 80,
-      "impressions": 847,
-      "ctr": 0.09445100354191263,
-      "position": 6.1723730814639906
+      "clicks": 89,
+      "impressions": 806,
+      "ctr": 0.11042183622828784,
+      "position": 4.343672456575682
     },
     {
-      "query": "snyder hvac",
-      "clicks": 60,
-      "impressions": 340,
-      "ctr": 0.17647058823529413,
-      "position": 2.326470588235294
+      "query": "snyder electrical jobs",
+      "clicks": 79,
+      "impressions": 105,
+      "ctr": 0.7523809523809524,
+      "position": 1.6666666666666665
     },
     {
       "query": "snyder electrical",
-      "clicks": 54,
-      "impressions": 514,
-      "ctr": 0.10505836575875487,
-      "position": 2.6595330739299614
+      "clicks": 67,
+      "impressions": 561,
+      "ctr": 0.11942959001782531,
+      "position": 2.376114081996435
+    },
+    {
+      "query": "snyder hvac",
+      "clicks": 64,
+      "impressions": 362,
+      "ctr": 0.17679558011049723,
+      "position": 2.334254143646409
     },
     {
       "query": "snyder company",
-      "clicks": 43,
-      "impressions": 355,
-      "ctr": 0.12112676056338029,
-      "position": 5.295774647887324
+      "clicks": 54,
+      "impressions": 396,
+      "ctr": 0.13636363636363635,
+      "position": 5.287878787878788
+    },
+    {
+      "query": "snyder careers",
+      "clicks": 44,
+      "impressions": 124,
+      "ctr": 0.3548387096774194,
+      "position": 4.217741935483871
     },
     {
       "query": "snyder plumbing jacksonville fl",
-      "clicks": 38,
-      "impressions": 257,
-      "ctr": 0.14785992217898833,
+      "clicks": 39,
+      "impressions": 313,
+      "ctr": 0.12460063897763578,
       "position": 1
     },
     {
       "query": "snyder air",
       "clicks": 36,
-      "impressions": 190,
-      "ctr": 0.18947368421052632,
-      "position": 1.9789473684210526
-    },
-    {
-      "query": "snyder careers",
-      "clicks": 33,
-      "impressions": 111,
-      "ctr": 0.2972972972972973,
-      "position": 4.693693693693694
+      "impressions": 215,
+      "ctr": 0.16744186046511628,
+      "position": 2.511627906976744
     },
     {
       "query": "snyder plumbing gainesville fl",
-      "clicks": 27,
-      "impressions": 208,
-      "ctr": 0.12980769230769232,
-      "position": 1.8028846153846154
-    },
-    {
-      "query": "snyder ac jacksonville fl",
-      "clicks": 26,
-      "impressions": 180,
-      "ctr": 0.14444444444444443,
-      "position": 1.2444444444444445
+      "clicks": 31,
+      "impressions": 227,
+      "ctr": 0.13656387665198239,
+      "position": 1.73568281938326
     },
     {
       "query": "snyder electric jacksonville fl",
-      "clicks": 25,
-      "impressions": 136,
-      "ctr": 0.18382352941176472,
-      "position": 1.9264705882352942
-    },
-    {
-      "query": "snyder jacksonville fl",
-      "clicks": 25,
-      "impressions": 144,
-      "ctr": 0.1736111111111111,
-      "position": 1.7222222222222223
-    },
-    {
-      "query": "how long does it take to defrost a heat pump",
-      "clicks": 23,
-      "impressions": 449,
-      "ctr": 0.051224944320712694,
-      "position": 3.082405345211581
-    },
-    {
-      "query": "furnace high limit switch keeps tripping",
-      "clicks": 21,
-      "impressions": 379,
-      "ctr": 0.055408970976253295,
-      "position": 2.5646437994722957
-    },
-    {
-      "query": "snyder air conditioning, plumbing & electric (air america ac)",
-      "clicks": 21,
-      "impressions": 984,
-      "ctr": 0.021341463414634148,
-      "position": 1.1229674796747968
+      "clicks": 30,
+      "impressions": 191,
+      "ctr": 0.15706806282722513,
+      "position": 1.6596858638743455
     },
     {
       "query": "snyder lake city fl",
-      "clicks": 21,
-      "impressions": 101,
-      "ctr": 0.2079207920792079,
-      "position": 1.0198019801980198
+      "clicks": 29,
+      "impressions": 113,
+      "ctr": 0.25663716814159293,
+      "position": 1.0176991150442478
     },
     {
-      "query": "air america ac",
-      "clicks": 19,
-      "impressions": 447,
-      "ctr": 0.042505592841163314,
-      "position": 2.4049217002237135
+      "query": "snyder jacksonville fl",
+      "clicks": 27,
+      "impressions": 161,
+      "ctr": 0.16770186335403728,
+      "position": 1.2236024844720497
+    },
+    {
+      "query": "snyder ac jacksonville fl",
+      "clicks": 24,
+      "impressions": 172,
+      "ctr": 0.13953488372093023,
+      "position": 1.255813953488372
     },
     {
       "query": "snyder heating and air jacksonville fl",
-      "clicks": 18,
-      "impressions": 65,
-      "ctr": 0.27692307692307694,
-      "position": 2.092307692307692
+      "clicks": 24,
+      "impressions": 93,
+      "ctr": 0.25806451612903225,
+      "position": 3.118279569892473
     },
     {
-      "query": "furnace smells like burning hair",
-      "clicks": 17,
-      "impressions": 380,
-      "ctr": 0.04473684210526316,
-      "position": 2.594736842105263
+      "query": "how long does it take to defrost a heat pump",
+      "clicks": 22,
+      "impressions": 428,
+      "ctr": 0.0514018691588785,
+      "position": 3.0700934579439254
+    },
+    {
+      "query": "air america ac",
+      "clicks": 21,
+      "impressions": 424,
+      "ctr": 0.049528301886792456,
+      "position": 2.4716981132075473
+    },
+    {
+      "query": "snyder ac and plumbing",
+      "clicks": 19,
+      "impressions": 71,
+      "ctr": 0.2676056338028169,
+      "position": 1.4929577464788732
+    },
+    {
+      "query": "synder ac",
+      "clicks": 18,
+      "impressions": 105,
+      "ctr": 0.17142857142857143,
+      "position": 4.371428571428572
     },
     {
       "query": "hvac jacksonville fl",
       "clicks": 17,
-      "impressions": 800,
-      "ctr": 0.02125,
-      "position": 5.6675
-    },
-    {
-      "query": "synder ac",
-      "clicks": 17,
-      "impressions": 110,
-      "ctr": 0.15454545454545454,
-      "position": 6.181818181818182
-    },
-    {
-      "query": "snyder electrical jobs",
-      "clicks": 16,
-      "impressions": 37,
-      "ctr": 0.43243243243243246,
-      "position": 2.945945945945946
-    },
-    {
-      "query": "snyder jacksonville",
-      "clicks": 16,
-      "impressions": 88,
-      "ctr": 0.18181818181818182,
-      "position": 2.1931818181818183
-    },
-    {
-      "query": "buckhalter heating and air",
-      "clicks": 15,
-      "impressions": 95,
-      "ctr": 0.15789473684210525,
-      "position": 1.6210526315789475
+      "impressions": 785,
+      "ctr": 0.02165605095541401,
+      "position": 5.90828025477707
     },
     {
       "query": "snyder hvac jacksonville fl",
-      "clicks": 15,
-      "impressions": 77,
-      "ctr": 0.19480519480519481,
+      "clicks": 17,
+      "impressions": 75,
+      "ctr": 0.22666666666666666,
       "position": 1
     },
     {
-      "query": "snyder lake city",
+      "query": "furnace high limit switch keeps tripping",
+      "clicks": 16,
+      "impressions": 308,
+      "ctr": 0.05194805194805195,
+      "position": 2.6136363636363633
+    },
+    {
+      "query": "snyder air conditioning, plumbing & electric (air america ac)",
+      "clicks": 16,
+      "impressions": 1031,
+      "ctr": 0.015518913676042677,
+      "position": 1.1096023278370515
+    },
+    {
+      "query": "snyder coral springs",
+      "clicks": 15,
+      "impressions": 82,
+      "ctr": 0.18292682926829268,
+      "position": 1.7195121951219512
+    },
+    {
+      "query": "snyder jacksonville",
+      "clicks": 15,
+      "impressions": 102,
+      "ctr": 0.14705882352941177,
+      "position": 4.745098039215686
+    },
+    {
+      "query": "daikin vs rheem",
       "clicks": 14,
+      "impressions": 174,
+      "ctr": 0.08045977011494253,
+      "position": 2.7298850574712645
+    },
+    {
+      "query": "buckhalter heating and air",
+      "clicks": 13,
+      "impressions": 86,
+      "ctr": 0.1511627906976744,
+      "position": 2.1395348837209305
+    },
+    {
+      "query": "snyderac",
+      "clicks": 13,
+      "impressions": 39,
+      "ctr": 0.3333333333333333,
+      "position": 1.1794871794871795
+    },
+    {
+      "query": "daikin vs lennox",
+      "clicks": 12,
+      "impressions": 340,
+      "ctr": 0.03529411764705882,
+      "position": 2.2705882352941176
+    },
+    {
+      "query": "snyder jobs",
+      "clicks": 12,
+      "impressions": 51,
+      "ctr": 0.23529411764705882,
+      "position": 6.666666666666667
+    },
+    {
+      "query": "snyder lake city",
+      "clicks": 12,
       "impressions": 48,
-      "ctr": 0.2916666666666667,
+      "ctr": 0.25,
       "position": 1
     },
     {
       "query": "snyderac.com",
-      "clicks": 14,
-      "impressions": 65,
-      "ctr": 0.2153846153846154,
+      "clicks": 12,
+      "impressions": 74,
+      "ctr": 0.16216216216216217,
       "position": 1
     },
     {
-      "query": "snyder plumbing near me",
-      "clicks": 13,
-      "impressions": 181,
-      "ctr": 0.0718232044198895,
-      "position": 2.552486187845304
-    },
-    {
-      "query": "snyder coral springs",
-      "clicks": 12,
-      "impressions": 77,
-      "ctr": 0.15584415584415584,
-      "position": 1.7402597402597402
+      "query": "snyder air conditioning coral springs",
+      "clicks": 11,
+      "impressions": 150,
+      "ctr": 0.07333333333333333,
+      "position": 1
     },
     {
       "query": "snyder plumbing st augustine",
-      "clicks": 12,
-      "impressions": 85,
-      "ctr": 0.1411764705882353,
+      "clicks": 11,
+      "impressions": 90,
+      "ctr": 0.12222222222222222,
       "position": 1
     },
     {
-      "query": "snyder ac and plumbing",
-      "clicks": 11,
-      "impressions": 39,
-      "ctr": 0.28205128205128205,
-      "position": 1.5897435897435899
+      "query": "ac working downstairs but not upstairs",
+      "clicks": 10,
+      "impressions": 72,
+      "ctr": 0.1388888888888889,
+      "position": 1.5694444444444444
+    },
+    {
+      "query": "furnace smells like burning hair",
+      "clicks": 10,
+      "impressions": 351,
+      "ctr": 0.02849002849002849,
+      "position": 3.3561253561253563
+    },
+    {
+      "query": "snyder air conditioning, plumbing & electric reviews",
+      "clicks": 10,
+      "impressions": 214,
+      "ctr": 0.04672897196261682,
+      "position": 3.2149532710280373
     },
     {
       "query": "snyder heating",
-      "clicks": 11,
-      "impressions": 96,
-      "ctr": 0.11458333333333333,
-      "position": 10.28125
-    },
-    {
-      "query": "snyder jobs",
-      "clicks": 11,
-      "impressions": 58,
-      "ctr": 0.1896551724137931,
-      "position": 6.793103448275862
-    },
-    {
-      "query": "heat pump defrost cycle",
       "clicks": 10,
-      "impressions": 2362,
-      "ctr": 0.004233700254022015,
-      "position": 8.422523285351396
-    },
-    {
-      "query": "snyder air conditioning plumbing & electric reviews",
-      "clicks": 10,
-      "impressions": 528,
-      "ctr": 0.01893939393939394,
-      "position": 3.9166666666666665
+      "impressions": 94,
+      "ctr": 0.10638297872340426,
+      "position": 12.24468085106383
     },
     {
       "query": "snyder plumbing jacksonville",
       "clicks": 10,
-      "impressions": 77,
-      "ctr": 0.12987012987012986,
-      "position": 1.948051948051948
+      "impressions": 72,
+      "ctr": 0.1388888888888889,
+      "position": 1.5
+    },
+    {
+      "query": "snyder plumbing near me",
+      "clicks": 10,
+      "impressions": 181,
+      "ctr": 0.055248618784530384,
+      "position": 4.718232044198896
     },
     {
       "query": "snyder st augustine",
       "clicks": 10,
-      "impressions": 115,
-      "ctr": 0.08695652173913043,
-      "position": 2.4695652173913043
+      "impressions": 92,
+      "ctr": 0.10869565217391304,
+      "position": 1.0108695652173914
     },
     {
-      "query": "daikin vs lennox",
+      "query": "schneider air conditioning",
       "clicks": 9,
-      "impressions": 322,
-      "ctr": 0.027950310559006212,
-      "position": 2.3664596273291925
+      "impressions": 121,
+      "ctr": 0.0743801652892562,
+      "position": 3.487603305785124
     },
     {
-      "query": "daikin vs rheem",
+      "query": "snyder air conditioning plumbing & electric reviews",
       "clicks": 9,
-      "impressions": 147,
-      "ctr": 0.061224489795918366,
-      "position": 2.7278911564625847
-    },
-    {
-      "query": "high limit switch",
-      "clicks": 9,
-      "impressions": 5131,
-      "ctr": 0.0017540440459949329,
-      "position": 3.86727733385305
-    },
-    {
-      "query": "snyder ac st augustine",
-      "clicks": 9,
-      "impressions": 74,
-      "ctr": 0.12162162162162163,
-      "position": 14.256756756756756
+      "impressions": 551,
+      "ctr": 0.016333938294010888,
+      "position": 3.7386569872958257
     },
     {
       "query": "snyder heating and air conditioning",
       "clicks": 9,
-      "impressions": 158,
-      "ctr": 0.056962025316455694,
-      "position": 5.018987341772152
+      "impressions": 161,
+      "ctr": 0.055900621118012424,
+      "position": 5.633540372670807
     },
     {
       "query": "snyder plumbing and heating",
       "clicks": 9,
-      "impressions": 144,
-      "ctr": 0.0625,
-      "position": 9.770833333333334
+      "impressions": 147,
+      "ctr": 0.061224489795918366,
+      "position": 11.775510204081632
     },
     {
       "query": "snyderman",
       "clicks": 9,
-      "impressions": 150,
-      "ctr": 0.06,
-      "position": 2.913333333333333
+      "impressions": 112,
+      "ctr": 0.08035714285714286,
+      "position": 3.8660714285714284
+    },
+    {
+      "query": "synder",
+      "clicks": 9,
+      "impressions": 94,
+      "ctr": 0.09574468085106383,
+      "position": 2.574468085106383
+    },
+    {
+      "query": "synder plumbing",
+      "clicks": 9,
+      "impressions": 85,
+      "ctr": 0.10588235294117647,
+      "position": 3.976470588235294
+    },
+    {
+      "query": "what does the test button do on an outlet",
+      "clicks": 9,
+      "impressions": 221,
+      "ctr": 0.04072398190045249,
+      "position": 1.8054298642533937
+    },
+    {
+      "query": "ac companies near me",
+      "clicks": 8,
+      "impressions": 1541,
+      "ctr": 0.005191434133679429,
+      "position": 11.474367293964958
+    },
+    {
+      "query": "air duct cleaning jacksonville fl",
+      "clicks": 8,
+      "impressions": 1133,
+      "ctr": 0.00706090026478376,
+      "position": 8.954104148278905
+    },
+    {
+      "query": "hvac companies in florida",
+      "clicks": 8,
+      "impressions": 294,
+      "ctr": 0.027210884353741496,
+      "position": 10.081632653061224
+    },
+    {
+      "query": "snyder ac jacksonville",
+      "clicks": 8,
+      "impressions": 43,
+      "ctr": 0.18604651162790697,
+      "position": 1
+    },
+    {
+      "query": "snyder ac st augustine",
+      "clicks": 8,
+      "impressions": 73,
+      "ctr": 0.1095890410958904,
+      "position": 9.67123287671233
+    },
+    {
+      "query": "snyder career",
+      "clicks": 8,
+      "impressions": 35,
+      "ctr": 0.22857142857142856,
+      "position": 4.142857142857142
+    },
+    {
+      "query": "snyder electric gainesville fl",
+      "clicks": 8,
+      "impressions": 49,
+      "ctr": 0.16326530612244897,
+      "position": 9.510204081632653
+    },
+    {
+      "query": "ac repair jacksonville fl",
+      "clicks": 7,
+      "impressions": 1490,
+      "ctr": 0.004697986577181208,
+      "position": 7.295973154362416
+    },
+    {
+      "query": "air america air conditioning",
+      "clicks": 7,
+      "impressions": 111,
+      "ctr": 0.06306306306306306,
+      "position": 2.6576576576576576
+    },
+    {
+      "query": "heat pump defrost cycle",
+      "clicks": 7,
+      "impressions": 2078,
+      "ctr": 0.003368623676612127,
+      "position": 8.5
+    },
+    {
+      "query": "high limit switch furnace",
+      "clicks": 7,
+      "impressions": 2487,
+      "ctr": 0.0028146361077603537,
+      "position": 4.909127462806595
+    },
+    {
+      "query": "how long is defrost cycle on heat pump",
+      "clicks": 7,
+      "impressions": 124,
+      "ctr": 0.056451612903225805,
+      "position": 2.8629032258064515
+    },
+    {
+      "query": "how long is the defrost cycle on a heat pump",
+      "clicks": 7,
+      "impressions": 99,
+      "ctr": 0.0707070707070707,
+      "position": 3.0707070707070705
+    },
+    {
+      "query": "hvac",
+      "clicks": 7,
+      "impressions": 781,
+      "ctr": 0.008962868117797696,
+      "position": 2.500640204865557
+    },
+    {
+      "query": "hvac companies near me",
+      "clicks": 7,
+      "impressions": 1561,
+      "ctr": 0.004484304932735426,
+      "position": 4.379884689301729
+    },
+    {
+      "query": "snider plumbing",
+      "clicks": 7,
+      "impressions": 98,
+      "ctr": 0.07142857142857142,
+      "position": 8.010204081632654
+    },
+    {
+      "query": "snyder air conditioning port st lucie",
+      "clicks": 7,
+      "impressions": 80,
+      "ctr": 0.0875,
+      "position": 1.025
+    },
+    {
+      "query": "snyder electric company",
+      "clicks": 7,
+      "impressions": 126,
+      "ctr": 0.05555555555555555,
+      "position": 11.865079365079366
+    },
+    {
+      "query": "snyders plumbing",
+      "clicks": 7,
+      "impressions": 83,
+      "ctr": 0.08433734939759036,
+      "position": 22.216867469879517
+    },
+    {
+      "query": "high limit switch",
+      "clicks": 6,
+      "impressions": 4464,
+      "ctr": 0.0013440860215053765,
+      "position": 3.790098566308244
+    },
+    {
+      "query": "hvac gainesville fl",
+      "clicks": 6,
+      "impressions": 221,
+      "ctr": 0.027149321266968326,
+      "position": 4.122171945701357
+    },
+    {
+      "query": "hvac miami",
+      "clicks": 6,
+      "impressions": 529,
+      "ctr": 0.011342155009451797,
+      "position": 10.527410207939509
+    },
+    {
+      "query": "hvac near me",
+      "clicks": 6,
+      "impressions": 1997,
+      "ctr": 0.0030045067601402104,
+      "position": 7.222834251377066
+    },
+    {
+      "query": "schneider plumbing",
+      "clicks": 6,
+      "impressions": 249,
+      "ctr": 0.024096385542168676,
+      "position": 17.76305220883534
+    },
+    {
+      "query": "snyder ac lake city fl",
+      "clicks": 6,
+      "impressions": 42,
+      "ctr": 0.14285714285714285,
+      "position": 1.0238095238095237
+    },
+    {
+      "query": "snyder ac reviews",
+      "clicks": 6,
+      "impressions": 244,
+      "ctr": 0.02459016393442623,
+      "position": 13.471311475409836
+    },
+    {
+      "query": "snyder air conditioning plumbing & electric photos",
+      "clicks": 6,
+      "impressions": 68,
+      "ctr": 0.08823529411764706,
+      "position": 14.397058823529411
+    },
+    {
+      "query": "snyder air conditioning, plumbing & electric (air america ac) coral springs",
+      "clicks": 6,
+      "impressions": 46,
+      "ctr": 0.13043478260869565,
+      "position": 1.0434782608695652
+    },
+    {
+      "query": "snyder company jacksonville fl",
+      "clicks": 6,
+      "impressions": 22,
+      "ctr": 0.2727272727272727,
+      "position": 1
+    },
+    {
+      "query": "snyder man",
+      "clicks": 6,
+      "impressions": 133,
+      "ctr": 0.045112781954887216,
+      "position": 1.5864661654135337
+    },
+    {
+      "query": "snyders ac",
+      "clicks": 6,
+      "impressions": 121,
+      "ctr": 0.049586776859504134,
+      "position": 6.297520661157025
+    },
+    {
+      "query": "upstairs ac not working but downstairs is",
+      "clicks": 6,
+      "impressions": 237,
+      "ctr": 0.02531645569620253,
+      "position": 1.3670886075949367
+    },
+    {
+      "query": "ac companies jacksonville fl",
+      "clicks": 5,
+      "impressions": 248,
+      "ctr": 0.020161290322580645,
+      "position": 8.568548387096774
+    },
+    {
+      "query": "ac duct cleaning",
+      "clicks": 5,
+      "impressions": 793,
+      "ctr": 0.006305170239596469,
+      "position": 37.71752837326608
+    },
+    {
+      "query": "air conditioning",
+      "clicks": 5,
+      "impressions": 992,
+      "ctr": 0.005040322580645161,
+      "position": 9.72883064516129
+    },
+    {
+      "query": "duct cleaning",
+      "clicks": 5,
+      "impressions": 37060,
+      "ctr": 0.00013491635186184566,
+      "position": 19.69773340528872
+    },
+    {
+      "query": "furnace keeps tripping limit switch",
+      "clicks": 5,
+      "impressions": 50,
+      "ctr": 0.1,
+      "position": 1.6800000000000002
+    },
+    {
+      "query": "furnace tripping on high limit",
+      "clicks": 5,
+      "impressions": 116,
+      "ctr": 0.04310344827586207,
+      "position": 2.1206896551724137
+    },
+    {
+      "query": "is daikin a good ac brand",
+      "clicks": 5,
+      "impressions": 258,
+      "ctr": 0.01937984496124031,
+      "position": 1.8643410852713178
+    },
+    {
+      "query": "is daikin a good hvac brand",
+      "clicks": 5,
+      "impressions": 181,
+      "ctr": 0.027624309392265192,
+      "position": 2.270718232044199
+    },
+    {
+      "query": "is it better to leave doors open or closed for heat",
+      "clicks": 5,
+      "impressions": 577,
+      "ctr": 0.008665511265164644,
+      "position": 3.2287694974003465
+    },
+    {
+      "query": "lennox vs daikin",
+      "clicks": 5,
+      "impressions": 195,
+      "ctr": 0.02564102564102564,
+      "position": 2.671794871794872
+    },
+    {
+      "query": "rheem vs daikin",
+      "clicks": 5,
+      "impressions": 159,
+      "ctr": 0.031446540880503145,
+      "position": 2.2578616352201255
+    },
+    {
+      "query": "snyder heating & air conditioning",
+      "clicks": 5,
+      "impressions": 22,
+      "ctr": 0.22727272727272727,
+      "position": 10.272727272727273
+    },
+    {
+      "query": "snyder plumbing reviews",
+      "clicks": 5,
+      "impressions": 132,
+      "ctr": 0.03787878787878788,
+      "position": 2.007575757575758
+    },
+    {
+      "query": "ac company near me",
+      "clicks": 4,
+      "impressions": 448,
+      "ctr": 0.008928571428571428,
+      "position": 12.171875
+    },
+    {
+      "query": "ac not working upstairs but works downstairs",
+      "clicks": 4,
+      "impressions": 55,
+      "ctr": 0.07272727272727272,
+      "position": 1.8
+    },
+    {
+      "query": "ac repair gainesville fl",
+      "clicks": 4,
+      "impressions": 631,
+      "ctr": 0.006339144215530904,
+      "position": 18.724247226624406
+    },
+    {
+      "query": "ac repair near me",
+      "clicks": 4,
+      "impressions": 9036,
+      "ctr": 0.0004426737494466578,
+      "position": 8.476870296591411
+    },
+    {
+      "query": "ac repair port st lucie",
+      "clicks": 4,
+      "impressions": 2068,
+      "ctr": 0.0019342359767891683,
+      "position": 9.747098646034816
+    },
+    {
+      "query": "furnace going off on high limit",
+      "clicks": 4,
+      "impressions": 93,
+      "ctr": 0.043010752688172046,
+      "position": 1.4946236559139785
+    },
+    {
+      "query": "furnace limit switch keeps tripping",
+      "clicks": 4,
+      "impressions": 147,
+      "ctr": 0.027210884353741496,
+      "position": 2.761904761904762
+    },
+    {
+      "query": "goodman furnace high limit switch",
+      "clicks": 4,
+      "impressions": 351,
+      "ctr": 0.011396011396011397,
+      "position": 1.0940170940170941
+    },
+    {
+      "query": "heat pump defrost cycle time",
+      "clicks": 4,
+      "impressions": 69,
+      "ctr": 0.057971014492753624,
+      "position": 3.4057971014492754
+    },
+    {
+      "query": "how long does it take for a heat pump to defrost",
+      "clicks": 4,
+      "impressions": 128,
+      "ctr": 0.03125,
+      "position": 2.6953125
+    },
+    {
+      "query": "how long is a defrost cycle on a heat pump",
+      "clicks": 4,
+      "impressions": 124,
+      "ctr": 0.03225806451612903,
+      "position": 2.9516129032258065
+    },
+    {
+      "query": "hvac companies",
+      "clicks": 4,
+      "impressions": 216,
+      "ctr": 0.018518518518518517,
+      "position": 7.638888888888889
+    },
+    {
+      "query": "hvac jacksonville",
+      "clicks": 4,
+      "impressions": 832,
+      "ctr": 0.004807692307692308,
+      "position": 2.8064903846153846
+    },
+    {
+      "query": "hvac port st lucie",
+      "clicks": 4,
+      "impressions": 671,
+      "ctr": 0.005961251862891207,
+      "position": 9.092399403874813
+    },
+    {
+      "query": "hvac st augustine",
+      "clicks": 4,
+      "impressions": 360,
+      "ctr": 0.011111111111111112,
+      "position": 5.016666666666667
+    },
+    {
+      "query": "is daikin a good brand",
+      "clicks": 4,
+      "impressions": 481,
+      "ctr": 0.008316008316008316,
+      "position": 2.760914760914761
+    },
+    {
+      "query": "is it better to keep bedroom doors open or closed in summer",
+      "clicks": 4,
+      "impressions": 156,
+      "ctr": 0.02564102564102564,
+      "position": 2.5256410256410255
+    },
+    {
+      "query": "new refrigerant 2026",
+      "clicks": 4,
+      "impressions": 257,
+      "ctr": 0.01556420233463035,
+      "position": 2.2490272373540856
+    },
+    {
+      "query": "plumbers near me",
+      "clicks": 4,
+      "impressions": 776,
+      "ctr": 0.005154639175257732,
+      "position": 11.269329896907216
+    },
+    {
+      "query": "schneider",
+      "clicks": 4,
+      "impressions": 1239,
+      "ctr": 0.003228410008071025,
+      "position": 3.9556093623890236
+    },
+    {
+      "query": "schneider jacksonville fl",
+      "clicks": 4,
+      "impressions": 72,
+      "ctr": 0.05555555555555555,
+      "position": 1.9027777777777777
+    },
+    {
+      "query": "snider",
+      "clicks": 4,
+      "impressions": 56,
+      "ctr": 0.07142857142857142,
+      "position": 1.125
+    },
+    {
+      "query": "snyder a/c",
+      "clicks": 4,
+      "impressions": 17,
+      "ctr": 0.23529411764705882,
+      "position": 1
+    },
+    {
+      "query": "snyder air conditioner",
+      "clicks": 4,
+      "impressions": 38,
+      "ctr": 0.10526315789473684,
+      "position": 3.210526315789474
+    },
+    {
+      "query": "snyder electrician",
+      "clicks": 4,
+      "impressions": 43,
+      "ctr": 0.09302325581395349,
+      "position": 4.813953488372093
+    },
+    {
+      "query": "snyder florida",
+      "clicks": 4,
+      "impressions": 27,
+      "ctr": 0.14814814814814814,
+      "position": 3.259259259259259
+    },
+    {
+      "query": "snyder heating and cooling",
+      "clicks": 4,
+      "impressions": 105,
+      "ctr": 0.0380952380952381,
+      "position": 5.666666666666667
+    },
+    {
+      "query": "snyder's plumbing",
+      "clicks": 4,
+      "impressions": 105,
+      "ctr": 0.0380952380952381,
+      "position": 7.276190476190476
+    },
+    {
+      "query": "water heater replacement",
+      "clicks": 4,
+      "impressions": 1433,
+      "ctr": 0.0027913468248429866,
+      "position": 9.195394277739009
+    },
+    {
+      "query": "a/c repair near me",
+      "clicks": 3,
+      "impressions": 274,
+      "ctr": 0.010948905109489052,
+      "position": 11.41970802919708
+    },
+    {
+      "query": "ac fan not spinning",
+      "clicks": 3,
+      "impressions": 1239,
+      "ctr": 0.002421307506053269,
+      "position": 8.975786924939467
+    },
+    {
+      "query": "ac fuses",
+      "clicks": 3,
+      "impressions": 1178,
+      "ctr": 0.0025466893039049238,
+      "position": 7.050084889643464
+    },
+    {
+      "query": "ac service",
+      "clicks": 3,
+      "impressions": 2084,
+      "ctr": 0.0014395393474088292,
+      "position": 36.438579654510555
+    },
+    {
+      "query": "ac unit outside fan not spinning",
+      "clicks": 3,
+      "impressions": 274,
+      "ctr": 0.010948905109489052,
+      "position": 2.602189781021898
+    },
+    {
+      "query": "air america",
+      "clicks": 3,
+      "impressions": 214,
+      "ctr": 0.014018691588785047,
+      "position": 4.107476635514018
+    },
+    {
+      "query": "best hvac companies in jacksonville fl",
+      "clicks": 3,
+      "impressions": 65,
+      "ctr": 0.046153846153846156,
+      "position": 4.046153846153846
+    },
+    {
+      "query": "best hvac companies in jacksonville, fl",
+      "clicks": 3,
+      "impressions": 36,
+      "ctr": 0.08333333333333333,
+      "position": 1.1944444444444444
+    },
+    {
+      "query": "carrier furnace high limit switch keeps tripping",
+      "clicks": 3,
+      "impressions": 37,
+      "ctr": 0.08108108108108109,
+      "position": 4.72972972972973
+    },
+    {
+      "query": "daikin vs lennox furnace",
+      "clicks": 3,
+      "impressions": 122,
+      "ctr": 0.02459016393442623,
+      "position": 3.3114754098360657
+    },
+    {
+      "query": "do dimmer switches get hot",
+      "clicks": 3,
+      "impressions": 96,
+      "ctr": 0.03125,
+      "position": 4.229166666666666
+    },
+    {
+      "query": "dusty smell from furnace",
+      "clicks": 3,
+      "impressions": 58,
+      "ctr": 0.05172413793103448,
+      "position": 2.706896551724138
+    },
+    {
+      "query": "electrical contractors in jacksonville",
+      "clicks": 3,
+      "impressions": 4,
+      "ctr": 0.75,
+      "position": 62.25
+    },
+    {
+      "query": "fan not turning on ac unit",
+      "clicks": 3,
+      "impressions": 346,
+      "ctr": 0.008670520231213872,
+      "position": 4.265895953757226
+    },
+    {
+      "query": "faut-il fermer les portes quand on chauffe",
+      "clicks": 3,
+      "impressions": 20,
+      "ctr": 0.15,
+      "position": 2
+    },
+    {
+      "query": "florida hvac companies",
+      "clicks": 3,
+      "impressions": 82,
+      "ctr": 0.036585365853658534,
+      "position": 9.109756097560975
+    },
+    {
+      "query": "heating and air jacksonville fl",
+      "clicks": 3,
+      "impressions": 280,
+      "ctr": 0.010714285714285714,
+      "position": 9.367857142857142
+    },
+    {
+      "query": "high limit switch on furnace",
+      "clicks": 3,
+      "impressions": 881,
+      "ctr": 0.00340522133938706,
+      "position": 3.5368898978433596
+    },
+    {
+      "query": "how long does it take a heat pump to defrost",
+      "clicks": 3,
+      "impressions": 61,
+      "ctr": 0.04918032786885246,
+      "position": 2
+    },
+    {
+      "query": "how long is a heat pump defrost cycle",
+      "clicks": 3,
+      "impressions": 74,
+      "ctr": 0.04054054054054054,
+      "position": 2.8108108108108105
+    },
+    {
+      "query": "how to keep upstairs warm in winter",
+      "clicks": 3,
+      "impressions": 46,
+      "ctr": 0.06521739130434782,
+      "position": 2.3043478260869565
+    },
+    {
+      "query": "hvac companies port st lucie",
+      "clicks": 3,
+      "impressions": 144,
+      "ctr": 0.020833333333333332,
+      "position": 9.569444444444445
+    },
+    {
+      "query": "hvac contractor jacksonville fl",
+      "clicks": 3,
+      "impressions": 204,
+      "ctr": 0.014705882352941176,
+      "position": 10.151960784313726
+    },
+    {
+      "query": "hvac contractors in florida",
+      "clicks": 3,
+      "impressions": 76,
+      "ctr": 0.039473684210526314,
+      "position": 23.092105263157894
+    },
+    {
+      "query": "hvac fan not running",
+      "clicks": 3,
+      "impressions": 145,
+      "ctr": 0.020689655172413793,
+      "position": 5.186206896551724
+    },
+    {
+      "query": "hvac miami fl",
+      "clicks": 3,
+      "impressions": 472,
+      "ctr": 0.006355932203389831,
+      "position": 8.444915254237287
+    },
+    {
+      "query": "hvac services in florida",
+      "clicks": 3,
+      "impressions": 41,
+      "ctr": 0.07317073170731707,
+      "position": 11.24390243902439
+    },
+    {
+      "query": "hvac st augustine fl",
+      "clicks": 3,
+      "impressions": 215,
+      "ctr": 0.013953488372093023,
+      "position": 5.130232558139535
+    },
+    {
+      "query": "lennox vs daikin furnace",
+      "clicks": 3,
+      "impressions": 65,
+      "ctr": 0.046153846153846156,
+      "position": 3.230769230769231
+    },
+    {
+      "query": "outside fan not running when heat is on",
+      "clicks": 3,
+      "impressions": 1072,
+      "ctr": 0.002798507462686567,
+      "position": 1.8041044776119404
+    },
+    {
+      "query": "plumbing companies near me",
+      "clicks": 3,
+      "impressions": 311,
+      "ctr": 0.00964630225080386,
+      "position": 8.366559485530548
+    },
+    {
+      "query": "schneider ac",
+      "clicks": 3,
+      "impressions": 79,
+      "ctr": 0.0379746835443038,
+      "position": 2.227848101265823
+    },
+    {
+      "query": "schneider air",
+      "clicks": 3,
+      "impressions": 14,
+      "ctr": 0.21428571428571427,
+      "position": 1.0714285714285714
+    },
+    {
+      "query": "schneider electric",
+      "clicks": 3,
+      "impressions": 319,
+      "ctr": 0.009404388714733543,
+      "position": 3.6394984326018807
+    },
+    {
+      "query": "snider heating and air",
+      "clicks": 3,
+      "impressions": 39,
+      "ctr": 0.07692307692307693,
+      "position": 1.9230769230769231
+    },
+    {
+      "query": "snyder ac coral springs",
+      "clicks": 3,
+      "impressions": 59,
+      "ctr": 0.05084745762711865,
+      "position": 8.305084745762713
+    },
+    {
+      "query": "snyder air conditioning, plumbing & electric (air temp heating & electrical)",
+      "clicks": 3,
+      "impressions": 224,
+      "ctr": 0.013392857142857142,
+      "position": 1.1607142857142858
+    },
+    {
+      "query": "snyder plumber",
+      "clicks": 3,
+      "impressions": 214,
+      "ctr": 0.014018691588785047,
+      "position": 17.07943925233645
+    },
+    {
+      "query": "snyder website",
+      "clicks": 3,
+      "impressions": 14,
+      "ctr": 0.21428571428571427,
+      "position": 13
+    },
+    {
+      "query": "what causes a high limit switch to trip",
+      "clicks": 3,
+      "impressions": 155,
+      "ctr": 0.01935483870967742,
+      "position": 2.664516129032258
+    },
+    {
+      "query": "what causes high limit switch to trip",
+      "clicks": 3,
+      "impressions": 109,
+      "ctr": 0.027522935779816515,
+      "position": 1.4954128440366974
+    },
+    {
+      "query": "why does my high limit switch keep tripping",
+      "clicks": 3,
+      "impressions": 57,
+      "ctr": 0.05263157894736842,
+      "position": 1.7543859649122808
+    },
+    {
+      "query": "a/c companies near me",
+      "clicks": 2,
+      "impressions": 93,
+      "ctr": 0.021505376344086023,
+      "position": 16.67741935483871
+    },
+    {
+      "query": "a/c company near me",
+      "clicks": 2,
+      "impressions": 37,
+      "ctr": 0.05405405405405406,
+      "position": 6.513513513513513
+    },
+    {
+      "query": "a/c maintenance plan",
+      "clicks": 2,
+      "impressions": 5,
+      "ctr": 0.4,
+      "position": 32.8
+    },
+    {
+      "query": "ac and water heater maintenance",
+      "clicks": 2,
+      "impressions": 3,
+      "ctr": 0.6666666666666666,
+      "position": 1
+    },
+    {
+      "query": "ac company",
+      "clicks": 2,
+      "impressions": 819,
+      "ctr": 0.002442002442002442,
+      "position": 7.328449328449328
+    },
+    {
+      "query": "ac company jacksonville fl",
+      "clicks": 2,
+      "impressions": 235,
+      "ctr": 0.00851063829787234,
+      "position": 13.14468085106383
+    },
+    {
+      "query": "ac condenser fan not spinning",
+      "clicks": 2,
+      "impressions": 534,
+      "ctr": 0.003745318352059925,
+      "position": 4.801498127340825
+    },
+    {
+      "query": "ac condenser fan not working",
+      "clicks": 2,
+      "impressions": 133,
+      "ctr": 0.015037593984962405,
+      "position": 3.8947368421052633
+    },
+    {
+      "query": "ac fan not spinning but air blowing",
+      "clicks": 2,
+      "impressions": 158,
+      "ctr": 0.012658227848101266,
+      "position": 2.943037974683544
+    },
+    {
+      "query": "ac guy near me",
+      "clicks": 2,
+      "impressions": 30,
+      "ctr": 0.06666666666666667,
+      "position": 21.5
+    },
+    {
+      "query": "ac not spinning outside",
+      "clicks": 2,
+      "impressions": 86,
+      "ctr": 0.023255813953488372,
+      "position": 2.011627906976744
+    },
+    {
+      "query": "ac repair",
+      "clicks": 2,
+      "impressions": 137387,
+      "ctr": 0.000014557418096326435,
+      "position": 26.213921258925517
+    },
+    {
+      "query": "ac repair jacksonville",
+      "clicks": 2,
+      "impressions": 2157,
+      "ctr": 0.0009272137227630969,
+      "position": 12.572554473806212
+    },
+    {
+      "query": "ac repair lake city fl",
+      "clicks": 2,
+      "impressions": 144,
+      "ctr": 0.013888888888888888,
+      "position": 7.263888888888889
+    },
+    {
+      "query": "ac repair st augustine",
+      "clicks": 2,
+      "impressions": 688,
+      "ctr": 0.0029069767441860465,
+      "position": 10.340116279069768
+    },
+    {
+      "query": "acceptable temperature difference between rooms",
+      "clicks": 2,
+      "impressions": 45,
+      "ctr": 0.044444444444444446,
+      "position": 2.7555555555555555
+    },
+    {
+      "query": "air america air conditioning & plumbing llc",
+      "clicks": 2,
+      "impressions": 13,
+      "ctr": 0.15384615384615385,
+      "position": 5.461538461538462
+    },
+    {
+      "query": "air conditioner fuse",
+      "clicks": 2,
+      "impressions": 935,
+      "ctr": 0.0021390374331550803,
+      "position": 9.49090909090909
+    },
+    {
+      "query": "air conditioner repair jacksonville fl",
+      "clicks": 2,
+      "impressions": 249,
+      "ctr": 0.008032128514056224,
+      "position": 5.602409638554217
+    },
+    {
+      "query": "air conditioner repair near me",
+      "clicks": 2,
+      "impressions": 2076,
+      "ctr": 0.0009633911368015414,
+      "position": 17.08766859344894
+    },
+    {
+      "query": "air conditioning port st lucie",
+      "clicks": 2,
+      "impressions": 735,
+      "ctr": 0.0027210884353741495,
+      "position": 7.054421768707483
+    },
+    {
+      "query": "air conditioning service near me",
+      "clicks": 2,
+      "impressions": 1465,
+      "ctr": 0.0013651877133105802,
+      "position": 6.783617747440273
+    },
+    {
+      "query": "air duct cleaning",
+      "clicks": 2,
+      "impressions": 1651,
+      "ctr": 0.0012113870381586917,
+      "position": 17.696547546941247
+    },
+    {
+      "query": "are daikin hvac systems good",
+      "clicks": 2,
+      "impressions": 35,
+      "ctr": 0.05714285714285714,
+      "position": 1.0285714285714285
+    },
+    {
+      "query": "arnett heating and air",
+      "clicks": 2,
+      "impressions": 48,
+      "ctr": 0.041666666666666664,
+      "position": 2.5
+    },
+    {
+      "query": "arnett plumbing",
+      "clicks": 2,
+      "impressions": 19,
+      "ctr": 0.10526315789473684,
+      "position": 8.736842105263158
+    },
+    {
+      "query": "british gas recommends keeping oven doors open after cooking to warm homes",
+      "clicks": 2,
+      "impressions": 6,
+      "ctr": 0.3333333333333333,
+      "position": 2.5
+    },
+    {
+      "query": "calefacción puertas abiertas o cerradas",
+      "clicks": 2,
+      "impressions": 2,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "daikin",
+      "clicks": 2,
+      "impressions": 538,
+      "ctr": 0.0037174721189591076,
+      "position": 1.7286245353159853
     }
   ],
   "topPages": [
     {
       "page": "https://snyderac.com/",
-      "clicks": 1052,
-      "impressions": 74921,
-      "ctr": 0.01404145700137478,
-      "position": 19.757104149704354
-    },
-    {
-      "page": "https://snyderac.com/blog/whats-causing-my-furnaces-high-limit-switch-to-keep-tripping/",
-      "clicks": 978,
-      "impressions": 169887,
-      "ctr": 0.005756767733846616,
-      "position": 4.100543302312714
-    },
-    {
-      "page": "https://snyderac.com/jacksonville/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*182*snyder-air-jacksonville",
-      "clicks": 776,
-      "impressions": 66696,
-      "ctr": 0.011634880652512895,
-      "position": 3.5083213386110113
+      "clicks": 1196,
+      "impressions": 81568,
+      "ctr": 0.014662612789329149,
+      "position": 18.209641035700276
     },
     {
       "page": "https://snyderac.com/north-florida/jacksonville/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*182*snyder-air-jacksonville",
-      "clicks": 604,
-      "impressions": 52373,
-      "ctr": 0.0115326599583755,
-      "position": 23.86135986099708
+      "clicks": 907,
+      "impressions": 75794,
+      "ctr": 0.011966646436393382,
+      "position": 17.853378895427078
     },
     {
-      "page": "https://snyderac.com/blog/should-i-leave-doors-open-or-closed-during-heating-and-cooling/",
-      "clicks": 342,
-      "impressions": 66504,
-      "ctr": 0.005142547816672682,
-      "position": 4.8294989775051125
+      "page": "https://snyderac.com/blog/whats-causing-my-furnaces-high-limit-switch-to-keep-tripping/",
+      "clicks": 774,
+      "impressions": 149102,
+      "ctr": 0.005191077249131467,
+      "position": 4.254765194296522
     },
     {
-      "page": "https://snyderac.com/blog/what-do-test-reset-buttons-do-on-outlets/",
-      "clicks": 331,
-      "impressions": 120175,
-      "ctr": 0.0027543166215935094,
-      "position": 3.952976908674849
-    },
-    {
-      "page": "https://snyderac.com/blog/the-heat-pump-defrost-cycle-explained/",
-      "clicks": 314,
-      "impressions": 71662,
-      "ctr": 0.004381680667578354,
-      "position": 5.395453657447462
+      "page": "https://snyderac.com/jacksonville/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*182*snyder-air-jacksonville",
+      "clicks": 558,
+      "impressions": 41516,
+      "ctr": 0.013440601213989788,
+      "position": 3.8212496386935157
     },
     {
       "page": "https://snyderac.com/blog/why-is-my-outdoor-a-c-units-fan-not-spinning/",
-      "clicks": 314,
-      "impressions": 100928,
-      "ctr": 0.003111128725428028,
-      "position": 6.86986762840837
+      "clicks": 399,
+      "impressions": 111160,
+      "ctr": 0.0035894206549118386,
+      "position": 6.184598776538323
     },
     {
       "page": "https://snyderac.com/about-us/hvac-electrical-career-opportunities-snyder-heating-air-conditioning/",
-      "clicks": 294,
-      "impressions": 7732,
-      "ctr": 0.0380237972064149,
-      "position": 6.188954992240041
+      "clicks": 396,
+      "impressions": 7055,
+      "ctr": 0.05613040396881644,
+      "position": 5.605669737774628
+    },
+    {
+      "page": "https://snyderac.com/blog/what-do-test-reset-buttons-do-on-outlets/",
+      "clicks": 340,
+      "impressions": 118538,
+      "ctr": 0.002868278526717171,
+      "position": 4.15861580252746
     },
     {
       "page": "https://snyderac.com/blog/daikin-lennox-rheem-which-hvac-brand-is-best-for-me/",
-      "clicks": 274,
-      "impressions": 16888,
-      "ctr": 0.01622453813358598,
-      "position": 9.353209379441024
+      "clicks": 324,
+      "impressions": 20209,
+      "ctr": 0.016032460784798853,
+      "position": 7.748923746845465
     },
     {
       "page": "https://snyderac.com/south-florida/coral-springs/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*12*snyder-air-coral-springs",
-      "clicks": 212,
-      "impressions": 10294,
-      "ctr": 0.020594521080240916,
-      "position": 7.561783563240723
+      "clicks": 295,
+      "impressions": 14904,
+      "ctr": 0.01979334406870639,
+      "position": 7.168075684380033
+    },
+    {
+      "page": "https://snyderac.com/blog/should-i-leave-doors-open-or-closed-during-heating-and-cooling/",
+      "clicks": 289,
+      "impressions": 61076,
+      "ctr": 0.004731809548758924,
+      "position": 4.842262099679088
+    },
+    {
+      "page": "https://snyderac.com/blog/the-heat-pump-defrost-cycle-explained/",
+      "clicks": 261,
+      "impressions": 60910,
+      "ctr": 0.004285010671482515,
+      "position": 5.848957478246593
     },
     {
       "page": "https://snyderac.com/blog/how-to-tell-if-your-ac-fuse-is-blown/",
-      "clicks": 184,
-      "impressions": 63042,
-      "ctr": 0.002918689127882999,
-      "position": 7.813663906601948
-    },
-    {
-      "page": "https://snyderac.com/blog/be-cautious-of-these-3-furnace-smells/",
-      "clicks": 157,
-      "impressions": 24507,
-      "ctr": 0.006406332884481985,
-      "position": 7.763088097278328
-    },
-    {
-      "page": "https://snyderac.com/coral-springs/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*12*snyder-air-coral-springs",
-      "clicks": 142,
-      "impressions": 13039,
-      "ctr": 0.010890405705959045,
-      "position": 5.558401717923154
-    },
-    {
-      "page": "https://snyderac.com/gainesville/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*54*snyder-air-gainesville",
-      "clicks": 142,
-      "impressions": 25589,
-      "ctr": 0.005549259447418813,
-      "position": 2.0871077416077224
-    },
-    {
-      "page": "https://snyderac.com/north-florida/gainesville/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*54*snyder-air-gainesville",
-      "clicks": 126,
-      "impressions": 15166,
-      "ctr": 0.008308057497032837,
-      "position": 4.317948041672162
-    },
-    {
-      "page": "https://snyderac.com/contact-us/",
-      "clicks": 121,
-      "impressions": 26633,
-      "ctr": 0.004543235835241993,
-      "position": 8.359816768670447
-    },
-    {
-      "page": "https://snyderac.com/blog/why-is-my-hvac-system-not-cooling-my-second-floor-and-how-do-i-fix-it/",
-      "clicks": 117,
-      "impressions": 20776,
-      "ctr": 0.005631497882171737,
-      "position": 8.134145167500963
-    },
-    {
-      "page": "https://snyderac.com/port-st-lucie/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*299*snyder-air-port-st.-lucie",
-      "clicks": 115,
-      "impressions": 26680,
-      "ctr": 0.004310344827586207,
-      "position": 4.849700149925038
-    },
-    {
-      "page": "https://snyderac.com/st-augustine/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*183*snyder-air-st-augustine",
-      "clicks": 113,
-      "impressions": 17902,
-      "ctr": 0.006312143894536923,
-      "position": 2.3690649089487206
+      "clicks": 232,
+      "impressions": 70086,
+      "ctr": 0.0033102188739548553,
+      "position": 7.276474616899238
     },
     {
       "page": "https://snyderac.com/south-florida/port-st-lucie/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*299*snyder-air-port-st.-lucie",
-      "clicks": 112,
-      "impressions": 20038,
-      "ctr": 0.005589380177662442,
-      "position": 12.422197824134145
+      "clicks": 191,
+      "impressions": 30841,
+      "ctr": 0.006193054699912454,
+      "position": 9.188093771278492
     },
     {
-      "page": "https://snyderac.com/blog/what-does-a-buzzing-electrical-outlet-mean/",
-      "clicks": 110,
-      "impressions": 46658,
-      "ctr": 0.002357580693557375,
-      "position": 5.475631188649321
+      "page": "https://snyderac.com/blog/why-is-my-hvac-system-not-cooling-my-second-floor-and-how-do-i-fix-it/",
+      "clicks": 190,
+      "impressions": 22805,
+      "ctr": 0.008331506248629687,
+      "position": 7.132909449682087
     },
     {
-      "page": "https://snyderac.com/lake-city/",
-      "clicks": 101,
-      "impressions": 9798,
-      "ctr": 0.010308226168605838,
-      "position": 17.486119616248214
+      "page": "https://snyderac.com/north-florida/gainesville/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*54*snyder-air-gainesville",
+      "clicks": 185,
+      "impressions": 22061,
+      "ctr": 0.0083858392638593,
+      "position": 3.7769366755813425
     },
     {
-      "page": "https://snyderac.com/lake-worth-beach/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*155*Snyder-lake-worth-beach",
-      "clicks": 92,
-      "impressions": 27602,
-      "ctr": 0.003333091804941671,
-      "position": 3.345301065140207
+      "page": "https://snyderac.com/contact-us/",
+      "clicks": 137,
+      "impressions": 26305,
+      "ctr": 0.00520813533548755,
+      "position": 9.274358486979661
     },
     {
-      "page": "https://snyderac.com/port-st-lucie/",
-      "clicks": 90,
-      "impressions": 50304,
-      "ctr": 0.00178912213740458,
-      "position": 18.83983381043257
+      "page": "https://snyderac.com/blog/be-cautious-of-these-3-furnace-smells/",
+      "clicks": 131,
+      "impressions": 20220,
+      "ctr": 0.0064787339268051435,
+      "position": 7.610682492581603
     },
     {
       "page": "https://snyderac.com/south-florida/lake-worth-beach/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*155*Snyder-lake-worth-beach",
-      "clicks": 87,
-      "impressions": 19349,
-      "ctr": 0.004496356400847589,
-      "position": 9.273967646906817
+      "clicks": 128,
+      "impressions": 29644,
+      "ctr": 0.004317905815679396,
+      "position": 7.278133855080286
+    },
+    {
+      "page": "https://snyderac.com/blog/what-does-a-buzzing-electrical-outlet-mean/",
+      "clicks": 117,
+      "impressions": 49035,
+      "ctr": 0.002386050780055063,
+      "position": 5.359212807178546
+    },
+    {
+      "page": "https://snyderac.com/gainesville/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*54*snyder-air-gainesville",
+      "clicks": 110,
+      "impressions": 17982,
+      "ctr": 0.006117228339450562,
+      "position": 2.1079968857746634
     },
     {
       "page": "https://snyderac.com/south-florida/st-augustine/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*183*snyder-air-st-augustine",
-      "clicks": 74,
-      "impressions": 12702,
-      "ctr": 0.005825854196189577,
-      "position": 13.277751535191308
+      "clicks": 107,
+      "impressions": 20551,
+      "ctr": 0.005206559291518661,
+      "position": 9.137754853778405
+    },
+    {
+      "page": "https://snyderac.com/coral-springs/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*12*snyder-air-coral-springs",
+      "clicks": 105,
+      "impressions": 9314,
+      "ctr": 0.011273351943311145,
+      "position": 5.082349151814473
+    },
+    {
+      "page": "https://snyderac.com/port-st-lucie/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*299*snyder-air-port-st.-lucie",
+      "clicks": 88,
+      "impressions": 17480,
+      "ctr": 0.005034324942791762,
+      "position": 4.355892448512586
+    },
+    {
+      "page": "https://snyderac.com/lake-city/",
+      "clicks": 84,
+      "impressions": 7433,
+      "ctr": 0.011300955199784744,
+      "position": 16.594645499798197
+    },
+    {
+      "page": "https://snyderac.com/port-st-lucie/",
+      "clicks": 81,
+      "impressions": 39788,
+      "ctr": 0.002035789685332261,
+      "position": 19.001533125565498
+    },
+    {
+      "page": "https://snyderac.com/st-augustine/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*183*snyder-air-st-augustine",
+      "clicks": 78,
+      "impressions": 12279,
+      "ctr": 0.006352308819936477,
+      "position": 2.3465265901132013
     },
     {
       "page": "https://snyderac.com/contact-us/home-service-maintenance-plans-near-jacksonville-florida/",
-      "clicks": 71,
-      "impressions": 10188,
-      "ctr": 0.006968983117393012,
-      "position": 8.375736160188456
+      "clicks": 74,
+      "impressions": 9841,
+      "ctr": 0.0075195610202215225,
+      "position": 8.242251803678489
+    },
+    {
+      "page": "https://snyderac.com/lake-worth-beach/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*155*Snyder-lake-worth-beach",
+      "clicks": 69,
+      "impressions": 19762,
+      "ctr": 0.00349154943831596,
+      "position": 3.344195931585872
     },
     {
       "page": "https://snyderac.com/blog/why-does-my-homes-dimmer-switch-get-hot/",
-      "clicks": 67,
-      "impressions": 13306,
-      "ctr": 0.005035322410942432,
-      "position": 4.880730497519916
-    },
-    {
-      "page": "https://snyderac.com/air-duct-cleaning/",
       "clicks": 65,
-      "impressions": 58762,
-      "ctr": 0.0011061570402641162,
-      "position": 25.46383717368367
-    },
-    {
-      "page": "https://snyderac.com/gainesville/",
-      "clicks": 58,
-      "impressions": 30636,
-      "ctr": 0.0018931975453714584,
-      "position": 27.59230970100535
-    },
-    {
-      "page": "https://snyderac.com/boca-raton/",
-      "clicks": 54,
-      "impressions": 23658,
-      "ctr": 0.002282525995434948,
-      "position": 23.63635979372728
-    },
-    {
-      "page": "https://snyderac.com/snyder-family-hero-plan/",
-      "clicks": 49,
-      "impressions": 748,
-      "ctr": 0.06550802139037433,
-      "position": 15.79144385026738
-    },
-    {
-      "page": "https://snyderac.com/st-augustine/",
-      "clicks": 49,
-      "impressions": 10375,
-      "ctr": 0.00472289156626506,
-      "position": 19.81744578313253
-    },
-    {
-      "page": "https://snyderac.com/coral-springs/",
-      "clicks": 48,
-      "impressions": 19185,
-      "ctr": 0.002501954652071931,
-      "position": 10.650143341151942
+      "impressions": 12758,
+      "ctr": 0.005094842451794953,
+      "position": 4.952813920677222
     },
     {
       "page": "https://snyderac.com/north-florida/lake-city/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*436*snyder-lake-city",
-      "clicks": 48,
-      "impressions": 3048,
-      "ctr": 0.015748031496062992,
-      "position": 28.88254593175853
+      "clicks": 64,
+      "impressions": 4761,
+      "ctr": 0.013442554085276202,
+      "position": 19.338794370930476
     },
     {
       "page": "https://snyderac.com/south-florida/boca-raton/",
-      "clicks": 45,
-      "impressions": 9805,
-      "ctr": 0.004589495155532891,
-      "position": 20.0371239163692
+      "clicks": 64,
+      "impressions": 16258,
+      "ctr": 0.003936523557633165,
+      "position": 17.846168040349365
     },
     {
-      "page": "https://snyderac.com/about-us/our-most-recent-service-reviews-near-jacksonville-florida/",
-      "clicks": 43,
-      "impressions": 3706,
-      "ctr": 0.011602806260118727,
-      "position": 5.13302752293578
+      "page": "https://snyderac.com/air-duct-cleaning/",
+      "clicks": 60,
+      "impressions": 59449,
+      "ctr": 0.0010092684485861832,
+      "position": 25.26528621171088
+    },
+    {
+      "page": "https://snyderac.com/snyder-family-hero-plan/",
+      "clicks": 57,
+      "impressions": 941,
+      "ctr": 0.06057385759829968,
+      "position": 13.961742826780021
     },
     {
       "page": "https://snyderac.com/north-florida/jacksonville/",
-      "clicks": 43,
-      "impressions": 10538,
-      "ctr": 0.0040804706775479215,
-      "position": 19.03046118808123
-    },
-    {
-      "page": "https://snyderac.com/contact-us/financing-options-plans/",
-      "clicks": 39,
-      "impressions": 3860,
-      "ctr": 0.010103626943005182,
-      "position": 16.566839378238342
-    },
-    {
-      "page": "https://snyderac.com/delray-beach/",
-      "clicks": 37,
-      "impressions": 16416,
-      "ctr": 0.0022538986354775827,
-      "position": 20.3583089668616
-    },
-    {
-      "page": "https://snyderac.com/about-us/",
-      "clicks": 36,
-      "impressions": 8563,
-      "ctr": 0.004204134065164078,
-      "position": 5.148429288800654
-    },
-    {
-      "page": "https://snyderac.com/offers/",
-      "clicks": 36,
-      "impressions": 1756,
-      "ctr": 0.02050113895216401,
-      "position": 13.398633257403189
+      "clicks": 56,
+      "impressions": 13982,
+      "ctr": 0.004005149477900157,
+      "position": 16.9567300815334
     },
     {
       "page": "https://snyderac.com/south-florida/coral-springs/",
-      "clicks": 36,
-      "impressions": 8117,
-      "ctr": 0.00443513613403967,
-      "position": 12.060490328939263
+      "clicks": 54,
+      "impressions": 13420,
+      "ctr": 0.004023845007451565,
+      "position": 11.60327868852459
     },
     {
-      "page": "https://snyderac.com/blog/its-cold-upstairs-heating-and-air-tips-for-a-two-story-home/",
-      "clicks": 35,
-      "impressions": 7001,
-      "ctr": 0.0049992858163119555,
-      "position": 4.875303528067419
+      "page": "https://snyderac.com/st-augustine/",
+      "clicks": 48,
+      "impressions": 10776,
+      "ctr": 0.004454342984409799,
+      "position": 20.13762063845583
     },
     {
-      "page": "https://snyderac.com/miami/",
-      "clicks": 34,
-      "impressions": 5342,
-      "ctr": 0.00636465743167353,
-      "position": 24.38431299138899
-    },
-    {
-      "page": "https://snyderac.com/blog/why-do-my-light-bulbs-keep-burning-out/",
-      "clicks": 33,
-      "impressions": 22426,
-      "ctr": 0.001471506287345046,
-      "position": 6.637741906715419
+      "page": "https://snyderac.com/contact-us/financing-options-plans/",
+      "clicks": 45,
+      "impressions": 3105,
+      "ctr": 0.014492753623188406,
+      "position": 20.15523349436393
     },
     {
       "page": "https://snyderac.com/blog/how-a-power-outage-affects-your-air-conditioner/",
-      "clicks": 32,
-      "impressions": 17530,
-      "ctr": 0.0018254420992584142,
-      "position": 8.563947518539646
+      "clicks": 44,
+      "impressions": 19302,
+      "ctr": 0.002279556522640141,
+      "position": 7.998912029841467
     },
     {
-      "page": "https://snyderac.com/fernandina-beach/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*184*snyder-air-fernandina-beach",
-      "clicks": 31,
-      "impressions": 8358,
-      "ctr": 0.0037090212969609956,
-      "position": 2.505862646566164
+      "page": "https://snyderac.com/delray-beach/",
+      "clicks": 44,
+      "impressions": 16454,
+      "ctr": 0.0026741217940926217,
+      "position": 17.7672298529233
+    },
+    {
+      "page": "https://snyderac.com/gainesville/",
+      "clicks": 43,
+      "impressions": 19052,
+      "ctr": 0.002256980894394289,
+      "position": 29.832196094898173
+    },
+    {
+      "page": "https://snyderac.com/about-us/our-most-recent-service-reviews-near-jacksonville-florida/",
+      "clicks": 41,
+      "impressions": 2953,
+      "ctr": 0.01388418557399255,
+      "position": 4.798171351168303
     },
     {
       "page": "https://snyderac.com/north-florida/fernandina-beach/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*184*snyder-air-fernandina-beach",
-      "clicks": 29,
-      "impressions": 6028,
-      "ctr": 0.0048108825481088255,
-      "position": 23.562873258128732
+      "clicks": 39,
+      "impressions": 8698,
+      "ctr": 0.004483789376868246,
+      "position": 17.20441480800184
+    },
+    {
+      "page": "https://snyderac.com/boca-raton/",
+      "clicks": 38,
+      "impressions": 14646,
+      "ctr": 0.0025945650689608085,
+      "position": 24.05243752560426
+    },
+    {
+      "page": "https://snyderac.com/coral-springs/",
+      "clicks": 37,
+      "impressions": 12511,
+      "ctr": 0.0029573974902086164,
+      "position": 10.688514107585325
+    },
+    {
+      "page": "https://snyderac.com/offers/",
+      "clicks": 37,
+      "impressions": 2161,
+      "ctr": 0.017121702915316984,
+      "position": 15.186487737158723
+    },
+    {
+      "page": "https://snyderac.com/blog/why-does-my-air-conditioner-smell-bad/",
+      "clicks": 35,
+      "impressions": 16956,
+      "ctr": 0.0020641660769049304,
+      "position": 7.4811276244397265
+    },
+    {
+      "page": "https://snyderac.com/blog/what-to-know-about-the-latest-refrigerant-changes-in-2026/",
+      "clicks": 34,
+      "impressions": 9069,
+      "ctr": 0.0037490351747711988,
+      "position": 3.9028558826772524
+    },
+    {
+      "page": "https://snyderac.com/north-florida/gainesville/",
+      "clicks": 33,
+      "impressions": 20573,
+      "ctr": 0.0016040441355174258,
+      "position": 20.1917561852914
+    },
+    {
+      "page": "https://snyderac.com/blog/why-do-my-light-bulbs-keep-burning-out/",
+      "clicks": 32,
+      "impressions": 21534,
+      "ctr": 0.0014860221045788055,
+      "position": 6.237392031206464
+    },
+    {
+      "page": "https://snyderac.com/about-us/",
+      "clicks": 31,
+      "impressions": 10131,
+      "ctr": 0.003059915112032376,
+      "position": 5.317540223077683
     }
   ],
-  "fetchedAt": "2026-03-18T13:07:01.173Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "snyder ac",
+      "clicks": 643,
+      "impressions": 4783,
+      "ctr": 0.13443445536274304,
+      "position": 1.0827932260087811
+    },
+    {
+      "query": "snyder plumbing",
+      "clicks": 313,
+      "impressions": 2562,
+      "ctr": 0.12217017954722872,
+      "position": 3.6772053083528493
+    },
+    {
+      "query": "snyder heating and air",
+      "clicks": 150,
+      "impressions": 966,
+      "ctr": 0.15527950310559005,
+      "position": 1.3892339544513457
+    },
+    {
+      "query": "snyder air conditioning",
+      "clicks": 149,
+      "impressions": 1185,
+      "ctr": 0.1257383966244726,
+      "position": 1.940084388185654
+    },
+    {
+      "query": "snyder electrical",
+      "clicks": 125,
+      "impressions": 900,
+      "ctr": 0.1388888888888889,
+      "position": 4.321111111111112
+    },
+    {
+      "query": "snyder air conditioning, plumbing & electric",
+      "clicks": 117,
+      "impressions": 2173,
+      "ctr": 0.053842613897837094,
+      "position": 1.1122871606074551
+    },
+    {
+      "query": "snyder",
+      "clicks": 115,
+      "impressions": 636,
+      "ctr": 0.18081761006289307,
+      "position": 3.8773584905660377
+    },
+    {
+      "query": "snyder air conditioning plumbing & electric",
+      "clicks": 108,
+      "impressions": 413,
+      "ctr": 0.26150121065375304,
+      "position": 1.0072639225181599
+    },
+    {
+      "query": "snyder heating and air conditioning",
+      "clicks": 76,
+      "impressions": 321,
+      "ctr": 0.2367601246105919,
+      "position": 2.2710280373831777
+    },
+    {
+      "query": "snyder hvac",
+      "clicks": 68,
+      "impressions": 371,
+      "ctr": 0.18328840970350405,
+      "position": 1.935309973045822
+    },
+    {
+      "query": "air america ac",
+      "clicks": 58,
+      "impressions": 635,
+      "ctr": 0.09133858267716535,
+      "position": 6.806299212598425
+    },
+    {
+      "query": "synder",
+      "clicks": 57,
+      "impressions": 306,
+      "ctr": 0.18627450980392157,
+      "position": 2.3006535947712417
+    },
+    {
+      "query": "snyder electric",
+      "clicks": 55,
+      "impressions": 686,
+      "ctr": 0.08017492711370262,
+      "position": 5.884839650145772
+    },
+    {
+      "query": "snyder company",
+      "clicks": 54,
+      "impressions": 902,
+      "ctr": 0.0598669623059867,
+      "position": 6.977827050997782
+    },
+    {
+      "query": "heat pump defrost cycle",
+      "clicks": 47,
+      "impressions": 3793,
+      "ctr": 0.012391247034010018,
+      "position": 6.4126021618771425
+    },
+    {
+      "query": "furnace smells like burning hair",
+      "clicks": 44,
+      "impressions": 520,
+      "ctr": 0.08461538461538462,
+      "position": 4.294230769230769
+    },
+    {
+      "query": "snyder plumbing gainesville fl",
+      "clicks": 39,
+      "impressions": 167,
+      "ctr": 0.23353293413173654,
+      "position": 1
+    },
+    {
+      "query": "snyder ac gainesville fl",
+      "clicks": 34,
+      "impressions": 164,
+      "ctr": 0.2073170731707317,
+      "position": 1.0060975609756098
+    },
+    {
+      "query": "daikin vs rheem",
+      "clicks": 33,
+      "impressions": 172,
+      "ctr": 0.19186046511627908,
+      "position": 1.2848837209302326
+    },
+    {
+      "query": "snyder jacksonville",
+      "clicks": 32,
+      "impressions": 174,
+      "ctr": 0.1839080459770115,
+      "position": 1.0114942528735633
+    },
+    {
+      "query": "snyder ac jacksonville fl",
+      "clicks": 31,
+      "impressions": 188,
+      "ctr": 0.16489361702127658,
+      "position": 1
+    },
+    {
+      "query": "rheem vs daikin",
+      "clicks": 30,
+      "impressions": 110,
+      "ctr": 0.2727272727272727,
+      "position": 1.6181818181818182
+    },
+    {
+      "query": "jacksonville plumber",
+      "clicks": 28,
+      "impressions": 2110,
+      "ctr": 0.013270142180094787,
+      "position": 41.90331753554502
+    },
+    {
+      "query": "snyder air",
+      "clicks": 28,
+      "impressions": 197,
+      "ctr": 0.14213197969543148,
+      "position": 1.4111675126903553
+    },
+    {
+      "query": "snyder air conditioning jacksonville",
+      "clicks": 28,
+      "impressions": 134,
+      "ctr": 0.208955223880597,
+      "position": 1
+    },
+    {
+      "query": "plumber jacksonville fl",
+      "clicks": 27,
+      "impressions": 1827,
+      "ctr": 0.014778325123152709,
+      "position": 40.80623973727422
+    },
+    {
+      "query": "snyder electric jacksonville",
+      "clicks": 27,
+      "impressions": 129,
+      "ctr": 0.20930232558139536,
+      "position": 1
+    },
+    {
+      "query": "is it better to leave doors open or closed for heat",
+      "clicks": 26,
+      "impressions": 432,
+      "ctr": 0.06018518518518518,
+      "position": 2.439814814814815
+    },
+    {
+      "query": "snyder plumbing jacksonville",
+      "clicks": 26,
+      "impressions": 139,
+      "ctr": 0.18705035971223022,
+      "position": 1
+    },
+    {
+      "query": "synder ac",
+      "clicks": 26,
+      "impressions": 99,
+      "ctr": 0.26262626262626265,
+      "position": 1.1616161616161615
+    },
+    {
+      "query": "plumbers st augustine",
+      "clicks": 23,
+      "impressions": 748,
+      "ctr": 0.03074866310160428,
+      "position": 19.379679144385026
+    },
+    {
+      "query": "duct cleaning jacksonville",
+      "clicks": 22,
+      "impressions": 965,
+      "ctr": 0.022797927461139896,
+      "position": 22.161658031088084
+    },
+    {
+      "query": "gainesville plumbers",
+      "clicks": 22,
+      "impressions": 1340,
+      "ctr": 0.016417910447761194,
+      "position": 39.157462686567165
+    },
+    {
+      "query": "jacksonville plumbers",
+      "clicks": 22,
+      "impressions": 1971,
+      "ctr": 0.011161846778285134,
+      "position": 32.00405885337392
+    },
+    {
+      "query": "plumber jacksonville",
+      "clicks": 22,
+      "impressions": 2156,
+      "ctr": 0.01020408163265306,
+      "position": 38.30473098330241
+    },
+    {
+      "query": "plumbers jacksonville fl",
+      "clicks": 22,
+      "impressions": 1236,
+      "ctr": 0.01779935275080906,
+      "position": 35.43284789644013
+    },
+    {
+      "query": "snyder air conditioning plumbing and electric",
+      "clicks": 22,
+      "impressions": 101,
+      "ctr": 0.21782178217821782,
+      "position": 1.0891089108910892
+    },
+    {
+      "query": "water heater repair jacksonville",
+      "clicks": 22,
+      "impressions": 942,
+      "ctr": 0.02335456475583864,
+      "position": 13.072186836518046
+    },
+    {
+      "query": "plumber gainesville",
+      "clicks": 21,
+      "impressions": 1596,
+      "ctr": 0.013157894736842105,
+      "position": 55.73182957393484
+    },
+    {
+      "query": "plumber jacksonville beach",
+      "clicks": 21,
+      "impressions": 894,
+      "ctr": 0.02348993288590604,
+      "position": 44.19463087248322
+    },
+    {
+      "query": "plumbers jacksonville",
+      "clicks": 21,
+      "impressions": 1905,
+      "ctr": 0.011023622047244094,
+      "position": 30.668241469816273
+    },
+    {
+      "query": "plumbing jacksonville fl",
+      "clicks": 21,
+      "impressions": 1105,
+      "ctr": 0.019004524886877826,
+      "position": 53.887782805429865
+    },
+    {
+      "query": "water heater replacement jacksonville fl",
+      "clicks": 20,
+      "impressions": 459,
+      "ctr": 0.04357298474945534,
+      "position": 14.472766884531591
+    },
+    {
+      "query": "ac repair jacksonville fl",
+      "clicks": 19,
+      "impressions": 1714,
+      "ctr": 0.011085180863477246,
+      "position": 4.657526254375729
+    },
+    {
+      "query": "electricians st augustine",
+      "clicks": 19,
+      "impressions": 124,
+      "ctr": 0.1532258064516129,
+      "position": 41.57258064516129
+    },
+    {
+      "query": "generators for sale jacksonville fl",
+      "clicks": 19,
+      "impressions": 507,
+      "ctr": 0.03747534516765286,
+      "position": 68.93688362919133
+    },
+    {
+      "query": "plumbing services jacksonville",
+      "clicks": 19,
+      "impressions": 851,
+      "ctr": 0.022326674500587545,
+      "position": 36.19271445358402
+    },
+    {
+      "query": "furnace repair jacksonville",
+      "clicks": 18,
+      "impressions": 1156,
+      "ctr": 0.015570934256055362,
+      "position": 29.257785467128027
+    },
+    {
+      "query": "is it better to keep bedroom doors open or closed in winter",
+      "clicks": 18,
+      "impressions": 995,
+      "ctr": 0.018090452261306532,
+      "position": 5.768844221105527
+    },
+    {
+      "query": "jacksonville electrician",
+      "clicks": 18,
+      "impressions": 711,
+      "ctr": 0.02531645569620253,
+      "position": 47.80590717299578
+    },
+    {
+      "query": "snyder ac coral springs",
+      "clicks": 18,
+      "impressions": 125,
+      "ctr": 0.144,
+      "position": 1.016
+    },
+    {
+      "query": "daikin vs lennox",
+      "clicks": 17,
+      "impressions": 426,
+      "ctr": 0.03990610328638498,
+      "position": 3.1737089201877935
+    },
+    {
+      "query": "electrician jacksonville",
+      "clicks": 17,
+      "impressions": 855,
+      "ctr": 0.019883040935672516,
+      "position": 57.902923976608186
+    },
+    {
+      "query": "gainesville plumber",
+      "clicks": 17,
+      "impressions": 1388,
+      "ctr": 0.012247838616714697,
+      "position": 36.85014409221902
+    },
+    {
+      "query": "heat pump repair gainesville fl",
+      "clicks": 17,
+      "impressions": 531,
+      "ctr": 0.032015065913371,
+      "position": 20.19774011299435
+    },
+    {
+      "query": "heating repair st augustine",
+      "clicks": 17,
+      "impressions": 76,
+      "ctr": 0.2236842105263158,
+      "position": 1
+    },
+    {
+      "query": "hvac jacksonville fl",
+      "clicks": 17,
+      "impressions": 1456,
+      "ctr": 0.011675824175824176,
+      "position": 30.635302197802197
+    },
+    {
+      "query": "water heater installation jacksonville fl",
+      "clicks": 17,
+      "impressions": 655,
+      "ctr": 0.025954198473282442,
+      "position": 13.635114503816794
+    },
+    {
+      "query": "whole house repipe st augustine",
+      "clicks": 17,
+      "impressions": 212,
+      "ctr": 0.08018867924528301,
+      "position": 8.94811320754717
+    },
+    {
+      "query": "why do heat pumps have defrost systems?",
+      "clicks": 17,
+      "impressions": 283,
+      "ctr": 0.06007067137809187,
+      "position": 4.738515901060071
+    },
+    {
+      "query": "air duct cleaning jacksonville fl",
+      "clicks": 16,
+      "impressions": 1274,
+      "ctr": 0.012558869701726845,
+      "position": 16.558869701726845
+    },
+    {
+      "query": "emergency plumber jacksonville fl",
+      "clicks": 16,
+      "impressions": 545,
+      "ctr": 0.029357798165137616,
+      "position": 54.16880733944954
+    },
+    {
+      "query": "jacksonville plumbing service",
+      "clicks": 16,
+      "impressions": 705,
+      "ctr": 0.02269503546099291,
+      "position": 40.57304964539007
+    },
+    {
+      "query": "plumber gainesville fl",
+      "clicks": 16,
+      "impressions": 731,
+      "ctr": 0.02188782489740082,
+      "position": 28.433652530779753
+    },
+    {
+      "query": "snyder air america",
+      "clicks": 16,
+      "impressions": 94,
+      "ctr": 0.1702127659574468,
+      "position": 1.4148936170212765
+    },
+    {
+      "query": "snyder careers",
+      "clicks": 16,
+      "impressions": 94,
+      "ctr": 0.1702127659574468,
+      "position": 5.085106382978723
+    },
+    {
+      "query": "lennox vs daikin",
+      "clicks": 15,
+      "impressions": 302,
+      "ctr": 0.04966887417218543,
+      "position": 4.486754966887418
+    },
+    {
+      "query": "plumber st augustine fl",
+      "clicks": 15,
+      "impressions": 301,
+      "ctr": 0.04983388704318937,
+      "position": 15.375415282392026
+    },
+    {
+      "query": "plumbing services gainesville",
+      "clicks": 15,
+      "impressions": 590,
+      "ctr": 0.025423728813559324,
+      "position": 53.14237288135593
+    },
+    {
+      "query": "snyder broward",
+      "clicks": 15,
+      "impressions": 47,
+      "ctr": 0.3191489361702128,
+      "position": 1.3829787234042552
+    },
+    {
+      "query": "snyder electric company",
+      "clicks": 15,
+      "impressions": 280,
+      "ctr": 0.05357142857142857,
+      "position": 9.428571428571429
+    },
+    {
+      "query": "ac repair st augustine",
+      "clicks": 14,
+      "impressions": 733,
+      "ctr": 0.019099590723055934,
+      "position": 3.437926330150068
+    },
+    {
+      "query": "air duct cleaning st augustine fl",
+      "clicks": 14,
+      "impressions": 192,
+      "ctr": 0.07291666666666667,
+      "position": 11.005208333333334
+    },
+    {
+      "query": "best plumbers jacksonville fl",
+      "clicks": 14,
+      "impressions": 777,
+      "ctr": 0.018018018018018018,
+      "position": 62.85971685971686
+    },
+    {
+      "query": "electrician st augustine fl",
+      "clicks": 14,
+      "impressions": 131,
+      "ctr": 0.10687022900763359,
+      "position": 34.587786259541986
+    },
+    {
+      "query": "emergency plumber st augustine fl",
+      "clicks": 14,
+      "impressions": 202,
+      "ctr": 0.06930693069306931,
+      "position": 27.519801980198018
+    },
+    {
+      "query": "high limit switch",
+      "clicks": 14,
+      "impressions": 3142,
+      "ctr": 0.004455760661998727,
+      "position": 10.959579885423297
+    },
+    {
+      "query": "jacksonville plumbing",
+      "clicks": 14,
+      "impressions": 705,
+      "ctr": 0.019858156028368795,
+      "position": 61.773049645390074
+    },
+    {
+      "query": "snyder career",
+      "clicks": 14,
+      "impressions": 45,
+      "ctr": 0.3111111111111111,
+      "position": 3.911111111111111
+    },
+    {
+      "query": "snyder jacksonville fl",
+      "clicks": 14,
+      "impressions": 71,
+      "ctr": 0.19718309859154928,
+      "position": 1.056338028169014
+    },
+    {
+      "query": "snyder man",
+      "clicks": 14,
+      "impressions": 134,
+      "ctr": 0.1044776119402985,
+      "position": 1.2462686567164178
+    },
+    {
+      "query": "snyder plumbing near me",
+      "clicks": 14,
+      "impressions": 163,
+      "ctr": 0.08588957055214724,
+      "position": 3.208588957055215
+    },
+    {
+      "query": "st augustine electricians",
+      "clicks": 14,
+      "impressions": 87,
+      "ctr": 0.16091954022988506,
+      "position": 41.86206896551724
+    },
+    {
+      "query": "air duct cleaning gainesville",
+      "clicks": 13,
+      "impressions": 589,
+      "ctr": 0.022071307300509338,
+      "position": 87.37351443123939
+    },
+    {
+      "query": "air duct cleaning st augustine",
+      "clicks": 13,
+      "impressions": 335,
+      "ctr": 0.03880597014925373,
+      "position": 26.408955223880596
+    },
+    {
+      "query": "buckhalter heating and air",
+      "clicks": 13,
+      "impressions": 148,
+      "ctr": 0.08783783783783784,
+      "position": 1.8716216216216215
+    },
+    {
+      "query": "furnace repair gainesville",
+      "clicks": 13,
+      "impressions": 971,
+      "ctr": 0.013388259526261586,
+      "position": 58.163748712667356
+    },
+    {
+      "query": "furnace repair gainesville fl",
+      "clicks": 13,
+      "impressions": 344,
+      "ctr": 0.0377906976744186,
+      "position": 25.4796511627907
+    },
+    {
+      "query": "gainesville plumbing repair",
+      "clicks": 13,
+      "impressions": 231,
+      "ctr": 0.05627705627705628,
+      "position": 26.22943722943723
+    },
+    {
+      "query": "how to keep upstairs warm in winter",
+      "clicks": 13,
+      "impressions": 90,
+      "ctr": 0.14444444444444443,
+      "position": 2.9444444444444446
+    },
+    {
+      "query": "snyder ac st augustine",
+      "clicks": 13,
+      "impressions": 93,
+      "ctr": 0.13978494623655913,
+      "position": 1
+    },
+    {
+      "query": "snyder heating and cooling",
+      "clicks": 13,
+      "impressions": 231,
+      "ctr": 0.05627705627705628,
+      "position": 9.922077922077921
+    },
+    {
+      "query": "water heaters jacksonville, fl",
+      "clicks": 13,
+      "impressions": 218,
+      "ctr": 0.05963302752293578,
+      "position": 24.01834862385321
+    },
+    {
+      "query": "water softener st augustine",
+      "clicks": 13,
+      "impressions": 184,
+      "ctr": 0.07065217391304347,
+      "position": 79.96195652173913
+    },
+    {
+      "query": "furnace repair st augustine",
+      "clicks": 12,
+      "impressions": 42,
+      "ctr": 0.2857142857142857,
+      "position": 1.3095238095238095
+    },
+    {
+      "query": "furnace replacement jacksonville",
+      "clicks": 12,
+      "impressions": 674,
+      "ctr": 0.017804154302670624,
+      "position": 49.55192878338279
+    },
+    {
+      "query": "furnace replacement jacksonville, fl",
+      "clicks": 12,
+      "impressions": 286,
+      "ctr": 0.04195804195804196,
+      "position": 19.304195804195803
+    },
+    {
+      "query": "gainesville fl repipe specialist",
+      "clicks": 12,
+      "impressions": 229,
+      "ctr": 0.05240174672489083,
+      "position": 24.03056768558952
+    },
+    {
+      "query": "heating and cooling jacksonville",
+      "clicks": 12,
+      "impressions": 951,
+      "ctr": 0.012618296529968454,
+      "position": 39.15247108307045
+    },
+    {
+      "query": "plumbers gainesville fl",
+      "clicks": 12,
+      "impressions": 551,
+      "ctr": 0.021778584392014518,
+      "position": 29.399274047186932
+    },
+    {
+      "query": "plumbing repairs gainesville",
+      "clicks": 12,
+      "impressions": 171,
+      "ctr": 0.07017543859649122,
+      "position": 25.748538011695906
+    },
+    {
+      "query": "plumbing st augustine fl",
+      "clicks": 12,
+      "impressions": 66,
+      "ctr": 0.18181818181818182,
+      "position": 15.106060606060606
+    },
+    {
+      "query": "repipe specialist gainesville",
+      "clicks": 12,
+      "impressions": 226,
+      "ctr": 0.05309734513274336,
+      "position": 26.84070796460177
+    },
+    {
+      "query": "snyder air conditioning plumbing & electric reviews",
+      "clicks": 12,
+      "impressions": 736,
+      "ctr": 0.016304347826086956,
+      "position": 2.953804347826087
+    },
+    {
+      "query": "water heater replacement jacksonville",
+      "clicks": 12,
+      "impressions": 784,
+      "ctr": 0.015306122448979591,
+      "position": 24.12372448979592
+    },
+    {
+      "query": "air conditioning replacement gainesville fl",
+      "clicks": 11,
+      "impressions": 396,
+      "ctr": 0.027777777777777776,
+      "position": 22.86111111111111
+    },
+    {
+      "query": "ashp defrost cycle",
+      "clicks": 11,
+      "impressions": 66,
+      "ctr": 0.16666666666666666,
+      "position": 5.621212121212121
+    },
+    {
+      "query": "duct cleaning gainesville fl",
+      "clicks": 11,
+      "impressions": 439,
+      "ctr": 0.025056947608200455,
+      "position": 56.35307517084282
+    },
+    {
+      "query": "electrical panel repair st augustine",
+      "clicks": 11,
+      "impressions": 78,
+      "ctr": 0.14102564102564102,
+      "position": 10.666666666666666
+    },
+    {
+      "query": "electrician jacksonville fl",
+      "clicks": 11,
+      "impressions": 727,
+      "ctr": 0.015130674002751032,
+      "position": 43.15405777166438
+    },
+    {
+      "query": "furnace service gainesville, fl",
+      "clicks": 11,
+      "impressions": 195,
+      "ctr": 0.05641025641025641,
+      "position": 14.907692307692308
+    },
+    {
+      "query": "heat pump service jacksonville, fl",
+      "clicks": 11,
+      "impressions": 224,
+      "ctr": 0.049107142857142856,
+      "position": 13.040178571428571
+    },
+    {
+      "query": "hot water heater repair jacksonville fl",
+      "clicks": 11,
+      "impressions": 546,
+      "ctr": 0.020146520146520148,
+      "position": 10.423076923076923
+    },
+    {
+      "query": "hvac st augustine",
+      "clicks": 11,
+      "impressions": 473,
+      "ctr": 0.023255813953488372,
+      "position": 2.6088794926004226
+    },
+    {
+      "query": "snyder air conditioning, plumbing",
+      "clicks": 11,
+      "impressions": 174,
+      "ctr": 0.06321839080459771,
+      "position": 1.0057471264367817
+    },
+    {
+      "query": "snyder plumbing and heating",
+      "clicks": 11,
+      "impressions": 61,
+      "ctr": 0.18032786885245902,
+      "position": 4.114754098360656
+    },
+    {
+      "query": "st augustine plumbers",
+      "clicks": 11,
+      "impressions": 447,
+      "ctr": 0.024608501118568233,
+      "position": 16.90156599552573
+    },
+    {
+      "query": "st augustine plumbing",
+      "clicks": 11,
+      "impressions": 44,
+      "ctr": 0.25,
+      "position": 25.795454545454547
+    },
+    {
+      "query": "surge protector installation st augustine",
+      "clicks": 11,
+      "impressions": 81,
+      "ctr": 0.13580246913580246,
+      "position": 7.3580246913580245
+    },
+    {
+      "query": "water heater repair gainesville",
+      "clicks": 11,
+      "impressions": 288,
+      "ctr": 0.03819444444444445,
+      "position": 69.21875
+    },
+    {
+      "query": "water softeners st augustine fl",
+      "clicks": 11,
+      "impressions": 163,
+      "ctr": 0.06748466257668712,
+      "position": 84.14723926380368
+    },
+    {
+      "query": "electrician near me st augustine",
+      "clicks": 10,
+      "impressions": 50,
+      "ctr": 0.2,
+      "position": 65.02
+    },
+    {
+      "query": "electrician st augustine",
+      "clicks": 10,
+      "impressions": 316,
+      "ctr": 0.03164556962025317,
+      "position": 37.86708860759494
+    },
+    {
+      "query": "furnace replacement gainesville",
+      "clicks": 10,
+      "impressions": 223,
+      "ctr": 0.04484304932735426,
+      "position": 62.08520179372197
+    },
+    {
+      "query": "gainesville florida plumbers",
+      "clicks": 10,
+      "impressions": 276,
+      "ctr": 0.036231884057971016,
+      "position": 34.5
+    },
+    {
+      "query": "heater repair jacksonville",
+      "clicks": 10,
+      "impressions": 478,
+      "ctr": 0.02092050209205021,
+      "position": 40.84518828451883
+    },
+    {
+      "query": "hvac gainesville fl",
+      "clicks": 10,
+      "impressions": 376,
+      "ctr": 0.026595744680851064,
+      "position": 9.997340425531915
+    },
+    {
+      "query": "is it better to close doors for heat",
+      "clicks": 10,
+      "impressions": 213,
+      "ctr": 0.046948356807511735,
+      "position": 2.549295774647887
+    },
+    {
+      "query": "is it better to keep doors open or closed",
+      "clicks": 10,
+      "impressions": 160,
+      "ctr": 0.0625,
+      "position": 3.4375
+    },
+    {
+      "query": "plumber in st augustine",
+      "clicks": 10,
+      "impressions": 210,
+      "ctr": 0.047619047619047616,
+      "position": 15.752380952380953
+    },
+    {
+      "query": "plumbers in jacksonville fl",
+      "clicks": 10,
+      "impressions": 270,
+      "ctr": 0.037037037037037035,
+      "position": 47.762962962962966
+    },
+    {
+      "query": "plumbing companies st augustine fl",
+      "clicks": 10,
+      "impressions": 122,
+      "ctr": 0.08196721311475409,
+      "position": 22.516393442622952
+    },
+    {
+      "query": "plumbing repair gainesville",
+      "clicks": 10,
+      "impressions": 395,
+      "ctr": 0.02531645569620253,
+      "position": 52.187341772151896
+    },
+    {
+      "query": "plumbing repair gainesville fl",
+      "clicks": 10,
+      "impressions": 446,
+      "ctr": 0.02242152466367713,
+      "position": 26.771300448430495
+    },
+    {
+      "query": "who owns snyder air conditioning",
+      "clicks": 10,
+      "impressions": 81,
+      "ctr": 0.12345679012345678,
+      "position": 1.617283950617284
+    },
+    {
+      "query": "3401 southside blvd, jacksonville, fl 32216, usa",
+      "clicks": 9,
+      "impressions": 38,
+      "ctr": 0.23684210526315788,
+      "position": 2
+    },
+    {
+      "query": "a/c repair st augustine",
+      "clicks": 9,
+      "impressions": 139,
+      "ctr": 0.06474820143884892,
+      "position": 10.633093525179856
+    },
+    {
+      "query": "best plumbers gainesville",
+      "clicks": 9,
+      "impressions": 488,
+      "ctr": 0.018442622950819672,
+      "position": 63.454918032786885
+    },
+    {
+      "query": "duct cleaning st augustine",
+      "clicks": 9,
+      "impressions": 25,
+      "ctr": 0.36,
+      "position": 41.6
+    },
+    {
+      "query": "electrical services st augustine",
+      "clicks": 9,
+      "impressions": 33,
+      "ctr": 0.2727272727272727,
+      "position": 39.121212121212125
+    },
+    {
+      "query": "electricians jacksonville fl",
+      "clicks": 9,
+      "impressions": 646,
+      "ctr": 0.01393188854489164,
+      "position": 34.3266253869969
+    },
+    {
+      "query": "electricians st augustine fl",
+      "clicks": 9,
+      "impressions": 42,
+      "ctr": 0.21428571428571427,
+      "position": 40.714285714285715
+    },
+    {
+      "query": "furnace repair jacksonville, fl",
+      "clicks": 9,
+      "impressions": 208,
+      "ctr": 0.04326923076923077,
+      "position": 31.677884615384617
+    },
+    {
+      "query": "furnace replacement gainesville, fl",
+      "clicks": 9,
+      "impressions": 193,
+      "ctr": 0.046632124352331605,
+      "position": 13.880829015544041
+    },
+    {
+      "query": "heat pump repair gainesville, fl",
+      "clicks": 9,
+      "impressions": 202,
+      "ctr": 0.04455445544554455,
+      "position": 18.396039603960396
+    },
+    {
+      "query": "heat pump service gainesville fl",
+      "clicks": 9,
+      "impressions": 413,
+      "ctr": 0.021791767554479417,
+      "position": 14.90314769975787
+    },
+    {
+      "query": "how does a heat pump defrost itself",
+      "clicks": 9,
+      "impressions": 44,
+      "ctr": 0.20454545454545456,
+      "position": 2.409090909090909
+    },
+    {
+      "query": "plumbers in jacksonville",
+      "clicks": 9,
+      "impressions": 260,
+      "ctr": 0.03461538461538462,
+      "position": 47.23461538461538
+    },
+    {
+      "query": "plumbing gainesville",
+      "clicks": 9,
+      "impressions": 907,
+      "ctr": 0.009922822491730982,
+      "position": 32.49614112458655
+    },
+    {
+      "query": "plumbing repair jacksonville fl",
+      "clicks": 9,
+      "impressions": 468,
+      "ctr": 0.019230769230769232,
+      "position": 22.752136752136753
+    },
+    {
+      "query": "plumbing repair jacksonville, fl",
+      "clicks": 9,
+      "impressions": 210,
+      "ctr": 0.04285714285714286,
+      "position": 23.204761904761906
+    },
+    {
+      "query": "pump repair st augustine",
+      "clicks": 9,
+      "impressions": 53,
+      "ctr": 0.16981132075471697,
+      "position": 24.660377358490567
+    },
+    {
+      "query": "sewer scope inspection st augustine",
+      "clicks": 9,
+      "impressions": 70,
+      "ctr": 0.12857142857142856,
+      "position": 31.985714285714284
+    },
+    {
+      "query": "snyder air conditioning, plumbing & electric (buckhalter heating & ac)",
+      "clicks": 9,
+      "impressions": 282,
+      "ctr": 0.031914893617021274,
+      "position": 1.6099290780141844
+    },
+    {
+      "query": "snyder heating",
+      "clicks": 9,
+      "impressions": 94,
+      "ctr": 0.09574468085106383,
+      "position": 2.648936170212766
+    },
+    {
+      "query": "snyder heating and air jacksonville fl",
+      "clicks": 9,
+      "impressions": 68,
+      "ctr": 0.1323529411764706,
+      "position": 1
+    },
+    {
+      "query": "snyder st augustine",
+      "clicks": 9,
+      "impressions": 51,
+      "ctr": 0.17647058823529413,
+      "position": 1.196078431372549
+    },
+    {
+      "query": "snyderac",
+      "clicks": 9,
+      "impressions": 26,
+      "ctr": 0.34615384615384615,
+      "position": 1
+    },
+    {
+      "query": "synder plumbing",
+      "clicks": 9,
+      "impressions": 68,
+      "ctr": 0.1323529411764706,
+      "position": 2.8676470588235294
+    },
+    {
+      "query": "water heater repair gainesville fl",
+      "clicks": 9,
+      "impressions": 330,
+      "ctr": 0.02727272727272727,
+      "position": 32.66666666666667
+    },
+    {
+      "query": "water softener st augustine fl",
+      "clicks": 9,
+      "impressions": 121,
+      "ctr": 0.0743801652892562,
+      "position": 75.1900826446281
+    },
+    {
+      "query": "water softener systems st augustine fl",
+      "clicks": 9,
+      "impressions": 283,
+      "ctr": 0.03180212014134275,
+      "position": 77.91519434628975
+    },
+    {
+      "query": "904-641-0600",
+      "clicks": 8,
+      "impressions": 92,
+      "ctr": 0.08695652173913043,
+      "position": 1.0217391304347827
+    },
+    {
+      "query": "ac repair services gainesville",
+      "clicks": 8,
+      "impressions": 54,
+      "ctr": 0.14814814814814814,
+      "position": 20.11111111111111
+    },
+    {
+      "query": "air america air conditioning",
+      "clicks": 8,
+      "impressions": 93,
+      "ctr": 0.08602150537634409,
+      "position": 4.344086021505376
+    },
+    {
+      "query": "air conditioning installation gainesville fl",
+      "clicks": 8,
+      "impressions": 368,
+      "ctr": 0.021739130434782608,
+      "position": 24.703804347826086
+    },
+    {
+      "query": "air conditioning services gainesville",
+      "clicks": 8,
+      "impressions": 90,
+      "ctr": 0.08888888888888889,
+      "position": 3.1666666666666665
+    },
+    {
+      "query": "arnett ac",
+      "clicks": 8,
+      "impressions": 62,
+      "ctr": 0.12903225806451613,
+      "position": 1.8548387096774195
+    },
+    {
+      "query": "arnett heating and air",
+      "clicks": 8,
+      "impressions": 51,
+      "ctr": 0.1568627450980392,
+      "position": 2.9019607843137254
+    },
+    {
+      "query": "bathroom plumbing services in gainesville",
+      "clicks": 8,
+      "impressions": 99,
+      "ctr": 0.08080808080808081,
+      "position": 29.171717171717173
+    },
+    {
+      "query": "does keeping doors closed help heat",
+      "clicks": 8,
+      "impressions": 285,
+      "ctr": 0.028070175438596492,
+      "position": 4.3087719298245615
+    },
+    {
+      "query": "drain cleaning st augustine",
+      "clicks": 8,
+      "impressions": 61,
+      "ctr": 0.13114754098360656,
+      "position": 7.213114754098361
+    },
+    {
+      "query": "duct cleaning st augustine fl",
+      "clicks": 8,
+      "impressions": 147,
+      "ctr": 0.05442176870748299,
+      "position": 38.46258503401361
+    },
+    {
+      "query": "electric repair st augustine",
+      "clicks": 8,
+      "impressions": 67,
+      "ctr": 0.11940298507462686,
+      "position": 15.791044776119403
+    },
+    {
+      "query": "furnace high limit switch",
+      "clicks": 8,
+      "impressions": 917,
+      "ctr": 0.008724100327153763,
+      "position": 10.352235550708834
+    },
+    {
+      "query": "heat pump installation gainesville fl",
+      "clicks": 8,
+      "impressions": 383,
+      "ctr": 0.020887728459530026,
+      "position": 19.402088772845953
+    },
+    {
+      "query": "heat pump replacement gainesville fl",
+      "clicks": 8,
+      "impressions": 256,
+      "ctr": 0.03125,
+      "position": 26.0859375
+    },
+    {
+      "query": "heat pump service gainesville, fl",
+      "clicks": 8,
+      "impressions": 180,
+      "ctr": 0.044444444444444446,
+      "position": 13.7
+    },
+    {
+      "query": "how to make upstairs warmer in winter",
+      "clicks": 8,
+      "impressions": 56,
+      "ctr": 0.14285714285714285,
+      "position": 1.7321428571428572
+    },
+    {
+      "query": "how to tell if heat pump is in defrost mode",
+      "clicks": 8,
+      "impressions": 141,
+      "ctr": 0.05673758865248227,
+      "position": 2.5602836879432624
+    },
+    {
+      "query": "hvac repair gainesville fl",
+      "clicks": 8,
+      "impressions": 378,
+      "ctr": 0.021164021164021163,
+      "position": 27.76984126984127
+    },
+    {
+      "query": "hvac service jacksonville",
+      "clicks": 8,
+      "impressions": 1378,
+      "ctr": 0.005805515239477504,
+      "position": 20.607402031930334
+    },
+    {
+      "query": "is it better to have doors open or closed for heat",
+      "clicks": 8,
+      "impressions": 109,
+      "ctr": 0.07339449541284404,
+      "position": 2.779816513761468
+    },
+    {
+      "query": "plumber st augustine",
+      "clicks": 8,
+      "impressions": 351,
+      "ctr": 0.022792022792022793,
+      "position": 18.498575498575498
+    },
+    {
+      "query": "plumbers in st augustine fl",
+      "clicks": 8,
+      "impressions": 146,
+      "ctr": 0.0547945205479452,
+      "position": 14.664383561643836
+    },
+    {
+      "query": "plumbers st augustine residential",
+      "clicks": 8,
+      "impressions": 29,
+      "ctr": 0.27586206896551724,
+      "position": 15.448275862068966
+    },
+    {
+      "query": "plumbing gainesville fl",
+      "clicks": 8,
+      "impressions": 554,
+      "ctr": 0.01444043321299639,
+      "position": 15.703971119133573
+    },
+    {
+      "query": "snyder a/c",
+      "clicks": 8,
+      "impressions": 36,
+      "ctr": 0.2222222222222222,
+      "position": 1.2777777777777777
+    },
+    {
+      "query": "snyder ac jacksonville",
+      "clicks": 8,
+      "impressions": 34,
+      "ctr": 0.23529411764705882,
+      "position": 1
+    },
+    {
+      "query": "snyder air conditioning, plumbing & electric (air america ac)",
+      "clicks": 8,
+      "impressions": 1044,
+      "ctr": 0.007662835249042145,
+      "position": 1.0977011494252873
+    },
+    {
+      "query": "snyder air conditioning, plumbing & electric reviews",
+      "clicks": 8,
+      "impressions": 189,
+      "ctr": 0.042328042328042326,
+      "position": 2.3915343915343916
+    },
+    {
+      "query": "snyder plumbing jacksonville fl",
+      "clicks": 8,
+      "impressions": 42,
+      "ctr": 0.19047619047619047,
+      "position": 1
+    },
+    {
+      "query": "snyder plumbing reviews",
+      "clicks": 8,
+      "impressions": 89,
+      "ctr": 0.0898876404494382,
+      "position": 3.6853932584269664
+    },
+    {
+      "query": "st augustine water softeners",
+      "clicks": 8,
+      "impressions": 105,
+      "ctr": 0.0761904761904762,
+      "position": 93.2
+    },
+    {
+      "query": "water filtration st augustine",
+      "clicks": 8,
+      "impressions": 225,
+      "ctr": 0.035555555555555556,
+      "position": 78.1511111111111
+    },
+    {
+      "query": "water heater installation st augustine",
+      "clicks": 8,
+      "impressions": 58,
+      "ctr": 0.13793103448275862,
+      "position": 5.758620689655173
+    },
+    {
+      "query": "water heater repair jacksonville fl",
+      "clicks": 8,
+      "impressions": 776,
+      "ctr": 0.010309278350515464,
+      "position": 9.554123711340207
+    },
+    {
+      "query": "ac repair gainesville fl",
+      "clicks": 7,
+      "impressions": 898,
+      "ctr": 0.0077951002227171495,
+      "position": 19.79064587973274
+    },
+    {
+      "query": "ac service gainesville fl",
+      "clicks": 7,
+      "impressions": 215,
+      "ctr": 0.03255813953488372,
+      "position": 22.804651162790698
+    },
+    {
+      "query": "acts as a climate control system",
+      "clicks": 7,
+      "impressions": 32,
+      "ctr": 0.21875,
+      "position": 10.5
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:21:49.990Z"
 }

@@ -2,138 +2,18 @@
   "propertyId": "properties/398642882",
   "displayName": "Minton Law Firm - GA4",
   "dateRange": {
-    "start": "2025-12-17",
-    "end": "2026-03-17"
+    "start": "2026-01-06",
+    "end": "2026-04-06"
   },
   "totals": {
-    "sessions": 37575,
-    "users": 36916,
-    "screenPageViews": 45216,
-    "organicSessions": 9060,
-    "bounceRate": 0.7795617795977045,
-    "avgSessionDuration": 58.95238801376338
+    "sessions": 36084,
+    "users": 35347,
+    "screenPageViews": 42781,
+    "organicSessions": 8001,
+    "bounceRate": 0.8066020465606841,
+    "avgSessionDuration": 56.49278531969009
   },
   "dailyData": [
-    {
-      "date": "2025-12-17",
-      "sessions": 431,
-      "users": 423,
-      "screenPageViews": 558
-    },
-    {
-      "date": "2025-12-18",
-      "sessions": 410,
-      "users": 403,
-      "screenPageViews": 545
-    },
-    {
-      "date": "2025-12-19",
-      "sessions": 364,
-      "users": 356,
-      "screenPageViews": 498
-    },
-    {
-      "date": "2025-12-20",
-      "sessions": 335,
-      "users": 336,
-      "screenPageViews": 471
-    },
-    {
-      "date": "2025-12-21",
-      "sessions": 338,
-      "users": 335,
-      "screenPageViews": 481
-    },
-    {
-      "date": "2025-12-22",
-      "sessions": 455,
-      "users": 450,
-      "screenPageViews": 587
-    },
-    {
-      "date": "2025-12-23",
-      "sessions": 391,
-      "users": 384,
-      "screenPageViews": 523
-    },
-    {
-      "date": "2025-12-24",
-      "sessions": 304,
-      "users": 303,
-      "screenPageViews": 405
-    },
-    {
-      "date": "2025-12-25",
-      "sessions": 310,
-      "users": 306,
-      "screenPageViews": 423
-    },
-    {
-      "date": "2025-12-26",
-      "sessions": 315,
-      "users": 307,
-      "screenPageViews": 437
-    },
-    {
-      "date": "2025-12-27",
-      "sessions": 324,
-      "users": 322,
-      "screenPageViews": 438
-    },
-    {
-      "date": "2025-12-28",
-      "sessions": 280,
-      "users": 278,
-      "screenPageViews": 374
-    },
-    {
-      "date": "2025-12-29",
-      "sessions": 405,
-      "users": 397,
-      "screenPageViews": 568
-    },
-    {
-      "date": "2025-12-30",
-      "sessions": 439,
-      "users": 433,
-      "screenPageViews": 562
-    },
-    {
-      "date": "2025-12-31",
-      "sessions": 374,
-      "users": 364,
-      "screenPageViews": 487
-    },
-    {
-      "date": "2026-01-01",
-      "sessions": 1074,
-      "users": 1068,
-      "screenPageViews": 1175
-    },
-    {
-      "date": "2026-01-02",
-      "sessions": 846,
-      "users": 839,
-      "screenPageViews": 940
-    },
-    {
-      "date": "2026-01-03",
-      "sessions": 782,
-      "users": 777,
-      "screenPageViews": 845
-    },
-    {
-      "date": "2026-01-04",
-      "sessions": 692,
-      "users": 687,
-      "screenPageViews": 724
-    },
-    {
-      "date": "2026-01-05",
-      "sessions": 720,
-      "users": 714,
-      "screenPageViews": 785
-    },
     {
       "date": "2026-01-06",
       "sessions": 710,
@@ -559,196 +439,360 @@
       "sessions": 474,
       "users": 463,
       "screenPageViews": 646
+    },
+    {
+      "date": "2026-03-18",
+      "sessions": 677,
+      "users": 669,
+      "screenPageViews": 834
+    },
+    {
+      "date": "2026-03-19",
+      "sessions": 518,
+      "users": 508,
+      "screenPageViews": 606
+    },
+    {
+      "date": "2026-03-20",
+      "sessions": 569,
+      "users": 561,
+      "screenPageViews": 708
+    },
+    {
+      "date": "2026-03-21",
+      "sessions": 325,
+      "users": 323,
+      "screenPageViews": 347
+    },
+    {
+      "date": "2026-03-22",
+      "sessions": 321,
+      "users": 313,
+      "screenPageViews": 342
+    },
+    {
+      "date": "2026-03-23",
+      "sessions": 440,
+      "users": 425,
+      "screenPageViews": 505
+    },
+    {
+      "date": "2026-03-24",
+      "sessions": 437,
+      "users": 429,
+      "screenPageViews": 492
+    },
+    {
+      "date": "2026-03-25",
+      "sessions": 336,
+      "users": 324,
+      "screenPageViews": 391
+    },
+    {
+      "date": "2026-03-26",
+      "sessions": 338,
+      "users": 329,
+      "screenPageViews": 388
+    },
+    {
+      "date": "2026-03-27",
+      "sessions": 351,
+      "users": 338,
+      "screenPageViews": 428
+    },
+    {
+      "date": "2026-03-28",
+      "sessions": 346,
+      "users": 343,
+      "screenPageViews": 379
+    },
+    {
+      "date": "2026-03-29",
+      "sessions": 331,
+      "users": 323,
+      "screenPageViews": 375
+    },
+    {
+      "date": "2026-03-30",
+      "sessions": 418,
+      "users": 408,
+      "screenPageViews": 471
+    },
+    {
+      "date": "2026-03-31",
+      "sessions": 274,
+      "users": 263,
+      "screenPageViews": 346
+    },
+    {
+      "date": "2026-04-01",
+      "sessions": 248,
+      "users": 234,
+      "screenPageViews": 307
+    },
+    {
+      "date": "2026-04-02",
+      "sessions": 417,
+      "users": 407,
+      "screenPageViews": 484
+    },
+    {
+      "date": "2026-04-03",
+      "sessions": 408,
+      "users": 402,
+      "screenPageViews": 458
+    },
+    {
+      "date": "2026-04-04",
+      "sessions": 487,
+      "users": 477,
+      "screenPageViews": 512
+    },
+    {
+      "date": "2026-04-05",
+      "sessions": 429,
+      "users": 423,
+      "screenPageViews": 458
+    },
+    {
+      "date": "2026-04-06",
+      "sessions": 428,
+      "users": 414,
+      "screenPageViews": 560
     }
   ],
   "channelData": [
     {
       "channel": "Display",
-      "sessions": 16070,
-      "users": 15588
+      "sessions": 16003,
+      "users": 15667
     },
     {
       "channel": "Organic Search",
-      "sessions": 9060,
-      "users": 8327
+      "sessions": 8001,
+      "users": 7406
     },
     {
       "channel": "Direct",
-      "sessions": 7228,
-      "users": 7036
+      "sessions": 7101,
+      "users": 6719
     },
     {
       "channel": "Referral",
-      "sessions": 2377,
-      "users": 2298
+      "sessions": 2559,
+      "users": 2496
     },
     {
       "channel": "Organic Shopping",
-      "sessions": 1868,
-      "users": 1870
+      "sessions": 1949,
+      "users": 1950
     },
     {
       "channel": "Unassigned",
-      "sessions": 763,
-      "users": 735
+      "sessions": 107,
+      "users": 108
     },
     {
       "channel": "Organic Social",
-      "sessions": 81,
-      "users": 75
+      "sessions": 87,
+      "users": 82
+    }
+  ],
+  "keyEventsByChannel": [
+    {
+      "channel": "Display",
+      "sessions": 16003,
+      "keyEvents": 15430,
+      "conversionRate": 0.9641942135849528
+    },
+    {
+      "channel": "Organic Search",
+      "sessions": 8001,
+      "keyEvents": 13149,
+      "conversionRate": 1.6434195725534309
+    },
+    {
+      "channel": "Direct",
+      "sessions": 7101,
+      "keyEvents": 7099,
+      "conversionRate": 0.9997183495282355
+    },
+    {
+      "channel": "Referral",
+      "sessions": 2559,
+      "keyEvents": 2524,
+      "conversionRate": 0.9863227823368503
+    },
+    {
+      "channel": "Organic Shopping",
+      "sessions": 1949,
+      "keyEvents": 1848,
+      "conversionRate": 0.948178553104156
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": 107,
+      "keyEvents": 90,
+      "conversionRate": 0.8411214953271028
+    },
+    {
+      "channel": "Organic Social",
+      "sessions": 87,
+      "keyEvents": 120,
+      "conversionRate": 1.3793103448275863
     }
   ],
   "topPages": [
     {
       "page": "/",
-      "screenPageViews": 33190,
-      "sessions": 31012
+      "screenPageViews": 31364,
+      "sessions": 29529
     },
     {
       "page": "/contact/",
-      "screenPageViews": 1793,
-      "sessions": 1711
+      "screenPageViews": 1733,
+      "sessions": 1661
     },
     {
       "page": "/about-us/",
-      "screenPageViews": 548,
-      "sessions": 495
+      "screenPageViews": 536,
+      "sessions": 484
     },
     {
       "page": "/legal-staff/",
-      "screenPageViews": 468,
-      "sessions": 431
+      "screenPageViews": 492,
+      "sessions": 449
     },
     {
       "page": "/practice-areas/",
-      "screenPageViews": 459,
-      "sessions": 428
+      "screenPageViews": 427,
+      "sessions": 397
     },
     {
       "page": "/verdicts-settlements/",
-      "screenPageViews": 321,
-      "sessions": 314
-    },
-    {
-      "page": "/client-recognition/",
-      "screenPageViews": 275,
-      "sessions": 271
-    },
-    {
-      "page": "/arkansas-car-accident-lawyer/",
-      "screenPageViews": 255,
-      "sessions": 245
-    },
-    {
-      "page": "/how-to-prove-lost-wages-in-a-personal-injury-lawsuit/",
-      "screenPageViews": 250,
-      "sessions": 244
+      "screenPageViews": 286,
+      "sessions": 281
     },
     {
       "page": "/justin-minton/",
-      "screenPageViews": 250,
-      "sessions": 243
+      "screenPageViews": 248,
+      "sessions": 231
     },
     {
-      "page": "/locations/",
-      "screenPageViews": 249,
-      "sessions": 232
-    },
-    {
-      "page": "/blog/",
+      "page": "/client-recognition/",
       "screenPageViews": 237,
-      "sessions": 236
-    },
-    {
-      "page": "/arkansas-bicycle-accident-lawyer/",
-      "screenPageViews": 218,
-      "sessions": 216
-    },
-    {
-      "page": "/car-accidents-caused-by-autonomous-vehicles-whos-liable/",
-      "screenPageViews": 218,
-      "sessions": 216
-    },
-    {
-      "page": "/understanding-the-one-bite-rule-and-its-applicability-in-arkansas/",
-      "screenPageViews": 190,
-      "sessions": 187
+      "sessions": 231
     },
     {
       "page": "/motorcycle-accidents-vs-car-accidents-why-legal-approach-is-different/",
-      "screenPageViews": 180,
-      "sessions": 159
+      "screenPageViews": 222,
+      "sessions": 201
     },
     {
-      "page": "/arkansas-pedestrian-accident-lawyer/",
-      "screenPageViews": 177,
-      "sessions": 175
+      "page": "/arkansas-car-accident-lawyer/",
+      "screenPageViews": 218,
+      "sessions": 210
     },
     {
-      "page": "/conway-personal-injury-lawyer/",
-      "screenPageViews": 171,
-      "sessions": 166
+      "page": "/car-accidents-caused-by-autonomous-vehicles-whos-liable/",
+      "screenPageViews": 217,
+      "sessions": 217
     },
     {
-      "page": "/arkansas-premises-liability-lawyer/",
-      "screenPageViews": 170,
-      "sessions": 168
+      "page": "/locations/",
+      "screenPageViews": 213,
+      "sessions": 199
+    },
+    {
+      "page": "/how-to-prove-lost-wages-in-a-personal-injury-lawsuit/",
+      "screenPageViews": 209,
+      "sessions": 217
+    },
+    {
+      "page": "/blog/",
+      "screenPageViews": 204,
+      "sessions": 201
+    },
+    {
+      "page": "/understanding-the-one-bite-rule-and-its-applicability-in-arkansas/",
+      "screenPageViews": 196,
+      "sessions": 192
+    },
+    {
+      "page": "/arkansas-bicycle-accident-lawyer/",
+      "screenPageViews": 176,
+      "sessions": 176
     },
     {
       "page": "/can-you-sue-for-emotional-distress-in-arkansas/",
-      "screenPageViews": 158,
-      "sessions": 152
+      "screenPageViews": 174,
+      "sessions": 167
+    },
+    {
+      "page": "/arkansas-premises-liability-lawyer/",
+      "screenPageViews": 166,
+      "sessions": 164
+    },
+    {
+      "page": "/arkansas-pedestrian-accident-lawyer/",
+      "screenPageViews": 159,
+      "sessions": 156
     },
     {
       "page": "/benton-personal-injury-attorney/",
-      "screenPageViews": 143,
-      "sessions": 135
-    },
-    {
-      "page": "/arkansas-product-liability-lawyer/",
-      "screenPageViews": 141,
-      "sessions": 143
+      "screenPageViews": 137,
+      "sessions": 131
     },
     {
       "page": "/les-lamey/",
-      "screenPageViews": 136,
+      "screenPageViews": 134,
       "sessions": 134
     },
     {
+      "page": "/arkansas-product-liability-lawyer/",
+      "screenPageViews": 128,
+      "sessions": 129
+    },
+    {
       "page": "/arkansas-boating-accident-lawyer/",
-      "screenPageViews": 130,
-      "sessions": 130
-    },
-    {
-      "page": "/arkansas-truck-accident-lawyer/",
       "screenPageViews": 123,
-      "sessions": 118
+      "sessions": 122
     },
     {
-      "page": "/connie-grace/",
-      "screenPageViews": 121,
-      "sessions": 118
+      "page": "/understanding-damage-caps-in-arkansas-medical-malpractice-cases/",
+      "screenPageViews": 120,
+      "sessions": 110
     },
     {
       "page": "/arkansas-catastrophic-injury-lawyer/",
-      "screenPageViews": 118,
-      "sessions": 120
-    },
-    {
-      "page": "/hot-springs-personal-injury-lawyer/",
       "screenPageViews": 112,
-      "sessions": 96
+      "sessions": 114
     },
     {
-      "page": "/arkansas-slip-and-fall-lawyer/",
-      "screenPageViews": 110,
+      "page": "/how-long-after-car-accident-claim-injury/",
+      "screenPageViews": 111,
       "sessions": 109
     },
     {
       "page": "/daniel-hall/",
-      "screenPageViews": 110,
-      "sessions": 107
+      "screenPageViews": 108,
+      "sessions": 103
+    },
+    {
+      "page": "/connie-grace/",
+      "screenPageViews": 106,
+      "sessions": 101
+    },
+    {
+      "page": "/hot-springs-personal-injury-lawyer/",
+      "screenPageViews": 102,
+      "sessions": 87
+    },
+    {
+      "page": "/cabot-personal-injury-lawyer/",
+      "screenPageViews": 97,
+      "sessions": 88
     }
   ],
-  "fetchedAt": "2026-03-18T13:06:55.286Z"
+  "fetchedAt": "2026-04-07T16:21:44.122Z"
 }

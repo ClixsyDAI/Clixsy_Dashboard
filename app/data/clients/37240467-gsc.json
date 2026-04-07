@@ -1,156 +1,16 @@
 {
   "property": "sc-domain:collinslaw.com",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 6423,
-    "impressions": 3152313,
-    "ctr": 0.0020375514741080595,
-    "position": 28.272871009937774
+    "clicks": 6964,
+    "impressions": 3761127,
+    "ctr": 0.0018515726802099477,
+    "position": 27.247923599563066
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 71,
-      "impressions": 29364,
-      "ctr": 0.0024179267129818827,
-      "position": 30.25091949325705
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 72,
-      "impressions": 30412,
-      "ctr": 0.0023674865184795477,
-      "position": 32.71244903327634
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 71,
-      "impressions": 24170,
-      "ctr": 0.0029375258585022756,
-      "position": 30.2755068266446
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 46,
-      "impressions": 26656,
-      "ctr": 0.0017256902761104442,
-      "position": 32.362732593037215
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 58,
-      "impressions": 28213,
-      "ctr": 0.002055789884095984,
-      "position": 34.69223407648956
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 28,
-      "impressions": 23778,
-      "ctr": 0.0011775590882328203,
-      "position": 33.302758852721006
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 30,
-      "impressions": 27496,
-      "ctr": 0.0010910677916787896,
-      "position": 33.24479924352633
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 46,
-      "impressions": 29336,
-      "ctr": 0.0015680392691573494,
-      "position": 27.254533678756477
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 64,
-      "impressions": 28673,
-      "ctr": 0.002232065008893384,
-      "position": 35.24127227705507
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 33,
-      "impressions": 25826,
-      "ctr": 0.0012777820800743437,
-      "position": 34.51703709440099
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 46,
-      "impressions": 21590,
-      "ctr": 0.002130616025937934,
-      "position": 31.271514590088003
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 44,
-      "impressions": 22314,
-      "ctr": 0.0019718562337545935,
-      "position": 27.919153894416063
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 40,
-      "impressions": 21041,
-      "ctr": 0.001901050330307495,
-      "position": 27.1496126609952
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 37,
-      "impressions": 25507,
-      "ctr": 0.0014505821931234562,
-      "position": 31.3217156074803
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 61,
-      "impressions": 27225,
-      "ctr": 0.00224058769513315,
-      "position": 27.81245179063361
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 54,
-      "impressions": 27752,
-      "ctr": 0.0019458057076967427,
-      "position": 33.78942058230037
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 36,
-      "impressions": 28952,
-      "ctr": 0.0012434374136501797,
-      "position": 33.91838214976513
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 33,
-      "impressions": 27962,
-      "ctr": 0.0011801730920535012,
-      "position": 34.445640512123596
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 49,
-      "impressions": 24027,
-      "ctr": 0.002039372372747326,
-      "position": 29.42406459399842
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 38,
-      "impressions": 21480,
-      "ctr": 0.0017690875232774675,
-      "position": 30.198603351955306
-    },
     {
       "date": "2026-01-04",
       "clicks": 39,
@@ -640,711 +500,3314 @@
       "impressions": 46743,
       "ctr": 0.0009627109941595533,
       "position": 33.929679310271055
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 51,
+      "impressions": 48738,
+      "ctr": 0.0010464114243506095,
+      "position": 31.717981862201977
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 86,
+      "impressions": 55462,
+      "ctr": 0.0015506112293101582,
+      "position": 28.063358696044137
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 76,
+      "impressions": 40816,
+      "ctr": 0.001862014896119169,
+      "position": 24.60927087416699
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 89,
+      "impressions": 40576,
+      "ctr": 0.0021934148264984225,
+      "position": 25.230456427444796
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 73,
+      "impressions": 43336,
+      "ctr": 0.0016845117223555474,
+      "position": 26.073933911759276
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 58,
+      "impressions": 53478,
+      "ctr": 0.0010845581360559482,
+      "position": 30.63945921687423
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 41,
+      "impressions": 54666,
+      "ctr": 0.0007500091464530055,
+      "position": 31.88855961658069
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 54,
+      "impressions": 59726,
+      "ctr": 0.0009041288551049794,
+      "position": 29.49475940126578
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 111,
+      "impressions": 54775,
+      "ctr": 0.0020264719306252853,
+      "position": 29.055353719762664
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 80,
+      "impressions": 70165,
+      "ctr": 0.0011401696002280338,
+      "position": 25.76714886339343
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 96,
+      "impressions": 64901,
+      "ctr": 0.0014791759757168611,
+      "position": 27.500608619281675
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 91,
+      "impressions": 64517,
+      "ctr": 0.0014104809585070602,
+      "position": 26.84016615775687
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 80,
+      "impressions": 55079,
+      "ctr": 0.001452459194974491,
+      "position": 27.552261297409174
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 47,
+      "impressions": 52375,
+      "ctr": 0.0008973747016706444,
+      "position": 29.76305489260143
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 38,
+      "impressions": 60489,
+      "ctr": 0.000628213394170841,
+      "position": 28.330423713402435
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 81,
+      "impressions": 63084,
+      "ctr": 0.0012840022826707247,
+      "position": 27.35278359013379
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 95,
+      "impressions": 52976,
+      "ctr": 0.0017932648746602235,
+      "position": 21.929987163998792
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 87,
+      "impressions": 52216,
+      "ctr": 0.0016661559675195342,
+      "position": 21.087616822429908
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 78,
+      "impressions": 49761,
+      "ctr": 0.0015674926146982578,
+      "position": 22.945017182130584
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 48,
+      "impressions": 46671,
+      "ctr": 0.001028475927235328,
+      "position": 25.85466349553256
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 38,
+      "impressions": 46781,
+      "ctr": 0.0008122955900899938,
+      "position": 24.410594044590752
     }
   ],
   "topQueries": [
     {
       "query": "collins law firm",
-      "clicks": 124,
-      "impressions": 1500,
-      "ctr": 0.08266666666666667,
-      "position": 6.518666666666666
+      "clicks": 130,
+      "impressions": 1416,
+      "ctr": 0.09180790960451977,
+      "position": 6.747175141242938
     },
     {
       "query": "the collins law firm",
-      "clicks": 105,
-      "impressions": 540,
-      "ctr": 0.19444444444444445,
-      "position": 3.9611111111111112
+      "clicks": 102,
+      "impressions": 563,
+      "ctr": 0.1811722912966252,
+      "position": 4.11190053285968
     },
     {
       "query": "collins law firm naperville",
-      "clicks": 101,
-      "impressions": 234,
-      "ctr": 0.43162393162393164,
-      "position": 1.841880341880342
+      "clicks": 89,
+      "impressions": 215,
+      "ctr": 0.413953488372093,
+      "position": 1.9348837209302325
     },
     {
       "query": "pfoa vs pfas",
-      "clicks": 37,
-      "impressions": 4722,
-      "ctr": 0.007835662854722576,
-      "position": 3.0146124523506987
+      "clicks": 39,
+      "impressions": 4620,
+      "ctr": 0.008441558441558441,
+      "position": 2.7852813852813854
     },
     {
       "query": "john risvold attorney",
-      "clicks": 34,
-      "impressions": 57,
-      "ctr": 0.5964912280701754,
-      "position": 1
+      "clicks": 38,
+      "impressions": 66,
+      "ctr": 0.5757575757575758,
+      "position": 1.0454545454545454
     },
     {
       "query": "john risvold",
-      "clicks": 33,
-      "impressions": 72,
-      "ctr": 0.4583333333333333,
-      "position": 7.652777777777778
+      "clicks": 37,
+      "impressions": 71,
+      "ctr": 0.5211267605633803,
+      "position": 3.563380281690141
     },
     {
       "query": "collins law",
-      "clicks": 30,
-      "impressions": 908,
-      "ctr": 0.03303964757709251,
-      "position": 7.167400881057269
+      "clicks": 34,
+      "impressions": 964,
+      "ctr": 0.035269709543568464,
+      "position": 6.784232365145228
     },
     {
       "query": "the collins law firm, p.c.",
-      "clicks": 30,
-      "impressions": 165,
-      "ctr": 0.18181818181818182,
-      "position": 2.624242424242424
+      "clicks": 26,
+      "impressions": 179,
+      "ctr": 0.1452513966480447,
+      "position": 2.804469273743017
+    },
+    {
+      "query": "trichloroethylene",
+      "clicks": 21,
+      "impressions": 10666,
+      "ctr": 0.0019688730545659103,
+      "position": 8.700262516407275
     },
     {
       "query": "class action lawsuit illinois",
       "clicks": 19,
-      "impressions": 631,
-      "ctr": 0.030110935023771792,
-      "position": 3.746434231378764
+      "impressions": 772,
+      "ctr": 0.02461139896373057,
+      "position": 4.493523316062176
     },
     {
       "query": "shawn collins attorney",
       "clicks": 18,
-      "impressions": 85,
-      "ctr": 0.21176470588235294,
-      "position": 5.023529411764706
-    },
-    {
-      "query": "trichloroethylene",
-      "clicks": 17,
-      "impressions": 8719,
-      "ctr": 0.0019497648812937262,
-      "position": 9.547998623695378
-    },
-    {
-      "query": "jeremy hylka",
-      "clicks": 15,
-      "impressions": 399,
-      "ctr": 0.03759398496240601,
-      "position": 3.0952380952380953
-    },
-    {
-      "query": "distracted driving statistics 2025",
-      "clicks": 12,
-      "impressions": 542,
-      "ctr": 0.02214022140221402,
-      "position": 5.084870848708487
-    },
-    {
-      "query": "mtbe",
-      "clicks": 12,
-      "impressions": 6844,
-      "ctr": 0.0017533606078316774,
-      "position": 9.517241379310345
-    },
-    {
-      "query": "the collins law firm pc",
-      "clicks": 11,
-      "impressions": 127,
-      "ctr": 0.08661417322834646,
-      "position": 1.8661417322834646
+      "impressions": 81,
+      "ctr": 0.2222222222222222,
+      "position": 5.148148148148148
     },
     {
       "query": "collins law group",
-      "clicks": 10,
-      "impressions": 115,
-      "ctr": 0.08695652173913043,
-      "position": 6.139130434782609
+      "clicks": 17,
+      "impressions": 133,
+      "ctr": 0.12781954887218044,
+      "position": 5.992481203007519
     },
     {
-      "query": "new illinois dui laws",
-      "clicks": 10,
-      "impressions": 467,
-      "ctr": 0.021413276231263382,
-      "position": 6.845824411134903
+      "query": "distracted driving statistics 2025",
+      "clicks": 16,
+      "impressions": 627,
+      "ctr": 0.025518341307814992,
+      "position": 5.5374800637958534
     },
     {
-      "query": "what is talc",
-      "clicks": 9,
-      "impressions": 4380,
-      "ctr": 0.002054794520547945,
-      "position": 7.677397260273972
+      "query": "mtbe",
+      "clicks": 16,
+      "impressions": 7530,
+      "ctr": 0.0021248339973439574,
+      "position": 8.985657370517927
+    },
+    {
+      "query": "jeremy hylka",
+      "clicks": 13,
+      "impressions": 382,
+      "ctr": 0.034031413612565446,
+      "position": 3.3534031413612566
     },
     {
       "query": "naperville law firms",
-      "clicks": 8,
-      "impressions": 155,
-      "ctr": 0.05161290322580645,
-      "position": 2.961290322580645
-    },
-    {
-      "query": "what is xylene",
-      "clicks": 8,
-      "impressions": 2876,
-      "ctr": 0.0027816411682892906,
-      "position": 5.825452016689847
-    },
-    {
-      "query": "civil rights violations by police",
-      "clicks": 7,
-      "impressions": 376,
-      "ctr": 0.018617021276595744,
-      "position": 3.154255319148936
-    },
-    {
-      "query": "new dui laws 2026 illinois",
-      "clicks": 7,
-      "impressions": 469,
-      "ctr": 0.014925373134328358,
-      "position": 4.400852878464819
-    },
-    {
-      "query": "car accident lawyer",
-      "clicks": 6,
-      "impressions": 81401,
-      "ctr": 0.00007370916819203695,
-      "position": 43.478544489625435
-    },
-    {
-      "query": "does san pellegrino have pfas",
-      "clicks": 6,
-      "impressions": 327,
-      "ctr": 0.01834862385321101,
-      "position": 1.9785932721712538
-    },
-    {
-      "query": "environmental lawyer",
-      "clicks": 6,
-      "impressions": 616,
-      "ctr": 0.00974025974025974,
-      "position": 31.20616883116883
-    },
-    {
-      "query": "illinois new dui laws 2026",
-      "clicks": 6,
-      "impressions": 148,
-      "ctr": 0.04054054054054054,
-      "position": 4.945945945945946
-    },
-    {
-      "query": "john sopuch",
-      "clicks": 6,
-      "impressions": 36,
-      "ctr": 0.16666666666666666,
-      "position": 1.1111111111111112
-    },
-    {
-      "query": "law firms in naperville",
-      "clicks": 6,
-      "impressions": 92,
-      "ctr": 0.06521739130434782,
-      "position": 3.9239130434782608
+      "clicks": 12,
+      "impressions": 166,
+      "ctr": 0.07228915662650602,
+      "position": 2.740963855421687
     },
     {
       "query": "the collins law firm naperville",
-      "clicks": 6,
-      "impressions": 12,
-      "ctr": 0.5,
+      "clicks": 12,
+      "impressions": 20,
+      "ctr": 0.6,
       "position": 1
     },
     {
+      "query": "the collins law firm pc",
+      "clicks": 12,
+      "impressions": 107,
+      "ctr": 0.11214953271028037,
+      "position": 1.2990654205607477
+    },
+    {
+      "query": "what is talc",
+      "clicks": 11,
+      "impressions": 5577,
+      "ctr": 0.0019723865877712033,
+      "position": 6.712928097543482
+    },
+    {
+      "query": "texting and driving statistics 2025",
+      "clicks": 10,
+      "impressions": 175,
+      "ctr": 0.05714285714285714,
+      "position": 4.92
+    },
+    {
+      "query": "what is xylene",
+      "clicks": 10,
+      "impressions": 3358,
+      "ctr": 0.0029779630732578916,
+      "position": 4.946396664681358
+    },
+    {
+      "query": "civil rights violations by police",
+      "clicks": 9,
+      "impressions": 531,
+      "ctr": 0.01694915254237288,
+      "position": 3.1487758945386064
+    },
+    {
+      "query": "does san pellegrino have pfas",
+      "clicks": 8,
+      "impressions": 348,
+      "ctr": 0.022988505747126436,
+      "position": 1.5977011494252875
+    },
+    {
+      "query": "car accident lawyer",
+      "clicks": 7,
+      "impressions": 127364,
+      "ctr": 0.000054960585408749724,
+      "position": 34.104260230520396
+    },
+    {
       "query": "truck accident lawyer",
+      "clicks": 7,
+      "impressions": 141705,
+      "ctr": 0.00004939839808051939,
+      "position": 36.80266045658234
+    },
+    {
+      "query": "are plug in air fresheners toxic",
       "clicks": 6,
-      "impressions": 105370,
-      "ctr": 0.00005694220366328177,
-      "position": 38.917690044604726
+      "impressions": 483,
+      "ctr": 0.012422360248447204,
+      "position": 1.5238095238095237
+    },
+    {
+      "query": "examples of civil rights violations by police",
+      "clicks": 6,
+      "impressions": 378,
+      "ctr": 0.015873015873015872,
+      "position": 4.031746031746032
+    },
+    {
+      "query": "how to prepare for a car accident",
+      "clicks": 6,
+      "impressions": 536,
+      "ctr": 0.011194029850746268,
+      "position": 8.347014925373134
+    },
+    {
+      "query": "medical malpractice lawyers",
+      "clicks": 6,
+      "impressions": 2339,
+      "ctr": 0.0025651988029072254,
+      "position": 13.794784095767422
+    },
+    {
+      "query": "pfas vs pfos vs pfoa",
+      "clicks": 6,
+      "impressions": 283,
+      "ctr": 0.02120141342756184,
+      "position": 2.5053003533568905
+    },
+    {
+      "query": "collins le lawyers",
+      "clicks": 5,
+      "impressions": 1552,
+      "ctr": 0.0032216494845360823,
+      "position": 5.083762886597938
+    },
+    {
+      "query": "collinslaw",
+      "clicks": 5,
+      "impressions": 10,
+      "ctr": 0.5,
+      "position": 2
     },
     {
       "query": "dog bite symptoms",
       "clicks": 5,
-      "impressions": 435,
-      "ctr": 0.011494252873563218,
-      "position": 5.611494252873563
+      "impressions": 627,
+      "ctr": 0.007974481658692184,
+      "position": 5.097288676236045
     },
     {
-      "query": "how to prepare for a car accident",
+      "query": "dog bites",
       "clicks": 5,
-      "impressions": 501,
-      "ctr": 0.00998003992015968,
-      "position": 8.730538922155688
+      "impressions": 351,
+      "ctr": 0.014245014245014245,
+      "position": 37.69230769230769
+    },
+    {
+      "query": "environmental lawyer",
+      "clicks": 5,
+      "impressions": 578,
+      "ctr": 0.00865051903114187,
+      "position": 28.430795847750865
     },
     {
       "query": "illinois medical malpractice attorney",
       "clicks": 5,
-      "impressions": 368,
-      "ctr": 0.01358695652173913,
-      "position": 9.929347826086957
+      "impressions": 445,
+      "ctr": 0.011235955056179775,
+      "position": 8.498876404494382
     },
     {
       "query": "illinois snow and ice removal act",
       "clicks": 5,
-      "impressions": 126,
-      "ctr": 0.03968253968253968,
-      "position": 5.904761904761905
+      "impressions": 106,
+      "ctr": 0.04716981132075472,
+      "position": 6.09433962264151
+    },
+    {
+      "query": "john sopuch",
+      "clicks": 5,
+      "impressions": 41,
+      "ctr": 0.12195121951219512,
+      "position": 1.0975609756097562
+    },
+    {
+      "query": "law firms in naperville",
+      "clicks": 5,
+      "impressions": 90,
+      "ctr": 0.05555555555555555,
+      "position": 4.2444444444444445
     },
     {
       "query": "law firms in naperville il",
       "clicks": 5,
-      "impressions": 47,
-      "ctr": 0.10638297872340426,
-      "position": 3.4468085106382977
+      "impressions": 50,
+      "ctr": 0.1,
+      "position": 3.42
     },
     {
       "query": "leonard hudson",
       "clicks": 5,
-      "impressions": 164,
-      "ctr": 0.03048780487804878,
-      "position": 4.579268292682927
-    },
-    {
-      "query": "new illinois dui laws 2026",
-      "clicks": 5,
-      "impressions": 190,
-      "ctr": 0.02631578947368421,
-      "position": 2.7473684210526317
+      "impressions": 179,
+      "ctr": 0.027932960893854747,
+      "position": 4.273743016759777
     },
     {
       "query": "pfas in sparkling water",
       "clicks": 5,
-      "impressions": 375,
-      "ctr": 0.013333333333333334,
-      "position": 3.8026666666666666
+      "impressions": 427,
+      "ctr": 0.0117096018735363,
+      "position": 4.227166276346605
     },
     {
-      "query": "pfas vs pfos vs pfoa",
-      "clicks": 5,
-      "impressions": 275,
-      "ctr": 0.01818181818181818,
-      "position": 2.6145454545454543
-    },
-    {
-      "query": "texting and driving statistics 2025",
-      "clicks": 5,
-      "impressions": 154,
-      "ctr": 0.032467532467532464,
-      "position": 5.35064935064935
-    },
-    {
-      "query": "what happens when a dog bites you",
-      "clicks": 5,
-      "impressions": 452,
-      "ctr": 0.011061946902654867,
-      "position": 4.190265486725664
-    },
-    {
-      "query": "what is talc made of",
-      "clicks": 5,
-      "impressions": 930,
-      "ctr": 0.005376344086021506,
-      "position": 6.8043010752688176
+      "query": "amber blevins",
+      "clicks": 4,
+      "impressions": 119,
+      "ctr": 0.03361344537815126,
+      "position": 6.176470588235294
     },
     {
       "query": "business attorney",
       "clicks": 4,
-      "impressions": 4451,
-      "ctr": 0.0008986744551786115,
-      "position": 34.130757133228485
+      "impressions": 5419,
+      "ctr": 0.0007381435689241557,
+      "position": 35.08654733345636
     },
     {
       "query": "chemical leaching from plastic bottles",
       "clicks": 4,
-      "impressions": 68,
-      "ctr": 0.058823529411764705,
-      "position": 8.058823529411764
+      "impressions": 65,
+      "ctr": 0.06153846153846154,
+      "position": 8.23076923076923
+    },
+    {
+      "query": "collins law naperville",
+      "clicks": 4,
+      "impressions": 7,
+      "ctr": 0.5714285714285714,
+      "position": 1
     },
     {
       "query": "does bubly have pfas",
       "clicks": 4,
-      "impressions": 201,
-      "ctr": 0.01990049751243781,
-      "position": 1.3184079601990049
-    },
-    {
-      "query": "dog bites",
-      "clicks": 4,
-      "impressions": 283,
-      "ctr": 0.014134275618374558,
-      "position": 35.62544169611307
+      "impressions": 213,
+      "ctr": 0.018779342723004695,
+      "position": 1.2769953051643192
     },
     {
       "query": "evidence deposition",
       "clicks": 4,
-      "impressions": 67,
-      "ctr": 0.05970149253731343,
-      "position": 3.1194029850746268
+      "impressions": 74,
+      "ctr": 0.05405405405405406,
+      "position": 2.972972972972973
     },
     {
-      "query": "evidence deposition illinois",
+      "query": "evidentiary deposition",
       "clicks": 4,
-      "impressions": 53,
-      "ctr": 0.07547169811320754,
-      "position": 1.4339622641509435
+      "impressions": 73,
+      "ctr": 0.0547945205479452,
+      "position": 1.958904109589041
+    },
+    {
+      "query": "illinois car accident lawyer",
+      "clicks": 4,
+      "impressions": 2495,
+      "ctr": 0.0016032064128256513,
+      "position": 11.269338677354709
     },
     {
       "query": "illinois class action lawsuit",
       "clicks": 4,
-      "impressions": 192,
-      "ctr": 0.020833333333333332,
-      "position": 5.963541666666667
+      "impressions": 270,
+      "ctr": 0.014814814814814815,
+      "position": 6.311111111111111
     },
     {
-      "query": "new dui laws",
+      "query": "illinois new dui laws 2026",
       "clicks": 4,
-      "impressions": 863,
-      "ctr": 0.004634994206257242,
-      "position": 4.706836616454229
+      "impressions": 79,
+      "ctr": 0.05063291139240506,
+      "position": 2.2531645569620253
+    },
+    {
+      "query": "medical negligence lawyers",
+      "clicks": 4,
+      "impressions": 300,
+      "ctr": 0.013333333333333334,
+      "position": 34.68333333333333
+    },
+    {
+      "query": "new illinois dui laws",
+      "clicks": 4,
+      "impressions": 92,
+      "ctr": 0.043478260869565216,
+      "position": 4.760869565217391
+    },
+    {
+      "query": "pfas vs pfoa",
+      "clicks": 4,
+      "impressions": 1489,
+      "ctr": 0.002686366689053056,
+      "position": 2.633982538616521
+    },
+    {
+      "query": "pfoa pfas difference",
+      "clicks": 4,
+      "impressions": 67,
+      "ctr": 0.05970149253731343,
+      "position": 6.776119402985074
+    },
+    {
+      "query": "pfos vs pfas",
+      "clicks": 4,
+      "impressions": 3198,
+      "ctr": 0.0012507817385866166,
+      "position": 5.977485928705441
+    },
+    {
+      "query": "what happens when a dog bites you",
+      "clicks": 4,
+      "impressions": 438,
+      "ctr": 0.0091324200913242,
+      "position": 4.205479452054794
+    },
+    {
+      "query": "what is talc made of",
+      "clicks": 4,
+      "impressions": 1008,
+      "ctr": 0.003968253968253968,
+      "position": 6.895833333333333
+    },
+    {
+      "query": "are dog bites painful",
+      "clicks": 3,
+      "impressions": 49,
+      "ctr": 0.061224489795918366,
+      "position": 2.183673469387755
+    },
+    {
+      "query": "breach of contract lawyers near me",
+      "clicks": 3,
+      "impressions": 108,
+      "ctr": 0.027777777777777776,
+      "position": 21.01851851851852
+    },
+    {
+      "query": "civil rights attorney",
+      "clicks": 3,
+      "impressions": 49,
+      "ctr": 0.061224489795918366,
+      "position": 5.142857142857143
+    },
+    {
+      "query": "collins law lawyers legal counsel",
+      "clicks": 3,
+      "impressions": 127,
+      "ctr": 0.023622047244094488,
+      "position": 2.0866141732283463
+    },
+    {
+      "query": "collins le lawyers legal counsel",
+      "clicks": 3,
+      "impressions": 235,
+      "ctr": 0.01276595744680851,
+      "position": 3.353191489361702
+    },
+    {
+      "query": "contract lawyer",
+      "clicks": 3,
+      "impressions": 18094,
+      "ctr": 0.0001658008179507019,
+      "position": 9.26942632916989
+    },
+    {
+      "query": "difference between pfas and pfoa",
+      "clicks": 3,
+      "impressions": 184,
+      "ctr": 0.016304347826086956,
+      "position": 2.5434782608695654
+    },
+    {
+      "query": "evidence deposition illinois",
+      "clicks": 3,
+      "impressions": 47,
+      "ctr": 0.06382978723404255,
+      "position": 1.1702127659574468
+    },
+    {
+      "query": "gardasil lawsuit",
+      "clicks": 3,
+      "impressions": 551,
+      "ctr": 0.0054446460980036296,
+      "position": 16.901996370235935
+    },
+    {
+      "query": "illinois dog bite laws",
+      "clicks": 3,
+      "impressions": 332,
+      "ctr": 0.009036144578313253,
+      "position": 7.716867469879518
+    },
+    {
+      "query": "illinois evidence deposition",
+      "clicks": 3,
+      "impressions": 33,
+      "ctr": 0.09090909090909091,
+      "position": 1.121212121212121
+    },
+    {
+      "query": "is pfas the same as pfoa",
+      "clicks": 3,
+      "impressions": 99,
+      "ctr": 0.030303030303030304,
+      "position": 3.080808080808081
+    },
+    {
+      "query": "law firm illinois",
+      "clicks": 3,
+      "impressions": 72,
+      "ctr": 0.041666666666666664,
+      "position": 4.305555555555555
+    },
+    {
+      "query": "law firms near me",
+      "clicks": 3,
+      "impressions": 44,
+      "ctr": 0.06818181818181818,
+      "position": 3.5681818181818183
+    },
+    {
+      "query": "long-term side effects of airbag deployment in car accident",
+      "clicks": 3,
+      "impressions": 65,
+      "ctr": 0.046153846153846156,
+      "position": 3.9692307692307693
+    },
+    {
+      "query": "meadowbrook manor bolingbrook",
+      "clicks": 3,
+      "impressions": 938,
+      "ctr": 0.0031982942430703624,
+      "position": 9.929637526652453
+    },
+    {
+      "query": "new dui laws 2026",
+      "clicks": 3,
+      "impressions": 248,
+      "ctr": 0.012096774193548387,
+      "position": 4.330645161290322
+    },
+    {
+      "query": "new dui laws 2026 illinois",
+      "clicks": 3,
+      "impressions": 134,
+      "ctr": 0.022388059701492536,
+      "position": 3.388059701492537
+    },
+    {
+      "query": "new illinois dui laws 2026",
+      "clicks": 3,
+      "impressions": 104,
+      "ctr": 0.028846153846153848,
+      "position": 2.769230769230769
+    },
+    {
+      "query": "pfa vs pfoa",
+      "clicks": 3,
+      "impressions": 266,
+      "ctr": 0.011278195488721804,
+      "position": 2.6691729323308273
+    },
+    {
+      "query": "pfoa",
+      "clicks": 3,
+      "impressions": 6489,
+      "ctr": 0.0004623208506703652,
+      "position": 6.914624749576206
+    },
+    {
+      "query": "susan kamuda",
+      "clicks": 3,
+      "impressions": 21,
+      "ctr": 0.14285714285714285,
+      "position": 1.1428571428571428
+    },
+    {
+      "query": "symptoms of slow arsenic poisoning",
+      "clicks": 3,
+      "impressions": 82,
+      "ctr": 0.036585365853658534,
+      "position": 7.902439024390244
+    },
+    {
+      "query": "tce chemical",
+      "clicks": 3,
+      "impressions": 1843,
+      "ctr": 0.0016277807921866521,
+      "position": 5.429734129137276
+    },
+    {
+      "query": "what happens when you get bit by a dog",
+      "clicks": 3,
+      "impressions": 142,
+      "ctr": 0.02112676056338028,
+      "position": 3.1901408450704225
+    },
+    {
+      "query": "worst nursing homes in illinois",
+      "clicks": 3,
+      "impressions": 488,
+      "ctr": 0.006147540983606557,
+      "position": 10.64344262295082
+    },
+    {
+      "query": "xylene",
+      "clicks": 3,
+      "impressions": 10069,
+      "ctr": 0.0002979441851226537,
+      "position": 10.355943986493196
+    },
+    {
+      "query": "18 wheeler accident lawyer",
+      "clicks": 2,
+      "impressions": 7302,
+      "ctr": 0.0002738975623116954,
+      "position": 34.7775951794029
+    },
+    {
+      "query": "airbag hearing loss",
+      "clicks": 2,
+      "impressions": 25,
+      "ctr": 0.08,
+      "position": 8.879999999999999
+    },
+    {
+      "query": "are pfas and pfoa the same",
+      "clicks": 2,
+      "impressions": 65,
+      "ctr": 0.03076923076923077,
+      "position": 2.769230769230769
+    },
+    {
+      "query": "arsenic poisoning",
+      "clicks": 2,
+      "impressions": 752,
+      "ctr": 0.0026595744680851063,
+      "position": 4.70345744680851
+    },
+    {
+      "query": "best medical malpractice lawyers in illinois",
+      "clicks": 2,
+      "impressions": 644,
+      "ctr": 0.003105590062111801,
+      "position": 11.440993788819876
+    },
+    {
+      "query": "breach of contract lawyer near me",
+      "clicks": 2,
+      "impressions": 68,
+      "ctr": 0.029411764705882353,
+      "position": 18.352941176470587
+    },
+    {
+      "query": "bubly pfas",
+      "clicks": 2,
+      "impressions": 92,
+      "ctr": 0.021739130434782608,
+      "position": 1.2826086956521738
+    },
+    {
+      "query": "business lawyers near me",
+      "clicks": 2,
+      "impressions": 153,
+      "ctr": 0.013071895424836602,
+      "position": 28.58169934640523
+    },
+    {
+      "query": "car accident lawyer illinois",
+      "clicks": 2,
+      "impressions": 1318,
+      "ctr": 0.0015174506828528073,
+      "position": 11.131259484066767
+    },
+    {
+      "query": "chemtool",
+      "clicks": 2,
+      "impressions": 140,
+      "ctr": 0.014285714285714285,
+      "position": 9.378571428571428
+    },
+    {
+      "query": "chlormequat in oats",
+      "clicks": 2,
+      "impressions": 151,
+      "ctr": 0.013245033112582781,
+      "position": 6.443708609271523
+    },
+    {
+      "query": "civil litigation attorney",
+      "clicks": 2,
+      "impressions": 188,
+      "ctr": 0.010638297872340425,
+      "position": 2.8138297872340425
+    },
+    {
+      "query": "civil rights attorney near me",
+      "clicks": 2,
+      "impressions": 15,
+      "ctr": 0.13333333333333333,
+      "position": 6.733333333333333
+    },
+    {
+      "query": "class action lawsuits",
+      "clicks": 2,
+      "impressions": 344,
+      "ctr": 0.005813953488372093,
+      "position": 8.901162790697676
+    },
+    {
+      "query": "collin law firm",
+      "clicks": 2,
+      "impressions": 75,
+      "ctr": 0.02666666666666667,
+      "position": 5.12
+    },
+    {
+      "query": "collins and collins",
+      "clicks": 2,
+      "impressions": 51,
+      "ctr": 0.0392156862745098,
+      "position": 6.980392156862745
+    },
+    {
+      "query": "collins attorney at law",
+      "clicks": 2,
+      "impressions": 202,
+      "ctr": 0.009900990099009901,
+      "position": 21.03960396039604
+    },
+    {
+      "query": "collins law firm llc",
+      "clicks": 2,
+      "impressions": 110,
+      "ctr": 0.01818181818181818,
+      "position": 8.627272727272727
+    },
+    {
+      "query": "constitutional rights violated by police",
+      "clicks": 2,
+      "impressions": 37,
+      "ctr": 0.05405405405405406,
+      "position": 3.2162162162162162
+    },
+    {
+      "query": "contingency fee lawyers near me",
+      "clicks": 2,
+      "impressions": 5,
+      "ctr": 0.4,
+      "position": 4.6
+    },
+    {
+      "query": "difference between pfoa and pfas",
+      "clicks": 2,
+      "impressions": 290,
+      "ctr": 0.006896551724137931,
+      "position": 2.6310344827586207
+    },
+    {
+      "query": "discovery deposition",
+      "clicks": 2,
+      "impressions": 184,
+      "ctr": 0.010869565217391304,
+      "position": 5.603260869565218
+    },
+    {
+      "query": "does bubly have forever chemicals",
+      "clicks": 2,
+      "impressions": 63,
+      "ctr": 0.031746031746031744,
+      "position": 1.2380952380952381
+    },
+    {
+      "query": "does la croix have pfas",
+      "clicks": 2,
+      "impressions": 150,
+      "ctr": 0.013333333333333334,
+      "position": 3.96
+    },
+    {
+      "query": "does perrier have pfas",
+      "clicks": 2,
+      "impressions": 86,
+      "ctr": 0.023255813953488372,
+      "position": 2.337209302325581
+    },
+    {
+      "query": "does spindrift have pfas",
+      "clicks": 2,
+      "impressions": 260,
+      "ctr": 0.007692307692307693,
+      "position": 8.015384615384615
+    },
+    {
+      "query": "dog bite laws in illinois",
+      "clicks": 2,
+      "impressions": 74,
+      "ctr": 0.02702702702702703,
+      "position": 5.4324324324324325
+    },
+    {
+      "query": "dog bites symptoms",
+      "clicks": 2,
+      "impressions": 86,
+      "ctr": 0.023255813953488372,
+      "position": 3.1627906976744184
+    },
+    {
+      "query": "driving articles 2025",
+      "clicks": 2,
+      "impressions": 37,
+      "ctr": 0.05405405405405406,
+      "position": 6.486486486486487
+    },
+    {
+      "query": "dui in illinois new law",
+      "clicks": 2,
+      "impressions": 29,
+      "ctr": 0.06896551724137931,
+      "position": 1.6896551724137931
+    },
+    {
+      "query": "effects of being bitten by a dog",
+      "clicks": 2,
+      "impressions": 28,
+      "ctr": 0.07142857142857142,
+      "position": 1.6071428571428572
+    },
+    {
+      "query": "enlist duo",
+      "clicks": 2,
+      "impressions": 329,
+      "ctr": 0.0060790273556231,
+      "position": 6.261398176291793
+    },
+    {
+      "query": "environmental attorneys near me",
+      "clicks": 2,
+      "impressions": 38,
+      "ctr": 0.05263157894736842,
+      "position": 7.631578947368421
+    },
+    {
+      "query": "environmental law firms chicago",
+      "clicks": 2,
+      "impressions": 150,
+      "ctr": 0.013333333333333334,
+      "position": 11.653333333333334
+    },
+    {
+      "query": "financial attorney",
+      "clicks": 2,
+      "impressions": 260,
+      "ctr": 0.007692307692307693,
+      "position": 28.434615384615384
+    },
+    {
+      "query": "franchise attorney near me",
+      "clicks": 2,
+      "impressions": 545,
+      "ctr": 0.003669724770642202,
+      "position": 26.855045871559632
+    },
+    {
+      "query": "gardasil vaccine lawsuit",
+      "clicks": 2,
+      "impressions": 688,
+      "ctr": 0.0029069767441860465,
+      "position": 8.960755813953488
+    },
+    {
+      "query": "hipaa lawyer",
+      "clicks": 2,
+      "impressions": 3,
+      "ctr": 0.6666666666666666,
+      "position": 1
+    },
+    {
+      "query": "how to prepare for an accident",
+      "clicks": 2,
+      "impressions": 795,
+      "ctr": 0.0025157232704402514,
+      "position": 7.948427672955975
+    },
+    {
+      "query": "idot winter road conditions",
+      "clicks": 2,
+      "impressions": 51,
+      "ctr": 0.0392156862745098,
+      "position": 3.4705882352941178
+    },
+    {
+      "query": "illinois breach of contract elements",
+      "clicks": 2,
+      "impressions": 51,
+      "ctr": 0.0392156862745098,
+      "position": 2.607843137254902
+    },
+    {
+      "query": "illinois car accident attorney",
+      "clicks": 2,
+      "impressions": 739,
+      "ctr": 0.0027063599458728013,
+      "position": 18.493910690121787
+    },
+    {
+      "query": "illinois dui law change",
+      "clicks": 2,
+      "impressions": 65,
+      "ctr": 0.03076923076923077,
+      "position": 4.538461538461538
+    },
+    {
+      "query": "injury lawyers near me",
+      "clicks": 2,
+      "impressions": 508,
+      "ctr": 0.003937007874015748,
+      "position": 23.968503937007874
+    },
+    {
+      "query": "instacart auto claims phone number",
+      "clicks": 2,
+      "impressions": 48,
+      "ctr": 0.041666666666666664,
+      "position": 7.458333333333333
+    },
+    {
+      "query": "instacart insurance coverage",
+      "clicks": 2,
+      "impressions": 49,
+      "ctr": 0.04081632653061224,
+      "position": 4.959183673469388
+    },
+    {
+      "query": "is a dog bite dangerous",
+      "clicks": 2,
+      "impressions": 203,
+      "ctr": 0.009852216748768473,
+      "position": 8.689655172413794
+    },
+    {
+      "query": "is air freshener toxic",
+      "clicks": 2,
+      "impressions": 275,
+      "ctr": 0.007272727272727273,
+      "position": 6.447272727272727
+    },
+    {
+      "query": "is bubly bad for you",
+      "clicks": 2,
+      "impressions": 12,
+      "ctr": 0.16666666666666666,
+      "position": 2.75
+    },
+    {
+      "query": "is living near a landfill dangerous",
+      "clicks": 2,
+      "impressions": 35,
+      "ctr": 0.05714285714285714,
+      "position": 3.142857142857143
+    },
+    {
+      "query": "is pfoa and pfos the same as pfas",
+      "clicks": 2,
+      "impressions": 18,
+      "ctr": 0.1111111111111111,
+      "position": 2.7777777777777777
+    },
+    {
+      "query": "is talc dangerous",
+      "clicks": 2,
+      "impressions": 378,
+      "ctr": 0.005291005291005291,
+      "position": 5.444444444444445
+    },
+    {
+      "query": "is topo chico bad for you",
+      "clicks": 2,
+      "impressions": 24,
+      "ctr": 0.08333333333333333,
+      "position": 1.25
+    },
+    {
+      "query": "is xylene flammable",
+      "clicks": 2,
+      "impressions": 199,
+      "ctr": 0.010050251256281407,
+      "position": 7.301507537688442
+    },
+    {
+      "query": "law firm in illinois",
+      "clicks": 2,
+      "impressions": 256,
+      "ctr": 0.0078125,
+      "position": 7.70703125
+    },
+    {
+      "query": "law firms",
+      "clicks": 2,
+      "impressions": 23,
+      "ctr": 0.08695652173913043,
+      "position": 1.9565217391304348
+    },
+    {
+      "query": "lawyer naperville",
+      "clicks": 2,
+      "impressions": 41,
+      "ctr": 0.04878048780487805,
+      "position": 1.3170731707317074
+    },
+    {
+      "query": "malpractice attorney illinois",
+      "clicks": 2,
+      "impressions": 39,
+      "ctr": 0.05128205128205128,
+      "position": 9.897435897435898
+    },
+    {
+      "query": "malpractice lawyer",
+      "clicks": 2,
+      "impressions": 1260,
+      "ctr": 0.0015873015873015873,
+      "position": 34.60476190476191
+    },
+    {
+      "query": "malpractice lawyer near me",
+      "clicks": 2,
+      "impressions": 73,
+      "ctr": 0.0273972602739726,
+      "position": 8.821917808219178
+    },
+    {
+      "query": "medical attorneys",
+      "clicks": 2,
+      "impressions": 14,
+      "ctr": 0.14285714285714285,
+      "position": 11.357142857142858
+    },
+    {
+      "query": "medical malpractice attorney",
+      "clicks": 2,
+      "impressions": 3653,
+      "ctr": 0.0005474952094169176,
+      "position": 16.579797426772515
+    },
+    {
+      "query": "medical malpractice attorneys",
+      "clicks": 2,
+      "impressions": 944,
+      "ctr": 0.00211864406779661,
+      "position": 12.092161016949152
+    },
+    {
+      "query": "medical malpractice lawyers illinois",
+      "clicks": 2,
+      "impressions": 174,
+      "ctr": 0.011494252873563218,
+      "position": 7.477011494252873
+    },
+    {
+      "query": "medical malpractice lawyers in illinois",
+      "clicks": 2,
+      "impressions": 451,
+      "ctr": 0.004434589800443459,
+      "position": 7.501108647450111
+    },
+    {
+      "query": "medical malpractice lawyers near me",
+      "clicks": 2,
+      "impressions": 759,
+      "ctr": 0.002635046113306983,
+      "position": 15.08695652173913
+    },
+    {
+      "query": "new dui laws in illinois",
+      "clicks": 2,
+      "impressions": 210,
+      "ctr": 0.009523809523809525,
+      "position": 4.633333333333333
+    },
+    {
+      "query": "new dui laws in illinois 2026",
+      "clicks": 2,
+      "impressions": 16,
+      "ctr": 0.125,
+      "position": 1.3125
+    },
+    {
+      "query": "new illinois laws 2026 dui",
+      "clicks": 2,
+      "impressions": 53,
+      "ctr": 0.03773584905660377,
+      "position": 4.69811320754717
+    },
+    {
+      "query": "paragard iud lawyers",
+      "clicks": 2,
+      "impressions": 272,
+      "ctr": 0.007352941176470588,
+      "position": 9.231617647058824
+    },
+    {
+      "query": "patient rights attorney",
+      "clicks": 2,
+      "impressions": 8,
+      "ctr": 0.25,
+      "position": 8.375
+    },
+    {
+      "query": "personal injury attorney naperville",
+      "clicks": 2,
+      "impressions": 2556,
+      "ctr": 0.000782472613458529,
+      "position": 4.270344287949921
+    },
+    {
+      "query": "personal injury law firm illinois",
+      "clicks": 2,
+      "impressions": 100,
+      "ctr": 0.02,
+      "position": 8.11
+    },
+    {
+      "query": "personal injury lawyer illinois",
+      "clicks": 2,
+      "impressions": 2255,
+      "ctr": 0.0008869179600886918,
+      "position": 10.30509977827051
+    },
+    {
+      "query": "personal injury lawyer near me",
+      "clicks": 2,
+      "impressions": 3779,
+      "ctr": 0.0005292405398253506,
+      "position": 14.299550145541149
+    },
+    {
+      "query": "pfas in bubly",
+      "clicks": 2,
+      "impressions": 84,
+      "ctr": 0.023809523809523808,
+      "position": 1.619047619047619
+    },
+    {
+      "query": "pfas pfos pfoa",
+      "clicks": 2,
+      "impressions": 77,
+      "ctr": 0.025974025974025976,
+      "position": 5.623376623376624
+    },
+    {
+      "query": "pfna y pfosa",
+      "clicks": 2,
+      "impressions": 31,
+      "ctr": 0.06451612903225806,
+      "position": 9.161290322580646
+    },
+    {
+      "query": "pfoa meaning",
+      "clicks": 2,
+      "impressions": 4219,
+      "ctr": 0.00047404598246029864,
+      "position": 9.614126570277318
+    },
+    {
+      "query": "pfoa pfos meaning",
+      "clicks": 2,
+      "impressions": 107,
+      "ctr": 0.018691588785046728,
+      "position": 5.317757009345795
+    },
+    {
+      "query": "pfos and pfoa",
+      "clicks": 2,
+      "impressions": 385,
+      "ctr": 0.005194805194805195,
+      "position": 9.03896103896104
+    },
+    {
+      "query": "quaker oats ingredients",
+      "clicks": 2,
+      "impressions": 176,
+      "ctr": 0.011363636363636364,
+      "position": 1.6022727272727273
+    },
+    {
+      "query": "rifl act illinois",
+      "clicks": 2,
+      "impressions": 417,
+      "ctr": 0.004796163069544364,
+      "position": 1.9760191846522783
+    },
+    {
+      "query": "rights police don t want you to know texas",
+      "clicks": 2,
+      "impressions": 16,
+      "ctr": 0.125,
+      "position": 3.6875
+    },
+    {
+      "query": "safest sparkling water",
+      "clicks": 2,
+      "impressions": 115,
+      "ctr": 0.017391304347826087,
+      "position": 2.252173913043478
+    },
+    {
+      "query": "safest sparkling water brands",
+      "clicks": 2,
+      "impressions": 29,
+      "ctr": 0.06896551724137931,
+      "position": 1.3793103448275863
+    },
+    {
+      "query": "san pellegrino pfas",
+      "clicks": 2,
+      "impressions": 82,
+      "ctr": 0.024390243902439025,
+      "position": 4.951219512195122
+    },
+    {
+      "query": "semi truck accident attorney",
+      "clicks": 2,
+      "impressions": 4983,
+      "ctr": 0.0004013646397752358,
+      "position": 46.432269717037926
+    },
+    {
+      "query": "seth maxwell thirst project",
+      "clicks": 2,
+      "impressions": 25,
+      "ctr": 0.08,
+      "position": 7.04
+    },
+    {
+      "query": "shawn collins obituary",
+      "clicks": 2,
+      "impressions": 42,
+      "ctr": 0.047619047619047616,
+      "position": 11.857142857142858
+    },
+    {
+      "query": "side effects of airbag deployment",
+      "clicks": 2,
+      "impressions": 224,
+      "ctr": 0.008928571428571428,
+      "position": 8.553571428571429
+    },
+    {
+      "query": "sparkling water without pfas",
+      "clicks": 2,
+      "impressions": 471,
+      "ctr": 0.004246284501061571,
+      "position": 2.3694267515923566
+    },
+    {
+      "query": "symptoms of a dog bite",
+      "clicks": 2,
+      "impressions": 113,
+      "ctr": 0.017699115044247787,
+      "position": 3.725663716814159
+    },
+    {
+      "query": "symptoms of dog bite",
+      "clicks": 2,
+      "impressions": 152,
+      "ctr": 0.013157894736842105,
+      "position": 1.7894736842105263
+    },
+    {
+      "query": "talc mineral",
+      "clicks": 2,
+      "impressions": 788,
+      "ctr": 0.0025380710659898475,
+      "position": 9.91751269035533
+    },
+    {
+      "query": "talc what is it",
+      "clicks": 2,
+      "impressions": 87,
+      "ctr": 0.022988505747126436,
+      "position": 7.195402298850575
+    },
+    {
+      "query": "tce",
+      "clicks": 2,
+      "impressions": 5281,
+      "ctr": 0.0003787161522438932,
+      "position": 10.601022533611058
+    },
+    {
+      "query": "the collins firm",
+      "clicks": 2,
+      "impressions": 73,
+      "ctr": 0.0273972602739726,
+      "position": 6.698630136986301
+    },
+    {
+      "query": "the thirst project controversy",
+      "clicks": 2,
+      "impressions": 21,
+      "ctr": 0.09523809523809523,
+      "position": 2.380952380952381
+    },
+    {
+      "query": "toxins in perfume",
+      "clicks": 2,
+      "impressions": 39,
+      "ctr": 0.05128205128205128,
+      "position": 6.589743589743589
+    },
+    {
+      "query": "trial deposition vs discovery deposition",
+      "clicks": 2,
+      "impressions": 70,
+      "ctr": 0.02857142857142857,
+      "position": 4.9
+    },
+    {
+      "query": "uninsured motorist coverage illinois",
+      "clicks": 2,
+      "impressions": 38,
+      "ctr": 0.05263157894736842,
+      "position": 2.7105263157894735
+    },
+    {
+      "query": "what can happen from a dog bite",
+      "clicks": 2,
+      "impressions": 37,
+      "ctr": 0.05405405405405406,
+      "position": 5.5675675675675675
+    },
+    {
+      "query": "what happens if you get bit by a dog",
+      "clicks": 2,
+      "impressions": 280,
+      "ctr": 0.007142857142857143,
+      "position": 3.767857142857143
+    },
+    {
+      "query": "what is a discovery deposition",
+      "clicks": 2,
+      "impressions": 96,
+      "ctr": 0.020833333333333332,
+      "position": 5.40625
+    },
+    {
+      "query": "what is mtbe",
+      "clicks": 2,
+      "impressions": 911,
+      "ctr": 0.0021953896816684962,
+      "position": 6.734357848518112
+    },
+    {
+      "query": "what is nitrate",
+      "clicks": 2,
+      "impressions": 2964,
+      "ctr": 0.0006747638326585695,
+      "position": 5.137314439946019
+    },
+    {
+      "query": "why is talc bad",
+      "clicks": 2,
+      "impressions": 807,
+      "ctr": 0.0024783147459727386,
+      "position": 3.9776951672862455
+    },
+    {
+      "query": "1 4 dioxane",
+      "clicks": 1,
+      "impressions": 70,
+      "ctr": 0.014285714285714285,
+      "position": 34.857142857142854
+    },
+    {
+      "query": "24 7 law firm",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 4
+    },
+    {
+      "query": "735 ilcs 5/2-1006",
+      "clicks": 1,
+      "impressions": 182,
+      "ctr": 0.005494505494505495,
+      "position": 7.104395604395604
+    },
+    {
+      "query": "abuse lawyer",
+      "clicks": 1,
+      "impressions": 100,
+      "ctr": 0.01,
+      "position": 27.52
+    },
+    {
+      "query": "accident lawyers",
+      "clicks": 1,
+      "impressions": 5571,
+      "ctr": 0.0001795009872554299,
+      "position": 51.94148267815473
+    },
+    {
+      "query": "accident lawyers near me",
+      "clicks": 1,
+      "impressions": 43,
+      "ctr": 0.023255813953488372,
+      "position": 9
     }
   ],
   "topPages": [
     {
       "page": "https://collinslaw.com/",
-      "clicks": 491,
-      "impressions": 127314,
-      "ctr": 0.003856606500463421,
-      "position": 3.5327301003817335
+      "clicks": 553,
+      "impressions": 153627,
+      "ctr": 0.0035996276696153673,
+      "position": 3.2649338983381826
     },
     {
       "page": "https://www.collinslaw.com/",
-      "clicks": 467,
-      "impressions": 259216,
-      "ctr": 0.0018015863218319857,
-      "position": 38.54366242824517
-    },
-    {
-      "page": "https://www.collinslaw.com/blog/have-you-been-bitten-by-a-dog-heres-what-you-need-to-know/",
-      "clicks": 219,
-      "impressions": 54299,
-      "ctr": 0.004033223447945634,
-      "position": 4.603952190648078
+      "clicks": 500,
+      "impressions": 277780,
+      "ctr": 0.0017999856001151991,
+      "position": 34.816790265677874
     },
     {
       "page": "https://www.collinslaw.com/blog/do-you-know-whats-in-your-sparkling-water/",
-      "clicks": 213,
-      "impressions": 30954,
-      "ctr": 0.006881178522969568,
-      "position": 4.595044259223364
+      "clicks": 258,
+      "impressions": 34547,
+      "ctr": 0.007468086954004689,
+      "position": 4.253741279995369
+    },
+    {
+      "page": "https://www.collinslaw.com/blog/have-you-been-bitten-by-a-dog-heres-what-you-need-to-know/",
+      "clicks": 214,
+      "impressions": 55348,
+      "ctr": 0.0038664450386644506,
+      "position": 4.676230396762303
     },
     {
       "page": "https://www.collinslaw.com/blog/understanding-the-difference-between-discovery-depositions-and-evidence-depositions/",
-      "clicks": 209,
-      "impressions": 8813,
-      "ctr": 0.02371496652672189,
-      "position": 8.128673550436854
+      "clicks": 214,
+      "impressions": 9698,
+      "ctr": 0.02206640544442153,
+      "position": 7.68746133223345
     },
     {
       "page": "https://www.collinslaw.com/what-you-need-to-know-about-pfas-pfoa-and-pfos/",
-      "clicks": 189,
-      "impressions": 80080,
-      "ctr": 0.00236013986013986,
-      "position": 7.389023476523477
-    },
-    {
-      "page": "https://www.collinslaw.com/blog/toxic-chemical-chlormequat-found-in-oat-based-food-and-humans-raising-concerns-for-reproductive-harm/",
-      "clicks": 172,
-      "impressions": 22401,
-      "ctr": 0.007678228650506674,
-      "position": 5.243515914468104
-    },
-    {
-      "page": "https://www.collinslaw.com/tough-new-illinois-dui-bill-could-become-law-this-summer/",
-      "clicks": 141,
-      "impressions": 13019,
-      "ctr": 0.010830324909747292,
-      "position": 5.878331669099009
-    },
-    {
-      "page": "https://www.collinslaw.com/blog/do-you-hear-that-tinnitus-and-hearing-loss-the-unexpected-consequences-of-your-airbag-deploying/",
-      "clicks": 139,
-      "impressions": 13251,
-      "ctr": 0.010489774356652328,
-      "position": 6.54312882046638
+      "clicks": 197,
+      "impressions": 85063,
+      "ctr": 0.002315930545595617,
+      "position": 7.104510774367234
     },
     {
       "page": "https://www.collinslaw.com/police-misconduct-understanding-civil-rights-violations/",
-      "clicks": 121,
-      "impressions": 18608,
-      "ctr": 0.006502579535683577,
-      "position": 6.3034716251074805
+      "clicks": 166,
+      "impressions": 24629,
+      "ctr": 0.006740021925372528,
+      "position": 5.975679077510252
+    },
+    {
+      "page": "https://www.collinslaw.com/blog/toxic-chemical-chlormequat-found-in-oat-based-food-and-humans-raising-concerns-for-reproductive-harm/",
+      "clicks": 165,
+      "impressions": 22916,
+      "ctr": 0.007200209460638855,
+      "position": 5.120352592075406
+    },
+    {
+      "page": "https://www.collinslaw.com/blog/do-you-hear-that-tinnitus-and-hearing-loss-the-unexpected-consequences-of-your-airbag-deploying/",
+      "clicks": 136,
+      "impressions": 13469,
+      "ctr": 0.010097260375677482,
+      "position": 6.17967183903779
     },
     {
       "page": "https://www.collinslaw.com/john-d-risvold/",
-      "clicks": 105,
-      "impressions": 1596,
-      "ctr": 0.06578947368421052,
-      "position": 9.802005012531328
+      "clicks": 123,
+      "impressions": 1256,
+      "ctr": 0.09792993630573249,
+      "position": 9.296974522292993
     },
     {
       "page": "https://www.collinslaw.com/blog/what-dummies-car-industry-ignores-womens-safety-by-designing-cars-to-protect-men-only/",
-      "clicks": 90,
-      "impressions": 5562,
-      "ctr": 0.016181229773462782,
-      "position": 6.743617403811578
-    },
-    {
-      "page": "https://www.collinslaw.com/illinois-environmental-law/",
-      "clicks": 88,
-      "impressions": 14684,
-      "ctr": 0.0059929174611822395,
-      "position": 20.61972214655407
-    },
-    {
-      "page": "https://www.collinslaw.com/medical-malpractice-surgical-instrument-left-inside-a-patient/",
-      "clicks": 82,
-      "impressions": 10018,
-      "ctr": 0.008185266520263525,
-      "position": 5.910061888600519
-    },
-    {
-      "page": "https://www.collinslaw.com/blog/burning-incense-can-release-toxic-chemicals-and-harm-your-health/",
-      "clicks": 80,
-      "impressions": 40249,
-      "ctr": 0.001987627021789361,
-      "position": 6.854679619369425
+      "clicks": 102,
+      "impressions": 6708,
+      "ctr": 0.01520572450805009,
+      "position": 6.333780560524747
     },
     {
       "page": "https://www.collinslaw.com/blog/distracted-driving-2025-trends/",
-      "clicks": 76,
-      "impressions": 5206,
-      "ctr": 0.014598540145985401,
-      "position": 6.3739915482136
+      "clicks": 96,
+      "impressions": 5635,
+      "ctr": 0.017036379769299025,
+      "position": 6.282697426796806
     },
     {
-      "page": "https://www.collinslaw.com/the-legal-basics-of-a-business-breach-of-contract-in-illinois/",
-      "clicks": 75,
-      "impressions": 13606,
-      "ctr": 0.005512273996766133,
-      "position": 8.1519917683375
-    },
-    {
-      "page": "https://www.collinslaw.com/natural-gas-line-explosions-how-to-determine-liability/",
-      "clicks": 72,
-      "impressions": 11966,
-      "ctr": 0.006017048303526659,
-      "position": 6.272271435734582
+      "page": "https://www.collinslaw.com/medical-malpractice-surgical-instrument-left-inside-a-patient/",
+      "clicks": 93,
+      "impressions": 11447,
+      "ctr": 0.008124399405957893,
+      "position": 5.453131824932297
     },
     {
       "page": "https://www.collinslaw.com/what-you-need-to-know-about-trichloroethylene-tce/",
-      "clicks": 70,
-      "impressions": 39803,
-      "ctr": 0.0017586614074316007,
-      "position": 9.801346632163405
+      "clicks": 86,
+      "impressions": 43759,
+      "ctr": 0.0019653099933727917,
+      "position": 9.378939189652414
+    },
+    {
+      "page": "https://www.collinslaw.com/illinois-environmental-law/",
+      "clicks": 83,
+      "impressions": 12150,
+      "ctr": 0.006831275720164609,
+      "position": 21.121316872427983
+    },
+    {
+      "page": "https://www.collinslaw.com/the-legal-basics-of-a-business-breach-of-contract-in-illinois/",
+      "clicks": 83,
+      "impressions": 14664,
+      "ctr": 0.005660120021822149,
+      "position": 7.880046372067649
+    },
+    {
+      "page": "https://www.collinslaw.com/blog/burning-incense-can-release-toxic-chemicals-and-harm-your-health/",
+      "clicks": 81,
+      "impressions": 39979,
+      "ctr": 0.002026063683433803,
+      "position": 6.582380749893694
     },
     {
       "page": "https://www.collinslaw.com/edward-john-manzke/",
-      "clicks": 67,
-      "impressions": 1015,
-      "ctr": 0.06600985221674877,
-      "position": 10.076847290640394
+      "clicks": 76,
+      "impressions": 984,
+      "ctr": 0.07723577235772358,
+      "position": 10.550813008130081
     },
     {
-      "page": "https://www.collinslaw.com/shawn-m-collins/",
-      "clicks": 67,
-      "impressions": 8727,
-      "ctr": 0.007677323249684886,
-      "position": 9.894121691302853
+      "page": "https://www.collinslaw.com/natural-gas-line-explosions-how-to-determine-liability/",
+      "clicks": 74,
+      "impressions": 13266,
+      "ctr": 0.005578169757274235,
+      "position": 6.1503844414292175
     },
     {
-      "page": "https://www.collinslaw.com/blog/your-rights-under-the-illinois-snow-and-ice-removal-act/",
-      "clicks": 61,
-      "impressions": 5793,
-      "ctr": 0.010529949939582254,
-      "position": 9.66166062489211
+      "page": "https://www.collinslaw.com/tough-new-illinois-dui-bill-could-become-law-this-summer/",
+      "clicks": 72,
+      "impressions": 4271,
+      "ctr": 0.01685787871692812,
+      "position": 5.45399203933505
     },
     {
       "page": "https://www.collinslaw.com/the-legal-basics-of-a-class-action-lawsuit-in-illinois/",
-      "clicks": 60,
-      "impressions": 4598,
-      "ctr": 0.013049151805132666,
-      "position": 7.2716398434101785
-    },
-    {
-      "page": "https://www.collinslaw.com/attorneys/",
-      "clicks": 57,
-      "impressions": 13187,
-      "ctr": 0.004322438765450823,
-      "position": 13.393190263137939
-    },
-    {
-      "page": "https://www.collinslaw.com/blog/what-is-talc-and-why-is-it-dangerous/",
-      "clicks": 56,
-      "impressions": 29089,
-      "ctr": 0.0019251263364158274,
-      "position": 14.394032108357111
+      "clicks": 67,
+      "impressions": 6134,
+      "ctr": 0.010922725790674926,
+      "position": 7.605151613955005
     },
     {
       "page": "https://www.collinslaw.com/robert-l-dawidiuk/",
-      "clicks": 56,
-      "impressions": 391,
-      "ctr": 0.1432225063938619,
-      "position": 13.084398976982097
+      "clicks": 66,
+      "impressions": 369,
+      "ctr": 0.17886178861788618,
+      "position": 11.883468834688347
+    },
+    {
+      "page": "https://www.collinslaw.com/shawn-m-collins/",
+      "clicks": 65,
+      "impressions": 7226,
+      "ctr": 0.00899529476889012,
+      "position": 10.176030999169665
+    },
+    {
+      "page": "https://www.collinslaw.com/illinois-breach-of-contract-lawyer/",
+      "clicks": 62,
+      "impressions": 32262,
+      "ctr": 0.0019217655446035584,
+      "position": 19.30081830016738
     },
     {
       "page": "https://www.collinslaw.com/blog/love-that-wonderful-smelling-air-freshener-it-may-contain-toxic-phthalates-formaldehyde-and-naphthalene/",
-      "clicks": 54,
-      "impressions": 14104,
-      "ctr": 0.0038287010777084515,
-      "position": 7.464478162223482
-    },
-    {
-      "page": "https://www.collinslaw.com/illinois-business-lawyer/",
-      "clicks": 53,
-      "impressions": 33401,
-      "ctr": 0.0015867788389569175,
-      "position": 39.79449717074339
-    },
-    {
-      "page": "https://www.collinslaw.com/understanding-legal-remedies-for-business-fraud-in-illinois/",
-      "clicks": 52,
-      "impressions": 7000,
-      "ctr": 0.0074285714285714285,
-      "position": 9.146428571428572
+      "clicks": 61,
+      "impressions": 16182,
+      "ctr": 0.0037696205660610557,
+      "position": 6.830737856878013
     },
     {
       "page": "https://www.collinslaw.com/illinois-medical-malpractice-lawyer/",
+      "clicks": 59,
+      "impressions": 90086,
+      "ctr": 0.000654929733809915,
+      "position": 19.761971893523967
+    },
+    {
+      "page": "https://www.collinslaw.com/attorneys/",
+      "clicks": 58,
+      "impressions": 5422,
+      "ctr": 0.010697159719660641,
+      "position": 22.130025820730356
+    },
+    {
+      "page": "https://www.collinslaw.com/blog/what-is-talc-and-why-is-it-dangerous/",
+      "clicks": 55,
+      "impressions": 31843,
+      "ctr": 0.0017272241937003423,
+      "position": 12.423452564142826
+    },
+    {
+      "page": "https://www.collinslaw.com/understanding-legal-remedies-for-business-fraud-in-illinois/",
+      "clicks": 55,
+      "impressions": 7222,
+      "ctr": 0.007615618942121296,
+      "position": 8.46690667405151
+    },
+    {
+      "page": "https://www.collinslaw.com/blog/understanding-illinois-dog-bite-law/",
+      "clicks": 53,
+      "impressions": 5983,
+      "ctr": 0.00885843222463647,
+      "position": 11.403142236336286
+    },
+    {
+      "page": "https://www.collinslaw.com/blog/your-rights-under-the-illinois-snow-and-ice-removal-act/",
+      "clicks": 52,
+      "impressions": 5337,
+      "ctr": 0.009743301480232341,
+      "position": 9.811317219411654
+    },
+    {
+      "page": "https://www.collinslaw.com/illinois-business-lawyer/",
       "clicks": 51,
-      "impressions": 49396,
-      "ctr": 0.0010324722649607257,
-      "position": 27.858288120495587
+      "impressions": 69944,
+      "ctr": 0.0007291547523733272,
+      "position": 26.18240306530939
     },
     {
       "page": "https://www.collinslaw.com/john-a-sopuch-iii/",
       "clicks": 51,
-      "impressions": 740,
-      "ctr": 0.06891891891891892,
-      "position": 7.6121621621621625
+      "impressions": 742,
+      "ctr": 0.06873315363881402,
+      "position": 7.3652291105121295
     },
     {
       "page": "https://www.collinslaw.com/what-you-need-to-know-about-methyl-tertiary-butyl-ether-mtbe/",
       "clicks": 51,
-      "impressions": 26391,
-      "ctr": 0.0019324769807889054,
-      "position": 9.574438255465878
-    },
-    {
-      "page": "https://www.collinslaw.com/what-you-need-to-know-about-arsenic/",
-      "clicks": 49,
-      "impressions": 22511,
-      "ctr": 0.002176713606681178,
-      "position": 9.868242192705788
+      "impressions": 27044,
+      "ctr": 0.0018858157077355422,
+      "position": 8.930446679485282
     },
     {
       "page": "https://www.collinslaw.com/blog/are-reusable-plastic-bottles-leaching-hundreds-of-chemicals-into-your-water/",
-      "clicks": 47,
-      "impressions": 8942,
-      "ctr": 0.005256094833370611,
-      "position": 9.687877432341757
-    },
-    {
-      "page": "https://www.collinslaw.com/illinois-breach-of-contract-lawyer/",
-      "clicks": 47,
-      "impressions": 14600,
-      "ctr": 0.0032191780821917808,
-      "position": 30.75082191780822
-    },
-    {
-      "page": "https://www.collinslaw.com/illinois-motorcycle-accident-lawyer/dooring-accidents/",
-      "clicks": 46,
-      "impressions": 9610,
-      "ctr": 0.004786680541103018,
-      "position": 4.313111342351717
+      "clicks": 49,
+      "impressions": 9731,
+      "ctr": 0.005035453704655225,
+      "position": 8.895385880176754
     },
     {
       "page": "https://www.collinslaw.com/blog/is-instacart-liable-if-its-grocery-delivery-driver-causes-an-accident/",
-      "clicks": 45,
-      "impressions": 10067,
-      "ctr": 0.004470050660574153,
-      "position": 6.656600774808781
+      "clicks": 49,
+      "impressions": 9986,
+      "ctr": 0.0049068696174644506,
+      "position": 6.399559383136391
+    },
+    {
+      "page": "https://www.collinslaw.com/illinois-nursing-home-abuse-lawyer/abuse-neglect-of-the-disabled/",
+      "clicks": 48,
+      "impressions": 3703,
+      "ctr": 0.01296246286794491,
+      "position": 29.815284904131786
+    },
+    {
+      "page": "https://www.collinslaw.com/what-you-need-to-know-about-toluene/",
+      "clicks": 44,
+      "impressions": 17451,
+      "ctr": 0.00252134548163429,
+      "position": 10.454071399919775
+    },
+    {
+      "page": "https://www.collinslaw.com/illinois-banking-lawyer/",
+      "clicks": 43,
+      "impressions": 10408,
+      "ctr": 0.004131437355880092,
+      "position": 24.476940814757878
+    },
+    {
+      "page": "https://www.collinslaw.com/understanding-negligent-hiring-or-supervision-in-illinois/",
+      "clicks": 42,
+      "impressions": 5613,
+      "ctr": 0.0074826296098343134,
+      "position": 8.734188491003028
+    },
+    {
+      "page": "https://www.collinslaw.com/what-you-need-to-know-about-arsenic/",
+      "clicks": 42,
+      "impressions": 24073,
+      "ctr": 0.0017446932247746438,
+      "position": 8.949320815851785
+    },
+    {
+      "page": "https://www.collinslaw.com/about-us/",
+      "clicks": 41,
+      "impressions": 20959,
+      "ctr": 0.00195620020039124,
+      "position": 13.068991841213798
     },
     {
       "page": "https://www.collinslaw.com/blog/the-dangers-of-the-toxic-chemical-emissions-from-the-koppers-plant-in-cicero-il/",
-      "clicks": 44,
-      "impressions": 3821,
-      "ctr": 0.011515310128238681,
-      "position": 7.028788275320597
+      "clicks": 41,
+      "impressions": 4269,
+      "ctr": 0.009604122745373624,
+      "position": 6.847271023658936
     },
     {
-      "page": "https://www.collinslaw.com/leonard-e-hudson/",
-      "clicks": 42,
-      "impressions": 1890,
-      "ctr": 0.022222222222222223,
-      "position": 25.58994708994709
+      "page": "https://www.collinslaw.com/blog/why-landfills-are-dangerous-to-the-people-who-live-near-them/",
+      "clicks": 41,
+      "impressions": 4031,
+      "ctr": 0.010171173406102704,
+      "position": 8.101959811461175
     },
     {
       "page": "https://www.collinslaw.com/faulty-adas-whos-liable-for-your-accident/",
       "clicks": 41,
-      "impressions": 11816,
-      "ctr": 0.0034698713608666215,
-      "position": 5.281990521327014
+      "impressions": 12787,
+      "ctr": 0.0032063814811918354,
+      "position": 5.338937983889888
     },
     {
-      "page": "https://www.collinslaw.com/illinois-banking-lawyer/",
-      "clicks": 41,
-      "impressions": 12454,
-      "ctr": 0.003292114983137948,
-      "position": 22.80729083025534
-    },
-    {
-      "page": "https://www.collinslaw.com/what-you-need-to-know-about-perchloroethylene-pce/",
+      "page": "https://www.collinslaw.com/illinois-motorcycle-accident-lawyer/dooring-accidents/",
       "clicks": 40,
-      "impressions": 13546,
-      "ctr": 0.0029529012254540087,
-      "position": 8.53617304001181
+      "impressions": 7884,
+      "ctr": 0.0050735667174023336,
+      "position": 5.025748351090817
     },
     {
-      "page": "https://www.collinslaw.com/what-you-need-to-know-about-toluene/",
+      "page": "https://www.collinslaw.com/industrial-zone-cancer-clusters-in-chicago/",
+      "clicks": 40,
+      "impressions": 1929,
+      "ctr": 0.020736132711249352,
+      "position": 7.242612752721618
+    },
+    {
+      "page": "https://www.collinslaw.com/leonard-e-hudson/",
       "clicks": 39,
-      "impressions": 16699,
-      "ctr": 0.0023354691897718425,
-      "position": 11.364812264207437
-    },
-    {
-      "page": "https://www.collinslaw.com/blog/joliet-diocese-fails-to-protect-children-catholic-teacher-jeremy-hylka-arrested-on-sex-charges/",
-      "clicks": 38,
-      "impressions": 1179,
-      "ctr": 0.032230703986429174,
-      "position": 4.969465648854962
-    },
-    {
-      "page": "https://www.collinslaw.com/illinois-car-accident-lawyer/most-dangerous-streets-and-intersections/",
-      "clicks": 38,
-      "impressions": 2376,
-      "ctr": 0.015993265993265993,
-      "position": 10.815656565656566
-    },
-    {
-      "page": "https://www.collinslaw.com/illinois-nursing-home-abuse-lawyer/abuse-neglect-of-the-disabled/",
-      "clicks": 37,
-      "impressions": 3859,
-      "ctr": 0.009587976159626846,
-      "position": 30.879761596268462
-    },
-    {
-      "page": "https://www.collinslaw.com/blog/understanding-illinois-dog-bite-law/",
-      "clicks": 35,
-      "impressions": 5699,
-      "ctr": 0.006141428320758028,
-      "position": 11.927180207053869
+      "impressions": 1898,
+      "ctr": 0.02054794520547945,
+      "position": 21.530558482613277
     },
     {
       "page": "https://www.collinslaw.com/what-you-need-to-know-about-xylene/",
-      "clicks": 34,
-      "impressions": 32957,
-      "ctr": 0.0010316472979943563,
-      "position": 9.332463513062475
+      "clicks": 39,
+      "impressions": 36089,
+      "ctr": 0.0010806616974701432,
+      "position": 8.52384383053008
     },
     {
-      "page": "https://www.collinslaw.com/about-us/",
-      "clicks": 32,
-      "impressions": 21092,
-      "ctr": 0.0015171629053669638,
-      "position": 11.868575763322587
-    },
-    {
-      "page": "https://www.collinslaw.com/illinois-business-litigation-lawyer/",
-      "clicks": 32,
-      "impressions": 34730,
-      "ctr": 0.0009213936078318457,
-      "position": 30.824532104808522
+      "page": "https://www.collinslaw.com/suing-for-an-injury-at-a-gym-fitness-center-or-recreational-facility/",
+      "clicks": 38,
+      "impressions": 3705,
+      "ctr": 0.010256410256410256,
+      "position": 7.102564102564102
     }
   ],
-  "fetchedAt": "2026-03-18T13:07:05.303Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "collins law firm naperville",
+      "clicks": 140,
+      "impressions": 302,
+      "ctr": 0.46357615894039733,
+      "position": 1.0033112582781456
+    },
+    {
+      "query": "the collins law firm",
+      "clicks": 134,
+      "impressions": 531,
+      "ctr": 0.2523540489642185,
+      "position": 2.689265536723164
+    },
+    {
+      "query": "pfoa vs pfas",
+      "clicks": 86,
+      "impressions": 5221,
+      "ctr": 0.01647194024133308,
+      "position": 4.149205133116261
+    },
+    {
+      "query": "collins law firm",
+      "clicks": 75,
+      "impressions": 1424,
+      "ctr": 0.05266853932584269,
+      "position": 6.983848314606742
+    },
+    {
+      "query": "shawn collins attorney",
+      "clicks": 48,
+      "impressions": 156,
+      "ctr": 0.3076923076923077,
+      "position": 1.5256410256410255
+    },
+    {
+      "query": "pfas vs pfoa",
+      "clicks": 36,
+      "impressions": 1785,
+      "ctr": 0.020168067226890758,
+      "position": 2.9070028011204485
+    },
+    {
+      "query": "collins law",
+      "clicks": 34,
+      "impressions": 677,
+      "ctr": 0.050221565731166914,
+      "position": 10.107828655834565
+    },
+    {
+      "query": "the collins law firm, p.c.",
+      "clicks": 33,
+      "impressions": 136,
+      "ctr": 0.2426470588235294,
+      "position": 1.9705882352941178
+    },
+    {
+      "query": "john risvold",
+      "clicks": 28,
+      "impressions": 61,
+      "ctr": 0.45901639344262296,
+      "position": 1
+    },
+    {
+      "query": "shawn collins",
+      "clicks": 27,
+      "impressions": 1287,
+      "ctr": 0.02097902097902098,
+      "position": 7.406371406371407
+    },
+    {
+      "query": "pfos vs pfas",
+      "clicks": 23,
+      "impressions": 3605,
+      "ctr": 0.0063800277392510405,
+      "position": 6.717059639389737
+    },
+    {
+      "query": "the collins law firm pc",
+      "clicks": 21,
+      "impressions": 109,
+      "ctr": 0.1926605504587156,
+      "position": 1.2293577981651376
+    },
+    {
+      "query": "illinois snow and ice removal act",
+      "clicks": 20,
+      "impressions": 216,
+      "ctr": 0.09259259259259259,
+      "position": 2.8703703703703702
+    },
+    {
+      "query": "evidence deposition",
+      "clicks": 17,
+      "impressions": 100,
+      "ctr": 0.17,
+      "position": 3.15
+    },
+    {
+      "query": "illinois evidence deposition",
+      "clicks": 15,
+      "impressions": 64,
+      "ctr": 0.234375,
+      "position": 2.1875
+    },
+    {
+      "query": "breach of contract illinois",
+      "clicks": 14,
+      "impressions": 243,
+      "ctr": 0.05761316872427984,
+      "position": 2.1604938271604937
+    },
+    {
+      "query": "are reusable plastic water bottles safe",
+      "clicks": 13,
+      "impressions": 550,
+      "ctr": 0.023636363636363636,
+      "position": 4.696363636363636
+    },
+    {
+      "query": "evidence deposition illinois",
+      "clicks": 13,
+      "impressions": 96,
+      "ctr": 0.13541666666666666,
+      "position": 2.135416666666667
+    },
+    {
+      "query": "shawn collins naperville",
+      "clicks": 13,
+      "impressions": 37,
+      "ctr": 0.35135135135135137,
+      "position": 1
+    },
+    {
+      "query": "chemicals in oatmeal",
+      "clicks": 11,
+      "impressions": 106,
+      "ctr": 0.10377358490566038,
+      "position": 1.6886792452830188
+    },
+    {
+      "query": "environmental litigation attorney",
+      "clicks": 11,
+      "impressions": 88,
+      "ctr": 0.125,
+      "position": 58.82954545454545
+    },
+    {
+      "query": "chemtool lawsuit",
+      "clicks": 10,
+      "impressions": 424,
+      "ctr": 0.02358490566037736,
+      "position": 4.778301886792453
+    },
+    {
+      "query": "chlormequat in oats",
+      "clicks": 10,
+      "impressions": 463,
+      "ctr": 0.02159827213822894,
+      "position": 6.416846652267819
+    },
+    {
+      "query": "depo provera lawsuit illinois",
+      "clicks": 10,
+      "impressions": 167,
+      "ctr": 0.059880239520958084,
+      "position": 1.407185628742515
+    },
+    {
+      "query": "medical malpractice lawyer in chicago",
+      "clicks": 10,
+      "impressions": 267,
+      "ctr": 0.03745318352059925,
+      "position": 64.19101123595506
+    },
+    {
+      "query": "pfoa",
+      "clicks": 10,
+      "impressions": 1594,
+      "ctr": 0.006273525721455458,
+      "position": 28.347553324968633
+    },
+    {
+      "query": "business lawyer in chicago",
+      "clicks": 9,
+      "impressions": 84,
+      "ctr": 0.10714285714285714,
+      "position": 63.57142857142857
+    },
+    {
+      "query": "chemtool settlement",
+      "clicks": 9,
+      "impressions": 1025,
+      "ctr": 0.00878048780487805,
+      "position": 10.969756097560976
+    },
+    {
+      "query": "collins law firm naperville il",
+      "clicks": 9,
+      "impressions": 49,
+      "ctr": 0.1836734693877551,
+      "position": 1
+    },
+    {
+      "query": "evidentiary deposition",
+      "clicks": 8,
+      "impressions": 51,
+      "ctr": 0.1568627450980392,
+      "position": 2.019607843137255
+    },
+    {
+      "query": "is oatmeal toxic",
+      "clicks": 8,
+      "impressions": 128,
+      "ctr": 0.0625,
+      "position": 2.5
+    },
+    {
+      "query": "pfas in bubly",
+      "clicks": 8,
+      "impressions": 171,
+      "ctr": 0.04678362573099415,
+      "position": 2.988304093567251
+    },
+    {
+      "query": "pfoa pfas difference",
+      "clicks": 8,
+      "impressions": 318,
+      "ctr": 0.025157232704402517,
+      "position": 8.132075471698112
+    },
+    {
+      "query": "what to do if you get bit by a dog",
+      "clicks": 8,
+      "impressions": 1176,
+      "ctr": 0.006802721088435374,
+      "position": 10.232993197278912
+    },
+    {
+      "query": "are oats toxic",
+      "clicks": 7,
+      "impressions": 125,
+      "ctr": 0.056,
+      "position": 3.016
+    },
+    {
+      "query": "chemicals in oats",
+      "clicks": 7,
+      "impressions": 92,
+      "ctr": 0.07608695652173914,
+      "position": 2.5
+    },
+    {
+      "query": "chemtool class action lawsuit",
+      "clicks": 7,
+      "impressions": 155,
+      "ctr": 0.04516129032258064,
+      "position": 4.587096774193548
+    },
+    {
+      "query": "chemtool class action update",
+      "clicks": 7,
+      "impressions": 693,
+      "ctr": 0.010101010101010102,
+      "position": 7.688311688311688
+    },
+    {
+      "query": "environmental lawyer",
+      "clicks": 7,
+      "impressions": 2313,
+      "ctr": 0.0030263726761781237,
+      "position": 53.49546044098573
+    },
+    {
+      "query": "how to prepare for a car accident",
+      "clicks": 7,
+      "impressions": 526,
+      "ctr": 0.013307984790874524,
+      "position": 7.026615969581749
+    },
+    {
+      "query": "is pfas the same as pfoa",
+      "clicks": 7,
+      "impressions": 188,
+      "ctr": 0.03723404255319149,
+      "position": 3.643617021276596
+    },
+    {
+      "query": "john sopuch",
+      "clicks": 7,
+      "impressions": 19,
+      "ctr": 0.3684210526315789,
+      "position": 1.368421052631579
+    },
+    {
+      "query": "medical malpractice lawyers",
+      "clicks": 7,
+      "impressions": 12488,
+      "ctr": 0.0005605381165919282,
+      "position": 67.22469570787956
+    },
+    {
+      "query": "sean collins attorney",
+      "clicks": 7,
+      "impressions": 161,
+      "ctr": 0.043478260869565216,
+      "position": 6.428571428571429
+    },
+    {
+      "query": "collins law group",
+      "clicks": 6,
+      "impressions": 59,
+      "ctr": 0.1016949152542373,
+      "position": 9.254237288135593
+    },
+    {
+      "query": "difference between pfas and pfoa",
+      "clicks": 6,
+      "impressions": 175,
+      "ctr": 0.03428571428571429,
+      "position": 2.4971428571428573
+    },
+    {
+      "query": "difference between pfoa and pfas",
+      "clicks": 6,
+      "impressions": 256,
+      "ctr": 0.0234375,
+      "position": 2.7265625
+    },
+    {
+      "query": "discovery deposition vs evidence deposition",
+      "clicks": 6,
+      "impressions": 45,
+      "ctr": 0.13333333333333333,
+      "position": 1.511111111111111
+    },
+    {
+      "query": "how long does it take for plastic to leach into water",
+      "clicks": 6,
+      "impressions": 124,
+      "ctr": 0.04838709677419355,
+      "position": 2.443548387096774
+    },
+    {
+      "query": "is it safe to live near a landfill",
+      "clicks": 6,
+      "impressions": 103,
+      "ctr": 0.05825242718446602,
+      "position": 3.0485436893203883
+    },
+    {
+      "query": "pfa vs pfoa",
+      "clicks": 6,
+      "impressions": 474,
+      "ctr": 0.012658227848101266,
+      "position": 2.7257383966244726
+    },
+    {
+      "query": "the collins law firm pc photos",
+      "clicks": 6,
+      "impressions": 32,
+      "ctr": 0.1875,
+      "position": 1.96875
+    },
+    {
+      "query": "are reusable water bottles safe",
+      "clicks": 5,
+      "impressions": 255,
+      "ctr": 0.0196078431372549,
+      "position": 11.768627450980393
+    },
+    {
+      "query": "chlormequat in organic oats",
+      "clicks": 5,
+      "impressions": 64,
+      "ctr": 0.078125,
+      "position": 2.390625
+    },
+    {
+      "query": "incense poisoning symptoms",
+      "clicks": 5,
+      "impressions": 111,
+      "ctr": 0.04504504504504504,
+      "position": 15.36036036036036
+    },
+    {
+      "query": "is pfoa the same as pfas",
+      "clicks": 5,
+      "impressions": 467,
+      "ctr": 0.010706638115631691,
+      "position": 4.0235546038543895
+    },
+    {
+      "query": "pfas pfoa",
+      "clicks": 5,
+      "impressions": 272,
+      "ctr": 0.01838235294117647,
+      "position": 23.363970588235293
+    },
+    {
+      "query": "pfas vs pfos",
+      "clicks": 5,
+      "impressions": 928,
+      "ctr": 0.005387931034482759,
+      "position": 8.883620689655173
+    },
+    {
+      "query": "pfos",
+      "clicks": 5,
+      "impressions": 856,
+      "ctr": 0.005841121495327103,
+      "position": 32.39719626168224
+    },
+    {
+      "query": "pfos pfas",
+      "clicks": 5,
+      "impressions": 467,
+      "ctr": 0.010706638115631691,
+      "position": 35.24839400428265
+    },
+    {
+      "query": "sean collins lawyer",
+      "clicks": 5,
+      "impressions": 41,
+      "ctr": 0.12195121951219512,
+      "position": 5.560975609756097
+    },
+    {
+      "query": "shawn collins lawyer",
+      "clicks": 5,
+      "impressions": 63,
+      "ctr": 0.07936507936507936,
+      "position": 1.619047619047619
+    },
+    {
+      "query": "trichloroethylene exposure lawsuit",
+      "clicks": 5,
+      "impressions": 519,
+      "ctr": 0.009633911368015413,
+      "position": 14.965317919075144
+    },
+    {
+      "query": "what is mtbe",
+      "clicks": 5,
+      "impressions": 1086,
+      "ctr": 0.004604051565377533,
+      "position": 6.792817679558011
+    },
+    {
+      "query": "what should you do if you get bit by a dog",
+      "clicks": 5,
+      "impressions": 121,
+      "ctr": 0.04132231404958678,
+      "position": 11.272727272727273
+    },
+    {
+      "query": "anna sheridan attorney",
+      "clicks": 4,
+      "impressions": 28,
+      "ctr": 0.14285714285714285,
+      "position": 1.7857142857142856
+    },
+    {
+      "query": "banking lawyer",
+      "clicks": 4,
+      "impressions": 1586,
+      "ctr": 0.0025220680958385876,
+      "position": 54.56116015132409
+    },
+    {
+      "query": "best medical malpractice lawyers in illinois",
+      "clicks": 4,
+      "impressions": 480,
+      "ctr": 0.008333333333333333,
+      "position": 15.841666666666667
+    },
+    {
+      "query": "bubly ingredients",
+      "clicks": 4,
+      "impressions": 46,
+      "ctr": 0.08695652173913043,
+      "position": 3.108695652173913
+    },
+    {
+      "query": "burning incense side effects",
+      "clicks": 4,
+      "impressions": 121,
+      "ctr": 0.03305785123966942,
+      "position": 11.685950413223141
+    },
+    {
+      "query": "car accident lawyer",
+      "clicks": 4,
+      "impressions": 18291,
+      "ctr": 0.00021868678585096495,
+      "position": 49.27472527472528
+    },
+    {
+      "query": "chemtool class action",
+      "clicks": 4,
+      "impressions": 367,
+      "ctr": 0.010899182561307902,
+      "position": 4.62125340599455
+    },
+    {
+      "query": "chlormequat-free oats",
+      "clicks": 4,
+      "impressions": 203,
+      "ctr": 0.019704433497536946,
+      "position": 5.556650246305419
+    },
+    {
+      "query": "contract lawyer",
+      "clicks": 4,
+      "impressions": 8241,
+      "ctr": 0.00048537798810823927,
+      "position": 69.27618007523358
+    },
+    {
+      "query": "difference between pfa and pfoa",
+      "clicks": 4,
+      "impressions": 62,
+      "ctr": 0.06451612903225806,
+      "position": 2.306451612903226
+    },
+    {
+      "query": "discovery deposition vs trial deposition",
+      "clicks": 4,
+      "impressions": 76,
+      "ctr": 0.05263157894736842,
+      "position": 5.302631578947368
+    },
+    {
+      "query": "franchise lawyer",
+      "clicks": 4,
+      "impressions": 3411,
+      "ctr": 0.0011726766344180592,
+      "position": 63.01436528877162
+    },
+    {
+      "query": "how to prepare for an accident",
+      "clicks": 4,
+      "impressions": 900,
+      "ctr": 0.0044444444444444444,
+      "position": 6.956666666666667
+    },
+    {
+      "query": "is cheerleading dangerous",
+      "clicks": 4,
+      "impressions": 264,
+      "ctr": 0.015151515151515152,
+      "position": 7.367424242424242
+    },
+    {
+      "query": "is living near a landfill dangerous",
+      "clicks": 4,
+      "impressions": 55,
+      "ctr": 0.07272727272727272,
+      "position": 3.309090909090909
+    },
+    {
+      "query": "jeremy hylka",
+      "clicks": 4,
+      "impressions": 648,
+      "ctr": 0.006172839506172839,
+      "position": 8.131172839506172
+    },
+    {
+      "query": "oatmeal contamination",
+      "clicks": 4,
+      "impressions": 64,
+      "ctr": 0.0625,
+      "position": 3.953125
+    },
+    {
+      "query": "oatmeal toxins",
+      "clicks": 4,
+      "impressions": 73,
+      "ctr": 0.0547945205479452,
+      "position": 3.5753424657534247
+    },
+    {
+      "query": "oats chemicals",
+      "clicks": 4,
+      "impressions": 62,
+      "ctr": 0.06451612903225806,
+      "position": 3.5806451612903225
+    },
+    {
+      "query": "personal injury attorney naperville",
+      "clicks": 4,
+      "impressions": 1580,
+      "ctr": 0.002531645569620253,
+      "position": 7.713924050632912
+    },
+    {
+      "query": "pfas vs pfos vs pfoa",
+      "clicks": 4,
+      "impressions": 186,
+      "ctr": 0.021505376344086023,
+      "position": 4.591397849462366
+    },
+    {
+      "query": "trial deposition vs discovery deposition",
+      "clicks": 4,
+      "impressions": 94,
+      "ctr": 0.0425531914893617,
+      "position": 5.127659574468085
+    },
+    {
+      "query": "what is toluene used for",
+      "clicks": 4,
+      "impressions": 704,
+      "ctr": 0.005681818181818182,
+      "position": 8.647727272727273
+    },
+    {
+      "query": "what to do if a dog bites you",
+      "clicks": 4,
+      "impressions": 1449,
+      "ctr": 0.0027605244996549345,
+      "position": 17.964113181504487
+    },
+    {
+      "query": "breach of contract lawyers",
+      "clicks": 3,
+      "impressions": 1272,
+      "ctr": 0.0023584905660377358,
+      "position": 62.850628930817614
+    },
+    {
+      "query": "bubly pfas",
+      "clicks": 3,
+      "impressions": 326,
+      "ctr": 0.009202453987730062,
+      "position": 5.5030674846625764
+    },
+    {
+      "query": "chlormequat",
+      "clicks": 3,
+      "impressions": 717,
+      "ctr": 0.0041841004184100415,
+      "position": 23.119944211994422
+    },
+    {
+      "query": "chlormequat quaker oats",
+      "clicks": 3,
+      "impressions": 45,
+      "ctr": 0.06666666666666667,
+      "position": 5.8
+    },
+    {
+      "query": "dawidiuk",
+      "clicks": 3,
+      "impressions": 17,
+      "ctr": 0.17647058823529413,
+      "position": 15.058823529411764
+    },
+    {
+      "query": "does bubly have pfas",
+      "clicks": 3,
+      "impressions": 320,
+      "ctr": 0.009375,
+      "position": 2.865625
+    },
+    {
+      "query": "does spindrift have pfas",
+      "clicks": 3,
+      "impressions": 375,
+      "ctr": 0.008,
+      "position": 4.906666666666666
+    },
+    {
+      "query": "dog bite",
+      "clicks": 3,
+      "impressions": 1829,
+      "ctr": 0.0016402405686167304,
+      "position": 85.82558775287042
+    },
+    {
+      "query": "dog bite what to do",
+      "clicks": 3,
+      "impressions": 49,
+      "ctr": 0.061224489795918366,
+      "position": 58.06122448979592
+    },
+    {
+      "query": "encens femme enceinte",
+      "clicks": 3,
+      "impressions": 61,
+      "ctr": 0.04918032786885246,
+      "position": 2
+    },
+    {
+      "query": "financial lawyers near me free consultation",
+      "clicks": 3,
+      "impressions": 19,
+      "ctr": 0.15789473684210525,
+      "position": 7.421052631578948
+    },
+    {
+      "query": "how far away from a landfill is safe",
+      "clicks": 3,
+      "impressions": 17,
+      "ctr": 0.17647058823529413,
+      "position": 9
+    },
+    {
+      "query": "how to prepare for a car accident before",
+      "clicks": 3,
+      "impressions": 178,
+      "ctr": 0.016853932584269662,
+      "position": 5.898876404494382
+    },
+    {
+      "query": "if a dog bites you what happens",
+      "clicks": 3,
+      "impressions": 149,
+      "ctr": 0.020134228187919462,
+      "position": 9.751677852348994
+    },
+    {
+      "query": "is it safe to live near an old landfill",
+      "clicks": 3,
+      "impressions": 69,
+      "ctr": 0.043478260869565216,
+      "position": 5.3478260869565215
+    },
+    {
+      "query": "is it safe to reuse plastic water bottles",
+      "clicks": 3,
+      "impressions": 89,
+      "ctr": 0.033707865168539325,
+      "position": 40.02247191011236
+    },
+    {
+      "query": "koppers cicero",
+      "clicks": 3,
+      "impressions": 120,
+      "ctr": 0.025,
+      "position": 8.708333333333332
+    },
+    {
+      "query": "law firm",
+      "clicks": 3,
+      "impressions": 1008,
+      "ctr": 0.002976190476190476,
+      "position": 63.49305555555556
+    },
+    {
+      "query": "malpractice lawyer",
+      "clicks": 3,
+      "impressions": 7389,
+      "ctr": 0.0004060089321965083,
+      "position": 62.35918256868318
+    },
+    {
+      "query": "medical malpractice lawyer",
+      "clicks": 3,
+      "impressions": 30411,
+      "ctr": 0.00009864851533984413,
+      "position": 64.94544737101707
+    },
+    {
+      "query": "naperville car accident 75th street today",
+      "clicks": 3,
+      "impressions": 172,
+      "ctr": 0.01744186046511628,
+      "position": 8.866279069767442
+    },
+    {
+      "query": "norman berger",
+      "clicks": 3,
+      "impressions": 129,
+      "ctr": 0.023255813953488372,
+      "position": 2.2325581395348837
+    },
+    {
+      "query": "oat contamination",
+      "clicks": 3,
+      "impressions": 6,
+      "ctr": 0.5,
+      "position": 4.333333333333334
+    },
+    {
+      "query": "oatmeal toxic",
+      "clicks": 3,
+      "impressions": 89,
+      "ctr": 0.033707865168539325,
+      "position": 2.1235955056179776
+    },
+    {
+      "query": "pfas and pfos",
+      "clicks": 3,
+      "impressions": 204,
+      "ctr": 0.014705882352941176,
+      "position": 16.82843137254902
+    },
+    {
+      "query": "pfas bubly",
+      "clicks": 3,
+      "impressions": 43,
+      "ctr": 0.06976744186046512,
+      "position": 4.976744186046512
+    },
+    {
+      "query": "pfas pfoa difference",
+      "clicks": 3,
+      "impressions": 47,
+      "ctr": 0.06382978723404255,
+      "position": 3.5531914893617023
+    },
+    {
+      "query": "pfas pfos",
+      "clicks": 3,
+      "impressions": 134,
+      "ctr": 0.022388059701492536,
+      "position": 48.12686567164179
+    },
+    {
+      "query": "pfoa and pfas difference",
+      "clicks": 3,
+      "impressions": 117,
+      "ctr": 0.02564102564102564,
+      "position": 3.6923076923076925
+    },
+    {
+      "query": "pfoa pfas",
+      "clicks": 3,
+      "impressions": 297,
+      "ctr": 0.010101010101010102,
+      "position": 19.25925925925926
+    },
+    {
+      "query": "pfoa pfos pfas",
+      "clicks": 3,
+      "impressions": 39,
+      "ctr": 0.07692307692307693,
+      "position": 11.487179487179487
+    },
+    {
+      "query": "pfos vs pfoa",
+      "clicks": 3,
+      "impressions": 275,
+      "ctr": 0.01090909090909091,
+      "position": 7.621818181818182
+    },
+    {
+      "query": "spindrift",
+      "clicks": 3,
+      "impressions": 32,
+      "ctr": 0.09375,
+      "position": 9.09375
+    },
+    {
+      "query": "symptoms of a dog bite",
+      "clicks": 3,
+      "impressions": 112,
+      "ctr": 0.026785714285714284,
+      "position": 10.0625
+    },
+    {
+      "query": "tce lawyer",
+      "clicks": 3,
+      "impressions": 301,
+      "ctr": 0.009966777408637873,
+      "position": 12.794019933554818
+    },
+    {
+      "query": "the collins firm",
+      "clicks": 3,
+      "impressions": 55,
+      "ctr": 0.05454545454545454,
+      "position": 10.327272727272728
+    },
+    {
+      "query": "timothy collins attorney",
+      "clicks": 3,
+      "impressions": 19,
+      "ctr": 0.15789473684210525,
+      "position": 6.421052631578948
+    },
+    {
+      "query": "toxins in oats",
+      "clicks": 3,
+      "impressions": 62,
+      "ctr": 0.04838709677419355,
+      "position": 4.161290322580645
+    },
+    {
+      "query": "uninsured car accident lawyer",
+      "clicks": 3,
+      "impressions": 529,
+      "ctr": 0.005671077504725898,
+      "position": 80.68241965973534
+    },
+    {
+      "query": "weihrauch schwangerschaft",
+      "clicks": 3,
+      "impressions": 64,
+      "ctr": 0.046875,
+      "position": 2
+    },
+    {
+      "query": "what happens if you get bit by a dog",
+      "clicks": 3,
+      "impressions": 397,
+      "ctr": 0.007556675062972292,
+      "position": 5.513853904282116
+    },
+    {
+      "query": "what happens when a dog bites you",
+      "clicks": 3,
+      "impressions": 491,
+      "ctr": 0.006109979633401222,
+      "position": 8.45010183299389
+    },
+    {
+      "query": "what to do when you get bit by a dog",
+      "clicks": 3,
+      "impressions": 363,
+      "ctr": 0.008264462809917356,
+      "position": 10.15702479338843
+    },
+    {
+      "query": "735 ilcs 5/2-1006",
+      "clicks": 2,
+      "impressions": 141,
+      "ctr": 0.014184397163120567,
+      "position": 8.560283687943262
+    },
+    {
+      "query": "accident attorney",
+      "clicks": 2,
+      "impressions": 530,
+      "ctr": 0.0037735849056603774,
+      "position": 19.3
+    },
+    {
+      "query": "are oats poisonous",
+      "clicks": 2,
+      "impressions": 39,
+      "ctr": 0.05128205128205128,
+      "position": 4.871794871794872
+    },
+    {
+      "query": "are pfas and pfoa the same",
+      "clicks": 2,
+      "impressions": 76,
+      "ctr": 0.02631578947368421,
+      "position": 4.539473684210526
+    },
+    {
+      "query": "aurora car accident lawyer",
+      "clicks": 2,
+      "impressions": 2375,
+      "ctr": 0.0008421052631578948,
+      "position": 34.54063157894737
+    },
+    {
+      "query": "auto accident lawyer",
+      "clicks": 2,
+      "impressions": 2007,
+      "ctr": 0.000996512207274539,
+      "position": 36.34828101644245
+    },
+    {
+      "query": "best medical malpractice lawyers near me",
+      "clicks": 2,
+      "impressions": 1609,
+      "ctr": 0.001243008079552517,
+      "position": 41.80236171535115
+    },
+    {
+      "query": "biolab class action lawsuit",
+      "clicks": 2,
+      "impressions": 347,
+      "ctr": 0.005763688760806916,
+      "position": 10.512968299711815
+    },
+    {
+      "query": "biolab conyers lawsuit",
+      "clicks": 2,
+      "impressions": 32,
+      "ctr": 0.0625,
+      "position": 9.0625
+    },
+    {
+      "query": "book road accident naperville",
+      "clicks": 2,
+      "impressions": 15,
+      "ctr": 0.13333333333333333,
+      "position": 10.933333333333334
+    },
+    {
+      "query": "breach of contract attorney",
+      "clicks": 2,
+      "impressions": 3989,
+      "ctr": 0.000501378791677112,
+      "position": 58.15266984206568
+    },
+    {
+      "query": "burning incense outside",
+      "clicks": 2,
+      "impressions": 46,
+      "ctr": 0.043478260869565216,
+      "position": 7.913043478260869
+    },
+    {
+      "query": "business lawyer",
+      "clicks": 2,
+      "impressions": 660,
+      "ctr": 0.0030303030303030303,
+      "position": 19.074242424242424
+    },
+    {
+      "query": "car accident lawyer aurora in",
+      "clicks": 2,
+      "impressions": 84,
+      "ctr": 0.023809523809523808,
+      "position": 4.404761904761905
+    },
+    {
+      "query": "car accident lawyer naperville il",
+      "clicks": 2,
+      "impressions": 854,
+      "ctr": 0.00234192037470726,
+      "position": 3.0772833723653394
+    },
+    {
+      "query": "chemical in oatmeal",
+      "clicks": 2,
+      "impressions": 472,
+      "ctr": 0.00423728813559322,
+      "position": 4.1440677966101696
+    },
+    {
+      "query": "chemtool class action map",
+      "clicks": 2,
+      "impressions": 158,
+      "ctr": 0.012658227848101266,
+      "position": 6.594936708860759
+    },
+    {
+      "query": "chemtool fire lawsuit",
+      "clicks": 2,
+      "impressions": 211,
+      "ctr": 0.009478672985781991,
+      "position": 3.748815165876777
+    },
+    {
+      "query": "chemtool lawsuit update",
+      "clicks": 2,
+      "impressions": 97,
+      "ctr": 0.020618556701030927,
+      "position": 7.639175257731959
+    },
+    {
+      "query": "chemtool settlement update",
+      "clicks": 2,
+      "impressions": 53,
+      "ctr": 0.03773584905660377,
+      "position": 10.962264150943396
+    },
+    {
+      "query": "chlormequat oats",
+      "clicks": 2,
+      "impressions": 43,
+      "ctr": 0.046511627906976744,
+      "position": 5.348837209302325
+    },
+    {
+      "query": "cicero cancer",
+      "clicks": 2,
+      "impressions": 11,
+      "ctr": 0.18181818181818182,
+      "position": 3.8181818181818183
+    },
+    {
+      "query": "civil rights attorney",
+      "clicks": 2,
+      "impressions": 74,
+      "ctr": 0.02702702702702703,
+      "position": 6.013513513513513
+    },
+    {
+      "query": "commercial accident lawyer",
+      "clicks": 2,
+      "impressions": 221,
+      "ctr": 0.00904977375565611,
+      "position": 68.97285067873302
+    },
+    {
+      "query": "contract dispute attorney",
+      "clicks": 2,
+      "impressions": 582,
+      "ctr": 0.003436426116838488,
+      "position": 86.50171821305842
+    },
+    {
+      "query": "contract dispute lawyers",
+      "clicks": 2,
+      "impressions": 178,
+      "ctr": 0.011235955056179775,
+      "position": 66.17977528089888
+    },
+    {
+      "query": "dangerous intersections in illinois",
+      "clicks": 2,
+      "impressions": 15,
+      "ctr": 0.13333333333333333,
+      "position": 1.9333333333333333
+    },
+    {
+      "query": "difference between pfas and pfos",
+      "clicks": 2,
+      "impressions": 128,
+      "ctr": 0.015625,
+      "position": 5.4296875
+    },
+    {
+      "query": "disability abuse lawyer",
+      "clicks": 2,
+      "impressions": 187,
+      "ctr": 0.0106951871657754,
+      "position": 12.641711229946525
+    },
+    {
+      "query": "discovery deposition",
+      "clicks": 2,
+      "impressions": 209,
+      "ctr": 0.009569377990430622,
+      "position": 8.502392344497608
+    },
+    {
+      "query": "distracted driving accident attorney",
+      "clicks": 2,
+      "impressions": 1782,
+      "ctr": 0.001122334455667789,
+      "position": 52.15881032547699
+    },
+    {
+      "query": "does bubly have chemicals",
+      "clicks": 2,
+      "impressions": 40,
+      "ctr": 0.05,
+      "position": 3.55
+    },
+    {
+      "query": "does la croix have pfas",
+      "clicks": 2,
+      "impressions": 139,
+      "ctr": 0.014388489208633094,
+      "position": 2.79136690647482
+    },
+    {
+      "query": "does pellegrino have pfas",
+      "clicks": 2,
+      "impressions": 199,
+      "ctr": 0.010050251256281407,
+      "position": 4.909547738693467
+    },
+    {
+      "query": "dog bite law illinois",
+      "clicks": 2,
+      "impressions": 26,
+      "ctr": 0.07692307692307693,
+      "position": 11.73076923076923
+    },
+    {
+      "query": "elements of breach of contract illinois",
+      "clicks": 2,
+      "impressions": 7,
+      "ctr": 0.2857142857142857,
+      "position": 1
+    },
+    {
+      "query": "epa attorney near me",
+      "clicks": 2,
+      "impressions": 6,
+      "ctr": 0.3333333333333333,
+      "position": 11.166666666666666
+    },
+    {
+      "query": "formaldehyde in air fresheners",
+      "clicks": 2,
+      "impressions": 114,
+      "ctr": 0.017543859649122806,
+      "position": 4.192982456140351
+    },
+    {
+      "query": "franchise attorney illinois",
+      "clicks": 2,
+      "impressions": 99,
+      "ctr": 0.020202020202020204,
+      "position": 7.757575757575758
+    },
+    {
+      "query": "franchise attorney near me",
+      "clicks": 2,
+      "impressions": 259,
+      "ctr": 0.007722007722007722,
+      "position": 38.01930501930502
+    },
+    {
+      "query": "franchise lawyer near me",
+      "clicks": 2,
+      "impressions": 1126,
+      "ctr": 0.0017761989342806395,
+      "position": 42.19449378330373
+    },
+    {
+      "query": "franchise lawyers",
+      "clicks": 2,
+      "impressions": 456,
+      "ctr": 0.0043859649122807015,
+      "position": 58.5921052631579
+    },
+    {
+      "query": "hearing loss from airbag deployment",
+      "clicks": 2,
+      "impressions": 66,
+      "ctr": 0.030303030303030304,
+      "position": 6.833333333333333
+    },
+    {
+      "query": "how does it feel when a dog bites you",
+      "clicks": 2,
+      "impressions": 43,
+      "ctr": 0.046511627906976744,
+      "position": 2.0930232558139537
+    },
+    {
+      "query": "how loud are airbags",
+      "clicks": 2,
+      "impressions": 93,
+      "ctr": 0.021505376344086023,
+      "position": 5.21505376344086
+    },
+    {
+      "query": "how loud is an airbag",
+      "clicks": 2,
+      "impressions": 66,
+      "ctr": 0.030303030303030304,
+      "position": 5.257575757575758
+    },
+    {
+      "query": "illinois breach of contract elements",
+      "clicks": 2,
+      "impressions": 56,
+      "ctr": 0.03571428571428571,
+      "position": 2.892857142857143
+    },
+    {
+      "query": "illinois wrongful death damages",
+      "clicks": 2,
+      "impressions": 10,
+      "ctr": 0.2,
+      "position": 16.3
+    },
+    {
+      "query": "is burning incense bad for you",
+      "clicks": 2,
+      "impressions": 394,
+      "ctr": 0.005076142131979695,
+      "position": 15.761421319796954
+    },
+    {
+      "query": "is cheer dangerous",
+      "clicks": 2,
+      "impressions": 121,
+      "ctr": 0.01652892561983471,
+      "position": 7.87603305785124
+    },
+    {
+      "query": "is chlormequat in organic oats",
+      "clicks": 2,
+      "impressions": 38,
+      "ctr": 0.05263157894736842,
+      "position": 5.2105263157894735
+    },
+    {
+      "query": "is it safe to live near a closed landfill",
+      "clicks": 2,
+      "impressions": 33,
+      "ctr": 0.06060606060606061,
+      "position": 5.848484848484849
+    },
+    {
+      "query": "is le creuset toughened non stick safe",
+      "clicks": 2,
+      "impressions": 2,
+      "ctr": 1,
+      "position": 2.5
+    },
+    {
+      "query": "is pfoa and pfas the same thing",
+      "clicks": 2,
+      "impressions": 109,
+      "ctr": 0.01834862385321101,
+      "position": 3.229357798165138
+    },
+    {
+      "query": "johnson and johnson sunscreen recall refund",
+      "clicks": 2,
+      "impressions": 15,
+      "ctr": 0.13333333333333333,
+      "position": 8.8
+    },
+    {
+      "query": "koppers coal tar factory",
+      "clicks": 2,
+      "impressions": 9,
+      "ctr": 0.2222222222222222,
+      "position": 7.333333333333333
+    },
+    {
+      "query": "koppers inc cicero",
+      "clicks": 2,
+      "impressions": 86,
+      "ctr": 0.023255813953488372,
+      "position": 8.802325581395348
+    },
+    {
+      "query": "landfill",
+      "clicks": 2,
+      "impressions": 41,
+      "ctr": 0.04878048780487805,
+      "position": 2.1707317073170733
+    },
+    {
+      "query": "law firms in naperville",
+      "clicks": 2,
+      "impressions": 32,
+      "ctr": 0.0625,
+      "position": 1.03125
+    },
+    {
+      "query": "law firms near me",
+      "clicks": 2,
+      "impressions": 53,
+      "ctr": 0.03773584905660377,
+      "position": 7.320754716981132
+    },
+    {
+      "query": "lawyers that sue trucking companies",
+      "clicks": 2,
+      "impressions": 65,
+      "ctr": 0.03076923076923077,
+      "position": 45.13846153846154
+    },
+    {
+      "query": "leonard hudson",
+      "clicks": 2,
+      "impressions": 118,
+      "ctr": 0.01694915254237288,
+      "position": 4.372881355932203
+    },
+    {
+      "query": "living near landfill",
+      "clicks": 2,
+      "impressions": 27,
+      "ctr": 0.07407407407407407,
+      "position": 11.814814814814815
+    },
+    {
+      "query": "living next to a landfill",
+      "clicks": 2,
+      "impressions": 20,
+      "ctr": 0.1,
+      "position": 8.7
+    },
+    {
+      "query": "most dangerous intersections in illinois",
+      "clicks": 2,
+      "impressions": 22,
+      "ctr": 0.09090909090909091,
+      "position": 3.3636363636363638
+    },
+    {
+      "query": "naperville law firms",
+      "clicks": 2,
+      "impressions": 390,
+      "ctr": 0.005128205128205128,
+      "position": 4.105128205128205
+    },
+    {
+      "query": "oats toxic",
+      "clicks": 2,
+      "impressions": 46,
+      "ctr": 0.043478260869565216,
+      "position": 3.1956521739130435
+    },
+    {
+      "query": "pfas vs pfoa vs pfos",
+      "clicks": 2,
+      "impressions": 65,
+      "ctr": 0.03076923076923077,
+      "position": 2.7846153846153845
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:21:55.077Z"
 }

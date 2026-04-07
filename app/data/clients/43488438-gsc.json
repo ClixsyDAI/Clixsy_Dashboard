@@ -1,156 +1,16 @@
 {
   "property": "sc-domain:creggerplumbing.com",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 1784,
-    "impressions": 919645,
-    "ctr": 0.0019398789750392814,
-    "position": 23.636948419178538
+    "clicks": 1876,
+    "impressions": 967989,
+    "ctr": 0.0019380385520909845,
+    "position": 22.5545691538048
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 32,
-      "impressions": 12056,
-      "ctr": 0.0026542800265428003,
-      "position": 17.982000663570005
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 14,
-      "impressions": 7296,
-      "ctr": 0.001918859649122807,
-      "position": 21.830043859649123
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 26,
-      "impressions": 9082,
-      "ctr": 0.0028628055494384495,
-      "position": 26.370072671217795
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 11,
-      "impressions": 11301,
-      "ctr": 0.0009733651889213344,
-      "position": 31.506061410494645
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 15,
-      "impressions": 7615,
-      "ctr": 0.001969796454366382,
-      "position": 27.872357189757057
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 14,
-      "impressions": 9080,
-      "ctr": 0.0015418502202643172,
-      "position": 27.241960352422907
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 10,
-      "impressions": 6934,
-      "ctr": 0.001442169022209403,
-      "position": 22.345687914623593
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 30,
-      "impressions": 7074,
-      "ctr": 0.004240882103477523,
-      "position": 22.764913768730562
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 12,
-      "impressions": 7739,
-      "ctr": 0.0015505879312572683,
-      "position": 22.385062669595555
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 14,
-      "impressions": 6616,
-      "ctr": 0.002116082224909311,
-      "position": 25.11517533252721
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 10,
-      "impressions": 5825,
-      "ctr": 0.0017167381974248926,
-      "position": 24.235708154506437
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 14,
-      "impressions": 6918,
-      "ctr": 0.002023706273489448,
-      "position": 26.265683723619542
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 14,
-      "impressions": 5843,
-      "ctr": 0.002396029436933082,
-      "position": 21.3446859489988
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 10,
-      "impressions": 7171,
-      "ctr": 0.0013945056477478734,
-      "position": 20.454887742295355
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 27,
-      "impressions": 6465,
-      "ctr": 0.004176334106728539,
-      "position": 22.554524361948957
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 29,
-      "impressions": 7604,
-      "ctr": 0.0038137822198842713,
-      "position": 21.028274592319832
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 11,
-      "impressions": 10433,
-      "ctr": 0.001054346784242308,
-      "position": 26.644972682833316
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 15,
-      "impressions": 11339,
-      "ctr": 0.001322867977775818,
-      "position": 34.61539818326131
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 25,
-      "impressions": 6160,
-      "ctr": 0.004058441558441558,
-      "position": 23.586850649350648
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 16,
-      "impressions": 5455,
-      "ctr": 0.002933088909257562,
-      "position": 24.06287809349221
-    },
     {
       "date": "2026-01-04",
       "clicks": 6,
@@ -640,253 +500,400 @@
       "impressions": 5754,
       "ctr": 0.0033020507473062216,
       "position": 16.91119221411192
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 8,
+      "impressions": 6145,
+      "ctr": 0.0013018714401952806,
+      "position": 17.896826688364524
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 27,
+      "impressions": 10001,
+      "ctr": 0.0026997300269973002,
+      "position": 12.33996600339966
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 20,
+      "impressions": 7324,
+      "ctr": 0.002730748225013654,
+      "position": 18.279628618241397
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 23,
+      "impressions": 10013,
+      "ctr": 0.0022970138819534604,
+      "position": 21.746729251972436
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 36,
+      "impressions": 11209,
+      "ctr": 0.003211704880007137,
+      "position": 20.439914354536533
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 15,
+      "impressions": 8875,
+      "ctr": 0.0016901408450704226,
+      "position": 17.812169014084507
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 11,
+      "impressions": 9469,
+      "ctr": 0.0011616855000528038,
+      "position": 17.239624036329072
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 11,
+      "impressions": 9471,
+      "ctr": 0.0011614401858304297,
+      "position": 18.32879315806145
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 35,
+      "impressions": 8735,
+      "ctr": 0.004006868918145392,
+      "position": 19.23537492844877
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 23,
+      "impressions": 8879,
+      "ctr": 0.002590381799752224,
+      "position": 19.275143597251944
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 15,
+      "impressions": 22065,
+      "ctr": 0.0006798096532970768,
+      "position": 32.50373895309313
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 25,
+      "impressions": 10801,
+      "ctr": 0.002314600499953708,
+      "position": 26.882788630682345
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 26,
+      "impressions": 9534,
+      "ctr": 0.0027270820222362073,
+      "position": 19.950388084749317
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 8,
+      "impressions": 9426,
+      "ctr": 0.000848716316571186,
+      "position": 18.978463823467006
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 17,
+      "impressions": 9821,
+      "ctr": 0.0017309846247836268,
+      "position": 19.100498930862436
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 36,
+      "impressions": 9139,
+      "ctr": 0.003939161833898676,
+      "position": 19.071342597658386
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 24,
+      "impressions": 9334,
+      "ctr": 0.0025712449110777804,
+      "position": 18.209663595457467
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 23,
+      "impressions": 10235,
+      "ctr": 0.0022471910112359553,
+      "position": 18.695847581827064
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 22,
+      "impressions": 7942,
+      "ctr": 0.002770083102493075,
+      "position": 19.14920674892974
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 21,
+      "impressions": 8943,
+      "ctr": 0.0023482053002348204,
+      "position": 21.204629319020462
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 15,
+      "impressions": 8989,
+      "ctr": 0.0016687061964623428,
+      "position": 19.006897318945377
     }
   ],
   "topQueries": [
     {
       "query": "cregger plumbing",
-      "clicks": 589,
-      "impressions": 4303,
-      "ctr": 0.13688124564257495,
-      "position": 2.074134324889612
-    },
-    {
-      "query": "cregger plumbing, heating & cooling",
-      "clicks": 59,
-      "impressions": 1087,
-      "ctr": 0.05427782888684453,
-      "position": 1.0579576816927323
+      "clicks": 619,
+      "impressions": 4442,
+      "ctr": 0.13935164340387213,
+      "position": 2.0441242683475913
     },
     {
       "query": "cregger plumbing heating & cooling",
-      "clicks": 58,
-      "impressions": 438,
-      "ctr": 0.1324200913242009,
-      "position": 1.7831050228310503
+      "clicks": 64,
+      "impressions": 452,
+      "ctr": 0.1415929203539823,
+      "position": 2.037610619469026
+    },
+    {
+      "query": "cregger plumbing, heating & cooling",
+      "clicks": 64,
+      "impressions": 1081,
+      "ctr": 0.05920444033302498,
+      "position": 1.0675300647548567
     },
     {
       "query": "cregger",
-      "clicks": 52,
-      "impressions": 1991,
-      "ctr": 0.026117528879959818,
-      "position": 5.143144148669011
+      "clicks": 54,
+      "impressions": 1696,
+      "ctr": 0.031839622641509434,
+      "position": 4.77122641509434
     },
     {
       "query": "cregger heating and cooling",
-      "clicks": 32,
-      "impressions": 143,
-      "ctr": 0.22377622377622378,
-      "position": 1.2237762237762237
+      "clicks": 35,
+      "impressions": 138,
+      "ctr": 0.2536231884057971,
+      "position": 1.2608695652173914
     },
     {
       "query": "plumbers near me",
-      "clicks": 31,
-      "impressions": 1120,
-      "ctr": 0.027678571428571427,
-      "position": 10.45357142857143
+      "clicks": 28,
+      "impressions": 1054,
+      "ctr": 0.026565464895635674,
+      "position": 6.180265654648957
     },
     {
       "query": "cregger hvac",
       "clicks": 11,
-      "impressions": 272,
-      "ctr": 0.04044117647058824,
-      "position": 7.569852941176471
+      "impressions": 270,
+      "ctr": 0.040740740740740744,
+      "position": 7.874074074074074
+    },
+    {
+      "query": "plumbers detroit",
+      "clicks": 10,
+      "impressions": 372,
+      "ctr": 0.026881720430107527,
+      "position": 3.5268817204301075
+    },
+    {
+      "query": "creggar plumbing",
+      "clicks": 8,
+      "impressions": 69,
+      "ctr": 0.11594202898550725,
+      "position": 7.942028985507246
     },
     {
       "query": "cregger plumbing heating & cooling reviews",
-      "clicks": 11,
-      "impressions": 1142,
-      "ctr": 0.009632224168126095,
-      "position": 2.6497373029772326
-    },
-    {
-      "query": "boiler repair detroit",
-      "clicks": 7,
-      "impressions": 418,
-      "ctr": 0.01674641148325359,
-      "position": 7.270334928229665
+      "clicks": 8,
+      "impressions": 1221,
+      "ctr": 0.006552006552006552,
+      "position": 2.2579852579852577
     },
     {
       "query": "plumber near me",
       "clicks": 7,
-      "impressions": 2456,
-      "ctr": 0.0028501628664495114,
-      "position": 11.488192182410424
+      "impressions": 2091,
+      "ctr": 0.003347680535628886,
+      "position": 8.647537063605931
     },
     {
-      "query": "creggar plumbing",
+      "query": "boiler repair detroit",
       "clicks": 6,
-      "impressions": 64,
-      "ctr": 0.09375,
-      "position": 9.46875
-    },
-    {
-      "query": "plumber",
-      "clicks": 6,
-      "impressions": 5657,
-      "ctr": 0.0010606328442637441,
-      "position": 6.910553296800424
+      "impressions": 335,
+      "ctr": 0.01791044776119403,
+      "position": 7.441791044776119
     },
     {
       "query": "plumbers",
       "clicks": 6,
-      "impressions": 1699,
-      "ctr": 0.003531489111241907,
-      "position": 15.360211889346674
-    },
-    {
-      "query": "plumbers detroit",
-      "clicks": 6,
-      "impressions": 396,
-      "ctr": 0.015151515151515152,
-      "position": 4.320707070707071
+      "impressions": 1604,
+      "ctr": 0.003740648379052369,
+      "position": 18.26932668329177
     },
     {
       "query": "cregger company",
       "clicks": 5,
-      "impressions": 139,
-      "ctr": 0.03597122302158273,
-      "position": 14.820143884892087
+      "impressions": 150,
+      "ctr": 0.03333333333333333,
+      "position": 10.273333333333333
     },
     {
-      "query": "cregger plumbing, heating & cooling reviews",
+      "query": "plumber",
       "clicks": 5,
-      "impressions": 117,
-      "ctr": 0.042735042735042736,
-      "position": 2.2393162393162394
+      "impressions": 5003,
+      "ctr": 0.0009994003597841295,
+      "position": 7.250849490305817
     },
     {
       "query": "plumbing",
       "clicks": 5,
-      "impressions": 354,
-      "ctr": 0.014124293785310734,
-      "position": 9.646892655367232
-    },
-    {
-      "query": "plumbing companies near me",
-      "clicks": 5,
-      "impressions": 603,
-      "ctr": 0.008291873963515755,
-      "position": 7.39966832504146
+      "impressions": 301,
+      "ctr": 0.016611295681063124,
+      "position": 9.46843853820598
     },
     {
       "query": "creggar",
       "clicks": 4,
-      "impressions": 178,
-      "ctr": 0.02247191011235955,
-      "position": 4.837078651685394
+      "impressions": 154,
+      "ctr": 0.025974025974025976,
+      "position": 4.5064935064935066
+    },
+    {
+      "query": "cregger plumbing, heating & cooling reviews",
+      "clicks": 4,
+      "impressions": 76,
+      "ctr": 0.05263157894736842,
+      "position": 2.25
+    },
+    {
+      "query": "ferndale plumbers",
+      "clicks": 4,
+      "impressions": 57,
+      "ctr": 0.07017543859649122,
+      "position": 8.578947368421051
+    },
+    {
+      "query": "kreger plumbing",
+      "clicks": 4,
+      "impressions": 39,
+      "ctr": 0.10256410256410256,
+      "position": 2.871794871794872
     },
     {
       "query": "cregger plumbing ferndale",
       "clicks": 3,
-      "impressions": 40,
-      "ctr": 0.075,
-      "position": 4.65
+      "impressions": 34,
+      "ctr": 0.08823529411764706,
+      "position": 5.294117647058823
     },
     {
-      "query": "ferndale plumbers",
+      "query": "furnace installation",
       "clicks": 3,
-      "impressions": 54,
-      "ctr": 0.05555555555555555,
-      "position": 5.944444444444445
-    },
-    {
-      "query": "plumber detroit mi",
-      "clicks": 3,
-      "impressions": 217,
-      "ctr": 0.013824884792626729,
-      "position": 3.23963133640553
-    },
-    {
-      "query": "plumbers ferndale",
-      "clicks": 3,
-      "impressions": 72,
-      "ctr": 0.041666666666666664,
-      "position": 5.458333333333333
+      "impressions": 22324,
+      "ctr": 0.00013438451890342233,
+      "position": 60.051693244938186
     },
     {
       "query": "plumbers in detroit",
       "clicks": 3,
-      "impressions": 266,
-      "ctr": 0.011278195488721804,
-      "position": 6.898496240601504
+      "impressions": 234,
+      "ctr": 0.01282051282051282,
+      "position": 5.371794871794871
+    },
+    {
+      "query": "plumbers in detroit michigan",
+      "clicks": 3,
+      "impressions": 96,
+      "ctr": 0.03125,
+      "position": 2.833333333333333
     },
     {
       "query": "plumbers in michigan",
       "clicks": 3,
-      "impressions": 442,
-      "ctr": 0.006787330316742082,
-      "position": 14.203619909502262
+      "impressions": 468,
+      "ctr": 0.00641025641025641,
+      "position": 14.47008547008547
     },
     {
       "query": "plumbing companies in michigan",
       "clicks": 3,
-      "impressions": 180,
-      "ctr": 0.016666666666666666,
-      "position": 5.361111111111111
-    },
-    {
-      "query": "plumbing detroit",
-      "clicks": 3,
-      "impressions": 360,
-      "ctr": 0.008333333333333333,
-      "position": 7.011111111111111
-    },
-    {
-      "query": "plumbing near me",
-      "clicks": 3,
-      "impressions": 353,
-      "ctr": 0.0084985835694051,
-      "position": 10.43342776203966
+      "impressions": 167,
+      "ctr": 0.017964071856287425,
+      "position": 5.754491017964072
     },
     {
       "query": "boiler repair near me",
       "clicks": 2,
-      "impressions": 1667,
-      "ctr": 0.0011997600479904018,
-      "position": 12.07618476304739
+      "impressions": 1562,
+      "ctr": 0.0012804097311139564,
+      "position": 12.161331626120358
+    },
+    {
+      "query": "cregger electrical",
+      "clicks": 2,
+      "impressions": 22,
+      "ctr": 0.09090909090909091,
+      "position": 5.090909090909091
+    },
+    {
+      "query": "creggers",
+      "clicks": 2,
+      "impressions": 40,
+      "ctr": 0.05,
+      "position": 9.225
     },
     {
       "query": "creggor",
       "clicks": 2,
-      "impressions": 144,
-      "ctr": 0.013888888888888888,
-      "position": 4.881944444444445
-    },
-    {
-      "query": "detroit plumber",
-      "clicks": 2,
-      "impressions": 244,
-      "ctr": 0.00819672131147541,
-      "position": 4.614754098360656
+      "impressions": 130,
+      "ctr": 0.015384615384615385,
+      "position": 4.523076923076923
     },
     {
       "query": "detroit plumbers",
       "clicks": 2,
       "impressions": 204,
       "ctr": 0.00980392156862745,
-      "position": 6.8431372549019605
+      "position": 4.593137254901961
     },
     {
-      "query": "furnace installation",
+      "query": "emergency plumber near me",
       "clicks": 2,
-      "impressions": 27333,
-      "ctr": 0.00007317162404419567,
-      "position": 63.83024183221747
+      "impressions": 376,
+      "ctr": 0.005319148936170213,
+      "position": 8.111702127659575
+    },
+    {
+      "query": "ferndale plumber",
+      "clicks": 2,
+      "impressions": 31,
+      "ctr": 0.06451612903225806,
+      "position": 4.67741935483871
     },
     {
       "query": "furnace replacement",
       "clicks": 2,
-      "impressions": 3842,
-      "ctr": 0.0005205622071837585,
-      "position": 12.566111400312337
+      "impressions": 3960,
+      "ctr": 0.000505050505050505,
+      "position": 11.908080808080808
     },
     {
-      "query": "gregg plumbing",
+      "query": "gas line installation",
       "clicks": 2,
-      "impressions": 2,
-      "ctr": 1,
-      "position": 1
+      "impressions": 78,
+      "ctr": 0.02564102564102564,
+      "position": 2.1153846153846154
     },
     {
       "query": "heating and cooling birmingham mi",
@@ -896,6 +903,13 @@
       "position": 13.095238095238095
     },
     {
+      "query": "hvac company near me",
+      "clicks": 2,
+      "impressions": 51,
+      "ctr": 0.0392156862745098,
+      "position": 12.117647058823529
+    },
+    {
       "query": "install garbage disposal near me",
       "clicks": 2,
       "impressions": 2,
@@ -903,448 +917,2897 @@
       "position": 12.5
     },
     {
-      "query": "kreger plumbing",
-      "clicks": 2,
-      "impressions": 37,
-      "ctr": 0.05405405405405406,
-      "position": 3.1621621621621623
-    },
-    {
       "query": "plumber detroit",
       "clicks": 2,
-      "impressions": 1069,
-      "ctr": 0.0018709073900841909,
-      "position": 4.681945743685688
+      "impressions": 1151,
+      "ctr": 0.0017376194613379669,
+      "position": 3.630755864465682
     },
     {
-      "query": "plumber ferndale",
+      "query": "plumber detroit mi",
       "clicks": 2,
-      "impressions": 1015,
-      "ctr": 0.0019704433497536944,
-      "position": 5.994088669950739
-    },
-    {
-      "query": "plumber ferndale mi",
-      "clicks": 2,
-      "impressions": 190,
-      "ctr": 0.010526315789473684,
-      "position": 3.1157894736842104
-    },
-    {
-      "query": "plumber in detroit",
-      "clicks": 2,
-      "impressions": 148,
-      "ctr": 0.013513513513513514,
-      "position": 2.7905405405405403
+      "impressions": 278,
+      "ctr": 0.007194244604316547,
+      "position": 2.9100719424460433
     },
     {
       "query": "plumber in michigan",
       "clicks": 2,
-      "impressions": 129,
-      "ctr": 0.015503875968992248,
-      "position": 4.875968992248062
+      "impressions": 126,
+      "ctr": 0.015873015873015872,
+      "position": 5.301587301587301
     },
     {
-      "query": "plumbers in detroit michigan",
+      "query": "plumbers ferndale",
       "clicks": 2,
-      "impressions": 89,
-      "ctr": 0.02247191011235955,
-      "position": 2.966292134831461
+      "impressions": 69,
+      "ctr": 0.028985507246376812,
+      "position": 5.159420289855072
     },
     {
-      "query": "plumbing contractor in michigan",
+      "query": "plumbing companies near me",
       "clicks": 2,
-      "impressions": 6,
-      "ctr": 0.3333333333333333,
-      "position": 4
+      "impressions": 496,
+      "ctr": 0.004032258064516129,
+      "position": 6.774193548387097
     },
     {
       "query": "plumbing ferndale",
       "clicks": 2,
-      "impressions": 58,
-      "ctr": 0.034482758620689655,
-      "position": 2.9655172413793105
+      "impressions": 54,
+      "ctr": 0.037037037037037035,
+      "position": 3.1481481481481484
     },
     {
       "query": "plumbing heating and cooling",
       "clicks": 2,
-      "impressions": 44,
-      "ctr": 0.045454545454545456,
-      "position": 23.931818181818183
+      "impressions": 67,
+      "ctr": 0.029850746268656716,
+      "position": 33.40298507462686
     },
     {
       "query": "plumbing services near me",
       "clicks": 2,
-      "impressions": 2619,
-      "ctr": 0.0007636502481863307,
-      "position": 10.666284841542574
+      "impressions": 1676,
+      "ctr": 0.0011933174224343676,
+      "position": 9.493436754176612
+    },
+    {
+      "query": "water heater repair near me",
+      "clicks": 2,
+      "impressions": 31440,
+      "ctr": 0.00006361323155216285,
+      "position": 29.65340330788804
     },
     {
       "query": "water heater replacement near me",
       "clicks": 2,
-      "impressions": 9301,
-      "ctr": 0.00021503064186646596,
-      "position": 13.446081066551983
+      "impressions": 9163,
+      "ctr": 0.00021826912583215103,
+      "position": 12.678926115900905
     },
     {
       "query": "24 hour plumbers near me",
       "clicks": 1,
-      "impressions": 623,
-      "ctr": 0.0016051364365971107,
-      "position": 16.258426966292134
+      "impressions": 355,
+      "ctr": 0.0028169014084507044,
+      "position": 15.028169014084508
+    },
+    {
+      "query": "24hrs plumbing service",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "ac install",
+      "clicks": 1,
+      "impressions": 920,
+      "ctr": 0.0010869565217391304,
+      "position": 65.00434782608696
+    },
+    {
+      "query": "ac installation",
+      "clicks": 1,
+      "impressions": 8633,
+      "ctr": 0.00011583458820803892,
+      "position": 25.58311131703927
+    },
+    {
+      "query": "ac maintenance",
+      "clicks": 1,
+      "impressions": 668,
+      "ctr": 0.0014970059880239522,
+      "position": 20.026946107784433
+    },
+    {
+      "query": "ac repair",
+      "clicks": 1,
+      "impressions": 5755,
+      "ctr": 0.0001737619461337967,
+      "position": 13.529626411815812
+    },
+    {
+      "query": "ac repair in michigan",
+      "clicks": 1,
+      "impressions": 32,
+      "ctr": 0.03125,
+      "position": 10.90625
+    },
+    {
+      "query": "ac repair service",
+      "clicks": 1,
+      "impressions": 109,
+      "ctr": 0.009174311926605505,
+      "position": 24
+    },
+    {
+      "query": "aging pipes",
+      "clicks": 1,
+      "impressions": 64,
+      "ctr": 0.015625,
+      "position": 6.109375
+    },
+    {
+      "query": "backflow testing",
+      "clicks": 1,
+      "impressions": 569,
+      "ctr": 0.0017574692442882249,
+      "position": 9.44639718804921
+    },
+    {
+      "query": "best hvac companies near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 2.75
+    },
+    {
+      "query": "best local plumbers",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 1.75
+    },
+    {
+      "query": "best local plumbers near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 2.75
+    },
+    {
+      "query": "best plumbing company near me",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 3.857142857142857
+    },
+    {
+      "query": "best tankless water heater installers near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 4.5
+    },
+    {
+      "query": "bidet installers",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "boiler repair",
+      "clicks": 1,
+      "impressions": 6756,
+      "ctr": 0.00014801657785671994,
+      "position": 13.276494967436353
+    },
+    {
+      "query": "boiler service near me",
+      "clicks": 1,
+      "impressions": 761,
+      "ctr": 0.001314060446780552,
+      "position": 13.85676741130092
+    },
+    {
+      "query": "boiler specialist near me",
+      "clicks": 1,
+      "impressions": 48,
+      "ctr": 0.020833333333333332,
+      "position": 16.6875
+    },
+    {
+      "query": "boiler technician near me",
+      "clicks": 1,
+      "impressions": 111,
+      "ctr": 0.009009009009009009,
+      "position": 20.25225225225225
+    },
+    {
+      "query": "cheap plumbers near me",
+      "clicks": 1,
+      "impressions": 25,
+      "ctr": 0.04,
+      "position": 5.84
+    },
+    {
+      "query": "cheap sewer cleaning near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 18
+    },
+    {
+      "query": "cheapest plumber near me",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 6.875
+    },
+    {
+      "query": "commercial hvac and plumbing",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "commercial plumbing",
+      "clicks": 1,
+      "impressions": 58,
+      "ctr": 0.017241379310344827,
+      "position": 4.9655172413793105
+    },
+    {
+      "query": "commercial plumbing contractors michigan",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 18.181818181818183
+    },
+    {
+      "query": "cragar plumbing supply",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 4
+    },
+    {
+      "query": "crager heating and air",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 7.454545454545454
+    },
+    {
+      "query": "craig's plumbing & heating",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "creager company",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 9.714285714285714
+    },
+    {
+      "query": "creeger company",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 6.25
+    },
+    {
+      "query": "cregger plumbing heating & cooling photos",
+      "clicks": 1,
+      "impressions": 26,
+      "ctr": 0.038461538461538464,
+      "position": 1.5
+    },
+    {
+      "query": "cregger plumbing michigan",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 30.4
+    },
+    {
+      "query": "cregger plumbing reviews",
+      "clicks": 1,
+      "impressions": 63,
+      "ctr": 0.015873015873015872,
+      "position": 2.2857142857142856
+    },
+    {
+      "query": "cregger plumbing supply",
+      "clicks": 1,
+      "impressions": 62,
+      "ctr": 0.016129032258064516,
+      "position": 8.193548387096774
+    },
+    {
+      "query": "detroit hvac",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 2.791666666666667
+    },
+    {
+      "query": "detroit plumber",
+      "clicks": 1,
+      "impressions": 245,
+      "ctr": 0.004081632653061225,
+      "position": 5.575510204081633
+    },
+    {
+      "query": "does it matter what thermostat you use",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 3.3333333333333335
+    },
+    {
+      "query": "drain cleaning detroit",
+      "clicks": 1,
+      "impressions": 252,
+      "ctr": 0.003968253968253968,
+      "position": 14.186507936507937
+    },
+    {
+      "query": "drain cleaning detroit mi",
+      "clicks": 1,
+      "impressions": 140,
+      "ctr": 0.007142857142857143,
+      "position": 10.642857142857142
+    },
+    {
+      "query": "emergency boiler",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 6.833333333333333
+    },
+    {
+      "query": "emergency boiler repairs",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 5
+    },
+    {
+      "query": "emergency heating and cooling near me",
+      "clicks": 1,
+      "impressions": 15,
+      "ctr": 0.06666666666666667,
+      "position": 9.6
+    },
+    {
+      "query": "emergency water heater repair",
+      "clicks": 1,
+      "impressions": 133,
+      "ctr": 0.007518796992481203,
+      "position": 17.398496240601503
+    },
+    {
+      "query": "emergency water tank repair",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3
+    },
+    {
+      "query": "ferndale heat pump",
+      "clicks": 1,
+      "impressions": 84,
+      "ctr": 0.011904761904761904,
+      "position": 7.142857142857143
+    },
+    {
+      "query": "full home repipe",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "furnace repair",
+      "clicks": 1,
+      "impressions": 11509,
+      "ctr": 0.00008688852202624034,
+      "position": 38.27083152315579
+    },
+    {
+      "query": "furnace repair detroit",
+      "clicks": 1,
+      "impressions": 50,
+      "ctr": 0.02,
+      "position": 32.64
+    },
+    {
+      "query": "furnace repair ferndale mi",
+      "clicks": 1,
+      "impressions": 191,
+      "ctr": 0.005235602094240838,
+      "position": 9.549738219895287
+    },
+    {
+      "query": "heater repair",
+      "clicks": 1,
+      "impressions": 16734,
+      "ctr": 0.000059758575355563525,
+      "position": 32.445679455001795
+    },
+    {
+      "query": "heating & plumbing",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 6
+    },
+    {
+      "query": "heating and cooling companies near me",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 10
+    },
+    {
+      "query": "heating and cooling ferndale",
+      "clicks": 1,
+      "impressions": 144,
+      "ctr": 0.006944444444444444,
+      "position": 7.673611111111111
+    },
+    {
+      "query": "heating and cooling services near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 12
+    },
+    {
+      "query": "heating repairs",
+      "clicks": 1,
+      "impressions": 19,
+      "ctr": 0.05263157894736842,
+      "position": 21.894736842105264
+    },
+    {
+      "query": "hot water heater install near me",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 7
+    },
+    {
+      "query": "hot water heater repair detroit",
+      "clicks": 1,
+      "impressions": 115,
+      "ctr": 0.008695652173913044,
+      "position": 4.6173913043478265
+    },
+    {
+      "query": "hot water heater repair near me",
+      "clicks": 1,
+      "impressions": 11728,
+      "ctr": 0.00008526603001364257,
+      "position": 16.122527285129607
+    },
+    {
+      "query": "hot water heater replacement",
+      "clicks": 1,
+      "impressions": 3363,
+      "ctr": 0.0002973535533749628,
+      "position": 12.137972048765983
+    },
+    {
+      "query": "hot water heaters installed",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 4.666666666666666
+    },
+    {
+      "query": "hot water tank replacement",
+      "clicks": 1,
+      "impressions": 818,
+      "ctr": 0.0012224938875305623,
+      "position": 9.180929095354523
+    },
+    {
+      "query": "hvac and plumbing",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 11.076923076923077
+    },
+    {
+      "query": "hvac ferndale",
+      "clicks": 1,
+      "impressions": 106,
+      "ctr": 0.009433962264150943,
+      "position": 17.339622641509433
+    },
+    {
+      "query": "hvac michigan",
+      "clicks": 1,
+      "impressions": 70,
+      "ctr": 0.014285714285714285,
+      "position": 16.714285714285715
+    },
+    {
+      "query": "hvac near me",
+      "clicks": 1,
+      "impressions": 213,
+      "ctr": 0.004694835680751174,
+      "position": 3.6619718309859155
+    },
+    {
+      "query": "hvac.companies near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3
+    },
+    {
+      "query": "hydro jet drain cleaning",
+      "clicks": 1,
+      "impressions": 1941,
+      "ctr": 0.0005151983513652757,
+      "position": 61.352910870685214
+    },
+    {
+      "query": "hydro jetting",
+      "clicks": 1,
+      "impressions": 153844,
+      "ctr": 0.000006500091001274018,
+      "position": 28.817373443228206
+    },
+    {
+      "query": "hydro jetting cost near me",
+      "clicks": 1,
+      "impressions": 43,
+      "ctr": 0.023255813953488372,
+      "position": 11.093023255813954
+    },
+    {
+      "query": "hydro jetting near me",
+      "clicks": 1,
+      "impressions": 9153,
+      "ctr": 0.00010925379656943078,
+      "position": 10.369168578608107
+    },
+    {
+      "query": "hydrojet sewer line",
+      "clicks": 1,
+      "impressions": 29,
+      "ctr": 0.034482758620689655,
+      "position": 6.551724137931035
+    },
+    {
+      "query": "indoor air quality specialist near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "kregger",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 4.6
+    },
+    {
+      "query": "krieger mechanical",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 23
+    },
+    {
+      "query": "krueger plumbing",
+      "clicks": 1,
+      "impressions": 42,
+      "ctr": 0.023809523809523808,
+      "position": 15.928571428571429
+    },
+    {
+      "query": "leak detection near me",
+      "clicks": 1,
+      "impressions": 265,
+      "ctr": 0.0037735849056603774,
+      "position": 12.007547169811321
+    },
+    {
+      "query": "leak detection switch",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "licensed master plumbers near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "local plumber near me",
+      "clicks": 1,
+      "impressions": 28,
+      "ctr": 0.03571428571428571,
+      "position": 8.535714285714285
+    },
+    {
+      "query": "need new furnace",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 6.25
+    },
+    {
+      "query": "plumber cheap near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 5.666666666666667
+    },
+    {
+      "query": "plumber ferndale mi",
+      "clicks": 1,
+      "impressions": 177,
+      "ctr": 0.005649717514124294,
+      "position": 4.627118644067797
+    },
+    {
+      "query": "plumber in detroit",
+      "clicks": 1,
+      "impressions": 169,
+      "ctr": 0.005917159763313609,
+      "position": 2.4792899408284024
+    },
+    {
+      "query": "plumber near me free estimate",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 8.6875
+    },
+    {
+      "query": "plumber replace water heater",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 3
+    },
+    {
+      "query": "plumber royal oak",
+      "clicks": 1,
+      "impressions": 37,
+      "ctr": 0.02702702702702703,
+      "position": 3.27027027027027
+    },
+    {
+      "query": "plumber royal oak mi",
+      "clicks": 1,
+      "impressions": 34,
+      "ctr": 0.029411764705882353,
+      "position": 5.9411764705882355
+    },
+    {
+      "query": "plumber warren mi",
+      "clicks": 1,
+      "impressions": 22,
+      "ctr": 0.045454545454545456,
+      "position": 5.454545454545454
+    },
+    {
+      "query": "plumbers by me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 6
+    },
+    {
+      "query": "plumbers cheyenne wy",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "plumbers hazel park",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 6.333333333333333
+    },
+    {
+      "query": "plumbers in lansing michigan",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 21
+    },
+    {
+      "query": "plumbers livonia mi",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "plumbers who install gas lines",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 16.333333333333336
+    },
+    {
+      "query": "plumbing and water heater",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 12
+    },
+    {
+      "query": "plumbing business near me",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 9.5
+    },
+    {
+      "query": "plumbing companies detroit",
+      "clicks": 1,
+      "impressions": 36,
+      "ctr": 0.027777777777777776,
+      "position": 2.5
+    },
+    {
+      "query": "plumbing company near me",
+      "clicks": 1,
+      "impressions": 3526,
+      "ctr": 0.0002836074872376631,
+      "position": 10.082813386273397
+    },
+    {
+      "query": "plumbing detroit",
+      "clicks": 1,
+      "impressions": 358,
+      "ctr": 0.002793296089385475,
+      "position": 7.092178770949721
+    },
+    {
+      "query": "plumbing estimate",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 8
+    },
+    {
+      "query": "plumbing in michigan",
+      "clicks": 1,
+      "impressions": 91,
+      "ctr": 0.01098901098901099,
+      "position": 6.373626373626373
+    },
+    {
+      "query": "plumbing services detroit",
+      "clicks": 1,
+      "impressions": 37,
+      "ctr": 0.02702702702702703,
+      "position": 27
+    },
+    {
+      "query": "plumbing services in detroit",
+      "clicks": 1,
+      "impressions": 27,
+      "ctr": 0.037037037037037035,
+      "position": 1.1851851851851851
+    },
+    {
+      "query": "plumbing services royal oak mi",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2.333333333333333
+    },
+    {
+      "query": "plumbing website",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 4
+    },
+    {
+      "query": "replace thermostat",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 11
+    },
+    {
+      "query": "reputable plumbers near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 3.6666666666666665
+    },
+    {
+      "query": "residential boiler installers near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "residential plumbing companies near me",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 4.9
+    },
+    {
+      "query": "sewer jetting near me",
+      "clicks": 1,
+      "impressions": 27,
+      "ctr": 0.037037037037037035,
+      "position": 8.703703703703702
+    },
+    {
+      "query": "sewer line hydro jetting",
+      "clicks": 1,
+      "impressions": 70,
+      "ctr": 0.014285714285714285,
+      "position": 49.42857142857143
+    },
+    {
+      "query": "sewer line jetting near me",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 8
+    },
+    {
+      "query": "sewer line repair detroit",
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 54.7
+    },
+    {
+      "query": "sewer rooter near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "shower repair company",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 10.75
+    },
+    {
+      "query": "slab leak repair near me",
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 6.15
+    },
+    {
+      "query": "steam boiler maintenance near me",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 42.166666666666664
+    },
+    {
+      "query": "steam heat boiler repair",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 37.1875
+    },
+    {
+      "query": "sump pump companies near me",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 7.4
+    },
+    {
+      "query": "sump pump installation near me",
+      "clicks": 1,
+      "impressions": 120,
+      "ctr": 0.008333333333333333,
+      "position": 21.008333333333333
+    },
+    {
+      "query": "tankless water heater installation near me",
+      "clicks": 1,
+      "impressions": 2826,
+      "ctr": 0.00035385704175513094,
+      "position": 9.692852087756547
+    },
+    {
+      "query": "the best plumbers near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "toilet repair",
+      "clicks": 1,
+      "impressions": 229,
+      "ctr": 0.004366812227074236,
+      "position": 23.921397379912662
+    },
+    {
+      "query": "ugly toilet seat",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 9.25
+    },
+    {
+      "query": "ugly toilet seats",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 9.333333333333334
+    },
+    {
+      "query": "water heater",
+      "clicks": 1,
+      "impressions": 809,
+      "ctr": 0.0012360939431396785,
+      "position": 1.7861557478368355
+    },
+    {
+      "query": "water heater inspection near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2.5
+    },
+    {
+      "query": "water heater installation michigan",
+      "clicks": 1,
+      "impressions": 48,
+      "ctr": 0.020833333333333332,
+      "position": 8.5625
+    },
+    {
+      "query": "water heater repair companies",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 4.5
+    },
+    {
+      "query": "water heater repair near me within 5 mi",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 6.666666666666667
+    },
+    {
+      "query": "water heater replacement",
+      "clicks": 1,
+      "impressions": 5180,
+      "ctr": 0.00019305019305019305,
+      "position": 15.392857142857142
+    },
+    {
+      "query": "water softener installation near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 21
+    },
+    {
+      "query": "who installs gas lines",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 6.384615384615385
+    },
+    {
+      "query": "\"ac installation\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 36
+    },
+    {
+      "query": "\"air conditioning installation\"",
+      "clicks": 0,
+      "impressions": 7,
+      "ctr": 0,
+      "position": 36.57142857142857
+    },
+    {
+      "query": "\"air conditioning\" \"free estimate\" \"call us\" -site:facebook.com -site:yelp.com",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "\"drain cleaning\"",
+      "clicks": 0,
+      "impressions": 9,
+      "ctr": 0,
+      "position": 53.666666666666664
+    },
+    {
+      "query": "\"furnace installation\"",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 42.5
+    },
+    {
+      "query": "\"heating installation\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 51
+    },
+    {
+      "query": "\"heating repair\"",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 75
+    },
+    {
+      "query": "\"how to buy a thermostat",
+      "clicks": 0,
+      "impressions": 16,
+      "ctr": 0,
+      "position": 60.25
+    },
+    {
+      "query": "\"how to choose a thermostat",
+      "clicks": 0,
+      "impressions": 37,
+      "ctr": 0,
+      "position": 21.62162162162162
+    },
+    {
+      "query": "\"hydro jetting\"",
+      "clicks": 0,
+      "impressions": 35,
+      "ctr": 0,
+      "position": 17.285714285714285
+    },
+    {
+      "query": "\"obliterate\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 7
+    },
+    {
+      "query": "\"plumber service\"",
+      "clicks": 0,
+      "impressions": 4,
+      "ctr": 0,
+      "position": 90.75
+    },
+    {
+      "query": "\"plumbing services\"",
+      "clicks": 0,
+      "impressions": 1,
+      "ctr": 0,
+      "position": 2
+    },
+    {
+      "query": "\"repair drain\"",
+      "clicks": 0,
+      "impressions": 17,
+      "ctr": 0,
+      "position": 45.470588235294116
+    },
+    {
+      "query": "\"running toilet\"",
+      "clicks": 0,
+      "impressions": 11,
+      "ctr": 0,
+      "position": 21.09090909090909
+    },
+    {
+      "query": "\"shower repair\"",
+      "clicks": 0,
+      "impressions": 37,
+      "ctr": 0,
+      "position": 32.648648648648646
+    },
+    {
+      "query": "\"thermostat buying guide",
+      "clicks": 0,
+      "impressions": 18,
+      "ctr": 0,
+      "position": 66.72222222222223
+    },
+    {
+      "query": "\"urban company ac repair\" -site:reddit.com -site:twitter.com -site:x.com -site:wykop.pl -site:tripadvisor.com -site:youtube.com -site:yelp.com -site:booking.com -site:facebook.com -site:instagram.com -site:tiktok.com",
+      "clicks": 0,
+      "impressions": 2,
+      "ctr": 0,
+      "position": 7
     }
   ],
   "topPages": [
     {
       "page": "https://www.creggerplumbing.com/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*324*cregger-plumbing-ferndale",
-      "clicks": 791,
-      "impressions": 56677,
-      "ctr": 0.013956278560968293,
-      "position": 3.914462656809641
+      "clicks": 818,
+      "impressions": 63844,
+      "ctr": 0.012812480421026251,
+      "position": 3.6923438381053817
     },
     {
       "page": "https://www.creggerplumbing.com/",
-      "clicks": 541,
-      "impressions": 68763,
-      "ctr": 0.00786760321684627,
-      "position": 13.695068568852435
+      "clicks": 585,
+      "impressions": 52415,
+      "ctr": 0.011160927215491749,
+      "position": 13.063397882285605
     },
     {
       "page": "https://www.creggerplumbing.com/contact-us/",
-      "clicks": 59,
-      "impressions": 16655,
-      "ctr": 0.0035424797358150706,
-      "position": 8.611768237766437
+      "clicks": 55,
+      "impressions": 8993,
+      "ctr": 0.00611586789725342,
+      "position": 8.444456799733125
     },
     {
       "page": "https://www.creggerplumbing.com/about/",
-      "clicks": 36,
-      "impressions": 14344,
-      "ctr": 0.0025097601784718347,
-      "position": 6.525446179587284
+      "clicks": 38,
+      "impressions": 9461,
+      "ctr": 0.004016488743261812,
+      "position": 5.061727090159603
     },
     {
       "page": "https://www.creggerplumbing.com/plumbing/water-heaters/",
-      "clicks": 28,
-      "impressions": 129251,
-      "ctr": 0.00021663275332492593,
-      "position": 19.336709193739313
+      "clicks": 36,
+      "impressions": 136801,
+      "ctr": 0.00026315597108208274,
+      "position": 21.8509733115986
     },
     {
       "page": "https://www.creggerplumbing.com/plumbing/boiler-service/",
+      "clicks": 30,
+      "impressions": 29243,
+      "ctr": 0.0010258865369490134,
+      "position": 24.37742365694354
+    },
+    {
+      "page": "https://www.creggerplumbing.com/sewer-drain/hydro-jetting/",
       "clicks": 25,
-      "impressions": 32662,
-      "ctr": 0.0007654154675157676,
-      "position": 20.061631253444368
-    },
-    {
-      "page": "https://www.creggerplumbing.com/contact-us/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*324*cregger-plumbing-heating-cooling-ferndale",
-      "clicks": 24,
-      "impressions": 5577,
-      "ctr": 0.004303388918773534,
-      "position": 10.733369194907656
-    },
-    {
-      "page": "https://www.creggerplumbing.com/ferndale-hvac/",
-      "clicks": 24,
-      "impressions": 10783,
-      "ctr": 0.002225725679310025,
-      "position": 12.627654641565426
+      "impressions": 266222,
+      "ctr": 0.00009390658923755363,
+      "position": 25.302897581717513
     },
     {
       "page": "https://www.creggerplumbing.com/coupons/",
       "clicks": 22,
-      "impressions": 12271,
-      "ctr": 0.001792844918914514,
-      "position": 7.889169586830739
+      "impressions": 3977,
+      "ctr": 0.0055318078953985415,
+      "position": 6.626854412874025
     },
     {
-      "page": "https://www.creggerplumbing.com/plumbing/",
-      "clicks": 20,
-      "impressions": 12382,
-      "ctr": 0.0016152479405588758,
-      "position": 8.080843159424973
+      "page": "https://www.creggerplumbing.com/ferndale-hvac/",
+      "clicks": 21,
+      "impressions": 10758,
+      "ctr": 0.0019520356943669827,
+      "position": 12.21119167131437
     },
     {
-      "page": "https://www.creggerplumbing.com/sewer-drain/hydro-jetting/",
-      "clicks": 18,
-      "impressions": 227198,
-      "ctr": 0.00007922604952508385,
-      "position": 26.87633253813854
+      "page": "https://www.creggerplumbing.com/sewer-drain/",
+      "clicks": 21,
+      "impressions": 149249,
+      "ctr": 0.0001407044603313925,
+      "position": 26.953299519594772
     },
     {
       "page": "https://www.creggerplumbing.com/reviews/",
+      "clicks": 18,
+      "impressions": 3904,
+      "ctr": 0.004610655737704918,
+      "position": 3.4920594262295084
+    },
+    {
+      "page": "https://www.creggerplumbing.com/contact-us/?utm_source=google-gbp&utm_medium=organic&utm_campaign=*324*cregger-plumbing-heating-cooling-ferndale",
       "clicks": 17,
-      "impressions": 10948,
-      "ctr": 0.0015527950310559005,
-      "position": 7.141943734015345
+      "impressions": 5103,
+      "ctr": 0.003331373701744072,
+      "position": 11.033901626494218
+    },
+    {
+      "page": "https://www.creggerplumbing.com/plumbing/",
+      "clicks": 15,
+      "impressions": 5440,
+      "ctr": 0.0027573529411764708,
+      "position": 6.887316176470589
     },
     {
       "page": "https://www.creggerplumbing.com/plumbing/gas-line-plumbing/",
       "clicks": 14,
-      "impressions": 6677,
-      "ctr": 0.002096750037441965,
-      "position": 11.113374269881684
-    },
-    {
-      "page": "https://www.creggerplumbing.com/sewer-drain/",
-      "clicks": 14,
-      "impressions": 121733,
-      "ctr": 0.00011500579136306507,
-      "position": 28.760040416320965
+      "impressions": 3682,
+      "ctr": 0.0038022813688212928,
+      "position": 14.115154807170017
     },
     {
       "page": "https://www.creggerplumbing.com/plumbing/water-line-services/",
       "clicks": 12,
-      "impressions": 2829,
-      "ctr": 0.0042417815482502655,
-      "position": 23.80593849416755
+      "impressions": 2370,
+      "ctr": 0.005063291139240506,
+      "position": 29.733333333333334
     },
     {
-      "page": "http://www.creggerplumbing.com/about/membership/",
-      "clicks": 10,
-      "impressions": 512,
-      "ctr": 0.01953125,
-      "position": 7.3203125
+      "page": "https://www.creggerplumbing.com/plumbing/leak-detection-repair/",
+      "clicks": 11,
+      "impressions": 7965,
+      "ctr": 0.0013810420590081606,
+      "position": 29.587319522912743
     },
     {
       "page": "https://www.creggerplumbing.com/blog/the-impact-of-aging-pipes-on-your-homes-plumbing/",
       "clicks": 10,
-      "impressions": 3645,
-      "ctr": 0.0027434842249657062,
-      "position": 7.082030178326475
+      "impressions": 4292,
+      "ctr": 0.002329916123019571,
+      "position": 6.62977632805219
     },
     {
       "page": "https://www.creggerplumbing.com/ferndale-hvac/heating-repair/",
+      "clicks": 10,
+      "impressions": 2881,
+      "ctr": 0.003471017007983339,
+      "position": 26.967025338424158
+    },
+    {
+      "page": "http://www.creggerplumbing.com/about/membership/",
       "clicks": 9,
-      "impressions": 2615,
-      "ctr": 0.0034416826003824093,
-      "position": 25.354875717017208
+      "impressions": 624,
+      "ctr": 0.014423076923076924,
+      "position": 5.55448717948718
     },
     {
       "page": "https://www.creggerplumbing.com/indoor-air-quality/",
-      "clicks": 9,
-      "impressions": 3523,
-      "ctr": 0.002554640931024695,
-      "position": 18.581890434288958
+      "clicks": 8,
+      "impressions": 3159,
+      "ctr": 0.0025324469768914213,
+      "position": 20.39252928141817
     },
     {
-      "page": "https://www.creggerplumbing.com/plumbing/leak-detection-repair/",
-      "clicks": 9,
-      "impressions": 9755,
-      "ctr": 0.0009226037929267043,
-      "position": 36.197437211686314
+      "page": "https://www.creggerplumbing.com/about/financing/",
+      "clicks": 7,
+      "impressions": 967,
+      "ctr": 0.007238883143743537,
+      "position": 10.987590486039297
     },
     {
       "page": "https://www.creggerplumbing.com/about/hvac-service-plan/",
       "clicks": 7,
-      "impressions": 3341,
-      "ctr": 0.0020951810835079317,
-      "position": 8.568093385214008
-    },
-    {
-      "page": "https://www.creggerplumbing.com/blog/10-crazy-toilet-seat-covers/",
-      "clicks": 7,
-      "impressions": 634,
-      "ctr": 0.011041009463722398,
-      "position": 14.178233438485805
+      "impressions": 3260,
+      "ctr": 0.002147239263803681,
+      "position": 8.756134969325153
     },
     {
       "page": "https://www.creggerplumbing.com/heating/furnace-installation-replacement/",
-      "clicks": 7,
-      "impressions": 39025,
-      "ctr": 0.00017937219730941703,
-      "position": 56.52763613068546
-    },
-    {
-      "page": "https://www.creggerplumbing.com/plumbing/flood-control-sump-pumps/",
-      "clicks": 7,
-      "impressions": 1291,
-      "ctr": 0.005422153369481022,
-      "position": 37.521301316808675
-    },
-    {
-      "page": "https://www.creggerplumbing.com/about/financing/",
       "clicks": 6,
-      "impressions": 752,
-      "ctr": 0.007978723404255319,
-      "position": 11.099734042553191
+      "impressions": 32946,
+      "ctr": 0.00018211619012930248,
+      "position": 52.14520730892976
     },
     {
       "page": "https://www.creggerplumbing.com/sewer-drain/drain-cleaning/",
       "clicks": 6,
-      "impressions": 8180,
-      "ctr": 0.0007334963325183374,
-      "position": 18.393031784841074
+      "impressions": 7031,
+      "ctr": 0.0008533636751528943,
+      "position": 18.124306642013938
     },
     {
-      "page": "https://www.creggerplumbing.com/air-conditioning/air-conditioner-installation/",
+      "page": "https://www.creggerplumbing.com/blog/10-crazy-toilet-seat-covers/",
       "clicks": 5,
-      "impressions": 40017,
-      "ctr": 0.00012494689756853338,
-      "position": 34.732588649823825
-    },
-    {
-      "page": "https://www.creggerplumbing.com/blog/how-to-choose-the-right-thermostat-for-your-home/",
-      "clicks": 5,
-      "impressions": 4576,
-      "ctr": 0.0010926573426573427,
-      "position": 12.219624125874127
-    },
-    {
-      "page": "https://www.creggerplumbing.com/blog/tank-vs-tankless-water-heaters-which-option-is-r/",
-      "clicks": 5,
-      "impressions": 2919,
-      "ctr": 0.0017129153819801302,
-      "position": 18.403220280918124
-    },
-    {
-      "page": "https://www.creggerplumbing.com/heating/furnace-repair/",
-      "clicks": 5,
-      "impressions": 12035,
-      "ctr": 0.0004154549231408392,
-      "position": 30.7817199833818
+      "impressions": 657,
+      "ctr": 0.0076103500761035,
+      "position": 13.645357686453577
     },
     {
       "page": "https://www.creggerplumbing.com/heating/heating-repair/",
-      "clicks": 4,
-      "impressions": 25319,
-      "ctr": 0.00015798412259567914,
-      "position": 33.67214344958332
+      "clicks": 5,
+      "impressions": 19738,
+      "ctr": 0.000253318471982977,
+      "position": 31.238777991691155
     },
     {
-      "page": "https://www.creggerplumbing.com/plumbing/backflow-testing-prevention/",
+      "page": "https://www.creggerplumbing.com/plumbing/fixture-services/toilets/",
+      "clicks": 5,
+      "impressions": 21719,
+      "ctr": 0.0002302131774022745,
+      "position": 20.134904921957734
+    },
+    {
+      "page": "https://www.creggerplumbing.com/air-conditioning/air-conditioner-installation/",
       "clicks": 4,
-      "impressions": 3854,
-      "ctr": 0.0010378827192527244,
-      "position": 31.279968863518423
+      "impressions": 28668,
+      "ctr": 0.00013952839402818474,
+      "position": 34.080752058043814
+    },
+    {
+      "page": "https://www.creggerplumbing.com/blog/how-to-choose-the-right-thermostat-for-your-home/",
+      "clicks": 4,
+      "impressions": 4476,
+      "ctr": 0.0008936550491510277,
+      "position": 11.321268990169795
     },
     {
       "page": "https://www.creggerplumbing.com/blog/mythbusters-plumbing-edition/",
+      "clicks": 4,
+      "impressions": 527,
+      "ctr": 0.007590132827324478,
+      "position": 8.588235294117647
+    },
+    {
+      "page": "https://www.creggerplumbing.com/blog/tank-vs-tankless-water-heaters-which-option-is-r/",
+      "clicks": 4,
+      "impressions": 2977,
+      "ctr": 0.0013436345314074571,
+      "position": 16.14914343298623
+    },
+    {
+      "page": "https://www.creggerplumbing.com/heating/furnace-repair/",
+      "clicks": 4,
+      "impressions": 16333,
+      "ctr": 0.0002449029572032082,
+      "position": 36.5647462193106
+    },
+    {
+      "page": "https://www.creggerplumbing.com/plumbing/flood-control-sump-pumps/",
+      "clicks": 4,
+      "impressions": 1573,
+      "ctr": 0.0025429116338207248,
+      "position": 30.90082644628099
+    },
+    {
+      "page": "https://www.creggerplumbing.com/ferndale-hvac/air-conditioning-repairs/",
       "clicks": 3,
-      "impressions": 577,
-      "ctr": 0.005199306759098787,
-      "position": 8.563258232235702
+      "impressions": 912,
+      "ctr": 0.003289473684210526,
+      "position": 28.583333333333332
     },
     {
       "page": "https://www.creggerplumbing.com/grosse-pointe/",
       "clicks": 3,
-      "impressions": 404,
-      "ctr": 0.007425742574257425,
-      "position": 12.116336633663366
+      "impressions": 443,
+      "ctr": 0.006772009029345372,
+      "position": 12.29119638826185
     },
     {
-      "page": "https://www.creggerplumbing.com/plumbing/commercial-plumbing/",
+      "page": "https://www.creggerplumbing.com/indoor-air-quality/air-purification/",
       "clicks": 3,
-      "impressions": 540,
-      "ctr": 0.005555555555555556,
-      "position": 18.646296296296295
+      "impressions": 1526,
+      "ctr": 0.001965923984272608,
+      "position": 29.653342070773263
     },
     {
-      "page": "https://www.creggerplumbing.com/plumbing/fixture-services/toilets/",
+      "page": "https://www.creggerplumbing.com/plumbing/backflow-testing-prevention/",
       "clicks": 3,
-      "impressions": 21674,
-      "ctr": 0.00013841469041247579,
-      "position": 19.97314755005998
+      "impressions": 3679,
+      "ctr": 0.0008154389779831476,
+      "position": 29.655069312313127
+    },
+    {
+      "page": "https://www.creggerplumbing.com/plumbing/garbage-disposal-repair/",
+      "clicks": 3,
+      "impressions": 13690,
+      "ctr": 0.0002191380569758948,
+      "position": 12.937764791818847
     },
     {
       "page": "https://www.creggerplumbing.com/plumbing/water-heaters/tankless-heaters/",
       "clicks": 3,
-      "impressions": 1981,
-      "ctr": 0.001514386673397274,
-      "position": 28.76123170116103
+      "impressions": 1685,
+      "ctr": 0.0017804154302670622,
+      "position": 27.414836795252224
+    },
+    {
+      "page": "http://www.creggerplumbing.com/heating/furnace-maintenance/",
+      "clicks": 2,
+      "impressions": 214,
+      "ctr": 0.009345794392523364,
+      "position": 16.467289719626166
     },
     {
       "page": "https://www.creggerplumbing.com/about/cregger-and-the-community/",
       "clicks": 2,
-      "impressions": 1800,
-      "ctr": 0.0011111111111111111,
-      "position": 7.605555555555555
+      "impressions": 1027,
+      "ctr": 0.0019474196689386564,
+      "position": 8.744888023369036
     },
     {
       "page": "https://www.creggerplumbing.com/about/service-areas/",
       "clicks": 2,
-      "impressions": 1402,
-      "ctr": 0.0014265335235378032,
-      "position": 28.58416547788873
+      "impressions": 1211,
+      "ctr": 0.0016515276630883566,
+      "position": 18.488852188274155
     },
     {
       "page": "https://www.creggerplumbing.com/air-conditioning/air-conditioner-inspection/",
       "clicks": 2,
-      "impressions": 1260,
-      "ctr": 0.0015873015873015873,
-      "position": 48.37222222222222
+      "impressions": 1196,
+      "ctr": 0.0016722408026755853,
+      "position": 43.535953177257525
     },
     {
-      "page": "https://www.creggerplumbing.com/air-conditioning/air-conditioner-repair/",
+      "page": "https://www.creggerplumbing.com/blog/avoid-getting-ripped-off-by-a-plumber/",
       "clicks": 2,
-      "impressions": 43805,
-      "ctr": 0.00004565688848304988,
-      "position": 19.296473005364685
+      "impressions": 3368,
+      "ctr": 0.0005938242280285036,
+      "position": 3.638361045130641
     },
     {
-      "page": "https://www.creggerplumbing.com/ferndale-hvac/air-conditioning-repairs/",
+      "page": "https://www.creggerplumbing.com/heating/heat-pumps/",
       "clicks": 2,
-      "impressions": 961,
-      "ctr": 0.002081165452653486,
-      "position": 29.03537981269511
+      "impressions": 3556,
+      "ctr": 0.0005624296962879641,
+      "position": 16.341394825646795
     },
     {
-      "page": "https://www.creggerplumbing.com/heating/heating-installation/",
+      "page": "https://www.creggerplumbing.com/indoor-air-quality/dehumidifiers/",
       "clicks": 2,
-      "impressions": 2770,
-      "ctr": 0.0007220216606498195,
-      "position": 20.270397111913358
+      "impressions": 10123,
+      "ctr": 0.00019756989034871086,
+      "position": 34.78860021732688
     },
     {
-      "page": "https://www.creggerplumbing.com/indoor-air-quality/air-purification/",
+      "page": "https://www.creggerplumbing.com/plumbing/commercial-plumbing/",
       "clicks": 2,
-      "impressions": 1534,
-      "ctr": 0.001303780964797914,
-      "position": 36.34419817470665
+      "impressions": 345,
+      "ctr": 0.005797101449275362,
+      "position": 16.27536231884058
     },
     {
-      "page": "https://www.creggerplumbing.com/plumbing/fixture-services/",
+      "page": "https://www.creggerplumbing.com/plumbing/fixture-services/shower-repair/",
       "clicks": 2,
-      "impressions": 616,
-      "ctr": 0.003246753246753247,
-      "position": 7.079545454545454
-    },
-    {
-      "page": "https://www.creggerplumbing.com/plumbing/garbage-disposal-repair/",
-      "clicks": 2,
-      "impressions": 13572,
-      "ctr": 0.00014736221632773356,
-      "position": 12.978927203065133
+      "impressions": 891,
+      "ctr": 0.002244668911335578,
+      "position": 21.343434343434343
     },
     {
       "page": "https://www.creggerplumbing.com/plumbing/piping-repiping/",
       "clicks": 2,
-      "impressions": 596,
-      "ctr": 0.003355704697986577,
-      "position": 22.823825503355703
+      "impressions": 809,
+      "ctr": 0.002472187886279357,
+      "position": 24.021013597033374
     },
     {
       "page": "https://www.creggerplumbing.com/royal-oak/",
       "clicks": 2,
-      "impressions": 658,
-      "ctr": 0.00303951367781155,
-      "position": 16.90577507598784
-    },
-    {
-      "page": "https://www.creggerplumbing.com/west-bloomfield/",
-      "clicks": 2,
-      "impressions": 1321,
-      "ctr": 0.001514004542013626,
-      "position": 16.693414080242242
-    },
-    {
-      "page": "http://www.creggerplumbing.com/heating/furnace-maintenance/",
-      "clicks": 1,
-      "impressions": 198,
-      "ctr": 0.005050505050505051,
-      "position": 17.92929292929293
+      "impressions": 678,
+      "ctr": 0.0029498525073746312,
+      "position": 16.823008849557525
     }
   ],
-  "fetchedAt": "2026-03-18T13:07:53.716Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "cregger plumbing",
+      "clicks": 820,
+      "impressions": 3647,
+      "ctr": 0.22484233616671237,
+      "position": 2.0326295585412666
+    },
+    {
+      "query": "cregger",
+      "clicks": 130,
+      "impressions": 632,
+      "ctr": 0.20569620253164558,
+      "position": 3.4984177215189876
+    },
+    {
+      "query": "cregger plumbing, heating & cooling",
+      "clicks": 112,
+      "impressions": 1038,
+      "ctr": 0.10789980732177264,
+      "position": 1.069364161849711
+    },
+    {
+      "query": "cregger plumbing heating & cooling",
+      "clicks": 45,
+      "impressions": 150,
+      "ctr": 0.3,
+      "position": 1.0133333333333334
+    },
+    {
+      "query": "cregger plumbing heating & cooling reviews",
+      "clicks": 33,
+      "impressions": 1059,
+      "ctr": 0.031161473087818695,
+      "position": 2.5646836638338053
+    },
+    {
+      "query": "plumbers near me",
+      "clicks": 27,
+      "impressions": 3508,
+      "ctr": 0.007696693272519955,
+      "position": 22.977194982896236
+    },
+    {
+      "query": "cregger heating and cooling",
+      "clicks": 15,
+      "impressions": 59,
+      "ctr": 0.2542372881355932,
+      "position": 1.3389830508474576
+    },
+    {
+      "query": "creeger",
+      "clicks": 13,
+      "impressions": 61,
+      "ctr": 0.21311475409836064,
+      "position": 4.524590163934427
+    },
+    {
+      "query": "cregger mechanical systems inc",
+      "clicks": 13,
+      "impressions": 31,
+      "ctr": 0.41935483870967744,
+      "position": 1
+    },
+    {
+      "query": "services offered by cregger plumbing heating & cooling",
+      "clicks": 12,
+      "impressions": 62,
+      "ctr": 0.1935483870967742,
+      "position": 2
+    },
+    {
+      "query": "cregger plumbing heating and cooling",
+      "clicks": 11,
+      "impressions": 93,
+      "ctr": 0.11827956989247312,
+      "position": 1.032258064516129
+    },
+    {
+      "query": "plumber",
+      "clicks": 11,
+      "impressions": 3599,
+      "ctr": 0.0030564045568213394,
+      "position": 14.07835509863851
+    },
+    {
+      "query": "plumber near me",
+      "clicks": 11,
+      "impressions": 2043,
+      "ctr": 0.0053842388644150755,
+      "position": 23.558981889378366
+    },
+    {
+      "query": "cregger company",
+      "clicks": 10,
+      "impressions": 130,
+      "ctr": 0.07692307692307693,
+      "position": 24.084615384615386
+    },
+    {
+      "query": "plumbers detroit",
+      "clicks": 10,
+      "impressions": 2747,
+      "ctr": 0.0036403349108117948,
+      "position": 6.480524208227157
+    },
+    {
+      "query": "creggar",
+      "clicks": 9,
+      "impressions": 26,
+      "ctr": 0.34615384615384615,
+      "position": 1.8461538461538463
+    },
+    {
+      "query": "cregger plumbing reviews",
+      "clicks": 9,
+      "impressions": 100,
+      "ctr": 0.09,
+      "position": 1.99
+    },
+    {
+      "query": "creggar plumbing",
+      "clicks": 8,
+      "impressions": 61,
+      "ctr": 0.13114754098360656,
+      "position": 2.7377049180327866
+    },
+    {
+      "query": "cregger hvac",
+      "clicks": 8,
+      "impressions": 314,
+      "ctr": 0.025477707006369428,
+      "position": 6.710191082802548
+    },
+    {
+      "query": "boiler repair near me",
+      "clicks": 7,
+      "impressions": 6742,
+      "ctr": 0.0010382675763868287,
+      "position": 65.75630376742807
+    },
+    {
+      "query": "plumbers",
+      "clicks": 7,
+      "impressions": 1773,
+      "ctr": 0.003948110547095319,
+      "position": 10.849407783417936
+    },
+    {
+      "query": "plumbers ferndale",
+      "clicks": 7,
+      "impressions": 271,
+      "ctr": 0.025830258302583026,
+      "position": 18.6309963099631
+    },
+    {
+      "query": "boiler repair detroit",
+      "clicks": 6,
+      "impressions": 789,
+      "ctr": 0.0076045627376425855,
+      "position": 3.038022813688213
+    },
+    {
+      "query": "cregger plumbing heating & cooling photos",
+      "clicks": 6,
+      "impressions": 178,
+      "ctr": 0.033707865168539325,
+      "position": 2
+    },
+    {
+      "query": "detroit plumber",
+      "clicks": 5,
+      "impressions": 1108,
+      "ctr": 0.004512635379061372,
+      "position": 3.936823104693141
+    },
+    {
+      "query": "krieger plumbing",
+      "clicks": 5,
+      "impressions": 59,
+      "ctr": 0.0847457627118644,
+      "position": 4.084745762711865
+    },
+    {
+      "query": "plumber detroit",
+      "clicks": 5,
+      "impressions": 1639,
+      "ctr": 0.003050640634533252,
+      "position": 4.317876754118364
+    },
+    {
+      "query": "plumber in detroit",
+      "clicks": 5,
+      "impressions": 767,
+      "ctr": 0.00651890482398957,
+      "position": 2.4954367666232073
+    },
+    {
+      "query": "plumbing",
+      "clicks": 5,
+      "impressions": 1117,
+      "ctr": 0.004476275738585497,
+      "position": 10.231871083258728
+    },
+    {
+      "query": "commercial boiler repair",
+      "clicks": 4,
+      "impressions": 949,
+      "ctr": 0.004214963119072708,
+      "position": 61.45205479452055
+    },
+    {
+      "query": "detroit plumbers",
+      "clicks": 4,
+      "impressions": 936,
+      "ctr": 0.004273504273504274,
+      "position": 4.362179487179487
+    },
+    {
+      "query": "heating and cooling ferndale",
+      "clicks": 4,
+      "impressions": 80,
+      "ctr": 0.05,
+      "position": 2.575
+    },
+    {
+      "query": "hvac ferndale",
+      "clicks": 4,
+      "impressions": 116,
+      "ctr": 0.034482758620689655,
+      "position": 11.724137931034482
+    },
+    {
+      "query": "plumber royal oak",
+      "clicks": 4,
+      "impressions": 40,
+      "ctr": 0.1,
+      "position": 2.1
+    },
+    {
+      "query": "plumbers in detroit",
+      "clicks": 4,
+      "impressions": 852,
+      "ctr": 0.004694835680751174,
+      "position": 4.056338028169014
+    },
+    {
+      "query": "plumbing companies near me",
+      "clicks": 4,
+      "impressions": 234,
+      "ctr": 0.017094017094017096,
+      "position": 8.047008547008547
+    },
+    {
+      "query": "water heater replacement",
+      "clicks": 4,
+      "impressions": 8013,
+      "ctr": 0.000499188818170473,
+      "position": 27.11431423936104
+    },
+    {
+      "query": "cregger plumbing detroit",
+      "clicks": 3,
+      "impressions": 18,
+      "ctr": 0.16666666666666666,
+      "position": 1
+    },
+    {
+      "query": "cregger plumbing, heating & cooling ferndale, mi",
+      "clicks": 3,
+      "impressions": 10,
+      "ctr": 0.3,
+      "position": 1
+    },
+    {
+      "query": "creggers",
+      "clicks": 3,
+      "impressions": 60,
+      "ctr": 0.05,
+      "position": 5.133333333333334
+    },
+    {
+      "query": "creggers plumbing",
+      "clicks": 3,
+      "impressions": 24,
+      "ctr": 0.125,
+      "position": 4.458333333333334
+    },
+    {
+      "query": "detroit plumbing",
+      "clicks": 3,
+      "impressions": 508,
+      "ctr": 0.005905511811023622,
+      "position": 6.517716535433071
+    },
+    {
+      "query": "emergency plumber detroit",
+      "clicks": 3,
+      "impressions": 589,
+      "ctr": 0.0050933786078098476,
+      "position": 5.901528013582343
+    },
+    {
+      "query": "gregor plumbing",
+      "clicks": 3,
+      "impressions": 4,
+      "ctr": 0.75,
+      "position": 1
+    },
+    {
+      "query": "hot water heater repair",
+      "clicks": 3,
+      "impressions": 29004,
+      "ctr": 0.0001034340091021928,
+      "position": 60.865122052130744
+    },
+    {
+      "query": "hot water tank repair",
+      "clicks": 3,
+      "impressions": 1810,
+      "ctr": 0.0016574585635359116,
+      "position": 50.87845303867403
+    },
+    {
+      "query": "plumber royal oak mi",
+      "clicks": 3,
+      "impressions": 167,
+      "ctr": 0.017964071856287425,
+      "position": 1.6467065868263473
+    },
+    {
+      "query": "best plumbers in detroit",
+      "clicks": 2,
+      "impressions": 144,
+      "ctr": 0.013888888888888888,
+      "position": 2.923611111111111
+    },
+    {
+      "query": "best plumbers near me",
+      "clicks": 2,
+      "impressions": 62,
+      "ctr": 0.03225806451612903,
+      "position": 2.9193548387096775
+    },
+    {
+      "query": "boiler repair",
+      "clicks": 2,
+      "impressions": 50443,
+      "ctr": 0.00003964871240806455,
+      "position": 70.78611502091469
+    },
+    {
+      "query": "boiler service near me",
+      "clicks": 2,
+      "impressions": 428,
+      "ctr": 0.004672897196261682,
+      "position": 9.761682242990654
+    },
+    {
+      "query": "emergency boiler repair near me",
+      "clicks": 2,
+      "impressions": 20,
+      "ctr": 0.1,
+      "position": 25.85
+    },
+    {
+      "query": "emergency plumber near me",
+      "clicks": 2,
+      "impressions": 86,
+      "ctr": 0.023255813953488372,
+      "position": 22.558139534883722
+    },
+    {
+      "query": "ferndale plumber",
+      "clicks": 2,
+      "impressions": 185,
+      "ctr": 0.010810810810810811,
+      "position": 69.05405405405405
+    },
+    {
+      "query": "furnace installation",
+      "clicks": 2,
+      "impressions": 19073,
+      "ctr": 0.00010486027368531432,
+      "position": 79.70827871860746
+    },
+    {
+      "query": "heating and cooling near me",
+      "clicks": 2,
+      "impressions": 66,
+      "ctr": 0.030303030303030304,
+      "position": 46.92424242424242
+    },
+    {
+      "query": "hot water heater replacement near me",
+      "clicks": 2,
+      "impressions": 3296,
+      "ctr": 0.0006067961165048543,
+      "position": 10.881978155339805
+    },
+    {
+      "query": "plumber detroit mi",
+      "clicks": 2,
+      "impressions": 590,
+      "ctr": 0.003389830508474576,
+      "position": 3.1203389830508477
+    },
+    {
+      "query": "plumber ferndale",
+      "clicks": 2,
+      "impressions": 1246,
+      "ctr": 0.0016051364365971107,
+      "position": 45.50561797752809
+    },
+    {
+      "query": "plumber in detroit mi",
+      "clicks": 2,
+      "impressions": 127,
+      "ctr": 0.015748031496062992,
+      "position": 3.5984251968503935
+    },
+    {
+      "query": "plumbers detroit residential",
+      "clicks": 2,
+      "impressions": 246,
+      "ctr": 0.008130081300813009,
+      "position": 5.471544715447155
+    },
+    {
+      "query": "plumbers in michigan",
+      "clicks": 2,
+      "impressions": 244,
+      "ctr": 0.00819672131147541,
+      "position": 6.483606557377049
+    },
+    {
+      "query": "plumbers royal oak",
+      "clicks": 2,
+      "impressions": 33,
+      "ctr": 0.06060606060606061,
+      "position": 4.212121212121212
+    },
+    {
+      "query": "plumbing companies",
+      "clicks": 2,
+      "impressions": 107,
+      "ctr": 0.018691588785046728,
+      "position": 4.897196261682243
+    },
+    {
+      "query": "plumbing company",
+      "clicks": 2,
+      "impressions": 18273,
+      "ctr": 0.0001094511027198599,
+      "position": 62.43380944563017
+    },
+    {
+      "query": "plumbing detroit",
+      "clicks": 2,
+      "impressions": 660,
+      "ctr": 0.0030303030303030303,
+      "position": 3.7924242424242425
+    },
+    {
+      "query": "plumbing near me",
+      "clicks": 2,
+      "impressions": 252,
+      "ctr": 0.007936507936507936,
+      "position": 13.75
+    },
+    {
+      "query": "plumbing services",
+      "clicks": 2,
+      "impressions": 635,
+      "ctr": 0.0031496062992125984,
+      "position": 8.656692913385827
+    },
+    {
+      "query": "residential boiler repair near me",
+      "clicks": 2,
+      "impressions": 504,
+      "ctr": 0.003968253968253968,
+      "position": 58.16865079365079
+    },
+    {
+      "query": "sump pump installation",
+      "clicks": 2,
+      "impressions": 35,
+      "ctr": 0.05714285714285714,
+      "position": 5.542857142857143
+    },
+    {
+      "query": "water heater replacement near me",
+      "clicks": 2,
+      "impressions": 6643,
+      "ctr": 0.0003010687942194792,
+      "position": 8.407346078578955
+    },
+    {
+      "query": "water plumbing",
+      "clicks": 2,
+      "impressions": 26,
+      "ctr": 0.07692307692307693,
+      "position": 12.5
+    },
+    {
+      "query": "24 hour plumber",
+      "clicks": 1,
+      "impressions": 66,
+      "ctr": 0.015151515151515152,
+      "position": 2.257575757575758
+    },
+    {
+      "query": "24 hour plumbing",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 2.875
+    },
+    {
+      "query": "24 hr plumber",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 3
+    },
+    {
+      "query": "24-hour heating and cooling",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 11.25
+    },
+    {
+      "query": "affordable plumbing near me",
+      "clicks": 1,
+      "impressions": 17,
+      "ctr": 0.058823529411764705,
+      "position": 16.647058823529413
+    },
+    {
+      "query": "after hours plumbing",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 6
+    },
+    {
+      "query": "air conditioner installation",
+      "clicks": 1,
+      "impressions": 54477,
+      "ctr": 0.000018356370578409235,
+      "position": 78.13952677276649
+    },
+    {
+      "query": "air conditioner repair detroit",
+      "clicks": 1,
+      "impressions": 345,
+      "ctr": 0.002898550724637681,
+      "position": 2.9594202898550726
+    },
+    {
+      "query": "air conditioning repair detroit",
+      "clicks": 1,
+      "impressions": 562,
+      "ctr": 0.0017793594306049821,
+      "position": 3.1494661921708187
+    },
+    {
+      "query": "aircon installation",
+      "clicks": 1,
+      "impressions": 36,
+      "ctr": 0.027777777777777776,
+      "position": 40.583333333333336
+    },
+    {
+      "query": "backwater valve installation near me",
+      "clicks": 1,
+      "impressions": 14,
+      "ctr": 0.07142857142857142,
+      "position": 61.07142857142857
+    },
+    {
+      "query": "best furnace installers near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 7
+    },
+    {
+      "query": "boiler and radiator service",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 40.714285714285715
+    },
+    {
+      "query": "boiler furnace repair near me",
+      "clicks": 1,
+      "impressions": 318,
+      "ctr": 0.0031446540880503146,
+      "position": 51.113207547169814
+    },
+    {
+      "query": "boiler heating system repair",
+      "clicks": 1,
+      "impressions": 347,
+      "ctr": 0.002881844380403458,
+      "position": 60.976945244956774
+    },
+    {
+      "query": "boiler mechanic",
+      "clicks": 1,
+      "impressions": 53,
+      "ctr": 0.018867924528301886,
+      "position": 58.735849056603776
+    },
+    {
+      "query": "boiler repair and maintenance",
+      "clicks": 1,
+      "impressions": 334,
+      "ctr": 0.0029940119760479044,
+      "position": 57.92814371257485
+    },
+    {
+      "query": "boiler service",
+      "clicks": 1,
+      "impressions": 27980,
+      "ctr": 0.0000357398141529664,
+      "position": 65.50571837026447
+    },
+    {
+      "query": "boiler service companies",
+      "clicks": 1,
+      "impressions": 160,
+      "ctr": 0.00625,
+      "position": 77.54375
+    },
+    {
+      "query": "boiler service in my area",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "boiler technician near me",
+      "clicks": 1,
+      "impressions": 92,
+      "ctr": 0.010869565217391304,
+      "position": 58.29347826086956
+    },
+    {
+      "query": "cheap plumbers in detroit",
+      "clicks": 1,
+      "impressions": 448,
+      "ctr": 0.002232142857142857,
+      "position": 8.361607142857142
+    },
+    {
+      "query": "cheap plumbing services near me",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 6.625
+    },
+    {
+      "query": "commercial boiler repair near me",
+      "clicks": 1,
+      "impressions": 193,
+      "ctr": 0.0051813471502590676,
+      "position": 38.704663212435236
+    },
+    {
+      "query": "commercial building plumbing systems",
+      "clicks": 1,
+      "impressions": 759,
+      "ctr": 0.0013175230566534915,
+      "position": 6.036890645586298
+    },
+    {
+      "query": "commercial plumbers near me",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 13.818181818181818
+    },
+    {
+      "query": "commercial plumbing service",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 9.8
+    },
+    {
+      "query": "cregger company inc",
+      "clicks": 1,
+      "impressions": 22,
+      "ctr": 0.045454545454545456,
+      "position": 39.68181818181818
+    },
+    {
+      "query": "cregger plumbing ferndale",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "cregger plumbing supply",
+      "clicks": 1,
+      "impressions": 65,
+      "ctr": 0.015384615384615385,
+      "position": 10.63076923076923
+    },
+    {
+      "query": "cregger plumbing, heating & cooling reviews",
+      "clicks": 1,
+      "impressions": 28,
+      "ctr": 0.03571428571428571,
+      "position": 2.357142857142857
+    },
+    {
+      "query": "cregger plumbing, heating and cooling",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 1
+    },
+    {
+      "query": "creggor",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 5.714285714285714
+    },
+    {
+      "query": "detroit drain cleaning",
+      "clicks": 1,
+      "impressions": 161,
+      "ctr": 0.006211180124223602,
+      "position": 5.372670807453416
+    },
+    {
+      "query": "detroit furnace repair",
+      "clicks": 1,
+      "impressions": 61,
+      "ctr": 0.01639344262295082,
+      "position": 6.754098360655738
+    },
+    {
+      "query": "detroit hvac",
+      "clicks": 1,
+      "impressions": 335,
+      "ctr": 0.0029850746268656717,
+      "position": 34.46865671641791
+    },
+    {
+      "query": "detroit hydro jetting",
+      "clicks": 1,
+      "impressions": 66,
+      "ctr": 0.015151515151515152,
+      "position": 2.757575757575758
+    },
+    {
+      "query": "emergency plumber",
+      "clicks": 1,
+      "impressions": 447,
+      "ctr": 0.0022371364653243847,
+      "position": 22.527964205816556
+    },
+    {
+      "query": "emergency plumbers",
+      "clicks": 1,
+      "impressions": 88,
+      "ctr": 0.011363636363636364,
+      "position": 16.852272727272727
+    },
+    {
+      "query": "emergency plumbing detroit",
+      "clicks": 1,
+      "impressions": 190,
+      "ctr": 0.005263157894736842,
+      "position": 12.289473684210526
+    },
+    {
+      "query": "ferndale plumbers",
+      "clicks": 1,
+      "impressions": 443,
+      "ctr": 0.002257336343115124,
+      "position": 42.18058690744921
+    },
+    {
+      "query": "ferndale plumbing",
+      "clicks": 1,
+      "impressions": 48,
+      "ctr": 0.020833333333333332,
+      "position": 8.291666666666668
+    },
+    {
+      "query": "free furnace estimates near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 8.333333333333332
+    },
+    {
+      "query": "free plumbing estimate",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 45.166666666666664
+    },
+    {
+      "query": "furnace repair",
+      "clicks": 1,
+      "impressions": 172110,
+      "ctr": 0.0000058102376387194234,
+      "position": 73.32724420428795
+    },
+    {
+      "query": "furnace repair ferndale",
+      "clicks": 1,
+      "impressions": 35,
+      "ctr": 0.02857142857142857,
+      "position": 13.714285714285714
+    },
+    {
+      "query": "furnace repair near me",
+      "clicks": 1,
+      "impressions": 4081,
+      "ctr": 0.0002450379808870375,
+      "position": 45.24283263905905
+    },
+    {
+      "query": "furnace supply store near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 15
+    },
+    {
+      "query": "garbage disposal repair near me",
+      "clicks": 1,
+      "impressions": 237,
+      "ctr": 0.004219409282700422,
+      "position": 11.320675105485233
+    },
+    {
+      "query": "gas fitter",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 6
+    },
+    {
+      "query": "gas line contractors near me",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 8.571428571428571
+    },
+    {
+      "query": "gas line installation companies",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "gas plumbers",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 6.333333333333333
+    },
+    {
+      "query": "gas water heater repair near me",
+      "clicks": 1,
+      "impressions": 39,
+      "ctr": 0.02564102564102564,
+      "position": 60.97435897435897
+    },
+    {
+      "query": "greggs plumbing",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "heating cooling and plumbing near me",
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 6.2
+    },
+    {
+      "query": "hot water heater near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 4.5
+    },
+    {
+      "query": "hot water heater replacement",
+      "clicks": 1,
+      "impressions": 3818,
+      "ctr": 0.00026191723415400735,
+      "position": 25.38501833420639
+    },
+    {
+      "query": "hot water tank repair near me",
+      "clicks": 1,
+      "impressions": 2976,
+      "ctr": 0.0003360215053763441,
+      "position": 64.75
+    },
+    {
+      "query": "hot water tank replacement",
+      "clicks": 1,
+      "impressions": 221,
+      "ctr": 0.004524886877828055,
+      "position": 17.23076923076923
+    },
+    {
+      "query": "hot water tank service near me",
+      "clicks": 1,
+      "impressions": 20,
+      "ctr": 0.05,
+      "position": 7.7
+    },
+    {
+      "query": "how to choose a thermostat",
+      "clicks": 1,
+      "impressions": 24,
+      "ctr": 0.041666666666666664,
+      "position": 16
+    },
+    {
+      "query": "hvac detroit",
+      "clicks": 1,
+      "impressions": 428,
+      "ctr": 0.002336448598130841,
+      "position": 17.871495327102803
+    },
+    {
+      "query": "hvac furnace repair near me",
+      "clicks": 1,
+      "impressions": 62,
+      "ctr": 0.016129032258064516,
+      "position": 48.435483870967744
+    },
+    {
+      "query": "hvac installation",
+      "clicks": 1,
+      "impressions": 43649,
+      "ctr": 0.000022910032303145547,
+      "position": 76.6736236798094
+    },
+    {
+      "query": "hvac near me",
+      "clicks": 1,
+      "impressions": 335,
+      "ctr": 0.0029850746268656717,
+      "position": 50.570149253731344
+    },
+    {
+      "query": "hydro jet drain cleaning near me",
+      "clicks": 1,
+      "impressions": 103,
+      "ctr": 0.009708737864077669,
+      "position": 48.650485436893206
+    },
+    {
+      "query": "hydro jetting service",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 20.285714285714285
+    },
+    {
+      "query": "hydro plumbing",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "industrial plumbing companies",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 9
+    },
+    {
+      "query": "installation of air conditioners",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 43.714285714285715
+    },
+    {
+      "query": "kregger",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 2.416666666666667
+    },
+    {
+      "query": "licensed plumbers near me",
+      "clicks": 1,
+      "impressions": 33,
+      "ctr": 0.030303030303030304,
+      "position": 8.363636363636363
+    },
+    {
+      "query": "local plumbers",
+      "clicks": 1,
+      "impressions": 476,
+      "ctr": 0.0021008403361344537,
+      "position": 13.840336134453782
+    },
+    {
+      "query": "need a plumber",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 5.5
+    },
+    {
+      "query": "plumber berkley mi",
+      "clicks": 1,
+      "impressions": 93,
+      "ctr": 0.010752688172043012,
+      "position": 1.129032258064516
+    },
+    {
+      "query": "plumber by the hour",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "plumber for hot water heater",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 5.333333333333333
+    },
+    {
+      "query": "plumber free estimate near me",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 7.25
+    },
+    {
+      "query": "plumber gas line repair",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 8.76923076923077
+    },
+    {
+      "query": "plumber in michigan",
+      "clicks": 1,
+      "impressions": 49,
+      "ctr": 0.02040816326530612,
+      "position": 7.428571428571429
+    },
+    {
+      "query": "plumber madison heights",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 4.8125
+    },
+    {
+      "query": "plumber michigan",
+      "clicks": 1,
+      "impressions": 125,
+      "ctr": 0.008,
+      "position": 50.296
+    },
+    {
+      "query": "plumber snake drain",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 10.2
+    },
+    {
+      "query": "plumber to install dishwasher",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "plumber warren mi",
+      "clicks": 1,
+      "impressions": 100,
+      "ctr": 0.01,
+      "position": 1.95
+    },
+    {
+      "query": "plumbers detroit mi",
+      "clicks": 1,
+      "impressions": 78,
+      "ctr": 0.01282051282051282,
+      "position": 3.371794871794872
+    },
+    {
+      "query": "plumbers in detroit michigan",
+      "clicks": 1,
+      "impressions": 296,
+      "ctr": 0.0033783783783783786,
+      "position": 3.8986486486486487
+    },
+    {
+      "query": "plumbers in ferndale",
+      "clicks": 1,
+      "impressions": 342,
+      "ctr": 0.0029239766081871343,
+      "position": 18.85672514619883
+    },
+    {
+      "query": "plumbers near me open now",
+      "clicks": 1,
+      "impressions": 8,
+      "ctr": 0.125,
+      "position": 2.125
+    },
+    {
+      "query": "plumbers with payment plans near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "plumbing basement",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 3.2857142857142856
+    },
+    {
+      "query": "plumbing companies in detroit",
+      "clicks": 1,
+      "impressions": 95,
+      "ctr": 0.010526315789473684,
+      "position": 2.5473684210526315
+    },
+    {
+      "query": "plumbing companies in detroit mi",
+      "clicks": 1,
+      "impressions": 120,
+      "ctr": 0.008333333333333333,
+      "position": 1.225
+    },
+    {
+      "query": "plumbing detroit mi",
+      "clicks": 1,
+      "impressions": 83,
+      "ctr": 0.012048192771084338,
+      "position": 3.6626506024096384
+    },
+    {
+      "query": "plumbing heating and cooling",
+      "clicks": 1,
+      "impressions": 249,
+      "ctr": 0.004016064257028112,
+      "position": 42.630522088353416
+    },
+    {
+      "query": "plumbing installation services",
+      "clicks": 1,
+      "impressions": 42,
+      "ctr": 0.023809523809523808,
+      "position": 72.5
+    },
+    {
+      "query": "plumbing royal oak",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 5.428571428571429
+    },
+    {
+      "query": "plumbing services detroit",
+      "clicks": 1,
+      "impressions": 491,
+      "ctr": 0.002036659877800407,
+      "position": 7.871690427698574
+    },
+    {
+      "query": "plumbing services near me",
+      "clicks": 1,
+      "impressions": 448,
+      "ctr": 0.002232142857142857,
+      "position": 23.292410714285715
+    },
+    {
+      "query": "plumbing supply detroit",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 56.666666666666664
+    },
+    {
+      "query": "plumbing/hvac",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "plumer",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 5.285714285714286
+    },
+    {
+      "query": "private plumbers near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "reasonable plumbers",
+      "clicks": 1,
+      "impressions": 12,
+      "ctr": 0.08333333333333333,
+      "position": 15.666666666666666
+    },
+    {
+      "query": "repairing boilers",
+      "clicks": 1,
+      "impressions": 18,
+      "ctr": 0.05555555555555555,
+      "position": 42.27777777777778
+    },
+    {
+      "query": "residential sewer cleaning near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 9
+    },
+    {
+      "query": "rinnai water heater repair near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 10
+    },
+    {
+      "query": "saturday plumbing service",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "sewer & drain specialist",
+      "clicks": 1,
+      "impressions": 187,
+      "ctr": 0.0053475935828877,
+      "position": 60.32085561497326
+    },
+    {
+      "query": "sewer cleaning",
+      "clicks": 1,
+      "impressions": 4344,
+      "ctr": 0.00023020257826887662,
+      "position": 63.93255064456722
+    },
+    {
+      "query": "sewer drain cleaning near me",
+      "clicks": 1,
+      "impressions": 83,
+      "ctr": 0.012048192771084338,
+      "position": 55.04819277108434
+    },
+    {
+      "query": "sewer jetting companies near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 5.5
+    },
+    {
+      "query": "sewer jetting near me",
+      "clicks": 1,
+      "impressions": 11,
+      "ctr": 0.09090909090909091,
+      "position": 7.090909090909091
+    },
+    {
+      "query": "sewer scope inspection near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 1
+    },
+    {
+      "query": "signs your toilet is leaking",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "sump pump replacement",
+      "clicks": 1,
+      "impressions": 1028,
+      "ctr": 0.0009727626459143969,
+      "position": 3.835603112840467
+    },
+    {
+      "query": "sump.pump repair",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "tankless water heater",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 3.3333333333333335
+    },
+    {
+      "query": "toilet installation services near me",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 30
+    },
+    {
+      "query": "top rated plumbers near me open now",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 2
+    },
+    {
+      "query": "water heater flush service near me",
+      "clicks": 1,
+      "impressions": 16,
+      "ctr": 0.0625,
+      "position": 19.875
+    },
+    {
+      "query": "water heater installation",
+      "clicks": 1,
+      "impressions": 439,
+      "ctr": 0.002277904328018223,
+      "position": 17.314350797266513
+    },
+    {
+      "query": "water heater installation companies near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 2.333333333333333
+    },
+    {
+      "query": "water heater repair",
+      "clicks": 1,
+      "impressions": 179400,
+      "ctr": 0.000005574136008918617,
+      "position": 66.98896321070234
+    },
+    {
+      "query": "water heater repair detroit",
+      "clicks": 1,
+      "impressions": 127,
+      "ctr": 0.007874015748031496,
+      "position": 2.9133858267716537
+    },
+    {
+      "query": "water heater repair near me",
+      "clicks": 1,
+      "impressions": 6721,
+      "ctr": 0.00014878738282993602,
+      "position": 7.754352030947776
+    },
+    {
+      "query": "water heater repair replacement near me",
+      "clicks": 1,
+      "impressions": 3,
+      "ctr": 0.3333333333333333,
+      "position": 13.666666666666666
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:22:24.484Z"
 }

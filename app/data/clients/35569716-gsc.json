@@ -1,156 +1,16 @@
 {
   "property": "sc-domain:johnston-lawfirm.com",
   "dateRange": {
-    "start": "2025-12-15",
-    "end": "2026-03-15"
+    "start": "2026-01-04",
+    "end": "2026-04-04"
   },
   "totals": {
-    "clicks": 8024,
-    "impressions": 2267385,
-    "ctr": 0.00353887848777336,
-    "position": 34.72115239778928
+    "clicks": 7221,
+    "impressions": 2224959,
+    "ctr": 0.003245453062281148,
+    "position": 31.90303907656289
   },
   "dailyData": [
-    {
-      "date": "2025-12-15",
-      "clicks": 116,
-      "impressions": 25826,
-      "ctr": 0.0044915976148067836,
-      "position": 31.781228219623635
-    },
-    {
-      "date": "2025-12-16",
-      "clicks": 102,
-      "impressions": 24760,
-      "ctr": 0.004119547657512116,
-      "position": 37.07342487883683
-    },
-    {
-      "date": "2025-12-17",
-      "clicks": 120,
-      "impressions": 18821,
-      "ctr": 0.006375856755751554,
-      "position": 33.13909994155465
-    },
-    {
-      "date": "2025-12-18",
-      "clicks": 108,
-      "impressions": 24442,
-      "ctr": 0.004418623680549873,
-      "position": 38.37521479420669
-    },
-    {
-      "date": "2025-12-19",
-      "clicks": 102,
-      "impressions": 24907,
-      "ctr": 0.004095234271489942,
-      "position": 41.340506684867705
-    },
-    {
-      "date": "2025-12-20",
-      "clicks": 79,
-      "impressions": 25685,
-      "ctr": 0.0030757251313996495,
-      "position": 31.481214716760757
-    },
-    {
-      "date": "2025-12-21",
-      "clicks": 82,
-      "impressions": 23053,
-      "ctr": 0.003557020778206741,
-      "position": 37.90638962391012
-    },
-    {
-      "date": "2025-12-22",
-      "clicks": 113,
-      "impressions": 22914,
-      "ctr": 0.004931482936196212,
-      "position": 30.236536615169765
-    },
-    {
-      "date": "2025-12-23",
-      "clicks": 85,
-      "impressions": 22441,
-      "ctr": 0.0037877099950982575,
-      "position": 38.329575330867605
-    },
-    {
-      "date": "2025-12-24",
-      "clicks": 82,
-      "impressions": 20632,
-      "ctr": 0.0039744086855370295,
-      "position": 38.56911593640946
-    },
-    {
-      "date": "2025-12-25",
-      "clicks": 71,
-      "impressions": 16735,
-      "ctr": 0.004242605318195399,
-      "position": 35.60573648043024
-    },
-    {
-      "date": "2025-12-26",
-      "clicks": 78,
-      "impressions": 17854,
-      "ctr": 0.0043687689033269856,
-      "position": 31.830178111347596
-    },
-    {
-      "date": "2025-12-27",
-      "clicks": 71,
-      "impressions": 22980,
-      "ctr": 0.0030896431679721496,
-      "position": 26.561879895561358
-    },
-    {
-      "date": "2025-12-28",
-      "clicks": 92,
-      "impressions": 22409,
-      "ctr": 0.004105493328573341,
-      "position": 34.73225043509304
-    },
-    {
-      "date": "2025-12-29",
-      "clicks": 118,
-      "impressions": 19804,
-      "ctr": 0.005958392243991113,
-      "position": 33.68006463340739
-    },
-    {
-      "date": "2025-12-30",
-      "clicks": 43,
-      "impressions": 25314,
-      "ctr": 0.0016986647704827368,
-      "position": 42.03409180690527
-    },
-    {
-      "date": "2025-12-31",
-      "clicks": 87,
-      "impressions": 24887,
-      "ctr": 0.0034958010206131715,
-      "position": 39.60553702736368
-    },
-    {
-      "date": "2026-01-01",
-      "clicks": 83,
-      "impressions": 27747,
-      "ctr": 0.0029913143763289725,
-      "position": 42.64417774894583
-    },
-    {
-      "date": "2026-01-02",
-      "clicks": 102,
-      "impressions": 20584,
-      "ctr": 0.004955305091333074,
-      "position": 37.43645549941702
-    },
-    {
-      "date": "2026-01-03",
-      "clicks": 92,
-      "impressions": 24482,
-      "ctr": 0.0037578629196961034,
-      "position": 31.73556082019443
-    },
     {
       "date": "2026-01-04",
       "clicks": 109,
@@ -640,711 +500,3314 @@
       "impressions": 20164,
       "ctr": 0.0009918666931164452,
       "position": 21.9586887522317
+    },
+    {
+      "date": "2026-03-15",
+      "clicks": 32,
+      "impressions": 17250,
+      "ctr": 0.0018550724637681159,
+      "position": 26.979014492753624
+    },
+    {
+      "date": "2026-03-16",
+      "clicks": 56,
+      "impressions": 23999,
+      "ctr": 0.00233343055960665,
+      "position": 21.509729572065503
+    },
+    {
+      "date": "2026-03-17",
+      "clicks": 46,
+      "impressions": 16155,
+      "ctr": 0.0028474156607861344,
+      "position": 24.588734138037758
+    },
+    {
+      "date": "2026-03-18",
+      "clicks": 53,
+      "impressions": 20035,
+      "ctr": 0.002645370601447467,
+      "position": 27.51315198402795
+    },
+    {
+      "date": "2026-03-19",
+      "clicks": 52,
+      "impressions": 19789,
+      "ctr": 0.002627722472080449,
+      "position": 25.616857850320887
+    },
+    {
+      "date": "2026-03-20",
+      "clicks": 46,
+      "impressions": 22567,
+      "ctr": 0.002038374617804759,
+      "position": 20.986617627509194
+    },
+    {
+      "date": "2026-03-21",
+      "clicks": 23,
+      "impressions": 18190,
+      "ctr": 0.0012644310060472787,
+      "position": 25.713194062671796
+    },
+    {
+      "date": "2026-03-22",
+      "clicks": 29,
+      "impressions": 17524,
+      "ctr": 0.0016548733165943849,
+      "position": 24.181807806436886
+    },
+    {
+      "date": "2026-03-23",
+      "clicks": 64,
+      "impressions": 17306,
+      "ctr": 0.0036981393736276436,
+      "position": 24.998324280596325
+    },
+    {
+      "date": "2026-03-24",
+      "clicks": 51,
+      "impressions": 19440,
+      "ctr": 0.002623456790123457,
+      "position": 23.786471193415636
+    },
+    {
+      "date": "2026-03-25",
+      "clicks": 65,
+      "impressions": 19858,
+      "ctr": 0.003273240004028603,
+      "position": 25.880652633699263
+    },
+    {
+      "date": "2026-03-26",
+      "clicks": 62,
+      "impressions": 21006,
+      "ctr": 0.002951537655907836,
+      "position": 26.765828810815957
+    },
+    {
+      "date": "2026-03-27",
+      "clicks": 47,
+      "impressions": 17343,
+      "ctr": 0.0027100271002710027,
+      "position": 24.31372888196967
+    },
+    {
+      "date": "2026-03-28",
+      "clicks": 25,
+      "impressions": 20369,
+      "ctr": 0.0012273552948107419,
+      "position": 21.029456527075457
+    },
+    {
+      "date": "2026-03-29",
+      "clicks": 46,
+      "impressions": 20181,
+      "ctr": 0.0022793716862395323,
+      "position": 23.92641593578118
+    },
+    {
+      "date": "2026-03-30",
+      "clicks": 66,
+      "impressions": 25889,
+      "ctr": 0.0025493452817799064,
+      "position": 22.62833635907142
+    },
+    {
+      "date": "2026-03-31",
+      "clicks": 66,
+      "impressions": 17409,
+      "ctr": 0.003791142512493538,
+      "position": 21.0571543454535
+    },
+    {
+      "date": "2026-04-01",
+      "clicks": 69,
+      "impressions": 18754,
+      "ctr": 0.0036792151007785006,
+      "position": 20.5144502506132
+    },
+    {
+      "date": "2026-04-02",
+      "clicks": 53,
+      "impressions": 21976,
+      "ctr": 0.002411721878412814,
+      "position": 17.894293775027304
+    },
+    {
+      "date": "2026-04-03",
+      "clicks": 44,
+      "impressions": 20819,
+      "ctr": 0.002113454056390797,
+      "position": 21.03199000912628
+    },
+    {
+      "date": "2026-04-04",
+      "clicks": 28,
+      "impressions": 17992,
+      "ctr": 0.0015562472209871053,
+      "position": 21.454868830591373
     }
   ],
   "topQueries": [
     {
       "query": "johnston law firm",
-      "clicks": 1856,
-      "impressions": 2889,
-      "ctr": 0.6424368293527172,
-      "position": 2.0612668743509865
+      "clicks": 1374,
+      "impressions": 2294,
+      "ctr": 0.5989537925021796,
+      "position": 2.1124673060156933
     },
     {
       "query": "johnston law firm portland",
-      "clicks": 254,
-      "impressions": 781,
-      "ctr": 0.32522407170294493,
-      "position": 1.5236875800256082
+      "clicks": 191,
+      "impressions": 602,
+      "ctr": 0.31727574750830567,
+      "position": 1.3222591362126246
     },
     {
       "query": "johnston law firm oregon",
-      "clicks": 247,
-      "impressions": 688,
-      "ctr": 0.35901162790697677,
-      "position": 1.072674418604651
+      "clicks": 183,
+      "impressions": 504,
+      "ctr": 0.3630952380952381,
+      "position": 1.0992063492063493
     },
     {
       "query": "johnston law firm reviews",
-      "clicks": 234,
-      "impressions": 685,
-      "ctr": 0.3416058394160584,
-      "position": 3.267153284671533
-    },
-    {
-      "query": "johnston law",
-      "clicks": 228,
-      "impressions": 656,
-      "ctr": 0.3475609756097561,
-      "position": 9.173780487804878
-    },
-    {
-      "query": "johnston law personal injury lawyers",
-      "clicks": 228,
-      "impressions": 652,
-      "ctr": 0.3496932515337423,
-      "position": 1.7346625766871164
+      "clicks": 171,
+      "impressions": 517,
+      "ctr": 0.3307543520309478,
+      "position": 3.97678916827853
     },
     {
       "query": "johnston law personal injury attorneys",
-      "clicks": 224,
-      "impressions": 653,
-      "ctr": 0.3430321592649311,
-      "position": 1.6477794793261868
+      "clicks": 166,
+      "impressions": 477,
+      "ctr": 0.3480083857442348,
+      "position": 1.8448637316561844
+    },
+    {
+      "query": "johnston law personal injury lawyers",
+      "clicks": 166,
+      "impressions": 465,
+      "ctr": 0.35698924731182796,
+      "position": 1.6688172043010754
+    },
+    {
+      "query": "johnston law",
+      "clicks": 164,
+      "impressions": 532,
+      "ctr": 0.3082706766917293,
+      "position": 9.259398496240602
     },
     {
       "query": "johnston law attorney",
-      "clicks": 220,
-      "impressions": 491,
-      "ctr": 0.4480651731160896,
-      "position": 17.65173116089613
+      "clicks": 158,
+      "impressions": 367,
+      "ctr": 0.4305177111716621,
+      "position": 16.91280653950954
     },
     {
       "query": "johnston law lawyer",
-      "clicks": 212,
-      "impressions": 489,
-      "ctr": 0.4335378323108384,
-      "position": 16.595092024539877
+      "clicks": 151,
+      "impressions": 365,
+      "ctr": 0.4136986301369863,
+      "position": 15.764383561643836
     },
     {
       "query": "johnston law firm llc",
-      "clicks": 89,
-      "impressions": 305,
-      "ctr": 0.29180327868852457,
-      "position": 5.609836065573771
+      "clicks": 113,
+      "impressions": 368,
+      "ctr": 0.3070652173913043,
+      "position": 4.945652173913043
     },
     {
       "query": "oregon good samaritan law",
-      "clicks": 42,
-      "impressions": 244,
-      "ctr": 0.1721311475409836,
-      "position": 1.9549180327868854
-    },
-    {
-      "query": "marc johnston",
-      "clicks": 29,
-      "impressions": 361,
-      "ctr": 0.08033240997229917,
-      "position": 2.590027700831025
+      "clicks": 45,
+      "impressions": 238,
+      "ctr": 0.18907563025210083,
+      "position": 2.138655462184874
     },
     {
       "query": "johnston law firm portland oregon",
-      "clicks": 27,
-      "impressions": 67,
-      "ctr": 0.40298507462686567,
+      "clicks": 38,
+      "impressions": 88,
+      "ctr": 0.4318181818181818,
       "position": 1
     },
     {
-      "query": "good samaritan law oregon",
-      "clicks": 26,
-      "impressions": 243,
-      "ctr": 0.10699588477366255,
-      "position": 1.9794238683127572
+      "query": "marc johnston",
+      "clicks": 30,
+      "impressions": 369,
+      "ctr": 0.08130081300813008,
+      "position": 2.2710027100271004
     },
     {
-      "query": "mark johnston attorney",
-      "clicks": 15,
-      "impressions": 49,
-      "ctr": 0.30612244897959184,
-      "position": 4.5102040816326525
+      "query": "good samaritan law oregon",
+      "clicks": 22,
+      "impressions": 259,
+      "ctr": 0.08494208494208494,
+      "position": 2.4903474903474905
+    },
+    {
+      "query": "johnston law firm, p.c.",
+      "clicks": 17,
+      "impressions": 42,
+      "ctr": 0.40476190476190477,
+      "position": 1.0238095238095237
+    },
+    {
+      "query": "good samaritan law",
+      "clicks": 16,
+      "impressions": 371,
+      "ctr": 0.0431266846361186,
+      "position": 8.180592991913747
     },
     {
       "query": "civil rights attorney portland oregon",
       "clicks": 14,
-      "impressions": 412,
-      "ctr": 0.03398058252427184,
-      "position": 4.730582524271845
+      "impressions": 397,
+      "ctr": 0.03526448362720403,
+      "position": 5.324937027707809
     },
     {
       "query": "portland law firms",
       "clicks": 14,
-      "impressions": 657,
-      "ctr": 0.0213089802130898,
-      "position": 1.5038051750380519
+      "impressions": 667,
+      "ctr": 0.020989505247376312,
+      "position": 1.5307346326836582
     },
     {
-      "query": "medical malpractice lawyers portland",
-      "clicks": 12,
-      "impressions": 377,
-      "ctr": 0.03183023872679045,
-      "position": 8.068965517241379
+      "query": "best civil rights attorney portland, oregon",
+      "clicks": 11,
+      "impressions": 153,
+      "ctr": 0.0718954248366013,
+      "position": 5.143790849673203
     },
     {
       "query": "good samaritan laws oregon",
       "clicks": 11,
-      "impressions": 38,
-      "ctr": 0.2894736842105263,
-      "position": 3.1315789473684212
+      "impressions": 35,
+      "ctr": 0.3142857142857143,
+      "position": 3.6
     },
     {
-      "query": "johnston law firm, p.c.",
-      "clicks": 10,
-      "impressions": 27,
-      "ctr": 0.37037037037037035,
-      "position": 1.037037037037037
-    },
-    {
-      "query": "law firms in portland oregon",
-      "clicks": 10,
-      "impressions": 505,
-      "ctr": 0.019801980198019802,
-      "position": 1.0277227722772277
-    },
-    {
-      "query": "best civil rights attorney portland, oregon",
-      "clicks": 9,
-      "impressions": 143,
-      "ctr": 0.06293706293706294,
-      "position": 4.874125874125874
+      "query": "mark johnston attorney",
+      "clicks": 11,
+      "impressions": 46,
+      "ctr": 0.2391304347826087,
+      "position": 4.565217391304348
     },
     {
       "query": "car accident lawyer",
+      "clicks": 10,
+      "impressions": 134730,
+      "ctr": 0.00007422251911229867,
+      "position": 58.65008535589698
+    },
+    {
+      "query": "medical malpractice lawyers portland",
+      "clicks": 10,
+      "impressions": 394,
+      "ctr": 0.025380710659898477,
+      "position": 7.786802030456853
+    },
+    {
+      "query": "law firms in portland oregon",
       "clicks": 9,
-      "impressions": 132533,
-      "ctr": 0.00006790761546180951,
-      "position": 63.36046116816189
-    },
-    {
-      "query": "good samaritan law",
-      "clicks": 9,
-      "impressions": 351,
-      "ctr": 0.02564102564102564,
-      "position": 9.908831908831909
-    },
-    {
-      "query": "civil attorney portland",
-      "clicks": 8,
-      "impressions": 85,
-      "ctr": 0.09411764705882353,
-      "position": 5.5058823529411764
-    },
-    {
-      "query": "civil rights attorney",
-      "clicks": 8,
-      "impressions": 1455,
-      "ctr": 0.005498281786941581,
-      "position": 53.00274914089347
-    },
-    {
-      "query": "medical malpractice attorney portland",
-      "clicks": 8,
-      "impressions": 780,
-      "ctr": 0.010256410256410256,
-      "position": 8.112820512820512
+      "impressions": 509,
+      "ctr": 0.01768172888015717,
+      "position": 1.037328094302554
     },
     {
       "query": "oregon's good samaritan law",
       "clicks": 8,
-      "impressions": 35,
-      "ctr": 0.22857142857142856,
+      "impressions": 39,
+      "ctr": 0.20512820512820512,
       "position": 2
     },
     {
-      "query": "civil litigation attorney",
+      "query": "civil attorney portland",
       "clicks": 7,
-      "impressions": 2222,
-      "ctr": 0.0031503150315031502,
-      "position": 36.962196219621966
+      "impressions": 77,
+      "ctr": 0.09090909090909091,
+      "position": 5.441558441558442
+    },
+    {
+      "query": "civil rights attorney oregon",
+      "clicks": 7,
+      "impressions": 375,
+      "ctr": 0.018666666666666668,
+      "position": 5.037333333333334
+    },
+    {
+      "query": "jordan holgerson",
+      "clicks": 7,
+      "impressions": 516,
+      "ctr": 0.013565891472868217,
+      "position": 3.8352713178294575
     },
     {
       "query": "law firm portland oregon",
       "clicks": 7,
-      "impressions": 64,
-      "ctr": 0.109375,
-      "position": 1.734375
+      "impressions": 68,
+      "ctr": 0.10294117647058823,
+      "position": 1.6617647058823528
     },
     {
-      "query": "civil rights attorney oregon",
+      "query": "medical malpractice attorney portland",
+      "clicks": 7,
+      "impressions": 746,
+      "ctr": 0.00938337801608579,
+      "position": 8.142091152815013
+    },
+    {
+      "query": "medical malpractice attorney portland oregon",
+      "clicks": 7,
+      "impressions": 584,
+      "ctr": 0.011986301369863013,
+      "position": 10.871575342465754
+    },
+    {
+      "query": "car accident attorneys near me",
       "clicks": 6,
-      "impressions": 371,
-      "ctr": 0.016172506738544475,
-      "position": 4.663072776280323
+      "impressions": 1745,
+      "ctr": 0.0034383954154727794,
+      "position": 41.36160458452722
+    },
+    {
+      "query": "johnston law group",
+      "clicks": 6,
+      "impressions": 49,
+      "ctr": 0.12244897959183673,
+      "position": 6.6938775510204085
     },
     {
       "query": "johnston personal injury law firm",
       "clicks": 6,
-      "impressions": 28,
-      "ctr": 0.21428571428571427,
-      "position": 2.7142857142857144
+      "impressions": 31,
+      "ctr": 0.1935483870967742,
+      "position": 2.5806451612903225
     },
     {
-      "query": "malpractice attorney portland oregon",
-      "clicks": 6,
-      "impressions": 259,
-      "ctr": 0.023166023166023165,
-      "position": 5.428571428571429
-    },
-    {
-      "query": "medical malpractice attorney portland oregon",
-      "clicks": 6,
-      "impressions": 623,
-      "ctr": 0.009630818619582664,
-      "position": 10.6115569823435
-    },
-    {
-      "query": "personal injury lawyer portland",
-      "clicks": 6,
-      "impressions": 3051,
-      "ctr": 0.0019665683382497543,
-      "position": 8.96755162241888
-    },
-    {
-      "query": "buying a car in oregon from out of state",
+      "query": "civil rights attorney",
       "clicks": 5,
-      "impressions": 143,
-      "ctr": 0.03496503496503497,
-      "position": 6.0979020979020975
+      "impressions": 1330,
+      "ctr": 0.0037593984962406013,
+      "position": 52.76466165413534
     },
     {
-      "query": "car accident attorneys near me",
+      "query": "johnston law firm pc",
       "clicks": 5,
-      "impressions": 1870,
-      "ctr": 0.00267379679144385,
-      "position": 43.04491978609626
+      "impressions": 9,
+      "ctr": 0.5555555555555556,
+      "position": 1
     },
     {
-      "query": "civil rights attorney portland",
+      "query": "medical malpractice lawyers near me",
       "clicks": 5,
-      "impressions": 445,
-      "ctr": 0.011235955056179775,
-      "position": 4.141573033707865
-    },
-    {
-      "query": "johnston law group",
-      "clicks": 5,
-      "impressions": 44,
-      "ctr": 0.11363636363636363,
-      "position": 7.568181818181818
-    },
-    {
-      "query": "oregon medical malpractice attorney",
-      "clicks": 5,
-      "impressions": 429,
-      "ctr": 0.011655011655011656,
-      "position": 3.034965034965035
+      "impressions": 1448,
+      "ctr": 0.003453038674033149,
+      "position": 60.475828729281766
     },
     {
       "query": "oregon statute of limitations personal injury",
       "clicks": 5,
-      "impressions": 457,
-      "ctr": 0.010940919037199124,
-      "position": 3.658643326039387
+      "impressions": 426,
+      "ctr": 0.011737089201877934,
+      "position": 4.124413145539906
+    },
+    {
+      "query": "personal injury attorney oregon",
+      "clicks": 5,
+      "impressions": 1013,
+      "ctr": 0.004935834155972359,
+      "position": 8.937808489634747
     },
     {
       "query": "personal injury attorney portland",
       "clicks": 5,
-      "impressions": 3491,
-      "ctr": 0.0014322543683758235,
-      "position": 6.156688627900315
+      "impressions": 3758,
+      "ctr": 0.0013304949441192123,
+      "position": 5.527940393826503
     },
     {
       "query": "personal injury attorney portland oregon",
       "clicks": 5,
-      "impressions": 645,
-      "ctr": 0.007751937984496124,
-      "position": 4.965891472868217
+      "impressions": 623,
+      "ctr": 0.008025682182985553,
+      "position": 5.558587479935794
     },
     {
-      "query": "taylor smith bridge lawsuit",
+      "query": "sexual assault victim attorney",
       "clicks": 5,
-      "impressions": 51,
-      "ctr": 0.09803921568627451,
-      "position": 4.03921568627451
+      "impressions": 224,
+      "ctr": 0.022321428571428572,
+      "position": 39.535714285714285
+    },
+    {
+      "query": "taylor smith bridge",
+      "clicks": 5,
+      "impressions": 782,
+      "ctr": 0.00639386189258312,
+      "position": 7.554987212276215
+    },
+    {
+      "query": "best personal injury lawyer portland, oregon",
+      "clicks": 4,
+      "impressions": 174,
+      "ctr": 0.022988505747126436,
+      "position": 5.64367816091954
+    },
+    {
+      "query": "civil litigation attorney",
+      "clicks": 4,
+      "impressions": 2364,
+      "ctr": 0.001692047377326565,
+      "position": 37.68654822335025
     },
     {
       "query": "civil litigation attorney near me",
       "clicks": 4,
-      "impressions": 410,
-      "ctr": 0.00975609756097561,
-      "position": 36.83658536585366
+      "impressions": 493,
+      "ctr": 0.008113590263691683,
+      "position": 38.316430020283974
+    },
+    {
+      "query": "civil rights attorney portland",
+      "clicks": 4,
+      "impressions": 395,
+      "ctr": 0.010126582278481013,
+      "position": 4.620253164556962
+    },
+    {
+      "query": "johnson law firm",
+      "clicks": 4,
+      "impressions": 52,
+      "ctr": 0.07692307692307693,
+      "position": 3.6153846153846154
+    },
+    {
+      "query": "law firms near me",
+      "clicks": 4,
+      "impressions": 184,
+      "ctr": 0.021739130434782608,
+      "position": 5.228260869565218
+    },
+    {
+      "query": "law firms portland",
+      "clicks": 4,
+      "impressions": 243,
+      "ctr": 0.01646090534979424,
+      "position": 2.246913580246914
     },
     {
       "query": "law firms portland oregon",
       "clicks": 4,
-      "impressions": 163,
-      "ctr": 0.024539877300613498,
-      "position": 1.7177914110429446
+      "impressions": 168,
+      "ctr": 0.023809523809523808,
+      "position": 1.75
+    },
+    {
+      "query": "lsat prep scholarships",
+      "clicks": 4,
+      "impressions": 64,
+      "ctr": 0.0625,
+      "position": 13.59375
+    },
+    {
+      "query": "malpractice attorney portland oregon",
+      "clicks": 4,
+      "impressions": 230,
+      "ctr": 0.017391304347826087,
+      "position": 5.543478260869565
+    },
+    {
+      "query": "malpractice lawyer portland",
+      "clicks": 4,
+      "impressions": 95,
+      "ctr": 0.042105263157894736,
+      "position": 2.7263157894736842
     },
     {
       "query": "marc johnson attorney",
       "clicks": 4,
       "impressions": 10,
       "ctr": 0.4,
-      "position": 2.8
+      "position": 2.2
     },
     {
-      "query": "medical negligence lawyers",
+      "query": "medical malpractice attorney oregon",
       "clicks": 4,
-      "impressions": 181,
-      "ctr": 0.022099447513812154,
-      "position": 12.07182320441989
+      "impressions": 470,
+      "ctr": 0.00851063829787234,
+      "position": 3.831914893617021
     },
     {
       "query": "oregon civil rights attorney",
       "clicks": 4,
-      "impressions": 149,
-      "ctr": 0.026845637583892617,
-      "position": 5.570469798657718
+      "impressions": 135,
+      "ctr": 0.02962962962962963,
+      "position": 6.237037037037037
     },
     {
       "query": "personal injury lawyer oregon",
       "clicks": 4,
-      "impressions": 2321,
-      "ctr": 0.0017233950883239983,
-      "position": 11.261094355881086
+      "impressions": 2203,
+      "ctr": 0.0018157058556513845,
+      "position": 11.532909668633682
+    },
+    {
+      "query": "personal injury lawyer portland",
+      "clicks": 4,
+      "impressions": 3318,
+      "ctr": 0.0012055455093429777,
+      "position": 8.512959614225437
+    },
+    {
+      "query": "portland car accident lawyer",
+      "clicks": 4,
+      "impressions": 4740,
+      "ctr": 0.0008438818565400844,
+      "position": 12.595147679324894
+    },
+    {
+      "query": "portland personal injury attorney",
+      "clicks": 4,
+      "impressions": 2748,
+      "ctr": 0.001455604075691412,
+      "position": 10.967612809315867
+    },
+    {
+      "query": "result portlandpool",
+      "clicks": 4,
+      "impressions": 78,
+      "ctr": 0.05128205128205128,
+      "position": 5.910256410256411
+    },
+    {
+      "query": "sex offenders near me",
+      "clicks": 4,
+      "impressions": 121,
+      "ctr": 0.03305785123966942,
+      "position": 8.454545454545453
+    },
+    {
+      "query": "statute of limitations oregon",
+      "clicks": 4,
+      "impressions": 1512,
+      "ctr": 0.0026455026455026454,
+      "position": 8.49074074074074
+    },
+    {
+      "query": "accident attorney near me",
+      "clicks": 3,
+      "impressions": 2640,
+      "ctr": 0.0011363636363636363,
+      "position": 58.2375
+    },
+    {
+      "query": "auto accident attorney portland",
+      "clicks": 3,
+      "impressions": 799,
+      "ctr": 0.0037546933667083854,
+      "position": 6.625782227784731
+    },
+    {
+      "query": "car accident lawyer free consultation",
+      "clicks": 3,
+      "impressions": 1017,
+      "ctr": 0.0029498525073746312,
+      "position": 66.1779744346116
+    },
+    {
+      "query": "civil lawyer free consultation",
+      "clicks": 3,
+      "impressions": 37,
+      "ctr": 0.08108108108108109,
+      "position": 21.91891891891892
+    },
+    {
+      "query": "civil lawyers free consultation",
+      "clicks": 3,
+      "impressions": 79,
+      "ctr": 0.0379746835443038,
+      "position": 24.40506329113924
+    },
+    {
+      "query": "does oregon have sales tax on cars",
+      "clicks": 3,
+      "impressions": 312,
+      "ctr": 0.009615384615384616,
+      "position": 6.041666666666667
+    },
+    {
+      "query": "johnston law firm, llc",
+      "clicks": 3,
+      "impressions": 62,
+      "ctr": 0.04838709677419355,
+      "position": 4.564516129032258
+    },
+    {
+      "query": "law firm portland",
+      "clicks": 3,
+      "impressions": 138,
+      "ctr": 0.021739130434782608,
+      "position": 2.608695652173913
+    },
+    {
+      "query": "law firms in oregon",
+      "clicks": 3,
+      "impressions": 185,
+      "ctr": 0.016216216216216217,
+      "position": 2.589189189189189
+    },
+    {
+      "query": "law firms in portland",
+      "clicks": 3,
+      "impressions": 201,
+      "ctr": 0.014925373134328358,
+      "position": 1.1840796019900497
+    },
+    {
+      "query": "mark johnston lawyer",
+      "clicks": 3,
+      "impressions": 34,
+      "ctr": 0.08823529411764706,
+      "position": 8.735294117647058
+    },
+    {
+      "query": "medical malpractice lawyers",
+      "clicks": 3,
+      "impressions": 727,
+      "ctr": 0.0041265474552957355,
+      "position": 24.23658872077029
+    },
+    {
+      "query": "medical negligence lawyers",
+      "clicks": 3,
+      "impressions": 174,
+      "ctr": 0.017241379310344827,
+      "position": 13.82183908045977
+    },
+    {
+      "query": "oregon car sales tax",
+      "clicks": 3,
+      "impressions": 388,
+      "ctr": 0.007731958762886598,
+      "position": 5.706185567010309
+    },
+    {
+      "query": "oregon medical malpractice attorney",
+      "clicks": 3,
+      "impressions": 409,
+      "ctr": 0.007334963325183374,
+      "position": 3.2811735941320292
+    },
+    {
+      "query": "oregon personal injury attorney",
+      "clicks": 3,
+      "impressions": 883,
+      "ctr": 0.0033975084937712344,
+      "position": 7.976217440543602
+    },
+    {
+      "query": "oregon statute of limitations property damage",
+      "clicks": 3,
+      "impressions": 165,
+      "ctr": 0.01818181818181818,
+      "position": 7.345454545454546
+    },
+    {
+      "query": "personal injury lawyer portland oregon",
+      "clicks": 3,
+      "impressions": 752,
+      "ctr": 0.003989361702127659,
+      "position": 6.059840425531915
+    },
+    {
+      "query": "portland attorneys",
+      "clicks": 3,
+      "impressions": 205,
+      "ctr": 0.014634146341463415,
+      "position": 1.1170731707317074
+    },
+    {
+      "query": "portland car accident attorney",
+      "clicks": 3,
+      "impressions": 3305,
+      "ctr": 0.000907715582450832,
+      "position": 9.822390317700453
+    },
+    {
+      "query": "portland oregon attorneys",
+      "clicks": 3,
+      "impressions": 184,
+      "ctr": 0.016304347826086956,
+      "position": 2.2554347826086953
+    },
+    {
+      "query": "sexual assault attorneys near me",
+      "clicks": 3,
+      "impressions": 20,
+      "ctr": 0.15,
+      "position": 14.4
+    },
+    {
+      "query": "sexual assault lawyers near me",
+      "clicks": 3,
+      "impressions": 308,
+      "ctr": 0.00974025974025974,
+      "position": 57.27597402597402
+    },
+    {
+      "query": "taylor smith bridge lawsuit",
+      "clicks": 3,
+      "impressions": 62,
+      "ctr": 0.04838709677419355,
+      "position": 4.241935483870968
+    },
+    {
+      "query": "what is oregon's good samaritan law",
+      "clicks": 3,
+      "impressions": 56,
+      "ctr": 0.05357142857142857,
+      "position": 2.2857142857142856
+    },
+    {
+      "query": "assault attorney",
+      "clicks": 2,
+      "impressions": 219,
+      "ctr": 0.0091324200913242,
+      "position": 45.23744292237443
+    },
+    {
+      "query": "auto accident lawyer",
+      "clicks": 2,
+      "impressions": 38227,
+      "ctr": 0.000052319041515159445,
+      "position": 63.79430768828315
+    },
+    {
+      "query": "buying a car in oregon",
+      "clicks": 2,
+      "impressions": 170,
+      "ctr": 0.011764705882352941,
+      "position": 8.182352941176472
+    },
+    {
+      "query": "buying a car in oregon from out of state",
+      "clicks": 2,
+      "impressions": 176,
+      "ctr": 0.011363636363636364,
+      "position": 5.25
+    },
+    {
+      "query": "car accident attorney",
+      "clicks": 2,
+      "impressions": 83160,
+      "ctr": 0.00002405002405002405,
+      "position": 65.37675565175566
+    },
+    {
+      "query": "car accident attorney portland",
+      "clicks": 2,
+      "impressions": 1079,
+      "ctr": 0.0018535681186283596,
+      "position": 9.63855421686747
+    },
+    {
+      "query": "car accident lawyer in portland",
+      "clicks": 2,
+      "impressions": 104,
+      "ctr": 0.019230769230769232,
+      "position": 11
+    },
+    {
+      "query": "car accident lawyer portland",
+      "clicks": 2,
+      "impressions": 1533,
+      "ctr": 0.001304631441617743,
+      "position": 8.167645140247881
+    },
+    {
+      "query": "civil lawyer near me",
+      "clicks": 2,
+      "impressions": 597,
+      "ctr": 0.0033500837520938024,
+      "position": 9.795644891122278
+    },
+    {
+      "query": "civil rights attorney jobs",
+      "clicks": 2,
+      "impressions": 2,
+      "ctr": 1,
+      "position": 26.5
+    },
+    {
+      "query": "civil rights lawyer",
+      "clicks": 2,
+      "impressions": 524,
+      "ctr": 0.003816793893129771,
+      "position": 24.51145038167939
+    },
+    {
+      "query": "does insurance pay for dui accidents",
+      "clicks": 2,
+      "impressions": 132,
+      "ctr": 0.015151515151515152,
+      "position": 5.75
+    },
+    {
+      "query": "dui attorney portland",
+      "clicks": 2,
+      "impressions": 308,
+      "ctr": 0.006493506493506494,
+      "position": 9.925324675324676
+    },
+    {
+      "query": "elder abuse attorney near me",
+      "clicks": 2,
+      "impressions": 94,
+      "ctr": 0.02127659574468085,
+      "position": 58.4468085106383
+    },
+    {
+      "query": "good samaritan laws",
+      "clicks": 2,
+      "impressions": 46,
+      "ctr": 0.043478260869565216,
+      "position": 6.869565217391305
+    },
+    {
+      "query": "gresham injury law center",
+      "clicks": 2,
+      "impressions": 21,
+      "ctr": 0.09523809523809523,
+      "position": 11.333333333333334
+    },
+    {
+      "query": "how to buy a car in oregon to avoid sales tax",
+      "clicks": 2,
+      "impressions": 121,
+      "ctr": 0.01652892561983471,
+      "position": 6.223140495867769
+    },
+    {
+      "query": "how to dispute a police accident report",
+      "clicks": 2,
+      "impressions": 41,
+      "ctr": 0.04878048780487805,
+      "position": 7.585365853658536
+    },
+    {
+      "query": "insurance bad faith attorney",
+      "clicks": 2,
+      "impressions": 569,
+      "ctr": 0.0035149384885764497,
+      "position": 42.836555360281196
+    },
+    {
+      "query": "johnston",
+      "clicks": 2,
+      "impressions": 488,
+      "ctr": 0.004098360655737705,
+      "position": 48.35245901639344
+    },
+    {
+      "query": "johnstone law firm",
+      "clicks": 2,
+      "impressions": 12,
+      "ctr": 0.16666666666666666,
+      "position": 6.666666666666667
+    },
+    {
+      "query": "law firm oregon",
+      "clicks": 2,
+      "impressions": 77,
+      "ctr": 0.025974025974025976,
+      "position": 4.532467532467532
+    },
+    {
+      "query": "lawyers in oregon",
+      "clicks": 2,
+      "impressions": 115,
+      "ctr": 0.017391304347826087,
+      "position": 2.756521739130435
+    },
+    {
+      "query": "life insurance lawyer",
+      "clicks": 2,
+      "impressions": 64,
+      "ctr": 0.03125,
+      "position": 5.125
+    },
+    {
+      "query": "malpractice lawyer",
+      "clicks": 2,
+      "impressions": 2420,
+      "ctr": 0.0008264462809917355,
+      "position": 53.14793388429752
+    },
+    {
+      "query": "malpractice lawyer portland oregon",
+      "clicks": 2,
+      "impressions": 53,
+      "ctr": 0.03773584905660377,
+      "position": 7.037735849056604
+    },
+    {
+      "query": "mark johnson attorney at law",
+      "clicks": 2,
+      "impressions": 11,
+      "ctr": 0.18181818181818182,
+      "position": 2.090909090909091
+    },
+    {
+      "query": "medical malpractice attorneys in portland oregon",
+      "clicks": 2,
+      "impressions": 13,
+      "ctr": 0.15384615384615385,
+      "position": 2.230769230769231
+    },
+    {
+      "query": "medical malpractice lawyer",
+      "clicks": 2,
+      "impressions": 16197,
+      "ctr": 0.0001234796567265543,
+      "position": 24.872383774773105
+    },
+    {
+      "query": "medical malpractice lawyer oregon",
+      "clicks": 2,
+      "impressions": 31,
+      "ctr": 0.06451612903225806,
+      "position": 3.4193548387096775
+    },
+    {
+      "query": "medical malpractice lawyers portland oregon",
+      "clicks": 2,
+      "impressions": 321,
+      "ctr": 0.006230529595015576,
+      "position": 7.1806853582554515
+    },
+    {
+      "query": "oregon car accident lawyer",
+      "clicks": 2,
+      "impressions": 1101,
+      "ctr": 0.0018165304268846503,
+      "position": 13.685740236148956
+    },
+    {
+      "query": "oregon comparative negligence",
+      "clicks": 2,
+      "impressions": 59,
+      "ctr": 0.03389830508474576,
+      "position": 6.627118644067797
+    },
+    {
+      "query": "oregon injury attorney",
+      "clicks": 2,
+      "impressions": 335,
+      "ctr": 0.005970149253731343,
+      "position": 3.8507462686567164
+    },
+    {
+      "query": "oregon injury attorneys",
+      "clicks": 2,
+      "impressions": 32,
+      "ctr": 0.0625,
+      "position": 3.0625
+    },
+    {
+      "query": "oregon personal injury attorneys",
+      "clicks": 2,
+      "impressions": 120,
+      "ctr": 0.016666666666666666,
+      "position": 5.3
+    },
+    {
+      "query": "oregon personal injury statute of limitations",
+      "clicks": 2,
+      "impressions": 166,
+      "ctr": 0.012048192771084338,
+      "position": 4.066265060240964
+    },
+    {
+      "query": "oregon statute of limitations",
+      "clicks": 2,
+      "impressions": 465,
+      "ctr": 0.004301075268817204,
+      "position": 10.823655913978495
+    },
+    {
+      "query": "personal injury attorneys oregon",
+      "clicks": 2,
+      "impressions": 114,
+      "ctr": 0.017543859649122806,
+      "position": 3.2982456140350878
+    },
+    {
+      "query": "personal injury attorneys portland oregon",
+      "clicks": 2,
+      "impressions": 271,
+      "ctr": 0.007380073800738007,
+      "position": 5.538745387453875
+    },
+    {
+      "query": "personal injury lawyers portland oregon",
+      "clicks": 2,
+      "impressions": 585,
+      "ctr": 0.003418803418803419,
+      "position": 5.032478632478632
+    },
+    {
+      "query": "portland elder abuse attorney",
+      "clicks": 2,
+      "impressions": 144,
+      "ctr": 0.013888888888888888,
+      "position": 1.6388888888888888
+    },
+    {
+      "query": "portland injury attorney",
+      "clicks": 2,
+      "impressions": 629,
+      "ctr": 0.003179650238473768,
+      "position": 6.869634340222576
+    },
+    {
+      "query": "portland lawyers",
+      "clicks": 2,
+      "impressions": 468,
+      "ctr": 0.004273504273504274,
+      "position": 1.4423076923076923
+    },
+    {
+      "query": "portland or law firms",
+      "clicks": 2,
+      "impressions": 99,
+      "ctr": 0.020202020202020204,
+      "position": 2.4646464646464645
+    },
+    {
+      "query": "portland personal injury lawyer",
+      "clicks": 2,
+      "impressions": 3835,
+      "ctr": 0.0005215123859191656,
+      "position": 12.701694915254237
+    },
+    {
+      "query": "portland sex offender map",
+      "clicks": 2,
+      "impressions": 71,
+      "ctr": 0.028169014084507043,
+      "position": 9.422535211267606
+    },
+    {
+      "query": "registered sex offenders near me",
+      "clicks": 2,
+      "impressions": 82,
+      "ctr": 0.024390243902439025,
+      "position": 7.134146341463414
+    },
+    {
+      "query": "rob kline",
+      "clicks": 2,
+      "impressions": 204,
+      "ctr": 0.00980392156862745,
+      "position": 6.382352941176471
+    },
+    {
+      "query": "sex abuse attorneys",
+      "clicks": 2,
+      "impressions": 723,
+      "ctr": 0.0027662517289073307,
+      "position": 21.456431535269708
+    },
+    {
+      "query": "sex offender map portland",
+      "clicks": 2,
+      "impressions": 40,
+      "ctr": 0.05,
+      "position": 9.65
+    },
+    {
+      "query": "sex offender map portland oregon",
+      "clicks": 2,
+      "impressions": 23,
+      "ctr": 0.08695652173913043,
+      "position": 8.478260869565219
+    },
+    {
+      "query": "sexual assault lawyer near me",
+      "clicks": 2,
+      "impressions": 1018,
+      "ctr": 0.0019646365422396855,
+      "position": 40.03339882121807
+    },
+    {
+      "query": "top medical malpractice lawyers",
+      "clicks": 2,
+      "impressions": 2,
+      "ctr": 1,
+      "position": 5
+    },
+    {
+      "query": "victim attorney",
+      "clicks": 2,
+      "impressions": 12,
+      "ctr": 0.16666666666666666,
+      "position": 21.416666666666668
+    },
+    {
+      "query": "1983 lawyer",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "24 hour lawyer near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 4
+    },
+    {
+      "query": "abuse and neglect attorney portland",
+      "clicks": 1,
+      "impressions": 167,
+      "ctr": 0.005988023952095809,
+      "position": 2.389221556886228
+    },
+    {
+      "query": "accident attorney",
+      "clicks": 1,
+      "impressions": 8632,
+      "ctr": 0.00011584800741427248,
+      "position": 50.60843373493976
+    },
+    {
+      "query": "accident attorney eugene oregon",
+      "clicks": 1,
+      "impressions": 45,
+      "ctr": 0.022222222222222223,
+      "position": 13.644444444444444
+    },
+    {
+      "query": "accident attorney portland oregon",
+      "clicks": 1,
+      "impressions": 73,
+      "ctr": 0.0136986301369863,
+      "position": 5.767123287671233
+    },
+    {
+      "query": "accident attorneys",
+      "clicks": 1,
+      "impressions": 2370,
+      "ctr": 0.0004219409282700422,
+      "position": 40.37510548523207
+    },
+    {
+      "query": "accident attorneys portland",
+      "clicks": 1,
+      "impressions": 30,
+      "ctr": 0.03333333333333333,
+      "position": 6.733333333333333
+    },
+    {
+      "query": "accident case",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 30.5
+    },
+    {
+      "query": "accident lawyer free consultation",
+      "clicks": 1,
+      "impressions": 251,
+      "ctr": 0.00398406374501992,
+      "position": 52.123505976095615
+    },
+    {
+      "query": "accident lawyer portland oregon",
+      "clicks": 1,
+      "impressions": 279,
+      "ctr": 0.0035842293906810036,
+      "position": 4.681003584229391
+    },
+    {
+      "query": "accident report oregon",
+      "clicks": 1,
+      "impressions": 49,
+      "ctr": 0.02040816326530612,
+      "position": 14.938775510204081
+    },
+    {
+      "query": "annuity attorney near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 12
+    },
+    {
+      "query": "are stop signs in parking lots enforceable",
+      "clicks": 1,
+      "impressions": 37,
+      "ctr": 0.02702702702702703,
+      "position": 10.108108108108109
+    },
+    {
+      "query": "attorney for auto accidents",
+      "clicks": 1,
+      "impressions": 88,
+      "ctr": 0.011363636363636364,
+      "position": 50.71590909090909
+    },
+    {
+      "query": "attorney for car accident",
+      "clicks": 1,
+      "impressions": 280,
+      "ctr": 0.0035714285714285713,
+      "position": 61.36071428571429
+    },
+    {
+      "query": "attorney for medical malpractice near me",
+      "clicks": 1,
+      "impressions": 55,
+      "ctr": 0.01818181818181818,
+      "position": 62.18181818181818
+    },
+    {
+      "query": "attorney for medical negligence near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 6
+    },
+    {
+      "query": "attorney for sexual assault victims",
+      "clicks": 1,
+      "impressions": 94,
+      "ctr": 0.010638297872340425,
+      "position": 29.93617021276596
+    },
+    {
+      "query": "attorney health insurance claims",
+      "clicks": 1,
+      "impressions": 6,
+      "ctr": 0.16666666666666666,
+      "position": 47.5
+    },
+    {
+      "query": "attorney in oregon",
+      "clicks": 1,
+      "impressions": 77,
+      "ctr": 0.012987012987012988,
+      "position": 51.44155844155844
+    },
+    {
+      "query": "attorney insurance claims",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 9.384615384615385
+    },
+    {
+      "query": "attorney medical",
+      "clicks": 1,
+      "impressions": 4,
+      "ctr": 0.25,
+      "position": 36
+    },
+    {
+      "query": "attorney police misconduct",
+      "clicks": 1,
+      "impressions": 9,
+      "ctr": 0.1111111111111111,
+      "position": 14.444444444444445
+    },
+    {
+      "query": "attorney portland",
+      "clicks": 1,
+      "impressions": 356,
+      "ctr": 0.0028089887640449437,
+      "position": 7.337078651685394
+    },
+    {
+      "query": "attorney portland oregon",
+      "clicks": 1,
+      "impressions": 301,
+      "ctr": 0.0033222591362126247,
+      "position": 2.6810631229235877
+    },
+    {
+      "query": "attorney specializing in medical malpractice",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 37.2
+    },
+    {
+      "query": "attorneys in portland",
+      "clicks": 1,
+      "impressions": 102,
+      "ctr": 0.00980392156862745,
+      "position": 3.715686274509804
+    },
+    {
+      "query": "attorneys portland oregon",
+      "clicks": 1,
+      "impressions": 163,
+      "ctr": 0.006134969325153374,
+      "position": 1.5153374233128836
+    },
+    {
+      "query": "attorneys that handle civil cases",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 8.5
+    },
+    {
+      "query": "attorneys that sue insurance companies",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 2
+    },
+    {
+      "query": "auto accident attorney",
+      "clicks": 1,
+      "impressions": 16661,
+      "ctr": 0.00006002040693835904,
+      "position": 59.0278494688194
+    },
+    {
+      "query": "auto accident attorneys near me",
+      "clicks": 1,
+      "impressions": 1240,
+      "ctr": 0.0008064516129032258,
+      "position": 31.901612903225807
+    },
+    {
+      "query": "auto accident lawyer portland",
+      "clicks": 1,
+      "impressions": 528,
+      "ctr": 0.001893939393939394,
+      "position": 9.645833333333334
+    },
+    {
+      "query": "auto accident lawyers",
+      "clicks": 1,
+      "impressions": 13393,
+      "ctr": 0.00007466587023071754,
+      "position": 59.538340924363474
+    },
+    {
+      "query": "bad faith insurance attorney",
+      "clicks": 1,
+      "impressions": 995,
+      "ctr": 0.0010050251256281408,
+      "position": 52.095477386934675
+    },
+    {
+      "query": "bad faith insurance lawyers near me",
+      "clicks": 1,
+      "impressions": 36,
+      "ctr": 0.027777777777777776,
+      "position": 67.22222222222223
+    },
+    {
+      "query": "best attorney for roundup lawsuit",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "best attorneys for medical malpractice",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 11
+    },
+    {
+      "query": "best car accident lawyer portland",
+      "clicks": 1,
+      "impressions": 141,
+      "ctr": 0.0070921985815602835,
+      "position": 8.333333333333332
+    },
+    {
+      "query": "best medical malpractice lawyers in oregon",
+      "clicks": 1,
+      "impressions": 421,
+      "ctr": 0.0023752969121140144,
+      "position": 6.921615201900238
+    },
+    {
+      "query": "best personal injury lawyer",
+      "clicks": 1,
+      "impressions": 105,
+      "ctr": 0.009523809523809525,
+      "position": 16.61904761904762
+    },
+    {
+      "query": "big law firms in portland oregon",
+      "clicks": 1,
+      "impressions": 10,
+      "ctr": 0.1,
+      "position": 1.8
+    },
+    {
+      "query": "birth injury attorney near me",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 7
+    },
+    {
+      "query": "birth injury lawyer near me",
+      "clicks": 1,
+      "impressions": 7,
+      "ctr": 0.14285714285714285,
+      "position": 6.857142857142857
+    },
+    {
+      "query": "birth injury litigation",
+      "clicks": 1,
+      "impressions": 1,
+      "ctr": 1,
+      "position": 3
+    },
+    {
+      "query": "black civil rights attorney near me",
+      "clicks": 1,
+      "impressions": 2,
+      "ctr": 0.5,
+      "position": 15
+    },
+    {
+      "query": "buying car in oregon to avoid sales tax",
+      "clicks": 1,
+      "impressions": 37,
+      "ctr": 0.02702702702702703,
+      "position": 6.243243243243243
+    },
+    {
+      "query": "can a police report be changed after an accident",
+      "clicks": 1,
+      "impressions": 13,
+      "ctr": 0.07692307692307693,
+      "position": 30.615384615384617
+    },
+    {
+      "query": "can i buy a car in oregon and not pay sales tax",
+      "clicks": 1,
+      "impressions": 21,
+      "ctr": 0.047619047619047616,
+      "position": 7.095238095238095
+    },
+    {
+      "query": "can you appeal a police report",
+      "clicks": 1,
+      "impressions": 5,
+      "ctr": 0.2,
+      "position": 7
+    },
+    {
+      "query": "can you buy a car in oregon to avoid sales tax",
+      "clicks": 1,
+      "impressions": 92,
+      "ctr": 0.010869565217391304,
+      "position": 8.98913043478261
+    },
+    {
+      "query": "can you dispute a car accident report",
+      "clicks": 1,
+      "impressions": 67,
+      "ctr": 0.014925373134328358,
+      "position": 6.402985074626866
+    },
+    {
+      "query": "can you dispute a police accident report",
+      "clicks": 1,
+      "impressions": 36,
+      "ctr": 0.027777777777777776,
+      "position": 8.083333333333332
+    },
+    {
+      "query": "can you dispute a police report",
+      "clicks": 1,
+      "impressions": 66,
+      "ctr": 0.015151515151515152,
+      "position": 9.636363636363637
+    },
+    {
+      "query": "can you dispute an accident report",
+      "clicks": 1,
+      "impressions": 33,
+      "ctr": 0.030303030303030304,
+      "position": 7.090909090909091
     }
   ],
   "topPages": [
     {
       "page": "https://johnston-lawfirm.com/",
-      "clicks": 3546,
-      "impressions": 184304,
-      "ctr": 0.01923995138466881,
-      "position": 26.066352330931505
+      "clicks": 2718,
+      "impressions": 187004,
+      "ctr": 0.014534448460995487,
+      "position": 25.080516994288892
     },
     {
       "page": "https://johnston-lawfirm.com/?utm_campaign=gmb&utm_source=gmb",
-      "clicks": 686,
-      "impressions": 292903,
-      "ctr": 0.002342072290143836,
-      "position": 3.04464617979331
+      "clicks": 727,
+      "impressions": 303779,
+      "ctr": 0.0023931871525023126,
+      "position": 2.8908384055514045
     },
     {
       "page": "https://johnston-lawfirm.com/oregon-nurse-swapping-fentanyl-tap-water-303m-lawsuit/",
-      "clicks": 268,
-      "impressions": 4360,
-      "ctr": 0.061467889908256884,
-      "position": 8.561467889908258
-    },
-    {
-      "page": "https://johnston-lawfirm.com/our-testimonials/",
-      "clicks": 237,
-      "impressions": 21493,
-      "ctr": 0.011026845949844136,
-      "position": 5.847438700972409
+      "clicks": 258,
+      "impressions": 4480,
+      "ctr": 0.05758928571428571,
+      "position": 8.134375
     },
     {
       "page": "https://johnston-lawfirm.com/portland/civil-rights/",
-      "clicks": 218,
-      "impressions": 42181,
-      "ctr": 0.005168203693606126,
-      "position": 29.78343329935279
+      "clicks": 228,
+      "impressions": 41738,
+      "ctr": 0.005462647946715224,
+      "position": 28.68309454214385
     },
     {
       "page": "https://johnston-lawfirm.com/oregons-good-samaritan-law/",
-      "clicks": 216,
-      "impressions": 5739,
-      "ctr": 0.03763721902770518,
-      "position": 10.261892315734448
+      "clicks": 212,
+      "impressions": 5588,
+      "ctr": 0.03793843951324266,
+      "position": 9.236220472440944
     },
     {
-      "page": "https://johnston-lawfirm.com/portland/medical-malpractice/",
-      "clicks": 135,
-      "impressions": 62940,
-      "ctr": 0.0021448999046711154,
-      "position": 36.05611693676517
+      "page": "https://johnston-lawfirm.com/our-testimonials/",
+      "clicks": 172,
+      "impressions": 25660,
+      "ctr": 0.006703039750584568,
+      "position": 6.085580670303975
     },
     {
       "page": "https://johnston-lawfirm.com/what-you-should-know-buying-car-oregon/",
-      "clicks": 128,
-      "impressions": 30739,
-      "ctr": 0.00416409121962328,
-      "position": 10.271674420117765
+      "clicks": 135,
+      "impressions": 31147,
+      "ctr": 0.00433428580601663,
+      "position": 9.462516454233153
     },
     {
-      "page": "https://johnston-lawfirm.com/how-to-dispute-fault-in-a-police-report-after-a-car-accident/",
-      "clicks": 123,
-      "impressions": 17779,
-      "ctr": 0.006918274368637156,
-      "position": 10.059283424264581
+      "page": "https://johnston-lawfirm.com/portland/medical-malpractice/",
+      "clicks": 130,
+      "impressions": 74400,
+      "ctr": 0.0017473118279569893,
+      "position": 34.76706989247312
     },
     {
       "page": "https://johnston-lawfirm.com/oregons-statute-of-limitations-for-different-types-of-injury-claims/",
-      "clicks": 121,
-      "impressions": 19668,
-      "ctr": 0.006152125279642058,
-      "position": 7.8420276591417535
+      "clicks": 117,
+      "impressions": 18644,
+      "ctr": 0.0062754773653722375,
+      "position": 7.857380390474147
     },
     {
-      "page": "https://johnston-lawfirm.com/how-insurance-companies-handle-drunk-driving-accidents/",
-      "clicks": 99,
-      "impressions": 20719,
-      "ctr": 0.004778222887204981,
-      "position": 11.747767749408755
+      "page": "https://johnston-lawfirm.com/how-to-dispute-fault-in-a-police-report-after-a-car-accident/",
+      "clicks": 116,
+      "impressions": 17771,
+      "ctr": 0.006527488605030668,
+      "position": 10.045185977153789
     },
     {
       "page": "https://johnston-lawfirm.com/attorneys/",
-      "clicks": 98,
-      "impressions": 21020,
-      "ctr": 0.004662226450999048,
-      "position": 8.360085632730733
+      "clicks": 103,
+      "impressions": 7593,
+      "ctr": 0.01356512577373897,
+      "position": 10.232582641907019
     },
     {
       "page": "https://johnston-lawfirm.com/portland/litigation/",
-      "clicks": 96,
-      "impressions": 23133,
-      "ctr": 0.0041499157048372455,
-      "position": 30.371374227294343
+      "clicks": 99,
+      "impressions": 23629,
+      "ctr": 0.004189766811968344,
+      "position": 28.92166405687926
     },
     {
       "page": "https://johnston-lawfirm.com/car-accident/",
-      "clicks": 85,
-      "impressions": 567333,
-      "ctr": 0.0001498238248083577,
-      "position": 57.99625264174656
+      "clicks": 92,
+      "impressions": 494176,
+      "ctr": 0.00018616849057825552,
+      "position": 56.856945703555006
+    },
+    {
+      "page": "https://johnston-lawfirm.com/how-insurance-companies-handle-drunk-driving-accidents/",
+      "clicks": 89,
+      "impressions": 23322,
+      "ctr": 0.0038161392676442844,
+      "position": 10.848983792127605
+    },
+    {
+      "page": "https://johnston-lawfirm.com/after-girl-falls-60-feet-from-bridge-friend-who-pushed-her-may-be-liable-for-damages/",
+      "clicks": 81,
+      "impressions": 5000,
+      "ctr": 0.0162,
+      "position": 7.2068
     },
     {
       "page": "https://johnston-lawfirm.com/portland/sexual-assault/",
-      "clicks": 77,
-      "impressions": 47873,
-      "ctr": 0.0016084222839596433,
-      "position": 28.497232260355524
+      "clicks": 78,
+      "impressions": 53754,
+      "ctr": 0.0014510548052237974,
+      "position": 28.584700673438256
     },
     {
       "page": "https://johnston-lawfirm.com/attorneys/marc-a-johnston/",
       "clicks": 68,
-      "impressions": 23768,
-      "ctr": 0.00286098956580276,
-      "position": 9.88665432514305
+      "impressions": 9847,
+      "ctr": 0.006905656545140652,
+      "position": 13.329440438712298
     },
     {
       "page": "https://johnston-lawfirm.com/human-error-in-self-driving-car-accidents/",
-      "clicks": 53,
-      "impressions": 6634,
-      "ctr": 0.007989146819415134,
-      "position": 11.437594211637022
-    },
-    {
-      "page": "https://johnston-lawfirm.com/practice-areas/",
-      "clicks": 53,
-      "impressions": 32876,
-      "ctr": 0.0016121182625623556,
-      "position": 8.139676359654459
-    },
-    {
-      "page": "https://johnston-lawfirm.com/after-girl-falls-60-feet-from-bridge-friend-who-pushed-her-may-be-liable-for-damages/",
-      "clicks": 50,
-      "impressions": 3690,
-      "ctr": 0.013550135501355014,
-      "position": 8.026287262872629
-    },
-    {
-      "page": "https://johnston-lawfirm.com/portland/victims/",
-      "clicks": 46,
-      "impressions": 4386,
-      "ctr": 0.010487916096671226,
-      "position": 30.010259917920656
-    },
-    {
-      "page": "https://johnston-lawfirm.com/portland/bad-faith/",
-      "clicks": 44,
-      "impressions": 13983,
-      "ctr": 0.003146678109132518,
-      "position": 33.86547951083458
-    },
-    {
-      "page": "https://johnston-lawfirm.com/portland/elder-abuse/",
-      "clicks": 44,
-      "impressions": 10425,
-      "ctr": 0.00422062350119904,
-      "position": 36.4642685851319
+      "clicks": 62,
+      "impressions": 7035,
+      "ctr": 0.008813077469793887,
+      "position": 11.028144989339019
     },
     {
       "page": "https://johnston-lawfirm.com/what-to-do-if-the-other-driver-lies-about-the-car-accident/",
-      "clicks": 44,
-      "impressions": 5933,
-      "ctr": 0.007416146974549132,
-      "position": 7.14276082926007
+      "clicks": 54,
+      "impressions": 7912,
+      "ctr": 0.006825075834175936,
+      "position": 6.833291203235592
+    },
+    {
+      "page": "https://johnston-lawfirm.com/portland/victims/",
+      "clicks": 47,
+      "impressions": 4367,
+      "ctr": 0.010762537210899932,
+      "position": 29.96496450652622
+    },
+    {
+      "page": "https://johnston-lawfirm.com/portland/bad-faith/",
+      "clicks": 43,
+      "impressions": 12493,
+      "ctr": 0.0034419274793884573,
+      "position": 33.63899783878972
     },
     {
       "page": "https://johnston-lawfirm.com/5-ways-prove-emotional-distress-in-oregon-court/",
+      "clicks": 42,
+      "impressions": 2311,
+      "ctr": 0.018173950670705322,
+      "position": 6.427087840761575
+    },
+    {
+      "page": "https://johnston-lawfirm.com/portland/elder-abuse/",
+      "clicks": 42,
+      "impressions": 10292,
+      "ctr": 0.004080839486980179,
+      "position": 35.48853478429849
+    },
+    {
+      "page": "https://johnston-lawfirm.com/practice-areas/",
       "clicks": 39,
-      "impressions": 2058,
-      "ctr": 0.018950437317784258,
-      "position": 6.812439261418853
+      "impressions": 30134,
+      "ctr": 0.0012942191544434857,
+      "position": 8.506670206411362
     },
     {
       "page": "https://johnston-lawfirm.com/stop-signs-parking-lots-legitimate-oregon/",
       "clicks": 38,
-      "impressions": 2723,
-      "ctr": 0.01395519647447668,
-      "position": 9.858979067205288
+      "impressions": 2927,
+      "ctr": 0.012982576016399043,
+      "position": 9.115134950461224
+    },
+    {
+      "page": "https://johnston-lawfirm.com/can-seek-compensation-contracting-diseasestdillness-another/",
+      "clicks": 34,
+      "impressions": 4071,
+      "ctr": 0.008351756325227217,
+      "position": 9.459346597887498
     },
     {
       "page": "https://johnston-lawfirm.com/legal-aspects-in-oregon-accidents-involving-rental-cars/",
-      "clicks": 33,
-      "impressions": 3597,
-      "ctr": 0.009174311926605505,
-      "position": 22.187934389769254
+      "clicks": 32,
+      "impressions": 3548,
+      "ctr": 0.009019165727170236,
+      "position": 18.16685456595265
     },
     {
       "page": "https://johnston-lawfirm.com/portland/health-insurance/",
-      "clicks": 32,
-      "impressions": 6068,
-      "ctr": 0.005273566249176005,
-      "position": 28.914634146341463
-    },
-    {
-      "page": "https://johnston-lawfirm.com/sheridan/",
       "clicks": 31,
-      "impressions": 406,
-      "ctr": 0.07635467980295567,
-      "position": 17.051724137931036
+      "impressions": 5540,
+      "ctr": 0.005595667870036101,
+      "position": 28.302707581227438
     },
     {
-      "page": "https://johnston-lawfirm.com/new-oregon-labor-and-employment-laws-in-2025-and-2026/",
-      "clicks": 30,
-      "impressions": 8773,
-      "ctr": 0.0034195828108970704,
-      "position": 13.667388578593412
+      "page": "https://johnston-lawfirm.com/where-do-registered-sex-offenders-live-in-portland/",
+      "clicks": 31,
+      "impressions": 1810,
+      "ctr": 0.01712707182320442,
+      "position": 8.586740331491713
+    },
+    {
+      "page": "https://johnston-lawfirm.com/getting-sued-for-a-car-accident-in-oregon/",
+      "clicks": 29,
+      "impressions": 2541,
+      "ctr": 0.011412829594647777,
+      "position": 31.50452577725305
     },
     {
       "page": "https://johnston-lawfirm.com/contact/",
-      "clicks": 28,
-      "impressions": 40432,
-      "ctr": 0.0006925207756232687,
-      "position": 13.778022358527899
+      "clicks": 27,
+      "impressions": 36711,
+      "ctr": 0.0007354743809757293,
+      "position": 15.2488082591049
     },
     {
       "page": "https://johnston-lawfirm.com/when-is-a-police-report-required-after-a-car-accident-in-oregon/",
       "clicks": 27,
-      "impressions": 3580,
-      "ctr": 0.007541899441340782,
-      "position": 6.462011173184358
-    },
-    {
-      "page": "https://johnston-lawfirm.com/cutting-edge-approach/",
-      "clicks": 26,
-      "impressions": 240,
-      "ctr": 0.10833333333333334,
-      "position": 15.079166666666667
-    },
-    {
-      "page": "https://johnston-lawfirm.com/getting-sued-for-a-car-accident-in-oregon/",
-      "clicks": 26,
-      "impressions": 2547,
-      "ctr": 0.010208087946603848,
-      "position": 32.64193168433451
-    },
-    {
-      "page": "https://johnston-lawfirm.com/where-do-registered-sex-offenders-live-in-portland/",
-      "clicks": 25,
-      "impressions": 1684,
-      "ctr": 0.014845605700712588,
-      "position": 9.211995249406176
+      "impressions": 3701,
+      "ctr": 0.007295325587679005,
+      "position": 6.655498513915158
     },
     {
       "page": "https://johnston-lawfirm.com/toxic-mold-pacific-coast-homes/",
-      "clicks": 24,
-      "impressions": 674,
-      "ctr": 0.03560830860534125,
-      "position": 16.495548961424333
-    },
-    {
-      "page": "https://johnston-lawfirm.com/tactics-insurance-companies-use-to-deny-car-accident-claims/",
-      "clicks": 23,
-      "impressions": 5502,
-      "ctr": 0.004180298073427844,
-      "position": 16.093420574336605
+      "clicks": 26,
+      "impressions": 710,
+      "ctr": 0.036619718309859155,
+      "position": 16.274647887323944
     },
     {
       "page": "https://johnston-lawfirm.com/how-to-file-car-accident-police-report-oregon/",
+      "clicks": 25,
+      "impressions": 3361,
+      "ctr": 0.007438262421898245,
+      "position": 8.89913716155906
+    },
+    {
+      "page": "https://johnston-lawfirm.com/sheridan/",
+      "clicks": 23,
+      "impressions": 327,
+      "ctr": 0.07033639143730887,
+      "position": 15.896024464831804
+    },
+    {
+      "page": "https://johnston-lawfirm.com/legal-guide-for-portland-victims-injured-in-hit-and-run-accidents/",
       "clicks": 22,
-      "impressions": 2900,
-      "ctr": 0.007586206896551724,
-      "position": 9.051724137931034
+      "impressions": 4026,
+      "ctr": 0.00546448087431694,
+      "position": 6.515648286140089
     },
     {
       "page": "https://johnston-lawfirm.com/attorneys/rob-kline/",
-      "clicks": 21,
-      "impressions": 1543,
-      "ctr": 0.013609850939727802,
-      "position": 17.880751782242385
+      "clicks": 19,
+      "impressions": 1547,
+      "ctr": 0.012281835811247576,
+      "position": 17.30704589528119
     },
     {
-      "page": "https://johnston-lawfirm.com/can-seek-compensation-contracting-diseasestdillness-another/",
-      "clicks": 20,
-      "impressions": 4044,
-      "ctr": 0.004945598417408506,
-      "position": 10.711177052423343
+      "page": "https://johnston-lawfirm.com/new-oregon-labor-and-employment-laws-in-2025-and-2026/",
+      "clicks": 19,
+      "impressions": 7178,
+      "ctr": 0.0026469768737809973,
+      "position": 13.25717470047367
+    },
+    {
+      "page": "https://johnston-lawfirm.com/tactics-insurance-companies-use-to-deny-car-accident-claims/",
+      "clicks": 19,
+      "impressions": 5477,
+      "ctr": 0.003469052400949425,
+      "position": 14.871097316048932
     },
     {
       "page": "https://johnston-lawfirm.com/dallas/",
-      "clicks": 20,
-      "impressions": 172,
-      "ctr": 0.11627906976744186,
-      "position": 18.023255813953487
+      "clicks": 18,
+      "impressions": 192,
+      "ctr": 0.09375,
+      "position": 15.994791666666666
     },
     {
-      "page": "https://johnston-lawfirm.com/oregon-average-settlements-in-car-accidents-w-o-injuries/",
+      "page": "https://johnston-lawfirm.com/the-process-of-settlement-negotiations-in-oregon-personal-injury-cases/",
       "clicks": 18,
-      "impressions": 1840,
-      "ctr": 0.009782608695652175,
-      "position": 16.945652173913043
-    },
-    {
-      "page": "https://johnston-lawfirm.com/the-importance-of-police-reports-in-oregon-car-accidents/",
-      "clicks": 18,
-      "impressions": 3532,
-      "ctr": 0.005096262740656852,
-      "position": 15.597395243488108
+      "impressions": 2840,
+      "ctr": 0.006338028169014085,
+      "position": 13.967957746478874
     },
     {
       "page": "https://johnston-lawfirm.com/federal-motor-carrier-safety-regulations-and-their-role-in-bus-accident-litigation/",
       "clicks": 17,
-      "impressions": 6484,
-      "ctr": 0.002621838371375694,
-      "position": 9.781462060456509
-    },
-    {
-      "page": "https://johnston-lawfirm.com/legal-guide-for-portland-victims-injured-in-hit-and-run-accidents/",
-      "clicks": 17,
-      "impressions": 2640,
-      "ctr": 0.006439393939393939,
-      "position": 5.930681818181818
+      "impressions": 6070,
+      "ctr": 0.002800658978583196,
+      "position": 9.872981878088963
     },
     {
       "page": "https://johnston-lawfirm.com/bus-accident/trimet-bus/",
       "clicks": 16,
-      "impressions": 5098,
-      "ctr": 0.003138485680659082,
-      "position": 22.525500196155356
+      "impressions": 4519,
+      "ctr": 0.003540606328833813,
+      "position": 21.803496348749725
     },
     {
-      "page": "https://johnston-lawfirm.com/witnessing-sudden-injury-death-family-member/",
-      "clicks": 16,
-      "impressions": 2629,
-      "ctr": 0.006085964244960061,
-      "position": 11.212248003042982
-    },
-    {
-      "page": "https://johnston-lawfirm.com/oregons-comparative-negligence-rule-and-its-impact-on-your-personal-injury-claim/",
+      "page": "https://johnston-lawfirm.com/can-passengers-file-a-claim-after-a-car-accident-in-oregon/",
       "clicks": 15,
-      "impressions": 4657,
-      "ctr": 0.0032209576980888983,
-      "position": 8.75434829289242
+      "impressions": 2091,
+      "ctr": 0.007173601147776184,
+      "position": 19.940698230511718
     },
     {
-      "page": "https://johnston-lawfirm.com/portland/defective-products/",
+      "page": "https://johnston-lawfirm.com/oregon-average-settlements-in-car-accidents-w-o-injuries/",
       "clicks": 15,
-      "impressions": 8678,
-      "ctr": 0.0017285088730122147,
-      "position": 33.74913574556349
+      "impressions": 1917,
+      "ctr": 0.00782472613458529,
+      "position": 16.216484089723526
     },
     {
-      "page": "https://johnston-lawfirm.com/portland/workplace-accident/",
+      "page": "https://johnston-lawfirm.com/the-importance-of-police-reports-in-oregon-car-accidents/",
       "clicks": 15,
-      "impressions": 24595,
-      "ctr": 0.0006098800569221387,
-      "position": 36.960113844277295
+      "impressions": 3155,
+      "ctr": 0.004754358161648178,
+      "position": 14.272900158478606
     },
     {
-      "page": "https://johnston-lawfirm.com/the-process-of-settlement-negotiations-in-oregon-personal-injury-cases/",
-      "clicks": 15,
-      "impressions": 2825,
-      "ctr": 0.005309734513274336,
-      "position": 15.650973451327433
+      "page": "https://johnston-lawfirm.com/criminal-penalties-for-drunk-driving/",
+      "clicks": 14,
+      "impressions": 3078,
+      "ctr": 0.004548408057179987,
+      "position": 11.52729044834308
+    },
+    {
+      "page": "https://johnston-lawfirm.com/cutting-edge-approach/",
+      "clicks": 14,
+      "impressions": 200,
+      "ctr": 0.07,
+      "position": 15.505
+    },
+    {
+      "page": "https://johnston-lawfirm.com/lsat-prep-course-scholarship/",
+      "clicks": 14,
+      "impressions": 462,
+      "ctr": 0.030303030303030304,
+      "position": 34.68614718614719
+    },
+    {
+      "page": "https://johnston-lawfirm.com/oregon-pip-coverage-how-does-it-work/",
+      "clicks": 14,
+      "impressions": 1797,
+      "ctr": 0.0077907623817473565,
+      "position": 9.670005564830273
     }
   ],
-  "fetchedAt": "2026-03-18T13:06:58.320Z"
+  "yoyDateRange": {
+    "start": "2025-01-04",
+    "end": "2025-04-04"
+  },
+  "yoyTopQueries": [
+    {
+      "query": "johnston law firm",
+      "clicks": 179,
+      "impressions": 897,
+      "ctr": 0.1995540691192865,
+      "position": 2.8071348940914156
+    },
+    {
+      "query": "oregon good samaritan law",
+      "clicks": 105,
+      "impressions": 333,
+      "ctr": 0.3153153153153153,
+      "position": 1.3813813813813813
+    },
+    {
+      "query": "good samaritan law oregon",
+      "clicks": 81,
+      "impressions": 289,
+      "ctr": 0.28027681660899656,
+      "position": 1.2249134948096887
+    },
+    {
+      "query": "lake oswego truck accident lawyer",
+      "clicks": 66,
+      "impressions": 228,
+      "ctr": 0.2894736842105263,
+      "position": 1.9824561403508771
+    },
+    {
+      "query": "beaverton semi-truck accident lawyer",
+      "clicks": 62,
+      "impressions": 104,
+      "ctr": 0.5961538461538461,
+      "position": 1.8653846153846154
+    },
+    {
+      "query": "oregon city car accident lawyer",
+      "clicks": 57,
+      "impressions": 157,
+      "ctr": 0.3630573248407643,
+      "position": 1.662420382165605
+    },
+    {
+      "query": "eugene semi-truck accident lawyer",
+      "clicks": 56,
+      "impressions": 74,
+      "ctr": 0.7567567567567568,
+      "position": 1.2297297297297298
+    },
+    {
+      "query": "oregon semi truck accident lawyer",
+      "clicks": 52,
+      "impressions": 158,
+      "ctr": 0.3291139240506329,
+      "position": 1.7341772151898733
+    },
+    {
+      "query": "portland semi truck accident lawyer",
+      "clicks": 52,
+      "impressions": 185,
+      "ctr": 0.2810810810810811,
+      "position": 1.6432432432432433
+    },
+    {
+      "query": "car accident lawyer in gladstone",
+      "clicks": 45,
+      "impressions": 206,
+      "ctr": 0.21844660194174756,
+      "position": 6.674757281553398
+    },
+    {
+      "query": "johnston law firm portland",
+      "clicks": 43,
+      "impressions": 230,
+      "ctr": 0.18695652173913044,
+      "position": 1
+    },
+    {
+      "query": "oregon truck accident lawyer",
+      "clicks": 43,
+      "impressions": 816,
+      "ctr": 0.05269607843137255,
+      "position": 1.593137254901961
+    },
+    {
+      "query": "lawyer for car accident beaverton oregon",
+      "clicks": 42,
+      "impressions": 68,
+      "ctr": 0.6176470588235294,
+      "position": 1.1176470588235294
+    },
+    {
+      "query": "gladstone car accident lawyer",
+      "clicks": 41,
+      "impressions": 250,
+      "ctr": 0.164,
+      "position": 9.256
+    },
+    {
+      "query": "oregon car sales tax",
+      "clicks": 33,
+      "impressions": 706,
+      "ctr": 0.046742209631728045,
+      "position": 4.898016997167138
+    },
+    {
+      "query": "west linn truck accident lawyer",
+      "clicks": 33,
+      "impressions": 172,
+      "ctr": 0.19186046511627908,
+      "position": 1.7151162790697674
+    },
+    {
+      "query": "clackamas car accident lawyer near me",
+      "clicks": 31,
+      "impressions": 61,
+      "ctr": 0.5081967213114754,
+      "position": 1.2459016393442623
+    },
+    {
+      "query": "is lane splitting legal in oregon",
+      "clicks": 30,
+      "impressions": 1793,
+      "ctr": 0.016731734523145567,
+      "position": 3.2900167317345232
+    },
+    {
+      "query": "lane splitting oregon",
+      "clicks": 27,
+      "impressions": 596,
+      "ctr": 0.04530201342281879,
+      "position": 2.5620805369127515
+    },
+    {
+      "query": "civil rights attorney portland oregon",
+      "clicks": 24,
+      "impressions": 220,
+      "ctr": 0.10909090909090909,
+      "position": 2.504545454545455
+    },
+    {
+      "query": "car accident lawyer gladstone",
+      "clicks": 23,
+      "impressions": 281,
+      "ctr": 0.08185053380782918,
+      "position": 7.473309608540926
+    },
+    {
+      "query": "car accident lawyer lincoln city",
+      "clicks": 20,
+      "impressions": 57,
+      "ctr": 0.3508771929824561,
+      "position": 1.4035087719298245
+    },
+    {
+      "query": "clackamas car accident lawyer",
+      "clicks": 19,
+      "impressions": 65,
+      "ctr": 0.2923076923076923,
+      "position": 2.338461538461538
+    },
+    {
+      "query": "oregon lane splitting",
+      "clicks": 19,
+      "impressions": 256,
+      "ctr": 0.07421875,
+      "position": 2.640625
+    },
+    {
+      "query": "johnston law",
+      "clicks": 18,
+      "impressions": 206,
+      "ctr": 0.08737864077669903,
+      "position": 7.131067961165049
+    },
+    {
+      "query": "marc johnston",
+      "clicks": 18,
+      "impressions": 423,
+      "ctr": 0.0425531914893617,
+      "position": 2.148936170212766
+    },
+    {
+      "query": "truck accident lawyer woodburn",
+      "clicks": 18,
+      "impressions": 43,
+      "ctr": 0.4186046511627907,
+      "position": 1.7674418604651163
+    },
+    {
+      "query": "lane filtering oregon",
+      "clicks": 17,
+      "impressions": 199,
+      "ctr": 0.08542713567839195,
+      "position": 2.9447236180904524
+    },
+    {
+      "query": "sandy car accident lawyer",
+      "clicks": 17,
+      "impressions": 288,
+      "ctr": 0.059027777777777776,
+      "position": 13.774305555555555
+    },
+    {
+      "query": "car accident lawyer",
+      "clicks": 16,
+      "impressions": 40541,
+      "ctr": 0.0003946621938284699,
+      "position": 54.498606349128046
+    },
+    {
+      "query": "truck accident lawyer oregon",
+      "clicks": 16,
+      "impressions": 137,
+      "ctr": 0.11678832116788321,
+      "position": 2.1751824817518246
+    },
+    {
+      "query": "civil rights attorney",
+      "clicks": 15,
+      "impressions": 6679,
+      "ctr": 0.0022458451864051506,
+      "position": 60.56745021709837
+    },
+    {
+      "query": "good samaritan laws oregon",
+      "clicks": 15,
+      "impressions": 45,
+      "ctr": 0.3333333333333333,
+      "position": 1.0888888888888888
+    },
+    {
+      "query": "truck accident lawyer oregon city",
+      "clicks": 15,
+      "impressions": 53,
+      "ctr": 0.2830188679245283,
+      "position": 2.0943396226415096
+    },
+    {
+      "query": "car accident lawyer oregon city",
+      "clicks": 14,
+      "impressions": 69,
+      "ctr": 0.2028985507246377,
+      "position": 2.4927536231884058
+    },
+    {
+      "query": "medical malpractice lawyer portland",
+      "clicks": 14,
+      "impressions": 1114,
+      "ctr": 0.012567324955116697,
+      "position": 2.649910233393178
+    },
+    {
+      "query": "is lane filtering legal in oregon",
+      "clicks": 13,
+      "impressions": 423,
+      "ctr": 0.030732860520094562,
+      "position": 3.5673758865248226
+    },
+    {
+      "query": "malpractice lawyer",
+      "clicks": 13,
+      "impressions": 2723,
+      "ctr": 0.004774146162320969,
+      "position": 57.455012853470436
+    },
+    {
+      "query": "oregon vehicle sales tax",
+      "clicks": 13,
+      "impressions": 400,
+      "ctr": 0.0325,
+      "position": 6.485
+    },
+    {
+      "query": "portland medical malpractice lawyer",
+      "clicks": 13,
+      "impressions": 857,
+      "ctr": 0.015169194865810968,
+      "position": 2.2240373395565927
+    },
+    {
+      "query": "buying a car in oregon from out of state",
+      "clicks": 12,
+      "impressions": 327,
+      "ctr": 0.03669724770642202,
+      "position": 6.541284403669724
+    },
+    {
+      "query": "johnston law firm oregon",
+      "clicks": 12,
+      "impressions": 54,
+      "ctr": 0.2222222222222222,
+      "position": 1
+    },
+    {
+      "query": "johnston personal injury law firm",
+      "clicks": 12,
+      "impressions": 164,
+      "ctr": 0.07317073170731707,
+      "position": 1.1524390243902438
+    },
+    {
+      "query": "johnston personal injury law firm portland",
+      "clicks": 12,
+      "impressions": 77,
+      "ctr": 0.15584415584415584,
+      "position": 1
+    },
+    {
+      "query": "portland car accident lawyer",
+      "clicks": 12,
+      "impressions": 3322,
+      "ctr": 0.003612281757977122,
+      "position": 4.071944611679712
+    },
+    {
+      "query": "buying a car in oregon",
+      "clicks": 11,
+      "impressions": 366,
+      "ctr": 0.030054644808743168,
+      "position": 4.459016393442623
+    },
+    {
+      "query": "civil rights attorney oregon",
+      "clicks": 11,
+      "impressions": 142,
+      "ctr": 0.07746478873239436,
+      "position": 3.612676056338028
+    },
+    {
+      "query": "personal injury lawyer",
+      "clicks": 11,
+      "impressions": 15390,
+      "ctr": 0.0007147498375568551,
+      "position": 46.18336582196231
+    },
+    {
+      "query": "can you buy a car in oregon to avoid sales tax",
+      "clicks": 10,
+      "impressions": 226,
+      "ctr": 0.04424778761061947,
+      "position": 3.52212389380531
+    },
+    {
+      "query": "johnston car accident lawyer",
+      "clicks": 10,
+      "impressions": 46,
+      "ctr": 0.21739130434782608,
+      "position": 3.5434782608695654
+    },
+    {
+      "query": "medical malpractice attorney portland oregon",
+      "clicks": 10,
+      "impressions": 418,
+      "ctr": 0.023923444976076555,
+      "position": 2.1363636363636367
+    },
+    {
+      "query": "medical malpractice lawyers",
+      "clicks": 10,
+      "impressions": 1651,
+      "ctr": 0.0060569351907934586,
+      "position": 36.06056935190794
+    },
+    {
+      "query": "personal injury lawyer portland",
+      "clicks": 10,
+      "impressions": 3015,
+      "ctr": 0.003316749585406302,
+      "position": 5.223548922056385
+    },
+    {
+      "query": "tualatin car accident lawyer",
+      "clicks": 10,
+      "impressions": 151,
+      "ctr": 0.06622516556291391,
+      "position": 2.3311258278145695
+    },
+    {
+      "query": "car sales tax oregon",
+      "clicks": 9,
+      "impressions": 179,
+      "ctr": 0.05027932960893855,
+      "position": 5.055865921787709
+    },
+    {
+      "query": "civil rights attorney portland",
+      "clicks": 9,
+      "impressions": 182,
+      "ctr": 0.04945054945054945,
+      "position": 2.917582417582418
+    },
+    {
+      "query": "hillsboro truck accident lawyer",
+      "clicks": 9,
+      "impressions": 264,
+      "ctr": 0.03409090909090909,
+      "position": 3.602272727272727
+    },
+    {
+      "query": "how to buy a car in oregon to avoid sales tax",
+      "clicks": 9,
+      "impressions": 384,
+      "ctr": 0.0234375,
+      "position": 4.434895833333334
+    },
+    {
+      "query": "lebanon car accident lawyer",
+      "clicks": 9,
+      "impressions": 1034,
+      "ctr": 0.008704061895551257,
+      "position": 11.147969052224372
+    },
+    {
+      "query": "malpractice attorney portland oregon",
+      "clicks": 9,
+      "impressions": 382,
+      "ctr": 0.02356020942408377,
+      "position": 1.9554973821989527
+    },
+    {
+      "query": "mark johnston attorney",
+      "clicks": 9,
+      "impressions": 35,
+      "ctr": 0.2571428571428571,
+      "position": 4.485714285714286
+    },
+    {
+      "query": "oregon lane filtering 2024",
+      "clicks": 9,
+      "impressions": 60,
+      "ctr": 0.15,
+      "position": 1.1333333333333333
+    },
+    {
+      "query": "portland personal injury lawyer",
+      "clicks": 9,
+      "impressions": 3166,
+      "ctr": 0.002842703727100442,
+      "position": 4.231206569804169
+    },
+    {
+      "query": "best medical malpractice lawyers in oregon",
+      "clicks": 8,
+      "impressions": 786,
+      "ctr": 0.010178117048346057,
+      "position": 6.092875318066158
+    },
+    {
+      "query": "car accident lawyer portland in",
+      "clicks": 8,
+      "impressions": 119,
+      "ctr": 0.06722689075630252,
+      "position": 3.3949579831932772
+    },
+    {
+      "query": "good samaritan law",
+      "clicks": 8,
+      "impressions": 1041,
+      "ctr": 0.007684918347742555,
+      "position": 20.561959654178676
+    },
+    {
+      "query": "lake oswego car accident lawyer near me",
+      "clicks": 8,
+      "impressions": 74,
+      "ctr": 0.10810810810810811,
+      "position": 2.4594594594594597
+    },
+    {
+      "query": "medical malpractice attorney oregon",
+      "clicks": 8,
+      "impressions": 622,
+      "ctr": 0.012861736334405145,
+      "position": 3.4790996784565915
+    },
+    {
+      "query": "medical malpractice attorney portland",
+      "clicks": 8,
+      "impressions": 943,
+      "ctr": 0.008483563096500531,
+      "position": 2.0996818663838814
+    },
+    {
+      "query": "oregon trucking accident lawyer",
+      "clicks": 8,
+      "impressions": 42,
+      "ctr": 0.19047619047619047,
+      "position": 2.9761904761904763
+    },
+    {
+      "query": "personal injury attorney portland",
+      "clicks": 8,
+      "impressions": 2600,
+      "ctr": 0.003076923076923077,
+      "position": 4.7080769230769235
+    },
+    {
+      "query": "car accident lawyer portland",
+      "clicks": 7,
+      "impressions": 1470,
+      "ctr": 0.004761904761904762,
+      "position": 4.802721088435375
+    },
+    {
+      "query": "civil rights lawyer oregon",
+      "clicks": 7,
+      "impressions": 36,
+      "ctr": 0.19444444444444445,
+      "position": 3.4722222222222223
+    },
+    {
+      "query": "gresham truck accident lawyer",
+      "clicks": 7,
+      "impressions": 72,
+      "ctr": 0.09722222222222222,
+      "position": 2.25
+    },
+    {
+      "query": "oregon civil rights attorney",
+      "clicks": 7,
+      "impressions": 62,
+      "ctr": 0.11290322580645161,
+      "position": 3.403225806451613
+    },
+    {
+      "query": "oregon lane splitting law",
+      "clicks": 7,
+      "impressions": 75,
+      "ctr": 0.09333333333333334,
+      "position": 1.8399999999999999
+    },
+    {
+      "query": "portland civil rights attorney",
+      "clicks": 7,
+      "impressions": 123,
+      "ctr": 0.056910569105691054,
+      "position": 4.682926829268293
+    },
+    {
+      "query": "car accident attorney",
+      "clicks": 6,
+      "impressions": 22664,
+      "ctr": 0.0002647370278856336,
+      "position": 51.73605718319802
+    },
+    {
+      "query": "civil lawyers free consultation",
+      "clicks": 6,
+      "impressions": 362,
+      "ctr": 0.016574585635359115,
+      "position": 44.668508287292816
+    },
+    {
+      "query": "good samaritan laws",
+      "clicks": 6,
+      "impressions": 148,
+      "ctr": 0.04054054054054054,
+      "position": 5.445945945945946
+    },
+    {
+      "query": "oregon sales tax on cars",
+      "clicks": 6,
+      "impressions": 583,
+      "ctr": 0.010291595197255575,
+      "position": 5.499142367066895
+    },
+    {
+      "query": "sexual assault attorneys near me",
+      "clicks": 6,
+      "impressions": 2050,
+      "ctr": 0.002926829268292683,
+      "position": 42.62780487804878
+    },
+    {
+      "query": "uninsured car accident lawyer oregon",
+      "clicks": 6,
+      "impressions": 62,
+      "ctr": 0.0967741935483871,
+      "position": 2.854838709677419
+    },
+    {
+      "query": "auto accident lawyer",
+      "clicks": 5,
+      "impressions": 16905,
+      "ctr": 0.0002957704821058858,
+      "position": 52.82354333037563
+    },
+    {
+      "query": "can i buy a car in oregon to avoid sales tax",
+      "clicks": 5,
+      "impressions": 209,
+      "ctr": 0.023923444976076555,
+      "position": 4.167464114832535
+    },
+    {
+      "query": "civil attorney near me",
+      "clicks": 5,
+      "impressions": 377,
+      "ctr": 0.013262599469496022,
+      "position": 5.1485411140583555
+    },
+    {
+      "query": "civil litigation attorney",
+      "clicks": 5,
+      "impressions": 1020,
+      "ctr": 0.004901960784313725,
+      "position": 36.248039215686276
+    },
+    {
+      "query": "civil rights lawyer",
+      "clicks": 5,
+      "impressions": 1643,
+      "ctr": 0.0030432136335970784,
+      "position": 56.84236153377967
+    },
+    {
+      "query": "elder abuse attorneys",
+      "clicks": 5,
+      "impressions": 693,
+      "ctr": 0.007215007215007215,
+      "position": 58.2005772005772
+    },
+    {
+      "query": "health insurance attorney",
+      "clicks": 5,
+      "impressions": 1989,
+      "ctr": 0.002513826043237808,
+      "position": 63.790346907993964
+    },
+    {
+      "query": "if i buy a car in oregon do i pay sales tax",
+      "clicks": 5,
+      "impressions": 200,
+      "ctr": 0.025,
+      "position": 3.065
+    },
+    {
+      "query": "is there sales tax on cars in oregon",
+      "clicks": 5,
+      "impressions": 295,
+      "ctr": 0.01694915254237288,
+      "position": 5.16271186440678
+    },
+    {
+      "query": "johnston law firm portland oregon",
+      "clicks": 5,
+      "impressions": 41,
+      "ctr": 0.12195121951219512,
+      "position": 1.024390243902439
+    },
+    {
+      "query": "litigation lawyer",
+      "clicks": 5,
+      "impressions": 316,
+      "ctr": 0.015822784810126583,
+      "position": 19.45886075949367
+    },
+    {
+      "query": "marc johnson attorney",
+      "clicks": 5,
+      "impressions": 11,
+      "ctr": 0.45454545454545453,
+      "position": 2
+    },
+    {
+      "query": "medford nurse injecting tap water",
+      "clicks": 5,
+      "impressions": 35,
+      "ctr": 0.14285714285714285,
+      "position": 4.714285714285714
+    },
+    {
+      "query": "medical malpractice lawyers oregon",
+      "clicks": 5,
+      "impressions": 375,
+      "ctr": 0.013333333333333334,
+      "position": 3.4346666666666668
+    },
+    {
+      "query": "medical malpractice lawyers portland",
+      "clicks": 5,
+      "impressions": 184,
+      "ctr": 0.02717391304347826,
+      "position": 4.331521739130435
+    },
+    {
+      "query": "medical malpractice lawyers portland oregon",
+      "clicks": 5,
+      "impressions": 458,
+      "ctr": 0.010917030567685589,
+      "position": 3.039301310043668
+    },
+    {
+      "query": "oregon new car taxes and fees",
+      "clicks": 5,
+      "impressions": 103,
+      "ctr": 0.04854368932038835,
+      "position": 7.796116504854369
+    },
+    {
+      "query": "portland personal injury attorney",
+      "clicks": 5,
+      "impressions": 2842,
+      "ctr": 0.0017593244194229415,
+      "position": 4.226600985221674
+    },
+    {
+      "query": "portland personal injury lawyers",
+      "clicks": 5,
+      "impressions": 1099,
+      "ctr": 0.004549590536851683,
+      "position": 4.263876251137398
+    },
+    {
+      "query": "accident lawyer",
+      "clicks": 4,
+      "impressions": 7855,
+      "ctr": 0.0005092297899427117,
+      "position": 52.639338001273074
+    },
+    {
+      "query": "asante nurse tap water",
+      "clicks": 4,
+      "impressions": 25,
+      "ctr": 0.16,
+      "position": 2.24
+    },
+    {
+      "query": "car accident lawyer lebanon",
+      "clicks": 4,
+      "impressions": 446,
+      "ctr": 0.008968609865470852,
+      "position": 11.367713004484305
+    },
+    {
+      "query": "civil litigation attorney near me",
+      "clicks": 4,
+      "impressions": 54,
+      "ctr": 0.07407407407407407,
+      "position": 9.703703703703704
+    },
+    {
+      "query": "johnston family law",
+      "clicks": 4,
+      "impressions": 23,
+      "ctr": 0.17391304347826086,
+      "position": 34.73913043478261
+    },
+    {
+      "query": "lane splitting in oregon",
+      "clicks": 4,
+      "impressions": 84,
+      "ctr": 0.047619047619047616,
+      "position": 2.4047619047619047
+    },
+    {
+      "query": "medical malpractice lawyer oregon",
+      "clicks": 4,
+      "impressions": 81,
+      "ctr": 0.04938271604938271,
+      "position": 4.604938271604938
+    },
+    {
+      "query": "oregon long term disability lawyer",
+      "clicks": 4,
+      "impressions": 315,
+      "ctr": 0.012698412698412698,
+      "position": 7.815873015873016
+    },
+    {
+      "query": "oregon personal injury attorney",
+      "clicks": 4,
+      "impressions": 1055,
+      "ctr": 0.0037914691943127963,
+      "position": 2.642654028436019
+    },
+    {
+      "query": "portland medical malpractice attorney",
+      "clicks": 4,
+      "impressions": 496,
+      "ctr": 0.008064516129032258,
+      "position": 1.848790322580645
+    },
+    {
+      "query": "west linn car accident lawyer",
+      "clicks": 4,
+      "impressions": 180,
+      "ctr": 0.022222222222222223,
+      "position": 2.4333333333333336
+    },
+    {
+      "query": "are stop signs in parking lots enforceable",
+      "clicks": 3,
+      "impressions": 39,
+      "ctr": 0.07692307692307693,
+      "position": 15.025641025641026
+    },
+    {
+      "query": "asante nurse fentanyl",
+      "clicks": 3,
+      "impressions": 16,
+      "ctr": 0.1875,
+      "position": 3.1875
+    },
+    {
+      "query": "best car accident lawyer portland, or",
+      "clicks": 3,
+      "impressions": 108,
+      "ctr": 0.027777777777777776,
+      "position": 4.564814814814815
+    },
+    {
+      "query": "car accident lawyer fairview",
+      "clicks": 3,
+      "impressions": 170,
+      "ctr": 0.01764705882352941,
+      "position": 9.7
+    },
+    {
+      "query": "car accident lawyer hillsboro",
+      "clicks": 3,
+      "impressions": 352,
+      "ctr": 0.008522727272727272,
+      "position": 6.051136363636363
+    },
+    {
+      "query": "car accident lawyer oregon",
+      "clicks": 3,
+      "impressions": 975,
+      "ctr": 0.003076923076923077,
+      "position": 1.9507692307692308
+    },
+    {
+      "query": "car accident lawyer portland oregon",
+      "clicks": 3,
+      "impressions": 1045,
+      "ctr": 0.0028708133971291866,
+      "position": 3.0210526315789474
+    },
+    {
+      "query": "car accident lawyers near me",
+      "clicks": 3,
+      "impressions": 19037,
+      "ctr": 0.00015758785522929032,
+      "position": 69.11493407574723
+    },
+    {
+      "query": "car sales tax in oregon",
+      "clicks": 3,
+      "impressions": 138,
+      "ctr": 0.021739130434782608,
+      "position": 5.268115942028985
+    },
+    {
+      "query": "car tax in oregon",
+      "clicks": 3,
+      "impressions": 72,
+      "ctr": 0.041666666666666664,
+      "position": 5.694444444444445
+    },
+    {
+      "query": "car tax oregon",
+      "clicks": 3,
+      "impressions": 46,
+      "ctr": 0.06521739130434782,
+      "position": 6.543478260869565
+    },
+    {
+      "query": "civil lawyer",
+      "clicks": 3,
+      "impressions": 407,
+      "ctr": 0.007371007371007371,
+      "position": 17.71007371007371
+    },
+    {
+      "query": "defamation attorney oregon",
+      "clicks": 3,
+      "impressions": 24,
+      "ctr": 0.125,
+      "position": 1.9166666666666665
+    },
+    {
+      "query": "does insurance cover drunk drivers",
+      "clicks": 3,
+      "impressions": 47,
+      "ctr": 0.06382978723404255,
+      "position": 5.76595744680851
+    },
+    {
+      "query": "does oregon have sales tax on cars",
+      "clicks": 3,
+      "impressions": 432,
+      "ctr": 0.006944444444444444,
+      "position": 4.555555555555555
+    },
+    {
+      "query": "is there sales tax in oregon on cars",
+      "clicks": 3,
+      "impressions": 51,
+      "ctr": 0.058823529411764705,
+      "position": 5
+    },
+    {
+      "query": "is there sales tax on vehicles in oregon",
+      "clicks": 3,
+      "impressions": 55,
+      "ctr": 0.05454545454545454,
+      "position": 5.672727272727273
+    },
+    {
+      "query": "johnston law group",
+      "clicks": 3,
+      "impressions": 61,
+      "ctr": 0.04918032786885246,
+      "position": 7.557377049180328
+    },
+    {
+      "query": "lake oswego car accident lawyer",
+      "clicks": 3,
+      "impressions": 415,
+      "ctr": 0.007228915662650603,
+      "position": 2.3518072289156624
+    },
+    {
+      "query": "law firm",
+      "clicks": 3,
+      "impressions": 10499,
+      "ctr": 0.0002857414991903991,
+      "position": 77.00428612248785
+    },
+    {
+      "query": "law firms portland",
+      "clicks": 3,
+      "impressions": 364,
+      "ctr": 0.008241758241758242,
+      "position": 3.17032967032967
+    },
+    {
+      "query": "malpractice attorneys in portland oregon",
+      "clicks": 3,
+      "impressions": 328,
+      "ctr": 0.009146341463414634,
+      "position": 2.475609756097561
+    },
+    {
+      "query": "malpractice lawyers near me",
+      "clicks": 3,
+      "impressions": 5122,
+      "ctr": 0.0005857087075361187,
+      "position": 80.60562280359234
+    },
+    {
+      "query": "medford nurse fentanyl",
+      "clicks": 3,
+      "impressions": 13,
+      "ctr": 0.23076923076923078,
+      "position": 1.5384615384615383
+    },
+    {
+      "query": "medical malpractice attorney portland, oregon",
+      "clicks": 3,
+      "impressions": 20,
+      "ctr": 0.15,
+      "position": 2.45
+    },
+    {
+      "query": "medical malpractice lawyer",
+      "clicks": 3,
+      "impressions": 14513,
+      "ctr": 0.00020671122441948597,
+      "position": 57.47281747398884
+    },
+    {
+      "query": "medical negligence lawyers",
+      "clicks": 3,
+      "impressions": 2070,
+      "ctr": 0.0014492753623188406,
+      "position": 56.30579710144927
+    },
+    {
+      "query": "oregon accident attorneys",
+      "clicks": 3,
+      "impressions": 209,
+      "ctr": 0.014354066985645933,
+      "position": 3.2057416267942584
+    },
+    {
+      "query": "oregon car tax",
+      "clicks": 3,
+      "impressions": 204,
+      "ctr": 0.014705882352941176,
+      "position": 7.083333333333333
+    },
+    {
+      "query": "oregon medical malpractice attorney",
+      "clicks": 3,
+      "impressions": 736,
+      "ctr": 0.004076086956521739,
+      "position": 3.953804347826087
+    },
+    {
+      "query": "oregon personal injury lawyer",
+      "clicks": 3,
+      "impressions": 1144,
+      "ctr": 0.0026223776223776225,
+      "position": 3.2089160839160837
+    },
+    {
+      "query": "personal injury attorney portland oregon",
+      "clicks": 3,
+      "impressions": 1006,
+      "ctr": 0.002982107355864811,
+      "position": 2.2027833001988073
+    },
+    {
+      "query": "personal injury lawyer near me",
+      "clicks": 3,
+      "impressions": 13777,
+      "ctr": 0.00021775422806126152,
+      "position": 62.417507439936124
+    },
+    {
+      "query": "personal injury lawyers in oregon",
+      "clicks": 3,
+      "impressions": 72,
+      "ctr": 0.041666666666666664,
+      "position": 2.5
+    },
+    {
+      "query": "portland malpractice attorneys",
+      "clicks": 3,
+      "impressions": 331,
+      "ctr": 0.00906344410876133,
+      "position": 2.513595166163142
+    },
+    {
+      "query": "portland oregon personal injury attorney",
+      "clicks": 3,
+      "impressions": 508,
+      "ctr": 0.005905511811023622,
+      "position": 1.9350393700787403
+    },
+    {
+      "query": "portland personal injury",
+      "clicks": 3,
+      "impressions": 128,
+      "ctr": 0.0234375,
+      "position": 2.546875
+    },
+    {
+      "query": "portland real estate attorney free consultation",
+      "clicks": 3,
+      "impressions": 68,
+      "ctr": 0.04411764705882353,
+      "position": 11.25
+    },
+    {
+      "query": "sales tax in oregon for cars",
+      "clicks": 3,
+      "impressions": 83,
+      "ctr": 0.03614457831325301,
+      "position": 5.72289156626506
+    },
+    {
+      "query": "sales tax on cars in oregon",
+      "clicks": 3,
+      "impressions": 170,
+      "ctr": 0.01764705882352941,
+      "position": 5.194117647058824
+    },
+    {
+      "query": "truck accident lawyer",
+      "clicks": 3,
+      "impressions": 52607,
+      "ctr": 0.000057026631436881026,
+      "position": 67.91554355884197
+    },
+    {
+      "query": "vehicle sales tax in oregon",
+      "clicks": 3,
+      "impressions": 62,
+      "ctr": 0.04838709677419355,
+      "position": 5.483870967741935
+    },
+    {
+      "query": "woodburn accident today",
+      "clicks": 3,
+      "impressions": 267,
+      "ctr": 0.011235955056179775,
+      "position": 7.235955056179775
+    },
+    {
+      "query": "wrongful death lawsuit oregon",
+      "clicks": 3,
+      "impressions": 59,
+      "ctr": 0.05084745762711865,
+      "position": 5.389830508474576
+    },
+    {
+      "query": "18 wheeler accident lawyers",
+      "clicks": 2,
+      "impressions": 437,
+      "ctr": 0.004576659038901602,
+      "position": 17.679633867276888
+    },
+    {
+      "query": "accident attorney near me",
+      "clicks": 2,
+      "impressions": 5235,
+      "ctr": 0.00038204393505253105,
+      "position": 61.74708691499522
+    },
+    {
+      "query": "accident lawyer near me",
+      "clicks": 2,
+      "impressions": 4044,
+      "ctr": 0.0004945598417408506,
+      "position": 62.04352126607319
+    },
+    {
+      "query": "accident lawyers near me",
+      "clicks": 2,
+      "impressions": 8892,
+      "ctr": 0.0002249212775528565,
+      "position": 72.29734592892487
+    },
+    {
+      "query": "are cars cheaper in oregon",
+      "clicks": 2,
+      "impressions": 54,
+      "ctr": 0.037037037037037035,
+      "position": 4.37037037037037
+    },
+    {
+      "query": "are stop signs in parking lots legal",
+      "clicks": 2,
+      "impressions": 21,
+      "ctr": 0.09523809523809523,
+      "position": 16.57142857142857
+    },
+    {
+      "query": "attorney for sexual assault victims",
+      "clicks": 2,
+      "impressions": 246,
+      "ctr": 0.008130081300813009,
+      "position": 36.99186991869919
+    },
+    {
+      "query": "auto accident attorneys near me",
+      "clicks": 2,
+      "impressions": 9949,
+      "ctr": 0.0002010252286661976,
+      "position": 66.32525881998191
+    },
+    {
+      "query": "bad faith lawyers",
+      "clicks": 2,
+      "impressions": 379,
+      "ctr": 0.005277044854881266,
+      "position": 61.84696569920845
+    },
+    {
+      "query": "buying car in oregon to avoid sales tax",
+      "clicks": 2,
+      "impressions": 101,
+      "ctr": 0.019801980198019802,
+      "position": 4.435643564356436
+    },
+    {
+      "query": "can you lane split in oregon",
+      "clicks": 2,
+      "impressions": 314,
+      "ctr": 0.006369426751592357,
+      "position": 3.4904458598726116
+    },
+    {
+      "query": "car accident lawyer woodburn",
+      "clicks": 2,
+      "impressions": 81,
+      "ctr": 0.024691358024691357,
+      "position": 3.123456790123457
+    },
+    {
+      "query": "car accident lawyers",
+      "clicks": 2,
+      "impressions": 8269,
+      "ctr": 0.00024186721489902045,
+      "position": 50.31599951626557
+    },
+    {
+      "query": "car accident oregon lawyer",
+      "clicks": 2,
+      "impressions": 62,
+      "ctr": 0.03225806451612903,
+      "position": 2.8870967741935485
+    },
+    {
+      "query": "civil attorney portland",
+      "clicks": 2,
+      "impressions": 79,
+      "ctr": 0.02531645569620253,
+      "position": 4.050632911392405
+    },
+    {
+      "query": "civil litigation lawyer",
+      "clicks": 2,
+      "impressions": 204,
+      "ctr": 0.00980392156862745,
+      "position": 24.926470588235293
+    },
+    {
+      "query": "civil rights attorney near me",
+      "clicks": 2,
+      "impressions": 820,
+      "ctr": 0.0024390243902439024,
+      "position": 47.953658536585365
+    },
+    {
+      "query": "civil rights contingency lawyers near me",
+      "clicks": 2,
+      "impressions": 103,
+      "ctr": 0.019417475728155338,
+      "position": 38.16504854368932
+    },
+    {
+      "query": "construction truck accident lawyer",
+      "clicks": 2,
+      "impressions": 511,
+      "ctr": 0.003913894324853229,
+      "position": 68.45792563600783
+    },
+    {
+      "query": "defective medical device lawyers",
+      "clicks": 2,
+      "impressions": 1128,
+      "ctr": 0.0017730496453900709,
+      "position": 51.9636524822695
+    },
+    {
+      "query": "defense attorney for sexual assault",
+      "clicks": 2,
+      "impressions": 2,
+      "ctr": 1,
+      "position": 15
+    },
+    {
+      "query": "did sb 422 pass in oregon",
+      "clicks": 2,
+      "impressions": 44,
+      "ctr": 0.045454545454545456,
+      "position": 8.704545454545453
+    },
+    {
+      "query": "do traffic laws apply in parking lots",
+      "clicks": 2,
+      "impressions": 14,
+      "ctr": 0.14285714285714285,
+      "position": 15.142857142857142
+    },
+    {
+      "query": "do you have to stop at a stop sign in a parking lot",
+      "clicks": 2,
+      "impressions": 5,
+      "ctr": 0.4,
+      "position": 1.6
+    },
+    {
+      "query": "does insurance pay for drunk driving accidents",
+      "clicks": 2,
+      "impressions": 43,
+      "ctr": 0.046511627906976744,
+      "position": 6.883720930232558
+    },
+    {
+      "query": "does oregon have a good samaritan law",
+      "clicks": 2,
+      "impressions": 4,
+      "ctr": 0.5,
+      "position": 2.25
+    },
+    {
+      "query": "does oregon have sales tax",
+      "clicks": 2,
+      "impressions": 202,
+      "ctr": 0.009900990099009901,
+      "position": 65.26732673267327
+    },
+    {
+      "query": "drink driving insurance claim",
+      "clicks": 2,
+      "impressions": 10,
+      "ctr": 0.2,
+      "position": 5.6
+    },
+    {
+      "query": "eugene car accident lawyer",
+      "clicks": 2,
+      "impressions": 517,
+      "ctr": 0.0038684719535783366,
+      "position": 3.8085106382978724
+    },
+    {
+      "query": "eugene truck accident lawyer",
+      "clicks": 2,
+      "impressions": 506,
+      "ctr": 0.003952569169960474,
+      "position": 5.051383399209486
+    },
+    {
+      "query": "good samaritan act",
+      "clicks": 2,
+      "impressions": 24,
+      "ctr": 0.08333333333333333,
+      "position": 2.708333333333333
+    },
+    {
+      "query": "health insurance lawyer",
+      "clicks": 2,
+      "impressions": 2060,
+      "ctr": 0.000970873786407767,
+      "position": 61.37766990291262
+    },
+    {
+      "query": "hillsborough car accident lawyer",
+      "clicks": 2,
+      "impressions": 5,
+      "ctr": 0.4,
+      "position": 6
+    },
+    {
+      "query": "hit and run accident lawyers",
+      "clicks": 2,
+      "impressions": 731,
+      "ctr": 0.0027359781121751026,
+      "position": 60.61422708618331
+    },
+    {
+      "query": "how long do you have to sue someone",
+      "clicks": 2,
+      "impressions": 63,
+      "ctr": 0.031746031746031744,
+      "position": 74.95238095238095
+    },
+    {
+      "query": "how to buy a car in oregon",
+      "clicks": 2,
+      "impressions": 85,
+      "ctr": 0.023529411764705882,
+      "position": 4.68235294117647
+    },
+    {
+      "query": "human rights lawyer",
+      "clicks": 2,
+      "impressions": 139,
+      "ctr": 0.014388489208633094,
+      "position": 5.194244604316546
+    },
+    {
+      "query": "i need a car accident lawyer that offers free consultion",
+      "clicks": 2,
+      "impressions": 2,
+      "ctr": 1,
+      "position": 1
+    },
+    {
+      "query": "if i buy a car in oregon but live in washington",
+      "clicks": 2,
+      "impressions": 8,
+      "ctr": 0.25,
+      "position": 8
+    },
+    {
+      "query": "is it cheaper to buy a car in oregon",
+      "clicks": 2,
+      "impressions": 86,
+      "ctr": 0.023255813953488372,
+      "position": 3.7209302325581395
+    },
+    {
+      "query": "is it legal to lane split in oregon",
+      "clicks": 2,
+      "impressions": 127,
+      "ctr": 0.015748031496062992,
+      "position": 3.952755905511811
+    },
+    {
+      "query": "johnson mark",
+      "clicks": 2,
+      "impressions": 81,
+      "ctr": 0.024691358024691357,
+      "position": 3.6049382716049383
+    },
+    {
+      "query": "johnston",
+      "clicks": 2,
+      "impressions": 810,
+      "ctr": 0.0024691358024691358,
+      "position": 47.949382716049385
+    }
+  ],
+  "fetchedAt": "2026-04-07T16:21:47.085Z"
 }

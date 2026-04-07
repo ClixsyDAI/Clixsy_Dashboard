@@ -2,138 +2,18 @@
   "propertyId": "properties/392600107",
   "displayName": "https://www.autoaccident.com - GA4",
   "dateRange": {
-    "start": "2025-12-17",
-    "end": "2026-03-17"
+    "start": "2026-01-06",
+    "end": "2026-04-06"
   },
   "totals": {
-    "sessions": 122326,
-    "users": 120920,
-    "screenPageViews": 130731,
-    "organicSessions": 12714,
-    "bounceRate": 0.852816050041186,
-    "avgSessionDuration": 31.647021517208113
+    "sessions": 119742,
+    "users": 118455,
+    "screenPageViews": 129616,
+    "organicSessions": 13254,
+    "bounceRate": 0.8469415051917569,
+    "avgSessionDuration": 32.99633901731625
   },
   "dailyData": [
-    {
-      "date": "2025-12-17",
-      "sessions": 1755,
-      "users": 1742,
-      "screenPageViews": 1938
-    },
-    {
-      "date": "2025-12-18",
-      "sessions": 1646,
-      "users": 1627,
-      "screenPageViews": 1831
-    },
-    {
-      "date": "2025-12-19",
-      "sessions": 1641,
-      "users": 1623,
-      "screenPageViews": 1850
-    },
-    {
-      "date": "2025-12-20",
-      "sessions": 1757,
-      "users": 1740,
-      "screenPageViews": 1949
-    },
-    {
-      "date": "2025-12-21",
-      "sessions": 1865,
-      "users": 1848,
-      "screenPageViews": 2063
-    },
-    {
-      "date": "2025-12-22",
-      "sessions": 1730,
-      "users": 1724,
-      "screenPageViews": 1971
-    },
-    {
-      "date": "2025-12-23",
-      "sessions": 1594,
-      "users": 1569,
-      "screenPageViews": 1783
-    },
-    {
-      "date": "2025-12-24",
-      "sessions": 1665,
-      "users": 1654,
-      "screenPageViews": 1839
-    },
-    {
-      "date": "2025-12-25",
-      "sessions": 1838,
-      "users": 1832,
-      "screenPageViews": 2015
-    },
-    {
-      "date": "2025-12-26",
-      "sessions": 2637,
-      "users": 2622,
-      "screenPageViews": 2757
-    },
-    {
-      "date": "2025-12-27",
-      "sessions": 2889,
-      "users": 2866,
-      "screenPageViews": 2953
-    },
-    {
-      "date": "2025-12-28",
-      "sessions": 2770,
-      "users": 2760,
-      "screenPageViews": 2859
-    },
-    {
-      "date": "2025-12-29",
-      "sessions": 3107,
-      "users": 3048,
-      "screenPageViews": 3160
-    },
-    {
-      "date": "2025-12-30",
-      "sessions": 2969,
-      "users": 2930,
-      "screenPageViews": 3067
-    },
-    {
-      "date": "2025-12-31",
-      "sessions": 870,
-      "users": 856,
-      "screenPageViews": 885
-    },
-    {
-      "date": "2026-01-01",
-      "sessions": 764,
-      "users": 750,
-      "screenPageViews": 791
-    },
-    {
-      "date": "2026-01-02",
-      "sessions": 631,
-      "users": 612,
-      "screenPageViews": 657
-    },
-    {
-      "date": "2026-01-03",
-      "sessions": 616,
-      "users": 603,
-      "screenPageViews": 623
-    },
-    {
-      "date": "2026-01-04",
-      "sessions": 719,
-      "users": 710,
-      "screenPageViews": 728
-    },
-    {
-      "date": "2026-01-05",
-      "sessions": 759,
-      "users": 742,
-      "screenPageViews": 789
-    },
     {
       "date": "2026-01-06",
       "sessions": 600,
@@ -556,51 +436,171 @@
     },
     {
       "date": "2026-03-17",
-      "sessions": 1884,
+      "sessions": 1887,
       "users": 1869,
       "screenPageViews": 2117
+    },
+    {
+      "date": "2026-03-18",
+      "sessions": 1575,
+      "users": 1565,
+      "screenPageViews": 1836
+    },
+    {
+      "date": "2026-03-19",
+      "sessions": 1570,
+      "users": 1560,
+      "screenPageViews": 1773
+    },
+    {
+      "date": "2026-03-20",
+      "sessions": 1586,
+      "users": 1577,
+      "screenPageViews": 1769
+    },
+    {
+      "date": "2026-03-21",
+      "sessions": 1707,
+      "users": 1697,
+      "screenPageViews": 1951
+    },
+    {
+      "date": "2026-03-22",
+      "sessions": 1676,
+      "users": 1660,
+      "screenPageViews": 1923
+    },
+    {
+      "date": "2026-03-23",
+      "sessions": 1745,
+      "users": 1731,
+      "screenPageViews": 1929
+    },
+    {
+      "date": "2026-03-24",
+      "sessions": 1701,
+      "users": 1684,
+      "screenPageViews": 1904
+    },
+    {
+      "date": "2026-03-25",
+      "sessions": 1762,
+      "users": 1744,
+      "screenPageViews": 1975
+    },
+    {
+      "date": "2026-03-26",
+      "sessions": 1716,
+      "users": 1699,
+      "screenPageViews": 1914
+    },
+    {
+      "date": "2026-03-27",
+      "sessions": 1604,
+      "users": 1587,
+      "screenPageViews": 1795
+    },
+    {
+      "date": "2026-03-28",
+      "sessions": 1694,
+      "users": 1687,
+      "screenPageViews": 1859
+    },
+    {
+      "date": "2026-03-29",
+      "sessions": 1738,
+      "users": 1731,
+      "screenPageViews": 1912
+    },
+    {
+      "date": "2026-03-30",
+      "sessions": 1899,
+      "users": 1878,
+      "screenPageViews": 2063
+    },
+    {
+      "date": "2026-03-31",
+      "sessions": 1848,
+      "users": 1844,
+      "screenPageViews": 2005
+    },
+    {
+      "date": "2026-04-01",
+      "sessions": 1881,
+      "users": 1869,
+      "screenPageViews": 2050
+    },
+    {
+      "date": "2026-04-02",
+      "sessions": 1720,
+      "users": 1712,
+      "screenPageViews": 1897
+    },
+    {
+      "date": "2026-04-03",
+      "sessions": 1842,
+      "users": 1822,
+      "screenPageViews": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "sessions": 1318,
+      "users": 1312,
+      "screenPageViews": 1456
+    },
+    {
+      "date": "2026-04-05",
+      "sessions": 484,
+      "users": 481,
+      "screenPageViews": 620
+    },
+    {
+      "date": "2026-04-06",
+      "sessions": 569,
+      "users": 553,
+      "screenPageViews": 736
     }
   ],
   "channelData": [
     {
       "channel": "Paid Social",
-      "sessions": 75668,
-      "users": 73533
+      "sessions": 76729,
+      "users": 76148
     },
     {
       "channel": "Direct",
-      "sessions": 30125,
-      "users": 29216
+      "sessions": 25463,
+      "users": 24455
     },
     {
       "channel": "Organic Search",
-      "sessions": 12714,
-      "users": 11136
-    },
-    {
-      "channel": "Referral",
-      "sessions": 1411,
-      "users": 1312
+      "sessions": 13254,
+      "users": 12088
     },
     {
       "channel": "Paid Other",
-      "sessions": 1392,
-      "users": 1322
+      "sessions": 1545,
+      "users": 1470
+    },
+    {
+      "channel": "Referral",
+      "sessions": 1039,
+      "users": 945
     },
     {
       "channel": "Organic Social",
-      "sessions": 921,
-      "users": 915
+      "sessions": 777,
+      "users": 771
     },
     {
       "channel": "Unassigned",
-      "sessions": 640,
-      "users": 635
+      "sessions": 546,
+      "users": 541
     },
     {
       "channel": "Paid Search",
-      "sessions": 4,
-      "users": 3
+      "sessions": 7,
+      "users": 5
     },
     {
       "channel": "Cross-network",
@@ -608,157 +608,213 @@
       "users": 1
     }
   ],
-  "topPages": [
+  "keyEventsByChannel": [
     {
-      "page": "/trucking-accidents.html",
-      "screenPageViews": 37120,
-      "sessions": 36511
+      "channel": "Paid Social",
+      "sessions": 76729,
+      "keyEvents": 593,
+      "conversionRate": 0.00772849900298453
     },
     {
+      "channel": "Direct",
+      "sessions": 25463,
+      "keyEvents": 3242,
+      "conversionRate": 0.12732199662255037
+    },
+    {
+      "channel": "Organic Search",
+      "sessions": 13254,
+      "keyEvents": 1996,
+      "conversionRate": 0.15059604647653538
+    },
+    {
+      "channel": "Paid Other",
+      "sessions": 1545,
+      "keyEvents": 19,
+      "conversionRate": 0.012297734627831715
+    },
+    {
+      "channel": "Referral",
+      "sessions": 1039,
+      "keyEvents": 107,
+      "conversionRate": 0.10298363811357074
+    },
+    {
+      "channel": "Organic Social",
+      "sessions": 777,
+      "keyEvents": 93,
+      "conversionRate": 0.11969111969111969
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": 546,
+      "keyEvents": 229,
+      "conversionRate": 0.4194139194139194
+    },
+    {
+      "channel": "Paid Search",
+      "sessions": 7,
+      "keyEvents": 1,
+      "conversionRate": 0.14285714285714285
+    },
+    {
+      "channel": "Cross-network",
+      "sessions": 1,
+      "keyEvents": 1,
+      "conversionRate": 1
+    }
+  ],
+  "topPages": [
+    {
       "page": "/trucking-accidents/",
-      "screenPageViews": 19575,
-      "sessions": 19327
+      "screenPageViews": 36890,
+      "sessions": 36239
+    },
+    {
+      "page": "/trucking-accidents.html",
+      "screenPageViews": 23832,
+      "sessions": 22875
     },
     {
       "page": "/es/",
-      "screenPageViews": 9426,
-      "sessions": 9132
+      "screenPageViews": 9778,
+      "sessions": 9350
     },
     {
       "page": "/contact-us/",
-      "screenPageViews": 7881,
-      "sessions": 7776
+      "screenPageViews": 7972,
+      "sessions": 7856
     },
     {
       "page": "/",
-      "screenPageViews": 5390,
-      "sessions": 5232
-    },
-    {
-      "page": "/opioid-use-and-truck-drivers/",
-      "screenPageViews": 2090,
-      "sessions": 2073
-    },
-    {
-      "page": "/sacramento-car-accident-lawyer/",
-      "screenPageViews": 1857,
-      "sessions": 1837
+      "screenPageViews": 5422,
+      "sessions": 5087
     },
     {
       "page": "/pedestrian-injuries/",
-      "screenPageViews": 1653,
-      "sessions": 1644
-    },
-    {
-      "page": "/baby-brezza-formula-machines/",
-      "screenPageViews": 1188,
-      "sessions": 1137
+      "screenPageViews": 1700,
+      "sessions": 1692
     },
     {
       "page": "/elk-grove-accidents/",
-      "screenPageViews": 795,
-      "sessions": 787
+      "screenPageViews": 1385,
+      "sessions": 1372
     },
     {
-      "page": "/team/edward-a-smith/",
-      "screenPageViews": 767,
-      "sessions": 653
+      "page": "/baby-brezza-formula-machines/",
+      "screenPageViews": 1212,
+      "sessions": 1158
     },
     {
-      "page": "/stockton/",
-      "screenPageViews": 697,
-      "sessions": 691
-    },
-    {
-      "page": "/can-i-keep-my-car-even-if-its-totaled/",
-      "screenPageViews": 533,
-      "sessions": 522
+      "page": "/opioid-use-and-truck-drivers/",
+      "screenPageViews": 1107,
+      "sessions": 1103
     },
     {
       "page": "/modesto-personal-injury-lawyer/",
-      "screenPageViews": 522,
-      "sessions": 524
+      "screenPageViews": 876,
+      "sessions": 858
+    },
+    {
+      "page": "/stockton/",
+      "screenPageViews": 800,
+      "sessions": 799
+    },
+    {
+      "page": "/team/edward-a-smith/",
+      "screenPageViews": 787,
+      "sessions": 694
     },
     {
       "page": "/team/",
-      "screenPageViews": 480,
-      "sessions": 344
+      "screenPageViews": 500,
+      "sessions": 380
+    },
+    {
+      "page": "/can-i-keep-my-car-even-if-its-totaled/",
+      "screenPageViews": 437,
+      "sessions": 430
+    },
+    {
+      "page": "/sacramento-car-accident-lawyer/",
+      "screenPageViews": 401,
+      "sessions": 398
     },
     {
       "page": "/who-is-responsible-for-the-towing-and-storage-bills/",
-      "screenPageViews": 331,
-      "sessions": 332
-    },
-    {
-      "page": "/sexual-activity-after-spinal-cord-injury/",
-      "screenPageViews": 298,
-      "sessions": 296
+      "screenPageViews": 310,
+      "sessions": 313
     },
     {
       "page": "/about-us/",
-      "screenPageViews": 289,
-      "sessions": 269
+      "screenPageViews": 281,
+      "sessions": 256
     },
     {
-      "page": "/traumatic-brain-injury/",
-      "screenPageViews": 254,
-      "sessions": 253
-    },
-    {
-      "page": "/verdicts-and-settlements/",
-      "screenPageViews": 228,
-      "sessions": 216
-    },
-    {
-      "page": "/privacy-policy/",
-      "screenPageViews": 218,
-      "sessions": 218
-    },
-    {
-      "page": "/how-can-i-get-the-most-money-on-my-wrecked-car/",
-      "screenPageViews": 217,
-      "sessions": 210
+      "page": "/sexual-activity-after-spinal-cord-injury/",
+      "screenPageViews": 270,
+      "sessions": 264
     },
     {
       "page": "/team/alexander-o-lichtner/",
-      "screenPageViews": 217,
-      "sessions": 193
+      "screenPageViews": 261,
+      "sessions": 235
+    },
+    {
+      "page": "/verdicts-and-settlements/",
+      "screenPageViews": 260,
+      "sessions": 249
+    },
+    {
+      "page": "/traumatic-brain-injury/",
+      "screenPageViews": 258,
+      "sessions": 257
+    },
+    {
+      "page": "/privacy-policy/",
+      "screenPageViews": 246,
+      "sessions": 243
+    },
+    {
+      "page": "/what-to-do-after-a-car-accident-ultimate-guide/",
+      "screenPageViews": 242,
+      "sessions": 242
     },
     {
       "page": "/chp-report/",
-      "screenPageViews": 213,
-      "sessions": 214
+      "screenPageViews": 241,
+      "sessions": 237
     },
     {
       "page": "/team/robert-smith/",
-      "screenPageViews": 210,
-      "sessions": 186
+      "screenPageViews": 234,
+      "sessions": 210
     },
     {
       "page": "/terms-of-service/",
-      "screenPageViews": 203,
-      "sessions": 204
+      "screenPageViews": 233,
+      "sessions": 233
+    },
+    {
+      "page": "/how-can-i-get-the-most-money-on-my-wrecked-car/",
+      "screenPageViews": 226,
+      "sessions": 218
+    },
+    {
+      "page": "/avoid-these-mistakes-after-a-car-accident/",
+      "screenPageViews": 223,
+      "sessions": 222
     },
     {
       "page": "/team/sabrina-randhawa/",
-      "screenPageViews": 186,
-      "sessions": 171
+      "screenPageViews": 197,
+      "sessions": 180
     },
     {
-      "page": "/neck-hematomas/",
-      "screenPageViews": 176,
-      "sessions": 172
-    },
-    {
-      "page": "/statistics-on-intersection-accidents/",
-      "screenPageViews": 168,
-      "sessions": 161
-    },
-    {
-      "page": "/blind-spot-truck-accidents.html",
-      "screenPageViews": 156,
-      "sessions": 155
+      "page": "/bicycle-accidents/",
+      "screenPageViews": 180,
+      "sessions": 183
     }
   ],
-  "fetchedAt": "2026-03-18T13:07:02.840Z"
+  "fetchedAt": "2026-04-07T16:21:52.340Z"
 }
