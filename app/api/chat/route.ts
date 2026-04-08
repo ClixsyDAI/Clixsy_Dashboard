@@ -377,16 +377,25 @@ function runTool(
         const isBranded = (q: string) => terms.some((t) => q.toLowerCase().includes(t));
         const branded = all.filter((q) => isBranded(q.query));
         const nonBranded = all.filter((q) => !isBranded(q.query));
-        const sum = (arr: typeof all) => ({
-          query_count: arr.length,
-          clicks: arr.reduce((s, q) => s + q.clicks, 0),
-          impressions: arr.reduce((s, q) => s + q.impressions, 0),
-        });
+        const sum = (arr: typeof all) => {
+          const c = arr.reduce((s, q) => s + q.clicks, 0);
+          const i = arr.reduce((s, q) => s + q.impressions, 0);
+          const sp = arr.reduce((s, q) => s + q.position, 0);
+          const spw = arr.reduce((s, q) => s + q.position * q.impressions, 0);
+          return {
+            query_count: arr.length,
+            clicks: c,
+            impressions: i,
+            ctr: i > 0 ? c / i : 0,
+            avg_position_simple: arr.length > 0 ? sp / arr.length : 0,
+            avg_position_weighted_by_impressions: i > 0 ? spw / i : 0,
+          };
+        };
         const b = sum(branded);
         const nb = sum(nonBranded);
         result.brand_terms = terms;
-        result.branded = { ...b, ctr: b.impressions > 0 ? b.clicks / b.impressions : 0 };
-        result.non_branded = { ...nb, ctr: nb.impressions > 0 ? nb.clicks / nb.impressions : 0 };
+        result.branded = b;
+        result.non_branded = nb;
         result.branded_share_of_clicks = totalClicks > 0 ? b.clicks / totalClicks : 0;
       }
       return result;
