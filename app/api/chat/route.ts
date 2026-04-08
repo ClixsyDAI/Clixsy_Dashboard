@@ -360,12 +360,17 @@ function runTool(
       });
       const totalClicks = all.reduce((s, q) => s + q.clicks, 0);
       const totalImpressions = all.reduce((s, q) => s + q.impressions, 0);
+      const sumPositions = all.reduce((s, q) => s + q.position, 0);
+      const sumPositionsWeighted = all.reduce((s, q) => s + q.position * q.impressions, 0);
       const result: Record<string, unknown> = {
         total_queries_in_cache: universe,
         matched_queries: all.length,
         total_clicks: totalClicks,
         total_impressions: totalImpressions,
         ctr: totalImpressions > 0 ? totalClicks / totalImpressions : 0,
+        avg_position_simple: all.length > 0 ? sumPositions / all.length : 0,
+        avg_position_weighted_by_impressions:
+          totalImpressions > 0 ? sumPositionsWeighted / totalImpressions : 0,
         filters_applied: { min_clicks: minClicks, position_lt: positionLt, position_gte: positionGte, contains: contains || null },
       };
       if (terms.length > 0) {
