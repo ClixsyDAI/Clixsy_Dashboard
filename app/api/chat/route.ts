@@ -41,6 +41,14 @@ const tools: Anthropic.Tool[] = [
           type: "string",
           description: "Optional case-insensitive substring match against task title and list_title.",
         },
+        assignee: {
+          type: "string",
+          description: "Optional case-insensitive substring match against the assignees field. Use this whenever the user asks about tasks belonging to a specific person.",
+        },
+        list_title: {
+          type: "string",
+          description: "Optional exact-match filter on list_title (must match the names returned by list_task_lists).",
+        },
         completed_since: {
           type: "string",
           description: "ISO date (YYYY-MM-DD). Only include tasks completed on or after this date.",
@@ -203,6 +211,14 @@ function runTool(
             stripHtml(t.title).toLowerCase().includes(search) ||
             (t.list_title || "").toLowerCase().includes(search)
         );
+      const assigneeFilter = ((input.assignee as string) || "").toLowerCase();
+      if (assigneeFilter)
+        rows = rows.filter((t) =>
+          (t.assignees || "").toLowerCase().includes(assigneeFilter)
+        );
+      const listFilter = (input.list_title as string) || "";
+      if (listFilter)
+        rows = rows.filter((t) => (t.list_title || "") === listFilter);
       if (sortBy === "comments_count") {
         rows.sort((a, b) => b.comments_count - a.comments_count);
       } else if (sortBy === "due_on") {
@@ -483,6 +499,7 @@ Rules:
 - Use the provided tools to look up real data before answering. Do not invent numbers, names, list titles, or assignees — if a tool can return it, you must call the tool.
 - For questions about task LISTS or CATEGORIES, always call list_task_lists. Never guess list names.
 - For questions about ASSIGNEES or WORKLOAD, always call get_assignee_stats. Never compute assignee counts by sampling list_basecamp_tasks.
+- To find the actual tasks belonging to a specific person, call list_basecamp_tasks with the 'assignee' filter. Never put a person's name in 'search' (which only matches title/list). Never invent assignee names — if a name isn't in get_assignee_stats, it doesn't exist for this client.
 - For aggregate task counts (open/completed/overdue/completion rate/total comments), call get_task_stats rather than counting tasks yourself.
 - For 'tasks created in year/month X' questions, call get_task_creation_stats. Never compute creation buckets from list_basecamp_tasks.
 - For sums or branded-vs-non-branded splits across hundreds of GSC queries, call get_gsc_query_aggregate. Never sum the long tail in your head.
