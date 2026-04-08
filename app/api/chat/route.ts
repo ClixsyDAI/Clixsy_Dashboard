@@ -113,7 +113,7 @@ const tools: Anthropic.Tool[] = [
   {
     name: "get_task_stats",
     description:
-      "Get aggregate statistics for this client's tasks: total, open, completed, overdue, completion rate, completed-in-last-N-days, total comments. Always use this instead of counting from list_basecamp_tasks.",
+      "Get aggregate statistics for this client's tasks: total, open, completed, overdue, completion rate, completed-in-last-N-days, total comments, average comments per task, single vs multi assignee counts, and tasks with vs without a due date. Always use this instead of counting from list_basecamp_tasks.",
     input_schema: {
       type: "object",
       properties: {
@@ -369,6 +369,20 @@ function runTool(
         (t) => t.completed && t.completed_on && new Date(t.completed_on) >= cutoff
       ).length;
       const totalComments = ctx.todos.reduce((s, t) => s + (t.comments_count || 0), 0);
+      const withDueDate = ctx.todos.filter((t) => !!t.due_on).length;
+      const withoutDueDate = total - withDueDate;
+      let single = 0;
+      let multi = 0;
+      let unassigned = 0;
+      for (const t of ctx.todos) {
+        const n = (t.assignees || "")
+          .split(",")
+          .map((s) => s.trim())
+          .filter(Boolean).length;
+        if (n === 0) unassigned++;
+        else if (n === 1) single++;
+        else multi++;
+      }
       return {
         total,
         open,
@@ -378,6 +392,12 @@ function runTool(
         completed_in_last_n_days: completedInWindow,
         completed_window_days: window,
         total_comments: totalComments,
+        average_comments_per_task: total > 0 ? Math.round((totalComments / total) * 100) / 100 : 0,
+        with_due_date: withDueDate,
+        without_due_date: withoutDueDate,
+        single_assignee_count: single,
+        multi_assignee_count: multi,
+        unassigned_count: unassigned,
       };
     }
     case "get_task_details": {
