@@ -7,6 +7,7 @@ import ClientDashboardCharts from "../../components/ClientDashboardCharts";
 import GoogleSearchCharts from "../../components/GoogleSearchCharts";
 import DashboardTabs from "../../components/DashboardTabs";
 import AISummaryTab from "../../components/AISummaryTab";
+import AskQuestionTab from "../../components/AskQuestionTab";
 import ProjectLogTable from "../../components/ProjectLogTable";
 import BrightLocalPanel from "../../components/BrightLocalPanel";
 import { getBrightLocalSummary } from "../../lib/brightlocal-data";
@@ -107,6 +108,7 @@ export default async function ClientDashboard({ params }: PageProps) {
     { id: "overview", label: "Overview" },
     ...(gscData || ga4Data ? [{ id: "search", label: "Search Performance" }] : []),
     ...(blData ? [{ id: "local-seo", label: "Local SEO" }] : []),
+    { id: "ask-question", label: "Ask a Question" },
     {
       id: "internal",
       label: "Internal Use",
@@ -428,6 +430,11 @@ export default async function ClientDashboard({ params }: PageProps) {
                 <BrightLocalPanel {...blData} />
               </div>
             )}
+
+            {/* ── TAB: ASK A QUESTION (chatbot) ─────────────── */}
+            <div>
+              <AskQuestionTab projectId={id} projectName={project.name} />
+            </div>
 
             {/* ── TAB: INTERNAL USE → REPORT (AI) ───────────── */}
             <div>
