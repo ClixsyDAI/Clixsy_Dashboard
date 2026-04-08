@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { Children, useState } from "react";
 
 export interface Tab {
   id: string;
@@ -31,6 +31,10 @@ function flattenLeaves(tabs: Tab[]): Tab[] {
 }
 
 export default function DashboardTabs({ tabs, children }: DashboardTabsProps) {
+  // Children may contain `false`/`null` slots from conditional rendering
+  // (e.g. {cond && <div/>}). Strip them so indices line up with the tab
+  // leaves, which are themselves conditionally added to the tabs array.
+  const panels = Children.toArray(children);
   const leaves = flattenLeaves(tabs);
   const [activeTab, setActiveTab] = useState(leaves[0]?.id);
 
@@ -108,7 +112,7 @@ export default function DashboardTabs({ tabs, children }: DashboardTabsProps) {
       )}
 
       {/* Tab Content */}
-      <div className="mt-6">{children[activeIndex]}</div>
+      <div className="mt-6">{panels[activeIndex]}</div>
     </div>
   );
 }
