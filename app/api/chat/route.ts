@@ -98,7 +98,7 @@ const tools: Anthropic.Tool[] = [
   {
     name: "get_gsc_query_aggregate",
     description:
-      "Compute exact sums (clicks, impressions, query count, weighted CTR) over the FULL GSC query cache, optionally split by brand_terms or filtered by min_clicks / position_lt / position_gte. Use this for any 'how many queries match X' or 'sum of clicks for queries matching X' question — never count or sum hundreds of rows yourself.",
+      "Compute exact aggregates over the FULL GSC query cache: total clicks, total impressions, weighted CTR, simple-average position, impression-weighted average position, and matched query count — optionally split by brand_terms or filtered by min_clicks / position_lt / position_gte / contains. Use this for ANY 'how many queries match X', 'sum of X', 'average position', or 'CTR for queries matching X' question. Never sum, count, or average GSC rows yourself.",
     input_schema: {
       type: "object",
       properties: {
