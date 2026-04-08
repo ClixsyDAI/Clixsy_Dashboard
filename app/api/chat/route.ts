@@ -73,6 +73,36 @@ const tools: Anthropic.Tool[] = [
     },
   },
   {
+    name: "get_task_creation_stats",
+    description:
+      "Get exact counts of tasks bucketed by created_at year (and optionally year-month). Use this for any 'tasks created in year X' or 'when were tasks created' question — never count creation dates from list_basecamp_tasks rows.",
+    input_schema: {
+      type: "object",
+      properties: {
+        granularity: {
+          type: "string",
+          enum: ["year", "year_month"],
+          description: "Bucket size (default 'year').",
+        },
+      },
+    },
+  },
+  {
+    name: "get_gsc_query_aggregate",
+    description:
+      "Compute exact sums (clicks, impressions, query count, weighted CTR) over the FULL GSC query cache, optionally split by whether the query contains any of the given brand terms. Use this for any branded-vs-non-branded comparison or any 'total clicks across all queries' question — never sum hundreds of rows yourself.",
+    input_schema: {
+      type: "object",
+      properties: {
+        brand_terms: {
+          type: "array",
+          items: { type: "string" },
+          description: "List of case-insensitive substrings that classify a query as branded. If omitted, no split is performed and you get just totals.",
+        },
+      },
+    },
+  },
+  {
     name: "get_task_stats",
     description:
       "Get aggregate statistics for this client's tasks: total, open, completed, overdue, completion rate, completed-in-last-N-days, total comments. Always use this instead of counting from list_basecamp_tasks.",
@@ -201,6 +231,7 @@ function runTool(
           list_title: t.list_title,
           completed: t.completed,
           due_on: t.due_on,
+          created_at: t.created_at,
           completed_on: t.completed_on,
           comments_count: t.comments_count,
           assignees: t.assignees,
@@ -239,6 +270,56 @@ function runTool(
         .slice(0, limit)
         .map(([name, task_count]) => ({ name, task_count }));
       return { total_unique_assignees, total_tasks: ctx.todos.length, assignees };
+    }
+    case "get_task_creation_stats": {
+      const granularity = (input.granularity as string) || "year";
+      const buckets: Record<string, number> = {};
+      for (const t of ctx.todos) {
+        const c = t.created_at || "";
+        if (!c) continue;
+        const key = granularity === "year_month" ? c.slice(0, 7) : c.slice(0, 4);
+        buckets[key] = (buckets[key] || 0) + 1;
+      }
+      return {
+        granularity,
+        total_tasks_with_created_at: ctx.todos.filter((t) => !!t.created_at).length,
+        total_tasks: ctx.todos.length,
+        buckets: Object.entries(buckets)
+          .sort((a, b) => a[0].localeCompare(b[0]))
+          .map(([bucket, count]) => ({ bucket, count })),
+      };
+    }
+    case "get_gsc_query_aggregate": {
+      if (!ctx.gscData) return { error: "No GSC data" };
+      const terms = Array.isArray(input.brand_terms)
+        ? (input.brand_terms as string[]).map((s) => s.toLowerCase())
+        : [];
+      const all = ctx.gscData.topQueries;
+      const totalClicks = all.reduce((s, q) => s + q.clicks, 0);
+      const totalImpressions = all.reduce((s, q) => s + q.impressions, 0);
+      const result: Record<string, unknown> = {
+        total_queries: all.length,
+        total_clicks: totalClicks,
+        total_impressions: totalImpressions,
+        ctr: totalImpressions > 0 ? totalClicks / totalImpressions : 0,
+      };
+      if (terms.length > 0) {
+        const isBranded = (q: string) => terms.some((t) => q.toLowerCase().includes(t));
+        const branded = all.filter((q) => isBranded(q.query));
+        const nonBranded = all.filter((q) => !isBranded(q.query));
+        const sum = (arr: typeof all) => ({
+          query_count: arr.length,
+          clicks: arr.reduce((s, q) => s + q.clicks, 0),
+          impressions: arr.reduce((s, q) => s + q.impressions, 0),
+        });
+        const b = sum(branded);
+        const nb = sum(nonBranded);
+        result.brand_terms = terms;
+        result.branded = { ...b, ctr: b.impressions > 0 ? b.clicks / b.impressions : 0 };
+        result.non_branded = { ...nb, ctr: nb.impressions > 0 ? nb.clicks / nb.impressions : 0 };
+        result.branded_share_of_clicks = totalClicks > 0 ? b.clicks / totalClicks : 0;
+      }
+      return result;
     }
     case "get_task_stats": {
       const window = Number(input.completed_window_days) || 30;
@@ -403,6 +484,8 @@ Rules:
 - For questions about task LISTS or CATEGORIES, always call list_task_lists. Never guess list names.
 - For questions about ASSIGNEES or WORKLOAD, always call get_assignee_stats. Never compute assignee counts by sampling list_basecamp_tasks.
 - For aggregate task counts (open/completed/overdue/completion rate/total comments), call get_task_stats rather than counting tasks yourself.
+- For 'tasks created in year/month X' questions, call get_task_creation_stats. Never compute creation buckets from list_basecamp_tasks.
+- For sums or branded-vs-non-branded splits across hundreds of GSC queries, call get_gsc_query_aggregate. Never sum the long tail in your head.
 - list_basecamp_tasks returns ALL matching tasks by default. Do not pass a small limit unless the user explicitly asked for a top-N view.
 - After listing tasks, double-check any arithmetic in your closing summary against the rows you actually returned.
 - If a data source is unavailable, say so explicitly.
