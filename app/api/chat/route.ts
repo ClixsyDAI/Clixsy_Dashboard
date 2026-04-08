@@ -83,7 +83,7 @@ const tools: Anthropic.Tool[] = [
   {
     name: "get_task_creation_stats",
     description:
-      "Get exact counts of tasks bucketed by created_at year (and optionally year-month). Use this for any 'tasks created in year X' or 'when were tasks created' question — never count creation dates from list_basecamp_tasks rows.",
+      "Get exact counts of tasks bucketed by created_at year (or year-month) AND the oldest_task and newest_task by creation date. Use this for any 'tasks created in year X', 'when were tasks created', 'oldest task', or 'newest task' question — never sort or count creation dates from list_basecamp_tasks rows.",
     input_schema: {
       type: "object",
       properties: {
@@ -296,13 +296,31 @@ function runTool(
         const key = granularity === "year_month" ? c.slice(0, 7) : c.slice(0, 4);
         buckets[key] = (buckets[key] || 0) + 1;
       }
+      const withCreated = ctx.todos.filter((t) => !!t.created_at);
+      const sortedAsc = [...withCreated].sort(
+        (a, b) => new Date(a.created_at).getTime() - new Date(b.created_at).getTime()
+      );
+      const oldest = sortedAsc[0];
+      const newest = sortedAsc[sortedAsc.length - 1];
+      const compact = (t: typeof oldest) =>
+        t
+          ? {
+              id: t.id,
+              title: stripHtml(t.title),
+              list_title: t.list_title,
+              created_at: t.created_at,
+              completed: t.completed,
+            }
+          : null;
       return {
         granularity,
-        total_tasks_with_created_at: ctx.todos.filter((t) => !!t.created_at).length,
+        total_tasks_with_created_at: withCreated.length,
         total_tasks: ctx.todos.length,
         buckets: Object.entries(buckets)
           .sort((a, b) => a[0].localeCompare(b[0]))
           .map(([bucket, count]) => ({ bucket, count })),
+        oldest_task: compact(oldest),
+        newest_task: compact(newest),
       };
     }
     case "get_gsc_query_aggregate": {
