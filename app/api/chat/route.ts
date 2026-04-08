@@ -28,7 +28,7 @@ const tools: Anthropic.Tool[] = [
   {
     name: "list_basecamp_tasks",
     description:
-      "List Basecamp tasks for this client. Use to find tasks by status, search term, or recency. Returns id, title, list_title, completed status, due_on, completed_on, comments_count, assignees.",
+      "List Basecamp tasks for this client. Use to find tasks by status, search term, or recency. Returns id, title, list_title, completed status, due_on, completed_on, comments_count, assignees. Returns ALL matching tasks by default — only set `limit` if you explicitly want fewer.",
     input_schema: {
       type: "object",
       properties: {
@@ -45,9 +45,42 @@ const tools: Anthropic.Tool[] = [
           type: "string",
           description: "ISO date (YYYY-MM-DD). Only include tasks completed on or after this date.",
         },
-        limit: { type: "number", description: "Max results (default 25, max 100)" },
+        sort_by: {
+          type: "string",
+          enum: ["comments_count", "due_on", "completed_on", "created_at"],
+          description: "Optional sort key (descending for counts, ascending for dates).",
+        },
+        limit: { type: "number", description: "Max results (default 500 — effectively all). Only set this if the user explicitly asks for a top-N list." },
       },
       required: ["status"],
+    },
+  },
+  {
+    name: "list_task_lists",
+    description:
+      "Get the exact set of Basecamp task list names for this client, with the count of tasks in each list. Use this whenever the user asks about lists, categories, or how work is organised — never guess list names.",
+    input_schema: { type: "object", properties: {} },
+  },
+  {
+    name: "get_assignee_stats",
+    description:
+      "Get exact task counts per assignee across ALL tasks for this client, sorted descending. Use this for any 'who is assigned to most tasks', 'top assignees', or 'workload' question — never sample or estimate from list_basecamp_tasks.",
+    input_schema: {
+      type: "object",
+      properties: {
+        limit: { type: "number", description: "Max assignees to return (default 20)" },
+      },
+    },
+  },
+  {
+    name: "get_task_stats",
+    description:
+      "Get aggregate statistics for this client's tasks: total, open, completed, overdue, completion rate, completed-in-last-N-days, total comments. Always use this instead of counting from list_basecamp_tasks.",
+    input_schema: {
+      type: "object",
+      properties: {
+        completed_window_days: { type: "number", description: "Window for 'completed in last N days' (default 30)" },
+      },
     },
   },
   {
@@ -70,10 +103,13 @@ const tools: Anthropic.Tool[] = [
   },
   {
     name: "get_gsc_top_queries",
-    description: "Get top Google Search Console queries by clicks for this client.",
+    description: "Get top Google Search Console queries by clicks for this client. Optional substring filter to find specific queries (e.g. 'plumbing').",
     input_schema: {
       type: "object",
-      properties: { limit: { type: "number", description: "Default 15, max 50" } },
+      properties: {
+        limit: { type: "number", description: "Default 15, max 200 (full cache)" },
+        contains: { type: "string", description: "Optional case-insensitive substring filter applied to the full query list before limiting." },
+      },
     },
   },
   {
@@ -81,7 +117,10 @@ const tools: Anthropic.Tool[] = [
     description: "Get top Google Search Console pages by clicks for this client.",
     input_schema: {
       type: "object",
-      properties: { limit: { type: "number", description: "Default 15, max 50" } },
+      properties: {
+        limit: { type: "number", description: "Default 15, max 200 (full cache)" },
+        contains: { type: "string", description: "Optional case-insensitive substring filter on page URL." },
+      },
     },
   },
   {
@@ -116,7 +155,8 @@ function runTool(
       const status = (input.status as string) || "all";
       const search = ((input.search as string) || "").toLowerCase();
       const completedSince = input.completed_since ? new Date(input.completed_since as string) : null;
-      const limit = Math.min(Number(input.limit) || 25, 100);
+      const limit = Math.min(Number(input.limit) || 500, 500);
+      const sortBy = input.sort_by as string | undefined;
       const now = new Date();
       let rows = ctx.todos.slice();
       if (status === "open") rows = rows.filter((t) => !t.completed);
@@ -133,6 +173,23 @@ function runTool(
             stripHtml(t.title).toLowerCase().includes(search) ||
             (t.list_title || "").toLowerCase().includes(search)
         );
+      if (sortBy === "comments_count") {
+        rows.sort((a, b) => b.comments_count - a.comments_count);
+      } else if (sortBy === "due_on") {
+        rows.sort((a, b) => {
+          if (!a.due_on) return 1;
+          if (!b.due_on) return -1;
+          return new Date(a.due_on).getTime() - new Date(b.due_on).getTime();
+        });
+      } else if (sortBy === "completed_on") {
+        rows.sort((a, b) => {
+          if (!a.completed_on) return 1;
+          if (!b.completed_on) return -1;
+          return new Date(b.completed_on).getTime() - new Date(a.completed_on).getTime();
+        });
+      } else if (sortBy === "created_at") {
+        rows.sort((a, b) => new Date(b.created_at).getTime() - new Date(a.created_at).getTime());
+      }
       const totalMatched = rows.length;
       rows = rows.slice(0, limit);
       return {
@@ -148,6 +205,64 @@ function runTool(
           comments_count: t.comments_count,
           assignees: t.assignees,
         })),
+      };
+    }
+    case "list_task_lists": {
+      const counts: Record<string, { total: number; open: number; completed: number }> = {};
+      for (const t of ctx.todos) {
+        const k = t.list_title || "(unnamed)";
+        if (!counts[k]) counts[k] = { total: 0, open: 0, completed: 0 };
+        counts[k].total++;
+        if (t.completed) counts[k].completed++;
+        else counts[k].open++;
+      }
+      return {
+        list_count: Object.keys(counts).length,
+        lists: Object.entries(counts)
+          .map(([name, c]) => ({ name, ...c }))
+          .sort((a, b) => b.total - a.total),
+      };
+    }
+    case "get_assignee_stats": {
+      const limit = Math.min(Number(input.limit) || 20, 100);
+      const counts: Record<string, number> = {};
+      for (const t of ctx.todos) {
+        const names = (t.assignees || "")
+          .split(",")
+          .map((s) => s.trim())
+          .filter(Boolean);
+        for (const n of names) counts[n] = (counts[n] || 0) + 1;
+      }
+      const total_unique_assignees = Object.keys(counts).length;
+      const assignees = Object.entries(counts)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, limit)
+        .map(([name, task_count]) => ({ name, task_count }));
+      return { total_unique_assignees, total_tasks: ctx.todos.length, assignees };
+    }
+    case "get_task_stats": {
+      const window = Number(input.completed_window_days) || 30;
+      const now = new Date();
+      const cutoff = new Date(now.getTime() - window * 86400000);
+      const total = ctx.todos.length;
+      const completed = ctx.todos.filter((t) => t.completed).length;
+      const open = total - completed;
+      const overdue = ctx.todos.filter(
+        (t) => !t.completed && t.due_on && new Date(t.due_on) < now
+      ).length;
+      const completedInWindow = ctx.todos.filter(
+        (t) => t.completed && t.completed_on && new Date(t.completed_on) >= cutoff
+      ).length;
+      const totalComments = ctx.todos.reduce((s, t) => s + (t.comments_count || 0), 0);
+      return {
+        total,
+        open,
+        completed,
+        overdue,
+        completion_rate: total > 0 ? Math.round((completed / total) * 1000) / 10 : 0,
+        completed_in_last_n_days: completedInWindow,
+        completed_window_days: window,
+        total_comments: totalComments,
       };
     }
     case "get_task_details": {
@@ -188,13 +303,27 @@ function runTool(
     }
     case "get_gsc_top_queries": {
       if (!ctx.gscData) return { error: "No GSC data" };
-      const limit = Math.min(Number(input.limit) || 15, 50);
-      return { queries: ctx.gscData.topQueries.slice(0, limit) };
+      const limit = Math.min(Number(input.limit) || 15, 200);
+      const contains = ((input.contains as string) || "").toLowerCase();
+      let q = ctx.gscData.topQueries;
+      if (contains) q = q.filter((row) => row.query.toLowerCase().includes(contains));
+      return {
+        total_queries_in_cache: ctx.gscData.topQueries.length,
+        matched: q.length,
+        queries: q.slice(0, limit),
+      };
     }
     case "get_gsc_top_pages": {
       if (!ctx.gscData) return { error: "No GSC data" };
-      const limit = Math.min(Number(input.limit) || 15, 50);
-      return { pages: (ctx.gscData.topPages || []).slice(0, limit) };
+      const limit = Math.min(Number(input.limit) || 15, 200);
+      const contains = ((input.contains as string) || "").toLowerCase();
+      let p = ctx.gscData.topPages || [];
+      if (contains) p = p.filter((row) => row.page.toLowerCase().includes(contains));
+      return {
+        total_pages_in_cache: (ctx.gscData.topPages || []).length,
+        matched: p.length,
+        pages: p.slice(0, limit),
+      };
     }
     case "get_ga4_summary": {
       if (!ctx.ga4Data) return { error: "No GA4 data for this client" };
@@ -270,11 +399,15 @@ DATA AVAILABLE: ${JSON.stringify(availability)}
 TODAY: ${new Date().toISOString().split("T")[0]}
 
 Rules:
-- Use the provided tools to look up real data before answering. Do not invent numbers.
+- Use the provided tools to look up real data before answering. Do not invent numbers, names, list titles, or assignees — if a tool can return it, you must call the tool.
+- For questions about task LISTS or CATEGORIES, always call list_task_lists. Never guess list names.
+- For questions about ASSIGNEES or WORKLOAD, always call get_assignee_stats. Never compute assignee counts by sampling list_basecamp_tasks.
+- For aggregate task counts (open/completed/overdue/completion rate/total comments), call get_task_stats rather than counting tasks yourself.
+- list_basecamp_tasks returns ALL matching tasks by default. Do not pass a small limit unless the user explicitly asked for a top-N view.
+- After listing tasks, double-check any arithmetic in your closing summary against the rows you actually returned.
 - If a data source is unavailable, say so explicitly.
 - Be concise and direct — account managers want answers, not preamble.
 - When citing tasks, include the task title and list. When citing metrics, include the time window.
-- If asked something the tools cannot answer, say what you do and don't have access to.
 - Format with markdown when it helps readability (lists, bold, tables).`;
 
     // Convert incoming messages into the API shape. The conversation may already
