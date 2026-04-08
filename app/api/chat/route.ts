@@ -98,7 +98,7 @@ const tools: Anthropic.Tool[] = [
   {
     name: "get_gsc_query_aggregate",
     description:
-      "Compute exact sums (clicks, impressions, query count, weighted CTR) over the FULL GSC query cache, optionally split by whether the query contains any of the given brand terms. Use this for any branded-vs-non-branded comparison or any 'total clicks across all queries' question — never sum hundreds of rows yourself.",
+      "Compute exact sums (clicks, impressions, query count, weighted CTR) over the FULL GSC query cache, optionally split by brand_terms or filtered by min_clicks / position_lt / position_gte. Use this for any 'how many queries match X' or 'sum of clicks for queries matching X' question — never count or sum hundreds of rows yourself.",
     input_schema: {
       type: "object",
       properties: {
@@ -107,6 +107,10 @@ const tools: Anthropic.Tool[] = [
           items: { type: "string" },
           description: "List of case-insensitive substrings that classify a query as branded. If omitted, no split is performed and you get just totals.",
         },
+        min_clicks: { type: "number", description: "Only include queries with clicks >= this value." },
+        position_lt: { type: "number", description: "Only include queries with avg position strictly less than this (e.g. 3 for 'position better than 3')." },
+        position_gte: { type: "number", description: "Only include queries with avg position >= this." },
+        contains: { type: "string", description: "Optional case-insensitive substring filter on query text." },
       },
     },
   },
@@ -328,14 +332,27 @@ function runTool(
       const terms = Array.isArray(input.brand_terms)
         ? (input.brand_terms as string[]).map((s) => s.toLowerCase())
         : [];
-      const all = ctx.gscData.topQueries;
+      const minClicks = input.min_clicks !== undefined ? Number(input.min_clicks) : null;
+      const positionLt = input.position_lt !== undefined ? Number(input.position_lt) : null;
+      const positionGte = input.position_gte !== undefined ? Number(input.position_gte) : null;
+      const contains = ((input.contains as string) || "").toLowerCase();
+      const universe = ctx.gscData.topQueries.length;
+      const all = ctx.gscData.topQueries.filter((q) => {
+        if (minClicks !== null && q.clicks < minClicks) return false;
+        if (positionLt !== null && !(q.position < positionLt)) return false;
+        if (positionGte !== null && !(q.position >= positionGte)) return false;
+        if (contains && !q.query.toLowerCase().includes(contains)) return false;
+        return true;
+      });
       const totalClicks = all.reduce((s, q) => s + q.clicks, 0);
       const totalImpressions = all.reduce((s, q) => s + q.impressions, 0);
       const result: Record<string, unknown> = {
-        total_queries: all.length,
+        total_queries_in_cache: universe,
+        matched_queries: all.length,
         total_clicks: totalClicks,
         total_impressions: totalImpressions,
         ctr: totalImpressions > 0 ? totalClicks / totalImpressions : 0,
+        filters_applied: { min_clicks: minClicks, position_lt: positionLt, position_gte: positionGte, contains: contains || null },
       };
       if (terms.length > 0) {
         const isBranded = (q: string) => terms.some((t) => q.toLowerCase().includes(t));
