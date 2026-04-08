@@ -145,12 +145,26 @@ const tools: Anthropic.Tool[] = [
   },
   {
     name: "get_gsc_top_queries",
-    description: "Get top Google Search Console queries by clicks for this client. Optional substring filter to find specific queries (e.g. 'plumbing').",
+    description: "Get GSC queries with optional filters and sort. Use sort_by/sort_order to get the best/worst by any metric. Use min_clicks/min_impressions/position_lt/position_gte to constrain. Always prefer this over manually filtering get_gsc_query_aggregate when you need to identify specific queries.",
     input_schema: {
       type: "object",
       properties: {
         limit: { type: "number", description: "Default 15, max 200 (full cache)" },
-        contains: { type: "string", description: "Optional case-insensitive substring filter applied to the full query list before limiting." },
+        contains: { type: "string", description: "Optional case-insensitive substring filter applied to the full query list." },
+        min_clicks: { type: "number", description: "Only include queries with clicks >= this value." },
+        min_impressions: { type: "number", description: "Only include queries with impressions >= this value." },
+        position_lt: { type: "number", description: "Only include queries with avg position strictly less than this." },
+        position_gte: { type: "number", description: "Only include queries with avg position >= this." },
+        sort_by: {
+          type: "string",
+          enum: ["clicks", "impressions", "ctr", "position"],
+          description: "Sort key. Default: clicks.",
+        },
+        sort_order: {
+          type: "string",
+          enum: ["desc", "asc"],
+          description: "Sort order. Default: desc (descending). Use 'asc' to find worst/lowest values.",
+        },
       },
     },
   },
@@ -457,12 +471,38 @@ function runTool(
       if (!ctx.gscData) return { error: "No GSC data" };
       const limit = Math.min(Number(input.limit) || 15, 200);
       const contains = ((input.contains as string) || "").toLowerCase();
-      let q = ctx.gscData.topQueries;
+      const minClicks = input.min_clicks !== undefined ? Number(input.min_clicks) : null;
+      const minImp = input.min_impressions !== undefined ? Number(input.min_impressions) : null;
+      const positionLt = input.position_lt !== undefined ? Number(input.position_lt) : null;
+      const positionGte = input.position_gte !== undefined ? Number(input.position_gte) : null;
+      const sortBy = (input.sort_by as string) || "clicks";
+      const sortOrder = (input.sort_order as string) || "desc";
+      let q = ctx.gscData.topQueries.slice();
       if (contains) q = q.filter((row) => row.query.toLowerCase().includes(contains));
+      if (minClicks !== null) q = q.filter((row) => row.clicks >= minClicks);
+      if (minImp !== null) q = q.filter((row) => row.impressions >= minImp);
+      if (positionLt !== null) q = q.filter((row) => row.position < positionLt);
+      if (positionGte !== null) q = q.filter((row) => row.position >= positionGte);
+      const keyOf = (row: { clicks: number; impressions: number; position: number }) => {
+        if (sortBy === "impressions") return row.impressions;
+        if (sortBy === "ctr") return row.impressions > 0 ? row.clicks / row.impressions : 0;
+        if (sortBy === "position") return row.position;
+        return row.clicks;
+      };
+      q.sort((a, b) => {
+        const av = keyOf(a);
+        const bv = keyOf(b);
+        return sortOrder === "asc" ? av - bv : bv - av;
+      });
       return {
         total_queries_in_cache: ctx.gscData.topQueries.length,
         matched: q.length,
-        queries: q.slice(0, limit),
+        sort_by: sortBy,
+        sort_order: sortOrder,
+        queries: q.slice(0, limit).map((row) => ({
+          ...row,
+          ctr: row.impressions > 0 ? row.clicks / row.impressions : 0,
+        })),
       };
     }
     case "get_gsc_top_pages": {
