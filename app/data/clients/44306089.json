@@ -30,6 +30,36 @@
     "visible_to_clients": false
   },
   {
+    "id": 9765638634,
+    "title": "Improve on plumbing, electrical, and drains",
+    "list_title": "CLIENT CHANGE REQUESTS:",
+    "completed": false,
+    "due_on": "2026-04-15",
+    "created_at": "2026-04-08T18:13:37.562Z",
+    "updated_at": "2026-04-09T04:53:22.940Z",
+    "completed_on": null,
+    "comments_count": 0,
+    "assignees": "Johan Cilliers, Mubeen Dildar-Mia",
+    "app_url": "https://3.basecamp.com/4226914/buckets/44306089/todos/9765638634",
+    "description": "<div>Hi this came from the call earlier. The client requested if we can help improve these tersmon their site.&nbsp;</div><ul>\n<li>they will not get summer until june</li>\n<li>would like to get more visibility for plumbing, electrical, and drains while waiting for summer</li>\n</ul><div>&nbsp;<br>Terms:</div><ul>\n<li>plumbing</li>\n<li>electrical</li>\n<li>drains/drain</li>\n</ul><div><br></div><div>Thanks much!</div>",
+    "visible_to_clients": false
+  },
+  {
+    "id": 9739543744,
+    "title": "Q2 offers update - go live on April 1st",
+    "list_title": "CLIENT CHANGE REQUESTS:",
+    "completed": true,
+    "due_on": "2026-04-01",
+    "created_at": "2026-03-31T21:28:32.296Z",
+    "updated_at": "2026-04-01T22:20:20.528Z",
+    "completed_on": "2026-04-01T22:20:20.508Z",
+    "comments_count": 2,
+    "assignees": "Anna Polishchuk, Predrag",
+    "app_url": "https://3.basecamp.com/4226914/buckets/44306089/todos/9739543744",
+    "description": "<div>Please update their current offers: <a href=\"https://www.goarco.com/all-offers/\" target=\"_blank\" rel=\"noreferrer\">https://www.goarco.com/all-offers/</a>&nbsp;<br><br><a target=\"_blank\" rel=\"noreferrer\" class=\"autolinked\" data-behavior=\"truncate\" href=\"https://docs.google.com/spreadsheets/d/1N0QaiXxUkWf12r-7lrjIfL4Bghz0tYbXIHmzFaNqs9c/edit?gid=794016321#gid=794016321\">https://docs.google.com/spreadsheets/d/1N0QaiXxUkWf12r-7lrjIfL4Bghz0tYbXIHmzFaNqs9c/edit?gid=794016321#gid=794016321</a><br><br>---<br>Thanks much!<br>&nbsp;</div>",
+    "visible_to_clients": false
+  },
+  {
     "id": 9627588868,
     "title": "Arco SEO help",
     "list_title": "CLIENT CHANGE REQUESTS:",
@@ -492,6 +522,21 @@
     "assignees": "Bogdan Zakharchyshyn, Keith Bruss, Predrag",
     "app_url": "https://3.basecamp.com/4226914/buckets/44306089/todos/9236413129",
     "description": "<div>Please add the DNI to the site please.<br><a target=\"_blank\" rel=\"noreferrer\" class=\"autolinked\" data-behavior=\"truncate\" href=\"https://www.goarco.com/\">https://www.goarco.com/</a><br><br>\n</div><div>&lt;!-- ServiceTitan DNI --&gt;<br>&lt;script&gt;<br>&nbsp; &nbsp; dni = (function(q,w,e,r,t,y,u){q['ServiceTitanDniObject']=t;q[t]=q[t]||function(){<br>&nbsp; &nbsp; &nbsp; &nbsp; (q[t].q=q[t].q||[]).push(arguments)};q[t].l=1*new Date();y=w.createElement(e);<br>&nbsp; &nbsp; &nbsp; &nbsp; u=w.getElementsByTagName(e)[0];y.async=true;y.src=r;u.parentNode.insertBefore(y,u);<br>&nbsp; &nbsp; &nbsp; &nbsp; return q[t];<br>&nbsp; &nbsp; })(window,document,'script','<a href=\"https://static.servicetitan.com/marketing-ads/dni.js%27,%27dni%27);\" target=\"_blank\" rel=\"noreferrer\">https://static.servicetitan.com/marketing-ads/dni.js','dni');</a><br>&nbsp; &nbsp; dni('init', '2572259989');<br>&nbsp; &nbsp; document.addEventListener('DOMContentLoaded', function() { dni('load'); }, false);<br>&lt;/script&gt;<br>&lt;!-- ServiceTitan DNI --&gt;<br><br><bc-attachment content-type=\"application/vnd.basecamp.horizontal-rule.html\"><figure>\n  <hr>\n</figure></bc-attachment><br>Thank you very much.</div>",
+    "visible_to_clients": false
+  },
+  {
+    "id": 9766868840,
+    "title": "ARCO CES Page Creation",
+    "list_title": "QUESTIONS/DISCUSSIONS:",
+    "completed": false,
+    "due_on": "2026-04-10",
+    "created_at": "2026-04-08T22:43:37.849Z",
+    "updated_at": "2026-04-09T17:45:42.251Z",
+    "completed_on": null,
+    "comments_count": 3,
+    "assignees": "Chris Traynor, Justyna Acosta",
+    "app_url": "https://3.basecamp.com/4226914/buckets/44306089/todos/9766868840",
+    "description": "<div>Seeking help with a client request please. The client gave us a heads up during the call earlier about a page they want.&nbsp;<br><br>They would like to create an interactive experience on our website for a community engagement campaign. Here’s what we’re envisioning:<br><br>\n</div><div><strong>Project Overview:</strong></div><ul>\n<li>Users scan a QR code from a printed coloring sheet and are taken to a dedicated landing page.</li>\n<li>The landing page will feature an <strong>interactive digital coloring canvas</strong> with a pre-made otter outline.</li>\n<li>Users can color the otter digitally, name their otter, and submit their creation.</li>\n<li>Submissions (colored image + otter name) should be automatically collected in a Google Drive folder or Google Sheet. Ideally, we’d like the submissions to be easy to organize for a Google Slides gallery.</li>\n</ul><div><strong>Requirements / Considerations:</strong></div><ol>\n<li>Mobile-friendly interface – many participants will be on phones or tablets.</li>\n<li>Simple, kid-friendly coloring tools (brush/fill bucket and color palette).</li>\n<li>Submission form should collect at least:<ul>\n<li>Otter Name</li>\n<li>Parent Name / Email</li>\n<li>Colored image</li>\n</ul>\n</li>\n<li>Automatic saving of submissions to a shared folder/Sheet for internal review.</li>\n<li>Optional: The ability to automatically generate a slide for each submission in Google Slides.</li>\n</ol><div>&nbsp;<br>Notes take from the call:&nbsp;</div><ul>\n<li>this will serve like a community engagement campaign part of the site</li>\n<li>they will have a qr code that can be scanned and will route to the page</li>\n<li>it will an interactive coloring canvas where kids can color and mascot and name it</li>\n<li>they will also need this posted on their GBP</li>\n</ul><div>\n<br>*still getting the date and images to use<br><br><br>Thanks much!&nbsp;</div>",
     "visible_to_clients": false
   },
   {
