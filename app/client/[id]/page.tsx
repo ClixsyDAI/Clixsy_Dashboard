@@ -9,6 +9,7 @@ import DashboardTabs from "../../components/DashboardTabs";
 import AISummaryTab from "../../components/AISummaryTab";
 import AskQuestionTab from "../../components/AskQuestionTab";
 import ContentTab from "../../components/ContentTab";
+import ContentPipelineOverview from "../../components/ContentPipelineOverview";
 import ProjectLogTable from "../../components/ProjectLogTable";
 import BrightLocalPanel from "../../components/BrightLocalPanel";
 import { getBrightLocalSummary } from "../../lib/brightlocal-data";
@@ -228,6 +229,9 @@ export default async function ClientDashboard({ params }: PageProps) {
                 {data.outstandingCount} outstanding &nbsp;|&nbsp; {data.total}{" "}
                 total tasks tracked
               </p>
+
+              {/* Content Pipeline snapshot */}
+              <ContentPipelineOverview projectId={id} />
 
               {/* Charts: Row 1 = TOP WINS + (Donut + Gauge half-width) ;
                   Row inserted after = Last 10 Tasks Worked On ;
