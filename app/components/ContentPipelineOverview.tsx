@@ -25,40 +25,53 @@ function monthsBetween(a: { y: number; m: number }, b: { y: number; m: number })
   return (a.y - b.y) * 12 + (a.m - b.m);
 }
 
-function useContentArticles(projectId: string): ContentArticle[] {
+function useContentArticles(projectId: string, clientName: string): ContentArticle[] {
   const key = contentStorageKey(projectId);
-  const [articles, setArticles] = useState<ContentArticle[]>([]);
+  const [local, setLocal] = useState<ContentArticle[]>([]);
+  const [sheet, setSheet] = useState<ContentArticle[]>([]);
 
-  const load = useCallback(() => {
+  const loadLocal = useCallback(() => {
     try {
       const raw = localStorage.getItem(key);
-      if (!raw) {
-        setArticles([]);
-        return;
-      }
+      if (!raw) return setLocal([]);
       const parsed = JSON.parse(raw);
-      if (Array.isArray(parsed)) setArticles(parsed);
-      else setArticles([]);
+      setLocal(Array.isArray(parsed) ? parsed : []);
     } catch {
-      setArticles([]);
+      setLocal([]);
     }
   }, [key]);
 
+  const loadSheet = useCallback(async () => {
+    if (!clientName) return;
+    try {
+      const res = await fetch(`/api/content?client=${encodeURIComponent(clientName)}`);
+      if (!res.ok) return;
+      const json = await res.json();
+      setSheet(json.articles || []);
+    } catch {
+      /* silent */
+    }
+  }, [clientName]);
+
   useEffect(() => {
-    load();
+    loadLocal();
+    loadSheet();
     const onStorage = (e: StorageEvent) => {
-      if (e.key === key) load();
+      if (e.key === key || e.key === null) loadLocal();
     };
-    const onFocus = () => load();
+    const onFocus = () => {
+      loadLocal();
+      loadSheet();
+    };
     window.addEventListener("storage", onStorage);
     window.addEventListener("focus", onFocus);
     return () => {
       window.removeEventListener("storage", onStorage);
       window.removeEventListener("focus", onFocus);
     };
-  }, [key, load]);
+  }, [key, loadLocal, loadSheet]);
 
-  return articles;
+  return useMemo(() => [...sheet, ...local], [sheet, local]);
 }
 
 function goToContentTab() {
@@ -119,8 +132,14 @@ const ORDER: ContentStatus[] = [
   "published",
 ];
 
-export default function ContentPipelineOverview({ projectId }: { projectId: string }) {
-  const articles = useContentArticles(projectId);
+export default function ContentPipelineOverview({
+  projectId,
+  clientName,
+}: {
+  projectId: string;
+  clientName: string;
+}) {
+  const articles = useContentArticles(projectId, clientName);
   const [scope, setScope] = useState<Scope>("this-month");
 
   const now = new Date();

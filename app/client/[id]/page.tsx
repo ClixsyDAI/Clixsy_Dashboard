@@ -231,7 +231,7 @@ export default async function ClientDashboard({ params }: PageProps) {
               </p>
 
               {/* Content Pipeline snapshot */}
-              <ContentPipelineOverview projectId={id} />
+              <ContentPipelineOverview projectId={id} clientName={project.name} />
 
               {/* Charts: Row 1 = TOP WINS + (Donut + Gauge half-width) ;
                   Row inserted after = Last 10 Tasks Worked On ;
@@ -444,7 +444,7 @@ export default async function ClientDashboard({ params }: PageProps) {
 
             {/* ── TAB: CONTENT ──────────────────────────────── */}
             <div>
-              <ContentTab projectId={id} />
+              <ContentTab projectId={id} clientName={project.name} />
             </div>
 
             {/* ── TAB: INTERNAL USE → REPORT (AI) ───────────── */}
