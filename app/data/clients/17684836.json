@@ -1,5 +1,20 @@
 [
   {
+    "id": 9709671838,
+    "title": "🔴 Confirm B-roll footage delivery to Savana for Carolyn Moore video cover image",
+    "list_title": "From Latest Call Notes",
+    "completed": true,
+    "due_on": "2026-03-25",
+    "created_at": "2026-03-23T21:15:02.708Z",
+    "updated_at": "2026-03-26T15:41:46.565Z",
+    "completed_on": "2026-03-26T15:41:46.543Z",
+    "comments_count": 0,
+    "assignees": "Thys du Plooy",
+    "app_url": "https://3.basecamp.com/4226914/buckets/17684836/todos/9709671838",
+    "description": "<p><strong>WHAT:</strong> Cheryl needs to follow up with Josh to ensure the B-roll footage is sent to Savana so she can create a cover image for the YouTube video featuring Carolyn Moore.</p><p><strong>WHY:</strong> The video is already uploaded and part of the front-page carousel strategy to enhance user engagement. Without a proper cover image, the video will appear unprofessional and may reduce click-through rates on the homepage carousel.</p><p><strong>CONTEXT:</strong> Three YouTube videos have been uploaded for the homepage carousel. One video featuring Carolyn Moore lacks a cover image. The team is either seeking images directly from the client or falling back on B-roll footage. There was uncertainty about available images and footage for this case.</p><p><strong>DEADLINE:</strong> End of this week (by March 14, 2026)</p><p><strong>DEPENDENCIES:</strong> Josh (has the B-roll footage), Savana (will create the cover image)</p><p><strong>Owner:</strong> Cheryl</p><p><em>Client: J127 Hill &amp; Moin — Auto-generated from Basecamp thread monitoring.</em></p>",
+    "visible_to_clients": false
+  },
+  {
     "id": 8046111948,
     "title": "Collect Case Stories' email template for client outreach",
     "list_title": "CLIENT CHANGE REQUESTS:",
@@ -12,6 +27,51 @@
     "assignees": "Corey V",
     "app_url": "https://3.basecamp.com/4226914/buckets/17684836/todos/8046111948",
     "description": "<div>Hill + Moin have been struggling with client outreach for their Case Stories. <bc-attachment sgid=\"eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaEpJaWxuYVdRNkx5OWlZek12VUdWeWMyOXVMekkxTVRRM01qZ3hQMlY0Y0dseVpYTmZhVzRHT2daRlZBPT0iLCJleHAiOm51bGwsInB1ciI6ImF0dGFjaGFibGUifX0=--2c40eef23bf219884804347db5f3044695c302bc\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"25147281\" alt=\"Corey V\" title=\"Corey V, President  at Clixsy\" class=\"avatar\" loading=\"lazy\" decoding=\"async\" src=\"https://bc3-production-assets-cdn.basecamp-static.com/4226914/people/BAhpBJG3fwE=--ecc4bd5a769bb64f5876a78460cff951bd71d8f7/avatar\" width=\"20\" height=\"20\">\n  <figcaption>\n    Corey\n  </figcaption>\n</figure></bc-attachment>, you promised them you'd reach out to Ian and see about getting a good email template for them; if you drop it here, I can send it to Sandi</div>",
+    "visible_to_clients": false
+  },
+  {
+    "id": 9728289230,
+    "title": "Add post - Latest news page",
+    "list_title": "CLIENT CHANGE REQUESTS:",
+    "completed": true,
+    "due_on": "2026-03-30",
+    "created_at": "2026-03-27T21:25:11.078Z",
+    "updated_at": "2026-03-31T19:26:31.796Z",
+    "completed_on": "2026-03-31T19:26:31.756Z",
+    "comments_count": 6,
+    "assignees": "Anna Polishchuk, Bogdan Zakharchyshyn",
+    "app_url": "https://3.basecamp.com/4226914/buckets/17684836/todos/9728289230",
+    "description": "<div>Seeking help please post the attached article as it relates to our client, Ms. Natalia Lyubich.<br><a href=\"https://hillmoin.com/latest-news/\" target=\"_blank\" rel=\"noreferrer\">https://hillmoin.com/latest-news/</a>\n</div><div>&nbsp;<br>Content to use:<br><bc-attachment sgid=\"BAh7BkkiC19yYWlscwY6BkVUewdJIglkYXRhBjsAVEkiLmdpZDovL2JjMy9BdHRhY2htZW50LzgzMDU5ODM0Mz9leHBpcmVzX2luBjsAVEkiCHB1cgY7AFRJIg9hdHRhY2hhYmxlBjsAVA==--c51f3722a046c0495cc7981d5bae72eda436d76b\" content-type=\"application/vnd.openxmlformats-officedocument.wordprocessingml.document\" url=\"https://preview.3.basecamp.com/4226914/blobs/6bd06c94-2a23-11f1-a987-0242ac120003/previews/full\" href=\"https://storage.3.basecamp.com/4226914/blobs/6bd06c94-2a23-11f1-a987-0242ac120003/download/Natalia%20Lyubich%20Blog%20(Draft).docx\" filename=\"Natalia Lyubich Blog (Draft).docx\" filesize=\"14283\" width=\"\" height=\"\" previewable=\"false\"><figure>\n  <figcaption>\n    Natalia Lyubich Blog (Draft).docx\n  </figcaption>\n</figure></bc-attachment><br><br><br>---<br>Thanks much!</div>",
+    "visible_to_clients": false
+  },
+  {
+    "id": 9722919128,
+    "title": "Priority - Correct Settlement amount on website",
+    "list_title": "CLIENT CHANGE REQUESTS:",
+    "completed": true,
+    "due_on": "2026-03-26",
+    "created_at": "2026-03-26T17:08:11.691Z",
+    "updated_at": "2026-03-26T17:26:22.840Z",
+    "completed_on": "2026-03-26T17:26:22.808+00:00",
+    "comments_count": 7,
+    "assignees": "Bogdan Zakharchyshyn, Den, Evgenii Gusarovskii, Jordan, Keith Bruss, Predrag",
+    "app_url": "https://3.basecamp.com/4226914/buckets/17684836/todos/9722919128",
+    "description": "<div>&nbsp;</div><div>The AM has marked this as an <strong>urgent priority</strong> task. Please tag me as soon as this is completed and move to <strong>Review/QA</strong>.<br>cc <bc-attachment sgid=\"BAh7BkkiC19yYWlscwY6BkVUewdJIglkYXRhBjsAVEkiKWdpZDovL2JjMy9QZXJzb24vNDkxOTE1ODI_ZXhwaXJlc19pbgY7AFRJIghwdXIGOwBUSSIPYXR0YWNoYWJsZQY7AFQ=--caf7204cfc2fdf34910b02487ddbbc1b78563ee7\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"49191582\" alt=\"Jessica Mena\" title=\"Jessica Mena, Account Manager at Clixsy\" class=\"avatar\" loading=\"lazy\" decoding=\"async\" src=\"https://bc3-production-assets-cdn.basecamp-static.com/4226914/people/BAhpBJ6a7gI=--44669f1bb8187449ea5512ebc987d6d4906897c4/avatar\" width=\"20\" height=\"20\">\n  <figcaption>\n    Jessica\n  </figcaption>\n</figure></bc-attachment>&nbsp;</div><div>\n<br><br>The Pedro Santos video has the wrong settlement amount on the carousel. The correct settlement was for $1.25 million.&nbsp;</div><div><br></div><div><br></div><div>Website URL: <a href=\"https://hillmoin.com/#\" target=\"_blank\" rel=\"noreferrer\">https://hillmoin.com/</a><br><br>Homepage Screenshot. Please ensure it is correct on all other pages this video is on as well.<br><bc-attachment sgid=\"BAh7BkkiC19yYWlscwY6BkVUewdJIglkYXRhBjsAVEkiLmdpZDovL2JjMy9BdHRhY2htZW50LzgzMDAyMjc3MD9leHBpcmVzX2luBjsAVEkiCHB1cgY7AFRJIg9hdHRhY2hhYmxlBjsAVA==--c063696001aaf1cecdb1c3bdd10eda2e3de671e3\" content-type=\"image/png\" url=\"https://preview.3.basecamp.com/4226914/blobs/00585afa-2936-11f1-8a0a-0242ac120004/previews/full\" href=\"https://storage.3.basecamp.com/4226914/blobs/00585afa-2936-11f1-8a0a-0242ac120004/download/Screenshot%202026-03-26%20at%2010.54.42%E2%80%AFAM.png\" filename=\"Screenshot 2026-03-26 at 10.54.42 AM.png\" filesize=\"1006855\" width=\"1954\" height=\"1200\" previewable=\"true\" presentation=\"gallery\"><figure>\n    <img srcset=\"https://preview.3.basecamp.com/4226914/blobs/00585afa-2936-11f1-8a0a-0242ac120004/previews/full?dppx=2 2x, https://preview.3.basecamp.com/4226914/blobs/00585afa-2936-11f1-8a0a-0242ac120004/previews/full?dppx=1 1x, https://preview.3.basecamp.com/4226914/blobs/00585afa-2936-11f1-8a0a-0242ac120004/previews/full?dppx=3 3x, https://preview.3.basecamp.com/4226914/blobs/00585afa-2936-11f1-8a0a-0242ac120004/previews/full?dppx=4 4x\" src=\"https://preview.3.basecamp.com/4226914/blobs/00585afa-2936-11f1-8a0a-0242ac120004/previews/full\">\n  <figcaption>\n    Screenshot 2026-03-26 at 10.54.42 AM.png\n  </figcaption>\n</figure></bc-attachment><br><br>Thank you.</div>",
+    "visible_to_clients": false
+  },
+  {
+    "id": 9699499919,
+    "title": "New Homepage Sections",
+    "list_title": "CLIENT CHANGE REQUESTS:",
+    "completed": true,
+    "due_on": "2026-03-25",
+    "created_at": "2026-03-19T19:53:54.739Z",
+    "updated_at": "2026-03-24T17:23:38.844Z",
+    "completed_on": "2026-03-24T17:23:38.821Z",
+    "comments_count": 15,
+    "assignees": "Bogdan Zakharchyshyn, Jordan",
+    "app_url": "https://3.basecamp.com/4226914/buckets/17684836/todos/9699499919",
+    "description": "<div>Please assist in developing the new sections on the homepage<br><br>hillmoin.com<br><br>Figma: <a target=\"_blank\" rel=\"noreferrer\" class=\"autolinked\" data-behavior=\"truncate\" href=\"https://www.figma.com/design/sxZBGsv4NGgDKdrFTZyAzs/Hill---Moin?node-id=2311-288&amp;t=jd0Dn9QFKX49Nbpa-1\">https://www.figma.com/design/sxZBGsv4NGgDKdrFTZyAzs/Hill---Moin?node-id=2311-288&amp;t=jd0Dn9QFKX49Nbpa-1</a><br><br>\n</div><div>\n  <bc-attachment sgid=\"BAh7BkkiC19yYWlscwY6BkVUewdJIglkYXRhBjsAVEkiLmdpZDovL2JjMy9BdHRhY2htZW50LzgyNzYzMjEwND9leHBpcmVzX2luBjsAVEkiCHB1cgY7AFRJIg9hdHRhY2hhYmxlBjsAVA==--b90fdcf311fd5dee925b85191a77620219ce00fc\" content-type=\"image/png\" url=\"https://preview.3.basecamp.com/4226914/blobs/5a099672-23cd-11f1-aa62-0242ac120004/previews/full\" href=\"https://storage.3.basecamp.com/4226914/blobs/5a099672-23cd-11f1-aa62-0242ac120004/download/Screenshot%202026-03-19%20at%201.52.18%E2%80%AFPM.png\" filename=\"Screenshot 2026-03-19 at 1.52.18 PM.png\" filesize=\"266817\" width=\"1274\" height=\"514\" previewable=\"true\" presentation=\"gallery\"><figure>\n    <img srcset=\"https://preview.3.basecamp.com/4226914/blobs/5a099672-23cd-11f1-aa62-0242ac120004/previews/full?dppx=2 2x, https://preview.3.basecamp.com/4226914/blobs/5a099672-23cd-11f1-aa62-0242ac120004/previews/full?dppx=1 1x, https://preview.3.basecamp.com/4226914/blobs/5a099672-23cd-11f1-aa62-0242ac120004/previews/full?dppx=3 3x, https://preview.3.basecamp.com/4226914/blobs/5a099672-23cd-11f1-aa62-0242ac120004/previews/full?dppx=4 4x\" src=\"https://preview.3.basecamp.com/4226914/blobs/5a099672-23cd-11f1-aa62-0242ac120004/previews/full\">\n  <figcaption>\n    Screenshot 2026-03-19 at 1.52.18 PM.png\n  </figcaption>\n</figure></bc-attachment><bc-attachment sgid=\"BAh7BkkiC19yYWlscwY6BkVUewdJIglkYXRhBjsAVEkiLmdpZDovL2JjMy9BdHRhY2htZW50LzgyNzYzMjEwNz9leHBpcmVzX2luBjsAVEkiCHB1cgY7AFRJIg9hdHRhY2hhYmxlBjsAVA==--e2d7878f85bbb0d753e2c03ff5d9fe2c97a759ba\" content-type=\"image/png\" url=\"https://preview.3.basecamp.com/4226914/blobs/5a35f17c-23cd-11f1-af95-0242ac120004/previews/full\" href=\"https://storage.3.basecamp.com/4226914/blobs/5a35f17c-23cd-11f1-af95-0242ac120004/download/Screenshot%202026-03-19%20at%201.52.24%E2%80%AFPM.png\" filename=\"Screenshot 2026-03-19 at 1.52.24 PM.png\" filesize=\"207799\" width=\"1194\" height=\"479\" previewable=\"true\" presentation=\"gallery\"><figure>\n    <img srcset=\"https://preview.3.basecamp.com/4226914/blobs/5a35f17c-23cd-11f1-af95-0242ac120004/previews/full?dppx=2 2x, https://preview.3.basecamp.com/4226914/blobs/5a35f17c-23cd-11f1-af95-0242ac120004/previews/full?dppx=1 1x, https://preview.3.basecamp.com/4226914/blobs/5a35f17c-23cd-11f1-af95-0242ac120004/previews/full?dppx=3 3x, https://preview.3.basecamp.com/4226914/blobs/5a35f17c-23cd-11f1-af95-0242ac120004/previews/full?dppx=4 4x\" src=\"https://preview.3.basecamp.com/4226914/blobs/5a35f17c-23cd-11f1-af95-0242ac120004/previews/full\">\n  <figcaption>\n    Screenshot 2026-03-19 at 1.52.24 PM.png\n  </figcaption>\n</figure></bc-attachment>\n</div>",
     "visible_to_clients": false
   },
   {
@@ -1245,21 +1305,6 @@
     "visible_to_clients": false
   },
   {
-    "id": 9499217735,
-    "title": "Carousel update",
-    "list_title": "QUESTIONS/DISCUSSIONS:",
-    "completed": false,
-    "due_on": "2026-01-26",
-    "created_at": "2026-01-23T00:06:20.932Z",
-    "updated_at": "2026-03-17T21:18:39.089Z",
-    "completed_on": null,
-    "comments_count": 34,
-    "assignees": "Justyna Acosta, Sky Ortigas",
-    "app_url": "https://3.basecamp.com/4226914/buckets/17684836/todos/9499217735",
-    "description": "<div>Hi, seeking help if we can have a mock up design of the page please. Once we have it their AM can send it over to the client for approval.&nbsp;<br><br>Context - update to showcase the case stories, much like what Mike Morse did. Move the settlements carousel down to the Picture of Sandy and Cheryl.&nbsp;<br><br>\n</div><div>\n  <bc-attachment sgid=\"BAh7BkkiC19yYWlscwY6BkVUewdJIglkYXRhBjsAVEkiLmdpZDovL2JjMy9BdHRhY2htZW50LzgwNzI2MzQ2MD9leHBpcmVzX2luBjsAVEkiCHB1cgY7AFRJIg9hdHRhY2hhYmxlBjsAVA==--ff73e4218653cd3d446a79504c2cc0072be4f7bc\" content-type=\"image/png\" url=\"https://preview.3.basecamp.com/4226914/blobs/2d4de57a-f7ef-11f0-a81c-0242ac120003/previews/full\" href=\"https://storage.3.basecamp.com/4226914/blobs/2d4de57a-f7ef-11f0-a81c-0242ac120003/download/image.png\" filename=\"image.png\" filesize=\"39450\" width=\"274\" height=\"212\" previewable=\"true\" presentation=\"gallery\"><figure>\n    <img srcset=\"https://preview.3.basecamp.com/4226914/blobs/2d4de57a-f7ef-11f0-a81c-0242ac120003/previews/full?dppx=2 2x, https://preview.3.basecamp.com/4226914/blobs/2d4de57a-f7ef-11f0-a81c-0242ac120003/previews/full?dppx=1 1x, https://preview.3.basecamp.com/4226914/blobs/2d4de57a-f7ef-11f0-a81c-0242ac120003/previews/full?dppx=3 3x, https://preview.3.basecamp.com/4226914/blobs/2d4de57a-f7ef-11f0-a81c-0242ac120003/previews/full?dppx=4 4x\" src=\"https://preview.3.basecamp.com/4226914/blobs/2d4de57a-f7ef-11f0-a81c-0242ac120003/previews/full\">\n  <figcaption>\n    image.png\n  </figcaption>\n</figure></bc-attachment><bc-attachment sgid=\"BAh7BkkiC19yYWlscwY6BkVUewdJIglkYXRhBjsAVEkiLmdpZDovL2JjMy9BdHRhY2htZW50LzgwNzI2MzY1Mj9leHBpcmVzX2luBjsAVEkiCHB1cgY7AFRJIg9hdHRhY2hhYmxlBjsAVA==--1c86c8d63bc55a0862a383abc142177707a8e551\" content-type=\"image/png\" url=\"https://preview.3.basecamp.com/4226914/blobs/4d43ec6c-f7ef-11f0-b173-0242ac120002/previews/full\" href=\"https://storage.3.basecamp.com/4226914/blobs/4d43ec6c-f7ef-11f0-b173-0242ac120002/download/image.png\" filename=\"image.png\" filesize=\"276414\" width=\"1046\" height=\"626\" previewable=\"true\" presentation=\"gallery\"><figure>\n    <img srcset=\"https://preview.3.basecamp.com/4226914/blobs/4d43ec6c-f7ef-11f0-b173-0242ac120002/previews/full?dppx=2 2x, https://preview.3.basecamp.com/4226914/blobs/4d43ec6c-f7ef-11f0-b173-0242ac120002/previews/full?dppx=1 1x, https://preview.3.basecamp.com/4226914/blobs/4d43ec6c-f7ef-11f0-b173-0242ac120002/previews/full?dppx=3 3x, https://preview.3.basecamp.com/4226914/blobs/4d43ec6c-f7ef-11f0-b173-0242ac120002/previews/full?dppx=4 4x\" src=\"https://preview.3.basecamp.com/4226914/blobs/4d43ec6c-f7ef-11f0-b173-0242ac120002/previews/full\">\n  <figcaption>\n    image.png\n  </figcaption>\n</figure></bc-attachment>\n</div><div>\n<br><br>Thanks much!<br><br>cc <bc-attachment sgid=\"BAh7BkkiC19yYWlscwY6BkVUewdJIglkYXRhBjsAVEkiKWdpZDovL2JjMy9QZXJzb24vNDkxOTE1ODI_ZXhwaXJlc19pbgY7AFRJIghwdXIGOwBUSSIPYXR0YWNoYWJsZQY7AFQ=--caf7204cfc2fdf34910b02487ddbbc1b78563ee7\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"49191582\" alt=\"Jessica Mena\" title=\"Jessica Mena, Account Manager at Clixsy\" class=\"avatar\" loading=\"lazy\" decoding=\"async\" src=\"https://bc3-production-assets-cdn.basecamp-static.com/4226914/people/BAhpBJ6a7gI=--44669f1bb8187449ea5512ebc987d6d4906897c4/avatar\" width=\"20\" height=\"20\">\n  <figcaption>\n    Jessica\n  </figcaption>\n</figure></bc-attachment>&nbsp;</div>",
-    "visible_to_clients": false
-  },
-  {
     "id": 9669335295,
     "title": "Discuss PR campaigns for Hill & Moin",
     "list_title": "QUESTIONS/DISCUSSIONS:",
@@ -1272,6 +1317,36 @@
     "assignees": "Corey V, Daniel",
     "app_url": "https://3.basecamp.com/4226914/buckets/17684836/todos/9669335295",
     "description": "<div>Cory talked in the last progress call for Hill and Moin about looking into PR options and pricing for a digital PR campaign. He’s focused on topics like labor and construction content, updates on labor laws, safety on construction sites, and injury stats to grab some media attention.&nbsp;<br><br>He’ll follow up with the Hill &amp; Moin team on our next progress call (April 16th) and show them pricing for these campaigns.</div>",
+    "visible_to_clients": false
+  },
+  {
+    "id": 9738239520,
+    "title": "Recipient List trouble shooting",
+    "list_title": "QUESTIONS/DISCUSSIONS:",
+    "completed": false,
+    "due_on": "2026-04-02",
+    "created_at": "2026-03-31T17:10:15.061Z",
+    "updated_at": "2026-04-03T15:30:31.731Z",
+    "completed_on": null,
+    "comments_count": 18,
+    "assignees": "Keith Bruss",
+    "app_url": "https://3.basecamp.com/4226914/buckets/17684836/todos/9738239520",
+    "description": "<div>Hi Team,<br><br>The recipient list for Hill and Moin does not include everyone who should receive notifications. We have been assigned to update this list twice. Can we investigate the issue and resolve it?<br><br>This shows the current recipient list<br><bc-attachment sgid=\"BAh7BkkiC19yYWlscwY6BkVUewdJIglkYXRhBjsAVEkiLmdpZDovL2JjMy9BdHRhY2htZW50LzgzMTYyNDc4MD9leHBpcmVzX2luBjsAVEkiCHB1cgY7AFRJIg9hdHRhY2hhYmxlBjsAVA==--534585067c5701da64ef3e6b0f167bb4e739192c\" content-type=\"image/jpeg\" url=\"https://preview.3.basecamp.com/4226914/blobs/391039d4-2d24-11f1-994c-0242ac120003/previews/full\" href=\"https://storage.3.basecamp.com/4226914/blobs/391039d4-2d24-11f1-994c-0242ac120003/download/Clixsy%20Lead%20Email%20Incomplete%20Recipient%20List%20.jpg\" filename=\"Clixsy Lead Email Incomplete Recipient List .jpg\" filesize=\"106981\" width=\"1276\" height=\"735\" previewable=\"true\" presentation=\"gallery\"><figure>\n    <img srcset=\"https://preview.3.basecamp.com/4226914/blobs/391039d4-2d24-11f1-994c-0242ac120003/previews/full?dppx=2 2x, https://preview.3.basecamp.com/4226914/blobs/391039d4-2d24-11f1-994c-0242ac120003/previews/full?dppx=1 1x, https://preview.3.basecamp.com/4226914/blobs/391039d4-2d24-11f1-994c-0242ac120003/previews/full?dppx=3 3x, https://preview.3.basecamp.com/4226914/blobs/391039d4-2d24-11f1-994c-0242ac120003/previews/full?dppx=4 4x\" src=\"https://preview.3.basecamp.com/4226914/blobs/391039d4-2d24-11f1-994c-0242ac120003/previews/full\">\n  <figcaption>\n    Clixsy Lead Email Incomplete Recipient List .jpg\n  </figcaption>\n</figure></bc-attachment><br>This is the correct recipient list:<br><br><br>\n</div><ol>\n<li><a href=\"mailto:cmoin@hillmoin.com\" target=\"_blank\" rel=\"noreferrer\">cmoin@hillmoin.com</a></li>\n<li><a href=\"mailto:mhill@hillmoin.com\" target=\"_blank\" rel=\"noreferrer\">mhill@hillmoin.com</a></li>\n<li><a href=\"mailto:dzwerin@hillmoin.com\" target=\"_blank\" rel=\"noreferrer\">dzwerin@hillmoin.com</a></li>\n<li><a href=\"mailto:CKirchhoff@hillmoin.com\" target=\"_blank\" rel=\"noreferrer\">CKirchhoff@hillmoin.com</a></li>\n<li><a href=\"mailto:JAraujo@hillmoin.com\" target=\"_blank\" rel=\"noreferrer\">JAraujo@hillmoin.com</a></li>\n<li><a href=\"mailto:aortiz@hillmoin.com\" target=\"_blank\" rel=\"noreferrer\">aortiz@hillmoin.com</a></li>\n<li><a href=\"mailto:ERodriguez@hillmoin.com\" target=\"_blank\" rel=\"noreferrer\">ERodriguez@hillmoin.com</a></li>\n<li><a href=\"mailto:AMadrigal@hillmoin.com\" target=\"_blank\" rel=\"noreferrer\">AMadrigal@hillmoin.com</a></li>\n<li><a href=\"mailto:BBerman@hillmoin.com\" target=\"_blank\" rel=\"noreferrer\">BBerman@hillmoin.com</a></li>\n<li>\n<a href=\"mailto:ewittels@hillmoin.com\" target=\"_blank\" rel=\"noreferrer\">ewittels@hillmoin.com</a>&nbsp;</li>\n</ol><div></div>",
+    "visible_to_clients": false
+  },
+  {
+    "id": 9499217735,
+    "title": "Carousel update",
+    "list_title": "QUESTIONS/DISCUSSIONS:",
+    "completed": true,
+    "due_on": "2026-01-26",
+    "created_at": "2026-01-23T00:06:20.932Z",
+    "updated_at": "2026-03-19T20:04:23.795Z",
+    "completed_on": "2026-03-19T20:04:23.764Z",
+    "comments_count": 39,
+    "assignees": "Justyna Acosta, Sky Ortigas",
+    "app_url": "https://3.basecamp.com/4226914/buckets/17684836/todos/9499217735",
+    "description": "<div>Hi, seeking help if we can have a mock up design of the page please. Once we have it their AM can send it over to the client for approval.&nbsp;<br><br>Context - update to showcase the case stories, much like what Mike Morse did. Move the settlements carousel down to the Picture of Sandy and Cheryl.&nbsp;<br><br>\n</div><div>\n  <bc-attachment sgid=\"BAh7BkkiC19yYWlscwY6BkVUewdJIglkYXRhBjsAVEkiLmdpZDovL2JjMy9BdHRhY2htZW50LzgwNzI2MzQ2MD9leHBpcmVzX2luBjsAVEkiCHB1cgY7AFRJIg9hdHRhY2hhYmxlBjsAVA==--ff73e4218653cd3d446a79504c2cc0072be4f7bc\" content-type=\"image/png\" url=\"https://preview.3.basecamp.com/4226914/blobs/2d4de57a-f7ef-11f0-a81c-0242ac120003/previews/full\" href=\"https://storage.3.basecamp.com/4226914/blobs/2d4de57a-f7ef-11f0-a81c-0242ac120003/download/image.png\" filename=\"image.png\" filesize=\"39450\" width=\"274\" height=\"212\" previewable=\"true\" presentation=\"gallery\"><figure>\n    <img srcset=\"https://preview.3.basecamp.com/4226914/blobs/2d4de57a-f7ef-11f0-a81c-0242ac120003/previews/full?dppx=2 2x, https://preview.3.basecamp.com/4226914/blobs/2d4de57a-f7ef-11f0-a81c-0242ac120003/previews/full?dppx=1 1x, https://preview.3.basecamp.com/4226914/blobs/2d4de57a-f7ef-11f0-a81c-0242ac120003/previews/full?dppx=3 3x, https://preview.3.basecamp.com/4226914/blobs/2d4de57a-f7ef-11f0-a81c-0242ac120003/previews/full?dppx=4 4x\" src=\"https://preview.3.basecamp.com/4226914/blobs/2d4de57a-f7ef-11f0-a81c-0242ac120003/previews/full\">\n  <figcaption>\n    image.png\n  </figcaption>\n</figure></bc-attachment><bc-attachment sgid=\"BAh7BkkiC19yYWlscwY6BkVUewdJIglkYXRhBjsAVEkiLmdpZDovL2JjMy9BdHRhY2htZW50LzgwNzI2MzY1Mj9leHBpcmVzX2luBjsAVEkiCHB1cgY7AFRJIg9hdHRhY2hhYmxlBjsAVA==--1c86c8d63bc55a0862a383abc142177707a8e551\" content-type=\"image/png\" url=\"https://preview.3.basecamp.com/4226914/blobs/4d43ec6c-f7ef-11f0-b173-0242ac120002/previews/full\" href=\"https://storage.3.basecamp.com/4226914/blobs/4d43ec6c-f7ef-11f0-b173-0242ac120002/download/image.png\" filename=\"image.png\" filesize=\"276414\" width=\"1046\" height=\"626\" previewable=\"true\" presentation=\"gallery\"><figure>\n    <img srcset=\"https://preview.3.basecamp.com/4226914/blobs/4d43ec6c-f7ef-11f0-b173-0242ac120002/previews/full?dppx=2 2x, https://preview.3.basecamp.com/4226914/blobs/4d43ec6c-f7ef-11f0-b173-0242ac120002/previews/full?dppx=1 1x, https://preview.3.basecamp.com/4226914/blobs/4d43ec6c-f7ef-11f0-b173-0242ac120002/previews/full?dppx=3 3x, https://preview.3.basecamp.com/4226914/blobs/4d43ec6c-f7ef-11f0-b173-0242ac120002/previews/full?dppx=4 4x\" src=\"https://preview.3.basecamp.com/4226914/blobs/4d43ec6c-f7ef-11f0-b173-0242ac120002/previews/full\">\n  <figcaption>\n    image.png\n  </figcaption>\n</figure></bc-attachment>\n</div><div>\n<br><br>Thanks much!<br><br>cc <bc-attachment sgid=\"BAh7BkkiC19yYWlscwY6BkVUewdJIglkYXRhBjsAVEkiKWdpZDovL2JjMy9QZXJzb24vNDkxOTE1ODI_ZXhwaXJlc19pbgY7AFRJIghwdXIGOwBUSSIPYXR0YWNoYWJsZQY7AFQ=--caf7204cfc2fdf34910b02487ddbbc1b78563ee7\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"49191582\" alt=\"Jessica Mena\" title=\"Jessica Mena, Account Manager at Clixsy\" class=\"avatar\" loading=\"lazy\" decoding=\"async\" src=\"https://bc3-production-assets-cdn.basecamp-static.com/4226914/people/BAhpBJ6a7gI=--44669f1bb8187449ea5512ebc987d6d4906897c4/avatar\" width=\"20\" height=\"20\">\n  <figcaption>\n    Jessica\n  </figcaption>\n</figure></bc-attachment>&nbsp;</div>",
     "visible_to_clients": false
   },
   {
