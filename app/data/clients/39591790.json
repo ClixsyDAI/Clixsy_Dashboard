@@ -15,6 +15,21 @@
     "visible_to_clients": false
   },
   {
+    "id": 9695763697,
+    "title": "90 Day SEO Brag Sheet",
+    "list_title": "CLIENT CHANGE REQUESTS:",
+    "completed": true,
+    "due_on": "2026-03-19",
+    "created_at": "2026-03-18T22:49:06.495Z",
+    "updated_at": "2026-03-23T17:16:12.345Z",
+    "completed_on": "2026-03-19T18:25:24.128Z",
+    "comments_count": 12,
+    "assignees": "Clayton Coombs, Justyna Acosta, Mubeen Dildar-Mia",
+    "app_url": "https://3.basecamp.com/4226914/buckets/39591790/todos/9695763697",
+    "description": "<div>We received the following request from the client:<br><br>\"The GM at Holt is asking for a list of what’s been done to progress local SEO for the brand. Can you please put together a list of what’s been done over the last 60-90 days. Nothing too ‘in the weeds,’ just a good impressive looking overview, please?\"<br><br><bc-attachment sgid=\"BAh7BkkiC19yYWlscwY6BkVUewdJIglkYXRhBjsAVEkiKWdpZDovL2JjMy9QZXJzb24vNDk5ODQ3Mjg_ZXhwaXJlc19pbgY7AFRJIghwdXIGOwBUSSIPYXR0YWNoYWJsZQY7AFQ=--bb3b2f1cc2dea2dbeb374c74241d4fcd7eac5ae9\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"49984728\" alt=\"Mubeen Dildar-Mia\" title=\"Mubeen Dildar-Mia, Head SEO Coordinator at Clixsy\" class=\"avatar\" loading=\"lazy\" decoding=\"async\" src=\"https://bc3-production-assets-cdn.basecamp-static.com/4226914/people/BAhpBNi0+gI=--17c301bfdb3ad779c8a5bd6896eb76d427bb6e25/avatar\" width=\"20\" height=\"20\">\n  <figcaption>\n    Mubeen\n  </figcaption>\n</figure></bc-attachment> <bc-attachment sgid=\"BAh7BkkiC19yYWlscwY6BkVUewdJIglkYXRhBjsAVEkiKWdpZDovL2JjMy9QZXJzb24vMjUxNDcyOTc_ZXhwaXJlc19pbgY7AFRJIghwdXIGOwBUSSIPYXR0YWNoYWJsZQY7AFQ=--4eb06fe2ab2e04325f0d616621cbe5a97c3fae20\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"25147297\" alt=\"Clayton Coombs\" title=\"Clayton Coombs, President of SEO at Clixsy\" class=\"avatar\" loading=\"lazy\" decoding=\"async\" src=\"https://bc3-production-assets-cdn.basecamp-static.com/4226914/people/BAhpBKG3fwE=--e4c69674c81004f369132ac792331e4590f68855/avatar\" width=\"20\" height=\"20\">\n  <figcaption>\n    Clayton\n  </figcaption>\n</figure></bc-attachment> what process would you like us to follow for these types of request? Ideally I'd love the SEO lead on the project to create a brag sheet showing off what's been done. However where I believe Clayton is the lead SEO on this account I'm not sure that is the wisest use of his time. Alternatively we (PM team) could create one, but the quality of the report would not be great coming from us. Please advise. I'd like to have this ready for the client tomorrow. I don't mind doing it if that's what's best.<br><br>Client site:<br><a target=\"_blank\" rel=\"noreferrer\" class=\"autolinked\" data-behavior=\"truncate\" href=\"https://holtplumbingandheating.com/\">https://holtplumbingandheating.com/</a>\n</div>",
+    "visible_to_clients": false
+  },
+  {
     "id": 9624863305,
     "title": "Update and add menu",
     "list_title": "CLIENT CHANGE REQUESTS:",
@@ -507,6 +522,21 @@
     "assignees": "Bogdan Zakharchyshyn, Den, Jordan, Predrag, Venus Saragena",
     "app_url": "https://3.basecamp.com/4226914/buckets/39591790/todos/8270152853",
     "description": "<div>Seeking help w/ the client request to update the images for their Jellyfish lighting page. This is similar to the Gemstone pages we have for Bassett and Precision Today.<br><a target=\"_blank\" rel=\"noreferrer\" class=\"autolinked\" data-behavior=\"truncate\" href=\"https://holtplumbingandheating.com/jellyfish-lighting/\">https://holtplumbingandheating.com/jellyfish-lighting/</a><br><br>Here is the link w/ the images from the client. He said we can use any of the images from this file.<br><a target=\"_blank\" rel=\"noreferrer\" class=\"autolinked\" data-behavior=\"truncate\" href=\"https://www.dropbox.com/scl/fo/yf21xjf51kfacvyrjf8if/ADJ7WpuaRFrcKhzcmzuK2lI/Accent?rlkey=xiq0u3w2dgcyky3rleal1qa0w&amp;e=1&amp;subfolder_nav_tracking=1&amp;dl=0\">https://www.dropbox.com/scl/fo/yf21xjf51kfacvyrjf8if/ADJ7WpuaRFrcKhzcmzuK2lI/Accent?rlkey=xiq0u3w2dgcyky3rleal1qa0w&amp;e=1&amp;subfolder_nav_tracking=1&amp;dl=0</a><br><br>Thanks much.&nbsp;</div>",
+    "visible_to_clients": false
+  },
+  {
+    "id": 9718712439,
+    "title": "Schema markup implementation",
+    "list_title": "QUESTIONS/DISCUSSIONS:",
+    "completed": true,
+    "due_on": "2026-03-30",
+    "created_at": "2026-03-25T18:59:46.202Z",
+    "updated_at": "2026-04-07T14:33:16.187Z",
+    "completed_on": "2026-04-07T13:13:25.755Z",
+    "comments_count": 12,
+    "assignees": "Sadie de Pinto",
+    "app_url": "https://3.basecamp.com/4226914/buckets/39591790/todos/9718712439",
+    "description": "<div>Seeking help w/ a client request please. Adding the info from the client:<br>&nbsp;</div><div>Please implement the following:</div><div>Holt Plumbing &amp; Heating, Inc. — <a href=\"http://holtplumbingandheating.com/\" target=\"_blank\" rel=\"noreferrer\">holtplumbingandheating.com</a>\n</div><div><br></div><div>• WebSite / WebPage schema</div><div>• FAQPage schema (on applicable service pages)</div><div>• BreadcrumbList schema (on interior pages)&nbsp;</div><div>\n<br><br>---<br>Please do let us know if there is anything else we may need from the client.&nbsp;<br><br>Thanks much&nbsp;</div>",
     "visible_to_clients": false
   },
   {
