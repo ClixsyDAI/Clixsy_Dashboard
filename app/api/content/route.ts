@@ -42,16 +42,36 @@ type CacheEntry = { ts: number; rows: string[][]; tab: string };
 let cache: CacheEntry | null = null;
 
 function getAuth() {
+  // Preferred: GOOGLE_SERVICE_ACCOUNT_KEY is the full service-account JSON
+  // stored as one env var (same one used by the GSC/GA4 sync).
+  const jsonBlob = process.env.GOOGLE_SERVICE_ACCOUNT_KEY;
+  if (jsonBlob) {
+    let parsed: { client_email?: string; private_key?: string };
+    try {
+      parsed = JSON.parse(jsonBlob);
+    } catch {
+      throw new Error("GOOGLE_SERVICE_ACCOUNT_KEY is not valid JSON");
+    }
+    if (!parsed.client_email || !parsed.private_key) {
+      throw new Error("GOOGLE_SERVICE_ACCOUNT_KEY missing client_email or private_key");
+    }
+    return new google.auth.JWT({
+      email: parsed.client_email,
+      key: parsed.private_key.replace(/\\n/g, "\n"),
+      scopes: ["https://www.googleapis.com/auth/spreadsheets.readonly"],
+    });
+  }
+  // Fallback: split env vars
   const email = process.env.GOOGLE_SERVICE_ACCOUNT_EMAIL;
   const rawKey = process.env.GOOGLE_PRIVATE_KEY;
   if (!email || !rawKey) {
-    throw new Error("Missing GOOGLE_SERVICE_ACCOUNT_EMAIL or GOOGLE_PRIVATE_KEY env var");
+    throw new Error(
+      "Missing GOOGLE_SERVICE_ACCOUNT_KEY (or GOOGLE_SERVICE_ACCOUNT_EMAIL + GOOGLE_PRIVATE_KEY)"
+    );
   }
-  // Vercel env vars store `\n` as literal backslash-n; normalize to real newlines.
-  const key = rawKey.replace(/\\n/g, "\n");
   return new google.auth.JWT({
     email,
-    key,
+    key: rawKey.replace(/\\n/g, "\n"),
     scopes: ["https://www.googleapis.com/auth/spreadsheets.readonly"],
   });
 }
