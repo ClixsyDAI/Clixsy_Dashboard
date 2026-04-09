@@ -1,9 +1,9 @@
 {
   "9633407484": {
     "id": 9633407484,
-    "title": "Analyze Decreased Website Search Performance",
-    "whyItMatters": "Understanding why fewer people are finding and clicking on your website helps identify SEO issues that need fixing.",
-    "updatedAt": "2026-03-09T17:31:30.524Z"
+    "title": "Analyze Declining Website Search Performance",
+    "whyItMatters": "Understanding why your website clicks dropped helps identify and fix issues hurting your search visibility.",
+    "updatedAt": "2026-04-07T14:32:54.442Z"
   },
   "9603651362": {
     "id": 9603651362,
@@ -13,9 +13,9 @@
   },
   "9236719307": {
     "id": 9236719307,
-    "title": "Fix Duplicate Pages and SEO Issues",
-    "whyItMatters": "Removing duplicate content and fixing technical problems helps search engines better understand and rank your website.",
-    "updatedAt": "2026-03-06T21:05:41.534Z"
+    "title": "Fix Website Technical Issues and Duplicates",
+    "whyItMatters": "Removing duplicate pages and fixing technical problems improves your website's search engine rankings and user experience.",
+    "updatedAt": "2026-03-31T23:22:43.234Z"
   },
   "9635184307": {
     "id": 9635184307,
@@ -37,9 +37,9 @@
   },
   "9619598936": {
     "id": 9619598936,
-    "title": "Fix Phone Number Consistency Issues",
-    "whyItMatters": "Matching phone numbers across your website and Google Business Profile prevents search engine confusion and improves local rankings.",
-    "updatedAt": "2026-02-27T22:09:25.512Z"
+    "title": "Fix Phone Number Mismatches Across Platforms",
+    "whyItMatters": "Inconsistent phone numbers across your website and Google listings confuse customers and hurt local search rankings.",
+    "updatedAt": "2026-04-09T18:15:56.818Z"
   },
   "9579959406": {
     "id": 9579959406,
@@ -58,5 +58,41 @@
     "title": "Update Scheduling Widget to New Version",
     "whyItMatters": "Keeping booking tools updated ensures they work properly for customers and don't negatively impact your website's performance.",
     "updatedAt": "2026-02-06T17:12:45.976Z"
+  },
+  "9759866694": {
+    "id": 9759866694,
+    "title": "Remove SEO Tools and Account Access",
+    "whyItMatters": "Proper removal of SEO tools during offboarding ensures clean transition and protects your business data.",
+    "updatedAt": "2026-04-08T22:10:57.146Z"
+  },
+  "9759866626": {
+    "id": 9759866626,
+    "title": "Transfer Website Files and Remove Access",
+    "whyItMatters": "Completing website handover ensures you maintain full control of your site for future SEO efforts.",
+    "updatedAt": "2026-04-07T19:13:32.965Z"
+  },
+  "9759866842": {
+    "id": 9759866842,
+    "title": "Finalize Billing and Stop Recurring Charges",
+    "whyItMatters": "Proper billing closure ensures clean financial separation without affecting your website's search performance.",
+    "updatedAt": "2026-04-07T09:28:45.810-07:00"
+  },
+  "9759866825": {
+    "id": 9759866825,
+    "title": "Complete Account Manager Handover Process",
+    "whyItMatters": "Ensuring you have full account access maintains continuity of your online presence and search rankings.",
+    "updatedAt": "2026-04-07T14:51:40.583Z"
+  },
+  "9759866779": {
+    "id": 9759866779,
+    "title": "Transfer Google Ads Account Ownership",
+    "whyItMatters": "Maintaining control of your Google Ads account ensures uninterrupted paid search campaigns that support SEO efforts.",
+    "updatedAt": "2026-04-07T14:51:40.361Z"
+  },
+  "9759866752": {
+    "id": 9759866752,
+    "title": "Archive Project Files and Remove Automations",
+    "whyItMatters": "Proper project closure prevents disruptions to your website and ensures all automated processes are transferred appropriately.",
+    "updatedAt": "2026-04-07T14:51:40.166Z"
   }
 }
