@@ -1,5 +1,35 @@
 [
   {
+    "id": 9760571247,
+    "title": "GBP users",
+    "list_title": "CLIENT CHANGE REQUESTS:",
+    "completed": true,
+    "due_on": "2026-04-07",
+    "created_at": "2026-04-07T16:53:58.897Z",
+    "updated_at": "2026-04-07T19:50:21.616Z",
+    "completed_on": "2026-04-07T19:50:21.597Z",
+    "comments_count": 11,
+    "assignees": "Jason Candido, Mikey King",
+    "app_url": "https://3.basecamp.com/4226914/buckets/43710022/todos/9760571247",
+    "description": "<div>remove all users from GBPs except for us and the client</div>",
+    "visible_to_clients": false
+  },
+  {
+    "id": 9742151584,
+    "title": "Update GBP hours - Victorville ",
+    "list_title": "CLIENT CHANGE REQUESTS:",
+    "completed": true,
+    "due_on": "2026-04-02",
+    "created_at": "2026-04-01T14:06:46.015Z",
+    "updated_at": "2026-04-01T16:53:40.107Z",
+    "completed_on": "2026-04-01T16:53:40.081Z",
+    "comments_count": 4,
+    "assignees": "Jason Candido, Mikey King",
+    "app_url": "https://3.basecamp.com/4226914/buckets/43710022/todos/9742151584",
+    "description": "<div>Please update their GBP hours&nbsp; on Victorville to 24/7.<br><bc-attachment content-type=\"application/vnd.basecamp.horizontal-rule.html\"><figure>\n  <hr>\n</figure></bc-attachment><br>Thanks much!</div>",
+    "visible_to_clients": false
+  },
+  {
     "id": 9508061898,
     "title": "GBP hours",
     "list_title": "CLIENT CHANGE REQUESTS:",
@@ -117,6 +147,21 @@
     "assignees": "Predrag",
     "app_url": "https://3.basecamp.com/4226914/buckets/43710022/todos/9066217496",
     "description": "<div>Please update the verbiage for their form: <a target=\"_blank\" rel=\"noreferrer\" class=\"autolinked\" data-behavior=\"truncate\" href=\"https://acplushvac.com/contact/\">https://acplushvac.com/contact/</a><br><br>*please remove the text: SMS language Confirmed <br><br>Text to add: <br>I Agree to receive appointment reminders, updates, &amp; promotional offers from AC Plus Heating &amp; Air. Via Text Message. Message &amp; Data rates may apply. Reply STOP to unsubscribe. <br><bc-attachment sgid=\"BAh7BkkiC19yYWlscwY6BkVUewdJIglkYXRhBjsAVEkiLmdpZDovL2JjMy9BdHRhY2htZW50Lzc2MjcxOTQ4NT9leHBpcmVzX2luBjsAVEkiCHB1cgY7AFRJIg9hdHRhY2hhYmxlBjsAVA==--a392a7a5470621224ffdeecc5758b41a7da108c9\" content-type=\"image/png\" url=\"https://preview.3.basecamp.com/4226914/blobs/b90c7252-8ff3-11f0-8038-0242ac120004/previews/full\" href=\"https://storage.3.basecamp.com/4226914/blobs/b90c7252-8ff3-11f0-8038-0242ac120004/download/image%20(30).png\" filename=\"image (30).png\" filesize=\"515064\" width=\"1920\" height=\"992\" previewable=\"true\" presentation=\"gallery\"><figure>\n    <img srcset=\"https://preview.3.basecamp.com/4226914/blobs/b90c7252-8ff3-11f0-8038-0242ac120004/previews/full?dppx=2 2x, https://preview.3.basecamp.com/4226914/blobs/b90c7252-8ff3-11f0-8038-0242ac120004/previews/full?dppx=1 1x, https://preview.3.basecamp.com/4226914/blobs/b90c7252-8ff3-11f0-8038-0242ac120004/previews/full?dppx=3 3x, https://preview.3.basecamp.com/4226914/blobs/b90c7252-8ff3-11f0-8038-0242ac120004/previews/full?dppx=4 4x\" src=\"https://preview.3.basecamp.com/4226914/blobs/b90c7252-8ff3-11f0-8038-0242ac120004/previews/full\">\n  <figcaption>\n    image (30).png\n  </figcaption>\n</figure></bc-attachment><br>Thanks much</div>",
+    "visible_to_clients": false
+  },
+  {
+    "id": 9770326222,
+    "title": "Yext/Broadly optimization",
+    "list_title": "QUESTIONS/DISCUSSIONS:",
+    "completed": false,
+    "due_on": "2026-04-14",
+    "created_at": "2026-04-09T17:43:50.637Z",
+    "updated_at": "2026-04-09T17:43:50.749Z",
+    "completed_on": null,
+    "comments_count": 0,
+    "assignees": "Ethan Vandenberg, Mikey King",
+    "app_url": "https://3.basecamp.com/4226914/buckets/43710022/todos/9770326222",
+    "description": "<div>Update the broadly account shared from the client with the correct information. Fixing the NAP and all citations in broadly. Let me know if there's anything else we need to communicate to the client.</div>",
     "visible_to_clients": false
   },
   {
