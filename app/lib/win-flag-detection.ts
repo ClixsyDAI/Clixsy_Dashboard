@@ -62,9 +62,22 @@ export function detectWins(input: DetectionInput): DetectedItem[] {
 
   // Task completion rate >80%
   if (input.completionRate >= 0.8 && input.tasksCompletedInPeriod > 0) {
+    const completed = input.tasksCompletedInPeriod;
+    const due = input.tasksDueInPeriod;
+    // Only show the "X of Y (Z%)" ratio when it reads sensibly. When more
+    // tasks were completed than were due in the period — common for teams
+    // who complete work ahead of schedule, or for tasks with no due date —
+    // the ratio would exceed 100% ("5 of 3 tasks completed (167%)"), which
+    // looks broken to clients. Fall back to a plain count in that case.
+    const detail =
+      due > 0 && completed <= due
+        ? `${completed} of ${due} tasks completed (${Math.round(
+            (completed / due) * 100
+          )}%)`
+        : `${completed} ${completed === 1 ? "task" : "tasks"} completed this period`;
     wins.push({
       title: "Strong task completion rate",
-      detail: `${input.tasksCompletedInPeriod} of ${input.tasksDueInPeriod || input.tasksCompletedInPeriod} tasks completed (${Math.round(input.completionRate * 100)}%)`,
+      detail,
       source: "Basecamp",
     });
   }
