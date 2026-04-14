@@ -1,9 +1,9 @@
 {
   "9670807414": {
     "id": 9670807414,
-    "title": "Fix Phone Numbers Across Business Listings",
-    "whyItMatters": "Consistent phone numbers help Google trust your business information and improve local search rankings.",
-    "updatedAt": "2026-03-17T16:01:02.130Z"
+    "title": "Fix Phone Number Consistency Issues",
+    "whyItMatters": "Having consistent phone numbers across your website and Google listings helps search engines trust and rank your business higher.",
+    "updatedAt": "2026-03-25T19:08:12.045Z"
   },
   "8302693590": {
     "id": 8302693590,
@@ -58,5 +58,17 @@
     "title": "Address Google Search Console Indexing Alert",
     "whyItMatters": "Fixing indexing issues ensures your website pages can be found in Google search results.",
     "updatedAt": "2025-02-04T17:21:30.038Z"
+  },
+  "9761725798": {
+    "id": 9761725798,
+    "title": "Update Contact Form Email Recipients",
+    "whyItMatters": "Ensures potential customers reach the right people when they submit inquiries through your website.",
+    "updatedAt": "2026-04-08T23:25:50.104Z"
+  },
+  "9755738964": {
+    "id": 9755738964,
+    "title": "Remove Unused Security Plugin",
+    "whyItMatters": "Eliminating unnecessary plugins improves website security and can boost site loading speed for better rankings.",
+    "updatedAt": "2026-04-07T13:32:54.208Z"
   }
 }
