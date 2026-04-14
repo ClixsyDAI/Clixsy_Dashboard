@@ -17,9 +17,11 @@ import { getBrightLocalSummary } from "../../lib/brightlocal-data";
 import OverviewTopWins from "../../components/OverviewTopWins";
 import Last10TasksTable from "../../components/Last10TasksTable";
 import ShareClientUrlButton from "../../components/ShareClientUrlButton";
+import HealthBadge from "../../components/HealthBadge";
 import { detectWins } from "../../lib/win-flag-detection";
 import { loadTaskSummaries } from "../../lib/task-summaries";
 import { generateShareToken } from "../../lib/share-token";
+import { getClientHealthSummary } from "../../lib/client-health-summary";
 
 interface PageProps {
   params: Promise<{ id: string }>;
@@ -39,6 +41,7 @@ export default async function ClientDashboard({ params }: PageProps) {
   const todos = loadClientTodos(id);
   const blData = getBrightLocalSummary(id);
   const taskSummariesCache = loadTaskSummaries(id);
+  const healthSummary = await getClientHealthSummary(id);
 
   // Build an absolute client-safe share URL. If SHARE_SECRET isn't set, we
   // skip the button rather than crash the whole page.
@@ -157,12 +160,22 @@ export default async function ClientDashboard({ params }: PageProps) {
             </Link>
             {shareUrl && <ShareClientUrlButton shareUrl={shareUrl} />}
           </div>
-          <h1
-            className="text-3xl font-bold tracking-wide uppercase"
-            style={{ color: "#ffffff", letterSpacing: "0.05em" }}
-          >
-            {project.name}
-          </h1>
+          <div className="flex flex-wrap items-start justify-between gap-4">
+            <div className="min-w-0 flex-1">
+              <h1
+                className="text-3xl font-bold tracking-wide uppercase"
+                style={{ color: "#ffffff", letterSpacing: "0.05em" }}
+              >
+                {project.name}
+              </h1>
+            </div>
+            {healthSummary?.health && (
+              <HealthBadge
+                health={healthSummary.health}
+                missingSources={healthSummary.missingSources}
+              />
+            )}
+          </div>
           <div className="mt-2 flex flex-wrap items-baseline justify-between gap-2">
             <span className="text-sm" style={{ color: "#c8a882" }}>
               {project.description}

@@ -1,28 +1,15 @@
-import { existsSync } from "fs";
-import { join } from "path";
-import projects from "./data/projects.json";
 import ClientGrid from "./components/ClientGrid";
 import SyncControls from "./components/SyncControls";
 import AuthCallbackBanner from "./components/AuthCallbackBanner";
+import {
+  getAllClientHealthSummaries,
+  summarizeCounts,
+} from "./lib/client-health-summary";
 
-interface ProjectMeta {
-  id: number;
-  name: string;
-  description: string;
-  todoset_id: number;
-  hasData: boolean;
-}
-
-export default function Home() {
-  const projectsWithStatus: ProjectMeta[] = projects.map((p) => {
-    const filePath = join(process.cwd(), "app", "data", "clients", `${p.id}.json`);
-    return {
-      ...p,
-      hasData: existsSync(filePath),
-    };
-  });
-
-  const withData = projectsWithStatus.filter((p) => p.hasData).length;
+export default async function Home() {
+  const summaries = await getAllClientHealthSummaries();
+  const counts = summarizeCounts(summaries);
+  const withData = summaries.filter((s) => s.hasData).length;
 
   return (
     <div className="min-h-screen" style={{ backgroundColor: "#0a0a0a" }}>
@@ -46,7 +33,7 @@ export default function Home() {
                 Client Workbook Dashboard
               </h1>
               <p className="text-sm" style={{ color: "#888888" }}>
-                {projects.length} client projects &nbsp;|&nbsp; {withData} with
+                {summaries.length} client projects &nbsp;|&nbsp; {withData} with
                 data loaded
               </p>
             </div>
@@ -61,8 +48,8 @@ export default function Home() {
           />
         </header>
 
-        {/* Client grid with search (client component) */}
-        <ClientGrid projects={projectsWithStatus} />
+        {/* Client grid with triage, search, sort, filter (client component) */}
+        <ClientGrid summaries={summaries} counts={counts} />
 
         {/* Footer */}
         <footer className="mt-12 pb-8">
@@ -71,8 +58,9 @@ export default function Home() {
             style={{ backgroundColor: "#1a1a1a" }}
           />
           <p className="mt-4 text-xs italic" style={{ color: "#888888" }}>
-            Data source: Basecamp project management. Run data sync to populate
-            client dashboards.
+            Account Health is an internal triage signal computed from Basecamp,
+            GSC, GA4, BrightLocal, and the content pipeline. It is not shown on
+            client share pages.
           </p>
         </footer>
       </div>

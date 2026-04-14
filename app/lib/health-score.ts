@@ -1,9 +1,27 @@
 /**
  * Account Health Score Calculator
  *
- * Computes a 0-100 composite health score from 5 sub-scores.
- * Weights redistribute proportionally when a data source is unavailable.
+ * Computes a 0-100 composite health score from up to 7 sub-scores:
+ *   - Task Velocity            (15)  Basecamp
+ *   - Organic Traffic          (20)  GSC clicks 30d vs prior 30d
+ *   - Search Performance       (15)  GSC avg position + CTR trend
+ *   - Ranking Momentum         (15)  BrightLocal rankings up − down
+ *   - Local Presence           (10)  BrightLocal avg Google rank + review rating
+ *   - Engagement               (10)  GA4 organic sessions trend
+ *   - Content Production       (15)  Content pipeline publishing cadence
+ *
+ * Weights redistribute proportionally when a data source is unavailable so a
+ * client with only Basecamp + GSC still gets a sensible composite number.
+ *
+ * ───────────────────────────────────────────────────────────────────────────
+ * INTERNAL-ONLY. Do not import from app/share/ — this data is triage signal
+ * for the Clixsy team and is not appropriate to surface on client-facing
+ * pages. The health score synthesizes internal judgments ("At Risk") that
+ * should not be shown to clients directly.
+ * ───────────────────────────────────────────────────────────────────────────
  */
+
+import type { ContentArticle } from "./content-types";
 
 export interface HealthSubScore {
   id: string;
@@ -20,25 +38,34 @@ export interface HealthScoreResult {
   subScores: HealthSubScore[];
 }
 
-interface HealthScoreInput {
+export interface HealthScoreInput {
   // Task data
   tasksDueInPeriod: number;
   tasksCompletedInPeriod: number;
   overdueCount: number;
 
-  // GSC data
+  // GSC — traffic volume
   gscClicksCurrent: number | null;
   gscClicksPrevious: number | null;
+  // GSC — search performance (optional; gated on impression volume)
+  gscAvgPositionCurrent?: number | null;
+  gscAvgPositionPrevious?: number | null;
+  gscCtrCurrent?: number | null;
+  gscCtrPrevious?: number | null;
+  gscImpressionsCurrent?: number | null;
 
-  // GA4 data
+  // GA4
   ga4OrganicCurrent: number | null;
   ga4OrganicPrevious: number | null;
 
-  // BrightLocal data
+  // BrightLocal
   blRankingsUp: number | null;
   blRankingsDown: number | null;
   blAvgGoogleRank: number | null;
   blReviewRating: number | null;
+
+  // Content pipeline (optional — many clients have no content program)
+  contentArticles?: ContentArticle[] | null;
 }
 
 function clamp(val: number, min: number, max: number): number {
@@ -104,6 +131,117 @@ function calcLocalPresence(avgRank: number | null, reviewRating: number | null):
   return clamp(score, 0, 100);
 }
 
+/**
+ * Search performance: avg position trend + CTR trend. Returns null if we
+ * don't have enough data to judge (too few impressions, or no previous
+ * period to compare against).
+ *
+ * Position delta is "previous − current" so higher is better (moving from
+ * position 12 → 8 is +4). CTR delta is "current − previous".
+ */
+function calcSearchPerformance(
+  posCurrent: number | null | undefined,
+  posPrevious: number | null | undefined,
+  ctrCurrent: number | null | undefined,
+  ctrPrevious: number | null | undefined,
+  impressionsCurrent: number | null | undefined
+): number | null {
+  // Need at least ~100 impressions in the current period to make any claim.
+  if (!impressionsCurrent || impressionsCurrent < 100) return null;
+
+  const havePosition =
+    posCurrent !== null &&
+    posCurrent !== undefined &&
+    posCurrent > 0 &&
+    posPrevious !== null &&
+    posPrevious !== undefined &&
+    posPrevious > 0;
+
+  const haveCtr =
+    ctrCurrent !== null &&
+    ctrCurrent !== undefined &&
+    ctrPrevious !== null &&
+    ctrPrevious !== undefined &&
+    (ctrCurrent > 0 || ctrPrevious > 0);
+
+  if (!havePosition && !haveCtr) return null;
+
+  let positionScore: number | null = null;
+  if (havePosition) {
+    const delta = (posPrevious as number) - (posCurrent as number); // +ve = improved
+    if (delta >= 2) positionScore = 100;
+    else if (delta >= 0) positionScore = lerp(delta, 0, 2, 60, 100);
+    else if (delta >= -2) positionScore = lerp(delta, -2, 0, 20, 60);
+    else positionScore = 20;
+  }
+
+  let ctrScore: number | null = null;
+  if (haveCtr) {
+    // CTR is a ratio (0.05 = 5%). 1pp change is a meaningful move.
+    const delta = (ctrCurrent as number) - (ctrPrevious as number);
+    if (delta >= 0.01) ctrScore = 100;
+    else if (delta >= 0) ctrScore = lerp(delta, 0, 0.01, 60, 100);
+    else if (delta >= -0.01) ctrScore = lerp(delta, -0.01, 0, 20, 60);
+    else ctrScore = 20;
+  }
+
+  if (positionScore !== null && ctrScore !== null) {
+    return clamp(positionScore * 0.6 + ctrScore * 0.4, 0, 100);
+  }
+  return positionScore ?? ctrScore;
+}
+
+/**
+ * Content production: publishing cadence over the last 30/60/90 days, with
+ * a floor for clients whose pipeline is still actively being worked on.
+ *
+ * Returns null if the client has no content pipeline at all (many Clixsy
+ * accounts don't, and we don't want to penalize them for a program they
+ * never signed up for).
+ */
+function calcContentProduction(articles: ContentArticle[] | null | undefined): number | null {
+  if (!articles || articles.length === 0) return null;
+
+  const now = Date.now();
+  const day = 24 * 60 * 60 * 1000;
+
+  const publishedWithDate = articles.filter(
+    (a) => a.status === "published" && a.publishDate
+  );
+  const published30 = publishedWithDate.filter(
+    (a) => now - new Date(a.publishDate as string).getTime() <= 30 * day
+  ).length;
+  const published60 = publishedWithDate.filter(
+    (a) => now - new Date(a.publishDate as string).getTime() <= 60 * day
+  ).length;
+  const published90 = publishedWithDate.filter(
+    (a) => now - new Date(a.publishDate as string).getTime() <= 90 * day
+  ).length;
+
+  const active = articles.filter(
+    (a) =>
+      a.status === "content-in-progress" ||
+      a.status === "content-for-review" ||
+      a.status === "queued-for-launch"
+  ).length;
+
+  let score: number;
+  if (published30 >= 3) score = 100;
+  else if (published30 === 2) score = 85;
+  else if (published30 === 1) score = 70;
+  else if (published60 >= 2) score = 55;
+  else if (published60 === 1) score = 45;
+  else if (published90 >= 1) score = 30;
+  else score = 10;
+
+  // Active pipeline cushions low publishing — work in flight counts for
+  // something even if nothing has shipped this month.
+  if (score < 60 && active >= 3) score = Math.min(60, score + 20);
+  else if (score < 40 && active >= 1) score = Math.min(40, score + 10);
+
+  return clamp(score, 0, 100);
+}
+
 export function calculateHealthScore(input: HealthScoreInput): HealthScoreResult {
   const subScores: HealthSubScore[] = [];
 
@@ -112,38 +250,44 @@ export function calculateHealthScore(input: HealthScoreInput): HealthScoreResult
     id: "tasks",
     label: "Task Velocity",
     score: Math.round(calcTaskVelocity(input)),
-    weight: 20,
+    weight: 15,
     available: true,
   });
 
-  // 2. Organic Traffic (GSC)
+  // 2. Organic Traffic (GSC clicks trend)
   const trafficScore = calcTrafficScore(input.gscClicksCurrent, input.gscClicksPrevious);
   subScores.push({
     id: "traffic",
     label: "Organic Traffic",
     score: trafficScore !== null ? Math.round(trafficScore) : 0,
-    weight: 25,
+    weight: 20,
     available: trafficScore !== null,
   });
 
-  // 3. Ranking Momentum (BrightLocal)
+  // 3. Search Performance (GSC position + CTR trend)
+  const searchPerfScore = calcSearchPerformance(
+    input.gscAvgPositionCurrent,
+    input.gscAvgPositionPrevious,
+    input.gscCtrCurrent,
+    input.gscCtrPrevious,
+    input.gscImpressionsCurrent
+  );
+  subScores.push({
+    id: "search-perf",
+    label: "Search Performance",
+    score: searchPerfScore !== null ? Math.round(searchPerfScore) : 0,
+    weight: 15,
+    available: searchPerfScore !== null,
+  });
+
+  // 4. Ranking Momentum (BrightLocal)
   const rankScore = calcRankingMomentum(input.blRankingsUp, input.blRankingsDown);
   subScores.push({
     id: "rankings",
     label: "Ranking Momentum",
     score: rankScore !== null ? Math.round(rankScore) : 0,
-    weight: 25,
-    available: rankScore !== null,
-  });
-
-  // 4. Engagement (GA4 Organic)
-  const engagementScore = calcTrafficScore(input.ga4OrganicCurrent, input.ga4OrganicPrevious);
-  subScores.push({
-    id: "engagement",
-    label: "Engagement",
-    score: engagementScore !== null ? Math.round(engagementScore) : 0,
     weight: 15,
-    available: engagementScore !== null,
+    available: rankScore !== null,
   });
 
   // 5. Local Presence (BrightLocal)
@@ -152,8 +296,28 @@ export function calculateHealthScore(input: HealthScoreInput): HealthScoreResult
     id: "local",
     label: "Local Presence",
     score: localScore !== null ? Math.round(localScore) : 0,
-    weight: 15,
+    weight: 10,
     available: localScore !== null,
+  });
+
+  // 6. Engagement (GA4 Organic)
+  const engagementScore = calcTrafficScore(input.ga4OrganicCurrent, input.ga4OrganicPrevious);
+  subScores.push({
+    id: "engagement",
+    label: "Engagement",
+    score: engagementScore !== null ? Math.round(engagementScore) : 0,
+    weight: 10,
+    available: engagementScore !== null,
+  });
+
+  // 7. Content Production (Google Sheets pipeline)
+  const contentScore = calcContentProduction(input.contentArticles);
+  subScores.push({
+    id: "content",
+    label: "Content Production",
+    score: contentScore !== null ? Math.round(contentScore) : 0,
+    weight: 15,
+    available: contentScore !== null,
   });
 
   // Calculate weighted average, redistributing weight from unavailable scores
