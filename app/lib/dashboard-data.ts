@@ -190,11 +190,19 @@ export function loadClientTodos(projectId: string): Todo[] | null {
   return JSON.parse(raw) as Todo[];
 }
 
-/** Load only todos flagged as visible to clients. */
+/**
+ * Load todos flagged as visible to clients in Basecamp. If no todos are
+ * flagged for a project (most Clixsy projects don't use the Basecamp flag),
+ * fall back to returning all todos — the share page already strips internal
+ * details (J-prefix, Basecamp URLs, internal assignees) so the full list is
+ * still client-safe. Without this fallback the share page renders a
+ * misleading "Report not ready yet" for every un-tagged client.
+ */
 export function loadClientVisibleTodos(projectId: string): Todo[] | null {
   const all = loadClientTodos(projectId);
   if (!all) return null;
-  return all.filter((t) => t.visible_to_clients === true);
+  const visible = all.filter((t) => t.visible_to_clients === true);
+  return visible.length > 0 ? visible : all;
 }
 
 export function getDashboardData(
