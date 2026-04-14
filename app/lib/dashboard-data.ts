@@ -190,8 +190,21 @@ export function loadClientTodos(projectId: string): Todo[] | null {
   return JSON.parse(raw) as Todo[];
 }
 
-export function getDashboardData(projectId: string, clientName: string) {
-  const todos = loadClientTodos(projectId);
+/** Load only todos flagged as visible to clients. */
+export function loadClientVisibleTodos(projectId: string): Todo[] | null {
+  const all = loadClientTodos(projectId);
+  if (!all) return null;
+  return all.filter((t) => t.visible_to_clients === true);
+}
+
+export function getDashboardData(
+  projectId: string,
+  clientName: string,
+  options: { clientVisibleOnly?: boolean } = {}
+) {
+  const todos = options.clientVisibleOnly
+    ? loadClientVisibleTodos(projectId)
+    : loadClientTodos(projectId);
 
   if (!todos || todos.length === 0) {
     return null;

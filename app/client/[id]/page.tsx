@@ -1,4 +1,5 @@
 import { notFound } from "next/navigation";
+import { headers } from "next/headers";
 import Link from "next/link";
 import projects from "../../data/projects.json";
 import { getDashboardData, loadClientTodos } from "../../lib/dashboard-data";
@@ -15,8 +16,10 @@ import BrightLocalPanel from "../../components/BrightLocalPanel";
 import { getBrightLocalSummary } from "../../lib/brightlocal-data";
 import OverviewTopWins from "../../components/OverviewTopWins";
 import Last10TasksTable from "../../components/Last10TasksTable";
+import ShareClientUrlButton from "../../components/ShareClientUrlButton";
 import { detectWins } from "../../lib/win-flag-detection";
 import { loadTaskSummaries } from "../../lib/task-summaries";
+import { generateShareToken } from "../../lib/share-token";
 
 interface PageProps {
   params: Promise<{ id: string }>;
@@ -36,6 +39,19 @@ export default async function ClientDashboard({ params }: PageProps) {
   const todos = loadClientTodos(id);
   const blData = getBrightLocalSummary(id);
   const taskSummariesCache = loadTaskSummaries(id);
+
+  // Build an absolute client-safe share URL. If SHARE_SECRET isn't set, we
+  // skip the button rather than crash the whole page.
+  let shareUrl: string | null = null;
+  try {
+    const token = generateShareToken(id);
+    const h = await headers();
+    const host = h.get("x-forwarded-host") || h.get("host") || "";
+    const proto = h.get("x-forwarded-proto") || (host.includes("localhost") ? "http" : "https");
+    shareUrl = host ? `${proto}://${host}/share/${token}` : `/share/${token}`;
+  } catch (err) {
+    console.warn("[client dashboard] share URL unavailable:", err);
+  }
 
   // ── Compute TOP WINS for the Overview tab (server-side) ──────
   // Use a simple last-30-days vs prior-30-days comparison so the wins panel
@@ -127,17 +143,20 @@ export default async function ClientDashboard({ params }: PageProps) {
       <div className="mx-auto max-w-[1400px] px-6 py-8">
         {/* Header */}
         <header className="mb-2">
-          <Link
-            href="/"
-            className="mb-4 inline-flex items-center gap-2 text-sm transition-colors hover:opacity-80"
-          >
-            <img
-              src="https://res.cloudinary.com/dovgh19xr/image/upload/v1766427227/new_logo_nvrux0.svg"
-              alt="CLIXSY"
-              className="h-7 w-auto"
-            />
-            <span style={{ color: "#888888" }}>&larr; All Clients</span>
-          </Link>
+          <div className="mb-4 flex items-start justify-between gap-4">
+            <Link
+              href="/"
+              className="inline-flex items-center gap-2 text-sm transition-colors hover:opacity-80"
+            >
+              <img
+                src="https://res.cloudinary.com/dovgh19xr/image/upload/v1766427227/new_logo_nvrux0.svg"
+                alt="CLIXSY"
+                className="h-7 w-auto"
+              />
+              <span style={{ color: "#888888" }}>&larr; All Clients</span>
+            </Link>
+            {shareUrl && <ShareClientUrlButton shareUrl={shareUrl} />}
+          </div>
           <h1
             className="text-3xl font-bold tracking-wide uppercase"
             style={{ color: "#ffffff", letterSpacing: "0.05em" }}
