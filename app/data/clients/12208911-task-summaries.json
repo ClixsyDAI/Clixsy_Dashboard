@@ -13,15 +13,15 @@
   },
   "9659996085": {
     "id": 9659996085,
-    "title": "Remove Idaho References From Website",
-    "whyItMatters": "Removing irrelevant location content helps search engines focus on your actual service areas.",
-    "updatedAt": "2026-03-16T16:14:13.406Z"
+    "title": "Remove All Idaho References From Website",
+    "whyItMatters": "Removing geographic content may hurt local search rankings and confuse search engines about your service areas.",
+    "updatedAt": "2026-04-08T17:17:12.249Z"
   },
   "8322957836": {
     "id": 8322957836,
-    "title": "Remove Utah Content From Website",
-    "whyItMatters": "Eliminating content for areas you don't serve prevents confusing search engines about your location.",
-    "updatedAt": "2026-03-13T15:02:04.219Z"
+    "title": "Remove All Utah Content From Website",
+    "whyItMatters": "Removing state-specific content may significantly impact your local search visibility and rankings in that area.",
+    "updatedAt": "2026-03-24T15:20:51.718Z"
   },
   "9665007100": {
     "id": 9665007100,
@@ -58,5 +58,17 @@
     "title": "Remove Attorney From Website Pages",
     "whyItMatters": "Removing outdated attorney information keeps your website accurate and trustworthy for search engines.",
     "updatedAt": "2026-01-30T23:45:59.391Z"
+  },
+  "9723132328": {
+    "id": 9723132328,
+    "title": "Update Team Member Photo",
+    "whyItMatters": "Fresh, professional photos improve user experience and can increase time visitors spend on your site.",
+    "updatedAt": "2026-03-31T17:27:17.450+01:00"
+  },
+  "9709106312": {
+    "id": 9709106312,
+    "title": "Update Team Page With Photos",
+    "whyItMatters": "Updated team content keeps your site fresh and engaging, which search engines favor for rankings.",
+    "updatedAt": "2026-03-24T20:15:29.199Z"
   }
 }
