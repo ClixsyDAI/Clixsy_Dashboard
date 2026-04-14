@@ -90,13 +90,13 @@ export default function BrightLocalPanel({
           value={totalRankingsUp.toString()}
           label="RANKINGS UP"
           valueColor="#2d6a4f"
-          icon="\u25B2"
+          icon="▲"
         />
         <KpiBox
           value={totalRankingsDown.toString()}
           label="RANKINGS DOWN"
           valueColor="#e74c3c"
-          icon="\u25BC"
+          icon="▼"
         />
         <KpiBox value={avgGoogleRank > 0 ? avgGoogleRank.toString() : "-"} label="AVG GOOGLE RANK" accent />
         <KpiBox value={avgLsgRank > 0 ? avgLsgRank.toString() : "-"} label="GRID AVG RANK" accent />
