@@ -7,7 +7,7 @@
  *   - Search Performance       (15)  GSC avg position + CTR trend
  *   - Ranking Momentum         (15)  BrightLocal rankings up − down
  *   - Local Presence           (10)  BrightLocal avg Google rank + review rating
- *   - Engagement               (10)  GA4 organic sessions trend
+ *   - Engagement               (10)  GA4 total sessions 30d vs prior 30d
  *   - Content Production       (15)  Content pipeline publishing cadence
  *
  * Weights redistribute proportionally when a data source is unavailable so a
@@ -54,9 +54,11 @@ export interface HealthScoreInput {
   gscCtrPrevious?: number | null;
   gscImpressionsCurrent?: number | null;
 
-  // GA4
-  ga4OrganicCurrent: number | null;
-  ga4OrganicPrevious: number | null;
+  // GA4 — total sessions over the same rolling window we use for GSC.
+  // (We don't have per-day organic breakdown in the current pull, so
+  // using organic here would produce mismatched windows.)
+  ga4SessionsCurrent: number | null;
+  ga4SessionsPrevious: number | null;
 
   // BrightLocal
   blRankingsUp: number | null;
@@ -96,7 +98,10 @@ function calcTaskVelocity(input: HealthScoreInput): number {
 
 function calcTrafficScore(current: number | null, previous: number | null): number | null {
   if (current === null || previous === null) return null;
-  if (previous === 0) return current > 0 ? 80 : 50;
+  // If the prior window has zero traffic we can't compute a meaningful trend
+  // (dividing by zero produces absurd % changes like "+521%"). Treat as
+  // unavailable so the weight redistributes to other sub-scores.
+  if (previous === 0) return null;
 
   const pctChange = ((current - previous) / previous) * 100;
 
@@ -225,6 +230,13 @@ function calcContentProduction(articles: ContentArticle[] | null | undefined): n
       a.status === "queued-for-launch"
   ).length;
 
+  // If the Sheet has entries for this client but nothing is published in the
+  // last 90 days AND there's no active work in flight, we don't have a
+  // signal worth scoring — mark unavailable so the weight redistributes
+  // instead of handing out a punitive 10 for a program the client likely
+  // isn't on.
+  if (publishedWithDate.length === 0 && active === 0) return null;
+
   let score: number;
   if (published30 >= 3) score = 100;
   else if (published30 === 2) score = 85;
@@ -300,8 +312,8 @@ export function calculateHealthScore(input: HealthScoreInput): HealthScoreResult
     available: localScore !== null,
   });
 
-  // 6. Engagement (GA4 Organic)
-  const engagementScore = calcTrafficScore(input.ga4OrganicCurrent, input.ga4OrganicPrevious);
+  // 6. Engagement (GA4 total sessions, matched 30d vs prior 30d)
+  const engagementScore = calcTrafficScore(input.ga4SessionsCurrent, input.ga4SessionsPrevious);
   subScores.push({
     id: "engagement",
     label: "Engagement",

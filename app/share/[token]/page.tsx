@@ -58,9 +58,28 @@ export default async function ClientSharePage({ params }: PageProps) {
   const taskSummariesCache = loadTaskSummaries(projectId);
 
   // ── Top Wins (same 30d vs prior-30d comparison as the internal dashboard) ──
-  const now = new Date();
-  const cutoff = new Date(now.getTime() - 30 * 24 * 60 * 60 * 1000);
-  const prevCutoff = new Date(cutoff.getTime() - 30 * 24 * 60 * 60 * 1000);
+  // Anchor the rolling window to the latest available data date, not wall-
+  // clock "now". GSC typically lags 2-4 days and GA4 can lag 1-3 days, so
+  // using today as the endpoint would compare a short (partial) current
+  // window against a full prior window and make every client look like
+  // they're declining.
+  const latestGscDate =
+    gscData?.dailyData?.length
+      ? new Date(gscData.dailyData[gscData.dailyData.length - 1].date)
+      : null;
+  const latestGa4Date =
+    ga4Data?.dailyData?.length
+      ? new Date(ga4Data.dailyData[ga4Data.dailyData.length - 1].date)
+      : null;
+  const nowWall = new Date();
+  const gscNow = latestGscDate || nowWall;
+  const ga4Now = latestGa4Date || nowWall;
+  const gscCutoff = new Date(gscNow.getTime() - 30 * 24 * 60 * 60 * 1000);
+  const gscPrevCutoff = new Date(gscCutoff.getTime() - 30 * 24 * 60 * 60 * 1000);
+  const ga4Cutoff = new Date(ga4Now.getTime() - 30 * 24 * 60 * 60 * 1000);
+  const ga4PrevCutoff = new Date(ga4Cutoff.getTime() - 30 * 24 * 60 * 60 * 1000);
+  // Task windows still use wall-clock "now" — Basecamp data is live.
+  const cutoff = new Date(nowWall.getTime() - 30 * 24 * 60 * 60 * 1000);
 
   function sumGsc(
     daily: typeof gscData extends infer T ? (T extends { dailyData: infer D } ? D : never) : never,
@@ -91,18 +110,18 @@ export default async function ClientSharePage({ params }: PageProps) {
     });
     return { sessions: rows.reduce((s, r) => s + r.sessions, 0) };
   }
-  const gscCurr = gscData ? sumGsc(gscData.dailyData, cutoff, now) : null;
-  const gscPrev = gscData ? sumGsc(gscData.dailyData, prevCutoff, cutoff) : null;
-  const ga4Curr = ga4Data ? sumGa4(ga4Data.dailyData, cutoff, now) : null;
-  const ga4Prev = ga4Data ? sumGa4(ga4Data.dailyData, prevCutoff, cutoff) : null;
+  const gscCurr = gscData ? sumGsc(gscData.dailyData, gscCutoff, gscNow) : null;
+  const gscPrev = gscData ? sumGsc(gscData.dailyData, gscPrevCutoff, gscCutoff) : null;
+  const ga4Curr = ga4Data ? sumGa4(ga4Data.dailyData, ga4Cutoff, ga4Now) : null;
+  const ga4Prev = ga4Data ? sumGa4(ga4Data.dailyData, ga4PrevCutoff, ga4Cutoff) : null;
   const completedThisPeriod = (visibleTodos || []).filter(
     (t) => t.completed && t.completed_on && new Date(t.completed_on) >= cutoff
   ).length;
   const dueThisPeriod = (visibleTodos || []).filter(
-    (t) => t.due_on && new Date(t.due_on) >= cutoff && new Date(t.due_on) <= now
+    (t) => t.due_on && new Date(t.due_on) >= cutoff && new Date(t.due_on) <= nowWall
   ).length;
   const overdue = (visibleTodos || [])
-    .filter((t) => !t.completed && t.due_on && new Date(t.due_on) < now)
+    .filter((t) => !t.completed && t.due_on && new Date(t.due_on) < nowWall)
     .map((t) => ({ title: t.title, due_on: t.due_on }));
   const overviewWins = detectWins({
     tasksCompletedInPeriod: completedThisPeriod,
@@ -122,8 +141,11 @@ export default async function ClientSharePage({ params }: PageProps) {
     gscCtrPrevious: gscPrev ? gscPrev.ctr : null,
     ga4SessionsCurrent: ga4Curr ? ga4Curr.sessions : null,
     ga4SessionsPrevious: ga4Prev ? ga4Prev.sessions : null,
-    ga4OrganicCurrent: ga4Data ? ga4Data.totals.organicSessions : null,
-    ga4OrganicPrevious: ga4Prev ? ga4Prev.sessions : null,
+    // Organic trend is intentionally left null: the GA4 pipeline only
+    // fetches a single aggregate organicSessions total, not daily organic,
+    // so a matched 30d-vs-prior-30d organic comparison isn't possible.
+    ga4OrganicCurrent: null,
+    ga4OrganicPrevious: null,
     blRankingsUp: blData?.totalRankingsUp ?? null,
     blRankingsDown: blData?.totalRankingsDown ?? null,
     blAvgGoogleRank: blData?.avgGoogleRank ?? null,

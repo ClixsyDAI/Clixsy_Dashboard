@@ -30,6 +30,12 @@ interface DetectionInput {
   // GA4
   ga4SessionsCurrent: number | null;
   ga4SessionsPrevious: number | null;
+  // Organic-only current/previous. Pass matched-window values (e.g.
+  // 30d-vs-prior-30d) or leave null — DO NOT mix windows (e.g. a 90d
+  // aggregate as "current" and a 30d total-sessions figure as "previous"),
+  // which will produce wildly misleading percent changes. Today's GA4
+  // pipeline doesn't fetch daily organic, so callers should pass null
+  // until a matched organic series is available.
   ga4OrganicCurrent: number | null;
   ga4OrganicPrevious: number | null;
 

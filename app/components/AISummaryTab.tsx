@@ -212,15 +212,17 @@ export default function AISummaryTab(props: AISummaryTabProps) {
       .sort((a, b) => (a.due_on || "").localeCompare(b.due_on || ""))
       .slice(0, 7);
 
-    // Health score
+    // Health score — Engagement uses matched 30d-vs-prior-30d total
+    // sessions (not the aggregate organicSessions, which was fetched over
+    // a different window and produced apples-to-oranges comparisons).
     const healthScore = calculateHealthScore({
       tasksDueInPeriod,
       tasksCompletedInPeriod: completedInPeriod.length,
       overdueCount: overdueTasks.length,
       gscClicksCurrent: props.gscDaily ? gscCurrent.clicks : null,
       gscClicksPrevious: props.gscDaily ? gscPrevious.clicks : null,
-      ga4OrganicCurrent: props.ga4Daily && props.ga4OrganicSessions !== null ? props.ga4OrganicSessions : null,
-      ga4OrganicPrevious: props.ga4Daily ? ga4Previous.sessions : null,
+      ga4SessionsCurrent: props.ga4Daily ? ga4Current.sessions : null,
+      ga4SessionsPrevious: props.ga4Daily ? ga4Previous.sessions : null,
       blRankingsUp: props.blRankingsUp,
       blRankingsDown: props.blRankingsDown,
       blAvgGoogleRank: props.blAvgGoogleRank,
@@ -241,8 +243,12 @@ export default function AISummaryTab(props: AISummaryTabProps) {
       gscCtrPrevious: props.gscDaily ? gscPrevious.ctr : null,
       ga4SessionsCurrent: props.ga4Daily ? ga4Current.sessions : null,
       ga4SessionsPrevious: props.ga4Daily ? ga4Previous.sessions : null,
-      ga4OrganicCurrent: props.ga4OrganicSessions,
-      ga4OrganicPrevious: props.ga4Daily ? ga4Previous.sessions : null,
+      // Organic trend is intentionally null — we only have aggregate
+      // organicSessions (full window), not daily organic, so a matched
+      // 30d-vs-prior-30d organic comparison isn't possible. The total
+      // sessions win above covers the overall traffic signal.
+      ga4OrganicCurrent: null,
+      ga4OrganicPrevious: null,
       blRankingsUp: props.blRankingsUp,
       blRankingsDown: props.blRankingsDown,
       blAvgGoogleRank: props.blAvgGoogleRank,
@@ -265,8 +271,9 @@ export default function AISummaryTab(props: AISummaryTabProps) {
       gscCtrPrevious: props.gscDaily ? gscPrevious.ctr : null,
       ga4SessionsCurrent: props.ga4Daily ? ga4Current.sessions : null,
       ga4SessionsPrevious: props.ga4Daily ? ga4Previous.sessions : null,
-      ga4OrganicCurrent: props.ga4OrganicSessions,
-      ga4OrganicPrevious: props.ga4Daily ? ga4Previous.sessions : null,
+      // See note above — no matched-window organic comparison available.
+      ga4OrganicCurrent: null,
+      ga4OrganicPrevious: null,
       blRankingsUp: props.blRankingsUp,
       blRankingsDown: props.blRankingsDown,
       blAvgGoogleRank: props.blAvgGoogleRank,

@@ -117,28 +117,46 @@ function summarizeProject(
   const ga4Data = loadGa4Data(id);
   const blData = getBrightLocalSummary(id);
 
-  const now = new Date();
-  const cutoff = new Date(now.getTime() - 30 * 24 * 60 * 60 * 1000);
-  const prevCutoff = new Date(cutoff.getTime() - 30 * 24 * 60 * 60 * 1000);
+  const nowWall = new Date();
+  // Anchor the rolling window to the latest data date we actually have.
+  // GSC / GA4 lag several days behind wall-clock — if we used nowWall as
+  // the endpoint, the "current" 30d window would be partial while the prior
+  // window is full, producing a spurious downward trend on every client.
+  const latestGscDate =
+    gscData?.dailyData?.length
+      ? new Date(gscData.dailyData[gscData.dailyData.length - 1].date)
+      : null;
+  const latestGa4Date =
+    ga4Data?.dailyData?.length
+      ? new Date(ga4Data.dailyData[ga4Data.dailyData.length - 1].date)
+      : null;
+  const gscNow = latestGscDate || nowWall;
+  const ga4Now = latestGa4Date || nowWall;
+  const gscCutoff = new Date(gscNow.getTime() - 30 * 24 * 60 * 60 * 1000);
+  const gscPrevCutoff = new Date(gscCutoff.getTime() - 30 * 24 * 60 * 60 * 1000);
+  const ga4Cutoff = new Date(ga4Now.getTime() - 30 * 24 * 60 * 60 * 1000);
+  const ga4PrevCutoff = new Date(ga4Cutoff.getTime() - 30 * 24 * 60 * 60 * 1000);
+  // Task windows still use wall-clock "now" — Basecamp is live.
+  const cutoff = new Date(nowWall.getTime() - 30 * 24 * 60 * 60 * 1000);
 
   // ── Task metrics over the last 30 days ─────────────────────
   const completedInPeriod = todos.filter(
     (t) => t.completed && t.completed_on && new Date(t.completed_on) >= cutoff
   ).length;
   const dueInPeriod = todos.filter(
-    (t) => t.due_on && new Date(t.due_on) >= cutoff && new Date(t.due_on) <= now
+    (t) => t.due_on && new Date(t.due_on) >= cutoff && new Date(t.due_on) <= nowWall
   ).length;
   const overdueCount = todos.filter(
-    (t) => !t.completed && t.due_on && new Date(t.due_on) < now
+    (t) => !t.completed && t.due_on && new Date(t.due_on) < nowWall
   ).length;
 
-  // ── GSC metrics ────────────────────────────────────────────
-  const gscCurr = gscData ? sumGscDaily(gscData.dailyData, cutoff, now) : null;
-  const gscPrev = gscData ? sumGscDaily(gscData.dailyData, prevCutoff, cutoff) : null;
+  // ── GSC metrics (matched 30d vs prior-30d, anchored to latest GSC date) ──
+  const gscCurr = gscData ? sumGscDaily(gscData.dailyData, gscCutoff, gscNow) : null;
+  const gscPrev = gscData ? sumGscDaily(gscData.dailyData, gscPrevCutoff, gscCutoff) : null;
 
-  // ── GA4 metrics ────────────────────────────────────────────
-  const ga4Curr = ga4Data ? sumGa4Sessions(ga4Data.dailyData, cutoff, now) : null;
-  const ga4Prev = ga4Data ? sumGa4Sessions(ga4Data.dailyData, prevCutoff, cutoff) : null;
+  // ── GA4 metrics (matched 30d vs prior-30d total sessions) ──
+  const ga4Curr = ga4Data ? sumGa4Sessions(ga4Data.dailyData, ga4Cutoff, ga4Now) : null;
+  const ga4Prev = ga4Data ? sumGa4Sessions(ga4Data.dailyData, ga4PrevCutoff, ga4Cutoff) : null;
 
   // ── Compute score ──────────────────────────────────────────
   const health = calculateHealthScore({
@@ -152,8 +170,8 @@ function summarizeProject(
     gscCtrCurrent: gscCurr ? gscCurr.ctr : null,
     gscCtrPrevious: gscPrev ? gscPrev.ctr : null,
     gscImpressionsCurrent: gscCurr ? gscCurr.impressions : null,
-    ga4OrganicCurrent: ga4Data?.totals?.organicSessions ?? (ga4Curr as number | null),
-    ga4OrganicPrevious: ga4Prev,
+    ga4SessionsCurrent: ga4Data ? ga4Curr : null,
+    ga4SessionsPrevious: ga4Data ? ga4Prev : null,
     blRankingsUp: blData?.totalRankingsUp ?? null,
     blRankingsDown: blData?.totalRankingsDown ?? null,
     blAvgGoogleRank: blData?.avgGoogleRank ?? null,
