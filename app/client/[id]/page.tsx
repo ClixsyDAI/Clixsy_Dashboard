@@ -17,6 +17,7 @@ import { getBrightLocalSummary } from "../../lib/brightlocal-data";
 import OverviewTopWins from "../../components/OverviewTopWins";
 import Last10TasksTable from "../../components/Last10TasksTable";
 import ShareClientUrlButton from "../../components/ShareClientUrlButton";
+import MeetingPrepButton from "../../components/MeetingPrepButton";
 import HealthBadge from "../../components/HealthBadge";
 import { detectWins } from "../../lib/win-flag-detection";
 import { loadTaskSummaries } from "../../lib/task-summaries";
@@ -179,7 +180,10 @@ export default async function ClientDashboard({ params }: PageProps) {
               />
               <span style={{ color: "#888888" }}>&larr; All Clients</span>
             </Link>
-            {shareUrl && <ShareClientUrlButton shareUrl={shareUrl} />}
+            <div className="flex items-center gap-2">
+              <MeetingPrepButton projectId={id} projectName={project.name} />
+              {shareUrl && <ShareClientUrlButton shareUrl={shareUrl} />}
+            </div>
           </div>
           <div className="flex flex-wrap items-start justify-between gap-4">
             <div className="min-w-0 flex-1">
