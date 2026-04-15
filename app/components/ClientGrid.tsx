@@ -6,7 +6,6 @@ import type {
   ClientHealthSummary,
   TriageCounts,
 } from "../lib/client-health-summary";
-import type { HealthSubScore } from "../lib/health-score";
 
 type Filter = "all" | "at-risk" | "needs-attention" | "strong" | "no-data";
 type Sort = "risk" | "name" | "score-high" | "score-low" | "j-number";
@@ -23,10 +22,17 @@ function filterBucket(s: ClientHealthSummary): Filter {
   return "at-risk";
 }
 
-function dotColor(score: number): string {
-  if (score >= 70) return "#2d6a4f";
-  if (score >= 40) return "#C8A882";
-  return "#e74c3c";
+/**
+ * Map a 0–100 health score to a continuous hue on a red→yellow→green
+ * gradient. 0 renders red, ~50 yellow, 100 green. Keeps saturation and
+ * lightness fixed so every card reads at roughly the same visual weight,
+ * regardless of score — only the hue shifts. Triage-strip buckets still
+ * use the 3 discrete colors; the per-card circle is the fine-grained view.
+ */
+function scoreColor(score: number): string {
+  const t = Math.max(0, Math.min(100, score)) / 100;
+  const hue = t * 120;
+  return `hsl(${hue}, 70%, 48%)`;
 }
 
 function extractJCode(name: string): string {
@@ -237,7 +243,6 @@ function ClientCard({ summary: s }: { summary: ClientHealthSummary }) {
   const jCode = extractJCode(s.name);
   const overall = s.health?.overall ?? null;
   const label = s.health?.label ?? null;
-  const color = s.health?.color ?? "#555555";
 
   return (
     <Link
@@ -263,27 +268,31 @@ function ClientCard({ summary: s }: { summary: ClientHealthSummary }) {
             {jCode || "—"}
           </span>
           {overall !== null ? (
-            <div className="flex flex-col items-end">
+            <div
+              className="flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-full"
+              style={{
+                backgroundColor: scoreColor(overall),
+                boxShadow: `0 0 0 2px rgba(255,255,255,0.04), 0 2px 10px ${scoreColor(overall)}55`,
+              }}
+              title={`${overall}/100 — ${label}`}
+            >
               <span
-                className="text-2xl font-bold leading-none"
-                style={{ color }}
+                className="text-base font-bold leading-none"
+                style={{ color: "#0a0a0a" }}
               >
                 {overall}
               </span>
-              <span
-                className="mt-0.5 text-[9px] font-semibold tracking-widest uppercase"
-                style={{ color }}
-              >
-                {label}
-              </span>
             </div>
           ) : (
-            <span
-              className="text-[10px] tracking-wide uppercase"
-              style={{ color: "#555555" }}
+            <div
+              className="flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-full border border-dashed"
+              style={{ borderColor: "#333" }}
+              title="No data"
             >
-              No score
-            </span>
+              <span className="text-sm" style={{ color: "#555" }}>
+                —
+              </span>
+            </div>
           )}
         </div>
 
@@ -302,15 +311,6 @@ function ClientCard({ summary: s }: { summary: ClientHealthSummary }) {
         >
           {s.description}
         </p>
-
-        {/* Sub-score dots */}
-        {s.health && (
-          <div className="mt-3 flex flex-wrap gap-1.5">
-            {s.health.subScores.map((sub) => (
-              <SubScoreDot key={sub.id} sub={sub} />
-            ))}
-          </div>
-        )}
 
         {/* Footer */}
         <div className="mt-3 flex items-center justify-between">
@@ -344,21 +344,3 @@ function ClientCard({ summary: s }: { summary: ClientHealthSummary }) {
   );
 }
 
-function SubScoreDot({ sub }: { sub: HealthSubScore }) {
-  if (!sub.available) {
-    return (
-      <span
-        title={`${sub.label}: no data`}
-        className="inline-block h-1.5 w-6 rounded-full"
-        style={{ backgroundColor: "#2a2a2a" }}
-      />
-    );
-  }
-  return (
-    <span
-      title={`${sub.label}: ${sub.score}`}
-      className="inline-block h-1.5 w-6 rounded-full"
-      style={{ backgroundColor: dotColor(sub.score) }}
-    />
-  );
-}
