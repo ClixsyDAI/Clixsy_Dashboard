@@ -19,12 +19,19 @@ import { useState, useCallback, useEffect, useRef } from "react";
 interface MeetingPrepButtonProps {
   projectId: string;
   projectName: string;
+  /**
+   * "prominent" (default) — full-size pulsing CTA for the client-detail header.
+   * "compact"              — smaller, non-animated, fits inside a client-grid card.
+   */
+  variant?: "prominent" | "compact";
 }
 
 export default function MeetingPrepButton({
   projectId,
   projectName,
+  variant = "prominent",
 }: MeetingPrepButtonProps) {
+  const isCompact = variant === "compact";
   const [open, setOpen] = useState(false);
   const [content, setContent] = useState("");
   const [loading, setLoading] = useState(false);
@@ -93,18 +100,64 @@ export default function MeetingPrepButton({
     <>
       <button
         type="button"
-        onClick={() => setOpen(true)}
-        className="inline-flex items-center gap-2 rounded-sm px-4 py-2 text-xs font-bold tracking-widest uppercase transition-all hover:opacity-90"
+        onClick={(e) => {
+          // Cards wrap us in a <Link>/<div> — stop propagation so a click
+          // on the button doesn't also trigger a card-level navigation.
+          e.stopPropagation();
+          setOpen(true);
+        }}
+        className={
+          isCompact
+            ? "meeting-prep-cta-compact inline-flex items-center gap-1.5 rounded-sm px-2.5 py-1.5 text-[10px] font-bold tracking-widest uppercase transition-all hover:opacity-90"
+            : "meeting-prep-cta inline-flex items-center gap-2.5 rounded-sm px-5 py-3 text-sm font-bold tracking-widest uppercase transition-all hover:-translate-y-0.5 hover:opacity-95"
+        }
         style={{
           backgroundColor: "#C8A882",
           color: "#0a0a0a",
-          boxShadow: "0 2px 10px rgba(200, 168, 130, 0.25)",
+          boxShadow: isCompact
+            ? "0 0 0 1px rgba(200, 168, 130, 0.45)"
+            : "0 0 0 1px rgba(200, 168, 130, 0.6), 0 4px 18px rgba(200, 168, 130, 0.45)",
         }}
         title="Generate an AI briefing for your next meeting with this client"
       >
-        <MeetingIcon />
-        Meeting Prep
+        <MeetingIcon compact={isCompact} />
+        <span>{isCompact ? "Meeting Prep" : "Meeting Prep"}</span>
+        <span
+          aria-hidden="true"
+          className={
+            isCompact
+              ? "ml-0.5 rounded-[2px] px-1 py-0.5 text-[8px] font-black tracking-wider"
+              : "ml-1 rounded-[2px] px-1.5 py-0.5 text-[9px] font-black tracking-widest"
+          }
+          style={{ backgroundColor: "#0a0a0a", color: "#C8A882" }}
+        >
+          AI
+        </span>
       </button>
+      {/* The pulse animation only targets `.meeting-prep-cta` (the prominent
+          variant). Compact buttons use `.meeting-prep-cta-compact` and stay
+          still — so always rendering this style block is safe, and it sits
+          outside the conditional so styled-jsx picks it up reliably. */}
+      <style jsx>{`
+        @keyframes meetingPrepPulse {
+          0%, 100% {
+            box-shadow: 0 0 0 1px rgba(200, 168, 130, 0.6),
+              0 4px 18px rgba(200, 168, 130, 0.45);
+          }
+          50% {
+            box-shadow: 0 0 0 1px rgba(200, 168, 130, 0.9),
+              0 6px 24px rgba(200, 168, 130, 0.7);
+          }
+        }
+        .meeting-prep-cta {
+          animation: meetingPrepPulse 2.4s ease-in-out infinite;
+        }
+        @media (prefers-reduced-motion: reduce) {
+          .meeting-prep-cta {
+            animation: none;
+          }
+        }
+      `}</style>
 
       {open && (
         <div
@@ -247,11 +300,12 @@ export default function MeetingPrepButton({
 
 /* ─── Sub-components ────────────────────────────────────────────── */
 
-function MeetingIcon() {
+function MeetingIcon({ compact = false }: { compact?: boolean } = {}) {
+  const size = compact ? 11 : 14;
   return (
     <svg
-      width="14"
-      height="14"
+      width={size}
+      height={size}
       viewBox="0 0 16 16"
       fill="none"
       stroke="currentColor"

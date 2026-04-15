@@ -2,6 +2,7 @@
 
 import { useMemo, useState } from "react";
 import Link from "next/link";
+import MeetingPrepButton from "./MeetingPrepButton";
 import type {
   ClientHealthSummary,
   TriageCounts,
@@ -244,16 +245,25 @@ function ClientCard({ summary: s }: { summary: ClientHealthSummary }) {
   const overall = s.health?.overall ?? null;
   const label = s.health?.label ?? null;
 
+  // The whole card used to be a single <Link>, but we've added a Meeting
+  // Prep button that opens a modal — a <button> inside a <Link> has weird
+  // semantics and the modal click would also navigate. So the card is now
+  // a styled <div>, and we expose TWO explicit targets:
+  //   • a <Link> that covers the main body (j-code, score, name, desc)
+  //   • a <MeetingPrepButton> in the footer that doesn't navigate
   return (
-    <Link
-      href={`/client/${s.id}`}
-      className="group block rounded-sm border transition-all hover:border-[#C8A882]"
+    <div
+      className="group relative flex flex-col rounded-sm border transition-all hover:border-[#C8A882]"
       style={{
         backgroundColor: "#111111",
         borderColor: "#1a1a1a",
       }}
     >
-      <div className="p-5">
+      <Link
+        href={`/client/${s.id}`}
+        className="block flex-1 p-5 pb-0"
+        aria-label={`Open dashboard for ${s.displayName}`}
+      >
         {/* Top row: J-code + health score */}
         <div className="mb-3 flex items-start justify-between gap-3">
           <span
@@ -311,24 +321,26 @@ function ClientCard({ summary: s }: { summary: ClientHealthSummary }) {
         >
           {s.description}
         </p>
+      </Link>
 
-        {/* Footer */}
-        <div className="mt-3 flex items-center justify-between">
-          {s.hasData ? (
-            <span
-              className="text-[10px] font-medium tracking-wide uppercase"
-              style={{ color: "#C8A882" }}
-            >
-              View Dashboard &rarr;
-            </span>
-          ) : (
-            <span
-              className="text-[10px] tracking-wide uppercase"
-              style={{ color: "#555555" }}
-            >
-              No data yet
-            </span>
-          )}
+      {/* Footer with Meeting Prep action + nav hint.
+          Kept OUTSIDE the <Link> so clicking Meeting Prep doesn't navigate. */}
+      <div className="flex items-center justify-between gap-2 px-5 pt-3 pb-4">
+        {s.hasData ? (
+          <MeetingPrepButton
+            projectId={s.id}
+            projectName={s.displayName}
+            variant="compact"
+          />
+        ) : (
+          <span
+            className="text-[10px] tracking-wide uppercase"
+            style={{ color: "#555555" }}
+          >
+            No data yet
+          </span>
+        )}
+        <div className="flex shrink-0 items-center gap-2">
           {s.missingSources.length > 0 && s.hasData && (
             <span
               className="text-[9px] tracking-wide"
@@ -338,9 +350,16 @@ function ClientCard({ summary: s }: { summary: ClientHealthSummary }) {
               -{s.missingSources.length} src
             </span>
           )}
+          <Link
+            href={`/client/${s.id}`}
+            className="text-[10px] font-medium tracking-wide uppercase transition-colors hover:opacity-80"
+            style={{ color: s.hasData ? "#C8A882" : "#555555" }}
+          >
+            View &rarr;
+          </Link>
         </div>
       </div>
-    </Link>
+    </div>
   );
 }
 
