@@ -328,7 +328,7 @@ function ClientCard({ summary: s }: { summary: ClientHealthSummary }) {
       <div className="flex items-center justify-between gap-2 px-5 pt-3 pb-4">
         {s.hasData ? (
           <MeetingPrepButton
-            projectId={s.id}
+            projectId={String(s.id)}
             projectName={s.displayName}
             variant="compact"
           />
