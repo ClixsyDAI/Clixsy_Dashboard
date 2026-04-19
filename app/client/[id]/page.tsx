@@ -19,10 +19,12 @@ import Last10TasksTable from "../../components/Last10TasksTable";
 import ShareClientUrlButton from "../../components/ShareClientUrlButton";
 import MeetingPrepButton from "../../components/MeetingPrepButton";
 import HealthBadge from "../../components/HealthBadge";
+import TeamBadges from "../../components/TeamBadges";
 import { detectWins } from "../../lib/win-flag-detection";
 import { loadTaskSummaries } from "../../lib/task-summaries";
 import { generateShareToken } from "../../lib/share-token";
 import { getClientHealthSummary } from "../../lib/client-health-summary";
+import { getClientTeam } from "../../lib/team-assignments";
 
 interface PageProps {
   params: Promise<{ id: string }>;
@@ -43,6 +45,7 @@ export default async function ClientDashboard({ params }: PageProps) {
   const blData = getBrightLocalSummary(id);
   const taskSummariesCache = loadTaskSummaries(id);
   const healthSummary = await getClientHealthSummary(id);
+  const teamMembers = getClientTeam(id);
 
   // Build an absolute client-safe share URL. If SHARE_SECRET isn't set, we
   // skip the button rather than crash the whole page.
@@ -201,6 +204,19 @@ export default async function ClientDashboard({ params }: PageProps) {
               />
             )}
           </div>
+          {/* Team assignment badges */}
+          {teamMembers.length > 0 && (
+            <div className="mt-2 flex items-center gap-3">
+              <span
+                className="text-[10px] font-semibold tracking-widest uppercase"
+                style={{ color: "#555" }}
+              >
+                Team
+              </span>
+              <TeamBadges members={teamMembers} variant="full" />
+            </div>
+          )}
+
           <div className="mt-2 flex flex-wrap items-baseline justify-between gap-2">
             <span className="text-sm" style={{ color: "#c8a882" }}>
               {project.description}

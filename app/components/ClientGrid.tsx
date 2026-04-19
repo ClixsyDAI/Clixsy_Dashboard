@@ -3,6 +3,7 @@
 import { useMemo, useState } from "react";
 import Link from "next/link";
 import MeetingPrepButton from "./MeetingPrepButton";
+import TeamBadges from "./TeamBadges";
 import type {
   ClientHealthSummary,
   TriageCounts,
@@ -14,6 +15,7 @@ type Sort = "risk" | "name" | "score-high" | "score-low" | "j-number";
 interface ClientGridProps {
   summaries: ClientHealthSummary[];
   counts: TriageCounts;
+  teamAssignments?: Record<string, string[]>;
 }
 
 function filterBucket(s: ClientHealthSummary): Filter {
@@ -46,7 +48,7 @@ function jCodeNumber(name: string): number {
   return m ? parseInt(m[1], 10) : Number.MAX_SAFE_INTEGER;
 }
 
-export default function ClientGrid({ summaries, counts }: ClientGridProps) {
+export default function ClientGrid({ summaries, counts, teamAssignments }: ClientGridProps) {
   const [search, setSearch] = useState("");
   const [filter, setFilter] = useState<Filter>("all");
   const [sortBy, setSortBy] = useState<Sort>("risk");
@@ -191,7 +193,11 @@ export default function ClientGrid({ summaries, counts }: ClientGridProps) {
       {/* ── GRID ────────────────────────────────────────────── */}
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
         {filtered.map((s) => (
-          <ClientCard key={s.id} summary={s} />
+          <ClientCard
+            key={s.id}
+            summary={s}
+            team={teamAssignments?.[String(s.id)] || []}
+          />
         ))}
       </div>
 
@@ -240,7 +246,7 @@ function TriageChip({
   );
 }
 
-function ClientCard({ summary: s }: { summary: ClientHealthSummary }) {
+function ClientCard({ summary: s, team }: { summary: ClientHealthSummary; team: string[] }) {
   const jCode = extractJCode(s.name);
   const overall = s.health?.overall ?? null;
   const label = s.health?.label ?? null;
@@ -321,6 +327,13 @@ function ClientCard({ summary: s }: { summary: ClientHealthSummary }) {
         >
           {s.description}
         </p>
+
+        {/* Team members */}
+        {team.length > 0 && (
+          <div className="mt-2">
+            <TeamBadges members={team} variant="compact" />
+          </div>
+        )}
       </Link>
 
       {/* Footer with Meeting Prep action + nav hint.
