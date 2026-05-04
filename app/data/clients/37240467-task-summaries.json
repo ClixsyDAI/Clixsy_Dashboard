@@ -58,5 +58,65 @@
     "title": "Find All Unemployment Terms on Website",
     "whyItMatters": "Auditing specific terms helps ensure consistent messaging and proper keyword optimization.",
     "updatedAt": "2025-11-13T17:55:59.472Z"
+  },
+  "9849658015": {
+    "id": 9849658015,
+    "title": "Update Practice Area Page Style",
+    "whyItMatters": "Better page layout and design helps visitors find services easier, which can improve search rankings.",
+    "updatedAt": "2026-05-01T23:29:20.327Z"
+  },
+  "9848694923": {
+    "id": 9848694923,
+    "title": "Remove and Reorganize Staff Pages",
+    "whyItMatters": "Keeping staff information current and well-organized helps search engines understand your business better.",
+    "updatedAt": "2026-05-01T20:50:16.818Z"
+  },
+  "9846833342": {
+    "id": 9846833342,
+    "title": "Move Services Section Higher Up",
+    "whyItMatters": "Placing important content higher on the page helps search engines see what's most valuable to visitors.",
+    "updatedAt": "2026-05-01T16:44:40.657Z"
+  },
+  "9848106797": {
+    "id": 9848106797,
+    "title": "Fix Large Sitemap File",
+    "whyItMatters": "A properly sized sitemap helps search engines find and index all your important pages effectively.",
+    "updatedAt": "2026-05-01T14:10:56.249Z"
+  },
+  "9848106794": {
+    "id": 9848106794,
+    "title": "Reduce Sitemap File Size",
+    "whyItMatters": "Search engines prefer smaller sitemap files so they can easily crawl and index your website.",
+    "updatedAt": "2026-05-01T14:10:56.219Z"
+  },
+  "9848106789": {
+    "id": 9848106789,
+    "title": "Fix Pages Blocking Search Engines",
+    "whyItMatters": "Pages marked 'noindex' won't appear in search results, potentially hiding valuable content from customers.",
+    "updatedAt": "2026-05-01T14:10:56.185Z"
+  },
+  "9848106785": {
+    "id": 9848106785,
+    "title": "Fix Page Navigation Links",
+    "whyItMatters": "Properly coded navigation links help search engines understand your site structure and find all pages.",
+    "updatedAt": "2026-05-01T14:10:56.158Z"
+  },
+  "9848106780": {
+    "id": 9848106780,
+    "title": "Fix Blog Page Indexing Issues",
+    "whyItMatters": "Ensuring blog pages can be found by search engines increases your chances of ranking for relevant topics.",
+    "updatedAt": "2026-05-01T14:10:56.124Z"
+  },
+  "9848106771": {
+    "id": 9848106771,
+    "title": "Fix Duplicate Page Issues",
+    "whyItMatters": "Resolving duplicate content helps search engines know which version of a page to show in results.",
+    "updatedAt": "2026-05-01T14:10:56.075Z"
+  },
+  "9848106764": {
+    "id": 9848106764,
+    "title": "Convert HTTP Links to HTTPS",
+    "whyItMatters": "Secure HTTPS links are preferred by search engines and help maintain your site's ranking credibility.",
+    "updatedAt": "2026-05-01T14:10:56.000Z"
   }
 }
