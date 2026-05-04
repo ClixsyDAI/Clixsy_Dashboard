@@ -112,5 +112,65 @@
     "title": "Make Author Names Clickable Links",
     "whyItMatters": "Linking author names to bio pages creates better internal connections that boost overall site authority.",
     "updatedAt": "2026-03-26T19:05:31.360Z"
+  },
+  "9835568552": {
+    "id": 9835568552,
+    "title": "Website Security Updates and User Access",
+    "whyItMatters": "A secure website builds trust with visitors and protects against harmful attacks that could hurt rankings.",
+    "updatedAt": "2026-05-01T18:04:56.217Z"
+  },
+  "9848330871": {
+    "id": 9848330871,
+    "title": "Fix Large Sitemap File Size",
+    "whyItMatters": "Search engines can't read oversized sitemaps, preventing your pages from being found and indexed.",
+    "updatedAt": "2026-05-01T15:05:39.290Z"
+  },
+  "9848330885": {
+    "id": 9848330885,
+    "title": "Fix Sitemap with Too Many Pages",
+    "whyItMatters": "Sitemaps with too many URLs won't be processed by search engines, hurting page visibility.",
+    "updatedAt": "2026-05-01T15:05:39.285Z"
+  },
+  "9848330862": {
+    "id": 9848330862,
+    "title": "Remove Pages Blocked from Search Results",
+    "whyItMatters": "Pages marked as 'noindex' won't appear in search results, reducing your website's visibility.",
+    "updatedAt": "2026-05-01T15:05:39.171Z"
+  },
+  "9848330855": {
+    "id": 9848330855,
+    "title": "Fix Duplicate Page Issues",
+    "whyItMatters": "Duplicate content confuses search engines and can hurt your rankings for those pages.",
+    "updatedAt": "2026-05-01T15:05:39.139Z"
+  },
+  "9848330847": {
+    "id": 9848330847,
+    "title": "Fix Broken Page Errors",
+    "whyItMatters": "Broken pages create a poor user experience and search engines penalize sites with errors.",
+    "updatedAt": "2026-05-01T15:05:39.119Z"
+  },
+  "9848330842": {
+    "id": 9848330842,
+    "title": "Optimize Large Image File Sizes",
+    "whyItMatters": "Large images slow down your website, which hurts search rankings and user experience.",
+    "updatedAt": "2026-05-01T15:05:39.075Z"
+  },
+  "9841116942": {
+    "id": 9841116942,
+    "title": "Urgent: Website Loading Issues Investigation",
+    "whyItMatters": "Website downtime prevents visitors from reaching your site and can severely impact search rankings.",
+    "updatedAt": "2026-05-01T00:07:45.670Z"
+  },
+  "9799720743": {
+    "id": 9799720743,
+    "title": "Update Legal Case Page Content",
+    "whyItMatters": "Fresh, relevant content helps pages rank higher in search results for your target keywords.",
+    "updatedAt": "2026-04-30T22:52:57.465Z"
+  },
+  "9775285498": {
+    "id": 9775285498,
+    "title": "Build New Tabbed Content Section",
+    "whyItMatters": "Well-organized content with proper headings helps search engines understand and rank your pages better.",
+    "updatedAt": "2026-04-30T21:41:20.471Z"
   }
 }
