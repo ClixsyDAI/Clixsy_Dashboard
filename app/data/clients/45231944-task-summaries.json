@@ -58,5 +58,65 @@
     "title": "Homepage Photo Carousel Feasibility Check",
     "whyItMatters": "Adding rotating images must be done carefully to avoid slowing down page speed, which can hurt your search engine rankings.",
     "updatedAt": "2026-04-07T17:23:23.043Z"
+  },
+  "9830509656": {
+    "id": 9830509656,
+    "title": "Website Navigation Menu Planning",
+    "whyItMatters": "Good navigation helps Google understand your site structure and helps visitors find what they need.",
+    "updatedAt": "2026-05-04T09:51:15.749Z"
+  },
+  "9801255764": {
+    "id": 9801255764,
+    "title": "Website Redesign Blueprint Review",
+    "whyItMatters": "Reviewing wireframes ensures the new site keeps all important SEO elements that help you rank in search results.",
+    "updatedAt": "2026-05-04T09:45:25.273Z"
+  },
+  "9851558195": {
+    "id": 9851558195,
+    "title": "Moving Pages to New Template",
+    "whyItMatters": "Updating page templates with better SEO structure helps your practice area pages rank higher in search results.",
+    "updatedAt": "2026-05-03T22:00:42.850Z"
+  },
+  "9848946421": {
+    "id": 9848946421,
+    "title": "Publish New Blog Post",
+    "whyItMatters": "Fresh, relevant blog content helps attract new visitors from search engines and establishes your expertise.",
+    "updatedAt": "2026-05-01T18:40:15.577Z"
+  },
+  "9847583488": {
+    "id": 9847583488,
+    "title": "Fix Oversized Website Map",
+    "whyItMatters": "Large sitemaps can prevent search engines from properly crawling and indexing all your website pages.",
+    "updatedAt": "2026-05-01T10:21:54.130Z"
+  },
+  "9847583483": {
+    "id": 9847583483,
+    "title": "Fix Website Map with Too Many Pages",
+    "whyItMatters": "Sitemaps with too many URLs can overwhelm search engines and hurt your site's crawling efficiency.",
+    "updatedAt": "2026-05-01T10:21:54.111Z"
+  },
+  "9847583475": {
+    "id": 9847583475,
+    "title": "Fix Duplicate Content Issues",
+    "whyItMatters": "Pages pointing to other versions of themselves can confuse search engines and hurt your rankings.",
+    "updatedAt": "2026-05-01T10:21:53.993Z"
+  },
+  "9847583470": {
+    "id": 9847583470,
+    "title": "Remove No-Follow Tags from Important Links",
+    "whyItMatters": "No-follow tags tell search engines to ignore links, which can prevent important pages from getting proper SEO value.",
+    "updatedAt": "2026-05-01T10:21:53.949Z"
+  },
+  "9847583466": {
+    "id": 9847583466,
+    "title": "Fix Pages Hidden from Search Engines",
+    "whyItMatters": "No-index tags prevent pages from appearing in search results, which could be blocking valuable traffic.",
+    "updatedAt": "2026-05-01T10:21:53.919Z"
+  },
+  "9847583464": {
+    "id": 9847583464,
+    "title": "Fix Broken Internal Links",
+    "whyItMatters": "Broken links create a poor user experience and prevent search engines from properly crawling your website.",
+    "updatedAt": "2026-05-01T10:21:53.889Z"
   }
 }
