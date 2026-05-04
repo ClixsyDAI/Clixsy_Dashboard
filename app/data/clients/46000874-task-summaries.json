@@ -13,9 +13,9 @@
   },
   "9619960496": {
     "id": 9619960496,
-    "title": "Fix Phone Number Consistency Issues",
-    "whyItMatters": "Inconsistent phone numbers across listings hurt search rankings and confuse potential customers.",
-    "updatedAt": "2026-04-02T20:03:51.769Z"
+    "title": "Fix Google Business Phone Number Issues",
+    "whyItMatters": "Consistent business information across the web helps Google trust and rank your business higher in local searches.",
+    "updatedAt": "2026-05-01T19:40:16.529Z"
   },
   "9688678666": {
     "id": 9688678666,
@@ -25,9 +25,9 @@
   },
   "9619924994": {
     "id": 9619924994,
-    "title": "Multiple Business Profile Issues Need Fixing",
-    "whyItMatters": "Unresolved Google Business Profile problems prevent the business from appearing in local searches.",
-    "updatedAt": "2026-03-24T22:06:39.625Z"
+    "title": "Resolve Google Business Profile Problems",
+    "whyItMatters": "Unverified or problematic Google Business listings prevent your business from appearing in local search results.",
+    "updatedAt": "2026-04-30T19:42:20.981Z"
   },
   "9619799392": {
     "id": 9619799392,
@@ -40,5 +40,53 @@
     "title": "Test Task for System Setup",
     "whyItMatters": "Testing ensures our tracking systems work properly to monitor your website's search performance.",
     "updatedAt": "2026-02-05T19:32:48.297Z"
+  },
+  "9848641544": {
+    "id": 9848641544,
+    "title": "Reduce Oversized Sitemap File",
+    "whyItMatters": "Large sitemaps can prevent Google from properly crawling and indexing all your website pages.",
+    "updatedAt": "2026-05-01T16:23:47.410Z"
+  },
+  "9848641540": {
+    "id": 9848641540,
+    "title": "Remove Pages Blocked from Google",
+    "whyItMatters": "Pages marked 'noindex' won't appear in search results, limiting your website's visibility to potential customers.",
+    "updatedAt": "2026-05-01T19:23:47.378+03:00"
+  },
+  "9848641537": {
+    "id": 9848641537,
+    "title": "Split Large Sitemap into Smaller Files",
+    "whyItMatters": "Sitemaps with too many URLs can overwhelm Google's crawlers and hurt your search rankings.",
+    "updatedAt": "2026-05-01T16:23:47.368Z"
+  },
+  "9848641533": {
+    "id": 9848641533,
+    "title": "Fix Broken Page Navigation Links",
+    "whyItMatters": "Properly working navigation helps users and Google move through your site, improving search performance.",
+    "updatedAt": "2026-05-01T16:23:47.294Z"
+  },
+  "9848641527": {
+    "id": 9848641527,
+    "title": "Compress Large Images for Faster Loading",
+    "whyItMatters": "Slow-loading images hurt user experience and Google penalizes slow websites in search rankings.",
+    "updatedAt": "2026-05-01T19:23:47.281+03:00"
+  },
+  "9848641522": {
+    "id": 9848641522,
+    "title": "Add Missing Page Headlines",
+    "whyItMatters": "Every page needs a main headline to help Google understand what the page is about for search results.",
+    "updatedAt": "2026-05-01T19:23:47.231+03:00"
+  },
+  "9805803255": {
+    "id": 9805803255,
+    "title": "Create New Thank You Page",
+    "whyItMatters": "Dedicated thank you pages help track which marketing campaigns are bringing in customers and leads.",
+    "updatedAt": "2026-04-27T09:54:39.434Z"
+  },
+  "9792866398": {
+    "id": 9792866398,
+    "title": "Set Up Landing Page Thank You",
+    "whyItMatters": "Thank you pages help measure the success of your advertising campaigns and improve conversion tracking.",
+    "updatedAt": "2026-04-22T17:08:18.992Z"
   }
 }
