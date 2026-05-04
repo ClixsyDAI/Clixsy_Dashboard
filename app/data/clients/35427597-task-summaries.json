@@ -1,0 +1,62 @@
+{
+  "9847691354": {
+    "id": 9847691354,
+    "title": "Fix Oversized Website Sitemap File",
+    "whyItMatters": "Large sitemaps prevent Google from properly indexing your website pages.",
+    "updatedAt": "2026-05-01T11:34:47.734Z"
+  },
+  "9847691352": {
+    "id": 9847691352,
+    "title": "Remove Pages Blocked from Search Results",
+    "whyItMatters": "Pages marked as 'noindex' won't appear in Google search results, reducing your visibility.",
+    "updatedAt": "2026-05-01T11:34:47.665Z"
+  },
+  "9847691350": {
+    "id": 9847691350,
+    "title": "Split Large Sitemap into Smaller Files",
+    "whyItMatters": "Sitemaps with too many URLs overwhelm search engines and hurt indexing performance.",
+    "updatedAt": "2026-05-01T11:34:47.638Z"
+  },
+  "9847691345": {
+    "id": 9847691345,
+    "title": "Fix Pagination Pages Search Engine Blocking",
+    "whyItMatters": "Blocked pagination pages prevent users from finding all your content through search.",
+    "updatedAt": "2026-05-01T11:34:47.610Z"
+  },
+  "9847691340": {
+    "id": 9847691340,
+    "title": "Fix Duplicate Content Canonical Tag Issues",
+    "whyItMatters": "Canonical tags tell Google which version of similar pages to show in search results.",
+    "updatedAt": "2026-05-01T11:34:47.597Z"
+  },
+  "9847691343": {
+    "id": 9847691343,
+    "title": "Fix Broken Pagination Navigation Links",
+    "whyItMatters": "Broken pagination links hurt user experience and prevent search engines from crawling all pages.",
+    "updatedAt": "2026-05-01T11:34:47.552Z"
+  },
+  "9847691337": {
+    "id": 9847691337,
+    "title": "Secure Contact Forms with HTTPS",
+    "whyItMatters": "Insecure forms hurt search rankings and make visitors distrust your website.",
+    "updatedAt": "2026-05-01T11:34:47.426Z"
+  },
+  "9847691334": {
+    "id": 9847691334,
+    "title": "Optimize Large Images for Faster Loading",
+    "whyItMatters": "Heavy images slow down your website, hurting search rankings and user experience.",
+    "updatedAt": "2026-05-01T11:34:47.359Z"
+  },
+  "9847691332": {
+    "id": 9847691332,
+    "title": "Move Forms to Secure HTTPS Pages",
+    "whyItMatters": "Forms on insecure pages reduce trust and hurt your search engine rankings.",
+    "updatedAt": "2026-05-01T11:34:47.321Z"
+  },
+  "9847691330": {
+    "id": 9847691330,
+    "title": "Convert HTTP Pages to Secure HTTPS",
+    "whyItMatters": "Insecure HTTP pages rank lower in search results and appear unsafe to visitors.",
+    "updatedAt": "2026-05-01T11:34:47.301Z"
+  }
+}
