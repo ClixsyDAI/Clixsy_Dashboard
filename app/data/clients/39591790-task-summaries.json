@@ -13,9 +13,9 @@
   },
   "9561605975": {
     "id": 9561605975,
-    "title": "Publish Client Content to Website",
-    "whyItMatters": "Fresh, relevant content helps improve search rankings and gives visitors more reasons to stay on your website.",
-    "updatedAt": "2026-03-04T18:09:36.374+00:00"
+    "title": "Add New Client Content Pages",
+    "whyItMatters": "Publishing fresh, relevant content helps improve your search rankings and attracts more visitors.",
+    "updatedAt": "2026-03-04T18:09:36.374Z"
   },
   "9624863305": {
     "id": 9624863305,
@@ -58,5 +58,41 @@
     "title": "Check Brand Name Throughout Website",
     "whyItMatters": "Consistent brand name usage across all pages helps search engines and customers clearly identify your business.",
     "updatedAt": "2026-02-13T17:24:34.444Z"
+  },
+  "9848263676": {
+    "id": 9848263676,
+    "title": "Website Map File Too Large",
+    "whyItMatters": "Search engines can't properly read oversized sitemaps, hurting your site's visibility in search results.",
+    "updatedAt": "2026-05-01T14:48:47.964Z"
+  },
+  "9848263674": {
+    "id": 9848263674,
+    "title": "Website Map Has Too Many Pages",
+    "whyItMatters": "Search engines ignore sitemaps with too many URLs, preventing proper indexing of your pages.",
+    "updatedAt": "2026-05-01T14:48:47.941Z"
+  },
+  "9848263670": {
+    "id": 9848263670,
+    "title": "Pages Blocked from Search Results",
+    "whyItMatters": "These pages won't appear in Google searches because they're marked as 'do not index.'",
+    "updatedAt": "2026-05-01T17:48:47.928+03:00"
+  },
+  "9848263666": {
+    "id": 9848263666,
+    "title": "Images Loading Too Slowly",
+    "whyItMatters": "Large image files slow down your website, which hurts your Google rankings and user experience.",
+    "updatedAt": "2026-05-01T17:48:47.889+03:00"
+  },
+  "9848263660": {
+    "id": 9848263660,
+    "title": "Missing Main Page Heading",
+    "whyItMatters": "Pages without main headings confuse search engines about your content topic and reduce rankings.",
+    "updatedAt": "2026-05-01T17:48:47.852+03:00"
+  },
+  "9848263658": {
+    "id": 9848263658,
+    "title": "Duplicate Page URLs Found",
+    "whyItMatters": "Multiple URLs for the same content dilutes your SEO power and confuses search engines.",
+    "updatedAt": "2026-05-01T14:48:47.820Z"
   }
 }
