@@ -97,9 +97,9 @@
   },
   "9757225327": {
     "id": 9757225327,
-    "title": "Update Review Link Settings",
-    "whyItMatters": "Balancing review requests across locations maintains strong ratings for all offices.",
-    "updatedAt": "2026-04-08T14:30:57.209Z"
+    "title": "Update Review Link Distribution",
+    "whyItMatters": "Balances review requests across locations to strengthen local search rankings for all offices.",
+    "updatedAt": "2026-05-01T19:44:14.689Z"
   },
   "9748409307": {
     "id": 9748409307,
@@ -112,5 +112,59 @@
     "title": "Fix Google Review Response Issue",
     "whyItMatters": "Responding to reviews quickly improves your local search rankings and reputation.",
     "updatedAt": "2026-04-07T03:25:04.255Z"
+  },
+  "9787041713": {
+    "id": 9787041713,
+    "title": "Add Blog Schema Code",
+    "whyItMatters": "Schema helps Google better understand and display your blog content in search results.",
+    "updatedAt": "2026-05-02T03:33:39.709Z"
+  },
+  "9846938059": {
+    "id": 9846938059,
+    "title": "Remove Google Business Post",
+    "whyItMatters": "Removes irrelevant local posts to keep your Google Business listings accurate and location-specific.",
+    "updatedAt": "2026-05-01T22:52:41.143Z"
+  },
+  "9849309356": {
+    "id": 9849309356,
+    "title": "Secure Website Login",
+    "whyItMatters": "Improves website security which is a ranking factor that Google considers for search results.",
+    "updatedAt": "2026-05-01T19:24:17.235Z"
+  },
+  "9774960063": {
+    "id": 9774960063,
+    "title": "Google Business Posting Status Update",
+    "whyItMatters": "Regular Google Business posts help maintain visibility and engagement in local search results.",
+    "updatedAt": "2026-05-01T18:32:23.927Z"
+  },
+  "9847636470": {
+    "id": 9847636470,
+    "title": "Fix Large XML Sitemap",
+    "whyItMatters": "Reduces sitemap size so Google can properly crawl and index all your website pages.",
+    "updatedAt": "2026-05-01T10:54:52.189Z"
+  },
+  "9847636468": {
+    "id": 9847636468,
+    "title": "Fix Nofollow Link Issues",
+    "whyItMatters": "Ensures search engines can properly follow and index important pages on your website.",
+    "updatedAt": "2026-05-01T10:54:52.154Z"
+  },
+  "9847636464": {
+    "id": 9847636464,
+    "title": "Split Large XML Sitemap",
+    "whyItMatters": "Breaks down oversized sitemaps so Google can efficiently discover all your web pages.",
+    "updatedAt": "2026-05-01T10:54:52.122Z"
+  },
+  "9847636461": {
+    "id": 9847636461,
+    "title": "Fix Noindex Page Issues",
+    "whyItMatters": "Prevents important pages from being accidentally hidden from Google search results.",
+    "updatedAt": "2026-05-01T10:54:52.091Z"
+  },
+  "9847636457": {
+    "id": 9847636457,
+    "title": "Fix Broken Internal Links",
+    "whyItMatters": "Repairs broken links that could hurt user experience and search engine rankings.",
+    "updatedAt": "2026-05-01T10:54:52.070Z"
   }
 }
