@@ -1,0 +1,62 @@
+{
+  "9847647351": {
+    "id": 9847647351,
+    "title": "Add Missing Page Headlines",
+    "whyItMatters": "Missing headlines make it harder for search engines to understand what your pages are about.",
+    "updatedAt": "2026-05-01T11:02:47.594Z"
+  },
+  "9847647350": {
+    "id": 9847647350,
+    "title": "Fix Oversized Website Map File",
+    "whyItMatters": "Large sitemap files can prevent search engines from properly crawling and indexing your website.",
+    "updatedAt": "2026-05-01T11:02:47.533Z"
+  },
+  "9847647348": {
+    "id": 9847647348,
+    "title": "Split Large Website Map",
+    "whyItMatters": "Sitemaps with too many URLs can overwhelm search engines and hurt your site's discoverability.",
+    "updatedAt": "2026-05-01T11:02:47.509Z"
+  },
+  "9847647347": {
+    "id": 9847647347,
+    "title": "Remove Pages from Search Blocking",
+    "whyItMatters": "Pages marked as 'no index' won't appear in search results, limiting your website's visibility.",
+    "updatedAt": "2026-05-01T11:02:47.466Z"
+  },
+  "9847647345": {
+    "id": 9847647345,
+    "title": "Compress Large Images for Speed",
+    "whyItMatters": "Heavy images slow down your website, which hurts your search engine rankings and user experience.",
+    "updatedAt": "2026-05-01T11:02:47.431Z"
+  },
+  "9847647344": {
+    "id": 9847647344,
+    "title": "Fix Broken Internal Links",
+    "whyItMatters": "Broken links create a poor user experience and can negatively impact your search engine rankings.",
+    "updatedAt": "2026-05-01T11:02:47.419Z"
+  },
+  "9814952333": {
+    "id": 9814952333,
+    "title": "Publish New Blog Post",
+    "whyItMatters": "Fresh, relevant content helps improve your search rankings and attracts more potential clients to your website.",
+    "updatedAt": "2026-04-22T20:21:50.363Z"
+  },
+  "9787740871": {
+    "id": 9787740871,
+    "title": "Discuss Adding More Blog Content",
+    "whyItMatters": "Regular blog posts with targeted keywords can significantly boost your website's search engine visibility.",
+    "updatedAt": "2026-04-17T15:32:59.848Z"
+  },
+  "9693211622": {
+    "id": 9693211622,
+    "title": "Update Homepage Video Content",
+    "whyItMatters": "Keeping homepage content current and relevant helps maintain user trust and engagement signals for search engines.",
+    "updatedAt": "2026-04-17T15:32:36.106Z"
+  },
+  "9750621293": {
+    "id": 9750621293,
+    "title": "Add Legal Disclaimers to Videos",
+    "whyItMatters": "Proper disclaimers ensure compliance and build trust, which can positively impact your online reputation and rankings.",
+    "updatedAt": "2026-04-09T18:00:04.495Z"
+  }
+}
