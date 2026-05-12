@@ -1,0 +1,62 @@
+{
+  "9849907128": {
+    "id": 9849907128,
+    "title": "Fix Contact Form Spam Protection",
+    "whyItMatters": "Spam submissions hurt website credibility and can negatively impact search rankings.",
+    "updatedAt": "2026-05-01T23:51:57.731Z"
+  },
+  "9848722523": {
+    "id": 9848722523,
+    "title": "Fix Pagination Navigation Links",
+    "whyItMatters": "Broken pagination prevents search engines from properly crawling and indexing all your pages.",
+    "updatedAt": "2026-05-01T16:45:01.826Z"
+  },
+  "9848722520": {
+    "id": 9848722520,
+    "title": "Reduce Sitemap File Size",
+    "whyItMatters": "Oversized sitemaps can't be processed by search engines, preventing proper page indexing.",
+    "updatedAt": "2026-05-01T16:45:01.777Z"
+  },
+  "9848722515": {
+    "id": 9848722515,
+    "title": "Split Large Sitemap Into Smaller Files",
+    "whyItMatters": "Sitemaps with too many URLs get rejected by search engines, hurting page visibility.",
+    "updatedAt": "2026-05-01T16:45:01.733Z"
+  },
+  "9848722510": {
+    "id": 9848722510,
+    "title": "Fix Pages Blocked From Search Results",
+    "whyItMatters": "Pages marked 'noindex' won't appear in search results, reducing your website's visibility.",
+    "updatedAt": "2026-05-01T16:45:01.686Z"
+  },
+  "9848722507": {
+    "id": 9848722507,
+    "title": "Fix Links Blocked From Search Crawling",
+    "whyItMatters": "Nofollow links prevent search engines from discovering and ranking connected pages.",
+    "updatedAt": "2026-05-01T16:45:01.658Z"
+  },
+  "9848722505": {
+    "id": 9848722505,
+    "title": "Make Pagination Pages Searchable",
+    "whyItMatters": "Hidden pagination pages prevent search engines from finding and indexing your content.",
+    "updatedAt": "2026-05-01T16:45:01.612Z"
+  },
+  "9848722499": {
+    "id": 9848722499,
+    "title": "Compress Large Images For Faster Loading",
+    "whyItMatters": "Heavy images slow down your website, which hurts search rankings and user experience.",
+    "updatedAt": "2026-05-01T16:45:01.588Z"
+  },
+  "9848722495": {
+    "id": 9848722495,
+    "title": "Fix Duplicate Page URL Issues",
+    "whyItMatters": "Canonical issues confuse search engines about which page version to rank in results.",
+    "updatedAt": "2026-05-01T16:45:01.566Z"
+  },
+  "9848722489": {
+    "id": 9848722489,
+    "title": "Add Missing Page Headlines",
+    "whyItMatters": "Pages without H1 headlines are harder for search engines to understand and rank properly.",
+    "updatedAt": "2026-05-01T16:45:01.517Z"
+  }
+}
