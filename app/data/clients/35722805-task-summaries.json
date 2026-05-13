@@ -58,5 +58,65 @@
     "title": "Fix Blog Search Results Issue",
     "whyItMatters": "Resolving technical problems with how your blog appears in search results prevents lost traffic and rankings.",
     "updatedAt": "2025-12-30T17:50:22.941Z"
+  },
+  "9848046429": {
+    "id": 9848046429,
+    "title": "Sitemap File Too Large",
+    "whyItMatters": "Search engines may not be able to read your sitemap, preventing them from finding all your pages.",
+    "updatedAt": "2026-05-01T13:56:31.622Z"
+  },
+  "9848046422": {
+    "id": 9848046422,
+    "title": "Too Many Pages in Sitemap",
+    "whyItMatters": "Search engines have limits on sitemap size, so they might ignore pages beyond the limit.",
+    "updatedAt": "2026-05-01T13:56:31.575Z"
+  },
+  "9848046419": {
+    "id": 9848046419,
+    "title": "Pages Missing Internal Links",
+    "whyItMatters": "Pages without internal links are harder for search engines to find and rank.",
+    "updatedAt": "2026-05-01T13:56:31.530Z"
+  },
+  "9848046414": {
+    "id": 9848046414,
+    "title": "Pages Blocked from Search Results",
+    "whyItMatters": "These pages are telling search engines not to show them in search results.",
+    "updatedAt": "2026-05-01T13:56:31.493Z"
+  },
+  "9848046410": {
+    "id": 9848046410,
+    "title": "Broken Internal Links Found",
+    "whyItMatters": "Broken links create poor user experience and waste search engine crawl budget.",
+    "updatedAt": "2026-05-01T13:56:31.453Z"
+  },
+  "9848046404": {
+    "id": 9848046404,
+    "title": "Pagination Links Not Clickable",
+    "whyItMatters": "Search engines can't follow pagination links that aren't properly coded as clickable elements.",
+    "updatedAt": "2026-05-01T13:56:31.433Z"
+  },
+  "9848046403": {
+    "id": 9848046403,
+    "title": "Duplicate Pages Being Redirected",
+    "whyItMatters": "These pages point to other URLs as the preferred version, which is good for avoiding duplicate content.",
+    "updatedAt": "2026-05-01T13:56:31.395Z"
+  },
+  "9848046399": {
+    "id": 9848046399,
+    "title": "Large Images Slowing Site Down",
+    "whyItMatters": "Heavy images make your site load slowly, hurting your search rankings and user experience.",
+    "updatedAt": "2026-05-01T13:56:31.360Z"
+  },
+  "9848046396": {
+    "id": 9848046396,
+    "title": "Unsecure HTTP Pages Found",
+    "whyItMatters": "Search engines prefer secure HTTPS pages and may rank HTTP pages lower in results.",
+    "updatedAt": "2026-05-01T13:56:31.326Z"
+  },
+  "9848046395": {
+    "id": 9848046395,
+    "title": "Unresponsive Internal Links Found",
+    "whyItMatters": "Links that don't respond waste search engine resources and hurt your site's crawling efficiency.",
+    "updatedAt": "2026-05-01T13:56:31.294Z"
   }
 }
