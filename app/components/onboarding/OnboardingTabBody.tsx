@@ -22,6 +22,7 @@
 import type { OnboardingByWorkbookIdPayload } from "../../lib/onboarding/types";
 import ReminderStrip from "./ReminderStrip";
 import ActionBar from "./ActionBar";
+import PipelineStageCard from "./PipelineStageCard";
 
 // The CSS file is imported once here so the design tokens are
 // scoped to the Onboarding tab subtree. The wrapper `<div
@@ -33,7 +34,7 @@ interface OnboardingTabBodyProps {
 }
 
 export default function OnboardingTabBody({ payload }: OnboardingTabBodyProps) {
-  const { client, session, answers, latest_reminder } = payload;
+  const { client, session, answers, latest_reminder, pipeline_state } = payload;
 
   return (
     <div
@@ -50,7 +51,7 @@ export default function OnboardingTabBody({ payload }: OnboardingTabBodyProps) {
     >
       <ReminderStrip latestReminder={latest_reminder} />
       <ActionBar client={client} session={session} answers={answers} />
-      {/* Phase 3 — pipeline stage card lands here */}
+      <PipelineStageCard pipelineState={pipeline_state} />
       {/* Phase 4 — client information accordion lands below pipeline */}
     </div>
   );
