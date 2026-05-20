@@ -1,141 +1,151 @@
 // =============================================================
-// Onboarding-tab DB types (hand-typed, narrow read shape)
+// Onboarding-tab DB types — re-export shim over codegen
 // =============================================================
 //
-// Phase 1 hand-types the rows the workbook reads from the shared
-// Supabase project. These mirror the actual DB columns (NOT the
-// onboarding tool's internal TS interface, which is known to drift
-// — see onboarding audit §10.B.5).
+// Phase 2 swap (from hand-typed to codegen, per phase-2-plan.md §3.2).
+// Underlying generated types live in `./types.gen.ts` and are
+// regenerated via `npm run gen:types`. Don't hand-edit that file.
 //
-// Phase 2 will replace these with codegen:
+// This shim does three things:
+//   1. Re-exports the row types the workbook actually reads, so call
+//      sites don't have to walk through `Database['public']['Tables']
+//      […]['Row']` every time.
+//   2. Re-narrows columns that codegen typed as plain `string` but are
+//      CHECK-constrained in Postgres (`status`, `vertical`,
+//      `flow_version`, `kind`). Codegen doesn't translate CHECK
+//      constraints to TS union types, but on the wire the values are
+//      always one of the constrained options.
+//   3. Re-narrows columns codegen typed as nullable but that are
+//      `NOT NULL` in the actual migration (`clients.agency_id`,
+//      `onboarding_sessions.agency_id`). These look like a codegen bug;
+//      the migrations (001) are explicit.
 //
-//     npx supabase gen types typescript \
-//       --project-id lawwsutjxopiekjzupef \
-//       > app/lib/onboarding/types.gen.ts
+// Additions vs the Phase 1 hand-typed file:
+//   - `OnboardingReminderSummary` — the shape returned by the
+//     latest-reminder fetch in `get-by-workbook-id.ts`. Excludes
+//     `email_body` (snapshots can be huge; only the history modal
+//     loads the full row).
+//   - `OnboardingByWorkbookIdPayload.latest_reminder` field.
 //
-// We're hand-typing for Phase 1 because (a) the read shape is
-// narrow, (b) we want the file to be human-reviewable during
-// initial wiring, and (c) codegen pulls the entire schema which
-// is more than we need this round.
-//
-// Columns are taken from:
-//   - 001_initial_schema.sql  (clients, onboarding_sessions, onboarding_answers)
-//   - 003_site_intelligence.sql (clients.website_url, sessions.site_intelligence_id + snapshots)
-//   - 005_p1_p2_admin_session_fields.sql (account_manager, vertical, pin_*)
-//   - 006_welcome_wizard_seen.sql (welcome_wizard_seen)
-//   - 007_feedback_fields.sql (feedback_rating, feedback_submitted_at)
-//   - 008_workbook_tab_tables.sql (clients.workbook_id, three new audit-ish tables)
+// Phase 1 names kept stable so existing imports keep working:
+//   ClientRow, OnboardingSessionRow, OnboardingAnswerRow,
+//   OnboardingOpenEventRow, OnboardingReminderRow,
+//   OnboardingFieldEditRow, ReminderKind, SessionStatus,
+//   OnboardingByWorkbookIdPayload.
+
+import type { Database, Json } from "./types.gen";
 
 // =============================================================
-// Read shape used by the by-workbook-id route
+// Narrowed primitive types (re-applied to row types below)
 // =============================================================
 
-export interface ClientRow {
-  id: string;                          // UUID
-  agency_id: string;                   // UUID
-  client_name: string;
-  primary_contact_name: string | null;
-  primary_contact_email: string | null;
-  website_url: string | null;          // from 003
-  workbook_id: number | null;          // from 008 — BIGINT, joins to projects.json[].id
-  created_at: string;                  // ISO timestamp
-}
-
+/** `onboarding_sessions.status` CHECK constraint from 001_initial_schema.sql:37. */
 export type SessionStatus = "draft" | "in_progress" | "submitted";
 
-export interface OnboardingSessionRow {
-  id: string;                          // UUID
-  agency_id: string;
-  client_id: string;
-  token: string;                       // 64-hex public form token
-  status: SessionStatus;               // CHECK constraint, 3 values
-  current_step: number;                // 0..12
-  last_saved_at: string | null;
-  submitted_at: string | null;
-  logo_path: string | null;
-  logo_url: string | null;
-  created_at: string;
-  flow_version: "v1" | "v2";
+/** `onboarding_sessions.vertical` CHECK from 005_p1_p2_admin_session_fields.sql. */
+export type SessionVertical = "law_firm" | "home_services";
 
-  // Stage 005 — account manager + vertical
-  account_manager: string | null;
-  vertical: "law_firm" | "home_services";
+/**
+ * `onboarding_sessions.flow_version` — added in 002. No CHECK constraint
+ * but only "v1" and "v2" are ever written (per onboarding repo audit §3).
+ */
+export type SessionFlowVersion = "v1" | "v2";
 
-  // Stage 005 — PIN gate state
-  pin_hash: string | null;             // scrypt$N$r$p$saltHex$derivedHex
-  pin_attempts: number;
-  pin_lockout_until: string | null;
-  pin_locked_at: string | null;
-
-  // Stage 006 — first-login welcome wizard
-  welcome_wizard_seen: boolean;
-
-  // Stage 007 — post-submit feedback
-  feedback_rating: number | null;      // 1..5
-  feedback_submitted_at: string | null;
-
-  // Stage 003 — site intelligence linkage + snapshots
-  site_intelligence_id: string | null; // UUID
-  si_prefill_snapshot: unknown | null;
-  si_overrides_snapshot: unknown | null;
-  si_branding_snapshot: unknown | null;
-  si_insights_snapshot: unknown | null;
-}
-
-export interface OnboardingAnswerRow {
-  id: string;
-  session_id: string;
-  step_key: string;                    // one of the 12 keys; see step-keys.ts
-  answers: Record<string, unknown>;    // JSONB; shape varies per step
-  completed: boolean;
-  updated_at: string;
-}
-
-// =============================================================
-// Tables created in migration 008 — empty in Phase 1, included
-// here for completeness so later phases don't have to re-type
-// =============================================================
-
+/** `onboarding_reminders.kind` CHECK from 008_workbook_tab_tables.sql. */
 export type ReminderKind = "form_reminder" | "access_request";
 
-export interface OnboardingOpenEventRow {
-  id: string;
-  session_id: string;
-  opened_at: string;
-  user_agent: string | null;
-  ip_hash: string | null;              // sha256(ip || HMAC secret)
-  created_at: string;
-}
+// =============================================================
+// Row types (codegen rows, re-narrowed where needed)
+// =============================================================
 
-export interface OnboardingReminderRow {
-  id: string;
-  session_id: string;
+/**
+ * `clients` row. `agency_id` re-narrowed from `string | null` to `string` —
+ * 001_initial_schema.sql:20-27 declares it `UUID NOT NULL REFERENCES ...`.
+ * Treating the codegen nullability as a bug, not a constraint to honour.
+ */
+export type ClientRow = Omit<
+  Database["public"]["Tables"]["clients"]["Row"],
+  "agency_id"
+> & {
+  agency_id: string;
+};
+
+/**
+ * `onboarding_sessions` row. Re-narrows:
+ *   - agency_id: not null (001:30-42)
+ *   - status: 3-value enum (001:37 CHECK)
+ *   - vertical: 2-value enum (005 CHECK)
+ *   - flow_version: 2-value union (002 + code usage)
+ *
+ * The session row carries six post-audit drift columns that hand-typing
+ * in Phase 1 missed — `crm_status`, `crm_status_changed_at`,
+ * `assigned_to`, `internal_notes`, `last_viewed_at`, `last_viewed_by`
+ * (see phase-2-plan.md §3.1). They're present here automatically via
+ * codegen. `crm_status` is typed as plain `string` because its full
+ * state set is not yet documented; the only observed value to date is
+ * "new".
+ */
+export type OnboardingSessionRow = Omit<
+  Database["public"]["Tables"]["onboarding_sessions"]["Row"],
+  "agency_id" | "status" | "vertical" | "flow_version"
+> & {
+  agency_id: string;
+  status: SessionStatus;
+  vertical: SessionVertical;
+  flow_version: SessionFlowVersion;
+};
+
+/** `onboarding_answers` row — codegen as-is. */
+export type OnboardingAnswerRow =
+  Database["public"]["Tables"]["onboarding_answers"]["Row"];
+
+/** `onboarding_open_events` row — codegen as-is. */
+export type OnboardingOpenEventRow =
+  Database["public"]["Tables"]["onboarding_open_events"]["Row"];
+
+/**
+ * `onboarding_reminders` row. `kind` re-narrowed to the 2-value union
+ * (008 CHECK constraint).
+ */
+export type OnboardingReminderRow = Omit<
+  Database["public"]["Tables"]["onboarding_reminders"]["Row"],
+  "kind"
+> & {
   kind: ReminderKind;
-  sent_by_label: string | null;
-  sent_at: string;
-  email_subject: string;
-  email_body: string;
-  created_at: string;
-}
+};
 
-export interface OnboardingFieldEditRow {
-  id: string;
-  session_id: string;
-  step_key: string;
-  field_key: string;
-  old_value: unknown | null;           // JSONB
-  new_value: unknown | null;           // JSONB
-  edited_by_label: string | null;
-  edited_at: string;
-  created_at: string;
-}
+/** `onboarding_field_edits` row — codegen as-is. */
+export type OnboardingFieldEditRow =
+  Database["public"]["Tables"]["onboarding_field_edits"]["Row"];
 
 // =============================================================
-// Combined payload shape returned by the by-workbook-id route
+// Composite shapes for `get-by-workbook-id.ts` / API route payload
 // =============================================================
 
+/**
+ * Latest reminder shape for the reminder-strip block in the Onboarding
+ * tab. Omits `email_body` — that field can be large (full email body
+ * snapshot) and isn't needed for the strip's "Last reminder sent: …"
+ * rendering. The History modal (later phase) fetches the full row by
+ * id when opened.
+ */
+export type OnboardingReminderSummary = Omit<
+  OnboardingReminderRow,
+  "email_body"
+>;
+
+/**
+ * The payload returned by `getOnboardingByWorkbookId` and the
+ * `/api/onboarding/by-workbook-id/[id]` route. Phase 2 adds
+ * `latest_reminder` to the Phase 1 shape.
+ */
 export interface OnboardingByWorkbookIdPayload {
   client: ClientRow;
   session: OnboardingSessionRow;
   answers: OnboardingAnswerRow[];
+  latest_reminder: OnboardingReminderSummary | null;
 }
+
+// Re-export Json for callers that want to type JSONB blobs without
+// reaching into the generated file.
+export type { Json };
