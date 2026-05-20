@@ -1,0 +1,212 @@
+// =============================================================
+// Onboarding tab — joined-payload fetcher
+// =============================================================
+//
+// Phase 2 extraction (per phase-2-plan.md §6): the Phase 1 route at
+// app/api/onboarding/by-workbook-id/[id]/route.ts inlined the query
+// chain (clients → onboarding_sessions → onboarding_answers). Phase 2
+// extracts that chain into this module so:
+//
+//   1. The API route can stay thin (validates input, maps result to
+//      HTTP response).
+//   2. The /client/[id] page can call the same code path directly,
+//      avoiding a redundant HTTP round-trip from the page to its own
+//      API route. (Phase 2 PR B will wire this up; PR A is just the
+//      extraction.)
+//   3. Phase 2 also adds the `latest_reminder` fetch needed by the
+//      ReminderStrip block (spec §4.1).
+//
+// The function returns a discriminated union so the route handler
+// can map { kind: 'not_found' } → 404, { kind: 'error' } → 500, and
+// { kind: 'ok' } → 200 + payload, without duplicating that logic
+// across multiple call sites.
+
+import { getSupabaseServerClient } from "../supabase-server";
+import type {
+  ClientRow,
+  OnboardingAnswerRow,
+  OnboardingByWorkbookIdPayload,
+  OnboardingReminderRow,
+  OnboardingReminderSummary,
+  OnboardingSessionRow,
+} from "./types";
+
+// =============================================================
+// Result type — discriminated union the caller branches on
+// =============================================================
+
+export type GetByWorkbookIdResult =
+  | { kind: "ok"; payload: OnboardingByWorkbookIdPayload }
+  | { kind: "invalid_id"; message: string }
+  | { kind: "not_found"; reason: "no_client" | "no_session" }
+  | { kind: "error"; stage: Stage; message: string };
+
+type Stage =
+  | "supabase_init"
+  | "clients_lookup"
+  | "sessions_lookup"
+  | "answers_lookup"
+  | "latest_reminder_lookup";
+
+// =============================================================
+// Fetcher
+// =============================================================
+
+/**
+ * Resolve a workbook integer id (the Basecamp project id from
+ * app/data/projects.json) to the joined onboarding payload.
+ *
+ *     workbook_id (integer)
+ *        → clients (UUID, by clients.workbook_id)
+ *          → onboarding_sessions (most recent first)
+ *            → onboarding_answers (all step rows, if present)
+ *            → onboarding_reminders (latest one, if any)
+ *
+ * Returns a discriminated union — the caller decides whether each
+ * `kind` maps to a 404, a 500, or a success.
+ *
+ * Server-side only. The Supabase client is constructed via
+ * `getSupabaseServerClient()` which uses the service-role key.
+ */
+export async function getOnboardingByWorkbookId(
+  workbookIdRaw: number | string,
+): Promise<GetByWorkbookIdResult> {
+  // Accept either pre-parsed number or raw URL-segment string; validate
+  // either way. Centralising this here means the route doesn't need to
+  // duplicate the validation when the page also calls the function.
+  const workbookId =
+    typeof workbookIdRaw === "number"
+      ? workbookIdRaw
+      : Number.parseInt(workbookIdRaw, 10);
+  if (!Number.isFinite(workbookId) || workbookId <= 0) {
+    return {
+      kind: "invalid_id",
+      message: "workbook id must be a positive integer",
+    };
+  }
+
+  // ── 0. Supabase client ──────────────────────────────────────
+  let supabase;
+  try {
+    supabase = getSupabaseServerClient();
+  } catch (err) {
+    console.error(
+      "[get-by-workbook-id] supabase client init failed:",
+      err,
+    );
+    return {
+      kind: "error",
+      stage: "supabase_init",
+      message: err instanceof Error ? err.message : "unknown",
+    };
+  }
+
+  // ── 1. Resolve workbook_id → clients row ────────────────────
+  const clientRes = await supabase
+    .from("clients")
+    .select(
+      "id, agency_id, client_name, primary_contact_name, primary_contact_email, website_url, workbook_id, created_at",
+    )
+    .eq("workbook_id", workbookId)
+    .maybeSingle<ClientRow>();
+
+  if (clientRes.error) {
+    console.error(
+      `[get-by-workbook-id] clients lookup failed for workbook_id=${workbookId}:`,
+      clientRes.error,
+    );
+    return {
+      kind: "error",
+      stage: "clients_lookup",
+      message: clientRes.error.message,
+    };
+  }
+  if (!clientRes.data) {
+    return { kind: "not_found", reason: "no_client" };
+  }
+  const client = clientRes.data;
+
+  // ── 2. Latest onboarding_sessions row for this client ───────
+  const sessionRes = await supabase
+    .from("onboarding_sessions")
+    .select("*")
+    .eq("client_id", client.id)
+    .order("created_at", { ascending: false })
+    .limit(1)
+    .maybeSingle<OnboardingSessionRow>();
+
+  if (sessionRes.error) {
+    console.error(
+      `[get-by-workbook-id] sessions lookup failed for client_id=${client.id}:`,
+      sessionRes.error,
+    );
+    return {
+      kind: "error",
+      stage: "sessions_lookup",
+      message: sessionRes.error.message,
+    };
+  }
+  if (!sessionRes.data) {
+    return { kind: "not_found", reason: "no_session" };
+  }
+  const session = sessionRes.data;
+
+  // ── 3. All onboarding_answers rows for that session ─────────
+  const answersRes = await supabase
+    .from("onboarding_answers")
+    .select("id, session_id, step_key, answers, completed, updated_at")
+    .eq("session_id", session.id)
+    .order("updated_at", { ascending: true });
+
+  if (answersRes.error) {
+    console.error(
+      `[get-by-workbook-id] answers lookup failed for session_id=${session.id}:`,
+      answersRes.error,
+    );
+    return {
+      kind: "error",
+      stage: "answers_lookup",
+      message: answersRes.error.message,
+    };
+  }
+  const answers = (answersRes.data ?? []) as OnboardingAnswerRow[];
+
+  // ── 4. Latest reminder row for that session (Phase 2 §4.1) ──
+  // Phase 2: drives the ReminderStrip block. NULL on empty table
+  // (which is the current state for every session — no reminders
+  // have been sent yet). The strip renders "Never sent" in that case.
+  //
+  // email_body deliberately omitted — it can be large and the strip
+  // only needs subject + timestamps. The History modal (later phase)
+  // fetches the full row by id when opened.
+  const reminderRes = await supabase
+    .from("onboarding_reminders")
+    .select("id, session_id, kind, sent_by_label, sent_at, email_subject, created_at")
+    .eq("session_id", session.id)
+    .order("sent_at", { ascending: false })
+    .limit(1)
+    .maybeSingle<Omit<OnboardingReminderRow, "email_body">>();
+
+  if (reminderRes.error) {
+    console.error(
+      `[get-by-workbook-id] latest-reminder lookup failed for session_id=${session.id}:`,
+      reminderRes.error,
+    );
+    return {
+      kind: "error",
+      stage: "latest_reminder_lookup",
+      message: reminderRes.error.message,
+    };
+  }
+
+  const latestReminder: OnboardingReminderSummary | null =
+    reminderRes.data ?? null;
+
+  const payload: OnboardingByWorkbookIdPayload = {
+    client,
+    session,
+    answers,
+    latest_reminder: latestReminder,
+  };
+  return { kind: "ok", payload };
+}
