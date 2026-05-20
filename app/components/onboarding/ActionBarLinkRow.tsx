@@ -29,6 +29,7 @@
 // need a fresh review.
 
 import { useState } from "react";
+import { Copy, ExternalLink, RefreshCcw } from "./icons";
 
 interface ActionBarLinkRowProps {
   /** The session token. Combined with the onboarding tool's
@@ -127,7 +128,7 @@ export default function ActionBarLinkRow({ token }: ActionBarLinkRowProps) {
         onClick={handleCopy}
         style={linkButtonStyle("ghost")}
       >
-        <CopyIcon />
+        <Copy />
         {showCopied ? "Copied" : "Copy link"}
       </button>
 
@@ -137,7 +138,7 @@ export default function ActionBarLinkRow({ token }: ActionBarLinkRowProps) {
         rel="noopener noreferrer"
         style={{ ...linkButtonStyle("ghost"), textDecoration: "none" }}
       >
-        <ExternalLinkIcon />
+        <ExternalLink />
         View form
       </a>
 
@@ -152,7 +153,7 @@ export default function ActionBarLinkRow({ token }: ActionBarLinkRowProps) {
           opacity: 0.85,
         }}
       >
-        <RefreshCcwIcon />
+        <RefreshCcw />
         Regenerate PIN code
       </button>
     </div>
@@ -182,66 +183,3 @@ function linkButtonStyle(variant: "ghost" | "gold"): React.CSSProperties {
   };
 }
 
-// =============================================================
-// Inline icons (mockup sprite, inline to dodge webfont risk —
-// spec Appendix D #1)
-// =============================================================
-
-function CopyIcon() {
-  return (
-    <svg
-      width="14"
-      height="14"
-      viewBox="0 0 24 24"
-      fill="none"
-      stroke="currentColor"
-      strokeWidth="2"
-      strokeLinecap="round"
-      strokeLinejoin="round"
-      aria-hidden="true"
-    >
-      <rect x="8" y="8" width="13" height="13" rx="2" />
-      <path d="M16 8V5a2 2 0 0 0-2-2H5a2 2 0 0 0-2 2v9a2 2 0 0 0 2 2h3" />
-    </svg>
-  );
-}
-
-function ExternalLinkIcon() {
-  return (
-    <svg
-      width="14"
-      height="14"
-      viewBox="0 0 24 24"
-      fill="none"
-      stroke="currentColor"
-      strokeWidth="2"
-      strokeLinecap="round"
-      strokeLinejoin="round"
-      aria-hidden="true"
-    >
-      <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6" />
-      <polyline points="15 3 21 3 21 9" />
-      <line x1="10" y1="14" x2="21" y2="3" />
-    </svg>
-  );
-}
-
-function RefreshCcwIcon() {
-  return (
-    <svg
-      width="14"
-      height="14"
-      viewBox="0 0 24 24"
-      fill="none"
-      stroke="currentColor"
-      strokeWidth="2"
-      strokeLinecap="round"
-      strokeLinejoin="round"
-      aria-hidden="true"
-    >
-      <polyline points="23 4 23 10 17 10" />
-      <polyline points="1 20 1 14 7 14" />
-      <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15" />
-    </svg>
-  );
-}
