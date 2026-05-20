@@ -32,6 +32,7 @@ import type {
 } from "./types";
 import { projectAccessChecklist } from "./access-checklist";
 import { derivePipelineState } from "./derive-state";
+import { projectSections } from "./project-sections";
 
 // =============================================================
 // Result type — discriminated union the caller branches on
@@ -242,6 +243,9 @@ export async function getOnboardingByWorkbookId(
     accessChecklist,
     openEventsCount,
   });
+  // Phase 4: project the 12-section accordion view from the same
+  // answers rows. Pure function — no extra round-trip.
+  const sections = projectSections(answers);
 
   const payload: OnboardingByWorkbookIdPayload = {
     client,
@@ -251,6 +255,7 @@ export async function getOnboardingByWorkbookId(
     open_events_count: openEventsCount,
     access_checklist: accessChecklist,
     pipeline_state: pipelineState,
+    sections,
   };
   return { kind: "ok", payload };
 }

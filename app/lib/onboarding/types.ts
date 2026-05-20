@@ -36,6 +36,7 @@
 import type { Database, Json } from "./types.gen";
 import type { AccessChecklistView } from "./access-checklist";
 import type { PipelineState } from "./derive-state";
+import type { ProjectedSection } from "./project-sections";
 
 // =============================================================
 // Narrowed primitive types (re-applied to row types below)
@@ -145,9 +146,10 @@ export type OnboardingReminderSummary = Omit<
  *   - Phase 2: + latest_reminder (reminder strip).
  *   - Phase 3: + open_events_count, access_checklist, pipeline_state
  *              (pipeline stepper).
+ *   - Phase 4: + sections (client-information accordion).
  *
- * The Phase 3 additions are pre-computed server-side so PR B's
- * UI components don't have to derive state in the browser. Keeps
+ * All additions are pre-computed server-side so PR B's UI
+ * components don't have to derive state in the browser. Keeps
  * the client-component surface small and makes the data path
  * easy to test (pure functions, no Supabase dependency once the
  * fetcher has the raw rows).
@@ -161,6 +163,8 @@ export interface OnboardingByWorkbookIdPayload {
   open_events_count: number;
   access_checklist: AccessChecklistView;
   pipeline_state: PipelineState;
+  // Phase 4 addition:
+  sections: ProjectedSection[];
 }
 
 // Re-export Json for callers that want to type JSONB blobs without
