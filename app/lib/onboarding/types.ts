@@ -34,6 +34,8 @@
 //   OnboardingByWorkbookIdPayload.
 
 import type { Database, Json } from "./types.gen";
+import type { AccessChecklistView } from "./access-checklist";
+import type { PipelineState } from "./derive-state";
 
 // =============================================================
 // Narrowed primitive types (re-applied to row types below)
@@ -136,14 +138,29 @@ export type OnboardingReminderSummary = Omit<
 
 /**
  * The payload returned by `getOnboardingByWorkbookId` and the
- * `/api/onboarding/by-workbook-id/[id]` route. Phase 2 adds
- * `latest_reminder` to the Phase 1 shape.
+ * `/api/onboarding/by-workbook-id/[id]` route.
+ *
+ * Evolution:
+ *   - Phase 1: client, session, answers.
+ *   - Phase 2: + latest_reminder (reminder strip).
+ *   - Phase 3: + open_events_count, access_checklist, pipeline_state
+ *              (pipeline stepper).
+ *
+ * The Phase 3 additions are pre-computed server-side so PR B's
+ * UI components don't have to derive state in the browser. Keeps
+ * the client-component surface small and makes the data path
+ * easy to test (pure functions, no Supabase dependency once the
+ * fetcher has the raw rows).
  */
 export interface OnboardingByWorkbookIdPayload {
   client: ClientRow;
   session: OnboardingSessionRow;
   answers: OnboardingAnswerRow[];
   latest_reminder: OnboardingReminderSummary | null;
+  // Phase 3 additions:
+  open_events_count: number;
+  access_checklist: AccessChecklistView;
+  pipeline_state: PipelineState;
 }
 
 // Re-export Json for callers that want to type JSONB blobs without

@@ -30,6 +30,8 @@ import type {
   OnboardingReminderSummary,
   OnboardingSessionRow,
 } from "./types";
+import { projectAccessChecklist } from "./access-checklist";
+import { derivePipelineState } from "./derive-state";
 
 // =============================================================
 // Result type — discriminated union the caller branches on
@@ -46,7 +48,8 @@ type Stage =
   | "clients_lookup"
   | "sessions_lookup"
   | "answers_lookup"
-  | "latest_reminder_lookup";
+  | "latest_reminder_lookup"
+  | "open_events_count_lookup";
 
 // =============================================================
 // Fetcher
@@ -202,11 +205,52 @@ export async function getOnboardingByWorkbookId(
   const latestReminder: OnboardingReminderSummary | null =
     reminderRes.data ?? null;
 
+  // ── 5. Open events count for this session (Phase 3 §4.3) ────
+  // Drives the pipeline stepper's Step 2 ("Opened {n}x") badge.
+  // Uses PostgREST's exact-count head request so no row data is
+  // returned over the wire — just the count header.
+  const openEventsRes = await supabase
+    .from("onboarding_open_events")
+    .select("*", { count: "exact", head: true })
+    .eq("session_id", session.id);
+
+  if (openEventsRes.error) {
+    console.error(
+      `[get-by-workbook-id] open events count failed for session_id=${session.id}:`,
+      openEventsRes.error,
+    );
+    return {
+      kind: "error",
+      stage: "open_events_count_lookup",
+      message: openEventsRes.error.message,
+    };
+  }
+  // `count: 'exact', head: true` populates the .count field even
+  // when no rows are returned. Defaults to 0 if null (shouldn't
+  // happen given the exact request, but guard the type system).
+  const openEventsCount = openEventsRes.count ?? 0;
+
+  // ── 6. Pure-function derivations (Phase 3 §4.1 + §4.2) ──────
+  // No more network round-trips. These compute the projected
+  // access-checklist view and the 6-step pipeline state from
+  // already-fetched rows, so PR B's UI just renders what the
+  // payload says.
+  const accessChecklist = projectAccessChecklist(answers);
+  const pipelineState = derivePipelineState({
+    session,
+    answers,
+    accessChecklist,
+    openEventsCount,
+  });
+
   const payload: OnboardingByWorkbookIdPayload = {
     client,
     session,
     answers,
     latest_reminder: latestReminder,
+    open_events_count: openEventsCount,
+    access_checklist: accessChecklist,
+    pipeline_state: pipelineState,
   };
   return { kind: "ok", payload };
 }
