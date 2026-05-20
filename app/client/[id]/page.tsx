@@ -25,48 +25,11 @@ import { loadTaskSummaries } from "../../lib/task-summaries";
 import { generateShareToken } from "../../lib/share-token";
 import { getClientHealthSummary } from "../../lib/client-health-summary";
 import { getClientTeam } from "../../lib/team-assignments";
-import { getSupabaseServerClient } from "../../lib/supabase-server";
-import OnboardingTab from "../../components/OnboardingTab";
+import { getOnboardingByWorkbookId } from "../../lib/onboarding/get-by-workbook-id";
+import OnboardingTabBody from "../../components/onboarding/OnboardingTabBody";
 
 interface PageProps {
   params: Promise<{ id: string }>;
-}
-
-/**
- * Phase 1 of the Onboarding tab integration: check whether the
- * shared Supabase project (lawwsutjxopiekjzupef) has any onboarding
- * session for this workbook id. Used to gate the ONBOARDING tab —
- * hide entirely when no session exists (discovery-notes.md §5 Q10).
- *
- * Returns false on any error (Supabase down, env vars missing,
- * row not found). The other workbook tabs render regardless —
- * this is a graceful-degradation check, not a critical path.
- */
-async function hasOnboardingSessionFor(workbookId: number): Promise<boolean> {
-  if (!Number.isFinite(workbookId) || workbookId <= 0) return false;
-  try {
-    const supabase = getSupabaseServerClient();
-    const { data, error } = await supabase
-      .from("clients")
-      .select("id, onboarding_sessions!inner(id)")
-      .eq("workbook_id", workbookId)
-      .limit(1)
-      .maybeSingle();
-    if (error) {
-      console.warn(
-        `[client dashboard] onboarding-session check failed for workbook_id=${workbookId}:`,
-        error,
-      );
-      return false;
-    }
-    return !!data;
-  } catch (err) {
-    console.warn(
-      `[client dashboard] onboarding-session check threw for workbook_id=${workbookId}:`,
-      err,
-    );
-    return false;
-  }
 }
 
 export default async function ClientDashboard({ params }: PageProps) {
@@ -85,10 +48,24 @@ export default async function ClientDashboard({ params }: PageProps) {
   const taskSummariesCache = loadTaskSummaries(id);
   const healthSummary = await getClientHealthSummary(id);
   const teamMembers = getClientTeam(id);
-  // Phase 1: gate the ONBOARDING tab on the existence of a Supabase
-  // session for this workbook id. Cheap server-side probe; defaults
-  // to false on any failure.
-  const hasOnboardingSession = await hasOnboardingSessionFor(project.id);
+  // Phase 2: fetch the full onboarding payload server-side via the
+  // shared module. PR A's extraction made the same code path callable
+  // from both this page and the /api/onboarding/by-workbook-id/[id]
+  // route. The page bypasses the HTTP round-trip; the route stays in
+  // place for client-side refresh patterns to come.
+  //
+  // The tab is hidden (per discovery-notes.md §5 Q10) when:
+  //   - kind === 'invalid_id': not numeric route param (shouldn't
+  //     happen since project lookup above already validated)
+  //   - kind === 'not_found': no Supabase client row, or no session
+  //     for the matched client
+  //   - kind === 'error': Supabase down / env vars missing / etc.
+  //     A noisy log fires inside the module; the page itself
+  //     degrades gracefully and just doesn't show the tab.
+  const onboardingResult = await getOnboardingByWorkbookId(project.id);
+  const onboardingPayload =
+    onboardingResult.kind === "ok" ? onboardingResult.payload : null;
+  const hasOnboardingSession = onboardingPayload !== null;
 
   // Build an absolute client-safe share URL. If SHARE_SECRET isn't set, we
   // skip the button rather than crash the whole page.
@@ -600,10 +577,10 @@ export default async function ClientDashboard({ params }: PageProps) {
               )}
             </div>
 
-            {/* ── TAB: ONBOARDING (Phase 1 placeholder) ──────── */}
-            {hasOnboardingSession && (
+            {/* ── TAB: ONBOARDING (Phase 2 — reminder strip + action bar) ──── */}
+            {onboardingPayload && (
               <div>
-                <OnboardingTab workbookId={project.id} />
+                <OnboardingTabBody payload={onboardingPayload} />
               </div>
             )}
           </DashboardTabs>

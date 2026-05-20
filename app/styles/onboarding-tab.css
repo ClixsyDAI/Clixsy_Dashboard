@@ -1,0 +1,65 @@
+/* =============================================================
+   Onboarding tab — shared design tokens
+   =============================================================
+
+   Phase 2 PR B per phase-2-plan.md §4.2.
+
+   Tokens are scoped to a `.onboarding-tab` wrapper class rather
+   than `:root` so they don't pollute the workbook's existing
+   theme (globals.css already defines its own `--warm-tan`,
+   `--clixsy-black`, etc. with slightly different values).
+
+   Values are copied verbatim from the spec mockup's `:root`
+   block at `Resources/onboarding-tab-mockup.html` lines 8-28.
+   If the mockup ever shifts a hex value, regenerate this block.
+
+   Phase 3 (pipeline stepper) and Phase 4 (accordion + access
+   tiles) reuse this file. Do NOT redefine these variables in
+   individual components — extend this file instead.
+
+   Naming note: the spec / mockup uses `--text` for the primary
+   foreground. Phase 2 plan uses `--text-1`. Both names point to
+   the same value here so prose pulled directly from the mockup
+   keeps working alongside Phase-2-plan-style references.
+
+   ============================================================= */
+
+.onboarding-tab {
+  /* Surfaces */
+  --bg: #0a0a0a;            /* page background — usually unused inside the tab body */
+  --surface: #141414;       /* card backgrounds (action bar, pipeline card) */
+  --surface-2: #1a1a1a;     /* hover / sub-surface (reminder strip, ghost buttons) */
+  --surface-3: #1f1f1f;     /* inset blocks (monospaced URL display, editable inputs) */
+
+  /* Borders */
+  --border: #262626;        /* standard 1px */
+  --border-strong: #333;    /* hover / active 1px */
+
+  /* Text */
+  --text-1: #f2efe6;        /* primary */
+  --text: #f2efe6;          /* alias for --text-1 — matches the mockup's own var name */
+  --text-2: #b9b6ad;        /* secondary */
+  --text-3: #8a8780;        /* tertiary / labels / captions */
+  --text-4: #5f5d57;        /* disabled / dimmed */
+
+  /* Workbook accent (active tab, primary actions) */
+  --gold: #c9a978;
+  --gold-soft: rgba(201, 169, 120, 0.14);
+
+  /* Semantic */
+  --green: #3eb37a;
+  --green-soft: rgba(62, 179, 122, 0.14);
+  --amber: #f0b95c;
+  --amber-soft: rgba(240, 185, 92, 0.14);
+  --red: #e25d5d;
+  --red-soft: rgba(226, 93, 93, 0.14);
+  --blue: #6aa8e0;
+  --blue-soft: rgba(106, 168, 224, 0.14);
+
+  /* Border radii used across Phase 2+ */
+  --radius-sm: 6px;         /* reminder strip, ghost buttons */
+  --radius-md: 8px;         /* cards (action bar, pipeline) */
+  --radius-lg: 10px;        /* future, see spec §2 */
+
+  color: var(--text-1);
+}
