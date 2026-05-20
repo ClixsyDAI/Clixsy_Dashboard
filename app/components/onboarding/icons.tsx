@@ -156,3 +156,20 @@ export function Eye(props: IconProps) {
     </svg>
   );
 }
+
+/** List with checkmarks. Drawn on the Step 3 (In progress) circle
+ * in the pipeline stepper. The mockup uses this (not the plain
+ * Check) to differentiate the "you're working through a list"
+ * meaning from steps 1 and 4's "this is a completed milestone"
+ * meaning. */
+export function ListChecks(props: IconProps) {
+  return (
+    <svg {...baseProps(props)}>
+      <path d="M3 17l2 2 4-4" />
+      <path d="M3 7l2 2 4-4" />
+      <line x1="13" y1="6" x2="21" y2="6" />
+      <line x1="13" y1="12" x2="21" y2="12" />
+      <line x1="13" y1="18" x2="21" y2="18" />
+    </svg>
+  );
+}
