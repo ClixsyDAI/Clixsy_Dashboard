@@ -27,6 +27,7 @@ import type {
   SessionStatus,
 } from "../../lib/onboarding/types";
 import ActionBarLinkRow from "./ActionBarLinkRow";
+import { Bell, Key } from "./icons";
 
 interface ActionBarProps {
   client: ClientRow;
@@ -130,13 +131,13 @@ export default function ActionBar({ client, session, answers }: ActionBarProps) 
         <div style={{ display: "flex", gap: 10, flexShrink: 0 }}>
           <InertActionButton
             variant="ghost"
-            icon={<BellIcon />}
+            icon={<Bell />}
             label="Send form reminder"
             title="Coming in a later phase"
           />
           <InertActionButton
             variant="gold"
-            icon={<KeyIcon />}
+            icon={<Key />}
             label="Request missing access"
             title="Coming in a later phase"
           />
@@ -293,46 +294,3 @@ function InertActionButton({ variant, icon, label, title }: InertButtonProps) {
   );
 }
 
-// =============================================================
-// Inline icons (mockup sprite paths, see spec Appendix D #1 —
-// inline SVG so a missing webfont can't break the icons)
-// =============================================================
-
-function BellIcon() {
-  return (
-    <svg
-      width="14"
-      height="14"
-      viewBox="0 0 24 24"
-      fill="none"
-      stroke="currentColor"
-      strokeWidth="2"
-      strokeLinecap="round"
-      strokeLinejoin="round"
-      aria-hidden="true"
-    >
-      <path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9" />
-      <path d="M13.73 21a2 2 0 0 1-3.46 0" />
-    </svg>
-  );
-}
-
-function KeyIcon() {
-  return (
-    <svg
-      width="14"
-      height="14"
-      viewBox="0 0 24 24"
-      fill="none"
-      stroke="currentColor"
-      strokeWidth="2"
-      strokeLinecap="round"
-      strokeLinejoin="round"
-      aria-hidden="true"
-    >
-      <circle cx="7.5" cy="15.5" r="5.5" />
-      <path d="m21 2-9.6 9.6" />
-      <path d="m15.5 7.5 3 3L22 7l-3-3" />
-    </svg>
-  );
-}

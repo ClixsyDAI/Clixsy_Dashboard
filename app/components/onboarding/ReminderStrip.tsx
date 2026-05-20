@@ -28,6 +28,7 @@
 
 import { useMemo } from "react";
 import type { OnboardingReminderSummary } from "../../lib/onboarding/types";
+import { Clock } from "./icons";
 
 interface ReminderStripProps {
   latestReminder: OnboardingReminderSummary | null;
@@ -60,7 +61,7 @@ export default function ReminderStrip({ latestReminder }: ReminderStripProps) {
         minHeight: 36,
       }}
     >
-      <ClockIcon />
+      <Clock stroke="var(--gold)" />
       <span style={{ color: "var(--text-3)", fontSize: 12 }}>
         Last reminder sent:
       </span>
@@ -148,26 +149,3 @@ function formatAbsolute(date: Date): string {
   return `${dateFmt.format(date)} at ${timeFmt.format(date)}`;
 }
 
-/**
- * Mockup icon sprite — inline SVG so a missing CDN can't strand
- * the page with empty rectangles (cf. spec Appendix D anti-pattern
- * #1, "Webfont-loaded icons").
- */
-function ClockIcon() {
-  return (
-    <svg
-      width="14"
-      height="14"
-      viewBox="0 0 24 24"
-      fill="none"
-      stroke="var(--gold)"
-      strokeWidth="2"
-      strokeLinecap="round"
-      strokeLinejoin="round"
-      aria-hidden="true"
-    >
-      <circle cx="12" cy="12" r="10" />
-      <polyline points="12 6 12 12 16 14" />
-    </svg>
-  );
-}
