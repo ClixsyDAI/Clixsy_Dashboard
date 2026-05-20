@@ -25,9 +25,48 @@ import { loadTaskSummaries } from "../../lib/task-summaries";
 import { generateShareToken } from "../../lib/share-token";
 import { getClientHealthSummary } from "../../lib/client-health-summary";
 import { getClientTeam } from "../../lib/team-assignments";
+import { getSupabaseServerClient } from "../../lib/supabase-server";
+import OnboardingTab from "../../components/OnboardingTab";
 
 interface PageProps {
   params: Promise<{ id: string }>;
+}
+
+/**
+ * Phase 1 of the Onboarding tab integration: check whether the
+ * shared Supabase project (lawwsutjxopiekjzupef) has any onboarding
+ * session for this workbook id. Used to gate the ONBOARDING tab —
+ * hide entirely when no session exists (discovery-notes.md §5 Q10).
+ *
+ * Returns false on any error (Supabase down, env vars missing,
+ * row not found). The other workbook tabs render regardless —
+ * this is a graceful-degradation check, not a critical path.
+ */
+async function hasOnboardingSessionFor(workbookId: number): Promise<boolean> {
+  if (!Number.isFinite(workbookId) || workbookId <= 0) return false;
+  try {
+    const supabase = getSupabaseServerClient();
+    const { data, error } = await supabase
+      .from("clients")
+      .select("id, onboarding_sessions!inner(id)")
+      .eq("workbook_id", workbookId)
+      .limit(1)
+      .maybeSingle();
+    if (error) {
+      console.warn(
+        `[client dashboard] onboarding-session check failed for workbook_id=${workbookId}:`,
+        error,
+      );
+      return false;
+    }
+    return !!data;
+  } catch (err) {
+    console.warn(
+      `[client dashboard] onboarding-session check threw for workbook_id=${workbookId}:`,
+      err,
+    );
+    return false;
+  }
 }
 
 export default async function ClientDashboard({ params }: PageProps) {
@@ -46,6 +85,10 @@ export default async function ClientDashboard({ params }: PageProps) {
   const taskSummariesCache = loadTaskSummaries(id);
   const healthSummary = await getClientHealthSummary(id);
   const teamMembers = getClientTeam(id);
+  // Phase 1: gate the ONBOARDING tab on the existence of a Supabase
+  // session for this workbook id. Cheap server-side probe; defaults
+  // to false on any failure.
+  const hasOnboardingSession = await hasOnboardingSessionFor(project.id);
 
   // Build an absolute client-safe share URL. If SHARE_SECRET isn't set, we
   // skip the button rather than crash the whole page.
@@ -164,6 +207,9 @@ export default async function ClientDashboard({ params }: PageProps) {
         { id: "project-log", label: "Project Log" },
       ],
     },
+    // Phase 1: ONBOARDING tab, gated on a Supabase session existing for
+    // this workbook id. Placed to the right of Internal Use per the spec.
+    ...(hasOnboardingSession ? [{ id: "onboarding", label: "Onboarding" }] : []),
   ];
 
   return (
@@ -553,6 +599,13 @@ export default async function ClientDashboard({ params }: PageProps) {
                 </p>
               )}
             </div>
+
+            {/* ── TAB: ONBOARDING (Phase 1 placeholder) ──────── */}
+            {hasOnboardingSession && (
+              <div>
+                <OnboardingTab workbookId={project.id} />
+              </div>
+            )}
           </DashboardTabs>
         )}
 
