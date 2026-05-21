@@ -15,14 +15,25 @@
 // All inputs come from the PR-A-computed PipelineState. No
 // fetches, no derivations — pure rendering.
 
-import type { PipelineState } from "../../lib/onboarding/derive-state";
+"use client";
+
+import type {
+  PipelineState,
+  PipelineStepState,
+} from "../../lib/onboarding/derive-state";
 import PipelineStepper from "./PipelineStepper";
 
 interface PipelineStageCardProps {
   pipelineState: PipelineState;
+  /** Phase 5 PR B: forwarded to PipelineStepper. PipelineModals
+   * passes the handler that maps step index → modal kind. */
+  onStepClick?: (stepIndex: PipelineStepState["index"]) => void;
 }
 
-export default function PipelineStageCard({ pipelineState }: PipelineStageCardProps) {
+export default function PipelineStageCard({
+  pipelineState,
+  onStepClick,
+}: PipelineStageCardProps) {
   return (
     <div
       style={{
@@ -67,7 +78,7 @@ export default function PipelineStageCard({ pipelineState }: PipelineStageCardPr
         </div>
       </div>
 
-      <PipelineStepper steps={pipelineState.steps} />
+      <PipelineStepper steps={pipelineState.steps} onStepClick={onStepClick} />
     </div>
   );
 }

@@ -22,7 +22,7 @@
 import type { OnboardingByWorkbookIdPayload } from "../../lib/onboarding/types";
 import ReminderStrip from "./ReminderStrip";
 import ActionBar from "./ActionBar";
-import PipelineStageCard from "./PipelineStageCard";
+import PipelineModals from "./PipelineModals";
 import ClientInformationAccordion from "./ClientInformationAccordion";
 
 // The CSS file is imported once here so the design tokens are
@@ -35,7 +35,17 @@ interface OnboardingTabBodyProps {
 }
 
 export default function OnboardingTabBody({ payload }: OnboardingTabBodyProps) {
-  const { client, session, answers, latest_reminder, pipeline_state, sections } = payload;
+  const {
+    client,
+    session,
+    answers,
+    latest_reminder,
+    pipeline_state,
+    sections,
+    open_events,
+    open_events_count,
+    access_checklist,
+  } = payload;
 
   return (
     <div
@@ -52,7 +62,18 @@ export default function OnboardingTabBody({ payload }: OnboardingTabBodyProps) {
     >
       <ReminderStrip latestReminder={latest_reminder} />
       <ActionBar client={client} session={session} answers={answers} />
-      <PipelineStageCard pipelineState={pipeline_state} />
+      {/* Phase 5: PipelineModals composes PipelineStageCard +
+          the four pipeline-circle modals (open history, sections
+          completed, form complete, technical access). The state
+          for which modal is open lives in PipelineModals itself. */}
+      <PipelineModals
+        pipelineState={pipeline_state}
+        session={session}
+        sections={sections}
+        openEvents={open_events}
+        openEventsCount={open_events_count}
+        accessChecklist={access_checklist}
+      />
       <ClientInformationAccordion sections={sections} />
     </div>
   );
