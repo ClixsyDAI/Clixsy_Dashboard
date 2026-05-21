@@ -173,3 +173,159 @@ export function ListChecks(props: IconProps) {
     </svg>
   );
 }
+
+// =============================================================
+// New in Phase 4 — section icons + accordion toggle
+// =============================================================
+
+/** Single person silhouette. Section 1 header (Primary Contact). */
+export function User(props: IconProps) {
+  return (
+    <svg {...baseProps(props)}>
+      <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2" />
+      <circle cx="12" cy="7" r="4" />
+    </svg>
+  );
+}
+
+/** Multiple people. Section 2 header (Other Contacts). */
+export function Users(props: IconProps) {
+  return (
+    <svg {...baseProps(props)}>
+      <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" />
+      <circle cx="9" cy="7" r="4" />
+      <path d="M23 21v-2a4 4 0 0 0-3-3.87" />
+      <path d="M16 3.13a4 4 0 0 1 0 7.75" />
+    </svg>
+  );
+}
+
+/** Building / office. Section 3 header (Business Overview). */
+export function Building(props: IconProps) {
+  return (
+    <svg {...baseProps(props)}>
+      <rect x="4" y="2" width="16" height="20" rx="2" />
+      <line x1="9" y1="22" x2="9" y2="18" />
+      <line x1="15" y1="22" x2="15" y2="18" />
+      <line x1="8" y1="6" x2="8.01" y2="6" />
+      <line x1="16" y1="6" x2="16.01" y2="6" />
+      <line x1="12" y1="6" x2="12.01" y2="6" />
+      <line x1="12" y1="10" x2="12.01" y2="10" />
+      <line x1="12" y1="14" x2="12.01" y2="14" />
+      <line x1="16" y1="10" x2="16.01" y2="10" />
+      <line x1="16" y1="14" x2="16.01" y2="14" />
+      <line x1="8" y1="10" x2="8.01" y2="10" />
+      <line x1="8" y1="14" x2="8.01" y2="14" />
+    </svg>
+  );
+}
+
+/** Bullseye target. Section 4 header (Goals & Strategy). */
+export function Target(props: IconProps) {
+  return (
+    <svg {...baseProps(props)}>
+      <circle cx="12" cy="12" r="10" />
+      <circle cx="12" cy="12" r="6" />
+      <circle cx="12" cy="12" r="2" />
+    </svg>
+  );
+}
+
+/** Painter's palette. Section 5 header (Brand & Design). */
+export function Palette(props: IconProps) {
+  return (
+    <svg {...baseProps(props)}>
+      <path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10c.93 0 1.65-.75 1.65-1.69 0-.43-.18-.83-.44-1.12-.29-.29-.44-.65-.44-1.13a1.65 1.65 0 0 1 1.67-1.66h1.99c3.05 0 5.56-2.5 5.56-5.55C21.97 6.01 17.47 2 12 2z" />
+      <circle cx="6.5" cy="11.5" r="1.5" />
+      <circle cx="9.5" cy="7.5" r="1.5" />
+      <circle cx="14.5" cy="7.5" r="1.5" />
+      <circle cx="17.5" cy="11.5" r="1.5" />
+    </svg>
+  );
+}
+
+/** Computer monitor. Section 6 header (Technical Setup). */
+export function Monitor(props: IconProps) {
+  return (
+    <svg {...baseProps(props)}>
+      <rect x="2" y="3" width="20" height="14" rx="2" />
+      <line x1="8" y1="21" x2="16" y2="21" />
+      <line x1="12" y1="17" x2="12" y2="21" />
+    </svg>
+  );
+}
+
+/** Magnifying glass. Section 7 header (SEO & Targeting). */
+export function Search(props: IconProps) {
+  return (
+    <svg {...baseProps(props)}>
+      <circle cx="11" cy="11" r="8" />
+      <line x1="21" y1="21" x2="16.65" y2="16.65" />
+    </svg>
+  );
+}
+
+/** Scales of justice. Section 8 header (Legal, Content & Communication). */
+export function Scale(props: IconProps) {
+  return (
+    <svg {...baseProps(props)}>
+      <path d="M12 3v18" />
+      <path d="M3 7h2c2 0 5-1 7-2 2 1 5 2 7 2h2" />
+      <path d="M7 21h10" />
+      <path d="m16 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1z" />
+      <path d="m2 16 3-8 3 8c-.87.65-1.92 1-3 1s-2.13-.35-3-1z" />
+    </svg>
+  );
+}
+
+/** Flag. Section 11 header (Almost There!). */
+export function Flag(props: IconProps) {
+  return (
+    <svg {...baseProps(props)}>
+      <path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z" />
+      <line x1="4" y1="22" x2="4" y2="15" />
+    </svg>
+  );
+}
+
+/** Downward-pointing chevron. Accordion toggle indicator in
+ * SectionRow — rotates 180° on expand via CSS transform. */
+export function ChevronDown(props: IconProps) {
+  return (
+    <svg {...baseProps(props)}>
+      <polyline points="6 9 12 15 18 9" />
+    </svg>
+  );
+}
+
+// =============================================================
+// iconFor helper — section-icon dispatch
+// =============================================================
+//
+// Used by SectionRow (PR B) to render the right icon by key
+// without giant switch statements. The 12 SectionIconKey values
+// map to icon components defined above.
+
+import type { SectionIconKey } from "../../lib/onboarding/field-config";
+
+const SECTION_ICONS: Record<
+  SectionIconKey,
+  React.ComponentType<IconProps>
+> = {
+  user: User,
+  users: Users,
+  building: Building,
+  target: Target,
+  palette: Palette,
+  monitor: Monitor,
+  search: Search,
+  scale: Scale,
+  key: Key,
+  refresh: RefreshCcw,
+  flag: Flag,
+  check: Check,
+};
+
+export function iconFor(key: SectionIconKey): React.ComponentType<IconProps> {
+  return SECTION_ICONS[key];
+}
