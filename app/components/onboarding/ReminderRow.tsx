@@ -10,9 +10,13 @@
 // click handler, no expand affordance, no aria-expanded. The
 // modal is read-only and flat per spec §6.8 + mockup.
 //
-// Layout:
-//   [Badge] [email_subject ............................. truncated]
-//           {relative timestamp}{absolute on hover via title} · sent by {label}
+// Layout (mockup-exact, post-operator B3 follow-up):
+//   [Badge] {relative timestamp (absolute on hover via title)} · sent by {label}
+//
+// email_subject is on the wire (PR A pulls it) but NOT rendered
+// here. Kept available on the row data so a future hover
+// tooltip or expanded view can use it without re-plumbing the
+// payload.
 //
 // Client component only because formatRelative depends on the
 // current clock — running it during SSR would freeze the
@@ -45,49 +49,29 @@ export default function ReminderRow({ reminder }: ReminderRowProps) {
         border: "1px solid var(--border)",
         borderRadius: "var(--radius-sm)",
         display: "flex",
-        flexDirection: "column",
-        gap: 4,
+        alignItems: "center",
+        gap: 10,
+        minWidth: 0,
       }}
     >
-      {/* Top line: badge + subject (truncated) */}
-      <div
+      <ReminderKindBadge kind={reminder.kind} />
+      <span
         style={{
-          display: "flex",
-          alignItems: "center",
-          gap: 10,
+          fontSize: 12,
+          color: "var(--text-2)",
+          whiteSpace: "nowrap",
+          overflow: "hidden",
+          textOverflow: "ellipsis",
           minWidth: 0,
         }}
       >
-        <ReminderKindBadge kind={reminder.kind} />
-        <span
-          style={{
-            fontSize: 13,
-            fontWeight: 500,
-            color: "var(--text-1)",
-            whiteSpace: "nowrap",
-            overflow: "hidden",
-            textOverflow: "ellipsis",
-            flex: 1,
-            minWidth: 0,
-          }}
-          title={reminder.email_subject}
-        >
-          {reminder.email_subject}
+        <span title={absolute} style={{ color: "var(--text-1)" }}>
+          {relative}
         </span>
-      </div>
-
-      {/* Sub-line: relative timestamp (absolute on hover) + sent-by */}
-      <div
-        style={{
-          fontSize: 11,
-          color: "var(--text-3)",
-        }}
-      >
-        <span title={absolute}>{relative}</span>
         {reminder.sent_by_label && (
           <> &middot; sent by {reminder.sent_by_label}</>
         )}
-      </div>
+      </span>
     </li>
   );
 }
