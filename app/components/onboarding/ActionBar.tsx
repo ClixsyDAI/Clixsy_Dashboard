@@ -1,24 +1,20 @@
+"use client";
+
 // =============================================================
 // ActionBar — spec §4.2 (top row only; link row composed below)
 // =============================================================
 //
 // Phase 2 PR B per phase-2-plan.md §5.1 + §5.2.
+// Phase 6 PR B per phase-6-plan.md §6.6 — the two top-row buttons
+// and ActionBarLinkRow's "Regenerate PIN code" button are no
+// longer inert. ActionBarModals (the new composition manager)
+// passes an `onAction(kind)` callback that opens the matching
+// modal. Inert `title="Coming in a later phase"` tooltips are
+// gone for all three.
 //
-// Server component for the static top row (avatar, identity line,
-// sub-line, two inert action buttons). The bottom link row is a
-// separate **client** component (`<ActionBarLinkRow>`) because the
-// Copy button needs `navigator.clipboard`. They share the same
-// outer card shell.
-//
-// Inert in Phase 2 (per the operator's PR-B brief):
-//   - "Send form reminder" button → opens nothing yet. Modal in
-//     spec §6.5 lands in a later phase.
-//   - "Request missing access" button → opens nothing yet. Modal
-//     in spec §6.6 lands in a later phase.
-//
-// Both buttons render present-but-disabled so the visual block
-// matches the mockup. Hover state, color, sizing — all match;
-// only the click handler is missing.
+// "use client" because of the new onAction function prop —
+// function props can't cross the RSC server-to-client boundary,
+// same constraint Phase 5 hit with PipelineStageCard.
 
 import type {
   ClientRow,
@@ -26,6 +22,7 @@ import type {
   OnboardingSessionRow,
   SessionStatus,
 } from "../../lib/onboarding/types";
+import type { ActionBarModalKind } from "./ActionBarModals";
 import ActionBarLinkRow from "./ActionBarLinkRow";
 import { Bell, Key } from "./icons";
 
@@ -33,6 +30,9 @@ interface ActionBarProps {
   client: ClientRow;
   session: OnboardingSessionRow;
   answers: OnboardingAnswerRow[];
+  /** Phase 6 PR B: ActionBarModals passes this to wire the
+   * three action buttons to their modals. */
+  onAction: (kind: ActionBarModalKind) => void;
 }
 
 interface PrimaryContactView {
@@ -42,7 +42,12 @@ interface PrimaryContactView {
   title: string;
 }
 
-export default function ActionBar({ client, session, answers }: ActionBarProps) {
+export default function ActionBar({
+  client,
+  session,
+  answers,
+  onAction,
+}: ActionBarProps) {
   const contact = pullPrimaryContact(answers, client);
   const initials = computeInitials(contact.name, contact.email);
   const identityLine = buildIdentityLine(session.status, contact);
@@ -127,19 +132,19 @@ export default function ActionBar({ client, session, answers }: ActionBarProps) 
           </div>
         </div>
 
-        {/* Actions (inert in Phase 2) */}
+        {/* Actions — wired in Phase 6 PR B */}
         <div style={{ display: "flex", gap: 10, flexShrink: 0 }}>
-          <InertActionButton
+          <ActionButton
             variant="ghost"
             icon={<Bell />}
             label="Send form reminder"
-            title="Coming in a later phase"
+            onClick={() => onAction("send_reminder")}
           />
-          <InertActionButton
+          <ActionButton
             variant="gold"
             icon={<Key />}
             label="Request missing access"
-            title="Coming in a later phase"
+            onClick={() => onAction("request_access")}
           />
         </div>
       </div>
@@ -153,7 +158,7 @@ export default function ActionBar({ client, session, answers }: ActionBarProps) 
       />
 
       {/* ── Bottom row: onboarding link + link actions ──────── */}
-      <ActionBarLinkRow token={session.token} />
+      <ActionBarLinkRow token={session.token} onAction={onAction} />
     </div>
   );
 }
@@ -258,20 +263,19 @@ function buildSubLine(contact: PrimaryContactView): string {
 // Subcomponents
 // =============================================================
 
-interface InertButtonProps {
+interface ActionButtonProps {
   variant: "ghost" | "gold";
   icon: React.ReactNode;
   label: string;
-  title?: string;
+  onClick: () => void;
 }
 
-function InertActionButton({ variant, icon, label, title }: InertButtonProps) {
+function ActionButton({ variant, icon, label, onClick }: ActionButtonProps) {
   const isGold = variant === "gold";
   return (
     <button
       type="button"
-      disabled
-      title={title}
+      onClick={onClick}
       style={{
         background: isGold ? "var(--gold)" : "var(--surface-2)",
         color: isGold ? "#2a1f10" : "var(--text-1)",
@@ -280,8 +284,7 @@ function InertActionButton({ variant, icon, label, title }: InertButtonProps) {
         borderRadius: "var(--radius-sm)",
         fontSize: 12,
         fontWeight: 500,
-        cursor: "not-allowed",
-        opacity: 0.85,
+        cursor: "pointer",
         display: "inline-flex",
         alignItems: "center",
         gap: 8,

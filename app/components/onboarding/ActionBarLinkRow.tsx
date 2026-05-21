@@ -29,12 +29,16 @@
 // need a fresh review.
 
 import { useState } from "react";
+import type { ActionBarModalKind } from "./ActionBarModals";
 import { Copy, ExternalLink, RefreshCcw } from "./icons";
 
 interface ActionBarLinkRowProps {
   /** The session token. Combined with the onboarding tool's
    * base URL to form the public form URL. */
   token: string;
+  /** Phase 6 PR B: ActionBarModals (via ActionBar) passes this
+   * so the "Regenerate PIN code" button opens its modal. */
+  onAction: (kind: ActionBarModalKind) => void;
 }
 
 /** Base URL for the onboarding tool's public form. Hardcoded for
@@ -43,7 +47,10 @@ interface ActionBarLinkRowProps {
  * if a different domain is ever used. */
 const ONBOARDING_BASE_URL = "https://client-onboarding-tool.vercel.app";
 
-export default function ActionBarLinkRow({ token }: ActionBarLinkRowProps) {
+export default function ActionBarLinkRow({
+  token,
+  onAction,
+}: ActionBarLinkRowProps) {
   const url = `${ONBOARDING_BASE_URL}/onboarding/${token}`;
   const [copiedAt, setCopiedAt] = useState<number | null>(null);
   const showCopied = copiedAt !== null && Date.now() - copiedAt < 1400;
@@ -142,16 +149,11 @@ export default function ActionBarLinkRow({ token }: ActionBarLinkRowProps) {
         View form
       </a>
 
-      {/* Regenerate PIN — inert in Phase 2 (modal lands later) */}
+      {/* Regenerate PIN — wired in Phase 6 PR B */}
       <button
         type="button"
-        disabled
-        title="Coming in a later phase"
-        style={{
-          ...linkButtonStyle("gold"),
-          cursor: "not-allowed",
-          opacity: 0.85,
-        }}
+        onClick={() => onAction("regenerate_pin")}
+        style={linkButtonStyle("gold")}
       >
         <RefreshCcw />
         Regenerate PIN code
