@@ -46,6 +46,13 @@ export interface ProjectedSection {
    * the current form schema — `review` step is informational).
    * SectionRow suppresses the header pill when true. */
   isInformational: boolean;
+  /** `onboarding_answers.completed` for the section's answers
+   * row. `null` when no answers row exists for this step yet OR
+   * the section is informational (no row will ever exist for
+   * the `review` step). Phase 5 PR A: drives the Sections
+   * Completed modal's per-section state pill
+   * (complete / in progress / not started). */
+  completed: boolean | null;
 }
 
 // =============================================================
@@ -114,6 +121,7 @@ export function projectSections(
       updatedAt: isInformational ? null : (answersRow?.updated_at ?? null),
       missingCount,
       isInformational,
+      completed: isInformational ? null : (answersRow?.completed ?? null),
     };
   });
 }
