@@ -3,9 +3,18 @@
 // =============================================================
 //
 // Hand-copied from
-// `JLcilliers/client-onboarding-tool/src/lib/onboarding/steps-v2.ts`
-// at commit `a706174510ebbb46fe412785f6e2e28a05c592fe` (PR #12 merge,
-// 2026-05-20). Re-sync this file when that source changes.
+// `JLcilliers/client-onboarding-tool/src/lib/onboarding/steps-v2.ts`.
+//
+// Last verified against onboarding `main` HEAD
+//   `8cf24375b4aeffdc0fd4da6f5173eee6f3dddd82` (2026-05-21)
+// as part of Phase 7 PR A step A1. Git history confirms no
+// changes to `steps-v2.ts` between the original copy SHA
+// `a706174510ebbb46fe412785f6e2e28a05c592fe` (2026-05-20,
+// Phase 4 PR A) and this verified HEAD — the bearer-auth
+// commits in between touched unrelated files.
+//
+// Re-sync this file when that source changes. The full re-sync
+// recipe is in `operations-notes.md` entry 3.
 //
 // What's captured:
 //   - Field `name` (wire identifier, drives JSONB key lookup)
