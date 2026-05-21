@@ -12,7 +12,7 @@
 // The pill-text computation lives in the renderer, not on the
 // projection — see §5.3 of phase-4-plan.md.
 
-import { SECTION_CONFIGS, type SectionConfig, type SectionIconKey, type SectionNumber } from "./field-config";
+import { SECTION_CONFIGS, type FieldType, type SectionConfig, type SectionIconKey, type SectionNumber } from "./field-config";
 import { humanize, type HumanizeResult } from "./humanize";
 import type { OnboardingAnswerRow } from "./types";
 import type { StepKey } from "./step-keys";
@@ -34,6 +34,12 @@ export interface ProjectedField {
    * array, boolean) for the editor to round-trip — the
    * missing-pill projection is a display concern. */
   rawValue: unknown;
+  /** FieldType from field-config. Mirrors `fieldConfig.type ??
+   * "text"`. Phase 7 PR B uses it to dispatch the per-FieldType
+   * editor + per-FieldType client-side parsing before POST.
+   * Defaulted to "text" when field-config omits the type
+   * (humanize.ts uses the same default). */
+  type: FieldType;
 }
 
 export interface ProjectedSection {
@@ -119,6 +125,9 @@ export function projectSections(
         // `null` so the editor's initial content can rely on a
         // single empty-state sentinel.
         rawValue: rawValue ?? null,
+        // Phase 7 PR B: explicit type for the editor's
+        // per-FieldType dispatch. Same default as humanize.ts.
+        type: fieldConfig.type ?? "text",
       };
     });
 

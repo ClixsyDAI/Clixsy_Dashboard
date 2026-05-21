@@ -23,10 +23,14 @@ import SectionRow from "./SectionRow";
 
 interface ClientInformationAccordionProps {
   sections: ProjectedSection[];
+  /** Phase 7 PR B: threaded down to each SectionRow → SectionBody
+   * → FieldRow → EditableFieldValue for the field-edit POST. */
+  sessionId: string;
 }
 
 export default function ClientInformationAccordion({
   sections,
+  sessionId,
 }: ClientInformationAccordionProps) {
   const [openSteps, setOpenSteps] = useState<Set<string>>(() => new Set());
 
@@ -60,6 +64,7 @@ export default function ClientInformationAccordion({
             section={section}
             isOpen={openSteps.has(section.stepKey)}
             onToggle={() => toggle(section.stepKey)}
+            sessionId={sessionId}
           />
         ))}
       </div>

@@ -63,3 +63,40 @@
 
   color: var(--text-1);
 }
+
+/* =============================================================
+   Phase 7 PR B — FieldRow hover-revealed actions
+   =============================================================
+
+   FieldActions hosts the pencil + copy icons. Per spec §7 line
+   482's STOP-IF: hover must not shift the row's layout. The
+   pencil sits with `transform: translateX(-4px)` + `opacity: 0`
+   at rest; transitions to `translateX(0)` + `opacity: 0.85` on
+   row hover. The copy icon goes from 70% to 100% opacity.
+
+   Selectors are scoped to `.onboarding-tab .field-row` so they
+   don't bleed into any other workbook page that happens to use
+   a `.field-row` class.
+   ============================================================= */
+
+.onboarding-tab .field-row .field-actions__edit {
+  opacity: 0;
+  transform: translateX(-4px);
+  transition: opacity 150ms ease, transform 150ms ease;
+}
+
+.onboarding-tab .field-row:hover .field-actions__edit,
+.onboarding-tab .field-row .field-actions__edit:focus-visible {
+  opacity: 0.85;
+  transform: translateX(0);
+}
+
+.onboarding-tab .field-row .field-actions__copy {
+  opacity: 0.7;
+  transition: opacity 150ms ease;
+}
+
+.onboarding-tab .field-row:hover .field-actions__copy,
+.onboarding-tab .field-row .field-actions__copy:focus-visible {
+  opacity: 1;
+}

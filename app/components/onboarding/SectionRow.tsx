@@ -34,9 +34,17 @@ interface SectionRowProps {
   section: ProjectedSection;
   isOpen: boolean;
   onToggle: () => void;
+  /** Phase 7 PR B: threaded down to SectionBody → FieldRow →
+   * EditableFieldValue for the field-edit POST. */
+  sessionId: string;
 }
 
-export default function SectionRow({ section, isOpen, onToggle }: SectionRowProps) {
+export default function SectionRow({
+  section,
+  isOpen,
+  onToggle,
+  sessionId,
+}: SectionRowProps) {
   const SectionIcon = iconFor(section.iconKey);
   const bodyId = `onboarding-section-body-${section.stepKey}`;
   const sectionNumber = String(section.number).padStart(2, "0");
@@ -167,7 +175,13 @@ export default function SectionRow({ section, isOpen, onToggle }: SectionRowProp
         </span>
       </button>
 
-      <SectionBody fields={section.fields} id={bodyId} isOpen={isOpen} />
+      <SectionBody
+        fields={section.fields}
+        id={bodyId}
+        isOpen={isOpen}
+        sessionId={sessionId}
+        stepKey={section.stepKey}
+      />
     </div>
   );
 }
