@@ -16,6 +16,7 @@
 // function props can't cross the RSC server-to-client boundary,
 // same constraint Phase 5 hit with PipelineStageCard.
 
+import { getPrimaryContact } from "../../lib/onboarding/get-primary-contact";
 import type {
   ClientRow,
   OnboardingAnswerRow,
@@ -35,7 +36,7 @@ interface ActionBarProps {
   onAction: (kind: ActionBarModalKind) => void;
 }
 
-interface PrimaryContactView {
+interface IdentityView {
   name: string;
   email: string;
   phone: string;
@@ -48,10 +49,20 @@ export default function ActionBar({
   answers,
   onAction,
 }: ActionBarProps) {
-  const contact = pullPrimaryContact(answers, client);
-  const initials = computeInitials(contact.name, contact.email);
-  const identityLine = buildIdentityLine(session.status, contact);
-  const subLine = buildSubLine(contact);
+  // name + email + the email-fallback chain come from the shared
+  // helper. phone + title aren't on the helper (no other consumer
+  // needs them) so they stay extracted inline.
+  const primary = getPrimaryContact(answers, client, session.token);
+  const phoneTitle = pullPhoneTitle(answers);
+  const identity: IdentityView = {
+    name: primary.name,
+    email: primary.email,
+    phone: phoneTitle.phone,
+    title: phoneTitle.title,
+  };
+  const initials = computeInitials(identity.name, identity.email);
+  const identityLine = buildIdentityLine(session.status, identity);
+  const subLine = buildSubLine(identity);
 
   return (
     <div
@@ -168,31 +179,22 @@ export default function ActionBar({
 // =============================================================
 
 /**
- * Pull the primary contact info from the answers JSONB. The spec
- * (§4.2 / discovery contradiction §3) assumes flat `contact_*`
- * columns on the session row, but in reality those values live
- * inside `onboarding_answers.answers` for the row where
- * `step_key === 'primary_contact'`, under names
- * `main_contact_name`, `main_contact_email`, `main_contact_phone`,
- * `main_contact_title` (per onboarding repo audit §5).
- *
- * Fall back to `client.primary_contact_email` if the answers don't
- * have it yet (early-draft sessions). Returns "" for missing pieces
- * — the caller decides whether to display them.
+ * Pull the phone + title fields off the primary_contact answers
+ * row. name + email + email-fallback now come from the shared
+ * `getPrimaryContact()` helper (lib/onboarding/get-primary-contact),
+ * so the action bar's inline pull is narrowed to the two fields
+ * the helper deliberately doesn't expose (no other consumer needs
+ * them).
  */
-function pullPrimaryContact(
+function pullPhoneTitle(
   answers: OnboardingAnswerRow[],
-  client: ClientRow,
-): PrimaryContactView {
+): { phone: string; title: string } {
   const row = answers.find((a) => a.step_key === "primary_contact");
   const data = (row?.answers ?? {}) as Record<string, unknown>;
-
-  const name = asString(data.main_contact_name);
-  const email = asString(data.main_contact_email) || (client.primary_contact_email ?? "");
-  const phone = asString(data.main_contact_phone);
-  const title = asString(data.main_contact_title);
-
-  return { name, email, phone, title };
+  return {
+    phone: asString(data.main_contact_phone),
+    title: asString(data.main_contact_title),
+  };
 }
 
 function asString(v: unknown): string {
@@ -234,7 +236,7 @@ function computeInitials(name: string, email: string): string {
  */
 function buildIdentityLine(
   status: SessionStatus,
-  contact: PrimaryContactView,
+  contact: IdentityView,
 ): string {
   switch (status) {
     case "submitted":
@@ -252,7 +254,7 @@ function buildIdentityLine(
  * Missing pieces are collapsed (spec §10 edge case: no stray middle
  * dots when phone or title are empty).
  */
-function buildSubLine(contact: PrimaryContactView): string {
+function buildSubLine(contact: IdentityView): string {
   const pieces = [contact.email, contact.phone, contact.title].filter(Boolean);
   if (pieces.length === 0) return "";
   // Spaces around the middle dot match the spec example: "email · phone · title".
