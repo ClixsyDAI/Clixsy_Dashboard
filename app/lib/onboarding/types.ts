@@ -153,6 +153,38 @@ export interface OpenEventSummary {
 }
 
 /**
+ * Row shape for the Reminder History modal (spec §6.8, Phase 6.5
+ * PR A). The modal lists onboarding_reminders for the session,
+ * newest first, capped at REMINDERS_MODAL_LIMIT (see
+ * get-by-workbook-id.ts).
+ *
+ * `email_body` is deliberately NOT included. Per phase-6.5-plan.md
+ * §4.5 the modal renders only a flat list of single-line rows
+ * (badge + subject + relative time + sent-by) matching spec §6.8
+ * and the mockup exactly — no expand/collapse, no body rendering.
+ * Pulling the body into the wire payload would just inflate
+ * response size for nothing.
+ *
+ * If a future phase ever needs body-level access from the
+ * workbook (audit drill-down, CSV export of full bodies, etc.),
+ * the right move is a separate per-row fetch keyed by `id` —
+ * not widening this list type.
+ *
+ * `kind` is re-narrowed from `string` to the `ReminderKind`
+ * 2-value union (defined above) to match the migration 008 CHECK
+ * constraint.
+ */
+export interface ReminderHistoryRow {
+  id: string;
+  session_id: string;
+  kind: ReminderKind;
+  sent_by_label: string | null;
+  sent_at: string;
+  email_subject: string;
+  created_at: string;
+}
+
+/**
  * The payload returned by `getOnboardingByWorkbookId` and the
  * `/api/onboarding/by-workbook-id/[id]` route.
  *
@@ -163,6 +195,8 @@ export interface OpenEventSummary {
  *              (pipeline stepper).
  *   - Phase 4: + sections (client-information accordion).
  *   - Phase 5: + open_events (Open History modal, spec §6.1).
+ *   - Phase 6.5: + reminders + reminders_count (Reminder History
+ *     modal, spec §6.8).
  *
  * All additions are pre-computed server-side so PR B's UI
  * components don't have to derive state in the browser. Keeps
@@ -186,6 +220,15 @@ export interface OnboardingByWorkbookIdPayload {
   // step-2 badge still uses `open_events_count` (true total);
   // this list may be a capped subset.
   open_events: OpenEventSummary[];
+  // Phase 6.5 additions: ordered by sent_at DESC, capped at
+  // REMINDERS_MODAL_LIMIT (see get-by-workbook-id.ts). The
+  // reminder-strip's "Last reminder sent" line continues to
+  // read from `latest_reminder` above; this list drives the
+  // Reminder History modal. `reminders_count` is the true total
+  // (uncapped) so the modal can show a "Latest N of M" caveat
+  // when `count > list.length`.
+  reminders: ReminderHistoryRow[];
+  reminders_count: number;
 }
 
 // Re-export Json for callers that want to type JSONB blobs without

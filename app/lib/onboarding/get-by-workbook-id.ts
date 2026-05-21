@@ -30,6 +30,7 @@ import type {
   OnboardingReminderSummary,
   OnboardingSessionRow,
   OpenEventSummary,
+  ReminderHistoryRow,
 } from "./types";
 import { projectAccessChecklist } from "./access-checklist";
 import { derivePipelineState } from "./derive-state";
@@ -43,6 +44,15 @@ import { projectSections } from "./project-sections";
  * open clients' forms frequently, this is a one-line bump.
  */
 export const OPEN_EVENTS_MODAL_LIMIT = 50;
+
+/**
+ * Cap on rows returned for the Reminder History modal (spec §6.8).
+ * Same naming pattern as OPEN_EVENTS_MODAL_LIMIT — exported so a
+ * future Phase 8 CSV export can choose its own limit. The modal
+ * shows a "Latest N of M" caveat (driven by reminders_count) when
+ * the actual session count exceeds this cap.
+ */
+export const REMINDERS_MODAL_LIMIT = 50;
 
 // =============================================================
 // Result type — discriminated union the caller branches on
@@ -61,7 +71,9 @@ type Stage =
   | "answers_lookup"
   | "latest_reminder_lookup"
   | "open_events_count_lookup"
-  | "open_events_list_lookup";
+  | "open_events_list_lookup"
+  | "reminders_list_lookup"
+  | "reminders_count_lookup";
 
 // =============================================================
 // Fetcher
@@ -270,6 +282,53 @@ export async function getOnboardingByWorkbookId(
   }
   const openEvents = (openEventsListRes.data ?? []) as OpenEventSummary[];
 
+  // ── 5c. Reminders list for Reminder History modal (Phase 6.5) ─
+  // Newest-first list of every reminder sent for this session,
+  // capped at REMINDERS_MODAL_LIMIT. email_body is intentionally
+  // NOT pulled (see types.ts ReminderHistoryRow comment + plan
+  // §4.5): the modal renders a flat list of single-line rows,
+  // no expand/collapse, no body rendering.
+  const remindersListRes = await supabase
+    .from("onboarding_reminders")
+    .select("id, session_id, kind, sent_by_label, sent_at, email_subject, created_at")
+    .eq("session_id", session.id)
+    .order("sent_at", { ascending: false })
+    .limit(REMINDERS_MODAL_LIMIT);
+
+  if (remindersListRes.error) {
+    console.error(
+      `[get-by-workbook-id] reminders list failed for session_id=${session.id}:`,
+      remindersListRes.error,
+    );
+    return {
+      kind: "error",
+      stage: "reminders_list_lookup",
+      message: remindersListRes.error.message,
+    };
+  }
+  const reminders = (remindersListRes.data ?? []) as ReminderHistoryRow[];
+
+  // ── 5d. Reminders true total via head-count (Phase 6.5) ─────
+  // Mirrors the open_events_count pattern — drives the modal's
+  // "Latest N of M" caveat when count > list.length.
+  const remindersCountRes = await supabase
+    .from("onboarding_reminders")
+    .select("*", { count: "exact", head: true })
+    .eq("session_id", session.id);
+
+  if (remindersCountRes.error) {
+    console.error(
+      `[get-by-workbook-id] reminders count failed for session_id=${session.id}:`,
+      remindersCountRes.error,
+    );
+    return {
+      kind: "error",
+      stage: "reminders_count_lookup",
+      message: remindersCountRes.error.message,
+    };
+  }
+  const remindersCount = remindersCountRes.count ?? 0;
+
   // ── 6. Pure-function derivations (Phase 3 §4.1 + §4.2) ──────
   // No more network round-trips. These compute the projected
   // access-checklist view and the 6-step pipeline state from
@@ -296,6 +355,8 @@ export async function getOnboardingByWorkbookId(
     pipeline_state: pipelineState,
     sections,
     open_events: openEvents,
+    reminders,
+    reminders_count: remindersCount,
   };
   return { kind: "ok", payload };
 }
