@@ -21,7 +21,7 @@
 
 import type { OnboardingByWorkbookIdPayload } from "../../lib/onboarding/types";
 import ReminderStrip from "./ReminderStrip";
-import ActionBar from "./ActionBar";
+import ActionBarModals from "./ActionBarModals";
 import PipelineModals from "./PipelineModals";
 import ClientInformationAccordion from "./ClientInformationAccordion";
 
@@ -61,7 +61,18 @@ export default function OnboardingTabBody({ payload }: OnboardingTabBodyProps) {
       }}
     >
       <ReminderStrip latestReminder={latest_reminder} />
-      <ActionBar client={client} session={session} answers={answers} />
+      {/* Phase 6: ActionBarModals composes ActionBar + the three
+          action-bar modals (send form reminder, request missing
+          access, regenerate PIN). The state for which modal is
+          open lives in ActionBarModals itself. Successful Send
+          actions trigger router.refresh() inside the manager so
+          the reminder strip's "Last reminder sent" line updates. */}
+      <ActionBarModals
+        client={client}
+        session={session}
+        answers={answers}
+        accessChecklist={access_checklist}
+      />
       {/* Phase 5: PipelineModals composes PipelineStageCard +
           the four pipeline-circle modals (open history, sections
           completed, form complete, technical access). The state
