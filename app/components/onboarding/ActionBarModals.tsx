@@ -21,6 +21,7 @@
 import { useCallback, useState } from "react";
 import { useRouter } from "next/navigation";
 import type { AccessChecklistView } from "../../lib/onboarding/access-checklist";
+import { getPrimaryContact } from "../../lib/onboarding/get-primary-contact";
 import type {
   ClientRow,
   OnboardingAnswerRow,
@@ -30,11 +31,6 @@ import ActionBar from "./ActionBar";
 import RegeneratePinModal from "./RegeneratePinModal";
 import RequestMissingAccessModal from "./RequestMissingAccessModal";
 import SendFormReminderModal from "./SendFormReminderModal";
-
-/** Onboarding tool base URL for the resume_url construction.
- * Matches ActionBarLinkRow's constant — kept in sync manually
- * (small enough not to warrant a shared module). */
-const ONBOARDING_BASE_URL = "https://client-onboarding-tool.vercel.app";
 
 export type ActionBarModalKind =
   | "send_reminder"
@@ -58,11 +54,11 @@ export default function ActionBarModals({
   const [currentModal, setCurrentModal] =
     useState<ActionBarModalKind | null>(null);
 
-  // Contact for the modals. Pulled from the same answers source
-  // ActionBar uses (primary_contact step), with the client row
-  // as a fallback for email. resume_url is built from the session
-  // token — same shape as ActionBarLinkRow constructs.
-  const contact = pullContact(answers, client, session.token);
+  // Contact for the modals. Phase 6.5 PR B B6: comes from the
+  // shared getPrimaryContact() helper so ActionBar + this
+  // composer + the email-templates consumers all derive the same
+  // shape from the same source.
+  const contact = getPrimaryContact(answers, client, session.token);
 
   const openModal = useCallback((kind: ActionBarModalKind) => {
     setCurrentModal(kind);
@@ -116,35 +112,3 @@ export default function ActionBarModals({
   );
 }
 
-// =============================================================
-// Contact pull (same shape ActionBar uses, narrowed to modal needs)
-// =============================================================
-
-interface ModalContact {
-  first_name: string;
-  email: string;
-  resume_url: string;
-}
-
-function pullContact(
-  answers: OnboardingAnswerRow[],
-  client: ClientRow,
-  sessionToken: string,
-): ModalContact {
-  const row = answers.find((a) => a.step_key === "primary_contact");
-  const data = (row?.answers ?? {}) as Record<string, unknown>;
-
-  const name = asString(data.main_contact_name);
-  const first_name = name.split(/\s+/).filter(Boolean)[0] ?? "";
-  const email =
-    asString(data.main_contact_email) ||
-    client.primary_contact_email ||
-    "";
-  const resume_url = `${ONBOARDING_BASE_URL}/onboarding/${sessionToken}`;
-  return { first_name, email, resume_url };
-}
-
-function asString(v: unknown): string {
-  if (typeof v !== "string") return "";
-  return v.trim();
-}
