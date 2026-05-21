@@ -31,14 +31,23 @@
 //     fill is 100%; created → step 1 is technically "done" and
 //     no step is current, so fill is 0%.
 
+"use client";
+
 import type { PipelineStepState } from "../../lib/onboarding/derive-state";
 import PipelineStep from "./PipelineStep";
 
 interface PipelineStepperProps {
   steps: PipelineStepState[];
+  /** Phase 5 PR B: forwarded from PipelineStageCard. Called with
+   * the step's index (1-6) when a clickable circle is activated.
+   * PipelineModals owns the actual modal-open logic. */
+  onStepClick?: (stepIndex: PipelineStepState["index"]) => void;
 }
 
-export default function PipelineStepper({ steps }: PipelineStepperProps) {
+export default function PipelineStepper({
+  steps,
+  onStepClick,
+}: PipelineStepperProps) {
   const fillPct = computeFillPercent(steps);
 
   return (
@@ -82,7 +91,15 @@ export default function PipelineStepper({ steps }: PipelineStepperProps) {
         }}
       />
       {steps.map((step) => (
-        <PipelineStep key={step.index} step={step} />
+        <PipelineStep
+          key={step.index}
+          step={step}
+          onClick={
+            onStepClick && step.clickable
+              ? () => onStepClick(step.index)
+              : undefined
+          }
+        />
       ))}
     </div>
   );

@@ -1,41 +1,86 @@
+"use client";
+
 // =============================================================
 // PipelineStep — one circle + label + sub-label in the stepper
 // =============================================================
 //
 // Phase 3 PR B per phase-3-plan.md §5.3.
+// Phase 5 PR B per phase-5-plan.md §6.8 — adds optional onClick
+// so clickable circles (steps 2-5) open their modals via the
+// PipelineModals manager. The inert title="Modal opens in a
+// later phase" tooltip is gone when onClick is wired.
 //
-// Renders a single step from the PR-A-computed PipelineState.
-// Each step (index 1..6) has its own visual rules — the spec
-// §4.3 status table assigns different icons and "current" visuals
-// per step. The dispatch happens via a switch on `step.index`.
-//
-// Server component — no client-side interactivity in Phase 3.
-// The mockup's clickable circles for steps 2, 3, 4, 5 render
-// with `cursor: pointer` and a `title` attribute so the visual
-// affordance matches the mockup, but the click does nothing:
-// the modals (spec §6.1, §6.2, §6.3, §6.4) land in later phases.
-// The workbook is internal-only per audit §7, so the missing
-// keyboard / aria interactivity is acceptable for now; Phase 5/6
-// will add real handlers when the modals ship.
+// When step.clickable && onClick: renders as a proper <button>
+// with focus ring + aria-label for keyboard users. When non-
+// clickable (steps 1, 6) or onClick absent: renders as a div
+// with cursor: default and no tooltip.
 
 import type { PipelineStepState } from "../../lib/onboarding/derive-state";
 import { Check, Eye, Key, ListChecks } from "./icons";
 
 interface PipelineStepProps {
   step: PipelineStepState;
+  /** Phase 5 PR B: wired by PipelineModals via PipelineStepper.
+   * Only fires when step.clickable is true (steps 2-5). */
+  onClick?: () => void;
 }
 
-export default function PipelineStep({ step }: PipelineStepProps) {
+export default function PipelineStep({ step, onClick }: PipelineStepProps) {
   // The four "step has special icon when current/done" rules drive
   // the dot visual. Pending uses a uniform dashed-grey treatment.
   const dotVisual = step.state === "pending" ? "pending" : visualForIndex(step.index, step.state);
+  const isInteractive = step.clickable && !!onClick;
+
+  // Inner contents are identical between the button and div
+  // branches — extracted to keep the visual logic single-source.
+  const inner = (
+    <>
+      <StepDot visual={dotVisual} step={step} />
+      <StepLabel index={step.index} state={step.state} />
+      <StepSubLabel step={step} />
+    </>
+  );
+
+  if (isInteractive) {
+    return (
+      <button
+        type="button"
+        onClick={onClick}
+        aria-label={`Open ${STEP_LABELS[step.index]} details`}
+        style={{
+          // Reset button chrome so the visual matches the div
+          // branch (and the Phase 3 mockup).
+          all: "unset",
+          boxSizing: "border-box",
+          position: "relative",
+          zIndex: 1,
+          width: 42,
+          display: "flex",
+          flexDirection: "column",
+          alignItems: "center",
+          cursor: "pointer",
+          borderRadius: 4,
+        }}
+        onFocus={(e) => {
+          // Focus ring on the wrapper — gold outline keyboard
+          // users can see. The inner StepDot already has its own
+          // visual; this just makes the parent's focus state
+          // visible.
+          e.currentTarget.style.outline = "2px solid var(--gold)";
+          e.currentTarget.style.outlineOffset = "4px";
+        }}
+        onBlur={(e) => {
+          e.currentTarget.style.outline = "none";
+          e.currentTarget.style.outlineOffset = "0";
+        }}
+      >
+        {inner}
+      </button>
+    );
+  }
 
   return (
     <div
-      // The container is 42px wide (the same width as the dot).
-      // `align-items: center` on the parent stepper handles
-      // horizontal alignment; the labels below the dot are
-      // text-aligned center within this column.
       style={{
         position: "relative",
         zIndex: 1,
@@ -43,16 +88,10 @@ export default function PipelineStep({ step }: PipelineStepProps) {
         display: "flex",
         flexDirection: "column",
         alignItems: "center",
-        // Inert click affordance for steps 2-5. Matches the
-        // mockup `.step.clickable` rule. Phase 3 doesn't wire
-        // any handler — clicks do nothing.
-        cursor: step.clickable ? "pointer" : "default",
+        cursor: "default",
       }}
-      title={step.clickable ? "Modal opens in a later phase" : undefined}
     >
-      <StepDot visual={dotVisual} step={step} />
-      <StepLabel index={step.index} state={step.state} />
-      <StepSubLabel step={step} />
+      {inner}
     </div>
   );
 }
