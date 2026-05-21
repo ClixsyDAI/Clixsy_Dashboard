@@ -26,6 +26,14 @@ export interface ProjectedField {
   label: string;
   value: HumanizeResult;
   isMissingLike: boolean;
+  /** Raw wire value from `onboarding_answers.answers[name]`, as
+   * stored. Used by the Phase 7 inline editor as initial content
+   * + the rollback target. `null` when the JSONB key is absent
+   * for this field. Distinct from `value.kind === "missing_pill"`
+   * because rawValue carries the actual stored shape (string,
+   * array, boolean) for the editor to round-trip — the
+   * missing-pill projection is a display concern. */
+  rawValue: unknown;
 }
 
 export interface ProjectedSection {
@@ -105,6 +113,12 @@ export function projectSections(
         label: fieldConfig.label,
         value,
         isMissingLike: value.kind === "missing_pill",
+        // Phase 7 PR B: pass the raw JSONB value through so the
+        // inline editor has the original shape to round-trip.
+        // `undefined` when the key is absent — normalised to
+        // `null` so the editor's initial content can rely on a
+        // single empty-state sentinel.
+        rawValue: rawValue ?? null,
       };
     });
 
