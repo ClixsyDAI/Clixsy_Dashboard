@@ -29,10 +29,20 @@ import type {
   OnboardingReminderRow,
   OnboardingReminderSummary,
   OnboardingSessionRow,
+  OpenEventSummary,
 } from "./types";
 import { projectAccessChecklist } from "./access-checklist";
 import { derivePipelineState } from "./derive-state";
 import { projectSections } from "./project-sections";
+
+/**
+ * Cap on rows returned for the Open History modal (spec §6.1).
+ * Named constant — not inlined — so future consumers (Phase 8 CSV
+ * export) can pick their own limit without re-tracing where this
+ * value lives. If 50 turns out to be too low for power users who
+ * open clients' forms frequently, this is a one-line bump.
+ */
+export const OPEN_EVENTS_MODAL_LIMIT = 50;
 
 // =============================================================
 // Result type — discriminated union the caller branches on
@@ -50,7 +60,8 @@ type Stage =
   | "sessions_lookup"
   | "answers_lookup"
   | "latest_reminder_lookup"
-  | "open_events_count_lookup";
+  | "open_events_count_lookup"
+  | "open_events_list_lookup";
 
 // =============================================================
 // Fetcher
@@ -231,6 +242,34 @@ export async function getOnboardingByWorkbookId(
   // happen given the exact request, but guard the type system).
   const openEventsCount = openEventsRes.count ?? 0;
 
+  // ── 5b. Open events list for Open History modal (Phase 5) ───
+  // Separate query from the head-count above: the count drives the
+  // step 2 badge ("Opened {n}x") and is the true total, while this
+  // list is what the modal renders — capped at
+  // OPEN_EVENTS_MODAL_LIMIT so a session with thousands of opens
+  // doesn't pay for unbounded transfer. When the count exceeds the
+  // limit, the modal renders a "Latest N events" caveat (PR B
+  // concern; PR A just ships the data).
+  const openEventsListRes = await supabase
+    .from("onboarding_open_events")
+    .select("id, opened_at, user_agent, ip_hash")
+    .eq("session_id", session.id)
+    .order("opened_at", { ascending: false })
+    .limit(OPEN_EVENTS_MODAL_LIMIT);
+
+  if (openEventsListRes.error) {
+    console.error(
+      `[get-by-workbook-id] open events list failed for session_id=${session.id}:`,
+      openEventsListRes.error,
+    );
+    return {
+      kind: "error",
+      stage: "open_events_list_lookup",
+      message: openEventsListRes.error.message,
+    };
+  }
+  const openEvents = (openEventsListRes.data ?? []) as OpenEventSummary[];
+
   // ── 6. Pure-function derivations (Phase 3 §4.1 + §4.2) ──────
   // No more network round-trips. These compute the projected
   // access-checklist view and the 6-step pipeline state from
@@ -256,6 +295,7 @@ export async function getOnboardingByWorkbookId(
     access_checklist: accessChecklist,
     pipeline_state: pipelineState,
     sections,
+    open_events: openEvents,
   };
   return { kind: "ok", payload };
 }

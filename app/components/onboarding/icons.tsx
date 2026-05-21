@@ -299,6 +299,55 @@ export function ChevronDown(props: IconProps) {
 }
 
 // =============================================================
+// New in Phase 5 — modal close + Technical Access status tiles
+// =============================================================
+
+/** X / close. Modal close button (top-right of every Modal
+ * wrapper in Phase 5 PR B). */
+export function X(props: IconProps) {
+  return (
+    <svg {...baseProps(props)}>
+      <line x1="18" y1="6" x2="6" y2="18" />
+      <line x1="6" y1="6" x2="18" y2="18" />
+    </svg>
+  );
+}
+
+/** Alert triangle. Red tile in the Technical Access modal —
+ * `missing` status (spec §6.4). */
+export function AlertTriangle(props: IconProps) {
+  return (
+    <svg {...baseProps(props)}>
+      <path d="M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" />
+      <line x1="12" y1="9" x2="12" y2="13" />
+      <line x1="12" y1="17" x2="12.01" y2="17" />
+    </svg>
+  );
+}
+
+/** Help circle. Blue tile in the Technical Access modal —
+ * `needs_help` status. */
+export function HelpCircle(props: IconProps) {
+  return (
+    <svg {...baseProps(props)}>
+      <circle cx="12" cy="12" r="10" />
+      <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3" />
+      <line x1="12" y1="17" x2="12.01" y2="17" />
+    </svg>
+  );
+}
+
+/** Minus / horizontal line. Grey tile in the Technical Access
+ * modal — `na` (Not applicable) status. */
+export function Minus(props: IconProps) {
+  return (
+    <svg {...baseProps(props)}>
+      <line x1="5" y1="12" x2="19" y2="12" />
+    </svg>
+  );
+}
+
+// =============================================================
 // iconFor helper — section-icon dispatch
 // =============================================================
 //
