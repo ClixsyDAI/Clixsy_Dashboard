@@ -138,6 +138,21 @@ export type OnboardingReminderSummary = Omit<
 >;
 
 /**
+ * Open-event summary for the Open History modal (spec §6.1, Phase 5
+ * PR A). The modal lists onboarding_open_events for the session,
+ * newest first, capped at OPEN_EVENTS_MODAL_LIMIT (see
+ * get-by-workbook-id.ts). `ip_hash` is included in the projection
+ * but the modal itself doesn't render it — kept on the wire so
+ * later phases (audit log, abuse review) don't need a schema bump.
+ */
+export interface OpenEventSummary {
+  id: string;
+  opened_at: string;
+  user_agent: string | null;
+  ip_hash: string | null;
+}
+
+/**
  * The payload returned by `getOnboardingByWorkbookId` and the
  * `/api/onboarding/by-workbook-id/[id]` route.
  *
@@ -147,6 +162,7 @@ export type OnboardingReminderSummary = Omit<
  *   - Phase 3: + open_events_count, access_checklist, pipeline_state
  *              (pipeline stepper).
  *   - Phase 4: + sections (client-information accordion).
+ *   - Phase 5: + open_events (Open History modal, spec §6.1).
  *
  * All additions are pre-computed server-side so PR B's UI
  * components don't have to derive state in the browser. Keeps
@@ -165,6 +181,11 @@ export interface OnboardingByWorkbookIdPayload {
   pipeline_state: PipelineState;
   // Phase 4 addition:
   sections: ProjectedSection[];
+  // Phase 5 addition: ordered by opened_at DESC, capped at
+  // OPEN_EVENTS_MODAL_LIMIT (see get-by-workbook-id.ts). The
+  // step-2 badge still uses `open_events_count` (true total);
+  // this list may be a capped subset.
+  open_events: OpenEventSummary[];
 }
 
 // Re-export Json for callers that want to type JSONB blobs without
