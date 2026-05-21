@@ -20,7 +20,7 @@
 // HTTP-round-trips for its own render.
 
 import type { OnboardingByWorkbookIdPayload } from "../../lib/onboarding/types";
-import ReminderStrip from "./ReminderStrip";
+import ReminderStripModals from "./ReminderStripModals";
 import ActionBarModals from "./ActionBarModals";
 import PipelineModals from "./PipelineModals";
 import ClientInformationAccordion from "./ClientInformationAccordion";
@@ -45,6 +45,8 @@ export default function OnboardingTabBody({ payload }: OnboardingTabBodyProps) {
     open_events,
     open_events_count,
     access_checklist,
+    reminders,
+    reminders_count,
   } = payload;
 
   return (
@@ -60,7 +62,16 @@ export default function OnboardingTabBody({ payload }: OnboardingTabBodyProps) {
         // the outer width and just provide the inner spacing.
       }}
     >
-      <ReminderStrip latestReminder={latest_reminder} />
+      {/* Phase 6.5: ReminderStripModals composes ReminderStrip +
+          the Reminder History modal (spec §6.8). The strip's
+          "View reminder history →" button is wired here. No
+          contact-data pull at this level per phase-6.5-plan.md
+          Option B — the modal doesn't render contact info. */}
+      <ReminderStripModals
+        latestReminder={latest_reminder}
+        reminders={reminders}
+        remindersCount={reminders_count}
+      />
       {/* Phase 6: ActionBarModals composes ActionBar + the three
           action-bar modals (send form reminder, request missing
           access, regenerate PIN). The state for which modal is
