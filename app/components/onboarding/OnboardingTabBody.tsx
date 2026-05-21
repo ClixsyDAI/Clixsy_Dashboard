@@ -96,7 +96,7 @@ export default function OnboardingTabBody({ payload }: OnboardingTabBodyProps) {
         openEventsCount={open_events_count}
         accessChecklist={access_checklist}
       />
-      <ClientInformationAccordion sections={sections} />
+      <ClientInformationAccordion sections={sections} sessionId={session.id} />
     </div>
   );
 }

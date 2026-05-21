@@ -19,6 +19,7 @@
 // Pure server component — no state, no interactivity.
 
 import type { ProjectedField } from "../../lib/onboarding/project-sections";
+import type { StepKey } from "../../lib/onboarding/step-keys";
 import FieldRow from "./FieldRow";
 
 interface SectionBodyProps {
@@ -32,9 +33,19 @@ interface SectionBodyProps {
   /** Whether the parent header is currently in the open state.
    * Controls the body's `aria-hidden` and visibility. */
   isOpen: boolean;
+  /** Phase 7 PR B: threaded down to FieldRow's editor for the
+   * field-edit POST. */
+  sessionId: string;
+  stepKey: StepKey;
 }
 
-export default function SectionBody({ fields, id, isOpen }: SectionBodyProps) {
+export default function SectionBody({
+  fields,
+  id,
+  isOpen,
+  sessionId,
+  stepKey,
+}: SectionBodyProps) {
   return (
     <div
       id={id}
@@ -62,7 +73,12 @@ export default function SectionBody({ fields, id, isOpen }: SectionBodyProps) {
       ) : (
         <div>
           {fields.map((field) => (
-            <FieldRow key={field.name} field={field} />
+            <FieldRow
+              key={field.name}
+              field={field}
+              sessionId={sessionId}
+              stepKey={stepKey}
+            />
           ))}
         </div>
       )}

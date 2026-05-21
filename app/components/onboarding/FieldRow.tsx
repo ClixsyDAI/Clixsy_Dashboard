@@ -1,37 +1,58 @@
+"use client";
+
 // =============================================================
 // FieldRow — one question + answer in the accordion body
 // =============================================================
 //
-// Phase 4 PR B per phase-4-plan.md §6.5.
+// Phase 4 PR B per phase-4-plan.md §6.5 (read-only baseline).
+// Phase 7 PR B per phase-7-plan.md §6.4 — now hosts the inline
+// edit affordance + the copy icon, both hover-revealed.
 //
-// Renders a single accordion field-row. Dispatches on the
-// HumanizeResult's `kind` to produce the right visual:
+// Composition:
+//   [label column 280px fixed]    [<EditableFieldValue/> + <FieldActions/>]
 //
-//   text         → plain span in --text-2
-//   chip_list    → <ChipList /> (blue-tinted chips, multi-select)
-//   missing_pill → <MissingPill /> (amber, missing-like values)
-//   url          → <a> in --gold, target=_blank
-//   email        → <a href="mailto:…"> in --text-2
-//   tel          → <a href="tel:…"> in --text-2
+// State (Phase 7 additions):
+//   editTrigger — incremented by FieldActions's pencil click;
+//                 EditableFieldValue watches this prop to enter
+//                 editing state. Counter pattern instead of a
+//                 boolean so successive clicks (rare) still
+//                 trigger re-entry.
+//   isEditing   — set true by EditableFieldValue's onEditingChange
+//                 while editing/saving. Used to hide FieldActions
+//                 so the AM doesn't pencil-mash mid-edit.
 //
-// Layout per spec §4.4:
-//   [label column 280px fixed]    [value column flex-1]
+// Hover-reveal of FieldActions is CSS-driven via the `.field-row`
+// class — rules live in `app/styles/onboarding-tab.css` (extended
+// in this commit). The component itself is hover-state-free.
 //
-// Pure server component — no client-side state. Phase 7+ adds
-// the hover-reveal copy icon and edit pencil on the value side;
-// Phase 4 is read-only so we don't render those slots at all.
+// "use client" because FieldActions receives an onEdit function
+// prop — same RSC boundary constraint Phase 5 + 6 hit.
 
+import { useState } from "react";
+import type { HumanizeResult } from "../../lib/onboarding/humanize";
 import type { ProjectedField } from "../../lib/onboarding/project-sections";
-import MissingPill from "./MissingPill";
-import ChipList from "./ChipList";
+import type { StepKey } from "../../lib/onboarding/step-keys";
+import EditableFieldValue from "./EditableFieldValue";
+import FieldActions from "./FieldActions";
 
 interface FieldRowProps {
   field: ProjectedField;
+  /** Threaded from OnboardingTabBody → Accordion → SectionRow →
+   * SectionBody. Phase 7 PR B needs it for the field-edit POST. */
+  sessionId: string;
+  /** Threaded from SectionBody. The accordion section's step_key
+   * — the JSONB row key the edit writes to. */
+  stepKey: StepKey;
 }
 
-export default function FieldRow({ field }: FieldRowProps) {
+export default function FieldRow({ field, sessionId, stepKey }: FieldRowProps) {
+  const [editTrigger, setEditTrigger] = useState(0);
+  const [isEditing, setIsEditing] = useState(false);
+  const copyValue = computeCopyValue(field.value);
+
   return (
     <div
+      className="field-row"
       style={{
         display: "flex",
         alignItems: "flex-start",
@@ -64,73 +85,55 @@ export default function FieldRow({ field }: FieldRowProps) {
           // can be 1000+ chars. Force wrap rather than overflow.
           overflowWrap: "anywhere",
           wordBreak: "break-word",
+          display: "flex",
+          alignItems: "flex-start",
+          gap: 12,
         }}
       >
-        <FieldValue value={field.value} />
+        <div style={{ flex: 1, minWidth: 0 }}>
+          <EditableFieldValue
+            sessionId={sessionId}
+            stepKey={stepKey}
+            fieldKey={field.name}
+            fieldType={field.type}
+            display={field.value}
+            rawValue={field.rawValue}
+            editTrigger={editTrigger}
+            onEditingChange={setIsEditing}
+          />
+        </div>
+        <FieldActions
+          onEdit={() => setEditTrigger((n) => n + 1)}
+          copyValue={copyValue}
+          suppressed={isEditing}
+        />
       </div>
     </div>
   );
 }
 
 // =============================================================
-// Value dispatch
+// Copy-value derivation
 // =============================================================
 
-function FieldValue({ value }: { value: ProjectedField["value"] }) {
+/**
+ * Convert a HumanizeResult to the plain-text representation that
+ * gets written to the clipboard. Per spec §4.4 line 478 the copy
+ * is "the value's plain-text representation".
+ *
+ * Returns null for missing-pill fields — no real value to copy;
+ * the FieldActions component suppresses the copy button entirely.
+ */
+function computeCopyValue(value: HumanizeResult): string | null {
   switch (value.kind) {
     case "text":
-      return <span>{value.display}</span>;
-
-    case "chip_list":
-      return <ChipList chips={value.chips} />;
-
-    case "missing_pill":
-      return <MissingPill>{value.display}</MissingPill>;
-
     case "url":
-      return (
-        <a
-          href={value.href}
-          target="_blank"
-          rel="noopener noreferrer"
-          style={{
-            color: "var(--gold)",
-            textDecoration: "none",
-            wordBreak: "break-all",
-          }}
-        >
-          {value.display}
-        </a>
-      );
-
     case "email":
-      return (
-        <a
-          href={value.href}
-          style={{
-            color: "var(--text-2)",
-            textDecoration: "underline",
-            textDecorationColor: "var(--border-strong)",
-            textUnderlineOffset: 2,
-          }}
-        >
-          {value.display}
-        </a>
-      );
-
     case "tel":
-      return (
-        <a
-          href={value.href}
-          style={{
-            color: "var(--text-2)",
-            textDecoration: "underline",
-            textDecorationColor: "var(--border-strong)",
-            textUnderlineOffset: 2,
-          }}
-        >
-          {value.display}
-        </a>
-      );
+      return value.display;
+    case "chip_list":
+      return value.chips.join(", ");
+    case "missing_pill":
+      return null;
   }
 }
