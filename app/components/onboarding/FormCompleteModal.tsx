@@ -14,13 +14,16 @@
 // opens and shows the structure with "Not yet submitted" /
 // "Not assigned" / "Not rated" copy).
 
-import type { OnboardingSessionRow } from "../../lib/onboarding/types";
+import type {
+  OnboardingSessionRow,
+  RedactedOnboardingSession,
+} from "../../lib/onboarding/types";
 import Modal from "./Modal";
 
 interface FormCompleteModalProps {
   isOpen: boolean;
   onClose: () => void;
-  session: OnboardingSessionRow;
+  session: RedactedOnboardingSession;
 }
 
 export default function FormCompleteModal({

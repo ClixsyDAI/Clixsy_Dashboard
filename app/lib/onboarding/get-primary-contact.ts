@@ -11,17 +11,26 @@
 // implicit shape contract. Extract before a fourth surfaces and
 // drifts.
 //
-// Three consumers adopt this in the same commit:
+// Phase 8 proper PR B: this helper no longer constructs
+// `resume_url`. The session token is no longer in the by-workbook-
+// id payload (redacted per phase-8-proper-plan.md §3.4) so the
+// URL can't be built here. Consumers that need the URL fetch the
+// token from /api/onboarding/sessions/[id]/token on user intent
+// and build the URL themselves. The `ONBOARDING_BASE_URL` constant
+// is the single source of truth for the public-form domain — it
+// now lives in get-onboarding-url.ts (sibling), exported as a
+// helper plus a constant for reuse.
+//
+// Three consumers adopt this in the same commit (post-PR-B):
 //   1. ActionBar — for `name` + `email`. phone + title stay
 //      inline (they're not in this helper since no other consumer
 //      needs them).
-//   2. ActionBarModals — for `first_name` + `email` +
-//      `resume_url`. Replaces the internal `pullContact()`.
+//   2. ActionBarModals — for `first_name` + `email`. The
+//      `resume_url` field is no longer here; SendFormReminderModal
+//      fetches the token on modal-open and builds the URL itself.
 //   3. The email-template consumers (SendFormReminderModal,
-//      RequestMissingAccessModal) — they receive their pre-shaped
-//      contact prop from ActionBarModals, which now builds the
-//      shape from this helper's output. Same end-result, single
-//      derivation upstream.
+//      RequestMissingAccessModal) — they receive the `resume_url`
+//      from the modal that fetched it, not from this helper.
 //
 // OnboardingTabBody is intentionally NOT a consumer per Option B
 // of the phase-6.5 plan. The Reminder History modal doesn't
@@ -50,10 +59,6 @@
 
 import type { ClientRow, OnboardingAnswerRow } from "./types";
 
-/** Onboarding tool base URL. Same constant ActionBarLinkRow and
- * ActionBarModals used independently before this extraction. */
-const ONBOARDING_BASE_URL = "https://client-onboarding-tool.vercel.app";
-
 export interface PrimaryContact {
   /** Full name as extracted from main_contact_name. Empty string
    * when missing. */
@@ -64,9 +69,6 @@ export interface PrimaryContact {
   /** Email with client.primary_contact_email fallback. Empty
    * string when neither source yields a value. */
   email: string;
-  /** Public form URL — `${ONBOARDING_BASE_URL}/onboarding/${token}`.
-   * Always populated (depends only on sessionToken). */
-  resume_url: string;
   /** True when email was derived from a real source (either the
    * answers row or the client column). False when fallback empty
    * string. Call sites use this to gate Send buttons or pick
@@ -77,7 +79,6 @@ export interface PrimaryContact {
 export function getPrimaryContact(
   answers: OnboardingAnswerRow[],
   client: ClientRow,
-  sessionToken: string,
 ): PrimaryContact {
   const row = answers.find((a) => a.step_key === "primary_contact");
   const data = (row?.answers ?? {}) as Record<string, unknown>;
@@ -92,7 +93,6 @@ export function getPrimaryContact(
     name,
     first_name,
     email,
-    resume_url: `${ONBOARDING_BASE_URL}/onboarding/${sessionToken}`,
     hasEmail: email !== "",
   };
 }

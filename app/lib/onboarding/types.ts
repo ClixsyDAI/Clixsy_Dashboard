@@ -98,6 +98,18 @@ export type OnboardingSessionRow = Omit<
   flow_version: SessionFlowVersion;
 };
 
+/**
+ * Phase 8 proper PR B: the variant that ships in the
+ * `OnboardingByWorkbookIdPayload`. The `token` field is omitted
+ * here because it's a credential (paired with the 6-digit PIN it
+ * grants public access to the onboarding form). Consumers that
+ * actually need the token call the dedicated endpoint at
+ * `/api/onboarding/sessions/[id]/token` and accept an audit row
+ * being written for each access. See phase-8-proper-plan.md §3.4
+ * + §5.
+ */
+export type RedactedOnboardingSession = Omit<OnboardingSessionRow, "token">;
+
 /** `onboarding_answers` row — codegen as-is. */
 export type OnboardingAnswerRow =
   Database["public"]["Tables"]["onboarding_answers"]["Row"];
@@ -206,7 +218,10 @@ export interface ReminderHistoryRow {
  */
 export interface OnboardingByWorkbookIdPayload {
   client: ClientRow;
-  session: OnboardingSessionRow;
+  // Phase 8 proper PR B: token redacted from the default response
+  // shape (it's a credential). Consumers needing the token call
+  // /api/onboarding/sessions/[id]/token explicitly.
+  session: RedactedOnboardingSession;
   answers: OnboardingAnswerRow[];
   latest_reminder: OnboardingReminderSummary | null;
   // Phase 3 additions:

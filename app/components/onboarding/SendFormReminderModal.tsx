@@ -4,20 +4,30 @@
 // SendFormReminderModal — spec §6.5
 // =============================================================
 //
-// Phase 6 PR B step B2 per phase-6-plan.md §6.1.
+// Phase 6 PR B step B2 per phase-6-plan.md §6.1, refactored in
+// Phase 8 proper PR B per phase-8-proper-plan.md §5.
 //
 // Triggered from the action bar's "Send form reminder" button.
-// Shows an email-preview pane built from
-// lib/onboarding/email-templates.ts (PR A) and a Send button.
-// Send POSTs to /api/onboarding/reminders (PR A), shows a 900ms
-// "Reminder sent" pulse, then closes via onSent() so the parent
-// can router.refresh() the reminder strip.
+// Shows an email-preview pane and a Send button. Send POSTs to
+// /api/onboarding/reminders, shows a 900ms "Reminder sent"
+// pulse, then closes via onSent() so the parent can
+// router.refresh() the reminder strip.
 //
-// Phase 6 does NOT send an email. The DB row is written with
-// the email subject + body; outbound delivery is Phase 9+.
+// Phase 8 proper change: the session token is no longer in the
+// by-workbook-id payload (redacted to reduce credential surface).
+// The modal now fetches the token from
+// /api/onboarding/sessions/[id]/token on modal-open, builds the
+// resume URL client-side, and renders the preview. Each modal-
+// open writes one onboarding_audit_events row with source
+// "send_reminder_modal" — even if the admin cancels without
+// sending, the access is logged (the token left the database).
+//
+// The Send POST shape and the email rendering are unchanged from
+// Phase 6.
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { renderFormReminderEmail } from "../../lib/onboarding/email-templates";
+import { buildOnboardingUrl } from "../../lib/onboarding/onboarding-url";
 import EmailPreview from "./EmailPreview";
 import Modal from "./Modal";
 
@@ -34,9 +44,14 @@ interface SendFormReminderModalProps {
   contact: {
     first_name: string;
     email: string;
-    resume_url: string;
   };
 }
+
+type FetchState =
+  | { kind: "idle" }
+  | { kind: "loading" }
+  | { kind: "ok"; resumeUrl: string }
+  | { kind: "error"; message: string };
 
 type SendState =
   | { kind: "idle" }
@@ -51,19 +66,91 @@ export default function SendFormReminderModal({
   sessionId,
   contact,
 }: SendFormReminderModalProps) {
-  const [state, setState] = useState<SendState>({ kind: "idle" });
+  const [fetchState, setFetchState] = useState<FetchState>({ kind: "idle" });
+  const [sendState, setSendState] = useState<SendState>({ kind: "idle" });
 
-  const { subject, body } = renderFormReminderEmail({
-    first_name: contact.first_name,
-    resume_url: contact.resume_url,
-  });
+  // Fetch the token once per modal-open. The useEffect dep on
+  // isOpen + sessionId means re-opens (close→open again) re-
+  // fetch, which is correct — each open is an independent access
+  // that should write its own audit row. We don't cache across
+  // opens: the credential surface goal is "minimum lifetime in
+  // browser", and re-fetching also gives the operator audit
+  // visibility into every preview attempt.
+  useEffect(() => {
+    if (!isOpen) {
+      // Reset state on close so the next open starts fresh.
+      setFetchState({ kind: "idle" });
+      setSendState({ kind: "idle" });
+      return;
+    }
+    let cancelled = false;
+    setFetchState({ kind: "loading" });
+    (async () => {
+      try {
+        const adminToken = sessionStorage.getItem("admin_token");
+        if (!adminToken) {
+          if (cancelled) return;
+          setFetchState({
+            kind: "error",
+            message:
+              "Not signed in. Open /admin in this tab to sign in, then try again.",
+          });
+          return;
+        }
+        const res = await fetch(
+          `/api/onboarding/sessions/${sessionId}/token`,
+          {
+            method: "POST",
+            headers: {
+              Authorization: `Bearer ${adminToken}`,
+              "Content-Type": "application/json",
+            },
+            body: JSON.stringify({ source: "send_reminder_modal" }),
+          },
+        );
+        if (cancelled) return;
+        if (!res.ok) {
+          const j = (await res.json().catch(() => ({}))) as {
+            error?: string;
+          };
+          setFetchState({
+            kind: "error",
+            message:
+              j.error ?? `Request failed: ${res.status} ${res.statusText}`,
+          });
+          return;
+        }
+        const { token } = (await res.json()) as { token: string };
+        if (cancelled) return;
+        setFetchState({
+          kind: "ok",
+          resumeUrl: buildOnboardingUrl(token),
+        });
+      } catch (err) {
+        if (cancelled) return;
+        setFetchState({
+          kind: "error",
+          message:
+            err instanceof Error ? err.message : "Failed to fetch onboarding link",
+        });
+      }
+    })();
+    return () => {
+      cancelled = true;
+    };
+  }, [isOpen, sessionId]);
 
   const handleSend = async () => {
-    setState({ kind: "sending" });
+    if (fetchState.kind !== "ok") return;
+    const { subject, body } = renderFormReminderEmail({
+      first_name: contact.first_name,
+      resume_url: fetchState.resumeUrl,
+    });
+    setSendState({ kind: "sending" });
     try {
-      const token = sessionStorage.getItem("admin_token");
-      if (!token) {
-        setState({
+      const adminToken = sessionStorage.getItem("admin_token");
+      if (!adminToken) {
+        setSendState({
           kind: "error",
           message:
             "Not signed in. Open /admin in this tab to sign in, then try again.",
@@ -73,7 +160,7 @@ export default function SendFormReminderModal({
       const res = await fetch("/api/onboarding/reminders", {
         method: "POST",
         headers: {
-          Authorization: `Bearer ${token}`,
+          Authorization: `Bearer ${adminToken}`,
           "Content-Type": "application/json",
         },
         body: JSON.stringify({
@@ -84,23 +171,22 @@ export default function SendFormReminderModal({
         }),
       });
       if (!res.ok) {
-        const j = await res.json().catch(() => ({}));
-        setState({
+        const j = (await res.json().catch(() => ({}))) as { error?: string };
+        setSendState({
           kind: "error",
           message:
-            j.error ??
-            `Request failed: ${res.status} ${res.statusText}`,
+            j.error ?? `Request failed: ${res.status} ${res.statusText}`,
         });
         return;
       }
       // 900ms "Reminder sent" pulse, then notify parent.
-      setState({ kind: "pulse" });
+      setSendState({ kind: "pulse" });
       window.setTimeout(() => {
         onSent();
-        setState({ kind: "idle" });
+        setSendState({ kind: "idle" });
       }, 900);
     } catch (err) {
-      setState({
+      setSendState({
         kind: "error",
         message: err instanceof Error ? err.message : "Network error",
       });
@@ -108,12 +194,67 @@ export default function SendFormReminderModal({
   };
 
   const handleClose = () => {
-    if (state.kind === "sending" || state.kind === "pulse") return;
-    setState({ kind: "idle" });
+    if (sendState.kind === "sending" || sendState.kind === "pulse") return;
     onClose();
   };
 
-  const isBusy = state.kind === "sending" || state.kind === "pulse";
+  const isBusy = sendState.kind === "sending" || sendState.kind === "pulse";
+  const canSend =
+    fetchState.kind === "ok" && Boolean(contact.email) && !isBusy;
+
+  // Build preview content based on fetchState. The render-time
+  // subject + body are only meaningful when we have a real URL —
+  // before that, show a placeholder card so the modal layout
+  // doesn't reflow when the fetch resolves.
+  const previewContent = (() => {
+    if (fetchState.kind === "loading" || fetchState.kind === "idle") {
+      return (
+        <div
+          style={{
+            padding: 16,
+            background: "var(--surface-3)",
+            border: "1px solid var(--border)",
+            borderRadius: "var(--radius-sm)",
+            color: "var(--text-3)",
+            fontSize: 12,
+          }}
+        >
+          Loading email preview…
+        </div>
+      );
+    }
+    if (fetchState.kind === "error") {
+      return (
+        <div
+          role="alert"
+          style={{
+            padding: 16,
+            background: "var(--red-soft)",
+            border: "1px solid var(--red)",
+            borderRadius: "var(--radius-sm)",
+            color: "var(--red)",
+            fontSize: 12,
+            lineHeight: 1.4,
+          }}
+        >
+          Couldn't fetch the onboarding link. {fetchState.message}
+        </div>
+      );
+    }
+    const { subject, body } = renderFormReminderEmail({
+      first_name: contact.first_name,
+      resume_url: fetchState.resumeUrl,
+    });
+    return (
+      <EmailPreview
+        from={FROM_ADDRESS}
+        to={contact.email || "(no email on file)"}
+        subject={subject}
+        body={body}
+        ctaLabels={["Resume your form ->"]}
+      />
+    );
+  })();
 
   return (
     <Modal
@@ -139,11 +280,11 @@ export default function SendFormReminderModal({
           <FooterButton
             variant="gold"
             onClick={handleSend}
-            disabled={isBusy || !contact.email}
+            disabled={!canSend}
           >
-            {state.kind === "sending"
+            {sendState.kind === "sending"
               ? "Sending…"
-              : state.kind === "pulse"
+              : sendState.kind === "pulse"
                 ? "Reminder sent ✓"
                 : "Send reminder"}
           </FooterButton>
@@ -166,15 +307,9 @@ export default function SendFormReminderModal({
         the form.
       </p>
 
-      <EmailPreview
-        from={FROM_ADDRESS}
-        to={contact.email || "(no email on file)"}
-        subject={subject}
-        body={body}
-        ctaLabels={["Resume your form ->"]}
-      />
+      {previewContent}
 
-      {state.kind === "error" && (
+      {sendState.kind === "error" && (
         <div
           role="alert"
           style={{
@@ -187,7 +322,7 @@ export default function SendFormReminderModal({
             fontSize: 12,
           }}
         >
-          {state.message}
+          {sendState.message}
         </div>
       )}
     </Modal>

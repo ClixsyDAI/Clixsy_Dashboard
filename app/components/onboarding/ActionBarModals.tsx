@@ -25,7 +25,7 @@ import { getPrimaryContact } from "../../lib/onboarding/get-primary-contact";
 import type {
   ClientRow,
   OnboardingAnswerRow,
-  OnboardingSessionRow,
+  RedactedOnboardingSession,
 } from "../../lib/onboarding/types";
 import ActionBar from "./ActionBar";
 import RegeneratePinModal from "./RegeneratePinModal";
@@ -39,7 +39,7 @@ export type ActionBarModalKind =
 
 interface ActionBarModalsProps {
   client: ClientRow;
-  session: OnboardingSessionRow;
+  session: RedactedOnboardingSession;
   answers: OnboardingAnswerRow[];
   accessChecklist: AccessChecklistView;
 }
@@ -58,7 +58,7 @@ export default function ActionBarModals({
   // shared getPrimaryContact() helper so ActionBar + this
   // composer + the email-templates consumers all derive the same
   // shape from the same source.
-  const contact = getPrimaryContact(answers, client, session.token);
+  const contact = getPrimaryContact(answers, client);
 
   const openModal = useCallback((kind: ActionBarModalKind) => {
     setCurrentModal(kind);

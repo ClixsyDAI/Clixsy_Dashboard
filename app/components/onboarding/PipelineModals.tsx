@@ -38,7 +38,7 @@ import type { AccessChecklistView } from "../../lib/onboarding/access-checklist"
 import type { PipelineState } from "../../lib/onboarding/derive-state";
 import type { ProjectedSection } from "../../lib/onboarding/project-sections";
 import type {
-  OnboardingSessionRow,
+  RedactedOnboardingSession,
   OpenEventSummary,
 } from "../../lib/onboarding/types";
 import FormCompleteModal from "./FormCompleteModal";
@@ -67,7 +67,7 @@ const STEP_TO_MODAL: Partial<Record<number, PipelineModalKind>> = {
 
 interface PipelineModalsProps {
   pipelineState: PipelineState;
-  session: OnboardingSessionRow;
+  session: RedactedOnboardingSession;
   sections: ProjectedSection[];
   openEvents: OpenEventSummary[];
   openEventsCount: number;
