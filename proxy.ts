@@ -97,6 +97,7 @@ const ALLOW_PREFIXES: readonly string[] = [
   "/api/auth/",
   "/api/sync/",
   "/share/",
+  "/api/share/",
   "/_next/",
 ];
 
