@@ -42,6 +42,7 @@
 
 import { createHash } from "node:crypto";
 import { NextResponse, type NextRequest } from "next/server";
+import { validateReturnPath } from "./app/lib/return-url";
 
 // Matcher tells Next.js which paths to invoke the proxy on. We opt
 // IN only the nine PII-exposing surfaces. Anything not listed here
@@ -153,6 +154,25 @@ export function proxy(req: NextRequest) {
     );
   }
 
+  // Phase 8 proper PR A: carry the original path through sign-in so
+  // AMs clicking a Slack /client/<id> link end up on the right page
+  // after auth. The path is strictly validated by the shared helper
+  // — only paths under one of the gated prefixes (the matcher list)
+  // are appended as ?return=. Query string + fragment are dropped
+  // upstream (we never set them on the redirect target).
+  //
+  // Open-redirect defence:
+  //   1. Path-only (no query, no fragment) — we never put them in
+  //      the param, and the validator rejects any input that does.
+  //   2. The validator's whitelist + encoding checks (see
+  //      app/lib/return-url.ts §3.2 of the plan) reject any
+  //      attempt to forge //evil.com, http://..., javascript:, etc.
+  //   3. /admin re-validates the param after sign-in before
+  //      router.replace'ing — neither side trusts the other.
   const adminUrl = new URL("/admin", req.url);
+  const returnCandidate = validateReturnPath(path);
+  if (returnCandidate.ok) {
+    adminUrl.searchParams.set("return", returnCandidate.path);
+  }
   return NextResponse.redirect(adminUrl);
 }

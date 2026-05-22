@@ -1,7 +1,9 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useState } from "react";
+import { useRouter } from "next/navigation";
 import Link from "next/link";
+import { validateReturnPath } from "../lib/return-url";
 
 /* ── Types ──────────────────────────────────────────────── */
 interface Project {
@@ -36,11 +38,31 @@ function color(name: string) {
 
 /* ── Main Page ──────────────────────────────────────────── */
 export default function AdminPage() {
+  const router = useRouter();
   const [authed, setAuthed] = useState(false);
   const [token, setToken] = useState("");
   const [password, setPassword] = useState("");
   const [authError, setAuthError] = useState("");
   const [loading, setLoading] = useState(true);
+
+  // Phase 8 proper PR A: if /admin was opened with ?return=<path>,
+  // capture it and follow once auth succeeds. Re-validated via the
+  // shared helper (defence in depth: never trust a client-side
+  // param). window.location.search is used instead of useSearchParams
+  // to avoid the Next.js 16 Suspense-boundary requirement on the
+  // hook — this component is already "use client" and this read
+  // happens once on mount, no rerender on param change needed.
+  const followReturnOrDefault = useCallback(() => {
+    if (typeof window === "undefined") return;
+    const raw = new URLSearchParams(window.location.search).get("return");
+    const result = validateReturnPath(raw);
+    if (result.ok) {
+      router.replace(result.path);
+    }
+    // If invalid or absent: fall through to the existing
+    // AdminDashboard render. The page will show the admin
+    // dashboard as it did before.
+  }, [router]);
 
   // On mount, check for an existing session
   useEffect(() => {
@@ -52,13 +74,18 @@ export default function AdminPage() {
           if (d.valid) {
             setToken(saved);
             setAuthed(true);
+            // Existing-session branch: if there's a return param,
+            // follow it now without re-prompting. The GET above
+            // refreshed the admin_token cookie (PR #20 behaviour),
+            // so the proxy will let us through on the new page.
+            followReturnOrDefault();
           }
         })
         .finally(() => setLoading(false));
     } else {
       setLoading(false);
     }
-  }, []);
+  }, [followReturnOrDefault]);
 
   const handleLogin = async () => {
     setAuthError("");
@@ -72,6 +99,10 @@ export default function AdminPage() {
       sessionStorage.setItem("admin_token", t);
       setToken(t);
       setAuthed(true);
+      // Fresh sign-in branch: POST set the admin_token cookie in
+      // the response. Following the return param now lands the
+      // user on the page they originally tried to reach.
+      followReturnOrDefault();
     } else {
       setAuthError("Incorrect password");
     }
