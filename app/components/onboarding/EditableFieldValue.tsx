@@ -91,17 +91,36 @@ export default function EditableFieldValue({
   const editorRef = useRef<HTMLSpanElement>(null);
 
   // Imperative open: when the parent's pencil click bumps
-  // editTrigger, enter editing with the rawValue serialised
-  // to the editor's text representation.
+  // editTrigger, enter editing.
+  //
+  // Seed the editor with the OPTIMISTIC value if a previous save
+  // landed one (the user's last-typed text); otherwise serialise
+  // the prop's rawValue. This matters because the prop doesn't
+  // refresh until next page render (no router.refresh per plan
+  // §6.8), so without this the editor would re-open with the
+  // pre-edit raw value instead of what's currently displayed.
   useEffect(() => {
     if (editTrigger === 0) return; // initial render, no auto-open
     if (state.kind !== "idle" && state.kind !== "saved") return;
-    const initial = serializeRawForEditor(rawValue, fieldType);
+    const initial =
+      optimisticDisplay !== null
+        ? optimisticDisplay
+        : serializeRawForEditor(rawValue, fieldType);
     setState({ kind: "editing", typed: initial });
     onEditingChange?.(true);
     // Focus + cursor-at-end happens in the layout effect below
     // once the contenteditable span has rendered.
   }, [editTrigger]); // intentionally only editTrigger — other deps would re-open
+
+  // Invalidate the optimistic display when the prop changes —
+  // i.e., when next page render arrives carrying the fresh DB
+  // value. From that point the prop is authoritative and the
+  // local optimistic is redundant. Without this, a router.refresh
+  // (Phase 6 send actions) or full reload would render the prop
+  // BUT the stale optimistic would still show.
+  useEffect(() => {
+    setOptimisticDisplay(null);
+  }, [display]);
 
   // Place cursor at end of content when entering editing.
   useEffect(() => {
@@ -123,10 +142,14 @@ export default function EditableFieldValue({
       onEditingChange?.(false);
     }
     if (state.kind === "saved") {
-      // Auto-clear the saved pulse after 900ms.
+      // Auto-clear the saved pulse after 900ms — transitions back
+      // to idle. **optimisticDisplay is intentionally NOT cleared
+      // here.** Per plan §6.8 the optimistic value sticks until
+      // the prop changes (next page render), so the idle render
+      // below can fall back to it instead of the stale rawValue.
+      // The [display] useEffect above is the invalidator.
       const timer = window.setTimeout(() => {
         setState({ kind: "idle" });
-        setOptimisticDisplay(null);
       }, 900);
       return () => window.clearTimeout(timer);
     }
@@ -185,8 +208,11 @@ export default function EditableFieldValue({
   };
 
   const handleCancel = () => {
+    // **optimisticDisplay is intentionally NOT cleared here.**
+    // Cancel means "abandon THIS edit attempt"; it shouldn't
+    // wipe out a previously-saved optimistic value. The [display]
+    // invalidator clears optimistic when the prop catches up.
     setState({ kind: "idle" });
-    setOptimisticDisplay(null);
   };
 
   const handleDismissError = () => {
