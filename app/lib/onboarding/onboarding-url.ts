@@ -1,0 +1,29 @@
+// =============================================================
+// onboarding-url — public-form URL construction
+// =============================================================
+//
+// Phase 8 proper PR B: extracted from get-primary-contact when the
+// session token was redacted from the by-workbook-id payload.
+// Multiple consumers now need to build the URL after fetching the
+// token from /api/onboarding/sessions/[id]/token:
+//
+//   1. ActionBarLinkRow — Copy + View on-click handlers
+//   2. SendFormReminderModal — email-preview render after modal-open fetch
+//
+// Single constant + builder keeps the URL shape consistent. If
+// the onboarding-tool ever moves to a different domain or the
+// path prefix changes, this is the only place to update.
+
+/** Public-form base URL. Phase 2 originally inlined this in two
+ * components; phase 6.5 deduped into get-primary-contact; phase 8
+ * proper hoists again now that get-primary-contact no longer
+ * builds the URL. */
+export const ONBOARDING_BASE_URL = "https://client-onboarding-tool.vercel.app";
+
+/** Build the public-form resume URL from a session token. The
+ * token must come from the dedicated /api/onboarding/sessions/[id]
+ * /token endpoint (which audits each access) — NEVER from the
+ * by-workbook-id payload (which redacts the token in Phase 8). */
+export function buildOnboardingUrl(token: string): string {
+  return `${ONBOARDING_BASE_URL}/onboarding/${token}`;
+}

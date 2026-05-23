@@ -4,167 +4,262 @@
 // ActionBarLinkRow — spec §4.2 (link row only)
 // =============================================================
 //
-// Phase 2 PR B per phase-2-plan.md §5.3.
+// Phase 2 PR B per phase-2-plan.md §5.3, refactored in Phase 8
+// proper PR B per phase-8-proper-plan.md §5.
 //
-// The bottom row of the action bar. Contains the onboarding URL,
-// "Copy link" (real), "View form" (real), and "Regenerate PIN
-// code" (inert in Phase 2 — modal lands in spec §6.7 / build
-// order step 11.12).
+// The bottom row of the action bar. Contains the onboarding URL
+// preview, "Copy link", "View form", and "Regenerate PIN code".
+//
+// Phase 8 proper change: this component no longer receives the
+// session token as a prop. The token is a credential redacted
+// from the by-workbook-id payload (so it doesn't reach every
+// workbook page load). Copy + View now fetch the token from
+// /api/onboarding/sessions/[id]/token on click, with each access
+// audited in onboarding_audit_events. The displayed URL is a
+// placeholder until the user clicks.
 //
 // Why this is a CLIENT component: "Copy link" needs
 // `navigator.clipboard.writeText`, which only exists in the
 // browser. ActionBar (the parent) stays a server component and
 // embeds this one.
-//
-// **Safety note on `session.token` reaching the browser.**
-// The token IS normally a credential — it grants form access
-// when paired with a valid PIN cookie. But the URL this row
-// constructs is *itself intended-public*: it's the exact same
-// URL that gets emailed to the client, pasted in Slack, etc.
-// Combined with the workbook being internal-only per audit §7
-// (any request that can reach /client/[id] already sees this
-// token), sending it to this client component introduces no
-// new exposure. If a future phase ever exposes the workbook to
-// non-internal users, this comment + the spec's auth posture
-// need a fresh review.
 
 import { useState } from "react";
 import type { ActionBarModalKind } from "./ActionBarModals";
 import { Copy, ExternalLink, RefreshCcw } from "./icons";
+import { ONBOARDING_BASE_URL, buildOnboardingUrl } from "../../lib/onboarding/onboarding-url";
 
 interface ActionBarLinkRowProps {
-  /** The session token. Combined with the onboarding tool's
-   * base URL to form the public form URL. */
-  token: string;
+  /** Session id. The token is no longer threaded as a prop —
+   * Copy/View fetch it on click from the dedicated endpoint. */
+  sessionId: string;
   /** Phase 6 PR B: ActionBarModals (via ActionBar) passes this
    * so the "Regenerate PIN code" button opens its modal. */
   onAction: (kind: ActionBarModalKind) => void;
 }
 
-/** Base URL for the onboarding tool's public form. Hardcoded for
- * Phase 2 — the alternative is a `NEXT_PUBLIC_ONBOARDING_BASE_URL`
- * env var, which adds Vercel-config friction. Phase 3+ can hoist
- * if a different domain is ever used. */
-const ONBOARDING_BASE_URL = "https://client-onboarding-tool.vercel.app";
+// Placeholder shown in the URL preview before any click. Bullets
+// occupy roughly the same visual width a real token does, so the
+// row doesn't reflow when the URL becomes real (Copy/View
+// briefly puts the real URL in the box during the success pulse).
+const TOKEN_PLACEHOLDER = "••••••••••••••••";
+
+// Source-discriminator values for the audit log. Must match the
+// VALID_SOURCES whitelist in
+// /api/onboarding/sessions/[id]/token/route.ts.
+const SOURCE_COPY = "copy_link";
+const SOURCE_VIEW = "view_form";
 
 export default function ActionBarLinkRow({
-  token,
+  sessionId,
   onAction,
 }: ActionBarLinkRowProps) {
-  const url = `${ONBOARDING_BASE_URL}/onboarding/${token}`;
-  const [copiedAt, setCopiedAt] = useState<number | null>(null);
-  const showCopied = copiedAt !== null && Date.now() - copiedAt < 1400;
+  const placeholderUrl = `${ONBOARDING_BASE_URL}/onboarding/${TOKEN_PLACEHOLDER}`;
+  const [displayUrl, setDisplayUrl] = useState<string>(placeholderUrl);
+  const [copyState, setCopyState] = useState<ButtonState>({ kind: "idle" });
+  const [viewState, setViewState] = useState<ButtonState>({ kind: "idle" });
+
+  const showCopied =
+    copyState.kind === "success" && Date.now() - copyState.at < 1400;
+
+  // Fetch the token from the dedicated endpoint. Returns the URL
+  // on success, throws on failure (with a server-provided message
+  // when possible). Each call writes one audit row server-side.
+  const fetchOnboardingUrl = async (source: string): Promise<string> => {
+    const adminToken = sessionStorage.getItem("admin_token");
+    if (!adminToken) {
+      throw new Error(
+        "Not signed in. Open /admin in this tab to sign in, then try again.",
+      );
+    }
+    const res = await fetch(
+      `/api/onboarding/sessions/${sessionId}/token`,
+      {
+        method: "POST",
+        headers: {
+          Authorization: `Bearer ${adminToken}`,
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ source }),
+      },
+    );
+    if (!res.ok) {
+      const j = await res.json().catch(() => ({}));
+      throw new Error(
+        (j as { error?: string }).error ??
+          `Request failed: ${res.status} ${res.statusText}`,
+      );
+    }
+    const { token } = (await res.json()) as { token: string };
+    return buildOnboardingUrl(token);
+  };
 
   const handleCopy = async () => {
+    setCopyState({ kind: "loading" });
     try {
+      const url = await fetchOnboardingUrl(SOURCE_COPY);
+      setDisplayUrl(url);
       if (navigator.clipboard?.writeText) {
         await navigator.clipboard.writeText(url);
-        setCopiedAt(Date.now());
-        // Auto-clear the "Copied" pulse after 1.4s.
-        window.setTimeout(() => setCopiedAt(null), 1400);
-        return;
+      } else {
+        // Fallback for browsers without Clipboard API. Workbook
+        // is desktop-only Chrome/Edge per audit §7 so this is
+        // belt-and-braces.
+        const ta = document.createElement("textarea");
+        ta.value = url;
+        ta.style.position = "fixed";
+        ta.style.opacity = "0";
+        document.body.appendChild(ta);
+        ta.select();
+        document.execCommand("copy");
+        document.body.removeChild(ta);
       }
-      // Fallback for browsers without Clipboard API (Safari
-      // pre-13.1, Firefox non-secure contexts). The workbook is
-      // desktop-only Chrome/Edge in practice per wb audit §7,
-      // so this is belt-and-braces — not expected to fire.
-      const ta = document.createElement("textarea");
-      ta.value = url;
-      ta.style.position = "fixed";
-      ta.style.opacity = "0";
-      document.body.appendChild(ta);
-      ta.select();
-      document.execCommand("copy");
-      document.body.removeChild(ta);
-      setCopiedAt(Date.now());
-      window.setTimeout(() => setCopiedAt(null), 1400);
+      setCopyState({ kind: "success", at: Date.now() });
+      // Auto-clear the URL display + success pulse after 1.4s.
+      window.setTimeout(() => {
+        setCopyState({ kind: "idle" });
+        setDisplayUrl(placeholderUrl);
+      }, 1400);
     } catch (err) {
-      // Don't spam the console with permission errors — surface
-      // a brief visual on the button instead. Phase 3+ can add a
-      // toast if proliferation warrants.
-      console.warn("[ActionBarLinkRow] copy failed:", err);
+      const message = err instanceof Error ? err.message : "Copy failed";
+      setCopyState({ kind: "error", message });
+      // Auto-clear errors after 4s so the user can retry.
+      window.setTimeout(() => setCopyState({ kind: "idle" }), 4000);
     }
   };
 
-  return (
-    <div
-      style={{
-        display: "flex",
-        alignItems: "center",
-        gap: 12,
-        flexWrap: "nowrap",
-      }}
-    >
-      <span
-        style={{
-          fontSize: 10,
-          letterSpacing: "0.12em",
-          textTransform: "uppercase",
-          color: "var(--text-3)",
-          minWidth: 120,
-          flexShrink: 0,
-          fontWeight: 600,
-        }}
-      >
-        Onboarding link
-      </span>
+  const handleView = async () => {
+    setViewState({ kind: "loading" });
+    try {
+      const url = await fetchOnboardingUrl(SOURCE_VIEW);
+      // window.open with noopener for safety. If the popup is
+      // blocked this returns null — handle gracefully.
+      const opened = window.open(url, "_blank", "noopener,noreferrer");
+      if (!opened) {
+        throw new Error("Popup blocked. Allow popups for this site to View form.");
+      }
+      setViewState({ kind: "idle" });
+    } catch (err) {
+      const message = err instanceof Error ? err.message : "View failed";
+      setViewState({ kind: "error", message });
+      window.setTimeout(() => setViewState({ kind: "idle" }), 4000);
+    }
+  };
 
+  const inlineError =
+    copyState.kind === "error"
+      ? copyState.message
+      : viewState.kind === "error"
+        ? viewState.message
+        : null;
+
+  return (
+    <div style={{ display: "flex", flexDirection: "column", gap: 8 }}>
       <div
-        title={url}
         style={{
-          flex: 1,
-          minWidth: 0,
-          backgroundColor: "var(--surface-3)",
-          border: "1px solid var(--border)",
-          borderRadius: "var(--radius-sm)",
-          padding: "8px 12px",
-          fontFamily:
-            'ui-monospace, SFMono-Regular, Menlo, Monaco, "Cascadia Mono", "Roboto Mono", Consolas, monospace',
-          fontSize: 12,
-          color: "var(--text-2)",
-          whiteSpace: "nowrap",
-          overflow: "hidden",
-          textOverflow: "ellipsis",
+          display: "flex",
+          alignItems: "center",
+          gap: 12,
+          flexWrap: "nowrap",
         }}
       >
-        {url}
+        <span
+          style={{
+            fontSize: 10,
+            letterSpacing: "0.12em",
+            textTransform: "uppercase",
+            color: "var(--text-3)",
+            minWidth: 120,
+            flexShrink: 0,
+            fontWeight: 600,
+          }}
+        >
+          Onboarding link
+        </span>
+
+        <div
+          title={displayUrl}
+          style={{
+            flex: 1,
+            minWidth: 0,
+            backgroundColor: "var(--surface-3)",
+            border: "1px solid var(--border)",
+            borderRadius: "var(--radius-sm)",
+            padding: "8px 12px",
+            fontFamily:
+              'ui-monospace, SFMono-Regular, Menlo, Monaco, "Cascadia Mono", "Roboto Mono", Consolas, monospace',
+            fontSize: 12,
+            color: "var(--text-2)",
+            whiteSpace: "nowrap",
+            overflow: "hidden",
+            textOverflow: "ellipsis",
+          }}
+        >
+          {displayUrl}
+        </div>
+
+        <button
+          type="button"
+          onClick={handleCopy}
+          disabled={copyState.kind === "loading"}
+          style={linkButtonStyle("ghost")}
+        >
+          <Copy />
+          {copyState.kind === "loading"
+            ? "Fetching…"
+            : showCopied
+              ? "Copied"
+              : "Copy link"}
+        </button>
+
+        <button
+          type="button"
+          onClick={handleView}
+          disabled={viewState.kind === "loading"}
+          style={linkButtonStyle("ghost")}
+        >
+          <ExternalLink />
+          {viewState.kind === "loading" ? "Fetching…" : "View form"}
+        </button>
+
+        <button
+          type="button"
+          onClick={() => onAction("regenerate_pin")}
+          style={linkButtonStyle("gold")}
+        >
+          <RefreshCcw />
+          Regenerate PIN code
+        </button>
       </div>
 
-      <button
-        type="button"
-        onClick={handleCopy}
-        style={linkButtonStyle("ghost")}
-      >
-        <Copy />
-        {showCopied ? "Copied" : "Copy link"}
-      </button>
-
-      <a
-        href={url}
-        target="_blank"
-        rel="noopener noreferrer"
-        style={{ ...linkButtonStyle("ghost"), textDecoration: "none" }}
-      >
-        <ExternalLink />
-        View form
-      </a>
-
-      {/* Regenerate PIN — wired in Phase 6 PR B */}
-      <button
-        type="button"
-        onClick={() => onAction("regenerate_pin")}
-        style={linkButtonStyle("gold")}
-      >
-        <RefreshCcw />
-        Regenerate PIN code
-      </button>
+      {inlineError && (
+        <div
+          role="alert"
+          style={{
+            fontSize: 11,
+            color: "var(--red)",
+            background: "var(--red-soft)",
+            border: "1px solid var(--red)",
+            borderRadius: "var(--radius-sm)",
+            padding: "6px 10px",
+            lineHeight: 1.4,
+          }}
+        >
+          {inlineError}
+        </div>
+      )}
     </div>
   );
 }
 
 // =============================================================
-// Styling helpers
+// Local types + styles
 // =============================================================
+
+type ButtonState =
+  | { kind: "idle" }
+  | { kind: "loading" }
+  | { kind: "success"; at: number }
+  | { kind: "error"; message: string };
 
 function linkButtonStyle(variant: "ghost" | "gold"): React.CSSProperties {
   const isGold = variant === "gold";
@@ -184,4 +279,3 @@ function linkButtonStyle(variant: "ghost" | "gold"): React.CSSProperties {
     flexShrink: 0,
   };
 }
-

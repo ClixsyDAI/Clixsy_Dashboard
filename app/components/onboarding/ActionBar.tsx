@@ -20,7 +20,7 @@ import { getPrimaryContact } from "../../lib/onboarding/get-primary-contact";
 import type {
   ClientRow,
   OnboardingAnswerRow,
-  OnboardingSessionRow,
+  RedactedOnboardingSession,
   SessionStatus,
 } from "../../lib/onboarding/types";
 import type { ActionBarModalKind } from "./ActionBarModals";
@@ -29,7 +29,7 @@ import { Bell, Key } from "./icons";
 
 interface ActionBarProps {
   client: ClientRow;
-  session: OnboardingSessionRow;
+  session: RedactedOnboardingSession;
   answers: OnboardingAnswerRow[];
   /** Phase 6 PR B: ActionBarModals passes this to wire the
    * three action buttons to their modals. */
@@ -52,7 +52,7 @@ export default function ActionBar({
   // name + email + the email-fallback chain come from the shared
   // helper. phone + title aren't on the helper (no other consumer
   // needs them) so they stay extracted inline.
-  const primary = getPrimaryContact(answers, client, session.token);
+  const primary = getPrimaryContact(answers, client);
   const phoneTitle = pullPhoneTitle(answers);
   const identity: IdentityView = {
     name: primary.name,
@@ -169,7 +169,7 @@ export default function ActionBar({
       />
 
       {/* ── Bottom row: onboarding link + link actions ──────── */}
-      <ActionBarLinkRow token={session.token} onAction={onAction} />
+      <ActionBarLinkRow sessionId={session.id} onAction={onAction} />
     </div>
   );
 }

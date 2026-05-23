@@ -345,9 +345,21 @@ export async function getOnboardingByWorkbookId(
   // answers rows. Pure function — no extra round-trip.
   const sections = projectSections(answers);
 
+  // Phase 8 proper PR B: redact `token` from the session before
+  // returning. The token is a credential — consumers that need it
+  // (ActionBarLinkRow Copy/View, SendFormReminderModal preview)
+  // fetch from /api/onboarding/sessions/[id]/token and accept an
+  // audit row being written for each access. See
+  // phase-8-proper-plan.md §3.4 + §5. The derive-state /
+  // projectSections helpers above ran on the FULL session row
+  // (including token) before this point — they don't need it, so
+  // stripping here doesn't change their output.
+  const { token: _redacted_token, ...sessionWithoutToken } = session;
+  void _redacted_token;
+
   const payload: OnboardingByWorkbookIdPayload = {
     client,
-    session,
+    session: sessionWithoutToken,
     answers,
     latest_reminder: latestReminder,
     open_events_count: openEventsCount,
