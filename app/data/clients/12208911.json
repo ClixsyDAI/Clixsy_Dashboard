@@ -1,35 +1,5 @@
 [
   {
-    "id": 9771683931,
-    "title": "Development Checklist...",
-    "list_title": "6. OFFBOARDING CHECKLIST",
-    "completed": false,
-    "due_on": null,
-    "created_at": "2026-04-09T23:49:51.986Z",
-    "updated_at": "2026-04-22T06:26:29.400Z",
-    "completed_on": null,
-    "comments_count": 32,
-    "assignees": "Bogdan Zakharchyshyn, Keith Bruss, Predrag",
-    "app_url": "https://3.basecamp.com/4226914/buckets/12208911/todos/9771683931",
-    "description": "<ul>\n<li>Add temporary website user&nbsp;</li>\n<li>Remove Clixsy users&nbsp;</li>\n<li>Zip website and send over GoogleDrive link&nbsp;</li>\n<li>Reconfigure InfiniteWP&nbsp;</li>\n<li>Remove from UptimeRobot&nbsp;</li>\n<li>Remove Nitropack&nbsp;</li>\n<li>Remove our accounts from their Google properties/website assets&nbsp;</li>\n<li>Ensure client has admin-level access to accounts&nbsp;</li>\n<li>Remove Google verification tags</li>\n</ul><div><br></div><div>\n<br>&nbsp;</div>",
-    "visible_to_clients": false
-  },
-  {
-    "id": 9771683945,
-    "title": "SEO Checklist...",
-    "list_title": "6. OFFBOARDING CHECKLIST",
-    "completed": false,
-    "due_on": null,
-    "created_at": "2026-04-09T23:49:52.255Z",
-    "updated_at": "2026-05-01T02:25:10.953Z",
-    "completed_on": null,
-    "comments_count": 12,
-    "assignees": "Clayton Coombs, Mikey King, Mubeen Dildar-Mia",
-    "app_url": "https://3.basecamp.com/4226914/buckets/12208911/todos/9771683945",
-    "description": "<div>Disable CitationVault&nbsp;<br>Cancel Yext&nbsp;<br>Remove our accounts from their Google properties/website assets&nbsp;<br>Close and archive client WhatAGraph dashboard (Future task)&nbsp;<br>Ensure client has admin-level access to accounts&nbsp;</div>",
-    "visible_to_clients": false
-  },
-  {
     "id": 9771683953,
     "title": "PM/Admin Checklist...",
     "list_title": "6. OFFBOARDING CHECKLIST",
@@ -60,6 +30,36 @@
     "visible_to_clients": false
   },
   {
+    "id": 9771683945,
+    "title": "SEO Checklist...",
+    "list_title": "6. OFFBOARDING CHECKLIST",
+    "completed": true,
+    "due_on": null,
+    "created_at": "2026-04-09T23:49:52.255Z",
+    "updated_at": "2026-05-15T18:13:46.489Z",
+    "completed_on": "2026-05-15T18:13:46.461Z",
+    "comments_count": 16,
+    "assignees": "Clayton Coombs, Mikey King, Mubeen Dildar-Mia",
+    "app_url": "https://3.basecamp.com/4226914/buckets/12208911/todos/9771683945",
+    "description": "<div>Disable CitationVault&nbsp;<br>Cancel Yext&nbsp;<br>Remove our accounts from their Google properties/website assets&nbsp;<br>Close and archive client WhatAGraph dashboard (Future task)&nbsp;<br>Ensure client has admin-level access to accounts&nbsp;</div>",
+    "visible_to_clients": false
+  },
+  {
+    "id": 9771683931,
+    "title": "Development Checklist...",
+    "list_title": "6. OFFBOARDING CHECKLIST",
+    "completed": true,
+    "due_on": null,
+    "created_at": "2026-04-09T23:49:51.986Z",
+    "updated_at": "2026-05-07T23:12:11.375Z",
+    "completed_on": "2026-05-07T23:12:11.349Z",
+    "comments_count": 38,
+    "assignees": "Bogdan Zakharchyshyn, Keith Bruss, Predrag",
+    "app_url": "https://3.basecamp.com/4226914/buckets/12208911/todos/9771683931",
+    "description": "<ul>\n<li>Add temporary website user&nbsp;</li>\n<li>Remove Clixsy users&nbsp;</li>\n<li>Zip website and send over GoogleDrive link&nbsp;</li>\n<li>Reconfigure InfiniteWP&nbsp;</li>\n<li>Remove from UptimeRobot&nbsp;</li>\n<li>Remove Nitropack&nbsp;</li>\n<li>Remove our accounts from their Google properties/website assets&nbsp;</li>\n<li>Ensure client has admin-level access to accounts&nbsp;</li>\n<li>Remove Google verification tags</li>\n</ul><div><br></div><div>\n<br>&nbsp;</div>",
+    "visible_to_clients": false
+  },
+  {
     "id": 9771683960,
     "title": "LSA/SmartAds Checklist",
     "list_title": "6. OFFBOARDING CHECKLIST",
@@ -87,6 +87,21 @@
     "assignees": "Fed, Kaylee Hyde",
     "app_url": "https://3.basecamp.com/4226914/buckets/12208911/todos/9771683968",
     "description": "<ul>\n<li>Confirm Last Invoice Date<ul><li>Confirm if another invoice will be generated or if they've met the 30-day cancellation notice to the client &amp; account manager.</li></ul>\n</li>\n<li>Stop Recurring Invoice</li>\n<li>Remove from master budget &amp; Revenue Forecast</li>\n</ul>",
+    "visible_to_clients": false
+  },
+  {
+    "id": 9923451502,
+    "title": "GSC Traffic Drop Alert — Fielding Law — 2026-05-24",
+    "list_title": "GSC Traffic Drop Alert",
+    "completed": false,
+    "due_on": "2026-05-31",
+    "created_at": "2026-05-24T12:02:55.064Z",
+    "updated_at": "2026-05-24T12:02:55.140Z",
+    "completed_on": null,
+    "comments_count": 0,
+    "assignees": "Clayton Coombs, Mubeen Dildar-Mia",
+    "app_url": "https://3.basecamp.com/4226914/buckets/12208911/todos/9923451502",
+    "description": "Pages with &gt;20% click drop (month over month) as of 2026-05-24:\n\n• <a target=\"_blank\" rel=\"noreferrer\" class=\"autolinked\" data-behavior=\"truncate\" href=\"https://www.fieldinglaw.com/personal-injury/richardson/\">https://www.fieldinglaw.com/personal-injury/richardson/</a>\n  Query: \"fielding law\" | Last 30d: 14 clicks | Prev 30d: 27 clicks | Drop: -48.1%\n\nReview each page for content quality, ranking position changes, and SERP feature shifts. Period compared: 2026-04-24 to 2026-05-23 vs 2026-03-25 to 2026-04-23.",
     "visible_to_clients": false
   },
   {
@@ -261,7 +276,7 @@
     "completed": true,
     "due_on": "2026-02-02",
     "created_at": "2026-01-30T18:17:04.704Z",
-    "updated_at": "2026-01-30T23:45:59.391Z",
+    "updated_at": "2026-05-07T19:02:08.117Z",
     "completed_on": "2026-01-30T23:45:59.367Z",
     "comments_count": 3,
     "assignees": "Naas Van Zyl, Predrag",
@@ -1271,7 +1286,7 @@
     "comments_count": 7,
     "assignees": "Bogdan Zakharchyshyn, Keith Bruss, Maxym Yurchenko, Mikey King",
     "app_url": "https://3.basecamp.com/4226914/buckets/12208911/todos/4113055108",
-    "description": "<div>Drunk Driving Accidents<br><br><a target=\"_blank\" rel=\"noreferrer\" class=\"autolinked\" data-behavior=\"truncate\" href=\"https://videobolt.com/player.php?id=57539926081630084247\">https://videobolt.com/player.php?id=57539926081630084247</a><br><br>Rideshare Accidents<br><br><a href=\"https://videobolt.com/player.php?id=6149958031630093392\" target=\"_blank\" rel=\"noreferrer\">https://videobolt.com/player.php?id=6149958031630093392</a><br><br>1. Upload to YouTue and optimize<br><br>2. Embed in website after upload. Could you post the URL below <bc-attachment sgid=\"BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8yNTM4NzY2ND9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--48d6054a3a457332ec14c1b8e759e7e329118dad\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"25387664\" alt=\"Mikey King\" title=\"Mikey King, Digital Marketing Specialist at Clixsy\" class=\"avatar\" loading=\"lazy\" decoding=\"async\" src=\"https://bc3-production-assets-cdn.basecamp-static.com/4226914/people/BAhpBJBigwE=--a25df69212606ff481c621d8dfab24e03433c889/avatar\" width=\"20\" height=\"20\">\n  <figcaption>\n    Mikey\n  </figcaption>\n</figure></bc-attachment> so that <bc-attachment sgid=\"BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8zMzEwMjAwMD9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--071ab868dabdc6ad972edb2e33a5e4c020bb4678\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"33102000\" alt=\"Keith Bruss\" title=\"Keith Bruss, CTO at Clixsy\" class=\"avatar\" loading=\"lazy\" decoding=\"async\" src=\"https://bc3-production-assets-cdn.basecamp-static.com/4226914/people/BAhpBLAY+QE=--21688607fb92dc4027e26b291458642ae5c32fcf/avatar\" width=\"20\" height=\"20\">\n  <figcaption>\n    Keith\n  </figcaption>\n</figure></bc-attachment> and the Dev team can add to the site in the appropriate place.<br><br>3. Add anywhere else you think is appropriate.<br><br>I'm tagging <bc-attachment sgid=\"BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8yNTE0NzI5Nj9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--033e0578a429f64606bd57a9c33f157fdb08e567\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"25147296\" alt=\"John De Guzman\" title=\"John De Guzman, VP SEO at Clixsy\" class=\"avatar\" loading=\"lazy\" decoding=\"async\" src=\"https://bc3-production-assets-cdn.basecamp-static.com/4226914/people/BAhpBKC3fwE=--518372ff3dc38a9457ff87bda8c0dbff3868f319/avatar\" width=\"20\" height=\"20\">\n  <figcaption>\n    John\n  </figcaption>\n</figure></bc-attachment> &amp; <bc-attachment sgid=\"BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8yNTE0NzI5Nz9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--06a7972e575817c647bc01c20719d61096dae37e\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"25147297\" alt=\"Clayton Coombs\" title=\"Clayton Coombs, President of SEO at Clixsy\" class=\"avatar\" loading=\"lazy\" decoding=\"async\" src=\"https://bc3-production-assets-cdn.basecamp-static.com/4226914/people/BAhpBKG3fwE=--e4c69674c81004f369132ac792331e4590f68855/avatar\" width=\"20\" height=\"20\">\n  <figcaption>\n    Clayton\n  </figcaption>\n</figure></bc-attachment> in here to advise on No3.</div>",
+    "description": "<div>Drunk Driving Accidents<br><br><a target=\"_blank\" rel=\"noreferrer\" class=\"autolinked\" data-behavior=\"truncate\" href=\"https://videobolt.com/player.php?id=57539926081630084247\">https://videobolt.com/player.php?id=57539926081630084247</a><br><br>Rideshare Accidents<br><br><a href=\"https://videobolt.com/player.php?id=6149958031630093392\" target=\"_blank\" rel=\"noreferrer\">https://videobolt.com/player.php?id=6149958031630093392</a><br><br>1. Upload to YouTue and optimize<br><br>2. Embed in website after upload. Could you post the URL below <bc-attachment sgid=\"BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8yNTM4NzY2ND9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--48d6054a3a457332ec14c1b8e759e7e329118dad\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"25387664\" alt=\"Mikey King\" title=\"Mikey King, Digital Marketing &amp; GBP Account Management Specialist at Clixsy\" class=\"avatar\" loading=\"lazy\" decoding=\"async\" src=\"https://bc3-production-assets-cdn.basecamp-static.com/4226914/people/BAhpBJBigwE=--a25df69212606ff481c621d8dfab24e03433c889/avatar\" width=\"20\" height=\"20\">\n  <figcaption>\n    Mikey\n  </figcaption>\n</figure></bc-attachment> so that <bc-attachment sgid=\"BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8zMzEwMjAwMD9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--071ab868dabdc6ad972edb2e33a5e4c020bb4678\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"33102000\" alt=\"Keith Bruss\" title=\"Keith Bruss, CTO at Clixsy\" class=\"avatar\" loading=\"lazy\" decoding=\"async\" src=\"https://bc3-production-assets-cdn.basecamp-static.com/4226914/people/BAhpBLAY+QE=--21688607fb92dc4027e26b291458642ae5c32fcf/avatar\" width=\"20\" height=\"20\">\n  <figcaption>\n    Keith\n  </figcaption>\n</figure></bc-attachment> and the Dev team can add to the site in the appropriate place.<br><br>3. Add anywhere else you think is appropriate.<br><br>I'm tagging <bc-attachment sgid=\"BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8yNTE0NzI5Nj9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--033e0578a429f64606bd57a9c33f157fdb08e567\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"25147296\" alt=\"John De Guzman\" title=\"John De Guzman, VP SEO at Clixsy\" class=\"avatar\" loading=\"lazy\" decoding=\"async\" src=\"https://bc3-production-assets-cdn.basecamp-static.com/4226914/people/BAhpBKC3fwE=--518372ff3dc38a9457ff87bda8c0dbff3868f319/avatar\" width=\"20\" height=\"20\">\n  <figcaption>\n    John\n  </figcaption>\n</figure></bc-attachment> &amp; <bc-attachment sgid=\"BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8yNTE0NzI5Nz9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--06a7972e575817c647bc01c20719d61096dae37e\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"25147297\" alt=\"Clayton Coombs\" title=\"Clayton Coombs, President of SEO at Clixsy\" class=\"avatar\" loading=\"lazy\" decoding=\"async\" src=\"https://bc3-production-assets-cdn.basecamp-static.com/4226914/people/BAhpBKG3fwE=--e4c69674c81004f369132ac792331e4590f68855/avatar\" width=\"20\" height=\"20\">\n  <figcaption>\n    Clayton\n  </figcaption>\n</figure></bc-attachment> in here to advise on No3.</div>",
     "visible_to_clients": false
   },
   {
@@ -1976,7 +1991,7 @@
     "comments_count": 5,
     "assignees": "Mikey King",
     "app_url": "https://3.basecamp.com/4226914/buckets/12208911/todos/3325660027",
-    "description": "<div>I know it's short notice <bc-attachment sgid=\"BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8yNTM4NzY2ND9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--48d6054a3a457332ec14c1b8e759e7e329118dad\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"25387664\" alt=\"Mikey King\" title=\"Mikey King, Digital Marketing Specialist at Clixsy\" class=\"avatar\" loading=\"lazy\" decoding=\"async\" src=\"https://bc3-production-assets-cdn.basecamp-static.com/4226914/people/BAhpBJBigwE=--a25df69212606ff481c621d8dfab24e03433c889/avatar\" width=\"20\" height=\"20\">\n  <figcaption>\n    Mikey\n  </figcaption>\n</figure></bc-attachment>&nbsp;but is there any way you could action this before you finish tonight?<br><br><br>Hi Chris-<br><br>\n</div><div>\n<br>Here’s the latest video blog for December 2020-<br><br>\n</div><div>\n<br>YouTube and Fielding Website.<br><br>\n</div><div><a href=\"https://videobolt.com/player.php?id=91572834131607972451&amp;stream=c2mpxz5kun\" target=\"_blank\" rel=\"noreferrer\"><br>https://videobolt.com/player.php?id=91572834131607972451&amp;stream=c2mpxz5kun<br></a></div>",
+    "description": "<div>I know it's short notice <bc-attachment sgid=\"BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8yNTM4NzY2ND9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--48d6054a3a457332ec14c1b8e759e7e329118dad\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"25387664\" alt=\"Mikey King\" title=\"Mikey King, Digital Marketing &amp; GBP Account Management Specialist at Clixsy\" class=\"avatar\" loading=\"lazy\" decoding=\"async\" src=\"https://bc3-production-assets-cdn.basecamp-static.com/4226914/people/BAhpBJBigwE=--a25df69212606ff481c621d8dfab24e03433c889/avatar\" width=\"20\" height=\"20\">\n  <figcaption>\n    Mikey\n  </figcaption>\n</figure></bc-attachment>&nbsp;but is there any way you could action this before you finish tonight?<br><br><br>Hi Chris-<br><br>\n</div><div>\n<br>Here’s the latest video blog for December 2020-<br><br>\n</div><div>\n<br>YouTube and Fielding Website.<br><br>\n</div><div><a href=\"https://videobolt.com/player.php?id=91572834131607972451&amp;stream=c2mpxz5kun\" target=\"_blank\" rel=\"noreferrer\"><br>https://videobolt.com/player.php?id=91572834131607972451&amp;stream=c2mpxz5kun<br></a></div>",
     "visible_to_clients": false
   },
   {
@@ -2036,7 +2051,7 @@
     "comments_count": 5,
     "assignees": "Mikey King",
     "app_url": "https://3.basecamp.com/4226914/buckets/12208911/todos/3268718306",
-    "description": "<div>Hi <bc-attachment sgid=\"BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8yNTM4NzY2ND9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--48d6054a3a457332ec14c1b8e759e7e329118dad\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"25387664\" alt=\"Mikey King\" title=\"Mikey King, Digital Marketing Specialist at Clixsy\" class=\"avatar\" loading=\"lazy\" decoding=\"async\" src=\"https://bc3-production-assets-cdn.basecamp-static.com/4226914/people/BAhpBJBigwE=--a25df69212606ff481c621d8dfab24e03433c889/avatar\" width=\"20\" height=\"20\">\n  <figcaption>\n    Mikey\n  </figcaption>\n</figure></bc-attachment> ,<br><br>Fielding video blog...as before.<br><br><br>Chris-<br><br>\n</div><div>\n<br>November 2020 last video blog for Fielding Laws website and YouTube.<br><br>\n</div><div>\n<br>Subject Title ideas: (feel free to paraphrase)<br><br>\n</div><div>\n<br>How quickly do you need to act regarding your personal injury claim?<br><br>\n</div><div>\n<br>Don’t miss your window of opportunity to file a claim.<br><br>\n</div><div>\n<br>How much time to I have to file a personal injury claim?<br><br>\n</div><div><a href=\"https://videobolt.com/player.php?id=27855561861606771363&amp;stream=fpph9q0fum\" target=\"_blank\" rel=\"noreferrer\"><br>https://videobolt.com/player.php?id=27855561861606771363&amp;stream=fpph9q0fum<br></a></div>",
+    "description": "<div>Hi <bc-attachment sgid=\"BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8yNTM4NzY2ND9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--48d6054a3a457332ec14c1b8e759e7e329118dad\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"25387664\" alt=\"Mikey King\" title=\"Mikey King, Digital Marketing &amp; GBP Account Management Specialist at Clixsy\" class=\"avatar\" loading=\"lazy\" decoding=\"async\" src=\"https://bc3-production-assets-cdn.basecamp-static.com/4226914/people/BAhpBJBigwE=--a25df69212606ff481c621d8dfab24e03433c889/avatar\" width=\"20\" height=\"20\">\n  <figcaption>\n    Mikey\n  </figcaption>\n</figure></bc-attachment> ,<br><br>Fielding video blog...as before.<br><br><br>Chris-<br><br>\n</div><div>\n<br>November 2020 last video blog for Fielding Laws website and YouTube.<br><br>\n</div><div>\n<br>Subject Title ideas: (feel free to paraphrase)<br><br>\n</div><div>\n<br>How quickly do you need to act regarding your personal injury claim?<br><br>\n</div><div>\n<br>Don’t miss your window of opportunity to file a claim.<br><br>\n</div><div>\n<br>How much time to I have to file a personal injury claim?<br><br>\n</div><div><a href=\"https://videobolt.com/player.php?id=27855561861606771363&amp;stream=fpph9q0fum\" target=\"_blank\" rel=\"noreferrer\"><br>https://videobolt.com/player.php?id=27855561861606771363&amp;stream=fpph9q0fum<br></a></div>",
     "visible_to_clients": false
   },
   {
@@ -2096,7 +2111,7 @@
     "comments_count": 5,
     "assignees": "Mikey King",
     "app_url": "https://3.basecamp.com/4226914/buckets/12208911/todos/3194224810",
-    "description": "<div>Chris - below is the next video blog for Fielding Law.</div><div>Truck Accidents :</div><div><br></div><div>Here is the link to your latest video blog</div><div>Embed code and transcript included</div><div><br></div><div>\n<a href=\"https://videobolt.com/player.php?id=91325227001604587887&amp;stream=4nqamxe9a8\" target=\"_blank\" rel=\"noreferrer\">https://videobolt.com/player.php?id=91</a><br><br>The same as the times before <bc-attachment sgid=\"BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8yNTM4NzY2ND9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--48d6054a3a457332ec14c1b8e759e7e329118dad\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"25387664\" alt=\"Mikey King\" title=\"Mikey King, Digital Marketing Specialist at Clixsy\" class=\"avatar\" loading=\"lazy\" decoding=\"async\" src=\"https://bc3-production-assets-cdn.basecamp-static.com/4226914/people/BAhpBJBigwE=--a25df69212606ff481c621d8dfab24e03433c889/avatar\" width=\"20\" height=\"20\">\n  <figcaption>\n    Mikey\n  </figcaption>\n</figure></bc-attachment>&nbsp;. Thanks.</div>",
+    "description": "<div>Chris - below is the next video blog for Fielding Law.</div><div>Truck Accidents :</div><div><br></div><div>Here is the link to your latest video blog</div><div>Embed code and transcript included</div><div><br></div><div>\n<a href=\"https://videobolt.com/player.php?id=91325227001604587887&amp;stream=4nqamxe9a8\" target=\"_blank\" rel=\"noreferrer\">https://videobolt.com/player.php?id=91</a><br><br>The same as the times before <bc-attachment sgid=\"BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8yNTM4NzY2ND9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--48d6054a3a457332ec14c1b8e759e7e329118dad\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"25387664\" alt=\"Mikey King\" title=\"Mikey King, Digital Marketing &amp; GBP Account Management Specialist at Clixsy\" class=\"avatar\" loading=\"lazy\" decoding=\"async\" src=\"https://bc3-production-assets-cdn.basecamp-static.com/4226914/people/BAhpBJBigwE=--a25df69212606ff481c621d8dfab24e03433c889/avatar\" width=\"20\" height=\"20\">\n  <figcaption>\n    Mikey\n  </figcaption>\n</figure></bc-attachment>&nbsp;. Thanks.</div>",
     "visible_to_clients": false
   },
   {
@@ -2126,7 +2141,7 @@
     "comments_count": 4,
     "assignees": "Mikey King",
     "app_url": "https://3.basecamp.com/4226914/buckets/12208911/todos/3162141179",
-    "description": "<div>TITLE - “Justice in your Corner”<br><br><br>Here is the latest video blog- would you please add this video to Fielding Law blog please?<br><br>\n</div><div>\n<a href=\"https://videobolt.com/player.php?id=68085536491603806400&amp;stream=n45yzum8lz\" target=\"_blank\" rel=\"noreferrer\"><br>https://videobolt.com/player.php?id=68085536491603806400&amp;stream=n45yzum8lz<br></a><br>Same as before <bc-attachment sgid=\"BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8yNTM4NzY2ND9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--48d6054a3a457332ec14c1b8e759e7e329118dad\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"25387664\" alt=\"Mikey King\" title=\"Mikey King, Digital Marketing Specialist at Clixsy\" class=\"avatar\" loading=\"lazy\" decoding=\"async\" src=\"https://bc3-production-assets-cdn.basecamp-static.com/4226914/people/BAhpBJBigwE=--a25df69212606ff481c621d8dfab24e03433c889/avatar\" width=\"20\" height=\"20\">\n  <figcaption>\n    Mikey\n  </figcaption>\n</figure></bc-attachment>&nbsp;. Title included from Megan this time. Thanks mate.</div>",
+    "description": "<div>TITLE - “Justice in your Corner”<br><br><br>Here is the latest video blog- would you please add this video to Fielding Law blog please?<br><br>\n</div><div>\n<a href=\"https://videobolt.com/player.php?id=68085536491603806400&amp;stream=n45yzum8lz\" target=\"_blank\" rel=\"noreferrer\"><br>https://videobolt.com/player.php?id=68085536491603806400&amp;stream=n45yzum8lz<br></a><br>Same as before <bc-attachment sgid=\"BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8yNTM4NzY2ND9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--48d6054a3a457332ec14c1b8e759e7e329118dad\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"25387664\" alt=\"Mikey King\" title=\"Mikey King, Digital Marketing &amp; GBP Account Management Specialist at Clixsy\" class=\"avatar\" loading=\"lazy\" decoding=\"async\" src=\"https://bc3-production-assets-cdn.basecamp-static.com/4226914/people/BAhpBJBigwE=--a25df69212606ff481c621d8dfab24e03433c889/avatar\" width=\"20\" height=\"20\">\n  <figcaption>\n    Mikey\n  </figcaption>\n</figure></bc-attachment>&nbsp;. Title included from Megan this time. Thanks mate.</div>",
     "visible_to_clients": false
   },
   {
@@ -2141,7 +2156,7 @@
     "comments_count": 5,
     "assignees": "Mikey King",
     "app_url": "https://3.basecamp.com/4226914/buckets/12208911/todos/3154718873",
-    "description": "<div>Please post this the same as we did to the one last week <bc-attachment sgid=\"BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8yNTM4NzY2ND9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--48d6054a3a457332ec14c1b8e759e7e329118dad\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"25387664\" alt=\"Mikey King\" title=\"Mikey King, Digital Marketing Specialist at Clixsy\" class=\"avatar\" loading=\"lazy\" decoding=\"async\" src=\"https://bc3-production-assets-cdn.basecamp-static.com/4226914/people/BAhpBJBigwE=--a25df69212606ff481c621d8dfab24e03433c889/avatar\" width=\"20\" height=\"20\">\n  <figcaption>\n    Mikey\n  </figcaption>\n</figure></bc-attachment> <br><br><a href=\"https://videobolt.com/player.php?id=68085536491603806400&amp;stream=n45yzum8lz\" target=\"_blank\" rel=\"noreferrer\">https://videobolt.com/player.php?id=68085536491603806400&amp;stream=n45yzum8lz</a>\n</div>",
+    "description": "<div>Please post this the same as we did to the one last week <bc-attachment sgid=\"BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8yNTM4NzY2ND9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--48d6054a3a457332ec14c1b8e759e7e329118dad\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"25387664\" alt=\"Mikey King\" title=\"Mikey King, Digital Marketing &amp; GBP Account Management Specialist at Clixsy\" class=\"avatar\" loading=\"lazy\" decoding=\"async\" src=\"https://bc3-production-assets-cdn.basecamp-static.com/4226914/people/BAhpBJBigwE=--a25df69212606ff481c621d8dfab24e03433c889/avatar\" width=\"20\" height=\"20\">\n  <figcaption>\n    Mikey\n  </figcaption>\n</figure></bc-attachment> <br><br><a href=\"https://videobolt.com/player.php?id=68085536491603806400&amp;stream=n45yzum8lz\" target=\"_blank\" rel=\"noreferrer\">https://videobolt.com/player.php?id=68085536491603806400&amp;stream=n45yzum8lz</a>\n</div>",
     "visible_to_clients": false
   },
   {
@@ -3161,7 +3176,7 @@
     "comments_count": 3,
     "assignees": "Mikey King",
     "app_url": "https://3.basecamp.com/4226914/buckets/12208911/todos/2582903108",
-    "description": "<div>\n<bc-attachment sgid=\"BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8yNTM4NzY2ND9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--48d6054a3a457332ec14c1b8e759e7e329118dad\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"25387664\" alt=\"Mikey King\" title=\"Mikey King, Digital Marketing Specialist at Clixsy\" class=\"avatar\" loading=\"lazy\" decoding=\"async\" src=\"https://bc3-production-assets-cdn.basecamp-static.com/4226914/people/BAhpBJBigwE=--a25df69212606ff481c621d8dfab24e03433c889/avatar\" width=\"20\" height=\"20\">\n  <figcaption>\n    Mikey\n  </figcaption>\n</figure></bc-attachment> a lot of the videos on the Fielding site are saying that they have been disabled by the owner. Can you either drop an update on why that was done, or go into the channel and fix it?<bc-attachment sgid=\"BAh7CEkiCGdpZAY6BkVUSSIuZ2lkOi8vYmMzL0F0dGFjaG1lbnQvMTgyOTA4NjYxP2V4cGlyZXNfaW4GOwBUSSIMcHVycG9zZQY7AFRJIg9hdHRhY2hhYmxlBjsAVEkiD2V4cGlyZXNfYXQGOwBUMA==--da685df4e29ac6727f8817e6b67c376c0e09e6c5\" content-type=\"image/png\" url=\"https://preview.3.basecamp.com/4226914/blobs/98cad2dc-7dc9-11ea-8695-a0369f740db7/previews/full\" href=\"https://storage.3.basecamp.com/4226914/blobs/98cad2dc-7dc9-11ea-8695-a0369f740db7/download/image.png\" filename=\"image.png\" filesize=\"19624\" width=\"586\" height=\"374\" previewable=\"true\" presentation=\"gallery\"><figure>\n    <img srcset=\"https://preview.3.basecamp.com/4226914/blobs/98cad2dc-7dc9-11ea-8695-a0369f740db7/previews/full?dppx=2 2x, https://preview.3.basecamp.com/4226914/blobs/98cad2dc-7dc9-11ea-8695-a0369f740db7/previews/full?dppx=1 1x, https://preview.3.basecamp.com/4226914/blobs/98cad2dc-7dc9-11ea-8695-a0369f740db7/previews/full?dppx=3 3x, https://preview.3.basecamp.com/4226914/blobs/98cad2dc-7dc9-11ea-8695-a0369f740db7/previews/full?dppx=4 4x\" src=\"https://preview.3.basecamp.com/4226914/blobs/98cad2dc-7dc9-11ea-8695-a0369f740db7/previews/full\">\n  <figcaption>\n    image.png\n  </figcaption>\n</figure></bc-attachment>\n</div>",
+    "description": "<div>\n<bc-attachment sgid=\"BAh7CEkiCGdpZAY6BkVUSSIpZ2lkOi8vYmMzL1BlcnNvbi8yNTM4NzY2ND9leHBpcmVzX2luBjsAVEkiDHB1cnBvc2UGOwBUSSIPYXR0YWNoYWJsZQY7AFRJIg9leHBpcmVzX2F0BjsAVDA=--48d6054a3a457332ec14c1b8e759e7e329118dad\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"25387664\" alt=\"Mikey King\" title=\"Mikey King, Digital Marketing &amp; GBP Account Management Specialist at Clixsy\" class=\"avatar\" loading=\"lazy\" decoding=\"async\" src=\"https://bc3-production-assets-cdn.basecamp-static.com/4226914/people/BAhpBJBigwE=--a25df69212606ff481c621d8dfab24e03433c889/avatar\" width=\"20\" height=\"20\">\n  <figcaption>\n    Mikey\n  </figcaption>\n</figure></bc-attachment> a lot of the videos on the Fielding site are saying that they have been disabled by the owner. Can you either drop an update on why that was done, or go into the channel and fix it?<bc-attachment sgid=\"BAh7CEkiCGdpZAY6BkVUSSIuZ2lkOi8vYmMzL0F0dGFjaG1lbnQvMTgyOTA4NjYxP2V4cGlyZXNfaW4GOwBUSSIMcHVycG9zZQY7AFRJIg9hdHRhY2hhYmxlBjsAVEkiD2V4cGlyZXNfYXQGOwBUMA==--da685df4e29ac6727f8817e6b67c376c0e09e6c5\" content-type=\"image/png\" url=\"https://preview.3.basecamp.com/4226914/blobs/98cad2dc-7dc9-11ea-8695-a0369f740db7/previews/full\" href=\"https://storage.3.basecamp.com/4226914/blobs/98cad2dc-7dc9-11ea-8695-a0369f740db7/download/image.png\" filename=\"image.png\" filesize=\"19624\" width=\"586\" height=\"374\" previewable=\"true\" presentation=\"gallery\"><figure>\n    <img srcset=\"https://preview.3.basecamp.com/4226914/blobs/98cad2dc-7dc9-11ea-8695-a0369f740db7/previews/full?dppx=2 2x, https://preview.3.basecamp.com/4226914/blobs/98cad2dc-7dc9-11ea-8695-a0369f740db7/previews/full?dppx=1 1x, https://preview.3.basecamp.com/4226914/blobs/98cad2dc-7dc9-11ea-8695-a0369f740db7/previews/full?dppx=3 3x, https://preview.3.basecamp.com/4226914/blobs/98cad2dc-7dc9-11ea-8695-a0369f740db7/previews/full?dppx=4 4x\" src=\"https://preview.3.basecamp.com/4226914/blobs/98cad2dc-7dc9-11ea-8695-a0369f740db7/previews/full\">\n  <figcaption>\n    image.png\n  </figcaption>\n</figure></bc-attachment>\n</div>",
     "visible_to_clients": false
   },
   {
