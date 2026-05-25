@@ -1,20 +1,5 @@
 [
   {
-    "id": 9702034812,
-    "title": "Development Checklist...",
-    "list_title": "6. OFFBOARDING CHECKLIST",
-    "completed": false,
-    "due_on": null,
-    "created_at": "2026-03-20T14:53:43.772Z",
-    "updated_at": "2026-04-08T21:07:47.803Z",
-    "completed_on": null,
-    "comments_count": 7,
-    "assignees": "Keith Bruss, Predrag",
-    "app_url": "https://3.basecamp.com/4226914/buckets/35591915/todos/9702034812",
-    "description": "<ul>\n<li>Add temporary website user&nbsp;</li>\n<li>Remove Clixsy users&nbsp;</li>\n<li>Zip website and send over GoogleDrive link&nbsp;</li>\n<li>Reconfigure InfiniteWP&nbsp;</li>\n<li>Remove from UptimeRobot&nbsp;</li>\n<li>Remove Nitropack&nbsp;</li>\n<li>Remove our accounts from their Google properties/website assets&nbsp;</li>\n<li>Ensure client has admin-level access to accounts&nbsp;</li>\n<li>Remove Google verification tags</li>\n</ul><div><br></div><div>\n<br>&nbsp;</div>",
-    "visible_to_clients": false
-  },
-  {
     "id": 9702034837,
     "title": "SEO Checklist...",
     "list_title": "6. OFFBOARDING CHECKLIST",
@@ -72,6 +57,21 @@
     "assignees": "Mubeen Dildar-Mia",
     "app_url": "https://3.basecamp.com/4226914/buckets/35591915/todos/9734396448",
     "description": "<div>90 Day Recap Report needed showing results, rankings and work that was completed over the 90 day period<br><br>Similar to:<br><a target=\"_blank\" rel=\"noreferrer\" class=\"autolinked\" data-behavior=\"truncate\" href=\"https://docs.google.com/document/d/1zYYMtOv3OZdScZIv5iHfwqQuV72JCtDnWn9ZXhUbbdA/edit?usp=sharing\">https://docs.google.com/document/d/1zYYMtOv3OZdScZIv5iHfwqQuV72JCtDnWn9ZXhUbbdA/edit?usp=sharing</a>\n</div>",
+    "visible_to_clients": false
+  },
+  {
+    "id": 9702034812,
+    "title": "Development Checklist...",
+    "list_title": "6. OFFBOARDING CHECKLIST",
+    "completed": true,
+    "due_on": null,
+    "created_at": "2026-03-20T14:53:43.772Z",
+    "updated_at": "2026-05-07T17:31:43.036Z",
+    "completed_on": "2026-05-07T17:31:43.009Z",
+    "comments_count": 9,
+    "assignees": "Keith Bruss, Predrag",
+    "app_url": "https://3.basecamp.com/4226914/buckets/35591915/todos/9702034812",
+    "description": "<ul>\n<li>Add temporary website user&nbsp;</li>\n<li>Remove Clixsy users&nbsp;</li>\n<li>Zip website and send over GoogleDrive link&nbsp;</li>\n<li>Reconfigure InfiniteWP&nbsp;</li>\n<li>Remove from UptimeRobot&nbsp;</li>\n<li>Remove Nitropack&nbsp;</li>\n<li>Remove our accounts from their Google properties/website assets&nbsp;</li>\n<li>Ensure client has admin-level access to accounts&nbsp;</li>\n<li>Remove Google verification tags</li>\n</ul><div><br></div><div>\n<br>&nbsp;</div>",
     "visible_to_clients": false
   },
   {
@@ -135,21 +135,6 @@
     "visible_to_clients": false
   },
   {
-    "id": 9298848588,
-    "title": "Location Pop Up issue",
-    "list_title": "CLIENT CHANGE REQUESTS:",
-    "completed": false,
-    "due_on": "2025-11-19",
-    "created_at": "2025-11-18T23:43:48.988Z",
-    "updated_at": "2025-12-08T22:05:34.812Z",
-    "completed_on": null,
-    "comments_count": 21,
-    "assignees": "Bogdan Zakharchyshyn, Predrag",
-    "app_url": "https://3.basecamp.com/4226914/buckets/35591915/todos/9298848588",
-    "description": "<div>Seeking help w/ a client reported issue please.<br>&nbsp; | <a href=\"https://snyderac.com/\" target=\"_blank\" rel=\"noreferrer\">https://snyderac.com/</a><br><br>Issue -&nbsp; “Find Your Location” pop-up keeps showing on every page. Happening on mobile only. Desktop is ok.<br><br>Client phone: Iphone 13<br>Browsers used: Safari, Firefox, and Chrome&nbsp;<br>- They already cleared cache but still ongoing.<br>- She had someone try it too: same issue<br><br>I tried to replicate on my end: it working on mine.<br>Phone: Samsung&nbsp;<br>Browser: Chrome [both regular and incognito works]<br><br>---<br>Thanks much</div>",
-    "visible_to_clients": false
-  },
-  {
     "id": 9544909296,
     "title": "Send Alex sheet of 404/429 errors etc.",
     "list_title": "CLIENT CHANGE REQUESTS:",
@@ -177,6 +162,21 @@
     "assignees": "Johan Cilliers, Mubeen Dildar-Mia",
     "app_url": "https://3.basecamp.com/4226914/buckets/35591915/todos/9654750625",
     "description": "<div>Hi seeking advise with the client request please:<br><br>1. What can we do to make this update that will be ok in terms of SEO?&nbsp;</div><div><em>The St. Augustine page is currently appearing under the south florida folder. It needs top be changed to North Florida.</em></div><div><a href=\"https://snyderac.com/south-florida/st-augustine/\" target=\"_blank\" rel=\"noreferrer\"><em>https://snyderac.com/south-florida/st-augustine/</em></a></div><div><a href=\"https://snyderac.com/south-florida/st-augustine-beach/\" target=\"_blank\" rel=\"noreferrer\"><em>https://snyderac.com/south-florida/st-augustine-beach/</em></a></div><div>\n<a href=\"https://snyderac.com/south-florida/saint-augustine-south/\" target=\"_blank\" rel=\"noreferrer\"><em>https://snyderac.com/south-florida/saint-augustine-south/</em></a><em>&nbsp;</em>\n</div><div>\n<br>2. Just want to verify if this is the page we can use for this: <a target=\"_blank\" rel=\"noreferrer\" class=\"autolinked\" data-behavior=\"truncate\" href=\"https://snyderac.com/north-florida/jacksonville/\">https://snyderac.com/north-florida/jacksonville/</a>\n</div><div>\n<em>Additionally, we need to have Jacksonville added to the service area page:<br></em><a href=\"https://snyderac.com/about-us/our-service-areas/\" target=\"_blank\" rel=\"noreferrer\"><em>https://snyderac.com/about-us/our-service-areas/</em></a><em> </em><br><br>3. Can we please check on what may have caused this?&nbsp;</div><div><em>I just wanted to add and ask how this happened. It’s my understanding it was made clear this is a North Florida area not south Florida.</em></div><div><em>&nbsp;</em></div><div>\n<em>Also how was Jacksonville missed?&nbsp; That’s the major city in the area! </em><br><br><bc-attachment content-type=\"application/vnd.basecamp.horizontal-rule.html\"><figure>\n  <hr>\n</figure></bc-attachment><br><bc-attachment sgid=\"BAh7BkkiC19yYWlscwY6BkVUewdJIglkYXRhBjsAVEkiLmdpZDovL2JjMy9BdHRhY2htZW50LzgyMjk5NzY0Mj9leHBpcmVzX2luBjsAVEkiCHB1cgY7AFRJIg9hdHRhY2hhYmxlBjsAVA==--b3689552031c5f71c48c1d1692e7f6d5c2ecc10a\" content-type=\"image/png\" url=\"https://preview.3.basecamp.com/4226914/blobs/080fae0a-19a6-11f1-ae66-0242ac120003/previews/full\" href=\"https://storage.3.basecamp.com/4226914/blobs/080fae0a-19a6-11f1-ae66-0242ac120003/download/image.png\" filename=\"image.png\" filesize=\"563317\" width=\"888\" height=\"1676\" previewable=\"true\" presentation=\"gallery\"><figure>\n    <img srcset=\"https://preview.3.basecamp.com/4226914/blobs/080fae0a-19a6-11f1-ae66-0242ac120003/previews/full?dppx=2 2x, https://preview.3.basecamp.com/4226914/blobs/080fae0a-19a6-11f1-ae66-0242ac120003/previews/full?dppx=1 1x, https://preview.3.basecamp.com/4226914/blobs/080fae0a-19a6-11f1-ae66-0242ac120003/previews/full?dppx=3 3x, https://preview.3.basecamp.com/4226914/blobs/080fae0a-19a6-11f1-ae66-0242ac120003/previews/full?dppx=4 4x\" src=\"https://preview.3.basecamp.com/4226914/blobs/080fae0a-19a6-11f1-ae66-0242ac120003/previews/full\">\n  <figcaption>\n    image.png\n  </figcaption>\n</figure></bc-attachment><br><br>Thanks much!<br><br>cc <bc-attachment sgid=\"BAh7BkkiC19yYWlscwY6BkVUewdJIglkYXRhBjsAVEkiKWdpZDovL2JjMy9QZXJzb24vMjk2OTMyNTk_ZXhwaXJlc19pbgY7AFRJIghwdXIGOwBUSSIPYXR0YWNoYWJsZQY7AFQ=--a2cb6ba6eee241457b53ae4252d64b545bb46b66\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"29693259\" alt=\"Chris Traynor\" title=\"Chris Traynor, COO | SVP | Project Manager at Clixsy\" class=\"avatar\" loading=\"lazy\" decoding=\"async\" src=\"https://bc3-production-assets-cdn.basecamp-static.com/4226914/people/BAhpBEsVxQE=--4b8da3019bf3c6a778951517f5e9825817a2a024/avatar\" width=\"20\" height=\"20\">\n  <figcaption>\n    Chris\n  </figcaption>\n</figure></bc-attachment> <bc-attachment sgid=\"BAh7BkkiC19yYWlscwY6BkVUewdJIglkYXRhBjsAVEkiKWdpZDovL2JjMy9QZXJzb24vMjUxNDcyOTc_ZXhwaXJlc19pbgY7AFRJIghwdXIGOwBUSSIPYXR0YWNoYWJsZQY7AFQ=--4eb06fe2ab2e04325f0d616621cbe5a97c3fae20\" content-type=\"application/vnd.basecamp.mention\"><figure>\n  <img data-avatar-for-person-id=\"25147297\" alt=\"Clayton Coombs\" title=\"Clayton Coombs, President of SEO at Clixsy\" class=\"avatar\" loading=\"lazy\" decoding=\"async\" src=\"https://bc3-production-assets-cdn.basecamp-static.com/4226914/people/BAhpBKG3fwE=--e4c69674c81004f369132ac792331e4590f68855/avatar\" width=\"20\" height=\"20\">\n  <figcaption>\n    Clayton\n  </figcaption>\n</figure></bc-attachment>&nbsp;</div>",
+    "visible_to_clients": false
+  },
+  {
+    "id": 9298848588,
+    "title": "Location Pop Up issue",
+    "list_title": "CLIENT CHANGE REQUESTS:",
+    "completed": true,
+    "due_on": "2025-11-19",
+    "created_at": "2025-11-18T23:43:48.988Z",
+    "updated_at": "2026-05-07T17:45:07.270Z",
+    "completed_on": "2026-05-07T17:45:07.246Z",
+    "comments_count": 21,
+    "assignees": "Bogdan Zakharchyshyn, Predrag",
+    "app_url": "https://3.basecamp.com/4226914/buckets/35591915/todos/9298848588",
+    "description": "<div>Seeking help w/ a client reported issue please.<br>&nbsp; | <a href=\"https://snyderac.com/\" target=\"_blank\" rel=\"noreferrer\">https://snyderac.com/</a><br><br>Issue -&nbsp; “Find Your Location” pop-up keeps showing on every page. Happening on mobile only. Desktop is ok.<br><br>Client phone: Iphone 13<br>Browsers used: Safari, Firefox, and Chrome&nbsp;<br>- They already cleared cache but still ongoing.<br>- She had someone try it too: same issue<br><br>I tried to replicate on my end: it working on mine.<br>Phone: Samsung&nbsp;<br>Browser: Chrome [both regular and incognito works]<br><br>---<br>Thanks much</div>",
     "visible_to_clients": false
   },
   {
