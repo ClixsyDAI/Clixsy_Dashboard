@@ -3,6 +3,8 @@ import Anthropic from "@anthropic-ai/sdk";
 import { loadClientTodos } from "../../lib/dashboard-data";
 import { loadGscData, loadGa4Data } from "../../lib/google-data";
 import { getBrightLocalSummary } from "../../lib/brightlocal-data";
+import { getOnboardingByWorkbookId } from "../../lib/onboarding/get-by-workbook-id";
+import { SECTION_CONFIGS } from "../../lib/onboarding/field-config";
 import projects from "../../data/projects.json";
 
 const anthropic = new Anthropic();
@@ -199,12 +201,56 @@ const tools: Anthropic.Tool[] = [
       "Get BrightLocal local SEO snapshot: locations, ranking movements, citations, GBP rank, reviews, GBP calls.",
     input_schema: { type: "object", properties: {} },
   },
+  {
+    name: "get_onboarding_status",
+    description:
+      "Get headline onboarding state for this client: status (draft/in_progress/submitted), vertical (law_firm/home_services), account manager, primary contact name/email (when filled), submission timestamp (when submitted), and how many of the 12 onboarding steps are completed. Use this for any 'what is their onboarding status', 'have they submitted', 'who is the contact', 'which AM owns this', or 'how far along are they' question — never guess from other tools. Returns { kind: 'no_client' } if the workbook id has no client row, or { kind: 'no_session' } if the client exists but hasn't started onboarding.",
+    input_schema: { type: "object", properties: {} },
+  },
+  {
+    name: "list_onboarding_steps",
+    description:
+      "List all 12 onboarding steps for this client, in form order, with each step's completed flag and the count of fields the client has answered so far. Use this to scan the whole onboarding at a glance, to identify which sections are blank vs. partially filled, or to find the right step_key to drill into via get_onboarding_step. Returns { kind: 'no_client' } or { kind: 'no_session' } on the empty-state cases.",
+    input_schema: { type: "object", properties: {} },
+  },
+  {
+    name: "get_onboarding_step",
+    description:
+      "Get the answers the client provided for one onboarding step. Returns the step's display name, completed flag, and a map of field_key → value covering every field the client has filled in that step. Use this for any specific-detail question ('what did they say about X', 'what is their physical address', 'what are their brand colours', 'what languages do they support'). The step_key must match one of the 12 form steps — call list_onboarding_steps first if you don't know the key. Returns { kind: 'step_not_found', available_steps: [...] } if the key is unknown, or { kind: 'no_client' } / { kind: 'no_session' } on the empty-state cases.",
+    input_schema: {
+      type: "object",
+      properties: {
+        step_key: {
+          type: "string",
+          description:
+            "Onboarding step key (e.g. 'primary_contact', 'business_overview', 'brand_design', 'goals_strategy'). Use list_onboarding_steps to discover valid keys for this client.",
+        },
+      },
+      required: ["step_key"],
+    },
+  },
+  {
+    name: "get_site_intelligence",
+    description:
+      "Get one of the four site-intelligence snapshots captured by the onboarding system's Firecrawl extraction (run when the AM first created the session). These are LARGE JSON blobs (each can be 200-6000 tokens). Use ONLY when the AM explicitly asks about branding extraction, site-intelligence insights, competitive analysis from the website, or pre-filled values vs. operator overrides. For everyday questions about what the client wrote in the form, prefer get_onboarding_step. snapshot_type values: 'branding' (extracted colours/fonts/logo URL), 'insights' (Firecrawl narrative summary of the site — largest), 'overrides' (operator-edited values that diverged from the prefill), 'prefill' (the auto-populated initial values). Returns { kind: 'no_snapshot' } when the column is null for this session.",
+    input_schema: {
+      type: "object",
+      properties: {
+        snapshot_type: {
+          type: "string",
+          enum: ["branding", "insights", "overrides", "prefill"],
+          description: "Which snapshot column to fetch.",
+        },
+      },
+      required: ["snapshot_type"],
+    },
+  },
 ];
 
 function runTool(
   name: string,
   input: Record<string, unknown>,
-  ctx: ReturnType<typeof loadProjectContext>
+  ctx: Awaited<ReturnType<typeof loadProjectContext>>
 ): unknown {
   switch (name) {
     case "list_basecamp_tasks": {
@@ -553,17 +599,126 @@ function runTool(
       if (!ctx.blData) return { error: "No BrightLocal data" };
       return ctx.blData;
     }
+    case "get_onboarding_status": {
+      const ob = ctx.onboarding;
+      if (ob.kind === "invalid_id") return { kind: "no_client", message: ob.message };
+      if (ob.kind === "not_found") {
+        return ob.reason === "no_client"
+          ? { kind: "no_client", message: "No client row matches this workbook id." }
+          : { kind: "no_session", message: "Client exists but has no onboarding session." };
+      }
+      if (ob.kind === "error") return { error: `Onboarding fetch failed: ${ob.message}` };
+      const { client, session, answers } = ob.payload;
+      const completed = answers.filter((a) => a.completed).length;
+      return {
+        kind: "ok",
+        status: session.status,
+        vertical: session.vertical,
+        account_manager: session.account_manager,
+        primary_contact_name: client.primary_contact_name,
+        primary_contact_email: client.primary_contact_email,
+        submitted_at: session.submitted_at,
+        last_saved_at: session.last_saved_at,
+        total_steps: SECTION_CONFIGS.length,
+        completed_steps: completed,
+      };
+    }
+    case "list_onboarding_steps": {
+      const ob = ctx.onboarding;
+      if (ob.kind === "invalid_id") return { kind: "no_client", message: ob.message };
+      if (ob.kind === "not_found") {
+        return ob.reason === "no_client"
+          ? { kind: "no_client", message: "No client row matches this workbook id." }
+          : { kind: "no_session", message: "Client exists but has no onboarding session." };
+      }
+      if (ob.kind === "error") return { error: `Onboarding fetch failed: ${ob.message}` };
+      const byStepKey = new Map(
+        ob.payload.answers.map((a) => [a.step_key, a]),
+      );
+      const steps = SECTION_CONFIGS.map((s) => {
+        const row = byStepKey.get(s.stepKey);
+        const ans = (row?.answers as Record<string, unknown> | undefined) ?? {};
+        return {
+          step_key: s.stepKey,
+          step_name: s.name,
+          completed: row?.completed ?? false,
+          answer_count: Object.keys(ans).length,
+        };
+      });
+      return { steps };
+    }
+    case "get_onboarding_step": {
+      const stepKey = String(input.step_key || "");
+      const ob = ctx.onboarding;
+      if (ob.kind === "invalid_id") return { kind: "no_client", message: ob.message };
+      if (ob.kind === "not_found") {
+        return ob.reason === "no_client"
+          ? { kind: "no_client", message: "No client row matches this workbook id." }
+          : { kind: "no_session", message: "Client exists but has no onboarding session." };
+      }
+      if (ob.kind === "error") return { error: `Onboarding fetch failed: ${ob.message}` };
+      const section = SECTION_CONFIGS.find((s) => s.stepKey === stepKey);
+      if (!section) {
+        return {
+          kind: "step_not_found",
+          available_steps: SECTION_CONFIGS.map((s) => s.stepKey),
+        };
+      }
+      const row = ob.payload.answers.find((a) => a.step_key === stepKey);
+      const answers = (row?.answers as Record<string, unknown> | undefined) ?? {};
+      return {
+        step_key: section.stepKey,
+        step_name: section.name,
+        completed: row?.completed ?? false,
+        answers,
+      };
+    }
+    case "get_site_intelligence": {
+      const snapshotType = String(input.snapshot_type || "");
+      const ob = ctx.onboarding;
+      if (ob.kind === "invalid_id") return { kind: "no_client", message: ob.message };
+      if (ob.kind === "not_found") {
+        return ob.reason === "no_client"
+          ? { kind: "no_client", message: "No client row matches this workbook id." }
+          : { kind: "no_session", message: "Client exists but has no onboarding session." };
+      }
+      if (ob.kind === "error") return { error: `Onboarding fetch failed: ${ob.message}` };
+      const column = (
+        {
+          branding: "si_branding_snapshot",
+          insights: "si_insights_snapshot",
+          overrides: "si_overrides_snapshot",
+          prefill: "si_prefill_snapshot",
+        } as const
+      )[snapshotType as "branding" | "insights" | "overrides" | "prefill"];
+      if (!column) {
+        return {
+          error: `Unknown snapshot_type: ${snapshotType}. Expected one of branding, insights, overrides, prefill.`,
+        };
+      }
+      const snapshot = (ob.payload.session as Record<string, unknown>)[column];
+      if (snapshot === null || snapshot === undefined) {
+        return { kind: "no_snapshot", snapshot_type: snapshotType };
+      }
+      return { kind: "ok", snapshot_type: snapshotType, snapshot };
+    }
     default:
       return { error: `Unknown tool: ${name}` };
   }
 }
 
-function loadProjectContext(projectId: string) {
+async function loadProjectContext(projectId: string) {
   const todos = loadClientTodos(projectId) || [];
   const gscData = loadGscData(projectId);
   const ga4Data = loadGa4Data(projectId);
   const blData = getBrightLocalSummary(projectId);
-  return { todos, gscData, ga4Data, blData };
+  // Fetch onboarding via Supabase (server-side, service-role) — same
+  // helper the Onboarding tab uses, returned as the discriminated
+  // union so tool implementations can branch on kind === "ok" vs the
+  // not_found / error cases. One fetch per request, memoized into ctx
+  // for all subsequent tool calls in the loop below.
+  const onboarding = await getOnboardingByWorkbookId(projectId);
+  return { todos, gscData, ga4Data, blData, onboarding };
 }
 
 interface IncomingMessage {
@@ -588,16 +743,39 @@ export async function POST(request: Request) {
     const project = projects.find((p) => String(p.id) === String(projectId));
     if (!project) return NextResponse.json({ error: "Project not found" }, { status: 404 });
 
-    const ctx = loadProjectContext(String(projectId));
+    const ctx = await loadProjectContext(String(projectId));
+
+    // Onboarding availability flag + headline status. `kind === "ok"`
+    // means the client has at least started an onboarding session;
+    // anything else (no_client, no_session, invalid_id, error) means
+    // the tools will return their respective empty-state objects when
+    // the model calls them. The headline fields below let the model
+    // decide whether to bother calling the onboarding tools at all
+    // for questions where the answer is obvious from the status.
+    const onboardingPresent = ctx.onboarding.kind === "ok";
+    let onboardingStatus: string | undefined;
+    let onboardingCompletion: string | undefined;
+    if (onboardingPresent && ctx.onboarding.kind === "ok") {
+      onboardingStatus = ctx.onboarding.payload.session.status;
+      const completedSteps = ctx.onboarding.payload.answers.filter(
+        (a) => a.completed,
+      ).length;
+      onboardingCompletion = `${completedSteps}/${SECTION_CONFIGS.length} steps`;
+    }
 
     const availability = {
       basecamp_tasks: ctx.todos.length,
       gsc: !!ctx.gscData,
       ga4: !!ctx.ga4Data,
       brightlocal: !!ctx.blData,
+      onboarding: onboardingPresent,
+      ...(onboardingStatus ? { onboarding_status: onboardingStatus } : {}),
+      ...(onboardingCompletion
+        ? { onboarding_completion: onboardingCompletion }
+        : {}),
     };
 
-    const system = `You are an internal assistant for Clixsy account managers. You answer questions about a single client's data: Basecamp project tasks, Google Search Console, Google Analytics 4, and BrightLocal local SEO.
+    const system = `You are an internal assistant for Clixsy account managers. You answer questions about a single client's data: Basecamp project tasks, Google Search Console, Google Analytics 4, BrightLocal local SEO, and the client's onboarding form responses (when available).
 
 CLIENT: ${project.name}
 DESCRIPTION: ${project.description}
