@@ -90,21 +90,6 @@
     "visible_to_clients": false
   },
   {
-    "id": 9759877333,
-    "title": "Development Checklist...",
-    "list_title": "6. OFFBOARDING CHECKLIST",
-    "completed": false,
-    "due_on": "2026-05-08",
-    "created_at": "2026-04-07T14:53:18.101Z",
-    "updated_at": "2026-04-29T21:56:46.286Z",
-    "completed_on": null,
-    "comments_count": 2,
-    "assignees": "Keith Bruss, Predrag",
-    "app_url": "https://3.basecamp.com/4226914/buckets/39614475/todos/9759877333",
-    "description": "<ul>\n<li>Add temporary website user&nbsp;</li>\n<li>Remove Clixsy users&nbsp;</li>\n<li>Zip website and send over GoogleDrive link&nbsp;</li>\n<li>Reconfigure InfiniteWP&nbsp;</li>\n<li>Remove from UptimeRobot&nbsp;</li>\n<li>Remove Nitropack&nbsp;</li>\n<li>Remove our accounts from their Google properties/website assets&nbsp;</li>\n<li>Ensure client has admin-level access to accounts&nbsp;</li>\n<li>Remove Google verification tags</li>\n</ul><div><br></div><div>\n<br>&nbsp;</div>",
-    "visible_to_clients": false
-  },
-  {
     "id": 9759877394,
     "title": "SEO Checklist...",
     "list_title": "6. OFFBOARDING CHECKLIST",
@@ -147,6 +132,21 @@
     "assignees": "",
     "app_url": "https://3.basecamp.com/4226914/buckets/39614475/todos/9759877497",
     "description": "<ul>\n<li>Ensure the client has admin-level access to accounts.&nbsp;</li>\n<li>Send client sign-off email (Goodbye) (PM or Client Manager/Account Manager)</li>\n<li>Set as inactive on the <a href=\"https://docs.google.com/spreadsheets/d/1E1leHZvFEhxcOe5HNAbK6nX-qpF3RY9SVMO2vkXGYOc/edit?pli=1&amp;gid=943140836#gid=943140836&amp;range=A2\" target=\"_blank\" rel=\"noreferrer\">project management tracker</a>, under column A.&nbsp;</li>\n</ul>",
+    "visible_to_clients": false
+  },
+  {
+    "id": 9759877333,
+    "title": "Development Checklist...",
+    "list_title": "6. OFFBOARDING CHECKLIST",
+    "completed": true,
+    "due_on": "2026-05-08",
+    "created_at": "2026-04-07T14:53:18.101Z",
+    "updated_at": "2026-05-07T16:36:13.803Z",
+    "completed_on": "2026-05-07T16:36:13.782Z",
+    "comments_count": 3,
+    "assignees": "Keith Bruss, Predrag",
+    "app_url": "https://3.basecamp.com/4226914/buckets/39614475/todos/9759877333",
+    "description": "<ul>\n<li>Add temporary website user&nbsp;</li>\n<li>Remove Clixsy users&nbsp;</li>\n<li>Zip website and send over GoogleDrive link&nbsp;</li>\n<li>Reconfigure InfiniteWP&nbsp;</li>\n<li>Remove from UptimeRobot&nbsp;</li>\n<li>Remove Nitropack&nbsp;</li>\n<li>Remove our accounts from their Google properties/website assets&nbsp;</li>\n<li>Ensure client has admin-level access to accounts&nbsp;</li>\n<li>Remove Google verification tags</li>\n</ul><div><br></div><div>\n<br>&nbsp;</div>",
     "visible_to_clients": false
   },
   {
@@ -240,21 +240,6 @@
     "visible_to_clients": false
   },
   {
-    "id": 9599081733,
-    "title": "Update coupon function",
-    "list_title": "CLIENT CHANGE REQUESTS:",
-    "completed": false,
-    "due_on": "2026-02-20",
-    "created_at": "2026-02-19T20:32:42.888Z",
-    "updated_at": "2026-02-19T21:29:44.496Z",
-    "completed_on": null,
-    "comments_count": 5,
-    "assignees": "Bogdan Zakharchyshyn, Jordan",
-    "app_url": "https://3.basecamp.com/4226914/buckets/39614475/todos/9599081733",
-    "description": "<div>This is related to the discussion task - <a href=\"https://3.basecamp.com/4226914/buckets/39614475/todos/9598371450\">Update coupon button function - J339 Henco Plumbing Services</a><br><br><a target=\"_blank\" rel=\"noreferrer\" class=\"autolinked\" data-behavior=\"truncate\" href=\"https://www.hencoplumbing.com/\">https://www.hencoplumbing.com/</a><br> <a target=\"_blank\" rel=\"noreferrer\" class=\"autolinked\" data-behavior=\"truncate\" href=\"https://www.hencoplumbing.com/coupons/\">https://www.hencoplumbing.com/coupons/</a>&nbsp;<br><br>1. Please remove the scheduler on the banner and 'Get this deal' buttons from the coupon page.&nbsp;<br><br>\n</div><div>\n  <bc-attachment sgid=\"BAh7BkkiC19yYWlscwY6BkVUewdJIglkYXRhBjsAVEkiLmdpZDovL2JjMy9BdHRhY2htZW50LzgxNzI0ODE2NT9leHBpcmVzX2luBjsAVEkiCHB1cgY7AFRJIg9hdHRhY2hhYmxlBjsAVA==--08b51947b148d6bf4537748b1d2f62e9b1f19edd\" content-type=\"image/png\" url=\"https://preview.3.basecamp.com/4226914/blobs/f8e5108a-0dd1-11f1-b877-0242ac120004/previews/full\" href=\"https://storage.3.basecamp.com/4226914/blobs/f8e5108a-0dd1-11f1-b877-0242ac120004/download/image.png\" filename=\"image.png\" filesize=\"11600\" width=\"735\" height=\"46\" previewable=\"true\" presentation=\"gallery\"><figure>\n    <img srcset=\"https://preview.3.basecamp.com/4226914/blobs/f8e5108a-0dd1-11f1-b877-0242ac120004/previews/full?dppx=2 2x, https://preview.3.basecamp.com/4226914/blobs/f8e5108a-0dd1-11f1-b877-0242ac120004/previews/full?dppx=1 1x, https://preview.3.basecamp.com/4226914/blobs/f8e5108a-0dd1-11f1-b877-0242ac120004/previews/full?dppx=3 3x, https://preview.3.basecamp.com/4226914/blobs/f8e5108a-0dd1-11f1-b877-0242ac120004/previews/full?dppx=4 4x\" src=\"https://preview.3.basecamp.com/4226914/blobs/f8e5108a-0dd1-11f1-b877-0242ac120004/previews/full\">\n  <figcaption>\n    image.png\n  </figcaption>\n</figure></bc-attachment><bc-attachment sgid=\"BAh7BkkiC19yYWlscwY6BkVUewdJIglkYXRhBjsAVEkiLmdpZDovL2JjMy9BdHRhY2htZW50LzgxNzI0ODI0Nz9leHBpcmVzX2luBjsAVEkiCHB1cgY7AFRJIg9hdHRhY2hhYmxlBjsAVA==--54fc69c644f7cba9158aea7102b73f9a652f4c6e\" content-type=\"image/png\" url=\"https://preview.3.basecamp.com/4226914/blobs/0154c634-0dd2-11f1-872c-0242ac120004/previews/full\" href=\"https://storage.3.basecamp.com/4226914/blobs/0154c634-0dd2-11f1-872c-0242ac120004/download/image.png\" filename=\"image.png\" filesize=\"32324\" width=\"472\" height=\"340\" previewable=\"true\" presentation=\"gallery\"><figure>\n    <img srcset=\"https://preview.3.basecamp.com/4226914/blobs/0154c634-0dd2-11f1-872c-0242ac120004/previews/full?dppx=2 2x, https://preview.3.basecamp.com/4226914/blobs/0154c634-0dd2-11f1-872c-0242ac120004/previews/full?dppx=1 1x, https://preview.3.basecamp.com/4226914/blobs/0154c634-0dd2-11f1-872c-0242ac120004/previews/full?dppx=3 3x, https://preview.3.basecamp.com/4226914/blobs/0154c634-0dd2-11f1-872c-0242ac120004/previews/full?dppx=4 4x\" src=\"https://preview.3.basecamp.com/4226914/blobs/0154c634-0dd2-11f1-872c-0242ac120004/previews/full\">\n  <figcaption>\n    image.png\n  </figcaption>\n</figure></bc-attachment>\n</div><div>2. Anchor link them to the contact us form from the coupon page.<br><bc-attachment sgid=\"BAh7BkkiC19yYWlscwY6BkVUewdJIglkYXRhBjsAVEkiLmdpZDovL2JjMy9BdHRhY2htZW50LzgxNzI0ODM5Nj9leHBpcmVzX2luBjsAVEkiCHB1cgY7AFRJIg9hdHRhY2hhYmxlBjsAVA==--9cea50d741222ee93319e6b691470abd43bed0ae\" content-type=\"image/png\" url=\"https://preview.3.basecamp.com/4226914/blobs/0e65477c-0dd2-11f1-8765-0242ac120004/previews/full\" href=\"https://storage.3.basecamp.com/4226914/blobs/0e65477c-0dd2-11f1-8765-0242ac120004/download/image.png\" filename=\"image.png\" filesize=\"24452\" width=\"757\" height=\"446\" previewable=\"true\" presentation=\"gallery\"><figure>\n    <img srcset=\"https://preview.3.basecamp.com/4226914/blobs/0e65477c-0dd2-11f1-8765-0242ac120004/previews/full?dppx=2 2x, https://preview.3.basecamp.com/4226914/blobs/0e65477c-0dd2-11f1-8765-0242ac120004/previews/full?dppx=1 1x, https://preview.3.basecamp.com/4226914/blobs/0e65477c-0dd2-11f1-8765-0242ac120004/previews/full?dppx=3 3x, https://preview.3.basecamp.com/4226914/blobs/0e65477c-0dd2-11f1-8765-0242ac120004/previews/full?dppx=4 4x\" src=\"https://preview.3.basecamp.com/4226914/blobs/0e65477c-0dd2-11f1-8765-0242ac120004/previews/full\">\n  <figcaption>\n    image.png\n  </figcaption>\n</figure></bc-attachment><br>Thanks much!</div>",
-    "visible_to_clients": false
-  },
-  {
     "id": 9787223061,
     "title": "Review Schema Errors - Henco",
     "list_title": "CLIENT CHANGE REQUESTS:",
@@ -267,6 +252,21 @@
     "assignees": "Bogdan Zakharchyshyn",
     "app_url": "https://3.basecamp.com/4226914/buckets/39614475/todos/9787223061",
     "description": "<div>Seeking help w/ a client reported issue please.<br><br>He got an email about a few different invalid schema errors in Henco's GSC dashboard. Can your team looking what changed and correct this please?<br><bc-attachment sgid=\"BAh7BkkiC19yYWlscwY6BkVUewdJIglkYXRhBjsAVEkiLmdpZDovL2JjMy9BdHRhY2htZW50LzgzNTUzNTg4Nj9leHBpcmVzX2luBjsAVEkiCHB1cgY7AFRJIg9hdHRhY2hhYmxlBjsAVA==--ea87de87b9cf79f89b6b9512c188ed161c80259c\" content-type=\"image/png\" url=\"https://preview.3.basecamp.com/4226914/blobs/8c9c85f0-3529-11f1-92d9-0242ac120004/previews/full\" href=\"https://storage.3.basecamp.com/4226914/blobs/8c9c85f0-3529-11f1-92d9-0242ac120004/download/vlk_VQ67c3qSf8ovty5T1jH8r_czZ9rv2Q.png\" filename=\"vlk_VQ67c3qSf8ovty5T1jH8r_czZ9rv2Q.png\" filesize=\"23225\" width=\"944\" height=\"585\" previewable=\"true\" presentation=\"gallery\"><figure>\n    <img srcset=\"https://preview.3.basecamp.com/4226914/blobs/8c9c85f0-3529-11f1-92d9-0242ac120004/previews/full?dppx=2 2x, https://preview.3.basecamp.com/4226914/blobs/8c9c85f0-3529-11f1-92d9-0242ac120004/previews/full?dppx=1 1x, https://preview.3.basecamp.com/4226914/blobs/8c9c85f0-3529-11f1-92d9-0242ac120004/previews/full?dppx=3 3x, https://preview.3.basecamp.com/4226914/blobs/8c9c85f0-3529-11f1-92d9-0242ac120004/previews/full?dppx=4 4x\" src=\"https://preview.3.basecamp.com/4226914/blobs/8c9c85f0-3529-11f1-92d9-0242ac120004/previews/full\">\n  <figcaption>\n    vlk_VQ67c3qSf8ovty5T1jH8r_czZ9rv2Q.png\n  </figcaption>\n</figure></bc-attachment><br><br>---<br>Thanks much!<br><br><bc-attachment sgid=\"BAh7BkkiC19yYWlscwY6BkVUewdJIglkYXRhBjsAVEkiLmdpZDovL2JjMy9BdHRhY2htZW50LzgzNTUzNjA1Mz9leHBpcmVzX2luBjsAVEkiCHB1cgY7AFRJIg9hdHRhY2hhYmxlBjsAVA==--bf2fafaa114545cbca9bf2c70a61c7286c52154a\" content-type=\"image/png\" url=\"https://preview.3.basecamp.com/4226914/blobs/ab9c2ec4-3529-11f1-97ee-0242ac120004/previews/full\" href=\"https://storage.3.basecamp.com/4226914/blobs/ab9c2ec4-3529-11f1-97ee-0242ac120004/download/image.png\" filename=\"image.png\" filesize=\"136406\" width=\"838\" height=\"678\" previewable=\"true\" presentation=\"gallery\"><figure>\n    <img srcset=\"https://preview.3.basecamp.com/4226914/blobs/ab9c2ec4-3529-11f1-97ee-0242ac120004/previews/full?dppx=2 2x, https://preview.3.basecamp.com/4226914/blobs/ab9c2ec4-3529-11f1-97ee-0242ac120004/previews/full?dppx=1 1x, https://preview.3.basecamp.com/4226914/blobs/ab9c2ec4-3529-11f1-97ee-0242ac120004/previews/full?dppx=3 3x, https://preview.3.basecamp.com/4226914/blobs/ab9c2ec4-3529-11f1-97ee-0242ac120004/previews/full?dppx=4 4x\" src=\"https://preview.3.basecamp.com/4226914/blobs/ab9c2ec4-3529-11f1-97ee-0242ac120004/previews/full\">\n  <figcaption>\n    image.png\n  </figcaption>\n</figure></bc-attachment> <br><br>Some steps has already been done by SEO via this task: <a href=\"https://3.basecamp.com/4226914/buckets/39614475/todos/9775588491#__recording_9787208620\">Re: Review Schema Errors - Henco - J339 Henco Plumbing Services</a> but we need further help from DEV please.&nbsp;<br><br>Thanks much!</div>",
+    "visible_to_clients": false
+  },
+  {
+    "id": 9599081733,
+    "title": "Update coupon function",
+    "list_title": "CLIENT CHANGE REQUESTS:",
+    "completed": true,
+    "due_on": "2026-02-20",
+    "created_at": "2026-02-19T20:32:42.888Z",
+    "updated_at": "2026-05-07T17:51:20.351Z",
+    "completed_on": "2026-05-07T17:51:20.322Z",
+    "comments_count": 5,
+    "assignees": "Bogdan Zakharchyshyn, Jordan",
+    "app_url": "https://3.basecamp.com/4226914/buckets/39614475/todos/9599081733",
+    "description": "<div>This is related to the discussion task - <a href=\"https://3.basecamp.com/4226914/buckets/39614475/todos/9598371450\">Update coupon button function - J339 Henco Plumbing Services</a><br><br><a target=\"_blank\" rel=\"noreferrer\" class=\"autolinked\" data-behavior=\"truncate\" href=\"https://www.hencoplumbing.com/\">https://www.hencoplumbing.com/</a><br> <a target=\"_blank\" rel=\"noreferrer\" class=\"autolinked\" data-behavior=\"truncate\" href=\"https://www.hencoplumbing.com/coupons/\">https://www.hencoplumbing.com/coupons/</a>&nbsp;<br><br>1. Please remove the scheduler on the banner and 'Get this deal' buttons from the coupon page.&nbsp;<br><br>\n</div><div>\n  <bc-attachment sgid=\"BAh7BkkiC19yYWlscwY6BkVUewdJIglkYXRhBjsAVEkiLmdpZDovL2JjMy9BdHRhY2htZW50LzgxNzI0ODE2NT9leHBpcmVzX2luBjsAVEkiCHB1cgY7AFRJIg9hdHRhY2hhYmxlBjsAVA==--08b51947b148d6bf4537748b1d2f62e9b1f19edd\" content-type=\"image/png\" url=\"https://preview.3.basecamp.com/4226914/blobs/f8e5108a-0dd1-11f1-b877-0242ac120004/previews/full\" href=\"https://storage.3.basecamp.com/4226914/blobs/f8e5108a-0dd1-11f1-b877-0242ac120004/download/image.png\" filename=\"image.png\" filesize=\"11600\" width=\"735\" height=\"46\" previewable=\"true\" presentation=\"gallery\"><figure>\n    <img srcset=\"https://preview.3.basecamp.com/4226914/blobs/f8e5108a-0dd1-11f1-b877-0242ac120004/previews/full?dppx=2 2x, https://preview.3.basecamp.com/4226914/blobs/f8e5108a-0dd1-11f1-b877-0242ac120004/previews/full?dppx=1 1x, https://preview.3.basecamp.com/4226914/blobs/f8e5108a-0dd1-11f1-b877-0242ac120004/previews/full?dppx=3 3x, https://preview.3.basecamp.com/4226914/blobs/f8e5108a-0dd1-11f1-b877-0242ac120004/previews/full?dppx=4 4x\" src=\"https://preview.3.basecamp.com/4226914/blobs/f8e5108a-0dd1-11f1-b877-0242ac120004/previews/full\">\n  <figcaption>\n    image.png\n  </figcaption>\n</figure></bc-attachment><bc-attachment sgid=\"BAh7BkkiC19yYWlscwY6BkVUewdJIglkYXRhBjsAVEkiLmdpZDovL2JjMy9BdHRhY2htZW50LzgxNzI0ODI0Nz9leHBpcmVzX2luBjsAVEkiCHB1cgY7AFRJIg9hdHRhY2hhYmxlBjsAVA==--54fc69c644f7cba9158aea7102b73f9a652f4c6e\" content-type=\"image/png\" url=\"https://preview.3.basecamp.com/4226914/blobs/0154c634-0dd2-11f1-872c-0242ac120004/previews/full\" href=\"https://storage.3.basecamp.com/4226914/blobs/0154c634-0dd2-11f1-872c-0242ac120004/download/image.png\" filename=\"image.png\" filesize=\"32324\" width=\"472\" height=\"340\" previewable=\"true\" presentation=\"gallery\"><figure>\n    <img srcset=\"https://preview.3.basecamp.com/4226914/blobs/0154c634-0dd2-11f1-872c-0242ac120004/previews/full?dppx=2 2x, https://preview.3.basecamp.com/4226914/blobs/0154c634-0dd2-11f1-872c-0242ac120004/previews/full?dppx=1 1x, https://preview.3.basecamp.com/4226914/blobs/0154c634-0dd2-11f1-872c-0242ac120004/previews/full?dppx=3 3x, https://preview.3.basecamp.com/4226914/blobs/0154c634-0dd2-11f1-872c-0242ac120004/previews/full?dppx=4 4x\" src=\"https://preview.3.basecamp.com/4226914/blobs/0154c634-0dd2-11f1-872c-0242ac120004/previews/full\">\n  <figcaption>\n    image.png\n  </figcaption>\n</figure></bc-attachment>\n</div><div>2. Anchor link them to the contact us form from the coupon page.<br><bc-attachment sgid=\"BAh7BkkiC19yYWlscwY6BkVUewdJIglkYXRhBjsAVEkiLmdpZDovL2JjMy9BdHRhY2htZW50LzgxNzI0ODM5Nj9leHBpcmVzX2luBjsAVEkiCHB1cgY7AFRJIg9hdHRhY2hhYmxlBjsAVA==--9cea50d741222ee93319e6b691470abd43bed0ae\" content-type=\"image/png\" url=\"https://preview.3.basecamp.com/4226914/blobs/0e65477c-0dd2-11f1-8765-0242ac120004/previews/full\" href=\"https://storage.3.basecamp.com/4226914/blobs/0e65477c-0dd2-11f1-8765-0242ac120004/download/image.png\" filename=\"image.png\" filesize=\"24452\" width=\"757\" height=\"446\" previewable=\"true\" presentation=\"gallery\"><figure>\n    <img srcset=\"https://preview.3.basecamp.com/4226914/blobs/0e65477c-0dd2-11f1-8765-0242ac120004/previews/full?dppx=2 2x, https://preview.3.basecamp.com/4226914/blobs/0e65477c-0dd2-11f1-8765-0242ac120004/previews/full?dppx=1 1x, https://preview.3.basecamp.com/4226914/blobs/0e65477c-0dd2-11f1-8765-0242ac120004/previews/full?dppx=3 3x, https://preview.3.basecamp.com/4226914/blobs/0e65477c-0dd2-11f1-8765-0242ac120004/previews/full?dppx=4 4x\" src=\"https://preview.3.basecamp.com/4226914/blobs/0e65477c-0dd2-11f1-8765-0242ac120004/previews/full\">\n  <figcaption>\n    image.png\n  </figcaption>\n</figure></bc-attachment><br>Thanks much!</div>",
     "visible_to_clients": false
   },
   {
