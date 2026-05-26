@@ -5,7 +5,9 @@ const BASECAMP_ACCOUNT_ID = process.env.BASECAMP_ACCOUNT_ID || "4226914";
 
 const USER_AGENT = "Client Workbook Dashboard (johan@clixsy.com)";
 const TOKEN_URL = "https://launchpad.37signals.com/authorization/token";
-const API_BASE = `https://3.basecampapi.com/${BASECAMP_ACCOUNT_ID}`;
+export const BASECAMP_API_BASE = `https://3.basecampapi.com/${BASECAMP_ACCOUNT_ID}`;
+// Internal alias kept for the existing callers in this file.
+const API_BASE = BASECAMP_API_BASE;
 
 export interface BasecampTokens {
   access_token: string;
@@ -133,7 +135,7 @@ export async function refreshAccessToken(
 }
 
 /** Make an authenticated Basecamp API request with pagination support */
-async function basecampFetch<T>(
+export async function basecampFetch<T>(
   url: string,
   accessToken: string
 ): Promise<T[]> {
@@ -182,7 +184,7 @@ async function basecampFetch<T>(
 }
 
 /** Fetch a single resource (non-array) */
-async function basecampFetchOne<T>(
+export async function basecampFetchOne<T>(
   url: string,
   accessToken: string
 ): Promise<T> {

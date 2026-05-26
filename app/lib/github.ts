@@ -96,12 +96,19 @@ export async function commitClientData(
   return commitFile(path, content, message);
 }
 
-/** Commit the projects.json manifest */
+/** Commit the projects.json manifest.
+ *
+ * Formats as one compact object per line (`  {…},\n`) to match the
+ * file's existing style. Using `JSON.stringify(projects, null, 2)`
+ * would expand every entry onto five lines and produce a ~250-line
+ * diff for a single-row addition, which is noisy in the commit log.
+ */
 export async function commitProjectsManifest(
   projects: unknown[]
 ): Promise<{ sha: string; url: string }> {
   const path = "app/data/projects.json";
-  const content = JSON.stringify(projects, null, 2);
+  const lines = projects.map((p) => "  " + JSON.stringify(p));
+  const content = "[\n" + lines.join(",\n") + "\n]\n";
   const message = "sync: update projects manifest";
   return commitFile(path, content, message);
 }
