@@ -85,7 +85,20 @@ export async function exchangeCodeForTokens(
   return res.json();
 }
 
-/** Refresh an expired access token */
+/** Refresh an expired access token.
+ *
+ * Launchpad's refresh endpoint returns only `{ access_token, token_type,
+ * expires_in }` — no `refresh_token` field. Refresh tokens live until
+ * natural expiry and are not rotated on use. Earlier versions of this
+ * function returned `res.json()` verbatim and so produced an object
+ * with `refresh_token: undefined`, which `storeBasecampTokens()` then
+ * forwarded to the Vercel REST API and would silently wipe the
+ * `BASECAMP_REFRESH_TOKEN` env var on the next refresh.
+ *
+ * Preserve the caller-supplied refresh_token in the return value so
+ * downstream callers (sync routes → storeBasecampTokens →
+ * upsertEnvVar) always see a real string.
+ */
 export async function refreshAccessToken(
   refreshToken: string
 ): Promise<BasecampTokens> {
@@ -106,7 +119,17 @@ export async function refreshAccessToken(
     throw new Error(`Token refresh failed (${res.status}): ${text}`);
   }
 
-  return res.json();
+  const data = (await res.json()) as {
+    access_token: string;
+    expires_in?: number;
+    token_type?: string;
+    refresh_token?: string;
+  };
+  return {
+    access_token: data.access_token,
+    refresh_token: data.refresh_token ?? refreshToken,
+    expires_in: data.expires_in,
+  };
 }
 
 /** Make an authenticated Basecamp API request with pagination support */

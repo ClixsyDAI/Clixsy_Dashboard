@@ -68,6 +68,17 @@ export async function upsertEnvVar(
   value: string,
   targets: string[] = ["production", "preview", "development"]
 ): Promise<void> {
+  // Writing an empty/undefined value bricks the env var on the next
+  // deploy. The historical regression here was storeBasecampTokens()
+  // forwarding `undefined` from a stale refreshAccessToken() return
+  // shape; that's fixed at the source, but this guard catches future
+  // callers that drift back into the same shape.
+  if (typeof value !== "string" || value.length === 0) {
+    throw new Error(
+      `upsertEnvVar refusing to write empty/undefined value for ${key}`
+    );
+  }
+
   const existing = await getEnvVar(key);
 
   if (existing) {
