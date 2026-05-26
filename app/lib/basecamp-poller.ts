@@ -15,14 +15,15 @@
 // basecampFetch/basecampFetchOne helpers in app/lib/basecamp.ts
 // — they don't read or write any local state.
 
-import { readFileSync } from "node:fs";
-import path from "node:path";
 import {
   BASECAMP_API_BASE,
   basecampFetch,
   basecampFetchOne,
 } from "./basecamp";
-import { commitProjectsManifest } from "./github";
+import {
+  commitProjectsManifest,
+  getFileContents,
+} from "./github";
 
 const USER_AGENT = "Client Workbook Dashboard (johan@clixsy.com)";
 const ONBOARDING_BASE_URL = "https://client-onboarding-tool.vercel.app";
@@ -296,9 +297,20 @@ async function createOnboardingSession(
   };
 }
 
-/** Append a single entry to the in-memory copy of projects.json and
- * commit the full manifest. Read fresh from disk so concurrent
- * commits (in-process) don't lose entries. */
+/** Append a single entry to projects.json and commit the full manifest.
+ *
+ * Reads the live state from GitHub master via getFileContents, not
+ * from the deployed Vercel bundle. The bundle's projects.json is
+ * fixed at deploy time, so a cron run that processes N new projects
+ * sequentially would otherwise produce N commits each appending to
+ * the SAME bundled file — each commit overwriting the previous one
+ * and only the last project's entry surviving on master.
+ *
+ * Reading from GitHub on every call means each iteration sees the
+ * previous iteration's commit. Within a single cron run there's no
+ * concurrent writer to race with (sequential processing — Step 4
+ * spec), so the GitHub-read → append → commit cycle is safe.
+ */
 async function appendAndCommitManifest(
   newEntry: {
     id: number;
@@ -307,21 +319,16 @@ async function appendAndCommitManifest(
     todoset_id: number;
   },
 ): Promise<void> {
-  const manifestPath = path.join(
-    process.cwd(),
-    "app",
-    "data",
-    "projects.json",
-  );
-  const current = JSON.parse(readFileSync(manifestPath, "utf8")) as Array<{
+  const live = await getFileContents("app/data/projects.json");
+  const current = (live ? JSON.parse(live.content) : []) as Array<{
     id: number;
     name: string;
     description: string;
     todoset_id: number;
   }>;
-  // Guard against an in-process race: if for any reason the entry is
-  // already in the manifest (e.g. a previous half-success on this
-  // same run), skip the duplicate rather than committing twice.
+  // Guard against an in-process race or partial retry: if for any
+  // reason the entry is already in the manifest, skip the duplicate
+  // rather than committing twice.
   if (current.some((p) => p.id === newEntry.id)) return;
   const updated = [...current, newEntry];
   await commitProjectsManifest(updated);

@@ -49,6 +49,38 @@ async function getFileSha(path: string): Promise<string | null> {
   return data.sha;
 }
 
+/** Get the live contents of a file on the default branch.
+ *
+ * Returns null if the file doesn't exist. The content is decoded
+ * from GitHub's base64 wrapper into UTF-8.
+ *
+ * Used by the poller's appendAndCommitManifest to read the
+ * up-to-date projects.json from GitHub between batched commits,
+ * rather than the deployed bundle (which is fixed for the
+ * lifetime of the Vercel function instance and would cause
+ * sequential commits within one cron run to clobber each other).
+ */
+export async function getFileContents(
+  path: string
+): Promise<{ sha: string; content: string } | null> {
+  const repo = getRepo();
+  const res = await fetch(`${GITHUB_API}/repos/${repo}/contents/${path}`, {
+    headers: getHeaders(),
+  });
+
+  if (res.status === 404) return null;
+  if (!res.ok) {
+    const text = await res.text();
+    throw new Error(`GitHub API error (${res.status}): ${text}`);
+  }
+
+  const data: GitHubFileResponse = await res.json();
+  return {
+    sha: data.sha,
+    content: Buffer.from(data.content, "base64").toString("utf8"),
+  };
+}
+
 /** Create or update a file in the GitHub repo */
 export async function commitFile(
   path: string,
