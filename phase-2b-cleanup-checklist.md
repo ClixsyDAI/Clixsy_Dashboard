@@ -30,7 +30,7 @@ After the automation is fully verified end-to-end with a real new client, clean 
 
 ---
 
-## IDs captured during Phase 2b (2026-05-26)
+## IDs captured during Phase 2b — J999 (2026-05-26)
 
 | Artifact | ID |
 |---|---|
@@ -38,3 +38,29 @@ After the automation is fully verified end-to-end with a real new client, clean 
 | Message board | `9929824264` |
 | Todoset | `9929824270` |
 | Verification test message | `9929824413` |
+
+## IDs captured during Phase 3 Step 4 — J9998 (2026-05-26)
+
+Created to verify the default (non-skip) message-post path. Same teardown shape as J999.
+
+| Artifact | ID |
+|---|---|
+| Basecamp project (bucket) | `47435462` |
+| Message board | `9930574535` |
+| Todoset | `9930574543` |
+| Verification automation message | *(captured during cron run — see PR description)* |
+
+## Phase 3 Step 4 recovery: 6 real-client onboarding sessions
+
+During Phase 3 Step 4 verification, the cron processed 6 real Basecamp J-projects that existed in Basecamp but weren't yet in `app/data/projects.json`:
+
+| workbook_id | client_name | Basecamp project |
+|---|---|---|
+| `47432392` | Demas Law Group | J425 |
+| `47105381` | Guns N Hoses Roofing & Siding | J423 |
+| `46751952` | Guild Garage Group | J420 |
+| `46750934` | Zayed Law Offices | J418 |
+| `46677520` | A Plus Garage Door | J416 |
+| `46676582` | Right Way Garage | J415 |
+
+Each has an onboarding session in Supabase with `account_manager = "Auto-created (unassigned)"` (the sentinel — see [[followup-account-manager-schema-cleanup]]). These rows are **real production records**, not test artifacts — the AM should claim each via the workbook UI (edit `account_manager` to a real person) before sending the form to the client. **Do NOT trash these during the J999/J9998 cleanup.**
