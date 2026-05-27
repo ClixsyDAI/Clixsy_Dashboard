@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/cron/basecamp-poller",
+      "schedule": "*/15 * * * *"
+    }
+  ]
+}

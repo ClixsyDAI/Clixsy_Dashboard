@@ -170,20 +170,36 @@ export default async function ClientDashboard({ params }: PageProps) {
     blGmbCalls: blData?.totalGmbCalls ?? null,
   });
 
+  // Tab gating (Phase 3 fix): every tab that renders Basecamp-derived
+  // content (Overview, Search, Local SEO, Content, Internal Use) is
+  // hidden when `data` is null — i.e. when no per-client task file
+  // exists at app/data/clients/{id}.json. Ask a Question is reachable
+  // when EITHER Basecamp data OR an onboarding session exists (the
+  // chatbot's tools cover both sources). Onboarding is reachable
+  // whenever a Supabase session exists, regardless of Basecamp state
+  // — that's the case for cron-created clients pre-first-sync.
   const tabs = [
-    { id: "overview", label: "Overview" },
-    ...(gscData || ga4Data ? [{ id: "search", label: "Search Performance" }] : []),
-    ...(blData ? [{ id: "local-seo", label: "Local SEO" }] : []),
-    { id: "ask-question", label: "Ask a Question" },
-    { id: "content", label: "Content" },
-    {
-      id: "internal",
-      label: "Internal Use",
-      children: [
-        { id: "report", label: "Report" },
-        { id: "project-log", label: "Project Log" },
-      ],
-    },
+    ...(data ? [{ id: "overview", label: "Overview" }] : []),
+    ...(data && (gscData || ga4Data)
+      ? [{ id: "search", label: "Search Performance" }]
+      : []),
+    ...(data && blData ? [{ id: "local-seo", label: "Local SEO" }] : []),
+    ...(data || hasOnboardingSession
+      ? [{ id: "ask-question", label: "Ask a Question" }]
+      : []),
+    ...(data ? [{ id: "content", label: "Content" }] : []),
+    ...(data
+      ? [
+          {
+            id: "internal",
+            label: "Internal Use",
+            children: [
+              { id: "report", label: "Report" },
+              { id: "project-log", label: "Project Log" },
+            ],
+          },
+        ]
+      : []),
     // Phase 1: ONBOARDING tab, gated on a Supabase session existing for
     // this workbook id. Placed to the right of Internal Use per the spec.
     ...(hasOnboardingSession ? [{ id: "onboarding", label: "Onboarding" }] : []),
@@ -261,8 +277,11 @@ export default async function ClientDashboard({ params }: PageProps) {
           />
         </header>
 
-        {!data ? (
-          /* No data state */
+        {!data && !hasOnboardingSession ? (
+          /* No data AND no onboarding session — preserve the original
+             empty state for clients with neither (e.g. a manually-added
+             projects.json entry pre-Phase-3, or a brand-new client
+             before either flow has run). */
           <div
             className="mt-12 flex flex-col items-center justify-center rounded-sm py-24"
             style={{ backgroundColor: "#111111" }}
@@ -294,7 +313,8 @@ export default async function ClientDashboard({ params }: PageProps) {
           </div>
         ) : (
           <DashboardTabs tabs={tabs}>
-            {/* ── TAB: OVERVIEW ──────────────────────────────── */}
+            {/* ── TAB: OVERVIEW (gated on Basecamp data) ─────── */}
+            {data && (
             <div>
               {/* KPI Cards */}
               <section className="grid grid-cols-2 gap-4 md:grid-cols-4">
@@ -506,8 +526,10 @@ export default async function ClientDashboard({ params }: PageProps) {
               </section>
             </div>
 
-            {/* ── TAB: SEARCH PERFORMANCE (conditional) ─────── */}
-            {(gscData || ga4Data) && (
+            )}
+
+            {/* ── TAB: SEARCH PERFORMANCE (conditional, gated on Basecamp data + GSC/GA4) ─ */}
+            {data && (gscData || ga4Data) && (
               <div>
                 <GoogleSearchCharts
                   gscProperty={gscData?.property || null}
@@ -526,26 +548,31 @@ export default async function ClientDashboard({ params }: PageProps) {
               </div>
             )}
 
-            {/* ── TAB: LOCAL SEO / BRIGHTLOCAL (conditional) ── */}
-            {blData && (
+            {/* ── TAB: LOCAL SEO / BRIGHTLOCAL (conditional, gated on Basecamp data + BL) ─ */}
+            {data && blData && (
               <div>
                 <BrightLocalPanel {...blData} />
               </div>
             )}
 
-            {/* ── TAB: ASK A QUESTION (chatbot) ─────────────── */}
-            <div>
-              <AskQuestionTab projectId={id} projectName={project.name} />
-            </div>
+            {/* ── TAB: ASK A QUESTION (chatbot) — reachable when EITHER Basecamp data OR onboarding session ─ */}
+            {(data || hasOnboardingSession) && (
+              <div>
+                <AskQuestionTab projectId={id} projectName={project.name} />
+              </div>
+            )}
 
-            {/* ── TAB: CONTENT ──────────────────────────────── */}
-            <div>
-              <ContentTab projectId={id} clientName={project.name} />
-            </div>
+            {/* ── TAB: CONTENT (gated on Basecamp data) ─────── */}
+            {data && (
+              <div>
+                <ContentTab projectId={id} clientName={project.name} />
+              </div>
+            )}
 
-            {/* ── TAB: INTERNAL USE → REPORT (AI) ───────────── */}
-            <div>
-              <AISummaryTab
+            {/* ── TAB: INTERNAL USE → REPORT (AI, gated on Basecamp data) ─ */}
+            {data && (
+              <div>
+                <AISummaryTab
                 projectId={id}
                 projectName={project.name}
                 projectDescription={project.description}
@@ -564,18 +591,21 @@ export default async function ClientDashboard({ params }: PageProps) {
                 blTotalReviews={blData?.totalReviews ?? null}
                 blGmbCalls={blData?.totalGmbCalls ?? null}
               />
-            </div>
+              </div>
+            )}
 
-            {/* ── TAB: INTERNAL USE → PROJECT LOG ───────────── */}
-            <div>
-              {todos && todos.length > 0 ? (
-                <ProjectLogTable todos={todos} />
-              ) : (
-                <p className="py-12 text-center text-sm" style={{ color: "#666" }}>
-                  No task data synced yet.
-                </p>
-              )}
-            </div>
+            {/* ── TAB: INTERNAL USE → PROJECT LOG (gated on Basecamp data) ─ */}
+            {data && (
+              <div>
+                {todos && todos.length > 0 ? (
+                  <ProjectLogTable todos={todos} />
+                ) : (
+                  <p className="py-12 text-center text-sm" style={{ color: "#666" }}>
+                    No task data synced yet.
+                  </p>
+                )}
+              </div>
+            )}
 
             {/* ── TAB: ONBOARDING (Phase 2 — reminder strip + action bar) ──── */}
             {onboardingPayload && (
