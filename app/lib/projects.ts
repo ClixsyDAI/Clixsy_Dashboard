@@ -1,3 +1,5 @@
+import { getFileContents, commitProjectsManifest } from "./github";
+
 /**
  * Canonical Project type for the workbook's master client list
  * (app/data/projects.json).
@@ -64,4 +66,38 @@ export function formatClientDisplayName(p: {
     return `J${p.j_number} ${p.name}`;
   }
   return p.name;
+}
+
+/**
+ * Append a new project entry to app/data/projects.json on the default
+ * branch and return the resulting commit SHA. Reads the live manifest
+ * from GitHub (not the deployed bundle) so back-to-back webhook calls
+ * within the same Vercel instance don't clobber each other — same
+ * pattern the Basecamp poller used pre-pivot.
+ *
+ * Idempotent: if an entry with the same id already exists, returns
+ * { skipped: true } without committing. Callers should still short-
+ * circuit on this so the rest of the onboarding pipeline doesn't
+ * double-fire.
+ */
+export async function appendProjectAndCommitManifest(
+  newProject: Project,
+): Promise<
+  | { skipped: true; existing: Project }
+  | { skipped: false; sha: string; url: string }
+> {
+  const file = await getFileContents("app/data/projects.json");
+  if (!file) {
+    throw new Error(
+      "projects.json missing on default branch — cannot append safely",
+    );
+  }
+  const current = JSON.parse(file.content) as Project[];
+  const existing = current.find((p) => p.id === newProject.id);
+  if (existing) {
+    return { skipped: true, existing };
+  }
+  const next = [...current, newProject];
+  const commit = await commitProjectsManifest(next);
+  return { skipped: false, sha: commit.sha, url: commit.url };
 }
