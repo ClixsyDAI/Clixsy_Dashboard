@@ -197,7 +197,7 @@ function healthScore(sub) {
 }
 
 // ── main ──────────────────────────────────────────────────────────
-// Wall-clock "now" — used ONLY for task windows (Basecamp is live data).
+// Wall-clock "now" — used ONLY for task windows.
 const nowWall = new Date('2026-04-14T12:00:00Z');
 const taskCutoff = new Date(nowWall.getTime() - 30 * 24 * 60 * 60 * 1000);
 
