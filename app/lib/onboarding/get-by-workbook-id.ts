@@ -80,11 +80,13 @@ type Stage =
 // =============================================================
 
 /**
- * Resolve a workbook integer id (the Basecamp project id from
- * app/data/projects.json) to the joined onboarding payload.
+ * Resolve a workbook id, a string, to the joined onboarding payload.
+ * May be a GHL opportunity id (20-char alphanumeric) for clients
+ * created post-pivot, or a stringified numeric id (Basecamp-era
+ * legacy) for the original 63 migrated entries.
  *
- *     workbook_id (integer)
- *        → clients (UUID, by clients.workbook_id)
+ *     workbook_id (string)
+ *        → clients (UUID, by clients.workbook_id — text column)
  *          → onboarding_sessions (most recent first)
  *            → onboarding_answers (all step rows, if present)
  *            → onboarding_reminders (latest one, if any)
@@ -95,20 +97,20 @@ type Stage =
  * Server-side only. The Supabase client is constructed via
  * `getSupabaseServerClient()` which uses the service-role key.
  */
+const WORKBOOK_ID_REGEX = /^[A-Za-z0-9_-]{1,32}$/;
+
 export async function getOnboardingByWorkbookId(
-  workbookIdRaw: number | string,
+  workbookId: string,
 ): Promise<GetByWorkbookIdResult> {
-  // Accept either pre-parsed number or raw URL-segment string; validate
-  // either way. Centralising this here means the route doesn't need to
-  // duplicate the validation when the page also calls the function.
-  const workbookId =
-    typeof workbookIdRaw === "number"
-      ? workbookIdRaw
-      : Number.parseInt(workbookIdRaw, 10);
-  if (!Number.isFinite(workbookId) || workbookId <= 0) {
+  // Permissive shape check matching the client-onboarding-tool's
+  // workbookId schema (src/app/api/admin/onboarding/create/route.ts).
+  // Accepts both 20-char GHL opportunity ids and stringified numeric
+  // legacy ids on the 63 migrated entries.
+  if (!WORKBOOK_ID_REGEX.test(workbookId)) {
     return {
       kind: "invalid_id",
-      message: "workbook id must be a positive integer",
+      message:
+        "workbook id must be 1-32 chars of [A-Za-z0-9_-]",
     };
   }
 
