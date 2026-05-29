@@ -61,20 +61,20 @@
   },
   "9759866694": {
     "id": 9759866694,
-    "title": "Transfer SEO Tool Access to Client",
-    "whyItMatters": "Ensures your SEO tracking continues uninterrupted after we transition off your account.",
+    "title": "Complete SEO Account Closure Tasks",
+    "whyItMatters": "Ensures proper handover of all SEO tools and accounts so your rankings stay protected after we transition.",
     "updatedAt": "2026-05-21T21:08:53.064Z"
   },
   "9759866626": {
     "id": 9759866626,
-    "title": "Transfer Website Access to Client",
-    "whyItMatters": "Gives you full control of your website and removes our administrative access.",
+    "title": "Complete Website Development Handover Tasks",
+    "whyItMatters": "Ensures your website continues running smoothly and maintains its search engine visibility after account closure.",
     "updatedAt": "2026-05-07T16:35:19.515Z"
   },
   "9759866842": {
     "id": 9759866842,
-    "title": "Process Final Billing and Stop Services",
-    "whyItMatters": "Ensures clean financial transition and stops automated billing for SEO services.",
+    "title": "Process Final Billing and Account Closure",
+    "whyItMatters": "Ensures clean financial transition without affecting any ongoing SEO services during the handover period.",
     "updatedAt": "2026-04-27T16:26:16.206Z"
   },
   "9759866825": {
@@ -97,38 +97,38 @@
   },
   "9847640933": {
     "id": 9847640933,
-    "title": "Fix Oversized Website Sitemap",
-    "whyItMatters": "Large sitemaps can prevent Google from properly indexing all your pages.",
+    "title": "Fix Oversized Website Sitemap Issue",
+    "whyItMatters": "Google struggles to read huge sitemaps, which can prevent your pages from being found in search results.",
     "updatedAt": "2026-05-01T10:58:08.374Z"
   },
   "9847640932": {
     "id": 9847640932,
-    "title": "Reduce Sitemap File Size",
-    "whyItMatters": "Oversized sitemaps may not load properly for search engines trying to crawl your site.",
+    "title": "Reduce Large Sitemap File Size",
+    "whyItMatters": "Oversized sitemap files can cause Google to ignore your pages and hurt your search rankings.",
     "updatedAt": "2026-05-01T10:58:08.332Z"
   },
   "9847640928": {
     "id": 9847640928,
-    "title": "Remove Pages Blocked from Google",
-    "whyItMatters": "Pages marked 'noindex' won't appear in search results and reduce your site's visibility.",
+    "title": "Fix Pages Blocked from Google",
+    "whyItMatters": "These pages are invisible to Google and won't appear in search results, reducing your website traffic.",
     "updatedAt": "2026-05-01T10:58:08.304Z"
   },
   "9847640926": {
     "id": 9847640926,
-    "title": "Fix Pages That Don't Pass SEO Value",
-    "whyItMatters": "Nofollow pages don't share ranking power with other pages on your website.",
+    "title": "Fix Page Link Following Issues",
+    "whyItMatters": "Google can't follow links on this page to discover other content, limiting your search visibility.",
     "updatedAt": "2026-05-01T10:58:08.273Z"
   },
   "9847640925": {
     "id": 9847640925,
-    "title": "Compress Large Images for Faster Loading",
-    "whyItMatters": "Heavy images slow down your website and hurt your search engine rankings.",
+    "title": "Compress Large Website Images",
+    "whyItMatters": "Heavy images slow down your website, which hurts your Google rankings and user experience.",
     "updatedAt": "2026-05-01T10:58:08.243Z"
   },
   "9847640923": {
     "id": 9847640923,
-    "title": "Fix Broken Internal Links",
-    "whyItMatters": "Broken links create poor user experience and prevent search engines from crawling your site effectively.",
+    "title": "Fix Broken Website Links",
+    "whyItMatters": "Broken links create poor user experience and can negatively impact your search engine rankings.",
     "updatedAt": "2026-05-01T10:58:08.213Z"
   }
 }
