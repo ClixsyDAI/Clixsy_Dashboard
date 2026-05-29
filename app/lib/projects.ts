@@ -4,11 +4,11 @@ import { getFileContents, commitProjectsManifest } from "./github";
  * Canonical Project type for the workbook's master client list
  * (app/data/projects.json).
  *
- * Shape post-GHL-pivot migration (chore/projects-json-shape-migration):
+ * Shape post-GHL-pivot:
  *
  *   - `id` is the **GHL opportunity id** (20-char alphanumeric string)
- *     for entries created via the new webhook receiver. Existing
- *     migrated entries hold the prior Basecamp numeric id, stringified.
+ *     for entries created via the webhook receiver. Existing migrated
+ *     entries hold the prior Basecamp numeric id, stringified.
  *   - `name` is the **display name with the J-prefix stripped**.
  *     For migrated entries the prefix was parsed out into `j_number`.
  *   - `j_number` is the numeric portion of the historical J-tag
@@ -21,12 +21,6 @@ import { getFileContents, commitProjectsManifest } from "./github";
  *     payload for new entries. `null` for historical entries with
  *     no GHL counterpart.
  *   - `website_url` mirrors the GHL Website URL custom field.
- *   - `todoset_id` is the **deprecated** Basecamp todoset id. Kept
- *     optional on the type so the legacy Basecamp routes
- *     (/api/sync, /api/sync/[projectId], /api/cron/basecamp-poller)
- *     keep compiling until their removal PR. The field is removed
- *     from the JSON data file in this migration; consumers see
- *     `undefined` at runtime.
  */
 export interface Project {
   id: string;
@@ -37,8 +31,6 @@ export interface Project {
   ghl_contact_id: string | null;
   am_ghl_user_id: string | null;
   website_url: string | null;
-  /** @deprecated Basecamp-era field, scheduled for removal alongside the Basecamp poller. */
-  todoset_id?: number;
 }
 
 /**
@@ -106,8 +98,8 @@ export async function appendProjectAndCommitManifest(
  * Update an existing project entry in app/data/projects.json. Used by
  * the admin UI's client editor — only the AM-editable fields (name,
  * j_number, description) are accepted as patch values. Read-only fields
- * (id, vertical, ghl_contact_id, am_ghl_user_id, website_url,
- * todoset_id) are preserved from the existing entry.
+ * (id, vertical, ghl_contact_id, am_ghl_user_id, website_url) are
+ * preserved from the existing entry.
  *
  * Read-from-master pattern matches the append helper: never trust the
  * deployed bundle, always fetch the live manifest first. Returns

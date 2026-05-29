@@ -1,7 +1,5 @@
 import Link from "next/link";
 import ClientGrid from "./components/ClientGrid";
-import SyncControls from "./components/SyncControls";
-import AuthCallbackBanner from "./components/AuthCallbackBanner";
 import {
   getAllClientHealthSummaries,
   summarizeCounts,
@@ -17,9 +15,6 @@ export default async function Home() {
   return (
     <div className="min-h-screen" style={{ backgroundColor: "#0a0a0a" }}>
       <div className="mx-auto max-w-[1400px] px-6 py-8">
-        {/* Auth callback banner */}
-        <AuthCallbackBanner />
-
         {/* Header */}
         <header className="mb-2">
           <div className="flex items-center justify-between gap-4">
@@ -57,9 +52,6 @@ export default async function Home() {
             </Link>
           </div>
 
-          {/* Basecamp sync controls */}
-          <SyncControls />
-
           <div
             className="mt-4 h-[2px] w-full"
             style={{ backgroundColor: "#c8a882" }}
@@ -80,9 +72,9 @@ export default async function Home() {
             style={{ backgroundColor: "#1a1a1a" }}
           />
           <p className="mt-4 text-xs italic" style={{ color: "#888888" }}>
-            Account Health is an internal triage signal computed from Basecamp,
-            GSC, GA4, BrightLocal, and the content pipeline. It is not shown on
-            client share pages.
+            Account Health is an internal triage signal computed from GSC, GA4,
+            BrightLocal, and the content pipeline. It is not shown on client
+            share pages.
           </p>
         </footer>
       </div>

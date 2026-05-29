@@ -1,7 +1,8 @@
 /**
  * Helper to commit files to the GitHub repo via the GitHub REST API.
- * Used to persist synced Basecamp data as JSON files in the repo,
- * which triggers an automatic Vercel redeploy.
+ * Used to persist projects.json updates from the GHL webhook receiver
+ * and the admin client editor (both write through the same primitives
+ * below), which triggers an automatic Vercel redeploy.
  *
  * Required env vars:
  *   GITHUB_TOKEN  - GitHub personal access token with repo scope
@@ -115,17 +116,6 @@ export async function commitFile(
     sha: data.content?.sha || "",
     url: data.content?.html_url || "",
   };
-}
-
-/** Commit a client's todo data as a JSON file */
-export async function commitClientData(
-  projectId: number | string,
-  todos: unknown[]
-): Promise<{ sha: string; url: string }> {
-  const path = `app/data/clients/${projectId}.json`;
-  const content = JSON.stringify(todos, null, 2);
-  const message = `sync: update client data for project ${projectId}`;
-  return commitFile(path, content, message);
 }
 
 /** Commit the projects.json manifest.

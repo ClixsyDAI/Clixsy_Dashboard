@@ -10,7 +10,7 @@
 //
 // Only the three AM-editable fields are accepted: name, j_number,
 // description. Read-only fields (id, vertical, ghl_contact_id,
-// am_ghl_user_id, website_url, todoset_id) are preserved by
+// am_ghl_user_id, website_url) are preserved by
 // updateProjectInManifest, never touched by this route.
 //
 // Auth: same admin bearer-token pattern as PUT /api/team-assignments,

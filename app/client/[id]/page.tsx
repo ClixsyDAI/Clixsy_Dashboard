@@ -102,7 +102,7 @@ export default async function ClientDashboard({ params }: PageProps) {
   const gscPrevCutoff = new Date(gscCutoff.getTime() - 30 * 24 * 60 * 60 * 1000);
   const ga4Cutoff = new Date(ga4Now.getTime() - 30 * 24 * 60 * 60 * 1000);
   const ga4PrevCutoff = new Date(ga4Cutoff.getTime() - 30 * 24 * 60 * 60 * 1000);
-  // Task windows still use wall-clock "now" — Basecamp data is live.
+  // Task windows still use wall-clock "now".
   const cutoff = new Date(nowWall.getTime() - 30 * 24 * 60 * 60 * 1000);
 
   function sumGsc(daily: typeof gscData extends infer T ? T extends { dailyData: infer D } ? D : never : never, from: Date, to: Date) {
@@ -171,14 +171,14 @@ export default async function ClientDashboard({ params }: PageProps) {
     blGmbCalls: blData?.totalGmbCalls ?? null,
   });
 
-  // Tab gating (Phase 3 fix): every tab that renders Basecamp-derived
-  // content (Overview, Search, Local SEO, Content, Internal Use) is
-  // hidden when `data` is null — i.e. when no per-client task file
-  // exists at app/data/clients/{id}.json. Ask a Question is reachable
-  // when EITHER Basecamp data OR an onboarding session exists (the
-  // chatbot's tools cover both sources). Onboarding is reachable
-  // whenever a Supabase session exists, regardless of Basecamp state
-  // — that's the case for cron-created clients pre-first-sync.
+  // Tab gating: every tab that renders task-derived content (Overview,
+  // Search, Local SEO, Content, Internal Use) is hidden when `data` is
+  // null — i.e. when no per-client task file exists at
+  // app/data/clients/{id}.json. After the Basecamp cutover, that file
+  // is absent for every client; these tabs stay code-resident but never
+  // render until a new task-source pipeline lands. Ask a Question is
+  // reachable when EITHER task data OR an onboarding session exists.
+  // Onboarding is reachable whenever a Supabase session exists.
   const tabs = [
     ...(data ? [{ id: "overview", label: "Overview" }] : []),
     ...(data && (gscData || ga4Data)
@@ -314,7 +314,7 @@ export default async function ClientDashboard({ params }: PageProps) {
           </div>
         ) : (
           <DashboardTabs tabs={tabs}>
-            {/* ── TAB: OVERVIEW (gated on Basecamp data) ─────── */}
+            {/* ── TAB: OVERVIEW (gated on task data) ─────── */}
             {data && (
             <div>
               {/* KPI Cards */}
@@ -556,14 +556,14 @@ export default async function ClientDashboard({ params }: PageProps) {
               </div>
             )}
 
-            {/* ── TAB: ASK A QUESTION (chatbot) — reachable when EITHER Basecamp data OR onboarding session ─ */}
+            {/* ── TAB: ASK A QUESTION (chatbot) — reachable when EITHER task data OR onboarding session ─ */}
             {(data || hasOnboardingSession) && (
               <div>
                 <AskQuestionTab projectId={id} projectName={project.name} />
               </div>
             )}
 
-            {/* ── TAB: CONTENT (gated on Basecamp data) ─────── */}
+            {/* ── TAB: CONTENT (gated on task data) ─────── */}
             {data && (
               <div>
                 <ContentTab projectId={id} clientName={project.name} />
@@ -595,7 +595,7 @@ export default async function ClientDashboard({ params }: PageProps) {
               </div>
             )}
 
-            {/* ── TAB: INTERNAL USE → PROJECT LOG (gated on Basecamp data) ─ */}
+            {/* ── TAB: INTERNAL USE → PROJECT LOG (gated on task data) ─ */}
             {data && (
               <div>
                 {todos && todos.length > 0 ? (
@@ -636,7 +636,7 @@ export default async function ClientDashboard({ params }: PageProps) {
               className="mt-1 text-xs italic"
               style={{ color: "#888888" }}
             >
-              Data source: Basecamp project &ldquo;{data.clientName}&rdquo;
+              Data source: project &ldquo;{data.clientName}&rdquo;
               &mdash; {data.total} tasks tracked across {data.uniqueLists}{" "}
               task lists.
             </p>

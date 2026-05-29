@@ -1,3 +1,11 @@
+# Clixsy Client Workbook Dashboard
+
+## Client creation flow (post-GHL-pivot)
+
+GHL **Pipeline Stage Changed** (trigger: in pipeline `PI - SEO`, stage `Onboarding`) → `POST /api/webhooks/ghl/opportunity-onboarded` on this workbook → new entry in `app/data/projects.json` on master + onboarding session row in the `client-onboarding-tool` Supabase project. An account manager then assigns the J-number and edits the display name via `/admin` → Edit Clients. There is no Basecamp dependency — the Basecamp poller and OAuth flow were removed in `chore/remove-basecamp`.
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started

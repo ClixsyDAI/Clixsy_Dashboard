@@ -1,11 +1,14 @@
 /**
  * Helper to read/write Vercel environment variables via the Vercel REST API.
- * Used to persist Basecamp OAuth tokens across deployments.
  *
  * Required env vars:
  *   VERCEL_API_TOKEN       - Vercel API token (personal access token)
  *   VERCEL_PROJECT_ID  - The Vercel project ID
  *   VERCEL_TEAM_ID     - The Vercel team/account ID (optional for personal accounts)
+ *
+ * Kept after the Basecamp cutover because the helper itself is integration-
+ * agnostic; the now-removed Basecamp OAuth token rotation was the only
+ * pre-pivot caller. Reuse for future env-var management as it comes up.
  */
 
 const VERCEL_API = "https://api.vercel.com";
@@ -69,10 +72,8 @@ export async function upsertEnvVar(
   targets: string[] = ["production", "preview", "development"]
 ): Promise<void> {
   // Writing an empty/undefined value bricks the env var on the next
-  // deploy. The historical regression here was storeBasecampTokens()
-  // forwarding `undefined` from a stale refreshAccessToken() return
-  // shape; that's fixed at the source, but this guard catches future
-  // callers that drift back into the same shape.
+  // deploy. Guard against the regression where callers pass `undefined`
+  // from a stale token-refresh return shape.
   if (typeof value !== "string" || value.length === 0) {
     throw new Error(
       `upsertEnvVar refusing to write empty/undefined value for ${key}`
@@ -118,11 +119,3 @@ export async function upsertEnvVar(
   }
 }
 
-/** Store Basecamp tokens as Vercel env vars */
-export async function storeBasecampTokens(
-  accessToken: string,
-  refreshToken: string
-): Promise<void> {
-  await upsertEnvVar("BASECAMP_ACCESS_TOKEN", accessToken);
-  await upsertEnvVar("BASECAMP_REFRESH_TOKEN", refreshToken);
-}
