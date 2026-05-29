@@ -2,12 +2,19 @@ import { NextRequest, NextResponse } from "next/server";
 import { getValidAccessToken, syncProject } from "@/app/lib/basecamp";
 import { storeBasecampTokens } from "@/app/lib/vercel-env";
 import { commitClientData } from "@/app/lib/github";
-import projects from "@/app/data/projects.json";
+import type { Project } from "@/app/lib/projects";
+import projectsRaw from "@/app/data/projects.json";
+
+// Asserted as Project[] so the deprecated `todoset_id?: number` field is
+// reachable below. Route is scheduled for removal alongside the Basecamp
+// poller; until then we read todoset_id (which is now undefined on every
+// migrated entry, so the route will runtime-fail on call — acceptable).
+const projects = projectsRaw as Project[];
 
 export const maxDuration = 300; // 5 minutes for Vercel Pro
 
 interface SyncResult {
-  projectId: number;
+  projectId: string;
   projectName: string;
   todoCount: number;
   committed: boolean;
@@ -43,11 +50,11 @@ export async function POST(request: NextRequest) {
     }
 
     // Parse request body for optional filters
-    let projectFilter: number[] | null = null;
+    let projectFilter: string[] | null = null;
     try {
       const body = await request.json();
       if (body.projectIds && Array.isArray(body.projectIds)) {
-        projectFilter = body.projectIds;
+        projectFilter = body.projectIds.map((x: unknown) => String(x));
       }
     } catch {
       // No body or invalid JSON — sync all projects

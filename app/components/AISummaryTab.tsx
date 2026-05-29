@@ -19,7 +19,7 @@ interface Todo {
 interface AISummaryTabProps {
   projectId: string;
   projectName: string;
-  projectDescription: string;
+  projectDescription: string | null;
   todos: Todo[];
   gscDaily: GscDailyRow[] | null;
   gscTopQueries: GscQuery[] | null;

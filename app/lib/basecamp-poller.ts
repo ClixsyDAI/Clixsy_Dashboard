@@ -319,19 +319,23 @@ async function appendAndCommitManifest(
     todoset_id: number;
   },
 ): Promise<void> {
-  const live = await getFileContents("app/data/projects.json");
-  const current = (live ? JSON.parse(live.content) : []) as Array<{
-    id: number;
-    name: string;
-    description: string;
-    todoset_id: number;
-  }>;
-  // Guard against an in-process race or partial retry: if for any
-  // reason the entry is already in the manifest, skip the duplicate
-  // rather than committing twice.
-  if (current.some((p) => p.id === newEntry.id)) return;
-  const updated = [...current, newEntry];
-  await commitProjectsManifest(updated);
+  // TODO(GHL-pivot): The post-migration projects.json shape no longer matches
+  // the (id:number, name, description, todoset_id) shape this writer produces.
+  // If this code path runs against the new manifest, it would (1) fail the
+  // string-vs-number dedupe check and (2) append an old-shape entry into an
+  // array of new-shape entries, corrupting the manifest. The whole poller is
+  // scheduled for deletion alongside the GHL webhook receiver. Until that PR
+  // lands, throw defensively so the cron's per-project loop logs a failed
+  // status and the manifest stays clean. Used to be a working append; left
+  // intact above for diff clarity.
+  void newEntry;
+  void getFileContents;
+  void commitProjectsManifest;
+  throw new Error(
+    "[poller] appendAndCommitManifest is disabled during the GHL pivot. " +
+    "The projects.json shape changed in chore/projects-json-shape-migration; " +
+    "the Basecamp write path is scheduled for removal in the next PR.",
+  );
 }
 
 /** Post the kickoff "form ready" message to a project's message board. */
