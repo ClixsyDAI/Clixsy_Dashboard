@@ -539,8 +539,8 @@ export default async function ClientDashboard({ params }: PageProps) {
 
             )}
 
-            {/* ── TAB: SEARCH PERFORMANCE (conditional, gated on Basecamp data + GSC/GA4) ─ */}
-            {data && (gscData || ga4Data) && (
+            {/* ── TAB: SEARCH PERFORMANCE (gated on GSC or GA4 data) ─ */}
+            {(gscData || ga4Data) && (
               <div>
                 <GoogleSearchCharts
                   gscProperty={gscData?.property || null}
@@ -559,8 +559,8 @@ export default async function ClientDashboard({ params }: PageProps) {
               </div>
             )}
 
-            {/* ── TAB: LOCAL SEO / BRIGHTLOCAL (conditional, gated on Basecamp data + BL) ─ */}
-            {data && blData && (
+            {/* ── TAB: LOCAL SEO / BRIGHTLOCAL (gated on BL data only) ─ */}
+            {blData && (
               <div>
                 <BrightLocalPanel {...blData} />
               </div>
@@ -573,12 +573,10 @@ export default async function ClientDashboard({ params }: PageProps) {
               </div>
             )}
 
-            {/* ── TAB: CONTENT (gated on task data) ─────── */}
-            {data && (
-              <div>
-                <ContentTab projectId={id} clientName={project.name} />
-              </div>
-            )}
+            {/* ── TAB: CONTENT (Google Sheet, always available) ─ */}
+            <div>
+              <ContentTab projectId={id} clientName={project.name} />
+            </div>
 
             {/* ── TAB: INTERNAL USE → REPORT (AI, gated on Basecamp data) ─ */}
             {data && (
