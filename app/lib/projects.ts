@@ -101,3 +101,51 @@ export async function appendProjectAndCommitManifest(
   const commit = await commitProjectsManifest(next);
   return { skipped: false, sha: commit.sha, url: commit.url };
 }
+
+/**
+ * Update an existing project entry in app/data/projects.json. Used by
+ * the admin UI's client editor — only the AM-editable fields (name,
+ * j_number, description) are accepted as patch values. Read-only fields
+ * (id, vertical, ghl_contact_id, am_ghl_user_id, website_url,
+ * todoset_id) are preserved from the existing entry.
+ *
+ * Read-from-master pattern matches the append helper: never trust the
+ * deployed bundle, always fetch the live manifest first. Returns
+ * { found: false } when the id doesn't exist so the route can 404
+ * cleanly; throws on GitHub I/O failures so the route 500s.
+ */
+export type ProjectEditableFields = Pick<
+  Project,
+  "name" | "j_number" | "description"
+>;
+
+export async function updateProjectInManifest(
+  id: string,
+  patch: ProjectEditableFields,
+): Promise<
+  | { found: false }
+  | { found: true; updated: Project; sha: string; url: string }
+> {
+  const file = await getFileContents("app/data/projects.json");
+  if (!file) {
+    throw new Error(
+      "projects.json missing on default branch — cannot update safely",
+    );
+  }
+  const current = JSON.parse(file.content) as Project[];
+  const idx = current.findIndex((p) => p.id === id);
+  if (idx === -1) {
+    return { found: false };
+  }
+  const existing = current[idx];
+  const updated: Project = {
+    ...existing,
+    name: patch.name,
+    j_number: patch.j_number,
+    description: patch.description,
+  };
+  const next = [...current];
+  next[idx] = updated;
+  const commit = await commitProjectsManifest(next);
+  return { found: true, updated, sha: commit.sha, url: commit.url };
+}
