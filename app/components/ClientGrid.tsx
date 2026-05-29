@@ -57,7 +57,9 @@ export default function ClientGrid({ summaries, counts, teamAssignments }: Clien
     const q = search.trim().toLowerCase();
     const passesSearch = (s: ClientHealthSummary) =>
       !q ||
-      s.name.toLowerCase().includes(q) ||
+      // displayName includes the "J<number> " prefix when set, so a query
+      // like "J153" matches; bare name is still covered as a substring.
+      s.displayName.toLowerCase().includes(q) ||
       (s.description ?? "").toLowerCase().includes(q);
     const passesFilter = (s: ClientHealthSummary) =>
       filter === "all" || filterBucket(s) === filter;

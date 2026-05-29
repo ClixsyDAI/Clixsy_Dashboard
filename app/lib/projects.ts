@@ -38,3 +38,30 @@ export interface Project {
   /** @deprecated Basecamp-era field, scheduled for removal alongside the Basecamp poller. */
   todoset_id?: number;
 }
+
+/**
+ * Format a project's name for display in internal AM-facing UI (the home
+ * page card title, the client detail page header, the admin list). Restores
+ * the "J<number> " prefix that the GHL-shape migration moved out of `name`
+ * into the separate `j_number` field — AMs identify clients by J-number.
+ *
+ * Null/missing j_number falls back to bare name; this is the case for new
+ * GHL-created entries before an AM assigns a J-number via the admin UI.
+ *
+ * Pure display layer. Do NOT use this for data-matching keys (content
+ * article lookup, GSC/GA4 client matching, etc.) — those compare against
+ * the bare `name`.
+ *
+ * Accepts the minimal subset of Project fields it needs so callers can pass
+ * either a full Project, a ClientHealthSummary that exposes them, or any
+ * other narrow shape.
+ */
+export function formatClientDisplayName(p: {
+  name: string;
+  j_number: string | null;
+}): string {
+  if (p.j_number) {
+    return `J${p.j_number} ${p.name}`;
+  }
+  return p.name;
+}

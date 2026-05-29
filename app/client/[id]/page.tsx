@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import { headers } from "next/headers";
 import Link from "next/link";
 import projects from "../../data/projects.json";
+import { formatClientDisplayName } from "../../lib/projects";
 import { getDashboardData, loadClientTodos } from "../../lib/dashboard-data";
 import { loadGscData, loadGa4Data } from "../../lib/google-data";
 import ClientDashboardCharts from "../../components/ClientDashboardCharts";
@@ -233,7 +234,7 @@ export default async function ClientDashboard({ params }: PageProps) {
                 className="text-3xl font-bold tracking-wide uppercase"
                 style={{ color: "#ffffff", letterSpacing: "0.05em" }}
               >
-                {project.name}
+                {formatClientDisplayName(project)}
               </h1>
             </div>
             {healthSummary?.health && (

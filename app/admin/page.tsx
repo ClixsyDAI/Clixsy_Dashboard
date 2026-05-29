@@ -4,7 +4,7 @@ import { useCallback, useEffect, useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
 import { validateReturnPath } from "../lib/return-url";
-import type { Project } from "../lib/projects";
+import { formatClientDisplayName, type Project } from "../lib/projects";
 
 /* ── Types ──────────────────────────────────────────────── */
 interface TeamData {
@@ -283,7 +283,9 @@ function AdminDashboard({ token }: { token: string }) {
     const q = search.trim().toLowerCase();
     return projects
       .filter((p) => {
-        if (q && !p.name.toLowerCase().includes(q)) return false;
+        // Match the search query against the formatted display name so AMs
+        // can type "J153" (or just "153") to find a project.
+        if (q && !formatClientDisplayName(p).toLowerCase().includes(q)) return false;
         if (filterEmployee !== "all") {
           const team = teamData.assignments[String(p.id)] || [];
           if (filterEmployee === "unassigned") return team.length === 0;
@@ -500,7 +502,7 @@ function AdminDashboard({ token }: { token: string }) {
                         className="text-sm font-medium"
                         style={{ color: "#f0ede8" }}
                       >
-                        {p.name}
+                        {formatClientDisplayName(p)}
                       </span>
                     </td>
                     {teamData.employees.map((emp) => {
