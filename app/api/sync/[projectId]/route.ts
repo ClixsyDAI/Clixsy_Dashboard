@@ -2,7 +2,14 @@ import { NextRequest, NextResponse } from "next/server";
 import { getValidAccessToken, syncProject } from "@/app/lib/basecamp";
 import { storeBasecampTokens } from "@/app/lib/vercel-env";
 import { commitClientData } from "@/app/lib/github";
-import projects from "@/app/data/projects.json";
+import type { Project } from "@/app/lib/projects";
+import projectsRaw from "@/app/data/projects.json";
+
+// Asserted as Project[] so the deprecated `todoset_id?: number` field is
+// reachable below. Route is scheduled for removal alongside the Basecamp
+// poller; until then we read todoset_id (which is now undefined on every
+// migrated entry, so the route will runtime-fail on call — acceptable).
+const projects = projectsRaw as Project[];
 
 export const maxDuration = 60;
 

@@ -22,11 +22,12 @@ import {
 import type { ContentArticle } from "./content-types";
 
 export interface ClientHealthSummary {
-  id: number;
+  id: string;
   name: string;
-  displayName: string; // name with J### prefix stripped
-  description: string;
-  todoset_id: number;
+  displayName: string; // Pre-migration: name with J### prefix stripped at render-time.
+                       // Post-migration: equal to name (J-prefix lives in `j_number` now).
+                       // Kept on the interface for callers that still read .displayName.
+  description: string | null;
   hasData: boolean; // at least basecamp todos synced
   health: HealthScoreResult | null; // null if no data has been synced for this project
   missingSources: string[]; // human-readable: ["GA4", "BrightLocal"]
@@ -92,13 +93,15 @@ function summarizeProject(
   articles: ContentArticle[] | null
 ): ClientHealthSummary {
   const id = String(p.id);
+  // Post-GHL-migration: `p.name` already has the J-prefix stripped (the prefix
+  // lives in `p.j_number` on its own). The regex is a defensive no-op so any
+  // unmigrated entries still render correctly.
   const displayName = p.name.replace(/^J\d+\s+/, "");
   const baseMeta = {
-    id: p.id,
+    id,
     name: p.name,
     displayName,
     description: p.description,
-    todoset_id: p.todoset_id,
   };
 
   const todosPath = join(process.cwd(), "app", "data", "clients", `${id}.json`);
@@ -251,11 +254,10 @@ export async function getAllClientHealthSummaries(): Promise<ClientHealthSummary
         err
       );
       return {
-        id: p.id,
+        id: String(p.id),
         name: p.name,
         displayName: p.name.replace(/^J\d+\s+/, ""),
         description: p.description,
-        todoset_id: p.todoset_id,
         hasData: false,
         health: null,
         missingSources: [],

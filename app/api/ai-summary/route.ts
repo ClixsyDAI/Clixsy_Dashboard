@@ -98,7 +98,7 @@ export async function POST(request: Request) {
 
     const dataContext = buildDataContext({
       projectName: project.name,
-      description: project.description,
+      description: project.description ?? "",
       startDate,
       endDate,
       completedTasks: completedInRange,

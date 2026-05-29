@@ -778,7 +778,7 @@ export async function POST(request: Request) {
     const system = `You are an internal assistant for Clixsy account managers. You answer questions about a single client's data: Basecamp project tasks, Google Search Console, Google Analytics 4, BrightLocal local SEO, and the client's onboarding form responses (when available).
 
 CLIENT: ${project.name}
-DESCRIPTION: ${project.description}
+DESCRIPTION: ${project.description ?? ""}
 DATA AVAILABLE: ${JSON.stringify(availability)}
 TODAY: ${new Date().toISOString().split("T")[0]}
 

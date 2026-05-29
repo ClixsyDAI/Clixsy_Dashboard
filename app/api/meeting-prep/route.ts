@@ -314,7 +314,7 @@ export async function POST(request: Request) {
     // ── Build prompt ─────────────────────────────────────────
     const prompt = buildPrompt({
       projectName: project.name,
-      description: project.description,
+      description: project.description ?? "",
       nowWall,
       health,
       tasks: {

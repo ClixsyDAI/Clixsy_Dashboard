@@ -4,14 +4,9 @@ import { useCallback, useEffect, useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
 import { validateReturnPath } from "../lib/return-url";
+import type { Project } from "../lib/projects";
 
 /* ── Types ──────────────────────────────────────────────── */
-interface Project {
-  id: number;
-  name: string;
-  description: string;
-}
-
 interface TeamData {
   employees: string[];
   assignments: Record<string, string[]>;
@@ -224,7 +219,7 @@ function AdminDashboard({ token }: { token: string }) {
       .then((r) => r.json())
       .then((d) => setTeamData(d))
       .catch(() => {});
-    import("../data/projects.json").then((m) => setProjects(m.default));
+    import("../data/projects.json").then((m) => setProjects(m.default as Project[]));
   }, []);
 
   const handleToggle = useCallback(

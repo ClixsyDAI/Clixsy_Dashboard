@@ -5,7 +5,10 @@ import { listGscProperties, listGa4Properties } from "../../../lib/google";
 import projects from "../../../data/projects.json";
 
 interface ClientMapping {
-  projectId: number;
+  // Post-GHL-pivot: projectId is the (string) Project.id from app/data/projects.json.
+  // The existing google-properties.json file on disk still holds numeric ids
+  // from before the migration; this route overwrites that file on next run.
+  projectId: string;
   clientName: string;
   gscProperty?: string;
   ga4PropertyId?: string;

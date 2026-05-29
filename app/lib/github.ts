@@ -119,7 +119,7 @@ export async function commitFile(
 
 /** Commit a client's todo data as a JSON file */
 export async function commitClientData(
-  projectId: number,
+  projectId: number | string,
   todos: unknown[]
 ): Promise<{ sha: string; url: string }> {
   const path = `app/data/clients/${projectId}.json`;

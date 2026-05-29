@@ -118,8 +118,10 @@ export function getLocationsForProject(projectId: string): BrightLocalLocation[]
     }
   }
 
-  // Fallback: fuzzy match project name to BrightLocal client name
-  const project = projects.find((p) => p.id === numId);
+  // Fallback: fuzzy match project name to BrightLocal client name.
+  // Post-GHL-pivot: project.id is a string, so compare against the original
+  // projectId arg (already string) rather than the parsed numId.
+  const project = projects.find((p) => p.id === projectId);
   if (!project) return [];
 
   const projectLabel = project.name.replace(/^J\d+\s+/, "").toLowerCase();

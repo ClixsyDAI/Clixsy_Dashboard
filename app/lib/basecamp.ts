@@ -212,8 +212,8 @@ export async function basecampFetchOne<T>(
 
 /** Fetch the todoset for a project to get the todolists URL */
 export async function fetchTodoSet(
-  projectId: number,
-  todosetId: number,
+  projectId: number | string,
+  todosetId: number | undefined,
   accessToken: string
 ): Promise<{ todolists_url: string }> {
   const url = `${API_BASE}/buckets/${projectId}/todosets/${todosetId}.json`;
@@ -230,7 +230,7 @@ export async function fetchTodoLists(
 
 /** Fetch all todos from a todo list (both active and completed) */
 export async function fetchTodos(
-  projectId: number,
+  projectId: number | string,
   todoListId: number,
   accessToken: string
 ): Promise<BasecampTodo[]> {
@@ -263,10 +263,17 @@ function formatTodo(todo: BasecampTodo, listTitle: string): FormattedTodo {
   };
 }
 
-/** Sync all todos for a single project. Returns formatted todo array. */
+/** Sync all todos for a single project. Returns formatted todo array.
+ *
+ * Post-GHL-pivot: projectId is widened to `number | string` since the
+ * Project.id type changed (string for new GHL-created entries; stringified
+ * Basecamp id for migrated historicals). todosetId is `number | undefined`
+ * since the field is no longer in the migrated data. This function and its
+ * callers are scheduled for removal alongside the Basecamp poller.
+ */
 export async function syncProject(
-  projectId: number,
-  todosetId: number,
+  projectId: number | string,
+  todosetId: number | undefined,
   accessToken: string
 ): Promise<FormattedTodo[]> {
   // 1. Get the todoset to find todolists URL

@@ -58,7 +58,7 @@ export default function ClientGrid({ summaries, counts, teamAssignments }: Clien
     const passesSearch = (s: ClientHealthSummary) =>
       !q ||
       s.name.toLowerCase().includes(q) ||
-      s.description.toLowerCase().includes(q);
+      (s.description ?? "").toLowerCase().includes(q);
     const passesFilter = (s: ClientHealthSummary) =>
       filter === "all" || filterBucket(s) === filter;
 
