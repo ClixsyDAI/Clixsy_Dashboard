@@ -61,21 +61,21 @@
   },
   "9759866694": {
     "id": 9759866694,
-    "title": "Remove SEO Tools and Account Access",
-    "whyItMatters": "Proper removal of SEO tools during offboarding ensures clean transition and protects your business data.",
-    "updatedAt": "2026-04-08T22:10:57.146Z"
+    "title": "Remove SEO Tools and Access",
+    "whyItMatters": "Ensures proper transfer of SEO tools and accounts so your rankings and data remain secure.",
+    "updatedAt": "2026-05-21T21:08:53.064Z"
   },
   "9759866626": {
     "id": 9759866626,
-    "title": "Transfer Website Files and Remove Access",
-    "whyItMatters": "Completing website handover ensures you maintain full control of your site for future SEO efforts.",
-    "updatedAt": "2026-04-07T19:13:32.965Z"
+    "title": "Transfer Website and Remove Development Access",
+    "whyItMatters": "Gives you full control of your website while removing our access to maintain security.",
+    "updatedAt": "2026-05-07T16:35:19.515Z"
   },
   "9759866842": {
     "id": 9759866842,
-    "title": "Finalize Billing and Stop Recurring Charges",
-    "whyItMatters": "Proper billing closure ensures clean financial separation without affecting your website's search performance.",
-    "updatedAt": "2026-04-07T09:28:45.810-07:00"
+    "title": "Process Final Billing and Stop Services",
+    "whyItMatters": "Ensures clean financial closure and prevents unexpected charges while maintaining professional service transition.",
+    "updatedAt": "2026-04-27T16:26:16.206Z"
   },
   "9759866825": {
     "id": 9759866825,
@@ -94,5 +94,41 @@
     "title": "Archive Project Files and Remove Automations",
     "whyItMatters": "Proper project closure prevents disruptions to your website and ensures all automated processes are transferred appropriately.",
     "updatedAt": "2026-04-07T14:51:40.166Z"
+  },
+  "9847640933": {
+    "id": 9847640933,
+    "title": "Fix Large XML Sitemap Issue",
+    "whyItMatters": "Large sitemaps can prevent Google from properly indexing all your pages, hurting search visibility.",
+    "updatedAt": "2026-05-01T10:58:08.374Z"
+  },
+  "9847640932": {
+    "id": 9847640932,
+    "title": "Reduce XML Sitemap File Size",
+    "whyItMatters": "Oversized sitemaps may not load properly for search engines, preventing them from finding your pages.",
+    "updatedAt": "2026-05-01T10:58:08.332Z"
+  },
+  "9847640928": {
+    "id": 9847640928,
+    "title": "Fix Pages Hidden from Search Engines",
+    "whyItMatters": "Pages marked 'noindex' won't appear in Google search results, reducing your website's visibility.",
+    "updatedAt": "2026-05-01T10:58:08.304Z"
+  },
+  "9847640926": {
+    "id": 9847640926,
+    "title": "Fix Page Link Following Issues",
+    "whyItMatters": "Pages with 'nofollow' settings prevent search engines from crawling linked pages, limiting SEO benefits.",
+    "updatedAt": "2026-05-01T10:58:08.273Z"
+  },
+  "9847640925": {
+    "id": 9847640925,
+    "title": "Optimize Large Image File Sizes",
+    "whyItMatters": "Large images slow down page loading speed, which hurts both user experience and search rankings.",
+    "updatedAt": "2026-05-01T10:58:08.243Z"
+  },
+  "9847640923": {
+    "id": 9847640923,
+    "title": "Fix Broken Internal Links",
+    "whyItMatters": "Broken links create poor user experience and prevent search engines from properly crawling your site.",
+    "updatedAt": "2026-05-01T10:58:08.213Z"
   }
 }
