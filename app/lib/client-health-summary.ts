@@ -11,6 +11,7 @@
 import { existsSync } from "fs";
 import { join } from "path";
 import projects from "../data/projects.json";
+import { formatClientDisplayName } from "./projects";
 import { loadClientTodos } from "./dashboard-data";
 import { loadGscData, loadGa4Data } from "./google-data";
 import { getBrightLocalSummary } from "./brightlocal-data";
@@ -24,9 +25,11 @@ import type { ContentArticle } from "./content-types";
 export interface ClientHealthSummary {
   id: string;
   name: string;
-  displayName: string; // Pre-migration: name with J### prefix stripped at render-time.
-                       // Post-migration: equal to name (J-prefix lives in `j_number` now).
-                       // Kept on the interface for callers that still read .displayName.
+  /** "J<number> <name>" when j_number is set, otherwise bare name. The single
+   *  formatted string AM-facing UI should render. Mirrors
+   *  formatClientDisplayName(project) — kept on the summary so list/grid
+   *  components don't need to know about j_number. */
+  displayName: string;
   description: string | null;
   hasData: boolean; // at least basecamp todos synced
   health: HealthScoreResult | null; // null if no data has been synced for this project
@@ -93,10 +96,7 @@ function summarizeProject(
   articles: ContentArticle[] | null
 ): ClientHealthSummary {
   const id = String(p.id);
-  // Post-GHL-migration: `p.name` already has the J-prefix stripped (the prefix
-  // lives in `p.j_number` on its own). The regex is a defensive no-op so any
-  // unmigrated entries still render correctly.
-  const displayName = p.name.replace(/^J\d+\s+/, "");
+  const displayName = formatClientDisplayName(p);
   const baseMeta = {
     id,
     name: p.name,
@@ -256,7 +256,7 @@ export async function getAllClientHealthSummaries(): Promise<ClientHealthSummary
       return {
         id: String(p.id),
         name: p.name,
-        displayName: p.name.replace(/^J\d+\s+/, ""),
+        displayName: formatClientDisplayName(p),
         description: p.description,
         hasData: false,
         health: null,
