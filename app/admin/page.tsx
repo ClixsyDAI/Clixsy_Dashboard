@@ -1,6 +1,15 @@
 "use client";
 
-import { useCallback, useEffect, useMemo, useState } from "react";
+import {
+  Fragment,
+  useCallback,
+  useEffect,
+  useMemo,
+  useState,
+  type Dispatch,
+  type ReactNode,
+  type SetStateAction,
+} from "react";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
 import { validateReturnPath } from "../lib/return-url";
@@ -204,7 +213,10 @@ function LoginScreen({
 }
 
 /* ── Admin Dashboard ────────────────────────────────────── */
+type AdminTab = "team" | "clients";
+
 function AdminDashboard({ token }: { token: string }) {
+  const [tab, setTab] = useState<AdminTab>("team");
   const [projects, setProjects] = useState<Project[]>([]);
   const [teamData, setTeamData] = useState<TeamData | null>(null);
   const [dirty, setDirty] = useState(false);
@@ -213,14 +225,25 @@ function AdminDashboard({ token }: { token: string }) {
   const [search, setSearch] = useState("");
   const [filterEmployee, setFilterEmployee] = useState("all");
 
-  // Load projects + assignments on mount
+  // Load projects + assignments on mount. Projects load from the
+  // admin-gated /api/admin/clients (live master via getFileContents),
+  // NOT from the bundled JSON — so an AM logging in 30s after a GHL
+  // webhook fire sees the just-created entry without waiting for the
+  // next Vercel redeploy.
   useEffect(() => {
     fetch("/api/team-assignments")
       .then((r) => r.json())
       .then((d) => setTeamData(d))
       .catch(() => {});
-    import("../data/projects.json").then((m) => setProjects(m.default as Project[]));
-  }, []);
+    fetch("/api/admin/clients", {
+      headers: { Authorization: `Bearer ${token}` },
+    })
+      .then((r) => r.json())
+      .then((d) => {
+        if (Array.isArray(d?.projects)) setProjects(d.projects as Project[]);
+      })
+      .catch(() => {});
+  }, [token]);
 
   const handleToggle = useCallback(
     (projectId: string, employee: string) => {
@@ -346,11 +369,12 @@ function AdminDashboard({ token }: { token: string }) {
                   className="text-2xl font-bold tracking-wide uppercase"
                   style={{ color: "#ffffff", letterSpacing: "0.05em" }}
                 >
-                  Team Assignments
+                  Admin
                 </h1>
                 <p className="text-xs" style={{ color: "#888" }}>
-                  {projects.length} clients &middot;{" "}
-                  {teamData.employees.length} team members
+                  {tab === "team"
+                    ? `${projects.length} clients · ${teamData.employees.length} team members`
+                    : `${projects.length} clients · edit name, J-number, description`}
                 </p>
               </div>
             </div>
@@ -377,6 +401,33 @@ function AdminDashboard({ token }: { token: string }) {
           />
         </header>
 
+        {/* Tab strip */}
+        <nav
+          className="mb-6 flex gap-1 border-b"
+          style={{ borderColor: "#1a1a1a" }}
+        >
+          <TabButton
+            label="Team Assignments"
+            active={tab === "team"}
+            onClick={() => setTab("team")}
+          />
+          <TabButton
+            label="Edit Clients"
+            active={tab === "clients"}
+            onClick={() => setTab("clients")}
+          />
+        </nav>
+
+        {tab === "clients" && (
+          <ClientEditorView
+            projects={projects}
+            setProjects={setProjects}
+            token={token}
+          />
+        )}
+
+        {tab === "team" && (
+        <>
         {/* Employee summary strip */}
         <section
           className="mb-6 rounded-sm border p-4"
@@ -574,8 +625,399 @@ function AdminDashboard({ token }: { token: string }) {
             Changes are saved to Vercel Blob storage when you click Save.
           </p>
         </footer>
+        </>
+        )}
       </div>
     </div>
+  );
+}
+
+/* ── TabButton ──────────────────────────────────────────── */
+function TabButton({
+  label,
+  active,
+  onClick,
+}: {
+  label: string;
+  active: boolean;
+  onClick: () => void;
+}) {
+  return (
+    <button
+      type="button"
+      onClick={onClick}
+      className="border-b-2 px-4 py-2.5 text-xs font-semibold tracking-wide uppercase transition-colors"
+      style={{
+        borderColor: active ? "#C8A882" : "transparent",
+        color: active ? "#f0ede8" : "#888",
+      }}
+    >
+      {label}
+    </button>
+  );
+}
+
+/* ── ClientEditorView ───────────────────────────────────── */
+function ClientEditorView({
+  projects,
+  setProjects,
+  token,
+}: {
+  projects: Project[];
+  setProjects: Dispatch<SetStateAction<Project[]>>;
+  token: string;
+}) {
+  const [search, setSearch] = useState("");
+  const [editingId, setEditingId] = useState<string | null>(null);
+
+  const filtered = useMemo(() => {
+    if (!projects.length) return [];
+    const q = search.trim().toLowerCase();
+    return projects
+      .filter((p) => {
+        if (!q) return true;
+        return (
+          formatClientDisplayName(p).toLowerCase().includes(q) ||
+          p.id.toLowerCase().includes(q) ||
+          (p.description ?? "").toLowerCase().includes(q)
+        );
+      })
+      // J-number ASC, then bare name. Numeric sort so J9 < J100; entries
+      // with j_number=null (fresh GHL-created) sink to the end.
+      .sort((a, b) => {
+        const an = a.j_number ? parseInt(a.j_number, 10) : Number.MAX_SAFE_INTEGER;
+        const bn = b.j_number ? parseInt(b.j_number, 10) : Number.MAX_SAFE_INTEGER;
+        if (an !== bn) return an - bn;
+        return a.name.localeCompare(b.name);
+      });
+  }, [projects, search]);
+
+  return (
+    <div>
+      {/* Search bar (matches team-assignments search styling) */}
+      <div className="mb-4 flex flex-wrap items-center gap-3">
+        <input
+          type="text"
+          placeholder="Search by name, J-number, id, or description..."
+          value={search}
+          onChange={(e) => setSearch(e.target.value)}
+          className="min-w-[260px] flex-1 rounded-sm border px-4 py-2.5 text-sm outline-none transition-colors focus:border-[#C8A882]"
+          style={{
+            backgroundColor: "#111",
+            borderColor: "#333",
+            color: "#f0ede8",
+            maxWidth: 480,
+          }}
+        />
+        <p className="text-xs" style={{ color: "#888" }}>
+          {search ? `${filtered.length} of ${projects.length}` : `${projects.length} clients`}
+        </p>
+      </div>
+
+      {/* Client table */}
+      <div
+        className="overflow-x-auto rounded-sm border"
+        style={{ borderColor: "#1a1a1a" }}
+      >
+        <table className="w-full text-left text-sm">
+          <thead>
+            <tr style={{ backgroundColor: "#1a1a1a" }}>
+              <th className="px-4 py-3 text-xs font-semibold tracking-wide" style={{ color: "#f0ede8" }}>
+                Client
+              </th>
+              <th className="px-4 py-3 text-xs font-semibold tracking-wide" style={{ color: "#f0ede8", width: 90 }}>
+                J-number
+              </th>
+              <th className="px-4 py-3 text-xs font-semibold tracking-wide" style={{ color: "#f0ede8" }}>
+                Description
+              </th>
+              <th className="px-4 py-3 text-xs font-semibold tracking-wide" style={{ color: "#f0ede8", width: 120 }}>
+                Vertical
+              </th>
+              <th className="px-4 py-3 text-xs font-semibold tracking-wide" style={{ color: "#f0ede8", width: 90 }}>
+                Edit
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            {filtered.map((p, i) => {
+              const isEditing = editingId === p.id;
+              const rowBg = i % 2 === 0 ? "#111" : "#0e0e0e";
+              return (
+                <Fragment key={p.id}>
+                  <tr style={{ backgroundColor: rowBg }}>
+                    <td className="px-4 py-2.5">
+                      <span className="text-sm font-medium" style={{ color: "#f0ede8" }}>
+                        {formatClientDisplayName(p)}
+                      </span>
+                    </td>
+                    <td className="px-4 py-2.5 text-sm" style={{ color: p.j_number ? "#f0ede8" : "#555" }}>
+                      {p.j_number ?? "—"}
+                    </td>
+                    <td className="px-4 py-2.5 text-xs" style={{ color: p.description ? "#888" : "#555" }}>
+                      {p.description ?? "—"}
+                    </td>
+                    <td className="px-4 py-2.5">
+                      <VerticalBadge vertical={p.vertical} />
+                    </td>
+                    <td className="px-4 py-2.5">
+                      <button
+                        onClick={() => setEditingId(isEditing ? null : p.id)}
+                        className="rounded-sm border px-3 py-1 text-[10px] font-semibold tracking-wide uppercase transition-colors hover:border-[#C8A882] hover:text-[#C8A882]"
+                        style={{ borderColor: "#333", color: "#f0ede8" }}
+                      >
+                        {isEditing ? "Close" : "Edit"}
+                      </button>
+                    </td>
+                  </tr>
+                  {isEditing && (
+                    <tr style={{ backgroundColor: "#0a0a0a" }}>
+                      <td colSpan={5} className="px-4 py-4">
+                        <EditForm
+                          project={p}
+                          token={token}
+                          onSaved={(updated) => {
+                            setProjects((prev) =>
+                              prev.map((row) => (row.id === updated.id ? updated : row)),
+                            );
+                            setEditingId(null);
+                          }}
+                        />
+                      </td>
+                    </tr>
+                  )}
+                </Fragment>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
+
+      {filtered.length === 0 && (
+        <div className="py-12 text-center">
+          <p className="text-sm" style={{ color: "#888" }}>
+            No clients match your search.
+          </p>
+        </div>
+      )}
+
+      <footer className="mt-8 pb-8">
+        <div className="h-[1px] w-full" style={{ backgroundColor: "#1a1a1a" }} />
+        <p className="mt-4 text-xs italic" style={{ color: "#888" }}>
+          Edits commit a new `sync: update projects manifest` commit. The
+          dashboard home page picks up changes 1-2 minutes later when Vercel
+          finishes the auto-redeploy.
+        </p>
+      </footer>
+    </div>
+  );
+}
+
+/* ── VerticalBadge ──────────────────────────────────────── */
+function VerticalBadge({ vertical }: { vertical: Project["vertical"] }) {
+  const palette: Record<Project["vertical"], { bg: string; fg: string }> = {
+    law_firm: { bg: "rgba(91, 155, 213, 0.15)", fg: "#5b9bd5" },
+    home_services: { bg: "rgba(106, 168, 79, 0.15)", fg: "#6aa84f" },
+    other: { bg: "rgba(136, 136, 136, 0.15)", fg: "#888" },
+  };
+  const c = palette[vertical];
+  return (
+    <span
+      className="inline-block rounded-sm px-2 py-0.5 text-[10px] font-bold tracking-wider uppercase"
+      style={{ backgroundColor: c.bg, color: c.fg }}
+    >
+      {vertical.replace("_", " ")}
+    </span>
+  );
+}
+
+/* ── EditForm ───────────────────────────────────────────── */
+function EditForm({
+  project,
+  token,
+  onSaved,
+}: {
+  project: Project;
+  token: string;
+  onSaved: (updated: Project) => void;
+}) {
+  const [name, setName] = useState(project.name);
+  const [jNumber, setJNumber] = useState(project.j_number ?? "");
+  const [description, setDescription] = useState(project.description ?? "");
+  const [saving, setSaving] = useState(false);
+  const [error, setError] = useState<string | null>(null);
+
+  // Block save if j_number has non-digit content. The server-side Zod
+  // schema enforces this too — the UI hint mirrors it so the AM sees
+  // the problem before submitting.
+  const jNumberInvalid = jNumber.length > 0 && !/^\d+$/.test(jNumber);
+  const nameInvalid = name.trim().length === 0;
+  const canSave = !nameInvalid && !jNumberInvalid && !saving;
+
+  const handleSave = async () => {
+    setError(null);
+    setSaving(true);
+    try {
+      const res = await fetch(`/api/admin/clients/${project.id}`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Authorization: `Bearer ${token}`,
+        },
+        body: JSON.stringify({
+          name: name.trim(),
+          j_number: jNumber.trim() || null,
+          description: description.trim() || null,
+        }),
+      });
+      const body = await res.json();
+      if (!res.ok) {
+        setError(body?.error || `Save failed (HTTP ${res.status})`);
+        return;
+      }
+      onSaved(body.updated as Project);
+    } catch (err) {
+      setError(err instanceof Error ? err.message : "Network error");
+    } finally {
+      setSaving(false);
+    }
+  };
+
+  return (
+    <div className="grid grid-cols-1 gap-4 md:grid-cols-2">
+      {/* Editable fields */}
+      <div className="space-y-3">
+        <h4
+          className="text-[10px] font-semibold tracking-widest uppercase"
+          style={{ color: "#C8A882" }}
+        >
+          Editable
+        </h4>
+        <Field label="Client name (J-prefix excluded)">
+          <input
+            type="text"
+            value={name}
+            onChange={(e) => setName(e.target.value)}
+            className="w-full rounded-sm border px-3 py-2 text-sm outline-none transition-colors focus:border-[#C8A882]"
+            style={{
+              backgroundColor: "#0a0a0a",
+              borderColor: nameInvalid ? "#e06666" : "#333",
+              color: "#f0ede8",
+            }}
+          />
+        </Field>
+        <Field label="J-number (digits only, blank if unassigned)">
+          <input
+            type="text"
+            inputMode="numeric"
+            placeholder="412"
+            value={jNumber}
+            onChange={(e) => setJNumber(e.target.value)}
+            className="w-full rounded-sm border px-3 py-2 text-sm outline-none transition-colors focus:border-[#C8A882]"
+            style={{
+              backgroundColor: "#0a0a0a",
+              borderColor: jNumberInvalid ? "#e06666" : "#333",
+              color: "#f0ede8",
+            }}
+          />
+          {jNumberInvalid && (
+            <p className="mt-1 text-[10px]" style={{ color: "#e06666" }}>
+              J-number must contain digits only
+            </p>
+          )}
+        </Field>
+        <Field label="Description (free text)">
+          <textarea
+            value={description}
+            onChange={(e) => setDescription(e.target.value)}
+            rows={2}
+            className="w-full rounded-sm border px-3 py-2 text-sm outline-none transition-colors focus:border-[#C8A882]"
+            style={{
+              backgroundColor: "#0a0a0a",
+              borderColor: "#333",
+              color: "#f0ede8",
+              resize: "vertical",
+            }}
+          />
+        </Field>
+        <div className="flex items-center gap-3 pt-2">
+          <button
+            type="button"
+            onClick={handleSave}
+            disabled={!canSave}
+            className="rounded-sm px-4 py-2 text-xs font-semibold tracking-wide uppercase transition-opacity disabled:opacity-40"
+            style={{ backgroundColor: "#C8A882", color: "#0a0a0a" }}
+          >
+            {saving ? "Saving..." : "Save"}
+          </button>
+          {error && (
+            <span className="text-xs" style={{ color: "#e06666" }}>
+              {error}
+            </span>
+          )}
+        </div>
+      </div>
+
+      {/* Read-only context */}
+      <div className="space-y-3">
+        <h4
+          className="text-[10px] font-semibold tracking-widest uppercase"
+          style={{ color: "#555" }}
+        >
+          Read-only context
+        </h4>
+        <Field label="Workbook id">
+          <div
+            className="w-full rounded-sm border px-3 py-2 font-mono text-xs"
+            style={{ backgroundColor: "#0a0a0a", borderColor: "#222", color: "#888" }}
+          >
+            {project.id}
+          </div>
+        </Field>
+        <Field label="Vertical">
+          <VerticalBadge vertical={project.vertical} />
+        </Field>
+        <Field label="GHL contact id">
+          <div
+            className="w-full rounded-sm border px-3 py-2 font-mono text-xs"
+            style={{ backgroundColor: "#0a0a0a", borderColor: "#222", color: project.ghl_contact_id ? "#888" : "#555" }}
+          >
+            {project.ghl_contact_id ?? "—"}
+          </div>
+        </Field>
+        <Field label="GHL user id (assigned to)">
+          <div
+            className="w-full rounded-sm border px-3 py-2 font-mono text-xs"
+            style={{ backgroundColor: "#0a0a0a", borderColor: "#222", color: project.am_ghl_user_id ? "#888" : "#555" }}
+          >
+            {project.am_ghl_user_id ?? "—"}
+          </div>
+        </Field>
+        <Field label="Website URL">
+          <div
+            className="w-full break-all rounded-sm border px-3 py-2 text-xs"
+            style={{ backgroundColor: "#0a0a0a", borderColor: "#222", color: project.website_url ? "#888" : "#555" }}
+          >
+            {project.website_url ?? "—"}
+          </div>
+        </Field>
+      </div>
+    </div>
+  );
+}
+
+/* ── Field (label wrapper) ──────────────────────────────── */
+function Field({ label, children }: { label: string; children: ReactNode }) {
+  return (
+    <label className="block">
+      <span
+        className="mb-1 block text-[10px] font-semibold tracking-wider uppercase"
+        style={{ color: "#888" }}
+      >
+        {label}
+      </span>
+      {children}
+    </label>
   );
 }
 
