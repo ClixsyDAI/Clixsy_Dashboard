@@ -1,7 +1,5 @@
 "use client";
 
-import { useEffect, useState } from "react";
-
 export interface ClientLast10Task {
   id: number;
   title: string;
@@ -32,58 +30,14 @@ interface Props {
  * `app_url` column — the client never sees a direct Basecamp link.
  */
 export default function ClientLast10TasksTable({
-  projectId,
   tasks,
   initialSummaries,
 }: Props) {
-  const [summaries, setSummaries] = useState<Record<string, CachedSummary>>(
-    initialSummaries
-  );
-  const [loading, setLoading] = useState(false);
-
-  useEffect(() => {
-    const stale = tasks.filter((t) => {
-      const cached = summaries[String(t.id)];
-      return !cached || cached.updatedAt !== t.updated_at;
-    });
-
-    if (stale.length === 0) return;
-
-    let cancelled = false;
-    setLoading(true);
-
-    fetch(`/api/task-summaries/${projectId}`, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        tasks: tasks.map((t) => ({
-          id: t.id,
-          title: t.title,
-          description: t.description,
-          list_title: t.list_title,
-          updated_at: t.updated_at,
-        })),
-      }),
-    })
-      .then((r) => r.json())
-      .then((data) => {
-        if (cancelled) return;
-        if (data.summaries) {
-          setSummaries((prev) => ({ ...prev, ...data.summaries }));
-        }
-      })
-      .catch((e) => {
-        if (!cancelled) console.error("Task summaries fetch failed:", e);
-      })
-      .finally(() => {
-        if (!cancelled) setLoading(false);
-      });
-
-    return () => {
-      cancelled = true;
-    };
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [projectId, tasks]);
+  // Live-refresh fetch removed: /api/task-summaries/[projectId] was deleted
+  // in PR #31. The share page that hosts this component still renders the
+  // server-seeded snapshot; the live update path will be reintroduced when
+  // the ClickUp ingest replaces the Basecamp pipeline.
+  const summaries = initialSummaries;
 
   return (
     <section className="mt-12">
@@ -91,11 +45,6 @@ export default function ClientLast10TasksTable({
         <h2 className="text-lg font-bold tracking-wide" style={{ color: "#ffffff" }}>
           RECENT WORK
         </h2>
-        {loading && (
-          <span className="text-[11px]" style={{ color: "#888" }}>
-            Generating summaries…
-          </span>
-        )}
       </div>
       <div className="mt-1 h-[2px] w-full" style={{ backgroundColor: "#c8a882" }} />
       <div className="mt-2 overflow-x-auto">

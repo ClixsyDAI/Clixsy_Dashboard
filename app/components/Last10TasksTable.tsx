@@ -1,7 +1,5 @@
 "use client";
 
-import { useEffect, useState } from "react";
-
 export interface Last10Task {
   id: number;
   title: string;
@@ -27,61 +25,17 @@ interface Last10TasksTableProps {
 }
 
 export default function Last10TasksTable({
-  projectId,
   tasks,
   initialSummaries,
 }: Last10TasksTableProps) {
-  const [summaries, setSummaries] = useState<Record<string, CachedSummary>>(
-    initialSummaries
-  );
-  const [loading, setLoading] = useState(false);
-
-  useEffect(() => {
-    // Determine which tasks need fresh AI summaries
-    const stale = tasks.filter((t) => {
-      const cached = summaries[String(t.id)];
-      return !cached || cached.updatedAt !== t.updated_at;
-    });
-
-    if (stale.length === 0) return;
-
-    let cancelled = false;
-    setLoading(true);
-
-    fetch(`/api/task-summaries/${projectId}`, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        tasks: tasks.map((t) => ({
-          id: t.id,
-          title: t.title,
-          description: t.description,
-          list_title: t.list_title,
-          updated_at: t.updated_at,
-        })),
-      }),
-    })
-      .then((r) => r.json())
-      .then((data) => {
-        if (cancelled) return;
-        if (data.summaries) {
-          setSummaries((prev) => ({ ...prev, ...data.summaries }));
-        }
-      })
-      .catch((e) => {
-        if (!cancelled) console.error("Task summaries fetch failed:", e);
-      })
-      .finally(() => {
-        if (!cancelled) setLoading(false);
-      });
-
-    return () => {
-      cancelled = true;
-    };
-    // We intentionally exclude `summaries` from deps — we only want to trigger
-    // on the task list itself.
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [projectId, tasks]);
+  // PR #31 deleted /api/task-summaries/[projectId]; the live-refresh fetch
+  // that used to live here was an orphan caller. The Overview tab that
+  // hosts this component is itself gated on task data (currently always
+  // null post-cutover), so this code path is unreachable today. The
+  // component still ships the server-seeded `initialSummaries` snapshot
+  // for whenever the ClickUp ingest brings task data back; live refresh
+  // will be reintroduced against the new ingest endpoint at that time.
+  const summaries = initialSummaries;
 
   return (
     <section className="mt-12">
@@ -89,11 +43,6 @@ export default function Last10TasksTable({
         <h2 className="text-lg font-bold tracking-wide" style={{ color: "#ffffff" }}>
           LAST 10 TASKS WORKED ON
         </h2>
-        {loading && (
-          <span className="text-[11px]" style={{ color: "#888" }}>
-            Generating summaries…
-          </span>
-        )}
       </div>
       <div className="mt-1 h-[2px] w-full" style={{ backgroundColor: "#c8a882" }} />
       <div className="mt-2 overflow-x-auto">

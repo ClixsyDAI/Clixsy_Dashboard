@@ -171,24 +171,34 @@ export default async function ClientDashboard({ params }: PageProps) {
     blGmbCalls: blData?.totalGmbCalls ?? null,
   });
 
-  // Tab gating: every tab that renders task-derived content (Overview,
-  // Search, Local SEO, Content, Internal Use) is hidden when `data` is
-  // null — i.e. when no per-client task file exists at
-  // app/data/clients/{id}.json. After the Basecamp cutover, that file
-  // is absent for every client; these tabs stay code-resident but never
-  // render until a new task-source pipeline lands. Ask a Question is
-  // reachable when EITHER task data OR an onboarding session exists.
-  // Onboarding is reachable whenever a Supabase session exists.
+  // Tab gating: each tab is gated on its own data source.
+  //
+  // Task-derived tabs (Overview, Internal Use) need `data`, which is the
+  // per-client task file at app/data/clients/{id}.json. PR #31 wiped
+  // those files when it removed the Basecamp poller; they'll come back
+  // when the ClickUp ingest pipeline lands. Until then these tabs stay
+  // code-resident but never render.
+  //
+  // Search Performance, Local SEO, and Content have their own independent
+  // pipelines (GSC/GA4 JSON, BrightLocal JSON, Google Sheet) and were
+  // accidentally tangled into the task gate in PR #31. They're now gated
+  // on their own source data.
+  //
+  // Ask a Question reaches whenever there's something to ask about — task
+  // data OR an onboarding session. Onboarding tab is gated on a Supabase
+  // session existing for this workbook id.
   const tabs = [
     ...(data ? [{ id: "overview", label: "Overview" }] : []),
-    ...(data && (gscData || ga4Data)
+    ...(gscData || ga4Data
       ? [{ id: "search", label: "Search Performance" }]
       : []),
-    ...(data && blData ? [{ id: "local-seo", label: "Local SEO" }] : []),
+    ...(blData ? [{ id: "local-seo", label: "Local SEO" }] : []),
     ...(data || hasOnboardingSession
       ? [{ id: "ask-question", label: "Ask a Question" }]
       : []),
-    ...(data ? [{ id: "content", label: "Content" }] : []),
+    // Content pulls from the Google Sheet via /api/content keyed on
+    // client name — always available, the component handles empty state.
+    { id: "content", label: "Content" },
     ...(data
       ? [
           {
@@ -278,11 +288,11 @@ export default async function ClientDashboard({ params }: PageProps) {
           />
         </header>
 
-        {!data && !hasOnboardingSession ? (
-          /* No data AND no onboarding session — preserve the original
-             empty state for clients with neither (e.g. a manually-added
-             projects.json entry pre-Phase-3, or a brand-new client
-             before either flow has run). */
+        {tabs.length === 0 ? (
+          /* No reachable tab — show the empty state. With the Content
+             tab unconditional, this branch is currently unreachable in
+             practice; kept as a safety net if a future change pulls
+             Content back behind a gate. */
           <div
             className="mt-12 flex flex-col items-center justify-center rounded-sm py-24"
             style={{ backgroundColor: "#111111" }}
@@ -529,8 +539,8 @@ export default async function ClientDashboard({ params }: PageProps) {
 
             )}
 
-            {/* ── TAB: SEARCH PERFORMANCE (conditional, gated on Basecamp data + GSC/GA4) ─ */}
-            {data && (gscData || ga4Data) && (
+            {/* ── TAB: SEARCH PERFORMANCE (gated on GSC or GA4 data) ─ */}
+            {(gscData || ga4Data) && (
               <div>
                 <GoogleSearchCharts
                   gscProperty={gscData?.property || null}
@@ -549,8 +559,8 @@ export default async function ClientDashboard({ params }: PageProps) {
               </div>
             )}
 
-            {/* ── TAB: LOCAL SEO / BRIGHTLOCAL (conditional, gated on Basecamp data + BL) ─ */}
-            {data && blData && (
+            {/* ── TAB: LOCAL SEO / BRIGHTLOCAL (gated on BL data only) ─ */}
+            {blData && (
               <div>
                 <BrightLocalPanel {...blData} />
               </div>
@@ -563,12 +573,10 @@ export default async function ClientDashboard({ params }: PageProps) {
               </div>
             )}
 
-            {/* ── TAB: CONTENT (gated on task data) ─────── */}
-            {data && (
-              <div>
-                <ContentTab projectId={id} clientName={project.name} />
-              </div>
-            )}
+            {/* ── TAB: CONTENT (Google Sheet, always available) ─ */}
+            <div>
+              <ContentTab projectId={id} clientName={project.name} />
+            </div>
 
             {/* ── TAB: INTERNAL USE → REPORT (AI, gated on Basecamp data) ─ */}
             {data && (
