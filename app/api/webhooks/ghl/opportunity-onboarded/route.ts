@@ -50,12 +50,24 @@ const PIPELINE_TO_VERTICAL: Record<
   "Home Services": "home_services",
 };
 
+// Normalize values that GHL templating sends as the literal four-
+// character string "null" when the underlying field is empty. This
+// happens with custom fields (e.g. `{{opportunity.website_url}}`)
+// and the `{{opportunity.assignedTo}}` variable when no AM is set.
+// Empty strings come through too — coerce both to JS null so the
+// downstream JSON write (projects.json) gets actual null, not the
+// string "null".
+function normalizeGhlNullable(value: string): string | null {
+  return value === "null" || value === "" ? null : value;
+}
+
 // GHL custom-webhook payload schema. Field names mirror the workflow
 // Custom Action body. "assigned_to" arrives as either a 20-char GHL
 // user id or the literal string "null" when no AM is set — see the
-// GHL discovery doc §"assigned_to resolution". Empty strings on
-// optional text fields (email/phone/website) are allowed; the route
-// normalizes empty website_url to null before writing.
+// GHL discovery doc §"assigned_to resolution". Optional text fields
+// (email/phone/website) accept empty string or the literal "null"
+// from GHL templating; both get coerced via normalizeGhlNullable
+// before they reach the manifest.
 const PayloadSchema = z.object({
   opportunity_id: z.string().regex(/^[A-Za-z0-9]{20}$/),
   opportunity_name: z.string().min(1),
@@ -146,8 +158,8 @@ export async function POST(req: NextRequest) {
     );
   }
 
-  const assignedTo = payload.assigned_to === "null" ? null : payload.assigned_to;
-  const websiteUrl = payload.website_url === "" ? null : payload.website_url;
+  const assignedTo = normalizeGhlNullable(payload.assigned_to);
+  const websiteUrl = normalizeGhlNullable(payload.website_url);
 
   const newProject: Project = {
     id: payload.opportunity_id,
