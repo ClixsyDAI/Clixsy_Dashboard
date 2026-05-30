@@ -30,6 +30,7 @@ import { renderFormReminderEmail } from "../../lib/onboarding/email-templates";
 import { buildOnboardingUrl } from "../../lib/onboarding/onboarding-url";
 import EmailPreview from "./EmailPreview";
 import Modal from "./Modal";
+import { useAdminAuth } from "../../lib/use-admin-auth";
 
 const FROM_ADDRESS = "Clixsy <onboarding@clixsy.com>";
 
@@ -66,6 +67,7 @@ export default function SendFormReminderModal({
   sessionId,
   contact,
 }: SendFormReminderModalProps) {
+  const { fetchWithAuth, signInPromptJsx } = useAdminAuth();
   const [fetchState, setFetchState] = useState<FetchState>({ kind: "idle" });
   const [sendState, setSendState] = useState<SendState>({ kind: "idle" });
 
@@ -87,24 +89,11 @@ export default function SendFormReminderModal({
     setFetchState({ kind: "loading" });
     (async () => {
       try {
-        const adminToken = sessionStorage.getItem("admin_token");
-        if (!adminToken) {
-          if (cancelled) return;
-          setFetchState({
-            kind: "error",
-            message:
-              "Not signed in. Open /admin in this tab to sign in, then try again.",
-          });
-          return;
-        }
-        const res = await fetch(
+        const res = await fetchWithAuth(
           `/api/onboarding/sessions/${sessionId}/token`,
           {
             method: "POST",
-            headers: {
-              Authorization: `Bearer ${adminToken}`,
-              "Content-Type": "application/json",
-            },
+            headers: { "Content-Type": "application/json" },
             body: JSON.stringify({ source: "send_reminder_modal" }),
           },
         );
@@ -138,7 +127,7 @@ export default function SendFormReminderModal({
     return () => {
       cancelled = true;
     };
-  }, [isOpen, sessionId]);
+  }, [isOpen, sessionId, fetchWithAuth]);
 
   const handleSend = async () => {
     if (fetchState.kind !== "ok") return;
@@ -148,21 +137,9 @@ export default function SendFormReminderModal({
     });
     setSendState({ kind: "sending" });
     try {
-      const adminToken = sessionStorage.getItem("admin_token");
-      if (!adminToken) {
-        setSendState({
-          kind: "error",
-          message:
-            "Not signed in. Open /admin in this tab to sign in, then try again.",
-        });
-        return;
-      }
-      const res = await fetch("/api/onboarding/reminders", {
+      const res = await fetchWithAuth("/api/onboarding/reminders", {
         method: "POST",
-        headers: {
-          Authorization: `Bearer ${adminToken}`,
-          "Content-Type": "application/json",
-        },
+        headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           session_id: sessionId,
           kind: "form_reminder",
@@ -257,6 +234,7 @@ export default function SendFormReminderModal({
   })();
 
   return (
+    <>
     <Modal
       isOpen={isOpen}
       onClose={handleClose}
@@ -326,6 +304,8 @@ export default function SendFormReminderModal({
         </div>
       )}
     </Modal>
+    {signInPromptJsx}
+    </>
   );
 }
 

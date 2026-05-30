@@ -14,6 +14,7 @@ import { useRouter } from "next/navigation";
 import Link from "next/link";
 import { validateReturnPath } from "../lib/return-url";
 import { formatClientDisplayName, type Project } from "../lib/projects";
+import { useAdminAuth } from "../lib/use-admin-auth";
 
 /* ── Types ──────────────────────────────────────────────── */
 interface TeamData {
@@ -224,6 +225,9 @@ function AdminDashboard({ token }: { token: string }) {
   const [saveMsg, setSaveMsg] = useState("");
   const [search, setSearch] = useState("");
   const [filterEmployee, setFilterEmployee] = useState("all");
+  // Wraps save actions so an expired-mid-edit session prompts an
+  // inline sign-in instead of dropping a generic error.
+  const { fetchWithAuth, signInPromptJsx } = useAdminAuth();
 
   // Load projects + assignments on mount. Projects load from the
   // admin-gated /api/admin/clients (live master via getFileContents),
@@ -274,12 +278,9 @@ function AdminDashboard({ token }: { token: string }) {
     setSaving(true);
     setSaveMsg("");
     try {
-      const res = await fetch("/api/team-assignments", {
+      const res = await fetchWithAuth("/api/team-assignments", {
         method: "PUT",
-        headers: {
-          "Content-Type": "application/json",
-          Authorization: `Bearer ${token}`,
-        },
+        headers: { "Content-Type": "application/json" },
         body: JSON.stringify(teamData),
       });
       if (res.ok) {
@@ -422,7 +423,6 @@ function AdminDashboard({ token }: { token: string }) {
           <ClientEditorView
             projects={projects}
             setProjects={setProjects}
-            token={token}
           />
         )}
 
@@ -628,6 +628,7 @@ function AdminDashboard({ token }: { token: string }) {
         </>
         )}
       </div>
+      {signInPromptJsx}
     </div>
   );
 }
@@ -661,11 +662,9 @@ function TabButton({
 function ClientEditorView({
   projects,
   setProjects,
-  token,
 }: {
   projects: Project[];
   setProjects: Dispatch<SetStateAction<Project[]>>;
-  token: string;
 }) {
   const [search, setSearch] = useState("");
   const [editingId, setEditingId] = useState<string | null>(null);
@@ -775,7 +774,6 @@ function ClientEditorView({
                       <td colSpan={5} className="px-4 py-4">
                         <EditForm
                           project={p}
-                          token={token}
                           onSaved={(updated) => {
                             setProjects((prev) =>
                               prev.map((row) => (row.id === updated.id ? updated : row)),
@@ -834,11 +832,9 @@ function VerticalBadge({ vertical }: { vertical: Project["vertical"] }) {
 /* ── EditForm ───────────────────────────────────────────── */
 function EditForm({
   project,
-  token,
   onSaved,
 }: {
   project: Project;
-  token: string;
   onSaved: (updated: Project) => void;
 }) {
   const [name, setName] = useState(project.name);
@@ -846,6 +842,7 @@ function EditForm({
   const [description, setDescription] = useState(project.description ?? "");
   const [saving, setSaving] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const { fetchWithAuth, signInPromptJsx } = useAdminAuth();
 
   // Block save if j_number has non-digit content. The server-side Zod
   // schema enforces this too — the UI hint mirrors it so the AM sees
@@ -858,12 +855,9 @@ function EditForm({
     setError(null);
     setSaving(true);
     try {
-      const res = await fetch(`/api/admin/clients/${project.id}`, {
+      const res = await fetchWithAuth(`/api/admin/clients/${project.id}`, {
         method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          Authorization: `Bearer ${token}`,
-        },
+        headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           name: name.trim(),
           j_number: jNumber.trim() || null,
@@ -1002,6 +996,7 @@ function EditForm({
           </div>
         </Field>
       </div>
+      {signInPromptJsx}
     </div>
   );
 }

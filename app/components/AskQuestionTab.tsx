@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useRef, useEffect } from "react";
+import { useAdminAuth } from "../lib/use-admin-auth";
 
 interface Message {
   role: "user" | "assistant";
@@ -76,6 +77,7 @@ export default function AskQuestionTab({ projectId, projectName }: AskQuestionTa
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const scrollerRef = useRef<HTMLDivElement>(null);
+  const { fetchWithAuth, signInPromptJsx } = useAdminAuth();
 
   useEffect(() => {
     scrollerRef.current?.scrollTo({
@@ -92,7 +94,7 @@ export default function AskQuestionTab({ projectId, projectName }: AskQuestionTa
     setInput("");
     setLoading(true);
     try {
-      const res = await fetch("/api/chat", {
+      const res = await fetchWithAuth("/api/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ projectId, messages: next }),
@@ -277,6 +279,7 @@ export default function AskQuestionTab({ projectId, projectName }: AskQuestionTa
           </button>
         </div>
       )}
+      {signInPromptJsx}
     </div>
   );
 }

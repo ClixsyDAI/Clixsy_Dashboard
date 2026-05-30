@@ -3,6 +3,7 @@
 import { useState, useMemo, useCallback } from "react";
 import { calculateHealthScore, type HealthScoreResult } from "../lib/health-score";
 import { detectWins, detectFlags, type DetectedItem } from "../lib/win-flag-detection";
+import { useAdminAuth } from "../lib/use-admin-auth";
 
 // ── Types ─────────────────────────────────────────────────────
 
@@ -126,6 +127,7 @@ export default function AISummaryTab(props: AISummaryTabProps) {
   const [aiData, setAiData] = useState<AIResponse | null>(null);
   const [showFullReport, setShowFullReport] = useState(false);
   const [showAllTasks, setShowAllTasks] = useState(false);
+  const { fetchWithAuth, signInPromptJsx } = useAdminAuth();
 
   // ── Derived data (recalculates on date range change) ──────
 
@@ -309,7 +311,7 @@ export default function AISummaryTab(props: AISummaryTabProps) {
     setAiLoading(true);
     setAiError(null);
     try {
-      const res = await fetch("/api/ai-summary", {
+      const res = await fetchWithAuth("/api/ai-summary", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ projectId: props.projectId, startDate, endDate }),
@@ -325,7 +327,7 @@ export default function AISummaryTab(props: AISummaryTabProps) {
     } finally {
       setAiLoading(false);
     }
-  }, [props.projectId, startDate, endDate]);
+  }, [props.projectId, startDate, endDate, fetchWithAuth]);
 
   // ── Presets ────────────────────────────────────────────────
 
@@ -627,6 +629,7 @@ export default function AISummaryTab(props: AISummaryTabProps) {
           )}
         </div>
       )}
+      {signInPromptJsx}
     </div>
   );
 }

@@ -31,6 +31,7 @@ import {
 import { renderAccessRequestEmail } from "../../lib/onboarding/email-templates";
 import EmailPreview from "./EmailPreview";
 import Modal from "./Modal";
+import { useAdminAuth } from "../../lib/use-admin-auth";
 
 const FROM_ADDRESS = "Clixsy <onboarding@clixsy.com>";
 
@@ -74,6 +75,7 @@ export default function RequestMissingAccessModal({
   contact,
   accessChecklist,
 }: RequestMissingAccessModalProps) {
+  const { fetchWithAuth, signInPromptJsx } = useAdminAuth();
   const [state, setState] = useState<SendState>({ kind: "idle" });
 
   // Missing-like assets: status === "missing" OR "needs_help".
@@ -128,21 +130,9 @@ export default function RequestMissingAccessModal({
   const handleSend = async () => {
     setState({ kind: "sending" });
     try {
-      const token = sessionStorage.getItem("admin_token");
-      if (!token) {
-        setState({
-          kind: "error",
-          message:
-            "Not signed in. Open /admin in this tab to sign in, then try again.",
-        });
-        return;
-      }
-      const res = await fetch("/api/onboarding/reminders", {
+      const res = await fetchWithAuth("/api/onboarding/reminders", {
         method: "POST",
-        headers: {
-          Authorization: `Bearer ${token}`,
-          "Content-Type": "application/json",
-        },
+        headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           session_id: sessionId,
           kind: "access_request",
@@ -184,42 +174,45 @@ export default function RequestMissingAccessModal({
   // ── Empty-missing branch ────────────────────────────────────
   if (!hasMissing) {
     return (
-      <Modal
-        isOpen={isOpen}
-        onClose={handleClose}
-        title="Request missing access"
-        subtitle="Nothing to request right now"
-        footer={
-          <div
+      <>
+        <Modal
+          isOpen={isOpen}
+          onClose={handleClose}
+          title="Request missing access"
+          subtitle="Nothing to request right now"
+          footer={
+            <div
+              style={{
+                display: "flex",
+                justifyContent: "flex-end",
+                gap: 10,
+              }}
+            >
+              <FooterButton variant="ghost" onClick={handleClose}>
+                Close
+              </FooterButton>
+            </div>
+          }
+        >
+          <p
             style={{
-              display: "flex",
-              justifyContent: "flex-end",
-              gap: 10,
+              margin: 0,
+              fontSize: 13,
+              color: "var(--text-2)",
+              lineHeight: 1.55,
             }}
           >
-            <FooterButton variant="ghost" onClick={handleClose}>
-              Close
-            </FooterButton>
-          </div>
-        }
-      >
-        <p
-          style={{
-            margin: 0,
-            fontSize: 13,
-            color: "var(--text-2)",
-            lineHeight: 1.55,
-          }}
-        >
-          All access items are either provided, deferred to later, or
-          marked not applicable. There&apos;s nothing outstanding to
-          request from{" "}
-          <strong style={{ color: "var(--text-1)" }}>
-            {contact.email || "the client"}
-          </strong>{" "}
-          right now.
-        </p>
-      </Modal>
+            All access items are either provided, deferred to later, or
+            marked not applicable. There&apos;s nothing outstanding to
+            request from{" "}
+            <strong style={{ color: "var(--text-1)" }}>
+              {contact.email || "the client"}
+            </strong>{" "}
+            right now.
+          </p>
+        </Modal>
+        {signInPromptJsx}
+      </>
     );
   }
 
@@ -229,6 +222,7 @@ export default function RequestMissingAccessModal({
     .join(", ");
 
   return (
+    <>
     <Modal
       isOpen={isOpen}
       onClose={handleClose}
@@ -304,6 +298,8 @@ export default function RequestMissingAccessModal({
         </div>
       )}
     </Modal>
+    {signInPromptJsx}
+    </>
   );
 }
 
