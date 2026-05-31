@@ -272,7 +272,7 @@ export async function POST(req: NextRequest) {
     return Response.json({
       ok: true,
       opportunity_id: payload.opportunity_id,
-      manifest_commit_sha: manifestSha,
+      manifest_blob_sha: manifestSha,
       supabase_session_id: null,
       note: "session already existed (409 from onboarding) — manifest entry was newly created",
     });
@@ -311,7 +311,7 @@ export async function POST(req: NextRequest) {
   return Response.json({
     ok: true,
     opportunity_id: payload.opportunity_id,
-    manifest_commit_sha: manifestSha,
+    manifest_blob_sha: manifestSha,
     supabase_session_id: onboardingBody.sessionId ?? null,
   });
 }
