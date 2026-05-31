@@ -15,6 +15,7 @@
  */
 
 import { useState, useCallback, useEffect, useRef } from "react";
+import { useAdminAuth } from "../lib/use-admin-auth";
 
 interface MeetingPrepButtonProps {
   projectId: string;
@@ -37,6 +38,7 @@ export default function MeetingPrepButton({
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const abortRef = useRef<AbortController | null>(null);
+  const { fetchWithAuth, signInPromptJsx } = useAdminAuth();
 
   const generate = useCallback(async () => {
     // Cancel any in-flight stream before starting a new one.
@@ -47,7 +49,7 @@ export default function MeetingPrepButton({
     setError(null);
     setContent("");
     try {
-      const res = await fetch("/api/meeting-prep", {
+      const res = await fetchWithAuth("/api/meeting-prep", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ projectId }),
@@ -70,7 +72,7 @@ export default function MeetingPrepButton({
     } finally {
       setLoading(false);
     }
-  }, [projectId]);
+  }, [projectId, fetchWithAuth]);
 
   // Open → kick off generation. Re-open → regenerate (fresh state).
   useEffect(() => {
@@ -294,6 +296,7 @@ export default function MeetingPrepButton({
           </div>
         </div>
       )}
+      {signInPromptJsx}
     </>
   );
 }

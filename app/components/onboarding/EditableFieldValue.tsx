@@ -44,6 +44,7 @@ import type { HumanizeResult } from "../../lib/onboarding/humanize";
 import type { StepKey } from "../../lib/onboarding/step-keys";
 import { Check, RefreshCcw } from "./icons";
 import FieldValue from "./FieldValue";
+import { useAdminAuth } from "../../lib/use-admin-auth";
 
 interface EditableFieldValueProps {
   sessionId: string;
@@ -82,6 +83,7 @@ export default function EditableFieldValue({
   editTrigger,
   onEditingChange,
 }: EditableFieldValueProps) {
+  const { fetchWithAuth, signInPromptJsx } = useAdminAuth();
   const [state, setState] = useState<EditState>({ kind: "idle" });
   // Tracks the optimistic display value during the saved-pulse so
   // the row shows the new content before the next page render
@@ -159,22 +161,9 @@ export default function EditableFieldValue({
     setState({ kind: "saving", typed });
     const new_value = parseTypedForFieldType(typed, fieldType);
     try {
-      const token = sessionStorage.getItem("admin_token");
-      if (!token) {
-        setState({
-          kind: "error",
-          typed,
-          message:
-            "Not signed in. Open /admin in this tab to sign in, then try again.",
-        });
-        return;
-      }
-      const res = await fetch("/api/onboarding/field-edits", {
+      const res = await fetchWithAuth("/api/onboarding/field-edits", {
         method: "POST",
-        headers: {
-          Authorization: `Bearer ${token}`,
-          "Content-Type": "application/json",
-        },
+        headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           session_id: sessionId,
           step_key: stepKey,
@@ -295,47 +284,54 @@ export default function EditableFieldValue({
             </button>
           </div>
         )}
+        {signInPromptJsx}
       </div>
     );
   }
 
   if (state.kind === "saving") {
     return (
-      <span style={{ display: "inline-flex", alignItems: "center", gap: 8 }}>
-        <span style={{ color: "var(--text-3)" }}>{state.typed}</span>
-        <span
-          style={{
-            display: "inline-flex",
-            alignItems: "center",
-            gap: 4,
-            fontSize: 11,
-            color: "var(--text-3)",
-          }}
-        >
-          <RefreshCcw size={11} stroke="currentColor" />
-          Saving…
+      <>
+        <span style={{ display: "inline-flex", alignItems: "center", gap: 8 }}>
+          <span style={{ color: "var(--text-3)" }}>{state.typed}</span>
+          <span
+            style={{
+              display: "inline-flex",
+              alignItems: "center",
+              gap: 4,
+              fontSize: 11,
+              color: "var(--text-3)",
+            }}
+          >
+            <RefreshCcw size={11} stroke="currentColor" />
+            Saving…
+          </span>
         </span>
-      </span>
+        {signInPromptJsx}
+      </>
     );
   }
 
   if (state.kind === "saved") {
     return (
-      <span style={{ display: "inline-flex", alignItems: "center", gap: 8 }}>
-        <span style={{ color: "var(--text-1)" }}>{state.optimistic}</span>
-        <span
-          style={{
-            display: "inline-flex",
-            alignItems: "center",
-            gap: 4,
-            fontSize: 11,
-            color: "var(--green)",
-          }}
-        >
-          <Check size={12} stroke="currentColor" />
-          Saved
+      <>
+        <span style={{ display: "inline-flex", alignItems: "center", gap: 8 }}>
+          <span style={{ color: "var(--text-1)" }}>{state.optimistic}</span>
+          <span
+            style={{
+              display: "inline-flex",
+              alignItems: "center",
+              gap: 4,
+              fontSize: 11,
+              color: "var(--green)",
+            }}
+          >
+            <Check size={12} stroke="currentColor" />
+            Saved
+          </span>
         </span>
-      </span>
+        {signInPromptJsx}
+      </>
     );
   }
 
@@ -343,9 +339,19 @@ export default function EditableFieldValue({
   // optimistic display from the recently-saved pulse, show it
   // verbatim (the props won't include it until next page render).
   if (optimisticDisplay !== null) {
-    return <span style={{ color: "var(--text-1)" }}>{optimisticDisplay}</span>;
+    return (
+      <>
+        <span style={{ color: "var(--text-1)" }}>{optimisticDisplay}</span>
+        {signInPromptJsx}
+      </>
+    );
   }
-  return <FieldValue value={display} />;
+  return (
+    <>
+      <FieldValue value={display} />
+      {signInPromptJsx}
+    </>
+  );
 }
 
 // =============================================================

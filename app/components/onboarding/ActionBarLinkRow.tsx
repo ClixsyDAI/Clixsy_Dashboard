@@ -27,6 +27,7 @@ import { useState } from "react";
 import type { ActionBarModalKind } from "./ActionBarModals";
 import { Copy, ExternalLink, RefreshCcw } from "./icons";
 import { ONBOARDING_BASE_URL, buildOnboardingUrl } from "../../lib/onboarding/onboarding-url";
+import { useAdminAuth } from "../../lib/use-admin-auth";
 
 interface ActionBarLinkRowProps {
   /** Session id. The token is no longer threaded as a prop —
@@ -53,6 +54,7 @@ export default function ActionBarLinkRow({
   sessionId,
   onAction,
 }: ActionBarLinkRowProps) {
+  const { fetchWithAuth, signInPromptJsx } = useAdminAuth();
   const placeholderUrl = `${ONBOARDING_BASE_URL}/onboarding/${TOKEN_PLACEHOLDER}`;
   const [displayUrl, setDisplayUrl] = useState<string>(placeholderUrl);
   const [copyState, setCopyState] = useState<ButtonState>({ kind: "idle" });
@@ -64,21 +66,14 @@ export default function ActionBarLinkRow({
   // Fetch the token from the dedicated endpoint. Returns the URL
   // on success, throws on failure (with a server-provided message
   // when possible). Each call writes one audit row server-side.
+  // 401 is handled by useAdminAuth — the sign-in modal pops and
+  // the call retries after the user signs in.
   const fetchOnboardingUrl = async (source: string): Promise<string> => {
-    const adminToken = sessionStorage.getItem("admin_token");
-    if (!adminToken) {
-      throw new Error(
-        "Not signed in. Open /admin in this tab to sign in, then try again.",
-      );
-    }
-    const res = await fetch(
+    const res = await fetchWithAuth(
       `/api/onboarding/sessions/${sessionId}/token`,
       {
         method: "POST",
-        headers: {
-          Authorization: `Bearer ${adminToken}`,
-          "Content-Type": "application/json",
-        },
+        headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ source }),
       },
     );
@@ -247,6 +242,7 @@ export default function ActionBarLinkRow({
           {inlineError}
         </div>
       )}
+      {signInPromptJsx}
     </div>
   );
 }

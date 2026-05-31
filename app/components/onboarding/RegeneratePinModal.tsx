@@ -38,6 +38,7 @@
 import { useState } from "react";
 import { Copy, RefreshCcw } from "./icons";
 import Modal from "./Modal";
+import { useAdminAuth } from "../../lib/use-admin-auth";
 
 type PinState =
   | { kind: "confirm" }
@@ -60,6 +61,7 @@ export default function RegeneratePinModal({
   sessionId,
   contact,
 }: RegeneratePinModalProps) {
+  const { fetchWithAuth, signInPromptJsx } = useAdminAuth();
   const [state, setState] = useState<PinState>({ kind: "confirm" });
   const [copiedAt, setCopiedAt] = useState<number | null>(null);
   const showCopied =
@@ -68,21 +70,9 @@ export default function RegeneratePinModal({
   const callRegenerate = async () => {
     setState({ kind: "loading" });
     try {
-      const token = sessionStorage.getItem("admin_token");
-      if (!token) {
-        setState({
-          kind: "showing_error",
-          message:
-            "Not signed in. Open /admin in this tab to sign in, then try again.",
-        });
-        return;
-      }
-      const res = await fetch("/api/onboarding/regenerate-pin", {
+      const res = await fetchWithAuth("/api/onboarding/regenerate-pin", {
         method: "POST",
-        headers: {
-          Authorization: `Bearer ${token}`,
-          "Content-Type": "application/json",
-        },
+        headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ session_id: sessionId }),
       });
       const json = (await res.json().catch(() => ({}))) as {
@@ -128,15 +118,18 @@ export default function RegeneratePinModal({
   };
 
   return (
-    <Modal
-      isOpen={isOpen}
-      onClose={handleClose}
-      title="Regenerate PIN code"
-      subtitle={contact.email || "(no email on file)"}
-      footer={<Footer state={state} onCancel={handleClose} onGenerate={callRegenerate} onCopy={handleCopy} onDone={handleClose} showCopied={showCopied} />}
-    >
-      <Body state={state} contact={contact} />
-    </Modal>
+    <>
+      <Modal
+        isOpen={isOpen}
+        onClose={handleClose}
+        title="Regenerate PIN code"
+        subtitle={contact.email || "(no email on file)"}
+        footer={<Footer state={state} onCancel={handleClose} onGenerate={callRegenerate} onCopy={handleCopy} onDone={handleClose} showCopied={showCopied} />}
+      >
+        <Body state={state} contact={contact} />
+      </Modal>
+      {signInPromptJsx}
+    </>
   );
 }
 
