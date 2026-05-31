@@ -92,3 +92,30 @@ comment on table public.app_access_requests is
 create index if not exists app_access_requests_pending_idx
   on public.app_access_requests (attempted_at desc)
   where resolved_at is null;
+
+-- =============================================================
+-- Row Level Security — default-deny for anon + authenticated
+-- =============================================================
+--
+-- The onboarding repo (client-onboarding-tool, same Supabase
+-- project) ships NEXT_PUBLIC_SUPABASE_ANON_KEY to the browser
+-- because its public onboarding form needs client-side Supabase
+-- access. If RLS is off here, a client filling that form could
+-- in principle use the anon key to read the workbook admin list.
+-- That's not a thing we want.
+--
+-- The workbook accesses these two tables exclusively from
+-- server-side code using SUPABASE_SERVICE_ROLE_KEY (verified:
+-- workbook has no client-side Supabase usage, the anon key never
+-- reaches its browser bundle). Service-role bypasses RLS by
+-- design, so enabling RLS without any policies is the right
+-- shape: anon + authenticated keys get default-deny, server-side
+-- service-role works exactly as if RLS were off.
+--
+-- If a future phase needs client-side reads from these tables
+-- (unlikely — auth state already flows through the app_session
+-- cookie + /api/admin/auth/session endpoint), add specific
+-- policies then rather than weakening this default.
+
+alter table public.app_users enable row level security;
+alter table public.app_access_requests enable row level security;
