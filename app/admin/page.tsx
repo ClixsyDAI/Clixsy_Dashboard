@@ -148,6 +148,20 @@ function LoginScreen({
   error: string;
   onLogin: () => void;
 }) {
+  // Hide the "← Dashboard" escape link when the user arrived here
+  // via a return-URL flow. If they're being asked to sign in to
+  // reach a specific page, "Dashboard" isn't a useful escape hatch
+  // — it drops them at / and silently loses the ?return= param,
+  // so the next /admin click (e.g. from the header) lands them at
+  // Team Assignments instead of their original destination.
+  //
+  // Safe to read window inline: LoginScreen only renders after
+  // AdminPage's loading-state useEffect completes (post-hydration),
+  // so window is always defined here.
+  const hasReturnParam =
+    typeof window !== "undefined" &&
+    new URLSearchParams(window.location.search).has("return");
+
   return (
     <div
       className="flex min-h-screen items-center justify-center"
@@ -157,22 +171,24 @@ function LoginScreen({
         className="w-full max-w-sm rounded-sm border p-8"
         style={{ backgroundColor: "#111111", borderColor: "#1a1a1a" }}
       >
-        <Link
-          href="/"
-          className="mb-6 flex items-center gap-3"
-        >
-          <img
-            src="https://res.cloudinary.com/dovgh19xr/image/upload/v1766427227/new_logo_nvrux0.svg"
-            alt="CLIXSY"
-            className="h-7 w-auto"
-          />
-          <span
-            className="text-xs tracking-wider uppercase"
-            style={{ color: "#888" }}
+        {!hasReturnParam && (
+          <Link
+            href="/"
+            className="mb-6 flex items-center gap-3"
           >
-            &larr; Dashboard
-          </span>
-        </Link>
+            <img
+              src="https://res.cloudinary.com/dovgh19xr/image/upload/v1766427227/new_logo_nvrux0.svg"
+              alt="CLIXSY"
+              className="h-7 w-auto"
+            />
+            <span
+              className="text-xs tracking-wider uppercase"
+              style={{ color: "#888" }}
+            >
+              &larr; Dashboard
+            </span>
+          </Link>
+        )}
         <h1
           className="mb-1 text-lg font-bold tracking-wide uppercase"
           style={{ color: "#f0ede8" }}
