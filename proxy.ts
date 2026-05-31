@@ -31,18 +31,33 @@
 //      class reoccurring.
 //
 // =============================================================
-// Auth shape (unchanged from PR #17)
+// Auth shape
 // =============================================================
 //
-// Reads `req.cookies.get("admin_token")` and compares to
-// `sha256(ADMIN_PASSWORD + ":" + ADMIN_SESSION_SECRET)`. Same
-// computation as `app/lib/admin-auth.ts` and the
-// `/api/admin/auth` route. Cookie issuance happens in
-// `app/api/admin/auth/route.ts` (POST sign-in + GET validate).
+// The gate accepts EITHER of two cookies (Phase 1 PR B introduced
+// the second one alongside Google OAuth):
+//
+//   1. `admin_token` — sha256(ADMIN_PASSWORD:ADMIN_SESSION_SECRET).
+//      Set by `app/api/admin/auth/route.ts` (POST password sign-in)
+//      and by the OAuth callback (dual-cookie bridge).
+//
+//   2. `app_session` — HMAC-SHA256 signed payload carrying
+//      { email, role, iat, exp }. Set by `/admin/auth/callback`
+//      when a Google OAuth sign-in succeeds against app_users.
+//      Verified via app/lib/app-session.ts.
+//
+// Either cookie passing the check is sufficient. The dual-cookie
+// state is transitional — PR C will remove the admin_token
+// shadow-issue once requireRole() rolls across the protected
+// endpoints.
 
 import { createHash } from "node:crypto";
 import { NextResponse, type NextRequest } from "next/server";
 import { validateReturnPath } from "./app/lib/return-url";
+import {
+  APP_SESSION_COOKIE_NAME,
+  verifyAppSession,
+} from "./app/lib/app-session";
 
 // Matcher tells Next.js which paths to invoke the proxy on. We opt
 // IN only the nine PII-exposing surfaces. Anything not listed here
@@ -125,10 +140,25 @@ export function proxy(req: NextRequest) {
     return NextResponse.next();
   }
 
-  // Layer 2: auth check.
-  const token = req.cookies.get("admin_token")?.value;
+  // Layer 2: auth check. Either cookie is sufficient.
+  //
+  // admin_token = password sign-in (existing path), sha256 hash
+  // compared to ADMIN_PASSWORD:ADMIN_SESSION_SECRET.
+  //
+  // app_session = Google OAuth sign-in (Phase 1 PR B), HMAC-signed
+  // payload carrying email + role + expiry. Verified by
+  // app/lib/app-session.ts.
+  //
+  // After PR B's callback the user has BOTH cookies set (the
+  // dual-cookie bridge). The OR here is forward-looking for PR C
+  // when admin_token shadow-issue is dropped.
+  const adminToken = req.cookies.get("admin_token")?.value;
   const expected = computeExpectedToken();
-  if (token && token === expected) {
+  if (adminToken && adminToken === expected) {
+    return NextResponse.next();
+  }
+  const appSessionCookie = req.cookies.get(APP_SESSION_COOKIE_NAME)?.value;
+  if (appSessionCookie && verifyAppSession(appSessionCookie).ok) {
     return NextResponse.next();
   }
 

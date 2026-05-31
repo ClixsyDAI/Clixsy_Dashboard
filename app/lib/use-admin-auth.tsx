@@ -55,10 +55,24 @@ export function useAdminAuth() {
   const [isPromptOpen, setIsPromptOpen] = useState(false);
   const pendingRef = useRef<PendingRetry[]>([]);
 
-  // Silent re-auth on mount. Cookie is httpOnly so we can't read
-  // it directly; /api/admin/auth/me reads it server-side and
-  // returns the token if valid. Fires once per mount; the modal
-  // is the fallback when this returns 401.
+  // Silent re-auth on mount. Cookies are httpOnly so we can't read
+  // them directly; the server-side endpoints read whichever cookie
+  // is set and echo back a token if valid. Fires once per mount;
+  // the modal is the fallback when both attempts return 401.
+  //
+  // Phase 1 PR B added two endpoints for two cookies:
+  //
+  //   - /api/admin/auth/session reads `app_session` (Google OAuth
+  //     sign-in). Newer; tried FIRST because OAuth is the preferred
+  //     sign-in path going forward.
+  //   - /api/admin/auth/me reads `admin_token` (password sign-in).
+  //     Existing path; tried second as the fallback.
+  //
+  // Both endpoints return the same { token } shape so the rest of
+  // the hook's protocol is unchanged. The dual-cookie bridge in
+  // PR B's callback guarantees both cookies are present after
+  // OAuth — but we still try /session first because it's the more
+  // authoritative source and the path that PR C will keep.
   useEffect(() => {
     if (typeof window === "undefined") return;
     if (sessionStorage.getItem(TOKEN_STORAGE_KEY)) return;
@@ -66,13 +80,24 @@ export function useAdminAuth() {
     let cancelled = false;
     (async () => {
       try {
-        const res = await fetch("/api/admin/auth/me", {
+        const sessionRes = await fetch("/api/admin/auth/session", {
           credentials: "same-origin",
         });
-        if (cancelled || !res.ok) return;
-        const data = (await res.json()) as { token?: string };
-        if (cancelled || !data.token) return;
-        sessionStorage.setItem(TOKEN_STORAGE_KEY, data.token);
+        if (cancelled) return;
+        if (sessionRes.ok) {
+          const data = (await sessionRes.json()) as { token?: string };
+          if (!cancelled && data.token) {
+            sessionStorage.setItem(TOKEN_STORAGE_KEY, data.token);
+            return;
+          }
+        }
+        const meRes = await fetch("/api/admin/auth/me", {
+          credentials: "same-origin",
+        });
+        if (cancelled || !meRes.ok) return;
+        const meData = (await meRes.json()) as { token?: string };
+        if (cancelled || !meData.token) return;
+        sessionStorage.setItem(TOKEN_STORAGE_KEY, meData.token);
       } catch {
         // Silent — modal will fire on first action that needs auth.
       }

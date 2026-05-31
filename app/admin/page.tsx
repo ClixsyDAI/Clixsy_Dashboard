@@ -15,6 +15,7 @@ import Link from "next/link";
 import { validateReturnPath } from "../lib/return-url";
 import { formatClientDisplayName, type Project } from "../lib/projects";
 import { useAdminAuth } from "../lib/use-admin-auth";
+import { getSupabaseBrowserClient } from "../lib/supabase-browser";
 
 /* ── Types ──────────────────────────────────────────────── */
 interface TeamData {
@@ -113,6 +114,38 @@ export default function AdminPage() {
     }
   };
 
+  // Phase 1 PR B: kick off the Google OAuth handshake. Supabase
+  // redirects the browser to Google with hd=clixsy.com so the
+  // account picker is restricted to clixsy.com Workspace accounts.
+  // The PKCE auth code lands on /admin/auth/callback which does
+  // the email-domain + app_users checks before minting cookies.
+  //
+  // hd=clixsy.com is the PRIMARY enforcement layer because the
+  // Google Cloud project that owns the OAuth client has an
+  // External consent screen (see docs/phase1-oauth-setup.md).
+  // The /admin/auth/callback route adds two more layers
+  // (email_verified + email.endsWith('@clixsy.com')) for
+  // belt-and-braces.
+  const handleGoogleSignIn = async () => {
+    setAuthError("");
+    const supabase = getSupabaseBrowserClient();
+    const origin = window.location.origin;
+    const returnRaw = new URLSearchParams(window.location.search).get("return");
+    const callbackUrl = returnRaw
+      ? `${origin}/admin/auth/callback?return=${encodeURIComponent(returnRaw)}`
+      : `${origin}/admin/auth/callback`;
+    const { error } = await supabase.auth.signInWithOAuth({
+      provider: "google",
+      options: {
+        redirectTo: callbackUrl,
+        queryParams: { hd: "clixsy.com" },
+      },
+    });
+    if (error) {
+      setAuthError(`Google sign-in failed: ${error.message}`);
+    }
+  };
+
   if (loading) {
     return (
       <div
@@ -130,6 +163,7 @@ export default function AdminPage() {
       setPassword={setPassword}
       error={authError}
       onLogin={handleLogin}
+      onGoogleSignIn={handleGoogleSignIn}
     />;
   }
 
@@ -142,11 +176,13 @@ function LoginScreen({
   setPassword,
   error,
   onLogin,
+  onGoogleSignIn,
 }: {
   password: string;
   setPassword: (v: string) => void;
   error: string;
   onLogin: () => void;
+  onGoogleSignIn: () => void;
 }) {
   // Hide the "← Dashboard" escape link when the user arrived here
   // via a return-URL flow. If they're being asked to sign in to
@@ -224,8 +260,47 @@ function LoginScreen({
         >
           Sign In
         </button>
+        <div
+          className="my-4 flex items-center gap-3 text-[0.65rem] uppercase tracking-wider"
+          style={{ color: "#555" }}
+        >
+          <div style={{ flex: 1, height: 1, backgroundColor: "#222" }} />
+          <span>or</span>
+          <div style={{ flex: 1, height: 1, backgroundColor: "#222" }} />
+        </div>
+        <button
+          onClick={onGoogleSignIn}
+          className="flex w-full items-center justify-center gap-2 rounded-sm py-2.5 text-sm font-semibold tracking-wide uppercase transition-opacity hover:opacity-90"
+          style={{ backgroundColor: "#0a0a0a", color: "#f0ede8", border: "1px solid #333" }}
+        >
+          <GoogleGlyph />
+          Sign in with Google
+        </button>
       </div>
     </div>
+  );
+}
+
+function GoogleGlyph() {
+  return (
+    <svg width="16" height="16" viewBox="0 0 18 18" aria-hidden="true">
+      <path
+        d="M17.64 9.205c0-.639-.057-1.252-.164-1.841H9v3.481h4.844a4.14 4.14 0 01-1.796 2.716v2.258h2.908c1.702-1.567 2.684-3.875 2.684-6.614z"
+        fill="#4285F4"
+      />
+      <path
+        d="M9 18c2.43 0 4.467-.806 5.956-2.18l-2.908-2.259c-.806.54-1.836.86-3.048.86-2.344 0-4.328-1.584-5.036-3.711H.957v2.332A8.997 8.997 0 009 18z"
+        fill="#34A853"
+      />
+      <path
+        d="M3.964 10.71A5.41 5.41 0 013.682 9c0-.593.102-1.17.282-1.71V4.958H.957A8.996 8.996 0 000 9c0 1.452.348 2.827.957 4.042l3.007-2.332z"
+        fill="#FBBC05"
+      />
+      <path
+        d="M9 3.58c1.321 0 2.508.454 3.44 1.345l2.582-2.58C13.463.891 11.426 0 9 0A8.997 8.997 0 00.957 4.958L3.964 7.29C4.672 5.163 6.656 3.58 9 3.58z"
+        fill="#EA4335"
+      />
+    </svg>
   );
 }
 
