@@ -440,8 +440,23 @@ function AdminDashboard({ token }: { token: string }) {
     }
   };
 
-  const handleLogout = () => {
+  const handleLogout = async () => {
     sessionStorage.removeItem("admin_token");
+    // Clear admin_token + app_session cookies server-side. The mount-
+    // effect's cookie bridge would otherwise re-authenticate on reload
+    // (the OAuth fix this PR introduces means cookies are now load-
+    // bearing for the signed-in check; sign-out must clear them).
+    try {
+      await fetch("/api/admin/auth/logout", {
+        method: "POST",
+        credentials: "same-origin",
+      });
+    } catch {
+      // Network error: still reload — sessionStorage cleared means a
+      // password-only-cookie user signs out client-side; an OAuth user
+      // might still see the dashboard until cookie expires. Acceptable
+      // degradation vs blocking sign-out on a transient error.
+    }
     window.location.reload();
   };
 
