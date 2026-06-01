@@ -7,8 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "gen:types": "npx supabase gen types typescript --project-id lawwsutjxopiekjzupef > app/lib/onboarding/types.gen.ts",
-    "test:receiver": "node --import tsx --test app/api/webhooks/ghl/opportunity-onboarded/route.test.ts"
+    "lint:admin-coverage": "node scripts/check-admin-routes-coverage.mjs",
+    "test:receiver": "node --import tsx --test app/api/webhooks/ghl/opportunity-onboarded/route.test.ts",
+    "gen:types": "npx supabase gen types typescript --project-id lawwsutjxopiekjzupef > app/lib/onboarding/types.gen.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.80.0",

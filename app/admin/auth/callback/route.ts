@@ -192,9 +192,15 @@ export async function GET(req: NextRequest) {
   if (!appUser) {
     // Email is clixsy.com and verified, but not on the allow-list.
     // Insert an access request row and surface the pending page.
+    //
+    // PR D-1: stamp email_verified_at_request_time so the approve_access_request
+    // RPC can confirm provenance (it fails closed on NULL — defense-in-depth
+    // against attacker-inserted rows that bypass this callback). We only
+    // reach this branch AFTER the email_verified check above passed, so
+    // setting now() here records the verification timestamp accurately.
     const { data: request, error: insertError } = await supabase
       .from("app_access_requests")
-      .insert({ email })
+      .insert({ email, email_verified_at_request_time: new Date().toISOString() })
       .select("id")
       .single();
     if (insertError) {
