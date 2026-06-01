@@ -20,6 +20,7 @@
 
 import { useEffect, useRef, useState } from "react";
 import Modal from "./onboarding/Modal";
+import { getSupabaseBrowserClient } from "../lib/supabase-browser";
 
 interface SignInPromptProps {
   isOpen: boolean;
@@ -99,6 +100,46 @@ export default function SignInPrompt({
     }
   };
 
+  // Phase 1 PR B: Google sign-in alternative. Initiates the OAuth
+  // handshake from inside the prompt; on completion the browser
+  // is redirected back through /admin/auth/callback and the
+  // session minted there auto-applies on the next render. The
+  // pending action that opened this prompt will retry via
+  // useAdminAuth's queue after sessionStorage is populated by the
+  // silent re-auth on the next mount.
+  //
+  // Caveat: kicking off OAuth navigates the whole page away — the
+  // user's in-flight action queue gets dropped. Acceptable
+  // tradeoff vs the alternative of a popup OAuth flow with extra
+  // moving parts. Documented for future iteration.
+  const handleGoogleSignIn = async () => {
+    setState({ kind: "submitting" });
+    try {
+      const supabase = getSupabaseBrowserClient();
+      const origin = window.location.origin;
+      const returnPath = window.location.pathname;
+      const callbackUrl = `${origin}/admin/auth/callback?return=${encodeURIComponent(returnPath)}`;
+      const { error } = await supabase.auth.signInWithOAuth({
+        provider: "google",
+        options: {
+          redirectTo: callbackUrl,
+          queryParams: { hd: "clixsy.com" },
+        },
+      });
+      if (error) {
+        setState({
+          kind: "error",
+          message: `Google sign-in failed: ${error.message}`,
+        });
+      }
+    } catch (err) {
+      setState({
+        kind: "error",
+        message: err instanceof Error ? err.message : "Network error",
+      });
+    }
+  };
+
   return (
     <Modal
       isOpen={isOpen}
@@ -141,8 +182,53 @@ export default function SignInPrompt({
             {state.message}
           </p>
         )}
+        <div
+          className="my-1 flex items-center gap-3 text-[0.65rem] uppercase tracking-wider"
+          style={{ color: "#555" }}
+        >
+          <div style={{ flex: 1, height: 1, backgroundColor: "#222" }} />
+          <span>or</span>
+          <div style={{ flex: 1, height: 1, backgroundColor: "#222" }} />
+        </div>
+        <button
+          type="button"
+          onClick={handleGoogleSignIn}
+          disabled={state.kind === "submitting"}
+          className="flex w-full items-center justify-center gap-2 rounded-sm py-2.5 text-sm font-semibold tracking-wide uppercase transition-opacity hover:opacity-90 disabled:opacity-50"
+          style={{
+            backgroundColor: "#0a0a0a",
+            color: "#f0ede8",
+            border: "1px solid #333",
+          }}
+        >
+          <GoogleGlyph />
+          Sign in with Google
+        </button>
       </div>
     </Modal>
+  );
+}
+
+function GoogleGlyph() {
+  return (
+    <svg width="16" height="16" viewBox="0 0 18 18" aria-hidden="true">
+      <path
+        d="M17.64 9.205c0-.639-.057-1.252-.164-1.841H9v3.481h4.844a4.14 4.14 0 01-1.796 2.716v2.258h2.908c1.702-1.567 2.684-3.875 2.684-6.614z"
+        fill="#4285F4"
+      />
+      <path
+        d="M9 18c2.43 0 4.467-.806 5.956-2.18l-2.908-2.259c-.806.54-1.836.86-3.048.86-2.344 0-4.328-1.584-5.036-3.711H.957v2.332A8.997 8.997 0 009 18z"
+        fill="#34A853"
+      />
+      <path
+        d="M3.964 10.71A5.41 5.41 0 013.682 9c0-.593.102-1.17.282-1.71V4.958H.957A8.996 8.996 0 000 9c0 1.452.348 2.827.957 4.042l3.007-2.332z"
+        fill="#FBBC05"
+      />
+      <path
+        d="M9 3.58c1.321 0 2.508.454 3.44 1.345l2.582-2.58C13.463.891 11.426 0 9 0A8.997 8.997 0 00.957 4.958L3.964 7.29C4.672 5.163 6.656 3.58 9 3.58z"
+        fill="#EA4335"
+      />
+    </svg>
   );
 }
 
