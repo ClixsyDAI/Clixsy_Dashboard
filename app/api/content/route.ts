@@ -16,7 +16,7 @@ import { requireRole } from "../../lib/require-role";
 import { logAuthAudit } from "../../lib/auth-audit";
 
 export async function GET(req: NextRequest) {
-  const auth = requireRole(req, "admin", "/api/content");
+  const auth = await requireRole(req, "admin", "/api/content");
   if (!auth.ok) {
     logAuthAudit(auth.audit);
     return NextResponse.json(

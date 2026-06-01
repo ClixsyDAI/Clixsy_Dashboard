@@ -35,7 +35,7 @@ interface RouteContext {
 }
 
 export async function GET(req: NextRequest, ctx: RouteContext) {
-  const auth = requireRole(req, "viewer", "/api/onboarding/by-workbook-id/[id]");
+  const auth = await requireRole(req, "viewer", "/api/onboarding/by-workbook-id/[id]");
   if (!auth.ok) {
     logAuthAudit(auth.audit);
     return NextResponse.json(

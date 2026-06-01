@@ -169,10 +169,15 @@ export async function GET(req: NextRequest) {
   }
 
   // Layer 4: app_users lookup via service-role.
+  // PR D-0: also select session_version so the cookie minted below
+  // captures the user's current value. requireRole() compares the
+  // cookie's session_version claim against app_users on every
+  // protected request — a fresh sign-in must therefore mint with
+  // the live value, not a constant.
   const supabase = getSupabaseServerClient();
   const { data: appUser, error: lookupError } = await supabase
     .from("app_users")
-    .select("email, role, disabled_at")
+    .select("email, role, disabled_at, session_version")
     .eq("email", email)
     .maybeSingle();
   if (lookupError) {
@@ -231,8 +236,16 @@ export async function GET(req: NextRequest) {
   }
 
   // Authorized. Mint app_session + admin_token, redirect.
+  // session_version comes from the row we just read; future mutations to
+  // app_users (PR D-1's RPCs) increment this column and the next
+  // requireRole() call observes the mismatch.
   const role = appUser.role as AppSessionRole;
-  const { token: appSessionToken } = mintAppSession({ email, role });
+  const sessionVersion = (appUser as { session_version: number }).session_version;
+  const { token: appSessionToken } = mintAppSession({
+    email,
+    role,
+    session_version: sessionVersion,
+  });
   const returnPath = resolveReturnPath(rawReturn);
 
   const res = NextResponse.redirect(new URL(returnPath, req.url));

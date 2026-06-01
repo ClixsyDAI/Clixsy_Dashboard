@@ -2,53 +2,62 @@
 // requireRole — role-aware auth gate for workbook route handlers
 // =============================================================
 //
-// Phase 1 PR C. Single entry point every protected route uses to
-// check both authentication AND role-rank authorization before
-// processing the request.
-//
-// Replaces the per-route inline `validateAdminToken(req)` checks
-// scattered across the admin + onboarding + team-assignments
-// routes, and adds belt-and-braces coverage to the proxy-gate-only
-// routes (/api/google/*, /api/content, /api/meeting-prep,
-// /api/ai-summary, /api/chat) which had no in-handler check.
+// Phase 1 PR C introduced this helper as a synchronous function.
+// Phase 1 PR D-0 makes it ASYNC because session-version revocation
+// requires a per-request read of app_users.session_version from
+// Supabase. See migration 012 for the column definition.
 //
 // =============================================================
-// Auth source order (the dual-cookie bridge — PR B carried this
-// forward, PR C keeps it indefinitely per operator's decision)
+// Auth source order (PR D-0 makes the cookie authoritative for
+// OAuth-signed-in users; bearer fallback only when no cookie is
+// present at all)
 // =============================================================
 //
-//   1. app_session cookie (PR B) — HMAC-signed payload carrying
-//      verified { email, role, iat, exp }. Source of truth for
-//      OAuth-signed-in users. Verified via verifyAppSession.
+// Layer 1 — app_session cookie (PR B Google OAuth path):
+//   verify HMAC + payload shape via verifyAppSession()
+//   read app_users.session_version for the cookie's email
+//   compare against the cookie's session_version claim
+//   - mismatch (or app_users row gone) -> 401 session_revoked
+//   - match -> role-rank check against minRole
 //
-//   2. validateAdminToken(req) — Authorization: Bearer ${sha256}
-//      header check (the workbook's pre-Phase-1 admin auth).
-//      Password sign-in users still rely on this; the OAuth
-//      callback also issues the matching cookie as the "belt"
-//      half of the bridge so existing endpoints keep working
-//      while we migrate them to requireRole.
+// Layer 2 — Authorization: Bearer <admin_token> (password path):
+//   ONLY consulted when verifyAppSession returns reason='missing'.
+//   A present-but-invalid app_session cookie (bad shape, bad
+//   signature, expired) is treated as a stale OAuth session that
+//   must be re-established, NOT as a reason to fall back to the
+//   password path. Rationale: cookies are minted by the OAuth
+//   callback; their presence means the user IS an OAuth user;
+//   bearer fallback synthesises role='admin' which is the wrong
+//   posture for users who should be re-authenticated. This is a
+//   deliberate posture change from PR C, which fell back on any
+//   cookie failure.
 //
-// If neither check passes → 401 + audit event.
-// If a check passes but the role rank is too low → 403 + audit event.
-//
-// Password users (validateAdminToken-via-header path) synthesize
-// role='admin' + email='(password)'. They have always had full
-// admin access; we don't lower their rank.
+// Layer 3 — neither: 401 unauthenticated.
 //
 // =============================================================
-// Audit log discipline — pure function returns the event to log
+// Audit log discipline — pure-return-shape preserved
 // =============================================================
 //
-// requireRole does NOT write to auth_audit_events directly. On
-// rejection it returns an `audit` field describing the event the
-// caller should log via the centralized logAuthAudit helper. This
-// keeps requireRole a pure function (testable without stubbing
-// the Supabase write path) while preserving the established
-// after()-based discipline.
+// requireRole still does not write to auth_audit_events directly.
+// On rejection it returns the event the caller should log via the
+// after()-based logAuthAudit helper. Three rejection event types:
 //
-// Standard call-site shape:
+//   - requireRole_rejected_unauthenticated
+//       payload: { method, endpoint }
+//   - requireRole_rejected_forbidden
+//       payload: { method, endpoint, user_role, required_role, email }
+//   - requireRole_rejected_session_revoked
+//       payload: { method, endpoint, reason }
+//         where reason is one of:
+//           'malformed' | 'bad_signature' | 'bad_payload'
+//         | 'bad_payload_shape' | 'expired'
+//         | 'user_not_in_app_users' | 'session_version_mismatch'
 //
-//   const auth = requireRole(req, "admin", "/api/admin/clients");
+// =============================================================
+// Caller pattern (unchanged signature for the caller)
+// =============================================================
+//
+//   const auth = await requireRole(req, "admin", "/api/admin/clients");
 //   if (!auth.ok) {
 //     logAuthAudit(auth.audit);
 //     return NextResponse.json(
@@ -56,19 +65,7 @@
 //       { status: auth.status },
 //     );
 //   }
-//   // auth.ctx.email + auth.ctx.role available below.
-//
-// Two event types this module produces (per migration 011's header
-// comment + Phase 1 PR C plan):
-//
-//   - requireRole_rejected_unauthenticated
-//       payload: { method, endpoint }
-//   - requireRole_rejected_forbidden
-//       payload: { method, endpoint, user_role, required_role, email }
-//
-// The HTTP method is captured in both so log queries can
-// differentiate "blocked on GET" vs "blocked on POST" of the same
-// endpoint.
+//   // auth.ctx.email + auth.ctx.role + auth.ctx.session_version available below.
 
 import type { NextRequest } from "next/server";
 import {
@@ -78,6 +75,7 @@ import {
 } from "./app-session";
 import { validateAdminToken } from "./admin-auth";
 import type { AuthAuditEventType } from "./auth-audit";
+import { getSupabaseServerClient } from "./supabase-server";
 
 export type Role = AppSessionRole; // 'super_admin' | 'admin' | 'viewer'
 
@@ -85,6 +83,11 @@ export type AuthCtx = {
   email: string;
   role: Role;
   via: "app_session" | "admin_token";
+  // The session_version from the cookie at request time. Cookie path: a
+  // positive integer (or 0 for users whose app_users row has never been
+  // mutated). Bearer path: null (the password-sign-in flow has no cookie
+  // and no concept of session_version).
+  session_version: number | null;
 };
 
 export type RejectionAudit = {
@@ -93,16 +96,20 @@ export type RejectionAudit = {
   payload: Record<string, unknown>;
 };
 
+export type RejectionReason =
+  | "unauthenticated"
+  | "forbidden"
+  | "session_revoked";
+
 export type RequireRoleResult =
   | { ok: true; ctx: AuthCtx }
   | {
       ok: false;
       status: 401 | 403;
-      reason: "unauthenticated" | "forbidden";
+      reason: RejectionReason;
       audit: RejectionAudit;
     };
 
-// Rank order: higher number = more permissive role superset.
 const ROLE_RANK: Record<Role, number> = {
   viewer: 1,
   admin: 2,
@@ -114,26 +121,109 @@ function hasRank(actual: Role, minimum: Role): boolean {
 }
 
 /**
- * Gate a route handler on authentication + role rank.
+ * Read the current session_version for an email from app_users.
+ * Returns null if the row doesn't exist (treat as session_revoked).
  *
- * `endpoint` is the route's canonical URL path (e.g.
- * "/api/admin/clients/[id]") — passed in by the caller rather
- * than derived from req.url so the audit log carries the canonical
- * route shape with [param] placeholders intact, rather than the
- * realised URL with the actual id baked in.
+ * Per-request DB hit on every protected route. The cost (~5-50ms per
+ * call against the workbook's Supabase region) is the unavoidable price
+ * of cookie-revocation semantics — a demoted user must lose access on
+ * the NEXT request, not after up-to-7-days cookie expiry. See PR D-0's
+ * description for the design rationale.
+ *
+ * Disabled users: the callback already refuses sign-in for users whose
+ * disabled_at is non-null (PR B layer 4). If a user is disabled AFTER
+ * sign-in (via PR D-1's RPCs), session_version is bumped, so the next
+ * requireRole call mismatches and the session is revoked. Direct-SQL
+ * disables that don't bump session_version leave the user with stale
+ * access until cookie expiry — known gap, parked.
  */
-export function requireRole(
+type SessionVersionReader = (email: string) => Promise<number | null>;
+
+const realReadCurrentSessionVersion: SessionVersionReader = async (email) => {
+  const supabase = getSupabaseServerClient();
+  const { data, error } = await supabase
+    .from("app_users")
+    .select("session_version")
+    .eq("email", email)
+    .maybeSingle();
+  if (error) {
+    // Log + treat as revoked. A DB error during requireRole is an
+    // unauthenticated state from the user's perspective — fail closed.
+    console.warn(
+      `[require-role] readCurrentSessionVersion failed for ${email}: ${error.message}`,
+    );
+    return null;
+  }
+  if (!data) return null;
+  return data.session_version;
+};
+
+// Module-level reference so the colocated test file can swap in a stub
+// without depending on a mocking framework. Production code calls
+// requireRole() with no options; the default reader hits Supabase.
+let _readCurrentSessionVersion: SessionVersionReader =
+  realReadCurrentSessionVersion;
+
+/** @internal Test seam — swap the session_version reader. */
+export function _setReadCurrentSessionVersionForTests(
+  fn: SessionVersionReader,
+): void {
+  _readCurrentSessionVersion = fn;
+}
+
+/** @internal Restore the production session_version reader. */
+export function _resetReadCurrentSessionVersionForTests(): void {
+  _readCurrentSessionVersion = realReadCurrentSessionVersion;
+}
+
+export async function requireRole(
   req: NextRequest,
   minRole: Role,
   endpoint: string,
-): RequireRoleResult {
+): Promise<RequireRoleResult> {
   const method = req.method;
 
-  // Layer 1: app_session cookie (OAuth sign-in path).
+  // ───────────────────────────────────────────────────────────────
+  // Layer 1: app_session cookie
+  // ───────────────────────────────────────────────────────────────
   const sessionCookie = req.cookies.get(APP_SESSION_COOKIE_NAME)?.value;
   const verified = verifyAppSession(sessionCookie);
+
   if (verified.ok) {
-    const { email, role } = verified.payload;
+    const { email, role, session_version: cookieSV } = verified.payload;
+    const currentSV = await _readCurrentSessionVersion(email);
+    if (currentSV === null) {
+      // Cookie outlived the app_users row, OR a DB error occurred. Either
+      // way, the session can no longer be considered authoritative.
+      return {
+        ok: false,
+        status: 401,
+        reason: "session_revoked",
+        audit: {
+          eventType: "requireRole_rejected_session_revoked",
+          actorEmail: email,
+          payload: { method, endpoint, reason: "user_not_in_app_users" },
+        },
+      };
+    }
+    if (currentSV !== cookieSV) {
+      return {
+        ok: false,
+        status: 401,
+        reason: "session_revoked",
+        audit: {
+          eventType: "requireRole_rejected_session_revoked",
+          actorEmail: email,
+          payload: {
+            method,
+            endpoint,
+            reason: "session_version_mismatch",
+            cookie_session_version: cookieSV,
+            current_session_version: currentSV,
+          },
+        },
+      };
+    }
     if (!hasRank(role, minRole)) {
       return {
         ok: false,
@@ -154,21 +244,46 @@ export function requireRole(
     }
     return {
       ok: true,
-      ctx: { email, role, via: "app_session" },
+      ctx: { email, role, via: "app_session", session_version: cookieSV },
     };
   }
 
-  // Layer 2: Authorization: Bearer <admin_token> fallback (password sign-in path).
+  // ───────────────────────────────────────────────────────────────
+  // Layer 1 reject: cookie present but invalid
+  // ───────────────────────────────────────────────────────────────
+  // If the cookie was set but its HMAC / payload-shape / expiry failed,
+  // treat as a stale OAuth session that must be re-established — DO NOT
+  // fall through to bearer. A present-but-invalid cookie means the user
+  // is an OAuth user whose session is stale; bearer fallback synthesises
+  // role='admin' which is the wrong identity attribution.
+  //
+  // PR D-0 posture change vs PR C: PR C fell through on any failure.
+  if (verified.reason !== "missing") {
+    return {
+      ok: false,
+      status: 401,
+      reason: "session_revoked",
+      audit: {
+        eventType: "requireRole_rejected_session_revoked",
+        actorEmail: null,
+        payload: { method, endpoint, reason: verified.reason },
+      },
+    };
+  }
+
+  // ───────────────────────────────────────────────────────────────
+  // Layer 2: Authorization: Bearer <admin_token> (password path)
+  // ───────────────────────────────────────────────────────────────
+  // Reached only when verified.reason === 'missing' — no cookie at all.
+  // The password sign-in flow has no app_session cookie; bearer is the
+  // sole identity carrier. Synthesise role='admin'; session_version=null
+  // because there's nothing to revoke per-request (the bearer hash is
+  // its own revocation key — rotating ADMIN_PASSWORD or ADMIN_SESSION_
+  // SECRET invalidates every existing bearer).
   const adminCheck = validateAdminToken(req);
   if (adminCheck.ok) {
-    // Password sign-in synthesises admin. They've always had full
-    // admin access; no role distinction available from the bearer
-    // header alone.
     const passwordRole: Role = "admin";
     if (!hasRank(passwordRole, minRole)) {
-      // Only fires for minRole === 'super_admin' (since password
-      // role is admin). Current PR C call sites don't request
-      // super_admin; PR D will.
       return {
         ok: false,
         status: 403,
@@ -188,7 +303,12 @@ export function requireRole(
     }
     return {
       ok: true,
-      ctx: { email: "(password)", role: passwordRole, via: "admin_token" },
+      ctx: {
+        email: "(password)",
+        role: passwordRole,
+        via: "admin_token",
+        session_version: null,
+      },
     };
   }
 

@@ -61,6 +61,16 @@ export type AppSessionPayload = {
   role: AppSessionRole;
   iat: number; // issued-at, unix seconds
   exp: number; // expiry, unix seconds
+  // PR D-1: session revocation counter snapshot at mint time. requireRole()
+  // reads the user's current session_version from app_users on every call
+  // and compares against this claim. Mismatch -> 401 reason=session_revoked.
+  //
+  // Cookies minted before PR D-1 deployed have NO session_version field —
+  // the payload-shape check in isPayload() requires it, so those cookies
+  // verify as { ok: false, reason: 'bad_payload_shape' } and every user
+  // signs in once after deploy. Per operator's Q1 answer (accepted forced
+  // re-sign-in for everybody one time).
+  session_version: number;
 };
 
 function getSecret(): string {
@@ -89,7 +99,7 @@ function sign(payloadEncoded: string): string {
 }
 
 export function mintAppSession(
-  base: Pick<AppSessionPayload, "email" | "role">,
+  base: Pick<AppSessionPayload, "email" | "role" | "session_version">,
 ): { token: string; payload: AppSessionPayload } {
   const iat = Math.floor(Date.now() / 1000);
   const exp = iat + APP_SESSION_MAX_AGE_SECONDS;
@@ -98,6 +108,7 @@ export function mintAppSession(
     role: base.role,
     iat,
     exp,
+    session_version: base.session_version,
   };
   const payloadEncoded = base64urlEncode(JSON.stringify(payload));
   const signature = sign(payloadEncoded);

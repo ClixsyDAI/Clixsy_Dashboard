@@ -59,7 +59,7 @@ export async function GET() {
  * returns an error instructing the admin to configure Blob storage.
  */
 export async function PUT(req: NextRequest) {
-  const auth = requireRole(req, "admin", "/api/team-assignments");
+  const auth = await requireRole(req, "admin", "/api/team-assignments");
   if (!auth.ok) {
     logAuthAudit(auth.audit);
     return NextResponse.json(

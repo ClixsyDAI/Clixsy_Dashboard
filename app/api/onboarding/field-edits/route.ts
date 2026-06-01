@@ -75,7 +75,7 @@ const ACTOR_LABEL = "Workbook (Admin)";
 
 export async function POST(req: NextRequest) {
   // ── 1. Auth ───────────────────────────────────────────────
-  const auth = requireRole(req, "admin", "/api/onboarding/field-edits");
+  const auth = await requireRole(req, "admin", "/api/onboarding/field-edits");
   if (!auth.ok) {
     logAuthAudit(auth.audit);
     return NextResponse.json(

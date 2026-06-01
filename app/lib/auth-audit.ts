@@ -27,7 +27,10 @@ export type AuthAuditEventType =
   | "google_oauth_callback_error"
   | "access_request_created"
   | "requireRole_rejected_unauthenticated"
-  | "requireRole_rejected_forbidden";
+  | "requireRole_rejected_forbidden"
+  // PR D-0: requireRole now reads app_users.session_version on every call
+  // and rejects cookies whose session_version claim is stale (or missing).
+  | "requireRole_rejected_session_revoked";
 
 /**
  * Queue an auth_audit_events write for after-response execution.

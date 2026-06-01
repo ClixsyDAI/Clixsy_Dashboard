@@ -46,7 +46,7 @@ export async function POST(
   req: NextRequest,
   { params }: { params: Promise<{ id: string }> },
 ) {
-  const auth = requireRole(req, "admin", "/api/admin/clients/[id]");
+  const auth = await requireRole(req, "admin", "/api/admin/clients/[id]");
   if (!auth.ok) {
     logAuthAudit(auth.audit);
     return NextResponse.json(

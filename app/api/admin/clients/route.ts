@@ -22,7 +22,7 @@ import type { Project } from "@/app/lib/projects";
 export const runtime = "nodejs";
 
 export async function GET(req: NextRequest) {
-  const auth = requireRole(req, "viewer", "/api/admin/clients");
+  const auth = await requireRole(req, "viewer", "/api/admin/clients");
   if (!auth.ok) {
     logAuthAudit(auth.audit);
     return NextResponse.json(

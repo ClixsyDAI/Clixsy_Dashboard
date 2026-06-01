@@ -90,7 +90,7 @@ export async function POST(
   { params }: { params: Promise<{ id: string }> },
 ) {
   // 1. Auth (proxy cookie gate already passed).
-  const auth = requireRole(
+  const auth = await requireRole(
     req,
     "admin",
     "/api/onboarding/sessions/[id]/token",

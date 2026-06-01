@@ -10,7 +10,7 @@ import { logAuthAudit } from "../../lib/auth-audit";
 const anthropic = new Anthropic();
 
 export async function POST(request: NextRequest) {
-  const auth = requireRole(request, "admin", "/api/ai-summary");
+  const auth = await requireRole(request, "admin", "/api/ai-summary");
   if (!auth.ok) {
     logAuthAudit(auth.audit);
     return NextResponse.json(
