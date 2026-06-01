@@ -14,8 +14,11 @@
  *   3. Streams back plain text (no JSON wrapper) so the UI can render
  *      the modal progressively instead of waiting 6-12s for the full body.
  */
+import { NextRequest, NextResponse } from "next/server";
 import Anthropic from "@anthropic-ai/sdk";
 import { loadClientTodos } from "../../lib/dashboard-data";
+import { requireRole } from "../../lib/require-role";
+import { logAuthAudit } from "../../lib/auth-audit";
 import { loadGscData, loadGa4Data } from "../../lib/google-data";
 import { getBrightLocalSummary } from "../../lib/brightlocal-data";
 import { loadContentArticlesForClient } from "../../lib/content-data";
@@ -120,7 +123,16 @@ function iso(d: Date): string {
   return d.toISOString().split("T")[0];
 }
 
-export async function POST(request: Request) {
+export async function POST(request: NextRequest) {
+  const auth = requireRole(request, "admin", "/api/meeting-prep");
+  if (!auth.ok) {
+    logAuthAudit(auth.audit);
+    return NextResponse.json(
+      { ok: false, reason: auth.reason },
+      { status: auth.status },
+    );
+  }
+
   try {
     const body = await request.json();
     const projectId = String(body.projectId || "");

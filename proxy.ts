@@ -34,8 +34,14 @@
 // Auth shape
 // =============================================================
 //
-// The gate accepts EITHER of two cookies (Phase 1 PR B introduced
-// the second one alongside Google OAuth):
+// This is the PAGE-LEVEL gate. As of Phase 1 PR C, the
+// authoritative authz check is `requireRole(req, minRole, endpoint)`
+// inside each protected route handler (app/lib/require-role.ts).
+// proxy.ts remains as a first-line filter that 401s API requests
+// and redirects unauthenticated page requests to /admin?return=...
+// without making them touch the slower route-handler path.
+//
+// The gate accepts EITHER of two cookies:
 //
 //   1. `admin_token` — sha256(ADMIN_PASSWORD:ADMIN_SESSION_SECRET).
 //      Set by `app/api/admin/auth/route.ts` (POST password sign-in)
@@ -46,10 +52,14 @@
 //      when a Google OAuth sign-in succeeds against app_users.
 //      Verified via app/lib/app-session.ts.
 //
-// Either cookie passing the check is sufficient. The dual-cookie
-// state is transitional — PR C will remove the admin_token
-// shadow-issue once requireRole() rolls across the protected
-// endpoints.
+// Either cookie passing the check is sufficient at this layer.
+// Role-rank enforcement happens INSIDE the route handler via
+// requireRole — proxy.ts is "are you signed in at all", route
+// handler is "do you have the rank to do THIS specifically".
+//
+// The dual-cookie bridge is now permanent per the operator's PR C
+// decision (belt-and-braces). The OAuth callback continues to
+// mint admin_token alongside app_session indefinitely.
 
 import { createHash } from "node:crypto";
 import { NextResponse, type NextRequest } from "next/server";

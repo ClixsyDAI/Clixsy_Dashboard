@@ -1,6 +1,5 @@
-import "server-only";
 // =============================================================
-// app_session cookie — mint + verify
+// app_session cookie — mint + verify (server-side only)
 // =============================================================
 //
 // Phase 1 PR B. The OAuth-signed-in identity layer.
@@ -37,6 +36,20 @@ import "server-only";
 //   every protected endpoint.
 
 import { createHmac, timingSafeEqual } from "node:crypto";
+
+// Runtime guard — server-side use only. Matches supabase-server.ts.
+// The previous `import "server-only"` directive conflicted with the
+// colocated node:test runner in require-role.test.ts (the npm
+// `server-only` package throws on import outside Next's bundler).
+// Runtime check provides equivalent protection at request time
+// without the build-time module aliasing.
+if (typeof window !== "undefined") {
+  throw new Error(
+    "app-session.ts was imported into a client bundle. " +
+      "It signs admin sessions with the workbook's session secret; " +
+      "must stay server-side.",
+  );
+}
 
 export const APP_SESSION_COOKIE_NAME = "app_session";
 export const APP_SESSION_MAX_AGE_SECONDS = 60 * 60 * 24 * 7; // 7 days

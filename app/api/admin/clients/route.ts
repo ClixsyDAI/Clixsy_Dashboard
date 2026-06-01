@@ -14,16 +14,21 @@
 // the raw JSON.)
 
 import { NextRequest, NextResponse } from "next/server";
-import { validateAdminToken } from "@/app/lib/admin-auth";
+import { requireRole } from "@/app/lib/require-role";
+import { logAuthAudit } from "@/app/lib/auth-audit";
 import { getFileContents } from "@/app/lib/github";
 import type { Project } from "@/app/lib/projects";
 
 export const runtime = "nodejs";
 
 export async function GET(req: NextRequest) {
-  const auth = validateAdminToken(req);
+  const auth = requireRole(req, "viewer", "/api/admin/clients");
   if (!auth.ok) {
-    return NextResponse.json({ error: auth.error }, { status: auth.status });
+    logAuthAudit(auth.audit);
+    return NextResponse.json(
+      { ok: false, reason: auth.reason },
+      { status: auth.status },
+    );
   }
 
   try {

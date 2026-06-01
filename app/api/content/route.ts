@@ -6,14 +6,25 @@
  * focused on HTTP shape (query params, response envelope, debug helpers).
  */
 
-import { NextResponse } from "next/server";
+import { NextRequest, NextResponse } from "next/server";
 import {
   fetchContentRows,
   loadContentArticlesForClient,
   isContentCached,
 } from "../../lib/content-data";
+import { requireRole } from "../../lib/require-role";
+import { logAuthAudit } from "../../lib/auth-audit";
 
-export async function GET(req: Request) {
+export async function GET(req: NextRequest) {
+  const auth = requireRole(req, "admin", "/api/content");
+  if (!auth.ok) {
+    logAuthAudit(auth.audit);
+    return NextResponse.json(
+      { ok: false, reason: auth.reason },
+      { status: auth.status },
+    );
+  }
+
   const url = new URL(req.url);
   const clientName = url.searchParams.get("client") || "";
   const refresh = url.searchParams.get("refresh") === "1";

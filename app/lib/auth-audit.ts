@@ -25,7 +25,9 @@ export type AuthAuditEventType =
   | "google_oauth_sign_in_rejected_non_clixsy_domain"
   | "google_oauth_sign_in_rejected_email_not_verified"
   | "google_oauth_callback_error"
-  | "access_request_created";
+  | "access_request_created"
+  | "requireRole_rejected_unauthenticated"
+  | "requireRole_rejected_forbidden";
 
 /**
  * Queue an auth_audit_events write for after-response execution.

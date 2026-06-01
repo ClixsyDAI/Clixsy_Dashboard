@@ -1,13 +1,24 @@
-import { NextResponse } from "next/server";
+import { NextRequest, NextResponse } from "next/server";
 import Anthropic from "@anthropic-ai/sdk";
 import { loadClientTodos } from "../../lib/dashboard-data";
 import { loadGscData, loadGa4Data } from "../../lib/google-data";
 import { getBrightLocalSummary } from "../../lib/brightlocal-data";
 import projects from "../../data/projects.json";
+import { requireRole } from "../../lib/require-role";
+import { logAuthAudit } from "../../lib/auth-audit";
 
 const anthropic = new Anthropic();
 
-export async function POST(request: Request) {
+export async function POST(request: NextRequest) {
+  const auth = requireRole(request, "admin", "/api/ai-summary");
+  if (!auth.ok) {
+    logAuthAudit(auth.audit);
+    return NextResponse.json(
+      { ok: false, reason: auth.reason },
+      { status: auth.status },
+    );
+  }
+
   try {
     const { projectId, startDate, endDate } = await request.json();
 

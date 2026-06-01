@@ -1,8 +1,10 @@
-import { NextResponse } from "next/server";
+import { NextRequest, NextResponse } from "next/server";
 import { writeFileSync } from "fs";
 import { join } from "path";
 import { listGscProperties, listGa4Properties } from "../../../lib/google";
 import projects from "../../../data/projects.json";
+import { requireRole } from "../../../lib/require-role";
+import { logAuthAudit } from "../../../lib/auth-audit";
 
 interface ClientMapping {
   // Post-GHL-pivot: projectId is the (string) Project.id from app/data/projects.json.
@@ -19,8 +21,19 @@ interface ClientMapping {
  * POST /api/google/auto-map
  * Auto-discovers GSC and GA4 properties, then fuzzy-matches them to Basecamp clients.
  * Writes the mapping to app/data/google-properties.json.
+ *
+ * Auth: requireRole('admin') added in PR C as defence-in-depth.
  */
-export async function POST() {
+export async function POST(req: NextRequest) {
+  const auth = requireRole(req, "admin", "/api/google/auto-map");
+  if (!auth.ok) {
+    logAuthAudit(auth.audit);
+    return NextResponse.json(
+      { ok: false, reason: auth.reason },
+      { status: auth.status },
+    );
+  }
+
   try {
     const [gscProperties, ga4Properties] = await Promise.all([
       listGscProperties(),

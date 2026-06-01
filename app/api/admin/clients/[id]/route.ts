@@ -13,13 +13,15 @@
 // am_ghl_user_id, website_url) are preserved by
 // updateProjectInManifest, never touched by this route.
 //
-// Auth: same admin bearer-token pattern as PUT /api/team-assignments,
-// extracted into validateAdminToken (app/lib/admin-auth.ts) to
-// avoid re-implementing the sha256 dance per route.
+// Auth: requireRole('admin') via app_session OR admin_token bearer.
+// PR C migrated from the bare validateAdminToken call to the
+// role-aware helper so future viewer-tier users can't edit
+// manifest entries.
 
 import { NextRequest, NextResponse } from "next/server";
 import { z } from "zod";
-import { validateAdminToken } from "@/app/lib/admin-auth";
+import { requireRole } from "@/app/lib/require-role";
+import { logAuthAudit } from "@/app/lib/auth-audit";
 import { updateProjectInManifest } from "@/app/lib/projects";
 
 export const runtime = "nodejs";
@@ -44,9 +46,13 @@ export async function POST(
   req: NextRequest,
   { params }: { params: Promise<{ id: string }> },
 ) {
-  const auth = validateAdminToken(req);
+  const auth = requireRole(req, "admin", "/api/admin/clients/[id]");
   if (!auth.ok) {
-    return NextResponse.json({ error: auth.error }, { status: auth.status });
+    logAuthAudit(auth.audit);
+    return NextResponse.json(
+      { ok: false, reason: auth.reason },
+      { status: auth.status },
+    );
   }
 
   const { id } = await params;

@@ -1,7 +1,9 @@
-import { NextResponse } from "next/server";
+import { NextRequest, NextResponse } from "next/server";
 import { writeFileSync, existsSync, readFileSync, mkdirSync } from "fs";
 import { join } from "path";
 import { fetchGscData, fetchGa4Data } from "../../../lib/google";
+import { requireRole } from "../../../lib/require-role";
+import { logAuthAudit } from "../../../lib/auth-audit";
 
 interface ClientGoogleMapping {
   projectId: number;
@@ -21,8 +23,19 @@ function loadMappings(): ClientGoogleMapping[] {
  * POST /api/google/sync
  * Syncs GSC and GA4 data for all mapped clients.
  * Optional body: { projectId: number } to sync a single client.
+ *
+ * Auth: requireRole('admin') added in PR C as defence-in-depth.
  */
-export async function POST(request: Request) {
+export async function POST(request: NextRequest) {
+  const auth = requireRole(request, "admin", "/api/google/sync");
+  if (!auth.ok) {
+    logAuthAudit(auth.audit);
+    return NextResponse.json(
+      { ok: false, reason: auth.reason },
+      { status: auth.status },
+    );
+  }
+
   try {
     const body = await request.json().catch(() => ({}));
     const singleProjectId = body.projectId as number | undefined;
@@ -102,8 +115,19 @@ export async function POST(request: Request) {
 /**
  * GET /api/google/sync
  * Returns the current state of synced Google data for all clients.
+ *
+ * Auth: requireRole('admin') added in PR C as defence-in-depth.
  */
-export async function GET() {
+export async function GET(req: NextRequest) {
+  const auth = requireRole(req, "admin", "/api/google/sync");
+  if (!auth.ok) {
+    logAuthAudit(auth.audit);
+    return NextResponse.json(
+      { ok: false, reason: auth.reason },
+      { status: auth.status },
+    );
+  }
+
   const mappings = loadMappings();
   const dataDir = join(process.cwd(), "app", "data", "clients");
 

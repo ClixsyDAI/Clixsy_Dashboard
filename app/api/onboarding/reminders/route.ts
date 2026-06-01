@@ -33,7 +33,8 @@
 import { NextRequest, NextResponse } from "next/server";
 import { z } from "zod";
 import { getSupabaseServerClient } from "../../../lib/supabase-server";
-import { validateAdminToken } from "../../../lib/admin-auth";
+import { requireRole } from "../../../lib/require-role";
+import { logAuthAudit } from "../../../lib/auth-audit";
 
 const DEBOUNCE_WINDOW_MS = 10_000;
 
@@ -48,10 +49,11 @@ const SENT_BY_LABEL = "Workbook (Admin)";
 
 export async function POST(req: NextRequest) {
   // 1. Auth.
-  const auth = validateAdminToken(req);
+  const auth = requireRole(req, "admin", "/api/onboarding/reminders");
   if (!auth.ok) {
+    logAuthAudit(auth.audit);
     return NextResponse.json(
-      { error: auth.error },
+      { ok: false, reason: auth.reason },
       { status: auth.status },
     );
   }
