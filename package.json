@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "gen:types": "npx supabase gen types typescript --project-id lawwsutjxopiekjzupef > app/lib/onboarding/types.gen.ts"
+    "gen:types": "npx supabase gen types typescript --project-id lawwsutjxopiekjzupef > app/lib/onboarding/types.gen.ts",
+    "test:receiver": "node --import tsx --test app/api/webhooks/ghl/opportunity-onboarded/route.test.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.80.0",
