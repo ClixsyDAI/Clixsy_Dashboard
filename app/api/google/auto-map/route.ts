@@ -25,7 +25,7 @@ interface ClientMapping {
  * Auth: requireRole('admin') added in PR C as defence-in-depth.
  */
 export async function POST(req: NextRequest) {
-  const auth = requireRole(req, "admin", "/api/google/auto-map");
+  const auth = await requireRole(req, "admin", "/api/google/auto-map");
   if (!auth.ok) {
     logAuthAudit(auth.audit);
     return NextResponse.json(

@@ -12,7 +12,7 @@ import { logAuthAudit } from "../../../lib/auth-audit";
  * Previously proxy-gate-only.
  */
 export async function GET(req: NextRequest) {
-  const auth = requireRole(req, "admin", "/api/google/discover");
+  const auth = await requireRole(req, "admin", "/api/google/discover");
   if (!auth.ok) {
     logAuthAudit(auth.audit);
     return NextResponse.json(

@@ -729,7 +729,7 @@ interface IncomingMessage {
 }
 
 export async function POST(request: NextRequest) {
-  const auth = requireRole(request, "admin", "/api/chat");
+  const auth = await requireRole(request, "admin", "/api/chat");
   if (!auth.ok) {
     logAuthAudit(auth.audit);
     return NextResponse.json(

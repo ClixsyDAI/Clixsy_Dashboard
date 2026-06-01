@@ -27,7 +27,7 @@ function loadMappings(): ClientGoogleMapping[] {
  * Auth: requireRole('admin') added in PR C as defence-in-depth.
  */
 export async function POST(request: NextRequest) {
-  const auth = requireRole(request, "admin", "/api/google/sync");
+  const auth = await requireRole(request, "admin", "/api/google/sync");
   if (!auth.ok) {
     logAuthAudit(auth.audit);
     return NextResponse.json(
@@ -119,7 +119,7 @@ export async function POST(request: NextRequest) {
  * Auth: requireRole('admin') added in PR C as defence-in-depth.
  */
 export async function GET(req: NextRequest) {
-  const auth = requireRole(req, "admin", "/api/google/sync");
+  const auth = await requireRole(req, "admin", "/api/google/sync");
   if (!auth.ok) {
     logAuthAudit(auth.audit);
     return NextResponse.json(

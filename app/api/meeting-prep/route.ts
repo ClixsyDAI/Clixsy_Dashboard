@@ -124,7 +124,7 @@ function iso(d: Date): string {
 }
 
 export async function POST(request: NextRequest) {
-  const auth = requireRole(request, "admin", "/api/meeting-prep");
+  const auth = await requireRole(request, "admin", "/api/meeting-prep");
   if (!auth.ok) {
     logAuthAudit(auth.audit);
     return NextResponse.json(
