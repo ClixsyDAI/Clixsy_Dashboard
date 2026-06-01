@@ -70,27 +70,79 @@ export default function AdminPage() {
     // dashboard as it did before.
   }, [router]);
 
-  // On mount, check for an existing session
+  // On mount, check for an existing session.
+  //
+  // Three-endpoint ladder (mirrors useAdminAuth's silent re-auth at
+  // app/lib/use-admin-auth.tsx:76-108):
+  //
+  //   1. sessionStorage fast path. Validated via GET /api/admin/auth?token=
+  //      which also refreshes the admin_token cookie (PR #20).
+  //   2. GET /api/admin/auth/session reads the app_session cookie
+  //      (Google OAuth path). Tried before /me because OAuth is the
+  //      preferred sign-in path.
+  //   3. GET /api/admin/auth/me reads the admin_token cookie (password
+  //      sign-in path). The original cookie -> sessionStorage bridge
+  //      from PR #34.
+  //
+  // Layers 2 + 3 fix the PR B oversight where a Google OAuth sign-in
+  // would land on /admin with valid cookies but empty sessionStorage
+  // (the server-side OAuth callback can't write to sessionStorage),
+  // and the LoginScreen would render even though the user is signed
+  // in. /client/[id] worked because the proxy reads cookies directly,
+  // but /admin's client-side gate didn't.
   useEffect(() => {
-    const saved = sessionStorage.getItem("admin_token");
-    if (saved) {
-      fetch(`/api/admin/auth?token=${saved}`)
-        .then((r) => r.json())
-        .then((d) => {
-          if (d.valid) {
-            setToken(saved);
-            setAuthed(true);
-            // Existing-session branch: if there's a return param,
-            // follow it now without re-prompting. The GET above
-            // refreshed the admin_token cookie (PR #20 behaviour),
-            // so the proxy will let us through on the new page.
-            followReturnOrDefault();
+    if (typeof window === "undefined") return;
+    let cancelled = false;
+
+    (async () => {
+      try {
+        // Layer 1: sessionStorage fast path.
+        const saved = sessionStorage.getItem("admin_token");
+        if (saved) {
+          const r = await fetch(`/api/admin/auth?token=${saved}`);
+          if (cancelled) return;
+          if (r.ok) {
+            const d = (await r.json()) as { valid?: boolean };
+            if (d.valid) {
+              setToken(saved);
+              setAuthed(true);
+              followReturnOrDefault();
+              return;
+            }
           }
-        })
-        .finally(() => setLoading(false));
-    } else {
-      setLoading(false);
-    }
+        }
+
+        // Layers 2 + 3: cookie bridges. Try app_session first (OAuth),
+        // fall back to admin_token (password). Both endpoints return
+        // { token } on success so the populate-sessionStorage step is
+        // uniform.
+        for (const endpoint of [
+          "/api/admin/auth/session",
+          "/api/admin/auth/me",
+        ]) {
+          const res = await fetch(endpoint, { credentials: "same-origin" });
+          if (cancelled) return;
+          if (!res.ok) continue;
+          const data = (await res.json()) as { token?: string };
+          if (data.token) {
+            sessionStorage.setItem("admin_token", data.token);
+            setToken(data.token);
+            setAuthed(true);
+            followReturnOrDefault();
+            return;
+          }
+        }
+      } catch {
+        // Silent — LoginScreen renders on any unexpected error.
+        // The user can still sign in via the visible form.
+      } finally {
+        if (!cancelled) setLoading(false);
+      }
+    })();
+
+    return () => {
+      cancelled = true;
+    };
   }, [followReturnOrDefault]);
 
   const handleLogin = async () => {
