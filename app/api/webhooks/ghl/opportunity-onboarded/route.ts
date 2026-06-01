@@ -57,8 +57,12 @@ const PIPELINE_TO_VERTICAL: Record<
 // Empty strings come through too — coerce both to JS null so the
 // downstream JSON write (projects.json) gets actual null, not the
 // string "null".
-function normalizeGhlNullable(value: string): string | null {
-  return value === "null" || value === "" ? null : value;
+function normalizeGhlNullable(value: string | null | undefined): string | null {
+  if (value === undefined || value === null) return null;
+  const trimmed = value.trim();
+  if (trimmed === "" || trimmed === "null") return null;
+  if (/^[A-Za-z0-9]{20}$/.test(trimmed)) return trimmed;
+  return null;
 }
 
 // GHL custom-webhook payload schema. Field names mirror the workflow
@@ -80,10 +84,7 @@ const PayloadSchema = z.object({
   contact_email: z.string(),
   contact_phone: z.string(),
   website_url: z.string(),
-  assigned_to: z.union([
-    z.literal("null"),
-    z.string().regex(/^[A-Za-z0-9]{20}$/),
-  ]),
+  assigned_to: z.union([z.string(), z.null()]).optional(),
 });
 
 type LogResult = "ok" | "skipped" | "failed";
@@ -159,6 +160,9 @@ export async function POST(req: NextRequest) {
   }
 
   const assignedTo = normalizeGhlNullable(payload.assigned_to);
+  if (assignedTo === null) {
+    console.log(`[ghl-webhook] assigned_to_unassigned opp=${payload.opportunity_id} raw=${JSON.stringify(payload.assigned_to)}`);
+  }
   const websiteUrl = normalizeGhlNullable(payload.website_url);
 
   const newProject: Project = {
@@ -171,6 +175,22 @@ export async function POST(req: NextRequest) {
     am_ghl_user_id: assignedTo,
     website_url: websiteUrl,
   };
+
+  // Test-mode short-circuit: used by this route's own unit tests to
+  // verify payload validation + assigned_to normalization without
+  // touching GitHub (manifest commit) or the onboarding repo
+  // (Supabase session POST). NEVER set GHL_RECEIVER_TEST_MODE=1 in
+  // production env — it skips all side effects.
+  if (process.env.GHL_RECEIVER_TEST_MODE === "1") {
+    return Response.json({
+      ok: true,
+      opportunity_id: payload.opportunity_id,
+      manifest_blob_sha: "TEST_MODE_NO_COMMIT",
+      supabase_session_id: "TEST_MODE_NO_SESSION",
+      assigned_to_normalized: assignedTo,
+      test_mode: true,
+    });
+  }
 
   // ── Idempotency + manifest write ────────────────────────────
   let manifestSha: string;
