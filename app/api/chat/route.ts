@@ -1,4 +1,4 @@
-import { NextResponse } from "next/server";
+import { NextRequest, NextResponse } from "next/server";
 import Anthropic from "@anthropic-ai/sdk";
 import { loadClientTodos } from "../../lib/dashboard-data";
 import { loadGscData, loadGa4Data } from "../../lib/google-data";
@@ -6,6 +6,8 @@ import { getBrightLocalSummary } from "../../lib/brightlocal-data";
 import { getOnboardingByWorkbookId } from "../../lib/onboarding/get-by-workbook-id";
 import { SECTION_CONFIGS } from "../../lib/onboarding/field-config";
 import projects from "../../data/projects.json";
+import { requireRole } from "../../lib/require-role";
+import { logAuthAudit } from "../../lib/auth-audit";
 
 const anthropic = new Anthropic();
 const MODEL = "claude-sonnet-4-20250514";
@@ -726,7 +728,16 @@ interface IncomingMessage {
   content: string;
 }
 
-export async function POST(request: Request) {
+export async function POST(request: NextRequest) {
+  const auth = requireRole(request, "admin", "/api/chat");
+  if (!auth.ok) {
+    logAuthAudit(auth.audit);
+    return NextResponse.json(
+      { ok: false, reason: auth.reason },
+      { status: auth.status },
+    );
+  }
+
   try {
     const { projectId, messages } = (await request.json()) as {
       projectId: string;

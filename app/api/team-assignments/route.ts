@@ -1,20 +1,16 @@
 import { NextRequest, NextResponse } from "next/server";
-import { createHash } from "crypto";
 import { put, list } from "@vercel/blob";
 import defaultData from "../../data/team-assignments.json";
+import { requireRole } from "../../lib/require-role";
+import { logAuthAudit } from "../../lib/auth-audit";
 
 const BLOB_KEY = "team-assignments.json";
 
-function validateToken(token: string | null): boolean {
-  if (!token) return false;
-  const correct = process.env.ADMIN_PASSWORD || "clixsy2024";
-  const secret =
-    process.env.ADMIN_SESSION_SECRET || "clixsy-admin-default-secret";
-  const expected = createHash("sha256")
-    .update(`${correct}:${secret}`)
-    .digest("hex");
-  return token === expected;
-}
+// Phase 1 PR C: this file used to carry an inline `validateToken`
+// duplicating the sha256(ADMIN_PASSWORD:ADMIN_SESSION_SECRET) dance
+// from app/lib/admin-auth.ts. requireRole now wraps that helper for
+// the password-fallback path AND adds app_session support, so the
+// inline copy is gone. PUT below calls requireRole('admin').
 
 /**
  * Load assignments: try Vercel Blob first, fall back to the bundled JSON.
@@ -63,11 +59,13 @@ export async function GET() {
  * returns an error instructing the admin to configure Blob storage.
  */
 export async function PUT(req: NextRequest) {
-  const authHeader = req.headers.get("authorization");
-  const token = authHeader?.replace("Bearer ", "") || null;
-
-  if (!validateToken(token)) {
-    return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  const auth = requireRole(req, "admin", "/api/team-assignments");
+  if (!auth.ok) {
+    logAuthAudit(auth.audit);
+    return NextResponse.json(
+      { ok: false, reason: auth.reason },
+      { status: auth.status },
+    );
   }
 
   try {

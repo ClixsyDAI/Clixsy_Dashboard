@@ -1,12 +1,26 @@
-import { NextResponse } from "next/server";
+import { NextRequest, NextResponse } from "next/server";
 import { listGscProperties, listGa4Properties } from "../../../lib/google";
+import { requireRole } from "../../../lib/require-role";
+import { logAuthAudit } from "../../../lib/auth-audit";
 
 /**
  * GET /api/google/discover
  * Lists all GSC and GA4 properties accessible to tempclixsyreports@gmail.com.
  * Used to build the client-to-property mapping.
+ *
+ * Auth: requireRole('admin') added in PR C as defence-in-depth.
+ * Previously proxy-gate-only.
  */
-export async function GET() {
+export async function GET(req: NextRequest) {
+  const auth = requireRole(req, "admin", "/api/google/discover");
+  if (!auth.ok) {
+    logAuthAudit(auth.audit);
+    return NextResponse.json(
+      { ok: false, reason: auth.reason },
+      { status: auth.status },
+    );
+  }
+
   const result: {
     gsc: { count: number; properties: unknown[]; error?: string };
     ga4: { count: number; properties: unknown[]; error?: string };

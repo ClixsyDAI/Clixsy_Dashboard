@@ -9,14 +9,19 @@
 // so the /client/[id] page can call the same code path without
 // HTTP-round-tripping through this route.
 //
-// Auth posture (discovery-notes.md §5 Q2): inherits the workbook's
-// existing "internal pages have no gate" posture. Any request that
-// can reach `/client/[id]` can reach this route. The service role
-// key is consumed via app/lib/supabase-server.ts and never leaves
-// the server.
+// Auth posture: PR C added `requireRole('viewer')` defence-in-depth.
+// Previously this route was proxy-gate-only ("internal pages have no
+// gate" per discovery-notes.md §5 Q2). After PR C, the route also
+// verifies an app_session cookie OR admin_token bearer in-handler so
+// a misconfigured matcher (operations-notes §6c) can't expose the
+// onboarding payload. Viewer rank is the floor — anyone with workbook
+// access should be able to read /client/[id]. The service role key is
+// consumed via app/lib/supabase-server.ts and never leaves the server.
 
-import { NextResponse } from "next/server";
+import { NextRequest, NextResponse } from "next/server";
 import { getOnboardingByWorkbookId } from "../../../../lib/onboarding/get-by-workbook-id";
+import { requireRole } from "../../../../lib/require-role";
+import { logAuthAudit } from "../../../../lib/auth-audit";
 
 // Use the Node.js runtime; the underlying server module uses
 // `import "server-only"` which is Node-only.
@@ -29,7 +34,16 @@ interface RouteContext {
   params: Promise<{ id: string }>;
 }
 
-export async function GET(_req: Request, ctx: RouteContext) {
+export async function GET(req: NextRequest, ctx: RouteContext) {
+  const auth = requireRole(req, "viewer", "/api/onboarding/by-workbook-id/[id]");
+  if (!auth.ok) {
+    logAuthAudit(auth.audit);
+    return NextResponse.json(
+      { ok: false, reason: auth.reason },
+      { status: auth.status },
+    );
+  }
+
   const { id: rawId } = await ctx.params;
   const result = await getOnboardingByWorkbookId(rawId);
 

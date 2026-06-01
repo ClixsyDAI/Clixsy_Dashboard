@@ -40,7 +40,8 @@
 import { NextRequest, NextResponse } from "next/server";
 import { after } from "next/server";
 import { z } from "zod";
-import { validateAdminToken } from "../../../lib/admin-auth";
+import { requireRole } from "../../../lib/require-role";
+import { logAuthAudit } from "../../../lib/auth-audit";
 import {
   lookupFieldConfig,
   validateFieldValue,
@@ -74,10 +75,11 @@ const ACTOR_LABEL = "Workbook (Admin)";
 
 export async function POST(req: NextRequest) {
   // ── 1. Auth ───────────────────────────────────────────────
-  const auth = validateAdminToken(req);
+  const auth = requireRole(req, "admin", "/api/onboarding/field-edits");
   if (!auth.ok) {
+    logAuthAudit(auth.audit);
     return NextResponse.json(
-      { ok: false, error: auth.error },
+      { ok: false, reason: auth.reason },
       { status: auth.status },
     );
   }

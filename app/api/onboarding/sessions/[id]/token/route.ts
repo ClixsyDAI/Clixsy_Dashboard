@@ -70,7 +70,8 @@
 import { NextRequest, NextResponse, after } from "next/server";
 import { z } from "zod";
 import { getSupabaseServerClient } from "../../../../../lib/supabase-server";
-import { validateAdminToken } from "../../../../../lib/admin-auth";
+import { requireRole } from "../../../../../lib/require-role";
+import { logAuthAudit } from "../../../../../lib/auth-audit";
 
 const ACTOR_LABEL = "Workbook (Admin)";
 
@@ -88,11 +89,16 @@ export async function POST(
   req: NextRequest,
   { params }: { params: Promise<{ id: string }> },
 ) {
-  // 1. Bearer auth (proxy cookie gate already passed).
-  const auth = validateAdminToken(req);
+  // 1. Auth (proxy cookie gate already passed).
+  const auth = requireRole(
+    req,
+    "admin",
+    "/api/onboarding/sessions/[id]/token",
+  );
   if (!auth.ok) {
+    logAuthAudit(auth.audit);
     return NextResponse.json(
-      { error: auth.error },
+      { ok: false, reason: auth.reason },
       { status: auth.status },
     );
   }
