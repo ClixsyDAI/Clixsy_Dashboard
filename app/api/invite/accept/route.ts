@@ -118,7 +118,22 @@ export async function POST(req: NextRequest) {
     );
   }
 
-  // 3. Validate body.
+  // 3. Verify Supabase session for the invitee. The sb-* cookies were
+  //    set by the invitee's Google OAuth flow before they hit this
+  //    endpoint. This runs BEFORE body validation so unauthenticated
+  //    callers get 401 supabase_session_required without first
+  //    revealing the required field name via 400 validation_failed.
+  const supabaseSSR = await getSupabaseSSRClient();
+  const { data: userData, error: userError } = await supabaseSSR.auth.getUser();
+  if (userError || !userData.user || !userData.user.email) {
+    return NextResponse.json(
+      { ok: false, reason: "supabase_session_required" },
+      { status: 401 },
+    );
+  }
+  const authenticatedEmail = userData.user.email.toLowerCase();
+
+  // 4. Validate body.
   let body: unknown;
   try {
     body = await req.json();
@@ -153,19 +168,6 @@ export async function POST(req: NextRequest) {
       { status: 400 },
     );
   }
-
-  // 4. Verify Supabase session for the invitee. The sb-* cookies were
-  //    set by the invitee's Google OAuth flow before they hit this
-  //    endpoint.
-  const supabaseSSR = await getSupabaseSSRClient();
-  const { data: userData, error: userError } = await supabaseSSR.auth.getUser();
-  if (userError || !userData.user || !userData.user.email) {
-    return NextResponse.json(
-      { ok: false, reason: "supabase_session_required" },
-      { status: 401 },
-    );
-  }
-  const authenticatedEmail = userData.user.email.toLowerCase();
 
   // 5. Compute sha256(plaintext) and call the RPC. The RPC enforces
   //    the email-match guard as defense-in-depth; we ALSO enforce
