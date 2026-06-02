@@ -89,22 +89,32 @@ const FUTURE = NOW + 60 * 60 * 24 * 7;
 const PAST = NOW - 60;
 
 /**
- * Default test fixture: app_users row exists with session_version=0
+ * Default test fixture: app_users row exists with session_version=N
  * for every queried email. Individual tests override.
+ *
+ * Returns the SessionVersionLookup discriminated union shape PR D-1
+ * introduced (cache_hit always false in test fixtures).
  */
 function stubAllUsersAtSessionVersion(version: number) {
-  _setReadCurrentSessionVersionForTests(async () => version);
+  _setReadCurrentSessionVersionForTests(async () => ({
+    ok: true,
+    session_version: version,
+    cache_hit: false,
+  }));
 }
 
 function stubUserNotFound() {
-  _setReadCurrentSessionVersionForTests(async () => null);
+  _setReadCurrentSessionVersionForTests(async () => ({
+    ok: false,
+    reason: "user_not_in_app_users",
+  }));
 }
 
-function stubSessionVersionByEmail(map: Record<string, number | null>) {
-  _setReadCurrentSessionVersionForTests(async (email) => {
-    if (Object.prototype.hasOwnProperty.call(map, email)) return map[email];
-    return 0;
-  });
+function stubTransientSupabaseError() {
+  _setReadCurrentSessionVersionForTests(async () => ({
+    ok: false,
+    reason: "transient_error",
+  }));
 }
 
 beforeEach(() => {
@@ -297,6 +307,28 @@ describe("requireRole — session_version mismatch (PR D-0)", () => {
     const r = await requireRole(req as never, "admin", "/api/admin/clients");
     assert.equal(r.ok, true);
     if (r.ok) assert.equal(r.ctx.session_version, 5);
+  });
+});
+
+describe("requireRole — transient Supabase error (PR D-1)", () => {
+  it("rejects 503 service_unavailable when cache miss + Supabase unreachable", async () => {
+    stubTransientSupabaseError();
+    const token = mintTestSession({
+      email: "alice@clixsy.com",
+      role: "admin",
+      iat: NOW,
+      exp: FUTURE,
+      session_version: 0,
+    });
+    const req = makeReq({ cookies: { [APP_SESSION_COOKIE_NAME]: token } });
+    const r = await requireRole(req as never, "viewer", "/api/admin/clients");
+    assert.equal(r.ok, false);
+    if (!r.ok) {
+      assert.equal(r.status, 503);
+      assert.equal(r.reason, "service_unavailable");
+      const payload = r.audit.payload as Record<string, unknown>;
+      assert.equal(payload.reason, "transient_error");
+    }
   });
 });
 
