@@ -16,6 +16,7 @@ import { validateReturnPath } from "../lib/return-url";
 import { formatClientDisplayName, type Project } from "../lib/projects";
 import { useAdminAuth } from "../lib/use-admin-auth";
 import { getSupabaseBrowserClient } from "../lib/supabase-browser";
+import { UsersTab } from "@/app/components/admin/UsersTab";
 
 /* ── Types ──────────────────────────────────────────────── */
 interface TeamData {
@@ -357,10 +358,41 @@ function GoogleGlyph() {
 }
 
 /* ── Admin Dashboard ────────────────────────────────────── */
-type AdminTab = "team" | "clients";
+type AdminTab = "team" | "clients" | "users";
+
+type AdminActor = { email: string; role: "super_admin" | "admin" | "viewer" };
 
 function AdminDashboard({ token }: { token: string }) {
   const [tab, setTab] = useState<AdminTab>("team");
+  // Actor identity (email + role) for the UsersTab super_admin gate.
+  // Sourced from /api/admin/auth/session which reads the app_session
+  // cookie set by the OAuth callback. Password-only sign-ins (no
+  // app_session) leave this null — UsersTab's own gate then hides
+  // the UI defensively, and the TabButton stays hidden.
+  const [actor, setActor] = useState<AdminActor | null>(null);
+  useEffect(() => {
+    let cancelled = false;
+    (async () => {
+      try {
+        const res = await fetch("/api/admin/auth/session", {
+          credentials: "same-origin",
+        });
+        if (cancelled || !res.ok) return;
+        const data = (await res.json()) as {
+          email?: string;
+          role?: AdminActor["role"];
+        };
+        if (!cancelled && data.email && data.role) {
+          setActor({ email: data.email, role: data.role });
+        }
+      } catch {
+        // Silent — UsersTab and its TabButton stay hidden.
+      }
+    })();
+    return () => {
+      cancelled = true;
+    };
+  }, []);
   const [projects, setProjects] = useState<Project[]>([]);
   const [teamData, setTeamData] = useState<TeamData | null>(null);
   const [dirty, setDirty] = useState(false);
@@ -575,6 +607,13 @@ function AdminDashboard({ token }: { token: string }) {
             active={tab === "clients"}
             onClick={() => setTab("clients")}
           />
+          {actor?.role === "super_admin" && (
+            <TabButton
+              label="USERS"
+              active={tab === "users"}
+              onClick={() => setTab("users")}
+            />
+          )}
         </nav>
 
         {tab === "clients" && (
@@ -582,6 +621,10 @@ function AdminDashboard({ token }: { token: string }) {
             projects={projects}
             setProjects={setProjects}
           />
+        )}
+
+        {tab === "users" && actor && (
+          <UsersTab actor={{ email: actor.email, role: actor.role }} />
         )}
 
         {tab === "team" && (
