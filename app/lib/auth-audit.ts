@@ -40,6 +40,8 @@ export type AuthAuditEventType =
   | "user_enabled"
   | "access_request_approved"
   | "access_request_denied"
+  // PR D-2: emitted by add_user_by_email RPC on successful INSERT.
+  | "user_added_via_allowlist"
   // PR D-1: catch-all for rejection branches inside mutation RPCs. The
   // payload's `reason` field uses the AdminActionRejectedReason enum
   // below; the payload's `rpc` field names the RPC the rejection came

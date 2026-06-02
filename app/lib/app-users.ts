@@ -331,6 +331,39 @@ export async function enableUser(args: {
 }
 
 // =============================================================
+// add_user_by_email
+// =============================================================
+
+export async function addUserByEmail(args: {
+  targetEmail: string;
+  role: Role;
+  actorEmail: string;
+  actorSessionVersion: number;
+  requestMetadata: Record<string, unknown>;
+}): Promise<RpcResult<{ email: string; role: Role }>> {
+  try {
+    const supabase = getSupabaseServerClient();
+    const { data, error } = await supabase.rpc("add_user_by_email", {
+      p_target_email: args.targetEmail,
+      p_role: args.role,
+      p_actor_email: args.actorEmail,
+      p_actor_session_version: args.actorSessionVersion,
+      p_request_metadata: args.requestMetadata,
+    });
+    if (error) {
+      console.warn(`[app-users] add_user_by_email rpc error: ${error.message}`);
+      return transientError();
+    }
+    const result = asRpcResult<{ email: string; role: Role }>(data);
+    return result ?? transientError();
+  } catch (err) {
+    const message = err instanceof Error ? err.message : String(err);
+    console.warn(`[app-users] add_user_by_email threw: ${message}`);
+    return transientError();
+  }
+}
+
+// =============================================================
 // Read paths (no RPC wrapper — direct supabase queries from routes)
 // =============================================================
 
