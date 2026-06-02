@@ -119,3 +119,22 @@ export async function upsertEnvVar(
   }
 }
 
+/** Store Basecamp tokens as Vercel env vars.
+ *
+ * Writes BASECAMP_ACCESS_TOKEN and BASECAMP_REFRESH_TOKEN to all three
+ * Vercel targets (production, preview, development) via upsertEnvVar so
+ * the OAuth callback and any later token-refresh keep all environments
+ * in sync. Targets are passed explicitly here instead of relying on the
+ * upsertEnvVar default to make the intent visible at the call site —
+ * the basecamp-ingest-rebuild flow needs both new and refreshed tokens
+ * applied everywhere, not just one target.
+ */
+export async function storeBasecampTokens(
+  accessToken: string,
+  refreshToken: string
+): Promise<void> {
+  const targets = ["production", "preview", "development"];
+  await upsertEnvVar("BASECAMP_ACCESS_TOKEN", accessToken, targets);
+  await upsertEnvVar("BASECAMP_REFRESH_TOKEN", refreshToken, targets);
+}
+
