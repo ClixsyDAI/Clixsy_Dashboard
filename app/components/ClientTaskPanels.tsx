@@ -485,19 +485,20 @@ export default function ClientTaskPanels({
 
       // Try to read the body whether or not the status is 2xx — the
       // API returns a structured { ok, reason } even on 4xx/5xx.
-      let json: {
+      type RefreshResponse = {
         ok?: boolean;
         reason?: string;
         todos?: Todo[];
         status?: string;
-      } | null = null;
+      };
+      let json: RefreshResponse | null = null;
       try {
-        json = (await res.json()) as typeof json;
+        json = (await res.json()) as RefreshResponse;
       } catch {
         json = null;
       }
 
-      if (!res.ok || !json || json.ok !== true) {
+      if (!res.ok || json === null || json.ok !== true) {
         const reason = json?.reason ?? `HTTP ${res.status}`;
         setRefreshState({ kind: "error", message: prettifyReason(reason) });
         return;
