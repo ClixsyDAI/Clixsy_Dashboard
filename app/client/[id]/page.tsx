@@ -184,7 +184,7 @@ export default async function ClientDashboard({ params }: PageProps) {
   // data OR an onboarding session. Onboarding tab is gated on a Supabase
   // session existing for this workbook id.
   const tabs = [
-    ...(data ? [{ id: "overview", label: "Overview" }] : []),
+    { id: "overview", label: "Overview" },
     ...(gscData || ga4Data
       ? [{ id: "search", label: "Search Performance" }]
       : []),
@@ -195,18 +195,14 @@ export default async function ClientDashboard({ params }: PageProps) {
     // Content pulls from the Google Sheet via /api/content keyed on
     // client name — always available, the component handles empty state.
     { id: "content", label: "Content" },
-    ...(data
-      ? [
-          {
-            id: "internal",
-            label: "Internal Use",
-            children: [
-              { id: "report", label: "Report" },
-              { id: "project-log", label: "Project Log" },
-            ],
-          },
-        ]
-      : []),
+    {
+      id: "internal",
+      label: "Internal Use",
+      children: [
+        { id: "report", label: "Report" },
+        { id: "project-log", label: "Project Log" },
+      ],
+    },
     // Phase 1: ONBOARDING tab, gated on a Supabase session existing for
     // this workbook id. Placed to the right of Internal Use per the spec.
     ...(hasOnboardingSession ? [{ id: "onboarding", label: "Onboarding" }] : []),
@@ -328,24 +324,22 @@ export default async function ClientDashboard({ params }: PageProps) {
                 re-renders with live data. The ContentPipelineOverview
                 snapshot stays server-rendered above because it pulls
                 from a separate Google Sheet, not Basecamp. */}
-            {data && (
-              <div>
-                <ContentPipelineOverview projectId={id} clientName={project.name} />
-                <ClientTaskPanels
-                  section="overview"
-                  clientId={id}
-                  projectName={project.name}
-                  projectDescription={project.description ?? null}
-                  initialTodos={todos}
-                  initialData={data}
-                  taskSummariesCache={taskSummariesCache}
-                  overviewWins={overviewWins}
-                  gscData={gscData}
-                  ga4Data={ga4Data}
-                  blData={blData}
-                />
-              </div>
-            )}
+            <div>
+              <ContentPipelineOverview projectId={id} clientName={project.name} />
+              <ClientTaskPanels
+                section="overview"
+                clientId={id}
+                projectName={project.name}
+                projectDescription={project.description ?? null}
+                initialTodos={todos}
+                initialData={data}
+                taskSummariesCache={taskSummariesCache}
+                overviewWins={overviewWins}
+                gscData={gscData}
+                ga4Data={ga4Data}
+                blData={blData}
+              />
+            </div>
 
             {/* ── TAB: SEARCH PERFORMANCE (gated on GSC or GA4 data) ─ */}
             {(gscData || ga4Data) && (
@@ -390,44 +384,40 @@ export default async function ClientDashboard({ params }: PageProps) {
             {/* Phase 5: AISummaryTab moved into ClientTaskPanels so the
                 strip can re-fetch todos and the body sees the fresh list
                 without a full page reload. */}
-            {data && (
-              <div>
-                <ClientTaskPanels
-                  section="internal-report"
-                  clientId={id}
-                  projectName={project.name}
-                  projectDescription={project.description ?? null}
-                  initialTodos={todos}
-                  initialData={data}
-                  taskSummariesCache={taskSummariesCache}
-                  overviewWins={overviewWins}
-                  gscData={gscData}
-                  ga4Data={ga4Data}
-                  blData={blData}
-                />
-              </div>
-            )}
+            <div>
+              <ClientTaskPanels
+                section="internal-report"
+                clientId={id}
+                projectName={project.name}
+                projectDescription={project.description ?? null}
+                initialTodos={todos}
+                initialData={data}
+                taskSummariesCache={taskSummariesCache}
+                overviewWins={overviewWins}
+                gscData={gscData}
+                ga4Data={ga4Data}
+                blData={blData}
+              />
+            </div>
 
             {/* ── TAB: INTERNAL USE → PROJECT LOG (gated on task data) ─ */}
             {/* Phase 5: ProjectLogTable moved into ClientTaskPanels for
                 the same reason as the Report sibling. */}
-            {data && (
-              <div>
-                <ClientTaskPanels
-                  section="internal-project-log"
-                  clientId={id}
-                  projectName={project.name}
-                  projectDescription={project.description ?? null}
-                  initialTodos={todos}
-                  initialData={data}
-                  taskSummariesCache={taskSummariesCache}
-                  overviewWins={overviewWins}
-                  gscData={gscData}
-                  ga4Data={ga4Data}
-                  blData={blData}
-                />
-              </div>
-            )}
+            <div>
+              <ClientTaskPanels
+                section="internal-project-log"
+                clientId={id}
+                projectName={project.name}
+                projectDescription={project.description ?? null}
+                initialTodos={todos}
+                initialData={data}
+                taskSummariesCache={taskSummariesCache}
+                overviewWins={overviewWins}
+                gscData={gscData}
+                ga4Data={ga4Data}
+                blData={blData}
+              />
+            </div>
 
             {/* ── TAB: ONBOARDING (Phase 2 — reminder strip + action bar) ──── */}
             {onboardingPayload && (
