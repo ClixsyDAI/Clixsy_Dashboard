@@ -45,8 +45,13 @@ const BodySchema = z.discriminatedUnion("mode", [
   z.object({
     mode: z.literal("all"),
     all: z.literal(true),
+    offset: z.number().int().min(0).optional(),
+    limit: z.number().int().min(1).max(50).optional(),
   }),
 ]);
+
+// Vercel gateway times out at ~60s. 10 clients × ~5 Basecamp GETs × ~150ms + per-call delay ≈ 12-18s per batch — comfortable margin.
+const ALL_MODE_DEFAULT_LIMIT = 10;
 
 // Accept the spec's shape — { clientId } OR { all: true } — by
 // pre-tagging the parsed body with a discriminator before handing
@@ -59,7 +64,10 @@ function tagBody(raw: unknown): unknown {
       return { mode: "single", clientId: obj.clientId };
     }
     if (obj.all === true) {
-      return { mode: "all", all: true };
+      const tagged: Record<string, unknown> = { mode: "all", all: true };
+      if (typeof obj.offset === "number") tagged.offset = obj.offset;
+      if (typeof obj.limit === "number") tagged.limit = obj.limit;
+      return tagged;
     }
   }
   return raw;
@@ -212,10 +220,13 @@ export const POST = withAdminAuth(
     }
 
     // ----- ALL MODE -----
-    let manifest: Array<{ id: string }>;
+    let manifest: Array<{ id: string; name?: string }>;
     try {
       const path = join(process.cwd(), "app", "data", "projects.json");
-      manifest = JSON.parse(readFileSync(path, "utf-8")) as Array<{ id: string }>;
+      manifest = JSON.parse(readFileSync(path, "utf-8")) as Array<{
+        id: string;
+        name?: string;
+      }>;
     } catch (err) {
       const message = err instanceof Error ? err.message : String(err);
       return NextResponse.json(
@@ -224,22 +235,63 @@ export const POST = withAdminAuth(
       );
     }
 
-    const results: Array<Omit<SyncResult, "todos">> = [];
-    for (const project of manifest) {
+    const offset = parse.data.offset ?? 0;
+    const limit = parse.data.limit ?? ALL_MODE_DEFAULT_LIMIT;
+    const slice = manifest.slice(offset, offset + limit);
+
+    type AllModeRow = {
+      clientId: string;
+      name: string;
+      status: "synced" | "skipped" | "failed";
+      todoCount?: number;
+      reason?: string;
+      error?: string;
+    };
+
+    const results: AllModeRow[] = [];
+    for (const project of slice) {
       const clientId = String(project.id);
+      const name = typeof project.name === "string" ? project.name : "";
       const result = await runSync(clientId);
-      // Strip the heavy todos[] payload from all-mode results.
+
       if (result.status === "ok") {
-        const { todos: _todos, ...rest } = result;
-        results.push(rest);
+        results.push({
+          clientId,
+          name,
+          status: "synced",
+          todoCount: result.todoCount,
+        });
+      } else if (result.status === "skipped") {
+        results.push({
+          clientId,
+          name,
+          status: "skipped",
+          reason: result.reason,
+        });
       } else {
-        results.push(result);
+        results.push({
+          clientId,
+          name,
+          status: "failed",
+          error: result.error,
+        });
       }
       // Polite delay between Basecamp calls to keep us well under
       // the 50 req / 10 s rate budget.
       await sleep(150);
     }
 
-    return NextResponse.json({ ok: true, results });
+    const nextOffset = offset + slice.length;
+    const done = nextOffset >= manifest.length;
+
+    return NextResponse.json({
+      ok: true,
+      results,
+      offset,
+      limit,
+      nextOffset,
+      done,
+      totalClients: manifest.length,
+    });
   }
 );
