@@ -205,15 +205,37 @@ export function loadClientVisibleTodos(projectId: string): Todo[] | null {
   return visible.length > 0 ? visible : all;
 }
 
-export function getDashboardData(
-  projectId: string,
-  clientName: string,
-  options: { clientVisibleOnly?: boolean } = {}
-) {
-  const todos = options.clientVisibleOnly
-    ? loadClientVisibleTodos(projectId)
-    : loadClientTodos(projectId);
+export interface DashboardData {
+  clientName: string;
+  periodStart: string;
+  periodEnd: string;
+  lastRefreshed: string;
+  total: number;
+  completedCount: number;
+  outstandingCount: number;
+  completionRate: number;
+  periodCompletedCount: number;
+  last10Updated: Array<{
+    id: number;
+    title: string;
+    description: string;
+    list_title: string;
+    completed: boolean;
+    updated_at: string;
+    app_url: string;
+  }>;
+  topCommented: Array<Todo>;
+  topImpact: Array<ScoredTodo>;
+  uniqueLists: number;
+  categoryData: CategoryData[];
+  commentData: CommentData[];
+  timelineData: TimelineData[];
+}
 
+export function computeDashboardData(
+  todos: Todo[] | null,
+  clientName: string
+): DashboardData | null {
   if (!todos || todos.length === 0) {
     return null;
   }
@@ -376,4 +398,15 @@ export function getDashboardData(
     commentData,
     timelineData,
   };
+}
+
+export function getDashboardData(
+  projectId: string,
+  clientName: string,
+  options: { clientVisibleOnly?: boolean } = {}
+): DashboardData | null {
+  const todos = options.clientVisibleOnly
+    ? loadClientVisibleTodos(projectId)
+    : loadClientTodos(projectId);
+  return computeDashboardData(todos, clientName);
 }

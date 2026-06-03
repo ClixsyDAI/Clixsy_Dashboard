@@ -21,7 +21,8 @@ import { getSupabaseServerClient } from "./supabase-server";
 export type ActionClass =
   | "users_mutation"
   | "access_request"
-  | "invite_acceptance";
+  | "invite_acceptance"
+  | "basecamp_refresh";
 
 const LIMIT_PER_MINUTE = 30;
 
