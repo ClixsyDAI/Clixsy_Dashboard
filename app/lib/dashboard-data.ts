@@ -163,7 +163,15 @@ function computeImpactScore(todo: Todo): { score: number; rationale: string } {
 }
 
 function cleanListTitle(title: string): string {
-  return title
+  // Grouped todos arrive as "ParentListTitle › GroupTitle" (see
+  // basecamp.ts → fetchTodosWithGroups). For category bucketing we
+  // want the group label (e.g. "ONBOARDING") not the parent master
+  // list label ("1. SEO PROJECT SETUP (Legal)"). Take the last
+  // segment when the separator is present; flat (ungrouped) titles
+  // pass through unchanged.
+  const segments = title.split(" › ");
+  const base = segments[segments.length - 1];
+  return base
     .replace(/:$/, "")
     .trim()
     .replace(/^5\.\s*/, "");
