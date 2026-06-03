@@ -301,7 +301,15 @@ export function computeDashboardData(
     { completed: number; outstanding: number }
   >();
   todos.forEach((t) => {
-    const cat = cleanListTitle(t.list_title);
+    // Grouped todos arrive as "ParentListTitle › GroupTitle" (from
+    // basecamp.ts fetchTodosWithGroups). For category bucketing we want
+    // to pivot on the group label so TasksByCategory bars read like the
+    // Basecamp section headers (ONBOARDING, TECHNICAL SETUP, ...). Take
+    // the last segment of the concat for the bucket key; flat
+    // (ungrouped) titles pass through unchanged.
+    const segments = t.list_title.split(" › ");
+    const bucketRaw = segments[segments.length - 1];
+    const cat = cleanListTitle(bucketRaw);
     if (!categoryMap.has(cat)) {
       categoryMap.set(cat, { completed: 0, outstanding: 0 });
     }

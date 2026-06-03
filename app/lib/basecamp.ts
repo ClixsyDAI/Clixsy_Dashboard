@@ -19,6 +19,7 @@ export interface BasecampTodoList {
   id: number;
   title: string;
   todos_url: string;
+  groups_url: string;   // NEW — Basecamp always emits this; we now follow it for nested groups
   app_url: string;
 }
 
@@ -324,6 +325,64 @@ export async function fetchTodos(
   return [...activeTodos, ...completedTodos];
 }
 
+/**
+ * Fetch todos for a todolist, INCLUDING any todos nested in groups beneath it.
+ *
+ * Basecamp 3 todolists can host:
+ *   1. Flat todos directly (reachable via /todolists/{id}/todos.json)
+ *   2. Groups (sub-lists) — each group is itself a todolist-shaped resource
+ *      with its own todos_url. Reachable via /todolists/{id}/groups.json.
+ *
+ * The legacy syncProject path walked only (1). Clients using Basecamp's
+ * "group" feature to organize a master list by phase (e.g. ONBOARDING /
+ * TECH SETUP / SEO SETUP) had ALL their todos behind (2), invisible.
+ *
+ * This helper handles both. list_title for grouped todos is concatenated
+ * as "ParentListTitle › GroupTitle" (separator: " › " with surrounding
+ * spaces); flat todos retain the bare parent title for byte-for-byte
+ * backwards compatibility.
+ *
+ * One extra GET per list (groups_url) is incurred even when no groups
+ * exist. Basecamp returns [] for ungrouped lists — flat-organized
+ * clients (e.g. Fielding, Mike Morse) see no per-todo behavior change,
+ * only the extra empty-groups GETs.
+ *
+ * No recursion into nested groups (groups within groups). Basecamp
+ * supports it; no evidence of usage in this account.
+ */
+export async function fetchTodosWithGroups(
+  projectId: number | string,
+  list: BasecampTodoList,
+  accessToken: string,
+): Promise<FormattedTodo[]> {
+  // 1. Flat todos on the parent list (existing behavior).
+  const flatTodos = await fetchTodos(projectId, list.id, accessToken);
+  const out: FormattedTodo[] = flatTodos.map((t) => formatTodo(t, list.title));
+
+  // 2. Walk groups_url. Basecamp returns [] for ungrouped lists.
+  let groups: BasecampTodoList[];
+  try {
+    groups = await basecampFetch<BasecampTodoList>(list.groups_url, accessToken);
+  } catch (err) {
+    // If the groups fetch fails for a single list, log + continue with
+    // flat-only results so one bad list doesn't kill the whole sync.
+    console.warn(
+      `[basecamp] groups_url fetch failed for list ${list.id} (${list.title}):`,
+      err instanceof Error ? err.message : err,
+    );
+    return out;
+  }
+
+  for (const group of groups) {
+    const groupTodos = await fetchTodos(projectId, group.id, accessToken);
+    const concatTitle = `${list.title} › ${group.title}`;
+    for (const t of groupTodos) {
+      out.push(formatTodo(t, concatTitle));
+    }
+  }
+  return out;
+}
+
 /** Format a raw Basecamp todo into our app's format */
 function formatTodo(todo: BasecampTodo, listTitle: string): FormattedTodo {
   return {
@@ -371,8 +430,7 @@ export async function syncProject(
     const batch = todoLists.slice(i, i + batchSize);
     const batchResults = await Promise.all(
       batch.map(async (list) => {
-        const todos = await fetchTodos(projectId, list.id, accessToken);
-        return todos.map((todo) => formatTodo(todo, list.title));
+        return fetchTodosWithGroups(projectId, list, accessToken);
       })
     );
     for (const results of batchResults) {
