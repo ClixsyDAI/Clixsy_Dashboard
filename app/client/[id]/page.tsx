@@ -5,18 +5,13 @@ import projects from "../../data/projects.json";
 import { formatClientDisplayName } from "../../lib/projects";
 import { getDashboardData, loadClientTodos } from "../../lib/dashboard-data";
 import { loadGscData, loadGa4Data } from "../../lib/google-data";
-import ClientDashboardCharts from "../../components/ClientDashboardCharts";
 import GoogleSearchCharts from "../../components/GoogleSearchCharts";
 import DashboardTabs from "../../components/DashboardTabs";
-import AISummaryTab from "../../components/AISummaryTab";
 import AskQuestionTab from "../../components/AskQuestionTab";
 import ContentTab from "../../components/ContentTab";
 import ContentPipelineOverview from "../../components/ContentPipelineOverview";
-import ProjectLogTable from "../../components/ProjectLogTable";
 import BrightLocalPanel from "../../components/BrightLocalPanel";
 import { getBrightLocalSummary } from "../../lib/brightlocal-data";
-import OverviewTopWins from "../../components/OverviewTopWins";
-import Last10TasksTable from "../../components/Last10TasksTable";
 import ShareClientUrlButton from "../../components/ShareClientUrlButton";
 import MeetingPrepButton from "../../components/MeetingPrepButton";
 import HealthBadge from "../../components/HealthBadge";
@@ -28,6 +23,7 @@ import { getClientHealthSummary } from "../../lib/client-health-summary";
 import { getClientTeam } from "../../lib/team-assignments";
 import { getOnboardingByWorkbookId } from "../../lib/onboarding/get-by-workbook-id";
 import OnboardingTabBody from "../../components/onboarding/OnboardingTabBody";
+import ClientTaskPanels from "../../components/ClientTaskPanels";
 
 interface PageProps {
   params: Promise<{ id: string }>;
@@ -325,218 +321,30 @@ export default async function ClientDashboard({ params }: PageProps) {
         ) : (
           <DashboardTabs tabs={tabs}>
             {/* ── TAB: OVERVIEW (gated on task data) ─────── */}
+            {/* Phase 5: Task-dependent body delegated to ClientTaskPanels.
+                The page still seeds initialTodos/initialData so the first
+                paint shows the stale JSON immediately; the client
+                component then fires POST /api/basecamp/refresh and
+                re-renders with live data. The ContentPipelineOverview
+                snapshot stays server-rendered above because it pulls
+                from a separate Google Sheet, not Basecamp. */}
             {data && (
-            <div>
-              {/* KPI Cards */}
-              <section className="grid grid-cols-2 gap-4 md:grid-cols-4">
-                <KpiCardServer
-                  value={data.completedCount}
-                  label="COMPLETED TASKS"
+              <div>
+                <ContentPipelineOverview projectId={id} clientName={project.name} />
+                <ClientTaskPanels
+                  section="overview"
+                  clientId={id}
+                  projectName={project.name}
+                  projectDescription={project.description ?? null}
+                  initialTodos={todos}
+                  initialData={data}
+                  taskSummariesCache={taskSummariesCache}
+                  overviewWins={overviewWins}
+                  gscData={gscData}
+                  ga4Data={ga4Data}
+                  blData={blData}
                 />
-                <KpiCardServer
-                  value={data.outstandingCount}
-                  label="OUTSTANDING TASKS"
-                />
-                <KpiCardServer
-                  value={`${data.completionRate}%`}
-                  label="COMPLETION RATE"
-                />
-                <KpiCardServer
-                  value={data.periodCompletedCount}
-                  label="COMPLETED THIS PERIOD"
-                  accent
-                />
-              </section>
-
-              <p
-                className="mt-3 text-center text-xs"
-                style={{ color: "#888888" }}
-              >
-                All-time: {data.completedCount} completed &nbsp;|&nbsp;{" "}
-                {data.outstandingCount} outstanding &nbsp;|&nbsp; {data.total}{" "}
-                total tasks tracked
-              </p>
-
-              {/* Content Pipeline snapshot */}
-              <ContentPipelineOverview projectId={id} clientName={project.name} />
-
-              {/* Charts: Row 1 = TOP WINS + (Donut + Gauge half-width) ;
-                  Row inserted after = Last 10 Tasks Worked On ;
-                  Row 2 = Tasks by Category ; Row 3 = Comments + Timeline */}
-              <ClientDashboardCharts
-                completedCount={data.completedCount}
-                outstandingCount={data.outstandingCount}
-                completionRate={data.completionRate}
-                categoryData={data.categoryData}
-                commentData={data.commentData}
-                timelineData={data.timelineData}
-                topWinsSlot={<OverviewTopWins wins={overviewWins} />}
-                afterRow1={
-                  data.last10Updated && data.last10Updated.length > 0 ? (
-                    <Last10TasksTable
-                      projectId={id}
-                      tasks={data.last10Updated}
-                      initialSummaries={taskSummariesCache}
-                    />
-                  ) : null
-                }
-              />
-
-              {/* Most Discussed Tasks Table */}
-              <section className="mt-12">
-                <SectionHeader title="MOST DISCUSSED TASKS" />
-                <div className="mt-1 overflow-x-auto">
-                  <table className="w-full text-left text-sm">
-                    <thead>
-                      <tr style={{ backgroundColor: "#1a1a1a" }}>
-                        <Th>Task</Th>
-                        <Th>Task List</Th>
-                        <Th>Owner</Th>
-                        <Th className="text-center">Status</Th>
-                        <Th className="text-center">Due Date</Th>
-                        <Th className="text-center">Comments</Th>
-                        <Th className="text-center">Link</Th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      {data.topCommented.map(
-                        (
-                          t: {
-                            id: number;
-                            title: string;
-                            list_title: string;
-                            assignees: string;
-                            completed: boolean;
-                            due_on: string | null;
-                            comments_count: number;
-                            app_url: string;
-                          },
-                          i: number
-                        ) => (
-                          <tr
-                            key={t.id}
-                            style={{
-                              backgroundColor:
-                                i % 2 === 0 ? "#111111" : "#1a1a1a",
-                            }}
-                          >
-                            <Td
-                              className="font-medium"
-                              style={{ color: "#f0ede8" }}
-                            >
-                              {truncate(t.title, 55)}
-                            </Td>
-                            <Td dim>{truncate(t.list_title, 28)}</Td>
-                            <Td dim>{t.assignees}</Td>
-                            <Td className="text-center">
-                              <StatusBadgeInline completed={t.completed} />
-                            </Td>
-                            <Td dim className="text-center">
-                              {t.due_on || "\u2014"}
-                            </Td>
-                            <Td
-                              className="text-center font-bold"
-                              style={{ color: "#c8a882" }}
-                            >
-                              {t.comments_count}
-                            </Td>
-                            <Td className="text-center">
-                              <a
-                                href={t.app_url}
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                className="underline"
-                                style={{ color: "#c8a882" }}
-                              >
-                                View
-                              </a>
-                            </Td>
-                          </tr>
-                        )
-                      )}
-                    </tbody>
-                  </table>
-                </div>
-              </section>
-
-              {/* Highest Impact Tasks Table */}
-              <section className="mt-12">
-                <SectionHeader title="HIGHEST IMPACT TASKS" />
-                <div className="mt-1 overflow-x-auto">
-                  <table className="w-full text-left text-sm">
-                    <thead>
-                      <tr style={{ backgroundColor: "#1a1a1a" }}>
-                        <Th>Task</Th>
-                        <Th className="text-center">Impact</Th>
-                        <Th>Why It Matters</Th>
-                        <Th>Owner</Th>
-                        <Th className="text-center">Status</Th>
-                        <Th className="text-center">Due Date</Th>
-                        <Th className="text-center">Link</Th>
-                      </tr>
-                    </thead>
-                    <tbody>
-                      {data.topImpact.map(
-                        (
-                          t: {
-                            id: number;
-                            title: string;
-                            impact_score: number;
-                            impact_rationale: string;
-                            assignees: string;
-                            completed: boolean;
-                            due_on: string | null;
-                            app_url: string;
-                          },
-                          i: number
-                        ) => (
-                          <tr
-                            key={t.id}
-                            style={{
-                              backgroundColor:
-                                i % 2 === 0 ? "#111111" : "#1a1a1a",
-                            }}
-                          >
-                            <Td
-                              className="font-medium"
-                              style={{ color: "#f0ede8" }}
-                            >
-                              {truncate(t.title, 50)}
-                            </Td>
-                            <Td
-                              className="text-center font-bold"
-                              style={{ color: "#c8a882" }}
-                            >
-                              {t.impact_score}
-                            </Td>
-                            <Td dim>{t.impact_rationale}</Td>
-                            <Td dim>{t.assignees}</Td>
-                            <Td className="text-center">
-                              <StatusBadgeInline completed={t.completed} />
-                            </Td>
-                            <Td dim className="text-center">
-                              {t.due_on || "\u2014"}
-                            </Td>
-                            <Td className="text-center">
-                              <a
-                                href={t.app_url}
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                className="underline"
-                                style={{ color: "#c8a882" }}
-                              >
-                                View
-                              </a>
-                            </Td>
-                          </tr>
-                        )
-                      )}
-                    </tbody>
-                  </table>
-                </div>
-              </section>
-            </div>
-
+              </div>
             )}
 
             {/* ── TAB: SEARCH PERFORMANCE (gated on GSC or GA4 data) ─ */}
@@ -579,40 +387,45 @@ export default async function ClientDashboard({ params }: PageProps) {
             </div>
 
             {/* ── TAB: INTERNAL USE → REPORT (AI, gated on Basecamp data) ─ */}
+            {/* Phase 5: AISummaryTab moved into ClientTaskPanels so the
+                strip can re-fetch todos and the body sees the fresh list
+                without a full page reload. */}
             {data && (
               <div>
-                <AISummaryTab
-                projectId={id}
-                projectName={project.name}
-                projectDescription={project.description}
-                todos={todos || []}
-                gscDaily={gscData?.dailyData || null}
-                gscTopQueries={gscData?.topQueries || null}
-                ga4Daily={ga4Data?.dailyData || null}
-                ga4Channels={ga4Data?.channelData || null}
-                ga4OrganicSessions={ga4Data?.totals?.organicSessions ?? null}
-                blLocations={blData?.locationCount ?? null}
-                blRankingsUp={blData?.totalRankingsUp ?? null}
-                blRankingsDown={blData?.totalRankingsDown ?? null}
-                blAvgGoogleRank={blData?.avgGoogleRank ?? null}
-                blCitations={blData?.totalCitations ?? null}
-                blReviewRating={blData?.reviewRating ?? null}
-                blTotalReviews={blData?.totalReviews ?? null}
-                blGmbCalls={blData?.totalGmbCalls ?? null}
-              />
+                <ClientTaskPanels
+                  section="internal-report"
+                  clientId={id}
+                  projectName={project.name}
+                  projectDescription={project.description ?? null}
+                  initialTodos={todos}
+                  initialData={data}
+                  taskSummariesCache={taskSummariesCache}
+                  overviewWins={overviewWins}
+                  gscData={gscData}
+                  ga4Data={ga4Data}
+                  blData={blData}
+                />
               </div>
             )}
 
             {/* ── TAB: INTERNAL USE → PROJECT LOG (gated on task data) ─ */}
+            {/* Phase 5: ProjectLogTable moved into ClientTaskPanels for
+                the same reason as the Report sibling. */}
             {data && (
               <div>
-                {todos && todos.length > 0 ? (
-                  <ProjectLogTable todos={todos} />
-                ) : (
-                  <p className="py-12 text-center text-sm" style={{ color: "#666" }}>
-                    No task data synced yet.
-                  </p>
-                )}
+                <ClientTaskPanels
+                  section="internal-project-log"
+                  clientId={id}
+                  projectName={project.name}
+                  projectDescription={project.description ?? null}
+                  initialTodos={todos}
+                  initialData={data}
+                  taskSummariesCache={taskSummariesCache}
+                  overviewWins={overviewWins}
+                  gscData={gscData}
+                  ga4Data={ga4Data}
+                  blData={blData}
+                />
               </div>
             )}
 
@@ -664,113 +477,4 @@ export default async function ClientDashboard({ params }: PageProps) {
       </div>
     </div>
   );
-}
-
-/* ── SERVER SUB-COMPONENTS ──────────────────────────────────────── */
-
-function KpiCardServer({
-  value,
-  label,
-  accent = false,
-}: {
-  value: number | string;
-  label: string;
-  accent?: boolean;
-}) {
-  return (
-    <div
-      className="flex flex-col items-center justify-center rounded-sm px-4 py-6"
-      style={{ backgroundColor: "#111111" }}
-    >
-      <span
-        className="text-4xl font-bold"
-        style={{ color: accent ? "#c8a882" : "#ffffff" }}
-      >
-        {value}
-      </span>
-      <span
-        className="mt-2 text-[10px] tracking-widest uppercase"
-        style={{ color: "#888888" }}
-      >
-        {label}
-      </span>
-    </div>
-  );
-}
-
-function SectionHeader({ title }: { title: string }) {
-  return (
-    <>
-      <h2
-        className="text-lg font-bold tracking-wide"
-        style={{ color: "#ffffff" }}
-      >
-        {title}
-      </h2>
-      <div
-        className="mt-1 h-[2px] w-full"
-        style={{ backgroundColor: "#c8a882" }}
-      />
-    </>
-  );
-}
-
-function StatusBadgeInline({ completed }: { completed: boolean }) {
-  return (
-    <span
-      className="inline-block rounded-sm px-2 py-0.5 text-xs font-medium"
-      style={{
-        color: completed ? "#2d6a4f" : "#b08d57",
-        backgroundColor: completed
-          ? "rgba(45, 106, 79, 0.15)"
-          : "rgba(176, 141, 87, 0.15)",
-      }}
-    >
-      {completed ? "Done" : "Open"}
-    </span>
-  );
-}
-
-function Th({
-  children,
-  className = "",
-}: {
-  children: React.ReactNode;
-  className?: string;
-}) {
-  return (
-    <th
-      className={`px-3 py-2.5 text-xs font-semibold tracking-wide ${className}`}
-      style={{ color: "#f0ede8" }}
-    >
-      {children}
-    </th>
-  );
-}
-
-function Td({
-  children,
-  className = "",
-  dim = false,
-  style = {},
-}: {
-  children: React.ReactNode;
-  className?: string;
-  dim?: boolean;
-  style?: React.CSSProperties;
-}) {
-  return (
-    <td
-      className={`px-3 py-2.5 ${className}`}
-      style={{ color: dim ? "#888888" : undefined, ...style }}
-    >
-      {children}
-    </td>
-  );
-}
-
-function truncate(text: string, maxLen: number): string {
-  if (!text) return "";
-  if (text.length <= maxLen) return text;
-  return text.substring(0, maxLen - 3) + "...";
 }

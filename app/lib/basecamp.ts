@@ -383,6 +383,35 @@ export async function syncProject(
   return allTodos;
 }
 
+/** Sync a single client's todos end-to-end.
+ *
+ * Glue helper for the admin refresh route: resolves a fresh access
+ * token, fetches the project to read its dock, locates the todoset
+ * id, then defers to `syncProject` to walk the todolists.
+ *
+ * Throws on every failure mode so the caller can map errors to a
+ * 502 response:
+ *   - "not found"           — getProjectById returned null
+ *   - "no todoset in dock"  — findTodosetIdInDock returned null
+ *
+ * Returns the freshly-fetched FormattedTodo array; the caller is
+ * responsible for persisting it via commitClientData (or not).
+ */
+export async function syncOneClient(
+  projectId: string | number
+): Promise<FormattedTodo[]> {
+  const { accessToken } = await getValidAccessToken();
+  const project = await getProjectById(projectId, accessToken);
+  if (!project) {
+    throw new Error("not found");
+  }
+  const todosetId = findTodosetIdInDock(project);
+  if (todosetId === null) {
+    throw new Error("no todoset in dock");
+  }
+  return syncProject(projectId, todosetId, accessToken);
+}
+
 /** Get a valid access token, refreshing if needed */
 export async function getValidAccessToken(): Promise<{
   accessToken: string;

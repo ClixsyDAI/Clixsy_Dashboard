@@ -1,13 +1,16 @@
 /**
  * Helper to commit files to the GitHub repo via the GitHub REST API.
  * Used to persist projects.json updates from the GHL webhook receiver
- * and the admin client editor (both write through the same primitives
- * below), which triggers an automatic Vercel redeploy.
+ * and the admin client editor, plus per-client Basecamp todo snapshots
+ * via commitClientData. All writes go through the same primitives below,
+ * which triggers an automatic Vercel redeploy.
  *
  * Required env vars:
  *   GITHUB_TOKEN  - GitHub personal access token with repo scope
  *   GITHUB_REPO   - Full repo path, e.g. "JLcilliers/client-workbook-dashboard"
  */
+
+import type { FormattedTodo } from "@/app/lib/basecamp";
 
 const GITHUB_API = "https://api.github.com";
 
@@ -116,6 +119,24 @@ export async function commitFile(
     sha: data.content?.sha || "",
     url: data.content?.html_url || "",
   };
+}
+
+/** Commit a client's todo data as a JSON file.
+ *
+ * Writes app/data/clients/{projectId}.json containing the array of
+ * FormattedTodo entries for the given Basecamp project. The poller
+ * and admin sync paths both call this after fetching todos, so the
+ * committed snapshot becomes the source of truth for /client/[id]
+ * once Vercel redeploys.
+ */
+export async function commitClientData(
+  projectId: string | number,
+  todos: FormattedTodo[]
+): Promise<void> {
+  const path = `app/data/clients/${projectId}.json`;
+  const content = JSON.stringify(todos, null, 2);
+  const message = `sync: update client data for project ${projectId}`;
+  await commitFile(path, content, message);
 }
 
 /** Commit the projects.json manifest.

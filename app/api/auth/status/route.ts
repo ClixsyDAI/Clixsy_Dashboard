@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { getValidAccessToken, refreshAccessToken } from "@/app/lib/basecamp";
+import { getValidAccessToken } from "@/app/lib/basecamp";
 import { storeBasecampTokens } from "@/app/lib/vercel-env";
 
 export const runtime = "nodejs";
