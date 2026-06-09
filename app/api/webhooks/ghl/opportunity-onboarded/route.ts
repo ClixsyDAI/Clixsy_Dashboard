@@ -36,7 +36,7 @@ import {
 
 export const runtime = "nodejs";
 
-const ONBOARDING_BASE_URL = "https://client-onboarding-tool.vercel.app";
+const ONBOARDING_BASE_URL = "https://welcome.clixsy.com";
 
 // Pipeline-to-vertical mapping. Anything unmapped becomes "other"
 // and a warning is logged — the new entry still gets written so

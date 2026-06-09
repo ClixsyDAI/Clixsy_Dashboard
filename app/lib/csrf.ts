@@ -25,17 +25,19 @@
 // =============================================================
 //
 // Production canonical URL:
-//   https://client-workbook-dashboard.vercel.app
+//   https://workbook.clixsy.com
+// Vercel domain:
+//   https://clixsy-dashboard.vercel.app
 // Project alias:
-//   https://client-workbook-dashboard-quickrank-projects.vercel.app
+//   https://clixsy-dashboard-clixsys-projects.vercel.app
 // Per-deployment + branch URLs (preview):
-//   https://client-workbook-dashboard-<slug>-quickrank-projects.vercel.app
+//   https://clixsy-dashboard-<slug>-clixsys-projects.vercel.app
 // Local dev (NODE_ENV !== 'production'):
 //   http://localhost:3000
 //   http://localhost:3001
 //
 // The regex below matches any Vercel preview URL under the
-// quickrank-projects team scope. This is intentional — preview
+// clixsys-projects team scope. This is intentional — preview
 // URLs are deliberately at the project's discretion, and CSRF
 // from one preview to another is not a relevant threat model
 // (they're all under the same Vercel project = same code).
@@ -45,12 +47,13 @@
 import type { NextRequest } from "next/server";
 
 const PRODUCTION_ORIGINS = new Set<string>([
-  "https://client-workbook-dashboard.vercel.app",
-  "https://client-workbook-dashboard-quickrank-projects.vercel.app",
+  "https://workbook.clixsy.com",
+  "https://clixsy-dashboard.vercel.app",
+  "https://clixsy-dashboard-clixsys-projects.vercel.app",
 ]);
 
 const PREVIEW_ORIGIN_PATTERN =
-  /^https:\/\/client-workbook-dashboard-[a-z0-9-]+-quickrank-projects\.vercel\.app$/;
+  /^https:\/\/clixsy-dashboard-[a-z0-9-]+-clixsys-projects\.vercel\.app$/;
 
 const DEV_ORIGINS = new Set<string>([
   "http://localhost:3000",

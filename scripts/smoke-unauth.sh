@@ -39,7 +39,7 @@ if [ $# -lt 1 ]; then
 fi
 
 BASE="$1"
-ORIGIN="https://client-workbook-dashboard.vercel.app"
+ORIGIN="https://workbook.clixsy.com"
 DUMMY_EMAIL="test%2Bprd-d1-smoke%40clixsy.com"
 DUMMY_UUID="00000000-0000-0000-0000-000000000000"
 
