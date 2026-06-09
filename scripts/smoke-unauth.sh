@@ -39,7 +39,10 @@ if [ $# -lt 1 ]; then
 fi
 
 BASE="$1"
-ORIGIN="https://workbook.clixsy.com"
+# Origin header mirrors the URL being smoked, so the script exercises CSRF
+# the way real traffic would. BASE is the canonical live URL for whichever
+# environment is under test (vercel.app prod, custom domain, or a preview).
+ORIGIN="${2:-$BASE}"
 DUMMY_EMAIL="test%2Bprd-d1-smoke%40clixsy.com"
 DUMMY_UUID="00000000-0000-0000-0000-000000000000"
 
