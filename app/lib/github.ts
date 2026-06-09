@@ -7,7 +7,7 @@
  *
  * Required env vars:
  *   GITHUB_TOKEN  - GitHub personal access token with repo scope
- *   GITHUB_REPO   - Full repo path, e.g. "JLcilliers/client-workbook-dashboard"
+ *   GITHUB_REPO   - Full repo path, e.g. "ClixsyDAI/Clixsy_Dashboard"
  */
 
 import type { FormattedTodo } from "@/app/lib/basecamp";
@@ -28,7 +28,7 @@ function getHeaders(): HeadersInit {
 }
 
 function getRepo(): string {
-  return process.env.GITHUB_REPO || "JLcilliers/client-workbook-dashboard";
+  return process.env.GITHUB_REPO || "ClixsyDAI/Clixsy_Dashboard";
 }
 
 interface GitHubFileResponse {
