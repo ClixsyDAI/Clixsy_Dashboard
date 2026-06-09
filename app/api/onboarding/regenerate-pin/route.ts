@@ -35,7 +35,7 @@ import { getSupabaseServerClient } from "../../../lib/supabase-server";
 import { requireRole } from "../../../lib/require-role";
 import { logAuthAudit } from "../../../lib/auth-audit";
 
-const ONBOARDING_BASE_URL = "https://welcome.clixsy.com";
+const ONBOARDING_BASE_URL = "https://clixsy-onboarding.vercel.app";
 
 const RequestBodySchema = z.object({
   session_id: z.string().uuid(),

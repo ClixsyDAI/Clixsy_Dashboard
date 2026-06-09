@@ -18,7 +18,7 @@
  * components; phase 6.5 deduped into get-primary-contact; phase 8
  * proper hoists again now that get-primary-contact no longer
  * builds the URL. */
-export const ONBOARDING_BASE_URL = "https://welcome.clixsy.com";
+export const ONBOARDING_BASE_URL = "https://clixsy-onboarding.vercel.app";
 
 /** Build the public-form resume URL from a session token. The
  * token must come from the dedicated /api/onboarding/sessions/[id]
