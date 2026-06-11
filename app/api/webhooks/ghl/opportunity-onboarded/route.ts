@@ -409,6 +409,15 @@ export async function POST(req: NextRequest) {
             websiteUrl: scanUrl,
             sessionId: onboardingBody.sessionId,
           }),
+          // Bound the wait so a slow/cold onboarding deploy can't hang
+          // this webhook to its function timeout and trip a 5xx — which
+          // would make GHL permanently drop an event whose session was
+          // ALREADY created above. The onboarding analyze route returns
+          // after a single record insert (scan runs in its own after()),
+          // so 8s is generous headroom; a timeout aborts only OUR wait,
+          // not the onboarding-side work, and the catch below downgrades
+          // it to the documented non-fatal warning.
+          signal: AbortSignal.timeout(8000),
         },
       );
       if (!scanRes.ok) {
