@@ -72,6 +72,7 @@ import { z } from "zod";
 import { getSupabaseServerClient } from "../../../../../lib/supabase-server";
 import { requireRole } from "../../../../../lib/require-role";
 import { logAuthAudit } from "../../../../../lib/auth-audit";
+import { ONBOARDING_BASE_URL } from "../../../../../lib/onboarding/onboarding-url";
 
 const ACTOR_LABEL = "Workbook (Admin)";
 
@@ -180,11 +181,53 @@ export async function POST(
     }
   });
 
-  // 6. Respond with the token. Cache-Control: no-store — the
-  //    response contains a credential; do not cache anywhere
-  //    (browser, CDN, Vercel edge).
+  // 6. View form opens the form the way an AM should see it: PIN
+  //    waived, welcome wizard suppressed, zero tracking rows (E2E
+  //    finding F3, 2026-06-11 — previously this button opened the
+  //    plain client link, hit the PIN gate, and burned a tracked
+  //    open in the very Open History the bypass keeps clean). The
+  //    signature is HMAC'd with a secret only the onboarding deploy
+  //    holds, so it's fetched cross-repo (same bearer pattern as
+  //    regenerate-pin). Failure degrades gracefully: token-only
+  //    response → View form opens the plain link → PIN gate, which
+  //    is the pre-F3 behaviour, not an outage. Copy link NEVER gets
+  //    the signature — that link is sent to clients.
+  let amSignature: string | undefined;
+  if (source === "view_form") {
+    const bearer = process.env.SHARED_INTEGRATION_BEARER_TOKEN;
+    if (!bearer) {
+      console.warn("[sessions/token] SHARED_INTEGRATION_BEARER_TOKEN unset — View form falls back to the plain link");
+    } else {
+      try {
+        const res = await fetch(
+          `${ONBOARDING_BASE_URL}/api/admin/onboarding/sessions/${sessionId}/am-link`,
+          {
+            method: "POST",
+            headers: { Authorization: `Bearer ${bearer}` },
+            // Bound the wait so a slow onboarding deploy can't hang the
+            // click past usefulness — fall back to the plain link instead.
+            signal: AbortSignal.timeout(8000),
+          },
+        );
+        if (res.ok) {
+          const body = (await res.json()) as { amSignature?: string };
+          if (typeof body.amSignature === "string" && body.amSignature) {
+            amSignature = body.amSignature;
+          }
+        } else {
+          console.warn(`[sessions/token] am-link fetch returned ${res.status} — View form falls back to the plain link`);
+        }
+      } catch (err) {
+        console.warn("[sessions/token] am-link fetch failed — View form falls back to the plain link:", err);
+      }
+    }
+  }
+
+  // 7. Respond with the token (and, for view_form, the AM-bypass
+  //    signature). Cache-Control: no-store — the response contains
+  //    credentials; do not cache anywhere (browser, CDN, Vercel edge).
   return NextResponse.json(
-    { token: session.token },
+    { token: session.token, ...(amSignature ? { amSignature } : {}) },
     {
       status: 200,
       headers: { "Cache-Control": "no-store" },
