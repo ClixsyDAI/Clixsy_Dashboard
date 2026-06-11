@@ -156,3 +156,62 @@ test("valid payload with assigned_to as contact name (scenario e) → ok=true, n
   assert.equal(body.ok, true);
   assert.equal(body.assigned_to_normalized, null);
 });
+
+// ── Website normalization + URL-shape guard (auto-prefill) ──────
+//
+// Regression guard for the latent bug this feature surfaced:
+// normalizeGhlNullable() nulled every real website. normalizeWebsite()
+// passes URLs through; isLikelyUrl() then decides whether the value is
+// scan-worthy (drives both the create seed and the auto-scan trigger).
+
+test("website_url as real URL → normalized + scan_url both the URL", async () => {
+  const { status, body } = await postAndParse({
+    ...BASE_PAYLOAD,
+    website_url: "https://midwestexpressclinic.com",
+  });
+  assert.equal(status, 200);
+  assert.equal(body.ok, true);
+  assert.equal(body.website_url_normalized, "https://midwestexpressclinic.com");
+  assert.equal(body.website_scan_url, "https://midwestexpressclinic.com");
+});
+
+test("website_url as bare host (no scheme) → still URL-shaped, scan_url set", async () => {
+  const { status, body } = await postAndParse({
+    ...BASE_PAYLOAD,
+    website_url: "example.org",
+  });
+  assert.equal(status, 200);
+  assert.equal(body.website_url_normalized, "example.org");
+  assert.equal(body.website_scan_url, "example.org");
+});
+
+test("website_url empty string → normalized=null, scan_url=null", async () => {
+  const { status, body } = await postAndParse({
+    ...BASE_PAYLOAD,
+    website_url: "",
+  });
+  assert.equal(status, 200);
+  assert.equal(body.website_url_normalized, null);
+  assert.equal(body.website_scan_url, null);
+});
+
+test("website_url literal 'null' → normalized=null, scan_url=null", async () => {
+  const { status, body } = await postAndParse({
+    ...BASE_PAYLOAD,
+    website_url: "null",
+  });
+  assert.equal(status, 200);
+  assert.equal(body.website_url_normalized, null);
+  assert.equal(body.website_scan_url, null);
+});
+
+test("website_url junk 'N/A' → normalized kept, scan_url=null (no scan burned)", async () => {
+  const { status, body } = await postAndParse({
+    ...BASE_PAYLOAD,
+    website_url: "N/A",
+  });
+  assert.equal(status, 200);
+  assert.equal(body.website_url_normalized, "N/A");
+  // "N/A" has no dotted host → not URL-shaped → never triggers a scan.
+  assert.equal(body.website_scan_url, null);
+});
