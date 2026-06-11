@@ -354,7 +354,15 @@ function computeSubLabel(step: PipelineStepState): string | null {
       // open-events emission). Show a different copy in that case
       // rather than "0 visits · view log" which reads awkwardly.
       if (count === 0) return "No visits logged yet";
-      return `${count} visit${count === 1 ? "" : "s"} · view log`;
+      // Open-summary feature (2026-06-11): surface the LAST real-client
+      // open next to the count — engagement at a glance, no modal click
+      // needed. AM-bypass opens are excluded at the source (never
+      // written to onboarding_open_events), so both numbers are genuine
+      // client activity. The full visit list stays one click away.
+      const visits = `${count} visit${count === 1 ? "" : "s"}`;
+      return step.subLabelTimestamp
+        ? `${visits} · last ${formatStepDate(step.subLabelTimestamp)}`
+        : `${visits} · view log`;
     }
     case 3:
       return step.subLabelTimestamp ? formatStepDate(step.subLabelTimestamp) : null;

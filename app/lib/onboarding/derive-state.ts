@@ -101,8 +101,15 @@ export function derivePipelineState(args: {
   answers: OnboardingAnswerRow[];
   accessChecklist: AccessChecklistView;
   openEventsCount: number;
+  /**
+   * opened_at of the most recent open event (real-client opens only —
+   * AM-bypass opens are never written to onboarding_open_events).
+   * Drives Step 2's sub-label timestamp so the tab shows engagement
+   * at a glance instead of burying it in the Open History modal.
+   */
+  lastOpenedAt?: string;
 }): PipelineState {
-  const { session, answers, accessChecklist, openEventsCount } = args;
+  const { session, answers, accessChecklist, openEventsCount, lastOpenedAt } = args;
 
   const effective = deriveEffective(session.status, accessChecklist);
   const headerLabel = headerLabelFor(effective);
@@ -115,7 +122,7 @@ export function derivePipelineState(args: {
 
   const steps: PipelineStepState[] = [
     buildStep1(session, effective),
-    buildStep2(effective, openEventsCount),
+    buildStep2(effective, openEventsCount, lastOpenedAt),
     buildStep3(effective, session.current_step, firstSavedAt),
     buildStep4(session, effective),
     buildStep5(effective, accessChecklist),
@@ -196,6 +203,7 @@ function buildStep1(
 function buildStep2(
   effective: EffectiveSessionState,
   openEventsCount: number,
+  lastOpenedAt?: string,
 ): PipelineStepState {
   // Step 2 is `done` whenever the session has moved past the
   // initial creation. The open-events count is a separate display
@@ -206,6 +214,10 @@ function buildStep2(
     index: 2,
     state,
     metaCount: openEventsCount,
+    // Last real-client open. Step 2 was the only step without its
+    // timestamp — open history was invisible on the tab unless you
+    // knew to click through to the modal.
+    subLabelTimestamp: lastOpenedAt,
     clickable: true,
   };
 }
