@@ -63,12 +63,17 @@ export default function ActionBarLinkRow({
   const showCopied =
     copyState.kind === "success" && Date.now() - copyState.at < 1400;
 
-  // Fetch the token from the dedicated endpoint. Returns the URL
-  // on success, throws on failure (with a server-provided message
-  // when possible). Each call writes one audit row server-side.
-  // 401 is handled by useAdminAuth — the sign-in modal pops and
-  // the call retries after the user signs in.
-  const fetchOnboardingUrl = async (source: string): Promise<string> => {
+  // Fetch the token from the dedicated endpoint. Returns the plain
+  // client URL plus — for view_form — the AM-bypass signature the
+  // server attaches (E2E finding F3: View form must open as the AM
+  // sees it, not hit the client's PIN gate). Throws on failure
+  // (with a server-provided message when possible). Each call
+  // writes one audit row server-side. 401 is handled by
+  // useAdminAuth — the sign-in modal pops and the call retries
+  // after the user signs in.
+  const fetchOnboardingUrl = async (
+    source: string,
+  ): Promise<{ url: string; amSignature?: string }> => {
     const res = await fetchWithAuth(
       `/api/onboarding/sessions/${sessionId}/token`,
       {
@@ -84,14 +89,19 @@ export default function ActionBarLinkRow({
           `Request failed: ${res.status} ${res.statusText}`,
       );
     }
-    const { token } = (await res.json()) as { token: string };
-    return buildOnboardingUrl(token);
+    const { token, amSignature } = (await res.json()) as {
+      token: string;
+      amSignature?: string;
+    };
+    return { url: buildOnboardingUrl(token), amSignature };
   };
 
   const handleCopy = async () => {
     setCopyState({ kind: "loading" });
     try {
-      const url = await fetchOnboardingUrl(SOURCE_COPY);
+      // Copy ALWAYS gets the plain client link — this is what gets
+      // sent to clients; the AM signature must never ride along.
+      const { url } = await fetchOnboardingUrl(SOURCE_COPY);
       setDisplayUrl(url);
       if (navigator.clipboard?.writeText) {
         await navigator.clipboard.writeText(url);
@@ -125,10 +135,17 @@ export default function ActionBarLinkRow({
   const handleView = async () => {
     setViewState({ kind: "loading" });
     try {
-      const url = await fetchOnboardingUrl(SOURCE_VIEW);
+      const { url, amSignature } = await fetchOnboardingUrl(SOURCE_VIEW);
+      // With the signature, View form opens in AM-bypass mode: no
+      // PIN, no welcome wizard, zero tracking rows. Without it (the
+      // server's cross-repo fetch degraded) the plain link opens and
+      // the AM sees the PIN gate — pre-F3 behaviour, not an outage.
+      const viewUrl = amSignature
+        ? `${url}?am=${encodeURIComponent(amSignature)}`
+        : url;
       // window.open with noopener for safety. If the popup is
       // blocked this returns null — handle gracefully.
-      const opened = window.open(url, "_blank", "noopener,noreferrer");
+      const opened = window.open(viewUrl, "_blank", "noopener,noreferrer");
       if (!opened) {
         throw new Error("Popup blocked. Allow popups for this site to View form.");
       }
@@ -211,6 +228,7 @@ export default function ActionBarLinkRow({
           onClick={handleView}
           disabled={viewState.kind === "loading"}
           style={linkButtonStyle("ghost")}
+          title="Opens as AM: no PIN, welcome popups suppressed, tracking off. Don't send this view's URL to clients — use Copy link."
         >
           <ExternalLink />
           {viewState.kind === "loading" ? "Fetching…" : "View form"}
