@@ -24,9 +24,10 @@
 // Allowlist construction
 // =============================================================
 //
-// Production canonical URL:
-//   https://workbook.clixsy.com
-// Vercel domain:
+// Production canonical URL (live since the 2026-06 custom-domain cutover):
+//   https://workbooks.clixsy.co
+// Vercel domain (now 308-redirects to the canonical URL above, so every
+// same-origin POST on the live site carries Origin: workbooks.clixsy.co):
 //   https://clixsy-dashboard.vercel.app
 // Project alias:
 //   https://clixsy-dashboard-clixsys-projects.vercel.app
@@ -47,6 +48,16 @@
 import type { NextRequest } from "next/server";
 
 const PRODUCTION_ORIGINS = new Set<string>([
+  // Live canonical custom domain (2026-06 cutover). The workbook is served
+  // here and vercel.app now 308-redirects to it, so every same-origin
+  // mutation carries Origin: https://workbooks.clixsy.co. Omitting it 403s
+  // (origin_rejected) every POST/PUT/PATCH/DELETE from the live site —
+  // regenerate PIN, send reminder, basecamp refresh, user management,
+  // invite accept.
+  "https://workbooks.clixsy.co",
+  // Earlier placeholder name from before the domain was chosen. No such
+  // host is configured; kept only so an old bookmark can't be a surprise
+  // 403. Safe to remove once confirmed dead.
   "https://workbook.clixsy.com",
   "https://clixsy-dashboard.vercel.app",
   "https://clixsy-dashboard-clixsys-projects.vercel.app",
