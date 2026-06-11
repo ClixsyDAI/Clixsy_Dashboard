@@ -342,6 +342,11 @@ export async function getOnboardingByWorkbookId(
     answers,
     accessChecklist,
     openEventsCount,
+    // openEvents is newest-first (5b orders opened_at DESC), so [0]
+    // is the most recent real-client open. AM-bypass opens never
+    // reach onboarding_open_events (suppressed at the source), so
+    // this is genuine client engagement by construction.
+    lastOpenedAt: openEvents[0]?.opened_at ?? undefined,
   });
   // Phase 4: project the 12-section accordion view from the same
   // answers rows. Pure function — no extra round-trip.
