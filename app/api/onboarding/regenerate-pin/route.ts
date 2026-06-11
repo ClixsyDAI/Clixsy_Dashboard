@@ -35,7 +35,12 @@ import { getSupabaseServerClient } from "../../../lib/supabase-server";
 import { requireRole } from "../../../lib/require-role";
 import { logAuthAudit } from "../../../lib/auth-audit";
 
-const ONBOARDING_BASE_URL = "https://clixsy-onboarding.vercel.app";
+// Canonical onboarding origin — see app/lib/onboarding/onboarding-url.ts
+// for the custom-domain default + env override + the cross-origin
+// redirect bearer-strip hazard this avoids. Local const (not an import)
+// keeps this bearer-authed route free of extra module coupling.
+const ONBOARDING_BASE_URL =
+  process.env.ONBOARDING_BASE_URL ?? "https://welcome.clixsy.com";
 
 const RequestBodySchema = z.object({
   session_id: z.string().uuid(),

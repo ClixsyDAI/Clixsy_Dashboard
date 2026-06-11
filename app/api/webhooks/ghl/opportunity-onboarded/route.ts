@@ -36,7 +36,13 @@ import {
 
 export const runtime = "nodejs";
 
-const ONBOARDING_BASE_URL = "https://clixsy-onboarding.vercel.app";
+// Canonical onboarding origin — see app/lib/onboarding/onboarding-url.ts.
+// This route's create + analyze calls are bearer-authed, so they MUST
+// target the canonical domain directly: a cross-origin redirect would
+// strip the Authorization header and 401 the create (breaking the whole
+// GHL→onboarding chain). Env-overridable; defaults to the custom domain.
+const ONBOARDING_BASE_URL =
+  process.env.ONBOARDING_BASE_URL ?? "https://welcome.clixsy.com";
 
 // Pipeline-to-vertical mapping. Anything unmapped becomes "other"
 // and a warning is logged — the new entry still gets written so
