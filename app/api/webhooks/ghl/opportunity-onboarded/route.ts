@@ -65,6 +65,45 @@ function normalizeGhlNullable(value: string | null | undefined): string | null {
   return null;
 }
 
+// Website normalization. NOTE: normalizeGhlNullable() above is tuned for
+// 20-char GHL *ids* (assigned_to) — its `/^[A-Za-z0-9]{20}$/` branch
+// nulls anything that isn't a 20-char id, which means it silently
+// dropped EVERY real website URL. (Latent bug surfaced by the
+// auto-prefill feature: the manifest's website_url was always null.)
+// Websites need their own normalizer: coerce GHL's empty/"null" filler
+// to JS null, otherwise pass the trimmed value through.
+function normalizeWebsite(value: string | null | undefined): string | null {
+  if (value === undefined || value === null) return null;
+  const trimmed = value.trim();
+  if (trimmed === "" || trimmed.toLowerCase() === "null") return null;
+  return trimmed;
+}
+
+// Structural URL guard. Behaviourally identical to the onboarding repo's
+// src/lib/onboarding/url-shape.ts (the two repos share no package — keep
+// them in sync by hand). Gates the auto-prefill seed + auto-scan so junk
+// GHL filler ("N/A", "tbd", a bare word) never seeds the onboarding form
+// field or burns a Firecrawl/PageSpeed scan. NOT a reachability check.
+function isLikelyUrl(value: string | null | undefined): boolean {
+  if (!value || typeof value !== "string") return false;
+  let candidate = value.trim();
+  if (!candidate) return false;
+  if (!/^https?:\/\//i.test(candidate)) candidate = "https://" + candidate;
+  let url: URL;
+  try {
+    url = new URL(candidate);
+  } catch {
+    return false;
+  }
+  if (url.protocol !== "http:" && url.protocol !== "https:") return false;
+  const host = url.hostname;
+  if (!host.includes(".")) return false;
+  const labels = host.split(".");
+  if (labels.some((label) => label.length === 0)) return false;
+  if (labels[labels.length - 1].length < 2) return false;
+  return true;
+}
+
 // GHL custom-webhook payload schema. Field names mirror the workflow
 // Custom Action body. "assigned_to" arrives as either a 20-char GHL
 // user id or the literal string "null" when no AM is set — see the
@@ -163,7 +202,17 @@ export async function POST(req: NextRequest) {
   if (assignedTo === null) {
     console.log(`[ghl-webhook] assigned_to_unassigned opp=${payload.opportunity_id} raw=${JSON.stringify(payload.assigned_to)}`);
   }
-  const websiteUrl = normalizeGhlNullable(payload.website_url);
+  // Website: normalize GHL filler to null, then keep only a value that
+  // is actually URL-shaped (scanUrl). scanUrl drives BOTH the onboarding
+  // create seed and the auto-scan trigger; storing it on the manifest
+  // too keeps the project card consistent with what we forwarded.
+  const websiteUrl = normalizeWebsite(payload.website_url);
+  const scanUrl = isLikelyUrl(websiteUrl) ? websiteUrl : null;
+  if (websiteUrl && !scanUrl) {
+    console.log(
+      `[ghl-webhook] website_not_url_shaped opp=${payload.opportunity_id} raw=${JSON.stringify(payload.website_url)} — skipping seed + auto-scan`,
+    );
+  }
 
   const newProject: Project = {
     id: payload.opportunity_id,
@@ -173,7 +222,7 @@ export async function POST(req: NextRequest) {
     vertical,
     ghl_contact_id: payload.contact_id,
     am_ghl_user_id: assignedTo,
-    website_url: websiteUrl,
+    website_url: scanUrl,
   };
 
   // Test-mode short-circuit: used by this route's own unit tests to
@@ -188,6 +237,8 @@ export async function POST(req: NextRequest) {
       manifest_blob_sha: "TEST_MODE_NO_COMMIT",
       supabase_session_id: "TEST_MODE_NO_SESSION",
       assigned_to_normalized: assignedTo,
+      website_url_normalized: websiteUrl,
+      website_scan_url: scanUrl,
       test_mode: true,
     });
   }
@@ -264,6 +315,12 @@ export async function POST(req: NextRequest) {
           accountManager: "Auto-created (unassigned)",
           vertical,
           workbookId: payload.opportunity_id,
+          // Auto-prefill (page-1 item #1): forward the website so the
+          // onboarding create endpoint seeds the step-1 website field.
+          // `?? undefined` omits the key (JSON.stringify drops undefined)
+          // when there's no URL-shaped value, leaving create's behaviour
+          // unchanged for those rows.
+          websiteUrl: scanUrl ?? undefined,
         }),
       },
     );
@@ -326,6 +383,61 @@ export async function POST(req: NextRequest) {
     token?: string;
     pin?: string;
   };
+
+  // ── Auto-scan trigger (page-1 item #1) ──────────────────────
+  // Kick off the site-intelligence scan so the onboarding form is
+  // pre-filled before the client/AM opens it. Same endpoint the admin
+  // /new panel uses; the onboarding side creates the scan record, runs
+  // it in its own after() (maxDuration=300), and auto-links it to the
+  // session on completion — this call returns fast (record-create only),
+  // so the webhook never blocks on the scan. Gated on scanUrl (URL-shape
+  // checked above) so junk never burns a scan, and on a fresh create
+  // (the 409 "already exists" path returns earlier, so a re-fired
+  // webhook won't double-trigger). Non-fatal: a failed trigger just
+  // leaves the AM the manual "Analyze my site" button in the wizard.
+  if (scanUrl && onboardingBody.sessionId) {
+    try {
+      const scanRes = await fetch(
+        `${ONBOARDING_BASE_URL}/api/admin/site-intelligence/analyze`,
+        {
+          method: "POST",
+          headers: {
+            Authorization: `Bearer ${shared}`,
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+            websiteUrl: scanUrl,
+            sessionId: onboardingBody.sessionId,
+          }),
+          // Bound the wait so a slow/cold onboarding deploy can't hang
+          // this webhook to its function timeout and trip a 5xx — which
+          // would make GHL permanently drop an event whose session was
+          // ALREADY created above. The onboarding analyze route returns
+          // after a single record insert (scan runs in its own after()),
+          // so 8s is generous headroom; a timeout aborts only OUR wait,
+          // not the onboarding-side work, and the catch below downgrades
+          // it to the documented non-fatal warning.
+          signal: AbortSignal.timeout(8000),
+        },
+      );
+      if (!scanRes.ok) {
+        let scanErr = "";
+        try {
+          scanErr = await scanRes.text();
+        } catch {
+          /* swallow */
+        }
+        console.warn(
+          `[ghl-webhook] auto_scan_trigger_failed status=${scanRes.status} opp=${payload.opportunity_id} body=${scanErr}`,
+        );
+      }
+    } catch (err) {
+      const message = err instanceof Error ? err.message : String(err);
+      console.warn(
+        `[ghl-webhook] auto_scan_trigger_failed network opp=${payload.opportunity_id} error=${message}`,
+      );
+    }
+  }
 
   logResult("ok", payload.opportunity_id, "created", start);
   return Response.json({
