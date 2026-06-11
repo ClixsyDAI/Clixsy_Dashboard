@@ -65,14 +65,15 @@ function normalizeGhlNullable(value: string | null | undefined): string | null {
   return null;
 }
 
-// Website normalization. NOTE: normalizeGhlNullable() above is tuned for
-// 20-char GHL *ids* (assigned_to) — its `/^[A-Za-z0-9]{20}$/` branch
-// nulls anything that isn't a 20-char id, which means it silently
-// dropped EVERY real website URL. (Latent bug surfaced by the
-// auto-prefill feature: the manifest's website_url was always null.)
-// Websites need their own normalizer: coerce GHL's empty/"null" filler
-// to JS null, otherwise pass the trimmed value through.
-function normalizeWebsite(value: string | null | undefined): string | null {
+// Generic GHL text normalization (website + contact fields). NOTE:
+// normalizeGhlNullable() above is tuned for 20-char GHL *ids*
+// (assigned_to) — its `/^[A-Za-z0-9]{20}$/` branch nulls anything that
+// isn't a 20-char id, which means it silently dropped EVERY real
+// website URL. (Latent bug surfaced by the auto-prefill feature: the
+// manifest's website_url was always null.) Free-text fields need this
+// normalizer instead: coerce GHL's empty/"null" templating filler to
+// JS null, otherwise pass the trimmed value through.
+function normalizeGhlText(value: string | null | undefined): string | null {
   if (value === undefined || value === null) return null;
   const trimmed = value.trim();
   if (trimmed === "" || trimmed.toLowerCase() === "null") return null;
@@ -206,13 +207,27 @@ export async function POST(req: NextRequest) {
   // is actually URL-shaped (scanUrl). scanUrl drives BOTH the onboarding
   // create seed and the auto-scan trigger; storing it on the manifest
   // too keeps the project card consistent with what we forwarded.
-  const websiteUrl = normalizeWebsite(payload.website_url);
+  const websiteUrl = normalizeGhlText(payload.website_url);
   const scanUrl = isLikelyUrl(websiteUrl) ? websiteUrl : null;
   if (websiteUrl && !scanUrl) {
     console.log(
       `[ghl-webhook] website_not_url_shaped opp=${payload.opportunity_id} raw=${JSON.stringify(payload.website_url)} — skipping seed + auto-scan`,
     );
   }
+
+  // Contact fields (contact-seeding follow-up): same filler-coercion.
+  // Name halves are coerced independently — a real contact with a
+  // "null" last name happens — then joined. Email/phone forwarded
+  // as-is after coercion: GHL validates email shape at contact
+  // creation, and the onboarding side guards again before seeding the
+  // z.email-validated form field.
+  const contactNameParts = [
+    normalizeGhlText(payload.contact_first_name),
+    normalizeGhlText(payload.contact_last_name),
+  ].filter((p): p is string => p !== null);
+  const contactName = contactNameParts.length > 0 ? contactNameParts.join(" ") : null;
+  const contactEmail = normalizeGhlText(payload.contact_email);
+  const contactPhone = normalizeGhlText(payload.contact_phone);
 
   const newProject: Project = {
     id: payload.opportunity_id,
@@ -239,6 +254,9 @@ export async function POST(req: NextRequest) {
       assigned_to_normalized: assignedTo,
       website_url_normalized: websiteUrl,
       website_scan_url: scanUrl,
+      contact_name_normalized: contactName,
+      contact_email_normalized: contactEmail,
+      contact_phone_normalized: contactPhone,
       test_mode: true,
     });
   }
@@ -321,6 +339,15 @@ export async function POST(req: NextRequest) {
           // when there's no URL-shaped value, leaving create's behaviour
           // unchanged for those rows.
           websiteUrl: scanUrl ?? undefined,
+          // Contact-seeding follow-up: create writes contactName/
+          // contactEmail to clients.primary_contact_* today (fixes the
+          // always-null columns for webhook-created clients, and powers
+          // the wizard greeting); the step-1 answer seeding lands with
+          // the onboarding-side PR. contactPhone is stripped by create's
+          // Zod schema until that PR adds it — harmless to send now.
+          contactName: contactName ?? undefined,
+          contactEmail: contactEmail ?? undefined,
+          contactPhone: contactPhone ?? undefined,
         }),
       },
     );

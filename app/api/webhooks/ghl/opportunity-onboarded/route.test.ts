@@ -215,3 +215,55 @@ test("website_url junk 'N/A' → normalized kept, scan_url=null (no scan burned)
   // "N/A" has no dotted host → not URL-shaped → never triggers a scan.
   assert.equal(body.website_scan_url, null);
 });
+
+// ── Contact-field normalization (contact-seeding follow-up) ─────
+//
+// The webhook forwards contactName (first+last joined), contactEmail,
+// contactPhone to onboarding create, each filler-coerced the same way
+// as website_url. Name halves coerce independently — GHL sends the
+// literal "null" for whichever half is unset.
+
+test("full contact → name joined, email/phone passed through", async () => {
+  const { status, body } = await postAndParse({
+    ...BASE_PAYLOAD,
+    contact_first_name: "Jane",
+    contact_last_name: "Doe",
+    contact_email: "jane@example.com",
+    contact_phone: "+27821234567",
+  });
+  assert.equal(status, 200);
+  assert.equal(body.contact_name_normalized, "Jane Doe");
+  assert.equal(body.contact_email_normalized, "jane@example.com");
+  assert.equal(body.contact_phone_normalized, "+27821234567");
+});
+
+test("contact last name literal 'null' → name is first half only", async () => {
+  const { status, body } = await postAndParse({
+    ...BASE_PAYLOAD,
+    contact_first_name: "Cher",
+    contact_last_name: "null",
+  });
+  assert.equal(status, 200);
+  assert.equal(body.contact_name_normalized, "Cher");
+});
+
+test("contact email/phone empty or 'null' → both normalized to null", async () => {
+  const { status, body } = await postAndParse({
+    ...BASE_PAYLOAD,
+    contact_email: "",
+    contact_phone: "null",
+  });
+  assert.equal(status, 200);
+  assert.equal(body.contact_email_normalized, null);
+  assert.equal(body.contact_phone_normalized, null);
+});
+
+test("both name halves filler → contact_name_normalized=null", async () => {
+  const { status, body } = await postAndParse({
+    ...BASE_PAYLOAD,
+    contact_first_name: "",
+    contact_last_name: "null",
+  });
+  assert.equal(status, 200);
+  assert.equal(body.contact_name_normalized, null);
+});
